@@ -1,0 +1,1047 @@
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF WISCONSIN
+
+BRENDA KOEHLER,
+KELLY PARKER,
+LAYLA BOLTEN,
+&
+GREGORY HANDLOSER
+Plaintiffs,
+v.
+INFOSYS TECHNOLOGIES LIMITED
+INC., and INFOSYS PUBLIC SERVICES,
+INC.
+Defendants.
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+Civil Action No. 2:13-cv-885
+
+Trial by jury demanded.
+
+MEMORANDUM OF LAW IN SUPPORT OF
+PLAINTIFFS’ MOTION FOR SANCTIONS AND TO COMPEL
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 1 of 31 Document 135
+
+TABLE OF CONTENTS
+
+TABLE OF CONTENTS ................................................................................................. ii
+TABLE OF AUTHORITIES .......................................................................................... iii
+I.
+
+BACKGROUND ....................................................................................................... 1
+
+A.
+
+Failure to Preserve and Collect Documents ............................................................................. 1
+
+B.
+
+Affirmative Action Materials ................................................................................................... 7
+
+C.
+
+Recent Efforts to Resolve Discovery and Sanctions Issues ................................................... 12
+
+II. LEGAL STANDARDS ........................................................................................... 12
+A.
+
+Sanctions for Failure to Preserve Evidence ........................................................................... 13
+
+B.
+
+Sanctions for Failure to Produce Documents......................................................................... 13
+
+C.
+
+Sanctions for Violating Rule 26 Disclosure Obligations ....................................................... 14
+
+III. ARGUMENT ........................................................................................................... 15
+A.
+
+Infosys Should Be Sanctioned for Failing to Preserve Documents. ...................................... 15
+1.
+
+Infosys Had a Duty to Preserve Relevant Custodians’ Documents................................... 15
+
+2.
+
+Infosys Breached Its Duty to Preserve .............................................................................. 17
+
+3.
+
+Infosys’ Failure to Preserve Has Harmed Plaintiffs ......................................................... 18
+
+4.
+
+Infosys’ Breach of Its Duty to Preserve Was Caused by Willfulness, Bad Faith, or Fault
+20
+
+5.
+B.
+
+IV.
+
+Appropriate Sanctions for Infosys’ Failure to Preserve ................................................... 21
+Infosys Should Be Sanctioned for Failing to Produce the PeopleFluent Documents ............ 23
+
+CONCLUSION ................................................................................................... 25
+
+ii
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 2 of 31 Document 135
+
+TABLE OF AUTHORITIES
+Cases
+Am. Fam. Mut. Ins. Co. v. Roth, No. 05 C 3839, 2009 U.S. Dist. LEXIS 32519 (N.D. Ill. Feb. 20,
+2009) ......................................................................................................................................... 18
+Cahill v. Dart, No. 13 C 361, 2016 U.S. Dist. LEXIS 169195 (N.D. Ill. Mar. 4, 2016) ....... passim
+Cahill v. Dart, No. 13-cv-361, 2016 U.S. Dist. LEXIS 166831 (N.D. Ill. Dec. 2, 2016) ............ 23
+Cannata v. Wyndham Worldwide Corp, No. 2:10–cv–00068, 2011 U.S. Dist. LEXIS 88977 (D.
+Nev. Aug. 10, 2011) .................................................................................................................. 22
+Cobell v. Babbit, 37 F. Supp. 2d 6 (D.D.C.1999) ......................................................................... 15
+Cohn v. Guaranteed Rate, Inc., 318 F.R.D. 350 (N.D. Ill. 2016) ........................................... 13, 16
+Danis v. USN Commc’ns, Inc., No. 98 C 7482, 2000 U.S. Dist. LEXIS 16900 (N.D. Ill. Oct. 20,
+2000) ................................................................................................................................... 15, 17
+David Mizer Enters., Inc. v. Nexstar Broad., Inc., No. 14-CV-2192, 2016 U.S. Dist. LEXIS 117076
+(C.D. Ill. Aug. 31, 2016) ..................................................................................................... 14, 23
+Dotson v. Bravo, 202 F.R.D. 559 (N.D. Ill. 2001) ........................................................................ 25
+FDIC v. Tekfen Const. & Installation Co., 847 F.2d 440 (7th Cir. 1988) .................................... 24
+Gray v. City of Columbus, No. IP98-1395, 2000 U.S. Dist. LEXIS 7207 (S.D. Ind. Jan. 31, 2000)
+................................................................................................................................................... 23
+Home Instead, Inc. v. Florance, No. 8:12CV264, 2013 U.S. Dist. LEXIS 163291 (D. Neb. Nov. 8,
+2013) ......................................................................................................................................... 22
+In re Delta/AirTran Baggage Fee Antitrust Litig., 846 F. Supp. 2d 1335 (N.D. Ga. 2012) ... 23, 24
+Johnson v. Nichols, No. 12 C 5325, 2013 U.S. Dist. LEXIS 113112 (N.D. Ill. Aug. 12, 2013) .. 21
+Jones v. Bremen High Sch., No. 08 C 3548, 2010 U.S. Dist. LEXIS 51312 (N.D. Ill May 25, 2010)
+iii
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 3 of 31 Document 135
+
+............................................................................................................................................ passim
+Kirgan v. FCA LLC, No. No. 10-1392, 2013 U.S. Dist. LEXIS 51747 (C.D. Ill. Apr. 10, 2013) 18
+Lava Trading, Inc. v. Hartford Fire Ins. Co., No. 03 Civ. 7073, 2005 U.S. Dist. LEXIS 2866
+(S.D.N.Y. Feb. 24, 2005) .......................................................................................................... 14
+Liberty Mut. Ins. Co. v. Ecowater Sys., Inc., No. 02 C 50415, 2004 U.S. Dist. LEXIS 8415 (N.D.
+Ill. May 11, 2004) ..................................................................................................................... 21
+Magnetar Techs. Corp. v. Six Flags Theme Park, Inc., 886 F. Supp. 2d 466 (D. Del. 2012) ...... 22
+Metro. Opera Ass’n, Inc. v. Local 100, Hotel Employees & Rest. Employees Int’l Union, 212
+F.R.D. 178 (S.D.N.Y. 2003) ..................................................................................................... 15
+Nationwide Agribusiness Ins. Co. v. Meller Poultry Equip., Inc., No. 12-C-1227, 2016 U.S. Dist.
+LEXIS 8289 (E.D. Wisc. Jan. 22, 2016) ................................................................................... 23
+Newill v. Campbell Transp. Co., No. 12-cv-1344, 2013 U.S. Dist. LEXIS 160903 (W.D. Pa. Nov.
+12, 2013) ................................................................................................................................... 16
+Northington v. H&M Int’l, No. 08-CV-6297, 2011 U.S. Dist. LEXIS 14366 (N.D. Ill. Jan. 12,
+2011) ................................................................................................................................... 20, 21
+Novelty, Inc. v. Mountain View Mktg., Inc., 265 F.R.D. 370 (S.D. Ind. 2009) ....................... 14, 16
+Pension Comm. of Univ. of Montreal Pension Plan v. Banc of Am. Sec., 685 F. Supp. 2d 456
+(S.D.N.Y. 2010) ........................................................................................................................ 17
+Plunk v. Vill. of Elwood, Ill., No. 07 C 88, 2009 U.S. Dist. LEXIS 42952 (N.D. Ill. May 20, 2009)
+....................................................................................................................................... 12, 17, 19
+Porche v. Oden, No. 02 C 7707, 2009 U.S. Dist. LEXIS 15640 (N.D. Ill. Feb. 27, 2009) .......... 20
+Rosenthal Collins Grp. LLC v. Trading Techs. Int’l, Inc., No. 05 C 4088, 2011 U.S. Dist. LEXIS
+17623 (N.D. Ill. Feb. 23, 2011)........................................................................................... 13, 24
+
+iv
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 4 of 31 Document 135
+
+SEC v. First Choice Mgt. Servs., Inc., 678 F.3d 538 (7th Cir. 2012) ........................................... 13
+Tate & Lyle Ams., LLC v. Glatt Air Techniques, Inc., No. 13–2037, 2014 U.S. Dist. LEXIS 184533
+(C.D. Ill. Aug. 4, 2014) ............................................................................................................. 22
+United Med. Supply Co. v. United States, 77 Fed. Cl. 257 (Fed. Cl. 2007).................................. 22
+United States ex rel. Barko v. Halliburton Co., 74 F. Supp. 3d 183 (D.D.C. 2014) .................... 22
+Wiginton v. Ellis, No. 02 C 6832, 2003 U.S. Dist. LEXIS 19128 (N.D. Ill. Oct. 24, 2003) .. 16, 21
+Zubulake v. UBS Warburg LLC, 229 F.R.D. 422 (S.D.N.Y. 2004)........................................ 16, 17
+Other Authorities
+41 C.F.R. § 60-2.1........................................................................................................................... 8
+Rules
+Fed. R. Civ. P. 26(g) ............................................................................................................... 14, 23
+Fed. R. Civ. P. 37(a) ..................................................................................................................... 14
+Fed. R. Civ. P. 37(c) ..................................................................................................................... 23
+Fed. R. Civ. P. 37(d) ..................................................................................................................... 13
+Fed. R. Civ. P. 37(e) ............................................................................................................... 13, 23
+Fed. R. Civ. P. 86 .......................................................................................................................... 13
+
+v
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 5 of 31 Document 135
+
+Infosys has failed to preserve and produce highly relevant materials in this case, including
+allowing the loss of all files from a key custodian responsible both for instructing Infosys’ Talent
+Acquisition department to favor Indians in recruiting and Plaintiff Handloser’s termination.
+Further, Infosys concealed the existence of, and withheld from discovery, its own affirmative
+action analyses that demonstrate systematic, company-wide discrimination. Plaintiffs have
+suffered significant prejudice as a result, and hereby move for sanctions. As discussed below, these
+sanctions should include: (1) the ability to take additional discovery concerning Infosys’ document
+preservation, collection, and production of documents in this case in order to present to the jury
+Infosys’ failure to preserve evidence, (2) the ability to take additional discovery regarding Infosys’
+affirmative action efforts and plans in order to mitigate the harm stemming from Infosys’
+concealment of this evidence in 2015 and 2016 when Plaintiffs and the Court were assessing the
+appropriate scope of discovery, and (3) an award of attorneys’ fees and costs incurred drafting and
+arguing this motion, and taking and reviewing this additional discovery.
+I.
+A.
+
+BACKGROUND
+
+Failure to Preserve and Collect Documents
+Infosys maintains an email server and almost certainly other servers that contain shared
+
+documents. Infosys’ email server maintains strict size limits on individual email accounts,
+requiring employees to regularly delete their old emails. Letter from E. Boshkoff to D. Kotchen,
+et al. at 4 (Apr. 25, 2016) (Ex. 1). These emails are only saved if employees manually export them
+to .pst files on their hard drives. Id. Infosys backs up its servers to backup tapes, but these tapes
+simply mirror what is on the server and are regularly rotated and overwritten. When an employee
+leaves Infosys, the company automatically deletes all of that employees’ files after two weeks.
+Letter from D. Kotchen to G. Stohner & E. Boshkoff at 1-2 (Apr. 12, 2016) (Ex. 2).
+Infosys has failed to preserve and collect documents from key custodians in this case, and
+1
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 6 of 31 Document 135
+
+important documents have almost certainly been lost as a result. One key custodian whose
+documents have been lost as a result of Infosys’ inadequate preservation and collection efforts is
+Sanjay Jalona, who worked for Infosys for 15 years and served as an Executive Vice President.
+Plaintiffs identified to Infosys early in the litigation that Mr. Jalona is a key custodian. In their
+September 27, 2013 Amended Complaint, Plaintiffs made four references to Mr. Jalona because
+he was Plaintiff Gregory Handloser’s boss and was involved in Mr. Handloser’s unjustified
+termination, and had removed positive feedback about Mr. Handloser from emails. Am. Compl.
+¶¶ 98-99 (Dkt. #4).1 On February 5, 2014, Plaintiffs provided Infosys with the declaration of
+Samuel Marrero, a former Infosys recruiter who was involved in numerous meetings with Mr.
+Jalona, in which Mr. Jalona and other management instructed recruiters to focus on recruiting
+Indian talent. Marrero Decl. at ¶¶ 5, 7-9 (Dkt. #13-1). In the September 9, 2014 Second Amended
+Complaint, Plaintiffs referenced Mr. Jalona 15 times, including because he instructed recruiters to
+“stick to” Indian candidates because “[t]hey know our style and culture,” and because he dismissed
+concerns raised by Samuel Marrero that Infosys was rejecting a number of highly qualified nonSouth Asian candidates. 2d Am. Compl. ¶¶ 29-30 (Dkt. #19). On August 7, 2015, Plaintiffs
+identified Mr. Jalona on their initial disclosures as an individual likely to have discoverable
+materials. Pls.’ Initial Disclosures at 2 (Ex. 4).
+
+Infosys’ duty to preserve documents was triggered no later than October 2012, when Plaintiff
+Brenda Koehler filed her charge of discrimination, putting Infosys on notice of the claims in this
+case, including that Infosys has a “policy of hiring visa workers of Indian origin rather than
+American workers.” Koehler Equal Rights Division Compl. at 5 (¶ 6) (Ex. 3). Plaintiffs filed this
+lawsuit on August 1, 2013, providing Infosys additional detail regarding the scope of its duty to
+preserve potentially relevant documents and emails. Compl. (Dkt. #1).
+1
+
+2
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 7 of 31 Document 135
+
+Mr. Jalona almost certainly would have had documents concerning his involvement with
+(and discriminatory instructions to) the Talent Acquisition department, and documents collected
+from other custodians reveal that he was intimately involved in both reviewing Mr. Handloser’s
+performance, and the unjustified decision to terminate him. 2 Further, documents produced in
+March of this year reveal that Mr. Jalona has expressed to other Infosys employees his intentions
+to discriminate against American workers.3 Mr. Jalona was also a member of Infosys’ affirmative
+action steering committee and doubtless privy to Infosys’ efforts to set and meet placement goals
+and other affirmative action efforts.
+
+2
+
+Email from B. Murali to S. Jalona, et al. (Oct. 30, 2012) (Ex. 5); Email from S. Palepu to V.
+Lakshmi (Dec. 7, 2012) (“Advice (sic) you discuss this with Sanjay also, since the decision of
+CRR 4 came from you folks”) (Dkt. #95-50); Email from S. Singh to S. Jalona (Oct. 24, 2012)
+(Dkt. #96-50); Singh (30(b)(6)) Dep. Tr. 156:9-11 (July 22, 2016) (Q: “So you say that the decision
+[to terminate Handloser] was coming right from the very top?” A: “Right.”), 156:12-19 (explaining
+that Sanjay Jalona made the decision to terminate Handloser’s employment) (Ex. 6).
+3
+
+See INFOSYS1021877-80 (Ex. 7); Letter from D. Schlesinger to N. Bansal & A. Mishra (Nov.
+11, 2015) (Ex. 8). These recently produced documents also included additional evidence of
+Infosys’ fraudulent scheme to create an “inventory” of Indian visa workers through the
+procurement of invitation letters for positions that do not exist. See Letter from D. Schlesinger to
+N. Bansal & A. Mishra at 2 (Nov. 11, 2015) (Ex. 8); cf. Pls.’ Mot. for Class Cert. at 5-9 (Dkt. #88).
+Employees have filed a number of other complaints for misconduct against Mr. Jalona.
+See, e.g., INFOSYS1033242-46 at 42-43 (Ex. 9). For example, Mr. Jalona was accused of
+assigning unjustified and low appraisal scores to disfavored employees. Email from J. Mukherjee
+to L. Kidd (June 27, 2013) (noting disagreement with CRR score assigned by Mr. Jalona and listing
+“individuals who have experienced cases of [n]epotism and favoritism while working with Sanjay
+Jalona and his immediate direct reports that are ‘part of his circle.’”) (Ex. 10); Email from K.
+Hoffman to P. Cramer (Sept. 11, 2013) (“Joe said his manager told him that part of the reason he
+received a CRR 3 was because he did not go to India and he wasn’t close to … Siddharth Bohra,
+Rohit Kedia and Baljeet Chhazal. . . . The above named employees are part of Sanjay Jalona’s
+inner circle and commonly referred to as the CSG Mafia.”) (Ex. 11); cf. Email from S. Palepu to
+V. Lakshmi (Dec. 7, 2012) (discussing Jalona’s decision to lower Handloser’s CRR to 4 prior to
+terminating him) (Dkt. #95-50).
+
+3
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 8 of 31 Document 135
+
+Infosys’ failure to preserve evidence was not limited to Mr. Jalona’s files. For example,
+Infosys also failed to preserve the documents of Rohit Kedia and Chris Weber, 4 despite the fact
+that Infosys itself identified Mr. Kedia in its initial disclosures, and both Mr. Kedia and Mr. Weber
+were identified in Plaintiffs’ complaints and initial disclosures. 5 Mr. Kedia was another of Mr.
+Handloser’s supervisors, and was part of Sanjay Jalona’s inner circle known as the CSG Mafia. 6
+Mr. Weber worked closely with Plaintiff Kelly Parker during her tenure as a contractor at Infosys,
+and was shocked when she was terminated and replaced with a visa worker from India.7
+Plaintiffs first became concerned that Infosys may not have properly preserved evidence
+in the spring of 2016 when, during a discovery mediation before Magistrate Judge Joseph, Infosys
+disclosed that Infosys maintained strict email inbox size limits that required employees to regularly
+delete emails from Infosys’ email server, as well as a policy to delete all employee emails two
+weeks after they leave the company. Plaintiffs also learned that, at the start of the case, Infosys did
+not stop the automatic deletion of emails, did not pull backup tapes from its email and file servers
+
+4
+
+Email from E. Boshkoff to M. von Klemperer, et al. (July 27, 2017) (Ex. 13).
+
+Defs.’ Initial Disclosures at 3 (Ex. 14); 2d Am. Compl. ¶¶ 72, 106 (Dkt. #19); Pls.’ Initial
+Disclosures at 3-4 (Ex. 4).
+5
+
+2d Am. Compl. ¶¶ 72, 106 (Dkt. #19); Defs.’ Initial Disclosures at 3 (Ex. 14); Email from K.
+Hoffman to P. Cramer (Sept. 11, 2013) (“Joe said his manager told him that part of the reason he
+received a CRR 3 was because … he wasn’t close to … Siddharth Bohra, Rohit Kedia and Baljeet
+Chhazal. . . .The above named employees are part of Sanjay Jalona’s inner circle and commonly
+referred to as the CSG Mafia.”) (Ex. 11).
+6
+
+7
+
+Emails from C. Weber to K. Parker (Sept. 10, 2013) (praising Kelly Parker for her work and
+stating “You’re kidding me!” when Ms. Parker told Chris Weber she had been fired) (Ex. 16);
+Email from C. Weber to K. Parker, et al. (Sept. 3, 2013) (thanking Kelly Parker and “for doing a
+fantastic job” on desktop support at the Harley-Davidson 110th event) (Ex. 19); 2d Am. Compl. ¶
+72 (Dkt. #19).
+
+4
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 9 of 31 Document 135
+
+(resulting in the tapes being overwritten), and did not otherwise collect a corpus of documents
+from relevant custodians. 8 Letter from D. Kotchen to G. Stohner & E. Boshkoff at 1-3 (Apr. 12,
+2016) (Ex. 2); Email from E. Boshkoff to M. von Klemperer, et al. (July 25, 2016) (Ex. 17).
+Plaintiffs promptly contacted Infosys to determine whose documents had been retained (in
+order to, among other things, determine whose documents should be searched for ESI), and learn
+additional information regarding Infosys’ email retention policies.9 Infosys refused to provide
+detailed information regarding its preservation efforts, so Plaintiffs noticed a Rule 30(b)(6)
+deposition to address these issues. Notice of Rule 30(b)(6) Dep. at Topics 1-4 (Ex. 21). Infosys
+objected to providing a witness on these topics, and the parties discussed the matter with Magistrate
+Judge Jones. The Court stated that it “will not entertain document preservation” discovery without
+additional information. Minute Sheet at 2 (Dkt. #58). He instructed Plaintiffs “to trust at this point
+the professionalism of defendants’ counsel[,]” but that “[i]f additional evidence comes to light at
+a later date, this matter can be re-addressed.” Id.
+Plaintiffs have since learned that Infosys failed to retain the files of Mr. Jalona, Mr. Kedia,
+and Mr. Weber. Email from E. Boshkoff to M. von Klemperer, et al. (July 27, 2016) (Ex. 13). For
+example, Mr. Jalona left Infosys in July or August 2015 – almost two years after the Amended
+
+8
+
+Rather, the only step apparently taken by Infosys in 2013, 2014, or 2015 was to send a notice of
+the litigation to an undisclosed list of potentially relevant custodians in 2013 (and in later years to
+some additional custodians), and may have given undisclosed directions about preservation.
+Infosys apparently failed to issue follow-up notices or reminders to custodians about the litigation
+or the ongoing need to preserve documents for the litigation.
+9
+
+Emails from D. Kotchen to E. Boshkoff, et al. (Apr. 7 & 8, 2016) (Ex. 18); Email from D.
+Kotchen to Hon. N. Joseph (Apr. 12, 2016) (Ex. 20); Letter from D. Kotchen to G. Stohner & E.
+Boshkoff (Apr. 12, 2016) (Ex. 2).
+
+5
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 10 of 31 Document 135
+
+Complaint specifically identified him as a relevant custodian, and the same month Infosys received
+Plaintiffs’ initial disclosures identifying him (again) as a custodian of discoverable information –
+to become the CEO of L&T Infotech, a publicly traded company that provides IT services and IT
+consulting and generates $1 billion in annual revenues. Mr. Jalona initially worked out of its offices
+in Edison, New Jersey, 10 and later moved to L&T Infotech’s offices in Bangalore, India. Infosys
+never copied the files on Mr. Jalona’s laptop or smartphone11 at any time before his departure from
+Infosys, and never collected a copy of Mr. Jalona’s files from its servers or backup tapes before
+they were overwritten or otherwise destroyed, and elected not to inform Plaintiffs of Mr. Jalona’s
+departure from Infosys until after Mr. Jalona returned to India. Upon his departure, Infosys claims
+that it allowed Mr. Jalona to take his Infosys laptop and files with him when he left to become the
+CEO of a competitor – even though they presumably contained confidential and proprietary
+Infosys information. Email from E. Boshkoff to M. von Klemperer, et al. (July 19, 2016) (Ex. 23).
+Infosys apparently has not made any effort to require Mr. Jalona to return his Infosys
+laptop.12 In 2016, Infosys informed Plaintiffs that Mr. Jalona “did not return his laptop upon
+departing,”13 and that Infosys had “not been able to locate usable ESI for . . . Sanjay Jalona[,] Rohit
+Kedia[, and] Chris Weber[.]”14 In other words, Infosys allowed relevant documents from Mr.
+
+10
+
+See http://www.larsentoubro.com/media/32002/2015-08-11-lt-infotech-appoints-mr-sanjayjalona-as-ceo-managing-director.pdf (“Mr. Jalona will operate out of L&T Infotech’s office in
+Edison, New Jersey, USA.”) (Ex. 22).
+11
+
+See Email from S. Jalona to S. Singh (Oct. 24, 2012) (“Sent From BlackBerry”) (Dkt. #96-50).
+
+12
+
+In contrast, on July 29, 2016, Infosys threatened to sue Mr. Handloser for retaining work files
+relevant to this case, and demanded that he immediately return them, presumably because they
+were harmful to Infosys’ defense. Letter from G. Stohner to D. Kotchen, et al. (July 29, 2016) (Ex.
+24); Letter from D. Kotchen to G. Stohner (Aug. 14, 2016) (Ex. 25).
+13
+
+Email from E. Boshkoff to M. von Klemperer (July 19, 2016) (Ex. 23).
+
+14
+
+Email from E. Boshkoff to M. von Klemperer (July 27, 2016) (Ex. 13).
+6
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 11 of 31 Document 135
+
+Jalona and others on its servers and backup tapes to be destroyed after it had a duty to preserve
+them, and permitted Mr. Jalona to take the last remaining copy of his documents with him and has
+not attempted to recover them.
+When Plaintiffs learned that Infosys allowed a substantial amount of highly relevant ESI
+to be destroyed, they promptly issued discovery requests for documents concerning Infosys’
+servers, backups, preservation efforts, and efforts to obtain documents from Mr. Jalona and Mr.
+Kedia. Pls.’ 3d Set of RFPs at Reqs. 1-3 (Ex. 26). Infosys has objected to producing any documents
+in response to these document requests. Infosys’ Resps. to Pls.’ 3d Set of RFPs at Resps. 1-3 (Ex.
+27). The parties met and conferred on October 3, 2016, but Infosys maintained its position that it
+would not produce responsive documents.15
+B.
+
+Affirmative Action Materials
+On July 24, 2015, Plaintiffs issued discovery to Infosys, requesting, among other things,
+
+documents related to “the demographics or statistics of Infosys’ United States work force[.]” See
+Pls.’ 1st Set of RFPs at Request No. 5 (Ex. 28). Infosys objected to Plaintiffs’ discovery on the
+basis of burden. A discovery dispute ensued, and, pursuant to court order, Infosys eventually
+produced dozens of spreadsheets containing raw data on its workforce to Plaintiffs on November
+24, 2015. Hr’g Tr. 33:12-34:15, 36:11-19 (Nov. 9, 2015) (Ex. 29). The data encompassed hundreds
+of fields, containing thousands of codes, for tens of thousands of employees, spread over the
+several dozen spreadsheets. Given the vast quantity of data, its organization, and the many
+proprietary codes it contained, it was difficult for anyone new to the data to analyze – e.g.,
+promotions were difficult to define, map and examine; promotions made in the U.S. versus India
+
+15
+
+Email from E. Boshkoff to M. von Klemperer, et al. (Sept. 30, 2016) (Ex. 39).
+7
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 12 of 31 Document 135
+
+were difficult to track; discerning visa holders from non-visa holders was difficult; understanding
+the coding and location of terminations was difficult; etc.
+The parties then engaged in a series of meet and confers to discuss additional information
+relevant to the lawsuit that Infosys would produce in discovery. During this process, Infosys
+represented to Plaintiffs that it had no additional documents or data concerning the demographics
+or statistics of Infosys’ United States work force, other than the data Infosys already produced to
+Plaintiffs and EEO-1 reports.16
+This representation was not accurate. Infosys is a contractor for the federal government
+and is required to conduct affirmative action analyses. 41 C.F.R. § 60-2.1. As part of this
+requirement, Infosys supplies data to PeopleFluent. PeopleFluent in turn analyzes the data and,
+each year, provides Infosys with statistical reports concerning Infosys’ United States workforce
+and its hiring, promotion, and termination practices – the very issues that are the subject of Dr.
+Neumark’s analyses. See Grunert Decl. ¶ 2, Tables 1-17 (Feb. 6, 2017) (Dkt. #116-28).
+The PeopleFluent analyses help demonstrate that Infosys discriminated in favor of Indians
+and South Asians, that Infosys knew its workforce was highly disproportionate, and that it
+consistently failed to meet placement goals. The analyses reflect a stark statistical disparity in
+hiring favoring “Asians,” the EEO racial category that encompasses South Asians. 17 Id.
+
+Letter from D. Kotchen to G. Stohner (Feb. 24, 2016) (“Please let me know by the close of
+business Friday if Plaintiffs are mistaken concerning any information in the chart.”) (Ex. 30);
+Discovery Chart at Request No. 5 (Ex. 30); Email from E. Boshkoff to D. Kotchen, et al. (Apr. 4,
+2016) (noting “[h]ere is an updated discovery chart” and making no changes to Request No. 5)
+(Ex. 31); Updated Discovery Chart at Request No. 5 (Ex. 31).
+16
+
+17
+
+The overwhelming majority of Infosys’ “Asian” employees are South Asian. Expert Report of
+
+8
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 13 of 31 Document 135
+
+PeopleFluent analyzes relevant labor markets of the United States and individual states, 18 and the
+disparity exists at the corporate level, across business units, across job categories, and across
+geographies.19 Year over year, location by location, and position by position, the disparity far
+exceeds placement goals set to try to curb preference for a single race. 20 Grunert Decl. Table 1
+(Dkt. #116-28); Dkt. #116-25. The PeopleFluent analyses of promotions and terminations
+similarly reflect stark disparities in favor of Asians at the corporate level, across business units,
+across job categories, and across geographies.21 Moreover, the PeopleFluent analyses incorporate
+visa holders from India (i.e., “deputees”), contrary to Infosys’ current argument that deputees
+should be excluded from any discrimination analysis.22
+But Infosys never disclosed the existence of PeopleFluent analyses to Plaintiffs. In one
+
+David Neumark (“Neumark Report”) ¶¶ 15-16 (Ex. Dkt. #116-1); INFOSYS0107269-7284 (Dkt.
+#116-2).
+18 See,
+
+e.g., Infosys Reasonable Recruitment Labor Area Distributions (Dkt. #116-3); PeopleFluent
+Affirmative Action Plan Statistical Reports Review at 27-28 (Dkt. #116-4).
+19
+
+Grunert Decl. ¶ 2 & Tables 1-7 (Dkt. #116-28); Dkt. #116-6; Dkt. #116-7; Dkt. #116-8; Dkt.
+#116-25; Dkt. #116-26; Dkt. #116-27; Dkt. #116-40.
+Infosys’ consistent and widespread failure to meet placement goals is highly probative of
+discrimination. See Mozee v. Am. Comm. Marine Serv. Co., 940 F.2d 1036, 1051 (7th Cir. 1991)
+(defendant’s “noncompliance with its various affirmative-action plans [is] probative of
+discriminatory intent”); Holley v. Pansophic Sys., Inc., No. 90 C 7505, 1993 U.S. Dist. LEXIS
+13910, at *18 (N.D. Ill. Oct. 1, 1993) (“dismal performance on an affirmative action plan is
+probative of discriminatory intent”).
+20
+
+21
+
+Grunert Decl. ¶ 2 & Tables 8-17 (Dkt. #116-28); Dkt. #116-6; Dkt. #116-27; Dkt. #116-32; Dkt.
+#116-33; Dkt. #116-34; Dkt. #116-37; Dkt. #116-38; Dkt. #116-39.
+22
+
+Compare, e.g., Dkt. #116-25 at 7 (PeopleFluent document noting that as of 3/31/16, Infosys had
+20,292 U.S. employees) with Am. Answer ¶ 12 (noting that in 2015, Infosys had approximately
+19,500 employees in the United States) (Dkt. #33) and Dkt. #116-22 at 7 (indicating 13,592 visa
+workers “At Onsite USA”).
+
+9
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 14 of 31 Document 135
+
+meet and confer call, Infosys’ counsel represented to Plaintiffs’ counsel that she had been aware
+of the PeopleFluent documents early on, but had decided not to produce them without informing
+Plaintiffs of their existence, and instead produced the underlying raw data (though Infosys refused
+to produce even this data until being ordered to do so). Von Klemperer Decl. ¶¶ 2-3 (Ex. 12); see
+also Minute Sheet at 2 (Dkt. #120) (admitting that “Documents were available”). But, as noted
+above, this raw data was incredibly voluminous, disaggregated, and difficult to understand, and
+the data did not reflect the thousands of analyses Infosys was performing on its workforce each
+year, including Infosys’ setting of placement goals and its consistent, widespread, failure to meet
+those goals.23
+Plaintiffs only learned about the PeopleFluent data from third party witness on June 14,
+2016. Plaintiffs provided Infosys notice of their intent to subpoena PeopleFluent records directly
+from PeopleFluent on June 15, 2016, but Infosys still did not reveal the existence of the
+PeopleFluent analyses.24 Email from M. von Klemperer to E. Boshkoff, et al. (June 15, 2016) (Ex.
+33). After subpoenaing PeopleFluent, Plaintiffs were forced to engage in months of negotiations
+with PeopleFluent’s counsel, and finally obtained responsive documents in December 2016 and
+January 2017 – months after Plaintiffs filed their opening class certification brief. Pls.’ Class Cert.
+
+See Pls.’ Class Cert. Sur-reply at 1 (discussing “barn yard” of data, to use Infosys’ term, Infosys
+produced in lieu of the detailed, easily understandable PeopleFluent analyses) (Dkt. #132).
+23
+
+24
+
+When Plaintiffs directly asked Infosys to produce the PeopleFluent analyses in November 2016,
+Infosys stated that it had already produced all affirmative action documents. Email from E.
+Boshkoff to M. von Klemperer, et al. (Nov. 17, 2016) (Plaintiffs: “Plaintiffs have learned that
+individuals such as Sandra Jackson and Davina Linguist are in possession of a variety of
+demographic data … provided by PeopleFluent. Please produced all demographic data in full.”
+Infosys: “We produced all of Infosys’s Affirmative Action plans months ago.”) (Ex. 32).
+
+10
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 15 of 31 Document 135
+
+Sur-reply at 7-8 (Dkt. #132).25 PeopleFluent ultimately produced about 40,000 analyses and
+spreadsheets. Id.
+After Plaintiffs informed the Court that Infosys had withheld its copy of the PeopleFluent
+documents, the Court ordered that Infosys “produce all documents plaintiff requests.” Minute
+Sheet at 2 (Dkt. #120). Infosys admitted that the PeopleFluent “[d]ocuments were available” to
+Infosys all along, as they were “[s]tored in an electronic depository” to which Infosys had
+electronic access at any time, id., and Infosys produced its own copies of the PeopleFluent analyses
+on February 10 and 16, 2017.26 Infosys subsequently provided additional information regarding
+its affirmative action program, including the identities of its “affirmative action anchors,” its
+principle points of contact at PeopleFluent, and the name of the software it uses to calculate its
+placement goals.27
+Had Plaintiffs known of the PeopleFluent analyses early in the case, it would have
+substantially impacted the course of discovery and possibly shortened the case. Knowledge of the
+PeopleFluent analyses would have shaped Plaintiffs’ selection of document custodians, deponents,
+and ESI search terms, and would have affected the timing and content of Plaintiffs’ motions for
+
+25
+
+Despite repeated requests, PeopleFluent failed to produce any documents or data until December
+13, 2016, and only provided a more robust (but still incomplete) set of data on January 17, 2017,
+just three weeks prior to Plaintiffs’ deadline to file their class certification reply. See Pls.’ Class
+Cert. Sur-reply at 7-8 (Dkt. #132); Dkt. #116-8.
+26
+
+See Email from K. Atteberry to D. Kotchen, et al. (Feb. 10, 2017) (Ex. 34); Email from E.
+Boshkoff to D. Kotchen, et al. (Feb. 13, 2017) (Ex. 35).
+27
+
+Email from R. Fulgoni-Britton to D. Kotchen, et al. (Apr. 4, 2017) (Ex. 36); Email from R.
+Fulgoni-Britton to D. Kotchen, et al. (Apr. 17, 2017) (Ex. 36); Email from E. Boshkoff to M. von
+Klemperer, et al. (Mar. 30, 2017) (Ex. 40).
+
+11
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 16 of 31 Document 135
+
+summary judgment and class certification. Moreover, the PeopleFluent analyses, which contain
+many of the same analyses Dr. Neumark performed using Infosys’ raw data, would have
+substantially assisted his efforts. For example, Plaintiffs would have taken discovery regarding the
+sources of data and methods used by Infosys and PeopleFluent in calculating hiring, promotion,
+and termination rates, employee and applicant races, company structure, hierarchy, and job
+categories, and a slew of other highly relevant and probative information. 28
+C.
+
+Recent Efforts to Resolve Discovery and Sanctions Issues
+On April 18, 2017, the parties met and conferred further regarding the matters discussed
+
+above in an effort to resolve outstanding disputes. Following this call, Plaintiffs provided Infosys
+with its proposal to resolve outstanding discovery issues. Email from M. von Klemperer to E.
+Boshkoff, et al. (Apr. 20, 2017) (Ex. 37); Pls.’ Discovery Proposal (Ex. 38). Infosys stated that it
+would respond to Plaintiffs proposal the following week. Email from E. Boshkoff to M. von
+Klemperer, et al. (Apr. 20, 2017) (Ex. 37). Despite follow-up from Plaintiffs, Infosys has not
+responded to Plaintiffs’ proposal.
+II.
+
+LEGAL STANDARDS
+
+The purpose of imposing sanctions is to prevent abuses of the judicial process and to
+promote the efficient administration of justice. Plunk v. Vill. of Elwood, Ill., No. 07 C 88, 2009
+U.S. Dist. LEXIS 42952, at *27 (N.D. Ill. May 20, 2009). Discovery sanctions may be imposed
+for, inter alia, a party’s: (a) party’s failure to preserve evidence that it had a duty to preserve; (b)
+failure to diligently search for and produce responsive documents; or (c) a party’s false
+
+Infosys, has, for example, attacked Dr. Neumark’s analysis for the way he determined applicant
+and employee race and visa status. But Infosys and PeopleFluent had already made these same
+types of determinations in conducting their detailed analyses on Infosys’ workforce, yet Plaintiffs
+and Dr. Neumark were denied an opportunity to learn how those determinations were made.
+28
+
+12
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 17 of 31 Document 135
+
+representations about discovery. Courts have “broad, inherent power to impose sanctions for
+failure to produce discovery and for destruction of evidence, over and above the provisions of the
+Federal Rules.” Cohn v. Guaranteed Rate, Inc., 318 F.R.D. 350, 354 (N.D. Ill. 2016) (citing SEC
+v. First Choice Mgt. Servs., Inc., 678 F.3d 538, 543 (7th Cir. 2012)).
+A. Sanctions for Failure to Preserve Evidence
+Discovery sanctions may be imposed when a party “fails to preserve evidence which it
+controls and which it could reasonably foresee to be material to a potential lawsuit.” Cahill v. Dart,
+No. 13 C 361, 2016 U.S. Dist. LEXIS 169195, at *11 (N.D. Ill. Mar. 4, 2016). Sanctions for failure
+to preserve evidence may be appropriate under Fed. R. Civ. P. 37(e), which provides that:
+If electronically stored information that should have been preserved in the anticipation or
+conduct of litigation is lost because a party failed to take reasonable steps to preserve it,
+and it cannot be restored or replaced through additional discovery, the court: (1) upon
+finding prejudice … may order measures no greater than necessary to cure the
+prejudice[.]29
+Sanctions may also be imposed under the court’s inherent powers “for failing to preserve
+properly discoverable potential evidence.” Rosenthal Collins Grp. LLC v. Trading Techs. Int’l,
+Inc., No. 05 C 4088, 2011 U.S. Dist. LEXIS 17623, at *44 (N.D. Ill. Feb. 23, 2011).
+B. Sanctions for Failure to Produce Documents
+A failure to produce documents may be sanctioned under Rule 37(d):
+[A] culpable failure to produce documents in response to a request to produce can be the
+basis for sanctions under Fed. R. Civ. P. 37(d). Parties are required to respond to requests
+to produce in a complete and accurate fashion. This in turn requires that parties take
+reasonable steps to ensure that their responses to requests to produce are complete and
+accurate. Ultimate production of the material in question does not absolve a party where it
+has failed to produce the material in a timely fashion. Once a failure to comply with the
+discovery rules is established, sanctions are appropriate; the degree of culpability is only a
+
+29 This
+
+version of Rule 37(e) took effect on December 1, 2015, and governs “an action then pending
+unless: . . . the court determines that applying them in a particular action would be infeasible or
+work an injustice.” Fed. R. Civ. P. 86(a)(2).
+13
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 18 of 31 Document 135
+
+factor in determining the severity of the sanctions to be applied. Thus, a failure to make
+discovery, even if occasioned by simple negligence, may justify the imposition of
+sanctions.
+David Mizer Enters., Inc. v. Nexstar Broad., Inc., No. 14-CV-2192, 2016 U.S. Dist. LEXIS
+117076, at *8-9 (C.D. Ill. Aug. 31, 2016) (citations omitted).
+An “incomplete disclosure . . . must be treated as a failure to disclose.” Fed. R. Civ. P.
+37(a)(4). A party responding to a document request is required to “conduct a ‘careful and thorough’
+search for all responsive documents within the thirty-day period,” or to “‘seek appropriate
+extensions.’” Novelty, Inc. v. Mountain View Mktg., Inc., 265 F.R.D. 370, 376 (S.D. Ind. 2009)
+(quoting Lava Trading, Inc. v. Hartford Fire Ins. Co., No. 03 Civ. 7073, 2005 U.S. Dist. LEXIS
+2866, at *28 (S.D.N.Y. Feb. 24, 2005)).30
+C. Sanctions for Violating Rule 26 Disclosure Obligations
+“Under Rule 26(g), a court must impose sanctions . . . when the party fails to meet its
+disclosure obligations under Rule 26.” Rosenthal Collins Grp. LLC, 2011 U.S. Dist. LEXIS 17623,
+at *44. Rule 26(g) provides that every signature on a discovery response “certifies that to the best
+of the person’s knowledge, information, and belief formed after a reasonable inquiry” that the
+response is complete and correct. Fed. R. Civ. P. 26(g). The signature certifies that the responding
+attorney has made a “reasonable effort to assure that the client has provided all the information
+and documents available to him that are responsive to the discovery demand.” Fed. R. Civ. P. 26(g)
+Advisory Comm. Note.31 Rule 26(g) sanctions are mandatory. Fed. R. Civ. P. 26(g)(3). Rule
+
+Rule 37(a)(5) provides that a court “must” award “reasonable expenses incurred in making [a]
+motion [to compel], including attorney’s fees,” unless the opposing party’s response was
+“substantially justified” or such an award would be “unjust.” Fed. R. Civ. P. 37(a)(5).
+30
+
+Rule 26(g) requires that both “the investigation undertaken by the attorney and the conclusions
+drawn therefrom are reasonable under the circumstances.” Fed. R. Civ. P. 26(g) Comm. Note.
+31
+
+14
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 19 of 31 Document 135
+
+26(g) sanctions are appropriate where, as here, counsel makes false representations about
+discovery in “formal responses, in letters[,] and to the Court – particularly counsel’s repeated
+representations that all responsive documents had been produced[.]” Metro. Opera Ass’n, Inc. v.
+Local 100, Hotel Employees & Rest. Employees Int’l Union, 212 F.R.D. 178, 221 (S.D.N.Y. 2003).
+III.
+
+ARGUMENT
+
+Discovery sanctions are appropriate for Infosys’: (a) failure to preserve and collect
+documents; and (b) concealment of and failure to produce PeopleFluent documents in its control.
+A. Infosys Should Be Sanctioned for Failing to Preserve Documents.
+Spoliation sanctions under the Federal Rules or the Court’s inherent power are appropriate
+when a party fails to preserve evidence if the court finds: “1) that there was a duty to preserve the
+specific documents and/or evidence, 2) that the duty was breached, 3) that the other party was
+harmed by the breach, and 4) that the breach was caused by the breaching party’s willfulness, bad
+faith, or fault.” Jones v. Bremen High Sch., No. 08 C 3548, 2010 U.S. Dist. LEXIS 51312, at *15
+(N.D. Ill May 25, 2010).32
+1. Infosys Had a Duty to Preserve Relevant Custodians’ Documents
+“The scope of the duty to preserve is a broad one, commensurate with the breadth of
+discovery permissible under Fed. R. Civ. P. 26.” Danis, 2000 U.S. Dist. LEXIS 16900, at *98. A
+party has a duty to preserve evidence over which it has control “if there is a possibility that the
+information therein is relevant to any of the claims.” Jones, 2010 U.S. Dist. LEXIS 51312, at *16.
+“The obligation to produce responsive documents extends to all documents over which the party
+
+“Whether proceeding under Rule 37 of the Federal Rules of Civil Procedure or under a court’s
+inherent powers, the ‘analysis is essentially the same.’” Danis v. USN Commc’ns, Inc., No. 98 C
+7482, 2000 U.S. Dist. LEXIS 16900, at *92 (N.D. Ill. Oct. 20, 2000) (quoting Cobell v. Babbit, 37
+F. Supp. 2d 6, 18 (D.D.C.1999)).
+32
+
+15
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 20 of 31 Document 135
+
+has control, not merely possession.” Novelty, 265 F.R.D. at 375-76. At the latest, the duty to
+preserve attaches when the defendant learns of the plaintiff’s claim. Cohn, 318 F.R.D. at 354. The
+complaint helps inform parties of the likely scope of information that is likely to be sought in
+discovery. Danis, 2000 U.S. Dist. LEXIS 16900, at *99. A defendant has “a duty to preserve the
+computer hard drives, e-mail accounts, and internet records of anyone who left the company who
+had been accused . . . of … misconduct.” Wiginton v. Ellis, No. 02 C 6832, 2003 U.S. Dist. LEXIS
+19128, at *17 (N.D. Ill. Oct. 24, 2003).
+Here, Plaintiff Koehler filed her EEOC complaint on October 18, 2012, (Ex. 3), triggering
+a duty to preserve. See Jones, 2010 U.S. Dist. LEXIS 51312, at *19, 23 (“Defendant clearly had a
+duty to preserve documents relevant to plaintiff’s claims when it received notice of plaintiff’s
+EEOC charges”). Plaintiffs’ Complaint and Amended Complaint provided Infosys with additional
+details that clarified and potentially broadened the scope of its duty to preserve. For example, the
+EEOC complaint and Plaintiffs’ Complaint put Infosys on notice of their duty to preserve
+documents from the files of top executives, especially those involved in decision-making about
+hiring policies and the use of visa holders, which included Sanjay Jalona. 33 At the latest, Infosys
+was on notice of the relevance of Mr. Jalona’s files on September 27, 2013, when Plaintiffs filed
+their Amended Complaint (Dkt. #4), which made repeated references to Mr. Jalona, Rohit Kedia,
+and Chris Weber. Am. Compl. ¶¶ 67, 101 (Dkt. #4); see also 2d Am. Compl. ¶¶ 72, 106 (Dkt.
+#19); Defs.’ Initial Disclosures at 2 (identifying Mr. Kedia) (Ex. 14).
+
+“[A] party must identify potentially ‘key players’ in the litigation ‘who [are] likely to have
+relevant information’ and then ensure that these key players turn over all of the relevant material
+in their possession.” Newill v. Campbell Transp. Co., No. 12-cv-1344, 2013 U.S. Dist. LEXIS
+160903, at *5 (W.D. Pa. Nov. 12, 2013) (quoting Zubulake v. UBS Warburg LLC, 229 F.R.D. 422,
+432 (S.D.N.Y. 2004)).
+33
+
+16
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 21 of 31 Document 135
+
+2. Infosys Breached Its Duty to Preserve
+To fulfill a duty to preserve, a party must actively take “concrete actions reasonably
+calculated to ensure that relevant materials would be preserved[,]” which includes “follow-up” to
+ensure that preservation directives are followed. Danis, 2000 U.S. Dist. LEXIS 16900, at *115.
+Custodians “should be periodically reminded that the preservation duty is still in place.” Zubulake,
+228 F.R.D. at 434. Parties must “act[] reasonably” in carrying out its preservation obligation, and
+“[i]t is unreasonable to allow a party’s interested employees to make the decision about the
+relevance of . . . documents, especially when those same employees have the ability to permanently
+delete unfavorable email from a party’s system.” Jones, 2010 U.S. Dist. LEXIS 51312, at *21-22.
+A party acts unreasonably when it fails “to cease the deletion of email or to preserve the records
+of former employees that are in a party’s possession, custody, or control[.]” Pension Comm. of
+Univ. of Montreal Pension Plan v. Banc of Am. Sec., 685 F. Supp. 2d 456, 471 (S.D.N.Y. 2010);
+accord Jones, 2010 U.S. Dist. LEXIS 51312, at *23. The duty to preserve is breached when
+evidence in a party’s control is lost or destroyed, even when it is through a failure to suspend an
+automatic deletion policy. Cahill, 2016 U.S. Dist. LEXIS 169195, at *14-15; Jones, 2010 U.S.
+Dist. LEXIS 51312, at *23; Plunk, 2009 U.S. Dist. LEXIS 42952, at *38-41.
+Here, Infosys acted unreasonably by failing to cease the deletion of email and the recycling
+of backup tapes, and by failing to make a copy of relevant custodians’ files after its duty to preserve
+was triggered in 2012, or after Plaintiffs filed their Complaint and amendments in 2013 and 2014.
+Jones, 2010 U.S. Dist. LEXIS 51312, at *19, 23 (“[Defendant] certainly had a duty to preserve
+extant email folders when it was first notified of the EEOC filing”); Cahill, 2016 U.S. Dist. LEXIS
+169195, at *14-15; Plunk, 2009 U.S. Dist. LEXIS 42952, at *38-41. While Infosys notified an
+undisclosed list of custodians, on undisclosed dates, about the litigation, it inappropriately relied
+on self-interested custodians to ensure compliance, and made no apparent efforts to follow up with
+17
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 22 of 31 Document 135
+
+custodians to ensure documents were being adequately preserved, and apparently failed to send
+periodic reminders. Such an approach is unreasonable, especially because self-interested
+custodians were able to “permanently delete … email[s,]” and there is “no evidence” that more
+extensive preservation “would have placed any burden on defendant.” Jones, 2010 U.S. Dist.
+LEXIS 51312, at *23. Instead, Infosys waited to collect documents until years later – in 2016 –
+after numerous relevant documents were undoubtedly lost or destroyed. Id. at *31 (imposing
+spoliation sanction where party did not suspend auto-deletion or collect relevant documents until
+11 months after duty to preserve arose). Infosys also failed to preserve the files of Sanjay Jalona,
+Rohit Kedia, and Chris Weber, and failed to ensure the return of Mr. Jalona’s files when he left
+Infosys, breaching its duty to preserve. Id. at *23, 31.
+3. Infosys’ Failure to Preserve Has Harmed Plaintiffs
+“Although ‘prejudice is not an essential precondition to an award of sanctions, the choice
+of sanctions is a function of the prejudice suffered.’” Cahill, 2016 U.S. Dist. LEXIS 169195, at
+*19 (quoting Am. Fam. Mut. Ins. Co. v. Roth, No. 05 C 3839, 2009 U.S. Dist. LEXIS 32519, at
+*14 (N.D. Ill. Feb. 20, 2009)). Prejudice can be found when, through a failure to suspend routine
+deletion of documents, a plaintiff is “deprived of a valuable source of potentially-impeaching
+information,” including where documents are destroyed from one of the “key decision makers with
+respect to Plaintiff’s employment[,]” meaning that “Plaintiff is now stuck with [the witness’s]
+testimony about meetings and events, with no documentary means of challenging or verifying it.”
+Kirgan v. FCA LLC, No. No. 10-1392, 2013 U.S. Dist. LEXIS 51747, at *5 (C.D. Ill. Apr. 10,
+2013); see also Jones, 2010 U.S. Dist. LEXIS 51312, at *25 (finding that harm sufficient to support
+spoliation sanctions existed when there was a “distinct possibility that emails relevant to plaintiff’s
+case were destroyed”); Cahill, 2016 U.S. Dist. LEXIS 169195, at *19 (finding prejudice from
+failure to prevent overwriting of evidence where “[e]vidence of this nature would be crucial to
+18
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 23 of 31 Document 135
+
+proving his claims”).
+Courts recognize that “it is impossible for plaintiffs to know what evidence was destroyed
+unless they are clairvoyant,” and that it is sufficient to establish prejudice if there is evidence that
+some potentially relevant emails are missing. Plunk, 2009 U.S. Dist. LEXIS 42952, at *40.
+Here, Infosys’ breach of its duty to preserve undoubtedly caused prejudice to Plaintiffs, as
+emails and other files of relevant custodians have been lost or destroyed, including files from hard
+drives, servers, and backup tapes that were not preserved, including those of Sanjay Jalona, a top
+executive involved in implementing Infosys’ policy of favoring Indian visa workers over
+Americans, and involved in the termination of named Plaintiff Greg Handloser. 34 While a handful
+of emails related to Mr. Jalona have been produced (from other custodians), they are incomplete,
+and help confirm Mr. Jalona’s role in terminating Mr. Handloser.35 Likewise, Plaintiffs have
+obtained no documents from Rohit Kedia, whom Infosys described as “likely having information
+regarding Plaintiff Handloser’s job duties, responsibilities, and experiences, and the Toyota
+account referenced in Plaintiffs’ Second Amended Complaint.” Defs.’ Initial Disclosures at 2 (Ex.
+14).36 Plaintiffs have also obtained no documents from Chris Weber, who worked closely with
+
+34
+
+2d Am. Compl. ¶¶ 28-30, 103-04 (Dkt. #19); Marrero Decl. at ¶¶ 5, 7-9 (Dkt. #13-1).
+
+Email from S. Palepu to S. Singh (Dec. 7, 2012) (“Are you saying that despite his good
+performance, you still rated him a CRR 4? . . . Advice (sic) you discuss this with Sanjay [Jalona]
+also, since the decision of CRR 4 came from you folks.”) (Dkt. #95-50); Email from S. Singh to
+S. Jalona (Oct. 24, 2012) (giving Mr. Handloser a CRR score of 3) (Ex. 15); Email from S. Singh
+to S. Jalona (Nov. 12, 2012) (confirming Mr. Handloser’s CRR score of 3) (Ex. 15); Email from
+B. Murali to S. Jalona, et al. (Oct. 30, 2012) (noting that Mr. Jalona was the final reviewer for Mr.
+Handloser’s CRR score) (Ex. 5)
+35
+
+36
+
+Despite failing to preserve documents from these two critical witnesses, Infosys argues that no
+genuine dispute of fact exists as to whether Mr. Handloser was terminated for failure “to meet
+
+19
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 24 of 31 Document 135
+
+Kelly Parker and expressed shock when she was terminated given the high quality of her work.37
+See Note 7, supra. Thus, Plaintiffs have been prejudiced.
+4. Infosys’ Breach of Its Duty to Preserve Was Caused by Willfulness, Bad Faith, or Fault
+“[O]nce a party is on notice that evidence in their possession is relevant to the pending
+litigation, the failure to prevent its destruction or failure to ensure its preservation moves from
+being negligent to bad faith. This can be true even when destruction of such evidence is part of a
+routine policy.” Porche v. Oden, No. 02 C 7707, 2009 U.S. Dist. LEXIS 15640, at *23 (N.D. Ill.
+Feb. 27, 2009); accord Jones, 2010 U.S. Dist. LEXIS 51312, at *26 (“Gross negligence of the duty
+to preserve material evidence is generally held to be fault.”). Gross negligence occurs when, for
+example, a defendant relies on its own self-interested employees to secure relevant documents,
+and when a defendant fails “to obtain documents from” key employees “at the first sign of
+litigation.” Jones, 2010 U.S. Dist. LEXIS 51312, at *27; accord Northington v. H&M Int’l, No.
+08-CV-6297, 2011 U.S. Dist. LEXIS 14366, at *50-51 (N.D. Ill. Jan. 12, 2011). Gross negligence
+also occurs when a party issues a hold, but fails to take affirmative steps to confirm evidence is
+preserved, and the evidence is subsequently lost or destroyed through routine overwriting
+practices. Cahill, 2016 U.S. Dist. LEXIS 169195, at *19; accord Liberty Mut. Ins. Co. v. Ecowater
+
+Infosys’s legitimate performance expectations.” Defs.’ Summ. J. Mem. at 32 (Dkt. #80).
+Despite failing to preserve Mr. Weber’s documents, Infosys offers the declaration of Giridher
+Thorangallu to suggest that no genuine dispute of fact exists that Ms. Parker was bad at her job
+and not qualified for the permanent Helpdesk position for which she applied and interviewed in
+2012. Defs.’ Statement of Facts ¶¶ 76-77 (Dkt. #79). But Mr. Thorangallu did not even work in
+the same location as Ms. Parker, and did not observe her work or otherwise interact with her. Pls’
+Resp. to Defs.’ Statement of Facts ¶ 77 (pp. 81-82) (Dkt. #94).
+37
+
+20
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 25 of 31 Document 135
+
+Sys., Inc., No. 02 C 50415, 2004 U.S. Dist. LEXIS 8415, at *4 (N.D. Ill. May 11, 2004) (finding
+fault where party “had the authority and ability to preserve the [evidence] but failed to do so”).38
+“[F]ailure to make an adequate search for relevant documents before destroying non-relevant
+documents is further evidence of its bad faith.” Wiginton, 2003 U.S. Dist. LEXIS 19128, at *24.
+In the Seventh Circuit, the question of whether a party has destroyed evidence in bad faith may
+appropriately be left to the jury. Johnson v. Nichols, No. 12 C 5325, 2013 U.S. Dist. LEXIS
+113112, at *9 (N.D. Ill. Aug. 12, 2013).
+Here, Infosys was at fault, i.e., at least grossly negligent, for failing to collect documents
+“at the first sign of litigation” in 2012 or 2013, for failing to suspend email deletion from servers
+and backup tapes, for relying on self-interested employees to preserve their own documents
+without adequate oversight, for not conducting a timely search and collection of timely documents,
+and for allowing the destruction of documents from important custodians. Jones, 2010 U.S. Dist.
+LEXIS 51312, at *27; Northington, 2011 U.S. Dist. LEXIS 14366, at *50-51, 59; Wiginton, 2003
+U.S. Dist. LEXIS 19128, at *23-24; Cahill, 2016 U.S. Dist. LEXIS 169195, at *17-19; Liberty
+Mut. Ins., 2004 U.S. Dist. LEXIS 8415, at *4.
+5. Appropriate Sanctions for Infosys’ Failure to Preserve
+“The court has broad discretion to fashion an appropriate sanction” for a failure to preserve
+evidence. Jones, 2010 U.S. Dist. LEXIS 51312, at *30. Appropriate sanctions for a failure to
+preserve documents may include, for example, permitting additional discovery, awarding
+attorneys’ fees, informing the jury of the failure to preserve, precluding a party from introducing
+evidence on a certain issue, or issuing an adverse inference jury instruction. Id. at *30-31. As
+
+“Fault” in this context relates not to subjective intent but to the reasonableness of the conduct.
+Langley by Langley v. Union Elec. Co., 107 F.3d 510, 514 (7th Cir. 1997).
+38
+
+21
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 26 of 31 Document 135
+
+reflected in the accompanying proposed order, Infosys should be compelled to produce all
+documents responsive to Requests 1-3 of Plaintiffs Third Set of Document Requests (Ex. 26),
+including documents sufficient to show the steps it took to preserve documents, the dates,
+recipients, and contents of litigation hold notices, and identification of document and email servers
+used by relevant custodians and any steps taken to pull backup tapes from these servers (or
+otherwise preserve their contents). 39 Second, Infosys should be ordered to conduct a supplemental
+search for documents from Sanjay Jalona, Rohit Kedia, Chris Weber, and any other custodian
+whose documents have not been fully preserved, and seek the return of any Infosys ESI and
+
+39
+
+There is no reasonable argument that these materials are not discoverable, particularly in light
+of Infosys’ indisputable failure to preserve evidence in this case. See United States ex rel. Barko
+v. Halliburton Co., 74 F. Supp. 3d 183, 191-92 (D.D.C. 2014) (holding that “[a] party may discover
+the steps the opposing party has taken to preserve relevant information” and noting the litigation
+hold notices were not work product as they reflected defendant’s “document retention practices,
+rather than [] any attorney's preparations for litigation.”); Tate & Lyle Ams., LLC v. Glatt Air
+Techniques, Inc., No. 13–2037, 2014 U.S. Dist. LEXIS 184533, at *6-7 (C.D. Ill. Aug. 4, 2014)
+(ordering production of litigation hold letters when party failed to issue the hold “until over three
+years after it anticipated litigation” and opposing party produced sufficient evidence “to support a
+reasonable inference that relevant evidence” [was] destroyed”); Home Instead, Inc. v. Florance,
+No. 8:12CV264, 2013 U.S. Dist. LEXIS 163291, at *7-8 (D. Neb. Nov. 8, 2013) (granting
+plaintiff’s motion to compel “a sworn affidavit outlining whether a litigation hold was put in place,
+the people to whom a litigation hold letter was sent, the directions for preservation, the sources
+identified for search, the terms used for the search, Defendants' continued efforts to ensure
+compliance, and any other information relevant to the scope and depth of the preservation or search
+for documents” in response to defendants’ inadequate discovery responses and allegations of
+possible destruction of materials); Magnetar Techs. Corp. v. Six Flags Theme Park, Inc., 886 F.
+Supp. 2d 466, 490 (D. Del. 2012) (ordering production of the litigation hold letter on showing of
+spoliation); Cannata v. Wyndham Worldwide Corp, No. 2:10–cv–00068, 2011 U.S. Dist. LEXIS
+88977, at *8-9 (D. Nev. Aug. 10, 2011) (holding that when and to whom litigation hold notices
+were sent was discoverable); United Med. Supply Co. v. United States, 77 Fed. Cl. 257, 262 (Fed.
+Cl. 2007) (ordering defendant to produce “copies of any general notices sent ... requesting or
+relating to the preservation of relevant documents” upon a finding that documents had been
+destroyed).
+
+22
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 27 of 31 Document 135
+
+documents still in Mr. Jalona’s possession.40 Third, Plaintiffs should be permitted to take necessary
+depositions following production of the foregoing materials. Fourth, Plaintiffs should be permitted
+to present to the jury evidence of Infosys’ failure to comply with its discovery obligations. Finally,
+Plaintiffs should be awarded attorneys’ fees and costs incurred in drafting and arguing the present
+motion, and taking and reviewing the above-referenced discovery. 41
+B.
+
+Infosys Should Be Sanctioned for Failing to Produce the PeopleFluent Documents
+“[A] culpable failure to produce documents in response to a request to produce can be the
+
+basis for sanctions under Fed. R. Civ. P. 37(d).” David Mizer Enters., 2016 U.S. Dist. LEXIS
+117076, at *8 (citations omitted); see also Gray, 2000 U.S. Dist. LEXIS 7207, at *14-15 (imposing
+sanction under Rule 37 and the court’s inherent authority for belated production of evidence
+“[e]ven treating as inadvertent the city’s failure to produce”). When a party inaccurately represents
+that its document production is complete or that no responsive documents exist, and the
+representation is not based on a reasonable inquiry, Rule 26(g) sanctions are appropriate.
+Nationwide Agribusiness, 2016 U.S. Dist. LEXIS 8289, at *12 (awarding fees as sanction under
+Fed. R. Civ. P. 26(g)(3) and 37(c)(1) for failure to make timely disclosure). The test for whether
+an inaccurate representation about discovery is sanctionable under Rule 26(g) is one of objective
+
+Cf. Fed. R. Civ. P. 37(e), Comm. Note (“When a party fails to take reasonable steps to preserve
+electronically stored information that should have been preserved in the . . . conduct of litigation,
+and the information is lost as a result, Rule 37(e) directs that the initial focus should be on whether
+the lost information can be restored or replaced through additional discovery.”).
+40
+
+41
+
+Jones, 2010 U.S. Dist. LEXIS 51312, at *31; Cahill v. Dart, No. 13-cv-361, 2016 U.S. Dist.
+LEXIS 166831, at *14-15 (N.D. Ill. Dec. 2, 2016) (“Because the Court grants Cahill’s motion for
+sanctions, he is entitled to attorney’s fees incurred in making the motion.”); Nationwide
+Agribusiness Ins. Co. v. Meller Poultry Equip., Inc., No. 12-C-1227, 2016 U.S. Dist. LEXIS 8289,
+at *12 (E.D. Wisc. Jan. 22, 2016); In re Delta/AirTran Baggage Fee Antitrust Litig., 846 F. Supp.
+2d 1335, 1352-53 (N.D. Ga. 2012); Gray v. City of Columbus, No. IP98-1395, 2000 U.S. Dist.
+LEXIS 7207, at *15-16 (S.D. Ind. Jan. 31, 2000).
+23
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 28 of 31 Document 135
+
+reasonableness under the circumstances. Id. at *8 (citing FDIC v. Tekfen Const. & Installation Co.,
+847 F.2d 440, 442 (7th Cir. 1988)). If a party inaccurately represents that “its discovery responses
+were correct and complete,” and if the representation causes unnecessary delay and an increase in
+costs, Rule 26(g) sanctions are appropriate, and late production of the documents by the party is
+“immaterial.” In re Delta/AirTran, 846 F. Supp. 2d at 1350 (collecting cases).
+Here, Plaintiffs’ document request clearly encompassed the PeopleFluent analyses. Pls.’
+First Set of RFPs at Request No. 5 (Ex. 28); Discovery Chart at Request No. 5 (Ex. 30). Infosys
+knew all along about the PeopleFluent analyses, which were always within Infosys control. Minute
+Sheet at 2 (Dkt. #120). Infosys’ counsel admitted that she considered producing the PeopleFluent
+analyses, but chose not to do so – even though they were clearly responsive. Rather, she asserts
+that she withheld them because she believed – contrary to basic principles of document discovery
+and the explicit instructions in the requests – that it was sufficient to produce data that formed the
+bases of the analyses. Von Klemperer Decl. ¶¶ 2-3 (Ex. 12). Infosys’ counsel then represented to
+Plaintiffs that it had no additional documents responsive to Plaintiffs’ document request No. 5. See
+Note 16, supra.
+Infosys’ actions and representations were not objectively reasonable, and violated Infosys’
+discovery obligations under Rules 26(g) and 37(d). Infosys did not self-correct these failures.
+Rather, Plaintiffs learned about the PeopleFluent documents from a third party, promptly
+subpoenaed PeopleFluent, and were forced to negotiate for months with PeopleFluent to obtain
+responsive documents. See Note 25, supra. During this time, Infosys did not acknowledge the
+existence of responsive PeopleFluent documents in Infosys’ control, even in response to a direct
+inquiry from Plaintiffs. See Note 24, supra. Rather, Infosys waited until after PeopleFluent
+produced responsive documents to acknowledge that Infosys possessed the PeopleFluent analyses.
+
+24
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 29 of 31 Document 135
+
+But see Rosenthal, 2011 U.S. Dist. LEXIS 17623, at *21 (“Litigants cannot be permitted to say
+‘oops, you’ve caught me, and thereafter be allowed to continue to play the game. . . .’”) (quoting
+Dotson v. Bravo, 202 F.R.D. 559, 573 (N.D. Ill. 2001)).
+As discussed above, had Plaintiffs known about the PeopleFluent analyses in a timely
+fashion after issuing document requests, it would have significantly shaped discovery, saved
+significant time and resources that Plaintiffs and Dr. Neumark were forced to expend
+understanding Infosys’ “barn yard” of raw data, avoided the expense and lengthy negotiations
+Plaintiffs were forced to incur negotiating with a third party for documents Infosys had in its
+control all along, and potentially shortened the case (by affecting the timing and content of
+Plaintiffs’ motions for summary judgment and class certification).
+Accordingly, as set forth in the accompanying proposed order Infosys should be compelled
+to produce documents and ESI related to its affirmative action program, including data provided
+to and received from PeopleFluent, communications with PeopleFluent, documents regarding
+placement goals, and communications among Infosys’ affirmative action anchors and steering
+committee members regarding its affirmative action program and efforts. See Note 40, supra;
+Minute Sheet at 2 (Dkt. #120) (“Court directs defendant to produce all documents plaintiff
+requests.”). Further, Plaintiffs should be permitted to take necessary depositions following
+production of the foregoing materials. Id. Finally, Plaintiffs should be award attorneys’ fees and
+costs incurred taking and reviewing this discovery. See Note 41, supra.
+IV.
+
+CONCLUSION
+
+For the foregoing reasons, the Court should grant this motion and enter the accompanying
+proposed order.
+
+25
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 30 of 31 Document 135
+
+Dated May 1, 2017.
+
+Respectfully submitted,
+/s/Daniel A. Kotchen
+Daniel A. Kotchen
+Daniel L. Low
+Michael J. von Klemperer
+KOTCHEN & LOW LLP
+1745 Kalorama Road NW, Suite 101
+Washington, DC 20009
+(202) 471-1995
+(202) 280-1128 (Fax)
+dkotchen@kotchen.com
+dlow@kotchen.com
+mvk@kotchen.com
+Michael F. Brown
+DVG LAW PARTNER LLC
+P.O. Box 645
+Neenah, WI 54957
+920-238-6781
+920-273-6177 (fax)
+mbrown@dvglawpartner.com
+Attorneys for Plaintiffs
+
+26
+Case 2:13-cv-00885-PP-DEJ Filed 05/01/17 Page 31 of 31 Document 135
+
+

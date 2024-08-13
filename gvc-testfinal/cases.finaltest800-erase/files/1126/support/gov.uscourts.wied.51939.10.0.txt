@@ -1,0 +1,750 @@
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF WISCONSIN
+MILWAUKEE DIVISION
+______________________________________________________________________________
+)
+BEVERLY STAYART,
+)
+a/k/a BEV STAYART,
+)
+an individual,
+)
+Plaintiff,
+)
+)
+)
+10-CV-00043-LA
+v.
+)
+)
+YAHOO! INC., a Delaware corporation;
+)
+)
+Defendant.
+)
+______________________________________________________________________________
+DEFENDANT YAHOO! INC.’S MEMORANDUM OF LAW IN SUPPORT OF ITS MOTION TO
+DISMISS COUNTS ONE AND TWO OF PLAINTIFF’S COMPLAINT
+______________________________________________________________________________
+
+Defendant Yahoo! Inc. (“Yahoo!”) submits this memorandum of law in support of its motion to
+dismiss for failure to state a claim pursuant to Rules 12(b)(1) and 12(b)(6) of the Federal Rules of Civil
+Procedure, and asks this Court to dismiss counts one and two of Plaintiff Beverly Stayart’s (“Plaintiff”)
+complaint. If the Court elects not to grant this motion to dismiss, Yahoo! respectfully requests that the
+Court stay further proceedings in this matter until resolution of the prior litigation between the parties,
+Stayart v. Yahoo! Inc., et al, Eastern District of Wisconsin Case No. 09-CV-00116, which is currently
+pending in the United States Court of Appeals for the Seventh Circuit, case number 09-3379. Argument is
+scheduled in the Seventh Circuit in that case on March 31, 2010.
+
+I.
+
+Introduction
+This is Plaintiff’s second attempt to seek redress in this Court for her displeasure with the results
+
+she encountered when she ran Internet search queries of her own name in defendant Yahoo!’s search
+1
+
+Case 2:10-cv-00043-LA Filed 03/22/10 Page 1 of 24 Document 10
+
+engine. As her complaints make clear, the real sources of Plaintiff’s ire are the third-party web sites
+appearing in Yahoo! search results that make what Plaintiff considers a distasteful or embarrassing
+association of her name with erectile dysfunction medications. Rather than taking action directly against
+the third parties that created these web sites for the reputational harm she claims to have suffered from
+their existence, Plaintiff has instead targeted Yahoo!.
+In Section 230 of the Communications Decency Act (“CDA”), however, Congress mandated that
+search engine providers like Yahoo! cannot be sued for delivering search results derived from allegedly
+defamatory content provided by third parties. See 47 U.S.C. § 230. In apparent recognition that federal
+law forecloses her real claim – defamation – against Yahoo!, Plaintiff has attempted in both this and her
+previously filed action in this Court to plead her way around the statutory bar by styling her claims as
+Lanham Act (in her previous action) and invasion of privacy (in the present action) in a transparent
+attempt to mischaracterize them as “intellectual property” claims exempt from Section 230. In so doing,
+she pleads herself out of court. In her previously filed action, this Court found that Plaintiff lacked
+standing to pursue a Lanham Act claim on the facts alleged, and that Section 230 barred her actual
+grievance. 1 Plaintiff’s current action is similarly infirm. The underlying facts Plaintiff alleges here are
+insufficient to state claims for invasion of privacy against Yahoo! under Wisconsin law, and to the extent
+Plaintiff could assert such claims, they are barred by Section 230.
+Accordingly, as detailed herein, Plaintiff’s claims fail on three grounds. First, her right to privacy
+claims are barred by Section 230, which is designed to prevent suits against Internet service providers
+based on their role in providing third-party content. Second, she has not stated a claim under the
+
+1
+
+As described in more detail at pages 2-5 herein, the Court expressed similar doubt about Plaintiff’s ability to
+sustain its state law invasion of privacy claims but declined to exercise jurisdiction over them once it dismissed
+Plaintiff’s federal claim. Stayart v. Yahoo!, 651 F. Supp. 2d 873, 888 (E.D. Wis. 2009).
+
+2
+
+Case 2:10-cv-00043-LA Filed 03/22/10 Page 2 of 24 Document 10
+
+Wisconsin right to privacy statute, and Wisconsin law does not recognize a common law “right to
+privacy” claim. Third, Plaintiff has failed to allege facts sufficient to support the exercise of diversity
+jurisdiction, because based on the facts alleged, her damages could not possibly rise to meet the
+jurisdictional minimum.
+
+II.
+
+Procedural History of Stayart Litigation Against Yahoo!
+Plaintiff’s attempts to obtain recovery for the appearance of her name in Yahoo! search results
+
+have a long history. They began with the filing of a petition for pre-litigation discovery against Yahoo! in
+Illinois state court, seeking information from Yahoo! about the identities of the publishers of substantially
+the same content that has been at issue throughout Plaintiff’s attempts to seek redress. Stayart v. Yahoo!
+Inc. & Overture Services, Inc., No. 08 L 11519 (Ill. Cir. Ct. Cook County Div., dismissed Feb. 18, 2009).
+The Illinois court dismissed Stayart’s petition after Yahoo! verified its inability to access or provide such
+information, as it lacked any relationship with the third-party sites at issue.
+Undeterred, Plaintiff then filed an action in this Court on February 5, 2009. Her claims in that
+complaint alleged that Yahoo! violated the Lanham Act and Wisconsin Statute § 995.50 based on its
+display of language contained on third-party websites as well as “search snippets” that appeared beneath
+search results returned when Plaintiff searched for “bev” or “beverly stayart,” substantially similar search
+results to those that Plaintiff sought discovery on from Yahoo! in Illinois. Unable to determine who
+authored the underlying web pages, Plaintiff claimed that Yahoo! itself had authored the snippets by
+displaying them on its search results pages.
+On August 28, 2009, Judge Rudolph T. Randa dismissed Plaintiffs’ claims, finding that Plaintiff
+lacked standing to pursue claims under the Lanham Act because she did not have a commercial interest in
+her name. Stayart v. Yahoo!, 651 F. Supp. 2d at 881-82 (E.D. Wis. 2009). The Court also ruled that
+Yahoo! was entitled to immunity under the CDA, 47 U.S.C. § 230, because “Yahoo!'s search results
+3
+
+Case 2:10-cv-00043-LA Filed 03/22/10 Page 3 of 24 Document 10
+
+include abstracts, or snippets, that contain multiple samples of text appearing in various places on the
+third-party websites. Yahoo! does not create this content, it only displays the content in response to a Cuser's search results.” Id. at 885. As this Court noted,
+Indeed, the only way Yahoo! could exert any control over the results of a
+search engine query would be to change its underlying, proprietary
+algorithm. This goes to the heart of Yahoo!'s role as an interactive computer
+service. ‘[O]rdinary search engines [such as Google and Yahoo!] do not use
+unlawful criteria to limit the scope of searches conducted on them, nor are
+they designed to achieve illegal ends. . . . Therefore, such search engines
+play no part in the ‘development’ of any unlawful searches.’ Fair Housing
+Council of San Fernando Valley v. Roommates.com., LLC, 521 F.3d 1157,
+1167 (9th Cir. 2008). In this respect, Yahoo! should be entitled to immunity
+because it acted as an interactive computer service, even though Stayart's
+claims are nominal intellectual property claims.
+Id. Having dismissed Plaintiff’s federal claims, this Court then declined to exercise supplemental
+jurisdiction over Plaintiff’s state law claims because subject-matter jurisdiction was founded solely on the
+presence of the federal claims. Although it declined to resolve the state claims, the Court did express its
+skepticism, stating that it would be an “unlikely scenario” for Plaintiff to be able to assert a commercial
+interest in her name sufficient to render it an intellectual property claim exempt from the CDA. Id. at 888.
+This Court also denied Plaintiff leave to replead her claims, because
+[I]n the clear absence of any valid federal claims, Stayart would need an
+alternative basis to invoke federal jurisdiction on her state law claims. The
+parties may be diverse, but it does not seem likely that Stayart could make a
+good faith allegation that her damages are more than $75,000. See §
+1332(a). Given the likelihood that Stayart's injuries are de minimus,
+granting leave to replead would simply invite more litigation over the
+propriety of federal jurisdiction.
+Id at 889. Plaintiff has now appealed this ruling, and argument is set in the Seventh Circuit for March 31,
+2010.
+
+4
+
+Case 2:10-cv-00043-LA Filed 03/22/10 Page 4 of 24 Document 10
+
+Undaunted by this Court’s denial of leave to replead, Plaintiff simply filed a new complaint based
+on the same underlying conduct that continued to occur after the filing of her first complaint. This
+complaint eschews all federal claims, and claims that this Court has jurisdiction because her claims
+present more than $75,000 in damages and makes similarly deficient claims regarding a commercial
+interest in her name. (Compl. ¶ 4.) Plaintiff changes tactics ever so slightly, foregoing claims based on
+“search snippet” language, and instead identifying two different aspects of Yahoo!’s search page as a basis
+for liability: “Search assist” and “suggested searches” at the top and bottom of each page of search
+results. (Id. ¶¶ 43-45). As shown herein, that change in tactics does not save Plaintiff’s claims. Like the
+search snippets at issue in her first complaint, the “search assist” and “suggested searches” are products of
+Yahoo!’s algorithm, and as such Plaintiff’s newest attempt fails for similar reasons as her prior failed
+complaint.
+
+III.
+
+Plaintiff’s Allegations
+A.
+
+Plaintiff’s Background and Activities
+
+Plaintiff is a typical Internet user. According to her complaint, she uses the Internet for academic
+research. (Id. ¶ 13.) She makes comments in online discussion forums and has published her own writing
+online. (Id. ¶ 14.) There are no allegations that Plaintiff has attempted to become particularly popular on
+the Internet, or has used whatever notoriety she may have achieved to profit. In fact, Plaintiff alleges that
+she “has never given . . . any third party, any permission, authority, or license to use or sell the right to use
+the name ‘Beverly Stayart’ or ‘Bev Stayart’ for the promotion or sale of any goods or services on the
+Internet, or in any other media, either directly or indirectly.” (Id. ¶ 24.) Plaintiff further alleges that her
+“name has commercial value for advertising purposes or for purposes of trade for her public advocacy
+work on behalf of animals, her positive and wholesome image, and the popularity of her scholarly posts on
+the internet at www.saponitown.com.” (Id. ¶ 18). Plaintiff thus does not suggest any basis for finding
+5
+
+Case 2:10-cv-00043-LA Filed 03/22/10 Page 5 of 24 Document 10
+
+that her name has any currency with the makers of an erectile dysfunction drug, and instead suggests just
+the opposite—that her image is wholesome, positive, and not at all associated with such products.
+
+B.
+
+The Nature of Yahoo!’s Businesses
+
+Yahoo! is an interactive computer service, which provides, among other services, a search engine
+to Internet users. (Id. ¶¶ 28-30.) Yahoo!’s search engine, through its proprietary algorithmic software,
+crawls the web, indexes web sites and pages across the entire Internet, and displays search results pages in
+response to queries, as shown in the figure below. (Id. ¶¶ 29-30.)
+
+That same algorithmic software is used to create search suggestions, such as those shown at the top of the
+graphic above preceded by the words “Also try.” (Id.)
+
+C.
+
+Plaintiff’s Allegations Against Yahoo!
+
+Plaintiff’s allegations are centered on two alleged appearances of her name on Yahoo!’s search
+website—both of which she found in the course of entering searches for her own name: (1) the appearance
+6
+
+Case 2:10-cv-00043-LA Filed 03/22/10 Page 6 of 24 Document 10
+
+of “Also try: bev stayart levitra” as a link at the top and bottom of the pages displaying the search results
+for “bev stayart” and (2) the automatic search suggestion “levitra” that appeared when Plaintiff started
+typing “Bev Stayart” into the Yahoo! search box. (Compl. ¶¶ 39, 40, 44-46 & Ex. 7..
+She alleges that the display of her name next to the name of a prescription drug caused her some
+unspecified harm, and that many of the sites that appear in the search results contain malware, 2 though she
+acknowledges the malware originated from third-party websites and that she contributed her name as the
+search query. (Compl. ¶ 47). Most significantly, she does not allege that any other individuals viewed or
+encountered the search assist queries, nor does she allege that she suffered any actual commercial harm or
+anything other than hurt feelings as a result of the alleged search assist results. To the contrary, she
+alleges that she has never allowed any party to use her name for a commercial purpose—and as such could
+not have suffered any commercial or financial harm. (Id. ¶ 24.)
+
+IV.
+
+Standards on a Motion to Dismiss
+While a complaint “does not need detailed factual allegations, a plaintiff’s obligation to provide
+
+the ‘grounds’ of his ‘entitlement to relief’ requires more than labels and conclusions and a formulaic
+recitation of the elements of a cause of action will not do.” Bell Atl. Corp. v. Twombly, 550 U.S. 544, 555
+(2007). The Court need not accept as true “threadbare recitals of a cause of action’s elements, supported
+by mere conclusory statements.” Ashcroft v. Iqbal, 129 S. Ct. 1937, 1949 (2009). Notice pleading “marks
+a more notable and generous departure from the hyper-technical, code-pleading regime of a prior era, but
+it does not unlock the doors of discovery for a plaintiff armed with nothing more than conclusions.” Id. at
+1950. A party can also “plead itself out of court by pleading facts that establish an impenetrable defense
+
+2
+
+Malware “is short for malicious software and is typically used as a catch-all term to refer to any software designed
+to cause damage to a single computer, server, or computer network, whether it's a virus, spyware, et al.” Robert
+Moir, Defining Malware: FAQ, (October 1, 2003) available at http://technet.microsoft.com/enus/library/dd632948.aspx (last accessed March 21, 2010).
+
+7
+
+Case 2:10-cv-00043-LA Filed 03/22/10 Page 7 of 24 Document 10
+
+to its claims . . . If the plaintiff voluntarily provides unnecessary facts in her complaint, the defendant may
+use those facts to demonstrate that she is not entitled to relief.” Tamayo v. Blagojevich, 526 F.3d 1074,
+1086 (7th Cir. 2008); Thomas v. Farley, 31 F.3d 557, 558-59 (7th Cir. 1994).
+
+V.
+
+The CDA Bars Plaintiffs’ Claims
+Section 230(c)(1) of the CDA provides that “[n]o provider or user of an interactive computer
+
+service shall be treated as the publisher or speaker of any information provided by another information
+content provider.” 47 U.S.C. § 230(c)(1). An “interactive computer service” (“ICS”) is defined as “any
+information service, system, or access software provider that provides or enables computer access by
+multiple users to a computer server, including specifically a service or system that provides access to the
+Internet….” 47 U.S.C. § 230(f)(2). An “information content provider,” by contrast, is defined as “any
+person or entity that is responsible, in whole or in part, for the creation or development of information
+provided through the Internet or any other interactive computer service.” 47 U.S.C. § 230(f)(3).
+Congress passed the immunity provision in 1996 “for two basic policy reasons: to promote the free
+exchange of information and ideas over the Internet and to encourage voluntary monitoring for offensive
+or obscene material.” Carafano v. Metrosplash.com, Inc., 339 F.3d 1119, 1122 (9th Cir. 2003). “In light
+of these concerns, reviewing courts have treated § 230(c) immunity as quite robust[.]” Id. at 1123. The
+Fourth Circuit found that, because the plain language of Section 230(c)(1) “creates a federal immunity to
+any cause of action that would make service providers liable for information originating with a third-party
+user of the service,” an internet service was immune from liability for both publishing third-party content
+and delaying in removal of the content. Zeran v. America Online, Inc., 129 F.3d 327, 330-31 (4th Cir.
+1997). As the court stated:
+Congress made a policy choice . . . not to deter harmful online speech
+through the separate route of imposing tort liability on companies that serve
+as intermediaries for other parties' potentially injurious messages . . . . The
+8
+
+Case 2:10-cv-00043-LA Filed 03/22/10 Page 8 of 24 Document 10
+
+specter of tort liability in an area of such prolific speech would have an
+obvious chilling effect. It would be impossible for service providers to
+screen each of their millions of postings for possible problems. Faced with
+potential liability for each message republished by their services, interactive
+computer service providers might choose to severely restrict the number and
+type of messages posted. Congress considered the weight of the speech
+interests implicated and chose to immunize service providers to avoid any
+such restrictive effect.
+Id. at 330-31. The Fourth and Ninth Circuits have been joined by the First, Tenth, and, most importantly,
+the Seventh Circuit in recognizing Section 230’s broad protection. 3 See Chicago Lawyer’s Comm. For
+Civil Rights Under Law v. Craigslist, Inc., 519 F.3d 666, 672 (7th Cir. 2008); Ben Ezra, Weinstein and
+Co., Inc. v. America Online Inc., 206 F.3d 980, 984-85(10th Cir. 2000); Universal Comm. Sys., Inc. v.
+Lycos, Inc. 478 F.3d 413, 418-19 (1st Cir. 2007). As discussed below, the services offered by Yahoo! are
+exactly the kind Congress enacted the CDA to protect, and Plaintiff’s claims fall directly within the
+CDA’s immunity provisions. See Murawski v. Pataki, 514 F. Supp. 2d 577, 591 (S.D.N.Y. 2007) (noting
+that search engine Ask.com is an ICS); Kruska v. Perverted Justice Found. Inc., No. CV 08-0054-PHXSMM, 2008 WL 2705377 at *4 (D. Ariz. 2008) (dismissing § 43(a) Lanham Act claim because of domain
+registrar’s CDA immunity); Carafano, 339 F.3d at 1125 (finding CDA immunity for website against
+claims of misappropriation or invasion of privacy).
+
+A.
+
+CDA Immunity May Be Decided on a Motion To Dismiss.
+
+Courts have found consistently that CDA immunity may be resolved on a motion to dismiss.
+“Section 230 immunity, like other forms of immunity, is generally accorded effect at the first logical point
+in the litigation process.” Nemet Chevrolet, Ltd. v. Consumeraffairs.com, Inc., 591 F. 3d 250, 254 (4th Cir.
+
+3
+
+Moreover, in passing the “Dot Kids Implementation and Efficiency Act,” Congress explicitly endorsed this body
+of law. See 47 U.S.C. § 941 (extending protections of Section 230 to certain entities); H.R. Rep. No. 107-449, at 13
+(2002) (“[t]he courts have correctly interpreted section 230(c)” and “[t]he Committee intends these interpretations
+of Section 230(c) to be equally applicable to those entities covered by” the Dot Kids Act).
+
+9
+
+Case 2:10-cv-00043-LA Filed 03/22/10 Page 9 of 24 Document 10
+
+2009). Immunity is “immunity from suit rather than a mere defense to liability” and “it is effectively lost
+if a case is erroneously permitted to go to trial.” Id. (citing Brown v. Gilmore, 278 F.3d 362, 366 n.2 (4th
+Cir. 2002); see Goddard v. Google, Inc., 640 F. Supp. 2d 1193, 1201, n.6 (N.D. Cal. 2009) (Rule 12(b)(6)
+dismissal based on CDA immunity); Universal Commc'n Sys., Inc. v. Lycos, Inc., 478 F.3d 413 (1st Cir.
+2007) (same); Green v. America Online, 318 F.3d 465, 468 (3rd Cir. 2003) (same); see Barnes v. Yahoo,
+Inc., 570 F. 3d 1096, 1098 (9th Cir. 2009). In Doe v. GTE Corp., 347 F.3d 655, 657 (7th Cir. 2003), the
+Seventh Circuit established that claims barred by the CDA may be adjudicated on the pleadings pursuant
+to Fed. R. Civ. P. 12(c), and may in some cases be adjudicated at the same time as a 12(b)(6) motions
+when expedient. See also Stayart v. Yahoo! Inc., 651 F. Supp. 2d 873, 879-80 (E.D. Wis. 2009). That is
+again the case here.
+
+B.
+
+Yahoo! Is an ICS and Not a Creator of Content
+
+Plaintiff attempts to plead around CDA immunity by alleging that Yahoo! is a creator of the
+objectionable content under 47 U.S.C. § 230(f)(3). (Compl. ¶¶ 44-45.) As this Court recognized when
+deciding Yahoo!’s motion to dismiss Plaintiff’s first complaint, Yahoo! is an ICS. Stayart, 651 F. Supp.
+at 885 (citing Murawski, 514 F. Supp. 2d at 591). Both of the “statements” Plaintiff alleges that Yahoo!
+“created,” however, are search suggestions—one a live search suggestion that appeared as a user types,
+and the other a search suggestion that appeared in a user’s search results. Neither of those statements,
+then, are fundamentally different from the “search snippets” at issue in this Court’s prior decision in
+Yahoo!’s favor in Plaintiff’s first action. In both this case and the last, Yahoo!’s algorithm “checks the
+search terms entered into its directory against its databases, and applies a formula or algorithm, to produce
+search result page(s) that may relate to the customer’s search terms. It also provides links, or embedded
+addresses, to those websites.” (Compl. ¶ 30.) This is true with regard to search results as well as
+
+10
+
+Case 2:10-cv-00043-LA Filed 03/22/10 Page 10 of 24 Document 10
+
+suggestions or links for searches that may be related to the searches the user submitted in light of the
+results produced by Yahoo!’s algorithm. 4
+The technology enabling suggestion to users of alternative search query terms and phrases does not
+render an ICS a “creator” to defeat CDA immunity. In Jurin v. Google, No. 2:09-cv-03065-MCE-KJM,
+__ F. Supp. 2d __, 2010 WL 727226, at *4 (C.D. Cal. Mar. 1, 2010), the district court found that that the
+CDA barred false advertising claims against Google based on Google’s practice of suggesting
+trademarked words to customers of its AdWords program when those users searched for related terms.
+Through AdWords, Google sells keyword advertising to businesses, such that when a user searches for a
+particular term, a link to the advertiser’s website will appear at the top of the search results or to one side
+in a prominent location. Id. at 1. When potential advertisers bid on keywords, the AdWords program
+provides additional search query suggestions. Id. In Jurin, the plaintiff challenged the suggestion of his
+trademarked name to competitors as a possible AdWord on which to bid. The court dismissed plaintiffs’
+claims, holding:
+Defendant does not provide the content of the ‘Sponsored link’
+advertisements. It provides a space and service and thereafter charges for its
+service. By suggesting keywords to competing advertisers Defendant
+merely helps third parties to refine their content. This is tantamount to the
+editorial process protected by the CDA. Defendant’s keyword suggestion
+tool hardly amounts to the participation necessary to disqualify it of CDA
+immunity. Rather it is a ‘neutral tool,’ that does nothing more than
+provide options that advertisers could adopt or reject at their discretion,
+thus entitling the operator to immunity.
+
+4
+
+Significantly, Plaintiff does not allege that the process for generating the search suggestions referenced in the
+current complaint involves any knowing choice by Yahoo! or its employees to draft or input the suggestions at
+issue. Nor can she. Although not pertinent to this motion to dismiss, which can be resolved solely on the basis of
+Plaintiff’s complaint, the “search assist” and “see also” text at issue here are not authored by Yahoo! but, like the
+search results and “snippets” at issue in the first action, are generated by Yahoo!’s search algorithm based on search
+query content provided by third party users of Yahoo!’s search engine.
+
+11
+
+Case 2:10-cv-00043-LA Filed 03/22/10 Page 11 of 24 Document 10
+
+Id. at 4 (citing Goddard v. Google, 640 F. Supp. 2d 1193, 1197-98 (N.D. Cal. 2009) (emphasis added)).
+Yahoo!’s practice of suggesting search results is similarly a neutral tool. Here, as in Jurin, the user
+(and here the only alleged user is Plaintiff herself) provides search terms, and Yahoo!’s algorithmic search
+engine provides suggestions—based on the content of search queries entered by prior users—to aid that
+user in refining their search. Ultimately, however, it is the searcher and the websites in the search results
+that benefit from the combination of terms—not Yahoo!. As such, Yahoo! is not a content creator, and its
+CDA immunity remains intact.
+
+C.
+
+Plaintiff’s Right to Privacy Claims Are Not Intellectual Property Claims, and
+As Such, Are Barred by the CDA.
+
+Although the CDA provides that it has no effect on intellectual property law, 47 U.S.C. § 230(e), a
+state’s particular characterization of a claim as “intellectual property” is not determinative. See Perfect
+10, Inc. v. CCBill LLC, 488 F.3d 1102, 1118 (9th Cir. 2007) (“[p]ermitting the reach of any particular
+state’s definition of intellectual property to dictate the contours of this federal immunity would be contrary
+to Congress’s expressed goal of insulating the development of the Internet from the various state-law
+regimes.”); cf. Doe v. Friendfinder Network, Inc., 540 F. Supp. 2d 288, 306 (D.N.H. 2008) (finding that a
+“intellectual property” includes state law intellectual property claims.)
+Plaintiff’s attempt to characterize her defamation claim as an “intellectual property” claim must
+fail. Federal intellectual property claims, like trademark and copyright, protect commercial interests in
+intellectual property. See Stayart, 558 F. Supp. 2d at 882 (commercial interest required to have standing
+to bring a Lanham Act claim). Similarly, this Court noted that a “right to privacy” claim under Wisconsin
+law may be an intellectual property claim, but only if a plaintiff is able to allege commercial harm:
+The only way the [intellectual property] exception [to the CDA] could be
+implicated is if Stayart demonstrates that she has a property interest in the
+commercial value of her name (like “CrazyLegs” Hirsch), such that her
+claim could be considered an intellectual property claim.
+12
+
+Case 2:10-cv-00043-LA Filed 03/22/10 Page 12 of 24 Document 10
+
+Id. at 889 (emphasis added).
+Plaintiff attempts to comply with this Court’s ruling by titling her claim a “right to privacy” claim
+and making conclusory allegations that her name has “commercial value.” Under Twombly, conclusory
+allegations are insufficient in light of the other allegations in her complaint. The substance of Plaintiff’s
+complaint is that third-party content associating her name with “levitra” damaged her “good name” -- a
+claim that is no more than a garden-variety defamation claim unquestionably barred by the CDA. See
+Storms v. Action Wis. Inc., 750 N.W.2d 739, 748 (Wis. 2008). The complaint begins with a discussion of
+her “image.” (Compl. ¶¶ 7-18.) Her communication with Yahoo!, which she attaches to her complaint,
+repeatedly references defamation: “Why is Yahoo singling out my client in this despicable fashion? . . .
+Yahoo!’s behavior is nothing but a transparent attempt to further injure my client and her reputation.”
+(Compl. Ex. 15.) Plaintiff’s claims thus arise from her allegations that her reputation is sullied, not from
+allegations that her commercial endorsement was not properly compensated. She has never licensed her
+name for any commercial endeavor. (Compl. ¶ 24.) Indeed, she has failed to identify any commercial
+value to her endorsement, particularly in the context in which the third-party websites allegedly use the
+words “bev stayart.” Plaintiff has again pled herself out of court because the “bev stayart” name, by her
+own admission, has no recognition or value in the markets promoted by the websites cited in her
+complaint; she has no connection to those websites. (Compl. ¶ 18.) Accordingly, her claims sound in
+defamation, lack the commercial component required to be intellectual property claims, and are barred by
+the CDA.
+
+VI.
+
+Plaintiff Has Failed to State a Claim for the Violation of the Right of Privacy
+Even if Plaintiff’s claims are not barred by the CDA, they should be dismissed with prejudice for
+
+failure to state a claim. Plaintiff attempts to state a claim under Wis. Stats. § 995.50(2)(b), which bars
+“[t]he use, for advertising purposes or for purposes of trade, of the name, portrait or picture of any living
+13
+
+Case 2:10-cv-00043-LA Filed 03/22/10 Page 13 of 24 Document 10
+
+person, without having first obtained the written consent of the person or, if the person is a minor, of his or
+her parent or guardian.” Wis. Stats. § 995.50(3) further provides: “The right of privacy recognized in this
+section shall be interpreted in accordance with the developing common law of privacy . . . with due regard
+for maintaining freedom of communication, privately and through the public media.”
+
+A.
+
+There Is No “Common Law” Claim for a Right to Privacy Under Wisconsin
+Law.
+
+As initial matter, there is no “common law” right to privacy claim under Wisconsin law. Indeed,
+the Wisconsin Supreme Court only recognized a claim for invasion of privacy after the passage of the
+statute. Hirsch v. S. C. Johnson & Son, Inc., 90 Wis. 2d 379, 387, 280 N.W.2d 129, 132 (1979). The
+statute was enacted after the events underlying Hirsch occurred, see id. at 386, so the statute was not
+applicable to the case, but the clear intention of the Hirsch court in interpreting the law going forward was
+to make no distinction between a statutory and a common law claim. In fact, in discussing the common
+law claim, it often described its elements with the same language used in the statute. See id. As the
+Hirsch court stated, the purpose of the claims is to protect “the property rights in the publicity value of
+aspects of a person’s identity[,]” that is, “to protect the property rights in one’s identity or name from
+commercial exploitation by others.” Id. at 383, 395.
+
+B.
+
+Plaintiff Fails To Allege a Property Right In Her Name Sufficient to State a
+Cause of Action Under § 995.50.
+
+In simultaneously setting out the parameters of the statute and the newly recognized tort, the
+Hirsch court distinguished “the tort of appropriation [from] other torts involving invasion of privacy” in
+that only the former hangs on the question of whether a person has “a property right in his name or
+identity.” Id. at 390, 397. Only where there is such a right, “the possessor of that property right may place
+[limitations] upon the commercial and public use of the name.” Id. at 397. In applying the question of
+whether the plaintiff in that case, former football player Elroy “Crazylegs” Hirsch, had a property right in
+14
+
+Case 2:10-cv-00043-LA Filed 03/22/10 Page 14 of 24 Document 10
+
+his name that could support a claim for invasion of privacy, the Wisconsin Supreme Court quoted a law
+review article entitled, The Tort of Misappropriation of Name or Likeness Under Wisconsin's New
+Privacy Law, 1978 Wis. L. Rev. 1029, 1046 – an article that refers to the then newly enacted invasion of
+privacy statute, which is now § 995.50. As that article states: “The rule is fairly well established that well
+known athletes have a property right in their identities and are allowed to recover for wrongful
+appropriation.” 1978 Wis. L. Rev. at 1046.
+The foregoing makes clear that under Wisconsin law the presence of a property right in one’s
+name is a prerequisite to a claim for invasion of privacy by means of appropriation of that right. As this
+Court found with regard to Plaintiff’s first complaint, the allegations demonstrate that Plaintiff has no
+celebrity status and her name has no distinctiveness or commercial value sufficient to confer a property
+right. Stayart, 651 F. Supp. 2d at 888. To the contrary, as in her first complaint, Plaintiff alleges only
+that:
+•
+
+•
+
+She posts academic articles on a third-party site. (Compl. ¶¶ 14-15.)
+She uses the Internet in support of animal protection activities and genealogy research.
+
+(Compl. ¶¶ 13-14.)
+•
+
+She has participated in campaigns to save certain animal species. (Compl. ¶¶ 10-11.)
+
+•
+
+She has written two poems that appear on three Danish websites. (Compl. ¶ 16.)
+
+Additionally, Plaintiff alleges that “Beverly Stayart” has become a popular keyword phrase 5 through the
+actions of other parties that have allegedly used her name to drive traffic to their websites. (Compl. ¶¶ 1920.) In support, Plaintiff attaches an appendix to her complaint that shows five websites have received
+traffic from Internet searchers using the search term “Beverly Stayart.” (Compl. Exs. 1 & 2.)
+5
+
+Plaintiff, however, ignores the fact that most of her claims concern “bev stayart” a name she does not allege she
+used in her political activities or in her poetry.
+
+15
+
+Case 2:10-cv-00043-LA Filed 03/22/10 Page 15 of 24 Document 10
+
+Although advocacy may in some instances amount to commercial activity or gain an individual
+certain notoriety, Plaintiff never alleges that she used her name to promote causes or any particular
+political advocacy or that she has ever been paid to do so. Instead, Plaintiff’s complaint merely alleges
+that she “actively participated” in several environmental campaigns” contributes to a genealogical
+discussion forum in which her “posts . . . have generated almost 17,000 ‘hits’ during the past three
+years[,]” and wrote two poems that appeared on two Danish websites. (Compl. ¶¶ 11, 15, 16.) She does
+not allege that she was the public face of such campaigns, or that her identity was used to garner support
+for them. Rather, the Complaint contains nothing more than skeletal allegations that Plaintiff’s name has
+value because of unspecified “public advocacy” and the “popularity of her scholarly posts.” (Id.)
+If such allegations were sufficient to confer a property right in one’s name, nearly every person
+who signed a petition for any advocacy or political group or posted on an internet discussion forum would
+have an enforceable interest against anyone who used their name in connection with a product they did not
+use or support. Such a result would be contrary to the Hirsch Court’s observation that “well-known”
+persons have a property right sufficient to support a cause of action under § 995.50 and this Court’s prior
+statements finding that a Plaintiff must have a commercial interest in her name in order for claims to be
+actionable “intellectual property” claims. Stayart, 651 F. Supp. 2d at 888.
+A number of cases brought under the Lanham Act for misappropriation underscore the necessity
+for something more than mere political advocacy to create a property right in one’s name before one can
+state a “right to privacy” claim based on the use of a name for advertising purposes. See e.g., Committee
+for Idaho’s High Desert v. Yost, 881 F. Supp. 1457 (D. Idaho 1995) (unlike Plaintiff here, CIHD engaged
+in a number of commercial activities in an effort to make itself the public face of the positions it
+espoused); see also United We Stand Am., Inc. v. United We Stand Am. N.Y., Inc., 128 F.3d 86, 89-90 (2d
+Cir. 1997) (enforcing a trademark where a presidential candidate’s campaign committee spent
+16
+
+Case 2:10-cv-00043-LA Filed 03/22/10 Page 16 of 24 Document 10
+
+considerable sums promoting the mark, raising money, and trying to “commercialize” the mark); Brach
+Van Houton Holding, Inc. v. Save Brach’s Coalition for Chicago, 856 F. Supp. 472, 475-76 (N.D. Ill.
+1994) (providing protection for a candy company that used the “Brach’s” mark to market and sell candy,
+in an action against an advocacy group that was speaking out against Brach’s management). 6 Plaintiff
+thus could not have a “property right” in her name of the sort required for an appropriation claimant under
+the Wisconsin common law or § 995.50. See Hirsch, 90 Wis. 2d at 387. Accordingly, Plaintiff’s invasion
+of privacy claims should fail.
+Moreover, a comparison of the Restatement (Second) of Torts § 652A, B, C and D (1977) with
+§ 995.50 reveals that the statute is modeled after the Restatement, with certain modifications not relevant
+to the present case. Id., § 652C. Accordingly, the Restatement’s limitation that “[i]n order that there may
+be liability … the defendant must have appropriated to his own use or benefit the reputation, prestige,
+social or commercial standing, public interest or other values of the plaintiff’s name or likeness” is
+applicable here. Id. Plaintiff’s fact allegations are insufficient to meet this burden. First, Plaintiff does
+not allege that Yahoo! used the term “bev stayart” to promote Yahoo! at all. At most, Plaintiff alleges that
+Yahoo! suggested searches that might be relevant to finding third-party content. Plaintiff also fails to
+allege any facts to show that Yahoo! enjoyed any benefit from the reputation, prestige, social or
+commercial standing, public interest or other values of Plaintiff’s name. On the contrary, the Complaint
+makes evident that Plaintiff could never make such a showing where: (1) Plaintiff’s name, in the vast
+context of the Internet, did not possess these virtues to the extent needed to state a claim; (2) Yahoo!’s
+
+6
+
+Kappa Sigma Fraternity v. Kappa Sigma Gamma Fraternity, 654 F. Supp. 1095, 1101 (D. N.H. 1987) (fraternal
+organization); Am. Diabetes Ass’n, Inc. v. Nat’l Diabetes Ass’n, 533 F. Supp. 16, 20 (E.D. Pa.1981) (association for
+medical research), aff’d, 681 F.2d 804 (3d Cir. 1982); United States Jaycees v. Philadelphia Jaycees, 490 F. Supp.
+688, 691 (E.D. Pa. 1980) (public service organization), rev’d on other grounds, 639 F.2d 134 (3d Cir. 1981); United
+States Jaycees v. San Francisco Junior Chamber of Commerce, 354 F. Supp. 61, 64, 65 (N.D. Cal. 1972) (same),
+aff’d, 513 F.2d 1226 (9th Cir. 1975).
+
+17
+
+Case 2:10-cv-00043-LA Filed 03/22/10 Page 17 of 24 Document 10
+
+alleged use of the term “bev stayart” was so de minimis that no such benefit could possibly have accrued
+to Yahoo!; and (3) users had already navigated to Yahoo!’s website before ever encountering Plaintiff’s
+name.
+Additionally, as in her first attempt, Plaintiff has pleaded herself out of court. Under § 995.50, a
+“right of privacy” claim may only stand if Plaintiff is identifiable from the use of her name. Hirsch, 90
+Wis. 2d at 387; see also Cohen v. Herbal Concepts, Inc., 472 N.E.2d 307, 309 (N.Y. 1984) (plaintiff must
+be capable of identification from the objectionable material itself). Plaintiff’s own allegations regarding
+her good name and lack of connection with the products at issue make clear that no reasonable person
+would ever confuse Plaintiff Beverly Stayart with a “bev stayart” that endorses levitra. (Compl. ¶24; Ex.
+15); Stayart, 651 F. Supp. 2d at 888.
+
+VII. This Court Lacks Jurisdiction Because Plaintiff Has Not Alleged Facts
+Sufficient to Support $75,000 in Damages
+Even if Plaintiff has stated a claim, jurisdiction does not exist in this court to hear it. Plaintiff
+alleges only state law claims, and seeks to bring this action in federal court solely on the basis of diversity
+jurisdiction. To establish diversity jurisdiction under 28 U.S.C. § 1322(a), a plaintiff’s claim for relief
+must exceed $75,000, exclusive of costs, at the time of filing. Hart v. Schering-Plough Corp., 253 F.3d
+272, 273 (7th Cir. 2010) (citing Gardynski-Leschuck v. Ford Motor Co., 142 F.3d 955, 958-59 (7th Cir.
+1998)). Plaintiff alleges three types of damages, but fails to plead any plausible basis from which she
+could ever recover damages that, in the aggregate, exceed $75,000.
+First, Plaintiff’s statutory damages are non-existent. Under the plain language of Wis. Stat.
+§995.50(1)(b), only compensatory damages are recoverable. Plaintiff, however, has not alleged any actual
+loss of revenue from licensing her name, nor any amount of actual damage caused by the appearance of
+her name in search results. She has not alleged any actual ill effects from the appearance of her name in
+18
+
+Case 2:10-cv-00043-LA Filed 03/22/10 Page 18 of 24 Document 10
+
+search results, nor even that anyone other than plaintiff herself saw those search results. All that remains
+is Plaintiff’s bare, conclusory allegation that she has suffered over $75,000 in damages. Under Twombly,
+such an unsupported allegation is insufficient.
+In Griffith v. Fenrick, 486 F. Supp. 2d 848 (W.D. Wis. 2007), the Court dismissed claims brought
+under § 995.50 finding that actor Andy Griffith failed to satisfy the jurisdictional minimum where he
+alleged only loss of merchandising fees, damage to reputation, and unjust enrichment. Andy Griffith
+played “Sheriff Andy Taylor” on the popular television show “The Andy Griffith Show.” Id. at 850.
+Griffith was the principal of Mayberry Enterprises, a company that licensed his personal intellectual
+property rights and administered the licensing rights to “the Andy Griffith Show.” Id. The defendant was
+William Fenrick, who had changed his name to Andrew Jackson Griffith before running for sheriff in
+Platteville, Wisconsin. Id. Fenrick made frequent references to the Sheriff Taylor character during his
+campaign and used “Andy Griffith for Sheriff” on numerous t-shirts, signs and other campaign materials.
+Griffith alleged three categories of damage: “(1) loss of merchandising fees, (2) damage to his
+reputation, (3) unjust enrichment to defendant.” Id. at 854. First, the court found that the loss of
+merchandising fees were insufficient, because while Griffith had earned over $100,000 in fees, those were
+earned over a period of 18 years—or $5,600 a year. Id. Second, Griffith’s only evidence of loss of
+reputation was a conclusory affidavit from plaintiff himself. Id. As to the third alleged form of damage,
+the court noted that Fenrick had lost the election, and it was unclear what benefit he had gained from the
+use of Griffith’s name. Id. Thus, the court found that “it can be determined to a legal certainty that
+[plaintiff’s] damages could not reach $75,000.” Id.
+Plaintiff’s complaint contains even weaker allegations than the facts in Griffith. Like Mr. Griffith,
+Plaintiff makes nothing more than conclusory statements regarding damage to her reputation and harm she
+has endured as a result of the alleged use of her name. Unlike Mr. Griffith, however, Plaintiff does not
+19
+
+Case 2:10-cv-00043-LA Filed 03/22/10 Page 19 of 24 Document 10
+
+allege that she has licensed her name in the past or any other facts providing a basis for calculating
+damages. It stands to reason that if Andy Griffith, who appeared on one of the more popular television
+shows in history and had a company devoted to licensing and merchandising of his name could not
+demonstrate damages of over $75,000 despite blatant and repeated use of his name, neither can Plaintiff,
+who has never licensed her name for any reason and alleges only that she is known as a poster on an
+online forum and author of two Dutch poems posted on a website of unknown popularity, could ever reach
+the jurisdictional maximum based on compensatory damages alone. 7
+Plaintiff’s complaint also alleges two other types of damages: costs of suit, including reasonable
+attorney’s fees and unjust enrichment. Costs of suit, however, are not included in the calculation for
+jurisdiction purposes. 28 U.S.C. § 1332(a) (“exclusive of interest and costs”). Even if attorney’s fees are
+not costs under § 995.50, a plaintiff must have more than $75,000 in attorney’s fees at the time of filing to
+support jurisdiction. Hart, 253 F.3d at 273. That is not the case here, where plaintiff has filed a simple
+15-page complaint and provides no other allegations to support a finding that she has accrued such
+substantial legal fees.
+Nor does Plaintiff’s claim for unjust enrichment reach the jurisdictional minimum. Plaintiff
+summarily alleges that Yahoo! has benefitted from Plaintiff’s appearance in search results for some
+unpled, speculative reason—but provides no factual basis for inferring that the benefit was so great that
+Yahoo! enjoyed any benefit much less $75,000 or more. Furthermore, under Plaintiff’s own allegations it
+is clear that her name could not have increased traffic to Yahoo! sites (as alleged) because a user must
+have already navigated to the Yahoo! Search page in order to enter his or her search terms. (Compl.
+
+7
+
+The dearth of compensatory damages also precludes Plaintiff from reaching the jurisdictional minimum by
+pleading the possibility of punitive damages because the amount of punitive damages must bear some relation to the
+compensatory damages amount. BMW of N. Am. v. Gore, 517 U.S. 559, 580-81 (1996).
+
+20
+
+Case 2:10-cv-00043-LA Filed 03/22/10 Page 20 of 24 Document 10
+
+¶¶ 42, 43.) Plaintiff never alleges that Yahoo! earned revenue when users clicked on links containing her
+name. In fact, the exhibits Plaintiff has submitted with her complaint show otherwise. For instance,
+Exhibit 7 is a list of search results containing the terms Bev Stayart and levitra. The only sponsored
+advertising link—which are contained in the “Sponsored Results” portion of the search page on the right
+hand side, as in the graphic on page 6—however, does not contain Plaintiff’s name at all—only a
+reference to levitra. A user searching for levitra would receive that link (or a similar one) regardless of
+whether he or she used Ms. Stayart’s name. As such, Plaintiff offers no plausible factual basis to
+demonstrate that Yahoo! received any benefit from the use of Ms. Stayart’s name, much less $75,000 in
+benefits.
+In any event, res judicata bars Plaintiff from asserting any more than a de minimus amount of
+damages. In reviewing the same conduct in Plaintiff’s first case against Yahoo!, this Court held that any
+injuries to Plaintiff from the acts complained of in that action were de minimus and that it is unlikely that
+she “could make a good faith allegation that her damages are more than $75,000.” Stayart, 651 F. Supp.
+2d at 889. Plaintiff fails to provide any material facts in this complaint that differ from her first complaint
+in determining the amount of damages. In fact, the only difference between the two complaints with
+regard to damages is a conclusory allegation that Plaintiff’s damages are more than $75,000. This
+unsupported allegation is simply not enough to overcome this Court’s prior holding regarding damages or
+meet the jurisdictional threshold and should be dismissed for lack of jurisdiction.
+
+VIII. If Yahoo!’s Motion to Dismiss is Not Granted, A Stay of The Proceedings is
+Appropriate
+While, for the reasons stated above, this case may be dismissed on clearly established precedent, if
+the Court determines that Yahoo! is not entitled to relief, Yahoo! respectfully requests a stay of further
+proceedings pending the Seventh Circuit’s decision in Stayart v. Yahoo!, No. 09-3379. That appeal
+21
+
+Case 2:10-cv-00043-LA Filed 03/22/10 Page 21 of 24 Document 10
+
+involves the same parties, claims under Wis. Stat. § 995.50, and issues regarding Yahoo!’s entitlement to
+immunity under the CDA. As such, a decision in that case may reinforce the arguments stated above, and
+may, depending on the Court of Appeal’s ruling as to whether the district court correctly declined to
+exercise jurisdiction, have res judicata effect on the amount of damages at issue and the existence of
+jurisdiction in this Court.
+This Court has discretion to stay its own proceedings pending the resolution of other suits.
+Cherokee Nation of Oklahoma v. United States, 124 F.3d 1413, 1416 (Fed. Cir. 1997) (citing Landis v.
+North American Co., 299 U.S. 248, 254-55, 57 S.Ct. 163, 81 L.Ed. 153 (1936)). “The power to stay
+proceedings is incidental to the power inherent in every court to control the disposition of the cases on its
+docket with economy of time and effort for itself, for counsel, and for litigants.” Landis, 299 U.S. at 254.
+In determining whether a stay is appropriate, courts “balance interests favoring a stay against interests
+frustrated by the action” in light of the court's strict duty to exercise jurisdiction in a timely manner.
+Cherokee Nation, 124 F.3d at 1416. Courts often consider the following factors when deciding whether to
+stay an action: (1) whether the litigation is at an early stage, Seaquist Closures LLC v. Rexam Plastics, No.
+08 C 0106, 2008 WL 4691792, at *1 (E.D. Wis. Oct. 22, 2008); (2) whether a stay will unduly prejudice
+or tactically disadvantage the non-moving party; (3) whether a stay will simplify the issues in question and
+streamline the trial; and (4) whether a stay will reduce the burden of litigation on the parties and on the
+court. Tap Pharma. Prods., Inc. v. Atrix Labs, Inc., No. 03 C 7822, 2004 WL 422697, at *1 (N.D. Ill.
+Mar. 3, 2004); Baxter Int’l, Inc., v. Fresenius Med. Care Holdings, Inc., No. 08 C 2389, 2008 WL
+4395854, at *3 (N.D. Ill. Sept. 25, 2008).
+Here, the litigation is at the earliest possible stage. The stay will not unduly prejudice Plaintiff, as
+the Court of Appeals has already set the case for argument, and it does not appear that a stay here will
+cause an undue and prejudicial delay. A stay could streamline the issues for resolution, as the Court of
+22
+
+Case 2:10-cv-00043-LA Filed 03/22/10 Page 22 of 24 Document 10
+
+Appeals may resolve issues of CDA and jurisdiction, as well as issues regarding the continued validity of
+similar state law claims. As such, a stay pending a decision in that case is appropriate.
+
+IX.
+
+Conclusion
+Yahoo!’s motion to dismiss should be granted. Plaintiff’s complaint should be dismissed without
+
+leave to amend.
+s/ Christian Genetski
+Christian S. Genetski
+Zwillinger Genetski LLP
+1705 N St. N.W.
+Washington, DC 20036
+(202) 296-3585
+christian@zwillgen.com
+Counsel for Defendant Yahoo! Inc.
+
+23
+
+Case 2:10-cv-00043-LA Filed 03/22/10 Page 23 of 24 Document 10
+
+CERTIFICATE OF SERVICE
+I hereby certify that on March 22, 2010, I electronically filed the preceding MEMORANDUM OF
+LAW IN SUPPORT OF MOTION TO DISMISS with the Clerk of the Court using the CM/ECF system,
+which sent notification of such filing to:
+
+Gregory A. Stayart
+72wk96@elknet.net
+/s/ Christian S. Genetski
+
+24
+
+Case 2:10-cv-00043-LA Filed 03/22/10 Page 24 of 24 Document 10
+
+

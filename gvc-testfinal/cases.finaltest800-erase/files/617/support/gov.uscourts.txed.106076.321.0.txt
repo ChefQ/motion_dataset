@@ -1,0 +1,960 @@
+Case 6:07-cv-00490-LED-JDL
+
+Document 321
+
+Filed 08/13/2009
+
+Page 1 of 18
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF TEXAS
+TYLER DIVISION
+
+SAXON INNOVATIONS, LLC,
+PLAINTIFF,
+V.
+NOKIA CORP., et al.,
+
+CIVIL ACTION NO. 6:07-cv-490-LED-JDL
+JURY TRIAL DEMANDED
+
+DEFENDANTS.
+DEFENDANTS’ OBJECTIONS TO AND MOTION FOR RECONSIDERATION
+OF THE CONSTRUCTION OF THE CLAIMS OF
+U.S. PATENT NOS. 5,502,689, 5,592,555 AND 5,771,394
+
+Case 6:07-cv-00490-LED-JDL
+
+Document 321
+
+Filed 08/13/2009
+
+Page 2 of 18
+
+Defendants Samsung Electronics Co., Ltd., Samsung Electronics America, Inc., Samsung
+Telecommunications America, LLC, Palm, Inc., Research In Motion Ltd., Research In Motion
+Corporation, Nintendo Co., Ltd., and Nintendo of America Inc. (collectively “Defendants”) hereby
+respectfully object to, and move for reconsideration of, certain of the claim constructions for U.S. Patent
+Nos. 5,502,689, 5,592,555 and 5,771,394 entered by the Magistrate Judge in his July 30, 2009 Order.
+See 28 U.S.C. § 636(b)(1)(A); Fed R. Civ. P. 72(a); E.D. Texas Local Rules, Appendix B, Rule 4(A).
+I.
+
+OBJECTIONS TO THE COURT’S CONSTRUCTIONS FOR THE DISPUTED TERMS
+OF THE ‘689 PATENT
+A.
+
+“disable request signal”
+
+Disputed Term
+“disable request
+signal”
+Claims 5, 8
+
+Saxon’s Proposal
+Defendants’ Proposal
+a signal to initiate
+a signal that requests the
+entry into a shut-down system to stop the output
+mode
+clock signal and that starts the
+predetermined length of time
+
+Court’s Construction
+a signal requesting the
+system enter into
+shut-down mode
+
+Defendants object to the Court’s construction of the term “disable request signal” and request
+reconsideration of Defendants’ proposed construction for each of the reasons set forth in Defendant’s
+Response Brief. See Brief, Docket Entry No. (“DE”) 272, at 1-4. Defendants’ construction was rejected
+and the Court’s construction of this term was adopted in part because the Court determined that the
+specification adequately defined shut-down mode. (Order, DE 311, at 9.) Accordingly, the Court’s
+claim construction analysis focused on the potential ambiguity of Saxon’s proposal concerning the
+phrase “initiate entry into” shut-down mode. The Court’s reference to the clear description of shut-down
+mode in the specification demonstrates that the Court’s rejection of Defendants’ proposed construction
+—which is faithful to that description — is erroneous and should be reconsidered.
+The signal consistently described in the specification in connection with the request to enter shutdown mode is SDENTR, which is described as a “request to enter shut-down mode”:
+The shut down control circuit 12 may be responsive to signals SDEXIT received on line 28,
+the assertion of which indicates a request to exit shutdown, and SDENTR received on line 30,
+the assertion of which indicates a request to enter shut-down mode.
+
+Case 6:07-cv-00490-LED-JDL
+
+Document 321
+
+Filed 08/13/2009
+
+Page 3 of 18
+
+‘689 patent, col. 6:43-47 (emphasis added); see also col. 8:10-13 (“Upon [verification], the
+SDENTR signal may be asserted on line 30 signaling a request to enter the shut-down mode.”). In this
+and every other place in the specification, the signal that requests entry into shut-down mode is the
+SDENTR signal 30. Thus, the disable request signal of the claim is most analogous to, if not coincident
+with, signal 30.
+The request to enter shut-down mode in the specification is inextricably intertwined with the
+predetermined length of time before the clock is stopped. The use of “disable request signal” in the
+“Summary of the Invention” demonstrates that the disable request is the triggering event for the
+predetermined length of time:
+In certain embodiments of the present invention, the step of stopping the at least one output
+clock signal may include the step of stopping the at least one output clock signal after the
+predetermined length o [sic] time following the most recent assertion of the disable request
+signal.
+‘689 patent, col. 4:63-67 (emphasis added); see also Claim 8 (mirroring claim language). Moreover,
+contrary to the Court’s analysis in footnote 2, there is clear support in the specification for the
+relationship between the disable request signal — the signal requesting the system to enter shut-down
+mode — and the predetermined length of time in the claims:
+Further, the clock generator of the present invention provides a predetermined time delay from
+a request to enter shut-down mode to the disabling of the module clock signals, providing time
+to prepare the modules for shut-down and to complete any necessary housekeeping routines.
+‘689 patent, 9:47-51 (emphasis added). This passage is entirely consistent with the purpose of the
+invention, and with the initial description of the invention quoted above: “The shut-down entry delay
+timer 14 provides a time delay between a request to enter shut-down mode and the disablement of the
+oscillator 10. This time delay may be used to allow one or more of the modules 6 in the electrical
+system 2 to be programmed to its idle state, or to complete any necessary housekeeping
+operations.” ‘689 patent, 6:57-62 (emphasis added).
+Thus, contrary to the Court’s ruling, the disable request signal — i.e., the signal requesting entry
+into shut-down mode — is the signal that starts the predetermined length of time. The Court declined to
+2
+
+Case 6:07-cv-00490-LED-JDL
+
+Document 321
+
+Filed 08/13/2009
+
+Page 4 of 18
+
+reach this conclusion, stating that “Defendants’ interpretation would exclude the figure 1 embodiment,
+which shows a separate signal initiating the predetermined length of time after signal 48 is verified, from
+the scope of the claim.” (Order, DE 311, at 9.) However, any conflict between Claim 5 and the figure 1
+embodiment is caused by how Claim 5 was drafted, not by Defendant’s construction of this claim.
+Unasserted Claim 1 reflects that the specification discloses two distinct signals: a first signal that is
+verified to ensure that the device will not be inadvertently shut down (i.e., the “shut-down entry request
+signal”), and a second signal that actually requests the system to enter shut-down mode (i.e., the “disable
+activation signal”). Nothing in the specification states that the first signal triggers the predetermined
+length of time — indeed, unless the first signal is verified, the predetermined length of time never
+begins.
+In contrast to Claim 1, Claim 5 mentions only one signal but adds the concept of a
+“predetermined length of time” to shut down. The only claimed signal requests that the device enter a
+shut-down mode. As discussed above, the specification and figure 1 make clear that the signal
+requesting shut-down initiates the predetermined length of time. The problem is that Claim 5 also
+includes a verification step that is performed on the same signal that requests shut-down. However, the
+Court should not use the claim construction process to “fix” any disconnect between Claim 5 and the
+specification of the patent. Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co., Ltd., 535 U.S. 722,
+736 (2002) (“What is claimed by the application must be the same as what is disclosed in the
+specification.”); Amgen Inc. v. Hoechst Marion Roussel, Inc., 314 F.3d 1313, 1330 (Fed. Cir. 2003)
+(“The purpose of the written description requirement is to prevent an applicant from later asserting that
+he invented that which he did not; the applicant for a patent is therefore required to 'recount his invention
+in such detail that his future claims can be determined to be encompassed within his original creation.'
+(citation omitted).”)
+The Court’s attempt to “fix” the foregoing written description problem renders the claim
+indefinite because there is no way to determine when the predetermined length of time begins. The Court
+3
+
+Case 6:07-cv-00490-LED-JDL
+
+Document 321
+
+Filed 08/13/2009
+
+Page 5 of 18
+
+states that Claim 5 “recites the steps of (1) receiving a disable request signal, (2) verifying it, and (3)
+stopping the output clock signal only after the disable signal has been received and verified and a
+predetermined length of time has elapsed.” (Order, DE 311, at 9). Although the Court states that
+“[t]here is no requirement that the disable request signal must start the predetermined length of time,”
+neither the Court’s construction, nor any other limitation in Claim 5, specifies anything that starts the
+predetermined length of time. If the “predetermined length of time” is started by some unclaimed and
+unspecified subsequent signal, as the Court assumes, rather than the “disable request signal,” a person of
+ordinary skill cannot know when the “predetermined length of time” begins (and ends) according to the
+invention claimed in Claim 5, thereby making it impossible for an accused infringer to determine when
+he is, or is not, infringing the claim.
+B.
+
+“predetermined length of time”
+
+Disputed Term
+
+Saxon’s Proposal
+
+an amount of time
+defined prior to or at the
+time of receipt of the
+disable request signal
+halting the output clock
+“stopping said at
+least one output clock signal following an
+amount of time defined
+signal after a
+predetermined length prior to or at the time of
+receipt of the disable
+of time after
+receiving said disable request signal
+request signal”
+Claim 5
+“predetermined
+length of time”
+Claims 5, 8
+
+Defendants’ Proposal
+a definite amount of time
+fixed prior to receipt of
+the disable request signal
+
+Court’s
+Construction
+a length of time
+within a known
+period
+
+stopping the output clock Not Construed
+signal at the expiration of
+an amount of time that is
+fixed prior to, and starts
+from, receipt of the
+disable request signal
+
+Defendants object to the Court’s construction of the term “predetermined length of time,” and the
+Court’s decision not to construe the term “stopping said at least one output clock signal after a
+predetermined length of time after receiving said disable request signal,” and request reconsideration of
+Defendants’ proposed constructions for each of the reasons set forth in Defendant’s Response Brief. See
+Brief, DE 272 at 4-6. The Court’s construction of “predetermined length of time,” and its refusal to
+construe the larger “stopping” step, is erroneous because it creates substantial uncertainty about when a
+particular shut-down meets the requirements of the claim, for a number of reasons.
+4
+
+Case 6:07-cv-00490-LED-JDL
+
+Document 321
+
+Filed 08/13/2009
+
+Page 6 of 18
+
+First, as discussed in the preceding section, if the disable request signal does not start the
+predetermined length of time to shut down, nothing in the claim defines when the predetermined length
+of time commences. Assuming a “known period” means a specified range from a minimum to a
+maximum amount of time, the Court’s construction does not clearly indicate when this period starts, or
+when it ends.1
+Second, the Court’s construction fails to specify when shut-down mode occurs. The Court’s
+construction could be read to include shut down that occurs at some unspecified time following the
+expiration of the predetermined length of time. The Court’s construction is therefore inconsistent with
+the patent specification, in which shut down occurs immediately upon expiration of the predetermined
+length of time. In the only described embodiment, the clock is shut down upon the receipt of the second
+clock pulse from the 280.9Hz clock (Fig. 2, line 36) after assertion of the START TIMER signal (which,
+in turn, is triggered by the assertion of the SDENTR signal on line 30). ‘689 patent, col. 8:26-48.
+Depending on when the SDENTR signal is asserted, the second pulse may take almost two full clock
+cycles, or it may take little more than one clock cycle. Id. at col. 7:4-20 and Fig. 2. Regardless of this
+variability, however, the oscillator 10 and its output clock signal are stopped immediately upon the
+second clock pulse from the 280.9Hz clock.
+By declining to construe the larger “stopping” phrase, the Court leaves open the possibility that a
+clock that is stopped some undefined amount of time following the predetermined length of time could
+meet the claim requirements. Indeed, the Court’s construction could arguably be met even if shut-down
+occurred five hours following the conclusion of the predetermined length of time (which in the preferred
+
+1
+
+To the extent the Court does not sustain Defendants’ objection, Defendants respectfully request that the
+Court clarify that the predetermined length of time begins upon verification of the disable request
+signal (as the Court has construed disable request signal). This is well-supported by the specification,
+which states that immediately upon verification of the signal sent on line 48, the SDENTR signal is
+asserted on line 30, which starts the predetermined length of time. ‘689 patent, col. 8:33-35 (“The
+setting of UCCR[7] causes the register access circuit 20 to assert the SDENTR signal on line 30.”).
+5
+
+Case 6:07-cv-00490-LED-JDL
+
+Document 321
+
+Filed 08/13/2009
+
+Page 7 of 18
+
+embodiment is only several milliseconds). Such a long delay would obfuscate the very purpose of the
+invention — reducing power consumption.
+The Court’s construction turns the predetermined length of time into a minimum amount of time
+delay to shut down, because any time delay equal to, or greater than, the predetermined length to time
+would satisfy this construction. In its Order, the Court erroneously held that the removal of the term
+“minimum” during prosecution broadens, not narrows, the scope of Claim 5. (Order, DE 311, at 11).
+For example, in the disclosed embodiment, a “predetermined minimum amount of time” construction
+would mean that shut down occurs within 3.56 to 7.12 msecs, or any delay longer than 7.12 msecs.
+Under the proper “predetermined length of time” construction, shut down must occur between 3.56 and
+7.12 msecs, and not longer. Such an interpretation is consistent with the intrinsic record and stays true to
+the invention. The Court’s construction effectively and erroneously restores claim coverage that was
+given up during prosecution.2
+Finally, the Court’s construction — “a length of time within a known time period” – does not
+specify when the “known time period” is defined. In contrast, Defendants’ proposed construction for the
+“predetermined length of time” properly requires that the predetermined length of time is determined
+before receipt of the disable request signal. This is consistent with the plain language of
+“predetermined.” It is also consistent with claim language specification, which discloses that the
+number of clock cycles between receipt of the SDENTR signal and clock shut down is set before the
+sending of the disable request signal.
+
+2
+
+The Court’s citation of Omega Engineering, Inc. v. Raytek Corp., 334 F.3d 1314 (Fed. Cir. 2003) is
+inapposite. In Omega, the Federal Circuit reversed a district court’s claim construction that added an
+explicit negative limitation to the claim, which was not present on the language of the claim, nor clearly
+supported in the prosecution history. Id. at 1322 ("means for causing said at least one laser beam to
+strike the periphery of the energy zone, but not strike the center or interior portion of the energy zone,
+for visibly outlining said entire energy zone.”) citation omitted; (added negative limitation shown in
+italics). In Omega, the applicant did not amend the claims, but did make arguments during prosecution
+regarding a related aspect of the invention in order to overcome prior art. In contrast, here the applicants
+changed the language of the claims during prosecution of the ‘689 patent.
+6
+
+Case 6:07-cv-00490-LED-JDL
+C.
+
+Document 321
+
+Filed 08/13/2009
+
+Page 8 of 18
+
+“predetermined protocol requirement” and “verifying that . . . ”
+
+Disputed Term
+“predetermined
+protocol
+requirement”
+Claims 5, 8
+
+Saxon’s Proposal
+a requirement of a
+defined protection
+scheme
+
+“verifying that said
+disable request
+signal satisfies a
+predetermined
+protocol
+requirement”
+Claim 5
+
+confirming that said
+disable request signal
+meets a requirement
+of a defined
+protection scheme
+
+Defendants’ Proposal
+Court’s Construction
+Defendants contend that this a known set of rules
+claim is more appropriately
+construed in the context of
+the larger claim phrase in
+which it appears below.
+confirming that the received Not Construed
+disable request signal
+satisfies a predetermined
+series of steps
+
+Defendants object to the Court’s construction of the term “predetermined protocol requirement,”
+and the Court’s decision not to construe the term “verifying that said disable request signal satisfies a
+predetermined protocol requirement,” and request reconsideration of Defendants’ proposed
+constructions for each of the reasons set forth in Defendant’s Response Brief. See Brief, DE 272, at 7-8.
+II.
+
+OBJECTIONS TO THE COURT’S CONSTRUCTIONS FOR THE DISPUTED TERMS
+OF THE ‘555 PATENT
+A.
+
+Disputed Term
+“signal
+processing
+circuit”
+
+“signal processing circuit”
+Saxon’s Proposal
+a circuit, within a
+communications
+controller circuit, that
+executes program
+instructions to process
+communications signals
+and executes program
+instructions to encipher or
+decipher such signals
+
+Defendants’ Proposal
+a signal processor that
+uses the same circuitry to
+load, store, and execute
+signal processing
+instructions and
+enciphering algorithms
+
+Court’s Construction
+a circuit that executes
+program instructions to
+process communications
+signals and executes
+program instructions to
+encipher or decipher such
+signals
+
+Defendants object to the Court’s construction of the term “signal processing circuit” and request
+reconsideration of Defendants’ proposed construction for each of the reasons set forth in Defendant’s
+Response Brief. See Brief, DE 272, at 15-16. If the Court declines to adopt Defendants’ original
+proposed construction, Defendants request that at a minimum, the Court modify the construction to: “a
+processor that uses the same circuitry to load, store, and execute signal processing instructions and
+enciphering algorithms.” The Court indicated that the inclusion of “signal processor” in Defendants’
+7
+
+Case 6:07-cv-00490-LED-JDL
+
+Document 321
+
+Filed 08/13/2009
+
+Page 9 of 18
+
+original proposed construction was improper because “the patent specification contemplates a variety of
+embodiments” such as digital signal processors and microprocessors. Order, DE 311, at 16. Broadening
+the construction to include “processors” rather than just “signal processors” would address this concern
+while at the same time reducing the ambiguity caused by the Court’s current construction, as explained
+below.
+Defendants object to the Court’s construction for the term “signal processing circuit” as it fails to
+properly define the “metes and bounds” of the claimed invention and does not give adequate weight to
+the teachings of the intrinsic evidence. Specifically, a “circuit,” as understood by one of ordinary skill in
+the art, is simply a pathway that allows electric current to flow. See IEEE Standard Dictionary of
+Electrical and Electronic Terms, The Institute of Electric and Electronics Engineers, Inc. (1984), p. 143,
+relevant pages attached hereto as Exhibit 1 (defining a “circuit” as “[a] conductor or system of
+conductors through which an electric current is intended to flow”). As such, both parties’ technical
+experts, using the Court’s claim construction above, could conceivably “draw a box” as broadly or as
+narrowly as they wish to define the “circuit.” While the Court’s construction does require that the
+“circuit” is one that “executes program instructions to process communications signals and executes
+program instructions to encipher or decipher such signals,” such a qualifier provides only a minimum,
+and no maximum, boundary for the “signal processing circuit.”
+The intrinsic evidence of the ‘555 patent clearly supports the inclusion of “a signal processor,” or
+at a minimum, “a processor” to provide this necessary boundary. Specifically, the only “circuit”
+referenced in the specification that both processes and enciphers communications signals is a
+“processor” (whether that “processor” takes the form of a digital signal processor or a general-purpose
+microprocessor). See ‘555 patent col. 4:39-47; col. 6:52-55 (Ex. C-1 from Defendants’ Brief, DE 272);
+see also June 25, 2009 Claim Construction Hearing Transcript at 103:7-10 (“indicat[ing] that the present
+invention could be implemented in either a DSP or a microprocessor”). While it is typically not
+appropriate to limit the construction of a claim term to a particular embodiment disclosed in the
+8
+
+Case 6:07-cv-00490-LED-JDL
+
+Document 321
+
+Filed 08/13/2009
+
+Page 10 of 18
+
+specification, in situations where the specification or the prosecution history clearly indicates that the
+invention encompasses no more than a particular structure, the breadth of the claims can extend no
+further than that particular structure. See Abbott Labs. v. Sandoz, Inc., 566 F.3d 1282, 1288 (Fed. Cir.
+2009); see also Alloc, Inc. v Int’l Trade Comm’n, 342 F.3d 1361, 1370 (Fed. Cir 2003) (noting that a
+court must look to “whether the specification refers to a limitation only as a part of less than all possible
+embodiments or whether the specification read as a whole suggests that the very character of the
+invention requires the limitation be a part of every embodiment”). As the only disclosed “circuit” that
+both processes and enciphers communications signals is a “processor,” the construction of the “signal
+processing circuit” must reflect that fact.
+Finally, the Court’s construction does not give adequate weight to the prosecution history.
+Specifically, during the prosecution of the ‘555 patent, the patent applicant, in differentiating the present
+invention from the disclosures of the prior art, stated as follows:
+As claimed in Claims 1, 21, and 43, Applicant’s invention is patentably distinct over the
+Ashby [prior art] reference in that Applicant’s claimed invention implements
+encryption/decryption as an additional task performed by the signal processing circuit.
+The Ashby reference on the other hand, teaches the use of a separate and distinct device
+for the purpose of maintaining high-rate encryption data streams. This separate device is
+the data encryption device 22 of Figure 1 of the Ashby reference … The Ashby reference
+teaches that the data encryption device 22 can be a standard DES encoder such as the one
+available from TEXAS INSTRUMENTS. The Ashby reference does not teach the
+integration of encryption with a signal processing circuit as required by Claims 1, 21, and
+43.
+‘555 Patent File History, Amendment (July 17, 1996) at 30-31 (Ex. C-2 from Defendants’ Brief, DE
+272) (emphasis in original). A comparison of Figure 1 of the Ashby reference (U.S. Patent No. 5,150,
+401) and Figure 3 of the ’555 Patent illustrates the distinction made by the patent applicant:
+
+9
+
+Case 6:07-cv-00490-LED-JDL
+
+Document 321
+
+Filed 08/13/2009
+
+Page 11 of 18
+
+As shown from the excerpt and the highlighted figures above, the patent applicant specifically
+relied on the fact that the processing and enciphering steps are integrated into a signal processing circuit
+in the ‘555 patent, as opposed to divided into separate devices as shown in the prior art Ashby reference.
+In distinguishing the alleged invention of the ‘555 patent from the prior art, the patent applicant clearly
+surrendered a construction of the term “signal processing circuit” that would allow for the processing
+and enciphering steps to be performed by separate devices (as in the prior art). See Omega Eng’g, Inc. v.
+Raytek Corp., 334 F.3d 1314, 1324 (Fed. Cir. 2003) (noting that the doctrine of prosecution disclaimer
+“limits the interpretation of claims so as to exclude any interpretation that may have been disclaimed or
+disavowed during prosecution in order to obtain claim allowance.”) (quoting Standard Oil Co. v. Am.
+Cyanamid Co., 774 F.2d 448, 452 (Fed. Cir. 1985). The Court’s claim construction, which does not
+provide an outer boundary for the “signal processing circuit,” and therefore could allow that “circuit” to
+include effectively everything within the “communication controller circuit,” allows Saxon to essentially
+recapture that which was given up during prosecution – namely, that processing and enciphering can be
+accomplished by separate devices. Accordingly, for all the reasons discussed above, Defendants’ object
+to the Court’s construction for the term “signal processing circuit” and request that the Court reconsider
+this term and adopt Defendants’ original proposed construction or, at a minimum, Defendants’ slightly
+modified construction proposed above.
+
+10
+
+Case 6:07-cv-00490-LED-JDL
+B.
+
+Document 321
+
+Filed 08/13/2009
+
+Page 12 of 18
+
+“processing (the) … communication(s) signals”
+
+Disputed Term
+“processing (the)
+…
+communications
+signals”
+
+Saxon’s Proposal
+performing a signal
+processing operation on
+(the) communication(s)
+signals
+
+Defendants’ Proposal
+
+Court’s Construction
+
+modifying the data to be
+transmitted prior to
+enciphering or after
+deciphering
+
+performing a signal
+processing operation on
+(the) communication(s)
+signals
+
+Defendants object to the Court’s construction of the phrase “processing the communication
+signals” and request reconsideration of Defendants’ proposed construction for each of the reasons set
+forth in Defendant’s Response Brief. See Brief, DE 272, at 17-18. Defendants’ further object to the
+Court’s construction of the phrase “processing the communication signals,” as it fails to clearly define
+the “metes and bounds” of the claimed invention such that the ultimate trier of fact can determine
+infringement and validity.
+The Court, in adopting Saxon’s proposed construction, effectively defines the term “processing”
+as a “signal processing operation.” Such a construction does not sufficiently define what “processing”
+entails, as it is not clear what specifically would qualify as a “signal processing operation.” In its
+opening claim construction brief, Saxon claims that “processing” is “a well known term” and that it has
+an “ordinary meaning.” Saxon Br. at 18. However, Saxon’s, and ultimately the Court’s construction
+does not enlighten the ultimate trier of fact as to what that “ordinary meaning” actually is.
+In contrast to the Court’s construction, Defendants’ proposed construction, including the
+requirement that “processing” include a modification of the data to be transmitted, provides the parties’
+experts and the ultimate trier of fact with a palpable definition of “processing” (i.e. a modification of the
+data). As the Court indicated that it was “unable to discern any claim scope dispute with regard to this
+term” between Plaintiff’s and Defendants’ proposed constructions (see Order, DE 311, at 17),
+Defendants request that the Court reconsider this term and adopt Defendants’ proposed construction.
+
+11
+
+Case 6:07-cv-00490-LED-JDL
+C.
+Disputed Term
+“enciphering
+(the) (said)
+processed
+communication
+signals”
+
+Document 321
+
+Filed 08/13/2009
+
+Page 13 of 18
+
+“enciphering (the) (said) processed communication signals”
+Saxon’s Proposal
+applying an
+enciphering algorithm
+to encrypt (the) (said)
+processed
+communication signals
+
+Defendants’ Proposal
+applying an enciphering
+algorithm to the processed
+communication signals to
+make the processed
+communication signals private
+
+Court’s Construction
+applying an enciphering
+algorithm to encrypt
+(the) (said) processed
+communication signals
+
+Defendants object to the Court’s construction of the phrase “enciphering the processed
+communications signals” and request reconsideration of Defendants’ proposed construction for each of
+the reasons set forth in Defendant’s Response Brief. See Brief, DE 272, at 18-19. Defendants’ further
+object to the Court’s construction of the phrase “enciphering the processed communication signals,” as it
+may be difficult for the ultimate trier of fact to comprehend and to determine infringement and validity.
+The Court’s construction, which requires the step of “applying an enciphering algorithm to
+encrypt the processed communication signals,” may create confusion for the ultimate trier of fact as it
+uses the terms “enciphering” and “encrypt” in the same construction, without providing a definition for
+either. To the contrary, Defendants’ proposed construction, which specifically defines the “enciphering”
+algorithm as one that “make[s] the processed communications signals private,” eliminates any such
+potential confusion. As Defendants proposed construction would be clearer to the ultimate fact finder,
+Defendants request that the Court reconsider this phrase and adopt Defendants’ proposed construction.
+D.
+Disputed Term
+“programmably
+selecting an
+enciphering
+algorithm”
+
+“programmably selecting an enciphering algorithm”
+Saxon’s Proposal
+executing in a signal
+processing circuit a set of
+program instructions to
+select one of a plurality of
+enciphering algorithms
+
+Defendants’ Proposal
+executing a set of program
+instructions to select one
+from among a plurality of
+enciphering algorithms
+
+Court’s Construction
+executing in a signal
+processing circuit a set of
+program instructions to
+select one of a plurality of
+enciphering algorithms
+
+Defendants object to the Court’s construction of the phrase “programmably selecting an
+enciphering algorithm” and request reconsideration of Defendants’ proposed construction for each of the
+
+12
+
+Case 6:07-cv-00490-LED-JDL
+
+Document 321
+
+Filed 08/13/2009
+
+Page 14 of 18
+
+reasons set forth in Defendant’s Response Brief.3 See Brief, DE 272, at 19-20. The Court appears to
+acknowledge that the current construction of this term excludes embodiments of the patent, but then
+accepts this exclusion in order to comply with Federal Circuit precedent prohibiting it from redrafting
+claim language. (See Order, DE 311, at 18). The Court’s choice is unnecessary and erroneous.
+Although the plain language of the claims require that the enciphering must occur within the
+signal processing unit, it does not require that the programmably selecting limitation take place in any
+particular location. Parsing the language of the claim element, a reasonable interpretation is that the
+phrase “in said first signal processing circuit” modifies the earlier clause “enciphering said processed
+communication signals”, rather than the later clause “by programmably selecting an enciphering
+algorithm.” Thus, under this construction, because the selection can occur outside of the signal
+processing circuit, as long as the actual enciphering occurs within the signal processing circuit, the plain
+language of the claim is preserved. Moreover, because this approach does not exclude any embodiments
+of the ‘555 patent, it is the appropriate construction. See Globetrotter Software, Inc. v. Elan Computer
+Group, Inc., 362 F.3d 1367, 1381 (Fed. Cir. 2004).
+E.
+Disputed Term
+“enciphering
+algorithm”/
+“deciphering
+algorithm”
+
+“enciphering algorithm” and “deciphering algorithm”
+Saxon’s Proposals
+a prescribed set of welldefined rules or processes
+for the solution of a
+problem in a finite
+number of steps
+
+Defendants’ Proposals
+a series of steps for
+encrypting signals/
+decrypting signals
+
+Court’s Construction
+a prescribed set of welldefined rules or processes
+for encrypting signals/
+decrypting signals
+
+Defendants object to the Court’s construction of the terms “enciphering algorithm” and
+“deciphering algorithm” and request reconsideration of Defendants’ proposed construction for each of
+the reasons set forth in Defendant’s Response Brief. See Brief, DE 272, at 20-21. Defendants further
+3
+
+Defendants note, however, that the Court’s construction for this phrase, which was originally proposed
+by Saxon, supports Defendants’ contention outlined above that the “signal processing circuit” must be
+construed as a “processor.” Specifically, the Court’s claim construction for this phrase requiring that the
+signal processing circuit “executes … program instructions” denotes that the “circuit” in question must
+be a “processor,” as only a “processor” can “executes program instructions.”
+13
+
+Case 6:07-cv-00490-LED-JDL
+
+Document 321
+
+Filed 08/13/2009
+
+Page 15 of 18
+
+object to the Court’s constructions for “enciphering algorithm” and “deciphering algorithm” as the Court
+effectively discarded that portion of the proposed constructions on which the parties agreed.
+Specifically, the Court’s constructions disregard the fact that an algorithm solves a problem in a number
+of “steps,” a requirement that both parties proposed in their respective constructions. If the Court
+declines to adopt Defendants’ original proposed constructions, Defendants request that at a minimum,
+the Court modify the constructions to: “a prescribed set of well-defined rules or processes for encrypting
+signals in a finite number of steps” and “a prescribed set of well-defined rules or processes for
+decrypting signals in a finite number of steps,” respectively.
+Contrary to the Court’s statement in its Memorandum Opinion and Order, the phrase “a finite
+number of steps” does not define the general purpose of an algorithm (see Order, DE 311, at 19).
+Rather, the general purpose of the algorithm is defined by whether the algorithm is for “encrypting
+signals” or “decrypting signals.” The phrase “a finite number of steps” defines the method in which an
+“algorithm” accomplishes its general purpose. As such, by omitting the method in which an “algorithm”
+accomplishes its general purpose, the Court’s constructions fail to fully define the term “algorithm.”4
+Accordingly, Defendants object to the Court’s construction for the terms “enciphering algorithm” and
+“deciphering algorithm,” and request that the Court reconsider these terms and adopt Defendants’
+original constructions or, at a minimum, the revised constructions offered by Defendants herein.
+
+4
+
+Defendants acknowledge that the Court’s construction captures a portion of the method of the
+“algorithm” by including the phrase “a set of well-defined rules or processes.” However, this definition
+is incomplete, as both Saxon and Defendants recognize that the general purpose of the algorithm must be
+accomplished in a “finite number of steps.”
+14
+
+Case 6:07-cv-00490-LED-JDL
+III.
+
+Document 321
+
+Filed 08/13/2009
+
+Page 16 of 18
+
+OBJECTIONS TO THE COURT’S CONSTRUCTIONS FOR THE DISPUTED TERMS
+OF THE ‘394 PATENT
+A.
+
+Disputed Term
+
+“master processor”/“respective indication signal”
+Saxon’s Proposal
+
+Defendants’ Proposal
+
+Court’s Construction
+
+“master
+processor”
+Claim 1
+
+general purpose
+processor not under
+control of a signal
+processor
+
+a general purpose
+microprocessor, not under the
+control of a signal processor,
+that controls the apparatus
+
+general purpose
+processor not under
+control of a signal
+processor
+
+“respective
+indication
+signal”
+Claim 11
+
+a respective signal to
+said master processor
+so as to indicate to said
+master processor
+
+a signal generated by a signal
+processor that instructs the
+master processor to read that
+signal processor’s exclusive
+memory
+
+No construction
+necessary.
+
+Defendants object to the Court’s construction of the terms “master processor” and “respective
+indication signal” request reconsideration of Defendants’ proposed constructions for each of the reasons
+set forth in Defendant’s Response Brief. See Brief, DE 272, at 23; 27-29.
+B.
+
+“respective portions of a same memory”
+
+Disputed Term
+“said plurality of
+memories comprise
+respective portions
+of a same memory”
+Claim 12
+
+Saxon’s Proposal
+said plurality of
+memories comprise
+allocated
+corresponding memory
+locations of a single
+memory device
+
+Defendants’ Proposal
+the plurality of
+memories are
+respective blocks of a
+single memory device
+
+Court’s Construction
+said plurality of memories
+comprise allocated
+corresponding memory
+locations of a single
+memory device
+
+The Court stated that it “is unable to discern a substantive difference between the parties’
+proposals. Because Saxon’s proposal more closely follows the actual claim language, the Court adopts
+Saxon’s proposed construction . . . .” (Order, DE 311, at 28.) To the extent that Saxon contends that
+there is a substantive difference between its proposed construction and Defendants’, Defendants object
+to the Court’s construction of the phrase “said plurality of memories comprise respective portions of a
+same memory” and request reconsideration of Defendants’ proposed construction for each of the reasons
+set forth in Defendant’s Response Brief. See Brief, DE 272, at 29-30.
+
+15
+
+Case 6:07-cv-00490-LED-JDL
+
+Document 321
+
+Filed 08/13/2009
+
+Page 17 of 18
+
+Dated: August 13, 2009
+
+Respectfully submitted,
+By: /s/
+Robert Haslam
+rhaslam@cov.com
+COVINGTON & BURLING LLP
+333 Twin Dolphin Drive, Suite 700
+Redwood Shores, CA 94065
+Tel.: (650) 632-4700; Fax: (650) 632-4800
+
+Eric M. Albritton
+ema@emafirm.com
+Attorney at Law
+P.O. Box 2649
+Longview, TX 75606
+Tel.: (903) 757-8449; Fax: (903) 758-7397
+
+Michael Plimack
+mplimack@cov.com
+COVINGTON & BURLING LLP
+One Front Street
+San Francisco, CA 94111
+Tel.: (415) 591-6000; Fax: (415) 591-6091
+
+ATTORNEYS FOR DEFENDANTS SAMSUNG ELECTRONICS CO LTD., SAMSUNG
+ELECTRONICS AMERICA INC., AND SAMSUNG TELECOMMUNICATIONS AMERICA LLC
+Also submitted with permission on behalf of:
+Peter J. Chassman
+Texas Bar No. 00787233
+chassmanp@howrey.com
+Tyler T. VanHoutan
+Texas Bar No. 24033290
+vanhoutant@howrey.com
+HOWREY LLP
+1111 Louisiana, 25th Floor
+Houston, Texas 77002
+Tel.: (713) 787-1400; Fax: (713) 787-1440
+
+OF COUNSEL:
+Harry L. “Gil” Gillam, Jr.
+Texas Bar No. 07921800
+gil@gilliamsmithlaw.com
+GILLAM & SMITH, L.L.P.
+303 S. Washington Avenue
+Marshall, TX, 75670-4157
+Tel.: (903) 934-8450; Fax: (903) 934-9257
+
+ATTORNEYS FOR DEFENDANTS RESEARCH IN MOTION LIMITED
+and RESEARCH IN MOTION CORPORATION
+John M. Guaragna (Bar No. 24043308)
+john.guaragna@dlapiper.com
+DLA PIPER US LLP
+1221 S. MoPac Expressway, Suite 400
+Austin, Texas 78746
+Tel.: (512) 457-7000; Fax: (512) 457-7001
+
+M. Elizabeth Day (CA Bar No. 177125) (pro hac vice)
+elizabeth.day@dlapiper.com
+William G. Goldman (CA Bar No. 203630) (pro hac
+vice)
+bill.goldman@dlapiper.com
+David L. Alberti (CA Bar No. 220625) (pro hac vice)
+david.alberti@dlapiper.com
+Vincent S. Lam (CA Bar No. 229355) (pro hac vice) DLA PIPER US LLP
+2000 University Avenue
+vincent.lam@dlapiper.com
+East Palo Alto, CA 94303
+DLA PIPER US LLP
+Tel.: (650) 833-2000; Fax: (650) 833-2001
+401 B Street, Suite 1700
+San Diego, CA 92101
+Tel.: (619) 699-2700; Fax: (619) 699-2701
+ATTORNEYS FOR DEFENDANT PALM, INC.
+16
+
+Case 6:07-cv-00490-LED-JDL
+
+Document 321
+
+Michael E. Jones (State Bar No. 10929400)
+mikejones@potterminton.com
+Diane V. DeVasto (State Bar No. 05784100)
+dianedevasto@potterminton.com
+POTTER MINTON, A Professional Corporation
+110 N. College, Suite 500
+Tyler, Texas 75702
+Tel.: (903) 597-8311; Fax: (903) 593-0846
+
+Filed 08/13/2009
+
+Page 18 of 18
+
+Thomas J. Friel, Jr.
+Tfriel@cooley.com
+Timothy S. Teter
+Tteter@cooley.com
+Matthew J. Brigham
+mbrigham@cooley.com
+Brian P. Wikner
+bwikner@cooley.com
+Cooley Godward Kronish LLP - Palo Alto
+Five Palo Alto Square
+3000 El Camino Real
+Palo Alto, CA 94306-2155
+Tel.: (650) 843-5000; Fax: (650) 857-0663
+ATTORNEYS FOR DEFENDANTS NINTENDO CO. LTD.
+AND NINTENDO OF AMERICA
+
+17
+
+

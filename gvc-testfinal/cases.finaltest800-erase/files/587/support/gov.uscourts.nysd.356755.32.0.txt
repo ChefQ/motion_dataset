@@ -1,0 +1,717 @@
+Case 1:09-cv-10581-SHS Document 32
+
+Filed 04/14/11 Page 1 of 21
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+----------------------------------------------------------------X
+LAURENCE SPIEGEL,
+-against-
+
+Plaintiff,
+
+HARTFORD LIFE AND ACCIDENT
+INSURANCE COMPANY
+
+Civil Action No. 09 Civ. 10581 (SHS)
+
+DOCUMENT ELECTRONICALLY FILED
+
+Defendant.
+----------------------------------------------------------------X
+
+DEFENDANT’S MEMORANDUM OF LAW IN
+SUPPORT OF ITS MOTION FOR RECONSIDERATION OF THE COURT’S
+SUMMARY JUDGMENT ORDER
+
+SEDGWICK, DETERT, MORAN & ARNOLD LLP
+Attorneys for Defendant
+125 Broad Street, 39th Floor
+New York, New York 10004-2400
+Telephone: (212) 422-0202
+Facsimile: (212) 422-0925
+(SDMA File No.02489-000049)
+Michael H. Bernstein
+Matthew P. Mazzola
+Of Counsel
+
+NY/693426v2
+
+Case 1:09-cv-10581-SHS Document 32
+
+Filed 04/14/11 Page 2 of 21
+
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORITIES ......................................................................................................................... ii
+PRELIMINARY STATEMENT .................................................................................................................... 1
+STATEMENT OF FACTS ............................................................................................................................. 3
+MOTION FOR RECONSIDERATION STANDARD ........................................................................... 3
+ARGUMENT..................................................................................................................................................... 4
+POINT I
+SPIEGEL‘S CONTINUING CLAIM FOR LTD BENEFITS WAS FOR A
+NEW/DIFFERENT CONDITION THAN THE ONE FOR WHICH BENEFITS
+WERE INITIALLY APPROVED .......................................................................................................... 4
+POINT II
+HARTFORD‘S INITIAL ADVERSE BENEFIT DETERMINATION LETTER
+SATISFIED ERISA NOTICE REQUIREMENTS ............................................................................ 8
+A.
+
+SPIEGEL ADMITTED THAT HE UNDERSTOOD WHY HARTFORD
+HAD DENIED HIS CLAIM FOR CONTINUING LTD BENEFITS ..................... 8
+
+B.
+
+HARTFORD WAS NOT REQUIRED TO PROVIDE A LIST OF
+SPECIFIC OBJECTIVE TESTING SUFFICIENT TO PERFECT
+SPIEGEL‘S APPEAL IN ITS INITIAL ADVERSE BENEFIT
+DETERMINATION LETTER .......................................................................................... 9
+
+POINT III
+THE COURT‘S ORDER REINSTATING BENEFITS IS CONTRARY TO
+CONTROLLING LAW AND IMPROPERLY SUPERSEDES THE TERMS OF
+THE LTD PLAN ..................................................................................................................................... 12
+CONCLUSION ............................................................................................................................................... 16
+
+NY/693426v2
+
+i
+
+Case 1:09-cv-10581-SHS Document 32
+
+Filed 04/14/11 Page 3 of 21
+
+TABLE OF AUTHORITIES
+Cases
+Adams v. United States,
+686 F.Supp. 417 (S.D.N.Y.1988) ................................................................................................................ 3
+Bozsi Ltd. Partnership v. Lynott,
+676 F.Supp. 505 (S.D.N.Y.1987) ................................................................................................................ 3
+Burke v. Kodak Ret. Income Plan,
+336 F.3d 103 (2d Cir. 2003) ......................................................................................................................... 8
+Chitoiu v. UNUM Provident Corp,
+345 Fed. Appx. 625 (2d Cir. 2009) ............................................................................................................. 6
+Conkright v. Frommer,
+130 S. Ct. 1640 (2010)...................................................................................................................... 2, 13, 14
+Donohoe v. Hartford Life Ins. Co.,
+2011 WL 940849 (N.D.N.Y March 18, 2011)........................................................................................... 7
+Green v. Hartford Life and Accident Ins. Co.,
+No. 07-cv-1253 (FJS/GHL), 2010 WL 3907823 (N.D.N.Y. Sept. 30, 2010)....................................... 6
+Hackett v. Xerox Corp. Long-Term Disability Income Plan,
+315 F.3d 771 (7th Cir. 2003) ......................................................................................................................14
+Hobson v. Metropolitan Life Ins. Co.,
+574 F.3d 75 (2d Circ. 2009) ........................................................................................................ 6, 8, 10, 14
+Juliano v. Health Maint. Org. of N.J.,
+221 F.3d 279 (2d Cir. 2000) .......................................................................................................................14
+Miller v. American Airlines, Inc.,
+632 F.3d 837 (3rd Cir. 2011) ......................................................................................................................14
+Mugan v. Hartford Life Group Ins. Co.,
+2011 WL 291851 (S.D.N.Y. 2011) ............................................................................................................10
+Pannebecker v. Liberty Life Assur. Co. of Boston,
+542 F.3d 1213, 1221 (9th Cir. 2008) .........................................................................................................14
+Schonberger v. Serchuk,
+742 F.Supp. 108 (S.D.N.Y.,1990) .............................................................................................................. 3
+Shrader v. CSX Transp., Inc.,
+70 F.3d 255 (2d Cir. 1995) ........................................................................................................................... 3
+United States v. International Business Machines Corp.,
+79 F.R.D. 412 (S.D.N.Y.1978) .................................................................................................................... 3
+Wojciechowski v. Metropolitan Life Ins. Co.,
+1 Fed.Appx. 77 (2d Cir. 2001)(Summary Order) ...................................................................................... 6
+
+NY/693426v2
+
+ii
+
+Case 1:09-cv-10581-SHS Document 32
+
+Filed 04/14/11 Page 4 of 21
+
+Statutes
+ERISA §502(a)(1)(B), 29 U.S.C. §1132(a)(1)(B) ............................................................................................ 1
+ERISA § 503(1), 29 U.S.C. §1133(1) ............................................................................................................... 8
+ERISA Section 503(1) ....................................................................................................................................... 8
+Regulations
+29 C.F.R. § 2560.503-1(g)(1)(iii). ....................................................................................................................10
+
+NY/693426v2
+
+iii
+
+Case 1:09-cv-10581-SHS Document 32
+
+Filed 04/14/11 Page 5 of 21
+
+PRELIMINARY STATEMENT
+Defendant Hartford Life and Accident Insurance Company (―Hartford‖) respectfully
+submits this Memorandum of Law in Support of its Motion for Reconsideration of the Court‘s
+Summary Judgment Order dated March 31, 2011. Hartford previously moved for an order granting
+summary judgment dismissing the plaintiff Laurence Spiegel‘s (―Spiegel‖) Complaint seeking
+continuing long term disability (―LTD‖) benefits under the Factset Research Systems Inc. (―FRSI‖)
+LTD Plan (the ―Plan‖) pursuant to Employee Retirement Income Security Act of 1974 (―ERISA‖)
+§502(a)(1)(B), 29 U.S.C. §1132(a)(1)(B) on the grounds that its determination denying Spiegel‘s claim
+for continuing LTD benefits after September 22, 2008 was supported by substantial evidence and
+was not arbitrary and capricious. Spiegel filed opposition to that motion and simultaneously crossmoved for summary judgment awarding him LTD benefits under the Plan, arguing that Hartford‘s
+determination was arbitrary and capricious. The Court issued an Order dated March 31, 2011,
+granting Spiegel‘s Cross-Motion for Summary Judgment and denying Hartford‘s Motion for
+Summary Judgment (the ―Order‖). Hartford respectfully requests that this Court reconsider its
+Order because on further review of the record and this Court‘s Order, it appears that the Court may
+have overlooked several material facts in the record and perhaps, also, may not have appreciated the
+significance and applicability of several points of law, all of which might cause the Court to alter its
+Order.
+First, the Court found that Hartford did not provide a full and fair review of Spiegel‘s claim
+for continuing LTD benefits under the governing ERISA Plan because it required different proof
+for the same disabling condition than was deemed sufficient during its initial approval of the claim.
+It is respectfully submitted that in making this holding, the Court did not consider the fact that
+Hartford initially approved Spiegel‘s LTD benefit claim based on the verified symptoms of an
+objectively proven thyroid condition. The administrative record reflects that prior to Hartford‘s
+initial adverse benefit determination on Spiegel‘s continuing claim for LTD benefits, medical records
+NY/693426v2
+
+1
+
+Case 1:09-cv-10581-SHS Document 32
+
+Filed 04/14/11 Page 6 of 21
+
+document that this thyroid condition was resolved. Spiegel then submitted information in support of
+his claim of disability based on a new and different condition, Chronic Fatigue Syndrome (―CFS‖).
+Due to the nature of CFS, Hartford reasonably requested different proof of disability than it had
+originally accepted when it approved his initial claim based on symptoms of an objectively proven
+thyroid condition.
+Second, the Court held that Hartford‘s initial adverse determination letter regarding
+Spiegel‘s continuing claim for LTD benefits violated ERISA regulations concerning notice because
+the basis for its denial of his claim was not written in a manner that Spiegel could understand and
+that Hartford failed to indicate the specific objective testing it required for Spiegel to perfect his
+appeal. In making this holding, it appears that the Court overlooked several admissions by Spiegel in
+both the administrative record as well as his submissions in support of his Cross-Motion reflecting
+that he understood the precise reasons for Hartford‘s denial of his continuing claim for LTD
+benefits and was thus on notice as required by governing ERISA regulations. In addition, the Court
+may not have been aware of a recent Second Circuit Court of Appeals decision on point in which it
+rejected the argument that Hartford must provide a claimant with a specific ―laundry list‖ of
+objective testing that it requires to perfect his appeal in order to be in compliance with ERISA
+notice regulations.
+Lastly, the Court‘s Order reinstated Spiegel‘s claim for LTD benefits rather than remanding
+his claim to Hartford for a further deferential review. But even if Hartford erred in conducting a full
+and fair review of Spiegel‘s claim, the only proper form of relief is a remand of the matter to
+Hartford for further consideration. In fact, in Conkright v. Frommert, 130 S. Ct. 1640 (2010), the U.S.
+Supreme Court explicitly held that remand is required in such circumstances. Furthermore, in
+reinstating Spiegel‘s LTD benefits, the Court effectively relieves him of his burden to prove his
+entitlement to benefits under the Plan terms, which includes a requirement that he be under the
+regular care of a physician. At this point, the administrative record does not include such proof.
+
+NY/693426v2
+
+2
+
+Case 1:09-cv-10581-SHS Document 32
+
+Filed 04/14/11 Page 7 of 21
+
+It is therefore respectfully requested that the Court reconsider its initial ruling and upon
+doing so, modify its Order to deny Spiegel‘s Cross-Motion for Summary Judgment, grant Hartford‘s
+Motion for Summary Judgment, or in the alternative remand Spiegel‘s claim to Hartford for a
+further review and determination as required by the Plan.
+STATEMENT OF FACTS
+For the sake of brevity and in order to avoid redundancy, the Defendant refers the Court to
+its Statement of Material Facts dated May 18, 2010(See Hartford‘s Rule 56.1 Statement dated May 18,
+2010, Doc. No. 13), as well as the Defendant‘s Statement of Facts set forth in its Memorandum of
+Law in Support of its Motion for Summary Judgment dated May 18, 2010. (See Defendant‘s
+Memorandum of Law in Support of its Motion for Summary Judgment dated May 18, 2010, Doc.
+No.: 14).
+MOTION FOR RECONSIDERATION STANDARD
+The only proper basis upon which a party may move for reconsideration of an unambiguous
+order is that the court overlooked ―matters or controlling decisions‖ which, had they been
+considered, might reasonably have altered the result reached by the court. See Shrader v. CSX Transp.,
+Inc., 70 F.3d 255, 257 (2d Cir. 1995); see also Schonberger v. Serchuk, 742 F.Supp. 108,
+119 (S.D.N.Y.,1990); Adams v. United States, 686 F.Supp. 417, 418 (S.D.N.Y.1988); see also Bozsi Ltd.
+Partnership v. Lynott, 676 F.Supp. 505, 509 (S.D.N.Y.1987); United States v. International Business Machines
+Corp., 79 F.R.D. 412, 414 (S.D.N.Y.1978). In this case, it is respectfully submitted that the Court
+may have overlooked several important facts in the record as well as several controlling decisions,
+which might reasonably have altered the Court‘s decision on the parties‘ competing Motions for
+Summary Judgment.
+
+NY/693426v2
+
+3
+
+Case 1:09-cv-10581-SHS Document 32
+
+Filed 04/14/11 Page 8 of 21
+
+ARGUMENT
+POINT I
+SPIEGEL’S CONTINUING CLAIM FOR LTD BENEFITS
+WAS FOR A NEW/DIFFERENT CONDITION THAN THE
+ONE FOR WHICH BENEFITS WERE INITIALLY
+APPROVED
+In its Order, the Court ruled that a factor contributing to Hartford‘s ―flawed review,‖ was its
+―inconsistency concerning whether or not objective evidence was needed.‖ (The Transcript of Judge
+Stein‘s March 31, 2011 Order, is annexed to the accompanying Declaration of Michael H. Bernstein
+as Exhibit ―A,‖ at p. 13)(hereinafter referred to as Bernstein Dec., Ex. ―A‖). The Court held that
+Hartford‘s denial of Speigel‘s benefits due to the lack of objective evidence in the record was
+inconsistent with its previous decision to pay him LTD benefits for approximately two years, since
+the evidence that Spiegel had previously submitted in support of his initial claim for benefits was
+virtually indistinguishable from the evidence that Hartford later found to be inadequate when it
+denied his claim for continuing LTD benefits. (Bernstein Dec., Ex. ―A,‖ p. 14). Specifically, the
+Court found that Hartford‘s ―failure to explain this divergent treatment of similar evidence
+undermined Spiegel‘s ability to perfect his claim.‖ (Bernstein Dec., Ex. ―A,‖ p. 14). It is respectfully
+submitted, however, that the Court‘s conclusion appears to have overlooked the fact that Spiegel‘s
+original claim for LTD benefits, and Hartford‘s approval of that claim, was based on his objective
+diagnosis of polyglandular autoimmune syndrome, hypotension, thyroiditis and adrenal insufficiency
+and not based on a diagnosis of Chronic Fatigue Syndrome (―CFS‖). (266).1 Indeed, Spiegel did not
+submit a diagnosis of CFS as a basis for his continuing disability claim until after Hartford initially
+approved his claim. (1049). Thus, since Spiegel‘s continuing claim for LTD benefits was based on
+symptoms of CFS, a newly diagnosed condition that was different from the one for which benefits
+The page references are the to the administrative record pertaining to Spiegel‘s LTD claim, which
+is annexed to the Declaration of Giuseppina Gulino (―Gulino Dec.‖) submitted in support of
+Hartford‘s Cross-Motion for Summary Judgment dated May 13, 2010, with a preceding Bates Stamp
+of ―SPIEGEL 00.‖ (Docket No.: 15).
+1
+
+NY/693426v2
+
+4
+
+Case 1:09-cv-10581-SHS Document 32
+
+Filed 04/14/11 Page 9 of 21
+
+were initially approved, Hartford acted reasonably in requesting new/different proof of disability
+than was originally accepted in support of Spiegel‘s original claim.
+The administrative record shows that Spiegel initially applied for LTD benefits based on
+symptoms of severe fatigue and depression caused by polyglandular autoimmune syndrome and
+hypothyroidism. (122). Hartford initially denied Spiegel‘s claim for LTD benefits on March 19, 2007
+due to his failure to provide satisfactory proof of his claimed disability. (1103-1106). Hartford also
+informed Spiegel that he must provide the requested medical records or appeal its determination. Id.
+Importantly, Spiegel then submitted the requested medical records along with objective laboratory
+test results obtained by Dr. Regina Dodis, a board certified endocrinologist, showing an abnormal
+anti-thyroid antibody test and thus, Dr. Dodis diagnosed Spiegel with hypothyroidism secondary to
+Hashimoto‘s Thyroidosis. (0650, 0781). After receipt of all the supplemental medical information,
+Spiegel‘s claim for LTD benefits was approved on May 21, 2007 effective December 31, 2006 based
+on the diagnosis of polyglandular autoimmune syndrome and hypothyroidism. (1088-1093). In
+approving Spiegel‘s initial claim for LTD benefits, Hartford Ability Analyst Amy Cook indicated that
+Hartford ―will need to monitor [Spiegel‘s claim] closely as once a correct medication is set up he
+should be able to function well, as it does appear that the doctors are all still trying to correct the
+dosage and meds to treat him.‖ (267). Therefore, the record clearly demonstrates that Hartford
+initially approved Spiegel‘s LTD benefit claim based on his symptoms related to his objectively
+proven diagnosis of hypothyroidism. Moreover, Hartford did not request that Spiegel provide
+objective proof of his diminished functional capacity since his disabling symptoms were found to be
+clinically correlated to his objectively determined medical diagnosis.
+It is also important to note that, at the time of Hartford initially approved Spiegel‘s LTD
+benefit claim, he had not been diagnosed with CFS, nor did he claim to be disabled as a result of
+CFS. (1088-1093; 1048). Hartford was not informed of Spiegel‘s CFS diagnosis, or that his alleged
+subjective symptoms were related to CFS, at any time prior to its initial determination to approve his
+
+NY/693426v2
+
+5
+
+Case 1:09-cv-10581-SHS Document 32
+
+Filed 04/14/11 Page 10 of 21
+
+claim on May 21, 2007. (1049). Indeed, it was not until Hartford received a letter from Dr. Duffy
+dated October 10, 2007, that Hartford was first informed that Spiegel‘s hypotension had resolved,
+and that the purported cause of his remaining symptoms of fatigue were somehow related to CFS.
+(722; 1049). Thus, since Spiegel did not claim to be disabled by CFS during Hartford‘s initial review
+of his claim for LTD benefits, Hartford did not, and was not required to, determine whether Spiegel
+was disabled as a result of CFS. See Wojciechowski v. Metropolitan Life Ins. Co., 1 Fed.Appx. 77, 81 (2d
+Cir. 2001); see also Hobson v. Metropolitan Life Ins. Co., 574 F.3d 75, 89 (2d Circ. 2009)(Summary
+Order); Chitoiu v. UNUM Provident Corp. 345 Fed. Appx. 625, 626 (2d Cir. 2009); Green v. Hartford
+Life and Accident Ins. Co., No. 07-cv-1253 (FJS/GHL), 2010 WL 3907823, *6 (N.D.N.Y. Sept. 30,
+2010). Accordingly, the record clearly shows that Hartford only found Spiegel disabled based on his
+thyroid condition; i.e. not based on CFS.
+In its initial adverse determination letter concerning Spiegel‘s claim for continuing LTD
+benefits, Hartford specifically informed Spiegel that his claim for LTD benefits had initially been
+approved based on his records from Dr. Ann Frietag and Dr. Margaret Sweeney demonstrating that
+he had been diagnosed with Hashimoto‘s thyroidositis, depression and polyglandular autoimmune
+syndrome. (1048, 1049). Indeed, Hartford‘s initial determination letter indicates that it was not until
+after Hartford approved Spiegel‘s original claim for benefits and his thyroid condition resolved that
+he was subsequently diagnosed with CFS. Thus, Hartford‘s continuing review of Spiegel‘s claim was
+based on his continuing claim of disability as a result of his new diagnosis of CFS. (1048, 1049).
+It therefore appears that the Court may have failed to appreciate that prior to October 10,
+2007, including the time of Hartford‘s initial LTD benefit claim review and determination, Spiegel
+was claiming to be disabled from symptoms caused by hypothyroidism, and it was only after
+October 10, 2007 that Hartford was notified that he was claiming to be disabled based on symptoms
+related to a new diagnosis; CFS. This distinction is important and must be considered when
+determining whether Hartford provided a full and fair review on Spiegel‘s claim because, while
+
+NY/693426v2
+
+6
+
+Case 1:09-cv-10581-SHS Document 32
+
+Filed 04/14/11 Page 11 of 21
+
+Hartford agrees with the Court that it cannot shift the ―criteria for demonstrating disability without
+clearly informing the claimant that that is what it is doing,‖ Hartford did not do anything of the sort
+on Spiegel‘s claim. (Bernstein Dec., Ex. ―A,‖ p. 15). Rather, Hartford initially approved Spiegel‘s
+LTD benefit claim based upon its receipt of objective proof of his diagnosis of hypothyroidism, of
+which fatigue is a clinically correlated symptom. Then, after receiving Dr. Duffy‘s October 12, 2007
+letter showing that Spiegel‘s hypothyroidism was under control, it became clear that Spiegel was now
+claiming to be disabled due to the subjective symptoms related to an entirely different condition, for
+which Hartford reasonably required proof in a different form to establish his claimed disability.
+It is therefore apparent that the Court may have erred in concluding that Hartford required
+that Spiegel submit different proof for the same disabling condition. Rather, pursuant to Plan terms,
+Hartford in re-evaluating Spiegel‘s claim, requested that he satisfy his burden to submit proof of his
+disability that was satisfactory to Hartford, showing that he was disabled from performing the
+essential duties of his own occupation by his newly claimed diagnosis of CFS, which is rational. See
+Donohoe v. Hartford Life Ins. Co., 2011 WL 940849, *13 (N.D.N.Y March 18, 2011). Indeed, as a
+practical matter, Hartford‘s review of Spiegel‘s claim for continuing LTD benefits should have been
+reviewed by the Court as an initial evaluation of a newly alleged basis for disability, not a reevaluation of the same, unchanged condition. Indeed, it cannot be disputed that Spiegel was aware
+that his thyroid condition had resolved and thus, knew, or at least should have known, that he was
+claiming to be disabled from symptoms related to an entirely different and newly alleged basis for
+disability about which Hartford was entitled to request new and different proof in support of his
+claim of disability based on that condition.
+
+NY/693426v2
+
+7
+
+Case 1:09-cv-10581-SHS Document 32
+
+Filed 04/14/11 Page 12 of 21
+
+POINT II
+HARTFORD’S INITIAL ADVERSE BENEFIT
+DETERMINATION LETTER SATISFIED ERISA NOTICE
+REQUIREMENTS
+A.
+
+SPIEGEL ADMITTED THAT HE UNDERSTOOD WHY HARTFORD HAD
+DENIED HIS CLAIM FOR CONTINUING LTD BENEFITS
+In its Order, this Court determined, sua sponte, that Hartford did not provide a full and fair
+
+review of Spiegel‘s continuing claim for LTD benefits because it did not specify the basis for its
+initial adverse benefit determination in a manner calculated to be understood by Spiegel. (Bernstein
+Dec., Ex. ―A,‖ p. 9). Specifically, the Court held that Hartford violated ERISA § 503(1), 29 U.S.C.
+§1133(1) by failing to ―clearly communicate a purported basis for its denial in a manner to be
+calculated – in a manner to be understood by Spiegel.‖ (Bernstein Dec., Ex. ―A,‖ p. 11). The Court
+indicated that Hartford‘s action of merely relaying the conclusion of its peer reviewers concerning
+the lack of objective findings did not clearly inform Spiegel that his claim had been denied because
+he ―failed to submit any objective proof of a functional disability as caused by either fatigue or by
+cognitive deficits.‖ (Bernstein Dec., Ex. ―A,‖ p. 10, 11). It is respectfully submitted, however, that
+the Court‘s determination on this point is inconsistent with unequivocal facts in the administrative
+record, including several admissions by Spiegel reflecting that he was aware of the basis for
+Hartford‘s determination, and thus, was ―on notice‖ of these concerns, as required by ERISA.
+In its Order, the Court acknowledged that the Second Circuit only requires substantial
+compliance with ERISA § 503(1) to meet the requirements of a full and fair review. Burke v. Kodak
+Ret. Income Plan, 336 F.3d 103, 107-09 (2d Cir. 2003). ―Substantial compliance ‗means that the
+beneficiary was ‗supplied with a statement of reasons that, under the circumstances of the case,
+permitted a sufficiently clear understanding of the administrator‘s position to permit effective
+review.‘‖ Hobson, 574 F.3d at 87. As set forth below, Hartford complied with ERISA‘s requirement
+that it advise Spiegel in writing of the reasons for its adverse determination, as well as the proof
+needed to support his claim on appeal, in its nearly six page determination letter. (1046-1051).
+
+NY/693426v2
+
+8
+
+Case 1:09-cv-10581-SHS Document 32
+
+Filed 04/14/11 Page 13 of 21
+
+Any question as to Spiegel‘s awareness and notice of the basis for Hartford‘s initial adverse
+determination is resolved by his own appeal letter. Specifically, in Spiegel‘s appeal letter dated April
+22, 2009, he admitted his understanding of the basis for Hartford‘s denial of his claim because he
+objected to Hartford‘s ―assertion that Mr. Spiegel‘s ‗complaints…[are] subjective with no objective
+findings.‘‖ (493). Indeed, in Spiegel‘s appeal letter, he stated the following arguments, which clearly
+reflect his understanding of the basis for Hartford‘s denial of his claim for continuing LTD benefits:
+The clinical findings and test results contained in the record are not ―subjective.‖
+Moreover, as you are certainly aware, many medical conditions- mental and physicalcannot be ―objectively‖ proven; they are diagnosed and treated on the basis of the
+patient‘s complaints, doctor‘s observations, and other ―subjective criteria.‖ If
+―objective‖ evidence exclusively is acceptable to establish a disability, why does the
+Benefit plan not so state in clear terms?
+(492-493).
+As clearly established by the argument quoted above, Spiegel understood Hartford‘s initial adverse
+determination letter as requiring him to provide ―exclusively‖ objective evidence in order to be
+found disabled under the terms of the Plan. (493). Moreover, Spiegel reiterated his understanding of
+the basis for Hartford‘s adverse determination in his Memorandum of Law in Support of his CrossMotion for Summary Judgment. (Docket No.:22). There, Spiegel argued that ―[t]he review
+physicians and Hartford itself repeatedly insisted that the plaintiff failed to provide ―objective‖
+evidence of disability.‖ (Docket No.:22 p. 15). These admissions, of necessity, refute any concern
+that Spiegel was unaware of the basis for Hartford‘s initial adverse claim determination, which likely
+explains why Spiegel did not raise this argument in support of his Cross-Motion.
+B.
+
+HARTFORD WAS NOT REQUIRED TO PROVIDE A LIST OF SPECIFIC
+OBJECTIVE TESTING SUFFICIENT TO PERFECT SPIEGEL’S APPEAL IN
+ITS INITIAL ADVERSE BENEFIT DETERMINATION LETTER
+In its Order, this Court also found that Hartford failed to provide a full and fair review of
+
+Spiegel‘s continuing claim for LTD benefits since its initial adverse determination letter violated
+ERISA regulations requiring that a claim administrator furnish the claimant with a ―description of
+any additional material or information necessary for the claimant to perfect the claim and an
+
+NY/693426v2
+
+9
+
+Case 1:09-cv-10581-SHS Document 32
+
+Filed 04/14/11 Page 14 of 21
+
+explanation of why such material or information is necessary....‖ See 29 C.F.R. § 2560.503-1(g)(1)(iii).
+In its Order, the Court interpreted that regulation to infer that ―specifying the kind of objective
+evidence is paramount [to complying with the regulation],‖ and cited Hobson v. Metropolitan Life Ins.
+Co., 574 F.3d 75, 88 (2d Circ. 2009) to support this proposition. However, Hobson does not go that
+far. Id. at 88. In fact, the Second Circuit held in Hobson that a claim administrator must notify a
+claimant of the need for objective evidence, but did not indicate that any particular level of
+specificity was required to accomplish this notification. Id. at 88. Instead, the Court in Hobson merely
+found that the specific notification that MetLife used in that case was acceptable. Id. at 88.2 Indeed,
+the Second Circuit has never required that claim administrators provide a claimant with a ―laundry
+list‖ of objective test results that they must submit in order to perfect their appeal. See Schnur v. CTC
+Communications Corp. Group Disability Plan, 2011 WL 855861, *3(2d Cir. 2011) (Summary Order); see
+also Mugan v. Hartford Life Group Ins. Co., 2011 WL 291851*10 (S.D.N.Y. 2011).
+In Schnur, as in this case, the claim administrator denied the plaintiff‘s claim for LTD
+benefits based on her failure to provide physical/objective evidence of her ―self reported,‖
+subjective symptoms. Id. at 2. The plaintiff argued on appeal to the Second Circuit that the claim
+administrator‘s initial adverse benefit determination letter failed to comply with 29 C.F.R. §
+2560.503-1(g)(1)(iii). Id. But the Second Circuit disagreed, holding that the ―[claim administrator‘s]
+notice of denial—a thorough, four-and-a-half-page document amply laid out the basis for the denial,
+and, by implication, a description of those materials necessary to perfect the claim.‖ Id. (emphasis
+supplied). Specifically, that notice informed the plaintiff that the claim administrator ―[did] not see
+any evidence in the current medical records to establish that your condition imposes a physical or
+psychological impairment that would preclude you from engaging in the substantial and material
+The Court cited Cook v. New York Times Co. Long-Term Disability Plan, 2004 WL 203111 (S.D.N.Y.
+January 30, 2004) for the same proposition, however, the Court in Cook did not find that a claim
+administrator must provide a specific list of objective tests for the claimant to perfect his/her
+appeal. Id. at *4. In fact, the Court in Cook held that ―insistence on objective evidence, standing
+alone, is not arbitrary and capricious.” Id. at *4.
+2
+
+NY/693426v2
+
+10
+
+Case 1:09-cv-10581-SHS Document 32
+
+Filed 04/14/11 Page 15 of 21
+
+duties of your regular occupation on a sustained basis.‖ Id. Thus, in Schnur, the Second Circuit held
+that the initial adverse benefit determination letter satisfied ERISA notice requirements, without
+requiring a specific list of objective proof that must be supplied on appeal.
+In this case, Hartford provided Spiegel with a longer and even more detailed explanation of
+the basis for its denial of his continuing claim for LTD benefits than what the Second Circuit found
+acceptable in Schnur. Here, Hartford‘s adverse determination letter was nearly six pages long and
+thoroughly laid out the basis for its denial of Spiegel‘s claim for LTD benefits; i.e. that he failed to
+provide any objective proof of his subjective disabling complaints of fatigue. Indeed, Hartford‘s
+initial determination letter discussed in detail all of the evidence that Spiegel had submitted in
+support of his continuing claim for LTD benefits and informed him of why this evidence was
+insufficient to prove that he was disabled, and thus, ―by implication‖ provided a description of the
+information necessary to perfect his appeal. (1046-1051).
+Specifically, the September 24, 2008 initial adverse determination letter clearly informs
+Spiegel that his benefits were terminated because Hartford ―determined that [he] did not meet the
+policy definition of Disability‖; i.e. that he was ―prevented from performing one or more of the
+essential duties of [his] occupation.‖ (1046, 1048). Spiegel was further informed that ―[he] [did] not
+have a clinical or subjectively rated degree of impairment from a physical condition that would alone
+preclude [him] from engaging in physical activity.
+
+From a physical standpoint, the medical
+
+information contained in [his] claim file does not support [his] inability to work 8 hours a day.‖
+(1050). This letter also stated that ―[Spiegel] would have no restrictions with hours worked in a day
+or capacity to sit/stand/walk, amount to carry/lift/push/pull, drive, climb balance, stoop, kneel,
+crouch, crawl, reach at any level or finger/handle/feel.
+
+[Spiegel‘s] records do not document
+
+clinically significant objective medical impairments which would support any psychiatric restrictions
+or limitation, including the ability to work full time.‖ (1050). Hartford also noted in this letter, Dr.
+Asters‘ (Spiegel‘s own treating doctor) conclusion that his ―complaints [were] subjective with no
+
+NY/693426v2
+
+11
+
+Case 1:09-cv-10581-SHS Document 32
+
+Filed 04/14/11 Page 16 of 21
+
+objective findings.‖ (1050). The initial adverse determination letter concluded by stating that ―[t]he
+combined information in [Spiegel‘s] file does not show that [he] [is] unable to perform the essential
+duties of [his] occupation as of 09/22/2008‖ and ―[a]s a result [Spiegel‘s] claim [was] terminated
+effective 9/23/08.‖ (1050).
+By Spiegel‘s own admission, he clearly understood why Hartford denied his continuing claim
+for LTD benefits and that, in order to perfect his claim he ―exclusively‖ needed to provide objective
+evidence of his diminished functional capacity. (493; Docket No.:22 p. 15). Accordingly, pursuant to
+Plan terms, it was Spiegel‘s burden to consult with his treating physicians and to provide further
+evidence consistent with this understanding that would be ―satisfactory to Hartford‖ in support of
+his appeal. Instead, on appeal, Spiegel provided further evidence of his ―self-reported‖ subjective
+complaints, with no objective proof to substantiate his claim, which Hartford had previously advised
+him was insufficient to prove his disability, and which he clearly understood was the basis for the
+initial denial of his claim. It is therefore respectfully submitted that Hartford‘s initial determination
+letter fully complied with ERISA notice provisions, and that if this Court reconsiders this point, as
+well as the additional facts and law discussed above, it may very well alter its rulings on the parties‘
+competing summary judgment motions.
+POINT III
+THE COURT’S ORDER REINSTATING BENEFITS IS
+CONTRARY TO CONTROLLING LAW AND
+IMPROPERLY SUPERSEDES THE TERMS OF THE LTD
+PLAN
+In its Order, the Court ruled that the proper remedy for Hartford‘s failure to comply with
+ERISA regulations in its May 21, 2007 initial adverse benefit determination was reinstatement of all
+LTD benefits to Spiegel from the date of termination to the present. (Bernstein Dec., Exhibit ―A,‖
+p. 18). As a preliminary matter, this issue was not briefed by either party in their respective Motions
+for Summary Judgments and thus, Hartford was unable to set forth any argument opposing
+possible reinstatement of Spiegel‘s benefits. Perhaps more significantly, it appears that the Court
+
+NY/693426v2
+
+12
+
+Case 1:09-cv-10581-SHS Document 32
+
+Filed 04/14/11 Page 17 of 21
+
+may not have considered the United States Supreme Court‘s recent decision in Conkright v. Frommert,
+130 S. Ct. 1640 (2010) before ruling in this manner. It is respectfully submitted that Conkright
+requires the matter to be remanded to Hartford for further consideration if the Court finds that it
+failed to provide Spiegel with a full and fair review. Furthermore, it is also respectfully submitted
+that reinstatement of benefits improperly relieves Spiegel of his burden to produce evidence
+showing that he is and was disabled pursuant to Plan terms, and improperly replaces the terms of
+the Plan with a finding of a procedural violation, which is improper.
+In Conkright, the Supreme Court observed that ―[p]eople make mistakes. Even administrators
+of ERISA plans.‖ Id. at 1641. In the instant matter, this Court found that Hartford ―made a
+mistake‖ by failing to provide a full and fair review to Spiegel and thus, held, by implication, that due
+to this mistake, Hartford‘s decision-making is no longer entitled to the deference provided for in the
+in the Plan documents. (Bernstein Dec., Exhibit ―A,‖ p. 17, 18). Instead, the Court determined that
+Spiegel is entitled to a reinstatement of all benefits, effectively depriving Hartford of its right to
+determine whether Spiegel is actually entitled to those benefits under the terms of the Plan.
+(Bernstein Dec., Exhibit ―A,‖ p. 17, 18) However, the U.S. Supreme Court rejected this ―one-strikeand-your‘re out‖ approach. See Conkright, 130 S. Ct. at 1646. Indeed, the Supreme Court held in
+Conkright that the deference afforded to ERISA claim administrators protects the interests of ERISA
+and promotes the statutory goals of uniformity, efficiency and predictability with respect to ERISA
+claim decisions. Id. at 1649. Accordingly, the Supreme Court found that where a claim administrator
+is granted discretionary authority under the ERISA plan (as Hartford was here), the deference owed
+to its determinations by the reviewing court may not be disturbed by one good faith mistake and
+thus, a remand for a further review and determination is the only proper remedy when such a
+mistake is found to have occurred. See Id. at 1647-1648, 1651.
+In support of its decision to reinstate benefits, this Court cited several decisions from the
+Seventh, Third and Ninth Circuit Courts of Appeal, which all hold that in the case of a ―procedural
+
+NY/693426v2
+
+13
+
+Case 1:09-cv-10581-SHS Document 32
+
+Filed 04/14/11 Page 18 of 21
+
+error‖ the remedy should return the claimant to the ―status quo prior to the defective procedure,‖
+which it found, in a case where benefits were terminated, results in reinstatement of benefits.
+(Bernstein Dec. Exhibit ―A,‖ p. 18); See Hackett v. Xerox Corp. Long-Term Disability Income Plan, 315
+F.3d 771, 776 (7th Cir. 2003); see also Miller v. American Airlines, Inc., 632 F.3d 837, 856 -857 (3rd Cir.
+2011); Pannebecker v. Liberty Life Assur. Co. of Boston, 542 F.3d 1213, 1221 (9th Cir. 2008). While none
+of these cited decisions are binding on this Court, both the Ninth Circuit‘s decision in Pannebacker,
+supra, and the Seventh Circuit‘s decision in Hackett, supra, pre-date the Supreme Court‘s
+determination in Conkright, supra.
+
+The Third Circuit‘s decision in Miller, supra, does not even
+
+consider the Supreme Court‘s decision in Conkright, which clearly requires a different result.
+In further support of its decision to reinstate Spiegel‘s benefits, this Court cited Hartford‘s
+purported failure to identify any material change in Spiegel‘s condition that would warrant the denial
+of benefits. (Bernstein Dec., Exhibit ―A,‖ p. 19). But as discussed in POINT I, supra, the Court
+appears to have missed crucial evidence in the record demonstrating that the condition for which
+Hartford originally approved benefits had resolved and that Spiegel‘s claim of disability changed
+after Hartford‘s initial approval and thus, it was not unreasonable for Hartford to require different
+proof to support this essentially new claim for benefits. (1049).
+It is also respectfully submitted that this Court‘s Order reinstating benefits improperly
+relieves Spiegel of his burden under the terms of the LTD Plan, to prove that he is and was entitled
+to receive LTD benefits during the time in issue. (17). It is well settled that Spiegel has the burden to
+demonstrate that he was disabled as that term is defined in the LTD Plan. See Hobson, 574 F.3d at
+89; Juliano v. Health Maint. Org. of N.J., 221 F.3d 279, 287-88 (2d Cir. 2000). Pursuant to the Plan,
+Spiegel must remain disabled throughout the elimination period and submit proof of his disability
+that is satisfactory to Hartford. (8). The administrative record clearly indicates that after Spiegel‘s
+thyroid condition resolved and prior to Hartford‘s initial adverse determination on September 26,
+2008, it requested that Spiegel provide continuing proof of loss to determine whether he was still
+
+NY/693426v2
+
+14
+
+Case 1:09-cv-10581-SHS Document 32
+
+Filed 04/14/11 Page 19 of 21
+
+disabled as defined by the Plan terms. (17). By letter dated September 26, 2008, Hartford advised
+Spiegel that the evidence he had submitted was not satisfactory and explained its reasoning in great
+detail. (1046-1051). Spiegel admittedly understood that the evidence submitted in support of his
+continuing claim was not satisfactory to Hartford as well as the reasons why Hartford did not find it
+to be acceptable. (493; Docket No.:22 p. 15). However, on appeal, Spiegel failed to submit any of
+the evidence that, in his own words, Hartford ―exclusively‖ requested in its letter, nor did he submit
+any evidence on appeal of a different nature than what he initially submitted in support of his
+continuing disability claim. (493, 1039-1044). Accordingly, Hartford found that Spiegel did not
+satisfy his burden under the Plan. (1039-1044).
+Since this Court found that Hartford‘s procedural violations were arbitrary and capricious,
+this matter should be remanded back to Hartford for further consideration so that it may determine
+whether Spiegel can satisfy his burden under the Plan to submit proof showing that he remained
+disabled beyond September 26, 2008. Instead, this Court has effectively relieved Spiegel of this
+burden, and awarded him benefits for a period time for which there is absolutely no proof of
+disability available — satisfactory or otherwise. (Bernstein Dec., Exhibit ―A,‖ p. 18). Indeed, there is
+no proof in the record showing that Spiegel is and was disabled pursuant to Plan terms beyond
+September 26, 2008. At the very least, the Plan requires that Spiegel show that he is (and was)
+―under the Regular care of a Physician‖ during the period he is claiming to be disabled, but the
+Court‘s Order relieves him of his obligation to submit proof of even this basic Plan requirement. (8).
+Accordingly, reinstating Spiegel‘s LTD benefits without permitting Hartford the opportunity to
+collect proof and determine whether he was actually disabled under the terms of the Plan,
+unreasonably supersedes the terms of the LTD Plan, of which he was a voluntary participant, and
+improperly relieves Spiegel of his burden under the terms of the Plan to prove his entitlement to
+continuing LTD benefits.
+
+NY/693426v2
+
+15
+
+Case 1:09-cv-10581-SHS Document 32
+
+Filed 04/14/11 Page 20 of 21
+
+CONCLUSION
+It is respectfully submitted that, for the foregoing reasons, this Court should reconsider its
+initial ruling and upon doing so, deny Spiegel‘s Cross-Motion for Summary Judgment, grant
+Hartford‘s Motion for Summary Judgment, or in the alternative remand Spiegel‘s claim to Hartford
+for further review and determination.
+Dated: New York, New York
+April 14, 2011
+Respectfully Submitted,
+s/
+Michael H. Bernstein
+Matthew P. Mazzola
+SEDGWICK, DETERT, MORAN & ARNOLD LLP
+Attorneys for Defendant
+125 Broad Street, 39th Floor
+New York, New York 10004-2400
+Telephone: (212) 422-0202
+[SDMA File No. 02489-000049]
+
+NY/693426v2
+
+16
+
+Case 1:09-cv-10581-SHS Document 32
+
+Filed 04/14/11 Page 21 of 21
+
+CERTIFICATE OF SERVICE
+I, Matthew P. Mazzola, hereby certify and affirm that a true and correct copy of the attached
+MEMORANDUM OF LAW IN SUPPORT OF MOTION FOR RECONSIDERATION
+was served via Regular Mail on this 14th day of April, 2011, upon the following:
+Harold Skovronsky
+Attorneys for Plaintiff
+Law Offices of Harold Skovronsky
+1810 Avenue N
+Brooklyn, New York 11230
+Telephone: (718) 336-8886
+s/
+Matthew P. Mazzola (MM-7427)
+Dated:
+
+NY/693426v2
+
+New York, New York
+April 14, 2011
+
+17
+
+

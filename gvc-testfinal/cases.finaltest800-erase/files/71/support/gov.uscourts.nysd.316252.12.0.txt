@@ -1,0 +1,1028 @@
+Case 1:07-cv-09920-CSH
+
+Document 12
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+---------------------------------------------------------------- x
+CHRISTEL BILLHOFER, On Behalf of
+:
+Herself and All Others Similarly Situated,
+:
+:
+:
+Plaintiff,
+:
+vs.
+:
+:
+FLAMEL TECHNOLOGIES, SA, STEPHEN
+:
+H. WILLARD, and RAFAEL JORDA,
+:
+:
+Defendants.
+:
+--------------------------------------------------------------- x
+
+Filed 05/12/2008
+
+Page 1 of 25
+
+Civ. No. 07 Civ. 9920 (CSH)
+(ECF Case)
+
+MEMORANDUM OF LAW BY FLAMEL TECHNOLOGIES, SA
+IN SUPPORT OF ITS MOTION TO DISMISS THE AMENDED COMPLAINT
+
+David Wertheimer
+Peter J. Dennin
+HOGAN & HARTSON LLP
+875 Third Avenue
+New York, New York 10022
+Tel: (212) 918-3000
+Fax: (212) 918-3100
+Counsel for Defendant
+Flamel Technologies, SA
+Dated: May 12, 2008
+
+Case 1:07-cv-09920-CSH
+
+Document 12
+
+Filed 05/12/2008
+
+Page 2 of 25
+
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORITIES .......................................................................................................... ii
+PRELIMINARY STATEMENT .................................................................................................... 1
+THE ALLEGATIONS OF THE AMENDED COMPLAINT........................................................ 3
+A.
+
+The Parties .............................................................................................................. 3
+
+B.
+
+The Events At Issue ................................................................................................ 4
+
+ARGUMENT.................................................................................................................................. 6
+I.
+
+II.
+
+PLAINTIFF'S §10(B) CLAIM SHOULD BE DISMISSED.............................................. 6
+A.
+
+Plaintiff Fails To Allege A Material Misstatement................................................. 7
+
+B.
+
+Plaintiff Fails To Allege Facts Raising A Strong Inference Of Scienter.............. 10
+1.
+
+Plaintiff does not allege that Flamel had a motive to commit fraud......... 11
+
+2.
+
+Plaintiff fails to allege facts showing recklessness ................................... 13
+
+PLAINTIFF'S §20(A) CLAIM SHOULD BE DISMISSED............................................ 18
+
+CONCLUSION............................................................................................................................. 18
+
+Case 1:07-cv-09920-CSH
+
+Document 12
+
+Filed 05/12/2008
+
+Page 3 of 25
+
+TABLE OF AUTHORITIES
+Page
+ATSI Commc'ns, Inc. v. Shaar Fund, Ltd.,
+493 F.3d 87 (2d Cir. 2007).............................................................................................6, 10, 18
+Caiafa v. Sea Containers Ltd.,
+525 F. Supp. 2d 398 (S.D.N.Y. 2007)......................................................................................14
+Cortec Indus., Inc. v. Sum Holding L.P.,
+949 F.2d 42 (2d Cir. 1991).......................................................................................................18
+Denny v. Barber,
+576 F.2d 465 (2d Cir. 1978).......................................................................................................7
+Fadem v. Ford Motor Co.,
+352 F. Supp. 2d 501 (S.D.N.Y. 2005).............................................................................. passim
+Faulkner v. Verizon Communications, Inc.,
+189 F. Supp. 2d 161 (S.D.N.Y. 2002)......................................................................................13
+Gas Natural v. E.On AG,
+468 F. Supp. 2d 595 (S.D.N.Y. 2006)........................................................................................3
+Goplen v. 51Job, Inc.,
+453 F. Supp. 2d 759 (S.D.N.Y. 2006).............................................................................. passim
+Gross v. Summa Four, Inc.,
+93 F.3d 987 (1st Cir. 1996)........................................................................................................7
+Hampshire Equity Partners II, L.P. v. Teradyne, Inc.,
+04 Civ. 2218 (LAP), 2005 WL 736217 (S.D.N.Y. Mar. 30, 2005) ...................................12, 15
+In re Bayou Hedge Fund Litig.,
+534 F. Supp. 2d 405 (S.D.N.Y. 2007)......................................................................................13
+In re Bristol Myers Squibb Sec. Litig.,
+312 F. Supp. 2d 549 (S.D.N.Y. 2004)......................................................................................10
+In re Career Education Corp. Sec. Litig.,
+03 C 8884, 2006 WL 999988 (N.D. Ill. Mar. 28, 2006) ............................................................7
+In re Cross Media Marketing Corp. Sec. Litig.,
+314 F. Supp. 2d 256 (S.D.N.Y. 2004)......................................................................................15
+In re Duane Reade Inc. Sec. Litig.,
+02 Civ. 6478 (NRB), 2003 WL 22801416 (S.D.N.Y. Nov. 25, 2003), aff'd,
+107 Fed. Appx. 250 (2d Cir. 2004)................................................................................8, 12, 18
+
+ii
+
+Case 1:07-cv-09920-CSH
+
+Document 12
+
+Filed 05/12/2008
+
+Page 4 of 25
+
+In re Elan Corp. Sec. Litig.,
+05 Civ. 2860 (RJH), 2008 WL 839744 (S.D.N.Y. Mar. 27, 2008)....................................10, 15
+In re eSpeed, Inc. Sec. Litig.,
+457 F. Supp. 2d 266 (S.D.N.Y. 2006)..................................................................................9, 14
+In re FBR Inc. Sec. Litig.,
+05 Civ. 4617 (RJH), 2008 WL 857627 (S.D.N.Y. Mar. 31, 2008)............................................7
+In re Geopharma, Inc. Sec. Litig.,
+399 F. Supp. 2d 432 (S.D.N.Y. 2005)..........................................................................11, 12, 17
+In re JP Morgan Chase Sec. Litig.,
+02 Civ. 1282 (SHS), 2007 WL 950132 (S.D.N.Y. Mar. 29, 2007) ...................................12, 13
+In re Pfizer, Inc. Sec. Litig.,
+06 Civ. 14199 (LAK), 2008 WL 540120 (S.D.N.Y. Feb. 28, 2008) .......................................10
+In re QLT Inc. Sec. Litig.,
+312 F. Supp. 2d 526 (S.D.N.Y. 2004)........................................................................................9
+In re Sierra Wireless, Inc. Sec. Litig.,
+482 F. Supp. 2d 365 (S.D.N.Y. 2007)............................................................................8, 10, 15
+In re WorldCom, Inc. Sec. Litig.,
+303 F. Supp. 2d 385 (S.D.N.Y. 2004)........................................................................................9
+Kalnit v. Eichler,
+264 F.3d 131 (2d Cir. 2001).........................................................................................12, 13, 14
+Kemp v. Universal American Financial Corp.,
+05 Civ. 9883(JFK), 2007 WL 86942 (S.D.N.Y. Jan. 10, 2007) ................................................9
+Lasker v. New York State Elec. & Gas Corp.,
+85 F.3d 55 (2d Cir. 1996) ..........................................................................................................9
+Levine v. NL Indus.,
+720 F. Supp. 305 (S.D.N.Y. 1989).............................................................................................7
+Novak v. Kasaks,
+216 F.3d 300 (2d Cir. 2000)...............................................................................................10, 11
+Pinker v. Roche Holdings Ltd.,
+292 F.3d 361 (3d Cir. 2002).......................................................................................................4
+Rombach v. Chang,
+355 F.3d 164 (2d Cir. 2004).............................................................................................7, 9, 11
+
+iii
+
+Case 1:07-cv-09920-CSH
+
+Document 12
+
+Filed 05/12/2008
+
+Page 5 of 25
+
+Roots Partnership v. Lands' End, Inc.,
+965 F.2d 1411 (7th Cir. 1992) ...................................................................................................7
+San Leandro Emergency Medical Group Profit Sharing Plan v. Philip Morris
+Cos., Inc., 75 F.3d 801 (2d Cir. 1996) .................................................................................9, 15
+Shields v. Citytrust Bancorp, Inc.,
+25 F.3d 1124 (2d Cir. 1994).....................................................................................................12
+Stoneridge Investment Partners, LLC v. Scientific-Atlanta, Inc.,
+128 S.Ct. 761 (2008)..................................................................................................................7
+Tellabs, Inc. v. Makor Issues & Rights, Ltd.,
+127 S.Ct. 2499 (2007)........................................................................................................10, 15
+The City of Sterling Heights Police and Fire Retirement System v. Abbey
+Nat'l, PLC, 423 F. Supp. 2d 348 (S.D.N.Y. 2006)...................................................................10
+
+iv
+
+Case 1:07-cv-09920-CSH
+
+Document 12
+
+Filed 05/12/2008
+
+Page 6 of 25
+
+Defendant Flamel Technologies, SA ("Flamel") respectfully submits this
+memorandum of law in support of its motion, pursuant to Rules 9(b) and 12(b)(6) of the Federal
+Rules of Civil Procedure and the Private Securities Litigation Reform Act ("PSLRA"), 15 U.S.C.
+§78u-4(b), to dismiss, with prejudice, the claims asserted against it in the Amended Complaint,
+dated March 27, 2008 (the "Amended Complaint" or "AC").1
+PRELIMINARY STATEMENT
+Plaintiff's purported securities fraud action should be dismissed with prejudice for
+two reasons -- it fails to properly plead (a) that plaintiff purchased her Flamel securities in
+reliance upon a material misstatement; and (b) facts raising a strong inference that Flamel (or the
+individual defendants) acted with scienter.
+The Amended Complaint accuses Flamel of violating §§10(b) and 20(a) of the
+Securities Exchange Act of 1934 by promoting the commercial viability of COREG CR -- a drug
+for the treatment of congestive heart failure -- based on performance criteria it knew (or
+recklessly failed to know) were not achievable.
+
+Flamel, which develops "polymer-based
+
+delivery technologies," collaborated with the pharmaceutical company GlaxoSmithKline ("GSK")
+to create COREG CR, an "improved" version of "COREG IR" -- a drug that GSK had originally
+developed and marketed. The benefit of COREG CR was that, using Flamel's technology, it
+delivered its active ingredient through an "extended release" formula, allowing patients to take
+one dosage per day versus COREG IR's "immediate release" formula, which required two
+dosages per day.
+
+1
+
+Stephen H. Willard and Rafael Jorda, who are officers of Flamel and reside in France, are named as
+defendants but have never been served with process.
+
+Case 1:07-cv-09920-CSH
+
+Document 12
+
+Filed 05/12/2008
+
+Page 7 of 25
+
+Plaintiff contends that Flamel, in a series of six statements -- beginning with a
+March 23, 2007 press release announcing COREG CR's market launch and continuing through
+August 2, 2007 -- overstated COREG CR's future sales potential by claiming that COREG CR's
+reduced dosage requirement would result in improved patient compliance rates with their
+doctor's prescriptions. Plaintiff charges that Flamel knew (or recklessly failed to know) its sales
+predictions for COREG CR were false because, prior to March 23, 2007, it had "commenced" a
+clinical study comparing patient compliance rates between COREG IR and COREG CR -known as the "CASPER Trial" -- which found that COREG CR was "not associated with better
+drug-taking compliance." Plaintiff alleges that, when an abstract of the CASPER Trial findings
+was published on August 23, 2007 in the Journal of Cardiac Failure, Flamel's stock dropped.
+Plaintiff's allegations fail to properly allege the essential elements of a §10(b)
+claim. First, despite her criticisms of six Flamel statements, plaintiff purchased all her Flamel
+securities on April 24, 2007, following only the first of Flamel's statements at issue -- i.e., the
+March 23, 2007 COREG CR product announcement. That disclosure did not mention patient
+compliance rates or future product sales. Rather it consisted entirely of historical statements
+whose accuracy is not challenged. Moreover, to extent that any of its statements -- e.g., that the
+successful introduction of COREG CR "has generated considerable interest" in Flamel's
+technologies -- could be misconstrued as a prediction of future success, the statements are too
+vague and imprecise to be considered material, as a matter of law.
+Second, the conclusory allegations of the Amended Complaint fail to raise a
+strong inference of scienter. Plaintiff does not identify any concrete motive to explain why
+Flamel would seek to deceive investors. Indeed, the fraudulent scheme plaintiff has concocted is
+economically nonsensical, because it assumes that Flamel publicly overstated COREG CR's
+
+2
+
+Case 1:07-cv-09920-CSH
+
+Document 12
+
+Filed 05/12/2008
+
+Page 8 of 25
+
+performance criteria beginning in March 2007 despite (a) knowing that, by August 2007,
+publication of the CASPER Trial abstract would show those claims to be false; (b) failing, in the
+interim, to obtain any benefit from the allegedly inflated performance claims; and (c) continuing,
+in the interim, to invest substantial resources in manufacturing COREG CR. Because such a
+scheme is inconsistent with Flamel's "informed economic self-interest" it cannot raise an
+inference of fraudulent intent.
+Furthermore, plaintiff's assertion that, prior to March 23, 2007, Flamel knew the
+results of the CASPER Trial is wholly conclusory and lacks any factual support linking anyone
+at Flamel to knowledge of the results of the CASPER Trial before the August 23, 2007
+publication of the Trial abstract. Indeed, the facts pled -- and the documents plaintiff relies upon
+-- raise a compelling argument that Flamel was unaware of the Trial results prior to the abstract's
+publication. In short, plaintiff's allegations of scienter are nothing but an improper attempt to
+plead fraud by hindsight. Accordingly, plaintiff's §10(b) claim and her derivative §20(a) claim
+should be dismissed with prejudice.
+THE ALLEGATIONS OF THE AMENDED COMPLAINT
+For the Court's convenience, the allegations of the Amended Complaint relevant
+to this motion are summarized below.
+
+A.
+
+The Parties
+Plaintiff Christel Billhofer is an individual who allegedly purchased 900
+
+American Depository Receipts2 ("ADR") of Flamel common stock on April 24, 2007. (AC ¶ 3 &
+
+2
+
+An ADR is a "means by which American investors hold and trade equity interests in foreign
+companies." Gas Natural v. E.On AG, 468 F. Supp. 2d 595, 596 n.1 (S.D.N.Y. 2006). In essence, the
+foreign corporation "must issue and deposit American Depository Shares ("ADSs") with an American
+financial institution" which then issues ADRs "to the beneficial owners of the ADSs, who may sell the
+
+3
+
+Case 1:07-cv-09920-CSH
+
+Document 12
+
+Filed 05/12/2008
+
+Page 9 of 25
+
+Billhofer certification.3) Plaintiff seeks to represent a class of all persons who purchased Flamel
+ADRs during the period March 23, 2007 through August 22, 2007. (Id. ¶¶ 1, 7.)
+Flamel is a publicly-held, French company whose ADRs are traded on the
+NASDAQ.
+
+(Id. ¶ 4.)
+
+Flamel's business consists of developing "polymer-based delivery
+
+technologies for medical applications." In particular, it "specializes in helping pharmaceutical
+companies develop extended release drugs." (Id. ¶ 13.) Defendants Stephen H. Willard and
+Rafael Jorda serve, respectively, as Flamel's Chief Executive Officer and Chief Operating
+Officer. (Id. ¶¶ 5-6.)
+
+B.
+
+The Events At Issue
+Plaintiff's action focuses upon the introduction and marketing of a drug named
+
+"COREG CR," which is designed, among other things, to treat "moderate to severe congestive
+heart failure." (Id. ¶ 14.) Prior to the introduction of COREG CR, the pharmaceutical company
+GSK had developed and marketed a similar drug named "COREG IR," which delivered its active
+ingredient through an "immediate release" mechanism. (Id. ¶ 15.) GSK, in collaboration with
+Flamel and its "polymer-based delivery technologies," developed a "controlled release" version
+of COREG IR which became COREG CR. (Id.)
+The benefit of COREG CR was that it could be dispensed in once-a-day dosages,
+whereas COREG IR needed to be taken twice-a-day. (Id. ¶¶ 15-16.) According to the Amended
+Complaint, it was "widely known that a primary issue for users of cardiac medication is
+compliance" with their medication regimen. (Id. ¶ 16.)
+ADSs on American securities exchanges." Id. See also Pinker v. Roche Holdings Ltd., 292 F.3d 361, 367
+(3d Cir. 2002)(describing ADR securities).
+3
+
+A copy of Ms. Billhofer's certification, which was filed with her initial pleading, is attached as Exhibit A
+to the Declaration of David Wertheimer, executed on May 12, 2008 ("Wertheimer Decl.").
+
+4
+
+Case 1:07-cv-09920-CSH
+
+Document 12
+
+Filed 05/12/2008
+
+Page 10 of 25
+
+Plaintiff contends that Flamel falsely promoted the future sales potential of
+COREG CR by claiming that its reduced dosage requirement would lead to improved patient
+compliance rates and increased demand by the medical community. Plaintiff asserts that Flamel
+first made its misleading claims in a March 23, 2007 press release announcing COREG CR's
+product launch. That disclosure, however, did not refer to patient compliance rates or COREG
+CR's sales potential. Rather, in relevant part, it said:
+We are pleased that COREG CR™ will now be available to patients in the U.S.
+for the treatment of these three serious conditions. COREG CR™ is the first
+marketed product incorporating Flamel's MICROPUMP® technology. The
+success of the COREG CR™ program has generated considerable interest in our
+MICROPUMP® technology as well as in our MEDUSA® technology platform
+for the delivery of proteins and peptides. Interest in both technologies has never
+been higher.
+(Id. ¶ 22.) Plaintiff claims that Flamel continued to publish allegedly inflated sale projections in
+five additional press releases, filings with the Securities and Exchange Commission and analyst
+conference calls on April 30, May 7, August 1 and August 2, 2007. (Id. ¶¶ 23-27.)
+Plaintiff alleges that these several statements were revealed to be false by the
+publication on August 23, 2007 of an abstract in the Journal of Cardiac Failure describing the
+results of a clinical trial known as the "CASPER Trial." (Id. ¶¶ 19, 21, 28-29.) The CASPER
+Trial was designed to "measure the differential compliance, quality of life and satisfaction with
+medication in chronic heart failure patients taking COREG IR vs. COREG CR." (Id. ¶ 18.)
+According to plaintiff, the abstract disclosed that the CASPER Trial had concluded "that
+switching from COREG IR to COREG CR was not associated with better drug-taking
+compliance," which undermined "the primary selling point for COREG CR." (Id. ¶¶ 20, 28.)
+
+5
+
+Case 1:07-cv-09920-CSH
+
+Document 12
+
+Filed 05/12/2008
+
+Page 11 of 25
+
+Plaintiff alleges that, prior to issuing its first alleged misstatement on March 23,
+2007, Flamel was aware of the results of the CASPER Trial. The only purported basis for that
+conclusion appears in the following three paragraphs of the Amended Complaint:
+18.
+In order to prove the benefits of COREG CR, GSK and
+Flamel commenced a clinical trial to measure the differential compliance,
+quality of life and satisfaction with medication in chronic heart failure
+patients taking COREG IR vs. COREG CR (the "Casper Trial"). The
+primary outcome of the CASPER Trial was pill-taking compliance.
+19.
+By no later than the start of the Class Period, the CASPER
+Trial was complete and the results were made known to GSK and Flamel.
+An abstract of the CASPER Trial was required to be submitted to the
+Journal of Cardiac Failure by no later than April 9, 2007. To meet this
+deadline, GSK and Flamel were required to complete the CASPER Trial,
+analyze the associated data, and draw conclusions therefrom -- all
+sufficiently in advance of the submission date.
+20.
+The abstract of the CASPER Trial, which was submitted to
+the Journal of Cardiac Failure, concluded that switching from COREG IR
+to COREG CR 'was not associated with better drug taking compliance. …'
+Thus, the primary selling point for COREG CR was not supported by
+the CASPER Trial.
+(Id. ¶¶ 18-20.)
+Based on the foregoing allegations, plaintiff purports to assert claims against all
+defendants for violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934.
+ARGUMENT
+
+I.
+
+PLAINTIFF'S §10(B) CLAIM SHOULD BE DISMISSED
+To allege a claim under §10(b), plaintiff must plead that Flamel "(1) made
+
+misstatements or omissions of material fact, (2) with scienter, (3) in connection with the
+purchase or sale of securities, (4) upon which the plaintiff relied, and (5) that the plaintiff's
+reliance was the proximate cause of its injury." ATSI Commc'ns, Inc. v. Shaar Fund, Ltd., 493
+
+6
+
+Case 1:07-cv-09920-CSH
+
+Document 12
+
+Filed 05/12/2008
+
+Page 12 of 25
+
+F.3d 87, 105 (2d Cir. 2007). 4 Moreover, plaintiff's allegations must satisfy the heightened
+pleading requirements of Rule 9(b) of the Federal Rules of Civil Procedure and the PSLRA. Id.
+at 99. The Amended Complaint fails to satisfy these requirements.
+
+A.
+
+Plaintiff Fails To Allege A Material Misstatement
+Despite challenging six public statements by Flamel, plaintiff acknowledges that
+
+she purchased all her Flamel securities on April 24, 2007 after Flamel had issued, on March 23,
+2007, only the first of its supposed six misstatements. Accordingly, if Flamel's March 23, 2007
+statement is not actionable, plaintiff may not assert a §10(b) claim for herself or on behalf of
+anyone else. Denny v. Barber, 576 F.2d 465, 468-69 (2d Cir. 1978)(if plaintiff "cannot share in
+any recovery because no fraudulent statements were issued before his purchase, he would not be
+a proper representative of persons who bought securities after fraudulent statements were issued
+if indeed this occurred"). 5 As shown below, Flamel's March 23, 2007 press release is not
+actionable as a matter of law.
+A statement is materially misleading only if it "'would have misled a reasonable
+investor.'" Rombach v. Chang, 355 F.3d 164, 172 n.7 (2d Cir. 2004). It follows that the
+omission of information is actionable only where it is "sufficiently connected to Defendants'
+existing disclosures to make those public statements misleading." In re FBR Inc. Sec. Litig., 05
+
+4
+
+Accord Stoneridge Investment Partners, LLC v. Scientific-Atlanta, Inc., 128 S.Ct. 761, 768 (2008).
+
+5
+
+Accord Gross v. Summa Four, Inc., 93 F.3d 987, 993 (1st Cir. 1996)(plaintiff who purchased securities
+before misstatements "has no standing to complain about the statements" and "cannot maintain an action
+on behalf of class members to redress an injury for which he has no standing in his own right"); Roots
+Partnership v. Lands' End, Inc., 965 F.2d 1411, 1420 (7th Cir. 1992)("post-purchase statements cannot
+form the basis of Rule 10b-5 liability, because the statements could not have affected the price at which
+plaintiff actually purchased"); In re Career Education Corp. Sec. Litig., 03 C 8884, 2006 WL 999988, at
+*2-3 (N.D. Ill. Mar. 28, 2006)(plaintiff cannot assert §10(b) action for himself or class based on
+statements post-dating his purchase); Levine v. NL Indus., 720 F. Supp. 305, 308 (S.D.N.Y. 1989)(same).
+
+7
+
+Case 1:07-cv-09920-CSH
+
+Document 12
+
+Filed 05/12/2008
+
+Page 13 of 25
+
+Civ. 4617 (RJH), 2008 WL 857627, at *8 (S.D.N.Y. Mar. 31, 2008). The gist of plaintiff's claim
+is that Flamel's disclosures -- including its March 23, 2007 press release -- were misleading
+because they omitted that the CASPER Trial had found that COREG CR did not result in "better
+drug-taking compliance," which undermined the "primary selling point for COREG CR." (AC
+¶¶ 20, 28.)
+Plaintiff's contention that the statements in Flamel's March 23 press release
+triggered an obligation to disclose the omitted information, however, is belied by the plain text of
+the statement, which said:
+We are pleased that COREG CR™ will now be available to patients in the U.S.
+for the treatment of these three serious conditions. COREG CR™ is the first
+marketed product incorporating Flamel's MICROPUMP® technology. The
+success of the COREG CR™ program has generated considerable interest in our
+MICROPUMP® technology …. Interest in both technologies has never been
+higher.
+(AC ¶ 22.)
+Nothing in the March 23 press release refers to or otherwise implicates patient's
+compliance rates for COREG CR. Nor is there any discussion of the future marketing potential
+of COREG CR.
+
+Rather, because these statements do no more than discuss the historical
+
+performance of COREG CR's introduction -- whose accuracy is not challenged -- they cannot, as
+a matter of law, be found misleading for omitting discussion of potential future sales
+performance. Indeed, it is well-established that defendants "'may not be held liable under the
+securities laws for accurate reports of past successes, even if present circumstances are less
+rosy.'" In re Duane Reade Inc. Sec. Litig., 02 Civ. 6478 (NRB), 2003 WL 22801416, at *6
+(S.D.N.Y. Nov. 25, 2003), aff'd, 107 Fed. Appx. 250 (2d Cir. 2004).6
+6
+
+Accord In re Sierra Wireless, Inc. Sec. Litig., 482 F. Supp. 2d 365, 374 (S.D.N.Y. 2007)(accurate
+statement of historical earnings not misleading even if future results known to be less promising); In re
+
+8
+
+Case 1:07-cv-09920-CSH
+
+Document 12
+
+Filed 05/12/2008
+
+Page 14 of 25
+
+Moreover, even if statements in the March 23 press release could be misconstrued
+as projections of COREG CR's future marketing success, the statements are nothing more than
+"expressions of puffery and corporate optimism" which, as a matter of law, "do not give rise to
+securities violations." Rombach, 355 F.3d at 174. Indeed, it is well-established that "'loosely
+optimistic statements that are so vague, so lacking in specificity, or so clearly constituting the
+opinions of the speaker, that no reasonable investor could find them important'" are deemed
+immaterial as a matter of law. In re eSpeed, Inc. Sec. Litig., 457 F. Supp. 2d 266, 280 (S.D.N.Y.
+2006).7
+In the case of the March 23 press release, to the extent that any of the statements
+might have been mistakenly viewed as projections -- e.g., the "success of the COREG CR™
+program has generated considerable interest in our MICROPUMP® technology" or that interest
+in Flamel's technology "has never been higher" -- the expressions are simply garden variety
+"rosy affirmation" of corporate optimism that courts have routinely found immaterial as a matter
+of law. See id. at 280, 286 (statement that defendant "'look[s] forward to growing this business
+as more and more users recognize PI's tremendous benefit' is non-actionable puffery"). 8
+Accordingly, plaintiff's §10 (b) claim must fail.
+
+QLT Inc. Sec. Litig., 312 F. Supp. 2d 526, 535 (S.D.N.Y. 2004)("A correct statement of fact is not a
+misrepresentation and cannot, therefore, support a cause of action for securities fraud."); In re WorldCom,
+Inc. Sec. Litig., 303 F. Supp. 2d 385, 387 (S.D.N.Y. 2004)("accurate description of historical prices"
+cannot be materially misleading).
+7
+
+Accord Lasker v. New York State Elec. & Gas Corp., 85 F.3d 55, 58 (2d Cir. 1996)("'Statements that a
+company is committed to increasing earnings, convinced of its business strategy, and has set its most
+aggressive goals ever are not considered seriously by the marketplace and investors in assessing a
+potential investment'").
+
+8
+
+See also San Leandro Emergency Medical Group Profit Sharing Plan v. Philip Morris Cos., Inc., 75
+F.3d 801, 811 (2d Cir. 1996)(defendant's "general announcements … that it was 'optimistic' about its
+earnings and 'expected' Marlboro to perform well" were non-actionable puffery); Kemp v. Universal
+American Financial Corp., 05 Civ. 9883(JFK), 2007 WL 86942, at *14 (S.D.N.Y. Jan. 10,
+
+9
+
+Case 1:07-cv-09920-CSH
+
+B.
+
+Document 12
+
+Filed 05/12/2008
+
+Page 15 of 25
+
+Plaintiff Fails To Allege Facts Raising A Strong Inference Of Scienter
+The element of scienter "requires a showing of 'intent to deceive, manipulate, or
+
+defraud," which includes consciously reckless misconduct. ATSI, 493 F.3d at 99 n.3. 9 The
+PSLRA directs that such a showing may be accomplished only by alleging "with particularity
+facts giving rise to a strong inference" of scienter. 15 U.S.C. §78u-4(b)(2). That requirement
+may be satisfied by "alleging facts (1) showing that the defendants had both motive and
+opportunity to commit the fraud or (2) constituting strong circumstantial evidence of conscious
+misbehavior or recklessness." ATSI, 493 F.3d at 99.10 The facts alleged, however, must support
+an inference of scienter that is "more than merely plausible or reasonable -- it must be cogent and
+at least as compelling as any opposing inference of nonfraudulent intent." Tellabs, Inc. v. Makor
+Issues & Rights, Ltd., 127 S.Ct. 2499, 2505 (2007). In this case, such facts are wholly absent
+from the Amended Complaint and thus plaintiff's §10(b) claim must fail.
+
+2007)(dismissing as puffery company's statement that it is "'very optimistic about our ability to keep
+growing the … business'" and "is well-positioned to offer the full range of needed products'"); Sierra
+Wireless, Inc., 482 F. Supp. 2d at 373 (dismissing as puffery defendant's statements that it “expected
+OEM to continue to be a strong segment” and “OEM would continue to be a healthy business for the
+foreseeable future”); The City of Sterling Heights Police and Fire Retirement System v. Abbey Nat'l, PLC,
+423 F. Supp. 2d 348, 357-358 (S.D.N.Y. 2006)(dismissing as puffery statements that company “'is in
+better shape than ever,'” that it “projected a 'strong track record of double digit profit growth,'” and that it
+“is in very good shape as it moves into the next stage of its development” and “'well placed to take
+advantage of future opportunities'”); In re Bristol Myers Squibb Sec. Litig., 312 F. Supp. 2d 549, 557-559
+(S.D.N.Y. 2004)(finding immaterial company's statement that its product was “a tremendous strategic
+opportunity;” has “real blockbuster potential, has the potential to be one of the most exciting, if not the
+most exciting, oncology compound introduced over the next several years;” and has “potential to drive the
+growth of our oncology franchise in the near and medium term”).
+9
+
+Accord Novak v. Kasaks, 216 F.3d 300, 312 (2d Cir. 2000)("scienter requirement can be satisfied by
+pleading either 'conscious recklessness' -- i.e., a state of mind 'approximating actual intent, and not merely
+a heightened form of negligence' -- or 'actual intent.'"); Fadem v. Ford Motor Co., 352 F. Supp. 2d 501,
+517 (S.D.N.Y. 2005)(Haight, J.)(same).
+
+10
+
+Accord In re Elan Corp. Sec. Litig., 05 Civ. 2860 (RJH), 2008 WL 839744, at *20 (S.D.N.Y. Mar. 27,
+2008); In re Pfizer, Inc. Sec. Litig., 06 Civ. 14199 (LAK), 2008 WL 540120, at *7 (S.D.N.Y. Feb. 28,
+2008); Goplen v. 51Job, Inc., 453 F. Supp. 2d 759, 771 (S.D.N.Y. 2006)(Haight, J.).
+
+10
+
+Case 1:07-cv-09920-CSH
+
+1.
+
+Document 12
+
+Filed 05/12/2008
+
+Page 16 of 25
+
+Plaintiff does not allege that Flamel had a motive to commit fraud
+
+A "motive" to commit fraud is pled by factual allegations demonstrating that
+"defendants benefitted in some concrete and personal way from the purported fraud." Novak,
+216 F.3d at 307-08.11 No such allegations appear in the Amended Complaint.
+For example, plaintiff does not allege that Flamel sought to inflate its stock price
+in order to complete a specific corporation acquisition nor does plaintiff contend that the
+individual defendants sold any of their stock -- let alone engaged in "suspicious" stock sales.
+Compare In re Geopharma, Inc. Sec. Litig., 399 F. Supp. 2d 432, 442 (S.D.N.Y. 2005)
+(identifying factual scenarios which may plead motive). Indeed, plaintiff fails to offer a single
+reason to explain why Flamel would issue its supposedly misleading statements.12
+Worse still, the fraudulent scheme outlined in the Amended Complaint "defies
+economic reason." According to plaintiff, Flamel issued misleading statements about COREG
+CR during the period March 23 through August 2, 2007 despite purportedly knowing that (a) an
+abstract of the CASPER Trial would be submitted to the Journal of Cardiac Failure "by no later
+than April 9, 2007" for publication in August 2007 and (b) the abstract showed that COREG CR
+"was not associated with better drug taking compliance" and thus supposedly undermined all the
+public statements Flamel made about COREG CR during the purported class period. (AC ¶¶ 1821.) In short, plaintiff contends that Flamel, knowing with certainty that the falsity of its
+11
+
+Accord Goplen, 453 F. Supp. 2d at 772; Fadem, 352 F. Supp. 2d at 523-24.
+
+12
+
+Plaintiff suggests, in passing, that the success of COREG CR was "critical" because of the need to
+"transition users to COREG CR from COREG IR before generic competition entered the market." (AC ¶
+15.) Such an incentive, however, would only apply to GSK, the developer and marketer of COREG IR,
+and not Flamel. Moreover, the general desire to successfully market a product falls far short of alleging
+the "concrete benefits" which Rule 9(b) and the PSLRA demand to plead motive. See Rombach, 355 F.3d
+at 177 ("Action taken to 'maintain the appearance of corporate profitability, or of the success of an
+investment … does not entail concrete benefits' sufficient to demonstrate motive.").
+
+11
+
+Case 1:07-cv-09920-CSH
+
+Document 12
+
+Filed 05/12/2008
+
+Page 17 of 25
+
+supposedly misleading statements would be revealed within five months of their first issuance,
+nevertheless embarked on its fraudulent scheme.
+Such an implausible theory must be rejected. Courts in the Second Circuit have
+repeatedly held that defendants are assumed to act in their "informed economic self-interest" and
+therefore have concluded that a theory which "'defies economic reason … does not yield a
+reasonable inference of fraudulent intent.'" Shields v. Citytrust Bancorp, Inc., 25 F.3d 1124,
+1130 (2d Cir. 1994). 13 Here, plaintiff contends that Flamel engaged in a fraudulent scheme
+which was doomed to fail (because destined to be exposed within months) -- yet neither sought
+nor obtained any benefits from the temporary stock price inflation which the scheme supposedly
+caused. Because Flamel, like the defendants in Shields, accrued no benefits "from a short respite
+from an inevitable day of reckoning," plaintiff's theory "defies economic reason" and must be
+rejected. Id.14
+Further undermining plaintiff's theory is that Flamel acted in a manner contrary to
+its supposed knowledge of COREG CR's limited sales potential. As shown by the Flamel
+disclosure plaintiff quotes, Flamel reported on August 1, 2007 that, because of the "strong
+ongoing potential" of COREG CR, "[w]e continue to manufacture at the maximum rate and
+expect to do so even after the addition of new manufacturing capacity." (AC ¶ 26.) Plaintiff
+
+13
+
+Accord Kalnit v. Eichler, 264 F.3d 131, 140-41 (2d Cir. 2001)(affirming dismissal of complaint
+because it defied economic reason); In re JP Morgan Chase Sec. Litig., 02 Civ. 1282 (SHS), 2007 WL
+950132, at *3, 13 (S.D.N.Y. Mar. 29, 2007)(rejecting claim where “plaintiffs did not provide a rational
+incentive for the alleged fraud”); Hampshire Equity Partners II, L.P. v. Teradyne, Inc., 04 Civ. 2218
+(LAP), 2005 WL 736217, at *3 (S.D.N.Y. Mar. 30, 2005)(“[a]s a matter of law … allegations of irrational
+motive cannot support a fraud claim”); Fadem, 352 F. Supp. 2d at 511 (same); Duane Reade Inc., 2003
+WL 22801416, at *9 n.22 (fraud claim that is "'belied by logic'" must fail).
+14
+
+See also In re Geopharma, Inc., 399 F. Supp. 2d at 449-50 (rejecting alleged scheme because it "could
+not possibly have succeeded").
+
+12
+
+Case 1:07-cv-09920-CSH
+
+Document 12
+
+Filed 05/12/2008
+
+Page 18 of 25
+
+offers no reason why Flamel would invest substantial resources to manufacture at "maximum
+rate" a product which, under plaintiff's theory, Flamel knew would prove largely unmarketable.
+Because plaintiff's claim rests on the assumption that Flamel nevertheless pursued such a
+nonsensical course contrary to its "informed economic self-interest," the claim must fail. See
+Fadem, 352 F. Supp. 2d at 511 (rejecting fraud theory premised on assertion that company
+purchased more product "than it knew or thought it would need").15
+
+2.
+
+Plaintiff fails to allege facts showing recklessness
+
+Although plaintiff's failure to allege any motive to commit fraud is not dispositive
+of her claim, "'the strength of the circumstantial allegations" of conscious recklessness -- the
+alternative approach to pleading scienter16 -- "'must be correspondingly greater.'" Kalnit, 264
+F.3d at 142. Plaintiff's "circumstantial allegations", however, are entirely threadbare, consisting
+solely of conclusory assertions which do not raise a strong inference of scienter.
+To plead conscious recklessness, plaintiff must "'allege facts approaching a
+knowledgeable participation in the fraud or a deliberate and conscious disregard of facts.'" In
+re Bayou Hedge Fund Litig., 534 F. Supp. 2d 405, 415 (S.D.N.Y. 2007)(original emphasis). In
+particular, plaintiff must have "specifically alleged defendants' knowledge of facts or access to
+
+15
+
+See also JP Morgan Chase Sec. Litig., 2007 WL 950132, at *3 (rejecting contention that lender knew
+its borrower was "on the verge of collapse" when lender "continue[d] to extend billions of dollars in
+credit" to the borrower); Faulkner v. Verizon Communications, Inc., 189 F. Supp. 2d 161, 171 & n.2
+(S.D.N.Y. 2002)(rejecting as illogical claim that investor sought to bankrupt third-party and defraud its
+noteholders by not performing its contract duties where investor expended a "significant amount of
+capital" in partial performance of the contract).
+
+16
+
+"Conscious misbehavior," another means of pleading scienter, is not at issue here. Such conduct
+requires a showing of "'deliberate illegal behavior, such as securities trading by insiders privy to
+undisclosed and material information, or knowing sale of a company's stock at an unwarranted discount.'"
+Goplen, 453 F. Supp. 2d at 773. Plaintiff does not purport to accuse defendants of engaging in such
+illegal behavior.
+
+13
+
+Case 1:07-cv-09920-CSH
+
+Document 12
+
+Filed 05/12/2008
+
+Page 19 of 25
+
+information contradicting their public statements." Goplen, 453 F. Supp. 2d at 773.17 Those
+specific factual allegations do not appear in the Amended Complaint.
+To the contrary, plaintiff's claim of recklessness rests entirely on the following
+two assertions:
+•
+
+Flamel "commenced" the CASPER Trial to measure patient's "differential
+compliance" with taking COREG IR compared with COREG CR; and
+
+•
+
+prior to March 23, 2007, the results of the CASPER Trial -- i.e., that patient's
+compliance rates did not substantially improve with COREG CR -- were
+"made known" to Flamel.
+
+(AC ¶ 18-19.)
+These allegations fail to supply the essential "factual basis for the allegation that
+the defendants knew or should have known" that their statements were false when made. Goplen,
+453 F. Supp. 2d at 767-68.
+
+For example, plaintiff's claim that Flamel "commenced" the
+
+CASPER Trial lacks any factual support for such a conclusion. Worse still, plaintiff's assertion
+that the results of the CASPER Trial were "made known" to Flamel prior to March 23, 2007 is
+purely of product of plaintiff's ipse dixit.18
+Wholly absent from the Amended Complaint is any factual averment -- e.g., a
+specifically identified document, public statement or percipient witness's testimony -- linking
+
+17
+
+Accord Kalnit, 264 F.3d at 142; Caiafa v. Sea Containers Ltd., 525 F. Supp. 2d 398, 412 (S.D.N.Y.
+2007); eSpeed, Inc., 457 F. Supp. 2d at 292.
+
+18
+
+Plaintiff attempts to manufacture a veneer of factual detail by alleging that the results of the CASPER
+Trial must have been known sometime before April 9, 2007, because that supposedly was the date for the
+submission of abstracts to the Journal of Cardiac Failure. (AC ¶ 19.) Even assuming April 9, 2007 was
+the submission deadline -- an assertion which itself is factually unsupported -- that minor detail affords no
+basis to infer that Flamel knew the results of the CASPER Trial, or had reviewed the CASPER Trial
+abstract, anytime before its August 23 2007 publication in the Journal. In other words, while the authors
+of the CASPER Trial abstract presumably knew the Trial results before submitting their draft to the
+Journal, plaintiff alleges no facts to suggest that the authors communicated their findings to Flamel.
+
+14
+
+Case 1:07-cv-09920-CSH
+
+Document 12
+
+Filed 05/12/2008
+
+Page 20 of 25
+
+knowledge of the results of the CASPER Trial to anyone at Flamel, let alone an individual
+defendant, before the August 23, 2007 publication of the CASPER Trial abstract.
+
+These
+
+"omissions … count against inferring scienter." Tellabs, 127 S.Ct. at 2511. Indeed, courts have
+consistently dismissed recklessness claims similar to this one which rely on conclusory
+assertions to connect a defendant to knowledge contradicting his public statements -- rather than
+facts raising a strong inference of such knowledge. See, e.g., Fadem, 352 F. Supp. 2d at 522-23
+(alleged existence of corporate communications network fails to raise a strong inference of
+recklessness because "[t]here is no evidence of what information was actually passed through
+these channels -- what the purchasing and engineering employees actually said to each other, let
+alone what information, if any, was conveyed to" the individual defendants).19
+While plaintiff's conclusory assertions are themselves insufficient to raise a strong
+inference of scienter -- and thus warrant dismissal of plaintiff's suit -- the few facts that are pled
+(and those contained in the documents plaintiffs rely upon) provide a further cogent and
+compelling rationale for rejecting plaintiff's recklessness claim. Specifically, Flamel's business,
+as plaintiffs allege, focuses on the invention of "polymer-based delivery technologies" to help
+19
+
+See also San Leandro, 75 F.3d at 812 (scienter not shown for defendants' mistakenly positive
+predictions because "plaintiffs allege no facts supporting their assertion that defendants had knowledge of
+the" sales decline prior to making their statements); Elan Corp., 2008 WL 839744, at *24 (scienter not
+pled for allegedly false product safety claims because "allegations do not indicate when the relevant
+safety data were analyzed or when Defendants in fact became aware of the results"); Sierra Wireless, Inc.,
+482 F. Supp. 2d at 375 (rejecting assertion that defendant recklessly made misleading projection because
+"plaintiffs supply no facts whatsoever to support their allegations that [defendant] knew about the
+termination of its existing business with" its customer when projections were made); Hampshire Equity
+Partners, 2005 WL 736217, at *4 (dismissing fraud claim because "[v]ague and conclusory allegations
+that a defendant allegedly had access to non-public information … do not suffice" to plead scienter); In re
+Cross Media Marketing Corp. Sec. Litig., 314 F. Supp. 2d 256, 269 (S.D.N.Y. 2004)(rejecting scienter
+allegation because the complaint "does not allege that Defendants had received a report showing a
+material adverse impact on sales" prior to making optimistic projections). Cf. Goplen, 453 F. Supp. 2d at
+773 ("bare assertions" of defendants' corporate positions "without any further facts or details, do not
+adequately demonstrate defendants' knowledge of facts or access to information contradicting their public
+statements").
+
+15
+
+Case 1:07-cv-09920-CSH
+
+Document 12
+
+Filed 05/12/2008
+
+Page 21 of 25
+
+"pharmaceutical companies develop extended release drugs." (AC ¶ 13.) In contrast, it was
+GSK -- a major pharmaceutical firm -- that developed and marketed COREG IR and who, using
+Flamel's technology, developed and marketed COREG CR, the "extended release" version of
+GSK's original COREG IR drug. (Id. ¶¶ 14-15.)
+As Flamel reported in its 2006 Form 20-F, the company "market[s] and sell[s] our
+technologies to third parties, who incorporate our technologies into their products" and relies
+upon the "pharmaceutical and biotechnology companies to develop, test, obtain regulatory
+approval for and commercialize products that incorporate our drug delivery technologies."
+(Flamel 2006 Form 20-F at 3 [Wertheimer Decl. Ex. B].)20
+Against that background, it is not surprising that Flamel would not have known of
+the CASPER Trial results before the abstract's publication. Moreover, all the facts alleged are
+consistent with Flamel being unaware of those Trial results prior to publication. For example,
+the CASPER Trial abstract does not name Flamel as either a sponsor or author of the Trial. But,
+one of the abstract's authors, Paul A. Ordronneau, is identified as affiliated with GSK. 21
+Moreover, a description of the CASPER Trial available on the internet website
+"clinicaltrials.gov" -- and mentioned by defendant Willard, Flamel's CEO, during a May 7, 2007
+
+20
+
+The Court may consider this document on this motion because plaintiff refers to it in her pleading and it
+was publicly filed with the SEC. See Goplen, 453 F. Supp. 2d at 765.
+21
+
+See James E. Udelson, et al., Compliance with Once Daily Controlled Release vs Twice Daily
+Immediate Release Carvedilol in Patients with Heart Failure: The Casper Trial, 13 Journal of Cardiac
+Failure S135 (August 2007)(Wertheimer Decl. Ex. C.) The Court may consider this document because
+plaintiff refers to it in the Amended Complaint. See Goplen, 453 F. Supp. 2d at 765.
+
+16
+
+Case 1:07-cv-09920-CSH
+
+Document 12
+
+Filed 05/12/2008
+
+Page 22 of 25
+
+analyst conference call (AC ¶ 25) -- identifies GSK as a "sponsor" and "collaborator" for the
+Trial but makes no mention of Flamel.22
+In addition, as plaintiffs allege, defendant Willard told securities analysts on May
+7, 2007 that it was "GSK's call as to how that [CASPER Trial] data comes out" and on August 2,
+2007, that presentation of the CASPER Trial data was "for GSK to be able to tell people about."
+(AC ¶¶ 25, 27.) These statements are entirely consistent with the conclusion that Flamel did not
+know the results of the CASPER Trial until publication of the abstract on August 23, 2007.
+Furthermore, as discussed above, through at least August 1, 2007, Flamel reported
+that, due to the potential of COREG CR, "[w]e continue to manufacture at the maximum rate."
+(AC ¶ 26.) Flamel's investment of capital, facilities and personnel into manufacturing "at the
+maximum rate" COREG CR microparticles is wholly inconsistent with any inference that Flamel
+"consciously" disregarded evidence that, according to plaintiff, undermined the "primary selling
+point" for COREG CR. (AC ¶ 20.) See, e.g., Geopharma, Inc., 399 F. Supp. 2d at 451-52 &
+n.147 (an illogical scheme "negates any inference of intent to defraud").
+* * * *
+In sum, plaintiff alleges no facts to show either that Flamel had a motive to
+commit fraud or knowledge contradicting its public statements at the time they were made.
+Rather, plaintiff's claim rests solely on the publication of the CASPER Trial abstract after Flamel
+made the statements at issue and the conclusory assertion that Flamel "must have known" the
+Trial's results before the purported class period began on March 23, 2007. That argument is a
+22
+
+See Drug Compliance and Quality of Life in Patients with Heart Failure Dosed with Either Once-Daily
+or Twice-Daily Coreg, available at http://clinicaltrials.gov/ct2/show/record/NCT00272805. (Wertheimer
+Decl. Ex. D.) The Court may consider this document because it is publicly available, integral to plaintiff's
+allegations and cited in documents plaintiff relied upon in her pleading. See Goplen, 453 F. Supp. 2d at
+765.
+
+17
+
+Case 1:07-cv-09920-CSH
+
+Document 12
+
+Filed 05/12/2008
+
+Page 23 of 25
+
+bald attempt at pleading fraud by hindsight -- a tactic condemned under both Rule 9(b) and the
+PSLRA. See Goplen, 453 F. Supp. 2d at 770. Accordingly, plaintiff's §10(b) claim must fail.23
+
+II.
+
+PLAINTIFF'S §20(A) CLAIM SHOULD BE DISMISSED
+An essential element of a claim under §20(a) is proof of a primary violation of
+
+§10(b) by the controlled person. ATSI, 493 F.3d at 108. Because plaintiff has failed to allege a
+§10(b) claim against any of the defendants in this action, her §20(a) claim must also fail. Id.
+Accord Goplen, 453 F. Supp. 2d at 775; Fadem, 352 F. Supp. 2d at 526.
+CONCLUSION
+For the reasons set forth above, all claims asserted against Flamel should be
+dismissed. Moreover, because plaintiff has already amended her pleading once and because
+plaintiff can allege no facts which would render Flamel's March 23, 2007 press release materially
+misleading, her suit should be dismissed with prejudice. See, e.g., Cortec Indus., Inc. v. Sum
+Holding L.P., 949 F.2d 42, 48 (2d Cir. 1991)("where a plaintiff is unable to allege any fact
+sufficient to support its claim, a complaint should be dismissed with prejudice"); Duane Reade
+Inc., 2003 WL 22801416, at *10 n.23 (leave to replead not appropriate "given the [complaint's]
+particular deficiencies and the fact that the complaint is both amended and consolidated").
+
+23
+
+Needless to say, the defects in plaintiff's scienter pleading as to Flamel apply equally to the individually
+named defendants. Indeed, plaintiff's only basis for pleading scienter as to those defendants is to cite their
+corporate positions. (AC ¶ 34.) Not only is such a conclusory allegation inadequate in general, see
+Goplen, 453 F. Supp. 2d at 768, but it is particularly improper in this case where no facts are pled to show
+that anyone at Flamel had access to the results of the CASPER Trial prior to the August publication.
+
+18
+
+Case 1:07-cv-09920-CSH
+
+Document 12
+
+Filed 05/12/2008
+
+Dated: May 12, 2008
+Respectfully submitted,
+HOGAN & HARTSON LLP
+
+By:
+
+/s/
+David Wertheimer
+875 Third Avenue
+New York, New York 10022
+Tel: (212) 918-3000
+Fax: (212) 918-3100
+Counsel for Defendant
+Flamel Technologies, SA
+
+19
+
+Page 24 of 25
+
+Case 1:07-cv-09920-CSH
+
+Document 12
+
+Filed 05/12/2008
+
+Page 25 of 25
+
+CERTIFICATE OF SERVICE
+I hereby declare that on May 12, 2008, I caused a true and correct copy of the
+foregoing to be electronically filed and to be served, by United States Mail, first-class postage
+prepaid on counsel for plaintiff at the following address:
+
+Samuel H. Rudman
+David A. Rosenfeld
+Coughlin Stoia Geller Rudman & Robbins LLP
+58 South Service Road, Suite 200
+Melville, NY 11747
+
+/s/
+David Wertheimer
+
+

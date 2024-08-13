@@ -1,0 +1,1053 @@
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 1 of 32 PageID #: 1787
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF RHODE ISLAND
+
+x
+RICHARD MEDOFF, Individually and On
+:
+Behalf Of All Others Similarly Situated,
+:
+:
+Plaintiff,
+:
+: Civil Action No. 1:09-cv-00554-S-DLM
+vs.
+:
+:
+CVS CAREMARK CORPORATION,
+:
+THOMAS M. RYAN, DAVID RICKARD, and :
+HOWARD McLURE,
+:
+:
+Defendants.
+:
+x
+
+SUPPLEMENTAL MEMORANDUM OF LAW IN SUPPORT
+OF DEFENDANTS’ MOTION TO DISMISS
+
+HINCKLEY, ALLEN & SNYDER LLP
+50 Kennedy Plaza, Suite 1500
+Providence, Rhode Island 02903
+Telephone:
+(401) 274-2000
+Facsimile:
+(401) 277-9600
+DAVIS POLK & WARDWELL LLP
+450 Lexington Avenue
+New York, New York 10017
+Telephone:
+(212) 450-4000
+Facsimile:
+(212) 701-5800
+Attorneys for Defendants
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 2 of 32 PageID #: 1788
+
+TABLE OF CONTENTS
+PAGE
+TABLE OF AUTHORITIES .......................................................................................................... ii
+PRELIMINARY STATEMENT .....................................................................................................1
+BACKGROUND .............................................................................................................................3
+ARGUMENT ...................................................................................................................................8
+I.
+
+PLAINTIFFS FAIL TO ALLEGE AN ACTIONABLE MISSTATEMENT
+OR OMISSION....................................................................................................................9
+A. Plaintiffs Fail to Plead That the Alleged Misstatements Were Untrue ..................10
+B. Most of the Alleged Misstatements Are Inactionable Corporate Puffery..............14
+
+II.
+
+THE COMPLAINT FAILS TO PLEAD A STRONG INFERENCE
+OF SCIENTER ..................................................................................................................16
+A. The Complaint’s Allegations Fail to Allege That Defendants Acted with
+Recklessness or Conscious Intent to Defraud ........................................................17
+1. Plaintiffs Do Not Allege That Defendants Had Reason to
+Believe Their Statements Were Untrue. ..................................................19
+2. Plaintiffs Do Not Allege with Particularity That Defendants
+Had Access to Contradictory Facts. ........................................................19
+B. Plaintiffs’ Allegations Based on Confidential Witness Statements Do
+Not Support a Strong Inference of Scienter. ..........................................................21
+C. Plaintiffs’ Allegations Regarding Insider Stock Sales Fail to Give Rise
+to a Strong Inference of Scienter. ..........................................................................22
+
+III.
+
+PLAINTIFFS DO NOT STATE A CLAIM FOR CONTROL PERSON
+LIABILITY ........................................................................................................................25
+
+CONCLUSION ..............................................................................................................................25
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 3 of 32 PageID #: 1789
+
+TABLE OF AUTHORITIES
+CASES
+PAGE
+ACA Fin. Guar. Corp. v. Advest, Inc.,
+512 F.3d 46 (1st Cir. 2008) ........................................................................................... 8, 17, 20
+Aldridge v. A.T. Cross Corp.,
+284 F.3d 72 (1st Cir. 2002) ................................................................................................. 9, 11
+Basic Inc. v. Levinson,
+485 U.S. 224 (1988) ................................................................................................................ 11
+Cal. Pub. Emps.’ Ret. Sys. v. Chubb Corp.,
+394 F.3d 126 (3d Cir. 2004).............................................................................................. 21, 22
+City of Dearborn Heights Act 345 Police & Fire Ret. Sys. v. Waters Corp.,
+632 F.3d 751 (1st Cir. 2011) .................................................................................................. 23
+City of Dearborn Heights Act 345 Police & Fire Ret. Sys. v. Waters Corp.,
+699 F. Supp. 2d 331 (D. Mass. 2010) .................................................................................... 24
+City of Monroe Emps. Ret. Sys. v. Bridgestone Corp.,
+399 F.3d 651 (6th Cir. 2005) ............................................................................................. 18-19
+Dura Pharm., Inc. v. Broudo,
+544 U.S. 336 (2005) ................................................................................................................. 8
+Greebel v. FTP Software, Inc.,
+194 F.3d 185 (1st Cir. 1999) ............................................................................... 17, 23, 24, 25
+Grossman v. Novell, Inc.,
+120 F.3d 1112 (10th Cir. 1997) .............................................................................................. 15
+Hill v. Gozani,
+638 F.3d 40 (1st Cir. 2011) ................................................................................................... 8, 9
+In re Art Tech. Grp., Inc. Sec. Litig.,
+394 F. Supp. 2d 313 (D. Mass. 2005) ..................................................................................... 12
+In re Bos. Tech., Inc. Sec. Litig.,
+8 F. Supp. 2d 43 (D. Mass. 1998) ........................................................................................... 20
+In re Cabletron Sys., Inc.
+311 F. 3d 11 (1st Cir. 2002) .................................................................................................... 24
+ii
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 4 of 32 PageID #: 1790
+
+In re Gildan Activewear, Inc. Sec. Litig.,
+636 F. Supp. 2d 261 (S.D.N.Y. 2009)..................................................................................... 23
+In re Int’l Rectifier Corp. Sec. Litig.,
+No. CV 07-02544-JFW (VBKx), 2008 WL 4555794 (C.D. Cal. May 23, 2008) .................. 25
+In re Peritus Software Servs., Inc. Sec. Litig.,
+52 F. Supp. 2d 211 (D. Mass. 1999) ....................................................................................... 16
+In re Rackable Sys., Inc. Sec. Litig.,
+No. C 09-0222 CW, 2010 WL 199703 (N.D. Cal. Jan. 13, 2010) .......................................... 21
+In re Razorfish, Inc. Sec. Litig.,
+No. 00 CIV. 9474, 2001 WL 1111502 (S.D.N.Y. Sept. 21, 2001) ......................................... 16
+Makor Issues & Rights v. Tellabs, Inc.,
+513 F.3d 702 (7th Cir. 2008) .................................................................................................. 18
+Malin v. XL Capital Ltd.,
+499 F. Supp. 2d 117 (D. Conn. 2007) ..................................................................................... 21
+Mass. Ret. Sys. v. CVS Caremark Corp.,
+716 F.3d 229 (1st Cir. 2013) .......................................................................................... passim
+Matrixx Initiatives, Inc. v. Siracusano,
+131 S. Ct. 1309 (2011) ............................................................................................................ 11
+Miss. Pub. Emps. Ret. Sys. v. Bos. Scientific Corp.,
+523 F.3d 75 (1st Cir. 2008) ..................................................................................................... 23
+N.J. Carpenters Pension & Annuity Funds v. Biogen IDEC Inc.,
+537 F.3d 35 (1st Cir. 2008) ............................................................................................... 21, 23
+Novak v. Kasaks,
+216 F.3d 300 (2d Cir. 2000).................................................................................................... 20
+Phillips v. Scientific-Atlanta, Inc.,
+374 F.3d 1015 (11th Cir. 2004) ............................................................................................. 18
+Rombach v. Chang,
+355 F.3d 164 (2d Cir. 2004)................................................................................................... 14
+Rosen v. Textron, Inc.,
+321 F. Supp. 2d 308 (D.R.I. 2004)...................................................................................... 8, 23
+Scritchfield v. Paolo,
+274 F. Supp. 2d 163 (D.R.I. 2003).......................................................................................... 14
+
+iii
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 5 of 32 PageID #: 1791
+
+Shaw v. Digital Equip. Corp.,
+82 F.3d 1194 (1st Cir. 1996) ................................................................................................... 14
+Shields v. Citytrust Bancorp, Inc.,
+25 F.3d 1124 (2d Cir. 1994).................................................................................................... 15
+Simon v. Am. Power Conversion Corp.,
+945 F. Supp. 416 (D.R.I. 1996)......................................................................................... 14, 15
+Sloman v. Presstek, Inc.,
+Civil Action No. 06-cv-377-JD, 2007 WL 2740047 (D.N.H. Sept. 18, 2007) ................. 16-17
+Southland Sec. Corp. v. INSpire Ins. Solutions, Inc.,
+365 F.3d 353 (5th Cir. 2004) .................................................................................................. 18
+Stiegele ex. rel. Viisage Tech., Inc. v. Bailey,
+No. 0510677-MLW, 2007 WL 4197496 (D. Mass. Aug. 23, 2007) ...................................... 25
+Teamsters Local 445 Freight Div. Pension Fund v. Dynex Capital, Inc.,
+531 F.3d 190 (2d Cir. 2008).............................................................................................. 18, 20
+Tellabs, Inc. v. Makor Issues & Rights, Ltd.,
+551 U.S. 308 (2007) ............................................................................................................ 2, 16
+Watterson v. Page,
+987 F.2d 1 (1st Cir. 1993) ......................................................................................................... 4
+Wietschner v. Monterey Pasta Co.,
+294 F. Supp. 2d 1102 (N.D. Cal. 2003) .................................................................................. 24
+STATUTES & RULES
+15 U.S.C. § 78u-4(b)(1) ........................................................................................................ 2, 8, 12
+15 U.S.C. § 78u-4(b)(2). ................................................................................................................. 8
+15 U.S.C. § 78u-4(b)(3)(A)............................................................................................................. 8
+17 C.F.R. § 240.10b5-1(c)(1)(i)(A) ................................................................................................ 7
+Fed. R. Civ. P. 9(b) ......................................................................................................................... 1
+Private Securities Litigation Reform Act of 1995 ................................................................. passim
+
+iv
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 6 of 32 PageID #: 1792
+
+Defendants CVS Caremark Corporation (“CVS Caremark” or the “Company”), Thomas
+M. Ryan, David Rickard, and Howard McLure (collectively the “Individual Defendants” and,
+together with CVS Caremark, the “Defendants”) respectfully submit this supplemental
+memorandum of law in support of their motion to dismiss the Corrected Consolidated Class
+Action Complaint (the “Complaint”), pursuant to Federal Rules of Civil Procedure 9(b) and
+12(b)(6) and the Private Securities Litigation Reform Act of 1995 (the “PSLRA”).
+PRELIMINARY STATEMENT
+On remand from the First Circuit, only a narrow subset of the claims in the Complaint
+remains. Specifically, Plaintiffs can no longer proceed on the claim they asserted in their
+original complaint: that Mr. Ryan’s statement on the Company’s second-quarter 2009 earnings
+call that he would be disappointed if the Company did not experience 13-15% growth in 2010
+(the “Preliminary Earnings Prediction”) was allegedly false or misleading. Nor, as the First
+Circuit made clear, can Plaintiffs pursue a theory related to alleged misstatements about the
+success of the combined CVS Caremark business model. Instead, the Court of Appeals held that
+Plaintiffs could sufficiently allege loss causation only as to alleged misstatements about “the
+success of CVS Caremark’s integration and the quality of its service.” Mass. Ret. Sys. v. CVS
+Caremark Corp., 716 F.3d 229, 239 (1st Cir. 2013) (the “First Circuit Decision”).
+In reaching its decision on loss causation, the Court of Appeals made clear that it was not
+concluding that Plaintiffs could satisfy the PSLRA’s heightened pleading standards as to any
+alleged misstatement about merger integration or service. Instead, it left for this Court the
+threshold questions of (i) whether Plaintiffs have pled an actionable misstatement and (ii)
+whether Plaintiffs have pled the requisite strong inference of scienter. Plaintiffs cannot meet
+their heightened pleading burden on either.
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 7 of 32 PageID #: 1793
+
+First, Plaintiffs have failed to satisfy the PSRLA’s requirement that they “specify each
+statement alleged to have been misleading [and] the reason or reasons why the statement is
+misleading.” 15 U.S.C. § 78u-4(b)(1). This is not a case in which plaintiffs allege that some
+statement of objective fact (e.g., a revenue or expense item) in a company-generated public
+document is false. Instead Plaintiffs contend that a handful of isolated, generalized verbal
+comments—made by two individuals over the course of thirteen months, largely in response to
+questions on earnings calls—are actionable misstatements. But they have not alleged with the
+requisite specificity that any of these scattered statements were, when considered in context,
+actually false or misleading (or the reasons why). Moreover, as expressions of subjective and
+generalized corporate optimism or “puffery,” the statements are inactionable as a matter of law.
+Second, even if Plaintiffs could identify an actionable misstatement, the Complaint’s
+allegations would fail for the independent reason that they also do not raise a strong inference of
+scienter that is “cogent and at least as compelling as any opposing inference one could draw from
+the facts alleged.” Tellabs, Inc. v. Makor Issues & Rights, Ltd., 551 U.S. 308, 324 (2007). The
+Complaint is devoid of well-pled allegations that any senior executive had the conscious intent to
+defraud or the high degree of recklessness required by the First Circuit as to any of the
+statements on which Plaintiffs now base their claims. The vast majority of the anonymous
+witnesses cited in the complaint—only half of whom were even still employed by the Company
+during the alleged class period—are not alleged even to have had any contact with any senior
+executive at the Company, much less the two Individual Defendants who made any of the
+statements Plaintiffs now allege to be false. Thus, even if the assertions attributed to the
+anonymous witnesses could plausibly suggest systemic as opposed to isolated problems (which
+they cannot), none could remotely support the notion—much less the strong inference required
+
+2
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 8 of 32 PageID #: 1794
+
+by the PSLRA—that any relevant executive was aware of those issues or otherwise had the
+requisite scienter at the time of any alleged misstatement. Finally, Plaintiffs’ allegations relating
+to stock sales by Messrs. Ryan, Rickard and McLure are of no import: Among other things, they
+involved percentages of their holdings that are too small, as a matter of law, to support any
+inference of scienter.
+BACKGROUND
+A.
+
+Procedural History
+Plaintiffs filed their initial complaint on November 17, 2009, alleging a single fraudulent
+
+statement: the Preliminary Earnings Prediction. On May 3, 2010, Plaintiffs filed a Consolidated
+Class Action Complaint, followed several weeks later by the Complaint. Although the
+Preliminary Earnings Prediction remained a prominent feature, those later complaints also
+included the narrow allegations regarding integration and service that remain in the case.
+Defendants moved to dismiss the Complaint in its entirety.
+In an order dated June 18, 2012 (ECF No. 50) (the “District Court Decision”), this Court
+granted Defendants’ motion on two grounds. First, the Court found that the Preliminary
+Earnings Prediction was an inactionable forward-looking statement protected by the PSLRA’s
+safe-harbor provisions. And second, the Court dismissed Plaintiffs’ claims other than those
+based on the Preliminary Earnings Prediction, concluding that Plaintiffs had failed to adequately
+plead loss causation. Because those two grounds were dispositive, the Court declined to consider
+other, independent bases for dismissal that Defendants had raised. District Court Decision at 17.
+Plaintiffs appealed this Court’s ruling on loss causation but did not appeal the ruling that
+the Preliminary Earnings Prediction was a forward-looking statement. Thus, that ruling remains
+law of the case. As to loss causation, however, the First Circuit vacated and remanded, holding
+that Plaintiffs had plausibly alleged loss causation for a narrow set of potential claims. In its
+3
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 9 of 32 PageID #: 1795
+
+opinion, the First Circuit held that Plaintiffs “fail to state a claim regarding the business model
+itself.” Mass. Ret. Sys., 716 F.3d at 239. But the Court of Appeals held that Plaintiffs had
+plausibly alleged loss causation as to any alleged misstatements about “the success of CVS
+Caremark’s integration and the quality of its service.” Id. The First Circuit expressly noted that
+it was not addressing any of the “alternative grounds for dismissal,” including Plaintiffs’ failure
+to meet their burden under the heightened pleading standards of the PSLRA to plead actionable
+misstatements and their failure to plead the requisite strong inference of scienter. See id. at 244.
+The Court of Appeals left those issues for this Court to address in the first instance. Id.
+B.
+
+The Relevant Allegations1
+In the wake of the First Circuit Decision on loss causation, the only statements on which
+
+Plaintiffs could possibly state a claim relate to: (i) the quality of service provided by the
+Company’s Pharmacy Benefits Management (“PBM”) segment to its clients; and (ii) the postmerger integration of CVS Corporation and Caremark Rx, Inc.
+1.
+
+Alleged Misrepresentations
+
+Within the 97-page, 235-paragraph Complaint, only a limited number of allegations even
+arguably relate to purported service or integration issues.2 None of these allegations describes a
+
+1
+
+Defendants respectfully refer the Court to its earlier opinion on Defendants’ motion to dismiss for a
+description of CVS Caremark’s business. See District Court Decision at 4-6. For purposes of this brief, the nonconclusory factual allegations in the Complaint are taken as true. The facts described herein are taken from the
+Complaint, as well as from publicly available documents and other sources central to plaintiffs’ claim or sufficiently
+referred to in the Complaint. See Watterson v. Page, 987 F.2d 1, 3-4 (1st Cir. 1993).
+2
+
+Given the First Circuit’s holding that “[Plaintiffs] fail to state a claim regarding the business model itself,”
+Mass. Ret. Sys., 716 F.3d at 239, many related allegations are no longer at issue either. For example, even if they
+could otherwise constitute actionable misstatements, the following allegations are all categorically non-actionable in
+light of the First Circuit Decision: “We expect the company to continue to execute on its unique verticallyintegrated drug retail/PBM model” (Compl. ¶ 129), “our model is working” (id. ¶ 113), “the breadth of capabilities
+resulting from the Caremark Merger are resonating with our clients and contributed to our success” (id. ¶ 133), and
+the “answer” to the question “whether our model is resonating in the PBM marketplace . . . has to be a resounding
+yes” (id. ¶ 135).
+
+4
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 10 of 32 PageID #: 1796
+
+single alleged misstatement in a public filing or any other written document.3 Instead, Plaintiffs
+identify a scattered collection of individual sentences and phrases spoken by Mr. Ryan or, in one
+case, by Mr. Rickard, on earnings calls and at investor conferences.
+Plaintiffs’ proposed Class Period begins on October 30, 2008, when CVS held its thirdquarter earnings call for 2008. (Compl. ¶ 112.) In discussing the Company’s record-breaking
+PBM selling season, Mr. Ryan commented generally on the Company’s service performance.
+(See, e.g., id. ¶ 112 (“[w]e will continue to gain share because . . . . [w]e have excellent
+service”).) On January 9, 2009, the Company held a conference call to provide guidance for
+2009 to investors and analysts. (Id. ¶ 118.) In response to an analyst question about the
+PharmaCare computer system,4 Mr. Ryan said that the system would not likely be fully moved
+over to the Caremark system until at least the end of 2009. (Ex.5 1, Jan. 9, 2009 CVS Caremark
+Corporation Guidance Announcement—Final (“Jan. 9 Tr.”), at 13.) He added that the systems
+already used by Caremark would not undergo any significant conversion in 2009.6 When an
+analyst followed up to ask whether the computer systems will nevertheless “be able talk to each
+other,” Mr. Ryan explained: “All the systems are able to talk to each other. . . . We have got no
+issue with our systems.” (Id.; cf. Compl. ¶ 121.) Nowhere on that call or any other did Mr.
+Ryan or any other CVS executive state that every aspect of the two companies’ businesses and
+systems had been fully integrated with no problems. In fact—in a portion of the discussion with
+3
+
+The only allegations in the Complaint from the Company’s public filings are generalized comments
+relating to the combined CVS Caremark model (e.g., Compl. ¶ 133 (From CVS Caremark Form 10-K: “We believe
+the breadth of capabilities resulting from the Caremark Merger are resonating with our clients . . . .”)), and thus are
+also inactionable under the First Circuit Decision, see Mass. Ret. Sys., 716 F.3d at 239.
+4
+
+PharmaCare was the small PBM business operated by CVS before the merger with Caremark.
+
+5
+
+Citations styled “Ex. __-__” refer to exhibits to the Declaration of Lawrence Portnoy, dated July 25, 2013.
+
+6
+
+This potential conversion of the three Caremark systems was not “integration” and was unrelated to the
+merger. Caremark operated those systems separately before the merger and continued to do so afterward.
+
+5
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 11 of 32 PageID #: 1797
+
+analysts on this very call that Plaintiffs did not quote—Mr. Ryan said precisely the opposite,
+explaining that the migration of the PharmaCare system to the legacy Caremark systems would
+likely not be complete until at least the fourth quarter of 2009. (Ex. 1, Jan. 9 Tr., at 13.)
+On the same call, Mr. Ryan discussed the Company’s repricing of PBM contracts during
+the 2008 selling season. (See Compl. ¶ 118 (“[A] larger than ever portion of our client book
+repriced for ’09. That was comprised of renewals that we bid aggressively plus improved pricing
+on other contracts that were not up for renewal.”).) One analyst asked if this repricing was
+necessary due to poor service, to which Mr. Ryan responded, “[T]hese are accounts that we kind
+of wanted to lock down. No trade-offs because of our service. We just got the JD Power
+Associates Health Plan PBM of the Year for our service and our call centers. So the notion that
+we had to reprice because the service was poor, our service in our PBM business is the best it has
+been. . . . So there was no hidden agenda here about giving a lower price because of lack of
+service if that is what you are asking.” (Id. ¶ 121.)
+Mr. Rickard later spoke at an investor conference where he also commented on the
+repricing that took place during the 2008 selling season. (Id. ¶ 137 (“A couple of major contracts
+became extremely competitive and we did have some pull-forward of contracts to lock up
+business going forward. . . . So I think that you can complain about not making as much financial
+progress this year as some competitors. That’s certainly true. I think, however, that we have
+done the things strategically that needed to be done to make this merger successful.”) (emphasis
+omitted).) While Mr. Rickard did discuss the service benefits of CVS Caremark’s integrated
+PBM and the integration, including that it was a “somewhat slow process,” (Ex. 2, CVS
+Caremark Corporation at Raymond James Institutional Investor Conference—Final, at 6),
+Plaintiffs have not alleged that any of those statements was false.
+
+6
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 12 of 32 PageID #: 1798
+
+On May 5, 2009, during the Company’s second-quarter conference call, Mr. Ryan
+reviewed the Company’s loss of the Coventry commercial contract, which he described as being
+worth about $1 billion in revenue. (Id. ¶ 141.) While Mr. Ryan explained that the loss was “not
+unexpected” (Id.), he did not discuss any of the reasons for the loss.7
+2.
+
+Scienter Allegations
+
+In support of their claim that Defendants acted with the requisite scienter, Plaintiffs rely
+primarily on allegations of stock sales by the Individual Defendants. (Compl. ¶ 204.) But
+Plaintiffs also concede facts negating any inference of scienter that can be drawn from these
+trades. For instance, Mr. Rickard and Mr. McLure both traded pursuant to “pre-arranged 10b-5
+trading plans”8 (id. ¶ 205), and Mr. Ryan made only two trades during the alleged class period,
+which amounted to only 5.4% of his total holdings of stock (id. ¶ 109).
+The remaining scienter allegations, purportedly based on information from anonymous
+witnesses, include a variety of conflicting, irrelevant, and conclusory allegations about isolated
+customer service and integration issues. (See, e.g., id. ¶¶ 68, 69, 98.) But none of these is a
+particularized allegation concerning any Defendant’s state of mind. None describes a single
+conversation or meeting with any of the Individual Defendants and none describes whether or
+how the Individual Defendants would have known about the alleged integration or service issues.
+In fact, most of the anonymous witnesses referenced in the Complaint did not work at the
+Company during the alleged Class Period, and the remainder worked there for only small
+7
+
+Plaintiffs also claim that, on the Company’s August 4, 2009 earnings call, Mr. Ryan failed to disclose that
+the Company “lost a verbal commitment from a potential customer due to service-related and transparency issues.”
+(Compl. ¶ 165.) The Complaint makes clear, however, that the service issues referred to could not have been CVS
+Caremark’s: Mr. Ryan explained that this customer had been “with the incumbent for a while” (id. ¶ 162 (emphasis
+added)), meaning that the potential customer was dissatisfied with some other PBM’s service, but ultimately chose
+not to switch, because “the pricing was so good, it was hard to pass up” (id.).
+8
+
+A 10b5-1 plan is a contract between an executive and a broker that contains detailed instructions to sell
+specified amounts of securities on particular dates or at specified prices. See 17 C.F.R. § 240.10b5-1(c)(1)(i)(A).
+
+7
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 13 of 32 PageID #: 1799
+
+portions of the alleged Class Period. (See id. ¶ 33.) And no confidential witness is alleged to
+have ever even met any of the Individual Defendants, much less have particularized evidence of
+what those Individual Defendants were thinking at the time they made the alleged misstatements.
+ARGUMENT
+The elements of a securities fraud claim are (1) a material misrepresentation or omission,
+(2) scienter, (3) a connection with the purchase or sale of a security, (4) reliance, (5) economic
+loss, and (6) loss causation. Dura Pharm., Inc. v. Broudo, 544 U.S. 336, 341-42 (2005); accord
+Rosen v. Textron, Inc., 321 F. Supp. 2d 308, 316 (D.R.I. 2004).
+To survive a motion to dismiss a securities fraud suit, plaintiffs must satisfy the
+heightened pleading standards of both Federal Rule of Civil Procedure 9(b) and the PSLRA. See
+Hill v. Gozani, 638 F.3d 40, 54-55 (1st Cir. 2011). Rule 9(b) requires that “[i]n alleging fraud or
+mistake, a party must state with particularity the circumstances constituting fraud or mistake.”
+The PSLRA “augments Rule 9(b)’s particularity requirement.” Rosen, 321 F. Supp. 2d at 317.
+It further requires that a complaint alleging a Rule 10b-5 violation (i) “specify each statement
+alleged to have been misleading [and] the reason or reasons why the statement is misleading”
+and (ii) “state with particularity facts giving rise to a strong inference that the defendant acted
+with the required state of mind.” 15 U.S.C. § 78u-4(b)(1), (2)(A). The First Circuit has
+explained that these pleading requirements are “notably strict and rigorous.” ACA Fin. Guar.
+Corp. v. Advest, Inc., 512 F.3d 46, 58 n.7 (1st Cir. 2008) (internal quotation marks omitted).
+Because Plaintiffs fail to meet them, the Complaint must be dismissed. See 15 U.S.C. § 78u4(b)(3)(A) (where pleading requirements are not met, “the court shall . . . dismiss the
+complaint”).
+
+8
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 14 of 32 PageID #: 1800
+
+I.
+
+PLAINTIFFS FAIL TO ALLEGE AN ACTIONABLE MISSTATEMENT OR
+OMISSION
+The First Circuit held that the only basis upon which Plaintiffs could adequately plead
+
+loss causation is that “the November 5 call, as a whole, plausibly revealed to the market that
+CVS Caremark had problems with service and the integration of its systems.” Mass. Ret. Sys. v.
+CVS Caremark Corp., 716 F.3d 229, 240 (1st Cir. 2013). Thus, to survive a motion to dismiss
+Plaintiffs must allege in the particularized fashion required by the PSLRA and Federal Rule of
+Civil Procedure 9(b) the precise statements that they claim misrepresented the purportedly
+hidden “truth” that was revealed on the November 5 call. And they must do so in a way that
+“specif[ies] each statement alleged to have been misleading [and] the reason or reasons why the
+statement is misleading.” Hill, 638 F.3d at 55 (second alteration in original) (internal quotation
+marks omitted); see Aldridge v. A.T. Cross Corp., 284 F.3d 72, 78 (1st Cir. 2002) (a plaintiff
+must provide “facts that show exactly why the statements or omissions were misleading”
+(emphasis added)).
+Yet Plaintiffs have not alleged that anyone from CVS Caremark ever said that the
+Company had no “problems with service.” And they cannot do so. Likewise, they have not
+alleged that anyone from CVS Caremark ever said there were no problems at all with integration
+of any of the Company’s systems. Again, no one ever said such a thing. Instead, in the absence
+of any such statement, Plaintiffs are left to string together equivocal and generalized statements
+contained in stray sentences and phrases made by Individual Defendants over time. Inspection
+of these statements reveals that they are not alleged to be false with the particularity required by
+the PSLRA and, in any event, are the sort of vague, subjective statements that are consistently
+found to be inactionable.
+
+9
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 15 of 32 PageID #: 1801
+
+A.
+
+Plaintiffs Fail to Plead That the Alleged Misstatements Were Untrue
+
+As an initial matter, Plaintiffs do not allege that any Defendant claimed that CVS had no
+problems with service. Instead, Plaintiffs take issue with more generalized positive statements
+by CVS Caremark’s executives about the Company’s service. Plaintiffs point to the following
+statements: (i) “we’re still going to focus on execution and service” (Compl. ¶ 55), (ii) “clients
+are telling us that we’ve kept our focus on service” (id. ¶ 71), (iii) “our PBM continues to retain
+existing clients and attract new ones” due to “excellent service” (id. ¶ 112), (iv) the Company has
+“excellent client retention” and “outstanding customer service” (id. ¶ 125), and (v) the PBM
+business has “high customer satisfaction” (id. ¶ 159).
+Plaintiffs cannot seriously claim that any of these statements is false. Plaintiffs do not
+contend that employees at CVS Caremark did not “focus on execution and service,” or dispute
+that some of the Company’s clients reported that it remained focused on service. Nor do
+Plaintiffs contend that CVS Caremark did not retain some clients and gain others, at least in part
+based on its service. The Company had over 3,000 clients under contract at the time (Ex. 3,
+Final Transcript: Q2 2009 Earnings Call, at 3), and CVS Caremark (i) was recognized by J.D.
+Power and Associates for excellent service (Compl. ¶ 125), (ii) won over $8 billion worth of
+business in 2008 (id.), (iii) won $1.4 billion worth of business in 2009 (id. ¶ 183), and (iv) won
+125 new clients in 2009 (Ex. 4, Final Transcript: Q3 2009 Earnings Call, at 4).
+Plaintiffs’ allegation that Mr. Ryan failed to disclose on the May 5, 2009 earnings call
+that “service was known to be the reason” for the loss of the Coventry commercial contract
+(Compl. ¶ 75) similarly fails to plead an actionable misstatement or omission. Plaintiffs do not
+allege that there was any statement at all about the reason for the loss of the Coventry
+commercial contract, much less an actionable false statement. Nor can they claim that there was
+
+10
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 16 of 32 PageID #: 1802
+
+anything misleading about his not disclosing the reason for the loss of the contract: Plaintiffs
+cannot point to any duty requiring Mr. Ryan to disclose the reasons for contract losses. “Silence,
+absent a duty to disclose, is not misleading.” Basic Inc. v. Levinson, 485 U.S. 224, 239 n.17
+(1988); see Matrixx Initiatives, Inc. v. Siracusano, 131 S. Ct. 1309, 1321 (2011) (“[Section]
+10(b) and Rule 10b-5(b) do not create an affirmative duty to disclose any and all material
+information.”).9
+Plaintiffs also fail to plead with the specificity required by the PSLRA any misstatement
+regarding the reasons for CVS Caremark’s re-pricing of certain PBM contracts. Plaintiffs take
+issue with Mr. Ryan’s explanation that CVS Caremark’s decision to re-price a number of PBM
+contracts during the 2009 selling season was not “because of our service” and that “there was no
+hidden agenda here about giving a lower price because of lack of service.” (Compl. ¶ 120
+(emphases omitted).) In particular, they claim, with no additional detail or support, that the
+Company “failed to disclose that during the 2009 selling season, CVS Caremark unilaterally
+reduced prices on over 50 percent of its existing PBM contracts in order to retain customers that
+were dissatisfied with the Company’s inferior service, integration-related issues, and lack of
+transparency.” (Id. ¶ 122.)10
+But Plaintiffs fail to plead the basis for this bare assertion with anything approaching the
+particularity the PSLRA requires. The PSLRA demands that, “if an allegation regarding the
+
+9
+
+In any event, Plaintiffs’ two anonymous witnesses who purport to recount service problems do so by
+providing only anecdotal details. (See Compl. ¶¶ 77-78.) Neither individual is alleged to have been involved in
+contract negotiations between CVS Caremark and Coventry, and therefore neither would have had any personal
+knowledge as to Coventry’s thought process in switching PBMs. The PSLRA, however, requires greater precision.
+See Aldridge, 284 F.3d at 78 (“The plaintiff must provide factual support for the claim that the statements or
+omissions were fraudulent, that is, facts that show exactly why the statements or omissions were misleading.”
+(emphasis added)).
+10
+
+Notably, Plaintiffs’ conclusory assertions provide no plausible explanation why Mr. Ryan’s stated
+reason for re-pricing—“to lock-up additional contracts” (Compl. ¶¶ 118, 120)—was incorrect when uttered.
+
+11
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 17 of 32 PageID #: 1803
+
+statement or omission is made on information and belief, the complaint shall state with
+particularity all facts on which that belief is formed.” 15 U.S.C. § 78u-4(b)(1). Plaintiffs here do
+not identify a single contract that was re-priced during the 2009 selling season, let alone one that
+was re-priced due to service. None of their anonymous witnesses, for example, is alleged to
+have participated in any contract negotiations. And while Plaintiffs contend generally that CVS
+Caremark’s “Sales Pipeline Reports” reflected an aggregate amount of PBM business “at risk” in
+2008 (see Compl. ¶ 67), they fail to identify the date of any particular report or identify any
+particular contract at risk because of alleged issues with service. And they most definitely
+cannot allege that any “at risk” contract was re-priced due to service issues.11 Plaintiffs have
+thus failed to specify the basis for their belief that Mr. Ryan’s statement about re-pricing was
+untrue. See In re Art Tech. Grp., Inc. Sec. Litig., 394 F. Supp. 2d 313, 320-21 (D. Mass. 2005)
+(“Where, as here, the complaint fails to set forth the source of the information and the reasons for
+the belief, the complaint must be dismissed.” (internal quotation marks omitted)).
+And Plaintiffs do not—because they cannot—allege that any Defendant ever claimed that
+there would be no problems with integration or that integration was complete. To the contrary,
+Mr. Ryan stated in January 2009 that PharmaCare’s computer systems had not been fully
+converted to Caremark’s, nor would they be for some time: “[M]ost of the [P]harma[C]are
+system is in the process of moving over. We will have that completed . . . probably in the fourth
+
+11
+
+In the same way, Plaintiffs’ anonymous witnesses who claim that service underlay the loss of the
+Coventry (Compl. ¶¶ 77-78), New Jersey (id. ¶¶ 87-90), and a portion of the Chrysler (id. ¶¶ 93-94) contracts cannot
+serve as the basis for Plaintiffs’ belief. Those contracts were lost outright; they were not re-priced. Moreover, the
+allegations that Mr. Ryan admitted in November 2009, after the close of the alleged Class Period, that “we dropped
+the ball in some client service issues” (id. ¶ 198) does not relate to any particular contract other than Coventry, and
+thus adds nothing to Plaintiffs’ theory of fraud.
+
+12
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 18 of 32 PageID #: 1804
+
+quarter of this year.”12 (Ex. 1, Jan. 9 Tr., at 13.)
+It was during that same call, in response to a follow-up question from an analyst asking
+whether the PharmaCare and Caremark systems could “talk to each other,” that Mr. Ryan stated
+that “[a]ll the systems are able to talk to each other” and “[w]e have got no issue with our
+systems.” (Compl. ¶ 121.) Plaintiffs’ contention that those statements were “false because
+Defendants knew that since March 2007, the Company’s computer systems were not integrated”
+(id. ¶ 122) is thus based on a distorted reading of two selectively quoted phrases. A review of
+the surrounding statements reveals that Mr. Ryan was not stating that there were no integration
+problems or that the merger was an unqualified success; nor was he stating that any computer
+system was free of integration problems. Rather, he was responding to a specific question from a
+specific analyst about whether specific systems—one for PharmaCare and several for
+Caremark—would be able to “talk to each other.” They were certainly not statements about the
+existence or lack thereof of integration issues in any computer system impacting client service.13
+Plaintiffs do not allege particularized facts plausibly linking Mr. Ryan’s statement to the
+re-pricing of “over 50 percent of [the Company’s] exiting PBM contracts” (id.). Two of the
+contracts the Complaint specifically names (New Jersey and Coventry) were legacy Caremark
+contracts, and thus any problems converting the PharmaCare systems to be Caremark-compatible
+would not have affected those clients. And because all three of those contracts were lost
+outright, purported service issues with those contracts could not have resulted in re-pricing.
+
+12
+
+Plaintiffs’ allegation that the Company admitted in February 2010 that integration was not complete (see
+Compl. ¶ 200) is thus consistent with the timeline Mr. Ryan described, which merely set a probable end date for
+converting certain PharmaCare systems.
+13
+
+The vagueness of the term “systems” further undercuts plaintiffs’ allegation. Indeed, the Complaint
+refers to various systems (see, e.g., Compl. ¶ 77 (customer databases); id. ¶ (client billing)) without identifying any
+as the one to which Mr. Ryan was referring when he spoke of “systems.”
+
+13
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 19 of 32 PageID #: 1805
+
+B. Most of the Alleged Misstatements Are Inactionable Corporate Puffery
+Even if Plaintiffs could sufficiently allege that any of the statements was false, which
+they cannot, those statements would not be actionable because it is well settled that such “vague,
+or loosely optimistic statements about a company” are inactionable “puffery” because, given
+their generalized and unverifiable nature, a reasonable investor would not rely on them.
+Scritchfield v. Paolo, 274 F. Supp. 2d 163, 172 (D.R.I. 2003); cf. Rombach v. Chang, 355 F.3d
+164, 174 (2d Cir. 2004) (“[C]ompanies must be permitted to operate with a hopeful outlook [and
+are] not required to take a gloomy, fearful or defeatist view of the future.”). This Court has
+endorsed a “contextual approach to assessing the applicability of the puffery defense.”
+Scritchfield, 274 F. Supp. 2d at 175.
+Alleged misstatements such as “[w]e will continue to gain share because . . . [w]e have
+excellent service” (id. ¶ 112) and descriptions of CVS Caremark’s “excellent client retention”
+(id. ¶ 125) are archetypes of inactionable puffery. The description of “excellent” service is
+exactly the sort of subjective optimistic statement on which courts have refused to premise a
+securities fraud claim. See, e.g., Shaw v. Digital Equip. Corp., 82 F.3d 1194, 1217 (1st Cir.
+1996) (characterizing as inactionable puffery “loosely optimistic statements that are so vague, so
+lacking in specificity, or so clearly constituting the opinions of the speaker, that no reasonable
+investor could find them important to the total mix of information”), superseded on other
+grounds by statute, 15 U.S.C. § 78u-4(b); Simon v. Am. Power Conversion Corp., 945 F. Supp.
+416, 428-29 (D.R.I. 1996).
+Simon is instructive. There, the court assessed the puffery defense against statements
+including “we are gaining market share, we are gaining momentum, and our revenues are strong”
+and “1995 [is going] to be a busy year.” 945 F. Supp. at 428. The court not only held that those
+
+14
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 20 of 32 PageID #: 1806
+
+statements were not actionable, it noted that “the market could have expected nothing less from a
+CEO, i.e. predictions of . . . improvements and a busy year.” Id. at 429. So too here. The
+market would have rightly expected Mr. Ryan, as CEO, to make optimistic statements about
+CVS Caremark’s ability to gain market share and its “excellent service.” See Shields v. Citytrust
+Bancorp, Inc., 25 F.3d 1124, 1129-30 (2d Cir. 1994) (“People in charge of an enterprise are not
+required to take a gloomy, fearful or defeatist view of the future; subject to what current data
+indicates, they can be expected to be confident about their stewardship and the prospects of the
+business that they manage.”), superseded on other grounds by statute, 15 U.S.C. § 78u-4(b).
+Statements about the “success” of CVS Caremark’s integration efforts are likewise
+inactionable. (See, e.g., Compl. ¶ 137 (“[W]e have done the things strategically that needed to
+be done to make this merger successful.”).) Numerous courts have characterized similar
+statements as puffery.14 For instance, the Tenth Circuit found that claims by Novell’s CEO,
+shortly after Novell acquired WordPerfect, “that Novell had experienced ‘substantial success’ in
+integrating the sales forces of the two companies, that the merger was moving ‘faster than we
+thought,’ and that the merger presented a ‘compelling set of opportunities for the company’”
+were “correctly determined by the district court as a matter of law to be immaterial statements of
+corporate optimism.” Grossman v. Novell, Inc., 120 F.3d 1112, 1121 (10th Cir. 1997); see id. at
+1121-22 (“These are the sort of soft, puffing statements, incapable of objective verification, that
+courts routinely dismiss as vague statements of corporate optimism.”). Similarly, the Southern
+District of New York dismissed allegations that defendants had misrepresented the success of a
+recent merger—including statements that the “[C]ompany successfully converged service
+
+14
+
+Additionally, these courts all applied the puffery doctrine to statements of past or present condition, thus
+belying any suggestion that puffery is a defense against statements of future performance only.
+
+15
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 21 of 32 PageID #: 1807
+
+offerings and pricing,” that the company’s “major integration efforts [were] complete,” and that
+the company was “hitting on all cylinders now that we have successfully integrated our
+acquisitions”—explaining that “‘integration’ is far too loose and uncertain a term on which to
+premise a claim of securities fraud in this context.” In re Razorfish, Inc. Sec. Litig., No. 00 CIV.
+9474, 2001 WL 1111502, at *1-2 (S.D.N.Y. Sept. 21, 2001) (alterations in original) (emphases
+omitted). And the District of Massachusetts held that the statement that Peritus Software’s
+acquisition of Millennium Dynamics “has been a success” was inactionable, even though
+plaintiff had pled that “Peritus had lost most of the Millennium sales force and had virtually
+stopped selling Millennium products,” because “the ‘success’ comment seems exactly the type of
+‘rosy affirmation’ frequently held nonactionable under the corporate puffery doctrine.” In re
+Peritus Software Servs., Inc. Sec. Litig., 52 F. Supp. 2d 211, 217, 229 (D. Mass. 1999).
+II.
+
+THE COMPLAINT FAILS TO PLEAD A STRONG INFERENCE OF SCIENTER
+Even if Plaintiffs could sufficiently allege misstatements about “the success of CVS
+
+Caremark’s integration and the quality of its service,” Mass. Ret. Sys. v. CVS Caremark Corp.,
+716 F.3d 229, 239 (1st Cir. 2013)—which they cannot—Plaintiffs must also allege with
+particularity facts giving rise to a strong inference that Defendants made those specific scattered
+statements about service and integration with an intent to defraud or with a high degree of
+recklessness. Plaintiffs fail to do so.
+To adequately allege scienter under the PSLRA, Plaintiffs must allege with particularity
+facts giving rise to a strong inference of scienter that is “cogent and at least as compelling as any
+opposing inference one could draw from the facts alleged.” Tellabs, Inc. v. Makor Issues &
+Rights, Ltd., 551 U.S. 308, 324 (2007). In assessing claims of scienter, a court must weigh “not
+only inferences urged by the plaintiff . . . but also competing inferences rationally drawn from
+the facts alleged.” Id. at 314; Sloman v. Presstek, Inc., No. 06-cv-377-JD, 2007 WL 2740047, at
+16
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 22 of 32 PageID #: 1808
+
+*7 (D.N.H. Sept. 18, 2007). The First Circuit requires plaintiffs to plead that defendants acted
+with “either conscious intent to defraud or a ‘high degree of recklessness.’” ACA Fin. Guar.
+Corp. v. Advest, Inc., 512 F.3d 46, 58 (1st Cir. 2008). The definition of recklessness is
+decidedly strict and “comes closer to being a lesser form of intent than merely a greater degree of
+ordinary negligence.” Greebel v. FTP Software, Inc., 194 F.3d 185, 199 (1st Cir. 1999) (internal
+quotation marks omitted); see id. at 198 (adopting a definition of recklessness “involving not
+merely simple, or even inexcusable, negligence, but an extreme departure from the standards of
+ordinary care” (internal quotation marks omitted)). Plaintiffs’ allegations do not satisfy this
+heightened pleading requirement.
+A.
+
+The Complaint’s Allegations Fail to Allege That Defendants Acted with
+Recklessness or Conscious Intent to Defraud
+
+As explained above, the isolated statements on which Plaintiffs now base their claim
+were all oral statements made by Mr. Ryan, often in response to questions on earnings calls, or in
+only one case an oral statement by Mr. Rickard at an investor conference.15 (See, e.g., Compl. ¶¶
+119-120 (Mr. Ryan’s statement that there were “[n]o trade-offs because of our service,” in
+response to analyst question); id. ¶ 121 (Mr. Ryan’s statement that “[a]ll the systems are able to
+talk to each other,” in response to analyst question).)
+Under the circumstances here—involving isolated statements made by individual
+executives16—the relevant inquiry is whether the executive making the particular statement at
+15
+
+The only statements by Mr. Rickard that arguably remain in the case are statements he made during a
+Raymond James Institutional Investor Conference on March 10, 2009. (See Compl. ¶¶ 135, 137.) However, most
+of his statements at this conference were directly related to the combined business model and thus are not actionable
+under the First Circuit Decision. (E.g., id. ¶ 135 (“our model is resonating in the PBM marketplace”).) Mr. Rickard
+did discuss the repricing of contracts at the end of the 2008 selling season, but none of his remarks pertain in any
+way to service or integration. Mr. McLure is not alleged to have made any of the statements in the Complaint.
+16
+
+As noted above, supra, n.3, the only allegations in the Complaint from the Company’s public filings
+relate to the combined CVS Caremark model, and thus are no longer at issue following the First Circuit Decision,
+see Mass. Ret. Sys., 716 F.3d at 239.
+
+17
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 23 of 32 PageID #: 1809
+
+issue had the requisite scienter when the statement was made. “To establish corporate liability
+for a violation of Rule 10b-5 requires ‘look[ing] to the state of mind of the individual corporate
+official or officials who make or issue the statement (or order or approve it or its making or
+issuance, or who furnish information or language for inclusion therein, or the like) rather than
+generally to the collective knowledge of all the corporation’s officers and employees acquired in
+the course of employment.’” Makor Issues & Rights v. Tellabs, Inc., 513 F.3d 702, 708 (7th Cir.
+2008) (emphases added) (alteration in original) (quoting Southland Sec. Corp. v. INSpire Ins.
+Solutions, Inc., 365 F.3d 353, 366 (5th Cir. 2004)); see Teamsters Local 445 Freight Div.
+Pension Fund v. Dynex Capital, Inc., 531 F.3d 190, 195 (2d Cir. 2008) (PSLRA’s “strong
+inference” requirement “means that the pleaded facts must create a strong inference that
+someone whose intent could be imputed to the corporation acted with the requisite scienter”
+(emphasis added)). As Plaintiffs have not adequately pled that Messrs. Ryan and Rickard—the
+Defendants alleged to have made or participated in making the misstatements still at issue—
+acted with scienter, they cannot plead scienter as to any Defendant, including the Company.
+In any event, as explained in detail below, Plaintiffs do not allege any particularized facts
+giving rise to a strong inference that any senior executive whose scienter could be imputed to the
+Company, much less Mr. Ryan or Mr. Rickard, ever learned of systemic integration or service
+problems—let alone at the time the isolated oral statements on which Plaintiffs now base their
+case were uttered.17 For that reason, Plaintiffs have failed to meet their burden on scienter.
+
+17
+
+Because the alleged misstatements here involve isolated and generalized verbal statements by specific
+individuals, the Court need not decide whether the First Circuit would categorically reject the notion that scienter
+could ever be pled collectively (i.e., without reference to a specific individual’s state of mind)—as did the Fifth and
+Eleventh Circuits, see Southland Sec. Corp., 365 F.3d at 366; Phillips v. Scientific-Atlanta, Inc., 374 F.3d
+1015,1017-18 (11th Cir. 2004)—or whether it would accept collective scienter pleading in circumstances involving
+“so dramatic an announcement” by a corporation that it necessarily “would have been approved by corporate
+officials sufficiently knowledgeable about the company to know that the announcement was false,” Dynex, 531 F.3d
+at 195 (emphasis added) (quoting Makor Issues & Rights, 513 F.3d at 710); see also City of Monroe Emps. Ret. Sys.
+(…continued)
+
+18
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 24 of 32 PageID #: 1810
+
+1. Plaintiffs Do Not Allege That Defendants Had Reason to Believe Their
+Statements Were Untrue
+Most fundamentally, the undisputed facts in the Complaint and reflected in the calls make
+clear that there was more than ample support for each of the statements in the Complaint about
+the quality of service and state of integration. See supra Point I. In particular, Plaintiffs plead
+facts directly supporting the subjective statements that service was excellent, or the more
+objective statements that the PBM was retaining a vast majority of its existing clients. See supra
+at 10. For example, in 2009 J.D. Power and Associates recognized CVS Caremark for
+excellence in customer service for the third time (Compl. ¶ 125), the Company won over $8
+billion of business during the 2008 selling season (id.), won $1.4 billion of additional business
+during the 2009 selling season (id. ¶ 183), and won 125 new clients during the 2009 selling
+season (Ex. 4, Final Transcript: Q3 2009 Earnings Call, at 4). Even if all of Plaintiffs’
+unsupported assertions about service issues at CVS Caremark were true, the undisputed facts in
+the Complaint provide support for the Individual Defendants’ statements and therefore fatally
+undermine any inference that the Individual Defendants intentionally or recklessly
+misrepresented any facts about service or integration.
+2. Plaintiffs Do Not Allege with Particularity That Defendants Had
+Access to Contradictory Facts
+Moreover, the 97-page Complaint lacks any specific allegation that Defendants knew of
+widespread service problems at CVS Caremark. Plaintiffs’ claims that Defendants should have
+known about service issues from weekly Sales Pipeline Reports and monthly and quarterly
+
+(continued…)
+v. Bridgestone Corp., 399 F.3d 651, 683-84 (6th Cir. 2005) (applying a multifactor analysis on the question of
+collective scienter in a case involving alleged misstatements in press releases and public filings). Setting aside the
+fact that the statements at issue here are anything but dramatic, they were not corporate announcements. Rather,
+they were comments by individual executives, in many cases unscripted responses to analyst questions.
+
+19
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 25 of 32 PageID #: 1811
+
+meetings and phone calls (see, e.g., Compl. ¶¶ 65, 68, 69) fail because the Complaint does not
+identify the specific information that Defendants purportedly learned that would have put them
+on notice that their statements were false or misleading. See Dynex, 531 F.3d at 196 (“‘[W]here
+plaintiffs contend defendants had access to contrary facts, they must specifically identify the
+reports or statements containing this information.’” (emphasis added) (quoting Novak v. Kasaks,
+216 F.3d 300, 309 (2d Cir. 2000))); In re Bos. Tech., Inc. Sec. Litig., 8 F. Supp. 2d 43, 57 (D.
+Mass. 1998) (“[P]laintiff must allege details of [defendants’] alleged fraudulent involvement,
+including specifics as to what defendants had knowledge of and when. To satisfy this
+requirement, complaints typically identify internal reports, memoranda, or the like, and allege
+both the contents of those documents and defendants’ possession of them at the relevant time.”
+(second alteration in original) (footnote, citation, and internal quotation marks omitted)).
+Plaintiffs’ vague allegations of “customer problems” reflected in the Sales Pipeline
+Reports (Compl. ¶ 65) and “service issues” discussed at meetings (id. ¶ 88) do not state the
+specific contents of those reports and meetings. See Bos. Tech, 8 F. Supp. 2d at 57. Nor do they
+specify when Defendants would have learned of information contradicting their public
+statements, thus rendering it impossible to determine whether the Individual Defendants even
+possessed contradictory facts at the various times they spoke. See ACA Fin., 512 F.3d at 62-63
+(plaintiffs must “include[] details about . . . whether this information was known to defendants at
+the relevant time”) (emphasis added)). Plaintiffs therefore have not pled the “details of
+defendants’ alleged fraudulent involvement.” Bos. Tech., 8 F. Supp. 2d at 57 (brackets omitted).
+Plaintiffs’ conclusory allegations, moreover, do not explain how “problems” or “service issues”
+with certain customers are inconsistent with Mr. Ryan’s generalized and subjective statements
+that CVS Caremark, on the whole, had “excellent” or “outstanding” customer service.
+
+20
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 26 of 32 PageID #: 1812
+
+B.
+
+Plaintiffs’ Allegations Based on Confidential Witness Statements Do Not
+Support a Strong Inference of Scienter
+
+None of Plaintiffs’ anonymous witnesses supports an assertion that the particular oral
+statements made by Messrs. Ryan and Rickard were made with an intent to defraud. Plaintiffs
+do not allege that any confidential witness has ever met any of the Individual Defendants.
+Moreover, only one confidential witness offers specific dates on which a report was issued or a
+meeting took place (Compl. ¶ 85), and this date falls outside the alleged class period. The other
+confidential witnesses fail to offer any details about when information allegedly became known.
+See N.J. Carpenters Pension & Annuity Funds v. Biogen IDEC Inc., 537 F.3d 35, 52-53 (1st Cir.
+2008) (dismissing information from confidential witnesses where several of the witnesses did not
+allege when certain facts became known). Moreover, six of Plaintiffs’ thirteen confidential
+witnesses—CW1, CW2, CW8, CW11, CW12, and CW13—did not even work for CVS
+Caremark during the alleged class period. (See Compl. ¶ 33.) A seventh—CW5—is alleged to
+have been employed at the Company during only the first month of the alleged class period
+(November 2008). (Id.) As both a practical matter and as a matter of law, none of these
+confidential witnesses could provide information, based on personal knowledge, that is probative
+of Defendants’ state of mind at the time of any of the allegedly false or misleading statements.
+See Cal. Pub. Emps.’ Ret. Sys. v. Chubb Corp., 394 F.3d 126, 154 (3d Cir. 2004); In re Rackable
+Sys., Inc. Sec. Litig., No. C 09-0222, 2010 WL 199703, at *8 (N.D. Cal. Jan. 13, 2010) (finding
+it unlikely that four of the confidential witnesses had personal knowledge of defendants’ relevant
+state of mind, because none was employed at the company during the class period); Malin v. XL
+Capital Ltd., 499 F. Supp. 2d 117, 141 (D. Conn. 2007) (information from confidential
+witnesses, “although substantial in amount,” is inadequate to support inference of scienter where
+“the bulk of the information relayed by the [confidential witness] relates to the time prior to the
+21
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 27 of 32 PageID #: 1813
+
+start of the Class Period”), aff’d, 312 F. App’x 400 (2d Cir. 2009).
+Even those confidential witnesses alleged to be employed by the Company during the
+alleged class period do not claim that any Individual Defendant was aware of any of the
+anecdotal service problems the confidential witnesses purport to describe. For example, CW7,
+an Audit Department Team Leader from 1994 to March 2009, purports to offer information
+about a computer system called “Reflections,” yet fails to link anything produced through
+Reflections with the knowledge of any Defendant. (Compl. ¶¶ 33, 78.) Likewise, CW 6, a
+former Client Liaison Coordinator from 2005 through February 2009, claims that “service levels
+were low” but says nothing about whether, and if so how, Defendants were made aware of this.
+(Id. ¶¶ 33, 77.) And CW9, a former customer call-center employee from 2005 through August
+2009, contends that during “busy season (January through March each year) groups of as many
+as ‘40,000’ plan participants would go ‘months’ without getting their appropriate medication.”
+(Id. ¶¶ 33, 91.) But CW9 does not claim that the problems he or she purports to describe
+occurred during the alleged class period. Further, CW9 does not allege that the Individual
+Defendants, or anyone whose knowledge could be imputed to the Company, ever learned of
+these problems. Nor would they have: In 2009, CVS Caremark served a total of 53 million plan
+members across its thousands of PBM clients. (Ex. 5, CVS Caremark 2009 Annual Report, at 6.)
+Such defects render ineffective the allegations purportedly supported by confidential
+witness statements. See Chubb Corp., 394 F.3d at 155 (the “sheer volume of confidential
+sources cited cannot compensate for” the lack of factual particularity).
+C.
+
+Plaintiffs’ Allegations Regarding Insider Stock Sales Fail to Give Rise to a
+Strong Inference of Scienter
+
+Plaintiffs cannot create a strong inference of scienter simply by alleging insider trading.
+Indeed, under First Circuit law, allegations of insider trading cannot, in and of themselves,
+22
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 28 of 32 PageID #: 1814
+
+suffice to plead scienter. Miss. Pub. Emps. Ret. Sys. v. Bos. Scientific Corp., 523 F.3d 75, 92
+(1st Cir. 2008); Greebel, 194 F.3d at 197. Rather, to raise a strong inference of scienter,
+Plaintiffs must allege insider trading “in combination with other evidence.” Bos. Scientific, 523
+F.3d at 92. Plaintiffs attempt to do so by claiming that Defendants’ trades were unusual and
+made in either suspicious amounts or at suspicious times. But these allegations fall short.
+To begin, nothing about the amounts of the trades is unusual. Although Plaintiffs focus
+on the dollar value of Mr. Ryan’s sale, the fact remains that Mr. Ryan sold only 5.4% of his total
+holdings18—an amount that, as a matter of law, does not support a strong inference of scienter.
+See City of Dearborn Heights Act 345 Police & Fire Ret. Sys. v. Waters Corp., 632 F.3d 751,
+760-62 (1st Cir. 2011) (alleged stock sales did not “offer the requisite support for a strong
+inference of scienter” where one defendant had sold only 4.82% of his holdings in the class
+period and the other had sold approximately 29% of his holdings during the class period).
+Likewise, Mr. Rickard’s sales constituted only 22% of his holdings (with only 17% sold during
+the alleged class period). See id.; see also In re Gildan Activewear, Inc. Sec. Litig., 636 F. Supp.
+2d 261, 270-71 (S.D.N.Y. 2009) (finding that low-percentage stock sales of 22.5% and 4.9%
+“militate against an inference of scienter”). And allegations pertaining to Mr. McLure’s trading
+are wholly irrelevant because Plaintiffs have not alleged that Mr. McLure made a single false or
+misleading statement.19 N.J. Carpenters, 537 F.3d at 56 (finding allegations of insider trading
+
+18
+
+Plaintiffs allege that Mr. Ryan sold “22% of his shares personally held during the Class Period, and over
+7 percent of his total holdings, including vested options.” (Compl. ¶ 109.) However, the Company’s 2009
+Definitive Proxy Statement, filed March 24, 2009 on SEC Schedule 14A, reflects that Mr. Ryan owned 7,398,279
+shares. The 400,000 shares that Mr. Ryan sold on August 7, 2009 constitute 5.4% of that total ownership. (See Ex.
+6, CVS Caremark 2009 Definitive Proxy Statement, at 12.) In addition, the First Circuit has unambiguously held
+that the proper way to calculate the percentage of a defendant’s holdings sold is to include available stock options.
+Waters Corp., 632 F.3d at 760-61.
+19
+
+Even if the group pleading doctrine survives in the First Circuit, only “group-published documents such
+as SEC filings” fall under its scope. See Rosen v. Textron, Inc., 321 F. Supp. 2d 308, 328 n.14 (D.R.I. 2004). None
+(…continued)
+
+23
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 29 of 32 PageID #: 1815
+
+insufficient to establish scienter where the insider “made none of the statements alleged to be
+misleading, and there is no specific allegation that [he] was any more knowledgeable than any of
+the other individual defendants”); City of Dearborn Heights Act 345 Police & Fire Ret. Sys. v.
+Waters Corp., 699 F. Supp. 2d 331, 345 (D. Mass. 2010) (disregarding allegations with respect to
+seven alleged insiders accused of selling stock because none were responsible for making any
+alleged misstatements to investors), aff’d, 632 F.3d 751.
+Nor is the timing of any of the trades unusual. Plaintiffs fail to plead that Mr. Ryan’s
+sales were inconsistent with his prior trading history, let alone “well beyond [his] normal
+patterns of trading.” Greebel, 194 F.3d at 198; see also id. at 198 n.11 (requiring that plaintiffs
+allege this information as it is “readily available” to them through public filings). Plaintiffs also
+fail to plead that Mr. Rickard’s trades were suspiciously timed. Mr. Rickard announced in
+February 2009 that he would be retiring from CVS Caremark at the end of the year. (See Ex. 7,
+Final Transcript: Q4 2008 Earnings Call, at 6.) Under well-established law, this fact negates
+Plaintiffs’ allegation that the timing of his stock sales were suspicious. “It is not unusual for
+individuals leaving a company . . . to sell shares,” because “they often have a limited period of
+time to exercise their company stock options.” Greebel, 194 F.3d at 206; Wietschner v.
+Monterey Pasta Co., 294 F. Supp. 2d 1102, 1116-17 (N.D. Cal. 2003) (trading not suspicious
+where defendant sold 37% of his holdings, including sales outside of the class period, in
+connection with planned retirement). That Mr. Rickard’s trades during the alleged class period
+were made in accordance with a 10b5-1 trading plan (Compl. ¶ 205) further rebuts allegations of
+suspicious timing. Mr. Rickard’s 10b5-1 trading plan, entered into on March 19, 2009,
+(continued…)
+of the oral statements at issue here is “group-published,” and therefore none can be attributed to the other
+Defendants. See In re Cabletron Sys., Inc., 311 F.3d 11, 41 n.16 (1st Cir. 2002).
+
+24
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 30 of 32 PageID #: 1816
+
+contemplated two trades: the exercise of 251,250 stock options on August 17, 2009, followed by
+the exercise of 80,000 stock options on December 14, 2009. (Ex. 8, Rickard 10b5-1 Trading
+Plan, at 2.) As the plan lays out, these options were “[s]ubject to [t]rading [w]indows,” and the
+first possible trade date under the Plan was August 17, 2009. (Id. at 1.) What is more, the
+second trade took place after Plaintiffs’ alleged November 5 disclosure date and therefore after
+the alleged class period. It defies common sense that Mr. Rickard would have waited until after
+the alleged fraud was disclosed to sell Company shares.
+Mr. McLure likewise traded through a 10b5-1 trading plan, which was entered into on
+June 19, 2009 and set up the exercise of 600,000 stock options in increments of 100,000 per
+month to be exercised on the first available trading day of each month. (Ex. 9, McLure 10b5-1
+Trading Plan, at Exhibit B.) The fact of a 10b5-1 plan alone “rebuts an inference of scienter and
+supports the reasonable inference that stock sales were pre-scheduled and not suspicious.”20
+Stiegele ex. rel. Viisage Tech., Inc. v. Bailey, No. 05-10677-MLW, 2007 WL 4197496, at *13
+(D. Mass. Aug. 23, 2007).
+III.
+
+PLAINTIFFS DO NOT STATE A CLAIM FOR CONTROL PERSON LIABILITY
+Because Plaintiffs have failed to allege a primary violation of Section 10(b) and Rule
+
+10b-5, they cannot recover from the Individual Defendants under Section 20(a) of the Exchange
+Act. See, e.g., Greebel v. FTP Software, Inc., 194 F.3d 185, 207 (1st Cir. 1999).
+CONCLUSION
+For the foregoing reasons, Defendants respectfully request that the Complaint be
+dismissed for failure to state a claim.
+
+20
+
+Contrary to Plaintiffs’ conclusory assertions, the fact that Mr. Rickard and Mr. McLure entered into these
+trading plans during the alleged class period is not, in and of itself, suspicious. In re Int’l Rectifier Corp. Sec. Litig.,
+No. CV 07-02544-JFW (VBKx), 2008 WL 4555794, at *19 (C.D. Cal. May 23, 2008).
+
+25
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 31 of 32 PageID #: 1817
+
+Dated:
+
+Providence, Rhode Island
+July 25, 2013
+By: /s/ William R. Grimm
+William R. Grimm #1938
+HINCKLEY, ALLEN & SNYDER LLP
+50 Kennedy Plaza, Suite 1500
+Providence, Rhode Island 02903
+Telephone: (401) 274-2000
+Facsimile:
+(401) 277-9600
+DAVIS POLK & WARDWELL LLP
+Lawrence Portnoy (pro hac vice)
+Edmund Polubinski III (pro hac vice)
+450 Lexington Avenue
+New York, New York 10017
+Telephone:
+(212) 450-4000
+Facsimile:
+(212) 701-5800
+Email. Lawrence.Portnoy@davispolk.com
+Edmund.Polubinski@davispolk.com
+Attorneys for Defendants
+
+26
+
+Case 1:09-cv-00554-JNL-DLM Document 61 Filed 07/25/13 Page 32 of 32 PageID #: 1818
+
+CERTIFICATE OF SERVICE
+I hereby certify that on July 25, 2013, a copy of the foregoing Memorandum of Law in Support
+of Defendants’ Motion to Dismiss was filed electronically and served by mail on anyone unable
+to accept electronic filing. Notice of this filing will be sent by e-mail to all parties by operation
+of the court’s electronic filing as indicated on the Notice of Electronic Filing. Parties may access
+this filing through the court’s CM/ECF System.
+
+/s/ William R. Grimm
+William R. Grimm #1938
+Hinckley, Allen & Snyder LLP
+50 Kennedy Plaza, Suite 1500
+Providence, RI 02903
+401-274-2000
+401-277-9600 (fax)
+wgrimm@haslaw.com
+
+27
+
+

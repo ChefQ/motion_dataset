@@ -1,0 +1,551 @@
+Case 2:15-cr-00198-GZS Document 41 Filed 06/21/16 Page 1 of 17
+
+PageID #: 125
+
+UNITED STATES DISTRICT COURT
+DISTRICT OF MAINE
+UNITED STATES OF AMERICA
+v.
+SAL MANSY
+TV TOYZ
+
+)
+)
+)
+)
+)
+)
+
+Crim. No. 15-cr-198-GZS
+
+MEMORANDUM OF LAW IN OPPOSITION TO DEFENDANTS’ MOTION TO
+DISMISS COUNT ONE OF THE INDICTMENT
+NOW COMES the United States of America, by and through its attorneys Thomas E.
+Delahanty II, United States Attorney for the District of Maine, and Michael J. Conley, Assistant
+United States Attorney, and respectfully seeks the denial of defendants’ Motion to Dismiss the
+Indictment (Docket Item # 35).
+PRELIMINARY STATEMENT
+The charge in Count One of the Indictment is straightforward: defendant Sal Mansy ran a
+business (co-defendant TV Toyz) that aided and abetted Mansy’s buying and selling of the
+virtual currency Bitcoin for profit.
+
+Mansy operated his business without ever registering it with
+
+federal authorities and with full awareness that he was required to do so. Through this failure to
+register, Mansy violated Title 18, United States Code, Section 1960, which makes it a crime to
+transfer money for others as a business without obtaining appropriate licenses.
+Defendants move to dismiss Count One on the grounds that the statute is flawed and that
+the money Mansy moved for his customers took the form of Bitcoins. Neither position has any
+support in the statutory text, legislative history, or relevant case law. Section 1960 is an antimoney laundering statute intended to impede money transmitters of all stripes from, among other
+things, moving money in an unlicensed fashion. The statute thus broadly applies to any business
+1
+
+Case 2:15-cr-00198-GZS Document 41 Filed 06/21/16 Page 2 of 17
+
+PageID #: 126
+
+engaged in “transferring funds” on behalf of its customers – “by any and all means.” As courts
+have held, virtual currencies such as Bitcoin easily qualify as “funds,” as they are a digital
+substitute for cash that can be used to conduct monetary transactions online – as the very term
+“virtual currency” implies.
+
+In short, Mansy’s conduct unambiguously falls within both the
+
+letter and spirit of the statute.
+
+Accordingly, his motion seeking dismissal of the indictment
+
+should be denied.
+FACTUAL BACKGROUND1
+A.
+
+Bitcoins and Bitcoin Exchangers
+
+Bitcoins are a form of virtual currency, existing entirely on the Internet and not in any
+physical form. The currency is not issued by any government, bank, or company, but rather is
+generated and controlled automatically through computer software operating on a decentralized,
+“peer-to-peer” network.
+Bitcoins are stored on the Bitcoin network in what are called Bitcoin “addresses.” A
+Bitcoin address is analogous to a bank account number, designated by a complex string of letters
+and numbers. Each Bitcoin address is controlled through the use of a unique, corresponding
+“private key” – a kind of cryptographic password needed to access the address. Only a holder of
+the “private key” for an address can authorize any transfers of Bitcoins from that address to other
+Bitcoin addresses.
+
+No identifying information about the payor or payee is transmitted in a
+
+1
+
+The following background is based on the facts set forth in the affidavit submitted in
+support of the search warrant for the defendant’s Yahoo.com email account (15-mj-91-JHR) as
+well as additional facts that the Government intends to prove should the case to proceed to trial.
+These facts do not constitute a full proffer of the Government’s evidence but are offered only to
+provide context to the allegations of the Indictment.
+2
+
+Case 2:15-cr-00198-GZS Document 41 Filed 06/21/16 Page 3 of 17
+
+PageID #: 127
+
+Bitcoin transaction. Only the Bitcoin addresses of the parties are needed for the transaction,
+which by themselves do not reflect any identifying information.
+To acquire Bitcoins, a user typically must purchase them from a Bitcoin “exchanger.”
+Bitcoin exchangers generally accept payments of conventional currency and, in return for a
+commission, transfer a corresponding number of Bitcoins, based on a floating exchange rate, to a
+Bitcoin address designated by the customer. Bitcoin exchangers doing business in the United
+States are considered money transmitters under federal anti-money laundering (“AML”)
+regulations and are required to register with the Financial Crimes Enforcement Network
+(“FinCEN”). See 31 C.F.R. § 1010.100(ff)(5); see also FinCEN, Guidance on the Application of
+FinCEN’s Regulations to Persons Administering, Exchanging, or Using Virtual Currencies,
+March 18, 2013, FIN-2013-G001, at 4-5, available at
+https://www.fincen.gov/statutes_regs/guidance/html/FIN-2013-G001.html (“FinCEN Guidance”)
+(Attached as Ex. A).
+B.
+
+Undercover Purchases of Bitcoin from Mansy
+
+Beginning in early December 2014, agents identified an individual advertising Bitcoin
+transactions online using the moniker ‘TVTOYZ.COM.’ At this time, ‘TVTOYZ.COM’ was
+listed on the ‘www.localbitcoins.com’ website as one of the largest volume sellers on the
+website; ‘TVTOYZ.COM’ advertised nationally that s/he accepted cash deposits into his/her
+bank accounts, in addition to other methods, in exchange for Bitcoin. According to
+‘www.localbitcoins.com,’ ‘TVTOYZ.COM’ had created his/her account in approximately
+September 2013, had engaged in his/her first ‘transaction’ in approximately May 2014, and had
+engaged in over 3,000 transactions in this period with more than 1,740 individuals.
+3
+
+Case 2:15-cr-00198-GZS Document 41 Filed 06/21/16 Page 4 of 17
+
+PageID #: 128
+
+Agents determined that ‘TVTOYZ.COM’ was an entity (and an actual website) owned,
+operated, and registered as a Limited Liability Corporation with the state of Michigan by Sal
+Mansy.
+
+A search of the FinCEN online money services business registrant database revealed
+
+no entity by the name ‘TVTOYZ.COM’ or any similar name registered as a money services
+business; Mansy himself was also not reflected as an individual registrant within the database.
+In December 2014, agents observed that ‘TVTOYZ.COM’ was advertising nationally on
+the ‘www.localbitcoins.com’ website that he accepted deposits through Moneygram, ‘Cash
+Deposit at your local Walmart, CVS, Rite Aid, Party store,’ ‘Vanilla’ pre-paid cards, and
+‘Reloadit’ pre-paid cards in exchange for Bitcoin. Each method of payment featured a different
+purchase price for Bitcoin, with the Moneygram, Vanilla, and Reloadit methods listed as the
+most expensive. According to his profile, upon initiation of a trade, Mansy would place a buyer’s
+requested Bitcoin trade amount in escrow, wait for confirmation from the buyer that the cash
+deposit had been made into his designated account or that the pre-paid card had been purchased
+and loaded, and would then release the Bitcoin to the buyer’s e-wallet within 180 minutes.
+On December 22, 2014, agents initiated a ‘trade’ with Mansy through one of his
+‘www.localbitcoins.com’ advertisements, and successfully purchased 1.3296 Bitcoin from him
+by paying $500 cash into an account specified by Mansy through a Moneygram outlet in
+Scarborough, Maine. At the time of this purchase, Mansy was selling Bitcoin for $376.06 U.S.
+dollars per one Bitcoin, whereas the prevailing trade rate for Bitcoin at that specific time was
+approximately $331.58 U.S. dollars per one Bitcoin.
+On March 2, 2015, agents initiated a second ‘trade’ with Mansy, again through one of his
+‘www.localbitcoins.com’ advertisements, and purchased 5.002 Bitcoin from him for $1,500
+4
+
+Case 2:15-cr-00198-GZS Document 41 Filed 06/21/16 Page 5 of 17
+
+PageID #: 129
+
+cash. As with the December trade, agents sent the cash through the same Moneygram outlet in
+Scarborough, Maine to an account Mansy specified.
+
+At the time of the purchase, Mansy was
+
+selling Bitcoin for $299.88 U.S. Dollars per one Bitcoin, whereas the prevailing trade rate for
+Bitcoin at that specific time was $266.67 U.S. Dollars per one Bitcoin.
+C.
+
+Coinbase
+
+On April 2, 2015, agents sought information from Coinbase, a Bitcoin wallet and
+exchange service headquartered in San Francisco, California.
+
+Coinbase reported that Mansy
+
+had been a customer from August 9, 2013 through June 18, 2014. While he was a customer,
+Mansy had listed his contact email of salmansy@yahoo.com. During the nine months that his
+account was active, Coinbase reported that Mansy had purchased approximately $577,000 in
+Bitcoin from the company.
+On June 18, 2014, Coinbase banned Mansy’s account because it suspected that he was
+operating an unlicensed money service business and selling the Bitcoin he was purchasing from
+the company on other websites. Coinbase also disclosed all email correspondence between the
+company and Mansy during the period his account was open. Within the correspondence, agents
+encountered a string of emails between Coinbase and Mansy dated June 17 and June 18, 2014. In
+the first email of the string, Coinbase notified Mansy that it had noticed a high volume of
+transactions from him and needed to collect more information regarding his activity; namely,
+whether he was selling and/or buying Bitcoin for non-Coinbase customers and, if so, whether he
+was registered with FinCEN as a money service business. In response, Mansy stated, “yes I buy
+[Bitcoin] and sell them on localbitcoin.com, ebay, and blogs the funding source is my business
+bank account.”
+5
+
+Case 2:15-cr-00198-GZS Document 41 Filed 06/21/16 Page 6 of 17
+
+PageID #: 130
+
+In response, Coinbase informed Mansy that “…selling Bitcoin on a website like
+localbitcoins.com places you in the category of a [money service business] according to
+FinCEN,” and that because this activity violated Coinbase’s terms of use, Mansy’s account was
+being banned. Minutes later, Mansy responded”
+Please tell me you’re kidding now what the hell do you care what I do with my
+Bitcoins after I buy from you. If you don’t want me to buy from you it’s your lost
+<sic> there’s many many places I can buy them from by the way your services
+too expensive and too slow. . . . The IRS put bitcoin as a property category so
+according to the IRS it’s property it’s not currency so what the hell do you care or
+the government care what do I do with my property if I want to sell it or burn it. . .
+there are hundreds of sellers on localbitcoins.com so all of them are MSB ????? I
+don’t think any of them is an MSB.
+In response, Coinbase again stated on June 18, 2014 that he needed to register as a money
+service business with FinCEN in order to continue doing business with the company, and went
+on to explain in detail the steps Mansy would need to take to become compliant. Minutes after
+receiving this email, Mansy responded,
+But I not an MSB I only so <sic> bitcoins I buy them from you or somebody else
+and resell them like product. I can’t afford to hire an officer and do all that I don’t
+make that much money off this business. I do claim all the profit on my taxes of
+my business as a business income.
+On June 20, 2014, after closing his account, Coinbase responded a final time, stating that
+it believed Mansy was describing himself as an unlicensed money service business, and that
+“[t]he only way we can accept accounts like yours is if they are in compliance.” Many months
+later, on January 7, 2015, Mansy sent a final email, stating, “John I need to buy bitcoins bad. I
+need you to turn my account back on.”
+
+6
+
+Case 2:15-cr-00198-GZS Document 41 Filed 06/21/16 Page 7 of 17
+
+PageID #: 131
+
+LEGAL STANDARD
+“A defendant faces a high standard in seeking to dismiss an indictment, because an
+indictment need provide the defendant only a plain, concise, and definite written statement of the
+essential facts constituting the offense charged.” United States v. Post, 950 F. Supp. 2d 519, 527
+(S.D.N.Y. 2013) (internal quotation marks and citations omitted) (citing Fed. R. Crim. P.
+7(c)(1)). “An indictment must be read to include facts which are necessarily implied by the
+specific allegations made.” United States v. Stavroulakis, 952 F.2d 686, 693 (2d Cir. 1992). It
+“does not have to specify evidence or details of how the offense was committed.”
+
+United States
+
+v. Coffey, 361 F. Supp. 2d 102, 111 (E.D.N.Y. 2005). At least one circuit has “consistently
+upheld indictments that ‘do little more than to track the language of the statute charged and state
+the time and place (in approximate terms) of the alleged crime.’”
+
+United States v. Walsh, 194
+
+F.3d 37, 44 (2d Cir. 1999) (citing United States v. Tramunti, 513 F.2d 1087, 1113 (2d Cir.
+1975)).
+Federal criminal procedure does not provide for pretrial determination of the sufficiency
+of the evidence. “[T]here is no summary judgment in criminal cases.” United States v. Elie, No.
+S3 10 Cr. 336 (LAK), 2012 WL 383403, at *1 (S.D.N.Y. Feb. 7, 2012).
+
+Thus, in the absence of
+
+a full proffer of the government’s evidence, “the sufficiency of the evidence is not appropriately
+addressed on a pretrial motion to dismiss an indictment.” United States v. Alfonso, 143 F.3d 772,
+776-77 (2d Cir. 1998). Instead, the Court is limited to determining whether the allegations of the
+indictment, taken as true and including all facts necessarily implied, are sufficient to establish a
+violation of the charged offense.
+
+United States v. Sampson, 371 U.S. 75, 78-79 (1962).
+
+Accordingly, to the extent the defendants’ motion could be construed to raise factual issues
+7
+
+Case 2:15-cr-00198-GZS Document 41 Filed 06/21/16 Page 8 of 17
+
+PageID #: 132
+
+concerning whether the Government will be able to prove all the elements of the offense at trial,
+those issues are not appropriately addressed here. See Fed. R. Crim. P. 12(b) (providing that a
+motion to dismiss may raise “any defense, objection, or request that the court can determine
+without a trial of the general issue”).
+ARGUMENT
+The Indictment Properly Alleges that the Defendants Operated an Unlicensed Money
+Transmitting Business
+A. Applicable Law
+Title 18, United States Code, Section 1960, makes it a crime to operate an “unlicensed
+money transmitting business.” 18 U.S.C. § 1960(a). The term “money transmitting” is defined
+in the statute as “transferring funds on behalf of the public by any and all means including but
+not limited to transfers within this country or to locations abroad by wire, check, draft, facsimile,
+or courier.” Id. § 1960(b)(2).
+The statute sets forth three circumstances under which a business constitutes an
+“unlicensed money transmitting businesses” within the scope of its prohibition. Section
+1960(b)(1)(A) makes it a crime to operate a money transmitting business without an appropriate
+state license where one is required. Section 1960(b)(1)(B) makes it a crime to operate a money
+transmitting business without registering with federal authorities (i.e., FinCEN) if required by
+federal regulation. And Section 1960(b)(1)(C) makes it a crime to operate a money transmitting
+business – whether licensed by any authority or not – that “involves the transportation or
+transmission of funds that are known to the defendant to have been derived from a criminal
+offense or are intended to be used to promote or support unlawful activity.” Defendants are
+8
+
+Case 2:15-cr-00198-GZS Document 41 Filed 06/21/16 Page 9 of 17
+
+PageID #: 133
+
+charged with violating the second provision of the statute – i.e. operating a money transmitting
+business that was not registered with FinCEN.
+B. Discussion
+1. Bitcoins Are the Digital Equivalent of Cash and Readily Qualify as “Funds”
+Defendants’ primary argument is that those immersed in the realm of virtual currency
+(e.g. Bitcoin) fall outside the scope of Section 1960. This argument must fail. As reflected by
+the statute’s plain language, its legislative history, and case law precisely on point, Section 1960
+applies to transmitters not just of real currency, but of any type of “funds” – a term that easily
+encompasses virtual currencies such as Bitcoin.
+As noted, Section 1960 broadly defines “money transmitting” to include “transferring
+funds on behalf of the public by any and all means.” 18 U.S.C. § 1960(b)(2). As the statute does
+not specifically define the term “funds,” the term is given its ordinary meaning. See Taniguchi
+v. Kan Pacific Saipan, Ltd., 132 S.Ct. 1997, 2002 (2012) (“When a term goes undefined in a
+statute, we give the term its ordinary meaning.”). The term “funds” is a flexible one,
+encompassing any liquid form of value that can substitute for cash. Black’s Law
+Dictionary, for example, defines “fund” as “a sum of money or other liquid assets established for
+a specific purpose.” Black’s Law Dictionary 743 (9th ed. 2009). A “liquid asset” is defined by
+cross-reference to “current asset,” id. at 1014, which means “[a]n asset that is readily convertible
+into cash,” id. at 134. Other, non-legal dictionaries define the term “funds” in a similarly openended fashion. The Oxford English Dictionary, for example, defines “funds” as “money at a
+person’s disposal; pecuniary resources.” Oxford English Dictionary (2d ed. 1989). The term
+“pecuniary” is defined in turn as “of or relating to money; monetary; financial.” Id.; see also
+9
+
+Case 2:15-cr-00198-GZS Document 41 Filed 06/21/16 Page 10 of 17
+
+PageID #: 134
+
+Random House Dictionary (4th ed. 2001) (defining “funds” as “money immediately available;
+pecuniary resources”).
+Bitcoin neatly fits such description. Bitcoin was specifically designed to serve as the
+digital equivalent of cash. See Satoshi Nakamoto, Bitcoin: A Peer-to-Peer Electronic Cash
+System, available at https://bitcoin.org/bitcoin.pdf (original concept paper by Bitcoin’s creator).
+And it is in fact so used. Unlike “property” (Defendants’ Brief at 1 and 15), Bitcoin can easily be
+purchased in exchange for ordinary currency and used to conduct financial transactions. See
+SEC v. Shavers, 13 Civ. 416, 2013 WL 4028182, at *2 (E.D. Tex. Aug. 6, 2013) (“It is clear that
+Bitcoin can be used as money. It can be used to purchase goods or services, and . . . used to pay
+for individual living expenses. . . . [I]t can also be exchanged for conventional currencies.”). That
+Bitcoin qualifies as “funds” was made equally clear in United States v. Ulbricht, 2014 WL
+3362059, at *24 (S.D.N.Y. Jul. 9, 2014). In that case, the defendant was charged with, among
+other things, money laundering conspiracy, and moved to dismiss that charge based on the
+argument, similar to the one defendants’ advance here, that the term “funds” as used in the
+money laundering statute only encompasses real currency. Rejecting the argument, the Court
+explained:
+Put simply, “funds” can be used to pay for things in the colloquial sense. Bitcoins
+can be either used directly to pay for certain things or can act as a medium of
+exchange and be converted into a currency which can pay for things. Indeed, the
+only value for Bitcoin lies in its ability to pay for things—it is digital and has no
+earthly form; it cannot be put on a shelf and looked at or collected in a nice
+display case. . . . Sellers using Silk Road are not alleged to have given their
+narcotics and malicious software away for free—they are alleged to have sold
+them.
+2014 WL 3362059, at *24 (S.D.N.Y. Jul. 9, 2014).
+This holding is not a novel one. The term “funds” has previously been construed to
+10
+
+Case 2:15-cr-00198-GZS Document 41 Filed 06/21/16 Page 11 of 17
+
+PageID #: 135
+
+encompass virtual currency, specifically in the context of Section 1960. See United States v. EGold, Ltd., 550 F. Supp. 2d 82 (D.D.C. 2008). In E-Gold, the defendants were charged with
+violating Section 1960 based on their operation of a virtual currency service that functioned as an
+“alternative payment system over the Internet.” Id. at 85 (internal quotation marks omitted).
+The defendants sought to dismiss the charge, based on the argument that Section 1960 only
+reaches those who “deal in cash or currency.” Id. at 82. Rejecting the argument, the E-Gold court
+found that it was “clear” that the text of the statute reached virtual currency, as the statute
+“defines ‘money transmitting’ broadly to include transferring ‘funds,’ not just currency, by ‘any
+and all means;’ it is not limited to cash transactions.” Id. at 88.
+What is more, to ascertain what Congress meant by “money transmitting” as used in
+Section 1960 is not a head-scratching exercise. The statute includes its own definition of the
+term, and it speaks of transferring not “cash” or “currency,” but “funds.” Had Congress intended
+the statute to have a narrower reach, it would have used narrower language.
+Not only is defendants’ construction of Section 1960 precluded by the statute’s text, it is
+also inconsistent with its legislative history. Section 1960 was passed as an anti-money
+laundering statute, “designed, inter alia, to prevent the movement of funds in connection with
+drug dealing.” United States v. Bah, 574 F.3d 106, 112 (2d Cir. 2009) (citing
+H.R. Rep. No. 107-250(I), at 54 (2001)). As explained in the Senate report accompanying the
+original legislation, Congress was concerned that drug dealers were turning increasingly to
+“nonbank financial institutions” to “convert street currency into monetary instruments” in order
+to transmit the proceeds of their drug sales. S. Rep. 101-460, 1990 WL 201710 (1990)
+(discussion of Title II). Section 1960 was intended to address this “gaping hole in the money
+11
+
+Case 2:15-cr-00198-GZS Document 41 Filed 06/21/16 Page 12 of 17
+
+PageID #: 136
+
+laundering deterrence effort.” Id.
+Defendants’ cramped reading of the statute would fail to effectuate its broad law
+enforcement purpose. Today, virtual currency exchangers are among the “nonbank financial
+institutions” that pose significant money laundering risks. Congress designed the statute to keep
+pace with such evolving threats – which is why it cast a wide net and drafted the statute to apply
+to any business involved in transferring “funds . . . by any and all means.” While defendants note
+that “[Section 1960] fails to provide any guidance on . . . virtual currency” (Defendants’ Motion
+to Dismiss at 16), Congress sought to address a general problem susceptible to many variations.
+It therefore used flexible language, capable of being adapted to ever-changing methods of
+moving money. “[T]he fact that a statute can be applied in situations not expressly anticipated by
+Congress does not demonstrate ambiguity. It demonstrates breadth.” Pa. Dep’t of Corr. v.
+Yeskey, 524 U.S. 206, 212 (1998) (internal quotation marks omitted); see also Barr v. United
+States, 324 U.S. 83, 90 (1945) (“[I]f Congress has made a choice of language which fairly brings
+a given situation within a statute, it is unimportant that the particular application may not have
+been contemplated by the legislators.”).2
+Defendants make repeated references to IRS guidance to support the proposition that Bitcoin
+qualifies as ‘property’ and not ‘money.’ Defendants’ Motion to Dismiss at 1-2 and 15. While
+no direct citations are provided, the Government understands that the agency guidance
+Defendants refer to for this proposition is FinCEN Guidance, supra, and IRS Notice 2014-21,
+available at http://www.irs.gov/pub/irs-drop/n-14-21.pdf (“IRS Guidance”)). These memos in
+no way conflict with the application of Section 1960 to Bitcoin exchangers. The FinCEN
+Guidance clarifies the applicability of FinCEN regulations to virtual currency administrators and
+exchangers. As background, it notes that virtual currency is not the same as real currency, but it
+does not suggest that virtual currency administrators and exchangers are exempt from regulation
+on that basis. To the contrary, it advises that such entities are considered “money transmitters”
+under FinCEN regulations, as noted further below. See FinCEN Guidance at 1. Indeed, the
+FinCEN Guidance expressly provides that “[t]he definition of a money transmitter does not
+differentiate between real currencies and convertible virtual currencies.” FinCEN Guidance at
+2
+
+12
+
+Case 2:15-cr-00198-GZS Document 41 Filed 06/21/16 Page 13 of 17
+
+PageID #: 137
+
+2. The Application of Section 1960 to a Bitcoin Exchanger Does Not Violate the
+Rule of Lenity or the Due Process Clause3
+Lacking any support in the statutory text or legislative history, defendants appeal to
+constitutional principles. In particular, defendants argue that applying Section 1960 to a Bitcoin
+exchange business would run afoul of the rule of lenity and would constitute such a novel and
+unanticipated construction of the statute as to operate in a manner which would be in violation of
+the Due Process Clause. The same arguments were raised in the E-Gold litigation, where they
+were rightly dismissed, see E-Gold, 550 F. Supp. 2d at 100-101, as they should be here.
+“The rule of lenity serves to aid the court in interpreting a criminal statute only if there is
+ambiguity.” See United States v. Litchfield, 986 F.2d 21 (2d Cir. 1993). The Supreme Court has
+repeatedly admonished that the rule of lenity is “reserved . . . for those situations in which a
+reasonable doubt persists about a statute’s intended scope even after resort to ‘the language and
+structure, legislative history, and motivating policies’ of the statute.” Moskal v. United States,
+498 U.S. 103, 108 (1990) (quoting Bifulco v. United States, 447 U.S. 381, 387 (1980) (emphasis
+in original)); see also Reno v. Koray, 515 U.S. 50, 65 (1995) (“The rule of lenity applies only if,
+after seizing everything from which aid can be derived, we can make no more than a guess as to
+what Congress intended.” (internal citations and quotation marks omitted)). “The doctrine is thus
+one of last resort,” United States v. Venturella, 391 F.3d 120, 133 (2d Cir. 2004) (citation and
+
+3. As for the IRS Guidance, it addresses “only the U.S. federal tax consequences” of virtual
+currency transactions, advising in part that they are not treated the same as foreign currency
+transactions. The IRS Guidance is entirely irrelevant to Section 1960 or to anti-money laundering
+laws generally.
+3 While not directly referenced, many of Defendants’ arguments appear to invoke the Rule of
+Lenity (e.g. arguing that ambiguities in Section 1960 are unfair and should be resolved in favor
+of the Defendant). Accordingly, the Government addresses that here.
+13
+
+Case 2:15-cr-00198-GZS Document 41 Filed 06/21/16 Page 14 of 17
+
+PageID #: 138
+
+internal quotation marks omitted), and does not apply “merely because it [is] possible to
+articulate a construction more narrow than that urged by the Government.” Moskal, 498 U.S. at
+108.
+There is no irreconcilable ambiguity requiring resort to the rule of lenity here. “The
+words of the statute are clear; the applicable rules of statutory interpretation are clear; and the
+legislative history is clear. A business is a money transmitting business if it transfers funds on
+behalf of the public by any and all means.” E-Gold, 550 F. Supp. 2d at 100. Defendants’ conduct
+falls comfortably within these broad terms and directly implicates the legislative motivation
+underlying the statute. The rule of lenity does not supply a basis for defendants to graft a
+narrowing construction onto the statute at odds with its ordinary meaning and manifest purpose.
+See id. (“That it may be ‘possible to read the statute’ differently is not reason enough to bestow
+upon the Court carte blanche to disregard the plain meaning of the statute and the obvious intent
+of Congress in favor of an interpretation that Congress never intended and that the words could
+scarcely suggest.” (quoting Moskal, 498 U.S. at 107)).
+Even less apposite is defendants’ invocation of due process principles. A
+straightforward application of the statutory language has already been found to apply in the
+virtual currency context. See E-Gold, 550 F. Supp. 2d at 101 (“The Court imposes
+no novel construction upon defendants. Rather, it is Defendants’ own novel construction of
+Section 1960 . . . that created the purported ambiguity giving rise to their motion to dismiss.”).
+Indeed, Section 1960 has been applied to a variety of other fact patterns as well. See, e.g.,
+United States v. Ali, 515 F. 3d 100 (2nd Cir. 2008) (applying statute to hawala); United States v.
+Mazza-Alaluf, 607 F. Supp. 2d 484 (S.D.N.Y. 2009) (applying statute to business that moved
+14
+
+Case 2:15-cr-00198-GZS Document 41 Filed 06/21/16 Page 15 of 17
+
+PageID #: 139
+
+funds through variety of bank transactions).
+Defendants’ due process claim is particularly unconvincing given that the Government’s
+evidence includes numerous discussions between Mansy and Coinbase in which Coinbase
+informed Masnsy of his requirement to register with FinCEN because he was operating as an
+unlicensed money service business. Defendants are thus in no position, now that they have been
+caught, to claim surprise that they are being criminally prosecuted for their conduct. See United
+States v. Pfeiffer, 371 F.3d 430, 437 (8th Cir. 2004) (rejecting defendant’s due process challenge
+to alleged vagueness of criminal statute, based in part on clear evidence in the record that
+defendant had “actual notice” that the statute covered his conduct).
+Finally, defendants attempt to undercut Section 1960 on due process grounds alleging
+that the statute “fails to identify with the requisite specificity what constitutes a culpable state of
+mind.” Defense Motion to Dismiss at 1. In support of this argument, defendants make reference
+to the dissenting opinion in United States v. Talebnejad, 460 F.3d 563 (2006). The most
+effective path to address this argument is simply to cite to the majority:
+Section 1960, as currently written, applies to whoever knowingly conducts . . . an
+unlicensed money transmitting business," 18 U.S.C.A. § 1960(a), and defines
+"unlicensed money transmitting business," in relevant part, as "a money
+transmitting business which affects interstate or foreign commerce . . . and . . .
+fails to comply with the money transmitting business registration requirements"
+set forth in 31 U.S.C.A. § 5330 or accompanying regulations, 18 U.S.C.A. §
+1960(b)(1)(B). There is no question here that the Government must prove the
+Talebnejads' knowledge as to all of the factual elements of the crime: that they
+were conducting a money transmitting business that affected interstate commerce
+and that was unregistered. Therefore, § 1960(b)(1)(B) sets forth a
+constitutionally valid general intent crime, just as § 1960(b)(1)(A) does.
+Nothing in the statutory language--such as the use of the word "willful"--suggests
+that the Government must additionally prove knowledge of the law. Further, it is
+not relevant that Congress made no change to § 1960(b)(1)(B) when it amended §
+1960(b)(1)(A); there has never been a question as to whether a conviction under §
+1960(b)(1)(B) required proof of the defendant's knowledge of the law.
+15
+
+Case 2:15-cr-00198-GZS Document 41 Filed 06/21/16 Page 16 of 17
+
+PageID #: 140
+
+Talebnejad, 460 F.3d at 24 (emphasis added).
+CONCLUSION
+For the foregoing reasons, the Government respectfully requests that the defendants’
+motion to dismiss the indictment be denied.
+Dated at Portland, Maine, this 21st day of June 2016.
+Respectfully submitted,
+Thomas E. Delahanty II
+United States Attorney
+/s/Michael J. Conley
+Assistant United States Attorney
+United States Attorney=s Office
+100 Middle Street, PO Box 9718
+Portland, Maine 04101
+(207) 780-3257
+michael.conley@usdoj.gov
+
+16
+
+Case 2:15-cr-00198-GZS Document 41 Filed 06/21/16 Page 17 of 17
+
+PageID #: 141
+
+UNITED STATES DISTRICT COURT
+DISTRICT OF MAINE
+CERTIFICATE OF SERVICE
+I hereby certify that on June 21, 2016, I electronically filed Government=s Objection to
+Defendant=s Motion to Suppress Evidence and Incorporated Memorandum with the Clerk of
+Court using the CM/ECF system which will send notification of such filing to the following:
+Luke Rioux
+Farris Frank Haddad
+Shawn P. Smith
+Thomas E. Delahanty II
+United States Attorney
+
+/s/Michael J. Conley
+Assistant United States Attorney
+United States Attorney=s Office
+100 Middle Street, PO Box 9718
+Portland, Maine 04101
+(207) 780-3257
+michael.conley@usdoj.gov
+
+17
+
+

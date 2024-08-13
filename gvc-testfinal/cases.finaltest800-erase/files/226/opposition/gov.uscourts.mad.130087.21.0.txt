@@ -1,0 +1,901 @@
+Case 4:10-cv-40124-FDS Document 21
+
+Filed 10/15/10 Page 1 of 26
+
+UNITED STATES DISTRICT COURT
+DISTRICT OF MASSACHUSETTS
+SIEMENS HEALTHCARE
+DIAGNOSTICS INC.,
+Plaintiff,
+
+Civil Action No. 4:10-cv-40124
+
+v.
+ENZO LIFE SCIENCES, INC.,
+
+ORAL ARGUMENT REQUESTED
+
+Defendant.
+
+PLAINTIFF SIEMENS HEALTHCARE DIAGNOSTICS INC.’S
+MEMORANDUM OF LAW IN OPPOSITION TO
+DEFENDANT ENZO LIFE SCIENCES, INC.’S MOTION TO DISMISS
+
+Dated: October 15, 2010
+
+Russell J. Barron
+BBO # 677580
+barronr@pepperlaw.com
+William D. Belanger
+BBO #657184
+belangerw@pepperlaw.com
+Lana A. Gladstein
+BBO #648164
+gladsteinl@pepperlaw.com
+Andrew H. DeVoogd
+BBO # 670203
+devoogda@pepperlaw.com
+PEPPER HAMILTON LLP
+125 High Street - 15th Floor
+Oliver Street Tower
+Boston, Massachusetts 02110
+Telephone: 617.204.5127
+Facsimile: 617.204.5150
+
+Case 4:10-cv-40124-FDS Document 21
+
+Filed 10/15/10 Page 2 of 26
+
+TABLE OF CONTENTS
+Page
+I.
+
+INTRODUCTION .............................................................................................................. 1
+
+II.
+
+Statement of Relevant Facts................................................................................................ 2
+
+III.
+
+LEGAL STANDARD......................................................................................................... 5
+
+IV.
+
+A.
+
+Federal Rule of Civil Procedure 12(b)(1): Lack of Subject Matter Jurisdiction ... 5
+
+B.
+
+Federal Rule of Civil Procedure 12(b)(6): Failure to State a Claim ....................... 6
+
+ARGUMENT...................................................................................................................... 7
+A.
+
+Jurisdiction in This Court Is Proper Because Siemens Has Standing to Pursue
+This Live Case or Controversy ............................................................................... 7
+1.
+
+Section 146 Provides Procedural Rights Which Relieve Siemens of
+Establishing Traditional Standing Requirements........................................ 7
+
+2.
+
+Judicial Review of Interference Proceedings, Long Endorsed By
+Congress, Implicates Matters of Public Concern and Thus Is Not Merely
+Private Litigation Between the Parties........................................................ 9
+
+3.
+
+This Matter Is Not Moot, Because the Issues Presented Are “Live”........ 11
+(a)
+
+(b)
+
+B.
+
+V.
+
+Section 135(a) Obligates the Board to Decide Properly
+Declared Interferences, and a Final Decision by the Board Is
+Reviewable By a District Court .................................................... 12
+The Expiration of Siemens’ Patent Did Not Moot the Errors
+Made By the Board In Respect of Enzo’s Violation of
+Section 135(b)(1) .......................................................................... 17
+
+Siemens Has Stated Legally Cognizable Claims for Relief, and Enzo’s
+Rule 12(b)(6) Motion For Failure to State a Claim Must Be Denied ................... 17
+
+CONCLUSION..................................................................................................................... 20
+
+-i-
+
+Case 4:10-cv-40124-FDS Document 21
+
+Filed 10/15/10 Page 3 of 26
+
+TABLE OF AUTHORITIES
+Page(s)
+CASES
+3V, Inc. v. CIBA Specialty Chem. Corp., 587 F.Supp. 2d 641 (D. Del. 2008) ............12, 13, 14, 15
+Albert v. Kevex Corp., 729 F.2d 757 (Fed. Cir. 1984)...................................................................14
+Alberta Telecommunications v. Rambus, Inc., 2006 U.S. Dist. LEXIS 81093
+(N.D. Cal. Oct. 24, 2006)...................................................................................................15, 16
+Allen v. U.S. Ex Rel. Lowry, 26 App. D.C. 8 (D.C. App. Ct. 1905) ............................................2, 9
+Animal Legal Defense Fund v. Quigg, 932 F.2d 920 (Fed. Cir. 1991)..........................................15
+Ashcroft v. Iqbal, 129 S. Ct. 1937 (2009) ........................................................................................7
+Bell Atl. Corp. v. Twombly, 550 U.S. 544 (2007) ............................................................................7
+Carlisle v. United States, 517 U.S. 416 (1996)................................................................................6
+Conservolite v. Widmayer, 21 F.3d 1098 (Fed. Cir. 1994)......................................................18, 19
+Estee Lauder Inc. v. L’Oreal, S.A., 129 F.3d 588 (Fed. Cir. 1997) .................................................9
+Gallant v. City of Fitchburg, 2010 U.S. Dist. LEXIS 83008 (D. Mass. Aug. 13, 2010).................7
+In re Gartside, 203 F.3d 1305 (Fed. Cir. 2000).....................................................10, 12, 13, 14, 16
+Gen. Instrument Corp., Inc. v. Scientific-Atlanta, Inc., 995 F.2d 209 (Fed. Cir. 1993) ................18
+Guinn v Kopf, 96 F.3d 1419 (Fed. Cir. 1996) ..........................................................1, 10, 12, 13, 14
+Invitrogen Corp. v. President and Fellows of Harvard College,
+578 F. Supp. 2d 248 (D.Mass. 2008) .......................................................................................18
+Mangual v. Rotger-Sabat, 317 F.3d 45 (1st Cir. 2003) ...................................................................6
+Mass. Indep. Certification, Inc. v. Johanns, 486 F. Supp. 2d 105 (D. Mass. 2007) .......................8
+McGuigan v. Conte, 629 F. Supp. 2d 76 (D. Mass. 2009)...............................................................7
+Medichem, S.A. v. Rolabo, S.L., 353 F.3d 928 (Fed. Cir. 2003)....................................................14
+Morgan v. Daniels, 153 U.S. 120 (1894).......................................................................................11
+Nulankeyutmonen Nkihtaqmikon v. Impson, 503 F.3d 18 (1st Cir. 2007) .......................................8
+
+-ii-
+
+Case 4:10-cv-40124-FDS Document 21
+
+Filed 10/15/10 Page 4 of 26
+Page(s)
+
+Perkins v. Kwon, 886 F.2d 325 (Fed. Cir. 1989) .................................................................1, 10, 16
+Petrie et al. v. Walsh et al.
+21 U.S.P.Q.2D (BNA) 2012 (B.P.A.I. September 30, 1991) ......................................12, 14, 17
+Ramirez v. Ramos, 438 F.3d 92 (1st Cir. 2006)...............................................................................6
+Rogers v. Jefferson-Pilot Ins. Co., 883 F.2d 324 (4th Cir. 1969) ....................................................7
+Ruiz v. Bally Total Fitness Holding Corp., 496 F.3d 1 (1st Cir. 2007) ...........................................7
+Saint-Gobain Ceramics & Plastics, Inc. v. Yuhu Wang,
+2008 U.S. Dist. LEXIS 53746 (D. Mass. June 27, 2008) ..........................................................6
+In re Van Geuns, 946 F.3d 845 (Fed. Cir. 1991) ...........................................................................10
+Viqueira v. First Bank, 140 F.3d 12 (1st Cir. 1998) ........................................................................6
+Waterman v. Birbaum, 53 U.S.P.Q.2d 2024 (B.P.A.I. 2000) ........................................................15
+STATUTES
+35 U.S.C. §6...................................................................................................................................13
+35 U.S.C. §102.................................................................................................................................4
+35 U.S.C. §103.................................................................................................................................4
+35 U.S.C. § 112................................................................................................................................4
+35 U.S.C. § 135(a) .........................................................................................1, 3, 12, 14, 15, 16, 17
+35 U.S.C. §135(b) ............................................................................................................................4
+35 U.S.C. § 146...................................................................................................................... passim
+35 U.S.C. § 154(d) ...........................................................................................................................5
+35 U.S.C. §253...................................................................................................................12, 13, 14
+35 U.S.C. §291...................................................................................................................14, 15, 16
+Pub. L. 93-596, §1, 88 Stat. 1949 (Jan. 2, 1975) ...........................................................................10
+Pub. L. 98-622, §203, 98 Stat. 3387 (Nov. 8. 1984)......................................................................10
+Pub. L. 106-113, §4508 (1999)......................................................................................................17
+
+-iii-
+
+Case 4:10-cv-40124-FDS Document 21
+
+Filed 10/15/10 Page 5 of 26
+Page(s)
+
+OTHER AUTHORITIES
+Fed. R. Civ. P. 12(b)(1).......................................................................................................... passim
+Fed. R. Civ. P. 12(b)(6).......................................................................................................... passim
+37 C.F.R. §41.127 ..........................................................................................................................12
+H.R. Rep. No. 1923 (1952) ............................................................................................................10
+S. Rep. No. 98-663, 98th Cong., 2d Sess., 18 (1984) ....................................................................11
+U.S. Patent No. 5,124,246...................................................................................................... passim
+
+-iv-
+
+Case 4:10-cv-40124-FDS Document 21
+
+Filed 10/15/10 Page 6 of 26
+
+Plaintiff Siemens HealthCare Diagnostics, Inc., (“Siemens”) respectfully submits this
+memorandum of law in opposition to Enzo Life Sciences, Inc.’s, (“Enzo”) Motion to Dismiss
+pursuant to Fed. R. Civ. P. 12(b)(1) and 12(b)(6) for lack of subject matter jurisdiction and for
+failure to state a claim upon which relief may be granted.
+I.
+
+INTRODUCTION
+Enzo’s motion to dismiss asks this court to ignore the plain language of 35 U.S.C. § 146.
+
+Section 146 unambiguously provides that “[a]ny party to an interference dissatisfied with the
+decision of the Board of Patent Appeals and Interferences on the interference, may have remedy
+by civil action…” 35 U.S.C. § 146. The statute grants “any party… dissatisfied with the
+decision” of the Board of Patent Appeals and Interferences (“the Board”) the right for judicial
+review of the Board’s decision concerning priority and patentability.
+
+If Enzo’s motion is
+
+granted, Siemens would be denied its statutorily guaranteed right to challenge in this Court the
+erroneous decisions of the Board.
+There is no prohibition in the statute, or in any judicial opinion, against maintaining a
+Section 146 action concerning an expired patent. There is no precedent – and Enzo points to
+none – holding that a party’s statutory right for review of a decision of the Board under Section
+146 can be extinguished by the expiration of a patent after the interference had been properly
+declared under 35 U.S.C. § 135(a). That is so because a Section 146 action is not merely private
+litigation between individuals, but a judicial review of an agency decision which settles not only
+the rights between the parties but also rights of concern to the public, namely, the issuance of
+valid patents. See Guinn v Kopf, 96 F.3d 1419, 1422 (Fed. Cir. 1996); Perkins v. Kwon, 886
+F.2d 325, 328-329 (Fed. Cir. 1989); Bernardy v. Powell, 2006 Pat. App. LEXIS 14, *8 (March 2,
+2006). This public interest is particularly true here where Enzo, the party that prevailed in the
+
+Case 4:10-cv-40124-FDS Document 21
+
+Filed 10/15/10 Page 7 of 26
+
+interference due to the Board’s error, serially delayed prosecution of its patent application for 23
+years before requesting that the PTO declare an interference with Siemens’ U.S. Patent No.
+5,124,246 (“the ‘246 patent”), which at the time of the declaration of the interference had been
+issued and in the public domain for 14 years. (Compl. at 10, 15-17). If Enzo’s motion is granted
+and the Board’s decision stands unreviewed, in a direct affront to the American patent system,
+the public would be subjected to two successive 17-year patent terms covering the same subject
+matter. While that scenario has never before been addressed by a court, it was prophetically
+envisioned as an undesirable outcome more than 100 years ago in Allen v. U.S. Ex Rel. Lowry, 26
+App. D.C. 8 (D.C. App. Ct. 1905). For all these reasons, jurisdiction in this Court is wellfounded.
+Siemens has also pled ample facts to state cognizable claims for relief on all of its causes
+of action. As a matter of law, this Court has the power to review issues that were properly raised
+before the Board – even those that were not considered by the Board.
+
+Enzo relies on
+
+mischaracterizations of the law to erroneously suggest the contrary, and by the measure of Rule
+12(b)(6), Siemens has adequately stated claims upon which relief may be granted. As a result,
+Enzo’s motion must fail.
+II.
+
+STATEMENT OF RELEVANT FACTS
+This is a civil action brought within the unique confines of 35 U.S.C. § 146,1 seeking
+
+review of the erroneous judgment and decisions by the Board that were adverse to Siemens’
+
+1
+
+Section 146 states in relevant part:
+
+Any party to an interference dissatisfied with the decision of the Board of Patent Appeals and
+Interferences on the interference, may have remedy by civil action, if commenced within such
+time after such decision, not less than sixty days, as the Director appoints or as provided in section
+141 of this title, unless he has appealed to the United States Court of Appeals for the Federal
+Circuit, and such appeal is pending or has been decided. (Emphasis added).
+
+-2-
+
+Case 4:10-cv-40124-FDS Document 21
+
+Filed 10/15/10 Page 8 of 26
+
+predecessor, Bayer Healthcare LLC (“Bayer”), in interference No. 105,489 against defendant
+Enzo. An interference2 is a proceeding before the United States Patent and Trademark Office
+(“PTO”) to determine which patent has priority for the technology in question. Enzo filed its
+U.S. patent application No. 08/479,995 (“the ‘995 application, see Compl., Ex. 2) on June 7,
+1995. The ‘995 application, titled “Assay Method Utilizing Polynucleotide Sequences,” purports
+to relate back to an application filed on May 5, 1983. Siemens’ ‘246 patent, titled “Nucleic Acid
+Multimers and Amplified Nucleic Acid Hybridization Assays Using Same,” resulted from
+application No. 07/340,031 filed on April 18, 1989. The ‘246 patent issued on June 23, 1992.
+(See Compl., Ex. 1).
+On November 21, 2005, the PTO allowed (as patentable) all pending claims of Enzo’s
+‘995 application (“Enzo’s Allowed Claims” refer to claims 283-362, 364, 365, 382, 383, 400,
+401, 403, 404, 406, 407, 409-439, 441-505, 507, 508, 510, 511, and 528-547). (See Enzo’s
+Request for Voluntary Publication of Application, ENZO000000053-202 at ENZO00000201,
+attached here to as Ex. A). On August 7, 2006, the PTO declared an interference between the
+‘246 patent and Enzo’s Allowed Claims. (Compl. at 10-14). In declaring interference, the PTO
+determined that Enzo’s Allowed Claims and claims 39-41 and 43-56 of Siemens’ unexpired ‘246
+patent claim a common invention, namely nucleic acid hybridization assay of the ‘246 patent’s
+claim 53. Id. The allegedly common invention, called Count 1, defines the invention contested
+
+2
+
+Interferences are governed by 35 U.S.C. §135(a), which states in relevant part:
+
+Whenever an application is made for a patent which, in the opinion of the Director, would
+interfere with any pending application, or with any unexpired patent, an interference may be
+declared and the Director shall give notice of such declaration to the applicants, or applicant and
+patentee, as the case may be. The Board of Patent Appeals and Interferences shall determine
+questions of priority of the inventions and may determine questions of patentability. (Emphasis
+added).
+
+-3-
+
+Case 4:10-cv-40124-FDS Document 21
+
+Filed 10/15/10 Page 9 of 26
+
+in the interference. Id. The ‘246 patent was unexpired and in full force when this interference
+was declared.
+Siemens3 formally raised several issues to the Board in the interference, by requesting in
+“preliminary motions” that the Board permit it to fully brief certain motions regarding
+substantive issues in the interference. See Compl. at ¶¶26-28. The Board denied permission as
+to certain preliminary motions relating to, for example, Siemens’ requests for judgment based on
+(1) the unpatentability of the ‘995 application under 35 U.S.C. §§102 and 103, and (2) Enzo’s
+improper use of multiple dependent claims among the claims in the ‘995 application under 35
+U.S.C. § 112 paragraph 5. See Compl., Ex. 6 (Interference Paper No. 22). Of the requested
+motions that Siemens was permitted to brief, the Board denied its motion to preclude a
+declaration of interference under 35 U.S.C. § 135(b) because none of Enzo’s Allowed Claims
+was submitted within a year of the issuance of the ‘246 patent. See Compl., Ex. 7 (Interference
+Paper No. 60). Siemens also moved for prosecution laches to defeat Enzo’s claim of priority.
+See id. That motion was denied as the Board declined to reach the laches issue.
+Siemens ‘246 patent expired in June 2009. Despite the expiration, 35 U.S.C. § 286
+entitles Siemens to bring an infringement lawsuit, seeking damages for up to six years after
+expiration of its patent, or up to June 2015. Although the patent expired during the interference,
+Enzo never argued to the Board that the interference was thereby mooted. Nor did the Board
+consider the expiration as a factor in determining the merits of the interference.
+Despite the fact that Enzo filed its initial patent application more than 27 years ago, it
+was only on June 18, 2010, that Enzo filed a Request for Voluntary Publication of the ‘995
+
+3
+
+Although Bayer was the active party at this stage of the interference proceedings, Siemens refers to the
+actions of its predecessor-in-interest as its own for the sake of clarity.
+
+-4-
+
+Case 4:10-cv-40124-FDS Document 21
+
+Filed 10/15/10 Page 10 of 26
+
+application, which served to publish the fact that Enzo obtained purportedly patentable claims.
+(See Enzo’s Request for Voluntary Publication of Application at ENZO00000053-202, attached
+here to as Ex. A). It has, therefore, withheld its application from the public for almost three
+decades.
+Enzo’s Allowed Claims, which were involved in the interference, were deemed
+patentable (“allowed”) by the Patent Office, which means that the claims will issue in a granted
+patent unless this Court overturns the Board’s decision.
+
+Enzo’s contention that its ‘995
+
+application may not ever issue as a patent (Enzo Br. at 7) is inconsistent with the PTO and
+Enzo’s actions.
+Pursuant to 35 U.S.C. §146, as a party to an interference proceeding dissatisfied with the
+decision of the Board in respect of that interference, Siemens filed the instant civil action in this
+Court on July 9, 2010. See Dkt. Entry No. 1. On September 15, 2010, Enzo filed a Motion to
+Dismiss under Fed. R. Civ. P. 12(b)(1) and 12(b)(6). See Dkt. Entry No. 15, Mot. at 1.
+III.
+
+LEGAL STANDARD
+A.
+
+Federal Rule of Civil Procedure 12(b)(1): Lack of Subject Matter
+Jurisdiction
+
+Fed. R. Civ. P. 12(b)(1) allows a party to move for dismissal of a claim for a court’s lack
+of subject matter jurisdiction, which has been defined as “authority [of a court] to adjudicate the
+type of controversy involved in the action.”
+
+Carlisle v. United States, 517 U.S. 416, 434-35
+
+(1996). As Enzo bases its entire standing argument on the undisputed fact that the ‘246 patent
+expired on June 23, 2009, the challenge here is facial, and, as a result, the court “must construe
+the complaint liberally, treating all well-pleaded facts as true and drawing all reasonable
+inferences in favor of the plaintiffs.” Saint-Gobain Ceramics & Plastics, Inc. v. Yuhu Wang,
+
+-5-
+
+Case 4:10-cv-40124-FDS Document 21
+
+Filed 10/15/10 Page 11 of 26
+
+2008 U.S. Dist. LEXIS 53746 (D. Mass. June 27, 2008) (quoting Viqueira v. First Bank, 140
+F.3d 12, 16 (1st Cir. 1998)).
+Despite their similarity, there is a distinction between the doctrines of standing and
+mootness. See Ramirez v. Ramos, 438 F.3d 92, 100 (1st Cir. 2006). Whereas the party invoking
+federal jurisdiction must prove that it has standing, the party raising a mootness defense has the
+“heavy burden” of establishing the facts necessary to sustain that defense. See id. (citing
+Mangual v. Rotger-Sabat, 317 F.3d 45, 61 (1st Cir. 2003)).
+
+“To satisfy this burden, the
+
+challenger must show that, after the case’s commencement, that intervening events have “wiped
+the slate clean” and blotted out the alleged injury, rendering the case moot. Id.
+B.
+
+Federal Rule of Civil Procedure 12(b)(6): Failure to State a Claim
+
+On a motion to dismiss for failure to state a claim under Rule 12(b)(6), the Court “must
+assume the truth of all well-plead[ed] facts and give the plaintiff the benefit of all reasonable
+inferences therefrom.” Gallant v. City of Fitchburg, 2010 U.S. Dist. LEXIS 83008, at *12-13
+(D. Mass. Aug. 13, 2010) (citing Ruiz v. Bally Total Fitness Holding Corp., 496 F.3d 1, 5 (1st
+Cir. 2007)). To prevail on this motion, Enzo must show that Siemens failed to plead “sufficient
+factual matter, accepted as true, to ‘state a claim to relief that is plausible on its face.’” Ashcroft
+v. Iqbal, 129 S. Ct. 1937, 1949 (2009) (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570
+(2007)). See McGuigan v. Conte, 629 F. Supp. 2d 76, 81 (D. Mass. 2009). Because a 12(b)(6)
+motion is intended to resolve the merits of a claim or applicability of defenses, it should be
+granted only “in very limited circumstances.” Rogers v. Jefferson-Pilot Ins. Co., 883 F.2d 324,
+325 (4th Cir. 1969).
+
+-6-
+
+Case 4:10-cv-40124-FDS Document 21
+
+IV.
+
+Filed 10/15/10 Page 12 of 26
+
+ARGUMENT
+A.
+
+Jurisdiction in This Court Is Proper Because Siemens Has Standing to
+Pursue This Live Case or Controversy
+
+Congress has explicitly provided Siemens procedural rights by way of Section 146 for a
+review of any decision of the Board below. The Board, as it was obligated to do, reached a
+determination in a properly declared interference. Siemens has the right to appeal that decision.
+Further, this matter is not moot. Siemens and others are still selling nucleic acid signal
+amplification diagnostic products. See Compl. at ¶¶21-22. If the erroneous decisions of the
+Board are remedied by this Court, Enzo’s patent will not issue. Unless this Court reviews the
+Board’s decision, the public will be injured in that it will have to endure a second 17-year term
+on the same claimed invention. Hence, this live case or controversy is properly before this
+Court.
+1.
+
+Section 146 Provides Procedural Rights Which Relieve
+Siemens of Establishing Traditional Standing Requirements
+
+Section 146 of Title 35 of the United States Code provides procedural standing rights,
+stating that “[a]ny party to an interference dissatisfied with the decision of the [Board] … may
+have remedy by civil action … .” The plain language of the statute – which Enzo ignores –
+reveals that Congress intended to vest parties to an interference with the right for judicial review
+of the Board’s decision.
+“Where a statute affords procedural rights to a particular class of persons, the standing
+inquiry4 is less demanding: ‘The person who has been accorded a procedural right to protect his
+concrete interests can assert that right without meeting all the normal standards for redressability
+4
+
+Traditional standing analysis requires proof that: (1) the plaintiff must have suffered an injury-in-fact,
+(2) there must be a causal connection between the injury and the conduct complained of, and (3) the injury must be
+redressable by a favorable decision. See Mass. Indep. Certification, Inc. v. Johanns, 486 F. Supp. 2d 105, 113
+(D.Mass. 2007) (quoting Lujan, 504 U.S. at 560-61).
+
+-7-
+
+Case 4:10-cv-40124-FDS Document 21
+
+and immediacy.’”
+
+Filed 10/15/10 Page 13 of 26
+
+Mass. Indep. Certification, Inc. v. Johanns, 486 F. Supp. 2d 105, 113
+
+(D.Mass. 2007) (quoting Lujan, 504 U.S. at 560-61). See Nulankeyutmonen Nkihtaqmikon v.
+Impson, 503 F.3d 18, 27 (1st Cir. 2007) (noting that such plaintiffs receive “special treatment”
+with regard to the standing inquiry). That is, persons who are conferred a procedural right by
+way of Congressional statute need only show that the statute in question was “designed to
+protect” some concrete personal interest, and that there is “some possibility” that the decision
+that harmed the party will be reconsidered. See Impson, 503 F.3d at 28.
+Here, several essential facts are apparent from the face of Siemens’ Complaint. First,
+Siemens was a party (and the successor-in-interest of a party) to an interference before the
+Board. Second, Siemens is dissatisfied with the decision reached by the Board. Third, Siemens
+timely commenced this Section 146 action. Enzo does not challenge any of these facts that
+satisfy the statutory requirements to pursue judicial review, and potential reversal, of the decision
+of the Board that harmed Siemens. Hence, Siemens is in the class of parties Section 146 was
+designed to protect, it possesses a concrete personal interest in correcting the erroneous decisions
+made below by the Board, and such decisions can be corrected by this Court. Siemens thus has
+standing to prosecute this action in this Court.
+Moreover, Enzo’s contentions that its ‘995 application might not issue or that it may not
+sue Siemens are not only irrelevant to the analysis of whether Siemens has standing to prosecute
+this Section 146 action but are also belied by the facts summarized above. The only thing that
+precludes Enzo to get its allowed ‘995 application issued as a patent and, consequently,
+commence suit against Siemens, is this Section 146 action seeking review of the Board’s
+decision.
+
+-8-
+
+Case 4:10-cv-40124-FDS Document 21
+
+Filed 10/15/10 Page 14 of 26
+
+Furthermore, if, as Enzo contemplates, the Board’s decision stands unreviewed and
+becomes final, Enzo’s allowed claims will issue as a patent, injuring the public by forcing it to
+pay tribute to a patent for a second 17-year term. In addition, Enzo’s argument that Siemens
+could raise any affirmative defenses in a subsequent infringement suit (Enzo Br. at 2) rings
+hollow. In fact, Siemens stands to lose (1) the venue selected and an opportunity to overturn the
+Board’s decision; (2) the more favorable burden of proof in this action (i.e., preponderance of the
+evidence versus clear and convincing evidence in patent infringement actions); and (3) unbiased
+jury consideration of Siemens’ defenses in a any later action since there will be prejudice to
+Siemens from a jury being told about the Board’s unfavorable and unreviewed decision.
+For all these reasons, Siemens has standing to proceed with this Section 146 action.
+2.
+
+Judicial Review of Interference Proceedings, Long Endorsed
+By Congress, Implicates Matters of Public Concern and Thus
+Is Not Merely Private Litigation Between the Parties
+
+Section 146 provides a unique avenue for the hybrid appeal of an administrative decision
+on the one hand, and a trial de novo on the other. See Estee Lauder Inc. v. L’Oreal, S.A., 129
+F.3d 588, 592 (Fed. Cir. 1997). Section 146 intended to codify the long-standing practice of
+reviewing Patent Office’s judgments. In re Van Geuns, 946 F.3d 845, 847 (Fed. Cir. 1991). In
+its 1952 revisions to Title 35, Congress expanded the right to judicial review by way of civil
+action to the patentee in an interference, which previously had only been enjoyed by the
+applicant. See, e.g., Allen v. United States ex rel. Lowry, 26 App. D.C. 8, 14 (D.C. App. Ct.
+1905), aff’d, United States ex rel. Lowry v. Allen, 203 U.S. 476 (1906). The House Judiciary
+Committee emphasized that from an interference “the patentee has a right of appeal (sec. 141)
+and is given a right of [judicial] review by civil action (sec. 146).” H.R. Rep. No. 1923, at 21
+(1952) (emphasis added). Subsequent revisions to the patent laws have all maintained this right
+to judicial review of decisions of the Board made during interference proceedings. See, e.g.,
+-9-
+
+Case 4:10-cv-40124-FDS Document 21
+
+Filed 10/15/10 Page 15 of 26
+
+Pub. L. 93-596, §1, 88 Stat. 1949 (Jan. 2, 1975); Pub. L. 98-622, §203, 98 Stat. 3387 (Nov. 8.
+1984).
+Critically, this long-provided right of judicial review to parties dissatisfied with decisions
+by the PTO in an interference protects not just the parties against erroneous decisions of the
+Board, but also the public interest. See Perkins v. Kwon, 886 F.2d 325, 328-29 (Fed. Cir. 1989).
+Interference proceedings “settle[] not only the rights between the parties but also rights of
+concern to the public,” namely that only valid patents issue. Guinn v. Kopf, 96 F.3d 1419, 1422
+(Fed. Cir. 1996) (quoting Perkins, 886 F.2d at 328-29); In re Gartside, 203 F.3d 1305, 1318
+(Fed. Cir. 2000).
+Indeed, although a Section 146 action is instituted as a civil suit between two private
+parties, the proceeding is “principally one to review the decision by an executive branch tribunal
+empowered by statute to make legally binding determinations of patentabilty,” an issue of central
+public importance. See Bernardy v. Powell, 2006 Pat. App. LEXIS 14, at *6-8 (B.P.A.I. March
+2, 2006) (citing Morgan v. Daniels, 153 U.S. 120, 124 (1894)). Thus, implicating as it does
+rights of concern to the public, a civil action brought under Section 146 is not, as Enzo implies
+by its motion, solely private litigation between the parties. Bernardy, 2006 Pat. App. LEXIS 14,
+at *6-8. See also S. Rep. No. 98-663, 98th Cong., 2d Sess., 18 (1984) (noting that delays in
+interference proceedings are harmful to the public).
+Enzo would have this Court ignore both the Congressional grant of a civil action to
+Siemens and the interests of the public, and treat the instant Section 146 action as though it were
+solely private litigation between two parties. This Court should not indulge Enzo’s improper
+manipulation of the patent system.
+
+-10-
+
+Case 4:10-cv-40124-FDS Document 21
+
+Filed 10/15/10 Page 16 of 26
+
+The legal interpretation Enzo seeks this Court to adopt would be fundamentally unfair. It
+would punish companies like Siemens, that timely obtain patents, by denying them review of the
+Board’s decisions in properly declared interferences when their patents naturally expire, and
+reward companies like Enzo, that unduly delay prosecution of their applications until their
+competitors’ patents expire, by allowing the Board’s decision to be reviewed. If the Board
+below had decided against Enzo, rendering the ‘995 application nugatory, Enzo, as a party to the
+interference dissatisfied with the decision of the Board, would be entitled to bring an action
+under Section 146. Enzo would still be able to prosecute its grievance with the decision of the
+Board in this Court by way of Section 146 review. Indeed, as a party to an interference
+dissatisfied with the decision of the Board in respect of that interference, Enzo would enjoy the
+right to a civil action to review such decision in precisely the same way Siemens enjoys the same
+right in the current situation. Enzo’s attempt to deny Siemens its statutory right bears no support
+in the law.
+3.
+
+This Matter Is Not Moot, Because the Issues Presented Are
+“Live”
+
+Because the Board rendered a decision in a properly declared interference under 35
+U.S.C. §135(a), which Siemens has chosen to appeal, this Court’s review of the Board’s decision
+is permitted under Section 146. The mere happenstance of a patent’s expiration during the
+pendency of interference proceedings does not divest the Board of the power to decide the
+interference. See Petrie et al. v. Walsh et al., 21 U.S.P.Q.2D (BNA) 2012 (B.P.A.I. September
+30, 1991) (noting that “nothing contained in this opinion should be construed as suggesting that
+an interference declared between a pending application and an unexpired patent will be
+terminated by any means other than a judgment under 1.658(a) [now 37 C.F.R. § 41.127]). Here,
+because the Board rendered a decision in a properly declared interference, this Court cannot be
+
+-11-
+
+Case 4:10-cv-40124-FDS Document 21
+
+Filed 10/15/10 Page 17 of 26
+
+precluded from reviewing such decision, as Section 146 guarantees such review. Moreover,
+Enzo’s motion must be denied for the additional and independent reason that Siemens’ claims
+under 135(b)(1) are properly reviewable in this Court regardless of the expiration of the ‘246
+patent, as the plain language of the measure reveals that its statute of repose effect is operative
+irrespective of whether the patent in question is active or expired.
+(a)
+
+Section 135(a) Obligates the Board to Decide Properly
+Declared Interferences, and a Final Decision by the
+Board Is Reviewable By a District Court
+
+Enzo does not dispute that the Section 135(a) interference was properly declared below
+and that, even after Siemens’ patent had expired in 2009, the Board had authority and
+jurisdiction to issue a decision and judgment that is the subject of this Section 146 review.
+Indeed, the law is clear that so long as a Section 135(a) interference was declared between a
+pending application and an unexpired patent, the Board is obligated to issue judgment. See 35
+U.S.C. §135(a); 35 U.S.C. §6; Petrie, 21 U.S.P.Q.2d (BNA) 2012; Guinn et al. v. Kopf, 96 F.3d
+1419, 1421 (Fed. Cir. 1996) (holding that a voluntary disclaimer under 35 U.S.C. §253 does not
+divest the Board of jurisdiction or authority to reach a conclusion as to the properly declared §
+135(a) interference); In re Gartside, 203 F.3d 1305, 1317 (Fed. Cir. 2000) (following Guinn and
+holding that withdrawal of party did not divest the Board of jurisdiction to decide the
+interference). There is neither case law nor legislative history to support the proposition, which
+Enzo urges, that the expiration of a patent in a properly declared interference under § 135(a),
+divests this Court of jurisdiction and the patentee of its statutory right for a review of the Board’s
+decision. This Court’s jurisdiction, and Siemens’ right to appeal, are expressly granted by
+Section 146.
+To support its erroneous argument that this Court lacks subject matter jurisdiction to hear
+a Section 146 action, Enzo principally relies on 3V, Inc. v. CIBA Specialty Chem. Corp., 587
+-12-
+
+Case 4:10-cv-40124-FDS Document 21
+
+Filed 10/15/10 Page 18 of 26
+
+F.Supp. 2d 641 (D. Del. 2008). That case does not apply here not only because it is based on
+inapposite precedent of civil actions filed under 35 U.S.C. § 291 between two interfering patents,
+but also because its holding that a patentee’s disclaimer of its patent under § 253 mooted the
+issues of priority and patentability and divested the court of jurisdiction is contrary to Federal
+Circuit precedent of Guinn and Gartside.
+3V is distinguishable and not instructive here as it involves a patentee’s disclaimer of all
+claims of an issued patent under § 253 during a Section 146 action. The court in 3V observed
+that the patentee has no further right “to enforce the claims” disclaimed under § 253. See 3V,
+Inc., 587 F.Supp. 2d at 645 (citations omitted). Disclaimer under § 253 is not the same as a
+natural expiration of a patent. Siemens has never disclaimed its patent and, thus, has a live
+interest at stake in seeking a judicial review of the Board’s decision. Specifically, if the Board’s
+decision is reversed, Siemens can enforce its patent. For example, Siemens is entitled under 35
+U.S.C. § 286 to seek damages for any infringement that occurs as late as June 2015, which is six
+years after the patent’s expiration. If the Board’s rulings are not corrected, Siemens’ interest in
+its patent would be called into question; in addition, as described above, nothing would stop
+Enzo from obtaining a patent and attempting to enforce it against Siemens’ ongoing business.
+Siemens, therefore, has a live interest in having this Court review and remedy the Board’s
+interference rulings.
+In 3V, Judge Farnan also noted that “the parties did not identify, and the Court did not
+locate, any case specifically considering the issue of what kind of case or controversy is needed
+to sustain a §146 action.” 587 F.Supp. 2d at 646. Thus, Judge Farnan looked to Section 291
+actions for guidance.5 But a Section 291 action is not analogous to a Section 146 action in any
+5
+
+Section 291 provides in full:
+(continued...)
+
+-13-
+
+Case 4:10-cv-40124-FDS Document 21
+
+Filed 10/15/10 Page 19 of 26
+
+respect. Unlike a Section 146 action, a Section 291 action is not a statutorily mandated judicial
+review of an administrative agency’s decision. Instead, Section 291 provides a private cause of
+action to one patent owner against another patent owner solely to eliminate interference between
+their patents. See Medichem, S.A. v. Rolabo, S.L., 353 F.3d 928, 930 (Fed. Cir. 2003); see also
+35 U.S.C. § 291. The threshold jurisdictional requirement for §291 actions is the existence of
+interference-in-fact between two issued patents. See Albert v. Kevex Corp., 729 F.2d 757, 760761 (Fed. Cir. 1984) (holding that “the court has no jurisdiction under § 291 unless interference
+is established.”). Thus, a disclaimer of the interfering claims under § 253 or expiration of a
+patent divests the court of subject matter jurisdiction in actions under § 291.6 Id.
+Moreover, Judge Farnan’s observation that “CIBA identifies no dispute whatsoever that it
+continues to have with 3V” underscores the difference between actions under Section 291, which
+settle private rights, and actions under 146, which are not simply private litigation between
+individuals but a judicial review of an agency decision which settles not only the rights between
+the parties but also rights of concern to the public. See Perkins, 886 F.2d at 328-29; Guinn, 96
+F.3d at 1422; In re Gartside, 203 F.3d at 1318; Bernardy, 2006 Pat. App. LEXIS 14, *8. The
+reasoning of those cases applies here: there is a public interest in finally resolving Section 135(a)
+________________________
+(continued...)
+The owner of an interfering patent may have relief against the owner of another by civil action, and the
+court may adjudge the question of the validity of any of the interfering patents, in whole or in part. The provisions
+of the second paragraph of section 146 [concerning venue] of this title shall apply to actions brought under this
+section. 35 U.S.C. §291.
+6
+
+In contrast to interferences under §291, in a properly declared interference under §135(a) between a
+pending patent application and an unexpired patent, a disclaimer of the interfering claims under §253 or withdrawal
+of a party to the interference does not divest the Board of jurisdiction to decide the interference. See Guinn, 96 F.3d
+at 1421-22; In re Gartside, 203 F.3d at 1317. In fact, it is only when the patent has expired or lapsed before the
+interference is declared under §135(a) that the Board has no subject matter jurisdiction to maintain the interference.
+See Petrie, 21 U.S.P.Q.2D (BNA) 2012. Therefore, the basis for maintaining an interference action under §291 in
+district courts bears no similarity to the basis and purpose of interference proceedings under § 135(a) before the
+Board and the statutory grant of review of those decisions under § 146 as described above.
+
+-14-
+
+Case 4:10-cv-40124-FDS Document 21
+
+Filed 10/15/10 Page 20 of 26
+
+interference disputes even when a patentee disclaims or dedicates its claims to the public or
+when a patent expires during a properly declared Section 135(a) interference, which Siemens
+posits includes allowing the Section 146 action to occur.
+Furthermore, the Delaware District Court’s decision in 3V does not apply here and, in any
+case, would not bind this Court. The Federal Circuit was never given the opportunity to review
+the decision in 3V, Inc. v. CIBA; and the case has to date never been cited by any other court for
+any reason. Nor is Waterman v. Birbaum helpful to Enzo as that case merely stands for the
+proposition that the Board lacks subject matter jurisdiction to declare an interference under §
+135(a) between an abandoned patent application and an unexpired patent. 53 U.S.P.Q.2d 2024
+(B.P.A.I. 2000) (holding “[s]ince the Waterman application was abandoned as of the date the
+interference was declared, it follows that the board lacked subject matter jurisdiction over the
+interference.”).
+In fact, none of the cases Enzo cites to support its jurisdiction argument are applicable or
+instructive. For example, in Animal Legal Defense Fund v. Quigg, 932 F.2d 920 (Fed. Cir.
+1991), the Federal Circuit concluded – in stark contrast to the Section 146 context and
+completely irrelevant here – that a third party lacks standing to intervene in the prosecution of
+certain patent applications because the law confers no right to non-applicants to object the
+prosecution of patent applications of others.
+Likewise, Alberta Telecommunications v. Rambus, Inc., 2006 U.S. Dist. LEXIS 81093
+(N.D. Cal. Oct. 24, 2006) is not instructive as it is another action under §291 which has no
+applicability whatsoever to this §146 action. In Alberta, the District Court for the Northern
+District of California dismissed plaintiff Alberta’s §291 action for lack of subject matter
+jurisdiction because defendant Rambus’ patent expired. 2006 U.S. Dist. LEXIS 81 at *8-9. As
+
+-15-
+
+Case 4:10-cv-40124-FDS Document 21
+
+Filed 10/15/10 Page 21 of 26
+
+described above, the threshold jurisdictional requirement for §291 actions is based solely on the
+existence of interference-in-fact between the two patents. The court found that the expiration of
+Rambus’ patent vested the plaintiff with the allegedly interfering claims, thus removed any case
+or controversy regarding the interference between the two patents. Id. In stark contrast to
+Alberta, this Court has subject matter jurisdiction under § 146 to review the Board’s decision in
+interference declared under § 135(a) not only because the plain language of the statute vests this
+Court with jurisdiction but because there is live case or controversy regarding whether the
+Board’s decision is correct and, for the reasons articulated above, both Siemens and the public
+stand to be injured if the Boards’ decision is not corrected.
+If the Board must determine a properly declared interference even if a party disclaims all
+involved claims or withdraws from the interference completely, it follows that the Board must
+also reach a conclusion as to a properly declared interference when the involved patent expires
+during the pendency of the interference. Indeed, the Board decided the interference here despite
+the fact that the ‘246 patent expired several months before the Board’s decision was issued.
+Coupled with Section 146’s facial guarantee that decisions of the Board in respect of properly
+declared interferences may be reviewed in district court, it follows that a patent’s expiration does
+not strip a federal district court of jurisdiction to review the decision of the Board under 35
+U.S.C. § 146.
+To conclude otherwise would be to ignore the logical interplay between Board’s role in
+deciding interferences and the district courts’ unique role in reviewing such decisions. Section
+146 was enacted to provide a means for review of the Board’s decision in an interference, a fact
+that is apparent from the plain language of the statute and from related historical sources. As the
+Board plays a major role in its determination of interferences in “settl[ing] not only the rights
+
+-16-
+
+Case 4:10-cv-40124-FDS Document 21
+
+Filed 10/15/10 Page 22 of 26
+
+between the parties but also rights of concern to the public,” Perkins v. Kwon, 886 F.2d 325,
+328-29 (Fed. Cir. 1989), the interests of the public should not be ignored here. See also In re
+Gartside, 203 F.3d at 1310 (Board should resolve issues before it for sake of public interest).
+(b)
+
+The Expiration of Siemens’ Patent Did Not Moot the
+Errors Made By the Board In Respect of Enzo’s
+Violation of Section 135(b)(1)
+
+Even if the balance of the issues placed before this Court by Siemens’ Complaint were
+mooted by the expiration of the ‘246 patent, which, for the reasons already stated, they were not,
+Enzo’s motion must be denied for the reason, if no other, that Siemens’ claims under Section
+135(b)(1) are properly reviewable in this Court. Section 135(b)(1)7 states in relevant part: “[a]
+claim which is the same as, or for the same or substantially the same subject matter as, a claim of
+an issued patent may not be made in any application unless such a claim is made prior to one
+year from the date on which the patent was granted.” (Emphasis added.) Section 135(b)(1) is
+thus silent as to the status of the relevant patent, by comparison to Section 135(a), which
+specifies that the patent must be “unexpired” upon declaration of the interference. See Petrie, 21
+U.S.P.Q.2D (BNA) 2012. Thus, the language of these two subsections reveals that an expired
+patent can form the basis of a Section 135(b)(1) analysis. As such, the decision of the Board
+below cannot have been mooted by the expiration of the ‘246 patent.
+B.
+
+Siemens Has Stated Legally Cognizable Claims for Relief, and Enzo’s
+Rule 12(b)(6) Motion For Failure to State a Claim Must Be Denied
+
+By submitting preliminary motions, Siemens properly raised before the Board the
+priority-related issues it seeks this Court to review. Enzo’s contrary position is inaccurate and,
+
+7
+
+Because §135(b)(2) only applies to applications filed on or after November 29, 2000, this subsection does
+not apply to the ‘995 application. See Pub. L. 106-113, §4508 (1999).
+
+-17-
+
+Case 4:10-cv-40124-FDS Document 21
+
+Filed 10/15/10 Page 23 of 26
+
+therefore, its contention that Siemens failed to state a claim upon which relief can be granted
+must be rejected.
+Enzo mentions in passing in the introduction to its memorandum in support of its motion
+to dismiss that Siemens has failed to state a claim for review of the Board’s failure to address
+both “patentability” and “enforceability.” To the extent this ambiguous statement can be taken
+as directed to Siemens’ claim relating to unenforceability based on prosecution laches, Enzo has
+altogether failed to advance, develop or support the argument with either fact or law elsewhere in
+its motion papers. As a result, Enzo’s motion to dismiss Siemens’ prosecution laches claim must
+fail, and this Court should deny the motion on these grounds alone.
+Section 146 provides a right of civil action to dissatisfied parties to an interference to
+review the decisions of the Board. In Conservolite v. Widmayer, 21 F.3d 1098, 1102 (Fed. Cir.
+1994) (“Conservolite”), relied upon by Enzo, the Federal Circuit made clear that it is adequate to
+raise issues to the Board through preliminary motions:
+[i]n order for an issue to be raised adequately so that it qualifies for consideration
+in a §146 proceeding, the issue should have been raised as specified in the PTO’s
+interference rules, for example, through preliminary motions, motions to correct
+inventorship, belated motions delayed for good cause, or opposition to these
+motions.
+Id. (emphasis added) (citing Gen. Instrument Corp., Inc. v. Scientific-Atlanta, Inc., 995 F.2d 209,
+214 (Fed. Cir. 1993)). See Invitrogen Corp. v. President and Fellows of Harvard College, 578 F.
+Supp. 2d 248, 252-53 (D.Mass. 2008) (issues not “raised” before the Board are waived before
+the district court in Section 146 action) (citing Conservolite, 21 F.3d at 1102). Enzo relies on
+Conservolite for the proposition that Siemens has failed to state a legally cognizable claim for
+relief due to the fact that the Board did not “address” matters of prior art or multiple dependent
+claims and that a “complete presentation” as to these issues was not made to the Board. See Dkt.
+Entry No. 16, Enzo Mot. at 9. This is a misstatement of the law.
+-18-
+
+Case 4:10-cv-40124-FDS Document 21
+
+Filed 10/15/10 Page 24 of 26
+
+The Federal Circuit in Conservolite did not conclude that because a certain issue had not
+been “addressed” by the Board, the district court abused its discretion in considering the issue on
+Section 146 review. See Conservolite, 21 F.3d at 1102-03. Rather, it concluded that an issue
+that had not been “raised” before the Board according to the rules of the PTO could not be
+pursued by way of a 146 action. But Siemens did not raise any “new issue” in its complaint such
+that this Court is precluded from reviewing it.
+Pursuant to the rules of the PTO, Siemens filed preliminary motions as to both the prior
+art issue and the multiple dependencies issue, seeking the ability to fully develop arguments
+before the Board on these topics. See Dkt. Entry No. 1, Compl. at ¶¶27-28. Although the Board
+rejected these requests, it cannot be said that because “Siemens was not authorized” to fully
+address such issues it failed altogether to raise them. See Dkt. Entry No. 16, Enzo Mot. at 8.
+Indeed, the erroneous decision by the Board to preclude full consideration of either of these
+preliminary motions is among the issues that Siemens now requests this Court to review.
+To the extent the Board declined to “address” the issues properly raised by way of
+preliminary motions, that question is irrelevant to whether Siemens has here stated claim upon
+which relief may be granted. See id. The undisputed fact is that Siemens “raised” before the
+Board the issues it seeks this Court to review pursuant to Section 146, and, for the reasons stated
+above, this is sufficient to state a legally cognizable claim for relief. Enzo’s 12(b)(6) motion to
+dismiss should be denied.
+
+-19-
+
+Case 4:10-cv-40124-FDS Document 21
+
+V.
+
+Filed 10/15/10 Page 25 of 26
+
+CONCLUSION
+For the foregoing reasons, Enzo’s motion to dismiss must be denied in its entirety.
+
+Siemens has standing to pursue its claims before this Court, and the fact that the ‘246 patent has
+expired did not moot this case or controversy. Siemens has also satisfied its pleading obligations
+and has stated claims upon which relief may be granted.
+Dated: October 15, 2010
+
+Respectfully submitted,
+/s/ Russell J. Barron
+Russell J. Barron
+BBO # 677580
+barronr@pepperlaw.com
+William D. Belanger
+BBO #657184
+belangerw@pepperlaw.com
+Lana A. Gladstein
+BBO #648164
+gladsteinl@pepperlaw.com
+Andrew H. DeVoogd
+BBO # 670203
+devoogda@pepperlaw.com
+PEPPER HAMILTON LLP
+125 High Street - 15th Floor
+Oliver Street Tower
+Boston, Massachusetts 02110
+Telephone: 617.204.5127
+Facsimile: 617.204.5150
+
+-20-
+
+Case 4:10-cv-40124-FDS Document 21
+
+Filed 10/15/10 Page 26 of 26
+
+CERTIFICATION PURSUANT TO LOCAL RULE 7.1
+Pursuant to Local Rule 7.1(A)(2), I certify that counsel for Siemens Healthcare Diagnostics, Inc.,
+conferred with counsel for Enzo Life Sciences, Inc. (“Enzo”) and has attempted in good faith to
+resolve or narrow the issues presented by this motion.
+/s/ Russell J. Barron
+CERTIFICATE OF SERVICE
+I hereby certify that this document filed through the ECF system, will be sent electronically to
+the registered participants as identified on the Notice of Electronic Filing (NEF) and paper copies
+will be sent to those indicated as non registered participants on October 15, 2010.
+/s/ Russell J. Barron
+
+

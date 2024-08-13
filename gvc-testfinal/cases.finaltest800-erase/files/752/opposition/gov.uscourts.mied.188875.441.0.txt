@@ -1,0 +1,933 @@
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 1 of 32
+
+Pg ID 16854
+
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF MICHIGAN
+SOUTHERN DIVISION
+JACK REESE, JAMES CICHANOFSKY,
+ROGER MILLER, and GEORGE NOWLIN
+on behalf of themselves and
+a similarly situated class,
+
+Hon. Patrick J. Duggan
+Case No. 04-70592
+
+Plaintiffs,
+v.
+
+Class Action
+
+CNH INDUSTRIAL N.V. and
+CNH INDUSTRIAL AMERICA, LLC,
+Defendants.
+_________________________________________________________________/
+PLAINTIFFS’ RESPONSE BRIEF IN OPPOSITION TO
+CNH’S MOTION FOR SUMMARY JUDGMENT
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 2 of 32
+
+Pg ID 16855
+
+TABLE OF CONTENTS
+INDEX OF AUTHORITIES.................................................................................... iii
+CONCISE STATEMENT OF ISSUES PRESENTED ............................................. v
+CONTROLLING OR MOST APPROPRIATE AUTHORITY ...............................vi
+INTRODUCTION ..................................................................................................... 1
+STATEMENT OF FACTS ........................................................................................ 2
+STANDARD OF REVIEW ....................................................................................... 8
+ARGUMENT ............................................................................................................. 9
+I.
+
+THE LAW OF THE CASE DOCTRINE PRECLUDES THIS COURT FROM
+REVISITING ITS PRIOR RULING BECAUSE THAT RULING CONTINUES
+TO BE APPLICABLE. .......................................................................................... 9
+
+II.
+
+THIS COURT’S HOLDING IS IN ACCORD WITH TACKETT BECAUSE IT USED
+ORDINARY PRINCIPLES OF CONTRACT LAW WITH NO RELIANCE ON THE
+YARD-MAN INFERENCE. ................................................................................... 10
+A.
+
+This Court Applied Ordinary Principles of Contract Law
+Because It Relied on Express Contractual Language. ........................ 11
+
+B.
+
+This Court Applied Ordinary Principles of Contract Law
+Because It Examined Extrinsic Record Evidence after Relying
+on Express Contractual Language. ...................................................... 14
+
+C.
+
+This Court Applied Ordinary Principles of Contract Law
+Because It Did Not Rely on the Yard-Man Inference Rejected
+by Tackett. ........................................................................................... 17
+
+D.
+
+Contrary to CNH’s Assertion, Tackett Did Not Reset the
+Law Regarding Vesting of Retiree Healthcare Benefits. .................... 19
+
+i
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 3 of 32
+
+III.
+
+Pg ID 16856
+
+1.
+
+CNH incorrectly asserts that general durational clauses
+end all benefits on termination of the CBA even
+when extrinsic evidence evinces a contrary intent.................... 20
+
+2.
+
+CNH incorrectly asserts that explicit lifetime language
+is the only way a party can show an intent to vest.................... 21
+
+CNH’S MOTION IS UNTIMELY BECAUSE THIS COURT SHOULD WAIT
+FOR GUIDANCE FROM THE SIXTH CIRCUIT’S REVIEW OF
+TACKETT ON REMAND. ................................................................................... 23
+
+CONCLUSION
+
+................................................................................................... 24
+
+CERTIFICATE OF SERVICE ................................................................................ 25
+
+ii
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 4 of 32
+
+Pg ID 16857
+
+INDEX OF AUTHORITIES
+CASES
+Bowling v. Pfizer, Inc., 132 F.3d 1147 (6th Cir. 1998) ......................................... v, 9
+Del Valle v. BellSouth Telcomms., Inc., 200 Fed. Appx. 528 (6th Cir. 2006)......... 15
+Gascho v. Global Fitness Holdings, 918 F. Supp. 2d 708 (S.D. Ohio 2013)............ 8
+Gen. Am. Life Ins. Co. v. Anderson, 156 F.2d 615 (6th Cir. 1946) ......................... 10
+Gillig v. Advanced Cardiovascular Sys., Inc., 67 F.3d 586 (6th Cir. 1995).............. 9
+Griffin v. Mich. Dep’t of Corr., 5 F.3d 186 (6th Cir. 1993) ...................................... 9
+Hanover Ins. Co. v. Am. Eng’g Co., 105 F.3d 306 (6th Cir. 1997) ........................... 9
+In re August, 1993 Regular Grand Jury, 854 F. Supp. 1403 (S.D. Ind. 1994) ......... 8
+In re U.S. Steel Corp., 479 F.2d 489 (6th Cir. 1973) ............................................. v, 9
+Ins. Co. v. Dutcher, 95 U.S. 269 (1877) .................................................................. 14
+Kellogg Co. v. NLRB, 457 F.2d 519 (6th Cir. 1972) ............................................... 12
+Litton Fin. Printing Div. v. NLRB, 501 U.S. 190 (1991) ...................................20, 21
+M&G Polymers USA, LLC v. Tackett,
+135 S. Ct. 926 (2015) ................................ v, 1, 10, 11, 14, 17, 19, 20, 21, 22, 23, 24
+MacArthur v. Gidley, No. 13-CV-11307, 2014 U.S. Dist. LEXIS 155901,
+(E.D. Mich. Nov. 4, 2014) ......................................................................................... 8
+Price v. Bd. of Trustees of Ind. Laborer’s Pension Fund, 632 F.3d 288
+(6th Cir. 2011) .......................................................................................................... 22
+Reese v. CNH Am. LLC, 574 F.3d 315 (6th Cir. 2009) .....................1, 10, 13, 19, 23
+
+iii
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 5 of 32
+
+Pg ID 16858
+
+Reese v. CNH Global N.V., No. 04-70592, 2007 U.S. Dist. LEXIS 63670,
+(E.D. Mich. Aug. 29, 2007) ................................................................................... 1, 6
+Rodriguez-Abreu v. Chase Manhattan Bank, 986 F.2d 580 (1st Cir. 1993) ........... 15
+Smith v. Mount Pleasant Pub. Schs., 298 F. Supp. 2d 636 (E.D. Mich. 2003) ......... 8
+Sprague v. Gen. Motors Co., 133 F.3d 388 (6th Cir. 1988) ..............................22, 23
+Stolt-Nielsen S.A. v. Animal Feeds Int’l Corp., 559 U.S. 662 (2010) ..................... 11
+UAW v. Yard-Man, Inc.,
+716 F.2d 1476 (1983) ........................................ v, 1, 6, 10, 11, 17, 18, 19, 20, 22, 24
+USW v. Kelsey-Hayes Co., 750 F.3d 546 (6th Cir. 2014)........................................ 23
+Yolton v. El Paso Tenn. Pipeline Co.,
+318 F. Supp. 2d 455 (E.D. Mich. 2003)...........................................4, 5, 7, 13, 15, 16
+Yolton v. El Paso Tenn. Pipeline Co.,
+435 F.3d 571 (6th Cir. 2006) ..................................................................4, 6, 7 10, 19
+Zanghi v. Freightcar Am., Inc., No. 3:13-cv-146
+(W.D. Pa. Mar. 30, 2015)...................................................................................14, 22
+
+COURT RULES
+E. D. Mich. LR 7.1(h) ................................................................................................ 8
+Fed. R. Civ. P. 59(e)................................................................................................... 8
+
+iv
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 6 of 32
+
+Pg ID 16859
+
+CONCISE STATEMENT OF ISSUES PRESENTED
+1.
+
+Under the law of the case doctrine, a court is generally precluded from
+reexamining an issue previously decided by that court in the same case.
+Bowling v. Pfizer, Inc., 132 F.3d 1147, 1150 (6th Cir. 1998). Thus, to reverse
+an earlier ruling, a court must find that the ruling is no longer applicable. In
+re U.S. Steel Corp., 479 F.2d 489, 493-94 (6th Cir. 1973). Here, this Court’s
+ruling that CNH agreed to provide lifetime retiree healthcare benefits to
+Plaintiffs continues to be applicable. Should this Court nonetheless reverse
+this ruling?
+Defendant CNH answers “Yes.”
+Plaintiffs answer “No.”
+
+2.
+
+This Court previously held that CNH agreed to provide lifetime retiree
+healthcare benefits to Plaintiffs. This ruling was made, affirmed, made again,
+and affirmed again. In 2015, the Supreme Court rejected an inference set forth
+in UAW v. Yard-Man, Inc., 716 F.2d 1476 (1983) that parties to collective
+bargaining would intend retiree benefits to vest for life. See M&G Polymers
+USA, LLC v. Tackett, 135 S. Ct. 926 (2015). When this Court determined that
+CNH agreed to provide lifetime retiree healthcare benefits, it did not rely on
+the so-called Yard-Man inference. Rather, this Court used ordinary contract
+principles by examining the express terms of the parties’ CBA. Does Tackett
+require this Court to reverse its vesting decision?
+Defendant CNH answers “Yes.”
+Plaintiffs answer “No.”
+
+3.
+
+The issues raised in CNH’s motion will be largely clarified by the Sixth
+Circuit’s review of Tackett on remand. Is CNH’s motion timely?
+Defendant CNH answers “Yes.”
+Plaintiffs answer “No.”
+
+v
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 7 of 32
+
+Pg ID 16860
+
+CONTROLLING OR MOST APPROPRIATE AUTHORITY
+Reese v. CNH Am. LLC, 574 F.3d 315 (6th Cir. 2009).
+Reese v. CNH Global N.V., No. 04-70592, 2007 U.S. Dist. LEXIS 63670 (E.D.
+Mich. Aug. 29, 2007).
+Yolton v. El Paso Tenn. Pipeline Co., 435 F.3d 571 (6th Cir. 2006).
+Yolton v. El Paso Tenn. Pipeline Co., 318 F. Supp. 2d 455 (E.D. Mich. 2003).
+
+vi
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 8 of 32
+
+Pg ID 16861
+
+INTRODUCTION
+This Court should deny CNH’s Motion for Summary Judgment because the
+U.S. Supreme Court’s recent decision in M&G Polymers USA, LLC v. Tackett, 135
+S. Ct. 926 (2015) has no impact on the earlier holdings of this Court and the Sixth
+Circuit that CNH agreed to provide vested lifetime retiree benefits to Plaintiffs.1 In
+Tackett, the Supreme Court rejected an inference set forth in UAW v. Yard-Man,
+Inc., 716 F.2d 1476 (1983) that parties to collective bargaining would intend retiree
+benefits to vest for life. 135 S. Ct. at 935-37. CNH claims that this Court relied on
+the so-called Yard-Man inference and that its decision must therefore be reversed.
+CNH’s claim is wrong; this Court did not rely on the Yard-Man inference. Rather,
+this Court applied ordinary principles of contract law to find that the benefits vested,
+which is precisely what the Supreme Court directed the Sixth Circuit to do on
+remand in Tackett. Because this Court did not depend on the Yard-Man inference,
+the inference’s invalidity has no bearing on this case. For this reason, CNH’s Motion
+for Summary Judgment should be denied.
+
+1
+
+This Court held as such in Reese v. CNH Global N.V., No. 04-70592, 2007 U.S.
+Dist. LEXIS 63670 (E.D. Mich. Aug. 29, 2007). (Op. & Order, at 22-23, Aug. 29,
+2007, Dkt. 214.) The Sixth Circuit affirmed this holding in Reese v. CNH Am. LLC,
+574 F.3d 315 (6th Cir. 2009). Hereinafter, unless Plaintiffs state otherwise, a
+reference to this Court’s earlier holding is meant to be read as “this Court’s and the
+Sixth Circuit’s earlier holdings.”
+1
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 9 of 32
+
+Pg ID 16862
+
+STATEMENT OF FACTS
+CNH’s Statement of Undisputed Material Facts.
+CNH includes in its brief a “Statement of Undisputed Material Facts,” which
+is neither a statement of “fact” nor “undisputed.” (CNH’s Br. Supp. Mot. Summ J.,
+Feb. 24, 2015, Dkt. 439.) CNH misrepresents the history of bargaining,2 repeats its
+misrepresentations about the “Cost of Health Coverage” Letter,3 and references
+promises that CNH claims only lasted “during the term” of the CBA.4 (Id.)
+Ordinarily, this Court must be vigilant in protecting the record against
+erroneous facts. In deciding this motion, however, the Court need not look beyond
+its own decisions and the facts found in those decisions to reach the conclusion that
+nothing in the Tackett holding changes those facts or the analysis of them.
+
+2
+
+For example, CNH claims that the 2004-2005 negotiations deviated from past
+practice. (CNH’s Br. Supp. Mot. Summ J., at 3, Feb. 24, 2015, Dkt. 439.) Contrary
+to CNH’s claim, it was never the parties’ practice to “move[] existing retirees from
+each expiring GBP to the next . . . .” (Id.) Also, the UAW did not refuse to negotiate
+benefits in 2005. (Id.) Rather, UAW agreed to talk about improvements of the
+benefits, which were the only modifications UAW could bargain about on behalf of
+existing retirees. (Pls.’ Resp. to CNH’s Mot. Summ. J., at 8-9, May 14, 2014, Dkt.
+425.)
+This Court has rejected this argument. (Op. & Order, at 17, Dkt. 214) (“[T]he 1998
+Letter of Understanding simply provides that . . . the cost for health insurance
+coverage for retirees electing a non-Network option . . . will not be greater than the
+cost (if any) for the Network option. . . . It does not provide that contributions can
+be sought . . . for Network coverage once the 1998 Central Agreement expires.”)
+(See also Pls.’ Resp., at 5-7, Dkt. 425.)
+3
+
+4
+
+There is no such limiting language. Reese, 574 F.3d at 322-26.
+2
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 10 of 32
+
+Pg ID 16863
+
+1967 – 1998: UAW and CNH Negotiate Several Group Insurance Plans.
+Plaintiffs are retirees (or their surviving spouses) of a company formerly
+known as Case Corporation. (Op. & Order, at 2, Aug. 29, 2007, Dkt. 214.) The UAW
+represented Case employees in collective bargaining over several decades. (Id. at 3.)
+Specifically, since at least 1967, UAW and Case have negotiated a number of
+collective bargaining agreements (CBAs). (Id.) These include CBAs in 1971, 1974,
+1980, 1983, 1987, 1990, 1995, 1998, and 2005. (Id.) Beginning with the 1971 CBA,
+collectively bargained group insurance benefits were contained in a separate
+document called the Group Insurance Plan. (Id.)
+When the Group Insurance Plan was being negotiated in 1971, CNH’s
+Benefits Manager wrote to the retirees and explicitly stated: “Retirees and Surviving
+Spouses . . . are not required to pay a premium . . . . Instead, the coverage shall be
+fully paid by the Company.” (Pls.’ Mot. Summ. J., at 15-16, Jan. 5, 2007, Dkt. 129.)
+This letter went on to state: “If you have elected the Spouse’s Optional Form of
+Pension . . . , your spouse will be able to keep this coverage for the remainder of her
+lifetime.” (Id.)
+The language of the Group Insurance Plans remained substantially unchanged
+from 1971 through the 1998 CBAs. (Op. & Order, at 4, Dkt. 214.) With respect to
+eligibility, the Plans provide that “[e]mployees who retire under the Case
+Corporation Pension Plan . . . , or their surviving spouses eligible to receive a
+
+3
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 11 of 32
+
+Pg ID 16864
+
+spouse’s pension . . . , shall be eligible for the Group benefits . . . .” (Id.; Group Ins.
+Plan Eff. 1998, at 65-67, Feb. 24, 2015, Dkt. 439-3.)
+Starting in 1974, Case agreed to pay the full cost of healthcare benefits for
+retirees and eligible surviving spouses, regardless of age. (Id.) Thus, from that year
+onward, under a section entitled “Contribution for Coverage,” the Plans state that
+Case must pay “the full premium cost of the above coverages.” (Id.) In 1998, this
+provision was changed to read: “No contributions are required for the Health Care
+Plans, Dental Plan, Vision Plan and Hearing Plan.” (Id. at 4-5.)
+1998 – 2006: The Yolton Litigation.
+This Court and the Sixth Circuit first construed language in the parties’ Group
+Insurance Plans during the Yolton litigation. See Yolton v. El Paso Tenn. Pipeline
+Co., 318 F. Supp. 2d 455 (E.D. Mich. 2003), aff’d, 435 F.3d 571 (6th Cir. 2006).
+In these Group Insurance Plans, UAW and Case expressly conditioned
+eligibility for fully paid, post-retirement medical insurance benefits on eligibility for
+a lifetime pension benefit. 318 F. Supp. 2d at 466 (“The Group Insurance Plans
+provide that employees retiring under Case’s pension plan and surviving spouses
+eligible to receive a spouse’s pension . . . are eligible for group health insurance
+benefits”). This Court rejected CNH’s claim that the CBA’s durational clause
+prevented vesting and held that the express language in the agreements evinced an
+intent to vest retiree healthcare benefits. Id. at 468.
+
+4
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 12 of 32
+
+Pg ID 16865
+
+In holding that CNH intended the retiree benefits to vest, this Court also found
+persuasive the fact that the Group Insurance Plans contained no express durational
+limitations for retirees and their spouses while containing express durational
+limitations of these benefits for other categories of employees. Id. For example,
+active employees on layoffs or on leave were only entitled to continued group
+insurance benefits according to a specific schedule. Id. at 466-67. Similarly,
+employees on maternity leave were only entitled to benefits for up to 12 months
+following the start of their leave of absence. Id. at 467. This Court found that the
+inclusion of specific durational limitations in other provisions of the CBA shows
+that retiree benefits, which were not so specifically limited, were intended to survive.
+Id.
+Although this Court concluded that the express language in the contract was
+sufficient for it to reach its holding, this Court also determined that substantial and
+unequivocal extrinsic evidence lent further support for the Court’s conclusion. Id. at
+468. In the Court’s words, “Even if the parties’ intent were not clear based on the
+express language of the . . . agreements, Plaintiffs present substantial extrinsic
+evidence to demonstrate that the UAW and [CNH] intended to provide retirees and
+surviving spouses fully funded, lifetime health insurance benefits.” Id. This extrinsic
+evidence included statements made by CNH’s Labor Relations Manager to class
+members that “in retirement, they would have company paid health care coverage
+
+5
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 13 of 32
+
+Pg ID 16866
+
+for the rest of their lives[,] and . . . the [surviving] spouse would also have fully paid
+health care coverage for his or her life or until their remarriage.” Id. at 469.
+The Sixth Circuit affirmed, noting that this Court did “not in any sense rely
+on [the Yard-Man] inference.” 435 F.3d at 580. According to the Sixth Circuit, this
+Court instead “interpreted the language of the agreement and found evidence that
+the defendants intended to confer lifetime benefits upon the plaintiffs.” Id. The Sixth
+Circuit then approved this Court’s interpretation of that language. Id. at 584 (“[T]he
+district court correctly interpreted the plain language of the CBAs and Group
+Insurance Plans as well as the agreement as a whole”) (emphasis added). While the
+Sixth Circuit concluded that extrinsic evidence lent additional support of vesting, it
+also concluded that the extrinsic evidence was not necessary to its ruling. Id. Thus,
+like this Court, the Sixth Circuit found the “plain language of the CBAs and Group
+Insurance Plans” sufficient to show that CNH intended to agree to provide vested
+lifetime retiree healthcare benefits to Plaintiffs. Id.
+2004 – 2009: The Reese Litigation.
+In Reese, this Court once again was called upon to construe language in the
+parties’ Group Insurance Plans to determine whether CNH agreed to provide vested
+lifetime retiree healthcare benefits to Plaintiffs. (Op. & Order, at 11, Dkt. 214.)
+In granting summary judgment to Plaintiffs and holding that CNH had agreed
+to provide vested lifetime retiree healthcare benefits, this Court noted that the
+
+6
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 14 of 32
+
+Pg ID 16867
+
+“relevant provisions in [the CBA] . . . at issue in this case are substantially identical
+to the provisions this Court and the Sixth Circuit evaluated in Yolton.” (Id. at 13.)
+By analyzing the same contractual language analyzed in Yolton, this Court
+concluded that CNH intended to agree to provide vested lifetime retiree healthcare
+benefits:
+The Group Benefit Plans in this case state that retired employees or
+their surviving spouses . . . ‘shall be eligible for the Group benefits . .
+.’ and that ‘no contributions’ for coverage are required—meaning that
+the employer is responsible for the full premium or subscription charge.
+. . . Contrary to Defendants’ assertion, this language speaks directly to
+duration: as long as the employee or surviving spouse is eligible to
+receive a pension (which is presumed to be a lifetime benefit).
+(Id. at 14.)
+CNH appealed, and the Sixth Circuit “g[a]ve fresh review to the district
+court’s summary judgment ruling” and “dr[e]w all factual inferences in favor of . . .
+CNH.” 574 F.3d at 321. On this fresh review, the Sixth Circuit affirmed this Court’s
+ruling that “the plain language of the contract conveyed an intent to grant lifetime
+retiree health insurance coverage to retirees.” Id. (internal quotation marks omitted).
+
+7
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 15 of 32
+
+Pg ID 16868
+
+STANDARD OF REVIEW
+Defendant labels its motion a “Motion for Summary Judgment,” but in reality,
+Defendant has filed a motion for reconsideration pursuant to Local Rule 7.1(h). See
+E. D. Mich. LR 7.1(h).
+Courts reject motions for reconsideration that simply attempt to re-hash old
+arguments. See E. D. Mich. LR 7.1(h)(3) (“[T]he court will not grant motions for
+rehearing or reconsideration that merely present the same issues ruled upon by the
+court, either expressly or by reasonable implication”); Smith v. Mount Pleasant Pub.
+Schs., 298 F. Supp. 2d 636, 637 (E.D. Mich. 2003) (“[A] motion for reconsideration
+is not properly used as a vehicle to re-hash old arguments . . .”). See also Fed. R.
+Civ. P. 59(e).
+Because motions for reconsideration conflict with notions of finality and
+repose, courts are particularly reluctant to grant them. See MacArthur v. Gidley, No.
+13-CV-11307, 2014 U.S. Dist. LEXIS 155901, at *4 (E.D. Mich. Nov. 4, 2014) (“A
+motion to alter or reconsider a judgment is an extraordinary remedy and should be
+granted sparingly”); Gascho v. Global Fitness Holdings, 918 F. Supp. 2d 708, 714
+(S.D. Ohio 2013) (“[A motion for reconsideration] is extraordinary and is seldom
+granted because it contradicts notions of finality and repose”); In re August, 1993
+Regular Grand Jury, 854 F. Supp. 1403, 1406 (S.D. Ind. 1994) (“[M]otions to
+
+8
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 16 of 32
+
+Pg ID 16869
+
+reconsider are extraordinary in nature and, because they run contrary to notions of
+finality and repose, should be discouraged”).
+ARGUMENT
+I.
+
+THE LAW OF THE CASE DOCTRINE PRECLUDES THIS COURT FROM
+REVISITING ITS PRIOR RULING BECAUSE THAT RULING CONTINUES TO BE
+APPLICABLE.
+The law of the case doctrine precludes this Court from revisiting its earlier
+
+ruling that CNH agreed to provide vested lifetime retiree healthcare benefits to
+Plaintiffs. Under the law of the case doctrine, a court is generally precluded from
+reexamining an issue previously decided by that court in the same case. See Bowling
+v. Pfizer, Inc., 132 F.3d 1147, 1150 (6th Cir. 1998) (“Under the law of the case
+doctrine, a court is ordinarily precluded from reexamining an issue previously
+decided by the same court, or a higher court in the same case”); Hanover Ins. Co. v.
+Am. Eng’g Co., 105 F.3d 306, 311 (6th Cir. 1997) (“The ‘law of the case’ doctrine
+precludes a court from reconsideration of identical issues”) (internal quotation marks
+omitted); Griffin v. Mich. Dep’t of Corr., 5 F.3d 186, 190 (6th Cir. 1993).
+Pursuant to this doctrine, a court’s power to reach a result that is inconsistent
+with a prior decision in the same case should be exercised sparingly and only under
+extraordinary conditions. See Gillig v. Advanced Cardiovascular Sys., Inc., 67 F.3d
+586, 589-90 (6th Cir. 1995); In re U.S. Steel Corp., 479 F.2d 489, 493-94 (6th Cir.
+1973) (To reverse an earlier ruling, courts “must find some cogent reason to show
+
+9
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 17 of 32
+
+Pg ID 16870
+
+the prior ruling is no longer applicable . . . [such as] a clearly erroneous decision
+which would work a manifest injustice”); Gen. Am. Life Ins. Co. v. Anderson, 156
+F.2d 615, 619 (6th Cir. 1946).
+Here, CNH relies on the Supreme Court’s holding in Tackett to argue that its
+motion should be granted despite the law of the case doctrine. (CNH’s Br., at 1, Dkt.
+439.) However, what the Supreme Court in Tackett directed the Sixth Circuit to do
+on remand is precisely what this Court already did several years ago: Apply ordinary
+principles of contract law to determine whether the parties’ CBA created a vested
+right to retiree benefits without reliance on an inference in favor of either side. (Op.
+& Order, at 19-22, Dkt. 214.) See also Reese, 574 F.3d at 321; Yolton, 435 F.3d at
+580. Because this Court has already ruled, it should apply the law of the case doctrine
+and deny CNH’s motion.
+II.
+
+THIS COURT’S HOLDING IS IN ACCORD WITH TACKETT BECAUSE IT USED
+ORDINARY PRINCIPLES OF CONTRACT LAW WITH NO RELIANCE ON THE
+YARD-MAN INFERENCE.
+This Court’s holding is in accord with Tackett because its holding was based
+
+on ordinary principles of contract law without reliance on the Yard-Man inference.
+Courts must use ordinary contract law principles when interpreting CBAs. See
+Tackett, 135 S. Ct. at 933 (“We interpret [CBAs] . . . according to ordinary principles
+of contract law, at least when those principles are not inconsistent with federal labor
+policy”).
+
+10
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 18 of 32
+
+Pg ID 16871
+
+Under ordinary contract law principles, the parties’ intentions are controlling.
+See Stolt-Nielsen S.A. v. Animal Feeds Int’l Corp., 559 U.S. 662, 682 (2010). To
+discern the parties’ intentions, courts must look first at unambiguous contractual
+language and second to extrinsic record evidence; courts must stick to this two-step
+approach and cannot rely on an inference that places a thumb on the scale for either
+side. Tackett, 135 S. Ct. at 933-35.
+In our case, this Court followed ordinary contract law principles by (1) relying
+on express contractual language, (2) examining extrinsic evidence and noting that it
+conformed with the intent evinced by the express language, and (3) not relying on
+the Yard-Man inference. (Op. & Order, at 19-22, Dkt. 214.) Thus, this Court’s
+holding is consistent with Tackett and should not be reversed.
+A.
+
+This Court Applied Ordinary Principles of Contract Law Because
+It Relied on Express Contractual Language.
+
+This Court applied ordinary principles of contract law because it relied on
+express contractual language to conclude that CNH agreed to provide vested lifetime
+retiree healthcare benefits to Plaintiffs. Under ordinary principles of contract law,
+courts must interpret CBAs by looking first and foremost to the written terms of the
+CBA itself. See Tackett, 135 S. Ct. at 933.
+If the written terms of a contract are unambiguous, then courts must interpret
+the meaning of the contract in accordance with those express terms. Id. (“Where the
+
+11
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 19 of 32
+
+Pg ID 16872
+
+words of a contract in writing are clear and unambiguous, its meaning is to be
+ascertained in accordance with its plainly expressed intent”).
+The concept that courts should first look to the express written terms of the
+parties’ agreement is not a novel one; contrary to CNH’s assertion, the concept has
+been a well-established principle of contract law for decades. See 11 Williston on
+Contracts § 30:6 (4th Ed.) (“Where the words of a contract in writing are clear and
+unambiguous, its meaning is to be ascertained in accordance with its plainly
+expressed intent”); Kellogg Co. v. NLRB, 457 F.2d 519, 524 (6th Cir. 1972) (“The
+intent is to be determined by the words of the contract when they are clear and
+explicit . . .”).
+Here, this Court understood and conformed to this principle. (Op. & Order, at
+13, Dkt. 214) (“[T]he court should first look to the explicit language of the [CBA]
+for clear manifestations of intent.”) After articulating the concept, this Court then
+followed it by relying on express contractual language to conclude that CNH agreed
+to provide vested lifetime retiree healthcare benefits to Plaintiffs. (Id. at 22-23) (“The
+Court concludes that the plain language of the relevant agreements . . . demonstrates
+[CNH’s] and the UAW’s intent to grant lifetime retiree health insurance coverage to
+retirees and surviving spouses of retirees who are eligible for or are receiving a
+pension.”)
+
+12
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 20 of 32
+
+Pg ID 16873
+
+Specifically, this Court relied on the fact that the CBA at issue explicitly states
+that “[e]mployees who retire under the Case Corporation Pension Plan . . . , or their
+surviving spouses eligible to receive a spouse’s pension . . . , shall be eligible for the
+Group benefits . . . .” (Op. & Order, at 4, Dkt. 214; Group Ins. Plan, at 65, Dkt. 4393.) As this Court explained, the CBA then states that, with regard to these group
+benefits, “[n]o contributions are required for the Health Care Plans, Dental Plan,
+Vision Plan and Hearing Plan.” (Op. & Order, at 4-5, Dkt. 214; Group Ins. Plan, at
+67, Dkt. 439-3.) Thus, as long as these surviving spouses continue to receive a
+company pension, then CNH must continue paying the full premium cost of their
+medical insurance coverage. (Op. & Order, at 22, Dkt. 214; Group Ins. Plan, at 6567, Dkt. 439-3.) This Court also relied on express language tying the benefits to
+receipt of a pension such that the CBA’s expiration did not trigger an expiration of
+benefits. (Op. & Order, at 18, Dkt. 214). Finally, other contractual provisions support
+a conclusion that the parties intended to vest retiree healthcare benefits—e.g., the
+fact that other benefits were specifically limited. (Id. at 17.) See also Yolton, 318 F.
+Supp. 2d at 466-67.
+The Sixth Circuit confirmed that this Court looked to the written terms of the
+CBA to hold that CNH agreed to provide vested lifetime retiree healthcare benefits
+to Plaintiffs. Reese, 574 F.3d at 321 (“[W]e give fresh review to the district court’s
+
+13
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 21 of 32
+
+Pg ID 16874
+
+summary judgment ruling—that the ‘plain language’ of the contract conveyed an
+‘intent to grant lifetime retiree health insurance coverage to retirees,’ . . . ”).
+B.
+
+This Court Applied Ordinary Principles of Contract Law Because
+It Examined Extrinsic Record Evidence after Relying on Express
+Contractual Language.
+
+This Court applied ordinary principles of contract law because, after
+concluding that the contract expression was sufficient to vest the benefits, the Court
+went on to find that extrinsic evidence supported vesting even if the contract was
+ambiguous. When contractual language does not show an express intent, traditional
+principles of contract law require courts to examine extrinsic evidence as the means
+for determining the parties’ intent. See Tackett, 135 S. Ct. at 935 (explaining that a
+court may derive its assessment of likely behavior from record evidence); 135 S. Ct.
+at 938 (Ginsburg, J., concurring) (“[W]hen the contract is ambiguous, a court may
+consider extrinsic evidence to determine the intentions of the parties”); Zanghi v.
+Freightcar Am., Inc., No. 3:13-cv-146, at 46 (W.D. Pa. Mar. 30, 2015) (“The parties’
+[CBAs] are ambiguous . . . . Thus, . . . the Court may look to extrinsic evidence to
+determine the intentions of the parties”).
+The concept that courts should use extrinsic record evidence as a means of
+discerning the parties’ intent when the contract terms are ambiguous is not new; this
+concept has been a well-established principle of contract law for over 100 years. See
+Ins. Co. v. Dutcher, 95 U.S. 269, 273 (1877) (“There is no surer way to find out what
+
+14
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 22 of 32
+
+Pg ID 16875
+
+the parties meant, than to see what they have done”); Del Valle v. BellSouth
+Telcomms., Inc., 200 Fed. Appx. 528, 534-35 (6th Cir. 2006) (holding that the
+district court properly considered extrinsic record evidence to verify the parties’
+intent); Rodriguez-Abreu v. Chase Manhattan Bank, 986 F.2d 580, 586 (1st Cir.
+1993) (“If the language of the contract is ambiguous, we turn to surrounding
+circumstances, undisputed extrinsic evidence, to divine the parties’ intent”); 11
+Williston on Contracts § 30:7 (4th ed.) (explaining that, when a written contract is
+ambiguous, “relevant extrinsic evidence of the parties’ intent” should be
+considered).
+In our case, while this Court relied on express contractual language, the Court
+also found that extrinsic evidence confirmed that CNH agreed to provide vested
+lifetime retiree benefits. (Op. & Order, at 22, Dkt. 214). First, CNH and UAW
+repeatedly referred to the disputed benefits as being vested for life. Yolton, 318 F.
+Supp. 2d at 468-70. From 1971 through 2002, CNH benefit representatives
+consistently and unequivocally informed retiring employees, retirees, and surviving
+spouses that they were entitled to “continued,” “free,” and “unchanged” healthcare
+benefits “at no cost” for their “lifetime.” Id. at 469. (See also Pls.’ Mot., at 14-27,
+Dkt. 129.)
+Second, the 1995 CBA contained a side letter (a/k/a, a “Cap Letter”) that had
+specific dollar caps on CNH’s future obligation for retiree health benefits. (Op. &
+
+15
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 23 of 32
+
+Pg ID 16876
+
+Order, at 18-19, Dkt. 214.) Importantly, after El Paso notified Yolton retirees that it
+intended to impose the caps and require premium contributions, UAW insisted and
+CNH agreed to eliminate the Cap Letter during the 1998 CBA negotiations. (Id. at
+6.) By doing so, CNH acknowledged an unlimited liability for future healthcare
+costs. (Id. at 4-7; Pls.’ Mot., at 12-15, Dkt. 129.)
+Third, when the retiree benefits were negotiated in 1971 with the operative
+contract language—language that remained unchanged through the 1998 CBAs—
+the company’s Benefits Manager wrote to the retirees and told them what the
+company had agreed to do for them. (Pls.’ Mot., at 15-16, Dkt. 129.) In this letter,
+he explicitly stated: “Retirees and Surviving Spouses . . . are not required to pay a
+premium, either for themselves or any dependent. Instead, the coverage shall be fully
+paid by the Company.” (Id. at 16.) Furthermore, this letter went on to state: “If you
+have elected the Spouse’s Optional Form of Pension . . . , your spouse will be able
+to keep this coverage for the remainder of her lifetime.” (Id.)
+Fourth, before the East Moline plant closed in 2004, CNH and UAW entered
+into a plant closing agreement. (Op. & Order, at 7, Dkt. 214.) The parties negotiated
+four types of closing benefits options, one of which was the “Special Early
+Retirement Option.” (East Moline Shutdown Agmt., at 14, Sept. 7, 2010, Dkt. 2902.) The Special Early Retirement Option stated that “[t]he economic closedown
+benefits and the eligibility rules . . . set forth in this Shutdown Agreement shall not
+
+16
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 24 of 32
+
+Pg ID 16877
+
+be altered by any subsequent agreements in any future negotiations.” (Id. at 19.) This
+Court held that retiree healthcare was one of the economic closedown benefits, citing
+to specific provisions of the Shutdown Agreement where retiree insurance benefits
+were expressly included as economic closedown benefits. (Op. & Order, at 7-8, Dkt.
+214.) The fact that the parties intended the healthcare benefits to continue without
+modification despite the plant closing is evidence of the parties’ intent to vest
+benefits for life as part of the ordinary course of conduct. (Pls.’ Mot., at 27-30, Dkt.
+129.)
+Finally, there is a wealth of additional extrinsic evidence in the form of CNH’s
+own actions and words for over twenty-five years showing exactly what CNH
+intended. (Id. at 12-30.)
+C.
+
+This Court Applied Ordinary Principles of Contract Law Because
+It Did Not Rely on the Yard-Man Inference Rejected by Tackett.
+
+This Court applied ordinary principles of contract law because it completed
+the two-step approach discussed above without relying on the Yard-Man inference.
+The Supreme Court held in Tackett that courts cannot, when confronted with
+ambiguous contractual language and a dearth of extrinsic record evidence, rely on
+the inference approved of in Yard-Man. See 135 S. Ct. at 935 (vacating the Sixth
+Circuit’s ruling because it was based on the Yard-Man inference that placed a thumb
+on the scale in favor of vesting). Specifically, the Supreme Court stated: “[T]he Sixth
+Circuit sided with the retirees, relying on its conclusion in [Yard-Man] that retiree
+17
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 25 of 32
+
+Pg ID 16878
+
+health care benefits are unlikely to be left up to future negotiations. We . . . conclude
+that such reasoning is incompatible with ordinary principles of contract law.” Id.
+The Yard-Man court created and applied an inference in favor of vesting
+because the contractual language at issue was ambiguous and there was no extrinsic
+evidence of intent on which to rely. In scenarios where the contractual language is
+unambiguous or where extrinsic record evidence sufficiently demonstrates intent,
+the Yard-Man inference is not implicated. Thus, in Yard-Man, the parties chose to
+rely exclusively on the contractual terms without presenting any extrinsic evidence
+of intent. Id. at 1480 n.1. The problem was that the Sixth Circuit determined that the
+contract terms were ambiguous. Id. at 1480. Faced with an ambiguous CBA and no
+extrinsic evidence, the Sixth Circuit relied on the inference as a tie-breaker. Id. at
+1482 (“[I]t is unlikely that such benefits, which are typically understood as a form
+of delayed compensation . . . , would be left to the contingencies of future
+negotiations”).
+In our case, this Court did not rely on the Yard-Man inference to determine
+that CNH agreed to provide vested lifetime retiree healthcare benefits to Plaintiffs.
+(Op. & Order, at 22-23, Dkt. 214.) Rather, this Court relied on the plain language of
+CNH’s agreement, which was supported by extrinsic evidence. (Id.) (“The Court
+concludes that the plain language of the relevant agreements, as further supported
+by extrinsic evidence, demonstrates [CNH’s] and the UAW’s intent to grant lifetime
+
+18
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 26 of 32
+
+Pg ID 16879
+
+retiree health insurance coverage to retirees and surviving spouses of retirees who
+are eligible for or are receiving a pension.”)
+The Sixth Circuit in this case verified that this Court relied not on the YardMan inference but on the CBA’s written terms. See Reese, 574 F.3d at 321 (“[W]e
+give fresh review to the district court’s summary judgment ruling—that the ‘plain
+language’ of the contract conveyed an ‘intent to grant lifetime retiree health
+insurance coverage to retirees,’ . . . ”). Indeed, the Sixth Circuit explained that this
+Court specifically chose not to rely on the Yard-Man inference. See Yolton, 435 F.3d
+at 580 (“[T]he court’s analysis does not in any sense rely on an inference”).
+D.
+
+Contrary to CNH’s Assertion, Tackett Did Not Reset the Law
+Regarding Vesting of Retiree Healthcare Benefits.
+
+CNH mischaracterizes Tackett as resetting the law on vesting of retiree
+healthcare benefits. (CNH’s Br., at 4, Dkt. 439.) As part of this mischaracterization,
+CNH sets forth a number of purported “rules of construction that must now govern
+construction of CBAs.” (Id. at 6.) These alleged rules are not rules at all, and most
+of them do not even bear any relation to this case.5 Two of these “rules,” however,
+require further discussion.
+
+First, CNH points out that the Supreme Court stated that “[p]arties . . . can and do
+voluntarily agree to make retiree benefits a subject of mandatory collective
+bargaining.” (CNH’s Br., at 6, Dkt. 439.) This statement is irrelevant because, in our
+case, no one claims that retiree benefits were a mandatory bargaining subject. (Id.)
+Second, CNH points out that the Supreme Court stated that “retiree health care
+benefits are not a form of deferred compensation” under ERISA. (Id.) The problem
+5
+
+19
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 27 of 32
+
+1.
+
+Pg ID 16880
+
+CNH incorrectly asserts that general durational clauses end
+all benefits on termination of the CBA even when extrinsic
+evidence evinces a contrary intent.
+
+First, CNH incorrectly asserts that a general durational clause will end all
+benefits on termination of the CBA even when extrinsic evidence demonstrates an
+intent to continue those benefits. (Id. at 9-10.) In reality, because the parties’ intent
+is dispositive for contract interpretation, if evidence shows an intent to continue the
+retiree benefits beyond the life of the agreement, then courts are obligated to adhere
+to that intent. See Tackett, 135 S. Ct. at 937 (explaining that, while contractual
+obligations might usually cease upon termination of a CBA, such a principle “does
+not preclude the conclusion that the parties intended to vest lifetime benefits for
+retirees”).
+Indeed, as a general rule, the expiration of a CBA will not end obligations
+accrued under the contract that have not yet been satisfied. Id. (holding that a CBA
+may provide that certain benefits continue after the agreement’s expiration) (citing
+Litton Fin. Printing Div. v. NLRB, 501 U.S. 190 (1991)); Litton, 501 U.S. at 206-07
+(holding that post-expiration rights may arise from the terms of the CBA and that
+
+is that the Supreme Court did not hold that this is now a rule of construction. Tackett,
+135 S. Ct. at 936. Rather, the Supreme Court discussed deferred compensation
+simply as a means of explaining the shortcomings of the Yard-Man inference. Id. In
+our case, this Court never suggested that it viewed retiree benefits as a form of
+deferred compensation. (Op. & Order, Dkt. 214.) Furthermore, ERISA cannot
+govern the intent of parties who negotiated the original contract language under
+review in 1971—five years before ERISA even existed (in 1976). (Id. at 4.)
+20
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 28 of 32
+
+Pg ID 16881
+
+whether obligations survive a contract’s expiration is determined by contract
+interpretation). Thus, in Litton, which was cited to and approved by the Tackett
+decision, the Supreme Court explained that a CBA’s expiration does not end
+“obligations already fixed under the contract but as yet unsatisfied.” 501 U.S. at 206.
+In the Supreme Court’s words: “Rights which accrued or vested under the agreement
+will, as a general rule, survive termination of the agreement.” Id. at 207.
+2.
+
+CNH incorrectly asserts that explicit lifetime language is the
+only way a party can show an intent to vest.
+
+CNH incorrectly asserts that, if a contract is silent as to the duration of retiree
+benefits, then courts are not allowed to find that the parties intended those benefits
+to vest for life. (CNH’s Br., at 2, Dkt. 439.) First, as a factual matter, CNH’s assertion
+is beside the point because the CBA at issue in our case does contain express
+language demonstrating an intent to vest. (Op. & Order, at 4-5, 22, Dkt. 214.)
+Second, as a legal matter, contractual obligations (such as lifetime vesting)
+may arise due to the express or implied terms of the agreement. Tackett, 135 S. Ct.
+at 937-38 (Ginsburg, J., concurring) (“[N]o rule requires clear and express language
+in order to show that parties intended health-care benefits to vest. Constraints upon
+the employer after the expiration date of a [CBA] . . . may . . . arise from implied
+terms of the expired [CBA]”) (internal quotation marks and citation omitted); Litton,
+501 U.S. at 206-07 (holding that post-expiration rights may “arise from the express
+or implied terms of the agreement itself”) (emphasis added).
+21
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 29 of 32
+
+Pg ID 16882
+
+Said differently, Tackett teaches that contractual ambiguity cannot be resolved
+by a judicially mandated inference and that courts must instead look to actual
+evidence to determine the parties’ intent to vest. See Tackett, 135 S. Ct. at 937. Thus,
+in Tackett, the contract at issue lacked a specific durational clause for retiree benefits,
+and the Supreme Court nevertheless remanded the case to allow the Sixth Circuit to
+apply ordinary rules of contract law. Id. If the Supreme Court believed that an
+express term granting lifetime benefits was necessary, then the absence of one in
+Tackett would have been dispositive and there would have been no reason to remand
+the case. Id. See also Zanghi, No. 3:13-cv-146, at 46 (“The parties’ [CBAs] are
+ambiguous . . . . Thus, . . . the Court may look to extrinsic evidence to determine the
+intentions of the parties”).
+CNH supports its misreading of Tackett by relying on Sprague v. Gen. Motors
+Co., 133 F.3d 388 (6th Cir. 1988). The problem is that Tackett does not hold that
+the standard enunciated in Sprague applies to the interpretation of CBAs. 135 S. Ct.
+at 937. Rather, Tackett merely notes the standard’s inconsistency with the Yard-Man
+inference. Id. See also Price v. Bd. of Trustees of Ind. Laborer’s Pension Fund, 632
+F.3d 288, 294 (6th Cir. 2011) (finding the Yard-Man inference inapplicable to
+disability pension benefits and that Sprague does not apply to collectively bargained
+benefits).
+
+22
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 30 of 32
+
+Pg ID 16883
+
+Finally, CNH made this argument before, and it was squarely rejected by the
+Sixth Circuit. Reese, 574 F.3d at 329 (“CNH insists that, if the retirees had [sued] .
+. . under ERISA, the Sprague standard would have applied, and the retirees would
+have lost because they would not have been able to point to ‘clear and express
+language’ . . . . This argument begins from a false premise . . . [because] Sprague is
+limited to cases in which an employer unilaterally instituted a retiree benefit
+program”) (internal citation and quotation marks omitted).
+III.
+
+CNH’S MOTION IS UNTIMELY BECAUSE THIS COURT SHOULD WAIT FOR
+GUIDANCE FROM THE SIXTH CIRCUIT’S REVIEW OF TACKETT ON REMAND.
+To the extent that this Court has concerns over the impact of Tackett on the
+
+issue of vesting, this Court should wait for guidance from the Sixth Circuit’s review
+of Tackett on remand.
+Here, the Sixth Circuit will (and should) have the first opportunity to
+determine the impact of the Tackett decision, in Tackett. 135 S. Ct. at 930. The Sixth
+Circuit will also be examining this issue in another matter that is currently stayed
+pending the outcome in Tackett. See USW v. Kelsey-Hayes Co., 750 F.3d 546 (6th
+Cir. 2014). The first round of briefing in Tackett on remand is due on April 17, 2015.
+Given that the Sixth Circuit will be reviewing the legal issues raised in CNH’s
+motion relatively soon, it would be inefficient for this Court to spend judicial
+resources to preemptively determine what the Sixth Circuit will do.
+
+23
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 31 of 32
+
+Pg ID 16884
+
+CONCLUSION
+What the Supreme Court in Tackett directed the Sixth Circuit to do on remand
+is precisely what this Court already did several years ago: Apply ordinary principles
+of contract law to determine whether the parties’ CBA created a vested right to
+retiree benefits without reliance on an inference in favor of either side. Because the
+language in CNH’s CBA with UAW expressly vested the benefits, this Court had no
+need to venture beyond the contract terms and tread into the now-extinct territory of
+the Yard-Man inference. And since this Court did not rely on the Yard-Man inference
+rejected in Tackett, there is no basis for reaching back through two Sixth Circuit
+decisions and two opinions of this Court to upset the established law of this case.
+For this reason, Plaintiffs request that this Court deny CNH’s Motion for Summary
+Judgment.
+
+Respectfully submitted,
+McKNIGHT, McCLOW, CANZANO,
+SMITH & RADTKE, P.C.
+By:/s/Darcie R. Brault
+David R. Radtke (P47016)
+Darcie R. Brault (P43864)
+Attorneys for Class Plaintiffs
+400 Galleria Officentre, Suite 117
+Southfield, MI 48034
+(248) 354-9650
+dbrault@michworklaw.com
+April 3, 2015
+
+24
+
+2:04-cv-70592-PJD-PJK Doc # 441 Filed 04/03/15 Pg 32 of 32
+
+Pg ID 16885
+
+CERTIFICATE OF SERVICE
+I hereby certify that on April 3, 2015 I electronically filed the foregoing paper
+with the Clerk of the Court using the ECF system which will serve it on all parties.
+
+Respectfully submitted,
+McKNIGHT, McCLOW, CANZANO,
+SMITH & RADTKE, P.C.
+By: /s/Darcie R. Brault
+Darcie R. Brault (P43864)
+Attorneys for Plaintiffs
+400 Galleria Officentre, Suite 117
+Southfield, MI 48034
+(248) 354-9650
+dbrault@michworklaw.com
+
+P:\RHC Cases\Case Corp\Case - Reese litigation\Pleadings\Pl's Resp to CNH's MSJ 2015.docx
+
+25
+
+

@@ -1,0 +1,1193 @@
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 1 of 31
+UNITED STATES DISTRICT COURT
+DISTRICT OF MARYLAND
+CASE NO. 8:11-cv-01772-AW
+PATRICK COLLINS, INC.
+Plaintiff,
+v.
+JOHN DOES 1-22,
+Defendants.
+PLAINTIFF’S MEMORANDUM IN OPPOSITION TO DOE # 20’s MOTION TO
+DISMISS AND MOTION TO SEVER AND QUASH
+I.
+
+INTRODUCTION
+“[T]he overwhelming majority of courts have denied as premature motions to sever prior
+
+to discovery” of the identities of the Doe Defendants being obtained by Plaintiff in BitTorrent
+cases. First Time Videos, LLC v. Does 1-76, --- F.R.D. ----, 2011 WL 3586245 (N.D. IL 2011)
+(citing a long list of cases).
+
+Joinder in BitTorrent copyright infringement cases has been
+
+thoroughly analyzed in over thirty reported opinions and has been universally permitted where, as
+here: (a) the complaint clearly explains how BitTorrent works through a series of transactions, (b)
+all of the defendants live in the district (eliminating long-arm issues and venue), (c) all of the
+defendants were part of the same exact swarm of peer infringers as evidenced by a unique
+cryptographic hash value, and (d) Plaintiff pled that the Defendants’ are contributorily liable for
+each others’ infringement. Since Joinder is permissive, even when proper, Plaintiff devotes the
+first half of this memorandum to explaining the facts supporting why joinder should be permitted.
+The second half of the memorandum explains why joinder is clearly proper under the decisional
+authority of every district court which has addressed the issue in the country.
+
+1
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 2 of 31
+II.
+
+FACTS
+A.
+
+Plaintiff Has A Serious Problem With On-Line Infringment
+
+Plaintiff works hard on its movies which contain a significant amount of creativity.
+
+From
+
+reports received by Plaintiff’s investigator, IPP Limited, undersigned knows that Plaintiff’s
+movies are being illegally downloaded through the BitTorrent peer-to-peer file sharing protocol
+by people residing in the U.S. well over 100,000 times a month. Indeed, the adult entertainment
+industry has been particularly hard hit by the online infringement of its copyrights. According to
+a Miami New Times survey, thirty two percent (32%) of respondents admit to illegally
+downloading their adult movies. 1 Faced with this massive amount of infringement, Plaintiff is
+justifiably concerned that unless it fights on-line piracy, people will come to learn that they can
+infringe Plaintiff’s copyrights with impunity. If that happens, Plaintiff’s business may fail: to use
+BitTorrent jargon, while one bee sting hurts, a “swarm” of bees can kill you. 2
+B.
+
+The Executive Branch, Congress, Federal Courts And Copyright Owners Are
+All Very Concerned With The Jobs And Money Lost From Online Piracy
+
+On June 22, 2010, Vice President Biden, speaking for the Executive Branch, said of online piracy “[t]his is theft, clear and simple.” 3 "It's smash and grab, no different than a guy
+walking down Fifth Avenue and smashing the window at Tiffany's and reaching in and grabbing
+what's in the window." Id. “[O]n February 16, 2011, the Senate Judiciary Committee, led by
+Chairman Patrick Leahy (D-Vt.), held a hearing . . . about the growing problem of online
+infringement. . . .” 4 Leahy said “[t]he problem of online infringement is real; it is substantial; and
+it is a drain on our economy, which costs American jobs.” Id. He continued “[c]opyright piracy
+and the sale of counterfeit goods are reported to cost the American economy billions of dollars
+annually and hundreds of thousands of lost jobs.” Id.
+1
+
+Regarding jobs, in Suntrust Bank v.
+
+See http://business.avn.com/articles/video/Miami-New-Times-Releases-Sex-Survey-Results-447237.html
+Peers sharing data using BitTorrent are referred to as a “swarm.”
+3
+See http://www.reuters.com/article/2010/06/22/us-usa-trade-web-idUSTRE65L3YN20100622
+4
+See http://www.techzone360.com/news/2011/02/16/5318701.htm.
+2
+
+2
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 3 of 31
+Houghton, 268 F.3d 1257, 1260-63 (11th Cir. 2001), the Eleventh Circuit explaining the history
+and purposes of the Copyright Act stated that “[t]his limited grant [a copyright] ‘is intended to
+motivate the creative activity of authors ... by the provision of a special reward.” Right now – the
+public policy underlying copyright law is at risk insofar as the anticipated infringement of
+Plaintiff’s works is discouraging it and other movie studios from investing in new works. This not
+only costs jobs, it deprives people of the ability to watch movies they would otherwise enjoy.
+"It is especially critical that the United States has an effective framework for protecting
+creative content online and enforcing intellectual property rights in the digital environment" said
+Bob Pisano, interim chief executive officer at the Motion Picture Association of America. 5 As
+explained below, short of a declaration of war against innumerable countries offering sanctuary to
+professional digital pirates, without joinder in on-line copyright cases, our country does not have
+an effective tool for combating the enormous amount of on-line piracy committed here.
+C.
+
+The Internet Creates A Unique Moral Hazard For File Sharers
+
+By now, U.S. citizens know or should know that file sharing is illegal. Online piracy
+started to seep into the public consciousness a decade ago when Napster, a prominent peer-to-peer
+internet system for sharing music, with much publicity, was held liable for contributory
+infringement and vicarious copyright infringement. See A&M Records, Inc. v. Napster, Inc., 239
+F.3d 1004 (2001). To avoid a claim for contributory infringement, in 2001, contemporaneously
+with Napster’s demise, Grokster, a company that studied the Napster decision, introduced
+software and a system intentionally designed so that Grokster could not tell what was being shared
+among and between its users. Groskter promoted itself as Napster’s replacement; its efforts led to
+MGM Studios, Inc. v. Grokster, Ltd. 545 U.S. 913 (2005) wherein the United States Supreme
+Court unanimously held that Grokster could be sued for “inducing” copyright infringement for
+
+5
+
+See http://www.reuters.com/article/2010/06/22/us-usa-trade-web-idUSTRE65L3YN20100622
+
+3
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 4 of 31
+marketing file sharing software. See also, Arista Records LLC v. Lime Group LLC, 715 F. Supp.
+2d 481 (2010) (enjoining Grokster’s replacement, Lime Wire.) Again, with much publicity, on
+September 8, 2003, during the Groskter case, the Recording Industry Association of America
+(RIAA) launched a campaign through which, over several years, it enforced the recording
+industry’s copyrights against 18,000 individual file sharers.
+Despite all these efforts, and the thousands-and-thousands of news stories and articles
+explaining that on-line infringement is illegal, the allure of free songs and movies continues, and
+people, like the Doe Defendants here, persist to illegally download songs and movies on a massive
+scale. People do so not because they do not know it is wrong but rather because people do not
+think they will get caught.
+
+In short, the moral hazard associated with the anonymous ability to
+
+steal with impunity over the internet has proven too high a temptation for unscrupulous file
+sharers.
+
+Copyright owners must be permitted to police the internet and, to have any deterrence
+
+effect, joinder in peer-to-peer copyright cases is absolutely necessarily. 6
+D.
+
+Professional Digital Pirates Thumb Their Noses At Copyright Owners
+
+The technology used to commit the instant infringement is called BitTorrent. BitTorrent is
+merely a set of computer rules. To enable it, one has to download software onto their computer,
+called a BitTorrent Client. Since BitTorrent has legitimate non-infringing uses, unless a particular
+BitTorrent Client expressly advertises itself as a means to accomplish copyright infringement, like
+Grokster, then a case against said BitTorrent Client would be tough.
+
+6
+
+Moreover, there are
+
+When a person runs a red light, law enforcement sends a picture of the license plate along with a ticket to
+the car’s owner. This is proper because the registered owner is by far the most likely driver. Nevertheless,
+just like a car’s owner may defend by asserting that he was not the driver, so too may an IP Address owner
+defend by asserting that he was not the file sharer but merely the subscriber. At a minimum, however, a
+licensed owner who lends its car or internet to a third party must assist to identify the borrower that
+misused its property. Any argument to the contrary is devoid of equity. Moreover, Plaintiff could amend
+its complaint to plead negligence against any particular John Doe Defendant who asserts he or she was not
+the infringer but merely the subscriber. See Liberty Media Holdings, LLC v. Swarm of November 16,
+2010, 2011 WL 1597495, *4 (S.D.Cal.2011) (In a joined BitTorrent suit holding “Plaintiff's negligence
+cause of action could withstand a motion to dismiss.”)
+
+4
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 5 of 31
+countless BitTorrent Clients, they are available for download for free, and many of these
+companies are located outside the reach of the U.S.’s courts.
+A suit against the digital thieves running torrent websites, where infringers go to download
+and distribute songs and movies, would certainly succeed; these sites explicitly promote
+infringement because it is their whole business. 7 Unfortunately, litigating against torrent sites is
+virtually impossible because torrent sites intentionally situate themselves overseas in jurisdictions
+that do not enforce U.S. copyright laws. For example, one of the most popular torrent sites,
+obnoxiously thumbs its nose at U.S. copyright owners by posting its responses to demand letters
+on its website. See its response to Dreamworks, Inc.’s demand letter stating: “Sweden is a
+country in northern Europe . . . no Swedish law is being violated . . . you are morons, and you
+should please go sodomize yourself with retractable batons.” 8 The self proclaimed “Biggest
+Torrent System”, Extratorrent.com, which illegally distributes Plaintiff’s movies, not only hides
+itself in Somalia but is changing the top level of its domain from .com to .ws in anticipation of a
+U.S. Bill entitled Combating Online Infringement and Counterfeits Act (“COICA”) becoming
+law. 9 COICA would give the U.S. Department of Justice the power to take down .com sites
+because the .com registrar resides in the U.S.
+E.
+
+Plaintiff’s Copyright Enforcement Campaign is Necessary and Proper
+
+Faced with a very serious problem of infringement and no easy solution for solving it,
+Plaintiff made the difficult choice to enter into a complicated, extraordinarily labor intensive and
+expensive copyright enforcement campaign against individual file sharers. The first step in this
+process is learning the identity of the subscribers whose IP addresses were used to commit an
+infringement. As explained below, courts should and are overwhelmingly supporting these efforts
+
+7
+
+See Disney Enterprises, Inc. v. Delane, 446 F.Supp.2d 402 (D. MD. 2006) (torrent website lost suit)
+See http://static.thepiratebay.org/dreamworks_response.txt
+9
+See http://extratorrent.com/ the red lettering on the home page which states please pay attention “[w]e are in the
+process of migrating the site to our new domain extratorrent.ws.”
+8
+
+5
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 6 of 31
+by ruling against motions to quash. By doing so, courts are contributing to the resolution of the
+problem of “[c]opyright piracy . . . reported to cost the American economy billions of dollars
+annually and hundreds of thousands of lost jobs.” See Senator Leahy’s press release, cited above.
+F.
+
+Peer-To-Peer Copyright Suits Have Several Unique Characteristics That
+Weigh Heavily In Favor Of Finding That Joinder Is Proper Prior to Discovery
+i.
+
+Plaintiff Proceeds Against Unknown John Doe Defendants That It May
+Not Want to Sue
+
+In a traditional lawsuit, Plaintiff has the luxury of investigating the potential defendant
+before filing suit. As any experienced litigator will attest, the process of investigating a defendant
+and discussing the matter with said defendant prior to a full blown litigation routinely weeds out
+suits. Here, since Plaintiff is proceeding against anonymous John Does, Plaintiff does not have
+that luxury. Accordingly, at the inception of a suit, through no fault of Plaintiff, Plaintiff is not
+truly sure that it wants to proceed against any particular John Doe. For example, through similar
+copyright infringement suits filed by Plaintiff’s lawyers across the country, a police department
+running a covert investigation was identified as a John Doe defendant. Plaintiff voluntarily
+dismissed that John Doe. Many John Doe defendants are destitute and therefore not worth suing.
+Several of the John Doe defendants have died prior to being identified. Several John Does have
+been public or political figures who Plaintiff did not to choose to sue.
+ii.
+
+Absent Joinder, Data Retention Issues Will Cause Plaintiff To Sue
+John Does That Cannot Be Identified
+
+Just like the FBI, Plaintiff has learned through suits across the country that there are major
+deficiencies associated with many internet service providers’ ability to correlate a subscriber to an
+individual. 10 According to the FBI, 19% of its ISP lookup requests in one child pornography
+
+10
+
+See Statement Of Jason Weinstein Deputy Assistant Attorney General Criminal Division Before The
+Committee On Judiciary Subcommittee On Crime, Terrorism, And Homeland Security United States
+House Of Representatives, (January 2011) at http://judiciary.house.gov/hearings/pdf/Weinstein
+01252011.pdf, stating: In some ways, the problem of investigations being stymied by a lack of data
+
+6
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 7 of 31
+investigation failed to yield a positive identity. See FN 10. Plaintiff’s statistics are similar, 1015% of the identities subpoenaed by Plaintiff in cases nationally fail to identify a person or legally
+entity. While most national ISP are fairly good at retaining data, several other national ISPs and
+many regional ISPs are very bad at it. Any decision regarding joinder in a BitTorrent peer-to-peer
+copyright case simply must take data retention and data failure issues into consideration.
+Significantly, a rule requiring Plaintiff to sue John Doe defendants on an individual basis creates
+the substantial risk that the target will not be identified. Unless the Court system allows Plaintiff
+to dilute the problem through joined cases, this phenomenon will needlessly increase the cost
+associated with pursuing infringement cases. Moreover, since costs are recoverable under 17
+U.S.C. § 505, one of the core purposes of the Copyright Act would be undermined in cases where
+the discovery failed to identify a person.
+iii.
+
+Absent Joinder, The Dynamic IP Address Issue Will Cause Plaintiff to
+Sue The Same Defendants Twice
+
+Internet Protocol addresses are frequently “dynamic” which means that the address used
+by any particular computer changes from time-to-time. Despite Plaintiff’s best efforts to scrub the
+data to reduce the possibility of suing the same person twice, on innumerable occasions, Plaintiff
+has sued the same person twice for downloading the same torrent file. In these situations, it is
+unclear if Plaintiff could recover its fees and costs for both suits from that defendant. Regardless
+
+retention is growing worse. One mid-size cell phone company does not retain any records, and others are
+moving in that direction. A cable Internet provider does not keep track of the Internet protocol
+addresses it assigns to customers, at all. Another keeps them for only seven days * * * In one ongoing
+case being investigated by the Criminal Division’s Child Exploitation and Obscenity Section working
+with the Federal Bureau of Investigation and Immigration and Customs Enforcement, we are seeking
+to identify members of online groups using social networking sites to upload and trade images of the
+sexual abuse of children. * * * Investigators sent legal process to Internet service providers seeking to
+identify the distributors based on IP addresses that were six months old or less. Of the 172 requests,
+they received 33 separate responses noting that the requested information was no longer retained by
+the company because it was out of their data retention period. In other words, 19 percent of these
+requests resulted in no information about these offenders being provided due to lack of data retention.
+Indeed, lack of data retention has to date prevented us from identifying the investigation’s chief U.S.
+target.
+
+7
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 8 of 31
+of to whom these fees and costs are attributed, either Plaintiff or a Doe defendant will be
+adversely affected by a rule requiring individual suits prior to discovery of identities.
+iv.
+
+Public Policy Encourages Early Settlements And Plaintiff’s Demands
+Are Consistent With Decisional Authority
+
+Upon information and belief, Capitol v. Thomas, 06-cv-01497, (D.C. MN) was the first
+file-sharing copyright infringement lawsuit in the United States brought by a major record label to
+be tried before a jury. Ms. Thomas was found liable for infringement. The damages awarded by
+the jury and judge over three rounds of jury trials and intermittent judicial reductions ranged
+between $65,000 and $2250 per song downloaded. Joel Tenenbaum, in Sony v. Tenenbaum,
+03CV11661-NG, (D. Mass), was also adjudged liable for infringement, and the jury verdict was
+for $22,500 per song, which was later reduced by the judge to $2250 per song on the basis that it
+was an unconstitutional denial of Due Process to award more. Sony appealed to the First Circuit
+arguing the judge did not have discretion to reduce the reward since the Copyright Act expressly
+states statutory damages may be awarded in an amount up to $150,000 per infringement. The
+appeal has yet to be ruled upon.
+At the early stages of an action, the settlement demands that Plaintiff makes of the Doe
+Defendants is consistent with the low end of the amounts awarded in the Capitol and Sony cases
+plus the legal fees and costs associated therewith. “The law favors and encourages the resolution
+of controversies by contracts of compromise and settlement rather than by litigation; and it is the
+policy of the law to uphold and enforce such contracts if they are fairly made and are not in
+contravention of some law or public policy.” West v Liberty Mutual Ins. Co., 1994 WL 399140 at
+*2 (4th Cir. 1994). Here, Plaintiff’s attempts to quickly settle are favored by public policy.
+Increasing the costs associated with this litigation by forcing Plaintiffs to file individual
+suits would only increase the settlement demands, make settlements less probable, and may
+ultimately prove the death knell to Plaintiff’s ability to enforce its copyrights. This phenomenon
+8
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 9 of 31
+is exactly what the digital pirates and free internet zealots expressly want. In English and
+American jurisprudence, there is an old legal maxim: for every right, there is a remedy; where
+there is no remedy, there is no right. 11 Given the potential limitation imposed on the amount of
+recoveries in these suits ala Tennenbaum, the problems with data retention and dynamic IP
+addresses, and the extraordinarily labor intensive nature of these suits, without joinder Plaintiff
+will have a copyright but no cost effective remedy to enforce it.
+v.
+
+Joinder is Required By Rule 1’s Instruction to Judges to Construe The
+Rules to Secure the Inexpensive Determination of Every Action
+
+Fed.R.Civ.P. 1 requires that Courts construe the rules to secure the inexpensive
+determination of every action. Fed.R.Civ.P. 20, the joinder rule, has the same purpose. As
+explained below, disallowing joinder is inconsistent with the purpose of both Rules. Indeed, 3055% of the individuals typically sued in a joined suit settle very early in the litigation process.
+Another significant percentage of the remaining Doe Defendants are likely to default. Plaintiff
+will choose not to sue certain other Doe Defendants. Consistent with all of the foregoing, Plaintiff
+does intend to and will proceed against many of the remaining infringers through trial if
+necessary. During the RIAA’s campaign against 18,000 file sharers, it only had to take about fifty
+(50) of these matters to trial. The low probability that a trial will actually be necessary in any
+given joined suit should weigh heavily in favor of supporting joinder; particularly, at the early
+stages of a suit.
+It would take Plaintiff an enormous amount of time to create the papers necessary to
+initiate, track and manage individual suits against all the Doe Defendants in this case. Further, the
+filing fees to initiate these suits would be thousands-and-thousands of dollars instead of $350.
+Since jurisdiction and venue is proper in this District, all of these cases would be filed in this
+District. Plaintiff would have to file notices of related cases. Presumably, this Court would
+11
+
+http://en.wikipedia.org/wiki/Judicial_remedy
+
+9
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 10 of 31
+consolidate the cases for purposes of judicial management. Nevertheless, at every stage of the
+process, the litigants and the Court would be faced with additional work. For example, instead of
+one motion for leave to serve subpoenas in advance of a 26(f) conference, there would be many
+such identical motions. Instead of one Rule 26(f) conference and report, there would be many
+such identical Rule 26(f) conferences and reports. Identical pleadings and papers would be
+repetitively filed all of the way to the end of the cases. Not only would this needlessly increase
+the costs for the parties and Court but also for the third party internet service providers.
+vi.
+
+File Sharers Dream of “Crippling the Process” Through Templated
+Motions to Quash
+
+Plaintiff has received hundreds of cut and paste motions to sever or quash or both in
+similar litigations across the country. According to Graham Seifert, one of the primary authors of
+several versions of the template motions, “[m]y dream would be to have 10,000-20,000 people file
+all three documents to the lawyers and severely cripple the entire process.” 12 A simple internet
+search of the words “defending lawsuits BitTorrent Motion” reveals that there is cottage industry
+promoting these types of motions.
+
+These cut and paste motions have also been put on torrent
+
+websites containing instructions on how to complete them and are being downloaded by the Doe
+Defendants and their counsel in these matters. 13 In Maverick Entertainment Group, Inc. v. Doe
+2011 WL 1807428 (D.D.C. 2011) the Court noted that it was “ironic” that in a copyright
+infringement suit “‘at least two’ putative defendants have ‘substantially copied’ and filed briefs.”)
+vii.
+
+Plaintiff Knows Motions To Sever Are Disingenuous And Sometimes
+Gives Defendants That for Which They Ask But Do Not Really Want
+
+Plaintiff knows these motions are disingenuous. Its attorneys across the country have had
+scores of conversations with different lawyers all over the country who call threatening to file
+these motions disingenuously asserting prejudice to defendants being identified in a joined case.
+12
+13
+
+See http://lawvibe.com/uscg-sues-bittorrent-users-graham-syfert-of-affinity-law-firm-defends/
+See http://www.kat.ph/search/law%20firm/.
+
+10
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 11 of 31
+Almost without fail if Plaintiff states that it will voluntarily sever the defense counsel’s client and
+sue the person individually the defense counsel backs down and admits that his or client being
+sued individually is not in his or her client’s best interests.
+As part of a strategy aimed at reducing the number of severance motions, Plaintiff has
+frequently and will continue to voluntarily dismiss some movants that seek to sever and sue these
+movants individually. 14 Plaintiff’s strategy of giving Doe Defendants what they ask for but
+clearly do not want has been working with counsel and Plaintiff hopes it will become known to
+pro se Doe Defendants over the long term. 15
+viii.
+
+Courts Hold that Suing The Doe Defendants Individually Is NOT in the
+Doe Defendants’ Best Interests
+
+“According to the Fourth Circuit Court of Appeals . . . attorneys’ fees are routinely
+awarded in copyright infringement cases.” M.L.E. Music v. Kimble, Inc., 109 F. Supp.2d 469,
+474 (S.D. W.Va. 2000), citing Allen v. Burke, 690 F. 2d 376 (4th Cir. 1982). “Many district
+courts within this circuit have routinely awarded attorneys’ fees and costs where bad faith was
+found against a Defendant.” Id. (citing five (5) cases). Here, Plaintiff alleges that each of the
+Defendant’s acts of infringement was willful. Indeed, Plaintiff intends to show the jury the torrent
+website from which Defendants downloaded Plaintiff’s movie, which contains movies currently
+out in theaters and songs no rational person would think are available for free. For this reason,
+Courts hold that “joinder in a single case of the putative defendants who allegedly infringed the
+same copyrighted material promotes judicial efficiency and, in fact, is beneficial to the putative
+defendants.” Call of the Wild Movie, LLC., 770 F.Supp.2d 332, 344 (D.D.C. 2011).
+
+14
+
+Plaintiff and undersigned counsel sincerely apologize to the Court for not explaining its strategy through a notice
+that could have been filed in advance of this Court’s order severing the Defendants.
+15
+See Plaintiff’s declaration filed in support, this strategy has been working.
+
+11
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 12 of 31
+III. ARGUMENT
+A.
+
+LEGAL STANDARD
+Fed. R. Civ. P. 20(a)(2) states:
+Persons . . . may be joined in one action as defendants if:
+(A) any right to relief is asserted against them jointly, severally, or in the
+alternative with respect to or arising out of the same transaction, occurrence, or
+series of transactions or occurrences; and
+(B) any question of law or fact common to all defendants will arise in the action.
+“Under the Federal Rules generally, ‘the impulse is toward the broadest possible scope of
+
+action consistent with fairness to the parties and joinder of claims, parties and remedies is strongly
+encouraged.” United Mine Workers of Am. v. Gibbs, 383 U.S. 715, 724 (1966). “The purpose
+of [Rule 20] is to promote trial convenience and expedite the final determination of disputes,
+thereby preventing multiple lawsuits.” Mosley v. Gen. Motors Corp., 497 F.2d 1330, 1332 (8th
+Cir.1974). Here, severing Defendants will create multiple totally unnecessary lawsuits.
+a. The Logical Relationship Test
+Courts across the country employ the “logical relationship” test to ascertain whether joinder
+is proper under the same transaction or series of transactions test. According to the rule, a series
+of transactions may be a series of many occurrences, depending not so much upon the
+immediateness of their connection as upon their logical relationship, and absolute identity of all
+events is unnecessary:
+[As for Rule 20], construction of the terms ‘transaction or occurrence’ as used in the
+context of Rule 13(a) counterclaims offers some guide to the application of this test.
+For the purposes of the latter rule, ‘Transaction’ is a word of flexible meaning. It may
+comprehend a series of many occurrences, depending not so much upon the
+immediateness of their connection as upon their logical relationship. Moore v. New
+York Cotton Exchange, 270 U.S. 593, 610, 46 S.Ct. 367, 371, 70 L.Ed. 750 (1926).
+Accordingly, all ‘logically related’ events entitling a person to institute a legal action
+against another generally are regarded as comprising a transaction or occurrence. 7 C.
+Wright, Federal Practice and Procedure § 1653 at 270 (1972). The analogous
+12
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 13 of 31
+interpretation of the terms as used in Rule 20 would permit all reasonably related
+claims for relief by or against different parties to be tried in a single proceeding.
+Absolute identity of all events is unnecessary. [Underlining added.]
+Mosely v. General Motors Corp., 497 F.2d 1330 (8th Cir. 1974). “Many courts have determined
+that all “logically related” events “generally are regarded as comprising a transaction or
+occurrence [or series of transactions].” Stinnette v. Medtronic, Inc., 2010 WL 767558 (S.D. TX
+2010). 16
+
+The logical relationship test has been consistently used in decisions concerning
+
+BitTorrent copyright infringement in suits across the country. See e.g. Patrick Collins, Inc. v.
+John Does 1-2590, 2011WL 4407172, * 6 (N.D. Cal. 2011) (employing the “logically related” test
+and noting that it is “flexible,” and holding that joinder is proper in a BitTorrent copyright
+infringement case.)
+B.
+
+The Way Bittorrent Works, Infringers Continue To Distribute Files Indefinitely
+
+BitTorrent continues to distribute data for a particular torrent file until the user commands
+its BitTorrent Client (software program) to stop distributing it. Many users never instruct the
+program to stop distributing data. According to BitTorrent’s own website:
+Seeding is where you leave your BitTorrent client open after you've finished your
+download to help distribute it (you distribute the file while downloading, but it's
+even more helpful if you continue to distribute the full file even after you have
+finished downloading). Chances are that most of the data you got was from seeds,
+so help give back to the community! It doesn't require much - BitTorrent will
+continue seeding until the torrent is removed. [Underlining added.]
+See http://www.bittorrent.com/help/guides/beginners-guide.
+
+16
+
+A Westlaw search performed by Plaintiff’s counsel revealed that the vast majority of districts across the country
+have adopted this test and that it has become the de facto test.
+
+13
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 14 of 31
+C.
+The
+
+Same Swarm BitTorrent Infringement is Logically Related
+following
+
+description
+
+of
+
+BitTorrent
+
+can
+
+be
+
+found
+
+at
+
+http://computer.howstuffworks.com/bittorrent2.htm, and describes the series of transactions:
+
+WHAT BITTORENT DOES
+
+Unlike
+
+some
+
+other
+
+peer-to-peer
+
+downloading
+
+methods,
+
+BitTorrent is a protocol that offloads some of the file tracking
+work to a central server (called a tracker). Another difference is
+that it uses a principal called tit-for-tat. This means that in order
+to receive files, you have to give them. This solves the problem
+of leeching – one of the developer Bram Cohen’s primary goals.
+With BitTorrent the more files you share with others, the faster
+your downloads are. Finally, to make better use of available
+Internet bandwidth (the pipeline for data transmission), BitTorent
+
+BitTorrent is unique insofar
+
+downloads different pieces of the file you want simultaneously.
+
+as it distributes the burden of sharing files to all users:
+What makes the BitTorrent protocol unique is that it
+distributes [the burden of] the sharing of files to all users who
+have downloaded or are in the process of downloading a file.
+Because BitTorrent breaks up and distributes files in hundreds
+of small chunks, you don't even need to have downloaded the
+whole file before you start sharing. As soon as you have even
+a piece of the file, you can start sharing that piece with other
+users. That's what makes BitTorrent so fast; your BitTorrent
+client starts sharing as soon as it downloads one chunk of the
+file (instead of waiting until the entire download has been
+completed). [Parenthetical added, emphasis added.]
+
+See://lifehacker.com/285489/a-beginners-guide-to-bittorrent. By causing all users to distribute
+the file, BitTorrent ensures that all peers in a swarm materially aid every other peer. This critical
+fact makes BitTorrent different than every other peer-to-peer network and is one of the reasons
+BitTorrent cases are distinguishable from previous peer-to-peer copyright cases.
+
+14
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 15 of 31
+D.
+
+Doe Defendants Distributed The Same Exact Torrent File As Evidenced By A
+Cryptographic Alphanumeric Hash Value
+
+As alleged in the Complaint, Plaintiff’s movie was processed by a BitTorrent Client (a
+BitTorrent software program) which generated a torrent file. The BitTorrent Client divided the
+movie into hundreds or thousands of digital parts called “pieces.” 17 “Each piece is protected by a
+cryptographic hash contained in the torrent descriptor.” Id. The Hash system was created by the
+National Security Agency. 18 It is used not only by BitTorrent but by this Court when it sends
+CM/ECF filings to litigants (the alphanumeric code at the end of the filing receipt is a
+cryptographic hash.) “Cryptographic hash functions have many information security applications,
+notably in digital signatures, message authentication codes (MACs), and other forms of
+authentication.” See FN 18. In BitTorrent, “[w]hen another peer later receives a particular piece,
+the hash of the piece is compared to the recorded hash to test that the piece is error-free.” See FN
+19. “Cryptographic hash values are sometimes called (digital) fingerprints.” See FN 18.
+Here, Plaintiff’s investigators use the hash value as a digital fingerprint that enables Plaintiff
+to ensure that all of the infringements alleged in this suit arise from the exact same unique version
+of Plaintiff’s movie as evidenced by the cryptographic hash value.
+
+Significantly, many of
+
+Plaintiff’s movies have been initially seeded several times. Each seeding produces its own
+independent swarm. Here, Plaintiff has only sued Defendants in the exact same swarm.
+IV.
+
+LEGAL ARGUMENT
+While “the overwhelming majority of courts have denied as premature motions to sever
+
+prior to discovery” of the Doe Defendants being obtained in BitTorrent cases, the cases which
+were severed have materially distinguishable facts. There are over thirty (30) cases discussing
+BitTorrent and joinder. None of the issues which have ever been held to make joinder improper
+
+17
+18
+
+See http://en.wikipedia.org/wiki/BitTorrent_(protocol)
+See http://en.wikipedia.org/wiki/Cryptographic_hash
+
+15
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 16 of 31
+are present in the subject suit. An analysis of this body of law reveals that Courts are concerned
+with whether: (a) long-arm and venue are proper; (b) more than one of unique hash value was
+included in one lawsuit; and (c) the complaint specifically alleges how BitTorrent works. Some
+courts have also criticized the sheer number of Doe Defendants in suits which contain 1000s of
+Doe Defendants. For that reason, Plaintiff has deliberately kept the number of Doe Defendants in
+this suit to a comparatively small and manageable number.
+A.
+
+The District of Columbia Correctly Supports Joinder In BitTorrent Cases
+
+The District of Columbia has issued by far and away the longest, most comprehensive,
+decisions concerning the issues, including joinder, raised in BitTorrent litigation. From most
+recent to oldest, the seven cases D.C. judges have adjudicated, which can be found on Westlaw,
+are as follows: (1) NuImage, Inc. v. Does 1-22,322, 2011 WL 3240562 (D.D.C. 2011) (10 page
+opinion, permitting joinder but ordering Plaintiff to show cause why the court has long arm
+jurisdiction, opining a subset of Does within the District would be proper); West Coast
+Productions, Inc. v. Does 1-5829, 275 F.R.D. 9 (D.D.C. 2011) (11 page opinion, permitting
+joinder, holding long arm could be used, denying all motions to quash); Call of the Wild v. Does
+1-331, 274 F.R.D. 334 (D.D.C. 2011) (permitting joinder, holding long arm could be used,
+denying all motions to quash); Maverick Entertainment Group, Inc. v. Does 1-2115, 2011 WL
+1807428 (D.D.C. 2011) (18 page opinion, permitting joinder, holding long arm could be used,
+denying all motions to quash); Voltage Pictures, LLC v. Does 1-5000, 79 Fed.R.Serv.3d 891
+(D.D.C. 2011) (18 page opinion permitting joinder, holding long arm could be used, denying all
+motions to quash); Donkeyball Movie, LLC v. Does 1-171 (D.D.C. 2011) (15 page opinion
+permitting joinder, holding long arm could be used, denying all motions to quash); Call of the
+Wild v. Does 1-1062, 770 F.Supp.2d 332 (D.D.C. 2011) (36 page opinion addressing all of the
+issues raised in pre-Doe identification BitTorrent litigation.) Significantly, the Call of the Wild
+
+16
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 17 of 31
+Court denied all of the motions to quash, ruled in favor of copyright owners on the joinder issue,
+the free speech issue, the right to remain anonymous issue [Doe’s who file motions do not have
+that right], allowed Plaintiff to use the long arm statute, and held that internet service providers
+cannot refuse to comply with subpoenas on the basis that it is unduly burdensome.
+B.
+
+Joinder is Proper Because the Defendants’ Infringement Was Part of a Series
+of Transactions
+
+In Call of the Wild, the Court held the claims are a series of transactions or occurrences
+within the meaning of Rule 20(a)(1) because they are logically related:
+[T]he plaintiffs allege that the BitTorrent file-sharing protocol “makes every
+downloader also an uploader of the illegally transferred file(s). This means that
+every “node” or peer user who has a copy of the infringing copyrighted material on
+a torrent network must necessarily also be a source of download for that infringing
+file.” Amended Compl., Wild, ¶ 3, ECF No. 6. The plaintiffs further assert that the
+“nature of a BitTorrent protocol [is that] any seed peer that has downloaded a file
+prior to the time a subsequent peer downloads the same file is automatically a
+source for the subsequent peer so long as that first seed peer is online at the time
+the subsequent peer downloads a file.” Id. at ¶ 4. Based on these allegations, the
+plaintiffs' claims against the defendants are logically related. [Underlying added.]
+1. Here, Plaintiff Properly Pled a Series of Transactions
+Pursuant to Fed. R. Civ. P. 8, “under the notice pleading standard, specific facts are not
+necessary; the statement need only give the defendant fair notice of what the claim is and the
+grounds upon which it rests.” Erickson v. Pardus, 551 U.S. 89, 93 (2007). Additionally, “when
+ruling on a defendant’s motion to dismiss, a judge must accept as true all of the factual allegations
+contained in the Complaint.” Id. at 94. Plaintiff’s Complaint easily satisfies Rule 8’s requirement
+to give Defendants notice that Plaintiff is asserting that Defendants acted together in the same
+transaction or through a series of transactions:
+29.
+The BitTorrent protocol causes the initial seed’s computer to send different
+pieces of the computer file, here the copyright Movie/Work, to the peers seeking to
+download the computer file.
+30.
+Once a peer receives a piece of the computer file, here a piece of the
+copyrighted Movie/Work, it starts transmitting that piece to the other peers.
+17
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 18 of 31
+
+31.
+In this way, all of the peers and seeders are working together in what is a
+called a “swarm.”
+33.
+In this way, and by way of example only, one initial seeder can create a
+torrent that breaks a movie up into hundreds or thousands of pieces saved in the
+form of a computer file, like the Movie/Work here, upload the torrent onto a torrent
+site, and deliver a different piece of the copyrighted Movie/Work to each of the
+peers. The recipient peers then automatically begin delivering the pieces they just
+received to the other peers in the same swarm.
+***
+38.
+[Plaintiff’s investigator] IPP extracted the resulting data emanating from the
+investigation, reviewed the evidence logs, and isolated the transaction and the IP
+addresses associated therewith for the file identified by the SHA-1 hash value of [it
+is set forth in the applicable Complaint] (the “Unique Hash Number”).
+39.
+The IP addresses, Unique Hash Number and hit dates contained within
+Exhibit A accurately reflect what is contained in the evidence logs, and show:
+(A)
+Each Defendant had copied a piece or pieces of Plaintiff’s copyrighted
+Movie/Work identified by the Unique Hash Number and was simultaneously
+distributing that piece or pieces to the other Defendants who, in turn, were copying
+and distributing that piece and other pieces thereof for distribution to the other
+Defendants; and
+(B)
+Therefore, each Defendant acted in concert with the Defendants and was
+part of the same series of transactions which, taken together, resulted in the
+copying and distribution of complete copies of Plaintiff’s work.
+While the logical relationship test does not require it, should this matter go trial, Plaintiff
+will prove that the Defendants’ infringement was committed through the same transaction or
+through a series of transactions with mathematical certainty by demonstrating, inter alia, that the
+algorithm used by BitTorrent Trackers would have caused the entire series of transactions to be
+different but for each of the Defendants’ infringements.
+2.
+
+There Are Common Issues of Fact and Law
+
+“Rule 20(a)(2)(B) requires the plaintiffs' claims against the putative defendants to contain
+a common question of law or fact.”
+requirement.”
+
+Id.
+
+Call of the Wild at 343.
+
+“The plaintiffs meet this
+
+“In each case, the plaintiff will have to establish against each putative
+
+defendant the same legal claims concerning the validity of the copyrights in the movies at issue
+18
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 19 of 31
+and the infringement of the exclusive rights reserved to the plaintiffs as copyright holders.” Id.
+The “factual issues related to how BitTorrent works and the methods used by plaintiffs to
+investigate, uncover and collect evidence about the infringing activity will be essentially identical
+for each putative defendant.” Id.
+3.
+
+Joinder Promotes Judicial Efficiency and is Beneficial to Putative Defendant
+
+“[T]he Court must assess whether joinder would prejudice the parties or result in needless
+delay.”
+
+Call of the Wild at 343. “To the contrary, joinder in a single case of the putative
+
+defendants who allegedly infringed the same copyrighted material promotes judicial efficiency
+and, in fact, is beneficial to the putative defendants.” Id.
+4.
+
+Doe Defendants Cannot Demonstrate Prejudice At This Stage of the Litigation
+
+“[T]he putative defendants are currently identified only by their IP addresses and are not
+named parties. Consequently, they are not required to respond to the plaintiffs' allegations or assert
+a defense. The defendants may be able to demonstrate prejudice [after being named], but they
+cannot. . . before that time.” Id.
+5.
+
+Disallowing Joinder Would Effectively Prevent Plaintiff From Being Able to
+Enforce Its Copyrights and Would Be Inconsistent With Rule 1
+
+The Call of the Wild Court held that disallowing joinder would effectively prevent Plaintiff
+from being able to enforce its copyrights:
+The plaintiffs would be forced to file 5,583 separate lawsuits * * * Plaintiffs would
+additionally be forced to pay the Court separate filing fees in each of these cases, * * *
+This would certainly not be in the “interests of convenience and judicial economy,” or
+“secure a just, speedy, and inexpensive determination of the action.”
+Given the administrative burden of simply obtaining sufficient identifying information
+to properly name and serve alleged infringers, it is highly unlikely that the plaintiffs
+could protect their copyrights in a cost-effective manner.
+Id. at 344-345.
+
+19
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 20 of 31
+
+C.
+
+All of the Other District Courts From the Around the Country Permit Joinder
+1. California District Courts Permit Joinder
+
+All three Districts in California which have adjudicated joinder in BitTorrent copyright
+infringement cases hold that joinder is proper.
+
+The Eastern and Southern District have
+
+unanimously held joinder is proper. The Northern District has by the far the most cases. The two
+most recent decisions in the Northern District were decided by its Chief Magistrate Judge.
+Through these decisions, he came to a different conclusion than in previous cases and held that
+joinder is proper.
+i.
+
+The Eastern District of California Allows Joinder
+In Camelot Distribution Group v. Does 1-1210, 2011 WL 4455249, *3 (E.D.Cal. 2011),
+
+which is the most recent decision in the state of California, the Eastern District of California
+analyzed the Northern District of California’s decisions, did not even cite the D.C. opinions
+holding that joinder is proper, and held that joinder is proper even though“[t]he undersigned notes
+that several district judges and magistrate judges, predominantly in the Northern District of
+California, have repeatedly expressed procedural concerns in cases such as this one regarding,
+among other things, the propriety of venue in that district.” Citing, On The Cheap, LLC v. Does
+1–5011, 2011 WL 4018258, at *1 (N.D.Cal. 2011) and seven (7) other Northern District of
+California cases.
+
+Despite the Northern District of California decisions, the Camelot Court
+
+“conclude[d] that a decision regarding joinder would be more appropriately made after further
+development of the record.” See also, Berlin Media Art E.K. v. Does 1-144, 2011 WL 4056167
+(E.D. CA. 2011) (permitting discovery in joined case.)
+
+20
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 21 of 31
+ii.
+
+The Southern District of California Permits Joinder in BitTorrent Cases
+
+In Liberty Media Holdings, LLC v. Does 1-62, 2011 WL 1869923(S.D.Cal.2011) the Court
+held “[a]fter careful consideration of the issue, . . . [i]n this case, the complaint sufficiently alleges
+that defendants are properly joined due to the use of BitTorrent, which necessarily requires each
+user to be an uploader as well as a downloader,” citing Call of the Wild at *2. Liberty Media also
+distinguished cases in which joinder was not proper and is the only S.D. of California decision
+that can be found through a Westlaw search using the terms “BitTorrent and joinder.”
+iii.
+
+The Northern District of California Permits BitTorrent Cases and Expressly
+Distinguishes Its Prior Precedent Holding Joinder Was Not Permitted
+
+The two most recent decisions in the Northern District of California have held that joinder
+is proper and distinguished the District’s prior decisions that that did not so hold. In Patrick
+Collins v. Does 1-2590, 2011 WL 4407172 (N.D. Cal. 2011), the Court noted “[r]ecently, courts
+in this District . . . have come to varying decisions about the proprietary of joining multiple
+defendants in BitTorrent infringement cases. See MCGIP, LLC v. Does 1–149, 2011 WL
+3607666, at 3 (N.D.Cal. 2011) (listing a sample of recent decisions).” The Court then stated that
+it had carefully reviewed the Northern District’s decisions and held that if BitTorrent was
+explained well in the Complaint then joinder is proper:
+This Court has carefully reviewed such decisions and notes that they are highly
+dependent on the information the plaintiff presented regarding the nature of the
+BitTorrent file-sharing protocol and the specificity of the allegations regarding the
+Doe defendants' alleged infringement of the protected work. Both of these factors
+guide the Court's joinder analysis in this matter as well. Reviewing Plaintiff's
+Application and supporting materials, Plaintiff has provided a fairly detailed
+explanation about how the BitTorrent protocol operates.
+The Patrick Collins Court then cited the allegations in the complaint explaining how
+BitTorrent works. Significantly, the detail of the allegations in the current Complaint far exceed
+the level of detail set forth in the above referenced Patrick Collins’ complaint. Additionally, the
+Court acknowledged the economic realities of BitTorrent litigation “Plaintiff would additionally
+21
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 22 of 31
+be forced to pay the Court separate filing fees . . . This would certainly not be in the ‘interests of
+convenience and judicial economy,’ or ‘secure a just, speedy, and inexpensive determination of
+the action.’” Id. citing, Call of the Wild, 770 F.Supp.2d at 334. See also, New Sensations, Inc. v.
+Does 1-1,474, 2011 WL 4407222, (N.D.Cal. 2011) (issued the same day as the Patrick Collins
+decision and containing identical language holding joinder is proper.)
+
+Accord Hard Drive
+
+Productions, Inc. v. Does 1–46, 2011 U.S. Dist. LEXIS 67314 (N.D. Cal. 2011) (citing the
+Voltage opinion from D.C. and holding that joinder is proper); New Sensations, Inc. v. Does
+1745, 2011 WL 2837610 (N.D. Cal. 2011) (“Judge Howell of the D.C. Circuit has repeatedly held
+that in infringement actions” joinder is proper “[h]is analysis makes sense.” Citing, Call of the
+Wild Movie, LLC v. Smith, No. 10–0455, 2011 WL 1807416, at *9 (D.D.C. May 12, 2011) and
+Voltage Pictures, LLC v. Does 1–5,000, No. 10–0873, WL 1807438, at *8 (D.D.C. May 12,
+2011)).
+Just as the Patrick Collins’ Court stated, the Northern District of California’s earlier
+decisions are distinguishable.
+
+See e.g., MCGIP, LLC v. Does 1-149, 2011 WL 4352110,
+
+N.D.Cal., September 16, 2011(a 3 page opinion, the complaint pled all of the Does resided in the
+State of California and the Court cited a case holding venue had to be proper); On The Cheap,
+LLC v. Does 1-5011, 2011 WL 4018258 (D.N.C. 2011) (in a 3 page opinion, the court severely
+criticized Plaintiff for suing 5011 people in one case by using long arm jurisdiction but the Court
+expressly left the door open for a proper suit by opining “were plaintiff truly desirous of enforcing
+its copyright in fair fashion, it has options available. For example, had it filed a lawsuit in each of
+the four districts in California, at a cost of three additional filing fees, it would have eliminated
+many of the venue and jurisdictional problems discussed above and could have properly asserted
+to many Doe defendants that they were being sued in a district in which jurisdiction and venue
+would lie.”)
+
+22
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 23 of 31
+Indeed, a close inspection of the decisions, holdings and complaints in each of the Northern
+District of California’s early decisions concerning BitTorrent and joinder reveals that some of its
+judges are concerned with long-arm, venue and whether BitTorrent was explained well in the
+Complaint. MCGIP, LLC v. Does 1-149, 2011 WL 4352110, (N.D.Cal. 2011) (a review of the
+cases cited and the underlying complaint make clear that the Court was concerned that venue was
+not proper); OpenMind Solutions, Inc. v. Does 1-39, 2011 WL 3740714, (N.D.Cal. 2011) (a 4
+page opinion, that expressly would have allowed joinder except “Plaintiff has not demonstrated
+that Defendants were part of a single Throated 30 swarm sharing in the exact same seed file.”)
+See also Boy Racer, Inc. v. Does 1-60, 2011 WL 3652521, (N.D.Cal. 2011) wherein a review of
+the complaint makes clear venue was improper. Accordingly, the Court in Boy Racer cited
+Lightspeed v. Does 1–1,000, 2011 U.S. Dist LEXIS 35392 (N.D.Ill. 2011) (not available on
+Westlaw), which in a 2 page opinion also cited venue as the primary problem.
+
+The only
+
+BitTorrent case Lightspeed relied on was LaFace Records, LLC v. Does 1-38, 2008 WL 544992
+(E.D. N.C. 2008) which found “Plaintiffs are the alleged owners of the copyrights in numerous
+sound recordings made by artists who no longer control the copyrights at issue.” The finding of
+numerous copyrights and a review of the underlying complaint in LaFace makes clear there was
+not an allegation the Defendants were connected through one unique cryptographic hash value.
+Additionally, the Boy Racer Court held the Plaintiff failed to explain how BitTorrent is different
+from previous peer-to-peer networks. Indeed, a review of the complaint in Boy Racer reveals that
+it does not mention of crytographic hash values.
+Additionally, the Boy Racer opinion relied on two previous Boy Racer opinions issued by
+Chief Magistrate Judge Grewell; Judge Grewell has subsequently twice held that joinder is proper.
+The Boy Racer decision also applied the incorrect legal standard under 9th Circuit precedent.
+Specifically, Boy Racer would require copyright owners to prove there was an actual transfer of
+
+23
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 24 of 31
+data from one computer to another – that is an entirely invented test and is simply wrong. Cf
+Patrick Collins v. Does 1-2590, 2011 WL 4407172, *4 (N.D. Cal. 2011) (“The Ninth Circuit has
+interpreted the phrase ‘same transaction, occurrence, or series of transactions or occurrences' to
+require a degree of factual commonality underlying the claims,” citing Coughlin v. Rogers, 130
+F.3d 1348, 1350 (9th Cir.1997)). 19
+As stated in Patrick Collins v. Does 1-2590, 2011 WL 4407172, *4 (N.D. Cal. 2011), all of
+the other Northern District of California decisions are distinguishable. 20 Moreover, none the
+Northern District of California cases ever addressed the issue of contributory infringement
+because none of the complaints pled it. Contributory infringement invokes joint and several
+liability which is a completely alternative basis for finding joinder is proper.
+2.
+
+The Northern District of Illinois Permits Joinder
+
+There are only two decisions which come up using Westlaw and the terms “BitTorrent &
+joinder” in Illinois; they are First Time Videos, LLC v. Does 1-76 --- F.R.D. ----, 2011 WL
+3586245 (N.D.Ill.,2011) and First Time Videos, LLC v. Does 1-500, --- F.Supp.2d ----, 2011 WL
+3498227 (N.D.Ill.,2011) and were decided by two different judges. Both Illinois decisions held
+joinder is proper.
+In First Time Videos, LLC v. Does 1-76
+
+--- F.R.D. ----, 2011 WL 3586245, *4
+
+(N.D.Ill.,2011), the Court went onto distinguish the Northern District of Illinois’ earlier decisions
+(which cannot be found on Westlaw) by holding that personal jurisdiction was not proper in those
+cases:
+It is true that some courts in this District have reached different conclusions on the
+issue of joinder. For example, in some cases, courts have severed all but the first of
+19
+
+The Boy Racer opinion is also expressly inconsistent with Rule 1 insofar as it seeks to intentionally cause copyright
+owners to pay filing fees. See FN1. This rationale evinces a total lack of understanding of the practical realities of
+BitTorrent litigation and is inconsistent with the purposes Rule 1 and 20.
+20
+There are numerous other Northern District of California decisions but every single one of them is distinguishable
+on the basis that BitTorrent was not well explained by describing cryptographic hash values or on the basis that the
+long-arm statute or venue was improper.
+
+24
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 25 of 31
+the Doe defendants from the action and subsequently dismissed the suit against the
+first Doe defendant for lack of personal jurisdiction. See, e.g., Future Blue, Inc. v.
+Does 1–300, 10 C 6256 (N.D. Ill. June 8, 2011) (Conlon, J.); Lightspeed v. Does 1–
+1000, 10 C 5604 (N.D.Ill. Mar. 31, 2011) (Manning, J.); Millenium [sic] TGA Inc. v.
+Does 1–800, 10 C 5603 (N.D.Ill. Mar. 31, 2011) (Manning, J .)
+3.
+
+The Southern District of New York Holds Joinder is Permitted
+
+DigitProtect USA Corp. v. Does, 2011 WL 4444666 (S.D.N.Y. 2011) is the only decision
+currently on Westlaw in the state of New York addressing BitTorrent and Joinder. It held joinder
+was improper but granted DigiProtect leave to amend and stated “[a]ny repleading by Digit
+Protect must be based on specific factual allegations connecting these defendant to the same
+specific swarming transaction, or series of transactions, to support their joinder. Otherwise, the
+only ‘commonality’ is that ‘each commit[ted] the exact same violation of the law in exactly the
+same way.’ The current allegations are inadequate to support joinder.” Id. at FN3. Although not
+on Westlaw, in a complaint with very nearly verbatim identical allegations as the one before the
+Court, the Southern District of New York held joinder was proper. Patrick Collins v. John Does
+1-9, 11-cv-01269 (S.D.N.Y. 2011) (Dkt. 10) stating: Order denying Motion to Quash and to Sever.
+Upon careful consideration, for the reasons stated in plaintiff’s opposition, the motion is denied.”
+4.
+
+Joinder is Also Proper Because Plaintiff Pled That Each of the Defendants
+Is Contributorily Liable For Each Other Defendant’s Infringement
+
+Joinder is also proper because Plaintiff pled that each Defendant is contributorily liable for
+each of the other Defendant’s infringement. “It is, today, a given that ‘one who, with knowledge
+of the infringing activity, induces, causes or materially contributes to the infringing conduct of
+another, may be held liable as a ‘contributory infringer.’” Costar Group, Inc. v. Loopnet, Inc.,
+164 F. Supp.2d 688, 696 (M.D. 2001). Here, Plaintiff properly pled contributory infringement:
+54.
+By participating in the BitTorrent swarm with the other Defendants, each
+Defendant induced, caused or materially contributed to the infringing conduct of each other
+Defendant.
+
+25
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 26 of 31
+55.
+Plaintiff did not authorize, permit or consent to the Defendants’ inducing, causing
+or materially contributing to the infringing conduct of each other Defendant.
+56.
+Each Defendant knew or should have known that other BitTorrent users, here the
+other Defendants, would become members of a swarm with Defendant.
+57.
+Each Defendant knew or should have known that other BitTorrent users in a swarm
+with it, here the other Defendants, were directly infringing Plaintiff’s copyright[ed] Work by
+copying those of the constituent elements of the registered Work that are original.
+58.
+Indeed, each Defendant directly participated in and therefore materially contributed
+to each other Defendant’s infringing activities.
+59.
+Each of the Defendants’ contributory infringements were committed ‘willfully’
+within the meaning of 17 U.S.C. § 504(c)(2).
+Significantly, Plaintiff will prove that there was one initial seeder that uploaded the subject
+torrent file identified by the unique hash value. Plaintiff will further prove that when a Defendant
+receives a piece from a downstream infringer, i.e., an infringer who already had that piece, then
+that Defendant will automatically begin distributing the piece it received from the downstream
+infringer to others. By doing so, Plaintiff will prove that said Defendant materially assists the
+downstream infringer’s direct infringement of Plaintiff’s exclusive right to “redistribute . . . the
+Work. . . .” in violation of 17 U.S.C. § 106(3) and 17 U.S.C. §501. Similarly, when a Defendant
+provides a piece of Plaintiff’s copyrighted work to an upstream infringer, Plaintiff will prove that
+the upstream infringer both sends that piece to other infringers and will also assemble the entire
+Work.
+
+Accordingly, by delivering a piece to an upstream infringer, the Defendant is
+
+contributorily liable for materially assisting the upstream infringer to redistribute, perform and
+display the Work in violation of 17 U.S.C. § 106(3)-(5) and 17 U.S.C. § 501.
+a.
+
+Contributory Infringement is a Jury Question
+
+Since one of the grounds for permissive joinder is joint and several liability, should the
+Court hold that joinder is not permitted, then any such holding would effectively summarily
+adjudicate Plaintiff’s claim for contributory infringement. Such a holding would be erroneous
+because contributory infringement is “a question of fact for trial.” Adobe Systems, Inc. v. Canus
+26
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 27 of 31
+Productions, Inc., 173 F. Supp.2d 1044, 1055 (C.D. Cal. 2001); Marobie-FL, Inc. v. National
+Ass’n of Fire Equipment Distributors, 983 F. Supp. 1167 (N.D. IL 1997) (“fact questions
+precluded summary judgment with respect to providers’ liability for contributory infringement”).
+Moreover, since BitTorrent works through the cooperative exchange among peers in a swarm,
+claims for contributory infringement must be permitted or the law would be inconsistent with the
+very nature of BitTorrent.
+b.
+
+Plaintiff Intends to Call Each Defendant To Prove Contributory
+Infringement vis-à-vis the other Defendants
+
+Regarding contributory infringement, by way of example, Plaintiff has to prove Doe 1 is
+liable for direct infringement in order for Plaintiff to succeed on its claim that Doe 2 is
+contributorily liable for Doe 1’s infringement. Indeed, “without proof of direct infringement there
+can be no liability for contributory infringement.” Bridgeport Music, inc. v. Diamond Time, Ltd.,
+371 F.3d 883 (6th Cir. 2004); accord Goldberg v. Cameron, 2009 WL 2051370, 6 (N.D. Cal. 2009)
+(same.) Accordingly, to support its claim of contributory infringement against each Defendant visa-vis each other Defendant, Plaintiff intends to call each of the Defendants to prove the direct
+infringement. The realities associated with Plaintiff’s evidentiary burdens weighs in favor of
+having one trial, as opposed to multiple trials, so that the parties’ resources are not squandered.
+D.
+
+Distinguishable Non-BitTorrent Cases
+
+Various cases have been cited in an effort to avoid joinder in BitTorrent cases. Some of the
+cases, for example, unlike this case, involve multiple Plaintiffs and infringement of multiple
+copyrights in the same lawsuit. Moreover, the technology underlying these cases is Gnutella.
+Gnutella was all 1-1 peer interactions and is entirely different than BitTorrent for that reason. See
+(1) BMG Music, et.. al. v. Does 1-4, Case No. 3:06-cv-01579-MHP, 2006 U.S. Dist. LEXIS
+53237, (N.D. Cal. 2006), (5 Plaintiffs – 12 different songs, see the Complaint at ¶ 15 and Exhibit
+A to the Complaint); (2) Twentieth Century Fox Film Corp. et. al. v. Does 1-12, Case No. 3:0427
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 28 of 31
+cv-04862-WHA, (N.D. Cal. 2004), (6 Plaintiffs – 13 songs, see the Complaint at ¶¶ 4-11 and
+Exhibit A to the Complaint); (3) Interscope Records, et. al. v. Does 1-25, 2004 U.S. Dist. LEXIS,
+Case No. 6:04-cv-197 – ACC- DAB (M.D. Fla. 2004), (16 Plaintiffs and dozens if not hundreds of
+songs, see the Complaint at ¶¶ 4-19 and Exhibit A to the Complaint); and (4) BMG Music v. Does
+1-203, Case No. 2:04-cv-00650-CN (E.D.P.A. 2004) (17 Plaintiffs and numerous works, see the
+Complaint at ¶¶ 4-19 & 23.)
+
+Since multiple works were at issue in these copyright cases, the
+
+Plaintiffs in those cases did not plead that the online infringements were part of the same
+transaction or series of transactions or that the defendants in those cases were contributorily liable
+for each others’ infringement.
+In some of the cases brought by DirecTV, Inc. joinder was not permitted. The Complaints in
+all of its cases are nearly identical. In these cases, DirecTV alleged that the defendants purchased
+– but not from each other or through a series of transactions among each other – “Pirate Access
+Devices” to steal satellite TV signals. 21 In each of the DirecTV cases, DirecTV only pled one or
+more of the following claims: (1) unauthorized reception of satellite signals in violation of 47
+U.S.C. § 605(a); (2) unauthorized interception of electronic communications in violation of 18
+U.S.C. §2511 (1)(a); (3) possession of pirate access devices in violation of 18 U.S.C. §
+2512(1)(b); (4) damages for willful assembly or modification of devices or equipment in violation
+of 47 U.S.C. § 605(e)(4); and (5) conversion. 22 Accordingly, it is clear that these cases did not
+involve claims that arose from the same transaction or occurrence or series of transactions and
+joint and several liability between the Defendants was not alleged. Accordingly, these cases are
+materially distinguishable.
+
+21
+
+See e.g.: In the Matter of DirecTV, Inc., DirecTV, Inc. v. Adrian, DirecTV, Inc. v. Boggess, and DirecTV v. Lewis.
+The Complaint in DirecTV v. Lewis, et. al., 2004 WL 941805 (W.D. N.Y. 2004) is not available, however the order
+severing the defendants makes clear it involved the same causes of action, as the other DirecTV cases.
+22
+
+28
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 29 of 31
+E.
+
+Plaintiff Properly Pled a Claim for Copyright Infringement: Defendant’s
+Motion to Dismiss Should Be Denied
+
+Defendant’s claim that copyright registration is a prerequisite for copyright infringement is
+incorrect. The Plaintiff’s copyright application has been filed with the United States Copyright
+Office, as set forth in the complaint. Once a certificate is issued, the registration will date back to
+the date of application. 17 U.S.C. § 410(d).
+The Supreme Court, in Reed Elsevier, Inc. v. Muchnick, 130 S.Ct. 1237 (U.S. 2010), held
+that § 411(a) does not restrict a federal court’s subject-matter jurisdiction in copyright
+infringement suits.
+
+“Federal district courts have subject-matter jurisdiction over copyright
+
+infringement actions based on 28 U.S.C. §§ 1331 and 1338. But neither § 1331, which confers
+subject-matter jurisdiction over questions of federal law, nor § 1338(a), which is specific to
+copyright claims, conditions its jurisdictional grant on whether copyright holders have registered
+their works before suing for infringement.” Id. at 1246.
+Further, the majority of federal courts hold only an application is necessary to commence a
+copyright infringement suit. In a twelve page opinion where this is the primary issue, the Ninth
+Circuit explained its rationale by stating, “the application approach avoids delay without
+impairing the central goal of copyright registration.” Cosmetic Ideas, Inc. v. IAC/Interactive
+Corp, 606 F.3d 612, 620 (9th Cir. 2010).
+Recently, a court within the fourth circuit held that a court has subject matter jurisdiction
+over registered and unregistered works:
+Although the United States Court of Appeals for the Fourth Circuit historically
+interpreted this statute to mean that “[c]opyright registration is a jurisdictional
+prerequisite to bringing an action for infringement under the Copyright Act,” the
+United States Supreme Court has recently decided to the contrary. Consequently,
+this Court properly has subject-matter jurisdiction over plaintiff's copyright
+infringement claims for both its registered and unregistered images. [Underlining
+added.]
+
+29
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 30 of 31
+Tattoo Art, Inc. v. TAT International, LLC, 2011 WL 2585376 at 11 (E.D.Va. 2011) (internal
+citations omitted). Just as in Tattoo, the court should find it has subject matter jurisdiction and
+deny defendant’s motion to dismiss.
+In arguendo, should the court find that registration is a precedent for filing suit, it should
+not dismiss the complaint but instead give plaintiff five days to amend its complaint under section
+43(a) of the Lanham Act. Indeed, here the subject torrent file contained an exact duplication of
+the common law trademark CHERRYBOXX.
+V.
+
+CONCLUSION
+
+Since joinder is proper in this matter, and this case is properly brought, Plaintiff respectfully
+requests that the Court deny all motions to sever filed prior to Plaintiff learning the identities of
+the Doe Defendants without prejudice to the Defendants’ right to raise the issue again later in the
+litigation.
+Dated: October 20, 2011
+Respectfully Submitted,
+
+By
+
+30
+
+/s/ Jon A. Hoppe__________
+Jon A. Hoppe, Esquire #6479
+Maddox, Hoppe, Hoofnagle &
+Hafey, L.L.C.
+1401 Mercantile Lane #105
+Largo, Maryland 20774
+(301) 341-2580
+
+Case 8:11-cv-01772-AW Document 15 Filed 10/20/11 Page 31 of 31
+CERTIFICATE OF SERVICE
+I hereby certify that on October 20, 2011 I electronically filed the foregoing document
+with the Clerk of the Court using CM/ECF and that service was perfected on all counsel of record
+and interested parties through this system.
+By: /s/ Jon A. Hoppe
+SERVICE LIST
+1. Eric J. Menhart, Esq.
+CyberLaw P.C.
+1200 G St. NW, Suite 800
+Washington, D.C. 20005
+Phone: 202-904-2818
+Fax: 202-403-3436
+2. Bradley F. Fowler, Esq.
+Franklin & Prokopik, P.C.
+Two North Charles St., Suite 600
+Baltimore, MD 21201
+Phone: 410-230-3050
+Fax: 410-752-6868
+Email: bfowlerlegal@fandpnet.com
+
+31
+
+

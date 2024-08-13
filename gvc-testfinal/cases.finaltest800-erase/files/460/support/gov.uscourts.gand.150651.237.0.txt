@@ -1,0 +1,987 @@
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 1 of 32
+
+UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF GEORGIA,
+ATLANTA DIVISION
+CAMBRIDGE UNIVERSITY PRESS,
+OXFORD UNIVERSITY PRESS, INC.,
+and SAGE PUBLICATIONS, INC.,
+Civil Action No. 1:08-CV-1425-ODE
+Plaintiffs,
+- v. MARK P. BECKER, in his official
+capacity as Georgia State University
+President, et al.,
+Defendants.
+
+PLAINTIFFS’ MOTION FOR PARTIAL RECONSIDERATION AND
+SUPPORTING MEMORANDUM OF LAW
+
+811163.1
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 2 of 32
+
+TABLE OF CONTENTS
+Page
+INTRODUCTION ......................................................................................................1
+PROCEDURAL HISTORY .......................................................................................2
+ARGUMENT..............................................................................................................4
+I.
+
+II.
+
+DEFENDANTS CAN BE HELD LIABLE UNDER EX
+PARTE YOUNG WITHOUT REFERENCE TO DOCTRINES
+OF SECONDARY COPYRIGHT INFRINGEMENT ......................4
+A.
+
+GSU Is Liable for Infringing Conduct by Its Employees
+Within the Scope of Their Employment Pursuant to the
+Doctrine of Respondeat Superior...............................................7
+
+B.
+
+Courts Hold “Official Capacity” Defendants Liable for
+Unlawful Acts Committed Within the Scope of Their
+Supervisory Authority..............................................................12
+
+C.
+
+The Record Demonstrates Both Significant Direct
+Infringement by GSU Employees and the Conceded
+Responsibility of the Named Defendants ................................16
+
+THE SCOPE OF THE FURTHER PROCEEDINGS
+ORDERED BY THE COURT SHOULD BE EXPANDED TO
+ENCOMPASS UNAUTHORIZED CONDUCT IN 2009 AND
+2010 BEYOND THAT DETAILED IN PLAINTIFFS’
+AUGUST RESPONSE.......................................................................19
+A.
+
+Plaintiffs’ Response to the August Orders Was
+Necessarily Limited by Shortcomings in GSU’s
+Production as to the Identified Academic Terms That
+Easily Can Be Rectified ...........................................................20
+
+B.
+
+Instances of Infringement Have Continued Beyond the
+Semesters Referenced in the August Order .............................22
+
+CONCLUSION.........................................................................................................25
+
+811163.1
+
+i
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 3 of 32
+
+TABLE OF AUTHORITIES
+
+Page(s)
+
+CASES
+Bd. of Pub. Educ. for Savannah v. State of Georgia., No. CV 490-101,
+1990 WL 608208 (S.D. Ga. Sept. 24, 1990)...........................................................14
+Gordon v. Nextel Comm., 345 F.3d 922 (6th Cir. 2003) .................................. 10-11
+Harper & Row Pub. Inc. v. Nation Enters., 471 U.S. 539 (1985)............................8
+Letterese & Assocs., Inc. v. World Inst. of Scientology Enters., Int’l,
+533 F.3d 1287 (11th Cir. 2008) ..........................................................................8, 12
+Luckey v. Harris, 860 F.2d 1012 (11th Cir. 1988) ........................................... 13-14
+Pinkham v. Sara Lee Corp., 983 F.2d 824 (8th Cir. 1992).....................................11
+Playboy Enters., Inc. v. Starware Publ’g Corp., 900 F. Supp. 433
+(S.D. Fla. 1995).......................................................................................................11
+Preserve Endangered Areas of Cobb’s History (P.E.A.C.H.) v. United States
+Army Corps of Engineers, 916 F. Supp. 1557 (N.D. Ga. 1995), aff’d,
+87 F.3d 1242 (11th Cir. 1996) ..............................................................................1, 6
+Princeton Univ. Press v. Michigan Document Servs., Inc., 99 F.3d 1381
+(6th Cir. 1996)...........................................................................................................8
+Salerno v. City Univ. of N.Y., 191 F. Supp. 2d 352 (S.D.N.Y. 2001).....................15
+Sandoval v. Hagan, 197 F.3d 484 (11th Cir. 1999), overruled on other grounds by
+Alexander v. Sandoval, 532 U.S. 275 (2001)..........................................................14
+Shapiro, Bernstein & Co. v. H.L. Green Co., 316 F.2d 304 (2d Cir. 1963)....... 9-11
+S. Bell Tel. and Tel. Co. v. Associated Tel. Directory Pub., 756 F.2d 801
+(11th Cir. 1985)................................................................................................. 10-11
+Sparks v. Pilot Freight Carriers, Inc., 830 F.2d 1554 (11th Cir. 1987)...................9
+Summit Medical Assocs., P.C. v. Pryor, 180 F.3d 1326 (11th Cir. 1999)........ 13-14
+Superhype Pub. Inc., v. Vasiliou, 838 F. Supp. 1220 (S.D. Ohio 1993) ................11
+Sygma Photo News, Inc. v. High Soc’y Magazine, Inc., 596 F. Supp. 28
+(S.D.N.Y. 1984), aff’d, 778 F.2d 89 (2d Cir. 1985) ........................................... 9-10
+
+811163.1
+
+ii
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 4 of 32
+
+TABLE OF AUTHORITIES
+(continued)
+
+Page(s)
+
+STATUTES, RULES, AND OTHER AUTHORITIES
+17 U.S.C. § 101.........................................................................................................7
+O.C.G.A § 51-2-2.................................................................................................. 8-9
+N.D.GA. L.R. 7.2(E).................................................................................................1
+3 M. NIMMER & D. NIMMER, NIMMER ON COPYRIGHT § 12.04[A][1]
+(2009) ..............................................................................................................7, 9, 11
+RESTATEMENT (THIRD) OF AGENCY § 2.04 (1999)....................................................8
+
+811163.1
+
+iii
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 5 of 32
+
+INTRODUCTION
+Plaintiffs Cambridge University Press (“Cambridge”), Oxford University
+Press, Inc. (“Oxford”), and SAGE Publications, Inc. (“SAGE”) (collectively,
+“Plaintiffs”) submit this motion for partial reconsideration of the Court’s
+September 30, 2010 Order and supporting memorandum of law pursuant to L.R.
+7.2(E). That rule authorizes reconsideration where necessary to correct clear error
+or prevent manifest injustice.1 Two aspects of the Order warrant reconsideration
+under this standard.
+First, because the Order erroneously rejected Plaintiffs’ argument that
+employers are strictly liable for direct copyright infringements committed by their
+employees under respondeat superior – both generally and as applied to the
+official-capacity defendants in this action – the Court improperly dismissed
+Plaintiffs’ direct infringement claims and limited Plaintiffs to proving their case by
+establishing liability under a contributory infringement theory.
+Second, the Order directed further proceedings on the issue of potential
+“ongoing and continuous” infringements by Defendants, including by way of
+further discovery. At the same time, the Order limited the universe of evidence
+1
+
+See, e.g., Preserve Endangered Areas of Cobb’s History (P.E.A.C.H.) v. United
+States Army Corps of Engineers, 916 F. Supp. 1557, 1560 (N.D. Ga. 1995), aff’d,
+87 F.3d 1242 (11th Cir. 1996).
+811163.1
+
+1
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 6 of 32
+
+that Plaintiffs may use to make that showing to claimed infringements identified in
+response to the Court’s August 11, 2010 and August 12, 2010 Orders, which only
+asked for information during three terms in 2009 and gave Plaintiffs ten days to
+identify such infringements. Yet there is reason to believe that not only were there
+additional infringements during those terms, but also that “ongoing and
+continuous” infringements continued during more recent academic terms,
+including Spring 2010 (evidence as to which was introduced by Defendants
+themselves as part of their summary judgment filings). Consequently, Plaintiffs
+seek an expansion of the permissible scope of evidence and discovery relating
+thereto to encompass additional conduct during 2009 as well as conduct in 2010 in
+order to give the Court a more complete picture of the infringing activities that lie
+at the heart of this lawsuit.
+PROCEDURAL HISTORY
+In this copyright infringement case, Plaintiffs, leading academic publishers,
+have alleged that Georgia State University (“GSU”) employees have infringed the
+copyrights in Plaintiffs’ works on a continuing and systematic basis. In support of
+that position, Plaintiffs moved for summary judgment against Defendants –
+officials at GSU responsible for and capable of halting the complained-of
+infringements. Defendants filed a cross-motion for summary judgment and, as part
+811163.1
+
+2
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 7 of 32
+
+of that motion, appended a report listing activity on the GSU ERes system during
+the Spring 2010 semester. Defendants’ opposition to Plaintiffs’ summary
+judgment motion also was accompanied by five declarations from GSU professors
+(the “Professor Declarations”) describing their experience under the newly adopted
+GSU copyright policy, including during the Spring 2010 semester.
+Following the summary judgment briefing, the Court issued orders on
+August 11 and August 12, 2010 that directed the Plaintiffs to file within ten days
+detailed information about any alleged infringements that occurred after the
+implementation of GSU’s new copyright policy and that were reflected in GSU
+courses taught during the 2009 Maymester or Summer 2009 or Fall 2009 terms and
+directed Defendants to file a response ten days later. Order, Docket No. 226.
+Plaintiffs filed the information they were able to collect in the time allowed on
+August 20, 2010. Defendants filed responses to Plaintiffs’ submissions on August
+31, 2010 and September 15, 2010.2
+On September 30, 2010, the Court denied Plaintiffs’ summary judgment
+motion. Cambridge Univ. Press, et al. v. Mark P. Becker, et al., No. 1:08-CV2
+
+Hereinafter Plaintiffs’ Response to the August Orders, Docket No. 228, is
+referred to as “Plaintiffs’ Response” or “Plaintiffs’ Supplemental Filing”;
+Defendants’ Response, comprising Docket Nos. 230 and 233, is referred to as
+“Defendants’ Response,” and the parties’ collective responses to the August Orders
+are referred to as the “August Submissions.”
+
+811163.1
+
+3
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 8 of 32
+
+1425-ODE (Sept. 30, 2010) (“Order”) at 31. Relying in part on the Professor
+Declarations, the Court granted Defendants’ motion as to Plaintiffs’ direct and
+vicarious infringement claims but denied it as to Plaintiffs’ contributory
+infringement claims, holding that the record as developed did not speak to the
+question of “whether in practice the current [copyright] policy is encouraging
+improper application of the fair use defense.” Id. at 29-30.
+The Court explained that “in order to show that Defendants are responsible
+for the copyright infringement alleged in this case, Plaintiffs must show that the
+2009 Copyright Policy resulted in ongoing and continuous misuse of the fair use
+defense.” Id. at 30. To do so, the Court instructed Plaintiffs to put forth evidence
+of “a sufficient number of instances of infringement” of their copyrights. Id.
+However, the Court limited the scope of further proceedings to the lists of claimed
+infringements produced in response to the Court’s August 11, 2010 and August 12,
+2010 Orders. Id.
+ARGUMENT
+I.
+
+DEFENDANTS CAN BE HELD LIABLE UNDER EX PARTE YOUNG
+WITHOUT REFERENCE TO DOCTRINES OF SECONDARY
+COPYRIGHT INFRINGEMENT
+As the Court recognized in its September 30 Order, Plaintiffs’ First
+
+Amended Complaint alleged that GSU employees infringed Plaintiffs’ copyrights
+811163.1
+
+4
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 9 of 32
+
+“by scanning, copying, displaying and distributing Plaintiffs’ copyrighted material
+– including but not limited to each copyrighted work identified on Exhibit 1 – on a
+widespread and continuing basis via the Georgia State website and other Georgia
+State computers and servers.” Order at 16 (quoting Docket No. 39 at 29). In their
+summary judgment briefing, Defendants sought to evade liability for these
+infringements on the ground that the individual GSU officials and Regents sued in
+their official capacities did not personally engage in the unauthorized copying and
+distribution of Plaintiffs’ works.
+The Court recognized that “the Board of Regents has general supervisory
+authority over Georgia State’s operations and elects the President of Georgia
+State.” Order at 7 (citing Defendants’ Response to Plaintiffs’ Statement of Facts,
+Docket No. 187, at 10-11). The Court also found that “Georgia State/Defendants
+have the right and ability to supervise the professors, instructors, and other
+employees,” Order at 20, and it is undisputed that certain of the other named
+defendants have supervisory authority over the staff of the GSU library and are
+responsible for correcting noncompliance with federal copyright law. Defendants’
+Response to Plaintiffs’ Statement of Facts, Docket No. 187, at 10-11. Given these
+facts, Plaintiffs pointed to the doctrine of respondeat superior, as well as to a
+related line of cases under Ex parte Young involving defendants sued in their
+811163.1
+
+5
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 10 of 32
+
+official capacities, as authority for holding Defendants liable for the infringing acts
+of GSU employees despite the fact that the named defendants were not actually
+pressing the button on the scanner. See Plaintiffs’ Memorandum of Law in
+Opposition to Defendants’ Motion for Summary Judgment, Docket No. 185 (“Pl.
+Opp. Mem.”), at 32-39.
+In its September 30 ruling, the Court stated correctly that GSU would be
+liable for copyright infringement under the doctrine of respondeat superior if two
+showings are made with respect to the claimed infringements by GSU employees:
+“(1) there must be an employer/employee relationship; and (2) the employee must
+be acting within the scope of his/her employment.” Order at 17. The Court also
+made a factual finding that “any employee who partook in any alleged
+infringement was acting within the scope of his/her employment,” Order at 18.
+Although this finding alone is legally sufficient to establish Defendants’ liability
+for direct infringement, the Court nevertheless held that Defendants “cannot be
+held directly liable for actions of the individual instructors through a respondeat
+superior theory because respondeat superior applies in the copyright context as a
+basis for finding vicarious liability, not direct liability.” Order at 18.
+Because that determination was clearly erroneous, it warrants
+reconsideration. See P.E.A.C.H., 916 F. Supp. at 1560. As the cases discussed
+811163.1
+
+6
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 11 of 32
+
+below and the record evidence regarding unauthorized copying and distribution at
+GSU make clear, Defendants are strictly liable for any direct copyright
+infringements committed by GSU employees within the scope of their employment
+regardless of whether they personally participated in, contributed to, or benefited
+from the infringement.
+A.
+
+GSU Is Liable for Infringing Conduct by Its Employees Within
+the Scope of Their Employment Pursuant to the Doctrine of
+Respondeat Superior
+
+The acts of every employer sued for copyright infringement are, by
+definition, acts of its employees undertaken on its behalf. Just as copyright law
+provides that an employer is deemed the author of works created by employees
+within the scope of their employment under the “work made for hire” doctrine of
+copyright law, see 17 U.S.C. § 101 (definition of “work made for hire”), so too is
+an employer legally responsible for acts of infringement committed by employees
+within the scope of their employment. See 3 M. NIMMER & D. NIMMER, NIMMER
+ON COPYRIGHT
+
+§ 12.04[A][1] at 72-73 (2009) (“Nimmer) (“[Just as the [work for
+
+hire] doctrine provides that the person who puts pen to paper, quill to canvas, or
+finger to keyboard is not the ‘author’ of the work to the extent the employment
+relationship exists, so the person who copies a work is by like measure not the sole
+author of the infringement[.]”). Nimmer, § 12.04[A][1] at 72-73.
+811163.1
+
+7
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 12 of 32
+
+Courts routinely hold employers responsible for direct copyright
+infringement by their employees without recourse to secondary (i.e., vicarious or
+contributory) infringement doctrines. See, e.g., Harper & Row Pub. Inc. v. Nation
+Enters., 471 U.S. 539 (1985) (holding defendant Nation enterprises liable for direct
+infringement by employee editor); Letterese & Assocs., Inc. v. World Inst. of
+Scientology Enters., Int’l, 533 F.3d 1287 (11th Cir. 2008) (holding defendant
+Scientology organizations directly liable for copying of plaintiff’s book by their
+employees); Princeton Univ. Press v. Michigan Document Servs., Inc., 99 F.3d
+1381 (6th Cir. 1996) (holding defendant copy shop directly liable for copying by
+employees).
+While conceptually one could, as the Court has, characterize an
+employer’s liability as “indirect” in such circumstances insofar as the employer
+itself has not literally performed the infringing acts, it does not follow that the sole
+basis for holding the employer liable is one or more of the secondary infringement
+doctrines. Instead, as the foregoing cases illustrate, the law holds the employer
+strictly liable for the direct infringements committed by its employees through the
+doctrine of respondeat superior. See RESTATEMENT (THIRD) OF AGENCY § 2.04
+(1999) (“An employer is subject to liability for torts committed by employees
+while acting within the scope of their employment.”); O.C.G.A. ¶ 51-2-2 (“Every
+811163.1
+
+8
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 13 of 32
+
+person shall be liable for torts committed by his . . . servant by his command or in
+the prosecution and within the scope of his business . . . .”); Shapiro, Bernstein &
+Co. v. H.L. Green Co., 316 F.2d 304, 307 (2d Cir. 1963) (“the normal agency rule
+of respondeat superior applies to copyright infringement by a servant within the
+scope of his employment”); Nimmer § 12.04[A][1] at 72 (“To the extent that the
+infringer is the agent of another, the master can be held culpable for the
+infringement.”).3
+The distinction between indirect liability under respondeat superior and
+secondary liability under the doctrines of vicarious and contributory infringement
+is important. Copyright liability attaches to the employer once it has been
+established that one or more of its employees has engaged in acts of direct
+infringement. See, e.g., Sygma Photo News, Inc. v. High Soc’y Magazine, Inc., 596
+
+3
+
+Sparks v. Pilot Freight Carriers, Inc., 830 F.2d 1554 (11th Cir. 1987), cited by
+the Court, see Order at 18, is not to the contrary. That case did not address
+copyright infringement but, rather, involved a civil rights claim under Title VII and
+the particular statutory definition of “employer” that applies to discrimination
+claims. Although the court referred to respondeat superior liability as “indirect,” it
+held that in situations where an employee accused of harassment is acting “within
+the scope of employment,” and thus is acting as the agent of the employer, the
+employer is “directly” and “strictly” liable for the employee’s harassment under
+Title VII without the need for any additional showing. Id. at 1559. See also id. at
+1558 (noting that “if Long was acting as an ‘agent’ of Pilot Freight when he
+sexually harassed Sparks, Pilot Freight is directly liable to Sparks for Long’s
+conduct”).
+811163.1
+
+9
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 14 of 32
+
+F. Supp. 28, 33 (S.D.N.Y. 1984), aff’d, 778 F.2d 89, 92 (2d Cir. 1985) (noting that
+the principle of respondeat superior imposes copyright infringement liability on
+defendant publisher for infringing activities by its employees within the scope of
+their employment). Under the Court’s interpretation of the doctrine of respondeat
+superior, however, notwithstanding a demonstration by Plaintiffs that employees of
+GSU have engaged in acts of direct infringement (which the record establishes, as
+detailed in Section C below), Plaintiffs still would be faced with separately proving
+the elements of contributory infringement as applied to GSU (accepting solely for
+purposes of this motion the Court’s dismissal of Plaintiffs’ vicarious infringement
+claims). Although Plaintiffs are confident that the current fact record supports
+such a finding, they respectfully submit that it should not be their burden to make
+that showing.
+The test for vicarious infringement established in Shapiro, Bernstein and
+adopted by the Eleventh Circuit in S. Bell Tel. and Tel. Co. v. Associated Tel.
+Directory Pub., 756 F.2d 801 (11th Cir. 1985) (discussed by the Court at page 20
+of the September 30 Order), was meant to extend traditional respondeat superior
+liability to situations involving defendants who, while not themselves the
+employers of the direct infringers, nonetheless share the hallmarks of an employer
+– i.e., control and financial benefit. See, e.g., Gordon v. Nextel Comm., 345 F.3d
+811163.1
+
+10
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 15 of 32
+
+922, 925-26 (6th Cir. 2003) (explaining that while “respondeat superior imposes
+liability on an employer for copyright infringement by an employee,” the Shapiro
+test applies “outside the employer-employee context”); Superhype Pub. Inc., v.
+Vasiliou, 838 F. Supp. 1220, 1225 (S.D. Ohio 1993) (holding that “[t]hough an
+employer can surely be liable for acts of infringement committed by an employee
+under the doctrine of respondeat superior, the courts have created a much broader
+umbrella of liability” for non-employers under the test for vicarious liability). That
+vicarious liability test, however, was not meant to limit or replace traditional
+employer liability for the direct infringements of employees under the theory of
+respondeat superior, even if such liability is “indirect” in the sense that the
+employee’s conduct is attributed to the employer.4 The case law clarifies that the
+
+4
+
+Indeed, the language quoted by the Court from Southern Bell related to the
+potential personal liability of individuals who were held jointly and severally liable
+with (i.e., in addition to) the defendant employers; their personal liability neither
+superseded the employer’s liability nor created a new test to be applied to the
+employers. Compare Playboy Enters., Inc. v. Starware Pub. Corp., 900 F. Supp.
+433, 438 (S.D. Fla. 1995) (holding defendant employer liable for direct
+infringement of plaintiff’s photographs), with Playboy Enters., Inc. v. Starware
+Pub. Corp., 900 F. Supp. 438, 440-42 (S.D. Fla. 1995) (holding defendant officers
+personally liable under Southern Bell tests of personal and vicarious liability); see
+also, e.g., Pinkham v. Sara Lee Corp., 983 F.2d 824, 833-34 (8th Cir. 1992)
+(same); Nimmer § 12.04[A][1] at 72-73 (distinguishing liability of the employer
+under respondeat superior from personal liability of “related” corporate officers).
+Although Plaintiffs have named certain GSU officials as defendants here, Plaintiffs
+do not seek to hold them personally liable; rather, as discussed in the next section,
+811163.1
+
+11
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 16 of 32
+
+operative distinction is not whether the defendant is a direct or indirect infringer
+but whether the defendant is liable as an employer (through the doctrine of
+respondeat superior) or as a related party (through the doctrine of vicarious
+infringement).
+In short, because the Court found correctly that the GSU employees were
+acting within the scope of their employment (in scanning, copying, displaying and
+distributing Plaintiffs’ copyrighted material on ERes and uLearn), see Order at 18,
+Defendants are responsible for infringements by those GSU employees under
+respondeat superior to the extent the Court otherwise determines that the
+challenged activities on the part of those employees constitute direct copyright
+infringement. See generally Letterese, 533 F.3d 1287.
+B.
+
+Courts Hold “Official Capacity” Defendants Liable for
+Unlawful Acts Committed Within the Scope of Their
+Supervisory Authority
+
+The above conclusion is not disturbed by the fact that the defendants in this
+case are officials of a public institution rather than the employing entity itself.
+Under Ex parte Young, the named defendants would be strictly liable in their
+official capacities for GSU employees’ acts of direct infringement based on their
+
+Defendants are named in their official capacities as representatives of their
+employer, GSU, pursuant to Ex parte Young.
+811163.1
+
+12
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 17 of 32
+
+supervisory authority over the infringing conduct – no differently than would the
+institution that employed those individuals in a private setting. Accordingly, the
+Court can order prospective injunctive relief against the named defendants upon a
+showing of direct infringements by GSU employees without having to address
+theories of secondary infringement. See Luckey v. Harris, 860 F.2d 1012 (11th
+Cir. 1988); Pl. Opp. Mem. 35-36.
+Under Ex parte Young, there is no need to show that state officials named as
+official-capacity defendants personally violated federal law – either directly or
+secondarily – to establish their liability for direct infringement by employees of the
+state institution. See Pl. Opp. Mem. 35-39. For example, the plaintiffs in a classaction suit concerning inadequate funding for indigent legal services named as
+defendants the governor of Georgia and the state judges responsible for providing
+counsel to indigent defendants in Georgia courts. Luckey, 860 F.2d at 1013-14.
+The Eleventh Circuit rejected the notion that an Ex parte Young defendant official
+must have taken some action personally that violates the Constitution or federal
+law, holding instead that “[p]ersonal action by defendants individually is not a
+necessary condition of injunctive relief against state officers in their official
+capacity.” Id.at 1015. Rather, “[a]ll that is required is that the official be
+responsible for the challenged action.” Id. (emphasis added). See also Summit
+811163.1
+
+13
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 18 of 32
+
+Medical Associates, P.C. v. Pryor, 180 F.3d 1326, 1341 (11th Cir. 1999) (holding
+that plaintiffs properly named as defendants Alabama’s Governor and Attorney
+General and the District Attorney because they were authorized to enforce the
+criminal liability provisions of the challenged statute).
+In sum, liability is attributed to the named Defendants based on the conduct
+of others acting within Defendants’ supervisory authority and does not require any
+additional showing – such as encouragement of the conduct or financial benefit
+from it. The only relevant question is whether the named Defendants have the
+authority to stop the direct violations about which Plaintiffs complain. See, e.g.,
+Sandoval v. Hagan, 197 F.3d 484, 492, 500-01 (11th Cir. 1999) (holding that the
+Director of the Alabama Department of Public Safety could face a lawsuit alleging
+unlawful promulgation of English-only drivers’ license exams), overruled on other
+grounds by Alexander v. Sandoval, 532 U.S. 275 (2001); Bd. of Pub. Educ. for
+Savannah v. State of Georgia., No. CV 490-101, 1990 WL 608208, at *4 (S.D. Ga.
+Sept. 24, 1990) (unpublished) (rejecting defendants’ argument that the Ex parte
+Young exception applies only when the official is “personally or individually
+involved in the unconstitutional action”) (citing Luckey, 860 F.2d at 1015-16).
+Relying on Ex parte Young, courts have permitted a plaintiff to seek
+injunctive relief against an officer of a state university for ongoing direct violations
+811163.1
+
+14
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 19 of 32
+
+of federal copyright law. See Salerno v. City Univ. of N.Y., 191 F. Supp. 2d 352,
+357 (S.D.N.Y. 2001). As described in Plaintiffs’ opposition papers, see Pl. Opp.
+Mem. 37-38, the plaintiffs in Salerno sued the chancellor of the City University of
+New York and the director of another state institute, alleging that the plaintiff
+Aleandri’s work was being infringed by employees of the university and of the
+institute. In response, both the chancellor and the director moved to dismiss on the
+ground that the plaintiffs had not alleged with specificity how the officers were
+connected with the enforcement of the alleged violations of Aleandri’s copyright.
+Id. The defendants also argued that Ex parte Young was unavailable because “the
+state is the real party in interest in this matter.” Id. The court rejected both
+arguments, explaining that Ex parte Young only requires a plaintiff to allege “some
+connection between the official and the enforcement of the illegal act” and noting
+that the defendants’ argument ignored the whole point of Ex parte Young, which is
+to permit claims for prospective injunctive relief against state officials to ensure
+state compliance with federal law. See id. at 357 (emphasis added).
+The foregoing cases effectively carry the agency rationale of respondeat
+superior into the context of state institutions, consistent with the Eleventh
+Amendment. Injunctive relief against the official-capacity defendants enables the
+plaintiff to obtain an effective remedy under Ex parte Young against unlawful
+811163.1
+
+15
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 20 of 32
+
+conduct by employees of the institution for whom the defendants are responsible.
+As Plaintiffs explained in their opposition brief, Defendants have admitted that
+they have the authority and/or duty to ensure, in one way or another, that GSU is in
+or, as necessary, comes into, compliance with federal copyright law. See Pl. Opp.
+Mem. at 38-39. And, as the Court found, “any employee who partook in any
+alleged infringement was acting within the scope of his/her employment.” Order at
+18. It follows, under the cases discussed above, that Defendants are liable for the
+direct infringement under Ex parte Young even if they did not personally make or
+distribute unauthorized copied of Plaintiffs’ works, without regard to whether their
+liability is more properly characterized as “direct” or “indirect” and without any
+need to invoke the doctrines of vicarious or contributory infringement.
+C.
+
+The Record Demonstrates Both Significant Direct Infringement
+by GSU Employees and the Conceded Responsibility of the
+Named Defendants
+
+The September 30 Order reflects some uncertainty as to the nature of the
+activities claimed by Plaintiffs to constitute direct infringement of their copyrights.
+By way of clarification, the record establishes that ordinary usage of the ERes
+system results in a variety of acts by GSU employees on the GSU computer system
+that, unless excused by the fair use doctrine, plainly constitute acts of direct
+copyright infringement – acts for which the Defendants are strictly liable and
+811163.1
+
+16
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 21 of 32
+
+subject to injunctive relief under the doctrine of respondeat superior and Ex parte
+Young, as described above. Specifically:
+• When a member of the GSU library staff electronically scans copyrighted
+materials in preparation for uploading them to the ERes system, an
+unauthorized, permanent digital copy is created on a computer server
+owned by GSU and operated by GSU information technology staff;5
+• When a member of the GSU library staff uploads the digital copy to the
+ERes system, an unauthorized digital copy is created on the ERes system
+on a computer server owned by GSU and operated by GSU information
+technology staff;6
+• In order to send students copies of files through the ERes system,
+unauthorized digital copies are first created and stored in the memory of a
+computer server owned by GSU and operated by GSU information
+technology staff and then distributed to each student in the class who
+accesses the reading.7
+It is uncontested that the GSU library personnel, information technology
+specialists, and professors involved in posting materials to the ERes system are
+employees of GSU – the first element necessary to establish Defendants’
+respondeat superior liability. As to the second element, the Court has held that
+“any employee who partook in any alleged infringement was acting within the
+5
+
+Docket No. 172 at 34-35, 40-41 (Dimsdale Dep.); Plaintiffs’ Memorandum of
+Law in Support of Motion for Summary Judgment, Docket No. 142 (“Pl. Mem.”),
+16.
+6
+
+Pl. Mem. 16.
+
+7
+
+Docket No. 162 at 6 (Dewar Report); Docket No. 167 at 40-41, 50-52 (Palmour
+Dep.); Pl. Mem.16-17.
+811163.1
+
+17
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 22 of 32
+
+scope of his/her employment and therefore the second element of respondeat
+superior is satisfied.” Order at 18. These findings, taken together, are enough to
+hold Defendants liable for direct infringement without any additional showing of
+financial benefit, material contribution, or the like.
+The record also makes clear that Defendants have the requisite responsibility
+for the direct infringements detailed above to be held liable for them and to be
+subject to injunctive relief under Ex Parte Young. The Court found that “Georgia
+State/Defendants have the right and ability to supervise the professors, instructors,
+and other employees,” Order at 20, and it is undisputed that certain of the other
+named defendants have supervisory authority over the staff of the GSU library and
+are responsible for correcting noncompliance with federal copyright law.
+Defendants’ Response to Plaintiffs’ Statement of Facts, Docket No. 187, at 10-11.
+In light of the foregoing, Plaintiffs respectfully request that the Court (1)
+reconsider its holding, in the September 30 Order, that Defendants cannot be held
+liable for direct infringement; (2) deny Defendants’ motion for summary judgment
+as to Plaintiffs’ direct infringement claims; and (3) allow Plaintiffs to move
+forward with those claims as well as with their contributory infringement claims.
+
+811163.1
+
+18
+
+Case 1:08-cv-01425-ODE Document 237
+
+II.
+
+Filed 10/20/10 Page 23 of 32
+
+THE SCOPE OF THE FURTHER PROCEEDINGS ORDERED BY
+THE COURT SHOULD BE EXPANDED TO ENCOMPASS
+UNAUTHORIZED CONDUCT IN 2009 AND 2010 BEYOND THAT
+DETAILED IN PLAINTIFFS’ AUGUST RESPONSE
+The Court has expressly directed Plaintiffs to make an evidentiary proffer as
+
+to the “ongoing and continuous” nature of Defendants’ asserted infringements.
+Yet the Order limits Plaintiffs’ ability to meet this burden by confining the
+universe of evidence that Plaintiffs may use to make the required showing to
+alleged infringements described in the August Submissions. As we describe, these
+Submissions are incomplete as to the scope of potential infringement during the
+three 2009 terms they encompass, and by definition do not include evidence of
+ongoing infringement during the four academic terms that have ensued. That the
+existence of such further evidence of ongoing and continuous infringement is not
+merely speculative is revealed by the partial record as to the Spring 2010 semester,
+which was discussed in the parties’ summary judgment motions. Those filings
+highlighted significant infringing activity at GSU during this later semester.
+Plaintiffs accordingly submit that the evidence of “ongoing and continuous”
+infringing activity on which the September 30 Order asks the Plaintiffs to focus
+should not be limited to the specific instances detailed in the August Submissions
+(or, more generally, to the period between February 17, 2009 and September
+2009). Plaintiffs instead respectfully request that the Court reconsider its Order
+811163.1
+
+19
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 24 of 32
+
+and allow more complete discovery into, and the submission of evidence
+concerning, instances of ongoing infringements at GSU during 2009 and 2010
+beyond those identified subject to the limits of prior discovery.
+A.
+
+Plaintiffs’ Response to the August Orders Was Necessarily
+Limited by Shortcomings in GSU’s Production as to the
+Identified Academic Terms That Easily Can Be Rectified
+
+Plaintiffs faced a number of difficulties in comprehensively responding to
+the Court’s August Orders that limited their ability to depict the full scope of
+infringement at GSU during the 2009 Maymester and Summer and Fall 2009
+terms.8 For one, Plaintiffs were unable to include all of the material that was
+posted to ERes during these academic terms because the ERes reports produced by
+Defendants (and necessarily relied upon by Plaintiffs in their Response) were
+incomplete. Pl. Supp. Filing ¶ 5(b). Specifically, the ERes reports for the 2009
+Summer and Fall terms were generated and produced shortly after those terms
+began. While the Summer 2009 term lasted through July 28, 2009, the ERes report
+produced reflects usage and statistics only through July 1, 2009. Similarly,
+although the Fall 2009 Semester presumably extended until December, the report
+produced by Defendants covered material on the ERes system only through
+
+8
+
+These limitations were described in Plaintiffs’ Response. See Pl. Supp. Filing
+¶ 5.
+
+811163.1
+
+20
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 25 of 32
+
+September 15, 2009. Id. Thus, these reports do not include any additional course
+material that professors may have posted to ERes later in those terms, nor do they
+reflect data as to students who viewed such materials later in these terms.
+Plaintiffs’ Response was further limited in that certain of the entries on the ERes
+reports did not identify the specific material – the chapters or pages from certain
+works – that was posted to ERes. See Pl. Supp. Filing ¶ 5(c).9
+As indicated in the parties’ proposed scheduling orders submitted on
+October 20, 2010, Defendants have indicated that they will produce complete ERes
+reports for the 2009 Maymester and Summer and Fall 2009 terms as well as
+“available” syllabi and fair use checklists for the courses and list of claimed
+infringements set forth in response to the Court’s August Orders. Plaintiffs
+respectfully request that the Court reconsider its Order to allow Plaintiffs to
+supplement their August Response with any additional instances of claimed
+infringements that may be revealed in these updated ERes reports and, to the extent
+revealed by the syllabi, to add previously missing chapter and page details. To the
+extent any additional instances of claimed infringements are identified, Plaintiffs
+also request that Defendants be ordered to produce syllabi and fair use checklists
+
+9
+
+Pl. Supp. Filing ¶ 5(a); see also Joint Notice of Filing Stipulations, Docket No.
+118, ¶¶ 6-7.
+811163.1
+
+21
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 26 of 32
+
+related to such works as well (as they have agreed to do for the works in the
+August Response).
+B.
+
+Instances of Infringement Have Continued Beyond the
+Semesters Referenced in the August Orders
+
+Three academic terms (Spring, May and Summer 2010) have been
+completed since the terms referenced in the August Submission. Currently, GSU
+students are enrolled in the Fall 2010 term. A complete picture of ongoing
+infringing activity warrants Plaintiffs’ being afforded discovery into ERes postings
+of Plaintiffs’ works during these later terms.
+There is good reason to believe that evidence of continuing infringement of
+the type identified in the prior ERes reports and in the August Submissions would
+be uncovered via discovery into ERes practices for these succeeding terms. By
+way of example, the parties’ summary judgment briefs and Plaintiffs’ supplemental
+declarations10 detailed instances of unlicensed uses of Plaintiffs’ works during the
+Spring 2010 semester that reflect a pattern of activity remarkably similar to that
+uncovered with respect to prior academic terms and depicted in the August
+
+10
+
+See Defendants’ Memorandum in Support of Motion for Summary Judgment,
+Docket No. 160, at 7-13; Pl. Opp. Mem. 10-14; Supplemental Declaration of Frank
+Smith, (Apr. 5, 2010), Supplemental Declaration of Niko Pfund (Apr. 5, 2010),
+Supplemental Declaration of Sara van Valkenburg (Apr. 5, 2010), Docket No. 184
+(“Supplemental Declarations”).
+811163.1
+
+22
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 27 of 32
+
+Submissions. Specifically, the Spring 2010 ERes report shows that about 1,000
+unlicensed course materials already had been posted to ERes and accessed over
+25,000 times just a few weeks into the Spring 2010 semester, including at least 60
+works owned or controlled by Plaintiffs. Specific instances of unlicensed uses of
+Plaintiffs’ works during this time period included, but were not limited to:
+• 22 works owned or controlled by SAGE, all but one of which has been
+distributed via ERes semester after semester at GSU;
+• 23 works owned or controlled by Oxford, 14 of which have continued to be
+distributed via ERes semester after semester at GSU; and
+• 16 works owned or controlled by Cambridge, seven of which have continued
+to be distributed via ERes semester after semester.11
+Furthermore, many of the same professors identified in the August
+Submissions as instructors of courses in which an allegedly infringed work was
+assigned were reported on the Spring 2010 ERes report as continuing to post
+multiple chapters from the same work, numerous excerpts for a single course, and
+lengthy excerpts of 30, 40, 50, or even more pages from a single work.12 By way
+of example, in Spring 2010:
+
+11
+
+Pl. Opp. Mem. 10-12; Spring 2010 ERes Report, Docket No. 160; Supplemental
+Declarations.
+12
+
+Spring 2010 ERes Report, Docket No. 160.
+
+811163.1
+
+23
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 28 of 32
+
+• Professor Esposito posted 26 excerpts to ERes for her course EPRS8500,
+including 30 pages from Handbook of Qualitative Research and 46 pages
+from Qualitative Interviewing;
+• Professor Kaufmann posted numerous excerpts to ERes for EPRS8500,
+including 74 pages from Handbook of Feminist Research, 41 pages from
+Handbook of Narrative Inquiry, and 169 pages from Handbook of
+Qualitative Research;
+• Professor Lloyd posted numerous excerpts to ERes for RELS3305, including
+44 pages from Critics of the Bible; 36 pages from The Cambridge
+Companion to Karl Barth, and 45 pages from The Problem of Evil;
+• Professor Orr posted numerous excerpts to ERes for MUS8830, including 49
+pages from Ars Nova and the Renaissance, 29 pages from The Rise of
+European Music, and 22 pages from The Motet in the Age of Du Fay;
+• Professor Restivo posted at least 100 pages from Film Theory and Criticism
+on ERes for COMM6020; and
+• Professor Selwood posted numerous excerpts to ERes for HIST4540,
+including 47 pages from Cheap Print & Popular Piety and 36 pages from
+the Examinations of Anne Askew.13
+To avoid the prospect of manifest injustice were Plaintiffs confined to the
+limited record available to them to date in demonstrating a pattern of “ongoing and
+continuous” infringements by GSU under the control and supervision of the
+Defendants, Plaintiffs respectfully request that, in addition to allowing Plaintiffs to
+fill out the record as to potentially infringing activity during the three academic
+terms that were the subject of the August Submissions, the Court expand the
+
+13
+
+Id.; see also Pl. Opp. Mem. 11 (discussing Esposito excerpts).
+
+811163.1
+
+24
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 29 of 32
+
+temporal scope of further proceedings to include discovery into, and a proffer of
+evidence concerning, instances of claimed infringement that have occurred during
+2010.
+CONCLUSION
+For reasons discussed above, Plaintiffs move the Court to reconsider
+portions of its September 30 Order and (1) deny Defendants’ motion for summary
+judgment as to Plaintiffs’ direct infringement claims and allow Plaintiffs to move
+forward with those claims as well as with their contributory infringement claims;
+(2) allow Plaintiffs to introduce evidence of infringements during the May,
+Summer, and Fall 2009 terms beyond those indicated in the August Submissions
+and order Defendants to produce syllabi and fair use checklists related to such
+works; and (3) allow Plaintiffs to introduce evidence of infringements during the
+Spring, May, Summer, and Fall 2010 terms, and order Defendants to produce ERes
+reports from those terms and syllabi and fair use checklists related to claimed
+infringing works from those terms to aid Plaintiffs in making such a showing.
+Respectfully submitted this 20th day of October, 2010.
+/s/ John H. Rains IV
+Edward B. Krugman
+Georgia Bar No. 429927
+John H. Rains IV
+Georgia Bar No. 556052
+811163.1
+
+25
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 30 of 32
+
+BONDURANT, MIXSON & ELMORE, LLP
+1201 West Peachtree Street NW
+Suite 3900
+Atlanta, GA 30309
+(404) 881-4100
+R. Bruce Rich (pro hac vice)
+Randi Singer (pro hac vice)
+Jonathan Bloom (pro hac vice)
+Todd D. Larson (pro hac vice)
+WEIL, GOTSHAL & MANGES LLP
+767 Fifth Avenue
+New York, New York 10153
+Attorneys for the Plaintiffs
+
+811163.1
+
+26
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 31 of 32
+
+CERTIFICATE OF COMPLIANCE
+Pursuant to Local Rule 7.1(D), I hereby certify that this document complies
+with the font and point selections set forth in Local Rule 5.1. This document was
+prepared in Times New Roman 14 point font.
+/s/ John H. Rains IV
+John H. Rains IV
+
+811163.1
+
+27
+
+Case 1:08-cv-01425-ODE Document 237
+
+Filed 10/20/10 Page 32 of 32
+
+CERTIFICATE OF SERVICE
+I hereby certify that I have this day filed the foregoing PLAINTIFFS’
+MOTION FOR PARTIAL RECONSIDERATION AND SUPPORTING
+MEMORANDUM OF LAW with the Clerk of Court using the CM/ECF filing
+system which will automatically send e-mail notification of such filing to the
+following attorneys of record:
+Anthony B. Askew, Esq.
+Stephen M. Schaetzel, Esq.
+Kristen A. Swift, Esq.
+C. Suzanne Johnson, Esq.
+King & Spalding
+1180 Peachtree Street
+Atlanta, Georgia 30309
+Kristina M. Quicker, Esq.
+BALLARD SPAHR, LLP
+999 Peachtree Street, Suite 1000
+Atlanta, GA 30309
+Mary Jo Volkert, Esq.
+Assistant S. Attorney General
+40 Capitol Square
+Atlanta, Georgia 30334
+
+This 20th day of October, 2010.
+
+/s/ John H. Rains IV
+John H. Rains IV
+
+811163.1
+
+28
+
+

@@ -1,0 +1,624 @@
+Case 0:15-cv-61718-WPD Document 86 Entered on FLSD Docket 03/10/2017 Page 1 of 21
+
+IN THE UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF FLORIDA
+CASE NO.: 15-cv-61718-WPD
+CECILIA SNYDER, individually and on
+behalf of a class of similarly situated individuals,
+Plaintiff,
+v.
+ICARD GIFT CARD, LLC, a Florida limited
+liability company, and CASH STAR, INC., a
+Delaware corporation,
+Defendants.
+/
+PLAINTIFF’S MEMORANDUM OF LAW
+IN OPPOSITION TO DEFENDANT CASHSTAR, INC’S
+MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM
+I.
+
+INTRODUCTION
+Defendant Cash Star, Inc.’s (“CashStar”) Motion to Dismiss (Dkt. 84) struggles mightily
+
+to present Plaintiff’s well-pled allegations of fact as “speculative,” “conclusory,” and
+“unsupported.” (Mot. to Dismiss, Dkt. 84, at 2, 6.) However, CashStar ultimately cannot
+dispute the numerous facts pled in Plaintiff’s First Amended Complaint (Dkt. 65) (“Complaint”)
+establishing that CashStar can be held vicariously liable for the unauthorized text message
+marketing conducted by Defendant iCard Gift Card, LLC (“iCard”) on its behalf. Regardless of
+how CashStar labels Plaintiff’s allegations, Plaintiff’s Complaint plainly establishes that iCard
+sells CashStar’s gift card products (1st Amend. Compl., Dkt. 65, at ¶¶ 7, 18–20), that iCard
+utilizes CashStar’s system to fulfill customer orders (id. at ¶ 17), that CashStar directly profits
+from any sales of its gift card products made by iCard (id. at ¶ 21), and most importantly, that
+
+1
+
+Case 0:15-cv-61718-WPD Document 86 Entered on FLSD Docket 03/10/2017 Page 2 of 21
+
+CashStar “directs iCard to market and promote CashStar’s gift cards to consumers through
+advertising campaigns, including the text message advertisements described[.]” (1st Amend.
+Compl. at ¶ 21.) These allegations are hardly “conclusory,” but are instead specific factual
+allegations that must be taken as true.
+While Defendant attempts to portray its involvement in the unauthorized text messaging
+activity at issue as simply a “supplier of [the] gift cards” (Mot. to Dismiss at 2), and claims that
+Plaintiff is just “out to find another pocket,” the Federal Communications Commission (“FCC”)
+has ruled that a defendant can be held vicariously liable where, as here, it has directed a thirdparty to conduct telemarketing on its behalf. See In re Joint Petition by DISH Network, LLC for
+Declaratory Ruling, 28 FCC Rcd. 6574 at ¶¶ 28, 46 (2013) (“2013 FCC Ruling”).1 In fact, the
+FCC took this position specifically envisioning a situation such as here, where “the seller”
+“avoid[s] potential liability by outsourcing its telemarketing activities to unsupervised third
+parties” that are “judgment proof[.]” Id. at ¶ 37. Defendant cannot knowingly direct iCard to
+market CashStar’s products, be aware that iCard was engaging in advertising for CashStar’s
+benefit, reap the profits of iCard’s unauthorized telemarketing, and then bury its head in the sand
+by arguing that iCard was just an “independent contractor.” (Mot. to Dismiss at 4.)
+Ultimately, whether an agency relationship exists such that CashStar can be held
+vicariously liable for iCard’s unauthorized telemarketing is a question of fact to be determined at
+trial.
+
+Furthermore, Plaintiff has pled sufficient facts that go far beyond just “reasonably
+
+alleg[ing]” that the text message calls were placed by iCard on CashStar’s behalf as the FCC has
+found sufficient to establish vicarious liability at the pleading stage. (2013 FCC Ruling at ¶ 46,
+n. 139.) Accordingly, CashStar’s Motion to Dismiss should be denied.
+
+1
+
+Relevant excerpts of the 2013 FCC Ruling are attached hereto as Exhibit A.
+2
+
+Case 0:15-cv-61718-WPD Document 86 Entered on FLSD Docket 03/10/2017 Page 3 of 21
+
+II.
+
+BACKGROUND
+A.
+
+Procedural History
+
+Plaintiff originally filed her Class Action Complaint against Defendant iCard on August
+17, 2015, alleging that iCard sent unauthorized automated text message advertisements to her
+cell phone, and the cell phones of other putative class members, in violation of the Telephone
+Consumer Protection Act, 47 U.S.C. § 227(b)(1)(A)(iii) (the “TCPA”). (Dkt. 1 at ¶¶ 15, 17, 23,
+29.) After prevailing on multiple attempts by iCard to dismiss this matter through three separate
+motions to dismiss (Dkts. 23, 55, 75) and a motion for summary judgment (Dkt. 46), Plaintiff
+was given leave to amend her complaint to add CashStar as an additional defendant in this suit.
+(Dkt. 64.) Contrary to CashStar’s efforts to impute an improper motive for Plaintiff seeking
+leave to amend to add CashStar, and as Plaintiff explained in her Motion for Leave to Amend
+(Dkt. 60), Plaintiff issued the subpoenas that led to the production of the “Digital Gift Card
+Distribution Agreement” (the “CashStar Contract”) between CashStar and iCard in an effort to
+obtain relevant information that iCard had refused to produce. (Mot. for Leave to Amend, Dkt.
+60, at 4.) Indeed, as the allegations in Plaintiff’s First Amended Complaint make clear, the
+issued subpoenas resulted in Plaintiff receiving relevant information identifying CashStar as not
+just a direct beneficiary of the text message marketing campaign, but as an entity that directed
+iCard to undertake such marketing efforts.2
+
+As for CashStar’s insinuations regarding Plaintiff’s decision to not attach the CashStar Contract
+to her Motion for Leave to Amend or to her First Amended Complaint (Mot. to Dismiss at 3),
+Plaintiff chose not to attach the CashStar Contract because it was produced pursuant to a
+confidentiality agreement. Nonetheless, Plaintiff does not object to CashStar’s production of the
+Contract and its citations thereto, and in fact, as discussed further below, invites the Court to
+study the relevant language that, in part, forms the basis of Plaintiff’s allegations against
+CashStar and establishes CashStar’s vicarious liability for the conduct at issue.
+2
+
+3
+
+Case 0:15-cv-61718-WPD Document 86 Entered on FLSD Docket 03/10/2017 Page 4 of 21
+
+B.
+
+Plaintiff’s First Amended Complaint
+
+CashStar’s Motion to Dismiss attempts to paint Plaintiff’s First Amended Complaint as a
+haphazard collection of “labels and conclusion[s]” attempting to fit a “round peg into [a] square
+hole.” (Mot. to Dismiss at 2.) However, an objective review of the First Amended Complaint
+reveals that CashStar eludes many of the relevant allegations of fact that establish its role in the
+text message marketing at issue. Rather than shoehorning in allegations regarding CashStar’s
+involvement with iCard and the telemarketing at issue, the First Amended Complaint in fact
+plainly explains the detailed nature of CashStar’s relationship with iCard, and how CashStar was
+involved in the unauthorized automated text messages sent by iCard.
+iCard markets and sells gift cards for various stores, restaurants, and other businesses.
+(1st Amend. Compl. at ¶ 6.) However, iCard does not have relationships with the various
+businesses whose gift cards it sells. (Id. at ¶ 18.) Instead, iCard entered into a contract with
+CashStar to sell CashStar’s gift card products, as it is CashStar that actually maintains contracts
+with the various merchants to distribute and sell their gift cards to the public through retailers
+such as iCard. (Id.) Pursuant to this contract, iCard utilizes CashStar’s “API” (Application
+Program Interface) to connect directly to CashStar’s gift card distribution service and sell
+CashStar’s gift card products through iCard’s online store and the “iCard Gift Card app”
+advertised in the text message received by Plaintiff. (Id. at ¶ 17.) Accordingly, while iCard sells
+CashStar’s gift cards on its mobile application and online store, these orders are in fact redeemed
+through CashStar’s API, and it is CashStar that fulfills the orders and actually delivers the
+physical and/or digital gift cards to the purchaser. (Id. at ¶ 19.) In sum, iCard is simply a seller
+and marketer of CashStar’s gift card products that CashStar makes available to iCard and its
+customers through CashStar’s own API interface. (1st Amend. Compl. at ¶ 20.) CashStar thus
+
+4
+
+Case 0:15-cv-61718-WPD Document 86 Entered on FLSD Docket 03/10/2017 Page 5 of 21
+
+directly profits from iCard’s sales of its gift cards and any marketing conducted by iCard. (1st
+Amend. Compl. at ¶ 21.)
+However, and most importantly, not only does CashStar provide its gift card products to
+iCard to sell, directly profit from any sales of its gift card products by iCard, and fulfill sale
+orders taken by iCard on its behalf, but CashStar also specifically “directs iCard to market and
+promote CashStar’s gift cards to consumers through advertising campaigns, including the text
+message advertisements [received by Plaintiff and the Class members].” (Id.) While CashStar
+summarily determines that this is a “conclusory allegation[]” for which “[t]here is no support”
+(Mot. to Dismiss at 10), as the discussion above makes clear this allegation is supported by the
+numerous other facts pled in Plaintiff’s Complaint regarding how iCard sells and markets
+CashStar’s gift card products, utilizes CashStar’s API to sell gift cards, and that CashStar directly
+profits from iCard’s sales.
+Furthermore, CashStar fails to explain how this is a “conclusory allegation” and why
+Plaintiff has to provide any additional factual support given that it is a well-pled allegation of
+fact that must be taken as true and viewed in the light most favorable to Plaintiff at the pleading
+stage. ICON Health & Fitness, Inc. v. IFITNESS, Inc., No. 12-cv-20125, 2012 WL 1120925, at
+*2 (S.D. Fla. Apr. 3, 2012). In fact, the Court does not need to look any further than the specific
+language of the CashStar Contract to determine the outcome of CashStar’s Motion to Dismiss.
+The CashStar Contract specifically creates an affirmative obligation that “iCard ‘will market and
+promote the [CashStar] Cards via relevant points of contact with Members [e.g., cell phone
+numbers collected by iCard], including but without limitation [iCard’s] sites and current
+advertising campaigns where appropriate.” (Mot. to Dismiss at 3 (emphasis added); CashStar
+Contract, Dkt. 85, at 3: ¶5) (filed under seal)). In addition, the contract also grants iCard a
+
+5
+
+Case 0:15-cv-61718-WPD Document 86 Entered on FLSD Docket 03/10/2017 Page 6 of 21
+
+“worldwide license” to use CashStar’s logos and name and provides that CashStar may prohibit
+and control iCard’s use of such marks. (CashStar Contract at 4: ¶5.)
+While CashStar seems to suggest that nothing short of Plaintiff presenting direct evidence
+of CashStar ordering iCard to send text message advertisements will suffice, such evidence is not
+only in CashStar’s possession, but as explained further below, goes far beyond what is necessary
+to plead vicarious liability at the pleadings stage.
+III.
+
+ARGUMENT
+Plaintiff agrees that iCard, as the entity that actually sent the unauthorized automated text
+
+messages, is the entity directly liable for violating the TCPA. (1st Amend. Compl. at ¶¶ 15–16;
+Mot. to Dismiss at 6.) Additionally, Plaintiff is not attempting to hold CashStar liable pursuant
+to any “aiding and abetting theory” (Mot. to Dismiss at 7–8), a theory of liability not even
+commonly raised in the TCPA context. Rather, as the entity that entered into a contract for iCard
+to sell its gift card products on its behalf, directly profited from iCard’s sales and marketing, and
+in fact specifically directed iCard to market its gift card products, Plaintiff has sufficiently
+alleged that CashStar can be held vicariously liable under the TCPA for the unauthorized text
+message marketing conducted on its behalf. The FCC’s binding 2013 ruling regarding sellers’
+vicarious liability for telemarketing conducted by third-parties on their behalf, as well as
+subsequent district court rulings from Florida and elsewhere across the country, directly support
+such a finding.
+A.
+
+Standard of Law
+
+When considering a motion to dismiss under Rule 12(b)(6) the court must accept the
+allegations in the complaint as true and construe them in the light most favorable to the plaintiff.
+ICON Health, 2012 WL 1120925, at *2. “A court will not grant a motion to dismiss unless the
+
+6
+
+Case 0:15-cv-61718-WPD Document 86 Entered on FLSD Docket 03/10/2017 Page 7 of 21
+
+plaintiff fails to allege any facts that would entitle the plaintiff to relief.” ICON Health, 2012
+WL 1120925, at *2. The pleading standard under Rule 8 does not require “detailed factual
+allegations” and a complaint needs to only “plead[] factual content that allows the court to draw
+the reasonable inference that the defendant is liable for the misconduct alleged.” Ashcroft v.
+Iqbal, 556 U.S. 662, 678 (2009). Most importantly, and as Defendant fails to discuss anywhere
+in its brief, “in the Eleventh Circuit, the determination of whether an agency relationship exists is
+a question of fact, and ‘summary judgment on vicarious liability is appropriate only in cases
+where the evidence of the relationship is clear and unequivocal.’” Shamblin v. Obama for Am.,
+No. 13-cv-2428, 2015 WL 1754628, at *6 (M.D. Fla. Apr. 17, 2015) (citing Legg v. Voice Media
+Grp., Inc., 20 F. Supp. 3d 1370, 1378 (S.D. Fla. 2014); Johnson v. Unique Vacations, Inc., 498
+F. App'x 892, 894 n. 3 (11th Cir. 2012)).
+B.
+
+The TCPA Provides for Vicarious Liability Against Sellers of Goods for
+Unlawful Marketing Conducted On Their Behalf
+1.
+
+The 2013 FCC Ruling
+
+As CashStar concedes, the 2013 FCC Ruling established that an entity may be held
+“vicariously” liable for violating the TCPA even if it was not the entity that actually sent the
+unlawful text messages. (Mot. to Dismiss at 8–9; 2013 FCC Ruling at ¶¶ 28, 33–47.) Although
+CashStar attempts to minimize the importance of the 2013 FCC Ruling by relegating it to a brief
+footnote (Mot. to Dismiss at 9, n.3), the reality is that virtually all subsequent district court
+rulings – including those cited to by CashStar in its brief – cite to the 2013 FCC Ruling.
+CashStar’s efforts to downplay the 2013 FCC Ruling are not surprising, though, as the 2013 FCC
+Ruling establishes that Plaintiff’s allegations in her First Amended Complaint more than
+sufficiently plead that CashStar is vicariously liable for the unlawful text messages sent by iCard
+on its behalf.
+7
+
+Case 0:15-cv-61718-WPD Document 86 Entered on FLSD Docket 03/10/2017 Page 8 of 21
+
+In its 2013 Ruling, the FCC determined that the TCPA’s regulations regarding
+unauthorized calls to cell phones provide for “vicarious seller liability under federal common law
+agency principles[.]” 2013 FCC Ruling at ¶¶ 33, 35. The FCC came to this determination
+envisioning a scenario virtually identical to the one being played out in this matter, where
+“allowing the seller to avoid potential liability by outsourcing its telemarketing activities to
+unsupervised third parties would leave consumers in many cases without an effective remedy . . .
+particularly . . . if the telemarketers were judgment proof[.]”
+
+Id. at ¶ 37. Following this
+
+reasoning, the FCC refused to “limit vicarious liability to the circumstances of classical agency
+(involving actual seller, or right to control, of the telemarketing call)” and ruled that “[p]rinciples
+of apparent authority and ratification may also provide a basis for vicarious seller liability[.]” Id.
+at ¶ 40, n.124.
+To provide further “guidance,” the FCC described various “evidence that may
+demonstrate that the telemarketer is the seller’s authorized representative with apparent authority
+to make the seller vicariously liable for the telemarketer’s [TCPA] violations.” Id. at ¶ 46. The
+FCC found that, among other factors, “apparent authority may be supported by evidence that the
+seller allows the outside sales entity access to information and systems that normally would be
+within the seller’s exclusive control, including: access to detailed information regarding the
+nature and pricing of the seller’s products and services[.]” Id. The FCC also stated that “[t]he
+ability by the outside sales entity to enter consumer information into the seller’s sales or
+customer systems, as well as the authority to use the seller’s trade name . . . may also be
+relevant.” Id. In addition, “a seller would be responsible under the TCPA . . . if the seller knew
+(or reasonably should have known) that the telemarketer was violating the TCPA on the seller’s
+behalf and . . . failed to take . . . steps . . . to cease that conduct.” Id. The FCC further explained
+
+8
+
+Case 0:15-cv-61718-WPD Document 86 Entered on FLSD Docket 03/10/2017 Page 9 of 21
+
+that, “[a]t a minimum, evidence of these kinds of relationships . . . should be sufficient to place
+upon the seller the burden of demonstrating that a reasonable consumer would not sensibly
+assume that the telemarketer was acting as the seller’s authorized agent.” 2013 FCC Ruling at ¶
+46. Summarizing its ruling, the FCC stated that while “an action taken for the benefit of a seller
+by a third-party retailer, without more, is [not] sufficient to trigger . . . liability . . . we see no
+reason that a seller should not be liable under [the TCPA] for calls made by a third-party
+telemarketer when it has authorized that telemarketer to market its goods or services.” Id. at ¶
+47 (emphasis added).
+Most critical for purposes of deciding CashStar’s Motion to Dismiss, the FCC
+specifically stated that “we stress that nothing in this order requires a consumer to provide proof
+– at the time its files its complaint – that the seller should be held vicariously liable for the
+offending call.” Id. (emphasis added); see also id. at ¶ 46, n.139 (“Needless to say, nothing in
+our ruling requires a consumer to prove at the time of their complaint (rather than reasonably
+allege) that a call was made on the seller’s behalf”)).
+2.
+
+District Court rulings
+
+Following the 2013 FCC Ruling, a number of district courts throughout Florida and
+elsewhere in the country have issued rulings regarding an entity’s vicarious liability for
+telemarketing conducted on its behalf. Crucially, and as once again ignored by CashStar, these
+rulings – including every case cited by CashStar in support of its Motion to Dismiss – have
+largely been at the summary judgment stage, after allowing the plaintiff a sufficient opportunity
+to take discovery. See Mais v. Gulf Coast Collection Bureau, Inc., 944 F. Supp. 2d 1226, 1230
+(S.D. Fla. 2013), rev'd in part, 768 F.3d 1110 (11th Cir. 2014); Shamblin, 2015 WL 1754628, at
+*1; Legg, 20 F. Supp. 3d at 1372. This is of little surprise given the FCC’s explicit statements
+
+9
+
+Case 0:15-cv-61718-WPD Document 86 Entered on FLSD Docket 03/10/2017 Page 10 of 21
+
+that a plaintiff does not bear the burden of proof of establishing solely on the pleadings the
+existence of an agency relationship. 2013 FCC Order at ¶ 46, n.139, ¶ 47. Further, a ruling even
+at the summary judgment stage may be inappropriate given that “in the Eleventh Circuit, the
+determination of whether an agency relationship exists is a question of fact[.]” Shamblin, 2015
+WL 1754628, at *6.
+It is also worth noting that out of the three cases cited to by Defendant for support –
+Mais, Shamblin, and Legg – the courts in Legg and Shamblin actually denied summary judgment,
+finding that there was an issue of fact as to whether the defendant could be held vicariously
+liable. Shamblin, 2015 WL 1754628, at *7; Legg, 20 F. Supp. 3d at 1377. Furthermore, in Mais,
+the court did not actually have the benefit of reviewing the 2013 FCC Ruling, as it was released
+after the Mais decision was issued. See Mais, 944 F. Supp. 2d at 1243, 1245 (stating that “the
+Court . . . will employ the statute as written and find that only those who make calls in violation
+of [the TCPA] may be held liable” and that “Plaintiff also argues that [the defendants] should be
+held vicariously liable for Gulf Coast’s call . . . the Court finds that position inconsistent with the
+[TCPA’s] statutory scheme”). Thus, the Mais court’s discussion of vicarious liability was mostly
+dicta that is no longer reasonable in light of the 2013 FCC Ruling. In fact, while CashStar cites
+to Mais as providing that “[t]he United States District Court for the Southern District of Florida
+has reasoned that the issue of ‘control’ is key to the determination of whether a party will be
+vicariously liable for unconsented calls made on its behalf,” the Mais court assessed vicarious
+liability based solely on “Florida law,” rather than Federal common law as required by the 2013
+FCC Ruling. 2013 FCC Ruling at ¶¶ 35, 48. As a result, the Mais ruling is of little to no
+relevance here, as it focused on evidence of “control” to the exclusion of the various other types
+of evidence that the FCC has since determined supports a finding of vicarious liability. Mais,
+
+10
+
+Case 0:15-cv-61718-WPD Document 86 Entered on FLSD Docket 03/10/2017 Page 11 of 21
+
+644 F. Supp. 2d at 1243–44; see Keim v. ADF Midatlantic, LLC, No. 12-cv-80577, 2015 WL
+11713593, at *8 (S.D. Fla. Nov. 10, 2015) (“Though the parties cite Florida law for the elements
+of joint venture liability, it is federal common law, not state law, that applies to TCPA claims”).
+In sum, the cases CashStar cites for support are, at best, inapplicable and actually weigh in favor
+of denying its Motion to Dismiss.
+Looking at cases that have actually addressed similar claims at the motion to dismiss
+stage, it becomes clear that Plaintiff has pled sufficient facts to find that CashStar may be held
+vicariously liable for iCard’s text message marketing conducted on its behalf. For example, in
+Wagner v. CLC Resorts & Developments, Inc., 32 F. Supp. 3d 1193 (M.D. Fla. 2014), the
+plaintiff alleged that two of the defendants contracted with the entity “Passport to assist them
+with marketing their respective resort and timeshare offers to potential consumers.” Wagner, 32
+F. Supp. 3d at 1195. The plaintiff further alleged that the telemarketing entity Passport “called
+him on behalf of [the seller entities] several times[.]” Id. Responding to the plaintiff’s complaint,
+the seller entities on whose behalf Passport placed the calls filed a motion to dismiss, arguing
+that they cannot be held vicariously liable for the alleged TCPA violations. Id. at 1196. The
+court, however, found that the plaintiff’s allegations were sufficient to establish vicarious
+liability at the motion to dismiss stage under theories of formal authority, apparent authority, and
+ratification. Id. Specifically, the court noted that the plaintiff had “alleged that [the seller]
+contracted with Passport to market to potential consumers on its behalf,” that “Passport directed
+consumers to visit [the seller’s] sales offices,” and that the seller “ratified Passport’s conduct by
+accepting the benefit of its actions.” Id. at n.1.
+Similarly, in Keim, the Southern District of Florida found that at the pleading stage, the
+plaintiff’s allegations that the defendant “‘approved or authorized’ [the telemarketing entities] to
+
+11
+
+Case 0:15-cv-61718-WPD Document 86 Entered on FLSD Docket 03/10/2017 Page 12 of 21
+
+promote [its] brand” was “sufficient to plead [the defendant’s] vicarious liability for [the] alleged
+TCPA violations.” Keim, 2015 WL 11713593, at *8. A similar fact pattern as here was also at
+issue in Mauer v. Am. Intercontinental Univ., Inc., No. 16-cv-1473, 2016 WL 4651395 (N.D. Ill.
+Sept. 7, 2016), where the plaintiff received an unauthorized sales call from a “representative of
+U.S. Education Network.” Mauer, 2016 WL 4651395, at *1. Even though the sales call never
+mentioned the defendants on whose behalf the calls were being placed or used the defendants’
+names during the attempted solicitation, the court nonetheless found that the defendants could be
+held vicariously liable under the TCPA. Id. at *3. The court explained that “[a]gency is typically
+a factual issue, with the plaintiff at the pleading stage only required to allege a factual basis that
+gives rise to an inference of an agency relationship through the use of generalized as opposed to
+evidentiary facts.” Id. at *2 (citing 2013 FCC Ruling at ¶ 46, n.139). Accordingly, “at the
+pleading stage, it is irrelevant that a plaintiff cannot identify . . . what arrangement th[e] third
+party had with the defendant vendors because the defendants, and not the plaintiff, are
+reasonably expected to know this information.” Id. at *2. While the defendants argued – as
+CashStar does here – that the plaintiff “makes ‘blanket assertions’ regarding the possible
+relationship between [the defendants], and [the telemarketing entity],” the court found that the
+plaintiff “need only generally allege her agency claim so as to provide each Defendant notice of
+the claims against them at this stage.” Id. at *3.
+Ultimately, the court in Mauer held that the plaintiff had alleged sufficient facts to
+establish vicarious liability at the pleadings stage. Specifically, the court found that even though
+the sales call received by the plaintiff did not in any way mention the defendants, the fact that a
+subsequent phone call placed by the plaintiff’s counsel as part of their investigation to the same
+phone number resulted in call-backs from individuals who stated that they were calling on behalf
+
+12
+
+Case 0:15-cv-61718-WPD Document 86 Entered on FLSD Docket 03/10/2017 Page 13 of 21
+
+of the defendants, was sufficient to “mak[e] the connection plausible.”
+
+Mauer, 2016 WL
+
+4651395, at *3. The court also noted that it looked to “the existence of [an] alleged contract”
+between the entities which “aids” in establishing an agency relationship, as well as the fact that
+the telemarketing entity and the defendants “worked in the same line of business.” Id. The court
+in Shamblin similarly noted that the formation of a contract between the defendant and the
+telemarketing entity “is evidence that a finder of fact could use in support of a determination that
+an agency relationship arose” even if it “contain[s] a disclaimer of any principal/agent
+relationship.” 2015 WL 1754628, at *7.
+Finally, the court in Charvat v. Allstate Corp., 29 F. Supp. 3d 1147 (N.D. Ill. 2014), also
+dealt with the issue of whether a plaintiff had sufficiently alleged a basis for finding the
+defendant vicariously liable. In Charvat the plaintiff received a telemarketing call from an
+unidentified entity offering to sell insurance from several different insurance companies. 29 F.
+Supp. 3d at 1150. After the plaintiff chose to respond to the prompt he was forwarded to a sales
+agent working on behalf of Allstate, one of the several insurance companies mentioned in the
+initial prompt. Id. The court found that these allegations “sufficiently pled a substantive basis for
+. . . vicarious liability” against Allstate even though the initial call did not specifically reference
+Allstate and was not placed by Allstate. Id. at 1151. While the defendant argued that the
+plaintiff failed to “allege ‘what arrangement, if any, [the third party telemarketer] had with either
+defendant,” the court dismissed these arguments as “meritless,” stating that “it is defendants, not
+plaintiff, who can reasonably be expected to know these facts[.]” Id.
+As the 2013 FCC Ruling, as well as the numerous cases cited above, makes clear,
+Plaintiff does not have to allege in her Complaint facts sufficient to overcome a motion for
+summary judgment and that affirmatively establish that an agency relationship was formed
+
+13
+
+Case 0:15-cv-61718-WPD Document 86 Entered on FLSD Docket 03/10/2017 Page 14 of 21
+
+between CashStar and iCard. In light of that, the allegations in Plaintiff’s Complaint are more
+than sufficient at the pleadings stage.
+C.
+
+Plaintiff’s First Amended Complaint Alleges Sufficient Facts to Find
+CashStar Vicariously Liable for the Unauthorized Text Messages
+
+Whether one looks to the 2013 FCC Ruling, or the numerous district court decisions that
+have ruled on this issue, it is clear that Plaintiff has more than sufficiently pled the existence of
+an agency relationship between CashStar and iCard such that CashStar may be held vicariously
+liable for the unauthorized automated text messages at issue.
+Turning first to the 2013 FCC Ruling, the FCC provided a number of guide posts for
+determining whether an agency relationship may exist that gives rise to vicarious liability.
+Specifically, as discussed above, the FCC stated that “apparent authority” can be supported by
+evidence that the defendant allows the marketing entity access to “information and systems that
+normally would be within the seller’s exclusive control” including “detailed information
+regarding the nature and pricing of . . . products and services.” 2013 FCC Ruling at ¶ 46. Here,
+Plaintiff’s Complaint pleads that CashStar provided iCard access to its API which iCard used to
+“connect[] directly to CashStar’s gift card distribution service.” (1st Amend. Compl. at ¶¶ 17,
+20.) Furthermore, the FCC also stated that “the ability . . . to enter consumer information into
+the [defendant’s] sales or customer systems” is also “relevant” evidence of the existence of an
+agency relationship. 2013 FCC Ruling at ¶ 46. Here, Plaintiff’s Complaint alleges that iCard
+had the ability to enter customer information into CashStar’s sales system, as the gift cards
+purchased through iCard’s online and mobile stores were “actually redeemed and fulfilled by
+CashStar, and it is ultimately CashStar that provides the physical and/or digital gift card that is
+delivered to the customer.” (1st Amend. Compl. at ¶ 19.) iCard necessarily accessed CashStar’s
+systems in order for CashStar to fulfill iCard’s gift card orders. The FCC similarly stated that the
+14
+
+Case 0:15-cv-61718-WPD Document 86 Entered on FLSD Docket 03/10/2017 Page 15 of 21
+
+“authority to use the seller’s trade name . . . and service mark” further supports a finding of an
+agency relationship. 2013 FCC Ruling at ¶ 46. Here, CashStar specifically authorized iCard to
+use CashStar’s service mark and even provides that CashStar may prohibit and control iCard’s
+use of such marks. (CashStar Contract at 4:¶5.)
+Importantly, the FCC stated in summary that “we see no reason that a seller should not be
+liable under [the TCPA] for calls made by a third-party telemarketer when it has authorized that
+telemarketer to market its goods or services.” 2013 FCC Ruling at ¶ 47. Plaintiff’s Complaint
+specifically pleads that “CashStar in fact also directs iCard to market and promote CashStar’s
+gift cards to consumers through advertising campaigns, including the text message
+advertisements described herein.” (1st Amend. Compl. at ¶ 21.) Not only is this a well-pled
+fact, but it is supported by the language of the CashStar Contract itself, which states that, “iCard
+‘will market and promote the [CashStar] Cards via relevant points of contact with Members,
+including but without limitation [iCard’s] sites and current advertising campaigns where
+appropriate.” (Mot. to Dismiss at 3; CashStar Contract at 3:¶5.) Through this language CashStar
+creates an affirmative obligation for iCard to “market and promote” CashStar’s products “via
+relevant points of contact,” such as mobile phone numbers collected by iCard, and including
+“current advertising campaigns,” such as the text messaging campaign at issue. CashStar cannot
+simply hide behind the fact that the contract does not contain any language specifically
+discussing text message marketing when it directed iCard to conduct sales and marketing on its
+behalf—including “current advertising campaigns.” This is exactly why the FCC stated that,
+“allowing the seller to avoid potential liability by outsourcing its telemarketing activities to
+unsupervised third parties would leave consumers in many cases without an effective remedy”
+
+15
+
+Case 0:15-cv-61718-WPD Document 86 Entered on FLSD Docket 03/10/2017 Page 16 of 21
+
+and issued its 2013 Ruling allowing for vicarious liability in such circumstances. 2013 FCC
+Ruling at ¶ 37.
+The district court decisions discussed above, including the cases cited to by CashStar,
+mandate the same conclusion. Plaintiff’s Complaint alleges many of the same facts that other
+district courts in Florida, and elsewhere across the country, have found sufficient to establish
+vicarious liability at the pleading stage. For example, as in Wagner, Plaintiff’s Complaint
+alleges that “[CashStar] contracted with [iCard] to market [iCard’s products].” Wagner, 32 F.
+Supp. 3d at 1196; 1st Amend. Compl. at ¶ 21; see also CashStar Contract at 3:¶5. In addition,
+CashStar also accepted the benefits of iCard’s actions as it directly profited from iCard’s sales of
+its gift card products. Wagner, 32 F. Supp. 3d at 1196 n.1; 1st Amend. Compl. at ¶ 21. Finally,
+by utilizing CashStar’s API, iCard ultimately “directed consumers” to CashStar to have their
+orders fulfilled—even if iCard never explicitly identified CashStar as the fulfiller of the gift card
+orders. Wagner, 32 F. Supp. 3d at 1196 n.1; 1st Amend. Compl. at ¶¶ 17, 19.
+Furthermore, as in Keim, Plaintiff has sufficiently pled that CashStar is vicariously liable
+for the alleged TCPA violation by alleging that CashStar “‘approved or authorized’ [iCard] to
+promote [CashStar’s products.]” Keim, 2015 WL 11713593, at *8; 1st Amend. Compl. at ¶ 21;
+see also CashStar Contract at 3:¶5. In addition, the allegations regarding iCard’s sales and
+marketing of CashStar’s gift card products closely track the fact patterns at issue in Mauer and
+Charvat. While CashStar appeals to the lack of its corporate name being used in the language of
+the unauthorized text messages or on iCard’s website as evidence that there was no agency
+relationship formed (Mot. to Dismiss at 12–13), both Mauer and Charvat involved calls placed
+on behalf of defendants that were similarly not disclosed as the entities on whose behalf the calls
+were being placed. Mauer, 2016 WL 4651395, at *1; Charvat, 29 F. Supp. 3d at 1150. Further,
+
+16
+
+Case 0:15-cv-61718-WPD Document 86 Entered on FLSD Docket 03/10/2017 Page 17 of 21
+
+it is worth noting that even though iCard did not specifically reference “CashStar” in its
+advertising and website content, the CashStar Contract specifically granted iCard a “worldwide
+license” to use CashStar’s logos and name, and provides that CashStar may prohibit and control
+iCard’s use of such marks. (CashStar Contract at 4:¶5.) More importantly, in Mauer and
+Charvat the telemarketing was conducted by entities that generally promoted a type of service on
+behalf of a specific company with which they had contracted to ultimately forward the customer
+to. Mauer, 2016 WL 4651395, at *1, *3; Charvat, 29 F. Supp. 3d at 1150. This is identical to
+the situation here, where iCard was generally marketing “gift cards” through the unauthorized
+text messages at issue, and then ultimately sold customers CashStar’s gift card products that
+were redeemed and fulfilled by CashStar. (1st Amend. Compl. at ¶¶ 17–19.)
+In effect, just as the telemarketers in Mauer and Charvat did not themselves provide
+education and insurance services, and forwarded customers to the entities that would actually
+provide such services, iCard too did not directly have the contractual relationships to sell
+CashStar’s gift cards and ultimately had CashStar fulfill the orders. Furthermore, as in Mauer,
+Plaintiff has alleged – and indeed, CashStar has produced – a contract entered into between
+CashStar and iCard (2016 WL 4651395, at *3; Mot. to Dismiss at 3; Dkt. 85), and as in Mauer
+both CashStar and iCard “work[] in the same line of business.” 2016 WL 4651395, at *3. The
+Mauer court found both such facts persuasive in denying the defendant’s motion to dismiss.
+To the extent that CashStar argues that no agency relationship can be imputed from the
+CashStar Contract because it “identifies iCard as an independent contractor” (Mot. to Dismiss at
+4, 12), numerous courts have held that such clauses are not in any way “dispositive of the issue
+whether [a principal/agent] relationship was created.” Shamblin, 2015 WL 1754628, at *7
+(citing Highline Capital Corp. v. Ahdoot, No. 06-cv-2024, 2008 WL 486019, at *8 (D.Colo. Feb.
+
+17
+
+Case 0:15-cv-61718-WPD Document 86 Entered on FLSD Docket 03/10/2017 Page 18 of 21
+
+20, 2008) (“courts routinely find such disclaimers only weakly probative of whether such
+[agency] relationships in fact exist”)). Accordingly, the court in Shamblin determined that the
+formation of a contract between the defendant and the telemarketing entity “is evidence that a
+finder of fact could use in support of a determination that an agency relationship arose” even if it
+“contain[s] a disclaimer of any principal/agent relationship.” 2015 WL 1754628, at *7.
+Finally, and most critical for the purposes of determining this Motion, both the 2013 FCC
+Ruling and the various district court cases discussed above repeatedly emphasize that a plaintiff
+does not bear the burden of pleading all of the facts necessary to affirmatively establish a
+defendant’s vicarious liability at the pleading stage. 2013 FCC Ruling at ¶ 46, n.139 (“Needless
+to say, nothing in our ruling requires a consumer to prove at the time of their complaint (rather
+than reasonably allege) that a call was made on the seller’s behalf”)); Shamblin, 2015 WL
+1754628, at *6 (“in the Eleventh Circuit, the determination of whether an agency relationship
+exists is a question of fact”); Mauer, 2016 WL 4651395, at *2 (“[a]gency is typically a factual
+issue, with the plaintiff at the pleading stage only required to allege a factual basis that gives rise
+to an inference of an agency relationship through the use of generalized as opposed to
+evidentiary facts”) (citing 2013 FCC Ruling at ¶ 46, n.139). Even “summary judgment on
+vicarious liability is appropriate only in cases where the evidence of the relationship is clear and
+unequivocal.” Shamblin, 2015 WL 1754628, at *6 (emphasis added) (internal citations omitted).
+As set forth above, Plaintiff has more than sufficiently “allege[d] a factual basis that
+gives rise to an inference of an agency relationship” (Mauer, 2016 WL 4651395, at *2):
+CashStar provided iCard access to its API; CashStar was aware that iCard would be marketing
+its products (including through current advertising campaigns); CashStar directed iCard to
+market its gift card products, including creating an affirmative duty for iCard to market its
+
+18
+
+Case 0:15-cv-61718-WPD Document 86 Entered on FLSD Docket 03/10/2017 Page 19 of 21
+
+products through “relevant points of contact”; CashStar authorized iCard to use CashStar’s
+trademarks; and CashStar directly benefited from iCard’s sales of its gift card products and any
+concurrent marketing. Further, while CashStar certainly “knew” that iCard would be conducting
+marketing “on its behalf,” the extent of CashStar’s communications with iCard regarding this
+text messaging campaign and whether CashStar “reasonably should have known” that iCard was
+violating the TCPA are still questions of fact to be determined after discovery. 2013 FCC Ruling
+at ¶ 46. CashStar should not be permitted to, as the FCC foresaw, contract with iCard to have its
+products marketed and sold and then reap the rewards of such an arrangement, while leaning on
+that same contract to disclaim any liability for the activities of an “unsupervised” entity. 2013
+FCC Ruling at ¶ 37.
+CashStar is free to file a motion for summary judgment and challenge Plaintiff’s
+allegations on the merits following appropriate discovery, and the Parties can brief this issue
+again at that time. However, any ruling dismissing CashStar as a party to this suit at this point in
+the litigation is simply premature.
+IV.
+
+CONCLUSION
+For the reasons stated above, Plaintiff respectfully requests that Defendant CashStar’s
+
+Motion to Dismiss be denied in its entirety.
+
+19
+
+Case 0:15-cv-61718-WPD Document 86 Entered on FLSD Docket 03/10/2017 Page 20 of 21
+
+Date: March 10, 2017
+
+Respectfully submitted,
+CECILIA SNYDER, individually and on behalf of a
+class of similarly situated individuals
+/s/ David P. Healy
+One of Plaintiff’s Attorneys
+
+David P. Healy (FL Bar No. 940410)
+Dudley, Sellers, Healy & Heath, PLC
+Suntrust Financial Center
+3522 Thomasville Rd., Suite 301
+Tallahassee, Florida 32309
+Tel: (850) 222-5400
+Fax: (850) 222-7339
+Eugene Y. Turin (pro hac vice)
+MCGUIRE LAW, P.C.
+55 W. Wacker Drive, 9th Floor
+Chicago, Illinois 60601
+Tel: (312) 893-7002
+eturin@mcgpc.com
+Attorneys for Plaintiff and the proposed Class
+
+20
+
+Case 0:15-cv-61718-WPD Document 86 Entered on FLSD Docket 03/10/2017 Page 21 of 21
+
+CERTIFICATE OF SERVICE
+I hereby certify that on March 10, 2017, I electronically filed the foregoing Plaintiff’s
+Memorandum of Law in Opposition to Defendant CashStar, Inc.’s Motion to Dismiss for Failure
+to State a Claim with the Clerk of the Court using the CM/ECF system. A copy of said
+document will be electronically transmitted to the following counsel of record:
+Nolan Keith Klein
+Law Offices of Nolan Klein, P.A.
+Wells Fargo Tower
+One East Broward Blvd., Ste. 1500
+Ft. Lauderdale, FL 33301
+klein@nklegal.com
+Alan E. McKenna
+Stevenson McKenna & Callanan, LLP
+350 Lincoln St., Ste. 2400
+Hingham, MA 02043
+amckenna@smcattorneys.com
+
+/s/ David P. Healy
+
+21
+
+

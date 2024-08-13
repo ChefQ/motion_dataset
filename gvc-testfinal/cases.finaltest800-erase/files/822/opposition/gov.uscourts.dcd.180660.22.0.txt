@@ -1,0 +1,1637 @@
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 1 of 52
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+STANDING ROCK SIOUX TRIBE
+Plaintiff,
+v.
+U.S. ARMY CORPS OF ENGINEERS
+Defendant.
+
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+
+Case No. 1:16-CV-01534-JEB
+
+DAKOTA ACCESS, LLC’S OPPOSITION TO
+PLAINTIFF’S MOTION FOR PRELIMINARY INJUNCTION
+
+NORTON ROSE FULBRIGHT US LLP
+Kimberly H. Caine, DCBA #974926
+William J. Leone, CSBA #11403
+Robert D. Comer, CSBA #16810
+799 9th Street NW, Suite 1000
+Washington, DC 20001-4501
+202-662-0200
+kim.caine@nortonrosefulbright.com
+william.leone@nortonrosefulbright.com
+bob.comer@nortonrosefulbright.com
+NOSSAMAN LLP
+Edward V. A. Kussy, DCBA #982417
+Robert D. Thornton, DCBA #966176
+Alan M. Glen, Texas SBN #08250100
+(Pro Hac Vice Application Pending)
+1666 K Street, NW, Suite 500
+Washington, DC 20006
+202-887-1400
+ekussy@nossaman.com
+rthronton@nossaman.com
+aglen@nossaman.com
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 2 of 52
+TABLE OF CONTENTS
+Page
+I.
+
+INTRODUCTION ............................................................................................................................1
+
+II.
+
+PRELIMINARY INJUNCTION STANDARD ...........................................................................5
+
+III.
+
+ARGUMENT ......................................................................................................................................5
+A.
+
+The Plaintiff Is Unlikely to Prevail on the Merits of its Claim .......................................5
+1.
+
+2.
+
+3.
+
+4.
+B.
+
+Statutory and Regulatory Background ..................................................................6
+a.
+
+Regulatory background regarding Nationwide Permit 12 ....................6
+
+b.
+
+Regulatory background regarding § 106..................................................7
+
+The Corp’s Issuance of NWP 12 Did not violate the NHPA........................ 11
+a.
+
+Plaintiff waived its broad attack against NWP 12 by never
+raising it during the public notice-and-comment rulemaking
+period ........................................................................................................ 12
+
+b.
+
+The Corps was not required to and could not have conducted
+§ 106 consultations when it issued NWP 12 ....................................... 12
+
+c.
+
+The Corps did not delegate its NHPA 106 obligations to
+NWP permittees and retains responsibility for NHPA 106
+compliance................................................................................................ 13
+
+The Corps did not violate its § 106 Obligations with respect to
+DAPL...................................................................................................................... 14
+a.
+
+The Corps is entitled to substantial deference with respect to
+all aspects of § 106 implementation including the definition
+of an undertaking, the scope of the project, and the adequacy
+of the review............................................................................................. 14
+
+b.
+
+The Corps’ § 106 Consultation for the Verifications under
+NWP 12 Complied with the NHPA..................................................... 15
+(1)
+
+The Corps accurately and appropriately relied on Appendix C when it determined the scope of the undertaking, and therefore the scope of its review ......................... 15
+
+(2)
+
+Analogous NEPA precedents support the Corps’ position ............................................................................................ 19
+
+(3)
+
+The lack of federal regulation of oil pipelines supports
+the Corps’ position .................................................................... 21
+
+The Corps conducted a thorough and complete § 106 Analysis and
+Consultation ........................................................................................................... 22
+
+Plaintiff Does not and Cannot Demonstrate Irreparable Harm Absent an Injunction ................................................................................................................................ 25
+
+-i-
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 3 of 52
+TABLE OF CONTENTS
+(continued)
+
+IV.
+
+Page
+
+C.
+
+In Contrast to the Hypothetical Harms Plaintiff Faces, Intervenor and the
+Public Will Be Irreparably Harmed by an Injunction.................................................... 29
+
+D.
+
+The Public Interest Disfavors an Injunction .................................................................. 33
+
+E.
+
+The Balance of Equities Weighs Against Entering a Preliminary Injunction ............ 35
+
+F.
+
+The Equities Favor the Contractors, Tradesmen, Laborers, Vendors and all
+the tens of thousands of Individual Americans Dependent on DAPL ...................... 38
+
+G.
+
+Plaintiff Lacks Standing to Complain About most of what it Seeks to Enjoin......... 39
+
+H.
+
+The Court Should Order Plaintiff to Post a Bond ........................................................ 41
+
+CONCLUSION ............................................................................................................................... 43
+
+-ii-
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 4 of 52
+
+TABLE OF AUTHORITIES
+Page(s)
+Cases
+Advocates for Highway and Auto Safety v. Fed. Motor Carrier Safety Admin.,
+429 F.3d 1136 (D.C. Cir. 2005) ............................................................................................................... 12
+All. for Nat. Health U.S. v. Sebelius,
+775 F. Supp. 2d 114 (D.D.C. 2011) ........................................................................................................ 12
+Aquifer Guardians in Urban Areas v. Federal Highway Admin.,
+779 F. Supp. 2d 542 (W.D. Tex. 2011) .................................................................................................. 33
+Brady Campaign to Prevent Gun Violence v. Salazar,
+612 F. Supp. 2d 1 (D.D.C. 2009) ............................................................................................................ 29
+Chaplaincy of Full Gospel Churches v. England,
+454 F.3d 290 ....................................................................................................................................... 25, 26
+Chemical Weapons Working Group, Inc. v. U.S. Dept. of the Army,
+963 F. Supp. 1083 (D. Utah 1997) .......................................................................................................... 33
+Chevron USA, Inc., v. Natural Resources Defense Council,
+467 U.S. 837 (1984)............................................................................................................................ 15, 16
+Coalition for Common Sense in Government Procurement v. United States,
+576 F. Supp. 2d 162 (D.D.C. 2008) ........................................................................................................ 25
+Colorado River Indian Tribes v. Marsh,
+605 F.Supp. 1425 (C.D. Cal. 1985) .................................................................................................. 17, 18
+Comcast Corp. v. F.C.C.,
+526 F.3d 763 (D.C. Cir. 2008) ................................................................................................................. 16
+Comm. of 100 on Fed. City v. Foxx,
+87 F. Supp. 3d 191, 202 (D.D.C.), reconsideration denied sub nom. Comm. of 100 on the
+Fed. City v. Foxx, 106 F. Supp. 3d 156 (D.D.C. 2015), appeal dismissed, No. 155112, 2015 WL 5210462 (D.C. Cir. July 1, 2015) .............................................................................5, 29
+Comm. In Solidarity With People of El Salvador (CISPES) v. Sessions,
+929 F.2d 742 (D.C. Cir. 1991) ................................................................................................................. 28
+Comm. to Save Cleveland’s Hueletts, 163 F.Supp. 2d 776 (N.D. Ohio 2001) ................................................ 18
+Crutchfield v. U.S. Army Corps of Eng’rs,
+154 F.Supp. 2d 878 (E.D. Va. 2001) ............................................................................................... 17, 19
+
+-i-
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 5 of 52
+
+Davis v. Pension Benefit Guaranty Corp.,
+571 F.3d 1288 (D.C. Cir. 2009) ................................................................................................................. 5
+Dep’t of Trans. v. Pub. Citizen,
+541 U.S. 752 (2004)............................................................................................................................ 20, 37
+Dine Citizens Against Ruining Our Env't v. Jewell, CIV 15-0209 JB/SCY, 2015 WL
+4997207 (D.N.M. Aug. 14, 2015) ............................................................................................................ 34
+Encino Motorcars, LLC v. Navarro,
+No. 15–416 (9th Cir. June 20, 2016) ...................................................................................................... 15
+FCC v. Fox Television Stations, Inc.,
+556 U.S. 502 (2009)................................................................................................................................... 16
+Fund for Animals v. Clark,
+27 F.Supp.2d 8 (D.D.C.1998).................................................................................................................. 29
+GEO Specialty Chem., Inc. v. Husisian,
+923 F. Supp. 2d 143 (D.D.C. 2013) ........................................................................................................ 25
+Heideman v. South Salt Lake City,
+348 F.3d 1182 (10th Cir. 2003) ............................................................................................................... 26
+Jupiter Energy Corp. v. FERC,
+482 F.3d 293 (5th Cir. 2007).................................................................................................................... 16
+Marsh v. Oregon Natural Res. Council,
+490 U.S. 360 (1989)................................................................................................................................... 15
+Motor Vehicle Mfrs. Ass’n of the U.S., Inc. v. State Farm Mutual Automobile Ins. Co.,
+463 U.S. 29 (1983) ..................................................................................................................................... 16
+Nat. Res. Def. Council v. Kempthorne,
+525 F. Supp. 2d 115 (D.D.C. 2007) ........................................................................................................ 33
+Nuclear Energy Inst., Inc. v. EPA,
+373 F.3d 1251, 1297 (D.C. Cir. 2004) .................................................................................................... 12
+Ohio Valley Envtl. Coal. v. Bulen,
+429 F.3d 493 (4th Cir. 2005).................................................................................................................... 13
+Riverside Irrigation Dist. v. Andrews,
+758 F.2d 508, 511 (10th Cir. 1985) ........................................................................................................... 7
+Sac and Fox Nation of Mo. v. Norton,
+240 F.3d 1250 (10th Cir.2001) .................................................................................................................. 8
+
+- ii -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 6 of 52
+
+Sea Containers Ltd. v. Stena AB,
+890 F.2d 1205 (D.C. Cir. 1989) ............................................................................................................... 25
+Serono Laboratories, Inc. v. Shalala,
+158 F.3d 1313 (D.C. Cir. 1998) ............................................................................................................... 34
+Sierra Club, Inc. v. Bostick,
+787 F.3d 1043 (10th Cir. 2015) ............................................................................................13, 14, 28, 33
+Sierra Club v. Clinton,
+689 F. Supp. 2d 1123 (D. Minn. 2010) .................................................................................................. 33
+Sierra Club v. United States Army Corps of Engineers,
+990 F. Supp. 2d 9 (D.D.C. 2013) ............................................................................................................ 28
+Snoqualmie Valley Pres. Alliance v. U.S. Army Corps of Eng'rs,
+683 F.3d 1155 (9th Cir. 2012) ................................................................................................................... 7
+Theodore Roosevelt Conservation P'ship v. Salazar,
+616 F.3d 497, 514-15 (D.C. Cir. 2010) ................................................................................................... 37
+Vermont Yankee Nuclear Power Corp. v. Nat. Res. Def. Council, Inc.,
+435 U.S. 519, 553–54 (1978)....................................................................................................... 36, 37, 38
+Village of Logan v. U.S. Dept. of Interior,
+577 Fed. Appx. 760 (10th Cir. 2014) ...................................................................................................... 26
+ViroPharma, Inc. v. Hamburg,
+898 F. Supp. 2d 1 (D.D.C. 2012) ............................................................................................................ 34
+Washington Metropolitan Area Transit Comm’n v. Holiday Tours, Inc.,
+559 F.2d 841 (D.C. Cir. 1977) .......................................................................................................... 29, 30
+Winter v. Natural Resources Defense Council,
+555 U.S. 7 (2008) ..................................................................................................................... 5, 29, 33, 34
+Wisconsin Gas Co. v. FERC,
+758 F.2d 669 (D.C. Cir. 1985) ................................................................................................................. 26
+Rules and Statutes
+Administrative Procedure Act. 5 U.S.C. § 551, et seq. ................................................................................. 14
+Clean Water Act, 33 U.S.C. § 1251, et seq. ........................................................................... 6, 13, 14, 33, 38
+National Environmental Policy Act (NEPA), 42 U.S.C. § 4321, et seq. ....................... 8, 9, 13, 19, 28, 33
+National Historic Preservation Act (NHPA), 54 U.S.C. 300101, et seq........................................................
+.......................................................... 5, 7, 8, 9, 10, 11. 12, 13, 14, 15, 16, 17, 22, 23, 26, 28, 29, 33, 34
+
+- iii -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 7 of 52
+
+Other Authorities
+Procedures for the Protection of Historic Properties (“Appendix C”), 33 C.F.R. §
+325, , et seq..................................................................................................................... 9, 10, 11, 13, 14, 16
+36 C.F.R. Part 800............................................................................................... 5, 8, 9, 10, 13, 15, 16, 18, 23
+65 Fed. Reg. 77698, et seq. ...........................................................................................................................9, 11
+77 Fed. Reg. 10271–72, 10284 ...................................................................................................................8, 14
+
+- iv -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 8 of 52
+
+Defendant-Intervenor, Intervenor, LLC, (“Intervenor”) hereby provides its brief in opposition to Plaintiff’s Motion for Preliminary Injunction.
+I. INTRODUCTION
+DAPL is an 1172 mile long oil pipeline that will provide much needed capacity to transport
+crude oil from the Bakken oil field in North Dakota to important refineries and terminals where it
+can be used to satisfy US energy needs and facilitate US energy independence. It begins in North
+Dakota and ends in Patoka, Illinois. The pipeline is intended to help alleviate the safety and environmental concerns, as well as agricultural economic dislocation, caused by over reliance on rail
+transport, and will result in cost savings and efficiencies in the development of this important national resource.
+DAPL brings with it more than 10,000 new construction jobs, permanent jobs associated
+with production and transportation, and many hundreds of millions of dollars in economic benefits
+to state and local economies. More than 99% of this pipeline is entirely on private land where every
+necessary state, local and private permit has been obtained. Less than 1% of the pipeline crosses
+U.S. waters. About 3% of the pipeline somehow involves a federal regulatory interest. This includes
+one crossing at Lake Oahe. The remaining crossings are, for the most part, minor crossings involving minimal waters and qualifying for treatment under the Corps Nationwide Permit Program, specifically NWP 12. The pipeline does not cross or touch Plaintiff’s land.
+Construction of the pipeline poses no real threat to Lake Oahe. The directional drilling
+technique to be used for the Lake Oahe and other crossings is well tested, environmentally sound,
+and will place the pipeline at least 90 feet beneath the lake bed with no disruption of the lake’s waters or banks. The pipeline will begin its crossing on private land and emerge on the other side on
+private land. Notably, Lake Oahe is not an ancestral lake but, rather, a man-made lake created in the
+1960’s. The protests by Plaintiff and its supporters at the Lake Oahe crossing site take place beneath high voltage transmission lines and above a natural pipeline that were built years ago within
+and adjacent to existing easements that DAPL will share. This area has long dealt with the im-
+
+-1-
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 9 of 52
+
+portant reconciliation of agricultural, economic, environmental and historic interests, and this project is no exception.
+None of the requirements for injunctive relief are met in this case. Plaintiff will not suffer irreparable harm because extraordinary precautions have been put in place by the Corps and Intervenor to ensure no sensitive cultural resources are damaged. These measures include pre-construction
+surveys of the route with the approval and oversight of state and federal authorities, preconstruction
+notification and staking to clearly identify areas of possible disturbance, prior notification before any
+construction activity takes place, use of archaeological and historic preservation monitors, environmental monitors, tribal monitors and state engineers before, during and after all construction activity, and comprehensive reclamation and restoration protocols. Construction is 45% complete and
+Plaintiff has not and cannot cite to a single instance of destruction of a cultural resource. And, if
+any sensitive cultural resources are encountered during construction, measures are in place to address them.
+In contrast, Intervenor, its partners, its contractors, the approximately 10,000 middle class
+American employees working on the pipeline, its customers, American consumers, state governments, taxpayers and the U.S. energy infrastructure will suffer severe and irreparable harm if this
+project is enjoined, as set forth in the numerous declarations included with this response. Thousands of workers’ lives are in the balance. Moreover, the logistical challenges associated with planning and sequencing construction, financing the pipeline, scheduling workers and vendors who have
+foregone other opportunities to build this pipeline are such that even a short delay occasioned by an
+injunction could threaten the viability of the entire project. The economic impact of the pipeline is
+in the billions. This real and imminent economic and personal trauma that would be inflicted by an
+injunction grossly overshadows and consumes the hypothetical and speculative harm alleged in
+Plaintiff’s motion.
+There is no likelihood of success on the merits. The extraordinary efforts made by the
+Corps over the past three years to ensure appropriate consultation and take a hard look at the potential consequences of the project, the extraordinary measures put in place to preserve any reasonable
+-2-
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 10 of 52
+
+claim of historic preservation, and the deference owed to administrative agencies make this case
+meritless under any concept of the rule of law. At least 99% of this project occurs on private land
+and not one inch of this pipeline is on Plaintiff’s property. A small segment of this pipeline crosses
+tribal lands of other tribes who, unlike Plaintiff, chose to participate in the process, and these other
+tribes have entered into settlements with the Intervenor, without the need for litigation or protests.
+Plaintiff’s claims are undone by the breathtaking nature of the relief sought. Plaintiff claims
+spiritual jurisdiction over one third of the United States landmass from the eastern slope of the
+Rocky Mountains to the Canadian border, to the Great Lakes to the Gulf of Mexico. Plaintiff seeks
+to challenge not just the Nationwide Permit Program as applied but, by force of Plaintiff’s own logic, the entire nationwide permit program that has been in place for over 30 years and has resulted in
+hundreds of thousands of crossings, construction projects, utility projects and the like. In addition
+to undermining the merits of Plaintiff’s claims, this goes to standing. Plaintiff is foreclosed from
+bringing this action as it does not have standing to complain about most of what it complains about.
+The only cognizable legal right in this case is the right to demand that the government comply with
+applicable laws when there is a tangible injury to Plaintiff or its property. Here, Plaintiff seeks to
+enjoin activities that occur hundreds of miles from its property, including those on the lands of
+neighboring tribes who have reached an accommodation with DAPL and are permitting it to cross
+their lands. Plaintiff also seek to enjoin activities on private lands as to which there is absolutely no
+federal interest or jurisdiction
+The course of action Plaintiff has chosen tips the balance of equities and public interest
+heavily against Plaintiff. Over the past two years, the Corps and Intervenor offered and solicited
+consultation with Plaintiff numerous times, with such entreaties being largely ignored or met with
+posturing. On the one hand, Plaintiff complains that it, and only it, can identify culturally significant
+sites because no person “of European descent” can possibly have sufficient background to do so.
+See Plaintiff’s Memorandum in Support of Motion for Preliminary Injunction at 33 and Supplemental Declaration of Mentz, at paragraph 29. But, at the same time, Plaintiff claims that it is not
+the tribe’s burden to provide information, even when requested, because it is the Corps’ duty to in-3-
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 11 of 52
+
+vestigate historic impacts. Memorandum in Support at pp. 31-33. The inevitable result of Plaintiff’s
+logic is that it and only it can decide where pipelines should go. That is not the law. 1
+Despite the heavy burden imposed on a movant for preliminary injunction, Plaintiff makes
+no specific allegations of harm to any sensitive or cultural resource. The principles governing injunctions are designed to prevent one party from inflicting proven injury on the other pending a
+resolution on the merits. There is no recognized legal principle that permits an injunction that will
+cause certain injury to Intervenor and thousands of American citizens based on the mere conjecture
+of injury by and to Plaintiff.
+Rather than constructively participating in the process that has been going on for the last
+three years, Plaintiff has waited until this critical juncture to invoke the jurisdiction of the Court. At
+this stage, tens of thousands of contractors, tradesmen, laborers, and vendors involved in this project have foregone other opportunities for the summer construction season and are dependent on
+continuation of this project to pay their mortgages, send their children to school and support their
+families. Entry of a preliminary injunction does not preserve the status quo for these families. Nor
+does entry of a preliminary injunction send the right message to those who are breaking the law to
+stop the project. An injunction would only reward those who break the law and punish those innocent workers, consumers, companies and Intervenor who have sought to follow the rules of the
+road to complete this important project. The truth is DAPL and the Corps have done everything
+reasonably possible to accommodate the Plaintiff’s interests and Native American historical, cultural
+and religious interests, and Plaintiff’s legitimate interests are protected by the comprehensive
+measures already in place. An injunction is not legally justified or supportable nor is an injunction
+
+1 Perhaps the least equitable conduct in this case is the blatantly illegal conduct promoted and supported by Plaintiff
+at the Lake Oahe crossing site. As set out in the attached Order Granting Plaintiff’s Motion for Temporary Restraining
+Order, members of the tribe, tribal supporters, and Hollywood personalities descended on the construction site near the
+Lake Oahe crossing, destroyed property, trespassed on private land, and threatened law enforcement officials and workers with physical harm and violence. Exh. V. This conduct is occurring despite Intervenor’s attempt to compromise by
+agreeing it would not drill under Lake Oahe until after the hearing before this Court on August 24, even if it had a legal
+right to do so. Plaintiffs should not be allowed to use the law to their advantage when it suits them, and break it when it
+does not. This willingness to do or say whatever is necessary to stop the project should undermine its claims and especially the claims of its declarants in this case.
+
+-4-
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 12 of 52
+
+necessary to protect Plaintiff’s legitimate interests.
+II. PRELIMINARY INJUNCTION STANDARD
+The U.S. Supreme Court case of Winter v. Natural Resources Defense Council sets forth the
+standard for preliminary injunction requests 555 U.S. 7, 20 (2008) (“Winter”). Winter increased the
+burden that plaintiff must meet in order to obtain a preliminary injunction by making clear that each
+and every element is independent and must be met. Under Winter, the plaintiff seeking preliminary
+injunctive relief “must establish” each of the following factors: (1) A likelihood of success on the
+merits; (2) A likelihood of irreparable harm in the absence of preliminary relief; (3) The balance of
+equities must tip in the plaintiff’s favor; and (4) The injunction is in the public interest. Id.
+Plaintiffs must demonstrate a “likelihood”—not a mere possibility—of both success on the
+merits and irreparable injury. Id. at 22; see also Davis v. Pension Benefit Guaranty Corp., 571 F.3d 1288,
+1296 (D.C. Cir. 2009) (Kavanaugh & Henderson, JJ., concurring). A preliminary injunction is an extraordinary remedy and the movant carries a heavy burden of persuasion by a clear showing, Winter,
+555 U.S. at 9, which Plaintiff has not satisfied.
+Moreover, preliminary relief is appropriate only when important substantive rights are at
+risk, and not merely when there is an allegation of a procedural deficiency. See Comm. of 100 on Fed.
+City v. Foxx, 87 F. Supp. 3d 191, 202 (D.D.C. 2015).
+III. ARGUMENT
+Plaintiff has established none of the four factors it is required to establish in order to receive
+extraordinary preliminary relief.
+A.
+
+The Plaintiff Is Unlikely to Prevail on the Merits of its Claim.
+The Plaintiff is unlikely to prevail on the merits. (1) Plaintiff has waived its ability to chal-
+
+lenge the NWP program; (2) the Corps was not required to consult under NHPA on the issuance of
+nationwide permit 12 (“NWP 12”); (3) the Corps has not improperly delegated § 106 compliance to
+permit applicants; (4) the Corps properly complied with the § 106 process embodied in both the
+Advisory Council on Historic Preservation (“ACHP”) part 800 regulations (“Part 800”) and the
+-5-
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 13 of 52
+
+Corps Appendix C regulations.
+1.
+
+Statutory and Regulatory Background.
+a.
+
+Regulatory background regarding Nationwide Permit 12.
+
+The Clean Water Act (“CWA”) authorizes the Corps to issue permits for the discharge of
+dredged or fill material into navigable waters. 33 U.S.C. § 1344(a). There are two types of discharge
+permits: (1) individual permits issued for a specific project; and (2) general permits issued for a type
+of activity. General permits are governed by 33 U.S.C. § 1344(e), which states:
+[T]he Secretary may, after notice and opportunity for public hearing, issue general
+permits on a State, regional, or nationwide basis for any category of activities involving discharges of dredged or fill material if the Secretary determines that the activities
+in such category are similar in nature, will cause only minimal adverse environmental
+effects when performed separately, and will have only minimal cumulative adverse
+effect on the environment.
+NWPs “are a type of general nationwide permit issued by the Corps to regulate with little, if
+any, delay activities having minimal impacts.” 33 C.F.R. § 330.1(b). 33 U.S.C. § 1344(d); 33 C.F.R.
+§§ 330.1–330.6.
+NWP 12, “Utility Line Activities”, is one such general permit. It authorizes “[a]ctivities required for the construction, maintenance, repair, and removal of utility lines and associated facilities
+in waters of the United States, provided the activity does not result in the loss of greater than 1/2acre of waters of the United States for each single and complete project.” 77 Fed. Reg. at 10271–72.
+NWP 12, in its official form, was adopted in 1982, 33 C.F.R. § 330.5(a)(12) (1982), although the
+Corps began issuing general permits for utility line discharges in 1977, 33 C.F.R. § 323.4(a) (1977).
+NWPs are renewed every five years. Along with the contemporary suite of NWPs, NWP 12 was
+most recently renewed in 2012. 77 Fed. Reg. 10184, 10271 (Feb. 21, 2012).
+In addition, the Corps has issued General Conditions (“GC”s) applicable to all NWPs, including NWP 12, to ensure that specific environmental and other requirements are considered on a
+case by case basis. Id. at 10282–87. All NWPs and GCs are issued or reissued after an opportunity
+for public notice and comment and only after the Corps gives full consideration to all comments
+received. 33 C.F.R. § 330.1(b).
+-6-
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 14 of 52
+
+If an activity comes within the parameters of a specific NWP, instead of issuing a new permit, the Corps District Engineer (“DE”) verifies compliance with the NWP. Id. at § 330.1(c). Verification is the process of notification to the Corps that the activity will occur and an opportunity for
+the Corps to verify compliance, but not issue a new permit. NEPA review and public comment is
+complete with no further such processes required.
+In some cases a pre-construction notification (“PCN”) is required. The DE “will review the
+notification and may add activity-specific conditions to ensure that the activity complies with the
+terms and conditions of the NWP and that the adverse impacts on the aquatic environment and
+other aspects of the public interest are individually and cumulatively minimal.” Id. § 330.1(e)(2).
+PCNs are required by the terms of specific NWPs and by a number of GCs. 77 Fed. Reg. 10184
+(Feb. 21, 2012).
+The NWP verification, including a DE’s review of a PCN, is not a major federal action, because NWPs are “automatic . . . if one applies, no application is needed before beginning the discharge activity.” Sierra Club, Inc. v. Bostick, 787 F.3d 1043, 1053 (10th Cir. 2015) (quoting Riverside
+Irrigation Dist. v. Andrews, 758 F.2d 508, 511 (10th Cir. 1985)); see also Snoqualmie Valley Pres. Alliance v.
+U.S. Army Corps of Eng'rs, 683 F.3d 1155 (9th Cir. 2012).
+b.
+
+Regulatory background regarding § 106.
+
+Intervenor’s position is that the Corps complied with its own regulations governing § 106,
+that the Corp’s regulations are the operative rules, and that in either event the Corps also complied
+with the Part 800 Rules and § 106 by following a robust historic preservation analysis.
+§ 106 of the NHPA requires federal agencies to consider the impacts of their actions or “undertakings” on sites that are on or eligible for inclusion on the National Register of Historic Places.
+54 U.S.C. § 306108. § 106, in its entirety, states the following:
+The head of any Federal agency having direct or indirect jurisdiction over a proposed
+Federal or federally assisted undertaking in any State and the head of any Federal department or independent agency having authority to license any undertaking, prior to
+the approval of the expenditure of any Federal funds on the undertaking or prior to
+the issuance of any license, shall take into account the effect of the undertaking on
+any historic property. The head of the Federal agency shall afford the Council a rea-7-
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 15 of 52
+
+sonable opportunity to comment with regard to the undertaking.
+Id. “Because of the operational similarity between the two statutes, courts generally treat ‘major federal actions’ under the NEPA as closely analogous to ‘federal undertakings’ under the NHPA.” Sac
+and Fox Nation of Mo. v. Norton, 240 F.3d 1250 (10th Cir. 2001).
+§ 106 contains no specific requirements other than consultation with State and Tribal Historic Preservation Officers (“SHPOs” and “THPOs,” respectively). 54 U.S.C. § 306108. Each Agency
+is responsible for compliance with § 106. In the context of NWP 12, the Corps fulfills its § 106 obligations by verifying whether permittees comply with GC 20, which addresses impacts to historic
+and cultural resources. Id. at 10184, 10197, 10284. GC 20, requires § 106 compliance where the
+Corps DE determines the activity may affect historic properties and further requires non-federal
+permittees to submit a PCN to the DE if the authorized activity may have the potential to cause effects to any historic property. Id. at 10284. NWP permittees are required to immediately notify the
+DE if, before or during the work authorized, potentially eligible historic property is encountered. 33
+C.F.R. § 330.4(g); 77 Fed. Reg. at 10284 (GC 21, Discovery of Previously Unknown Remains and
+Artifacts).
+§ 106 also created an advisory council known as the Advisory Council on Historic Preservation (“ACHP”). The ACHP is empowered by statute to advise the President and Congress, to encourage public interest in historic preservation, to recommend studies, to advise state legislatures, to
+encourage training, to review policies of other agencies and to recommend methods to improve
+historic preservation. 54 U.S.C. § 304101 et. seq. The ACHP was not granted any programmatic authority and has no power to approve or disapprove of specific projects. That authority remains with
+the separate agencies responsible for taking or approving actions. In its advisory role, the ACHP
+promulgated regulations to encourage the protection of historic properties, located at 36 C.F.R. part
+800. Under Part 800, an agency addresses historic preservation issues by identifying an area of potential effects (“APE”) associated with the agency’s potential “undertaking.” 36 C.F.R. § 800.4. If
+the agency identifies historic sites within the APE, it evaluates them for effect, and if it determines
+that those effects may be adverse, it engages in the consultation process to mitigate those effects to
+
+-8-
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 16 of 52
+
+the extent practicable. Id. §§ 800.5–800.6. The agency is required to consult with the State and
+Tribal Historic Preservation Officers (“SHPO and THPO” respectively) to identify and evaluate the
+effects on historic sites within the APE. Id. § 800.5(c).
+Under Part 800, a federal agency official may develop “alternate procedures” for § 106 compliance that may be substituted for Part 800 if concurred in by the ACHP. 36 C.F.R. § 800.14(a).
+Alternately, Part 800 also provides that “[i]t is the statutory obligation of the Federal agency to fulfill
+the requirements of section 106” and the “agency official with jurisdiction over an undertaking”
+“should plan consultations appropriate to the scale of the undertaking and the scope of Federal involvement and coordinated with other requirements of other statutes, if applicable.” Id. §§ 800.2(a),
+(a)(4). Part 800 further provides that:
+The agency official may use the agency’s procedures for public involvement under
+the National Environmental Policy Act or other program requirements in lieu of
+public involvement requirements in subpart B [The section 106 Process] if they provide adequate opportunities for public involvement consistent with this subpart.
+36 C.F.R. § 800.2(d)(3) (emphasis added). The ACHP has explicitly recognized that § 800.14 is not
+the exclusive means for § 106 compliance. In its 2000 revision of Part 800—in response to a commenter assertion that requirements of § 800.14 preclude implementation of § 800.2(a) insofar as §
+800.2(a) calls for utilization of the action agency’s existing procedures to fulfill consultation requirements—the ACHP stated “[t]he comment failed to consider the difference between procedures that
+implement 36 CFR part 800 (those under § 800.2(a)) and procedures that actually substitute/modify
+the process under 36 CFR part 800 (those under § 800.14).” 65 Fed. Reg. 77698, 77701 (Dec. 12,
+2000). Additionally, the ACHP clarified that § 800.2(d)(3) “specifically states that Federal agencies
+can use their own procedures for public involvement in lieu of [the section 106 process] under subpart B . . . so long as they provide adequate opportunities consistent with the rule. Such procedural
+consistency is no more than what the NHPA requires . . .” Id. at 77716. In addition to GC 20, the
+Corps has adopted regulations establishing procedures to fulfill its responsibilities under § 106 in
+Corps permitting actions. 33 C.F.R. § 325, Appendix C, paragraph 2. The Corps does not assert
+that the Appendix C regulations are “alternate procedures” formally concurred in by the ACHP un-9-
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 17 of 52
+
+der § 800.14. Appendix C states that it “establishes the procedures to be followed by the [Corps] to
+fulfill the requirements set forth in the [NHPA], other applicable historic preservation laws, and
+Presidential directives as they related to the regulatory program of the [Corps].” 33 C.F.R. § 325,
+Appendix C, paragraph 2. Thus, Appendix C procedures “implement” Part 800 in the context of
+the Corps’ existing permitting procedures, consistent with Part 800 and in compliance with § 106.
+ACHP approval of Appendix C, which was formally adopted by the Corps and approved by the Office of Management and Budget, is not required. 2
+Pertinent to this case is the Corp’s authority to define what constitutes an Undertaking. Under the NHPA and Part 800 it is for the Corps to determine what constitutes an “undertaking” and
+the scope of such “undertaking.” Part 800 clearly states that “[t]he agency official shall determine
+whether the proposed Federal action is an undertaking . . . and, if so, whether it is a type of activity
+that has the potential to cause effects on historic properties.” 36 CFR § 800.3(a). In explaining this
+provision in the preamble to regulation, the ACHP stated:
+The determination of whether or not an undertaking exists is the Agency Official’s
+determination. The Council may render advice on the existence of an undertaking, but ultimately this remains a Federal agency decision.
+65 Fed. Reg. at 77718 (emphasis added). If the undertaking is determined by that agency official to be a type of activity that does not have the potential to cause effects on historic properties,
+assuming such properties are present, then the agency official has no further section 106 obligations.
+Id. § 800.3(a)(1). Similarly, the agency official is charged with making all subsequent determinations
+in the § 106 process, including determination of the APE, determination of adverse effects, and termination of consultation. Id. §§ 800.4(a)(1), 800.5(a)–(b), 800.7(a). The role of the SHPO, THPO,
+and ACHP throughout the § 106 process delineated in Part 800 is solely consultative and advisory.
+Id. §§ 800.4(a)(1), 800.5(a)–(b), 800.7(a) (requiring that determinations be made “in consultation
+with” the SHPO/THPO); id. § 800.9(a) (“the Council may provide to the agency official its advisory
+opinion regarding the substance of any finding, determination or decision regarding adequacy of the
+Therefore, it is not necessary for the Court to reach the question of whether the ACHP would have overreached
+its statutory authority by creating a rule assuming the power to approve other agencies regulations.
+2
+
+- 10 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 18 of 52
+
+agency official’s compliance with the procedures . . .”).
+Appendix C defines the term “undertaking,” in Corps permitting context, to mean “the
+work, structure or discharge that requires a Department of the Army permit.” 33 C.F.R. § 325, Appendix C, paragraph 1(f). The “permit area,” as defined and analyzed in Appendix C, refers to those
+areas comprising the jurisdictional waters that will be directly affected by the proposed work, as well
+as uplands directly affected as a result of authorizing the work. 33 C.F.R. § 325, Appendix C, paragraph (1)(g). Appendix C expressly provides that a linear crossing of jurisdictional waters by a pipeline does not make the whole right-of-way part of the permit area or the undertaking. Id. (1)(g)(4).
+Rather, the portion of the right-of-way approaching the crossing that would not occur in its given
+configuration “but for” the authorized activity is the “permit area.” Id. “The [DE] will take into account the effects, if any, of proposed undertakings on historic properties both within and beyond
+the waters of the U.S. . . .” Id. (2)(a).
+Part 800 is not in conflict with Appendix C on this point and the ACHP has explicitly declined to issue formal guidance. Part 800 maintains verbatim the NHPA definition of “undertaking”
+as “a project, activity, or program funded in whole or in part under the direct or indirect jurisdiction
+of a Federal agency, including those carried out by or on behalf of the agency; those carried out with
+Federal financial assistance; and those requiring a Federal permit license, or approval.” 54 U.S.C. §
+300320); 36 CFR § 800.16(y). Neither the NHPA nor Part 800 further define the term “project.”
+The ACHP has recognized that guidance directly addressing the issue of the establishing
+APEs for wetlands permits would be helpful; the ACHP stated that it would be developing such
+guidance in 2000, but it has not issued any such guidance to date. 65 Fed. Reg. 77698, 77711–12
+(Dec. 12, 2000).
+2.
+
+The Corp’s Issuance of NWP 12 Did not violate the NHPA.
+
+Plaintiff purports to challenge NWP 12 only as applied to DAPL, but instead advances a
+never-before-raised facial, procedural argument equally applicable to all NWPs. If Plaintiff’s argument is accepted by the Court, it would invalidate the NWP program as a whole based upon the
+Corps’ purported failure to consult under § 106 before establishing the NWP program. Based on
+- 11 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 19 of 52
+
+publicly available data, the Corps reported 33,000 actions covered by NWPs in 2012 alone. Army
+Corps of Engineers, Civil Work Programs Statistics, March 20, 2013.
+Plaintiff’s argument is meritless. It would be impossible to determine in advance the impacts
+to historic and cultural resources for an entire nationwide system of permits, each having minimal
+environmental effects. Instead, the Corps fulfills its § 106 obligations through GC 20 and Appendix
+C for site-specific applications of the NWP program. And, as discussed below, the validity of
+NWPs has been expressly upheld by the courts.
+a.
+
+Plaintiff waived its broad attack against NWP 12 by never raising it
+during the public notice-and-comment rulemaking period.
+
+Plaintiff’s facial challenge to NWP 12, attacking the validity of the permit because the Corps
+purportedly failed to conduct § 106 consultations before issuing the permit, has been waived. “Parties waive their right to raise issues in challenging an agency rule by failing to raise the issues during
+the notice-and-comment rulemaking period.” All. for Nat. Health U.S. v. Sebelius, 775 F. Supp. 2d
+114, 124 (D.D.C. 2011) (citing Advocates for Highway and Auto Safety v. Fed. Motor Carrier Safety Admin.,
+429 F.3d 1136, 1148–50 (D.C. Cir. 2005); Nuclear Energy Inst., Inc. v. EPA, 373 F.3d 1251, 1297 (D.C.
+Cir. 2004)). Based on the comment record available at http://www.regulations.gov, no one, let
+alone Plaintiff, challenged the validity of the Nationwide Permitting program because of failure to
+conduct § 106 consultations on the NWPs themselves. Under well-established precedent, Plaintiff
+cannot raise this issue now for the first time.
+b.
+
+The Corps was not required to and could not have conducted § 106
+consultations when it issued NWP 12.
+
+Since NWP 12, like all nationwide permits, could apply to any utility action meeting the
+terms of the NWP 12 anywhere in the United States, it is obviously impossible to conduct the same
+kind of analysis for an NWP that is applied to specific projects that are known or determinable. Individual projects can affect individual types of natural resources, such as those protected by § 106, in
+different ways. That is why the Corps promulgated GC 20. 3
+Plaintiff even acknowledges that “[c]onducting a suitable § 106 consultation on a major class of prospective actions would be challenging.” Plaintiff’s Motion for a Preliminary Injunction at 22. Yet Plaintiff contends that a pro3
+
+- 12 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 20 of 52
+
+The Corps’ authority to issue § 404 NWPs, and the issuance of NWP 12 specifically, has
+been upheld against a broad assault of procedural CWA and NEPA claims. See, e.g., Sierra Club, Inc.
+v. Bostick, 787 F.3d 1043, 1047 (10th Cir. 2015) (holding that the Corps permissibly interpreted the
+CWA to allow partial deferral of minimal-impacts analysis based upon the difficulty of predicting the
+impact of activities allowed under nationwide permits); Ohio Valley Envtl. Coal. v. Bulen, 429 F.3d 493
+(4th Cir. 2005) (“Given [CWA] section 404(e)(2)’s recognition of the possibility that activities authorized by a general permit could result in a more-than-minimal impact, as well as the impossibility
+of making an ex ante guarantee that the authorized activities could never result in a more-than-minimal
+impact, we cannot agree with the district court’s conclusion that section 404(e) allows the Corps to
+issue general permits only for those activities that ‘will invariably have only minimal effects on the
+environment.’”). Plaintiff’s arguments are no different than the arguments rejected by these courts.
+As a matter of common sense, due to NWP 12’s broad scope, there could have never been an obligation to conduct § 106 consultations on a nation-wide level, before site-specific activities, constituting “undertakings” within the Corps’ jurisdiction, are even submitted for verification.
+c.
+
+The Corps did not delegate its NHPA 106 obligations to NWP permittees and retains responsibility for NHPA 106 compliance.
+
+Plaintiff’s claims that the Corps unlawfully delegated its § 106 obligations with respect to the
+DAPL project is baseless. NWP 12 and GC 20 are the opposite of a delegation. They assert the
+Corp’s authority by imposing specific obligations on permittees. The Corps acknowledged in 2012
+that (“[t]he Corps is ultimately responsible for determining compliance with the requirements of
+[NHPA 106]”) and its regulations make clear the Corps retains its responsibility to ensure that its
+NWP permitting actions comply with NHPA 106. 33 C.F.R. § 330.4. A permit applicant must satisfy all terms and conditions of an NWP, including the GCs, and Corps DEs have the authority to
+determine whether a permittee’s activity complies with NWP 12, including GC 20. Id. Even if an
+
+grammatic agreement under Section 106 is the only means by which NWPs can comply with Section 106. Id. Such a
+requirement is wholly absent under Section 106, and the Corps, as the agency responsible in implementing Section 106
+with respect to the NWP system, is entitled to deference in the ways it fulfills its Section 106 obligations and exercises its
+permissive authority to negotiate a programmatic agreement under 36 C.F.R. § 800.14(b). See infra at __.
+
+- 13 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 21 of 52
+
+activity complies with NWP 12, the DE may add conditions on a case-by-case basis to ensure that
+the activity will have only minimal individual and cumulative adverse effects on the environment. 33
+C.F.R. § 330.6(a)(3)(i). As with any permit program, the permitting agency and the DE retains express authority to modify or revoke a case-specific activity’s NWP authorization. 33 C.F.R. § 330.5.
+NWP permittees are required to immediately notify the DE if, before or during the work, potentially
+eligible historic property is encountered. 33 C.F.R. § 330.4(g); 77 Fed. Reg. at 10284 (General Condition 21, Discovery of Previously Unknown Remains and Artifacts). The Corps may police the use
+of a NWP to ensure that the environmental impact is minimal, and CWA § 404(e)(2) recognizes the
+possibility that authorized activities could result in more-than-minimal impacts and authorizes revocation or modification of an NWP itself for such cases. 33 U.S.C. § 1344(e)(2); Bostick, 787 F.3d at
+1057. The DE retains the authority to determine that the activity may affect historic properties, and,
+PCNs are typically required for NWP 12 verifications. 77 Fed. Reg. at 10271–72, 10284. Thus, the
+Corps retains jurisdiction over site-specific actions. The PCN is little more that the first step in
+complying with § 106, and it is the Corps’ ultimate responsibility of whether to accept the PCN or
+conduct further evaluation and analysis.
+NWP 12 and GC 20 are not a delegation of authority. They are an exercise of authority.
+3.
+
+The Corps did not violate its § 106 Obligations with respect to DAPL.
+
+Plaintiff claims that the Corps conducted a “fundamentally flawed” consultation. This claim
+has no merit, and is completely contradicted by the documented record of consultation on the
+DAPL project, and the laws and regulations that govern the Corps’ § 106 obligations.
+a.
+
+The Corps is entitled to substantial deference with respect to all aspects of § 106 implementation including the definition of an undertaking, the scope of the project, and the adequacy of the review.
+
+This is an administrative review case subject to the narrow standard provided by the Administrative Procedure Act. 5 U.S.C. § 551, et seq. (“APA”). Under the APA, agency action must be upheld unless it is “arbitrary, capricious, an abuse of discretion or otherwise not in accordance with
+law.” Id. at § 706(2)(A). The agency promulgating the regulations in question is entitled to defer-
+
+- 14 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 22 of 52
+
+ence in their interpretation. Chevron USA, Inc., v. Natural Resources Defense Council, 467 U.S. 837 (1984)
+(agencies are entitled a broad scope of discretion when interpreting the regulations they act under).
+The Corps decisions must be affirmed unless they constitute clear errors of judgment. Marsh v. Oregon Natural Res. Council, 490 U.S. 360 (1989).
+b.
+
+The Corps’ § 106 Consultation for the Verifications under NWP 12
+Complied with the NHPA.
+(1)
+
+The Corps accurately and appropriately relied on Appendix C when it
+determined the scope of the undertaking, and therefore the scope of
+its review.
+
+Plaintiff cites to a recent letter of the ACHP to support its claim that the “undertaking” to
+be considered for § 106 purposes should be the entire pipeline. This letter is inconsistent with the
+Corp’s properly adopted rules and regulations, set forth in Appendix C that each crossing should be
+considered a separate undertaking, 33 C.F.R. part 325 Appendix 3(1)(g)(4), and is inconsistent with
+ACHP’s own regulations, 36 C.F.R. part 800.3(a)(1).
+Moreover, the court owes no deference to the ACHP’s recent letter concerning the Part 800
+regulations. The letter is inconsistent with ACHP’s publicly-noticed interpretation of its own Part
+800 regulations summarized above. The ACHP cannot now assert a contrary interpretation that has
+not been introduced even through informal guidance, let alone proper rulemaking. This is especially
+true here where the ACHP has explicitly declined to issue formal guidance and where its authority to
+assert regulatory power over the waters of the United States is suspect at best.
+Plaintiff challenges the Corps’ conduct under the same regulations that have governed for
+the past 25 years. 4 ACHP has never challenged these regulations in any formal way. Changes in an
+agency’s application of regulations, policies, or guidance that occur without public notice are not afforded the deference that is usually extended by courts to agency decisions; such unanticipated and
+unexplained changes in established agency practice would be found arbitrary and capricious by a reviewing court. See, e.g., Encino Motorcars, LLC v. Navarro, No. 15–416 (9th Cir. June 20, 2016) (con4 Even the ACHP recognizes that the Corps has applied Appendix C to permits for 25 years. ACHP, Federal
+Agency Programs Committee Meeting, Section 106 Reviews for United States Army Corps of Engineers Permits and Undertakings
+with Small Federal Handles (Nov. 3, 2015).
+
+- 15 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 23 of 52
+
+cluding that any agency’s issuance of a regulation that departed from nearly 40 years of agency practice without providing a reasoned explanation for its departure—and where the agency’s longstanding position engendered reliance by regulated industry—did not receive Chevron deference); Motor
+Vehicle Mfrs. Ass’n of the U.S., Inc. v. State Farm Mutual Automobile Ins. Co., 463 U.S. 29, 41–42 (1983);
+Comcast Corp. v. F.C.C., 526 F.3d 763, 769 (D.C. Cir. 2008) (stating that “an agency's unexplained departure from precedent must be overturned as arbitrary and capricious”); Jupiter Energy Corp. v.
+FERC, 482 F.3d 293, 298 (5th Cir. 2007); FCC v. Fox Television Stations, Inc., 556 U.S. 502, 515–16
+(2009).
+Thus, the ACHP’s comment as to the meaning of an “undertaking” should be treated as
+nothing more than its opinion which the Corps has considered in reaching its decision and not, as
+Plaintiffs argue, a legally binding interpretation of the part 800 regulations. The Corps is obligated
+by law to follow its regulations notwithstanding ACHP’s letter objection. It should be noted that
+after writing their letter, the ACHP took no further action, suggesting that they, too, saw the comment merely as advice.
+The ACHP’s letter is also inconsistent with the entire jurisdictional structure of the Corps. §
+106 only applies to federal actions such as permit verifications or approvals. DAPL is a private
+company building a pipeline running across largely private lands over which no federal agency has
+jurisdiction or approval authority. The Corps was only obligated to conduct a technical review into
+the areas of the crossings of waters of the U.S. under the Corps’ jurisdiction, and the Corps followed
+its own regulations in conducting this review on the DAPL project. See 33 C.F.R. part 325, Appendix C. Moreover, both DAPL and the Corps amply considered cultural and historic resources in a
+way that exceeded the scope of the Corps’ § 106 legal obligations. See infra ¶ 3(A)(4).
+The Corps’ Appendix C process, consistent with § 106 and Part 800, begins with identifying
+the APE of the “undertaking.” Corps officials made these determinations for DAPL in accordance
+with GC 20 and Appendix C. Based upon the Corps’ recognition of its limited jurisdiction over a
+private project on private lands, the Corps lawfully and reasonably evaluated each of DAPL’s linear
+crossings as a single and complete § 106 “undertaking” for the purposes of NWP verification. Id.
+- 16 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 24 of 52
+
+(1)(f); DOA letter to Mr. Reid Nelson, May 13, 2016.
+The Corps has no basis for exercising jurisdiction over hundreds of miles of pipeline that are
+nowhere near to any water of the United States. Appendix C expressly provides that a linear crossing of jurisdictional waters by a pipeline does not make the whole right-of-way part of the permit
+area or the undertaking. 33 C.F.R. part 325 Appendix 3(1)(g)(4). As such, under its own regulations
+and Appendix C, the Corps will not assume responsibility for § 106 compliance for areas outside of
+its jurisdiction (aside from limited “but for” areas that are upland from its jurisdictional territories).
+Id. (1)(g)(1). And courts regularly cite and apply the Corps’ Appendix C regulations in establishing
+the scope of the “undertaking” for a Corps verification of NWP authorization. See, e.g., Crutchfield v.
+U.S. Army Corps of Eng’rs, 154 F. Supp. 2d 878, 905 (E.D. Va. 2001) (citing Appendix C in establishing the scope of the “undertaking” for the Corps’ authorization of NWPs for a county’s proposed
+wastewater treatment plant, discharge force main, and outfall). Thus, the Corps appropriately determined the scope of its DAPL APEs.
+Plaintiff also takes issue with Corps’ definition of the undertaking and APE at the Lake Oahe crossing specifically. There, the Corps identified the APE as the bore holes, stringing and staging
+areas, and access routes, because the pipeline itself will be constructed in a tunnel bored under the
+lake from private, dry land locations on either side without impacting banks, waters, beds or other
+water features. The Corps’ identified APE and scope of analysis of historic properties is reasonable,
+given the nature and depth of the boring, which the record establishes cannot feasibly cause negative
+effects to a historic property, including tribal land.
+Plaintiff inaccurately claims that “[s]everal courts have specifically found that the Corps cannot rely on its Appendix C regulations.” That is not true. No court has ever found that the ACHP
+has the authority to define the scope of a project or an undertaking for all federal agencies. Nor
+would such a ruling be consistent with ACHP’s own regulations or the statutory mandate of the
+NHPA or the enabling legislation for the various federal agencies.
+Colorado River Indian Tribes v. Marsh, cited by Plaintiff, is inapposite. The case pre-dated the
+Corps’ formal adoption of Appendix C, and the Corps modified Appendix C to address the deci- 17 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 25 of 52
+
+sion. 605 F. Supp. 1425 (C.D. Cal. 1985). The decision does hold that the Corps must look at the
+impact on historic resources both in the permit area and an “affected area.” Unlike in Colorado River
+Indian Tribes that is precisely what the Corps did in this case now before the Court. Nothing in the
+decision suggests that the scope of the APE is outside the Corps responsibility to define, or that a
+single stream crossing’s APE would include the entire 1172 mile length of a pipeline. The case did
+not hold that Appendix C is inherently in conflict with Part 800, 605 F. Supp. at 1438. Nor did it
+even consider the subsequent authority cited above recognizing alternative ways of satisfying § 106.
+See section II(A)(1)(b), infra.
+The only other case cited by Plaintiff is Committee to Save Cleveland’s Hueletts, 163 F. Supp. 2d
+776 (N.D. Ohio 2001). Cleveland’s Hueletts is distinguishable from this case, and to the extent it is
+not, it is a unique case factually, failed to consider the arguments set forth here, and is an outlier. In
+Cleveland’s Hueletts, the court held that the Corps had failed to comply with § 106 because the Corps
+failed to seek formal input from the State Historic Preservation Officer (“SHPO”) and the ACHP.
+The court held that even though the dredging in question only impacted a small area that had been
+previously dredged, the Corps was required to seek input. Of course, in the case now before the
+Court, the North Dakota SHPO and other relevant SHPOs and THPOs were formally asked for
+input and provided it. The Court reasoned that the Corps had failed to comply with NHPA. The
+Corps claimed that it was not required to seek input from the SHPO formally. That it had done so
+informally, and that the SHPO had verbally consented to the small dredging area. The Court rejected the claim that reliance on a single verbal telephone call complied with the ACHP’s rules requiring
+formal notice and a 15-day response period. In reaching the decision, the court made statements
+that were unnecessary to the holding to the effect that the ACHP was the exclusive source of rules
+to implement NHPA. In addition, the court made clear that it was only holding that the Appendix
+C regulations were non-compliant with NHPA to the extent they would have permitted the permit
+to be issued without seeking input from the ACHP and the SHPO. Indeed, the Court made clear
+that “the ultimate decision whether to issue a permit lay with the Corps, and not the ACHP,” id. at
+790, and that it was reaching no determination on the consistency of the remainder of the Corps’
+- 18 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 26 of 52
+
+regulations with the ACHP’s regulations, id. at 792 n.1. The court’s decision has not been cited in
+subsequent published opinions and would appear to be limited to its facts. The court denied most
+of plaintiff’s claims and noted that NHPA, like NEPA, requires consultation and consideration of
+historic interests and competing views, but leaves with the agency the authority to determine whether there is a significant impact, reasonableness of mitigation efforts etc.
+Here, at best the ACHP’s letter simply states its disagreement with the Corp’s decision. But,
+it does not indicate a lack of consideration or consultation. The Corps, and not the ACHP, is
+charged with stewardship over the waters of the United States. Courts regularly cite and apply the
+Corps’ Appendix C regulations in establishing the scope of the “undertaking” for a Corps verification of NWP authorization. See, e.g., Crutchfield v. U.S. Army Corps of Eng’rs, 154 F. Supp. 2d 878, 905
+(E.D. Va. 2001) (citing Appendix C in establishing the scope of the “undertaking” for the Corps’
+authorization of NWPs for a county’s proposed wastewater treatment plant, discharge force main,
+and outfall).
+(2)
+
+Analogous NEPA precedents support the Corps’ position.
+
+Plaintiff demands the Corps to expand the scope of its NWP authorization undertakings to
+be far broader than the analogous and well-established scope of NEPA federal actions. This position is unreasonable and unsupported by law.
+In interpreting the procedural requirements of § 106 analysis, courts have looked to NEPA
+as an analogous procedural statute requiring agencies to “stop, look, and listen” prior to making decisions that might affect historic properties as a component of the human environment. San Carlos
+Apache Tribe v. U.S., 417 F.3d 1091, 1097 (9th Cir. 2005); Morris Cty. Trust for Historic Pres. v. Pierce, 714
+F.2d 271, 278–79 (3rd Cir. 1983). Federal courts, the ACHP, and the Council on Environmental
+Quality have all recognized that NEPA is a “close statutory analog” to the NHPA. San Carlos Apache
+Tribe, 417 F.3d at 1097; Karst Envtl. Educ. and Prot., Inc. v. U.S. Envtl. Prot. Agency, 403 F. Supp.2d 74,
+79 (D.D.C. 2005); Council on Environmental Quality and Advisory Council on Historic Preservation, NEPA and NHPA: A Handbook for Integrating NEPA and § 106 (March 2013). As previously
+stated, “[b]ecause of the operational similarity between the two statutes, courts generally treat ‘major
+- 19 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 27 of 52
+
+federal actions’ under the NEPA as closely analogous to ‘federal undertakings' under the NHPA.”
+Sac and Fox Nation of Mo. v. Norton, 240 F.3d 1250 (10th Cir.2001); Karst Envtl. Educ. and Prot., Inc.,
+403 F. Supp.2d at 79.
+In the NEPA context, a federal action is subject to the control and responsibility or is regulated or approved by a federal agency. 40 C.F.R. § 1508.18. But where the federal agency does not
+control or have regulatory authority over an activity, the U.S. Supreme Court has determined that
+the activity is not subject to NEPA review by the agency. For example, where cross-border truck
+operations in Mexico were beyond the control of the U.S. regulatory agency, the Court held that the
+agency need not consider their environmental effects in recognizing their right of entry. In so finding, a unanimous U.S. Supreme Court held that:
+Where an agency has no ability to prevent a certain effect due to its limited statutory
+authority over the relevant actions, the agency cannot be considered a legally relevant
+“cause” of the effect. Hence, under NEPA and the implementing CEQ regulations,
+the agency need not consider these effects in its EA when determining whether its
+action is a “major Federal action.”
+Dep’t of Transportation v. Pub. Citizen, 541 U.S. 752, 770 (2004).
+Further, courts have regularly upheld the Corps’ approach to defining the limited scope of
+its actions in a series of “small handle” NEPA decisions involving multiple linear crossings over U.S.
+waters. Two circuits’ 2015 decisions upheld CWA and other permitting of discrete areas along an oil
+pipeline, because such permitting neither “federalize[d]” the otherwise private project nor subjected
+the projects to pipeline-length environmental analyses. Sierra Club v. Bostick, 787 F.3d 1043 (10th Cir.
+2015) (holding that the Corps was not required to prepare a NEPA analysis of the entire pipeline
+when verifying NWPs for a 485 mile oil pipeline crossing over 2,000 waterways); Sierra Club v. U.S.
+Army Corps of Eng’rs, 803 F.3d 31 (D.C. Cir. 2015) (holding that the various federal easements and
+approvals, including verification of numerous NWPs, along 5% of the length of a 593-mile private
+oil pipeline did not trigger NEPA analysis for the entirety of the pipeline); see also Winnebago Tribe of
+Neb. v. Ray, 621 F.2d 269, 272 (8th Cir. 1980) (concluding that the Corps was required only to consider environmental impacts to jurisdictional waters, rather than impacts along the length of an elec-
+
+- 20 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 28 of 52
+
+tric transmission line, even though the transmission line would not be possible but for the Corps
+permit); Save the Bay, Inc. v. U.S. Army Corps of Eng’rs, 610 F.2d 322, 326–27 (5th Cir. 1980) In declining to “federalize” oil pipeline projects and require environmental analysis beyond areas of federal agency jurisdiction, these courts upheld the Corps’ determinations of its limited scope of authority.
+In sum, federal courts have repeatedly rejected arguments that private oil pipeline projects
+are sufficiently federalized to warrant project-wide review when federal agencies only exercise jurisdiction over limited portions of the projects, such as federal water crossings. A small federal handle
+cannot warrant project-wide § 106 review because federal agencies do not have any authority or control over the project (and the project’s effects) outside these small federal handles. “Where an agency has no ability to prevent a certain effect due to its limited statutory authority over the relevant
+actions, the agency cannot be considered a legally relevant ‘cause’ of the effect.” Pub. Citizen, 541
+U.S. at 770. And where an agency is not the legally relevant cause of effects, it cannot be required to
+conduct § 106 review on those effects. See generally, id. at 768.
+(3)
+
+The lack of federal regulation of oil pipelines supports the Corps’ position.
+
+There is no federal agency responsible for (and Congress does not regulate) the construction
+and operation of oil pipelines. Nor is there federal discretion to control otherwise private activity on
+private property. The lack of federal regulation over oil pipelines dooms Plaintiff’s case, particularly
+since Corps regulations and policy specifically assert jurisdiction only over the jurisdictional waters
+and connected action areas.
+Indeed, Congress could not have intended to grant the Corps regulatory power over domestic oil pipelines through a vehicle such as the NHPA. Domestic oil pipelines always have been considered to be the subject of local and state control absent some controlling federal factor, such as
+location of the pipeline on federal land. Congress has declined to regulate oil pipelines in the same
+manner as gas pipelines. 5
+5
+
+The administrative simplification offered by the NWP program clearly
+
+Regulatory authority over gas pipelines is granted by Congress to FERC under the National Gas Act, 15
+
+- 21 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 29 of 52
+
+contemplates a lack of federal control over linear infrastructure projects. See Sierra Club, 990 F.
+Supp. at 42. To the extent necessary, processes accorded under the NHPA are undertaken pursuant
+to GC 20 of the NWP program.
+Had Congress intended to broadly control oil pipelines it had the tools at its disposal to do
+so. By definition, linear projects such as pipelines and transmission lines, cross a variety of land
+ownerships and land types, typically ranging from hundreds to thousands of miles. Oil pipelines by
+necessity cross state lines to move production from the field to processing. In the U.S., there are in
+excess of 2.3 million miles of pipelines transporting oil and natural gas, 6 not to mention pipelines
+that transport water, chemicals and other products. As such, oil pipeline projects by necessity cross
+waters of the U.S. But Congress has yet to exercise regulatory authority with respect to oil pipeline
+projects. Its silence on domestic oil pipelines is lethal to Plaintiff’s case.
+4.
+
+The Corps conducted a thorough and complete § 106 Analysis and Consultation.
+
+Intervenor and the Corps employed consultation practices that far exceeded the applicable
+legal requirements The details of the elaborate § 106 consultation provided by the Corps will be
+provided by Corps in their papers. However, Intervenor was directly involved in numerous efforts
+to ensure satisfaction of all § 106 requirements. The details of those efforts are provided in the attached Declarations of Michelle Dippel (Exhibit C) and Monica Howard (Exhibit B) which warrant
+close reading. To avoid repetition for the Court, this brief will not repeat the contents of the Declarations. In addition, it is important for the Court to distinguish between a failure to consult (there
+was extensive consultation), and a difference of opinion about the existence, importance, and protection of historic resources. Undoubtedly, the Plaintiff disagrees with the Corps and Intervenor
+U.S.C. § 717. FERC has jurisdiction over pipeline facilities used in the transportation of natural gas in interstate commerce and in the sale in interstate commerce of natural gas for resale for ultimate public consumption for domestic, commercial, industrial or any other use. See id.; see also FPC v. Louisiana Power & Light Co.,
+406 U.S. 621 (1972); Illinois Natural Gas Co. v. Central Ill. Pub. Serv. Co., 314 U.S. 498 (1942).
+6
+“General Pipeline FAQs,” Pipeline and Hazardous Materials Safety Administration,
+http://phmsa.dot.gov/portal/site/PHMSA/menuitem.6f23687cf7b00b0f22e4c6962d9c8789/?vgnextoid=a6
+2924cc45ea4110VgnVCM1000009ed07898RCRD&vgnextchannel=daa52186536b8210VgnVCM1000001ecb
+7898RCRD&vgnextfmt=print.
+
+- 22 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 30 of 52
+
+and would prefer to see the entire DAPL stopped. However, Plaintiff conflates these two concepts
+and concludes repeatedly that the fact that the Corps or Intervenor disagree with their views as a
+failure to listen to their views and give them consideration. Nothing could be further from the truth.
+Even the ACHP recognizes that the deciding agency can make a decision in complete disagreement
+with SHPO’s and THPOs. 36 C.F.R 800.4(d)(iv)(C).
+As explained below, the Corps decisions at issue in this case are neither arbitrary, capricious,
+an abuse of discretion, nor otherwise not in accordance with the law. The Corps not only acted rationally in promulgating NWP 12 and issuing verifications and authorizations to Intervenor, but
+went above and beyond the requirements of the NHPA. The Corps’ decisions must accordingly be
+affirmed.
+In preconstruction, DAPL’s preliminary route was devised considering already surveyed,
+identified, and cataloged cultural resources. See Ex. B, Decl. of Monica Howard (“Howard Decl.”)
+at ¶4 The preliminary route took into account and avoided sites eligible for or listed on the National
+register of Historic Places (“National Register”) that could potentially be impacted by construction.
+Id. Intervenor then conducted its own surveys in order to identify and avoid previously undocumented cultural sites. Id.
+Surveying commenced in the summer of 2014, with North Dakota surveys commencing in
+August 2014. Id. at ¶10. Initial surveys were conducted around buffers of all jurisdictional waters of
+the United States within the pipeline route corridor, in order to determine which sites, if any, warranted a Preconstruction Notice under General Condition 20 of the Nationwide Permit program.
+Id. The entire North Dakota and South Dakota route were then surveyed by Class II and/or III
+methods pursuant to respective state law requirements. Id. 7 Substantial portions of the Iowa and
+Illinois route were also surveyed by Class II and/or III methods pursuant to respective state law requirements. Id.
+7 A Class II Cultural survey is a pedestrian survey that focuses on visual reconnaissance of the ground surface in settings with high ground surface visibility. A Class III Cultural Survey is an intensive inventory consisting of a comprehensive archaeological survey program that is coordinated with and approved by the SHPO. The program includes both
+a surface visual inspection and excavation of shovel test probes on fixed transects/grid in order to inventory, delineate,
+and assess archaeological sites or historic structures within the study area. Id. at ¶9
+
+- 23 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 31 of 52
+
+Intervenor surveyed 100% of the 400 ft. corridor (200 ft. to each side of the planned pipeline route) in North Dakota and South Dakota. Id. at ¶11 Though the pipeline is expected to run
+approximately 357 miles in North Dakota, Intervenor surveyed nearly twice that many miles in
+North Dakota to account for all necessary deviations from the preliminary pipeline path. Id. at ¶12.
+North Dakota survey revealed 149 potentially eligible sites, of which 91 had stone features. The
+route and/or workspace was modified to avoid every single potentially eligible site with stone features, and modified to avoid all other potentially eligible sites but nine. Id. at ¶5 For the nine sites
+that were not avoided, Intervenor conducted mitigation in coordination with North Dakota’s State
+Historic Preservation Officer (“SHPO”). Id. 8 Thus, in North Dakota, the DAPL project was modified 140 times due to potential National Register discoveries. Id. at ¶6.
+Separate and aside from its preconstruction planning and surveying, Intervenor has implemented several precautionary measures to protect cultural resources during construction. In order
+to ensure no accidental impact to eligible or unevaluated sites that were fifty feet or less from the
+proposed construction workspace, Intervenor erected exclusionary fencing that protected each site
+(and the immediate 25 feet upstream and downstream from the site). Id. at ¶14. All other sites
+along the route in North Dakota were either (a) far enough away from the pipeline to be entirely
+avoided, or (b) not eligible for listing on the National Register and therefore did not warrant protection. Id.
+If not enough information was available to determine whether a location is eligible for inclusion on the National Register, it was considered an unevaluated site by the DAPL team. Id. at ¶15.
+Out of an abundance of caution, Intervenor treated all unevaluated sites as potentially eligible sites
+and did not disturb them. Id. Thorough evaluation was conducted of unevaluated sites. Any eligible or unevaluated sites at the Lake Oahe crossing were avoided by DAPL construction workspace
+by re-locating the activity, and thus are not impacted by DAPL. Id. at ¶16. Both the Corps and the
+8 For the nine mitigated sites in North Dakota, Dakota Access worked in coordination with and with approval of
+the North Dakota State Historic Preservation Officer to perform data recovery mitigation. Data recovery efforts consisted of the systematic and controlled excavation of multiple block units placed at select locations within the proposed
+workspace areas to recover significant data to address pertinent region-specific research issues and for preservation purposes. Id. at ¶13. None of these nine sites had stone features. Id. at ¶5.
+
+- 24 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 32 of 52
+
+North Dakota State Historic Preservation Officer agree that there is no effect to cultural resources
+at the Lake Oahe crossing. Id. This determination is based on DAPL’s avoidance of sensitive resources by using the Horizontal Directional Drill technique to drill 90 – 115 feet below the bed of
+Lake Oahe. Id.
+As an additional safeguard to cultural resources, Intervenor implemented an Unanticipated
+Discovery Plan (the “Plan”) to manage any potential occurrence of a cultural resource during the
+course of construction. Id. at ¶17. Under the Plan, if any object is observed by construction personnel that appears to be cultural, paleontological, or human remains, the Environmental Inspector
+is notified immediately and construction is halted and the site secured until the object is evaluated.
+Id. If the object is cultural in nature, a qualified archeologist is brought to the site to further investigate. Id. Notification and coordination with State and Tribal Historic Preservation Officers and
+other appropriate agencies would continue until evaluation, treatment, avoidance, and/or mitigation
+of the site is complete and authorized by the respective jurisdictional agency and company official.
+Id. Under the Plan, Plaintiff is specifically notified whenever a cultural object is found as well. Ex.
+C, Dippel Decl. at ¶21.
+In addition, after all these efforts by Intervenor, Corps afforded the Plaintiff an additional
+opportunity to provide information about affected historic and cultural resources which resulted in a
+three month delay of construction during the summer of 2016.
+B.
+
+Plaintiff Does not and Cannot Demonstrate Irreparable Harm Absent an Injunction
+To receive a preliminary injunction, Plaintiff must demonstrate that it will suffer irreparable
+
+harm absent the injunction. See Chaplaincy of Full Gospel Churches v. England, 454 F.3d 290, 297 (“A
+movant’s failure to show any irreparable harm is . . . grounds for refusing to issue a preliminary injunction, even if the other three factors entering the calculus merit such relief” (citing Sea Containers
+Ltd. v. Stena AB, 890 F.2d 1205, 1210-11 (D.C. Cir. 1989)); see also GEO Specialty Chem., Inc. v. Husisian, 923 F. Supp. 2d 143, 147 (D.D.C. 2013) Coalition for Common Sense in Government Procurement v.
+United States, 576 F. Supp. 2d 162, 168 (D.D.C. 2008). Here, Plaintiff demonstrates no such harm—
+a fatal flaw to their request for equitable relief.
+- 25 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 33 of 52
+
+Irreparable harm is “both certain and great” and “actual and not theoretical.” Wisconsin Gas
+Co. v. FERC, 758 F.2d 669, 674 (D.C. Cir. 1985). In order to demonstrate irreparable harm, moving
+parties must convince courts that “the harm will in fact occur.” Id. Thus, moving parties must “substantiate the claim [of] irreparable injury” and “must show that the alleged harm will directly result
+from the action which the movant seeks to enjoin.” Id. The harm must additionally be “beyond
+remediation” and be “of such imminence that there is a clear and present need for equitable relief to
+prevent irreparable harm.” CFGC, 454 F.3d at 297; id.; see also Village of Logan v. U.S. Dept. of Interior,
+577 Fed. Appx. 760, 767 (10th Cir. 2014) (citing Heideman v. South Salt Lake City, 348 F.3d 1182,
+1189 (10th Cir. 2003)).
+One result of the extensive § 106 efforts detailed above and in the Declarations of Howard
+and Dippel, of GC 20 which governs historic reviews under NWP 12, and of the extensive involvement of SHPOs and THPOs has been to design and implement a project with extensive safeguards
+to cultural and historic resources. As noted above, the identification and preservation of these resources went far beyond what is required by law. (1) The entire length of the pipeline in North Dakota and South Dakota was surveyed for historic resources even though Corps regulations would
+not have required it. (2) The location, path and other physical features of the pipeline were modified
+repeatedly by Intervenor to accommodate historic resources. (3) Arrangements were made that
+were satisfactory to other tribes where the pipeline passed through tribal properties. These tribes
+have lodged no complaint against the pipeline. (4) Pertinent to the section of line at issue here, in
+the general vicinity of the Standing Rock Sioux Reservation, advance notice was given to the tribe of
+the commencement of construction on private land, even though neither the tribe nor the federal
+government has the right to stop such construction.
+The area for construction of access roads and staging areas for pipe assembly (all on private
+land) were staked in advance so that interested parties could see where the construction would occur. Access to the site was not denied even though it was on private land, as evidenced by the presence of hundreds of tribal protesters (and at least one Hollywood actress) on the site. Access was
+given to not one, but five separate monitors to comb the construction site for any hint of cultural or
+- 26 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 34 of 52
+
+historic resources. The monitors included a DAPL Archeology Monitor, a Tribal Monitor, an Environmental Monitor, a Utility Inspector, and a separately engaged engineering firm contracted by the
+state of North Dakota to monitor the construction and ensure that it was completed in accordance
+with the state’s requirements, including those for historic preservation. In addition, an Unanticipated Discovery Plan was put in place to stop all construction in the event anything of suspected significance was encountered. It is possible that no project involving the construction of a short piece of
+gravel road in an area already crossed by electric transmission and gas line easements has ever received more careful monitoring to ensure protection of historic resources. Notwithstanding this
+enormous scrutiny and monitoring, not a shred of evidence has been provided to this court to suggest that this activity has harmed or threatened a historic resource.
+Plaintiff is explicit about the speculative nature of its concern in the Declaration of Mentz
+when he states that “destruction of some sites is certain because the pipe crosses 1200 miles.”
+Mentz Declaration at ¶ 14. Mentz’s conclusion is valid only if his logic is accepted that the scope of
+Plaintiff’s jurisdiction covers 1/3 the continental land mass of the United States and extends to every
+place “where the buffalo roamed.” In truth, Mentz, like Plaintiff, cannot identify any specific harm.
+And, any claimed harm is the result of the shear scope of the Plaintiff’s claimed interest, and not the
+result of poor planning, bad government decision making, or incomplete historic or environmental
+analysis.
+The safety of this pipeline has been reviewed and scrutinized by state agencies that have far
+superior ability to judge such matters than Plaintiff or this Court. State PUC’s have conducted hearings, listened to experts, reviewed design documents, and compared safety features of this pipeline
+to alternative methods of transportation and have all, unanimously, found that there is a need for
+DAPL and that it is safe and effective, and that it properly recognizes competing interests. See Exh.
+A1 to Mamhoud Decl.
+First and foremost, despite Plaintiff’s unsupported allegations regarding environmental impacts of the DAPL project, the record clearly establishes that DAPL construction will not have a
+significant or substantial impact on the wildlife in the pipeline’s path. Intervenor has purposely de- 27 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 35 of 52
+
+signed the pipeline route and its construction plan to co-locate DAPL with existing utility infrastructure. 145 miles of DAPL in North Dakota is co-located with another pipeline and electric transmission facilities. Intervenor has additionally submitted extensive mitigation plans with its applications
+for NWP 12 verifications and § 408 permits. This supports the finding that the environmental impact of the pipeline construction will be minimal, and the Corps has determined this to be the case. 9
+What’s more, land that is cleared will not suffer permanent or irreversible harm as the preliminary injunction standard requires.” Sierra Club v. United States Army Corps of Engineers, 990 F.
+Supp. 2d 9, 39 (D.D.C. 2013). Plaintiff’s claims are further deficient as they offer no independent
+evidence for their allegations regarding the certainty and imminence of the injuries they allege. In
+fact, much of DAPL is buried four feet beneath land that has already been disturbed by crop grazing
+and flood control activities. Plaintiff’s claims are often exaggerated, speculative or clearly rebutted
+by the record. Plaintiff’s allegations regarding potential oil spills sometime in the future do not
+demonstrate that oil spills are likely to occur, nor that they are imminent. DAPL is being constructed
+using modern design, materials and technology to minimize the potential for upset conditions. Furthermore, it is widely recognized that pipelines, such as DAPL, provide a safer method of transporting energy resources than alternatives, such as rail. See Mahmoud Decl. ¶¶ 23, 31-32, 77. Injunctions “will not issue to prevent injuries neither extant nor presently threatened but only merely
+feared.” Comm. In Solidarity With People of El Salvador (CISPES) v. Sessions, 929 F.2d 742, 745-46 (D.C.
+Cir. 1991) (internal quotation marks and citations omitted).
+Nor do NHPA violations on their own constitute irreparable harm. Given NEPA and
+NHPA’s similarities, arguing that NHPA violations constitute irreparable harm “does not advance
+the ball because it begs the very question at issue in this action,” i.e., whether the Corps’ alleged failure to fulfill its § 106 requirements by acting under Appendix C violates the NHPA. See Sierra Club,
+990 F. Supp. at 40. Regardless, irreparable harm in the NHPA context should only be found when
+
+9
+
+To the extent this Court disagrees with the Corps’ findings, this Court must still give the Corps deference unless
+the Corps’ decisions were arbitrary or capricious. And as discussed above, the Corps’ decisions are reasonable, well considered and anything but arbitrary and capricious.
+
+- 28 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 36 of 52
+
+the procedural harm is “combined with an aesthetic or other concrete injury.” Comm. of 100 on Fed.
+City v. Foxx, 87 F. Supp. 3d 191, 202 (D.D.C.), reconsideration denied sub nom. Comm. of 100 on the Fed.
+City v. Foxx, 106 F. Supp. 3d 156 (D.D.C. 2015), and appeal dismissed, No. 15-5112, 2015 WL 5210462
+(D.C. Cir. July 1, 2015) (citing Fund for Animals v. Clark, 27 F. Supp. 2d 8, 14 (D.D.C. 1998)). Thus, a
+procedural violation of the NHPA, on its own, is insufficient for irreparable harm. See id.; see also
+Brady Campaign to Prevent Gun Violence v. Salazar, 612 F. Supp. 2d 1, 24-25 (D.D.C. 2009). And as Intervenor has shown above: (1) No procedural NHPA violations have occurred; and (2) Plaintiff has
+offered no evidence of aesthetic or concrete injuries that will occur in the absence of an injunction
+(because they will not occur).
+C.
+In Contrast to the Hypothetical Harms Plaintiff Faces, Intervenor and the Public
+Will Be Irreparably Harmed by an Injunction
+To prevail on their motion for a preliminary injunction, Plaintiff must prove that the balance
+of hardships justifies injunctive relief. Washington Metropolitan Area Transit Comm’n v. Holiday Tours,
+Inc., 559 F.2d 841 (D.C. Cir. 1977). When “balanc[ing] the competing claims of injury,” the Court
+must “consider the effect on each party of the granting or withholding of the requested relief.” Winter, 555 U.S. at 24 (citations omitted). Thus, if more harm would come from enjoining an activity
+than from letting it continue, an injunction should not issue. See id. Here, the balance of harms
+clearly weighs in favor of Intervenor and does not justify injunctive relief.
+A temporary injunction would have devastating short and long term impacts to the DAPL
+project. Construction of the entire project would cease and the project itself would be jeopardized.
+Hundreds of deviations from the construction schedule would occur costing as much as $540,000
+per occurrence.
+
+The aggregate direct impact of these changes would exceed $100 million.
+
+Mahmoud Decl. ¶¶ 54-56. Sections of the pipeline that are partially constructed would have to be
+reclaimed in midstream to avoid irreparable property loss and equipment. Id. ¶ 61. The environmental damage caused by a work stoppage would be significant. Id. ¶ 62. Deadlines would be
+missed resulting in lapsed easements terminated contracts and duplicative payments to landowners.
+Id. ¶¶ 64-67. Customer contracts could be lost permanently if the January 1st delivery schedule is not
+
+- 29 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 37 of 52
+
+maintained. Id. ¶ 70. An injunction would deprive consumers of the economic benefits that result
+from more efficient, reliable and safer transportation of nearly 6.5% of domestic energy production
+that the Bakken field yields. Id. ¶¶ 31. Short term impacts will harm 10,000 working families that
+have chosen to work on DAPL over the few other major pipeline projects that exist for such a specialized workforce. DAPL workers earn fully loaded wages of between $53 to $105 per hour. The
+economics suggest that for every $1 spent on DAPL, $5 is generated across the U.S. and that for
+each one million dollars invested in this $3.8 billion project, 2.6 new jobs are created across the
+country. Id. When other contract and related costs are calculated, including damages to farmers,
+demobilization, security along the length of the pipeline with monitors and inspectors, burying the
+pipe and seeding the areas, capital costs, and the like, the cost of even a temporary project delay is
+$430 million. Demobilization costs alone are $200 million. Id.
+Perhaps more importantly, and despite the staggering cost associated with a short term injunction of indefinite duration, any injunction imperils the DAPL project in its entirety. Many contracts have a date certain after which DAPL could lose committed customers. Additionally, easements have construction end dates, after which it is uncertain whether the easement would remain
+available to the project. Lost workers may not be immediately replaceable due to the specialization
+of pipeline crews. Investor appetite for the project could shift and financing may no longer be available. The cost of an injunction during the first year would approach $1.4 billion and would exceed
+that amount each successive year, with none of the loss being compensable. Id. ¶ 54. Hence, the
+uncertainty created by an injunction threatens project viability in a very real sense.
+There are residual unrecoverable losses as well. For example, without DAPL, marginal oil
+producers could be forced to terminate production. This will affect landowners who depend on
+royalties as part of their income. It also will affect the United States, a major mineral owner that will
+directly feel the effects of lost production from the Bakken. Id.
+The accompanying declarations, affidavits, and letters of support, summarized in Ex. X,
+highlight some of the losses that will occur throughout the U.S. economic system from this illfounded motion for injunctive relief including, but not limited to:
+- 30 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 38 of 52
+
+Harm to
+Workers/
+Families
+
+Harm to
+Local
+Economy
+
+Harm to
+Manufacturers
+Harm to
+Shippers/
+Producers
+
+Harm to
+Contractors
+
+Loss of jobs and steady income, as well as losses of health benefits and pension benefits [Exh. E, Maher Decl. (IUOE) ¶¶ 8, 19-20; Exh. J, M. Davis Decl. (Teamsters) ¶¶
+13-15; Exh. I, G. Davis Decl. (LIUNA) ¶¶ 4-7]; such losses could exceed tens of
+thousands of dollars per worker [Exh. D, Gross Decl. (UA) ¶¶ 5-6]
+Lost income can mean a foreclosed mortgage and a lost home, children having to
+drop out of college, and domestic stress, problems that are not reparable or compensable by later employment or payments [Exh. I, G. Davis Decl. (LIUNA) ¶ 8]
+Disruption to families as lives are planned in anticipation of working on the pipeline;
+workers travel great distances, some “more than a thousand miles,” and work far
+from home, some living in recreation vehicles or trailers, at great personal sacrifice, to
+provide for their families [Exh. E, Maher Decl. (IUOE) ¶¶ 8, 11, 13, 14; Exh. D,
+Gross Decl. (UA) ¶ 6; Exh. I, G. Davis Decl. (LIUNA) ¶ 11]
+Significant cost of relocating to work, arranging for lodging, and giving up housing
+commitments that may not be able to be reestablished if work is restarted [Exh. D,
+Gross Decl. (UA) ¶ 6; Exh. E, Maher Decl. (IUOE) ¶ 13; Exh. J, M. Davis Decl.
+(Teamsters) ¶ 19]
+Inability to find other employment, many workers being forced to draw unemployment benefits from the State [Exh. E, Maher Decl. (IUOE) ¶¶ 10, 15]
+Inability of local unions to anticipate manpower demands without certainty in permitting process and construction timetables [Exh. D, Gross Decl. (UA) ¶ 7]
+Declined spending at local restaurants, hotels, grocery stores, and other local businesses [Exh. R, Bourne Decl. (IBEW) ¶ 18; Exh. M, Michels Aff. ¶ 5d; Exh. E, Maher Decl. (IUOE) ¶ 18]; approximately $1,000 per week is spent by workers along the
+pipeline route [Exh. D, Gross Decl. (UA) ¶ 8; Exh. J, M. Davis Decl. (Teamsters) ¶
+16]
+Significant tax revenue and other benefits would be lost, e.g., loss of state payroll taxes (over $0.7M per week), loss of corporate state income taxes (over $6.0M), loss of
+locally procured materials and equipment rentals (over $9.5M per week), loss of local
+room/board and food (over $0.7M per week), and loss of revenue to local communities for daily expenses and supplies (greater than $35.0M) [Exh. F, Poteete Aff. (Precision) ¶ 17]
+Construction delays cause “idled assembly lines, breached contracts, and a domino
+effect that ripples up and down supply chains, injuring manufacturers every step of
+the way.” [Exh. H, Eisenberg Decl. (NAM) ¶ 16]
+For each day of delay to the in-service date of the Bakken Pipeline System, Enbridge
+will suffer approximate revenue losses per day of $600,000 in 2017, $640,000 in 2018,
+$720,000 in 2019, $830,000 in 2020, and $930,000 in 2021. [Exh. G, Schuldhaus Decl.
+(Enbridge) ¶ 6]
+Permanent cancellation means Enbridge could lose a total of $7.3 billion, a significant
+percentage of Enbridge’s total market capitalization, which is approximately $9 billion. [Exh. G, Schuldhaus Decl. (Enbridge) ¶ 7]
+Decreased access to secure, stable, domestic light crude oil [Exh. L, Palmer Aff.
+(Marathon) ¶ 8]; negative impact on price differentials [Exh. K, Hills Decl. (Oasis) ¶
+5]
+Contractors have passed up opportunities to bid and work on other projects [Exh. R,
+Bourne Decl. (IBEW) ¶ 22; Exh. J., M. Davis Decl. (Teamsters) ¶ 20; Exh. M, Michels Aff. ¶ 5c]
+- 31 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 39 of 52
+
+Harm to
+Others/
+Public
+
+Sudden shutdown of work would harm Precision’s operations, stranding approximately $7.5 million dollars of past investment; delays will result in lost revenue to
+Precision and its partners, and change orders from subcontractors for demobilization
+and remobilization costs [Exh. F, Poteete Aff. (Precision) ¶ 9]
+Financial losses for Precision’s employees, subcontractors, and unions: weekly salaries
+for estimated 3,300 employees (over $5.7M per week); loss of union benefits (over
+$3.8M per week); and loss of revenue for subcontractors (over $2.5M per week) [Exh.
+F, Poteete Aff. (Precision) ¶ 15]
+Decreased capacity to move domestic energy to domestic markets [Exh. H, Eisenberg
+Decl. (NAM) ¶ 9; Exh. L, Palmer Aff. (Marathon) ¶ 8; Exh. G, Schuldhaus Decl.
+(Enbridge) ¶ 8; Exh. Q, Santos Decl. (P66) ¶ 8]
+Delaying construction into winter months would reduce efficiency of cleanup activities, impacting landowners/residents [Exh. F, Poteete Aff. (Precision) ¶¶ 18, 21]
+Increased reliance on rail [Exh. K, Hills Decl. (Oasis) ¶ 5; Exh. L, Palmer Aff. (Marathon) ¶ 5; Exh. G, Schuldhaus Decl. (Enbridge) ¶ 10; Exh. T, XTO Ltr.; Exh. S,
+ConocoPhillips Ltr.] and concomitant congestion on rail infrastructure [Exh. L,
+Palmer Aff. (Marathon) ¶ 20; Exh. K, Hills Decl. (Oasis) ¶ 6]
+Significant capital would be stranded and investments impaired if DAPL is delayed or
+not completed [Exh. G, Schuldhaus Decl. (Enbridge) ¶ 9; Exh. Q, Santos Decl. (P66)
+¶ 5]
+
+Intervenor has committed significant resources to DAPL over the past three years, and has
+engaged in substantial efforts to comply with state and federal environmental obligations, to the extent the project implicates them. Construction of DAPL is roughly 45% complete, and construction
+of DAPL will provide a safer, more secure source of crude oil supply transportation than the riskier
+rail and truck alternatives currently in place. The DAPL project enhances national and energy security and provides direct and substantial economic benefits to local communities in the form of jobs
+and economic stimulus benefits. Halting DAPL construction, even if temporary, would result in
+substantial job losses and other local benefits, and will additionally cause Intervenor to lose profits
+that are unlikely to be recoverable. Specifically, DAPL expects to lose (and not just delay the receipt
+of) $900 million dollars every month the pipeline construction is delayed.
+Intervenor’s relationships with its suppliers and customers (and thus its business operations)
+would suffer as a result of construction delays. Additionally, delaying DAPL construction will likely
+cause the very types of environmental harms that Plaintiff is allegedly trying to prevent - current
+construction plans are tailored to seasonal calendars intentionally established to minimize environmental effects. In addition, the construction schedule also has been designed to accommodate the
+- 32 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 40 of 52
+
+time-sensitive planting and cropping schedules of local farmers. Mahmoud Decl. ¶61-66.
+Because DAPL, the Corps, and the public at large face concrete, substantial harm if an injunction issues, and Plaintiff has not identified any harms to support injunctive relief, an injunction
+may not issue.
+D.
+
+The Public Interest Disfavors an Injunction
+Even assuming Plaintiff could demonstrate a likelihood of success on their NHPA causes of
+
+action or on the equities (which it cannot), there is absolutely no general presumption that procedural violations will outweigh “other public interests for purposes of determining appropriateness of
+preliminary injunctive relief.” Chemical Weapons Working Group, Inc. v. U.S. Dept. of the Army, 963 F.
+Supp. 1083, 1097 (D. Utah 1997) (NEPA context); see also Winter, 129 S.Ct. at 376 (presuming
+NEPA violation and irreparable injury yet holding that “any such injury is outweighed by the public
+interest” and harm to agency, “[a] proper consideration of these factors alone requires denial of the
+requested injunctive relief”). Thus, any interest Plaintiff has in additional § 106 review cannot outweigh “significant human and financial costs” that would result from an injunction. Aquifer Guardians in Urban Areas v. Federal Highway Admin., 779 F. Supp. 2d 542, 576 (W.D. Tex. 2011).
+Here, the public interest disfavors an injunction. As the District Court for the District of
+Columbia has stated:
+[T]he public has an interest in regulatory efficiency with respect to projects that fall
+within the rubric of the general permitting system that the Clean Water Act expressly
+authorizes. This system is carefully designed and administered to minimize the costs
+of approving projects that the Corps has already determined will not adversely impact the environment. The general permitting system also has the added benefit of
+incentivizing project sponsors to conform their construction activities to existing
+general permits, thereby further reducing the administrative burden while at the same
+time decreasing the potential negative environmental consequences of those projects.
+Sierra Club, 990 F. Supp. at 42. It would indeed be troubling if this Court found that both casting
+doubt on the entire nationwide permitting program, every single verification issued approving use of NWP 12, and
+halting DAPL construction would be in the public interest. See id.
+Moreover, DAPL serves the public interest by developing stable North American energy
+
+- 33 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 41 of 52
+
+sources, and by providing jobs and economic growth. See Nat. Res. Def. Council v. Kempthorne, 525 F.
+Supp. 2d 115, 127 (D.D.C. 2007) (“The development of domestic energy resources is of paramount
+public interest and will be harmed (at least to some extent) if that development is delayed.”); Sierra
+Club v. Clinton, 689 F. Supp. 2d 1123, 1147 (D. Minn. 2010) (“The Court agrees that the public has
+an interest in developing energy resources, particularly an oil supply from a stable source”); see also
+Dine Citizens Against Ruining Our Env't v. Jewell, CIV 15-0209 JB/SCY, 2015 WL 4997207, at *50
+(D.N.M. Aug. 14, 2015) (“The oil-and-gas industry is an enormous job creator and economic engine
+in New Mexico, and shutting down portions of it based on speculation about unproven environmental harms is against the public interest.”). And, the public has an interest in avoiding unnecessary administrative costs incurred by additional and unnecessary § 106 consultations for DAPL and
+uprooting an entire nationwide permitting system in the process.
+Plaintiff’s arguments in regards to the public interest are unavailing. By arguing that there is
+a significant public interest in ensuring the Corps complies with its NHPA duties, Plaintiff only begs
+the question. This argument is only derivative of Plaintiff’s merits arguments and is only viable if
+Plaintiff’s merits arguments are viable. And as to DAPL, even a minor NHPA procedural violation
+is not sufficiently significant to delay construction given the small federal role in the project.
+As Intervenor has explained above, Plaintiff raised no meaningful arguments, challenging
+only their hypothetical, speculative and unfounded fears, pointing to no significant or meaningful
+deviation of law in the regulatory process. Certainly, were it the decision of Plaintiff, there would be
+a different regulatory process in place – one that greatly restricts any natural resource development.
+Furthermore, even if Plaintiff had any likelihood of success on the merits of their NHPA claims,
+Plaintiff’s interest in further § 106 consulting or a more robust permitting process is heavily outweighed by the public’s interest in developing stable energy sources, providing jobs, avoiding unnecessary administrative burden, and economic growth. See Winter, 129 S.Ct. at 376. Thus, a preliminary injunction should not issue. See id. (citing Serono Laboratories, Inc. v. Shalala, 158 F.3d 1313, 1326
+(D.C. Cir. 1998) (“The final preliminary injunction factor, the public interest, also offers [plaintiff]
+no support because it is inextricably linked with the merits of the case. If, as we have held, [plaintiff]
+- 34 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 42 of 52
+
+is not likely to establish [a likelihood of success in the merits], then public interest considerations
+weigh against an injunction.”); ViroPharma, Inc. v. Hamburg, 898 F. Supp. 2d 1, 29-30 (D.D.C. 2012)
+(where plaintiff was unlikely to establish that agency action did not comply with the law, the public
+interest factor weighed against granting an injunction)).
+E.
+
+The Balance of Equities Weighs Against Entering a Preliminary Injunction.
+The equities weigh against entering a preliminary injunction because Plaintiff similarly
+
+squandered the opportunities offered by Intervenor. Over a period of two years spanning from
+2014 to 2016, Intervenor provided Plaintiff at least seven opportunities to address their areas of cultural concern. See Ex. C, Dippel Decl. at ¶23. Plaintiff never took Intervenor on its offers. Id. at ¶39.
+Monica Howard first offered to engage with Waste Win Young, Plaintiff’s then-THPO, in October
+2014. Ex. B, Howard Decl. at ¶23. Waste and Monica set up and attended a meeting in Waste’s office on October 28, 2014. Id. at ¶¶23-24. Monica, along with Intervenor’s North Dakota Principle
+Investigator, explained the DAPL project to Waste and Terry Clouthier, a former Standing Rock
+Sioux Tribe Tribal Historic Preservation Officer who now runs a consulting firm that performs
+Tribal Cultural Preservation survey work. Id. at ¶¶25-28. Waste voiced relief that Intervenor was
+planning on conducting HDD under the lake to install the pipe, as opposed to other, techniques
+such as by an open cut trench excavation. Id. at ¶27. Waste also expressed that she was glad that
+DAPL’s route did not affect a nearby TCP, the Sundance site located west of the Lake Oahe crossing. Id.
+Monica informed them that cultural and archeological surveys were already underway, and
+asked them to let her know if the tribe had any areas of concern that DAPL appeared to be in or
+near so we could work through them. Id. at ¶28. Waste and Terry requested the centerline file for
+the project’s route in North Dakota and South Dakota to review for areas of tribal concern. Id.
+While Monica sent them the files via e-mail on November 13, 2014, no one at Intervenor or the project consultants received any response regarding these project files or any areas of tribal concern. Id.
+Aside from these communications with Plaintiff in late 2014, the Corps requested information from Plaintiff and other tribes, and held several consultation meetings in 2015 and 2016. In
+- 35 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 43 of 52
+
+December 2015 and January and February 2016. At these meetings, Intervenor offered to be of assistance to Plaintiff, offered to facilitate TCP surveys with Plaintiff and other tribes, and requested
+that Plaintiff and other tribes identify their areas of concern. Ex. C, Dippel Decl. at ¶¶9-12, 16-18;
+Ex. B, Howard Decl. at ¶36. Intervenor also followed up with Plaintiff over e-mail and requested
+that Plaintiff identify its areas of concern several times. Ex. C, Dippel Decl. at ¶23. Plaintiff never
+identified its areas of concern and never attempted to coordinate TCP surveys with Intervenor. Id.
+at ¶38.
+If Plaintiff chose to engage with Intervenor, its purported concerns would have been satisfied. This is best demonstrated by the fact that Intervenor was able to coordinate with the Osage
+Tribe, Northern Arapaho Tribe, and the Upper Sioux Community—the three tribes that accepted
+Intervenor’s offers for survey coordination. Id. at ¶28. Over the months of March, April, and May
+of 2016, Michelle Dippel, DAPL’s Tribal Liaison, coordinated TCP surveys and discussed the survey
+results with these tribes. Id. The Osage Tribe submitted survey results quickly and identified the
+areas that they would like to monitor during construction. Id. The Northern Arapaho Tribe completed surveys but did not submit written reports, and did not further indicate they had additional
+areas of concern. Id. at The Upper Sioux Community conducted several TCP surveys as well. Id.
+All three tribes worked with Intervenor, and Plaintiff could have as well.
+As the Supreme Court has noted, “administrative proceedings” such as the § 106 consultation process “should not be a game or a forum to engage in unjustified obstructionism by making
+cryptic and obscure reference to matter that ‘ought to be’ considered and then, after failing to do
+more to bring the matter to the agency’s attention, seeking to have that agency determination vacated on the ground that the agency failed to consider matters ‘forcefully presented.’” Vermont Yankee
+Nuclear Power Corp. v. Nat. Res. Def. Council, Inc., 435 U.S. 519, 553–54 (1978). Yet this is exactly what
+Plaintiff has done throughout the course of the Corp’s and Intervenor’ attempts to consult.
+Indeed, both the Supreme Court and the D.C. Circuit have upheld the disposal of claims
+challenging agency compliance with procedural statutes when litigants did not alert agencies of their
+specific contentions during the administrative process. For instance, in Theodore Roosevelt Conservation
+- 36 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 44 of 52
+
+Partnership, the D.C. Circuit held that since the appellants “had ample opportunity to submit the evidence of the environmental impact of wind energy development” to the BLM but did not, the fact
+that BLM did not consider such evidence in developing an Environmental Impact Statement was
+neither arbitrary nor capricious under the APA. Theodore Roosevelt Conservation P'ship v. Salazar, 616
+F.3d 497, 514-15 (D.C. Cir. 2010). In Vermont Yankee, when the Atomic Energy Commission
+(“AEC”) “continually invited further clarification of [] contentions” from a litigant during the administrative process and “indicated a willingness to receive evidence on the matters” even without
+such clarification—and when that litigant not only “decline[d] to further focus its contentions” but
+“virtually declined to participate” in the administrative process, the Supreme Court held that the
+AEC did not violate the APA by not considering the litigant’s contentions. Vermont Yankee, 435
+U.S. at 553–54. And in Public Citizen, when “respondents did not raise [] particular objections to [an]
+EA” during the administrative process but later raised them in litigation, the Supreme Court held
+that the respondents waived all of those particular objections. Public Citizen, 541 U.S. at 765.
+Here, over the course of roughly two years, instead of providing information and clarification regarding its areas of concern to either Intervenor or the Corps, Plaintiff virtually ignored Intervenor’ attempts to consult and responded to the Corps’ offers for consultation and requests for information with vacant demands for consultation. Instead, Plaintiff now simultaneously complains
+that
+
+(1) only it can identify culturally significant sites because no person “of European descent”
+can possibly have sufficient background to do so, Plaintiff’s Memorandum at 33 & Mentz Decl. in
+support of Plaintiff’s Memorandum at ¶39; and
+(2) it was never the tribe’s burden to provide information, even when requested, because it
+was the Corp’s duty to investigate historic impacts, Plaintiff’s Memorandum at 31-33.
+Despite Plaintiff’s contentions in support of this Catch 22, Plaintiff had an affirmative obligation to provide information to the Corps if it wanted the Corps to act on that information. See
+Public Citizen, 541 U.S. at 765; Theodore Roosevelt Conservation P'ship, 616 F.3d at 514-15; Vermont Yankee, 435 U.S. at 553–54. And when Plaintiff finally visited Lake Oahe with the Corps in 2016, a year
+and a half after Intervenor initially requested information from it, Plaintiff identified no areas of
+
+- 37 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 45 of 52
+
+concern within Lake Oahe’s PCN area. Indeed, Plaintiff still fails to concretely identify any areas of
+concern that will be impacted by DAPL, let alone within the Corp’s jurisdiction. The failure to concretely identify these areas, whether during consultation or presently, is Plaintiff’s own undoing. See
+generally, Vermont Yankee, 435 U.S. at 553 (“it is still incumbent upon intervenors who wish to participate to structure their participation so that it is meaningful, so that it alerts the agency to the intervenors’ position and contentions”).
+F.
+
+The Equities Favor the Contractors, Tradesmen, Laborers, Vendors and all the tens
+of thousands of Individual Americans Dependent on DAPL.
+If equity requires a balancing of equities, no injunction can enter here. Plaintiff’s position
+
+does not seek balance or a reasoned outcome. It is intended to create a legal quagmire that no project could satisfy as part of a strategy to stop the project at all costs. The current administration has
+demonstrated in the case of the Keystone Pipeline that it is more than able to consider and accommodate the interests of the Tribe. DAPL crosses no tribal trust lands and contains only limited
+crossings of Corps-owned project lands. In one instance, with the support of Tribal leadership,
+DAPL negotiated an easement across an 11 mile tract of tribal fee land in North Dakota to avoid
+federal lands. Furthermore, to the maximum extent practicable, DAPL is co-located within existing
+utility and infrastructure corridors. A testament to this environmentally-oriented planning process is
+that less than 1% of the route involves actual § 404 waters and Corps land holdings. Despite this
+limited federal interest, Intervenor agreed to evaluate the entire route for cultural and other sensitive
+resources in North and South Dakota.
+In comparison, DAPL affects far fewer wetlands than other crude delivery projects than recently have been affirmed by federal district and circuit courts from similar challenges. For instance,
+the Flanagan South Pipeline, while approximately half the length of DAPL has 1,947 NWP crossings. The Gulf Coast Pipeline, which is shorter yet, has over 2,000 NWP crossings. This compares
+with 203 NWP crossings by DAPL.
+Intervenor has received state and local authorization to construct DAPL in each of the four
+states it crosses – North Dakota, South Dakota, Iowa and Illinois. With approximately 45% of
+
+- 38 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 46 of 52
+
+DAPL constructed, the project is on schedule to meet its plan to begin the flow of oil on December
+31, 2016. And the Plaintiff in this case asserts arguments that, if accepted, would fundamentally imperil not only this project but thousands of others. Entry of an injunction here would have far
+reaching effects. It would strike down the Nationwide Permit program. It would stop this 1172
+mile pipeline midway through its construction. It would recognize intangible claims to 1/3 the land
+mass of the continental United States. It would prevent non-Indians from working as historical surveyors. It would relieve the Tribe of any semblance of responsibility for constructive engagement in
+the consultative process. It would imperil the livelihood of 10,000 construction workers. It would
+compel continued reliance on a less safe, less efficient mode of transporting oil. It would displace
+the discretion of the Corps which is vested with authority to make balanced decisions about resource use and development with that of Tribal consultants and/or the court. It would imperil
+mortgage payments and college educations for working class Americans. It would impose higher
+energy costs on consumers. It would inflict hundreds of millions of dollars in damages on Intervenor, its employees, its business partners and owners, its customers, producers, shippers and users of
+energy. It would devalue and ignore the thousands of hours of hard work invested by state and local
+regulators across four states who have satisfied themselves that this important project should go
+forward.
+G.
+
+Plaintiff Lacks Standing to Complain About most of what it Seeks to Enjoin.
+The Tribe lacks standing to seek an injunction that would affect construction anywhere on
+
+the pipeline except for the site of the Lake Oahe crossing. Yet the only site on DAPL’s route where
+the Tribe claims to have an interest is a river crossing at Lake Oahe. The Tribe has not asserted a
+concrete and particularized interest in any other DAPL PCN location, let alone the hundreds of
+thousands of other sites where the Corps has verified crossings for other projects. The Tribe therefore lacks standing to seek the broad relief requested in its Motion for Preliminary Injunction, and
+the Court only has jurisdiction over affects the Lake Oahe crossing. 10
+10 Even with respect to Lake Oahe, the Tribe’s claims fall short. As Intervenor has shown, the horizontal directional drill that will be used at Lake Oahe will proceed at least feet below the bed of the waters that the Tribe claims are sacred, and the drill will begin and end on private land in which the Tribe does not appear to claim an interest. The Tribe
+
+- 39 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 47 of 52
+
+Because the Tribe asserts a “procedural injury” with respect to its rights under the NHPA,
+the focus of the standing inquiry is whether the Tribe has suffered a “personal and particularized
+injury.” See City of Dania Beach, Fla. v. FAA, 485 F.3d 1181, 1185 (D.C. Cir. 2007) ; Doc. 5 at 28
+n.19. As the D.C. Circuit has held, “[t]o establish injury-in-fact in a ‘procedural injury’ case, petitioners must show that ‘the government act performed without the procedure in question will cause
+a distinct risk to a particularized interest of the plaintiff.’” Id. (emphasis added). But the Tribe
+has not alleged an “injury in fact” for any location other than Lake Oahe.
+“In alleging procedural harm, a sufficient ‘concrete interest’ is established by alleging a ‘geographic nexus' between the individual asserting the claim and the location suffering an environmental impact.” Slockish v. U.S. FHA, 682 F. Supp. 2d 1178, 1199 (D. Ore. 2010) (citation omitted); see
+also Friends of St. Frances Xavier Cabrini Church v. FEMA, 658 F.3d 460, 467-68 (5th Cir.
+2011)(collecting cases discussing the “geographic nexus” requirement). Thus when plaintiffs cannot
+show a concrete interest in or a geographical nexus with allegedly affect property, plaintiffs lack
+standing to allege procedural deficiencies under the NHPA. See Slockish, 682 F. Supp. 2d at 1200;
+Friends of St. Frances, 658 F.3d at 467-68. For example, one court recently held that multiple Native
+American tribes lacked standing to enjoin a project under the NHPA when they did not “assert that
+they, or any other members of the tribe, have visited, used, or ever plan on visiting or using the traditional cultural resources that allegedly have been impacted by the project.” Slockish, 682 F. Supp.
+2d at 1200. The tribes’ vaguely pled, “astonishingly broad” “cultural injury” was insufficient to grant
+standing. And when another group alleged § 106 violations without asserting concrete interests in
+property at issue, the Fifth Circuit held that the group lacked standing to assert its claims—even
+though the property at issue was only six miles away from the property the group had been
+formed to protect. Friends of St. Frances, 658 F.3d at 467-68 . Because the group could not establish
+a nexus with the property at issue, it had no standing to claim that it was wrongfully excluded from §
+106 consultations. Id. at 467.
+
+is therefore incorrect that the project will have any impact on lands that the Tribe believes are sacred.
+
+- 40 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 48 of 52
+
+Like the plaintiffs in Slockish and Friends of St. Frances, the Tribe here lacks any concrete interest in any of the property it seeks to protect except for the crossing at Lake Oahe. Plaintiff’s Memorandum asserts that the Lake Oahe crossing “is sacred ground to the Standing Rock Sioux,” lists its
+complaints about the § 106 process with respect to Lake Oahe, and explains its concerns with respect to construction at the crossing. Doc. 5 at 17-26. But the Tribe does not assert a single complaint that it was wrongfully excluded from the verification process at any other site. Indeed, the
+tribe does not point to any specific PCN location other than the Lake Oahe PCN. Plaintiff has no
+legal basis to assert standing anywhere buffalo roam, and generalized interests in “traditional cultural
+properties” will not satisfy Plaintiff’s burden. Slockish, 682 F. Supp. 2d at 1200. Thus Plaintiff does
+not establish any geographic nexus or other concrete interests with respect to other PCN locations,
+but only a “generalized injury resulting from [the Corp’s] failure to follow the section 106 process.”
+Friends of St. Frances, 658 F.3d at 467-68. This is not sufficient. 11Plaintiff also lacks standing to complain of any work or injuries affecting only private land as to which neither it, the federal government, or any tribe has any right or interest. If an agency lacks jurisdiction to control a project, an
+injunction requiring § 106 consultation would not provide redress for Plaintiffs’ alleged injury, which
+is the third required prong of constitutional standing. Gettysburg Battlefield Preservation Ass’n v. Gettysburg College, 799 F. Supp. 1571, 1580-82 (M.D. Pa. 1992), aff’d, 989 F. 2d 487 (3d Cir. 1993).
+H.
+
+The Court Should Order Plaintiff to Post a Bond
+Pursuant to the Federal Rules, the court may issue a preliminary injunction “only if the mo-
+
+vant gives security in an amount that the court considers proper to pay the costs and damages sustained by any party found to have been wrongfully enjoined or restrained.” Fed. R. Civ. P. 65(c). As
+explained in Wright & Miller, “the rule is phrased in mandatory terms and the conclusion seems inescapable that once the court decides to grant equitable relief under Rule 65 it must require security
+from the applicant.” 11 Charles Alan Wright & Arthur R. Miller, Federal Practice and Procedure, §2954,
+11 Indeed, it is difficult to imagine how the Tribe could establish any concrete interest in or geographic nexus with
+the “countless rivers, streams, lakes, and wetlands” that exist throughout all four states along the route of 1,168 milelong pipeline. Plaintiff’s Motion at 18. The Tribe has no such interest.
+
+- 41 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 49 of 52
+
+at 319-21 (2013); see McGregor Printing Corp. v. Kemp, No. 91-3255, 1992 WL 118794, at *7 (D.D.C.
+May 14, 1992) (recognizing mandatory nature of bond requirement and citing Wright & Miller).
+Neither Plaintiff nor the circumstances warrant one of the very narrow exceptions to this strict rule.
+See Ellipso, Inc. v. Mann, 2005 WL 5612442, at *2 (D.D.C. Nov. 14, 2005), aff’d, 480 F.3d 1153 (D.C.
+Cir. 2007) (requiring plaintiff in environmental case to post a bond). If the Court grants an injunction and Dakota Access ultimately prevails in this action, or it otherwise is determined that Dakota
+Access has been wrongfully enjoined or restrained, the damages to Dakota Access will be substantial. The damages Dakota Access will sustain as a result of the requested injunction, even for a temporary shutdown, would total approximately $1.4 billion in the first year, see Ex. A, Mahmoud Decl.
+at ¶ 22, which amount includes the following:
+Additional Expense
+Cost to Renew Easements (one-time expense)
+Remobilization Costs (one-time expense)
+Maintenance of Work Sites ($1,500,000 per
+month)
+Capital Expense (per year)
+Loan Renewal Fees (one-time expense)
+Dakota Access’ Lost Revenue (for 2017)
+Specialty Seed Payment (one-time expense)
+Duck Lease Penalty (one-time expense)
+“Completed-by” breach payments (one-time
+expense
+
+Amount
+$70,000,000
+$200,000,000
+$18,000,000
+
+Reference
+Ex. A, ¶ 65
+Ex. A, ¶ 66
+Ex. A, ¶ 68
+
+$36,000,000
+$15,500,000
+$913,000,000
+$4,500,000
+$3,000,000
+$4,300,000
+
+Ex. A, ¶ 68
+Ex. A, ¶ 68
+Ex. A, ¶ 69
+Ex. A, ¶ 74
+Ex. A, ¶ 74
+Ex. A, ¶ 74
+
+Given the foregoing, Plaintiff should be required to post a bond of $1.4 billion to reimburse
+the quantifiable damages that Intervenor will have incurred and will not be able to recover.
+
+- 42 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 50 of 52
+
+IV. CONCLUSION
+WHEREFORE, Intervenor respectfully requests that this Court deny the motion for preliminary injunction because it fails to meet any of the requirements for a preliminary relief.
+Respectfully submitted this 18th day of August, 2016.
+/s/ Kimberly H. Caine
+Kimberly H. Caine, DCBA #974926
+William J. Leone, CSBA #11403
+Robert D. Comer, CSBA #16810
+Norton Rose Fulbright US LLP
+799 9th Street NW, Suite 1000
+Washington, DC 20001-4501
+202-662-0200
+kim.caine@nortonrosefulbright.com
+william.leone@nortonrosefulbright.com
+bob.comer@nortonrosefulbright.com
+Edward V. A. Kussy, DCBA #982417
+Robert D. Thornton, DCBA #966176
+Alan M. Glen, Texas SBN #08250100
+(Pro Hac Vice Application Pending)
+Nossaman LLP
+1666 K Street, NW, Suite 500
+Washington, DC 20006
+202-887-1400
+ekussy@nossaman.com
+rthornton@nossaman.com
+aglen@nossaman.com
+
+- 43 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 51 of 52
+
+CERTIFICATE OF SERVICE
+I hereby certify that on the 18th day of August, 2016, I served a true and correct copy to the
+following via ECF filing and/or email:
+Patti A. Goldman
+Earthjustice
+705 Second Avenue, Suite 203
+Seattle, WA 98104
+Jan Hasselman
+Earthjustice
+705 Second Avenue, Suite 203
+Seattle, WA 98104
+Admitted Pro Hac Vice
+Stephanie Tsosie
+Earthjustice
+705 Second Avenue, Suite 203
+Seattle, WA 98104
+Admitted Pro Hac Vice
+Attorneys for Plaintiff
+Matthew M. Marinelli
+U.S. Department of Justice
+Environment and Natural Resources Division
+P.O. Box 663
+Ben Franklin Station
+Washington, DC 20044-0663
+Erica M. Zilioli
+U.S. Department of Justice
+Environment and Natural Resources Division
+P.O. Box 7611
+Washington, DC 20044
+Attorneys for Defendant
+I further certify that on August 18, 2016, true and correct copies were served on the following, via Federal Express overnight delivery:
+Office of the Attorney for the
+District of Columbia
+441 Fourth Street NW
+Washington, DC 20001
+
+U.S. Army Corps of Engineers
+441 G Street NW
+Washington, DC 20314-1000
+
+- 44 -
+
+Case 1:16-cv-01534-JEB Document 22 Filed 08/18/16 Page 52 of 52
+
+U.S. Attorney’s Office
+Attn: Civil Process Clerk
+555 Fourth Street NW
+Washington, DC 20530
+
+Office of the Attorney General
+1350 Pennsylvania Avenue NW, Suite 409
+Washington, DC 20004
+
+A courtesy copy via email was sent to Michael Thorp, counsel for U.S. Department of Justice Environment and Natural Resources Division, michael.thorp@usdoj.gov.
+/s/ Kimberly H. Caine
+
+- 45 -
+
+

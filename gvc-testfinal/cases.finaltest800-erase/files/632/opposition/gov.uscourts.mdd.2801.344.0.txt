@@ -1,0 +1,427 @@
+Case 1:00-cv-02602-MJG Document 344 Filed 11/28/12 Page 1 of 15
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF MARYLAND
+Northern Division
+UNITED STATES OF AMERICA
+Plaintiff,
+v.
+
+CASE NO. MJG 00-CV-2602
+
+WESTVACO CORPORATION
+Defendant.
+
+DEFENDANT WESTVACO CORPORATION’S RESPONSE IN OPPOSITION TO
+PLAINTIFF’S MOTION IN LIMINE TO EXCLUDE CERTAIN TESTIMONY BY
+COLIN M. CAMPBELL
+Raymond B. Ludwiszewski (Bar No. 14905)
+rludwiszewski@gibsondunn.com
+Charles H. Haake (pro hac vice)
+chaake@gibsondunn.com
+Justin A. Torres (pro hac vice)
+jtorres@gibsondunn.com
+GIBSON, DUNN & CRUTCHER LLP
+1050 Connecticut Avenue, N.W.
+Washington, D.C. 20036-8500
+(202) 955-8500 (voice)
+(202) 467-0539 (facsimile)
+Counsel for Defendant Westvaco Corporation
+
+Case 1:00-cv-02602-MJG Document 344 Filed 11/28/12 Page 2 of 15
+TABLE OF CONTENTS
+Page
+I.
+
+INTRODUCTION............................................................................................................ 1
+
+II.
+
+FACTUAL BACKGROUND .......................................................................................... 2
+
+III.
+
+ARGUMENT .................................................................................................................... 3
+
+IV.
+
+A.
+
+Mr. Campbell’s discussion of the legal and regulatory framework
+applicable in this case is not an inadmissible legal conclusion. ............................ 3
+
+B.
+
+Mr. Campbell’s testimony as to whether it was reasonable for Westvaco
+to conclude that the DEP was not subject to PSD review is relevant and
+helpful to the trier of fact. ...................................................................................... 8
+
+C.
+
+Mr. Campbell’s testimony will not expend an undue amount of
+additional trial time. ............................................................................................... 9
+
+CONCLUSION ................................................................................................................ 9
+
+i
+
+Case 1:00-cv-02602-MJG Document 344 Filed 11/28/12 Page 3 of 15
+TABLE OF AUTHORITIES
+Page(s)
+Cases
+Applegate v. United States,
+35 Fed. Cl. 406 (Fed. Cl. 1996) .................................................................................................. 7
+Daubert v. Merrell Dow Pharms., Inc.,
+509 U.S. 579 (1993) .................................................................................................................... 8
+Ford v. Allied Mut. Ins. Co.,
+72 F.3d 836 (10th Cir. 1996) ...................................................................................................... 6
+Hangarter v. Provident Life & Accident Ins. Co.,
+373 F.3d 998 (9th Cir. 2004) ...................................................................................................... 6
+In re Fosamax Prods. Liab. Litig.,
+645 F. Supp. 2d 164 (S.D.N.Y. 2009) ........................................................................................ 7
+Kopf v. Skyrm,
+993 F.2d 374 (4th Cir. 1993) ...................................................................................................... 4
+Principal Mut. Life Ins. Co. v. United States,
+26 Cl. Ct. 616 (1992) .................................................................................................................. 7
+Schott v. I-Flow Corp.,
+696 F. Supp. 2d 898 (S.D. Ohio 2010) ....................................................................................... 7
+Sierra Club v. Tennessee Valley Authority,
+592 F.Supp.2d 1357 (N.D. Ala. 2009) ........................................................................................ 8
+Specht v. Jensen,
+853 F.2d 805 (10th Cir. 1988) .................................................................................................... 6
+United States v. Barile,
+286 F.3d 749 (4th Cir. 2002) ...................................................................................................... 4
+United States v. Bedford,
+536 F.3d 1148 (10th Cir. 2008) .................................................................................................. 5
+United States v. Mikutowicz,
+365 F.3d 65 (1st Cir. 2004) ......................................................................................................... 5
+United States v. Offill,
+666 F.3d 168 (4th Cir. 2011) ................................................................................................. 5, 6
+United States v. Smithers,
+212 F.3d 306 (6th Cir. 2000) ...................................................................................................... 8
+United States v. Stadtmauer,
+620 F.3d 238 (3d Cir. 2010) ................................................................................................... 4, 5
+United States v. Wade,
+203 F. App’x 920 (10th Cir. 2006) ............................................................................................. 5
+ii
+
+Case 1:00-cv-02602-MJG Document 344 Filed 11/28/12 Page 4 of 15
+
+TABLE OF AUTHORITIES
+(continued)
+Page(s)
+Woods v. Lecureux,
+110 F.3d 1215 (6th Cir. 1997) .................................................................................................... 4
+Rules
+Fed. R. Evid 401 ............................................................................................................................. 8
+Fed. R. Evid. 702 ............................................................................................................................ 4
+Fed. R. Evid. 704(a) ........................................................................................................................ 3
+Regulations
+40 C.F.R. § 52.21(i)(4)(v) ............................................................................................................... 3
+40 C.F.R. § 52.21(i)(9).................................................................................................................... 3
+
+iii
+
+Case 1:00-cv-02602-MJG Document 344 Filed 11/28/12 Page 5 of 15
+
+Defendant, Westvaco Corporation (“Westvaco”) hereby submits the following response
+in opposition to Plaintiff’s Motion In Limine to Exclude Certain Testimony by Colin M.
+Campbell (Doc. No. 335).
+I.
+
+INTRODUCTION
+
+At trial, Westvaco intends to offer the expert opinion of Colin M. Campbell, a nationally
+renowned expert on the Prevention of Significant Deterioration (“PSD”) provisions of the Clean
+Air Act and on permitting under those regulations. Part of the opinions Mr. Campbell will offer
+concerns Westvaco’s conclusion in 1980 that the DEP did not trigger PSD review and the
+obligation to implement Best Available Control Technology. Mr. Campbell will testify that,
+even though the Court has disagreed with Westvaco’s interpretation of the applicability of PSD
+to SO2 emissions from the power boiler, given the complex applicable legal regime and intricate
+interplay between the 1978 PSD regulations and the 1980 regulations, it was reasonable for
+Westvaco to conclude that the DEP was not subject to PSD review and BACT requirements
+because the SO2 emissions from the power boilers were limited by its emissions cap.
+The United States has filed a motion in limine to exclude certain portions of Mr.
+Campbell’s testimony, arguing that Mr. Campbell’s testimony is not relevant in light of the
+Court’s Memorandum and Order Re: Inapplicability of BACT (Doc. No. 327), and that those
+portions of Mr. Campbell’s testimony amount to legal conclusions.1 To the contrary,
+Mr. Campbell’s testimony does not run counter to this Court’s order; rather, it is relevant to
+determining whether Westvaco believed in good faith that it was complying with the law, which
+is a factor this Court may consider in determining whether to grant injunctive relief.
+
+1 The Government has not sought to exclude all of Mr. Campbell’s opinions.
+
+Case 1:00-cv-02602-MJG Document 344 Filed 11/28/12 Page 6 of 15
+
+Furthermore, Mr. Campbell’s opinion is consistent with a long line of cases allowing experts to
+explain to a trier of fact complex regulatory standards and requirements. His opinions
+concerning these legal requirements will aid this Court in understanding the facts in evidence and
+his ultimate opinion regarding the reasonableness of Westvaco’s conduct. As such, this Court
+should deny the Government’s motion in limine.
+II.
+
+FACTUAL BACKGROUND
+
+Westvaco will present evidence at trial that it reasonably concluded that PSD permitting
+did not apply to the DEP because SO2 emissions from the power boilers would remain below the
+mill’s SO2 cap. Westvaco submitted its application to the State of Maryland for a permit to
+construct the two new digesters on May 9, 1980. Robert Dickinson will testify that prior to
+submitting the application he made a determination that the 1978 version of the PSD
+regulations—which was applicable at the time—did not apply to the addition of the new
+digesters because SO2 emissions were covered under the cap. After the 1980 version of the PSD
+regulations were finalized, Mr. Dickinson reviewed them and determined that the analysis did
+not change.
+Mr. Campbell’s opinion will support the conclusion that this interpretation was
+reasonable given the changes that the PSD regulations were undergoing at the time.
+Mr. Campbell is a nationally renowned expert on the application of the PSD regulations to
+industrial sources. Mr. Campbell frequently holds training courses on PSD that are widely
+attended by industry lawyers, and state and federal regulators. Mr. Campbell has earned degrees
+in mechanical engineering and economics, and has worked as a consultant on Clean Air Act
+permitting and compliance matters since 1991. On numerous occasions, Mr. Campbell has
+provided expert testimony in other cases on behalf of private permitees and state entities. See
+
+2
+
+Case 1:00-cv-02602-MJG Document 344 Filed 11/28/12 Page 7 of 15
+
+Appendix A to Campbell Report (providing Mr. Campbell’s Curriculum Vitae and summarizing
+his relevant experience). Mr. Campbell’s expertise and qualifications in this area are not
+challenged by the Government.
+Mr. Campbell reaches his conclusion on the basis of his decades of experience on the
+application of the PSD regulations to industrial sources, as well as his analysis of the
+applicability of the PSD regulations to the addition of the new digesters at the Luke Mill. As
+explained in his expert report (attached as Exhibit 1 to the Government’s Memorandum),
+Mr. Campbell considered whether a reasonable reading of the 1978 PSD regulations could lead
+to the conclusion that the DEP was not a major modification under those rules, and also whether
+the DEP was subject to the January, 1980 Stay of the 1978 PSD regulations. Campbell Report at
+8-9. Given that conclusion, Mr. Campbell opines that a reasonable reading of 40 C.F.R. §
+52.21(i)(9) and/or 40 C.F.R. § 52.21(i)(4)(v) of the 1980 regulations would be that the DEP is
+exempted from the BACT requirements of the 1980 PSD Rules. Campbell Report at 9-12.
+Consequently, given the interplay between the 1978 PSD regulations and the 1980 regulations,
+Westvaco’s conclusion that the PSD and BACT requirements in the 1980 regulations was
+reasonable.
+III.
+A.
+
+ARGUMENT
+
+Mr. Campbell’s discussion of the legal and regulatory framework applicable
+in this case is not an inadmissible legal conclusion.
+Federal Rule of Evidence 704 permits expert testimony on the ultimate issue in litigation.
+
+See Fed. R. Evid. 704(a) (“An opinion is not objectionable just because it embraces an ultimate
+issue.”). In addition, Federal Rule of Evidence 702 provides that if “scientific, technical, or other
+specialized knowledge will assist the trier of fact to understand the evidence or to determine a
+fact in issue, a witness who is qualified as an expert . . . may testify in the form of an opinion or
+
+3
+
+Case 1:00-cv-02602-MJG Document 344 Filed 11/28/12 Page 8 of 15
+
+otherwise.” Fed. R. Evid. 702. As such, expert testimony on an ultimate issue may be excluded
+pursuant to Rule 702 only if it does not assist the trier of fact. See Kopf v. Skyrm, 993 F.2d 374,
+377-78 (4th Cir. 1993) (stating that, while “[a]n opinion is not objectionable simply because it
+embraces an ultimate issue to be decided by the trier of fact, . . . such an opinion may be
+excluded if it is not helpful to the trier of fact under Rule 702”) (internal quotation omitted).
+To be sure, “testimony offering nothing more than a legal conclusion—i.e., testimony
+that does little more than tell the jury what result to reach—is properly excluded under the
+Rules.” United States v. Barile, 286 F.3d 749, 760 (4th Cir. 2002) (citing Woods v. Lecureux,
+110 F.3d 1215, 1220 (6th Cir. 1997); see also Weinstein’s Federal Evidence § 704.04[2][a] (2d
+ed. 2001) (“The most common reason for excluding opinion testimony that gives legal
+conclusion is lack of helpfulness. . . . The testimony supplies the jury with no information other
+than the witness’s view of how the verdict should read.”). However, where an expert witness
+provides his opinion as to the complex standards, regulations, and practices that govern a whole
+industry, that witness’s testimony is admissible in order to provide the trier of fact with a greater
+understanding of such a legal and regulatory framework and how that framework elucidates
+certain facts at issue and might impact the ultimate issue in any particular case. In particular, Mr.
+Campbell’s testimony in this case would assist the Court in understanding how a regulated entity
+would have viewed these complex regulations at the time—over three decades ago. In an area of
+similar complexity—e.g., statutes and regulations pertaining to taxation—courts consistently
+have allowed expert testimony on the legal and regulatory tax framework and how that
+framework interacts with the facts at issue in a given dispute.
+In United States v. Stadtmauer, 620 F.3d 238 (3d Cir. 2010), for example, a panel of the
+Third Circuit joined the majority of Circuits in allowing the admission of testimony by an IRS
+
+4
+
+Case 1:00-cv-02602-MJG Document 344 Filed 11/28/12 Page 9 of 15
+
+agent describing the legal and regulatory tax framework and how those regulations interacted
+with the facts in the case at bar, along with hypothetical situations targeted at elucidating the
+facts at issue, id. at 269. As the court in Stadtmauer described, “In her direct testimony, [IRS
+agent] Grant described how a partnership tax return is prepared, and explained where on the
+return different categories of deductions were reported. Grant explained how she totaled the
+expenses she determined were improperly deducted from each partnership return, and carried
+them through to a summary chart for each partnership for each tax year, illustrating how the total
+amount of improper deductions affected the net income reported to the IRS.” Id. The Third
+Circuit found the admission of IRS Agent Grant’s testimony not to be an abuse of the district
+court’s discretion, and held that “expert testimony by an IRS agent which expresses an opinion
+as to the proper tax consequences of a transaction is admissible evidence.” Id. (quoting United
+States v. Mikutowicz, 365 F.3d 65, 72 (1st Cir. 2004)); see also United States v. Bedford, 536
+F.3d 1148, 1158 (10th Cir. 2008) (“[W]e agree that a properly qualified IRS agent may analyze a
+transaction and give expert testimony about its tax consequences.” (quoting United States v.
+Wade, 203 F. App’x 920, 930 (10th Cir. 2006) (unpublished))).
+This principle extends to cases involving other industries that are subject to complex
+statutory and regulatory schemes. A number of courts, including a panel of the Fourth Circuit,
+have permitted experts to provide testimony concerning the legal and regulatory framework and
+how that framework might impact the ultimate issue in any particular case. In United States v.
+Offill, 666 F.3d 168 (4th Cir. 2011), a case cited by the Government in its motion in limine, the
+Government offered an expert witnesses to testify about certain legal and statutory issues in a
+prosecution involving a “pump and dump” stock scheme. The Government’s expert witnesses
+testified as to certain complex and unfamiliar aspects of the securities industry, including a
+
+5
+
+Case 1:00-cv-02602-MJG Document 344 Filed 11/28/12 Page 10 of 15
+
+discussion of specific statutes and regulations governing various securities transactions. The
+witnesses also testified hypothetically as to certain situations that mirrored the factual allegations
+in the case. The Court permitted the testimony, and the Fourth Circuit affirmed, holding that:
+[t]he specialized nature of the legal regimes involved in this case and the complex
+concepts involving securities registration, registration exemptions, and specific
+regulatory practices make it a typical case for allowing expert testimony that
+arguably states a legal conclusion in order to assist the jury. The jury in this case
+needed to understand not only federal securities registration requirements but also
+the operation of several obscure Texas Code provisions and their relationship to
+the federal regime.
+Id. at 175.
+Other courts have agreed with the Fourth Circuit’s conclusion. A panel of the Ninth
+Circuit in Hangarter v. Provident Life & Accident Ins. Co., 373 F.3d 998 (9th Cir. 2004),
+allowed for the admission of an insurance industry expert’s testimony regarding “insurance
+practices and standards” and “how insurance companies in general, and Defendants in particular,
+adjust claims,” id. at 1016. The court in Hangarter rejected a challenge to the admission of such
+testimony by that expert, Frank Caliri, after determining that his “testimony did not improperly
+usurp the court's role by instructing the jury as to the applicable law.” Id. at 1017. As the Court
+held, “[a]lthough Caliri’s testimony that Defendants departed from insurance industry norms
+relied in part on his understanding of the requirements of state law, . . . ‘a witness may refer to
+the law in expressing an opinion without that reference rendering the testimony inadmissible.
+Indeed, a witness may properly be called upon to aid the jury in understanding the facts in
+evidence even though reference to those facts is couched in legal terms.’” Id. (quoting Specht v.
+Jensen, 853 F.2d 805, 809 (10th Cir. 1988)); accord Ford v. Allied Mut. Ins. Co., 72 F.3d 836,
+841 (10th Cir. 1996).
+
+6
+
+Case 1:00-cv-02602-MJG Document 344 Filed 11/28/12 Page 11 of 15
+
+Other district courts have reached similar conclusions in cases involving particularly
+complex sets of legal and regulatory standards. See Schott v. I-Flow Corp., 696 F. Supp. 2d 898,
+905 (S.D. Ohio 2010) (permitting expert to testify about “the complex regulatory scheme
+applicable to medical devices [because] Plaintiffs do not offer her testimony as an opinion on the
+ultimate issue of Ohio law, whether Defendant failed to adequately warn about its product, and
+therefore Defendant’s objections are lacking in merit.”); In re Fosamax Prods. Liab. Litig., 645
+F. Supp. 2d 164, 192 n.16 (S.D.N.Y. 2009) (same); Applegate v. United States, 35 Fed. Cl. 406,
+424-25 (Fed. Cl. 1996) (permitting a state official to testify as to state regulations in a regulatory
+takings case after determining that “expert testimony reaching legal conclusions may be
+admissible ‘where the testimony concerns state law or a technical provision peculiar to
+the . . . industry’” (quoting Principal Mut. Life Ins. Co. v. United States, 26 Cl. Ct. 616, 623
+(1992))).
+Mr. Campbell’s testimony will fit squarely within the allowable parameters designated by
+the Federal Rules and by these courts. Mr. Campbell is not providing an expert opinion as to the
+proper legal standard that must be employed by the trier of fact in this case. To the contrary,
+Mr. Campbell seeks to opine on the reasonableness of Westvaco to conclude at the time that the
+DEP was not subject to PSD review and BACT. In order to achieve this, Mr. Campbell relies on
+his more than two decades of experience to analyze how the 1978 and the 1980 PSD regulations
+could reasonably have been applied to the DEP when Westvaco was determining PSD
+applicability at the time. The fact that this analysis relies on the legal and regulatory standards
+does not render his opinions inadmissible.
+
+7
+
+Case 1:00-cv-02602-MJG Document 344 Filed 11/28/12 Page 12 of 15
+
+B.
+
+Mr. Campbell’s testimony as to whether it was reasonable for Westvaco to
+conclude that the DEP was not subject to PSD review is relevant and helpful
+to the trier of fact.
+Pursuant to Federal Rule of Evidence 401, evidence is relevant if “(a) it has any tendency
+
+to make a fact more or less probable than it would be without the evidence; and (b) the fact is of
+consequence in determining the action.” Fed. R. Evid 401 (emphasis added). In Daubert v.
+Merrell Dow Pharms., Inc., 509 U.S. 579 (1993) , the Supreme Court made clear that “the [trial]
+court must ensure that the proposed expert testimony is relevant to the task at hand and will serve
+to aid the trier of fact.” United States v. Smithers, 212 F.3d 306, 313 (6th Cir. 2000). A
+defendant’s good faith effort to comply with the law is a factor a court may consider in deciding
+whether the imposition of equitable relief is proper. See, e.g., Sierra Club v. Tennessee Valley
+Authority, 592 F. Supp. 2d 1357, 1368 (N.D. Ala. 2009) (refusing to impose injunctive relief in
+part where the defendant had a good faith belief its emissions were in compliance with its
+permit).
+The Government’s argument that Mr. Campbell’s opinions are different than this Court’s
+prior holding therefore misses the point. As explained in greater detail in Westvaco’s pretrial
+brief, Mr. Campbell’s opinion is relevant to the reasonableness of Westvaco’s conclusion in
+1980 that the DEP was not subject to PSD permitting and the obligation to implement BACT.
+That evidence is relevant to this Court’s determination as to whether to grant the Government
+injunctive relief in this case, and to Westvaco’s argument that the equities do not favor imposing
+injunctive relief on Westvaco.2
+
+2 As further support for the reasonableness of Westvaco’s conclusion and the company’s good
+
+faith efforts to comply with the law, the evidence will show that Westvaco confirmed on at
+[Footnote continued on next page]
+8
+
+Case 1:00-cv-02602-MJG Document 344 Filed 11/28/12 Page 13 of 15
+
+C.
+
+Mr. Campbell’s testimony will not expend an undue amount of additional
+trial time.
+Lastly, the Government contends that limiting Mr. Campbell’s testimony will have as a
+
+desirable consequence the reduction of trial time required to be expended on Mr. Campbell’s
+testimony. Of course, this cannot be reason alone to exclude Mr. Campbell’s testimony, and
+neither Rule 702 nor Rule 704 include reduction of overall trial time as a factor for the court to
+consider when determining whether to exclude testimony. Moreover, these aspects of
+Mr. Campbell’s opinion are just part of the testimony he intends to offer in this case; they will
+not substantially increase the time required for his testimony, and certainly will have little impact
+on whether the trial will be completed in the time allotted by this Court.
+IV.
+
+CONCLUSION
+
+For the foregoing reasons, this Court should deny the Government’s motion in limine to
+exclude these portions of Mr. Campbell’s opinions from trial.
+
+[Footnote continued from previous page]
+least four occasions its interpretation of the applicability of PSD to SO2 emissions from the
+mill’s power boilers with the State of Maryland, and in each instance the State agreed.
+
+9
+
+Case 1:00-cv-02602-MJG Document 344 Filed 11/28/12 Page 14 of 15
+
+DATED: November 28, 2012
+
+Respectfully submitted,
+/s/
+Raymond B. Ludwiszewski (Bar No. 14905)
+rludwiszewski@gibsondunn.com
+Charles H. Haake (pro hac vice)
+chaake@gibsondunn.com
+Justin A. Torres (pro hac vice)
+jtorres@gibsondunn.com
+GIBSON, DUNN & CRUTCHER LLP
+1050 Connecticut Avenue, N.W.
+Washington, D.C. 20036-8500
+(202) 955-8500 (voice)
+(202) 467-0539 (facsimile)
+Counsel for Defendant Westvaco Corporation
+
+10
+
+Case 1:00-cv-02602-MJG Document 344 Filed 11/28/12 Page 15 of 15
+
+CERTIFICATE OF SERVICE
+I hereby certify that on November 28, 2012, a true and correct copy of the foregoing
+Defendant Westvaco Corporation’s Response In Opposition To Plaintiff’s Motion In Limine To
+Exclude Certain Testimony By Colin M. Campbell was filed using the Court’s electronic case
+filing system, which results in service on all counsel of record registered on the case
+management/electronic filing (“CM/ECF”) system.
+
+/s/
+Charles H. Haake
+
+11
+
+

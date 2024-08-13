@@ -1,0 +1,1824 @@
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 1 of 44
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF DELAWARE
+__________________________________________
+:
+iGAMES ENTERTAINMENT, INC.,
+:
+:
+Plaintiff,
+:
+:
+v.
+:
+C.A. No. 04-180-KAJ
+:
+CHEX SERVICES, INC. and
+:
+JURY TRIAL DEMANDED
+EQUITEX, INC.,
+:
+:
+Defendants.
+:
+__________________________________________:
+
+OPENING BRIEF IN SUPPORT OF MOTION BY
+IGAMES ENTERTAINMENT, INC. FOR SUMMARY JUDGMENT
+AGAINST CHEX SERVICES, INC. AND EQUITEX, INC.
+
+DATED:
+
+March 15, 2005
+
+OF COUNSEL:
+DUANE MORRIS LLP
+Matthew A. Taylor, Esquire
+James L. Beausoleil, Jr., Esquire
+One Liberty Place
+Philadelphia, Pennsylvania 19103-7396
+215.979.1000
+
+DUANE MORRIS LLP
+Thomas P. McGonigle (Del. I.D. No. 3162)
+Matt Neiderman (Del. I.D. No. 4018)
+1100 North Market Street, 12th Floor
+Wilmington, Delaware 19801
+302.657.4900
+Attorneys for Plaintiff
+iGames Entertainment, Inc.
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 2 of 44
+
+TABLE OF CONTENTS
+PAGE
+TABLE OF AUTHORITIES ......................................................................................................... iii
+INTRODUCTION AND SUMMARY OF ARGUMENT ..............................................................1
+NATURE AND STAGE OF PROCEEDING .................................................................................2
+FACTUAL BACKGROUND..........................................................................................................3
+I.
+
+The Stock Purchase Agreement And Prior Joint Ventures Of The Parties..........................3
+
+II.
+
+Chex And Equitex Depart From The Ordinary Course Of Business By Accepting
+A Note In Return For The Largest Sum Of Returned Checks Ever Incurred In
+Chex’s History Of Operations And Then Booking That Note, As A Collectible In
+Violation Of Its Own Operating Procedures........................................................................6
+
+III.
+
+Chex Lost 25% Of Its Revenues In An Embarrassing Forced Eviction From Five
+Seminole Casinos That Nearly Destroyed Its Reputation And Ability To Conduct
+Business In Native American Casinos.................................................................................7
+
+IV.
+
+Chex And Equitex Agree To Assist iGames With Financing For Its Acquisition
+Of Available Money In Exchange For A 50% Share Of Available Money’s
+Operating Income But Then Chex And Equitex Breached The Financing
+Agreement............................................................................................................................9
+
+V.
+
+Chex Secretly Solicits A Joint Venture With A Venture Capitalist Known As
+Maroon Bells Capital Which Entices Chex And Equitex Away From The Planned
+Merger With iGames, Provides Them With A Shell Company, And Then
+Oversees A Reverse Merger Of Chex Into That Shell Company ......................................11
+
+VI.
+
+Equitex And Chex Secretly Close On A $5,000,000 Loan Which Requires Them
+To Pledge All Of The Common Stock, Of Chex, Grant Warrants, Take On
+Significant Liability And Indemnification Obligations, And Prohibits Them From
+Closing On The SPA..........................................................................................................14
+
+LEGAL ARGUMENT...................................................................................................................18
+I.
+
+The Standards Governing This Motion For Summary Judgment......................................18
+
+II.
+
+Defendants Breached The SPA By Converting The Howards’ Debt To A Note
+And Misrepresenting That Bad Debt As A Valid Account Receivable.............................19
+A.
+
+The Defendants Breached The SPA Because Chex’s Transactions With
+The Howards Were Not In The Ordinary Course Of Business .............................20
+
+i
+
+Case 1:04-cv-00180-KAJ
+
+B.
+
+Document 98
+
+Filed 03/15/2005
+
+Page 3 of 44
+
+The Defendants Breached The SPA Because Chex’s Transactions With
+The Howards Could Reasonably Have Been Expected To Have A Material
+Adverse Effect On Chex ........................................................................................24
+
+III.
+
+Defendants Breached The SPA By Losing Nearly A Quarter Of Chex’s Business ..........25
+
+IV.
+
+Defendants Breached The SPA By Entering The Whitebox Purchase Agreement
+Which Made It Impossible For Defendants To Close On The SPA ..................................29
+
+V.
+
+Defendants Breached The SPA By Soliciting Other Investors In Search Of A
+Better Deal And By Agreeing To The Seven Ventures Transaction .................................33
+
+VI.
+
+Chex’s Purported Termination Of The SPA Was Ineffective As A Matter Of Law .........37
+
+VII.
+
+The Defendants Are Liable For The Termination Amount Not Only Because They
+Breached The SPA On Several Grounds But Also Because They Failed To Close
+On The SPA And Instead Chose To Close On The Seven Ventures Transaction.............38
+
+CONCLUSION..............................................................................................................................40
+
+ii
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 4 of 44
+
+TABLE OF AUTHORITIES
+FEDERAL CASES
+
+PAGE
+
+Allegheny Energy Inc. v. DQE, Inc.,
+74 F. Supp. 2d 482 (W.D. Pa. 1999)..................................................................................25
+Anderson v. Liberty Lobby, Inc.,
+477 U.S. 242 (1986)...........................................................................................................19
+Celotex Corp. v. Catrett,
+477 U.S. 317 (1986)...........................................................................................................18
+Chemipal Ltd. v. Slim-Fast Nutritional Foods Int’l,
+350 F. Supp. 2d 582 (D. Del. 2004)...................................................................................18
+Matsushita Elec. Indus. Co., Ltd. v. Zenith Radio Corp.,
+475 U.S. 574 (1986).....................................................................................................18, 19
+Pan Am Corp. v. Delta Air Lines, Inc.,
+175 B.R. 438 (S.D.N.Y. 1994)...........................................................................................29
+STATE CASES
+H-M Wexford LLC v. Ballentine,
+832 A.2d 129, 143 (Del. Ch. 2003)....................................................................................28
+Hudson v. D&V Mason Contractors, Inc.,
+252 A.2d 166 (Del. Ch. 1969)............................................................................................37
+Kysor Indus. Corp. v. Margaux, Inc.,
+674 A.2d 889 (Del. Super. 1996).......................................................................................39
+
+iii
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 5 of 44
+
+INTRODUCTION AND SUMMARY OF ARGUMENT
+This case arises from a failed business merger involving Equitex, Inc. (“Equitex”), its
+wholly-owned subsidiary Chex Services, Inc. d/b/a Fastfunds (“Chex”), and iGames
+Entertainment, Inc. (“iGames”).
+Chex, Equitex, and iGames were parties to a Stock Purchase Agreement, entered into on
+November 3, 2003 (the “SPA”) whereby iGames sought to acquire Chex.
+
+Discovery has
+
+revealed that while iGames was spending valuable time and money attempting in good faith to
+acquire Chex, Chex and Equitex secretly negotiated to sell Chex’s stock to a third party, in
+violation of the SPA, and then to complete a reverse merger with a NASDAQ shell company,
+also in violation of the SPA. In fact, Chex and Equitex secretly closed on a financing agreement
+that was a prerequisite to the reverse merger on March 8, 2004 -- just four days before Chex and
+Equitex purported to terminate the SPA.
+However, as detailed below, the defendants breached the SPA long before they purported
+to terminate it by: (1) advancing the extraordinary sum of over $606,000 in cash to a single
+customer in exchange for dozens of checks that were immediately returned “NSF” (i.e.,
+insufficient funds) and then doctoring their books in an effort to enhance their balance sheet by
+accepting a note from that customer in violation of their own operating procedures; (2) being
+thrown out of five casinos which together accounted for 25% of Chex’s overall revenue; (3)
+entering into an unauthorized $5,000,000 loan transaction which created irreconcilable and
+fundamental breaches of the SPA; and (4) soliciting, negotiating and ultimately entering into an
+alternative deal to the SPA.
+
+1
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 6 of 44
+
+NATURE AND STAGE OF THE PROCEEDING
+On March 15, 2004, Chex filed a Complaint in Minnesota state court (the “Minnesota
+Action”). That action was removed and transferred to this District.
+On March 24, 2004, iGames filed a Complaint in this Court against Equitex and its
+wholly-owned subsidiary Chex. iGames subsequently filed a First Amended Complaint (the
+“Delaware Federal Complaint”).
+On March 23, 2004, Equitex filed an action in Delaware state court concerning the same
+SPA at issue in the Delaware Federal Complaint (the “Delaware State Complaint”). iGames
+removed that action to the United States District Court for the District of Delaware. This Court
+issued an Order on September 13, 2004 consolidating the three separate actions after all parties
+agreed that they have the same operative facts and involve essentially the same parties.
+All fact and expert discovery closed on March 1, 2005. Contemporaneously herewith,
+iGames filed a Motion for Summary Judgment, seeking judgment in its favor and against the
+Defendants on all claims. This is iGames’ Opening Brief in support of its Motion for Summary
+Judgment.
+
+2
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 7 of 44
+
+FACTUAL BACKGROUND
+I.
+
+The Stock Purchase Agreement And Prior Joint Ventures Of The Parties
+This case arises from a failed business merger involving Equitex, its wholly-owned
+
+subsidiary Chex, and iGames.1 At the time of filing, iGames was in the business of providing
+cash access and financial management systems for the gaming industry and focused on specialty
+transactions in the cash access segment of the funds transfer industry through its subsidiaries,
+Money Centers of America, Inc. and Available Money, Inc. Defendant Chex provides the
+similar services for the gaming industry.
+Chex, Equitex, and iGames entered into the SPA on November 3, 2003, whereby iGames
+agreed to acquire Chex through a purchase of its capital stock.2 Long before the parties entered
+into the SPA, Chex and iGames were involved in various joint ventures whereby they shared
+office space, employees, information and financial resources.3 (See, e.g., Deposition of Ijaz
+Anwar (“Anwar Tr.”) Vol. I, at 73:3-76:12). In fact, the November 3, 2003 SPA represented the
+second attempt by iGames to acquire Chex.
+In executing the SPA, Equitex represented that it owned all shares of Chex “free and
+clear of any restrictions on transfer (other than any restrictions under the Securities Act or
+applicable state securities laws), Taxes, Encumbrances, Security Interests, options, warrants,
+1
+
+Subsequent to the filing of the Complaint, iGames was merged into Money Centers of
+America, Inc., which continues in the same business. The corporate structure now is Money
+Centers of America, Inc. (“MCA”), a Delaware corporation, that owns 100% of Available
+Money, Inc. (“Available Money”). iGames, the Nevada corporation, no longer exists. For the
+sake of simplicity, we continue to refer to iGames as the plaintiff in these consolidated actions.
+2
+
+A true and correct copy of the November 3, 2003 SPA is attached to the accompanying
+Appendix as Exhibit “A.”
+
+3
+
+Copies of relevant portions of the deposition transcripts of Ijaz Anwar and Christopher
+Wolfington are attached as Exhibits “B” and “C” to the accompanying Appendix, respectively.
+
+3
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 8 of 44
+
+purchase rights, contracts, commitments, equities, claims and demands.” (SPA, § 4(d)). Equitex
+further represented that it had “full power and authority to execute and deliver” the SPA, subject
+only to the final approval of its shareholders. Final approval would have required Equitex’s
+shareholders to vote on the acquisition, but only after closing:
+On the Closing Date, this Agreement shall be duly and validly
+authorized by all necessary action on the part of Parent and its
+stockholders in accordance with Applicable Laws and Parent’s
+Governing Documents. This Agreement constitutes the valid and
+legally binding obligation of Parent, enforceable in accordance
+with its terms and conditions. . . . The affirmative approval of the
+Board of Directors of Parent (the “Parent Board”) and of the
+holders of shares of Parent’s issued and outstanding capital stock
+entitled to vote thereon representing a majority of the votes that
+may be cast by the holders of such securities as of the record date
+for the Company (the “Parent Requisite Vote”) is the only vote of
+the holders of any class or series of capital stock of the Company
+necessary to approve the Contemplated Transactions.
+(SPA, § 4(b) (italics added, bold in the original)).
+There can be no doubt that the SPA was and is binding on Equitex and Chex. Indeed, the
+enforceability of the SPA was asserted by Equitex in the Delaware State Complaint and was also
+conceded by Ijaz Anwar (the Chief Financial Officer of Chex) and Henry Fong (the CEO of
+Equitex) during their depositions. (See Anwar Tr., Vol. II, at 238:21 - 239:4 (Q: Do you believe
+that the stock purchase agreement, November 3, 2003 agreement was still binding, was still the
+binding document between iGames, Chex and Equitex when you terminated it? A: Yes. It was
+the only binding agreement.); see also the Delaware State Complaint (Appendix Exhibit “E”)
+(alleging breach of SPA and claiming damages thereunder)). This binding agreement included a
+number of important representations and warranties by Equitex and Chex that are particularly
+important in this litigation.
+In Section 6(n) of the SPA, Equitex and Chex represented and warranted, among other
+things, that Chex fully complied with all material terms of its contracts (including service
+4
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 9 of 44
+
+contracts with casinos) and that no other party to a contract was terminating, intended to
+terminate or was considering terminating any contract. Chex and Equitex further represented
+and warranted that they had received no notice (oral or written) of any such termination or plans
+to terminate.
+The SPA was structured so that on closing, iGames would “pay to [Equitex]
+consideration of that amount of shares of Buyer Common Stock which equals 62.5% of the
+issued and outstanding shares of Buyer following such issuance on the Closing Date after giving
+effect to the Stock Split and closing of the MCA Acquisition (the “Common Stock
+Consideration”).”4 After closing, Equitex intended to retain ownership of 10% of the Common
+Stock it received from iGames and to distribute the balance of the Common Stock to its
+stockholders on a pro rata basis as a dividend. (SPA, § 2(b)). The contemplated distribution
+qualified as a public offering and therefore was “conditioned on the effectiveness of a
+Registration Statement under the Securities Act registering the issuance of the distributed shares
+of Buyer Common Stock.” (SPA, § 2(b)). The SPA also contemplated fluctuations in iGames’
+stock price and provided for an adjustment in the amount of iGames’ stock. (SPA, § 2(b)).
+iGames had the right to terminate the SPA and to collect a Termination Fee for various
+identified acts or omissions which could either be the result of purposeful conduct or of the mere
+occurrence of an event. For example, iGames could terminate the SPA if any representation or
+warranty of Equitex or Chex was or became materially inaccurate or if Equitex or Chex failed to
+comply with their material obligations under the SPA. (SPA, §§11(b)(ii), 11(b)(v)). iGames
+could also terminate the SPA upon the occurrence of any event that was likely to have a Material
+4
+
+iGames was required to, and did, effect a stock split, such that its outstanding shares at
+the time of closing would total 40,000,000. (SPA, § 1(pppp)).
+
+5
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 10 of 44
+
+Adverse Effect on Chex. (SPA, §11(b)(viii)). Upon any such termination, Section 11(e)(ii) of
+the SPA obligated Equitex and Chex to pay all of iGames’ expenses incurred in connection with
+the proposed transaction, together with a termination fee of $1,000,000 (the “Termination
+Amount”).
+II.
+
+Chex And Equitex Depart From The Ordinary Course Of Business By Accepting A
+Note In Return For The Largest Sum Of Returned Checks Ever Incurred In Chex’s
+History Of Operations And Then Booking That Note As A Collectible In Violation
+Of Its Own Operating Procedures
+In January 2004, while performing its due diligence review of Equitex’s Quarterly Report
+
+on SEC Form 10-Q for the quarter ending September 30, 2003 (the “10-Q”), iGames discovered
+that in September 2003, Chex cashed $606,316 worth of bad checks for a single customer. This
+sum far surpassed the amount of checks ever written by one customer to Chex. In fact, the loss
+Chex suffered as a result of this one customer, over one holiday weekend, was greater than the
+losses Chex suffered for the entire preceding year, for all of the bad checks written by all of
+Chex’s customers. (Anwar Deposition Exhibit (“Anwar Ex.”) 11 (Appendix Exhibit “F”)).
+Importantly, the normal course of business for Chex would have been to immediately write off
+each of these numerous bad checks. (See Anwar Tr., Vol. I, at 117:12-121:13; 149:22-150:10;
+SEC Form 10-Q, for the quarter ended September 30, 2004 (Appendix Exhibit “G”) at page 34,
+“Returned Checks”). However, in an apparent effort to improve its financial statements, the
+dishonored checks remained on Chex’s books as a valid accounts receivable until after the SPA
+was executed. Not surprisingly, the debt remains outstanding today.
+These actions violated the SPA. First, in Section 6(o) of the SPA, Equitex and Chex
+represented and warranted, among other things, that all Accounts Receivable (defined as “trade
+accounts receivable, notes receivable and other rights to the payment of money, including any
+claim, remedy or other right related to any returned and unpaid checks”) were current and
+6
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 11 of 44
+
+collectible net of the reserves set forth on the applicable balance sheets (which reserves were to
+be adequate and calculated in accordance with past practice and would not represent a Material
+Adverse Effect in terms of aging), and each Account Receivable would be collected in full,
+without any setoff, within 90 days of the day on which it first became due and payable.
+Importantly, Chex did not reserve for the likelihood of nonpayment on its September 30, 2003
+balance sheet in accordance with normal procedures (which would have materially adversely
+affected its earnings for the quarter then ended), but rather had the customer execute a note for
+the amount due (the “Howard Note”). Thus, iGames learned through discovery that the Howard
+Note was in default as of October 14, 2003, and yet it remained on Chex’s balance sheet and in
+its SEC filings as a note receivable in the full amount, without any reserve. As a result of these
+maneuvers, Chex’s financial statements for the quarter ending September 30, 2003, were
+materially false.
+Second, in Section 6(f) of the SPA, Equitex and Chex represented and warranted that,
+after June 30, 2003, there was not with respect to Chex, among other things, any action,
+transaction or agreement outside the Ordinary Course of Business, any loan to any person in
+excess of $10,000.00 and outside the Ordinary Course of Business, any compromise of any
+claims or, any other event or circumstance that could reasonably be expected to have a Material
+Adverse Effect on Chex. In short, Equitex and Chex violated each of these provisions by taking
+the Howard Note.
+III.
+
+Chex Lost 25% Of Its Revenues In An Embarrassing Forced Eviction From Five
+Seminole Casinos That Nearly Destroyed Its Reputation And Ability To Conduct
+Business In Native American Casinos
+Under Section 9(a) of the SPA, iGames was not obligated to close on the acquisition of
+
+Chex unless, among other things, (i) all representations and warranties of Chex and Equitex,
+including those in Section 6, were true and correct as of the Closing Date, and (ii) there had been
+7
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 12 of 44
+
+no “Material Adverse Effect” on the business of Chex. Section 1(iii) of the SPA defines
+“Material Adverse Effect” as “any event, change or effect that is materially adverse, individually
+or in the aggregate, to the condition (financial or otherwise), properties, assets, liabilities,
+revenues, income, business, operations, results of operations or prospects of such Person, taken
+as a whole.” Obviously, this section expressly contemplates the potential loss of significant
+revenue and its impact on the desirability of closing on the merger.
+By way of background, on December 4, 2001, Native American Cash Systems Florida,
+Inc. (“NACSF”) and Chex entered into agreements under which Chex agreed to perform
+financial services for five Seminole Tribe casinos. (Plaintiff Chex Services, Inc.’s Second
+Amended Complaint, State of Minnesota, County of Hennepin, District Court, Fourth Judicial
+District (CX/EX 00594) (“NACSF Compl.”) (Appendix Exhibit “H”), at ¶ 22). At the time the
+SPA was executed, these five contracts were responsible for approximately 25% of Chex’s
+revenue. (Deposition of James Welbourn “Welbourn Tr.”), at 165:2-7 (Appendix Exhibit “I”)).
+However, unbeknownst to iGames, Chex was experiencing significant problems in its
+relationship with NACSF, both prior to and after Chex executed the SPA. (NACSF Compl. at
+¶33).
+As a result of certain breaches alleged by NACSF, at midnight on January 4, 2004, with
+only two days notice, NACSF “removed” Chex from the cash services booth and replaced it with
+a competitor (i.e., Cash Systems, Inc.). (NACSF Complaint, at ¶¶ 34-35). The termination of
+the Seminole contracts affected, among other things, Chex’s revenues, income, results of
+operations and prospects. (Anwar Tr., Vol. I, at 104:14-20). Indeed, the termination caused an
+instantaneous loss of 25% of Chex’s revenue (Welbourn Tr., at 165:2-7) and significantly
+harmed its reputation. In their own words, the “Seminole casinos constitute [sic] a significant
+
+8
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 13 of 44
+
+portion of Chex’s revenue and provided Chex with unique relationships for establishing
+connections and business relationships with other Native American owned casinos. . . . The
+actions of NACSF also will undoubtedly damage Chex’s reputation within the Native American
+gaming community.” (NACSF Compl., at ¶¶37-38).
+Chex immediately recognized the seriousness of this loss and the impact it would have on
+its relationship with iGames. (Supplemental Affidavit of James P. Welbourn in Support of
+Plaintiff’s Application for a Temporary Restraining Order and for Expedited Discovery
+(“Welbourn Aff.”), Exhibit 19 to Deposition of James Welbourn, ¶¶12-14, (Appendix Exhibit
+“J”)). As Mr. Welbourn, the President and founder of Chex stated under oath during the related
+injunction proceeding, “As the January 7, 2004 letter (Welbourn Aff., Ex. N) from iGames’
+attorneys suggests, the termination of the NACSF Contract may give iGames cause to terminate
+the acquisition agreement and negotiations. Thus, the threat of iGames pulling out of the
+acquisition remains and immeasurably affects the bargaining position of Chex.” (Id. ¶14).
+For its part, iGames publicly attempted to support Chex after its high profile loss of the
+Seminole contracts by issuing a joint press release with Equitex. However, while iGames
+proceeded with the SPA, it reserved its rights under the SPA, in writing, because of this Material
+Adverse Effect on Chex’s business.
+IV.
+
+Chex And Equitex Agree To Assist iGames With Financing For Its Acquisition Of
+Available Money In Exchange For A 50% Share Of Available Money’s Operating
+Income But Then Chex And Equitex Breached The Financing Agreement
+After the parties executed the SPA, iGames learned of an opportunity to acquire
+
+Available Money, Inc. (“Available Money”). Available Money is in the same business as
+iGames, and all parties to the SPA believed that acquiring Available Money would strengthen
+the entity that would result from the SPA, thereby benefiting all parties to the SPA. Chex and
+Equitex agreed that Chex would provide iGames $4,000,000 of the purchase price to facilitate
+9
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 14 of 44
+
+the acquisition. At the time, Chex had $2,000,000 available to it and represented that it would
+borrow, on terms approved by iGames, the second payment of $2,000,000. On January 6, 2004,
+Chex advanced $2,000,000 to iGames, the amount needed to make the initial closing date
+payment for the acquisition of Available Money. iGames thereafter executed a Term Loan Note
+in favor of Chex dated January 6, 2004.5
+The Term Loan Note provided for, and was conditioned on, a second advance by Chex to
+iGames in the amount of $2,000,000 which was to be made sixty days after the first payment
+(i.e., on or about March 6, 2004). According to the Term Loan Note, Chex had twenty-one days
+to obtain a binding commitment for financing sufficient to fund the second $2,000,000
+installment. This binding commitment was to contain terms satisfactory to iGames and was to
+come from either Mercantile or from another institutional lender satisfactory to iGames. (See
+Term Loan Note, at ¶ 2). The second payment was to be made to iGames on or before March 6,
+2004. (Id.).
+Unfortunately, shortly after Chex advanced the first payment, and before it could obtain a
+loan from Mercantile for the second payment, Chex began discussions with a venture capital
+firm that convinced Chex and/or Equitex that Chex would be more valuable to Equitex if it
+entered into a reverse merger with a NASDAQ shell company than it would be if it closed on the
+SPA with iGames. As such, no second payment was ever made.
+
+5
+
+A true and correct copy of the Term Loan Note is attached to the Appendix as Exhibit
+
+“K.”
+
+10
+
+Case 1:04-cv-00180-KAJ
+
+V.
+
+Document 98
+
+Filed 03/15/2005
+
+Page 15 of 44
+
+Chex Secretly Solicits A Joint Venture With A Venture Capitalist Who Entices
+Chex And Equitex Away From The Planned Merger With iGames, Provides Them
+With A Shell Company, And Then Oversees A Reverse Merger Of Chex Into That
+Shell Company
+In light of the prior failed attempts by iGames to acquire or merge with Chex and related
+
+reasons, iGames negotiated a non-solicitation provision as part of the SPA. This was a critical
+provision, as it strictly prohibited Chex and Equitex from looking for other competing business
+arrangements and thus provided some assurances to iGames that the SPA would, in fact, close:
+Chex and Parent shall, and shall direct and use Best Efforts to
+cause their respective Representatives to, immediately cease any
+discussions or negotiations with any parties that may be ongoing
+with respect to a Chex Proposed Transaction (as defined below).
+Neither Chex nor Parent shall, nor shall either permit any of their
+respective subsidiaries to, nor shall either authorize or permit any
+of their respective Representatives, directly or indirectly, to
+knowingly (i) solicit, initiate or encourage (including by way of
+furnishing information), or take any other action designed or
+reasonably likely to facilitate, any inquiries or the making of any
+proposal which constitutes, or may reasonably be expected to lead
+to, any Chex Proposed Transaction or (ii) participate in any
+discussion or negotiations regarding any Chex Proposed
+Transaction. The term “Chex Proposed Transaction” means any
+inquiry, proposal or offer from any person relating to any form of
+business combination involving Chex, or any direct or indirect
+acquisition or purchase of all or substantially all of the assets of
+Chex or any equity securities of Chex, any tender offer or
+exchange offer that if consummated would result in any person
+beneficially owning 10 percent or more of any class of equity
+securities of Chex, any merger, consolidation, share exchange,
+business combination, recapitalization, liquidation, dissolution or
+similar transaction involving Chex, other than the Contemplated
+Transactions.
+(SPA, §7(g)(i) (emphasis in original)).
+Notwithstanding this provision, Ijaz Anwar testified that in late December or early
+January, Chex was approached by a “dealmaker” named Mark Savage who introduced Chex to
+Maroon Bells Capital and the shell company “Seven Ventures” which Chex would later merge
+into following termination of the SPA. (Anwar Tr., Vol. II, at 139:10-140:10). Ignoring the
+11
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 16 of 44
+
+above contractual obligations under the SPA, on January 15, 2004, Mr. Anwar sent an email to
+Maroon Bells (with copies to Mark Savage, Henry Fong and James Welbourn) stating the
+following:
+It was a pleasure speaking with you over the phone yesterday.
+Please find enclosed some information of interest related to Chex
+Services, Inc. I have also included a mutual confidentiality and
+non-disclosure agreement. Please kindly execute the agreement
+and fax it to my attention as soon as possible at 952-417-1996.
+If you have any questions or concerns, please do not hesitate to
+contact me. I look forward to working with Maroon Bells Capital,
+LLC as well as Corporate Capital Management, LLC. Thanks.
+(Exhibit 122, (Appendix Exhibit “L”)).
+Attached to the email was “an introductory letter from Chex Services to Maroon Bells
+Capital” touting Chex’s financial stability and superior business ethics. (Anwar Tr., Vol. II,
+258:11-12). A few days later, on January 20, 2004, Mark Savage sent an email to Henry Fong
+and Ijaz Anwar, regarding a proposed reverse merger. (Anwar Ex. 123, (Appendix Exhibit
+“M”)). In his email, Mr. Savage stated that:
+[a]fter talking to Ijaz last week our approach is different than what
+you are currently working with. We feel that Chex Services has a
+good stand alone business that can be built upon by itself and then
+go and acquire the other candidates with alot [sic] less shares
+outstanding at the end of the day.
+Please let me know if you would like to continue these discussions
+if not I wish you well with your current project.
+(Id.). Importantly, Mr. Savage’s email was clearly comparing and contrasting the proposed
+reverse merger with the iGames’ SPA and thus reveals that he had discussions with Mr. Anwar
+regarding the structure of the iGames deal. Again, all of these communications regarding an
+alternative deal occurred after the parties entered the SPA, which prohibited this very activity,
+and while iGames was investing time and effort to close on the SPA.
+
+12
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 17 of 44
+
+In fact, attached to Savage’s email is a draft proposal to reverse merge Chex into a shell
+company. (Id.) The proposed reverse merger is remarkably similar to the reverse merger that
+Chex ultimately completed with Seven Ventures. In the proposal to reverse merge Chex into a
+shell, Mr. Savage reveals that following a successful merger, “the idea then would be to go and
+acquire IGME [i.e., iGames].
+
+This makes it more interesting. . . .
+
+[Capital Corporate
+
+Management]/Maroon Bells will provide the shell and all of the costs for the shell. . . . “ (Id.)
+Mr. Savage also predicts that Chex’s stock, following a reverse merger into a shell would be a
+“$5.00+ stock right from the start.” Indeed, when Chex did complete its reverse merger with
+Seven Ventures on April 15, 2005, its stock traded at $5.25 the first day and steadily climbed to
+$7.00 within seven trading days. (See Yahoo Finance Historical Prices for Fastfunds Financial
+Corp. (Seven Ventures’ new name) (Appendix Exhibit “N”)).
+Thus, unbeknownst to iGames, the discussions between Maroon Bells and Chex
+concerning a reverse merger continued while iGames diligently attempted to close on the SPA.
+(See, e.g., Anwar Ex. 124 (Appendix Exhibit “O”) (March 5, 2005 email from Mark Savage with
+attached letter that begins “Pursuant to our discussions in connection with the potential reverse
+merger of Chex . . . into a public shell. . . .” and outlines various potential business
+arrangements); (Anwar Ex. 125, (Appendix Exhibit “P”) (March 9, 2004 email from Maroon
+Bells to Chex regarding list of financial and business information needed as part of due
+diligence); (Anwar Tr., Vol. II, at 275:11-277:17 (explaining purpose of request in Exhibit 125));
+(Anwar Ex. 126 (Appendix Exhibit “Q”) (March 12, 2004 email from Maroon Bells to Chex
+requesting explanations from Mr. Anwar for certain casino contracts that were terminated)).
+
+13
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 18 of 44
+
+Believing they cut a better deal, defendants purported to terminate the SPA and completed the
+reverse merger. 6
+Indeed, as a result of Chex’s initial solicitation of Maroon Bells and the negotiations that
+followed, Seven Ventures announced on April 15, 2004 that it had entered into a definitive
+agreement with Chex to merge Chex into a wholly-owned subsidiary of Seven Ventures. In fact,
+its SEC Form 8-K provides: “[U]nder the terms of the merger agreement, Equitex, Inc., will
+exchange 100% of its equity ownership in Chex Services for 7,700,000 shares representing 93%
+of Seven Ventures outstanding common stock following the transaction, along with warrants to
+purchase 800,000 shares of Seven Ventures common stock. As a result, Chex Services will
+become a wholly-owned subsidiary of Seven Ventures, a publicly traded company. . . . At
+closing, a bridge loan will be consummated with MBC Global [a.k.a. Maroon Bells Capital]or its
+affiliates whereby Seven Ventures will receive $400,000 through the issuance of a convertible
+promissory note. . . .” (SEC Form 8-K, April 15, 2004 (Appendix Exhibit “R”).
+VI.
+
+Equitex And Chex Secretly Close On A $5,000,000 Loan Which Requires Them To
+Pledge All Of The Common Stock Of Chex, Grant Warrants, Take On Significant
+Liability And Indemnification Obligations, And Prohibits Them From Closing On
+The SPA
+In Section 6(f) of the SPA, Equitex and Chex represented and warranted that, after June
+
+30, 2003, there was not with respect to Chex, among other things: (1) any loss, transfer,
+assignment or encumbrance of assets; (2) any issuance, sale or other disposition of any capital
+stock or any grant of any options, warrants, or other rights to purchase or obtain any capital
+stock; (3) any action, transaction or agreement outside the Ordinary Course of Business; (4) any
+loan to any other person in excess of $10,000 and outside the Ordinary Course of Business; (5)
+6
+
+Equitex and Chex purported to terminate the SPA on March 12, 2004. iGames also tendered
+written notice of its termination of the SPA on March 12, 2004.
+14
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 19 of 44
+
+any compromise of any claims; or (6) any other event or circumstance that could reasonably be
+expected to have a Material Adverse Effect on Chex. In this case, Chex and Equitex entered into
+negotiations for a $5,000,000 loan transaction. While Equitex eventually presented the potential
+loan to iGames as a means to finance the Available Money purchase, but iGames objected to it
+because the proposed financing had “death spiral” components, which iGames did not want to
+inherit as part of its acquisition of Chex. Nevertheless, despite iGames’ express rejection of the
+loan and the SPA’s prohibitions against such a deal, Chex and Equitex secretly continued their
+negotiations and then closed on the financing, without notice to iGames.
+Indeed, iGames learned after litigation was initiated, based on Equitex’s SEC Form 10-K,
+that Equitex entered into a Purchase Agreement with Pandora Select Partners, L.P. (“Pandora”)
+and Whitebox Hedged High Yield Partners, L.P. (“Whitebox”) on March 8, 2004. (See Purchase
+Agreement, dated March 8, 2004, by and among Equitex, Inc., Pandora Select Partners, L.P. and
+Whitebox Hedged High Yield Partners, L.P. (the “Whitebox Purchase Agreement”) (Appendix
+Exhibit “S”)). Thus, while the SPA was still in effect, the defendants negotiated and entered a
+$5,000,000 transaction that iGames expressly rejected.
+Pursuant to the Whitebox Purchase Agreement, Equitex issued an aggregate of
+$5,000,000 in convertible notes (the “Equitex Notes”), plus warrants to purchase 800,000 shares
+of Equitex common stock. The proceeds were then advanced to Chex pursuant to a $5,000,000
+note (the “Chex Note”). (See Whitebox Purchase Agreement, Recitals and §3.27). The Equitex
+Notes were secured by a pledge of Chex’s common stock and an assignment of the Chex Note.
+Id. Incredibly, this was the very same stock iGames had already contracted to purchase and the
+Defendants’ agreed to sell “free and clear” of any encumbrances or security interests.
+
+15
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 20 of 44
+
+As part of the Whitebox transaction, Equitex also entered into a Security Agreement with
+Whitebox and Pandora. (See Equitex Security Agreement, dated March 8, 2004, by and between
+Equitex, Inc., Pandora Select Partners, L.P., and Whitebox Hedged High Yield Partners, L.P.
+(Tab 8) (the “Security Agreement”) (Appendix Exhibit “T”).
+
+The Security Agreement
+
+essentially required Equitex to pledge all of Chex’s assets and for Chex to guarantee the
+obligations of Equitex under the notes. Again, these were the very same assets that iGames
+agreed to purchase and Defendants agreed to sell, “free and clear” of any encumbrances or
+security interests. The Whitebox agreements also provided the lenders with complete control
+over Chex under certain circumstances.
+In particular, the Security Agreement provided in relevant part as follows:
+As a condition of making the [$5,000,000] Loan, the Secured
+Parties [i.e., Whitebox and Pandora] have required Equitex to (i)
+issue each of the Secured Parties a warrant of this date to purchase
+additional shares of Equitex Common Stock (the “Warrants”), (ii)
+agree to register the shares of Common Stock issuable upon
+exercise of the Warrants and upon conversion of the Notes or in
+payment thereof pursuant to a Registration Rights Agreement of
+this date (the “Registration Rights Agreement”), (iii) pledge
+certain of Equitex’s assets, as more fully described in Exhibit A
+hereto (together with the rights described herein, (the
+“Collateral”)[)], which Collateral consists of all of the outstanding
+capital stock of Chex, the Chex Loan and Equitex’s interest in the
+Chex Note Security Agreement dated as of this date, as security for
+the due and prompt payment of all amounts under the Notes and
+the due and prompt performance of all obligations under the
+Warrants; and (iv) cause Chex to guarantee the obligations of
+Equitex under the Notes (the “Guarantee”), and to grant to
+Secured Parties a security interest in all of Chex’s assets to secure
+the performance of Chex’s obligations under the Guarantee.
+(Security Agreement, Recital C. See also Security Agreement, at § 2.1 (wherein Equitex assigns,
+grants and pledges all of its estate, right, title and interest in and to the collateral)).
+Although it was kept secret from iGames, discovery revealed that the Whitebox Purchase
+Agreement was the result of extensive negotiations between Equitex, Chex, Pandora and
+16
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 21 of 44
+
+Whitebox which began in late November or early December 2003. (See, e.g., Anwar Ex. 20
+(Appendix Exhibit “U”)) (January 2, 2004 email regarding drafting the Whitebox Purchase
+Agreement which states, “This is another very unique transaction that we have worked on over
+the last 45 days.”); (Anwar Ex. 41 (Appendix Exhibit “V”)) (containing January 9, 2004 email
+regarding Whitebox Purchase Agreement drafting meetings stating that “We have refined the
+terms over the last 30 days to everyones [sic] satisfaction. . . . ); (Anwar Ex. 38 (Appendix
+Exhibit “W”) (December 19, 2003 email regarding negotiations on Whitebox Purchase
+Agreement). It is clear that as early as January 9, 2004, Chex and Equitex intended to complete
+a transaction with Whitebox and Pandora. On that date, Whitebox executed a Term Sheet and
+faxed it to Henry Fong. (Anwar Ex. 129 (Appendix Exhibit “X”)). At his deposition, Mr.
+Anwar was specifically asked: “Do you know when it was finally decided that Equitex would
+close on the White Box financing?” In response, Mr. Anwar stated: “When Equitex decided
+they would close on the White Box financing? I think after speaking to Chris in January Equitex
+had the intent to move forward with White Box financing. I don’t - - can’t pin down the exact
+date of their intent.” (Anwar Tr., Vol. II, 297:12-19). Mr. Fong also testified that they were
+committed to the Whitebox financing as early as late January 2004 and that they had a signed
+term sheet from Whitebox. (Deposition of Henry Fong (“Fong Tr.”) (Appendix Exhibit “Y”), at
+123)).
+The reason for all the secrecy is clear -- the Whitebox transaction expressly prohibited
+Chex and Equitex from closing on the SPA as agreed upon. Tellingly, the Whitebox transaction
+also specifically allowed for the type of shell company reverse merger first presented by Mark
+Savage and Maroon Bells in January 2004. In particular, the Security Agreement provided as
+follows:
+
+17
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 22 of 44
+
+MERGER OR COMBINATION. Equitex will promptly notify
+(the “Reorganization Notice”) Secured Parties of the material
+terms and conditions of any proposed transaction which, if
+consummated, would result in the merger or consolidation of Chex
+with, or the acquisition of the business of Chex by, another entity
+(which transaction is referred to hereunder as a “Reorganization”).
+Notwithstanding anything to the contrary contained herein,
+Equitex, with the consent of Secured Parties, which consent will
+not be unreasonably withheld, may cause or allow Chex to engage
+in a Reorganization, where Equitex retains (“Retained Interest”)
+at least 87.5% of the outstanding capital stock and voting power of
+the entity surviving such Reorganization.
+(Security Agreement, § 2.6 (emphasis added). Thus, Equitex could not close on the SPA, which
+would have resulted in Equitex holding less than 87.5% of the outstanding capital stock of
+iGames, but could close on the Seven Ventures reverse merger which resulted in Equitex
+retaining 93% of the outstanding common stock of Seven Ventures. (SEC Form 8-K, April 15,
+2004, Item 5).
+Although the Whitebox Purchase Agreement clearly involved over $10,000, and
+represented numerous breaches of the SPA, the defendants entered into it anyway. The reason is
+clear. The defendants were interested in completing the Seven Ventures deal, not the SPA. To
+that end, late in the day on Friday, March 12, 2004, Chex and Equitex faxed a letter purporting to
+terminate the SPA and the related Term Loan Note for various unfounded breaches and
+immediately filed lawsuits in a hardball tactic designed to increase their bargaining power in the
+anticipated post-termination settlement negotiations.
+LEGAL ARGUMENT
+I.
+
+The Standards Governing This Motion For Summary Judgment
+Pursuant to Fed. R. Civ. P. 56(c), “summary judgment is proper if ‘the pleadings,
+
+depositions, answers to interrogatories, and admissions on file, together with the affidavits, if
+any, show that there is no genuine issue of material fact and that the moving party is entitled to
+
+18
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 23 of 44
+
+judgment as a matter of law.’” Celotex Corp. v. Catrett, 477 U.S. 317, 322 (1986) (quoting Fed.
+R. Civ. P. 56(c)).
+In order “[t]o defeat a motion for summary judgment, the non-moving party must ‘do
+more than simply show that there is some metaphysical doubt as to the material facts.’”
+Chemipal Ltd. v. Slim-Fast Nutritional Foods Int’l, 350 F. Supp. 2d 582, 587 (D. Del. 2004)
+(quoting Matsushita Elec. Indus. Co., Ltd. v. Zenith Radio Corp., 475 U.S. 574, 586-87 (1986)).
+“‘Where the record taken as a whole could not lead a rational trier of fact to find for the nonmoving party, there is no genuine issue for trial.’” Id. (quoting Matsushita Elec. Indus. Co., Ltd.,
+475 U.S. at 587). “Accordingly, a mere scintilla of evidence in support of the non-moving party
+is insufficient for a court to deny summary judgment.” Id. (citing Anderson v. Liberty Lobby,
+Inc., 477 U.S. 242, 252 (1986)).
+II.
+
+Defendants Breached The SPA By Converting The Howards’ Debt To A Note And
+Misrepresenting That Bad Debt As A Valid Account Receivable
+In September 2003, Chex provided LeRoy and Pauline Howard (collectively the
+
+“Howards”), with roughly $600,000 in cash to gamble at casinos serviced by Chex. In return for
+this extraordinary unsecured cash advance, Chex received over 60 “bad checks.”
+
+Chex
+
+compounded this serious lapse in judgment by treating the Howards’ bad debt as an account
+receivable, in direct violation of their own operating procedures.
+By the admissions of the Defendants’ own witnesses, the bad checks issued by the
+Howards far surpassed those issued by any previous customers.
+
+Further, the Defendants’
+
+witnesses admitted that this was the first time they ever converted bad debt to an account
+receivable for their financial statements. Based on admissions and the undisputed facts, Chex’s
+transactions with the Howards, and subsequent accounting thereof, clearly breached Defendants’
+representations in the SPA because, by Defendants’ own admissions, those transactions were not
+19
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 24 of 44
+
+in “the ordinary course of business” and could have reasonably been expected to have a
+“material adverse effect” on Chex.
+A.
+
+The Defendants Breached The SPA Because Chex’s Transactions With The
+Howards Were Not In The Ordinary Course Of Business
+
+On November 3, 2003, iGames and the Defendants executed the SPA. Importantly, in
+Section 6(f) of the SPA, the Defendants made certain representations regarding events after
+Chex’s June 30, 2003 Interim Balance Sheet. More specifically, the Defendants represented:
+6.(f) Events Subsequent to Chex Interim Balance Sheet. Since the
+date of the Chex Interim Balance Sheet, and except as disclosed on
+Schedule 6(f), there has not been, occurred or arisen, with respect
+to Chex:
+*
+
+*
+
+*
+
+(ix) the execution of, or any other commitment to any
+agreement, contract, lease, or license (or series of related
+agreements, contracts, leases, and licenses) outside the Ordinary
+Course of Business, except for the CSI Agreement.
+*
+
+*
+
+*
+
+(xxiv) any taking of other action or entrance into any other
+transaction other than in the Ordinary Course of Business, or
+entrance into any transaction with any insider of Chex, except as
+disclosed in this Agreement and the Disclosure Schedules;
+(SPA, §§ 6(f)(ix) & (xxiv)).
+
+Thus, the Defendants represented that there had been no
+
+transactions or agreements other than in the “Ordinary Course of Business” between June 30,
+2003, and November 3, 2003. Chex’s transactions with the Howards unquestionably rendered
+this representation false.
+The SPA defines “Ordinary Course of Business” as follows:
+“Ordinary Course of Business” means an action taken by a
+Person will be deemed to have been taken in the Ordinary Course
+of Business only if that action: (i) is consistent in nature, scope and
+magnitude with the past practices of such Person and is taken in
+the ordinary course of the normal, day-to-day operations of such
+20
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 25 of 44
+
+Person; (ii) does not require authorization by the board of directors
+or shareholders of such Person (or by any Person or group of
+Persons exercising similar authority) and does not require any
+other separate or special authorization of any nature; and (iii) is
+similar in nature, scope and magnitude to actions customarily
+taken, without any separate or special authorization, in the ordinary
+course of the normal, day-to-day operations of other Persons that
+are in the same line of business as such Person.
+(SPA, § 1(ooo) (emphasis added)).
+
+The testimony of Chex’s own witnesses undeniably
+
+establishes that Chex’s transactions with the Howards were not “consistent in nature, scope and
+magnitude with past practices” of Chex. For example, Ijaz Anwar, the Chief Financial Officer of
+Chex, testified that other than the Howards, Chex never had a customer write hundreds of
+thousands of dollars of “bad checks” in one month. (Anwar Tr., Vol. I, at 125). In fact, other
+than the Howards, the most significant bad checks Mr. Anwar could recall amounted to between
+$10,000 and $15,000, far less than the $606,000 in bad checks written by the Howards. (Anwar
+Tr., Vol. I, at 126). In other words, in the past, Chex had taken losses in the range of $10,000 $15,000 for its cash advances to specific customers. In stark contrast here, Chex lost $606,000 to
+one couple.
+The Howards’ bad debt not only far surpassed the debt owed to Chex by any one
+individual, it even surpassed the bad debt expensed by Chex, from all of its customers, for the
+entire year preceding the Howards’ transactions. (Equitex SEC Form 10-Q). Given these
+undisputed facts, and the testimony of Defendants’ own witnesses, no trier of fact could conclude
+and Defendants cannot reasonably contend that the Howards transactions were of a scope and
+magnitude consistent with Chex’s past practices.7
+
+7
+
+As further evidence that these transactions deviated from Chex’s ordinary course of
+business, Chex disciplined several of its employees for their handling of the transactions with the
+Howards. (Anwar Tr., Vol. I, at 131).
+
+21
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 26 of 44
+
+Chex also drastically deviated from its own procedures and practices in its accounting of
+the transactions with the Howards. By necessity, Chex has practices and procedures it follows
+when a casino customer provides Chex with a “bad check.” (See Anwar Tr., Vol. I, at 119).
+Under such circumstances, as one might expect, Chex “writes off” bad checks as expenses or bad
+debt. (See Anwar Tr., Vol. I, at 117-119).8 However, during the fall of 2003, as iGames and the
+Defendants were negotiating the SPA, Chex acted in direct contravention of its own procedures
+and the industry practice by treating the Howards’ bad debt as an account receivable.
+Specifically, instead of writing off the Howards’ bad debt, Chex accepted a note from the
+Howards. (See Anwar Tr., Vol. I, at T124). Chex then claimed that note as a valid and
+collectible account receivable on its balance sheet. During his deposition, Mr. Anwar, Chex’s
+CFO admitted that Chex accounted for the Howards’ bad debt differently than it ordinarily treats
+such bad debt. Specifically, testifying about the Howards’ transactions, Mr. Anwar testified:
+Q:
+
+And typically you would write [bad check debt] off?
+
+A:
+
+That is correct.
+
+Q:
+And here you said instead of doing that, you put the Note, a
+receivable in your books?
+A:
+
+That is correct.
+
+(Anwar Tr., Vol. I, at 140-41). Mr. Anwar further testified:
+
+8
+
+The Howards’ default on the note illustrates why Chex and similar businesses treat such
+bad checks as an expense and not as an account receivable. The Howards never made a single
+payment under the note, until paying $9,000 (on the $600,000 note) nearly a year later in August
+2004. The Howards then apparently accused Anwar of “tricking and cheating” them. (Anwar
+Ex. 9 (Appendix Exhibit “Z”)). Thus, calling this note a valid account receivable is beyond
+cavil. Indeed, even Chex ultimately conceded the note was not fully collectible when it wrote off
+roughly $250,000 of the note for its December 2003 year end financial statement. (See Equitex
+SEC Form 10-Q, at 34).
+
+22
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 27 of 44
+
+Q:
+How many times in your career have you accepted a Note
+from a customer who wrote a bad check?
+A:
+From a customer, I don’t recall. The Howard, Leroy and
+Pauline Howard would be in my memory the first customer.
+Q:
+Where Chex ever took a Note and exchanged it for bad
+checks?
+A:
+
+That is correct.
+
+(Anwar Tr., Vol. I, at 124).
+Henry Fong, the CEO of Equitex, also confirmed Mr. Anwar’s testimony. Specifically,
+Mr. Fong testified that Chex had never accepted a note of over $600,000 for bad checks prior to
+the Howards’ Note. (Fong Tr., at 113). Indeed, Mr. Fong was not aware of “anything even
+remotely close” to the Howards’ note. (Fong Tr., at 113).
+At his deposition, Mr. Anwar conceded the reason Chex deviated from its general
+practices was to improve its financial statements. Specifically, Mr. Anwar testified “if we have
+the option to classify that as a receivable, it would obviously reflect less expenses on the
+financial statements.” (Anwar Tr., Vol. I, at 141). Of course, this conversion of what would
+typically be considered $606,000 of bad debt from an expense to an account receivable, made
+Chex appear to be significantly more profitable. These clever accounting maneuvers occurred
+after the June 30, 2003 Interim Balance Sheet provided to iGames and while the parties were
+negotiating the SPA.
+As detailed above, the Defendants represented that Chex had not entered into any
+agreements outside of the Ordinary Course of Business (SPA, § 6(f)(ix)), and that Chex had not
+taken any other action or entered any other transaction other than in the Ordinary Course of
+Business (SPA, § 6(f)(xxiv)). By the admissions of Chex’s own witnesses, however, Chex had
+never received even close to the $606,000 of bad checks they received from the Howards in one
+
+23
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 28 of 44
+
+month or from one customer. Further, Chex had never accounted for such bad debt as a
+“receivable” instead of as an “expense.” Given these admissions, there can be no factual dispute
+that Chex’s transactions with the Howards were not “consistent in nature, scope and magnitude
+with the past practices of Chex” and were not “similar in nature, scope and magnitude to actions
+customarily taken” by Chex. Therefore, according to the express language of the SPA and
+Defendants’ own admissions, the Defendants breached their representations in the SPA.
+B.
+
+The Defendants Breached The SPA Because Chex’s Transactions With The
+Howards Could Reasonably Have Been Expected To Have A Material
+Adverse Effect On Chex
+
+In signing the SPA, the Defendants represented that, between June 30, 2003 (the date of
+the Interim Balance Sheet Defendants provided to iGames) and November 3, 2003 (the closing
+date on the SPA), “there had not been, occurred or arisen, with respect to Chex” the following:
+(xxv) any other event or occurrence that may have or could
+reasonably be expected to have a Material Adverse Effect on Chex
+(whether or not similar to any of the foregoing)
+(SPA, § 6(f)(xxv)). The SPA defines “Material Adverse Effect” as follows:
+“Material Adverse Effect” or “Material Adverse Change”
+means, in connection with any Person, any event, change or effect
+that is materially adverse, individually or in the aggregate, to the
+condition (financial or otherwise), properties, assets, Liabilities,
+revenues, income, business, operations, results of operations or
+prospects of such Person, taken as a whole.
+(SPA, § 1(iii)).
+Chex’s transactions with the Howards clearly “may have or could reasonably [have been]
+expected to have a Material Adverse Effect on Chex.” It is undisputed Chex provided the
+Howards with nearly $600,000 in cash, receiving bad checks in return. Even Mr. Anwar, in
+attempting to justify the “special” accounting treatment for the Howards transactions,
+
+24
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 29 of 44
+
+characterized the Howards’ bad debt as “materially high.” (Anwar Tr., Vol. I, at 134 (emphasis
+added)).
+Regardless of how Chex accounted for this “bad debt,” it may have or could have had a
+“Material Adverse Effect” on Chex. Indeed, after the SPA closed, Chex “wrote off” roughly
+$250,000 of the Howards’ bad debt. One year after accepting the note, Chex had only collected
+roughly $9,000 from the Howards for this “receivable” of $606,000.
+The impact of this $606,000 debt on Chex’s balance sheet is material. For example,
+between June 30, 2003 and September 30, 2003, Chex’s claimed loss from operations was
+$436,927, and for the nine months ending September 30, 2003, Chex’s loss from operations was
+$508,490. Accounting for the Howards’ bad debt as an expense, as Chex ordinarily would do,
+would result in a 138.7% change to the losses from operations for Chex’s three month financial
+statement and a 119.2% change to Chex’s nine month financial statement for the period ending
+September 30, 2003. Simply put, no trier of fact could conclude that such losses were not
+“material.” Indeed, Chex’s “creative” accounting efforts themselves reveal that Chex knew the
+losses were material and thus tried to pass them off as “accounts receivable.”
+In sum, Chex suffered a material loss of $606,000 after issuing its June 2003 Interim
+Balance Sheet and before closing on the SPA. Despite Chex’s characterizations of this loss as an
+“account receivable,” in contrast to Chex’s own practices and procedures, this loss was clearly an
+event that did, or at least could, materially effect Chex’s financial condition. In fact, the
+Howards’ transaction resulted in a change between 138% for Chex’s losses from operations for
+the quarter in question. The Defendants, therefore, breached Section 6(f)(xxiv) of the SPA
+because Chex’s transactions with the Howards were, or could have been, materially adverse
+events. See Allegheny Energy Inc. v. DQE, Inc., 74 F. Supp. 2d 482, 518-19 (W.D. Pa. 1999)
+
+25
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 30 of 44
+
+(write-off amounting to 105% of net income was material adverse change), aff’d without
+opinion, 216 F.3d 1075 (3d Cir. 2000).
+III.
+
+Defendants Breached The SPA By Losing Nearly A Quarter Of Chex's Business
+As one might expect, Chex’s revenues and customer relationships were critical
+
+components of the Chex/iGames deal. The SPA properly reflects the parties’ intent on this
+fundamental point. To that end, the Defendants were required to list all of Chex’s contracts
+“involving more than $10,000.” (SPA, § 6(n)(i)). Moreover, Chex represented in the SPA:
+there are no disputes or complaints with respect to nor has Parent
+or Chex received any notices (whether oral or in writing) that any
+other party to the Chex Contracts is terminating, intends to
+terminate or is considering terminating, any of the Chex Contracts
+listed or required to be listed in Schedule 6(n).
+(SPA, § 6(n)). Significantly, this representation was not limited to the date the parties entered
+the SPA. Chex’s representation, in addition to being true upon execution of the SPA, was
+required to remain true “as of the Closing Date (as though made then and as though the Closing
+Date were substituted for the date of [the SPA] . . .” (SPA, § 6).
+The SPA further provided iGames with the right to terminate the SPA, if Chex lost
+customer contracts that would result in a “Material Adverse Effect” on Chex’s business.
+Specifically, Section 11(b) of the SPA provides:
+(b) Termination of Agreement. In addition to termination during
+the Review Period, certain parties may terminate this Agreement
+prior to Closing as follows:
+*
+
+*
+
+*
+
+(viii) Buyer, after the occurrence of any event having, or which
+would reasonably be likely to have, a Material Adverse Effect on
+Chex;
+The parties expressly included within the definition of “Material Adverse Effect” “any event,
+change or effect that is materially adverse, individually or in the aggregate, to the to the
+26
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 31 of 44
+
+condition (financial or otherwise), properties, assets, Liabilities, revenues, income, business,
+operations, results of operations or prospects of [Chex], taken as a whole.” (See SPA, § 1(iii)
+(emphasis added)).
+Chex’s most significant client was NACSF. Chex had five contracts with NACSF to
+provide cash management services at five Seminole Tribe casinos, which accounted for roughly
+25% of Chex’s revenues. (Welbourn Tr., at 165:2-7). During 2003, however, Chex had serious
+problems with its NACSF contracts. In May 2003, NACSF sent Chex a letter stating that Chex
+had breached its agreements with NACSF. (NACSF Compl., at ¶ 27). Chex settled this May
+2003 dispute with NACSF, but problems with the contracts remained. (Deposition of Deanna
+Moose (“Moose Tr.”) (Appendix Exhibit “AA”), at 32-34).
+
+Indeed, there were rumors
+
+throughout the fall about difficulties with the NACSF relationship. (Moose Tr., at 34).
+On or about January 4, 2004, NACSF alleged that Chex had breached its agreements with
+NACSF. NACSF then terminated the agreements and awarded replacement contracts to one of
+Chex’s competitors. These lost contracts not only cost Chex 25% of its revenues, (Welbourn Tr.,
+at 165:2-7) they also caused significant marketing problems for Chex. In its litigation against
+NACSF, Chex asserted:
+Seminole casinos constitute [sic] a significant portion of Chex’s
+revenue and provided Chex with unique relationships for
+establishing connections and business relationships with other
+Native American owned casinos. . . . The actions of NACSF also
+will undoubtedly damage Chex’s reputation within the Native
+American gaming community.
+(NACSF Compl., at ¶¶ 36-38). Chex’s Vice President of Operations, Deanna Moose, confirmed
+this adverse effect on Chex’s marketing efforts for prospective customers.
+deposition, Ms. Moose admitted:
+Q:
+Do you know if the news that you had lost the [NACSF
+contract] had caused Chex problems in the marketplace?
+27
+
+During her
+
+Case 1:04-cv-00180-KAJ
+
+A:
+
+Document 98
+
+Filed 03/15/2005
+
+Page 32 of 44
+
+Yes.
+
+(Moose Tr., at 35). Ms. Moose further testified that the loss of the NACSF contracts “was used
+against [Chex]” and “caused some disruption to [Chex’s] business.” (Moose Tr., at 35).
+The results of the NACSF termination were immediate and apparent to both iGames and
+Chex. Although Mr. Wolfington remained interested in the Chex transaction and did what he
+could publicly to support Chex (Anwar Ex. 36 (Appendix Exhibit “BB”)), iGames understood
+the significance of the NACSF termination and reserved its rights with respect to this material
+adverse effect on Chex’s business. (Anwar Ex. 37 (Appendix Exhibit “CC”)). Even Chex’s
+President and founder had to admit under oath in litigation against NACSF that “the termination
+of the NACSF Contract may give iGames cause to terminate the acquisition agreement and
+negotiations.” (Welbourn Supp. Aff., at ¶ 14).
+Significant losses like the termination of the NACSF contracts are the very reason for
+clauses regarding “Material Adverse Effects.” See Kari K. Hall, How Big Is the MAC?: Material
+Adverse Change Clauses in Today’s Acquisition Environment, 71 U. Cin. L. Rev. 1061, 1062
+(2003) (“The purpose of a material adverse change clause, also called material adverse effect
+clause, in a merger agreement is to allocate risk between the buyer and the seller during the time
+between the signing of the acquisition agreement and the closing of the deal”). In this case, the
+parties recognized the importance of Chex’s customer contracts and revenues by incorporating
+specific representations and covenants regarding those contracts. The parties to the SPA then
+placed the risk of such loss on the Defendants, who were in control of the customer relationships,
+until closing on the SPA.
+Chex’s loss of the NACSF contracts clearly constituted a “Material Adverse Effect” on
+Chex’s business. First, Chex lost a quarter of its business and revenues. Importantly, this was
+no “temporary” or “cyclical” loss -- it was a permanent loss of Chex’s biggest customer. See,
+28
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 33 of 44
+
+e.g., H-M Wexford LLC v. Ballentine, 832 A.2d 129, 143-44 (Del. Ch. 2003) (holding purchaser
+stated a claim for breach of representation that no material adverse change occurred where seller
+had lost one of its major customers and rejecting argument that purchaser should have discovered
+loss during due diligence). Second, as Chex’s own witnesses admitted, the termination of the
+NACSF contracts harmed Chex’s reputation and its ability to market to prospects. Clearly, under
+any reasonable interpretation of the SPA, the termination of the NACSF contracts was an “event,
+change or effect that [was] materially adverse, individually or in the aggregate, to the condition
+(financial or otherwise), properties, assets, Liabilities, revenues, income, business, operations,
+results of operations or prospects of [Chex], taken as a whole.” (See SPA, § 1(iii) (emphasis
+added)). Accordingly, the Defendants breached the SPA and iGames’ properly terminated the
+SPA as a matter of law. (See SPA, § 11(b)(viii)). See Pan Am Corp. v. Delta Air Lines, Inc.,
+175 B.R. 438 (S.D.N.Y. 1994) (finding a material adverse change to airline’s business and to its
+prospects where advanced bookings declined between 19%-25% on Latin American flights, 39%
+to 43% on Domestic North-South flights, and 21%-22% on Domestic Southern flights for
+January and February of 1992).
+IV.
+
+Defendants Breached The SPA By Entering The Whitebox Purchase Agreement
+Which Made It Impossible For Defendants To Close On The SPA
+Pursuant to the SPA, Chex was to purchase all shares of Chex from Equitex.
+
+Accordingly, Equitex made the following representation, a representation that was fundamental
+to the transaction:
+Parent [Equitex] is the lawful owner of the Chex Shares to be sold,
+transferred and delivered by it to iGames hereunder, free and clear
+of any restrictions on transfer (other than any restrictions under the
+Securities Act or applicable state securities laws), Taxes,
+Encumbrances, Security Interests, options, warrants, purchase
+rights, contracts, commitments, equities, claims and demands.
+
+29
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 34 of 44
+
+(SPA, § 4(d)). Significantly, Equitex represented that this statement regarding its ownership of
+the Chex stock was correct and complete “as of the date of [the SPA]” and further represented it
+“will be correct and complete as of the Closing Date (as though made then and as though the
+Closing Date was substituted for the date of the [SPA].” (SPA, § 4).
+In addition to Equitex’s representation that it owned all of Chex’s stock free and clear of
+any encumbrances or other restrictions, “Chex represent[ed] and warrant[ed] to [iGames] that the
+statements contained in this Section 6 [of the SPA] from (a) through (z) are correct and complete
+as of the date of this Agreement and will be correct and complete as of the Closing Date (as
+though made then and as though the Closing Date were substituted for the date of this Agreement
+throughout this Section 6), except as set forth in the schedules to be provided.” (SPA, § 6
+(emphasis added)). Thus, Chex represented that the following statements would be correct after
+the execution of the SPA and as of the Closing Date for the SPA:
+(f)
+Events Subsequent to Chex Interim Balance Sheet. Since
+the date of the Chex Interim Balance Sheet, and except as
+disclosed on Schedule 6(f), there has not been, occurred or arisen,
+with respect to Chex:
+*
+
+*
+
+*
+
+(iii)
+any direct or indirect redemption, purchase or acquisition
+by any Person of any of its capital stock or of any interest in or
+right to acquire any such stock;
+*
+
+*
+
+*
+
+(ix) the execution of, or any other commitment to any agreement,
+contract, lease, or license (or series of related agreements,
+contracts, leases, and licenses) outside the Ordinary Course of
+Business, except for the CSI Agreement.
+*
+
+*
+
+*
+
+(xi) any Security Interest or Encumbrance imposed upon any of its
+assets, tangible or intangible;
+
+30
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+*
+
+*
+
+Filed 03/15/2005
+
+Page 35 of 44
+
+*
+
+(xvi) any issuance of any note, bond, or other debt security or
+created, incurred, assumed, or guaranteed any indebtedness for
+borrowed money or capitalized lease obligation involving more
+than $10,000; . . .
+(SPA, Ex. A, § 6(f)).
+Despite the Defendants’ very clear an unambiguous representations to the contrary, the
+Defendants executed the Whitebox Purchase Agreement and accompanying transaction
+agreements on March 8, 2004. As part of this transaction, Chex issued a $5 million secured
+promissory note to Equitex. Equitex, in turn, issued two promissory notes to Whitebox and
+Pandora respectively. Significantly, in the Equitex Security Agreement, Equitex pledged as
+collateral the following assets:
+A.
+2,170,000 shares of the common stock of [Chex], being all
+of the outstanding capital stock of [Chex] represented by
+Certificate number ___, and any distributions made with respect to
+said shares.
+B.
+Promissory note the (“Chex Note”) executed by [Chex] in
+favor of Equitex, Inc., dated March 8, 2004, in the principal
+amount of $5,000,000.
+C.
+Equitex’s rights, title and interest in the Security
+Agreement, providing collateral security for payment of the Chex
+Note, dated March 8, 2004, which collateral consists of
+substantially all of the assets of [Chex].
+(See Equitex Security Agreement, at Recitals C, § 2.1, & Ex. A). Thus, Equitex pledged as
+collateral the very same stock and assets that iGames was to acquire pursuant to the SPA.
+Moreover, Equitex entered these agreements without iGames’ knowledge or approval.
+Indeed, in January 2004, the Defendants discussed the potential Whitebox transaction with
+iGames, and iGames rejected it. iGames did not learn that the Defendants actually completed the
+transaction until after this litigation began.
+
+31
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 36 of 44
+
+By pledging all of the stock of Chex and all of Chex’s assets, the Defendants breached
+the express terms of Section 6(f) of the SPA.
+
+Because of the Whitebox transaction, the
+
+Defendants could not, as they were obligated to do, represent at closing on the SPA that: (1)
+Equitex owned the stock of Chex free and clear of any encumbrances or security interests (SPA,
+§ 4(d)); (2) that there had been no security interests or encumbrances imposed upon Chex’s
+assets (SPA, § 6(f)(xi)); (3) that there had been no agreements outside of the ordinary course of
+business (SPA, § 6(f)(ix)); (4) that there had been no issuance of any note, bond, or other debt
+security for Chex involving more than $10,000 (SPA, § 6(f)(xvi)); or (5) that there had been no
+direct or indirect redemption, purchase or acquisition of Chex’s stock or any interest in such
+stock (SPA, § (f)(iii)).
+The Whitebox transaction not only breached the many representations made by
+Defendants as set forth above, it also required Defendants to obtain the consent of Whitebox and
+Pandora to consummate a merger or combination, such as the SPA, which had already been
+entered by the Defendants and iGames. (See Equitex Security Agreement, §§ 2.6, 4.4). Worse
+yet, pursuant to the Equitex Security Agreement executed as part of the Whitebox Transaction, in
+order for Equitex to consummate any merger or combination, such as the SPA, Equitex was to
+retain at least 87.5% of the stock of any entity surviving such a transaction. (See Equitex
+Security Agreement, § 2.6). Pursuant to the SPA with iGames which had already been executed,
+however, Equitex would have retained significantly less than 87.5% of the “surviving entity.”
+Thus, on March 8, 2004, the Defendants actually executed agreements that prohibited them from
+completing the SPA.
+As set forth below, the reason for the Defendants’ execution of the Whitebox agreements
+in violation of their obligations under the SPA was revealed during discovery. The Defendants
+
+32
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 37 of 44
+
+sought, negotiated, and agreed to an alternative transaction with another investor.
+
+This
+
+alternative transaction, unlike the SPA, fit within the parameters of the Whitebox agreements and
+provided that Chex would own 93% of the surviving entity.
+
+Thus, it was clear that the
+
+Defendants had no intention of closing on the SPA when the Defendants had negotiated and
+entered the Whitebox agreements which: (1) breached the SPA; (2) made it impossible to close
+on the SPA; and (3) contemplated a merger under different terms which was closed shortly after
+the Defendants purported to terminate the SPA.
+V.
+
+Defendants Breached The SPA By Soliciting Other Investors In Search Of A Better
+Deal And By Agreeing To The Seven Ventures Transaction
+Stock purchase agreements often have “no-shop” or “window shop” clauses and
+
+termination or cancellation fees to protect prospective buyers while they invest the extraordinary
+time and resources necessary to complete such a complex corporate transaction. The SPA is no
+exception. Generally, the SPA prohibited the Defendants from actively seeking alternative deals
+while they attempted to close on the SPA. (See SPA, § 7(g), pp. 41-43). In the event that the
+Defendants received and accepted a better offer, the SPA required the Defendants to pay a
+“Termination Amount.” (Id. § 11, pp. 54-56). In this case, it is undisputed that the Defendants
+discussed an alternative deal while at the same time leading iGames to continue its significant
+investment in the SPA. The Defendants then entered that alternative deal but failed to pay
+iGames the mandatory Termination Amount.
+The SPA had very detailed provisions prohibiting any solicitations by Chex for
+alternative transactions after the parties entered the SPA.
+
+(See SPA, § 7(g)).
+
+Generally
+
+speaking, these non-solicitation provisions provided: (1) Chex would not solicit, initiate or
+encourage any offers that would compete with the iGames transaction nor would Chex
+participate in any negotiations of such a competitive transaction; (2) if Chex received an
+33
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 38 of 44
+
+unsolicited offer better than the iGames transaction (defined in the SPA as a “Superior
+Proposal”), Chex would notify iGames at least three days prior to accepting such Superior
+Proposal; and (3) if Chex decided to accept a Superior Proposal it would terminate the SPA and
+pay to iGames the specified “Termination Amount.”
+These standard “non-solicitation” provisions were particularly important to iGames.
+Chex had discussed, and withdrawn from, several similar transactions (including potential deals
+with iGames) in the past. Thus, before investing the significant time and effort necessary to
+proceed with the SPA, iGames needed the protection afforded by the non-solicitation provisions
+of the SPA.
+Section 7(g)(i) of the SPA specifically restricted Chex from soliciting, initiating,
+encouraging or discussing alternative transactions after the parties executed the SPA and
+required Chex to immediately cease any such discussions that may have been ongoing. That
+provision provides:
+(i) Chex and Parent shall, and shall direct and use Best Efforts to
+cause their respective Representatives to, immediately cease any
+discussions or negotiations with any parties that may be ongoing
+with respect to a Chex Proposed Transaction (as defined below).
+Neither Chex nor Parent shall, nor shall either permit any of their
+respective subsidiaries to, nor shall either authorize or permit any
+of their respective Representatives, directly or indirectly, to
+knowingly (i) solicit, initiate or encourage (including by way of
+furnishing information), or take any other action designed or
+reasonably likely to facilitate, any inquiries or the making of any
+proposal which constitutes, or may reasonably be expected to lead
+to, any Chex Proposed Transaction or (ii) participate in any
+discussion or negotiations regarding any Chex Proposed
+Transaction. The term “Chex Proposed Transaction” means any
+inquiry, proposal or offer from any person relating to any form of
+business combination involving Chex, or any direct or indirect
+acquisition or purchase of all or substantially all of the assets of
+Chex or any equity securities of Chex, any tender offer or
+exchange offer that if consummated would result in any person
+beneficially owning 10 percent or more of any class of equity
+34
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 39 of 44
+
+securities of Chex, any merger, consolidation, share exchange,
+business combination, recapitalization, liquidation, dissolution or
+similar transaction involving Chex, other than the Contemplated
+Transactions.
+While Section 7(g)(i) prohibited Chex from soliciting, encouraging, or discussing
+proposals, Section 7(g)(iii) of the SPA regulated the manner in which the Defendants could react
+to unsolicited written proposals. However, before the Defendants accepted any such unsolicited
+written proposals they were required to (1) provide iGames with written notice at least three
+business days before approving or recommending such an unsolicited written proposal to their
+shareholders; and (2) terminate the SPA and pay iGames the applicable “Termination Amount”.
+(See SPA, § 7(g)(iii)). In other words, if Chex received an unsolicited “better deal,” could enter
+it, only after paying the Termination Amount to iGames.
+Chex unquestionably breached its non-solicitation obligations. During December 2003
+or January 2004, Chex discussed alternatives to the SPA with a venture capital firm called
+Maroon Bells Capital and an investment banking firm known as Corporate Capital Management
+LLC. In fact, on January 20, 2004, Mark Savage of Corporate Capital sent an email to the
+Defendants which attached an outline for the structure of a reverse merger of Chex into a shell
+corporation. (See Anwar Ex. 123). Savage’s email even compared his proposed structure with
+the SPA, thus revealing his knowledge of the iGames deal. Specifically, Savage wrote “after
+talking with Ijaz last week our approach is different than what you are currently working with.”
+(See Anwar Ex. 123). In light of Savage’s email to the Defendants and their prior discussions
+with Savage, there can be no dispute that the Defendants breached Section 7(g)(i) of the SPA
+
+35
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 40 of 44
+
+which prohibits them from participating “in any discussion or negotiations regarding any Chex
+Proposed Transaction.”9
+Savage explained his proposal as follows:
+We feel that Chex Services has a good stand alone business that
+can be built upon by itself and then go and acquire the other
+candidates with alot [sic] less shares outstanding at the end of the
+day.
+(Anwar Ex. 123). Thus, rather than merging Chex’s business into another business, Savage
+proposed merging Chex into a shell, developing the business, and then acquiring other
+businesses. Savage requested the Defendants contact him if they wished to further discuss his
+proposal.
+The Defendants continued their discussions with Savage, Corporate Capital, and Maroon
+Bells, while at the same time leading iGames to continue to invest in its transaction with the
+Defendants. (See, e.g., Anwar Ex. 124) (March 5, 2005 email from Mark Savage with attached
+letter that begins “Pursuant to our discussions in connection with the potential reverse merger of
+Chex . . . into a public shell. . . .” and outlines various potential business arrangements).
+Ultimately, Defendants entered the Seven Ventures Transaction on terms unmistakably similar to
+those outlined by Savage in his January 20, 2004 email. More specifically, Chex merged into a
+shell corporation, Seven Ventures, and Chex’s shareholders received 93% of the outstanding
+common stock in Seven Ventures.
+The Defendants’ conduct during their negotiations with iGames reinforces the necessity
+of non-solicitation clauses such as those in the SPA, as iGames invested significant time, money,
+9
+
+The Defendants have not taken the position that Savage’s email constituted an
+“unsolicited written proposal” pursuant to Section 7(g)(iii) of the SPA and, even if they did, the
+Defendants never provided notice to iGames as they would have been required to do had
+Savage’s email constituted an “unsolicited written proposal.”
+36
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 41 of 44
+
+and other resources into pursuing its transaction with the Defendants. At the same time that
+iGames was attempting to close on the SPA, the Defendants were searching for “a better deal.”
+The SPA specifically contemplated this very scenario. First, the SPA provided that Defendants
+solicitations of “a better deal” would constitute a breach of the SPA. (SPA, § 7(g)(i)). Second,
+the SPA provided that if the Defendants did consummate such a “better deal,” then the
+Defendants would be required to pay the $1 million Termination Amount. (SPA, § 7(g)(iii)).
+Based on the undisputed evidence and the straightforward language of the SPA, summary
+judgment should be granted in favor of iGames and against the Defendants because of their
+violations of the non-solicitation obligations under the SPA.
+VI.
+
+Chex’s Purported Termination Of The SPA Was Ineffective As A Matter Of Law
+On March 12, 2004, only after receiving a letter from iGames that threatened to terminate
+
+the SPA, the Defendants purported to terminate the SPA. However, by that time, the Defendants
+had been in material breach of the SPA for months. As further detailed above, long before
+March 12, 2004, the Defendants had: (1) provided roughly $606,000 to the Howards and
+converted the Howards’ bad debt to an “account receivable” (September-November 2003); (2)
+lost the NACSF contracts constituting 25% of Chex’s business (January 4, 2004); (3) encouraged
+and engaged in discussions for a proposed alternative transaction (January 14 - 20, 2004); and (4)
+negotiated and consummated the Whitebox agreements which were fundamentally inconsistent
+with closing on the SPA (March 8, 2004).
+According to both the express language of the SPA and the well-established common
+law, the Defendants had no right to terminate the SPA or to claim a right to the Termination
+Amount, and any purported termination of the SPA by the Defendants was ineffective.
+Specifically, Section 11(b) of the SPA provides “the right to terminate this Agreement pursuant
+to Section 11(b) shall not be available to any Party that has breached in any material respect its
+37
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 42 of 44
+
+obligations under this Agreement in any manner that proximately contributed to the failure of the
+transactions contemplated hereby to be consummated.” (SPA, § 11(b)). Moreover, as the
+Defendants themselves argue in their motion for summary judgment, “[a]s a general rule the
+party first guilty of a material breach of contract cannot complain if the other party subsequently
+refuses to perform.” (See Opening Br. in Support of Chex and Equitex’s Motion for Summary
+Judgment at 22 (quoting Hudson v. D&V Mason Contractors, Inc., 252 A.2d 166, 170 (Del. Ch.
+1969)). Based on these undisputed principles, the Defendants’ purported termination of the SPA
+was ineffective as a matter of law.
+VII.
+
+The Defendants Are Liable For The Termination Amount Not Only Because They
+Breached The SPA On Several Grounds But Also Because They Failed To Close On
+The SPA And Instead Chose To Close On The Seven Ventures Transaction
+In Section 11(e)(ii) of the SPA, Equitex and Chex agreed that a $1 million “Termination
+
+Amount” would be paid to iGames if the SPA was terminated for any one of several specified
+reasons. Section 11(e)(ii) requires:
+(ii) Parent and Chex agree that if this Agreement is terminated
+pursuant to Sections 11(b)(ii), (iv)(only if such failure is not due to
+receipt of Parent Board approval pursuant to Section 7(f)),
+(vi)(only if within twelve months of such Parent stockholder vote,
+Parent, Chex or any of their Subsidiaries enters into a Chex
+Proposed Transaction, an agreement with CSI for a Chex Proposed
+Transaction or the CSI Transaction), (vii)(only if the failure to
+effect the Closing is not due to any action or failure to act by
+Buyer), (viii) or (x), then Parent shall pay to Buyer a termination
+fee in an amount equal to $1,000,000 (the “Termination
+Amount”). The Termination Amount shall be paid immediately
+upon termination. In addition, upon any such termination Parent
+and/or Chex shall pay to Buyer, within five (5) Business Days of
+receipt by Parent of a written notice from Buyer evidencing
+Buyer’s documented costs and expenses otherwise payable by
+Buyer under Subsection 12(n), an amount equal to such costs and
+expenses. Any payment required to be made pursuant to this
+Subsection shall be made on the requisite payment date by wire
+transfer of immediately available funds to an account designated
+by Buyer.
+38
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 43 of 44
+
+Because the Defendants breached their representations that there would be no material
+adverse effect on Chex and that there would be no transactions outside of the Ordinary Course of
+Business, iGames’ termination of the SPA was appropriate pursuant to Section 11(b)(ii) and
+(b)(viii). In addition, iGames’ termination was also appropriate pursuant to Section 11(b)(iv)
+because the Defendants failed to abide by their non-solicitation covenants as well as their
+covenants not to engage in any transactions outside of the Ordinary Course of Business.
+Accordingly, Defendants are liable to iGames for the Termination Amount pursuant to Section
+11(e)(ii).
+Entirely irrespective of their prior breaches, the Defendants are also liable for the
+Termination Amount because they failed to close on the SPA and instead closed on the Seven
+Ventures Transaction. Pursuant to Section 11(b)(vi) and (b)(x), the Defendants could terminate
+the SPA if the Defendants, and their shareholders, decided not to close on the SPA and to instead
+accept an alternative proposal. However, the SPA required the Defendants to pay iGames the
+Termination Amount under such circumstances. (SPA, § 11(e)(ii)). Accordingly, summary
+judgment in favor of iGames for the Termination Amount is appropriate as a matter of law. See,
+e.g. Kysor Indus. Corp. v. Margaux, Inc., 674 A.2d 889, 897 (Del. Super. 1996) (granting
+summary judgment for prospective purchaser for termination fee pursuant to letter of intent
+agreement where selling company instead accepted offer from another purchaser).
+
+39
+
+Case 1:04-cv-00180-KAJ
+
+Document 98
+
+Filed 03/15/2005
+
+Page 44 of 44
+
+CONCLUSION
+WHEREFORE, for the foregoing reasons, iGames respectfully requests that the Court
+enter judgment in its favor finding Chex and Equitex jointly and severally liable for the
+Termination Amount, including all associated costs and fees, or, in the alternative, finding that
+Chex and Equitex were not entitled to terminate the November 3, 2003 Stock Purchase
+Agreement or to claim any damages at trial resulting from the termination of the SPA.
+
+DATED:
+
+March 15, 2005
+
+OF COUNSEL:
+DUANE MORRIS LLP
+Matthew A. Taylor, Esquire
+James L. Beausoleil, Jr., Esquire
+One Liberty Place
+Philadelphia, Pennsylvania 19103-7396
+215.979.1000
+
+DUANE MORRIS LLP
+
+/s/ Thomas P. McGonigle
+Thomas P. McGonigle (Del. I.D. No. 3162)
+Matt Neiderman (Del. I.D. No. 4018)
+1100 North Market Street, 12th Floor
+Wilmington, Delaware 19801
+302.657.4900
+Attorneys for Plaintiff
+iGames Entertainment, Inc.
+
+40
+
+

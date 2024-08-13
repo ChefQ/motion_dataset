@@ -1,0 +1,1374 @@
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Filed 07/20/2009
+
+Page 1 of 33
+
+UNITED STATES DISTRICT COURT
+MIDDLE DISTRICT OF FLORIDA
+TAMPA DIVISION
+____________________________________
+)
+)
+)
+Plaintiff,
+)
+v.
+)
+)
+TOYOTA MOTOR CORPORATION,
+)
+TOYOTA MOTOR SALES, U.S.A., INC., )
+TOYOTA MOTOR ENGINEERING AND )
+MANUFACTURING NORTH AMERICA, )
+INC., AND TOYOTA MOTOR
+)
+MANUFACTURING KENTUCKY, INC., )
+)
+Defendants. )
+____________________________________)
+SOLOMON TECHNOLOGIES, INC.,
+
+CASE NO. 8:05-cv-01702-JDW-MAP
+
+MOTION FOR SUMMARY JUDGMENT OF NONINFRINGEMENT
+
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Filed 07/20/2009
+
+Page 2 of 33
+
+TABLE OF CONTENTS
+I.
+
+INTRODUCTION ...............................................................................................................1
+
+II.
+
+UNDISPUTED FACTS .......................................................................................................1
+
+III.
+
+PROCEDURAL HISTORY.................................................................................................2
+
+IV.
+
+ARGUMENT.......................................................................................................................2
+A.
+
+Summary Judgment Standard ..................................................................................2
+
+B.
+
+Patent Infringement Standard ..................................................................................2
+
+C.
+
+Solomon v. ITC Is Controlling Precedent ................................................................3
+
+D.
+
+1.
+
+The Texas Instruments Case ........................................................................4
+
+2.
+
+The Thomson Case.......................................................................................8
+
+3.
+
+The 3M Case ................................................................................................8
+
+4.
+
+The Fuji Photo Film Case............................................................................9
+
+5.
+
+The Alloc Case .............................................................................................9
+
+Summary Judgment Is Warranted Because the Federal Circuit Held
+That the Accused Toyota Vehicles Do Not Infringe Claim 7................................11
+1.
+
+2.
+
+The Federal Circuit Held That the Accused Vehicles Do Not
+Satisfy the “Power Conversion Means” Limitation...................................12
+a)
+
+The Federal Circuit Determined the Proper
+Construction of the “Power Conversion Means”
+Limitation.......................................................................................12
+
+b)
+
+The Federal Circuit Determined That the Accused
+Vehicles Do Not Infringe...............................................................13
+
+c)
+
+Solomon’s Current Arguments Are Unavailing ............................15
+
+The Federal Circuit Held That the Accused Vehicles Do Not
+Satisfy the “Integral Combination” Limitation..........................................17
+a)
+
+The Federal Circuit Determined the Proper
+Construction of the “Integral Combination” Limitation................17
+
+-i-
+
+Case 8:05-cv-01702-MAP
+
+3.
+
+V.
+
+Document 75
+
+Filed 07/20/2009
+
+Page 3 of 33
+
+b)
+
+The Federal Circuit Determined That the Accused
+Vehicles Do Not Infringe...............................................................19
+
+c)
+
+Solomon’s Current Arguments Invite Legal Error ........................20
+
+The Federal Circuit Held That the Accused Vehicles Do Not
+Satisfy the “Envelope” Limitation .............................................................22
+a)
+
+The Federal Circuit Determined the Proper
+Construction of the Term “Envelope” ...........................................22
+
+b)
+
+The Federal Circuit Determined That the Accused
+Vehicles Do Not Infringe...............................................................23
+
+c)
+
+Solomon’s Current Arguments Are Meritless ...............................24
+
+CONCLUSION..................................................................................................................25
+
+-ii-
+
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Filed 07/20/2009
+
+Page 4 of 33
+
+TABLE OF AUTHORITIES
+CASES
+Al- Site Corp. v. VSI Int'l, Inc.,
+174 F.3d 1308 (Fed. Cir. 1999)........................................................................................... 16
+Alloc, Inc. v. Norman D. Lifton Co.,
+No. 03 Civ. 4419 (PAL), 2007 WL 2089303 (S.D.N.Y. July 18, 2007) .............................. 9
+American Honda Motor Co., Inc. v. Coast Distribution System, Inc.,
+No. C 06-04752 JSW, 2007 WL 672521 (N.D. Cal. Feb. 26, 2007).................................... 7
+Applied Med. Res. Corp. v. U.S. Surgical Corp.,
+448 F.3d 1324 (Fed. Cir. 2006)........................................................................................... 13
+Ballard Med. Prods. v. Allegiance Healthcare Corp.,
+268 F.3d 1352 (Fed. Cir. 2001)........................................................................................... 14
+Baxter Healthcare Corp. v. Spectramed, Inc.,
+49 F.3d 1575 (Fed. Cir. 1995)............................................................................................... 3
+BillingNetwork.com, Inc. v. Cerner Physician Practice, Inc.,
+509 F. Supp. 2d 1172 (M.D. Fla. 2007)................................................................................ 3
+Celotex Corp. v. Catrett,
+477 U.S. 317 (1986).............................................................................................................. 2
+Chiuminatta Concrete Concepts, Inc. v. Cardinal Indus., Inc.,
+145 F.3d 1303 (Fed. Cir. 1998)........................................................................................... 13
+Colida v. Ericsson, Inc.,
+93 Fed. Appx. 220 (Fed. Cir. 2004).................................................................................... 24
+Exxon Chemical Patents, Inc. v. Lubrizol Corp.,
+64 F.3d 1553 (Fed. Cir. 1995)............................................................................................. 24
+FormFactor, Inc. v. Micronics Japan Co., Ltd.,
+No. CV-06-07159JSW, 2008 WL 361128 (N.D. Cal. Feb. 11, 2008).................................. 7
+Fuji Photo Film Co., Ltd. v. Jazz Photo Corp.,
+173 F. Supp. 2d 268 (D.N.J. 2001) ....................................................................................... 9
+
+-ii-
+
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Filed 07/20/2009
+
+Page 5 of 33
+
+In the Matter of Certain Combination Motor and Transmission Systems and Devices Used
+Therein, and Products Containing Same,
+Investigation No. 337-TA-561, 2007 ITC Lexis 377 (ITC February 13, 2007)........ 2, 12-14
+LizardTech, Inc. v. Earth Res. Mapping, Inc.,
+424 F.3d 1336 (Fed. Cir. 2005)........................................................................................... 15
+Mas-Hamilton Group v. LaGard, Inc.,
+156 F.3d 1206 (Fed. Cir. 1998)............................................................................................. 3
+Micro Chemical, Inc. v. Great Plains Chemical Co., Inc.,
+194 F.3d 1250 (Fed. Cir. 1999)........................................................................................... 16
+Minnesota Mining and Mfg. Co., Inc. v. Beautone Specialties Co.,
+117 F. Supp. 2d 72 (D. Mass. 1999) ..................................................................................... 8
+MyMail v. America Online,
+476 F.3d 1372 (Fed. Cir. 2007)........................................................................................... 15
+Newell Cos. V. Kenny Mfg. Co.,
+864 F.2d 757 (Fed. Cir. 1988)............................................................................................... 5
+Odetics, Inc. v. Storage Tech. Corp.,
+185 F.3d 1259 (Fed. Cir. 1999)........................................................................................... 12
+PCTEL, Inc. v. Agere Systems, Inc.,
+No. C03-02474 MJJ, 2006 WL 734385 (N.D. Cal. March 20, 2006) .................................. 7
+Praxair, Inc. v. ATMI, Inc.,
+543 F.3d 1306 (Fed. Cir. 2008)........................................................................................... 24
+Sage Products, Inc. v. Devon Industries, Inc.,
+126 F.3d 1420 (Fed. Cir. 1997)........................................................................................... 16
+Seal-Flex, Inc. v. Athletic Track and Court Const.,
+172 F.3d 836 (Fed. Cir. 1999)............................................................................................. 15
+Solomon Technologies, Inc. v. ITC,
+524 F.3d 1310 (Fed. Cir. 2008).................................................................................... passim
+Texas Instruments Inc. v. Cypress Semiconductor Corp.,
+90 F.3d 1558 (Fed. Cir. 1996)...................................................................................... passim
+
+-iii-
+
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Filed 07/20/2009
+
+Page 6 of 33
+
+Thomson Consumer Electronics, Inc. v. Innovatron, S.A.,
+3 F. Supp. 2d 49 (D.D.C. 1998) ............................................................................................ 8
+Tonkovich v. Kansas Bd. of Regents,
+254 F.3d 941 (10th Cir. 2001) ............................................................................................ 17
+Zodiac Pool Care, Inc. v. Hoffinger Indus., Inc.,
+206 F.3d 1408 (Fed. Cir. 2000)............................................................................................. 3
+Federal Statutes
+28 U.S.C. § 1659....................................................................................................................... 2
+35 U.S.C. § 112............................................................................................................. 3, 12, 13
+Fed. R. Civ. P. 56(c) ................................................................................................................. 2
+
+-iv-
+
+Case 8:05-cv-01702-MAP
+
+I.
+
+Document 75
+
+Filed 07/20/2009
+
+Page 7 of 33
+
+INTRODUCTION
+This motion for summary judgment presents two fundamental legal questions:
+(1)
+
+Are the Federal Circuit’s findings and conclusions in Solomon Technologies,
+
+Inc. v. ITC, 524 F.3d 1310 (Fed. Cir. 2008), binding on this Court?
+(2)
+
+If so, what did the Federal Circuit hold?
+
+Neither of these purely legal questions requires this Court to construe the claim limitations of
+U.S. Patent No. 5,067,932 (“the ’932 patent”) or apply them to the accused vehicles, and it
+would be improper to do so because the answer to the first question is yes.
+Arguably, if the Court answers the first question in the affirmative, it need not answer
+the second question at all. Because the Federal Circuit found no infringement and its holding
+is binding here, this Court need do nothing more than follow the Federal Circuit and grant
+summary judgment of noninfringement. However, if the Court wishes to develop a full
+record for Solomon’s second appeal, Toyota also answers the second question below.1
+Toyota also shows why Solomon’s arguments for second-guessing the Federal Circuit are
+irrelevant here.
+II.
+
+UNDISPUTED FACTS
+This motion is based exclusively on the two legal issues identified above. No facts
+
+outside Solomon v. ITC are material to this motion. To the extent that the Federal Circuit
+made factual findings in Solomon, they are not now subject to dispute by the parties.
+
+1
+
+In this regard, Toyota described in the March 4, 2009 Joint Report the ITC’s and Federal
+Circuit’s rulings and the parties’ arguments there and here (Dkt. 58). Toyota incorporates by
+reference its statements made in the Joint Report.
+
+-1-
+
+Case 8:05-cv-01702-MAP
+
+III.
+
+Document 75
+
+Filed 07/20/2009
+
+Page 8 of 33
+
+PROCEDURAL HISTORY
+Solomon filed its Complaint in this Court on September 12, 2005. (Dkt. 1) On
+
+January 30, 2006, Solomon filed an ITC action and the parties and this Court stayed this
+action under 28 U.S.C. § 1659. (Dkt. 7, 8)
+During the ITC proceedings, the parties engaged in extensive discovery. For
+example, Toyota alone produced approximately 300,000 pages of documents, and the parties
+took over 30 depositions, with no time limit. After a five day trial, the ITC ruled in Toyota’s
+favor, finding that the accused Toyota vehicles do not satisfy any of the four claim
+limitations that Solomon reasserts here, and therefore that such vehicles do not infringe claim
+7 (the only claim asserted at trial). See In the Matter of Certain Combination Motor and
+Transmission Systems and Devices Used Therein, and Products Containing Same (“Solomon
+ITC”), Investigation No. 337-TA-561, 2007 ITC Lexis 377 at *2, 171, 217, 301 (ITC
+February 13, 2007), approved by Comm’r, 72 FR 25776, 25776-77 (ITC May 7, 2007).
+Solomon then appealed. After a de novo review, the Federal Circuit affirmed.
+Solomon did not move for panel rehearing or rehearing en banc, or petition the Supreme
+Court for certiorari. Instead, on July 18, 2008, Solomon moved to reopen this case. (Dkt. 9)
+After considering the parties’ positions, as presented to the Court since that time, this Court
+invited Toyota to file this motion for summary judgment (Dkt. 69).
+IV.
+
+ARGUMENT
+A.
+
+Summary Judgment Standard
+
+A court should grant summary judgment when there is no genuine issue of material
+fact and the moving party is entitled to judgment as a matter of law. Fed. R. Civ. P. 56(c);
+Celotex Corp. v. Catrett, 477 U.S. 317, 322 (1986). This motion involves only legal issues.
+B.
+
+Patent Infringement Standard
+
+Infringement exists only “if each of the limitations of the asserted claim(s) read on,
+
+-2-
+
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Filed 07/20/2009
+
+Page 9 of 33
+
+that is, are found in, the accused [product].” Baxter Healthcare Corp. v. Spectramed, Inc., 49
+F.3d 1575, 1583 (Fed. Cir. 1995). If even a single claim limitation cannot be found in the
+accused product, either literally or under the doctrine of equivalents, there cannot be
+infringement as a matter of law. BillingNetwork.com, Inc. v. Cerner Physician Practice, Inc.,
+509 F. Supp. 2d 1172, 1177-78 (M.D. Fla. 2007); Zodiac Pool Care, Inc. v. Hoffinger Indus.,
+Inc., 206 F.3d 1408, 1414-15 (Fed. Cir. 2000) (affirming no infringement where a limitation
+was lacking); Mas-Hamilton Group v. LaGard, Inc., 156 F.3d 1206, 1211 (Fed. Cir. 1998)
+(“If even one limitation is missing or not met as claimed, there is no literal infringement.”).
+Here, the ITC and the Federal Circuit have already found that several claim
+limitations are absent from the accused Toyota vehicles, specifically, the “power conversion
+means,” “integral combination,” and “envelope” limitations. These limitations appear in
+each of the four claims Solomon now asserts, i.e., independent claim 7 and, by extension,
+dependent claims 8, 10, and 12 (Dkt. 58 at 14-15, 35-36, 49). See 35 U.S.C. § 112, ¶ 4 (“A
+claim in dependent form shall be construed to incorporate by reference all the limitations of
+the claim to which it refers.”). Because several limitations are absent from the asserted
+claims of the ‘932 patent, Toyota cannot be found to infringe.
+C.
+
+Solomon v. ITC Is Controlling Precedent
+
+The Federal Circuit has already decided the meaning of the three claim limitations at
+issue here.2 The Court did not simply “rubber stamp” the ITC’s claim construction, but
+construed these limitations de novo and held that Toyota does not infringe claim 7 of
+2
+
+This motion does not address the “continuously variable” limitation. Although the Federal
+Circuit construed this limitation, the Court omitted this limitation from its affirmance of the
+ITC’s noninfringement holding. Because infringement is impossible unless all limitations
+are present, and because the Federal Circuit affirmed noninfringement based on the absence
+of the three limitations covered by this motion, the “continuously variable” limitation is
+immaterial to this motion and to this Court’s ability to grant summary judgment for Toyota.
+
+-3-
+
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Filed 07/20/2009
+
+Page 10 of 33
+
+Solomon’s patent. Solomon, 524 F.3d at 1310. That holding controls as to claims 8, 10, and
+12 as well because they depend from independent claim 7.
+As the Federal Circuit recognized in Texas Instruments Inc. v. Cypress
+Semiconductor Corp., 90 F.3d 1558, 1569 (Fed. Cir. 1996), discussed below, the “[d]istrict
+courts are not free to ignore holdings of [the Federal Circuit] that bear on cases before them.”
+The Court also held that “[a]s a Court, we are bound to follow our own precedents, and, to
+the extent that we have previously ruled on a matter, a subsequent panel will have powerful
+incentives not to deviate from that prior holding, short of thoroughly justified grounds.” Id.
+Thus, the Federal Circuit’s Solomon ruling is stare decisis here. If this Court construes the
+three claim limitations at issue in this motion and finds different constructions for all three
+limitations, and infringement, the Federal Circuit is unlikely to affirm.
+Even if the Federal Circuit’s Solomon decision were not controlling, Toyota
+respectfully urges this Court to adopt it as accurate and well-reasoned. As the cases
+following Texas Instruments indicate, the Federal Circuit is unlikely to affirm any contrary
+holding.
+1.
+
+The Texas Instruments Case
+
+In 1996, the Federal Circuit decided the appeal from an ITC investigation between
+Texas Instruments and Cypress Semiconductor, where the ITC found patent infringement.
+The Federal Circuit construed Texas Instruments’ patent claims de novo and affirmed the
+ITC. Texas Instruments, 90 F.3d at 1562-63. Texas Instruments also sued the same
+companies for patent infringement in district court. The jury found infringement, but the
+court set aside part of the verdict and found no infringement, based on insufficient evidence.
+Id. at 1562, 1568.
+
+-4-
+
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Filed 07/20/2009
+
+Page 11 of 33
+
+The Federal Circuit then affirmed the district court, stating that ITC decisions have
+no preclusive effect on district courts. But the Federal Circuit did not say that Federal Circuit
+affirmances of ITC decisions have no such effect. Instead, the court said:
+TI also argues that by our denying preclusive effect to ITC determinations and to our
+decisions in appeals from ITC decisions, district courts would be free to ignore our
+decisions. That is not correct. District courts are not free to ignore holdings of this
+court that bear on cases before them.
+Id. at 1569. Nor can the Federal Circuit ignore its own prior rulings:
+Subsequent panels of this court are similarly not free to ignore precedents set by
+prior panels of this court.
+. . . As a court we are bound to follow our own precedents, and, to the extent that we
+have previously ruled on a matter, a subsequent panel will have powerful incentives
+not to deviate from that prior holding, short of thoroughly justified grounds.
+Id. In discussing the doctrine of equivalents, the court also quoted its decision in Newell Cos.
+V. Kenny Mfg. Co., 864 F.2d 757 (Fed. Cir. 1988), as follows: “This court has adopted the
+rule that prior decisions of a panel of the court are binding precedent on subsequent panels
+unless and until overturned in banc.” Texas Instruments, 90 F.3d 1567 (citations omitted).
+As mentioned above, Solomon did not petition for en banc review.
+Solomon has argued that under Texas Instruments, this Court can simply ignore the
+Federal Circuit’s ruling in Solomon because the Federal Circuit upheld an ITC infringement
+holding, and later upheld a noninfringement ruling from the district court between the same
+parties on the same patent. (Dkt. 20 at 4-6) Solomon’s argument oversimplifies Texas
+Instruments and misses its point.
+In fact, in Texas Instruments, the Federal Circuit treated its own affirmance of the
+ITC determination as stare decisis and followed the principles quoted above. Based on two
+key district court findings that it found consistent with its prior affirmance of the ITC ruling,
+the Federal Circuit ruled that:
+Thus, no holding in the prior ITC case or its affirmance by our court precludes our
+affirmance of the district court here.
+
+-5-
+
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Filed 07/20/2009
+
+Page 12 of 33
+
+Texas Instruments, 90 F.3d at 1570. Thus, Federal Circuit affirmances of ITC rulings are
+stare decisis when the same patent is later litigated between the same parties in a district
+court, as in the present case. The Federal Circuit was able to affirm the district court only
+because its holding was not inconsistent with the Federal Circuit’s affirmance of the ITC
+ruling. That is not possible here for two related reasons.
+First, there is a fundamental difference between affirming a district court’s
+noninfringement holding after affirming an earlier ITC infringement holding, as the Federal
+Circuit did in Texas Instruments, and finding infringement after an earlier Federal Circuit
+affirmance of an ITC noninfringement holding, as Solomon wants this Court to do. In the
+Texas Instruments situation, the district court was able to find no infringement even though
+the Federal Circuit previously affirmed the ITC’s infringement holding because the plaintiff
+failed to present sufficient infringement evidence to the district court, and because that court
+made findings consistent with the Federal Circuit holding. By comparison, finding
+infringement here, after the Federal Circuit affirmed the ITC’s noninfringement holding on
+the same claim, based on the same limitations, inherently requires this Court to ignore the
+Federal Circuit’s prior holding. Ruling for Solomon here would require this Court to make
+findings and conclusions fundamentally at odds with the Federal Circuit.
+Second, it is possible to find infringement in the ITC, but not in a later court action, as
+in Texas Instruments, because some claim limitations may not have been challenged in the
+ITC. The converse is not true. Affirming a noninfringement holding, as the Federal Circuit
+did here, means that one or more claim limitations is missing. Such a ruling is absolutely
+dispositive in any later action because all limitations must be present or there is no
+infringement.
+Consider this example. Under a Texas Instruments scenario, the Federal Circuit
+affirms an ITC holding that limitations A, B, and C were met, but other required limitations
+
+-6-
+
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Filed 07/20/2009
+
+Page 13 of 33
+
+D, E, and F were not disputed and therefore were not part of the ITC’s holding or the Federal
+Circuit’s de novo review (see Texas Instruments, 90 F.3d at 1570, “the parties did not litigate
+this [claim 14] claim construction issue in the prior proceeding”). Later, in the district court,
+the defendant raises a new defense that limitation F was not met, the court finds no
+infringement based on such defense, and the Federal Circuit affirms. The Federal Circuit’s
+second holding is not inconsistent with its first because it did not consider limitation F the
+first time around. This would be the “thoroughly justified grounds” blessed by Texas
+Instruments. In contrast, under a Solomon scenario, the Federal Circuit holds on appeal from
+the ITC that limitations A, B, and C are MISSING from the accused product. End of story.
+There is no way to raise a “new” issue that will suddenly make those limitations reappear in
+the accused product, and there is no way for the district court to find that such limitations
+have reappeared without contradicting the Federal Circuit. Simply put, an affirmance of
+infringement may not preclude a later affirmance of noninfringement if a new limitation is
+shown to be missing. But an affirmance of noninfringement precludes any later affirmance
+of infringement because the Federal Circuit has already determined that there is at least one
+missing limitation. Thus, in a Solomon scenario, there can be no “thoroughly justified
+grounds.”
+Three of the four district court cases decided after Texas Instruments on this issue
+have given prior Federal Circuit affirmances of ITC determinations near-preclusive effect,
+and the fourth reached the same conclusion as the Federal Circuit.3
+3
+
+Solomon may also cite PCTEL, Inc. v. Agere Systems, Inc., No. C03-02474 MJJ, 2006 WL
+734385 (N.D. Cal. March 20, 2006), American Honda Motor Co., Inc. v. Coast Distribution
+System, Inc., No. C 06-04752 JSW, 2007 WL 672521 (N.D. Cal. Feb. 26, 2007), and
+FormFactor, Inc. v. Micronics Japan Co., Ltd., No. CV-06-07159JSW, 2008 WL 361128
+(N.D. Cal. Feb. 11, 2008), because it has cited them before. All three of those cases are
+consistent with Texas Instruments, holding that ITC rulings are not binding precedent.
+However, none of these cases involved a Federal Circuit affirmance of an ITC ruling, and
+therefore do not address the stare decisis effect of such appellate decisions.
+
+-7-
+
+Case 8:05-cv-01702-MAP
+
+2.
+
+Document 75
+
+Filed 07/20/2009
+
+Page 14 of 33
+
+The Thomson Case
+
+Thomson Consumer Electronics, Inc. v. Innovatron, S.A., 3 F. Supp. 2d 49 (D.D.C.
+1998), recognized that only ITC determinations lack any preclusive effect, and stated that a
+Federal Circuit affirmance of the parallel ITC case would be given near preclusive effect.4 In
+considering Texas Instruments, the court stated that:
+Regardless of the final outcome before the ITC, its determination will not formally
+have preclusive effect in the instant action. However, if there is appellate review of
+the ITC’s claim construction in this dispute, that will certainly have a pronounced
+effect, and in practical terms the stare decisis effect of appellate review of the ITC
+construction would have near-preclusive effect with respect to any review of this
+Court’s construction.
+Id. at 51 (emphasis added and citation omitted).
+3.
+
+The 3M Case
+
+A year later the issue arose in Minnesota Mining and Mfg. Co., Inc. v. Beautone
+Specialties Co., 117 F. Supp. 2d 72 (D. Mass. 1999), where the court recognized the stare
+decisis effect of the Federal Circuit affirmance of the ITC ruling that Beautone’s products did
+not infringe 3M’s patent. Although the district court stated that under Texas Instruments,
+ITC decisions on patent issues have no issue-preclusion effect in other forums (id. at 82), it
+also observed that:
+Texas Instruments also makes clear that this Court cannot simply ignore the Federal
+Circuit’s decision affirming the ITC finding of no infringement in this case.
+Id. at 83. The district court then construed 3M’s patent claims and analyzed the infringement
+issue “against the background of these earlier proceedings.” Id. Reaching the same
+conclusion as the Federal Circuit, the court then granted Beautone’s motion for summary
+
+4
+
+In Thomson, the ITC case was still pending; the issue arose in a pretrial motion.
+
+-8-
+
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Filed 07/20/2009
+
+Page 15 of 33
+
+judgment on the issue of noninfringement.5 Id. at 92.
+4.
+
+The Fuji Photo Film Case
+
+In 2001, the New Jersey federal court ruled that under Texas Instruments, a Federal
+Circuit affirmance of an ITC determination was only “persuasive” authority. Fuji Photo
+Film Co., Ltd. v. Jazz Photo Corp., 173 F. Supp. 2d 268, 274 (D.N.J. 2001). Apparently,
+however, the district court was persuaded. It reached the same conclusion as the Federal
+Circuit and granted summary judgment for the plaintiff on validity and enforceability.
+Nevertheless, by misinterpreting Texas Instruments, Fuji Photo Film created a split
+among the district courts regarding the stare decisis effect of Texas Instruments. By granting
+summary judgment and dismissing this action, this Court can clear the way for the Federal
+Circuit to resolve this split.
+5.
+
+The Alloc Case
+
+In 2007, the U.S. District Court for the Southern District of New York decided Alloc,
+Inc. v. Norman D. Lifton Co., No. 03 Civ. 4419 (PAC), 2007 WL 2089303 (S.D.N.Y. July
+18, 2007). The Alloc court ruled that Texas Instruments means that a Federal Circuit
+affirmance of an ITC ruling is tantamount to a “command” to the district courts. Id. at *10.
+In Alloc, the Federal Circuit had already construed, de novo, the patent claims on
+review from the ITC. Faced with the issue of what effect it should give to the Federal
+Circuit’s decision, the district court analyzed Texas Instruments, Thomson, 3M, and Fuji
+Photo Film. The court found that Thomson gave near-preclusive effect to Texas Instruments,
+that Fuji Photo Film gave it no deference but did not deviate from the Court’s rulings in the
+
+5
+
+The 3M court wrongly concluded that Texas Instruments holds that Federal Circuit
+affirmances of ITC rulings have no preclusive effect. Texas Instruments’ footnote 9, which
+the 3M court cited to support its interpretation (id. at 82), does not say that Federal Circuit
+affirmances of ITC rulings have no issue-preclusive effect.
+
+-9-
+
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Filed 07/20/2009
+
+Page 16 of 33
+
+Fuji Photo Film ITC appeal, and that 3M was somewhere in between. Id. The court then
+concluded as follows:
+Considering Federal Circuit claim construction rulings in ITC appeals merely for
+their persuasive value is inconsistent both with the clear thrust of Texas Instruments
+and with the general goals of the patent law. The mild deference suggested by
+Minnesota Mining is similarly inadequate. Despite a certain lack of clarity, Texas
+Instruments strongly suggests that future Federal Circuit panels should not deviate
+from prior rulings except on “thoroughly justified grounds.” At a minimum, what
+is a suggestion to future Federal Circuit panels must be understood as a command to
+the district courts. Given the greater authority and capacity of the Federal Circuit, a
+district court should accord prior rulings more deference than would a subsequent
+Circuit panel.
+Id. at *10 (emphasis on “more” in original). Alloc also addressed Federal Circuit findings:
+. . . Deviation from Federal Circuit findings should therefore be considered only
+under unusually compelling circumstances.
+Id. As discussed in Section III.D, infra, there are no such compelling circumstances.
+The Court then considered studies showing the high reversal rate of district court
+claim construction rulings. According to the court, 34.5% to 44% of such rulings were
+reversed during the period after Markman hearings began. Id. From this, the court
+concluded that:
+the simple fact of the district courts’ susceptibility to errant claim construction
+counsels that they should substitute their own judgment for that previously
+expressed by the Federal Circuit with the greatest trepidation.
+Id. The court then held that:
+In sum, the proper interpretation of Texas Instruments in the claim construction
+context is that a district court should afford Federal Circuit claim interpretation on
+appeal from the ITC a strong presumption of correctness, and deviate only where the
+party advancing an alternative interpretation provides compelling reasons to do so.
+
+-10-
+
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Filed 07/20/2009
+
+Page 17 of 33
+
+Id. at *11. The court observed that “[s]uch reasons might include evidence or arguments not
+presented to the Circuit panel.” Id.6 The Alloc court then adopted the Federal Circuit’s claim
+construction.7
+These cases convey a clear message here: Solomon v. ITC is controlling precedent.
+D.
+
+Summary Judgment Is Warranted Because the Federal Circuit Held
+That the Accused Toyota Vehicles Do Not Infringe Claim 7
+
+Toyota describes below the Federal Circuit’s findings and conclusions of no
+infringement by the accused Toyota vehicles, and explains why Solomon’s current arguments
+cannot lead to a different result. Toyota respectfully submits that the Federal Circuit’s
+rulings on each of the three separate claim limitations discussed below are controlling and
+must be followed by this Court. See Tonkovich v. Kansas Bd. of Regents, 254 F.3d 941, 94445 (10th Cir. 2001). Because these three limitations are present in every asserted claim,
+infringement cannot be found unless each limitation is satisfied by the accused vehicles.
+Thus, to find infringement would require this Court to reject the Federal Circuit’s rulings on
+6
+
+According to Solomon’s filings to date, it has no new evidence and simply wishes to rehash
+arguments presented to and decided by the ITC and the Federal Circuit. See § III.D, infra.
+Moreover, for the same reasons there can be no “thoroughly justified grounds,” as discussed
+above with respect to Texas Instruments (§ IV.C.1, supra), there can be no “compelling
+reasons” in a Solomon scenario.
+7
+
+Solomon is likely to quote Alloc’s statement that in Texas Instruments “the Federal Circuit
+ruled that ITC decisions and Federal Circuit decisions on appeal from the ITC, including
+claim construction decisions, had no preclusive effect in subsequent actions involving
+identical patent claims” (id. at *9, emphasis added). The Alloc court was wrong with respect
+to the Texas Instruments’ court’s ruling regarding Federal Circuit affirmances of ITC rulings.
+To support that statement, Alloc cited page 1569 of the Texas Instruments decision. Id.
+Neither page 1569, nor any other page of Texas Instruments, says that Federal Circuit
+affirmances of ITC rulings have no preclusive effect, and page 1569 is where the court stated
+that such affirmances cannot be ignored. The Alloc court’s confusion probably stems from
+the Federal Circuit’s statement on page 1569 that “TI also argues that by our denying
+preclusive effect to ITC determinations and to our decisions in appeals from ITC decisions,
+district courts would be free to ignore our decisions.” Texas Instruments, 90 F.3d at 1569.
+Texas Instruments may have so argued, but the Federal Circuit did not so hold. Indeed, it
+expressly stated that Texas Instruments’ argument was wrong. Id.
+
+-11-
+
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Filed 07/20/2009
+
+Page 18 of 33
+
+each of these three separate claim limitations. Accordingly, summary judgment of
+noninfringement of the asserted claims is clearly warranted.
+1.
+
+The Federal Circuit Held That the Accused Vehicles Do Not
+Satisfy the “Power Conversion Means” Limitation
+
+The Federal Circuit’s ruling on this term is a sufficient, stand-alone basis for
+summary judgment because all of the asserted claims of the ’932 patent require a “power
+conversion means.” (See Dkt. 1 at 15-18) This limitation is expressly recited in independent
+claim 7 (see Dkt. 1, ’932 patent, col. 11:25) and is incorporated into the dependent claims by
+reference. Solomon only asserts claims 7, 8, 10, and 12. Because the Federal Circuit found
+that the accused vehicles do not satisfy this limitation, they cannot possibly infringe any of
+the asserted claims as a matter of law.
+a)
+
+The Federal Circuit Determined the Proper Construction
+of the “Power Conversion Means” Limitation
+
+At the ITC, the parties agreed that:
+A “power conversion means” is a “means-plus-function” limitation that should be
+interpreted in accordance with 35 U.S.C. section 112, paragraph 6. The function of
+the “power conversion means” is “converting said electrical power of said first and
+second inputs for output.”
+There are multiple embodiments that disclose corresponding structure. In the
+embodiment of Figure 3, the corresponding structure includes portions of the field
+elements (21), armatures (22) of two electric motors, disk (23), drive gears (24),
+pinion gear shaft (41), and pinion gears (42). In the embodiment of Figure 4, the
+corresponding structure includes portions of the field elements (21), armatures (22)
+of two electric motors, disks (23 and 33), hub/spacer (26), sun gear (46), ring gear
+(36), and planetary gears (27). In the embodiment of Figure 5, the corresponding
+structure includes portions of the field elements (21), armatures (22) of two electric
+motors, disk (23), sun gear extension (46’), sun gear (46), hub (26’), ring gear (36),
+disk (33), and planetary gears (27). In the embodiment of Figure 6, the
+corresponding structure includes portions of the field elements (21), armatures (22
+and 32) of two electric motors, disks (23 and 33), hub/spacer (26), sun gear (46),
+ring gear (36), and planetary gears (27). This limitation covers the above structures
+and equivalents.
+Solomon ITC at *189-90 (these reference nos. may be seen in Figures 3-6 of the ’932 patent,
+Dkt. 1 at 7-10) On de novo review, the Federal Circuit did not disturb the parties’ agreed-
+
+-12-
+
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Filed 07/20/2009
+
+Page 19 of 33
+
+upon interpretation of “power conversion means,” and therefore implicitly adopted the
+parties’ stipulated meaning and referred to this limitation as “power conversion means.”
+That the Federal Circuit did so is clear; it could not affirm Toyota’s noninfringement of that
+limitation without doing so. See 524 F.3d at 1313, 1317-19.
+b)
+
+The Federal Circuit Determined That the Accused Vehicles
+Do Not Infringe
+
+Special rules apply to determining infringement of a means-plus-function limitation.
+Specifically, such a limitation is deemed to cover only the structure expressly disclosed in the
+patent for performing the claimed function, plus structural equivalents thereof.8 Id.; see also
+Chiuminatta Concrete Concepts, Inc. v. Cardinal Indus., Inc., 145 F.3d 1303, 1308 (Fed. Cir.
+1998). Thus, the question of infringement turns on whether the accused vehicles have either
+the exact combination of components recited above (including the “disk” component) or
+structural equivalents thereof. Applied Med. Res. Corp. v. U.S. Surgical Corp., 448 F.3d
+1324, 1333-34 (Fed. Cir. 2006).
+In the ITC, Solomon did not argue that the Toyota devices have a “disk” structure.
+Rather, Solomon argued that the shaft in Toyota’s devices is equivalent to the required disk
+structure. Solomon ITC, 2007 ITC Lexis 377 at *190 (“It is also argued [by Solomon] that
+respondents’ accused transaxles contain[] structure for carrying out the claimed function that
+is equivalent to the structure disclosed in the ’932 patent.”), *203-209. The figures below
+depict the two structures:
+8
+
+Structural equivalence under 35 U.S.C. § 112, ¶ 6 requires that the accused structure and
+corresponding structure in the patent “perform the identical function in substantially the same
+way, with substantially the same result.” Applied Med., 448 F.3d at 1333-34. The “way” and
+“result” prongs of this analysis are identical to the “way” and “result” prongs of the
+“function/way/result” test under the doctrine of equivalents. Odetics, Inc. v. Storage Tech.
+Corp., 185 F.3d 1259, 1267 (Fed. Cir. 1999). Thus, if an accused structure that was known
+at the time of the invention fails to satisfy either the “way” or “result” prong under 35 U.S.C.
+§ 112, ¶ 6, it also cannot infringe under the doctrine of equivalents as a matter of law. Id.
+
+-13-
+
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Fig. 1 - The “power conversion means” of the
+claimed invention requires a disk (23).
+
+Filed 07/20/2009
+
+Page 20 of 33
+
+Fig. 2 - The accused Toyota vehicles utilize rotor
+shafts—not disks (See Toyota’s Technology
+Tutorial and Dkt. 66)
+
+The ITC found that the accused Toyota vehicles do not satisfy the agreed-upon
+definition of “power conversion means” because the shaft in Toyota’s devices is not
+equivalent to the “disk” structure required by the patent. (Id. at *203) The Federal Circuit
+affirmed, stating that “The administrative law judge found a substantial difference in
+structure between the Toyota devices and the devices described in the specification of the
+’932 patent.” Solomon, 524 F.3d at 1317.
+The ITC also estopped Solomon from arguing that a device containing shafts is
+structurally equivalent to the claimed “power conversion means” under 35 U.S.C. § 112, ¶ 6
+because the inventor, Mr. Edwards, disclaimed the use of shafts during prosecution.
+Solomon ITC, 2007 ITC Lexis 377 at *214-217, relying on Ballard Med. Prods. v. Allegiance
+Healthcare Corp., 268 F.3d 1352, 1359 (Fed. Cir. 2001) (“When a patentee advises the
+examiner . . . that a particular structure is not within his invention, the patentee is not
+permitted to assert in a subsequent infringement action that the same structure is equivalent
+to the structure described in the patentee’s specification for purposes of section 112
+paragraph 6.”).
+The Federal Circuit affirmed the ITC’s finding that the Toyota devices have shafts,
+not disks or any equivalent thereof. Solomon, 524 F.3d at 1317-18 (“We therefore see no
+error in the administrative law judge’s finding that, based on the use of rotor shafts rather
+
+-14-
+
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Filed 07/20/2009
+
+Page 21 of 33
+
+than disks, the Toyota transaxles are not structurally equivalent to the structure disclosed in
+the specification of the ’932 patent.”). Solomon’s sole argument on appeal with respect to
+this limitation was that the ALJ “performed an impermissible component-by-component
+analysis in comparing the accused devices with the structure described in the specification.”
+Id. at 1317. Thus, Solomon challenged only the ITC’s infringement analysis, not its
+construction of this term. The Court rejected that argument. Id. at 1317-18.
+The Federal Circuit also found that the patentee disclaimed the use of shafts. Id. at
+1313 (“The prosecution history could not be clearer in showing a disclaimer of devices that
+use shafts to connect the motor and transmission elements.”) (emphasis added). The Federal
+Circuit concluded its finding that the accused vehicles did not meet this claim limitation as
+follows:
+Every embodiment of the invention disclosed by the patent shows the disk connecting
+the armature to a gear element. That configuration allows a direct power transfer
+from the armature to the gear element in order to generate the rotational mechanical
+power output of the power conversion means. The prosecution history shows that the
+patentee relied on that advantage of a disk over a shaft in order to overcome the prior
+art. We therefore see no error in the administrative law judge’s finding that, based on
+the use of rotor shafts rather than disks, the Toyota transaxles are not structurally
+equivalent to the structure disclosed in the specification of the ’932 patent.
+Solomon, 524 F.3d at 1317-18.
+c)
+
+Solomon’s Current Arguments Are Unavailing
+
+Solomon now argues for the first time that this is not a means-plus-function
+limitation. Solomon makes this argument despite the parties’ previously stipulated meaning,
+which it acknowledges (Dkt. 58 at 16), the ITC’s adoption of such meaning, its failure to
+contest such meaning on appeal, and the Federal Circuit’s implicit adoption of such meaning.
+Solomon cannot erase the decisions of the Federal Circuit and the ITC simply
+because its new counsel wishes to take a different tack. The Federal Circuit has rejected
+similar strategies before. Applied Medical, 448 F.3d at 1332 (on appeal from summary
+judgment of noninfringement, Court refuses patentee’s request to construe means-plus-
+
+-15-
+
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Filed 07/20/2009
+
+Page 22 of 33
+
+function limitation where the district court adopted the patentee’s claim construction);
+MyMail v. America Online, 476 F.3d 1372, 1377-78 (Fed. Cir. 2007) (“Having agreed to that
+construction before the district court, MyMail ‘cannot now argue against that claim
+construction simply because it resulted in an adverse ruling on summary judgment’”)
+(citation omitted), citing LizardTech, Inc. v. Earth Res. Mapping, Inc., 424 F.3d 1336, 1341
+(Fed. Cir. 2005) (“LizardTech agreed to the district court's construction at the time, and it
+cannot now argue against that claim construction simply because it resulted in an adverse
+ruling on summary judgment.”); Seal-Flex, Inc. v. Athletic Track and Court Const., 172 F.3d
+836, 842 (Fed. Cir. 1999) ([W]here, ... the parties agree to a particular construction of the
+claims which is adopted by the district court, and neither party disputes that construction
+on appeal, this court declines to raise an issue sua sponte which the parties have not
+presented on appeal." (emphasis added)). Based on this controlling case law, Solomon has
+no right to change its position, which was affirmed by the Federal Circuit, and ask this Court
+to hold that this is not a means-plus-function limitation.
+Moreover, the Federal Circuit knows its own law. Because the applicability of § 112,
+6 is a threshold issue, IPLITGUIDE § 14:6.1 (2008), citing Sage Products, Inc. v. Devon
+Industries, Inc., 126 F.3d 1420, 1427 (Fed. Cir. 1997) (the first step in construing this type of
+claim element is to determine whether the claim is in the “means-plus function” form), and
+because the Federal Circuit is not bound by parties’ agreements on claim construction in its
+de novo review, Praxair, Inc., 543 F.3d at 1323-24 (“Because the court has an independent
+obligation to construe the terms of a patent, we need not accept the constructions proposed by
+either party. . . .”), it was the Federal Circuit’s province to rule that this is not a means-plus-
+
+-16-
+
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Filed 07/20/2009
+
+Page 23 of 33
+
+function limitation, if it so believed. But it did not do so.9 Instead, the Court confirmed the
+parties’ construction and ruled that Toyota’s vehicles do not meet this limitation and
+therefore do not infringe. Thus, the parties’ previous construction of this term must stand
+and the Federal Circuit’s implicit adoption of such construction and its affirmance of the
+ITC’s noninfingement holding are binding in this action.
+Solomon also argues that “the accused products, in fact, infringe even if the ‘power
+conversion means’ is treated as a means-plus-function element.” (Dkt. 58 at 22) Presumably,
+Solomon argues that this limitation covers shafts that are part of the vehicle motor or
+transmission units, and that the Toyota vehicles meet this limitation. (See Dkt. 20 at 9) This
+argument is irrelevant because, as discussed above, the Federal Circuit held that Solomon
+claims a disk, not a shaft, and that “based on the use of rotor shafts rather than disks, the
+Toyota transaxles are not structurally equivalent to the structure disclosed in the specification
+of the ‘932 patent.” 524 F.3d at 1317-18. Thus, the Toyota vehicles cannot possibly infringe
+under the Federal Circuit’s construction of this claim limitation.
+2.
+
+The Federal Circuit Held That the Accused Vehicles Do Not
+Satisfy the “Integral Combination” Limitation
+a)
+
+The Federal Circuit Determined the Proper Construction
+of the “Integral Combination” Limitation
+
+The term “integral combination” appears in claim 7 of the ’932 patent, and by
+extension, in dependent claims 8, 10, and 12. Specifically, claim 7 recites “a respective
+integral combination of a respective electric motor element and an element of said
+transmission unit.” This term refers to the direct attachment of the motor element (disk 23)
+
+9
+
+Importantly, the Court did adopt a construction of “envelope” that differed from the parties’
+proposed construction. This is further evidence that the Court agreed that “power conversion
+means” is a means-plus-function limitation, as the parties agreed.
+
+-17-
+
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Filed 07/20/2009
+
+Page 24 of 33
+
+to the transmission element (gear 24) in Fig. 3 of the ’932 patent. The Federal Circuit’s
+ruling on this term is a sufficient, stand-alone basis for summary judgment here.
+The Federal Circuit, largely following the ITC’s construction, adopted the following
+construction of the term “integral combination:”
+An electric motor element and a transmission unit element rigidly and directly
+attached without the presence of shafts, [or] bearings or other components between
+the electric motor element and the transmission unit element, supportable by a single
+bearing.
+Solomon, 524 F.3d at 1313.10 The Court emphatically rejected Solomon’s argument that the
+patentee did not disclaim devices with shafts during prosecution of the patent application:
+“The prosecution history could not be clearer in showing a disclaimer of devices that use
+shafts to connect the motor and transmission elements.” Id. The Court quoted the patentee’s
+own arguments to the U.S. Patent Examiner during prosecution as follows:
+Secondly and more importantly, this prior art does not at all teach or in any way
+suggest the feature of the present invention as recited in claims 1 and 2 [issued claim
+7], or in claim 3/2, of the “integral” combination of each armature and respective
+gear element. Namely, in this prior art there are shafts and bearings and other
+elements such as one of the electric motors itself, between each respective pair of
+these two elements.
+Id.
+Solomon’s primary appellate argument against a finding of prosecution disclaimer
+was that the patentee amended the claims in two ways to capture the “integral combination”
+feature of the invention. In claim 1, Solomon argued that the patentee explicitly added a
+
+10
+
+The Federal Circuit noted that “[a] device could be ‘supportable’ by one bearing even
+though it is actually supported by more than one bearing.” Id. Accordingly, the Federal
+Circuit did not agree that the patentee disclaimed multiple bearings by describing the
+invention as being “supportable” by a single bearing. The ITC also found that the patentee
+disclaimed coverage of devices having “other components” between the motor and
+transmission elements. However, the Federal Circuit did not agree that the phrase “other
+components” provided a sufficiently clear basis for a finding of prosecution disclaimer as to
+such other components. Id.
+
+-18-
+
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Filed 07/20/2009
+
+Page 25 of 33
+
+requirement that no shafts or bearings lie between the motor and transmission elements. In
+issued claim 7 (application claim 2), Solomon argued that the patentee added a requirement
+that the motor and transmission elements be “at least to a large [extent] within an envelope
+containing the other.” Solomon argued that the amendment to issued claim 7 sought to
+distinguish over the prior art in a different way from the amendment to claim 1. According to
+Solomon, the amendment to claim 7 sought to distinguish prior art structures having freestanding motors connected to transmission elements located outside the motor. Based on that
+characterization of the prosecution history, Solomon argued that the “no shafts” requirement
+of claim 1 should not be included in the construction of the “integral combination” limitation
+of claim 7. Id. at 1313-14. The Court was not persuaded because “the patentee emphasized
+the absence of a shaft between the motor and transmission elements.” Id. at 1314.
+Solomon also argued to the Federal Circuit that a construction incorporating the
+patentee’s disclaimer of shafts would exclude the preferred embodiment shown in Figure 5,
+which shows a sun gear extension element connected to a rotating disk that is driven by the
+invention’s motor element. Id. Solomon argued that the sun gear extension is a shaft that
+connects the rotating disk carrying the armature elements (the motor elements) to the
+planetary gear set (the transmission unit). Id. The Federal Circuit rejected this argument and
+agreed with the ITC that the correct view of the intrinsic record is that, in light of the
+patentee’s arguments to overcome prior art, the patentee understood the sun gear extension to
+be an element of the transmission unit. Id. Accordingly, the Federal Circuit affirmed the
+ITC’s finding that devices such as the Toyota transaxles were disclaimed because of their use
+of rotor shafts between the motor-generators and the transmission unit. Id.
+b)
+
+The Federal Circuit Determined That the Accused Vehicles
+Do Not Infringe
+
+According to the Federal Circuit, Solomon conceded that the accused transaxles do
+not infringe under the ITC’s construction because “they contain rotor shafts between the
+
+-19-
+
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Filed 07/20/2009
+
+Page 26 of 33
+
+motor-generators and the transmission unit, and because the rotor shafts are not supported by
+a single bearing.” Solomon, 524 F.3d at 1313. The Court also concluded that “the presence
+of the rotor shaft supports the [ALJ’s] determination that the accused devices do not have an
+‘integral combination’ of a motor element and a transmission unit.” Id. at 1314. Thus,
+because the accused Toyota vehicles do not meet this claim limitation, they cannot be found
+to infringe.
+c)
+
+Solomon’s Current Arguments Invite Legal Error
+
+Solomon now argues that this Court should “revisit” and “clarify” the Federal
+Circuit’s construction of this claim term and find that shafts can be part of the claimed
+“integral combination.” (Dkt. 58 at 36-37) Solomon invites clear legal error under
+controlling precedent.
+Solomon is not entitled to revisit the Federal Circuit’s construction of this limitation
+or its finding of noninfringement, and it would be improper for this Court to do so.
+Phonometrics, 21 Fed. Appx. 910, unpublished (quoted with approval in Phonometrics, 350
+F.3d at 1244). In Phonometrics, after the Federal Circuit construed the claims, the plaintiff
+filed another suit against another defendant on the same patent. Affirming the district court’s
+adoption of the Federal Circuit’s claim construction, the court addressed the plaintiff’s
+attempt to revisit the established claim construction as follows:
+This contention is simply baffling. . . . [W]e have already addressed and answered the
+precise question presented in this appeal. Nor will we entertain new arguments such
+as alleged inoperability of the invention when the claims are construed as we have
+construed them, because all such arguments about the meaning of [the construed
+term] either were or could have been made in the earlier appeals. Under principles of
+stare decisis, moreover, future panels like the present panel will follow the claim
+construction set forth by our court in the two decisions cited above and, therefore, we
+would not welcome further appeals seeking to re-litigate the meaning of that
+phrase. Indeed, further appeal on that issue would appear to be subject to possible
+sanctions as frivolously filed under Fed. R. App. P. 38.
+Phonometrics, 21 Fed. Appx. at 911-912 (emphasis added).
+
+-20-
+
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Filed 07/20/2009
+
+Page 27 of 33
+
+AFG Industries, 375 F.3d 1367, is also instructive. On remand, the accused infringer
+challenged the Federal Circuit’s claim construction, arguing that the Court’s remand
+“invite[d] further refinements in the meaning of the [construed term].” Id. at 1372. When
+the case returned to the Federal Circuit, that Court firmly disagreed:
+[The Federal Circuit’s] construction is the law of the case, which “generally bars
+retrial of issues that were previously resolved.” . . . None of the recognized exceptions
+to the law of the case doctrine—“the discovery of new and different material
+evidence that was not presented in the prior action, or an intervening change of
+controlling legal authority, or when the prior decision is clearly incorrect and its
+preservation would work a manifest injustice”—apply in this case.
+Id. Thus, because the district court’s summary judgment of noninfringement hinged on an
+impermissible departure from the Federal Circuit’s claim construction, the Court vacated
+such summary judgment. Id. at 1373.
+Solomon also argues that because the “Federal Circuit plainly understood that shafts,
+like the sun gear extension in Figure 5, could be part of the claimed ‘integral combination’,”
+the Court’s construction should be “clarified to expressly state that shafts are elements of the
+transmission unit or the motor and are not subject to the prosecution disclaimer.” (Dkt. 58 at
+36) But Solomon has it all wrong. The Federal Circuit never called the sun gear extension a
+shaft, and, in fact, found that it is not a shaft. The Court said:
+Solomon argues that the sun gear extension is a shaft that connects the rotating disk
+carrying the armature elements (the motor elements) to the planetary gear set (the
+transmission unit).
+We agree with the [ALJ] that the better view is that, in light of the patentee’s
+statements to overcome the Roe patent, the patentee understood the sun gear
+extension to be an element of the transmission unit. We therefore affirm the
+[ALJ’s] finding that devices such as the Toyota transaxles were disclaimed because of
+their use of rotor shafts between the motor-generators and the transmission unit.
+Solomon, 524 F.3d at 1314 (emphasis added).
+The Federal Circuit’s construction of this limitation is stare decisis and there is no
+basis for this Court to revisit it. The Federal Circuit concluded that the Toyota devices do not
+
+-21-
+
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Filed 07/20/2009
+
+Page 28 of 33
+
+satisfy this claim limitation under this construction, and therefore Solomon is bound by such
+holding. Id.
+3.
+
+The Federal Circuit Held That the Accused Vehicles Do Not
+Satisfy the “Envelope” Limitation
+a)
+
+The Federal Circuit Determined the Proper Construction
+of the Term “Envelope”
+
+The term “envelope” appears in claim 7, and by extension, dependent claims 8, 10,
+and 12. As described in Toyota’s tutorial (filed May 18, 2009), the objective of the ’932
+patent is to yield a compact structure. Claim 7 therefore requires that “each of said integral
+combination involving one of said two respective elements thereof being at least to a large
+extent within an envelope containing the other.” “Envelope” refers to the imaginary space
+within the sweep of the armatures (22) of the motor elements in Fig. 3. The Federal Circuit’s
+ruling on this term is a sufficient, stand-alone basis for summary judgment here.
+The Federal Circuit largely adopted the ITC’s construction of this term but noted that
+“the [ALJ] should have omitted the words ‘so that the power is taken off from inside the
+armature itself’,” resulting in the following construction:
+one of the integral combination elements is contained entirely or nearly entirely
+within the imaginary space defined by the rotation of the other integral combination
+element so that power is taken off from inside the armature itself.
+Solomon, 524 F.3d at 1317.
+The Court also expressly rejected Solomon’s argument that “envelope” requires only
+a “close geometrical overlap.” Recognizing that Solomon’s “main contention on this issue is
+that the [ALJ’s] construction would exclude the preferred embodiment displayed in Figure
+6,” 524 F.3d at 1315, the Court held that:
+Solomon’s competing construction—that the “envelope” requires a “close
+geometrical overlap” among the components—provides little meaningful guidance
+for determining the boundaries of the claimed “envelope.” The ALJ therefore did not
+err in rejecting Solomon’s construction.
+Id. at 1317. In support, the Federal circuit observed that:
+
+-22-
+
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Filed 07/20/2009
+
+Page 29 of 33
+
+Figure 6 shows the combination motor and transmission device with heavy
+cylindrical peripheral masses (28 and 38) acting as flywheels. The transmission
+elements in Figure 6 are the ring gear (36) and the planetary gear hub (26). Neither
+of those elements would lie within the sweep of the armature elements (22) because
+Figure 6 shows the armature elements fixed to the side of the rotating disk rather
+than on the outer perimeter.
+Id. at 1316.
+The Court then addressed the parties’ dispute over whether the patentee was referring
+to Figure 6 when he stated during prosecution that “the respective gear element of each
+respective ‘integral combination’ is approximately within envelope [sic] of the respective
+electrical motor element, as is seen for each illustrated embodiment.” Id. at 1316. The Court
+held that even if the patentee intended to refer to Figure 6, the Court’s construction does not
+necessarily exclude the Figure 6 embodiment. Rather, the Court reasoned that the flywheel
+masses (28 and 38) could be “considered to be the motor elements that define the envelope,
+so that the transmission elements (26 and 36) lie to a large extent within imaginary space
+defined by the rotation of each flywheel mass.” Id. Importantly, the Court also observed that
+the specification’s description of Figure 6 characterizes the flywheel masses as components
+of such inputs, along with the other motor elements. Id. at 1316-17.
+b)
+
+The Federal Circuit Determined That the Accused Vehicles
+Do Not Infringe
+
+Although, as noted above, the Court differed from the ALJ on one point regarding the
+meaning of this term, the Court found this claim limitation was not satisfied, stating that “that
+aspect of the construction does not affect our conclusion as to noninfringement because
+Toyota has shown that its devices have transmission gears outside the imaginary space
+defined by the motors’ magnet assemblies.” Id. The Court therefore concluded that it need
+not find that the ALJ erred in his construction in any respect that affects the issue of
+infringement. Id.
+
+-23-
+
+Case 8:05-cv-01702-MAP
+
+c)
+
+Document 75
+
+Filed 07/20/2009
+
+Page 30 of 33
+
+Solomon’s Current Arguments Are Meritless
+
+Solomon admits that the “Federal Circuit affirmed the ALJ’s construction of
+‘envelope’,” but now argues that it based its ruling on a sua sponte rationale that was
+contrary to the arguments of both parties and inconsistent with Figure 6. Solomon also
+argues that the Federal Circuit’s construction is “fatally flawed because it fails to cover the
+Figure 6 embodiment,” Dkt. 58 at 50, and that this Court should second-guess the Federal
+Circuit’s controlling construction of this limitation because Solomon allegedly had “no
+opportunity” to challenge the Federal Circuit’s ruling.
+Solomon’s “no opportunity” argument is legally wrong. Solomon could have moved
+for reconsideration or petitioned the Supreme Court for certiorari, but chose not to do so.
+Instead, Solomon asks this Court to second-guess the appellate court that has already ruled
+on this very issue and will review it again in any later appeal.
+Moreover, Solomon’s “sua sponte” argument is based on an erroneous view of the
+scope of the Federal Circuit’s de novo review of claim construction rulings. The fact that the
+Court stated a rationale for its construction for the first time on appeal is immaterial. The
+Federal Circuit conducts a de novo review of claim construction issues and is entitled to
+adopt any construction it sees fit on appeal. Moreover, the Court is not bound to adopt either
+party's proposed construction. In fact, trial courts and the Federal Circuit must not do so if
+the parties’ proposed constructions are legally flawed. Praxair, Inc. v. ATMI, Inc., 543 F.3d
+1306, 1323-24 (Fed. Cir. 2008) (“Because the court has an independent obligation to
+construe the terms of a patent, we need not accept the constructions proposed by either
+party”); Exxon Chemical Patents, Inc. v. Lubrizol Corp., 64 F.3d 1553, 1555 (Fed. Cir. 1995)
+(neither party advocated the proper construction; “The duty of the trial judge is to determine
+the meaning of the claims . . . . In the exercise of that duty, the trial judge has an independent
+obligation to determine the meaning of the claims, notwithstanding the views asserted by the
+
+-24-
+
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Filed 07/20/2009
+
+Page 31 of 33
+
+adversary parties.” (citation omitted)); Colida v. Ericsson, Inc., 93 Fed. Appx. 220, 223 (Fed.
+Cir. 2004) (“[c]laim construction is an issue of law reviewed de novo;” threatening sanctions
+if the parties challenge claims construed for the first time on appeal). In this case, the
+Federal Circuit reached the correct construction based on sound reasoning, albeit different
+reasoning than either party proposed.
+Finally, the Federal Circuit also expressly addressed and rejected Solomon’s “Figure
+6” argument. 524 F.3d at 1316.
+Thus, the Federal Circuit’s construction of this limitation is stare decisis in this
+action, and is fully consistent with the ordinary meaning of “envelope” and the embodiment
+of Figure 6. The Federal Circuit held that Toyota’s products do not meet this limitation and
+therefore do not infringe. This Court is bound by that Court’s construction of this limitation
+and its noninfringement holding.
+V.
+
+CONCLUSION
+As explained above, the Federal Circuit has construed the claims of the ’932 patent
+
+and expressly held that, for at least three independent reasons discussed above, Toyota does
+not infringe the ’932 patent. For this Court to find infringement, it would need to ignore the
+judgment and reasoning of the Federal Circuit on all three claim limitations. As stated in
+Texas Instruments and various other cases, this Court should refuse Solomon’s invitation to
+deviate from reasoned and controlling precedent of the Federal Circuit. Accordingly, Toyota
+respectfully urges this Court to apply the claim constructions mandated by the Federal
+Circuit, and grant summary judgment that Toyota does not infringe any asserted claim of the
+’932 patent.
+July 17, 2008
+
+Respectfully submitted,
+/s/ Michael V. O’Shaughnessy____
+Thomas W. Winland
+John F. Hornick
+
+-25-
+
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Filed 07/20/2009
+
+Page 32 of 33
+
+James R. Barney
+Michael V. O'Shaughnessy
+Hayley S. Weimer
+Finnegan, Henderson, Farabow,
+Garrett & Dunner, LLP
+901 New York Ave., NW
+Washington, DC 20001
+Phone: (202) 408-4456
+Fax: (202) 408-4400
+William C. Guerrant, Jr.
+Florida Bar No. 516058
+wguerrant@hwhlaw.com
+Trial Counsel
+HILL, WARD & HENDERSON, P.A.
+Suite 3700 – Bank of America Building
+101 East Kennedy Boulevard
+Post Office Box 2231
+Tampa, Florida 33601
+Telephone: (813) 221-3900
+Facsimile: (813) 221-2900
+
+-26-
+
+Case 8:05-cv-01702-MAP
+
+Document 75
+
+Filed 07/20/2009
+
+Page 33 of 33
+
+CERTIFICATE OF SERVICE
+
+I HEREBY CERTIFY that on July 17, 2009, I electronically filed the foregoing
+with the Clerk of the Court by using the CM/ECF system which will send a notice of
+electronic filing to Katherine C. Conlon, Fowler, White, Bogs, Banker, P.A., 501 East
+Kennedy Boulevard, Suite 1700, Tampa, Florida 33602.
+/s/Michael V. O’Shaughnessy
+Attorney
+
+-27-
+
+

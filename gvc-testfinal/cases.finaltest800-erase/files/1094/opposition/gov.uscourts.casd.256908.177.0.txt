@@ -1,0 +1,1395 @@
+Case 3:07-cv-02000-H-CAB
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+
+Filed 12/21/2007
+
+Page 1 of 14
+
+John E. Gartman (SBN 152300)
+Juanita R. Brooks (SBN 75934)
+Roger A. Denning (SBN 228998)
+Owais A. Siddiqui, (SBN 230004)
+Fish & Richardson P.C.
+12390 El Camino Real
+San Diego, California 92130
+Telephone:
+(858) 678-5070
+Facsimile:
+(858) 678-5099
+Stephen P. McGrath (SBN 202696)
+Microsoft Corporation
+One Microsoft Way
+Redmond, WA 98052
+Telephone:
+(425) 882-8080
+Facsimile:
+(425) 936-7329
+Attorneys for Intervenor/Counter-claimant
+and Plaintiff/Counter-defendant
+MICROSOFT CORPORATION
+UNITED STATES DISTRICT COURT
+
+12
+13
+
+Document 177
+
+SOUTHERN DISTRICT OF CALIFORNIA
+
+16
+
+v.
+
+Case No. 07-CV-2000 H (CAB)
+consisting of matters severed from
+consolidated cases:
+02-CV-2060 B (CAB)
+03-CV-0699 B (CAB)
+03-CV-1108 B (CAB)
+
+17
+
+GATEWAY, INC. and GATEWAY
+COUNTRY STORES LLC, GATEWAY
+COMPANIES, INC., GATEWAY
+MANUFACTURING LLC and
+COWABUNGA ENTERPRISES, INC.,
+
+MICROSOFT CORPORATION'S
+REPLY IN SUPPORT OF ITS
+MOTION FOR SUMMARY
+JUDGMENT OF OBVIOUSNESS OF
+U.S. PATENT NO. 5,347,295
+
+14
+
+LUCENT TECHNOLOGIES INC. and
+MULTIMEDIA PATENT TRUST,
+
+15
+
+18
+19
+
+Plaintiff and Counterclaim-defendant,
+
+20
+
+Defendants and Counter-claimants,
+
+21
+
+and
+
+22
+
+MICROSOFT CORPORATION,
+
+23
+24
+
+Intervenor and Counter-claimant,
+MICROSOFT CORPORATION,
+
+25
+
+Plaintiff and Counter-defendant,
+
+26
+
+v.
+
+27
+
+LUCENT TECHNOLOGIES INC.,
+
+28
+
+Date: January 8, 2008
+Time: 9:30 a.m.
+Dept: Courtroom 13
+Hon. Marilyn L. Huff
+
+Defendant and Counter-claimant,
+
+Case 3:07-cv-02000-H-CAB
+
+1
+2
+3
+4
+5
+6
+
+Document 177
+
+Filed 12/21/2007
+
+Page 2 of 14
+
+LUCENT TECHNOLOGIES INC. and
+MULTIMEDIA PATENT TRUST,
+Plaintiff,
+v.
+DELL, INC.,
+Defendant.
+
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+I.
+
+2
+
+Document 177
+
+Filed 12/21/2007
+
+Page 3 of 14
+
+INTRODUCTION 1
+Microsoft explained in its opening brief, on a limitation-by-limitation basis, how each of
+
+3
+
+the asserted claims of the '295 patent is obvious in light of the prior art. In its opposition, Lucent
+
+4
+
+fails to dispute, and thereby concedes, that the prior art combinations contain the vast majority of
+
+5
+
+the claim limitations. As for those limitations Lucent does contest, Lucent does not raise any
+
+6
+
+genuine dispute of material fact, but instead relies on attorney argument. The undisputed facts
+
+7
+
+show that the well-developed prior art in stylus-based computers renders the asserted claims of the
+
+8
+
+'295 patent invalid for obviousness.
+
+9
+
+II.
+
+10
+
+A.
+
+11
+12
+13
+
+arguments raises a genuine issue of material fact sufficient to defeat summary judgment.
+1.
+
+15
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Claim 1 is obvious in view of the FIDS Paper in light of the Taguchi and Levine
+Patents.
+
+In its opposition, Lucent sets forth only three arguments related to claim 1. None of these
+
+14
+
+16
+
+ARGUMENT
+
+The FIDS Paper, the Taguchi Patent, and the Levine Patent in
+combination teach the use of context-independent gestures recognized
+using shape recognition.
+
+Like the other independent claims – claims 39 and 41 – claim 1 requires that the system
+recognize gestures by comparing gestures drawn by the user to a library of predefined shapes.
+Lucent does not dispute that the relevant prior art references – the FIDS Paper, the Taguchi Patent,
+and the Levine Patent – meet that limitation. Accordingly, there is no doubt that it was obvious to
+one of skill to use a library of predefined shapes to recognize gestures, as required by the claims.
+Unlike the other independent claims, claim 1 then adds a separate, distinct limitation
+requiring the use of context-independent gestures.2 The Court has construed that limitation to
+require the "use of a single set of gestures for identical executable commands at both the operating
+system level and the application level." [Ex. I at 5.] As explained in detail in Microsoft's opening
+1
+
+Dell and Gateway join in this reply brief.
+Claim 1 requires, in relevant part: “said predetermined action being determined by the context
+in which said gesture was used, including a first context in which said action is executed upon an
+operating system level object and a second context in which said action is executed upon an
+application level object.” [See Ex. I at 5.] All references to “Ex. __” herein refer to the
+corresponding exhibit to the Declaration of Owais A. Siddiqui In Support Of Microsoft
+Corporation’s Motion for Summary Judgment of Obviousness of U.S. Patent No. 5,347,295 (Doc.
+No. 85).
+
+2
+
+1
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 177
+
+Filed 12/21/2007
+
+Page 4 of 14
+
+1
+
+brief (at 6-7), the Levine Patent teaches the use of a "touch-and-lift" gesture (e.g., a tap) that has
+
+2
+
+the same command at both the operating system level and the application level. Lucent does not
+
+3
+
+contest that fact, either. Accordingly, in light of the Levine disclosure, one of ordinary skill in the
+
+4
+
+art not only would have known to use a library of predefined shapes to recognize gestures, but that
+
+5
+
+person also would have known to use context-independent gestures, as required by claim 1.
+
+6
+
+Having conceded that the prior art – the FIDS Paper, the Taguchi Patent, and the Levine
+
+7
+
+Patent – disclose both gesture recognition and context-independent gestures, Lucent attempts to
+
+8
+
+obscure the issue by arguing (at 8-9) that Levine's touch-and-lift gesture "is not a recognized
+
+9
+
+gesture within the meaning of the claims because . . . there is no recognition of shapes."
+
+10
+
+Lucent's argument misses the mark because it ignores that one of skill already knew to
+
+11
+
+recognize gestures using shape comparisons, as disclosed in at least the FIDS Paper. Considering
+
+12
+
+– as Lucent concedes – that one of skill also knew about context-independent gestures from the
+
+13
+
+Levine Patent, it would have been obvious for one of skill to use context-independent gestures that
+
+14
+
+are recognized based on shape comparisons. (Ex. D at 168-69.) Lucent did not address this
+
+15
+
+argument in its opposition, because it has no answer. Instead, Lucent attempts to argue (at 8-9)
+
+16
+
+that the Levine Patent does not disclose gestures that are both context-independent and recognized
+
+17
+
+using shape comparison. But Microsoft is not arguing that Levine Patent contains every single
+
+18
+
+limitation on its own and therefore anticipates claim 1 under 35 U.S.C. § 102. Rather, Microsoft's
+
+19
+
+opening brief (at 4-7) explains that the combination of the Levine Patent, the FIDS Paper and the
+
+20
+
+Taguchi Patent renders claim 1 obvious under 35 U.S.C.§ 103. Lucent has not argued the opposite,
+
+21
+
+because it has no argument.
+
+22
+
+Recent Federal Circuit case law supports Microsoft's request for summary judgment of
+
+23
+
+obviousness. In Leapfrog Enterprises, Inc. v. Fisher-Price, Inc., 485 F.3d 1157 (Fed. Cir. 2007),
+
+24
+
+the Federal Circuit affirmed the district court's ruling that a combination of prior art references
+
+25
+
+rendered the asserted claim obvious. The court noted that "[a]n obviousness determination is not
+
+26
+
+the result of a rigid formula disassociated from the consideration of the facts of a case." Id. at
+
+27
+
+1161. Rather, as required by statute, the proper analysis considers whether the claimed "subject
+
+28
+
+matter as a whole would have been obvious," 35 U.S.C. § 103. Thus, the court stepped back and
+2
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 177
+
+Filed 12/21/2007
+
+Page 5 of 14
+
+1
+
+noted that the goal of the claimed device "was to allow a child to press a switch associated with a
+
+2
+
+single letter in a word and hear the sound of the letter as it is used in that word." 485 F.3d at 1161.
+
+3
+
+In concluding that the asserted claim was made obvious by a combination of prior art references,
+
+4
+
+the court noted that the first reference achieved the goal of the claim using mechanical technology
+
+5
+
+and the second reference taught using electronics to update the device of the first reference. Id. at
+
+6
+
+1161-62. The court did not concern itself with whether all the words of a particular limitation of
+
+7
+
+the claim were taught by a single prior art reference; instead, the court analyzed whether the
+
+8
+
+combination of the references would have made the claim obvious. See id. at 1161-63.
+
+9
+
+Similarly, the Court here should decline Lucent's invitation to become distracted by
+
+10
+
+whether the Levine Patent alone discloses "said recognized gestures." Instead, the focus should
+
+11
+
+remain on whether the combination of references would have made the claimed subject matter as a
+
+12
+
+whole obvious to one of ordinary skill in the art. Even if, as Lucent claims, the Levine Patent does
+
+13
+
+not disclose gesture recognition by comparison with a shape, Lucent has already admitted that the
+
+14
+
+FIDS Paper does disclose such gesture recognition. (See Microsoft Opening Br. at 6.) There can
+
+15
+
+be therefore no dispute of material fact that the combination of the FIDS Paper, the Taguchi Patent,
+
+16
+
+and the Levine Patent render obvious the context-independent gestures of Claim 1.
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+2.
+
+The Court's claim construction requires a rear-mounted digitizer,
+which is exactly what the Taguchi Patent discloses.
+
+As Lucent acknowledges (at 14-16), the Court's previous summary judgment rulings found
+there can be no infringement of the '295 patent unless the digitizer is located behind the display.
+Lucent does not dispute that the Taguchi Patent teaches using a rear-mounted digitizer. Indeed,
+Lucent does not even address the Taguchi reference in the section of its brief (at 14-16) relating to
+rear-mounted digitizers. Moreover, Lucent does not dispute that one of skill in the art would have
+known to combine the rear-mounted digitizer of the Taguchi Patent with the system disclosed in
+the FIDS Paper. (See Ex. D at 167-68; cf. Ex. H at 33-36.)
+Microsoft's expert, Dr. Kelly, explained in his expert report that there are only three
+locations to place a digitizer in a stylus-based system: in front of the display, behind the display,
+or separate from the display. (Ex. D at 167-68.) As Dr. Kelly explained: "It would have been
+obvious for one of ordinary skill in the art to try each one of these finite alternatives, and, seeing
+3
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 177
+
+Filed 12/21/2007
+
+Page 6 of 14
+
+1
+
+advantages of the placement of the digitizer behind the display (e.g., reduced parallax, improved
+
+2
+
+durability and optical clarity), it would be obvious to one of skill in the art to combine FIDS with
+
+3
+
+the behind-the-display digitizer of Taguchi." (Id. at 168.) Significantly, Lucent's expert never
+
+4
+
+disagreed with Dr. Kelly's analysis. (Cf. Ex. H at 33-36.) "When there is a design need or market
+
+5
+
+pressure to solve a problem and there are a finite number of identified, predictable solutions, a
+
+6
+
+person of ordinary skill has good reason to pursue the known options within his or her technical
+
+7
+
+grasp. If this leads to the anticipated success, it is likely the product not of innovation but of
+
+8
+
+ordinary skill and common sense." KSR Int'l v. Teleflex Inc., 127 S.Ct. 1727, 1742 (2007).
+
+9
+
+Attacking a straw man, Lucent claims (at 15-16) that Microsoft's positions on invalidity and
+
+10
+
+noninfringement regarding the digitizer are inconsistent. In fact, Microsoft's positions are
+
+11
+
+completely symmetrical. The Court has already agreed with Microsoft that front-mounted
+
+12
+
+digitizers do not infringe the claims. Microsoft here advances that one of skill in the art would
+
+13
+
+have known to combine the rear-mounted digitizer of Taguchi Patent with the FIDS Paper and
+
+14
+
+other prior art to make the claims obvious. (See Ex. D at 167-68.)
+
+15
+16
+
+3.
+
+The prior art uses the same type of central processors as the accused
+products, and Lucent's expert has opined that those processors satisfy
+the claim limitations.
+
+17
+
+In arguing that the prior art does not disclose a "pen position digitizer co-processor" as
+
+18
+
+required by the Court's construction of the claims, Lucent directly contradicts its infringement
+
+19
+
+position in this case. As the plaintiff, Lucent cannot have it both ways: either the accused
+
+20
+
+products do not infringe, because they do not use a co-processor, or the prior art, which uses a
+
+21
+
+central processor just like the accused products, invalidates the claims.
+
+22
+
+The allegedly-infringing products – Tablet PCs – unambiguously do not use a pen position
+
+23
+
+digitizer co-processor, and Lucent admits it. Instead, Lucent's infringement case rests on its
+
+24
+
+expert's opinion that the Tablet PC's central processor (CPU) is "identical" to the pen position
+
+25
+
+digitizer co-processor of the '295 patent claims because they "each are computational hardware
+
+26
+
+programmed to interpret stylus movements as gestures." (Ex. M at 35.) Lucent further argues that
+
+27
+
+there is no substantial difference between performing gesture termination on the system's central
+
+28
+
+processor or on a physically separate co-processor: "If for some reason the fact that program
+4
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 177
+
+Filed 12/21/2007
+
+Page 7 of 14
+
+1
+
+execution and gesture recognition algorithms were performed on different processing cores in the
+
+2
+
+'295 patent is different that performing those algorithms on a single processing core in Tablet PC
+
+3
+
+devices is a difference [sic], this difference makes no difference to operation, is insubstantial, and
+
+4
+
+thus the structures are at a minimum equivalent." (Id. at 35-36.) Citing no support, Lucent
+
+5
+
+concludes that a Tablet PC's CPU executes software to define termination of a gesture, and thus the
+
+6
+
+CPU is at least equivalent to the pen position digitizer co-processor of the '295 patent. (Id. at 36.)
+
+7
+
+Now, in trying to save the '295 patent in light of the prior art, Lucent argues exactly the
+
+8
+
+opposite. There is no dispute that the FIDS Paper discloses an 80186-based CPU. (Ex. B at Fig. 3
+
+9
+
+(depicting a CPU in the block diagram of the FIDS system); id. at 74 (noting that the FIDS system
+
+10
+
+was implemented on "an 80186-based microcomputer workstation"); Ex. D at 85 (same); see also
+
+11
+
+Microsoft Opening Br. at 5.) There is also no dispute that the FIDS Paper describes using software
+
+12
+
+to interpret gesture termination. (Ex. D at 88, 172-173.) Under Lucent's expert's own analysis, the
+
+13
+
+CPU disclosed in the FIDS Paper is "identical" to the pen position digitizer co-processor of the
+
+14
+
+'295 patent because they "each are computational hardware programmed to interpret stylus
+
+15
+
+movements as gestures". (Cf. Ex. M at 35.) Moreover, applying Lucent's position, there is no
+
+16
+
+substantial difference between executing gesture termination software on a central processor and
+
+17
+
+on a separate co-processor; the structures would be equivalent.3 (Cf. id. at 35-36.)
+
+18
+
+As the Federal Circuit noted in Amazon.com, Inc. v. Barnsandnoble.com, Inc., 239 F.3d
+
+19
+
+1343 (Fed. Cir. 2001), a case Lucent itself cites, a patent's claims must be interpreted in the same
+
+20
+
+way for both infringement and validity. Id. at 1351. "A patent may not, like a 'nose of wax,' be
+
+21
+
+twisted one way to avoid anticipation and another to find infringement." Id. (quotation marks and
+
+22
+
+citations omitted). Applying in the validity context the very same approach Lucent advances for
+
+23
+
+infringement, no genuine dispute of fact exists that the system of the FIDS Paper contains a pen
+
+24
+
+position digitizer co-processor to the same extent as Tablet PCs.
+
+25
+26
+27
+28
+
+B.
+
+Claim 3 is obvious in view of the FIDS Paper combined with the Taguchi and
+Levine Patents.
+
+3
+
+Lucent argues in a footnote that CPUs at the time of the alleged invention were not capable of
+performing the role of a co-processor. Tellingly, Lucent cites no support for its claim. Like much
+of the rest of Lucent's opposition, these comments comprise attorney argument that cannot raise a
+dispute of fact sufficient to defeat summary judgment.
+5
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 177
+
+Filed 12/21/2007
+
+Page 8 of 14
+
+Claim 3 depends from claim 1, and it adds the limitation of detecting the proximity of the
+
+2
+
+stylus tip to the screen and displaying an indicator when the stylus is in proximity to the screen.
+
+3
+
+The Taguchi Patent, the same reference that discloses the rear-mounted digitizer required by claim
+
+4
+
+1, also teaches that the rear-mounted digitizer shall detect the proximity of the stylus to the screen.
+
+5
+
+Lucent's expert never disputed that one of skill in the art would have known to combine, in
+
+6
+
+the context of claim 1, the system of the FIDS Paper with the rear-mounted, proximity-detecting
+
+7
+
+digitizer of the Taguchi Patent. (See Microsoft Opening Br. at 5; see also supra at section II.A.2.)
+
+8
+
+Having already made such a combination for one purpose – i.e., the rear-mounted digitizers of the
+
+9
+
+parent claim, claim 1 – common sense dictates that the person of skill in the art would have known
+
+10
+
+to use the very same combination for another purpose – the proximity detection of the daughter
+
+11
+
+claims, claims 3 and 12. "Common sense teaches … that familiar items may have obvious uses
+
+12
+
+beyond their primary purposes…." KSR Int'l v. Teleflex Inc., 127 S.Ct. 1727, 1742. No additional
+
+13
+
+reason to combine is required, and Lucent points to no contrary authority.
+
+14
+
+Lucent's expert, Mr. Ward, argued that there was no explicit motivation to combine the
+
+15
+
+FIDS Paper with the Taguchi Patent for purposes of claim 3 and 12. (See Microsoft Opening Br. at
+
+16
+
+7-8.) The Supreme Court has made clear, however, that an explicit motivation to combine
+
+17
+
+references is not required, and no dispute of fact is raised by Mr. Ward's argument. (Id. at 7.)
+
+18
+
+Nevertheless, such a motivation did exist: rear-mounted proximity-detecting digitizers reduce
+
+19
+
+parallax, one of the problems noted in the FIDS Paper. (Id.; see also Ex. L at 91:2-4 (Q: And
+
+20
+
+having the screen in front of the digitizer reduces parallax? A: Having the screen in front, yes.).)
+
+21
+
+Lucent provides mere attorney argument in its opposition brief, misrepresenting the nature
+
+22
+
+of parallax and proximity-detection. Nevertheless, and even assuming all of Lucent's
+
+23
+
+misstatements to be true, there remains no factual dispute that one of skill in the art would have
+
+24
+
+known to combine the FIDS Paper with the rear-mounted, proximity-detecting digitizer of the
+
+25
+
+Taguchi Patent for purposes of claim 1. (See Microsoft Opening Br. at 5; see also supra at section
+
+26
+
+II.A.2.) Lucent points to no authority requiring that, when the parties do not dispute the reasons
+
+27
+
+for combining references for purposes of a parent claim, a different reason for combining the very
+
+28
+
+same references must nevertheless be identified for purposes of daughter claims depending from
+6
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 177
+
+Filed 12/21/2007
+
+Page 9 of 14
+
+1
+
+the parent claim. Lucent's arguments thus fail to raise a genuine dispute of material fact or
+
+2
+
+otherwise to rebut the case for summary judgment of obviousness of claims 3 and 12.
+
+3
+4
+5
+6
+7
+8
+9
+
+C.
+
+Claim 4 is obvious in view of the FIDS Paper combined with the Taguchi and
+Levine Patents.
+
+Lucent advances no independent arguments that claim 4 is not obvious, relying instead on
+arguments made in connection with claim 1. For the same reasons as those outlined above, Lucent
+fails to raise a genuine dispute of material fact sufficient to defeat summary judgment for claim 4.
+D.
+
+Claim 6 is obvious in view of the FIDS Paper combined with the Taguchi and
+Levine Patents.
+
+Lucent does not dispute that the Taguchi Patent discloses displaying on the screen the
+
+10
+
+shape representing the actual gesture drawn by the user, as required by claims 6 and 43.
+
+11
+
+(Microsoft Opening Br. at 8, 11.) Lucent does not dispute that the FIDS Paper may be combined
+
+12
+
+with the Taguchi Patent for purposes of independent claims 1 and 41, from which claims 6 and 43
+
+13
+
+depend. Despite this, Lucent claims that one of skill in the art would not have known to combine
+
+14
+
+these same two references for purposes of claims 6 and 43. As discussed in section II.B above,
+
+15
+
+Lucent has not articulated any authority for its proposition that when the parties do not dispute the
+
+16
+
+reasons for combining references for purposes of a parent claim, a different reason for combining
+
+17
+
+the very same references must nevertheless be identified for purposes of daughter claims
+
+18
+
+depending from the parent claim. Lucent's argument does not create a dispute of material fact
+
+19
+
+sufficient to defeat summary judgment of obviousness.
+
+20
+
+Lucent's expert's argument against combining the FIDS Paper and the Taguchi Patent for
+
+21
+
+purposes of claims 6 and 43 fails as a matter of law because it relies on an assumption that there
+
+22
+
+must be a motivation to combine references. (Microsoft Opening Br. at 8.) Microsoft noted in its
+
+23
+
+opening brief that, even though no requirement for a motivation to combine references exists, such
+
+24
+
+a motivation does in fact exist here. (Id.) Once again, Lucent responds with attorney argument –
+
+25
+
+ungrounded in the perspective of one of skill in the art – that the FIDS Paper teaches away from a
+
+26
+
+combination with the Taguchi Patent for purposes of claims 6 and 43. For the same reasons as in
+
+27
+
+section II.F below, this attorney argument is insufficient to raise a dispute of material fact.
+
+28
+
+E.
+
+Claim 12 is obvious in view of the FIDS Paper combined with the Taguchi and
+Levine Patents.
+7
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Document 177
+
+Filed 12/21/2007
+
+Page 10 of 14
+
+For the same reasons as those described above in section II.B, Lucent has failed to raise any
+genuine dispute of material fact sufficient to defeat summary judgment with respect to claim 12.
+F.
+
+All the limitations of claim 39 are obvious in view of the FIDS Paper combined
+with the Taguchi Patent and the Buxton Paper.
+
+Claim 39 is similar to claim 1, except instead of requiring context-independent gestures
+(like claim 1), claim 39 requires a compound gesture, i.e., a gesture that is comprised of two other
+gestures. As set forth in Microsoft's opening brief – and undisputed by Lucent – the Buxton Paper
+discloses multiple sets of compound gestures. Accordingly, in light of the Buxton Paper, the FIDS
+Paper and the Taguchi Patent, one of ordinary skill in the art would have found claim 39 obvious.
+In addition to its arguments relating to the rear-mounted digitizer of the Taguchi Patent and
+the pen position digitizer co-processor of the FIDS Paper – both of which are addressed above –
+Lucent presents only a single argument regarding claim 39: that one of ordinary skill would not
+have thought to combine the Buxton reference with the FIDS reference. That argument should be
+rejected. "One of ordinary skill in the art would have seen the obvious benefits in adding the
+gestures and other capabilities of Buxton's stylus-based user interface to the stylus-based user
+interface of FIDS." (Ex. D at 170.) Indeed, the FIDS Paper lists several applications that could
+benefit from the FIDS design, including graphics-based editors such as that described in the
+Buxton Paper. (Id.; Ex. B at 75-76; see also Microsoft Opening Br. at 10.)
+The Court should reject Lucent's attempts to manufacture a factual dispute regarding
+whether the FIDS Paper teaches away from being combined with the Buxton Paper. "A reference
+may be said to teach away when a person of ordinary skill, upon reading the reference, would be
+discouraged from following the path set out in the reference, or would be led in a direction
+divergent from the path that was taken by the applicant." Ormco Corp. v. Align Tech., Inc., 463
+F.3d 1299, 1308 (Fed. Cir. 2006) (citation omitted, emphasis added). Lucent's opposition brief
+presents no analysis from the perspective of a person of ordinary skill. Rather, Lucent presents
+only attorney argument peppered with citations to the FIDS Paper. (See Lucent Opp. at 11-12.)
+Such an approach is insufficient: "Attorney argument asserting a genuine issue of material fact is
+insufficient to oppose successfully a motion for summary judgment. The party opposing the
+motion must point to an evidentiary conflict created on the record at least by a counter statement
+8
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 177
+
+Filed 12/21/2007
+
+Page 11 of 14
+
+1
+
+of a fact or facts set forth in detail in an affidavit by a knowledgeable affiant. Mere denials or
+
+2
+
+conclusory statements are insufficient." Delmarva Power & Light Co. v. U.S., 79 Fed. Cl. 205,
+
+3
+
+217 (Fed. Cl. 2007) (quotations and citation omitted, emphasis added) (citing Barmag Barmer
+
+4
+
+Maschinenfabrik AG v. Murata Mach., Ltd., 731 F.2d 831, 835 (Fed. Cir. 1984)).
+
+5
+
+The lone citation to Lucent's own expert's report does not even support Lucent's contention
+
+6
+
+that the FIDS Paper "discourages" a combination with the Buxton Paper, (Lucent Opp. at 11).
+
+7
+
+Rather, the cited paragraph of Mr. Ward's report alleges merely no teaching, suggestion, or
+
+8
+
+motivation to combine and claims that the Buxton Paper is "even further afield" of the text-editing
+
+9
+
+discussed in the FIDS Paper. (Ex. H at 40.) As explained in Microsoft's opening brief, there is no
+
+10
+
+requirement for a formal motivation to combine, and Lucent's argument fails as a matter of law.
+
+11
+
+(See Microsoft Opening Br. at 10.) Moreover, Mr. Ward's position cuts directly against the FIDS
+
+12
+
+Paper's explicit teaching that a wide range of applications – including graphics-based editors, such
+
+13
+
+as in the Buxton Paper – can be adapted to the FIDS design. (Id. )
+
+14
+
+In sum, Lucent presents mere attorney argument coupled with just a single tenuous cite to
+
+15
+
+its own expert's report. Lucent has failed to raise any genuine issues of material fact sufficient to
+
+16
+
+defeat summary judgment..
+
+17
+18
+19
+20
+21
+22
+23
+
+G.
+
+Claim 40 is obvious in view of the FIDS Paper combined with the Taguchi
+Patent and the Buxton Paper.
+
+Lucent advances no independent arguments that claim 40 is not obvious, relying instead on
+arguments made in connection with claim 39. For the same reasons as those outlined above in
+section II.F, there is no genuine dispute of material fact sufficient to defeat summary judgment.
+H.
+
+All the limitations of claim 41 are obvious in view of the FIDS Paper combined
+with the Taguchi Patent.
+
+In opposition to Microsoft's motion for summary judgment of obviousness of claim 41,
+
+24
+
+Lucent presents only its arguments relating to the rear-mounted digitizer of the Taguchi Patent and
+
+25
+
+the pen position digitizer co-processor of the FIDS Paper. For the same reasons discussed in
+
+26
+
+sections II.A.2 and II.A.3 above, Lucent has not raised any genuine disputes of material fact.
+
+27
+28
+
+I.
+
+Claim 43 is obvious in view of the FIDS Paper combined with the Taguchi and
+Levine Patents.
+
+For the same reasons as those described above in section II.D, Lucent fails to raise any
+9
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+J.
+
+3
+
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Filed 12/21/2007
+
+Page 12 of 14
+
+genuine dispute of material fact sufficient to defeat summary judgment with respect to claim 43.
+
+2
+
+4
+
+Document 177
+
+Claim 46 is obvious in view of the FIDS Paper combined with the Taguchi
+Patent and Coleman Paper.
+
+Claim 46 depends from claim 41 – which requires detecting a gesture's direction of motion
+– and additionally requires the gesture's action to be associated with the direction of motion. As
+discussed in Microsoft's opening brief (at 11-12), claim 46 was obvious to one of skill in light of
+the Coleman Paper – which discloses gestures in which the direction of motion of the recognized
+gesture is associated with the action – along with the FIDS Paper and the Taguchi Paper.
+Contrary to Lucent's assertion, the FIDS Paper did not "consider and reject" the Coleman
+Paper, and Lucent provides only attorney argument, ungrounded in the perspective of someone of
+skill in the art. One of ordinary skill would have seen the obvious benefits in adding the
+directional gestures of the Coleman Patent to the system of the FIDS Paper. (Ex. D at 170-71.)
+For example, the up/down gestures used for scrolling in the Coleman Patent would be useful in the
+system of the FIDS Paper. (Id. at 171.) By arguing that "the FIDS Paper considered but rejected
+the Coleman Paper," (Lucent Opp. Br. at 13), Lucent contradicts its own expert. Attempting to
+downplay the significance of the FIDS Paper's citation of the Coleman Paper, Mr. Ward states
+parenthetically that "FIDS cites Coleman as a historical reference only." (Ex. H at 43.) Even
+Lucent's own expert, then, doesn't make the argument that Lucent advances in its opposition.
+Moreover, Lucent contradicts its own argument. Lucent first alleges that the FIDS Paper
+cannot be combined with the Coleman Paper because the Coleman Paper describes an allegedly
+"more complicated algorithm." (Lucent Opp. at 13.) Lucent then argues that the FIDS algorithm
+rejected the Coleman Paper allegedly because its approach was "more limited." (Id. at 14.) The
+Court should reject Lucent's internally inconsistent argument.
+Lucent's opposition presents the Court with attorney argument that contradicts both itself
+and Lucent's own expert. Such a position clearly cannot raise a genuine issue of material fact
+sufficient to defeat summary judgment.
+III.
+
+CONCLUSION
+For the reasons above, Microsoft respectfully requests the Court to grant summary
+
+judgment that the asserted claims of the '295 patent are obvious under 35 U.S.C. § 103.
+10
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 177
+
+Dated: December 21, 2007
+
+Filed 12/21/2007
+
+Page 13 of 14
+
+FISH & RICHARDSON P.C.
+
+2
+3
+
+By: s/ Owais A. Siddiqui
+Owais A. Siddiqui, (SBN 230004)
+
+4
+5
+
+Attorneys for Intervenor/Counter-claimant
+and Plaintiff/Counter-defendant
+MICROSOFT CORPORATION
+
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+11
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 177
+
+Filed 12/21/2007
+
+Page 14 of 14
+
+CERTIFICATE OF SERVICE
+
+2
+3
+
+The undersigned hereby certifies that a true and correct copy of the above and foregoing
+
+4
+
+document has been served on December 21, 2007 to all counsel of record who are deemed to have
+
+5
+
+consented to electronic service via the Court's CM/ECF system per Civil Local Rule 5.4. Any
+
+6
+
+other counsel of record will be served by electronic mail, facsimile and/or overnight delivery.
+
+7
+8
+9
+10
+11
+
+s/ Owais A. Siddiqui
+Owais A. Siddiqui
+siddiqui@fr.com
+Attorney for Intervenor/Counter-claimant
+and Plaintiff/Counter-defendant
+MICROSOFT CORPORATION
+
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+12
+
+Case No. 07-CV-2000 H (CAB)
+
+

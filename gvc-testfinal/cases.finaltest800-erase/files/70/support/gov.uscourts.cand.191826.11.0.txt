@@ -1,0 +1,1032 @@
+Case 4:07-cv-02363-CW
+
+Document 11
+
+Filed 07/09/2007
+
+Page 1 of 16
+
+1 Henry C. Bunsow (SBN 060707)
+bunsowh@howrey.com
+2 K.T. Cherian (SBN 133967)
+cheriank@howrey.com
+3 Duane H. Mathiowetz (SBN 111831)
+mathiowetzd@howrey.com
+4 Henry C. Su (SBN 211202)
+suh@howrey.com
+5 HOWREY LLP
+525 Market Street, Suite 3600
+6 San Francisco, California 94105
+Telephone: (415) 848-4900
+7 Facsimile: (415) 848-4999
+8 Attorneys for Defendant O2 Micro International Limited
+9
+UNITED STATES DISTRICT COURT
+10
+NORTHERN DISTRICT OF CALIFORNIA
+11
+OAKLAND DIVISION
+12
+MONOLITHIC POWER SYSTEMS, INC.,
+13 a Delaware corporation,
+14
+15
+
+Plaintiff,
+vs.
+
+16 O2 MICRO INTERNATIONAL LIMITED,
+a Cayman Islands corporation,
+17
+Defendant.
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+HOWREY LLP
+
+Def. O2 Micro’s Mot. to Dismiss
+Case No. C 07-02363-CW
+DM_US:20537834_1
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+Case No. C 07-02363-CW
+DEFENDANT O2 MICRO
+INTERNATIONAL LIMITED’S NOTICE
+OF MOTION AND MOTION TO DISMISS
+COMPLAINT FOR LACK OF SUBJECT
+MATTER JURISDICTION;
+MEMORANDUM OF POINTS AND
+AUTHORITIES IN SUPPORT
+Date: Thursday, August 16, 2007
+Time: 2:00 p.m.
+Room: Courtroom 2, 4th Floor
+Judge: Honorable Claudia Wilken
+
+Case 4:07-cv-02363-CW
+
+Document 11
+
+Filed 07/09/2007
+
+Page 2 of 16
+
+TABLE OF CONTENTS
+
+1
+
+Page
+
+2
+
+3 TABLE OF AUTHORITIES....................................................................................................................ii
+4 NOTICE OF MOTION AND MOTION TO DISMISS........................................................................... 1
+5 MEMORANDUM OF POINTS AND AUTHORITIES.......................................................................... 1
+6 I.
+
+INTRODUCTION ........................................................................................................................ 1
+
+7 II.
+
+STATEMENT OF ISSUE TO BE DECIDED ............................................................................. 2
+
+8 III.
+
+STATEMENT OF RELEVANT FACTS..................................................................................... 2
+
+9 IV.
+
+ARGUMENT ............................................................................................................................... 5
+
+10
+
+A.
+
+Legal Standard for Declaratory Judgment Jurisdiction. ................................................... 5
+
+11
+
+B.
+
+The Complaint Fails to State Sufficient Facts Giving Rise to an
+Actual Controversy........................................................................................................... 6
+
+C.
+
+O2 Micro’s Stipulated Dismissal in the ‘2000 Case Extinguished
+Any Actual Controversy Between the Parties Over the ‘129 Patent................................ 7
+
+D.
+
+O2 Micro’s Infringement Claims Against Hon Hai Based on the
+‘129 Patent Do Not Create an Actual Controversy Between O2
+Micro and MPS................................................................................................................. 9
+
+E.
+
+Even If There Is an Actual Controversy with Respect to the ‘129
+Patent, This Court Should Exercise Its Discretion In Declining
+Jurisdiction Over MPS’s Claims. ................................................................................... 11
+
+12
+13
+14
+15
+16
+17
+18 V.
+
+CONCLUSION .......................................................................................................................... 12
+
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+HOWREY LLP
+
+Def. O2 Micro’s Mot. to Dismiss
+Case No. C 07-02363-CW
+DM_US:20537834_1
+
+-i-
+
+Case 4:07-cv-02363-CW
+
+Document 11
+
+Filed 07/09/2007
+
+Page 3 of 16
+
+TABLE OF AUTHORITIES
+
+1
+
+Page
+
+2
+3 CASES
+
+4 Aetna Life Ins. Co. v. Haworth,
+300 U.S. 227 (1937) ................................................................................................................... 12
+5
+Amana Refrigeration, Inc. v. Quadlux, Inc.,
+172 F.3d 852 (Fed. Cir. 1999) ...................................................................................................... 8
+6
+7 BP Chems. Ltd. v. Union Carbide Corp.,
+4 F.3d 975 (Fed. Cir. 1993) .................................................................................................. 10, 11
+8
+EMC Corp. v. Norand Corp.,
+89 F.3d 807 (Fed. Cir. 1996) .............................................................................................. 5, 6, 11
+9
+10 Foster v. Hallco Mfg. Co., Inc.,
+947 F.2d 469 (Fed. Cir. 1991) ...................................................................................................... 8
+11
+Intellectual Property Dev., Inc. v. TCI Cablevision of California,
+248 F.3d 1333 (Fed. Cir. 2001) ............................................................................................ 10, 12
+12
+13 Lee v. City of Los Angeles,
+250 F.3d 668 (9th Cir. 2001) ........................................................................................................ 3
+14
+Maryland Casualty Co. v. Pacific Coal & Oil Co.,
+312 U.S. 270 (1941) ..................................................................................................................... 5
+15
+16 MedImmune, Inc. v. Genentech, Inc.,
+127 S. Ct. 764 (2007) ............................................................................................................. 5, 12
+17
+Microchip Tech. Inc. v. Chamberlain Group, Inc.,
+441 F.3d 936 (Fed. Cir. 2006) ................................................................................................ 9, 10
+18
+19 Minnesota Mining & Mfg. Co. v. Norton Co.,
+929 F.2d 670 (Fed. Cir. 1991) .................................................................................................... 12
+20
+Safe Air for Everyone v. Meyer,
+373 F.3d 1035 (9th Cir. 2004) ...................................................................................................... 6
+21
+22 SanDisk Corp. v. STMicroelectronics, Inc.,
+480 F.3d 1372 (Fed. Cir. 2007) ............................................................................................ 5, 8, 9
+23
+Savage v. Glendale Union High Sch.,
+343 F.3d 1036 (9th Cir. 2003))..................................................................................................... 6
+24
+25 Serco Servs. Co. v. Kelley Co.,
+51 F.3d 1037 (Fed. Cir. 1995) ...................................................................................................... 6
+26
+Sharper Image Corp. v. Honeywell Int’l, Inc.,
+No. C 02-4860-CW, C 04-0529-CW, 2005 U.S. Dist. LEXIS 32425 (N.D.
+27
+Cal. Aug. 31, 2005) ...................................................................................................................... 8
+28
+HOWREY LLP
+
+Def. O2 Micro’s Mot. to Dismiss
+Case No. C 07-02363-CW
+DM_US:20537834_1
+
+- ii -
+
+Case 4:07-cv-02363-CW
+
+Document 11
+
+Filed 07/09/2007
+
+Page 4 of 16
+
+1 Super Sack Mfg. Corp. v. Chase Packaging Corp.,
+57 F.3d 1054 (Fed. Cir. 1995) ...................................................................................................... 8
+2
+Wilton v. Seven Falls Co.,
+515 U.S. 277 (1995) ............................................................................................................... 5, 11
+3
+4 Wolfe v. Strankman,
+392 F.3d 358 (9th Cir. 2004) ........................................................................................................ 6
+5
+STATUTES
+6
+28 U.S.C. § 2201(a) (2007) ...................................................................................................................... 5
+7
+RULES
+8
+Fed. R. Civ. P. 12(b)(1) ............................................................................................................................ 6
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+HOWREY LLP
+
+Def. O2 Micro’s Mot. to Dismiss
+Case No. C 07-02363-CW
+DM_US:20537834_1
+
+- iii -
+
+Case 4:07-cv-02363-CW
+
+Document 11
+
+Filed 07/09/2007
+
+Page 5 of 16
+
+NOTICE OF MOTION AND MOTION TO DISMISS
+
+1
+
+PLEASE TAKE NOTICE that on Thursday, August 16, 2007, at 2:00 p.m., before the
+
+2
+
+3 Honorable Claudia Wilken in Courtroom 2, 4th Floor, 1301 Clay Street, Oakland, California,
+4 Defendant O2 Micro International Limited (“O2 Micro”) will move, and hereby does move, to dismiss
+5 Plaintiff Monolithic Power Systems, Inc.’s (“MPS”) Complaint under Rule 12(b)(1) of the Federal
+6 Rules of Civil Procedure.
+O2 Micro moves to dismiss MPS’s Complaint on the ground that this Court lacks subject
+
+7
+
+8 matter jurisdiction over MPS’s claims for declaratory relief relating to U.S. Patent No. 6,804,129 (“the
+9 ‘129 patent”). Alternatively, O2 Micro moves to dismiss the Complaint on the ground that this Court
+10 can and should exercise its discretion in declining jurisdiction over MPS’s declaratory judgment
+11 action. This Motion is based on the Memorandum of Points and Authorities below, the accompanying
+12 Declarations of Henry C. Su and Robert M. Harkins, all attached exhibits, the oral arguments of
+13 counsel, and all other pleadings and matters of record in this action. A proposed Order also
+14 accompanies this Motion, as required by Civil Local Rule 7-2(c).
+MEMORANDUM OF POINTS AND AUTHORITIES
+
+15
+16 I.
+
+INTRODUCTION
+
+17
+
+In its Complaint, MPS seeks a declaration of its rights with respect to O2 Micro’s ‘129 patent.
+
+18 But it has no basis for filing this declaratory judgment action. As this Court will recall, just six and a
+19 half months ago O2 Micro and MPS resolved any dispute between them concerning the ‘129 patent
+20 with a stipulated dismissal with prejudice of O2 Micro’s infringement claims against MPS in Case No.
+21 C 06-02929-CW (Doc. No. 579). 1 In the stipulation, O2 Micro agreed never to assert the ‘129 patent
+22 against MPS.
+23
+
+Since the parties’ execution of the stipulated dismissal in October 2006, O2 Micro has abided
+
+24 by its covenant not to sue and made no further assertions that MPS infringes the ‘129 patent.
+25 Accordingly, there is no substantial controversy, between two parties with adverse legal interests, of
+26
+27
+28
+
+1 That action was previously consolidated with Case No. C 04-02000-CW, which is the lead case.
+
+HOWREY LLP
+
+Def. O2 Micro’s Mot. to Dismiss
+Case No. C 07-02363-CW
+
+-1-
+
+Case 4:07-cv-02363-CW
+
+Document 11
+
+Filed 07/09/2007
+
+Page 6 of 16
+
+1 sufficient immediacy and reality to warrant the issuance of a declaratory judgment. This Court
+2 therefore lacks the requisite subject matter jurisdiction under the Declaratory Judgment Act to entertain
+3 MPS’s claims, and the Complaint must be dismissed. Alternatively, even if subject matter jurisdiction
+4 were present under the Act, the Court can and should decline, in the interest of sound judicial
+5 administration, to exercise such jurisdiction over MPS’s wholly speculative claims.
+6 II.
+
+STATEMENT OF ISSUES TO BE DECIDED
+
+7
+
+This Motion presents the following issues for decision:
+
+8
+
+(1)
+
+Does an actual controversy sufficient to support declaratory judgment jurisdiction exist
+
+9 between O2 Micro and MPS concerning the ‘129 patent, when O2 Micro previously agreed not to
+10 assert the ‘129 patent against MPS, and has since made no further assertions of infringement of the
+11 ‘129 patent against MPS? As explained below, the answer is no. MPS’s Complaint should therefore
+12 be dismissed.
+(2)
+
+13
+
+Even if the facts as alleged were sufficient to support declaratory judgment jurisdiction,
+
+14 should this Court nevertheless decline to exercise such jurisdiction, consistent with the objectives of
+15 the Declaratory Judgment Act and in the interest of sound judicial administration? As explained
+16 below, the answer is yes. MPS’s Complaint should therefore be dismissed.
+17 III.
+
+STATEMENT OF RELEVANT FACTS
+
+18
+
+O2 Micro owns the ‘129 patent through assignment. (Declaration of Henry C. Su [“Su Decl.”]
+
+19 Ex. A (‘129 patent).) It previously asserted the ‘129 patent against MPS in the action styled O2 Micro
+20 Int’l Ltd. v. Monolithic Power Sys., Inc., Case No. C 06-02929-CW (Doc. No. 39), which is still
+21 pending in this Court and has been consolidated with a related action, Case No. C 04-02000-CW
+22 (together, the “‘2000 Case”). (Su Decl. Ex. B (07/26/06 3d Amended Compl. ¶¶ 12-15).)
+23
+
+On October 11, 2006, this Court dismissed O2 Micro’s ‘129 patent infringement claim against
+
+24 MPS with prejudice, pursuant to a Stipulated Dismissal with Prejudice of First Count of O2 Micro’s
+25 Third Amended Complaint for Patent Infringement and Unfair Competition (“Stipulated Dismissal”)
+26 signed by the parties in the ‘2000 Case (Doc. No. 579). (Su Decl. Ex. C (10/11/06 Stipulated
+27
+28
+HOWREY LLP
+
+Def. O2 Micro’s Mot. to Dismiss
+Case No. C 07-02363-CW
+
+-2-
+
+Case 4:07-cv-02363-CW
+
+Document 11
+
+Filed 07/09/2007
+
+Page 7 of 16
+
+1 Dismissal).) 2 In the Stipulated Dismissal, O2 Micro agreed to dismiss with prejudice its claims of
+2 infringement of the ‘129 patent against MPS and the other named defendants and not to sue them again
+3 on the ‘129 patent:
+4
+5
+6
+7
+8
+9
+
+Specifically, O2 Micro covenants not to assert or reassert its ‘129 patent against named
+defendants for infringement by MPS full bridge inverter controllers (and products
+incorporating said controllers) made, used, imported, offered for sale or sold previously
+or currently having product designations MP1010, MP1010B, MP1011, MP1012,
+MP1013, MP1015, MP 1016, MP1018, MP1022, MP1023, MP1024, MP1025, MP1026,
+MP1027, MP1029, MP1030, MP1031, MP1032, MP1035 and MP1038, evaluation
+boards EV0001, EV0002, EV0003, EV0004, EV0014, EV0017, EV0019, EV0027,
+EV0031 and EV0037 incorporating certain of those inverter controllers, Asustek products
+incorporating the MP1010B, MP1011, MP1015 and/or MP1037 inverter controller chips,
+and Compal’s products incorporating the MP101, MP1010B, MP1015, MP1016, and/or
+MP1037 inverter chips.
+
+10 (Id. at 1:6-15.) The list of MPS products identified in the Stipulated Dismissal constituted all of the
+11 MPS products that O2 Micro had accused of infringing the ‘129 patent in the ‘2000 Case. (Su Decl.
+12 Ex. D (08/07/06 O2 Micro’s Amended Prelim. Infring. Contentions, at 1).)
+13
+
+O2 Micro has abided by the terms of the Stipulated Dismissal since its execution in October
+
+14 2006. Specifically, and contrary to the allegations of the Complaint, (Compl. ¶¶ 8-9), it has not
+15 reasserted the ‘129 patent against MPS, ASUSTek Computer Inc. (“ASUSTek”) or Compal
+16 Electronics, Inc. (“Compal”) or filed a new lawsuit accusing any of them of infringing the ‘129 patent.
+17 (Declaration of Robert M. Harkins [“Harkins Decl.”] ¶ 4.) Nor has O2 Micro, contrary to the
+18 allegations of the Complaint, (Compl. ¶¶ 10-11), asserted the ‘129 patent against any MPS products
+19 that have not heretofore been accused of infringing the ‘129 patent in any pending lawsuit, that is,
+20 products outside the scope of the Stipulated Dismissal. (Id.)
+21
+
+Despite the absence of any new assertion by O2 Micro of its ‘129 patent rights, MPS filed the
+
+22 present Complaint on May 1, 2007. (Doc. No. 1.) Even though it was already engaged in litigation
+23 with O2 Micro in this Court, MPS did not serve the Complaint on O2 Micro until June 18, 2007. (Su
+24 Decl. ¶ 8.) The Complaint contains only two claims for relief under the Declaratory Judgment Act, 28
+25
+26
+2 O2 Micro requests that this Court take judicial notice of the pleadings and orders from its own docket. See Lee v. City of
+
+27 Los Angeles, 250 F.3d 668, 689 (9th Cir. 2001) (“A court may take judicial notice of ‘matters of public record’ without
+28
+
+converting a motion to dismiss into a motion for summary judgment.”).
+
+HOWREY LLP
+
+Def. O2 Micro’s Mot. to Dismiss
+Case No. C 07-02363-CW
+
+-3-
+
+Case 4:07-cv-02363-CW
+
+Document 11
+
+Filed 07/09/2007
+
+Page 8 of 16
+
+1 U.S.C. § 2201—one for a declaratory judgment that MPS does not infringe any valid claim of the ‘129
+2 patent, (Compl. ¶¶ 13-15), and the other for a declaratory judgment that the ‘129 patent is
+3 unenforceable due to inequitable conduct, (id. ¶¶ 16-51).
+4
+
+The Complaint does not specify what conduct by O2 Micro, if any, taken after the filing of the
+
+5 Stipulated Dismissal, has created an actual controversy under Article III of the Constitution. It alleges
+6 generally that “O2 Micro has repeatedly asserted its patents against MPS, MPS’s customers, and end7 users of MPS’s power inverter controller products” and that “O2 Micro has filed lawsuits against MPS,
+8 MPS’s customers, and end-users of MPS’s power inverter controller products, in which MPS products
+9 have been accused of infringing O2 Micro patents, including the ‘129 patent.” (Compl. ¶¶ 8-9.) But
+10 any such assertions were made, and the corresponding lawsuits were filed, before the filing of the
+11 Stipulated Dismissal. (Harkins Decl. ¶ 5.)
+12
+
+For example, prior to the filing of the Stipulated Dismissal, O2 Micro also asserted the ‘129
+
+13 patent in a separate lawsuit against Hon Hai Precision Industry Co., Ltd. (“Hon Hai”), Case No. 2:0514 cv-00323-TJW-CE (E.D. Tex.). The pendency of this lawsuit does not affect the validity of the
+15 Stipulated Dismissal; even though O2 Micro continues to assert the ‘129 patent against Hon Hai based
+16 on Hon Hai’s use of various MPS inverter controllers identified in the Stipulated Dismissal, O2 Micro
+17 cannot bring suit against MPS for infringement based on the same controllers. (Harkins Decl. ¶ 6.)
+18
+
+The Complaint also alleges vaguely that “MPS has developed power inverter controller
+
+19 products that are not accused of infringing in any pending lawsuit” and “[o]n information and belief,
+20 O2 Micro contends that these products, and devices built using these products, infringe one or more of
+21 the ‘129 patent’s claims and that those claims are valid and enforceable.” (Compl. ¶¶ 10-11.) These
+22 allegations are also facially insufficient and factually incorrect. The Complaint does not identify what
+23 products are supposedly in controversy, or what communication or conduct by O2 Micro evidences a
+24 present contention that these unidentified products infringe the ‘129 patent. MPS cannot point to any
+25 evidence that O2 Micro has made such a contention because there is none. (Harkins Decl. ¶ 7.)
+26
+27
+28
+HOWREY LLP
+
+Def. O2 Micro’s Mot. to Dismiss
+Case No. C 07-02363-CW
+
+-4-
+
+Case 4:07-cv-02363-CW
+
+Document 11
+
+Filed 07/09/2007
+
+Page 9 of 16
+
+1 IV.
+
+ARGUMENT
+
+2
+
+A.
+
+3
+
+The Declaratory Judgment Act provides that “[i]n a case of actual controversy within its
+
+Legal Standard for Declaratory Judgment Jurisdiction.
+
+4 jurisdiction . . . any court of the United States, upon the filing of an appropriate pleading, may declare
+5 the rights and other legal relations of any interested party seeking such declaration, whether or not
+6 further relief is or could be sought.” 28 U.S.C. § 2201(a) (2007). In other words, the Act “requires an
+7 actual controversy between the parties before a federal court may exercise jurisdiction over an action
+8 for a declaratory judgment.” EMC Corp. v. Norand Corp., 89 F.3d 807, 810 (Fed. Cir. 1996).
+9
+
+The Declaratory Judgment Act’s “actual controversy” requirement is rooted in Article III of the
+
+10 federal Constitution, which provides for federal jurisdiction over only “cases and controversies.”
+11 SanDisk Corp. v. STMicroelectronics, Inc., 480 F.3d 1372, 1378 (Fed. Cir. 2007). Specifically, an
+12 “actual controversy” exists if “‘the facts alleged, under all the circumstances, show that there is a
+13 substantial controversy, between parties having adverse legal interests, of sufficient immediacy and
+14 reality to warrant the issuance of a declaratory judgment.’” Id. (quoting MedImmune, Inc. v.
+15 Genentech, Inc., 127 S. Ct. 764, 771 (2007), which in turn quotes from Maryland Casualty Co. v.
+16 Pacific Coal & Oil Co., 312 U.S. 270, 273 (1941)). In the context of a patent infringement action, this
+17 “actual controversy” requirement translates to a factual showing of a situation “where a patentee
+18 asserts rights under a patent based on certain identified ongoing or planned activity of another party,
+19 and where that party contends that it has the right to engage in the accused activity without license[.]”
+20 Id. at 1381.
+21
+
+Even if a district court concludes that it has proper jurisdiction over a declaratory judgment
+
+22 action, it has “unique and substantial discretion” in deciding whether to accept or decline jurisdiction
+23 over the case. Wilton v. Seven Falls Co., 515 U.S. 277, 286 (1995). Under Federal Circuit law, a
+24 district court has broad discretion to dismiss a declaratory judgment action as long as the court “acts in
+25
+26
+27
+28
+HOWREY LLP
+
+Def. O2 Micro’s Mot. to Dismiss
+Case No. C 07-02363-CW
+
+-5-
+
+Case 4:07-cv-02363-CW
+
+Document 11
+
+Filed 07/09/2007
+
+Page 10 of 16
+
+1 accordance with the purposes of the Declaratory Judgment Act and the principles of sound judicial
+2 administration.” EMC, 89 F.3d at 813-14. 3
+3
+B.
+4
+5
+
+The Complaint Fails to State Sufficient Facts Giving Rise to an Actual
+Controversy.
+
+With this Motion, O2 Micro mounts both a facial attack and a factual attack on the existence of
+
+6 declaratory judgment jurisdiction under Rule 12(b)(1) of the Federal Rules of Civil Procedure. “In a
+7 facial attack, the challenger asserts that the allegations contained in a complaint are insufficient on
+8 their face to invoke federal jurisdiction. By contrast, in a factual attack, the challenger disputes the
+9 truth of the allegations that, by themselves, would otherwise invoke federal jurisdiction.” Safe Air for
+10 Everyone v. Meyer, 373 F.3d 1035, 1039 (9th Cir. 2004).
+11
+
+In resolving a facial attack on jurisdiction, the district court takes the allegations of the
+
+12 complaint to be true because “[w]hether subject matter jurisdiction exists . . . does not depend on
+13 resolution of a factual dispute, but rather on the allegations in [the] complaint.” Wolfe v. Strankman,
+14 392 F.3d 358, 362 (9th Cir. 2004). “In resolving a factual attack on jurisdiction, the district court may
+15 review evidence beyond the complaint without converting the motion to dismiss into a motion for
+16 summary judgment.” Safe Air, 373 F.3d at 1039. “‘Once the moving party has converted the motion
+17 to dismiss into a factual motion by presenting affidavits or other evidence properly brought before the
+18 court, the party opposing the motion must furnish affidavits or other evidence necessary to satisfy its
+19 burden of establishing subject matter jurisdiction.’” Id. (quoting Savage v. Glendale Union High Sch.,
+20 343 F.3d 1036, 1039 n.2 (9th Cir. 2003)).
+21
+
+Focusing first on the facial attack, O2 Micro submits that the allegations in the Complaint are
+
+22 insufficient on their face to invoke declaratory judgment jurisdiction. As MedImmune and SanDisk
+23 make clear, “the facts alleged, under all the circumstances, [must] show that there is a substantial
+24 controversy, between parties having adverse legal interests, of sufficient immediacy and reality to
+25 warrant the issuance of a declaratory judgment.” Here the allegations fail to identify any assertion
+26
+27
+28
+
+3 Federal Circuit law governs the issue of whether a district court should accept or decline jurisdiction over a declaratory
+
+judgment action in a patent case. See, e.g., Serco Servs. Co. v. Kelley Co., 51 F.3d 1037, 1038 (Fed. Cir. 1995).
+
+HOWREY LLP
+
+Def. O2 Micro’s Mot. to Dismiss
+Case No. C 07-02363-CW
+
+-6-
+
+Case 4:07-cv-02363-CW
+
+Document 11
+
+Filed 07/09/2007
+
+Page 11 of 16
+
+1 made or any lawsuit brought by O2 Micro following the filing of the Stipulated Dismissal and
+2 involving the ‘129 patent that would give rise to a “substantial controversy” between O2 Micro and
+3 MPS of “sufficient immediacy and reality.” Furthermore, they do not point specifically to any
+4 assertion by O2 Micro of its rights under the ‘129 patent “based on certain identified ongoing or
+5 planned activity of [MPS].” Put another way, the Complaint does not identify any MPS inverter
+6 controller product “not accused of infringing in any pending lawsuit” that O2 Micro presently contends
+7 is infringing the ‘129 patent. Nor does it identify any specific contention of infringement by O2 Micro
+8 outside of any pending lawsuit.
+9
+
+Without such crucial details in the Complaint, this Court cannot conclude that there is a
+
+10 “substantial controversy” between O2 Micro and MPS of “sufficient immediacy and reality.” The
+11 adjectives first used by the Supreme Court in Maryland Casualty to describe an “actual controversy,”
+12 i.e., “substantial,” “immediate,” and “real,” demand much more specificity than what the vague
+13 allegations in the Complaint have provided. Indeed, the utter lack of detail in the Complaint should
+14 give this Court pause that the purported controversy pled by MPS is insubstantial, remote, and
+15 imagined—the very antithesis of what the Declaratory Judgment Act permits federal courts to resolve.
+16
+
+The Complaint should therefore be dismissed for failure to adequately plead subject matter
+
+17 jurisdiction under the Declaratory Judgment Act.
+18
+C.
+19
+20
+
+O2 Micro’s Stipulated Dismissal in the ‘2000 Case Extinguished Any Actual
+Controversy Between the Parties Over the ‘129 Patent.
+
+Even if this Court concludes that the Complaint’s jurisdictional allegations are on their face
+
+21 sufficient under MedImmune and SanDisk, they are nonetheless factually incorrect and contested by
+22 O2 Micro. Remarkably, the allegations fail to reconcile their bald claim of an actual controversy with
+23 the Stipulated Dismissal, any mention of which has been conveniently left out of the Complaint.
+24
+
+In the Stipulated Dismissal from the ‘2000 Case, O2 Micro agreed not to assert or reassert the
+
+25 ‘129 patent against MPS for any infringement based on MPS inverter controllers that O2 Micro had
+26 accused of infringement. Under the governing case law, the Stipulated Dismissal extinguished any
+27 actual controversy between O2 Micro and MPS regarding the ‘129 patent. Specifically, in Super Sack
+28 Mfg. Corp. v. Chase Packaging Corp., the Federal Circuit held that:
+HOWREY LLP
+
+Def. O2 Micro’s Mot. to Dismiss
+Case No. C 07-02363-CW
+
+-7-
+
+Case 4:07-cv-02363-CW
+
+1
+2
+
+Document 11
+
+Filed 07/09/2007
+
+Page 12 of 16
+
+[A] patentee defending against an action for a declaratory judgment of invalidity can
+divest the trial court of jurisdiction over the case by filing a covenant not to assert the
+patent at issue against the putative infringer with respect to any of its past, present, or
+future acts.
+
+3
+4 57 F.3d 1054, 1058 (Fed. Cir. 1995). Because the Stipulated Dismissal completely disposed of O2
+5 Micro’s then pending infringement claim against MPS based on the ‘129 patent, the covenant divested
+6 this Court of jurisdiction over any and all of MPS’s claims for declaratory relief involving the ‘129
+7 patent. See id.; Amana Refrigeration, Inc. v. Quadlux, Inc., 172 F.3d 852, 855-56 (Fed. Cir. 1999).
+8
+
+Since the signing of the Stipulated Dismissal, O2 Micro has not made any further threats or
+
+9 brought any new lawsuits against new MPS products with respect to the ‘129 patent. (Harkins Decl. ¶
+10 4.) Thus, there is no further dispute between O2 Micro and MPS regarding the ‘129 patent for this
+11 Court to resolve. Indeed, MPS does not even allege in its Complaint that it is under any threat of an
+12 infringement suit by O2 Micro based on the ‘129 patent. The absence of such an allegation reinforces
+13 the view that MPS has not met, and cannot meet, its burden of showing that there exists “a substantial
+14 controversy” of “sufficient immediacy and reality to warrant the issuance of a declaratory judgment.”
+15 See SanDisk, 480 F.3d at 1378.
+16
+
+Moreover, MPS cannot base its declaratory judgment action on the mere speculation that it may
+
+17 have a dispute with O2 Micro sometime in the future regarding whether MPS products not covered by
+18 the Stipulated Dismissal infringe the ‘129 patent. As the Federal Circuit has previously noted, “an
+19 actual controversy cannot be based on a fear of litigation over future products.” Amana Refrigeration,
+20 172 F.3d at 855-56; see also Super Sack, 57 F.3d at 1060 (“The residual possibility of a future
+21 infringement suit based on Chase’s future acts is simply too speculative a basis for jurisdiction over
+22 Chase’s counterclaim for declaratory judgments of invalidity.”). Nor can MPS base its declaratory
+23 judgment action on a fear of litigation over products that it currently manufactures but have not been
+24 accused of infringement. See Sharper Image Corp. v. Honeywell Int’l, Inc., Nos. C 02-4860-CW, C
+25 04-0529-CW, 2005 U.S. Dist. LEXIS 32425, at *7 (N.D. Cal. Aug. 31, 2005) (holding that “dismissal
+26 of [the defendant’s] counterclaims for declaratory judgment will not have a preclusive effect on its
+27 ability to assert any defense in a future action accusing products that are not in suit here”) (citing
+28 Foster v. Hallco Mfg. Co., Inc., 947 F.2d 469, 479-80 (Fed. Cir. 1991)).
+HOWREY LLP
+
+Def. O2 Micro’s Mot. to Dismiss
+Case No. C 07-02363-CW
+
+-8-
+
+Case 4:07-cv-02363-CW
+
+1
+
+Document 11
+
+Filed 07/09/2007
+
+Page 13 of 16
+
+Although the Federal Circuit no longer applies the “reasonable apprehension” test in light of
+
+2 MedImmune, 4 the foregoing cases remain instructive for the point that an actual controversy must have
+3 “sufficient immediacy and reality to warrant the issuance of a declaratory judgment.” SanDisk, 480
+4 F.3d at 1380. Here MPS has not, and cannot, come forward with specific facts showing that
+5 notwithstanding the Stipulated Dismissal, O2 Micro is continuing to assert the ‘129 patent against
+6 MPS. The Complaint should therefore be dismissed.
+7
+D.
+8
+9
+
+O2 Micro’s Infringement Claims Against Hon Hai Based on the ‘129 Patent Do
+Not Create an Actual Controversy Between O2 Micro and MPS.
+
+It is true that O2 Micro continues to assert the ‘129 patent against Hon Hai based on its use of
+
+10 MPS inverter controllers. But these are the same MPS products that are the subject of the Stipulated
+11 Dismissal in the ‘2000 Case, and therefore represent claims that O2 Micro is not making, and cannot
+12 make, against MPS. The Hon Hai lawsuit, which was pending prior to the filing of the Stipulated
+13 Dismissal and is pending now, does not give rise to an actual controversy between O2 Micro and MPS.
+14 In accordance with Super Sack, the Stipulated Dismissal extinguished any infringement dispute
+15 between O2 Micro and MPS with respect to the ‘129 patent and the MPS products (both inverter
+16 controllers and evaluation boards) identified therein. The fact that O2 Micro continues to pursue Hon
+17 Hai for its use of the same MPS products is of no moment. The Stipulated Dismissal protects MPS
+18 from any secondary liability for Hon Hai’s infringing use of its products.
+19
+
+MPS may contend that it is entitled to seek declaratory relief on the ‘129 patent in order to
+
+20 protect its customers from claims of infringement. Under Federal Circuit law, however, the fact that
+21 O2 Micro has sued an MPS customer for infringing the ‘129 patent does not mean that there is an
+22 actual controversy between O2 Micro and MPS regarding the ‘129 patent. Microchip Tech. Inc. v.
+23 Chamberlain Group, Inc., 441 F.3d 936 (Fed. Cir. 2006), directly addresses this point. In that case the
+24 plaintiff, Microchip Technology, filed an action seeking a declaration that Chamberlain’s patents were
+25 not infringed, invalid, and/or unenforceable. As in the present case, the parties in Microchip had been
+26
+27
+28
+
+4 SanDisk, 480 F.3d at 1380 (“The Supreme Court's opinion in MedImmune represents a rejection of our reasonable
+
+apprehension of suit test.”).
+
+HOWREY LLP
+
+Def. O2 Micro’s Mot. to Dismiss
+Case No. C 07-02363-CW
+
+-9-
+
+Case 4:07-cv-02363-CW
+
+Document 11
+
+Filed 07/09/2007
+
+Page 14 of 16
+
+1 involved in a previous litigation, which had ended with a settlement agreement in which Chamberlain
+2 agreed not to sue Microchip for infringement of its patents. Even though the settlement agreement had
+3 resolved the patent dispute between the parties, Microchip subsequently filed a declaratory judgment
+4 action on Chamberlain’s patents because Chamberlain had subsequently sued Microchip’s customers
+5 for infringing the Chamberlain patents based on their use of Microchip products.
+6
+
+On this set of facts, the Federal Circuit held that there was no actual controversy between the
+
+7 parties, and thus the district court did not have jurisdiction over the case. Microchip, 441 F.3d at 942.
+8 The court of appeals reasoned that since Chamberlain had not accused Microchip of infringing its
+9 patents, there was no underlying legal cause of action between the parties. Id. at 943. The fact that
+10 Microchip might have had an economic interest in protecting its customers from Chamberlain’s
+11 allegations of infringement was not enough to establish jurisdiction over Microchip’s declaratory
+12 judgment claims. Id. Instead, Microchip needed to show some sort of “adverse legal interest” vis à vis
+13 Chamberlain, either directly or at least indirectly, e.g., through an indemnity relationship with a
+14 customer who had a legal interest adverse to Chamberlain. Id. But see Intellectual Property Dev., Inc.
+15 v. TCI Cablevision of California, 248 F.3d 1333, 1341-42 (Fed. Cir. 2001) (holding that the possibility
+16 that the defendant might need to indemnify other entity for patent infringement in other litigation did
+17 not create jurisdiction over defendant’s counterclaims for declaratory relief with respect to the patent).
+18
+
+In the present case, O2 Micro has covenanted not to assert the ‘129 patent against MPS but
+
+19 continues to sue MPS’s customer, Hon Hai. The fact that MPS may have an economic interest in
+20 bringing Hon Hai within the shelter of the Stipulated Dismissal is not a sufficient basis for declaratory
+21 judgment jurisdiction. There remains no cause of action for infringement of the ‘129 patent against
+22 MPS. See Microchip, 441 F.3d at 943; see also BP Chems. Ltd. v. Union Carbide Corp., 4 F.3d 975,
+23 978 (Fed. Cir. 1993) (“As applied to declarations of patent rights and relationships, for an actual
+24 controversy more is required than the existence of an adversely held patent.”).
+25
+
+Moreover, MPS has not alleged that it is required to indemnify Hon Hai for infringement of the
+
+26 ‘129 patent. To the contrary, Hon Hai has admitted that MPS is not indemnifying it for O2 Micro’s
+27 infringement claims. (Su Decl. Ex. E (03/19/07 Hon Hai’s Responses and Objections to O2 Micro’s
+28 First Set of RFAs) at 8.) Consequently, there is no indemnity relationship between MPS and Hon Hai
+HOWREY LLP
+
+Def. O2 Micro’s Mot. to Dismiss
+Case No. C 07-02363-CW
+
+- 10 -
+
+Case 4:07-cv-02363-CW
+
+Document 11
+
+Filed 07/09/2007
+
+Page 15 of 16
+
+1 that might create an adverse legal interest between O2 Micro and MPS cognizable under Microchip
+2 and Intellectual Property Development.
+3
+
+In summary, as in Microchip, O2 Micro’s pending infringement claims against Hon Hai based
+
+4 on the ‘129 patent do not create an actual controversy between O2 Micro and MPS sufficient to
+5 establish subject matter jurisdiction over MPS’s declaratory judgment claims. The Complaint should
+6 be dismissed.
+7
+E.
+8
+9
+
+Even If an Actual Controversy Existed with Respect to the ‘129 Patent, This Court
+Should Decline Jurisdiction Over MPS’s Claims.
+
+Finally, in the unlikely event this Court were to find that the facts support the existence of an
+
+10 actual controversy between O2 Micro and MPS with respect to the ‘129 patent, dismissal is still
+11 proper. District courts have “unique and substantial discretion” to dismiss a declaratory judgment
+12 action as long as the court “acts in accordance with the purposes of the Declaratory Judgment Act and
+13 the principles of sound judicial administration.” Wilton, 515 U.S. at 286; EMC, 89 F.3d at 813-14.
+14 Here the Court should exercise its discretion not to entertain MPS’s claims.
+15
+
+Dismissal of this action would be in accordance with the purposes of the Declaratory Judgment
+
+16 Act. The purpose of the Declaratory Judgment Act is “to enable a person who is reasonably at legal
+17 risk because of an unresolved dispute, to obtain judicial resolution of that dispute without having to
+18 await the commencement of legal action by the other side.” BP Chemicals, 4 F.3d at 977. MPS
+19 cannot be said to be at legal risk because there is no unresolved, extant dispute between O2 Micro and
+20 MPS with respect to the ‘129 patent. The present declaratory judgment action is therefore completely
+21 unnecessary. Moreover, to the extent MPS is concerned about its customers being accused of
+22 infringing the ‘129 patent, such a concern does not affect the analysis because (1) MPS has not shown
+23 that any infringement claims leveled against its customers would create any legal risk to MPS, and (2)
+24 there is no threat of delayed adjudication because O2 Micro had already commenced litigation against
+25 MPS’s customer Hon Hai for infringement of the ‘129 patent—prior to the filing of the Stipulated
+26 Dismissal.
+27
+
+Dismissal of this action would also accord with sound judicial administration. The reason
+
+28 district courts are given discretion to decline jurisdiction over declaratory judgment actions is “to
+HOWREY LLP
+
+Def. O2 Micro’s Mot. to Dismiss
+Case No. C 07-02363-CW
+
+- 11 -
+
+Case 4:07-cv-02363-CW
+
+Document 11
+
+Filed 07/09/2007
+
+Page 16 of 16
+
+1 enable the court to make a reasoned judgment whether the investment of judicial time and resources in
+2 a declaratory action will prove worthwhile in resolving a justiciable dispute.” Minnesota Mining &
+3 Mfg. Co. v. Norton Co., 929 F.2d 670, 672 (Fed. Cir. 1991). Consideration of MPS’s claims for
+4 declaratory relief would only lead to a waste of judicial resources, as there is no immediate, concrete
+5 dispute between O2 Micro and MPS on the ‘129 patent worthy and needful of resolution. See
+6 MedImmune, 127 S. Ct. at 771 (holding that a dispute must be “definite and concrete, touching the
+7 legal relations of the parties having adverse legal interests” and “real and substantial,” and “admi[t] of
+8 specific relief through a decree of a conclusive character, as distinguished from an opinion advising
+9 what the law would be upon a hypothetical state of facts.”) (quoting Aetna Life Ins. Co. v. Haworth,
+10 300 U.S. 227, 240-41 (1937)). O2 Micro’s dispute with respect to the ‘129 patent lies with other
+11 parties such as Hon Hai that O2 Micro is already suing in other forums. 5 Thus, this action is
+12 superfluous, and for the sake of judicial efficiency this Court should decline jurisdiction over MPS’s
+13 claims for declaratory relief. 6
+14 V.
+
+CONCLUSION
+
+15
+
+For the reasons discussed above, O2 Micro respectfully requests that the Court dismiss the
+
+16 Complaint for lack of subject matter jurisdiction under Federal Rule of Civil Procedure 12(b)(1), or, in
+17 the alternative, decline to exercise declaratory judgment jurisdiction over this action in the interest of
+18 sound judicial administration.
+19 Dated: July 9, 2007
+
+HOWREY LLP
+
+20
+By: /s/Henry C. Su
+
+21
+
+Henry C. Su
+22
+Attorneys for Plaintiff
+O2 Micro International Limited
+
+23
+24
+25
+
+5 O2 Micro has also asserted the ‘129 patent against multiple defendants in O2 Micro International Limited v. Rohm Co.,
+
+26 Ltd., Case No. 2:05-cv-00211 TJW-CE (E.D. Tex.). No MPS products are at issue in that case.
+6 “If [MPS’s] interests are affected by a different suit regarding the [‘129] patent, then [MPS] should join that action as a
+
+27 party, for example, pursuant to Federal Rule of Civil Procedure 19(a)(2)(i).” Intellectual Property Development, 248 F.3d
+28
+
+at 1341.
+
+HOWREY LLP
+
+Def. O2 Micro’s Mot. to Dismiss
+Case No. C 07-02363-CW
+
+- 12 -
+
+

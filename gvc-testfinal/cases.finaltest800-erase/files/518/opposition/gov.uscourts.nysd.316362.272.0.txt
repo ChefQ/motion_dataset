@@ -1,0 +1,697 @@
+Case 1:07-cv-09931-WHP -FM Document 272
+
+Filed 09/23/11 Page 1 of 19
+
+DUANE MORRIS LLP
+Gregory P. Gulia
+Vanessa Hew
+R. Terry Parker
+1540 Broadway
+New York, NY 10036
+(212) 692-1000
+and
+Edward M. Cramp (pro hac vice)
+Michelle Hon Donovan (pro hac vice)
+Counsel for Defendants
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+)
+)
+CAPITOL RECORDS, LLC; CAROLINE
+)
+RECORDS, INC.; EMI CHRISTIAN MUSIC
+)
+GROUP INC.; PRIORITY RECORDS LLC;
+) CIVIL ACTION NO. 07-Civ. 9931 (WHP)
+VIRGIN RECORDS AMERICA, INC.;
+BEECHWOOD MUSIC CORP.; COLGEMS-EMI ) ECF Case
+)
+MUSIC INC.; EMI APRIL MUSIC INC.; EMI
+)
+BLACKWOOD MUSIC; EMI FULL KEEL
+MUSIC; EMI GOLDEN TORCH MUSIC CORP.; )
+EMI LONGITUDE MUSIC; EMI VIRGIN MUSIC, )
+) DEFENDANTS’
+INC.; EMI VIRGIN SONGS, INC., EMI AL
+GALLICO MUSIC CORP., EMI ALGEE MUSIC ) MEMORANDUM OF LAW
+CORP., EMI FEIST CATALOG, INC., EMI GOLD ) IN OPPOSITION TO
+HORIZON CORP., EMI GROVE PARK MUSIC, ) PLAINTIFFS’ MOTION FOR
+) RECONSIDERATION
+INC., EMI HASTINGS CATALOG, INC., EMI
+MILLS MUSIC, INC., EMI MILLER CATALOG, )
+)
+INC., EMI ROBBINS CATALOG, INC., EMI U
+CATALOG, INC., EMI UNART CATALOG, INC., )
+JOBETE MUSIC CO., INC., SCREEN GEMS-EMI )
+)
+MUSIC, INC., STONE AGATE MUSIC, and
+)
+STONE DIAMOND MUSIC,
+)
+)
+Plaintiffs,
+)
+v.
+)
+MP3TUNES, INC. and MICHAEL ROBERTSON, )
+)
+)
+Defendants.
+__________________________________________ )
+
+Case 1:07-cv-09931-WHP -FM Document 272
+
+Filed 09/23/11 Page 2 of 19
+
+TABLE OF CONTENTS
+Page
+I.
+
+Legal Standard ...................................................................................................................4
+
+II.
+
+Plaintiffs Fail to Demonstrate Clear Error or Manifest Injustice Warranting a
+Reconsideration of the Court’s Decision that the DMCA’s Safe Harbors Apply
+to Common Law Copyright Infringement Claims..........................................................6
+
+III.
+
+A.
+
+Plaintiffs Fail to Identify Controlling Law or Controlling Facts
+Overlooked by this Court in Determining that the DMCA’s Safe
+Harbors Apply to Claims of Infringement of Pre-1927 Sound Recordings .... 6
+
+B.
+
+This Court’s Reading of Section 512 Is Correct Because Section 512 Does
+Not Conflict with Section 301(c) .......................................................................... 7
+
+C.
+
+Applying the DMCA Safe Harbor Provisions to Pre-1972 Sound
+Recordings Achieves the Legislative Intent and Spirit of the DMCA.............. 9
+
+Plaintiffs Fail to Demonstrate Clear Error or Manifest Injustice in this Court’s
+Finding that MP3tunes Has Reasonably Implemented a Repeat Infringer Policy....10
+A.
+
+B.
+
+The Abundance of Case Law Supports the Courts’ Finding that
+MP3tunes Reasonably Implemented a Repeat Infringer Policy..................... 12
+1.
+
+The Weight of Authority Supports a Finding that the DMCA Does Not
+Require Service Providers to Terminate the Accounts of Users Identified
+in Multiple Take-Down Notice............................................................... 13
+
+2.
+
+The Weight of Authority Supports a Finding that Subscribers Identified
+in Take-Down Notices Are Not “Repeat Infringers” ........................... 13
+
+3.
+
+Plaintiffs Improperly Attempt to Present New Arguments that Were Not
+Before the Court at Summary Judgment ............................................. 14
+
+Evidence in the Record Amply Demonstrates that MP3tunes Reasonably
+Implemented a Repeat Infringer Policy............................................................ 16
+
+2
+
+Case 1:07-cv-09931-WHP -FM Document 272
+
+Filed 09/23/11 Page 3 of 19
+
+Defendants MP3tunes Inc. (“MP3tunes”) and Michael Robertson respectfully submit this
+memorandum of law in opposition to Plaintiffs’ Motion for Reconsideration.
+
+PRELIMINARY STATEMENT
+Having reviewed and carefully analyzed literally hundreds of pages of summary judgment
+briefing and amici briefing and conducting oral arguments on the parties’ motions, this Court held,
+inter alia, that the Digital Millennium Copyright Act (the “DMCA”) applies to sound recordings
+fixed prior to 1972 (“Pre-1972 Sound Recordings”) and that MP3tunes had clearly complied with
+the DMCA safe harbor provisions by reasonably implementing a repeat infringer policy. Despite
+the overwhelming efforts made by this Court, Plaintiffs, clearly displeased and unsatisfied with this
+Court’s decision, are now seeking reconsideration of these issues—citing to no new law or
+evidence, but arguing that “clear error” or “manifest injustice” must have occurred.
+Plaintiffs’ Motion for Reconsideration is a mere vehicle to reargue positions already
+carefully considered—and rejected—by this Court. However, motions for reconsideration are an
+extraordinary remedy and should not be made to frivolously re-litigate issues merely because a
+party is unhappy with the Court’s ruling. Indeed, motions for reconsideration must adhere to strict
+standards and are only granted in extremely rare instances where a movant can demonstrate: an
+intervening change in controlling law; the availability of new evidence; or the need to correct a
+clear error or prevent manifest injustice.
+Plaintiffs themselves concede that the first two grounds do not apply here. There has been
+no intervening changes in law and no new evidence has been put forth. Plaintiffs are left with no
+option but to cry clear error of law or manifest injustice committed by this Court. Thus, Plaintiffs
+allege that this Court committed clear error because it overlooked controlling law and facts. Indeed,
+3
+
+Case 1:07-cv-09931-WHP -FM Document 272
+
+Filed 09/23/11 Page 4 of 19
+
+this claim is quite incredible given that Plaintiffs offered absolutely no controlling law in support of
+their positions—not in their summary judgment papers or in their Motion for Reconsideration. Nor
+do Plaintiffs point to any facts that were not already considered by this Court. Accordingly, the
+Court should deny Plaintiffs’ Motion for Reconsideration because Plaintiffs have failed to
+demonstrate any exceptional circumstances which would warrant the Court’s award of such
+extraordinary remedy.
+
+ARGUMENT
+I.
+
+Legal Standard
+“Reconsideration of a previous order by the court is an extraordinary remedy to be
+
+employed sparingly in the interests of finality and conservation of scarce judicial resources.” Hinds
+Cnty., Miss. v. Wachovia Bank N.A., 700 F. Supp. 2d 378, 407 (S.D.N.Y. 2010) (internal quotation
+marks and citation omitted). “[T]he standard of review applicable to such a motion is strict.”
+United States v. Morillo-Vidal, No. 10-CV-222, 2011 U.S. Dist. LEXIS 103051, at *5 (S.D.N.Y.
+Sept. 6, 2011). “Such motions must be narrowly construed and strictly applied in order to
+discourage litigants from making repetitive arguments on issues that have been thoroughly
+considered by the court.” Range Road Music, Inc. v. Music Sales Corp., 90 F.Supp.2d 390, 391-92
+(S.D.N.Y. 2000). Indeed, “[a] motion for reconsideration is not intended as a vehicle for a party
+dissatisfied with the Court's ruling to advance new theories that the movant failed to advance in
+connection with the underlying motion, nor to secure a rehearing on the merits with regard to issues
+already decided.” Hopkinson v. Estate of Siegal, No. 10 Civ. 1743, 2011 U.S. Dist. LEXIS 76071,
+at *2 (S.D.N.Y. July 12, 2011); see also Shrader v. CSX Transp., Inc., 70 F.3d 255, 257 (2d Cir.
+1995) (holding that a court will deny a Motion for Reconsideration where the movant merely “seeks
+solely to re-litigate an issue already decided”).
+
+4
+
+Case 1:07-cv-09931-WHP -FM Document 272
+
+Filed 09/23/11 Page 5 of 19
+
+Motions for reconsideration are generally disfavored and “granted only upon a showing of
+exceptional circumstances.” Marrero Pichardo v. Ashcroft, 374 F.3d 46, 55 (2d Cir. 2004) (citation
+omitted). Courts have limited these exceptional circumstances to the following: (1) “an intervening
+change of controlling law; (2) the availability of new evidence; or (3) the need to correct a clear
+error or prevent manifest injustice.’” Doe v. NYC Dep't of Soc. Servs., 709 F.2d 782, 789 (2d Cir.
+1983)); see also Virgin Atl. Airways, Ltd. v. Nat'l Mediation Bd., 956 F.2d 1245, 1255 (2d Cir.
+1992) (holding same); Semple v. Eyeblaster, Inc., No. 08-CV-9004, 2009 U.S. Dist. LEXIS 52153
+(S.D.N.Y. June 19, 2009) (holding even the discovery of new evidence does not warrant
+reconsideration of an order if the evidence is not “sufficiently cogent or compelling to warrant
+overturning the law of the case at this late stage of the litigation.”); EEOC v. Local 638 . . . Local 28
+of The Sheet Metal Workers' Int'l Ass'n, No. 71-CV-2877, 2001 U.S. Dist. LEXIS 19, at * 4
+(S.D.N.Y. Jan. 3, 2001) (holding same); Green v. Beer, No. 06-CV-4156, 2009 U.S. Dist. LEXIS
+98285, at (S.D.N.Y. Oct. 22, 2009) (noting an intervening change of law must be an explicit
+overruling, not a mere clarification).
+Courts do not differentiate between clear error and manifest injustice. Rather, “[m]anifest
+injustice is defined as an error . . . that is direct, obvious, and observable . . . .” Enron Corp. v. J.P.
+Morgan Sec. (In re Enron Corp.), 356 B.R. 343, 362 (Bankr. S.D.N.Y. 2006) (citations omitted).
+Courts only find clear error or manifest injustice when the movant demonstrates “controlling
+decisions or data that the court overlooked—matters, in other words, that might reasonably be
+expected to alter the conclusion reached by the court.” In re BDC 56 LLC, 330 F.3d 111, 123 (2d
+Cir. 2003) (quotation omitted).
+Manifest injustice or clear error has not occurred where the movant for reconsideration
+merely rehashes what the court has already considered. See Kittay v. Korff (In re Palermo, No. 08
+CV 7421, 2011 U.S. Dist. LEXIS 11681, at *11 (S.D.N.Y. Feb. 4, 2011) (denying reconsideration
+on grounds of manifest injustice where movant merely repeated previous arguments and ruling
+5
+
+Case 1:07-cv-09931-WHP -FM Document 272
+
+Filed 09/23/11 Page 6 of 19
+
+manifest injustice did not result from misrepresentations to the Court or a disregard of an order);
+Tortora v. SBC Communs., Inc., No. 09-CV-7895 2010 U.S. Dist. LEXIS 100978, at *9 (S.D.N.Y.
+Sept. 23, 2010) (manifest injustice not found where movant offered “nothing more than a
+distillation of the unsuccessful arguments” already rejected by this Court).
+
+II.
+
+Plaintiffs Fail to Demonstrate Clear Error or Manifest Injustice Warranting a
+Reconsideration of the Court’s Decision that the DMCA’s Safe Harbors Apply to
+Common Law Copyright Infringement Claims
+Plaintiffs fail to meet the strict standard for moving for reconsideration. They have not
+
+identified any change in the law, nor any new evidence, nor any clear error or manifest injustice that
+warrants the extraordinary remedy of reconsideration. In Plaintiffs’ Motion for Reconsideration,
+Plaintiffs allege that this Court overlooked controlling law in determining that the DMCA applied
+Pre-1972 Sound Recordings. Incredibly, despite this audacious claim, Plaintiffs cite to not one
+single case in their summary judgment papers in which a court has held that the DMCA does not
+apply to Pre-1972 Sound Recordings.
+
+A.
+
+Plaintiffs Fail to Identify Controlling Law or Controlling Facts Overlooked by
+this Court in Determining that the DMCA’s Safe Harbors Apply to Claims of
+Infringement of Pre-1927 Sound Recordings
+
+Plaintiffs’ failure or inability to identify any controlling law purportedly overlooked by this
+Court is unsurprising. Despite the numerous copyright infringement actions involving the DMCA,
+no court has ever held that the DMCA’s safe harbor provisions do not apply to infringement claims
+regarding Pre-1972 Sound Recordings. 1 Indeed, no court has issued any law on this issue—much
+less law that controls this Court.
+
+1
+
+Defendants pointed out the first time this issue was before this Court that Plaintiffs failed to cite
+any law in support of their position, relying instead on copyright law as interpreted by EMI, a
+point Plaintiffs never challenged. See Dkt. #238 at 12.
+6
+
+Case 1:07-cv-09931-WHP -FM Document 272
+
+Filed 09/23/11 Page 7 of 19
+
+Accordingly, in Plaintiffs’ Motion for Reconsideration, Plaintiffs simply rehash the
+convoluted statutory interpretation arguments that they presented to this Court at summary
+judgment and which this Court rejected. While Plaintiffs may disagree with this Court’s rejection
+of those arguments and its finding that the “plain meaning of the statutory language makes the
+DMCA safe harbors applicable to both state and federal copyright claims” and “applies to sound
+recordings fixed prior to February 15, 1972,” Order, Dkt. #267 at 12, Plaintiffs point to no clear
+error in the Court’s finding because there is none.
+Indeed, the relevant case law on statutory construction supports this Court’s decision. As
+the Supreme Court of the United States has held, “where Congress includes particular language in
+one section of a statute but omits it in another . . . it is generally presumed that Congress acts
+intentionally and purposefully in the disparate inclusion or exclusion.” Keene Corp. v. United
+States, 508 U.S. 200, 208 (1993) (quoting Russello v. United States, 464 U.S. 16, 23 (1983)). In
+this case, section 1201 of the DMCA, which provides the statutes anti-circumvention provisions,
+states that that section applies to “a work protected under [the Copyright Act].” See 17 U.S.C. §
+1201. In contrast, section 512 of the DMCA states the safe harbors apply to “infringement of
+copyright.” See 17 U.S.C. § 512. Accordingly, applying principles set forth by the United States
+Supreme Court in Keene, Congress meant what it said when it referred to “infringement of
+copyright” in section 512 of the DMCA and then when it referred to infringement under the
+Copyright Act in section 1201 of the DMCA. Congress clearly intended for the DMCA’s safe
+harbor provisions to apply to infringement of both federal and state copyright infringement claims.
+
+B.
+
+This Court’s Reading of Section 512 Is Correct Because Section 512 Does Not
+Conflict with Section 301(c)
+
+In their Motion for Reconsideration papers, Plaintiffs merely reiterate their original
+summary judgment papers when they claim a plain reading of section 512 of the Copyright Act is
+
+7
+
+Case 1:07-cv-09931-WHP -FM Document 272
+
+Filed 09/23/11 Page 8 of 19
+
+erroneous because it would conflict with section 301 and, given section 512’s much later enactment,
+cause an implicit repeal of section 301. See Dkt. 209 at 36, n. 17. However, this argument was
+clearly and properly rejected.
+Section 301(c) merely provides that “[w]ith respect to sound recordings fixed before
+February 15, 1972, any rights or remedies under the common law or statutes of any state shall not
+be annulled or limited by this title until February 15, 2067,” 17 U.S.C. § 301(c). However, there is
+no statutory conflict between sections 512 and 301(c) because section 512 does not limit or annul
+any rights or remedies under the common law or state law. The safe harbors provided by section
+512 of the DMCA do not prevent Plaintiffs from enforcing any rights or remedies under the
+common law or statutes of any state with respect to their Pre-1972 Sound Recordings—rather they
+merely help clarify what activity constitutes infringement.
+The courts have a long history of allowing a wide of array of common law rights and
+remedies to be used to protect Pre-1972 Sound Recordings, and each is available to Plaintiffs
+unhindered by the safe harbors of the DMCA. See, e.g., Capitol Records, Inc. v. Greatest Records,
+Inc., 252 N.Y.S.2d 553, 555-558 (Sup. Ct. 1964) (listing various common law rights used to protect
+Pre-1972 Sound Recordings from infringement). As explained in the Brief of Amicus Curiae
+Google Inc. in Support of Defendants, the DMCA’s safe harbors “merely affect who the proper
+defendants are for claims seeking to enforce such rights, and from whom remedies may be sought.”
+Dkt. # 249 at 12.
+Far from limiting or annulling Plaintiffs’ common law rights, section 512 of the DMCA
+merely insures that innocent service providers—who cannot possibly monitor or control all the
+content posted by their users and who do not benefit from the infringement—are not held liable for
+the infringing activities of their users. Indeed, the copyright holders’ rights or remedies are clearly
+neither limited or annulled because the copyright holders are still capable of seeking redress from
+the actual infringers—the users themselves. Indeed, Plaintiffs themselves made this same
+8
+
+Case 1:07-cv-09931-WHP -FM Document 272
+
+Filed 09/23/11 Page 9 of 19
+
+argument, acknowledging that the DMCA’s “immunity is not presumptive, but granted only to
+‘innocent’ service providers.” See Dkt. #207 at 35. Accordingly, section 512 does not limit or
+deprive Plaintiffs of their common law or state law rights in Pre-1972 Sound Recordings. It merely
+clarifies the definition of infringement. [DISCUSS]
+Indeed, judicial recognition of federal copyright defenses in connection with Pre-1972
+Sound Recordings has long peacefully coexisted with rights and remedies under state and common
+law. By way of example, section 107 of the Copyright Act provides the defense that “the fair use of
+a copyrighted work . . . for purposes such as criticism, comment, news reporting, teaching . . .
+scholarship, or research, is not an infringement of copyright.” 17 U.S.C. § 107. The fair use
+defense has been applied in cases involving common law rights in Pre-1972 Sound Recordings
+without conflicting with section 301(c). See, e.g., EMI Records Limited v. Premise Media Corp.
+L.P., No. 601209/08, 2008 N.Y. Misc. LEXIS 7485, at *31 (N.Y. Sup. Ct. Aug. 8, 2008) (applying
+fair use defense to infringement of Pre-1972 Sound Recordings). Like the fair use defense provided
+under section 107, the DMCA safe harbor provisions do not annul or limit rights and remedies
+under state or common law for Pre-1972 Sound Recordings. Instead, these provisions merely
+clarify what does not constitute infringement.
+C.
+
+Applying the DMCA Safe Harbor Provisions to Pre-1972 Sound Recordings
+Achieves the Legislative Intent and Spirit of the DMCA
+
+Moreover, Plaintiffs’ reading of the Copyright Act is contrary to Congress’ express intent.
+Congress’ explicit goal in enacting the DMCA was to clarify copyright law with respect to the
+online world in order to foster faster and robust development of the Internet. As explained in the
+Brief of Amici Curiae Public Knowledge, Electronic Frontier Foundation, Consumer Electronics
+Association, and Home Recording Rights Coalition (“PK Amici Brief”), “Congress created a set of
+safe harbors designed to provide greater certainty to service providers concerning their legal
+exposure for infringements that might occur in the course of their activities.” Dkt. # 203 at 8; see
+9
+
+Case 1:07-cv-09931-WHP -FM Document 272
+
+Filed 09/23/11 Page 10 of 19
+
+also 3 Melville B. Nimmer & David Nimmer, Nimmer on Copyright § 12B.01[A][1] (2010)
+(describing uncertain state of copyright law as applied to Internet companies prior to the DMCA).
+As Congress explained, the “DMCA ensures that the efficiency of the Internet will continue to
+improve and that the variety and quality of services on the Internet will continue to expand.” S.
+Rep. No. 105-190, at 1-2 (1998). Applying the DMCA’s safe harbor provisions to songs recorded
+after February 15, 1972, but not to songs recorded prior to that date, would undermine this intent by
+creating a climate of legal uncertainty and would discourage service providers from investing in and
+developing Internet based commerce due to the risk of legal exposure as the result of the activity of
+third parties. Since there is no way to monitor or control the activities of third parties, investment
+and development in the Internet would be stifled because the risk of exposure and/or the costs of
+creating a system to monitor and control these third parties. Even if possible, such a system would
+be prohibitive. Requiring service providers to make such determinations and expose themselves to
+liability for infringements of their users would be prohibitively expensive, thus discouraging the
+very investment and growth that Congress hoped to encourage when it enacted the DMCA.
+Thus, this Court correctly held that the DMCA safe harbor provisions apply to Pre-1972
+Sound Recordings. Having merely rehashed arguments already considered by this Court and
+having failed to point to any controlling authority or facts which this Court has overlooked,
+Plaintiffs have failed to demonstrate any grounds for reconsideration of this Court’s finding.
+
+III.
+
+Plaintiffs Fail to Demonstrate Clear Error or Manifest Injustice in this Court’s
+Finding that MP3tunes Has Reasonably Implemented a Repeat Infringer Policy
+To qualify for a safe harbor, the DMCA requires a service provider to “adopt[] and
+
+reasonably implement[] . . . a policy that provides for the termination in appropriate circumstances
+of subscribers and account holders of the service provider’s system or network who are repeat
+infringers . . . .” 17 U.S.C. § 512(i)(1)(A). In their summary judgment papers, Plaintiffs argued
+
+10
+
+Case 1:07-cv-09931-WHP -FM Document 272
+
+Filed 09/23/11 Page 11 of 19
+
+two points in attempting to sway this Court that MP3tunes had not complied with this requirement:
+(1) the DMCA obligated MP3tunes to terminate the accounts of users identified in more than one
+takedown notice; and (2) MP3tunes’ evidence that it had terminated user accounts for copyright
+infringement was insufficient. Dkt. # 207 at 37; Dkt. # 209 at 23. However, this Court expressly
+rejected these arguments holding that MP3tunes had satisfied the DMCA’s repeat infringer policy
+requirement. Apparently dissatisfied with this result, Plaintiffs moved for reconsideration, once
+again crying accusations of “clear error” and “manifest injustice.” However, Plaintiffs’ Motion for
+Reconsideration again fails to demonstrate intervening law or new facts, or clear error or manifest
+injustice to warrant the extreme remedy of reconsideration. Instead, Plaintiffs merely rehash the
+same arguments from their summary judgment papers hoping that their brash persistence will lead
+to a better result.
+Indeed, Plaintiffs’ brazen accusations that this Court overlooked controlling law are
+incredible given that Plaintiffs have not offering one single controlling case that supports their
+position that MP3tunes was obligated to terminate the accounts of users who could be identified
+from more than one take-down notice. Given that the weight of authority clearly supports this
+Courts finding, Plaintiffs’ accusations seem to more the product of wishful thinking than reasoned
+legal analysis. Accordingly, there has been no clear error or manifest injustice in this Court’s
+decision.
+Plaintiffs similarly fail to demonstrate that the Court overlooked controlling facts in finding
+that MP3tunes had reasonably implemented its repeat infringer policy. Plaintiffs parade the same
+arguments and evidence that was previously before this Court, making the same mistakes in their
+Motion for Reconsideration as they do in the summary judgment papers and demonstrating that
+there are no circumstances warranting their a motion for reconsideration.
+
+11
+
+Case 1:07-cv-09931-WHP -FM Document 272
+
+A.
+
+Filed 09/23/11 Page 12 of 19
+
+The Abundance of Case Law Supports the Courts’ Finding that MP3tunes
+Reasonably Implemented a Repeat Infringer Policy
+
+To qualify for safe harbor protection, section 512(i)(1)(A) requires that a service provider’s
+repeat infringer policy provide for the termination of service for actual repeat infringers, and then
+only in “appropriate circumstances.” See Perfect 10 v. CCBill, 488 F.3d 1102, 1109-1110 (9th Cir.
+2007). “The statute permits service providers to implement a variety of procedures, but an
+implementation is reasonable if, under ‘appropriate circumstances,’ the service provider terminates
+users who repeatedly or blatantly infringe copyright.” Id. “The key term, ‘repeat infringer,’ is not
+defined . . . . The fact that Congress chose not to adopt such specific provisions when defining a
+user policy indicates its intent to leave the policy requirements, and the subsequent obligations of
+the service providers, loosely defined.” UMG Recordings, Inc. v. Veoh Networks, Inc., 665 F. Supp.
+2d 1099, at 1111 (C.D. Cal. 2009) (citations omitted).
+As this court recognized, courts have expressly ruled on the issue of what constitutes
+“reasonable implementation” holding that:
+. . . implementation is reasonable if the service provider (1) has a
+system for dealing with takedown notices, (2) does not interfere with
+the copyright owner’s ability to issue notices, and (3) under
+“appropriate circumstances, terminate users who repeatedly or
+blatantly infringe copyrights.”
+Order, Dkt. # 267, at 9 (citing Perfect 10 v. CCBill, 488 F.3d 1102, 1109-1110 (9th Cir. 2007).
+Plaintiffs do not challenge the Court’s finding that MP3tunes has a system for dealing with
+takedown notices, nor that MP3tunes does not interfere with the copyright owner’s ability to issue
+notices. However, Plaintiffs accuse this Court of overlooking controlling law as to the third prong
+of this test but fail to cite any controlling law allegedly overlooked by this Court. Because Plaintiffs
+have failed to demonstrate that this Court overlooked any controlling law on this issue, their Motion
+for Reconsideration should be denied.
+
+12
+
+Case 1:07-cv-09931-WHP -FM Document 272
+
+1.
+
+Filed 09/23/11 Page 13 of 19
+
+The Weight of Authority Supports a Finding that the DMCA Does Not
+Require Service Providers to Terminate the Accounts of Users Identified
+in Multiple Take-Down Notice
+
+Despite Plaintiffs’ allegations of error, the DMCA does not obligate service providers to
+conduct an investigation to determine whether its users appear on multiple take-down notices.
+Indeed, the weight of authority holds explicitly to the contrary: “To identify and terminate repeat
+infringers, a service provider need not affirmatively police its users for evidence of repeat
+infringement.” CCBill, 488 F.3d at 1111; Viacom Int'l, Inc. v. YouTube, Inc., 718 F. Supp. 2d 514,
+520 (S.D.N.Y. 2010) (“a service provider need not affirmatively seek facts indicating infringing
+activity in order to claim [this safe harbor].”); Io Group, Inc. v. Veoh Network, Inc., 586 F. Supp.
+2d 1132, 1143 (N.D. Cal. 2008) (“512(i) does not require service providers to track users in a
+particular way to or affirmatively police users for evidence of repeat infringement.”); see also UMG
+Recordings, Inc. v. Veoh Networks Inc., 665 F. Supp. 2d 1099, 1116 (C.D. 2009) (emphasizing that
+the termination of users’ account is a drastic action that must be justified by reliable evidence).
+Plaintiffs, having not presented any cases to the contrary, controlling or otherwise, cannot, with a
+straight face, accuse this Court of overlooking controlling law.
+
+2.
+
+The Weight of Authority Supports a Finding that Subscribers Identified
+in Take-Down Notices Are Not “Repeat Infringers”
+
+Plaintiffs further err in concluding that a user identified in more than one take-down notice
+is a “repeat infringer.” The weight of authority is unambiguous in holding that an appearance on a
+take-down notice does not demonstrate that a user is an infringer—much less a blatant, repeat
+infringer. See CCBill LLC, 488 F.3d at 1113 (holding that Perfect 10’s notices of infringement were
+not evidence of infringement); Viacom, 718 F. Supp. 2d at 528 (explaining that “even DMCAcompliant notices did not, in themselves, provide evidence of blatant copyright infringement.”);
+Corbis Corp. v. Amazon.com, Inc., 351 F. Supp. 2d 1090, 1105 (W.D. Wash. 2004) (DMCA
+compliant take-down notices “did not, in themselves, provide evidence of blatant copyright
+13
+
+Case 1:07-cv-09931-WHP -FM Document 272
+
+Filed 09/23/11 Page 14 of 19
+
+infringement.”); Rock River Communs., Inc. v. Universal Music Group, Inc., No. 8-635, 2011 U.S.
+Dist. LEXIS 46023, *42-43 (C.D. Cal. Apr. 27, 2011) (explaining that a take-down notice is a mere
+allegation of infringement).
+A leading treatise on copyright law, Nimmer on Copyright, also rejects Plaintiffs’ claim that
+service providers are obligated to terminate users who appear on more than one take-down notice.
+See 6 Melville B. Nimmer & David Nimmer, Nimmer on Copyright § 12.10[B][3][b] (2011) (“the
+detailed process of notice refers to notifications of ‘claimed infringement,’ there by signaling that
+notification by itself cannot prove actual infringement.”) (emphasis in the original). According to
+Nimmer on Copyright, the standard for determining whether a user is an infringer requires a higher
+degree of evidence than just mere identification in a take-down notice. Thus, “an infringer in the
+statutory sense may be either a party who has been adjudicated to have committed copyright
+infringement, or a party about whom the service provider has actual knowledge that s/he has
+engaged in infringement.” Id. at § 12.10[B][3][c].
+Accordingly, there is no clear error in this Court’s holding that MP3tunes has reasonably
+implemented a repeat infringer policy even though it did not conduct an investigation to determine
+which of its users appeared on multiple take-down notices and did not terminate the accounts of
+such users.
+
+3.
+
+Plaintiffs Improperly Attempt to Present New Arguments that Were Not
+Before the Court at Summary Judgment
+
+“[A] Motion for Reconsideration cannot assert new arguments or claims which were not
+before the court on the original motion and consequently cannot be said to have been considered.”
+Koehler v. Bank of Berm. Ltd., No. M18-302, 2005 U.S. Dist. LEXIS 8694, at * 1-*2 (S.D.N.Y.
+May 9, 2005) (citing Kunica v. St. Jean Financial, Inc., 63 F.Supp.2d 342, 346 (S.D.N.Y. 1999))
+(rejecting motion that presented arguments not previously presented).
+
+14
+
+Case 1:07-cv-09931-WHP -FM Document 272
+
+Filed 09/23/11 Page 15 of 19
+
+Plaintiffs attempt to add a new argument to their claim that the DMCA obligates service
+providers to terminate the accounts of users found in more than one take-down notice. Plaintiffs
+now argue that this Court erred in its distinquishing between “blatant infringers” who “know they
+lack authorization and nevertheless upload content to the internet for the world to experience or
+copy, and users who download content for their personal use and are otherwise oblivious to the
+copyrights of others.” Order, Dkt. # 267 at 10. Plaintiffs, in a move wholly unfit for a Motion for
+Reconsideration, claim this Court is wrong because knowledge is not an element of copyright
+infringement. Plaintiffs’ new argument clearly proffers improper grounds for reconsideration and
+should be denied.
+Nevertheless, Plaintiffs’ new argument demonstrates that there was no error in this Court’s
+decision. First, Plaintiffs misrepresent this Court’s decision when they claim that this Court
+considered knowledge relevant as an element for infringement. This Court made no such holding.
+Rather, the Court stated the following:
+There is a difference between users who know they lack authorization
+and nevertheless upload content to the internet for the world to
+experience or copy, and users who download content for their
+personal use and are otherwise oblivious to the copyrights of others.
+The former are blatant infringers that internet service providers are
+obligated to ban from their websites. The latter, like MP3tunes users
+who sideload content to their lockers for personal use, do not know
+for certain whether the material they are downloading violates the
+copyrights of others.
+See Order, Dkt. # 267 at 10.
+The Court is clearly not asserting knowledge as an element of infringement but as an
+element in determining whether or not the allegedly infringing activity of MP3tunes’ users
+identified in a take-down notice was “blatant” and egregious enough to warrant the termination of
+their accounts. While knowledge is certainly not an element of copyright infringement, knowledge
+is certainly a relevant factor in a service provider’s determination of whether or not circumstances
+termination of a user’s is appropriate.
+15
+
+Case 1:07-cv-09931-WHP -FM Document 272
+
+B.
+
+Filed 09/23/11 Page 16 of 19
+
+Evidence in the Record Amply Demonstrates that MP3tunes Reasonably
+Implemented a Repeat Infringer Policy
+
+First, Plaintiffs’ claim that this Court has made an improper factual determination, again a
+point suited for an appeal, not a Motion for Reconsideration, is simply inaccurate. Under Rule 56,
+the Court may determine whether a genuine issue of fact remains for trail. See Anderson v. Liberty
+Lobby, Inc., 477 U.S. 242, 249-50 (1986) (holding that if the evidence advanced in opposition to a
+motion for summary judgment “is merely colorable, or is not significantly probative, then summary
+judgment may be granted.”). Here, this Court has ruled that Plaintiffs have failed to show that there
+is a sufficient factual dispute as to whether MP3tunes terminates, under appropriate circumstances,
+the accounts of users who repeatedly or blatantly infringe copyrights. Plaintiffs claim that this
+Court has made an improper factual determination is a gross mischaracterization of this Court’s
+decision.
+Plaintiffs’ claim that there was no basis in the record presented to this Court for such a
+determination is in essence a repeat of the very same argument and evidence that was made, and
+rejected, at summary judgment. See Plaintiffs’ Memorandum of Law in Opposition to the Motion
+of MP3tunes, LLC for Summary Judgment, Dkt. # 209 at 25-26. Unless Plaintiffs are accusing this
+Court of not reading their motion papers, this Court properly considered these arguments and
+dismissed them at summary judgment. Plaintiffs are unable to demonstrate the extraordinary
+circumstances that would warrant this Court’s reconsideration of this issue. They fail to point to
+any intervening changes of law, or new facts, clear error or manifest injustice which would justify
+re-litigating these issues.
+As demonstrated at summary judgment, the evidence that MP3tunes terminated 153 repeat
+infringers was not contradicted by other testimony from Mr. Robertson. Mr. Robertson testified
+that he could not remember the different types of conduct that had resulted in users having their
+
+16
+
+Case 1:07-cv-09931-WHP -FM Document 272
+
+Filed 09/23/11 Page 17 of 19
+
+accounts terminated, other than file sharing. See Dkt. # 196,2 Ex. 4, 195:2-25 (“Q. Okay, are you
+aware, sitting here today, of any other reasons why accounts were terminated, other than that broad
+category of---of sharing that you just talked about? A. Yes. I remember an incident where—there
+was some incidents around some hate—hate group . . . .”) This testimony does not contradict Mr.
+Robertson’s later testimony that MP3tunes had terminated 153 user accounts for copyright
+infringement. Plaintiffs attempt to manufacture a contradiction by claiming that users who
+distribute passwords to their MP3tunes lockers are not necessarily engaged in copyright
+infringement. However, the point is MP3tunes understood the sharing of files as blatant and
+repeated infringement and acted upon that understanding. Nothing in Mr. Robertson’s testimony
+contradics that fact.
+As demonstrated at summary judgment, the testimony of other MP3tunes witnesses in this
+case does not contradict Mr. Robertson’s testimony. The fact that Julian Krause testified that he did
+not attempt to determine whether infringers could be identified on multiple take-down notices does
+not contradict the fact that MP3tunes terminated 153 users it suspected of file sharing. Nor is there
+a factual dispute created by the testimony of Derek Ford, Sharmaine Lindahl, or Doug Reese. As
+Mr. Ford testified, patrolling for copyright infringement was not in his job description. See Dkt.
+#101, Ex. 101 at 99:23-100:19 (“Q. Did Michael ever instruct you that if you saw things that
+appeared to be infringing on sideload.com, you should do something about it? . . . . A. I just
+programmed.”). Similarly, the fact that Doug Reese, MP3tunes’ Chief Technology Officer, and
+Sharmain Lindahl were not instructed to take action as to copyright infringement does not create a
+factual dispute. As Sharmain Lindahl explained in the very excerpt quoted by Plaintiffs’ in their
+Motion for Reconsideration: “That was not my job duties (sic) to deal with taking down music from
+our site.” See Dkt. # 210, Ex. 103, 125:16-17. Nor would such work be the territory of the Chief
+2
+
+Plaintiffs’ mistakenly cite Exhibit 4 of Document Entry No. 210 when in fact the relevant
+testimony is found in Exhibit 4 of Document Entry No. 198.
+17
+
+Case 1:07-cv-09931-WHP -FM Document 272
+
+Filed 09/23/11 Page 18 of 19
+
+Technology Officer. Accordingly, the fact that these employees did not take action against
+infringement does not create a factual dispute as to whether or not 153 user accounts were
+terminated for sharing files.
+Moreover, Plaintiffs absurdly claim that “Robertson’s declaration did not actually state that
+the 153 users listed were terminated for suspected copyright infringement.” Dkt. # 269 at 19. To
+the contrary, Mr. Robertson states: “MP3tunes has terminated the accounts of users whom it has
+suspected of using MP3tunes’ services for the purposes of infringing activity. Attached hereto as
+Exhibit D is a chart listing user accounts that were terminated for such reasons.” Dkt. # 184 at ¶ 11
+(emphasis added). Plaintiffs convoluted reading of that statement does not create a dispute as to
+whether or not MP3tunes terminated the accounts of 153 users for copyright infringement.
+Plaintiffs have used the testimony of Mr. Robertson and other witnesses out of context in an
+attempt to manufacture a contradiction where it does not exist, while ignoring testimony from
+witnesses that demonstrates that MP3tunes clearly had a policy for terminating the accounts of
+repeat infringers and user accounts were in fact terminated due to repeated infringement. See Dkt.
+#189, Ex. W at 239:15-240:14) (Lindahl testifying to instance where a user account was terminated
+for sharing content); Ex. V at 242:11-243:10) (MP3tunes employee Kendall Dawson testifying to
+terminating a user account for file sharing). Accordingly, none of the testimony cited creates an
+triable issue of fact.
+In addition, Plaintiffs repeat their claim that MP3tunes was unable to determine the reasons
+why it terminated user accounts, with a reference to an email displaying a chart that shows 88,642
+disabled user accounts in which MP3tunes stated there is no way to tell why any given record was
+set to “disabled” status. This argument has already been presented to this court, see Dkt. Entry #
+209 at n. 11, and rejected. MP3tunes’ inability to state why those 88,642 user accounts were
+terminated is irrelevant to whether or not MP3tunes was able to determine whether it terminated
+153 users for file sharing.
+18
+
+Case 1:07-cv-09931-WHP -FM Document 272
+
+Filed 09/23/11 Page 19 of 19
+
+Accordingly, this Court did not commit an error, much less a clear error, when it held that
+MP3tunes terminated the accounts of users for copyright infringement.
+
+CONCLUSION
+Accordingly, Plaintiffs’ Motion for Reconsideration should be denied in all respects.
+
+Dated: New York, NY
+September 23, 2011
+
+DUANE MORRIS LLP
+By: /s/
+Gregory P. Gulia
+Vanessa Hew
+R. Terry Parker
+1540 Broadway
+New York, NY 10036
+(212) 692-1000
+Edward M. Cramp (pro hac vice)
+Michelle Hon (pro hac vice)
+Counsel for Defendants
+
+DM1\2856785.2
+
+19
+
+

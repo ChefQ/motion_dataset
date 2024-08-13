@@ -1,0 +1,729 @@
+Case 6:09-cv-00168-LED-JDL Document 30
+
+Filed 06/02/09 Page 1 of 17 PageID #: 417
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF TEXAS
+TYLER DIVISION
+DAVIS-LYNCH, INC.
+
+§
+§
+Plaintiff,
+§
+§
+vs.
+§
+§
+HILCORP ENERGY COMPANY;
+§
+McRAE EXPLORATION &
+§
+PRODUCTION, INC.;
+§
+MILLENNIUM OFFSHORE
+§
+GROUP, INC.;
+§
+NEUMIN PRODUCTION COMPANY; §
+REEF EXPLORATION, L.P.;
+§
+RIDGELAKE ENERGY, INC.;
+§
+TUCKER ENERGY SERVICES
+§
+USA, INC.;
+§
+WEATHERFORD U.S., L.P.;
+§
+WUS HOLDING, LLC;
+§
+WEATHERFORD INT’L, INC.
+§
+§
+Defendants.
+§
+
+CIVIL CASE NO. 6:09-cv-168-LED
+JURY TRIAL REQUESTED
+
+PLAINTIFF DAVIS-LYNCH, INC.’S RESPONSE TO
+WEATHERFORD’S MOTION TO DISMISS PURSUANT TO RULE 12(b)(6)
+
+HOULITIGATION:958093.1
+
+Case 6:09-cv-00168-LED-JDL Document 30
+
+Filed 06/02/09 Page 2 of 17 PageID #: 418
+
+TABLE OF CONTENTS
+I.
+
+INTRODUCTION ................................................................................................................... 1
+
+II.
+
+SUMMARY OF ARGUMENT .................................................................................................. 1
+A.
+
+ARGUMENT & AUTHORITIES ............................................................................................. 2
+
+II.
+
+III.
+
+The Rule Against Claim Splitting is Not Applicable Here........................................ 2
+
+B.
+
+This Case is Not a Collateral Attack ........................................................................... 7
+
+C.
+
+First-to-File is Not Applicable Here ............................................................................ 8
+
+D.
+
+Weatherford, Int’l, Inc.’s Declaratory Judgment Action Inapplicable ................... 9
+
+E.
+
+Davis-Lynch has Not Violated the Protective Order ............................................... 11
+
+F.
+
+Defendant Hilcorp’s Joinder...................................................................................... 11
+CONCLUSION .................................................................................................................... 12
+
+HOULITIGATION:958093.1
+
+i
+
+Case 6:09-cv-00168-LED-JDL Document 30
+
+Filed 06/02/09 Page 3 of 17 PageID #: 419
+
+TABLE OF AUTHORITIES
+Cases
+Ameritox, Ltd. v. Aegis Sciences Corp., Case No. 3:08-cv-1168-D, 2009 WL 305874 at *4 (N.D.
+Tex. Feb. 9, 2009) ................................................................................................................... 2, 4
+Carter v. Nicholson, Case No. 07-20169, 2007 WL 3316086 at *4 (5th Cir. Nov. 8, 2007) ..... 8, 9
+Civix-DDI, LLC v. Expedia, Inc., Case No. 04-c-8031, 2005 WL 1126906 at *1-2 (N.D. Ill. May
+2, 2005) ....................................................................................................................................... 5
+Glitsch, Inc. v. Koch Engineering Co., 216 F.3d 1382 (Fed. Cir. 2003) ........................................ 7
+Kim v. Sara Lee Bakery Group, Inc., 412 F.Supp.2d 929 (N.D. Ill. 2006) .................................... 5
+Lee v. City of Chicago, 330 F.3d 456, 459 (7th Cir. 2003)............................................................. 1
+Mann Mfg., Inc. v. Hortex, Inc., 439 F.2d 403, 405 (5th Cir. 1971)............................................... 9
+Mars, Inc. v. Nippon Conlux Kabushiki-Kaisha, 58 F.3d 616, 618 (Fed. Cir. 1995) ................. 2, 5
+Pacesetter Systems, Inc. v. Medtronic, Inc., 678 F.2d 93, 94 (9th Cir. 1982) ................................ 9
+Sensormatic Sec. Corp. v. Sensormatic Elec. Corp., 452 F.Supp.2d 621 (D. Md. 2006)............... 5
+Single Chip Systems, Corp. v. Intermec IP Corp., 495 F.Supp.2d 1052 (S.D. Cal. 2007) ............. 5
+Super Van, Inc. v. City of San Antonio, 92 F.3d 366, 369 (5th Cir. 1996) ................................. 5, 6
+Torres v. Rebarchak, 814 F.2d 1219, 1225 (7th Cir. 1987)............................................................ 6
+W. Gulf Mar. Ass’n v. ILA Deep Sea Local 24, 751 F.2d at 724. ................................................... 9
+Other
+Exhibit 1.......................................................................................................................................... 3
+Exhibit 2.......................................................................................................................................... 3
+Exhibit 3.................................................................................................................................... 4, 11
+Exhibit 4........................................................................................................................................ 10
+Exhibit 5........................................................................................................................................ 11
+
+HOULITIGATION:958093.1
+
+ii
+
+Case 6:09-cv-00168-LED-JDL Document 30
+
+Filed 06/02/09 Page 4 of 17 PageID #: 420
+
+Plaintiff Davis-Lynch, Inc. (“Davis-Lynch”) files this Response to Weatherford U.S.,
+L.P., WUS Holding, LLC, and Weatherford Int’l, Inc.’s (collectively “Defendants”) Motion to
+Dismiss Pursuant to Rule 12(b)(6) [Doc.21] and would respectfully show this Court as follows:
+I.
+
+INTRODUCTION
+Defendants spend roughly half of their Motion to Dismiss (“Motion”) mischaracterizing
+
+events related to Davis-Lynch’s efforts to supplement its infringement contentions in the 2007
+Litigation. 1 Davis-Lynch does not agree with Defendants’ representations contained in their
+“Factual Background” section. The only relevant facts for Defendants’ Motion which need to be
+evaluated here are the fact that (1) nine of the ten defendants in this case are not parties to the
+2007 Litigation; and (2) the accused products being asserted against Weatherford Int’l, Inc. in
+this case are, according to Weatherford Int’l, Inc., different from the accused products in the
+2007 Litigation. Defendants’ remaining allegations are simply mischaracterizations meant to
+bury the relevant facts identified above. Further, the legal standards do not support Defendants’
+Motion.
+Therefore, in order to avoid burdening this Court with irrelevant disputes, Davis-Lynch
+will focus this Response on the controlling case law and relevant facts necessary for a
+determination here.
+II.
+
+SUMMARY OF ARGUMENT
+When evaluating a Rule 12(b)(6) motion, the court must look at the “complaint in the
+
+light most favorable to the plaintiff, taking as true all well-pleaded factual allegations and
+making all possible inferences from those allegations in his or her favor.” 2 Defendants assert
+four theories as the bases for their Motion. However, Defendants ignore the fact that nine of the
+1
+
+The term “2007 Litigation” refers to the following pending suit: Davis-Lynch, Inc. v. Weatherford Int’l, Inc., Case
+No. 6:07-cv-559-JDL, in the United States District Court for the Eastern District of Texas, Tyler Division.
+2
+Lee v. City of Chicago, 330 F.3d 456, 459 (7th Cir. 2003).
+
+HOULITIGATION:958093.1
+
+1
+
+Case 6:09-cv-00168-LED-JDL Document 30
+
+Filed 06/02/09 Page 5 of 17 PageID #: 421
+
+ten defendants in this case are not parties to the 2007 Litigation. Defendants also ignore the fact
+that the claims against Weatherford Int’l, Inc., the one defendant also in the 2007 Litigation, are
+claims related to different models. These facts require that Defendants’ Motion be denied.
+Further, the first-to-file rule is not applicable to this case, and the basis for Defendants’ argument
+related to compulsory counterclaims is wrong.
+II.
+
+ARGUMENT & AUTHORITIES
+A.
+
+The Rule Against Claim Splitting is Not Applicable Here
+
+Dismissal based on the theory of claim splitting is not proper here for any defendants
+much less the Defendants seeking dismissal. Applying the standard for claim splitting as
+provided by the Fifth Circuit to the facts here show that claim splitting is not a proper basis for
+dismissal. Further, an evaluation of the cases relied upon by Defendants reveals that these cases
+are distinguishable from the facts here. Thus, Defendants’ Motion should be denied.
+The general principles of claim splitting are not peculiar to patent law. Therefore, the law
+of the Fifth Circuit controls how the principles of claim splitting are applied. 3 The Fifth Circuit
+uses the “same transaction” test to determine whether a single claim has been split.4 In other
+words, “[i]n a claim splitting case, the second suit will be barred if the claim involves the same
+parties and arises out of the same transaction or series of transactions as the first claim.” 5 When
+this “same transaction” test is applied to the facts here, it shows that claim splitting has not taken
+place.
+
+3
+
+There are no Federal Circuit cases discussing choice of law with regard to claim splitting. However, in Mars, the
+Federal Circuit did evaluate the principles of claim preclusion. See Mars, Inc. v. Nippon Conlux Kabushiki-Kaisha,
+58 F.3d 616, 618 (Fed. Cir. 1995). Although claim preclusion is a separate doctrine, the analysis indicates that the
+law of the Fifth Circuit should be applied here. See id.
+4
+See Ameritox, Ltd. v. Aegis Sciences Corp., Case No. 3:08-cv-1168-D, 2009 WL 305874 at *4 (N.D. Tex. Feb. 9,
+2009) (quoting FDIC v. Nelson, 19 F.3d 15, 1994 WL 93409 at *2 n.5 (5th Cir. Mar. 15, 1994)).
+5
+Id. (citations omitted).
+
+HOULITIGATION:958093.1
+
+2
+
+Case 6:09-cv-00168-LED-JDL Document 30
+
+Filed 06/02/09 Page 6 of 17 PageID #: 422
+
+In the 2007 Litigation, Davis-Lynch is alleging that Weatherford Int’l, Inc. is infringing
+U.S. Patent No. 6,679,336 (“the ‘336 patent”) through the manufacture and selling of models
+L42A, L45AP, and L46AP. 6 In this case, Davis-Lynch is alleging that Weatherford Int’l, Inc. is
+infringing the ‘336 patent through the manufacture and selling of different models. 7 In the 2007
+Litigation, Weatherford Int’l, Inc. took the position that “Weatherford disputes that all models
+are the same…” 8 Weatherford Int’l, Inc. also took pains to refer to the different models as
+different products to draw more of a distinction. 9 Further, in a hearing before Judge Love in the
+2007 Litigation, Weatherford Int’l, Inc. continued to draw distinctions between L42A, L45AP,
+and L46AP and other models. 10
+Thus, the accused models in this case are different from the accused models in the 2007
+Litigation. The claims here do not arise out of the same transaction or series of transactions as in
+the 2007 Litigation. Davis-Lynch recognizes that Weatherford Int’l, Inc. is now trying to take the
+position that the accused models in this case and in the 2007 Litigation are the same, 11 but this
+maneuvering by Weatherford Int’l, Inc. is insufficient to erase its previous position on this issue
+– that the accused models in this case are different from the accused models in the 2007
+Litigation. Therefore, the rule against claim splitting does not apply here.
+As noted above, Defendant’s Motion was filed only by three of the ten defendants.
+Despite certain arguments in the Motion, Defendants have no standing to assert that their Motion
+
+6
+
+See Davis-Lynch’s Third Supplemental Infringement Contentions in Case No. 6:07-cv-559-JDL attached hereto as
+Exhibit 1.
+7
+See Davis-Lynch’s Complaint [Doc.1] at ¶ 82.
+8
+See Weatherford Int’l, Inc.’s Opposition to Plaintiff Davis-Lynch’s Motion for Reconsideration or, Alternatively,
+Second Motion for Leave [Doc.89] at 14 in Case No. 6:07-cv-559-JDL.
+9
+See id.
+10
+See Hearing Transcript dated January 7, 2009, in Case No. 6:07-cv-559-JDL at 55-56 attached hereto as Exhibit
+2.
+11
+See Defendants’ Motion at 13-15.
+
+HOULITIGATION:958093.1
+
+3
+
+Case 6:09-cv-00168-LED-JDL Document 30
+
+Filed 06/02/09 Page 7 of 17 PageID #: 423
+
+applies to the other defendants in this case that are customers who used the accused models. 12
+This is underlined by the fact that the attorney for Defendants confirmed he does not represent
+the other defendants in this case, 13 and the soon thereafter filing of a joinder to the Motion by
+one of the customer-defendants which will be addressed separately. 14
+Further, the “same transaction” test only bars a claim if it involves the same parties. 15
+There is nothing improper about a patentee suing additional infringers. The claims against the
+customer-defendants are based on those defendants use of the accused products rather than the
+manufacture and selling of accused products which makes them a different transaction as well.
+In addition to Weatherford Int’l, Inc. and the customer-defendants, there are two other
+defendants in this case: Weatherford U.S., L.P. and WUS Holding, LLC. These are likewise
+different entities not in the 2007 Litigation which do not invoke the prohibition against claim
+splitting. Further, although Defendants make statements about “privity” in their Motion, there
+has been no showing that Weatherford U.S., L.P. and WUS Holding, LLC are in privity with
+Weatherford Int’l, Inc.
+Therefore, applying the “same transaction” test as stated by the Fifth Circuit, the bar
+against claim splitting is not applicable to this case. There is only one defendant from the 2007
+Litigation in this case, and the accused products in this case related to Weatherford Int’l, Inc. are
+not the same as the products in the 2007 Litigation. Further, the claims relied upon by
+Defendants are distinguishable from this case.
+
+12
+
+It should be noted that several of the defendants have their own attorneys who have already made appearances for
+them in this case. Further, Defendants Millenium Offshore Group, Inc. and Neumin Production Company are
+currently in default in this case.
+13
+See E-Mail from Dean Lechtenberger to Eric Adams dated May 28, 2009, attached hereto as Exhibit 3.
+14
+On May 29, 2009, Defendant Hilcorp Energy Company filed a Joinder in Defendants’ Motion [Doc.28]. DavisLynch will provide a response to this Joinder as well.
+15
+See Ameritox, Ltd. v. Aegis Sciences Corp., Case No. 3:08-cv-1168-D, 2009 WL 305874 at *4 (N.D. Tex. Feb. 9,
+2009) (quoting FDIC v. Nelson, 19 F.3d 15, 1994 WL 93409 at *2 n.5 (5th Cir. Mar. 15, 1994)).
+
+HOULITIGATION:958093.1
+
+4
+
+Case 6:09-cv-00168-LED-JDL Document 30
+
+•
+
+Filed 06/02/09 Page 8 of 17 PageID #: 424
+
+In Mars, the patentee received a final judgment of infringement. 16 The patentee then
+brought suit against the parent company of the previous defendant based on the same
+patent, the same claims, and the same product. 17 The case focused on the theory of claim
+preclusion which is not at issue here. 18
+
+•
+
+In SuperVan, the first suit was an adversary proceeding in bankruptcy court which
+resulted in an injunction. 19 The plaintiff instituted a second adversary action against the
+same defendants, and the plaintiff prevailed again. 20 The Fifth Circuit did not address the
+claim splitting issue, however, because the parties had agreed not to consolidate the two
+cases. 21
+
+•
+
+In Orion, the second suit involved the same parties and the same patent. 22 This case did
+not involve a product that the plaintiffs had attempted to add to the first case, but there
+was no indication that the defendant in the first case had gone on record as claiming that
+the new product was different as Weatherford Int’l, Inc. did here. 23
+
+•
+
+In Civix, the plaintiff sought to amend its interrogatories to assert more patent claims
+against Defendant, but withdrew those claims. 24 The second suit involved the same
+patent the same accused products, and the same parties. 25
+
+16
+
+Mars, Inc. v. Nippon Conlux Kabushiki-Kaisha, 58 F.3d 616, 617 (Fed. Cir. 1995).
+See id.
+18
+See id.
+19
+See Super Van, Inc. v. City of San Antonio, 92 F.3d 366, 369 (5th Cir. 1996).
+20
+See id.
+21
+See id. at 370.
+22
+See Exhibit C to Defendant’s Motion [Doc.21].
+23
+See id.
+24
+See Civix-DDI, LLC v. Expedia, Inc., Case No. 04-c-8031, 2005 WL 1126906 at *1-2 (N.D. Ill. May 2, 2005).
+25
+See id. at *5. Further, the cases cited along with Civix are distinguishable from this case. See Single Chip Systems,
+Corp. v. Intermec IP Corp., 495 F.Supp.2d 1052 (S.D. Cal. 2007); Kim v. Sara Lee Bakery Group, Inc., 412
+F.Supp.2d 929 (N.D. Ill. 2006); Sensormatic Sec. Corp. v. Sensormatic Elec. Corp., 452 F.Supp.2d 621 (D. Md.
+2006).
+17
+
+HOULITIGATION:958093.1
+
+5
+
+Case 6:09-cv-00168-LED-JDL Document 30
+
+Filed 06/02/09 Page 9 of 17 PageID #: 425
+
+Additionally, this case falls within one of the exceptions to claim splitting which requires
+that this Motion be denied. In Super Van, the Fifth Circuit relied on the Restatement (Second)
+Judgments § 26 for its discussion of claim splitting. 26 One of the cases cited to by the Fifth
+Circuit was Torres. 27 Torres is a Seventh Circuit case that also addressed claim splitting while
+applying the same section of the Restatements. 28
+In Torres, the court explained that there are certain exceptions to the rule against claim
+splitting. 29 One exception stated in Comment b to the Restatements is as follows: “A
+determination by the court that its judgment is ‘without prejudice’ (or words to that effect) to a
+second action on the omitted part of the claim, expressed in the judgment itself, or in the findings
+of fact, conclusions of law, opinion, or similar record, unless reserved or set aside, should
+ordinarily be given effect in the second action…” 30
+In the 2007 Litigation, the court did address the possibility of a second case involving
+models other than L42A, L45AP, and L46AP. In a Memorandum Opinion and Order, the court
+in the 2007 Litigation stated that precluding the additional products from that case may be
+prejudicial against Davis-Lynch, but the prejudice would not be significant. 31 The court then
+acknowledged that Davis-Lynch had pointed out that it would be forced to file a second lawsuit
+based on the additional products if it were not permitted to include those additional products in
+the 2007 Litigation. 32 The court then acknowledged that Weatherford Int’l, Inc. had argued that a
+separate case on the additional products would be barred by claim preclusion principles, but the
+
+26
+
+Super Van, Inc. v. City of San Antonio, 92 F.3d 366, 371 (5th Cir. 1996).
+See id.
+28
+Torres v. Rebarchak, 814 F.2d 1219, 1225 (7th Cir. 1987).
+29
+Id.
+30
+Id.
+31
+See Memorandum Opinion and Order [Doc.83] at 7 in Case No. 6:07-cv-559-JDL (emphasis added).
+32
+See id. at 8, n.4.
+27
+
+HOULITIGATION:958093.1
+
+6
+
+Case 6:09-cv-00168-LED-JDL Document 30
+
+Filed 06/02/09 Page 10 of 17 PageID #: 426
+
+court refused to address that issue. 33 Thus, the court’s statement that Davis-Lynch would not be
+significantly prejudiced if the additional models were not included in the 2007 Litigation
+supports the fact that a separate case involving the additional products was a possibility.
+Therefore, the statements by the court in the 2007 Litigation that a separate case
+involving the additional products was a possibility places this case under the exception to the
+rule against claim splitting. Therefore, Defendants’ Motion should be denied.
+B.
+
+This Case is Not a Collateral Attack
+
+Defendants rely on Glitsch 34 for their argument that Davis-Lynch’s claims in this case are
+a collateral attack on Judge Love’s order. Defendants also cite to the Orion order which relied on
+Glitsch. However, the case here is distinguishable from Glitsch and Orion.
+First, this case involves different parties with the exception of Weatherford Int’l, Inc.
+Thus, Glitsch and Orion cannot be applied against Davis-Lynch as to these different entities
+since both dealt with same parties. Further, the claims against Weatherford Int’l, Inc. show that
+they involve different models from the 2007 Litigation. This distinction was shown in the
+previous section.
+As stated above, Weatherford Int’l, Inc. distinguished models L42A, L45AP, and L46AP
+from the accused products in this case. In fact, the court in the 2007 Litigation stated that
+precluding the additional products from that case may be prejudicial against Davis-Lynch, but
+the prejudice would not be significant. 35 The court then acknowledged that Davis-Lynch had
+pointed out that it would be forced to file a second lawsuit based on the additional products if it
+were not permitted to include those additional products in the 2007 Litigation.36 The court then
+
+33
+
+See id.
+Glitsch, Inc. v. Koch Engineering Co., 216 F.3d 1382 (Fed. Cir. 2003).
+35
+See Memorandum Opinion and Order [Doc.83] at 7 in Case No. 6:07-cv-559-JDL.
+36
+See id. at 8, n.4.
+34
+
+HOULITIGATION:958093.1
+
+7
+
+Case 6:09-cv-00168-LED-JDL Document 30
+
+Filed 06/02/09 Page 11 of 17 PageID #: 427
+
+acknowledged that Weatherford Int’l, Inc. had argued that a separate case on the additional
+products would be barred by claim preclusion principles, but the court refused to address that
+issue. 37 Thus, the court’s statement that Davis-Lynch would not be significantly prejudiced with
+the court’s refusal to address the issue of claim preclusion underlines the fact that Weatherford
+Int’l, Inc. had drawn such a drastic distinction between L42A, L45AP, and L46AP and the
+additional products that a separate case involving the additional products was a possibility.
+There is nothing to prevent Davis-Lynch was pursuing other infringers simply because
+these other infringers are customers of Weatherford Int’l, Inc. There has been no showing that
+there is any reason that Davis-Lynch should not be permitted to maintain its case against
+Weatherford U.S., L.P. or WUS Holding, LLC. The fact that the claims against Weatherford
+Int’l, Inc. involve different products means that Davis-Lynch can proceed against Weatherford
+Int’l, Inc. as well.
+The only basis that Defendants assert for dismissing the case against them as it relates to
+this collateral attack argument are cases that are distinguishable from the facts of this case.
+Therefore, the motion to dismiss should be denied.
+C.
+
+First-to-File is Not Applicable Here
+
+Defendants argue that this case should be dismissed based on the first-to-file rule.
+According to the Fifth Circuit, however, the first-to-file rule “usually applies when opposing
+parties have filed separate lawsuits concerning the same core facts.” 38 The Fifth Circuit also
+stated that “[a]s a general rule, ‘the court in which an action is first filed is the appropriate court
+
+37
+
+See id.
+Carter v. Nicholson, Case No. 07-20169, 2007 WL 3316086 at *4 (5th Cir. Nov. 8, 2007) (citing W. Gulf Mar.
+Ass’n v. ILA Deep Sea Local 24, 751 F.2d 721, 728-31 (5th Cir. 1985)).
+
+38
+
+HOULITIGATION:958093.1
+
+8
+
+Case 6:09-cv-00168-LED-JDL Document 30
+
+Filed 06/02/09 Page 12 of 17 PageID #: 428
+
+to determine whether subsequently filed cases involving substantially similar issues should
+proceed.” 39
+Here, there has been no race to the courthouse. Davis-Lynch filed both lawsuits.
+Therefore, the first-to-file rule cannot be applied to this case. Each of the cases relied upon by
+Defendants involves opposing parties filing lawsuits against each other and arguing over which
+should proceed based on the first-to-file rule. In West Gulf, the defendant ILA had filed suit in
+the Southern District of New York. 40 Afterwards, plaintiff West Gulf filed suit in the Southern
+District of Texas. 41 Both Mann and Pacesetter also involved a race to the courthouse by
+opposing parties. 42
+Additionally, even if the first-to-file rule were applicable here for argument’s sake, the
+Fifth Circuit has held that the court in which the first case was filed is to address the issue. 43
+Here, that would be the court in the previously filed case rather than this court. Further, the
+statements made by the court in the previously filed case, as explained in the previous section,
+suggest that Davis-Lynch’s case here is permissible.
+Therefore, Defendant’s Motion should be denied.
+D.
+
+Weatherford, Int’l, Inc.’s Declaratory Judgment Action Inapplicable
+
+Defendants claim that Weatherford Int’l, Inc.’s declaratory judgment action in the 2007
+Litigation required Davis-Lynch to bring the claims of this case as compulsory counterclaims in
+the 2007 Litigation. 44 Of course, the only party in the 2007 Litigation is Weatherford, Int’l, Inc.,
+and therefore, this allegation cannot concern the other nine defendants in this case. Further, the
+39
+
+Id. (quoting Save Power Ltd. v. Synteck Fin. Corp., 121 F.3d 947, 950 (5th Cir. 1997)).
+See W. Gulf Mar. Ass’n v. ILA Deep Sea Local 24, 751 F.2d at 724.
+41
+See id.
+42
+See Mann Mfg., Inc. v. Hortex, Inc., 439 F.2d 403, 405 (5th Cir. 1971); see also Pacesetter Systems, Inc. v.
+Medtronic, Inc., 678 F.2d 93, 94 (9th Cir. 1982).
+43
+See Carter v. Nicholson, Case No. 07-20169, 2007 WL 3316086 at *4 (citing Save Power Ltd. v. Synteck Fin.
+Corp., 121 F.3d 947, 950 (5th Cir. 1997)).
+44
+See Defendants’ Motion at 20.
+40
+
+HOULITIGATION:958093.1
+
+9
+
+Case 6:09-cv-00168-LED-JDL Document 30
+
+Filed 06/02/09 Page 13 of 17 PageID #: 429
+
+statement that Weatherford Int’l, Inc. is seeking a declaration on its “Auto-Fill Float Collars”
+generally rather than on any specific models is incorrect.
+In supplemental interrogatory answers served on March 9, 2009, Weatherford Int’l, Inc.
+answered Davis-Lynch’s interrogatory asking for “all material facts that support your allegation
+of non-infringement.” 45 The first sentence of Weatherford Int’l, Inc.’s answer is as follows: “As
+to each asserted claim, each of Weatherford’s accused products (L42A, L45AP, and L46AP)
+does not contain any or all of the following limitations asserted by Davis-Lynch during
+prosecution of the ‘336 patent as distinguishing features of the claim invention:…” 46 Thus,
+Weatherford Int’l, Inc. has specifically stated that its non-infringement allegations relate only to
+models L42A, L45AP, and L46AP. Since Weatherford Int’l, Inc.’s declaratory judgment action
+for non-infringement is limited to these models, Defendants cannot now argue that Davis-Lynch
+is obligated to address issues related to different models because of the declaratory judgment
+action.
+Defendants are once again misrepresenting earlier positions for advantage now. There is
+no question that Weatherford Int’l, Inc.’s non-infringement contentions in the 2007 Litigation
+refer only to models L42A, L45AP, and L46AP. Further, the non-infringement assertions in the
+2007 Litigation are assertions being made solely by Weatherford Int’l. None of the other
+defendants are a party to that case, and therefore, the argument that this case should be dismissed
+as to the other defendants is without merit as well.
+Therefore, Defendant’s Motion should be denied.
+
+45
+
+See Defendant Weatherford Int’l, Inc.’s Third Supplemental Objections and Answers to Plaintiff Davis-Lynch’s
+First Set of Interrogatories (Nos.1-12) at Interrogatory No.3 attached hereto as Exhibit 4.
+46
+Id.
+
+HOULITIGATION:958093.1
+
+10
+
+Case 6:09-cv-00168-LED-JDL Document 30
+
+E.
+
+Filed 06/02/09 Page 14 of 17 PageID #: 430
+
+Davis-Lynch has Not Violated the Protective Order
+
+Defendants also argue that Davis-Lynch has violated the protective order in the 2007
+Litigation. It is unclear how this is relevant to this case, but the fact is that Davis-Lynch has not
+violated the protective order in that case. The only information that Davis-Lynch included in its
+complaint in this case was the identity of each defendant and the model that each defendant
+made, sold, or used (depending on the defendant).
+Davis-Lynch is entitled to sue infringers of its patent. The defendants in this case are
+entitled to know which model(s) form the basis of the claims against them. Further, these are
+sales to third-party customers. There are no secrets being disclosed. In fact, various defendants
+have sent Davis-Lynch invoices related to Defendants, and these invoices are not labeled as
+confidential. 47 Further, the fact that these other models exist is already in the public domain by
+Weatherford Int’l, Inc.’s own filings. 48 Therefore, there has been violation of the protective order
+in the 2007 Litigation. Weatherford Int’l, Inc.’s position would suggest that Davis-Lynch could
+never sue any third-party users of the accused models simply because their name appeared in a
+document Weatherford Int’l, Inc. had marked “confidential.”
+F.
+
+Defendant Hilcorp’s Joinder
+
+As stated above, Defendant Hilcorp Energy Company (“Hilcorp”) filed a Joinder to
+Defendants’ Motion [Doc.28]. This Joinder was filed roughly forty minutes after Defendants’
+counsel informed Davis-Lynch that he was only representing the Defendants. 49 Hilcorp’s Joinder
+does not add any substantive to this discussion. The fact that Hilcorp felt the need to file a
+Joinder bolsters the fact that Defendants have no standing to assert their Motion for anyone other
+47
+
+See Invoices related to Defendant Tucker Energy Services marked as Exhibit 5. Given Defendants’ accusation,
+Davis-Lynch is seeking to file Exhibit 5 under seal despite the fact that the invoices are not marked “confidential”
+out of an abundance of caution.
+48
+See Exhibit M to Defendant’s Motion [Doc.21-14].
+49
+See Exhibit 3.
+
+HOULITIGATION:958093.1
+
+11
+
+Case 6:09-cv-00168-LED-JDL Document 30
+
+Filed 06/02/09 Page 15 of 17 PageID #: 431
+
+than themselves. Since Hilcorp does not add any substantive arguments, the arguments above
+apply to its Joinder as well.
+III.
+
+CONCLUSION
+Defendants based their Motion on four separate theories. As the evidence above shows,
+
+none of these theories is applicable to this case. When the facts of this case are applied to the law
+concerning these theories, they each indicate that Defendants’ Motion should be denied. Further,
+the allegation that the protective order in the 2007 Litigation has been violated is without any
+merit.
+
+HOULITIGATION:958093.1
+
+12
+
+Case 6:09-cv-00168-LED-JDL Document 30
+
+Filed 06/02/09 Page 16 of 17 PageID #: 432
+
+Respectfully submitted,
+
+/s/ Eric Adams
+Ernest W. Boyd
+State Bar No. 00783694
+Attorney-in-Charge
+MehaffyWeber, P.C.
+One Allen Center
+500 Dallas Street, Suite 1200
+Houston, Texas 77002
+Telephone: (713) 655-1200
+Facsimile: (713) 655-0222
+butchboyd@mehaffyweber.com
+Of Counsel:
+Eric M. Adams
+State Bar No. 24031686
+ericadams@mehaffyweber.com
+Corey J. Seel
+State Bar No. 24037465
+coreyseel@mehaffyweber.com
+MehaffyWeber, P.C.
+One Allen Center
+500 Dallas Street, Suite 1200
+Houston, Texas 77002
+Telephone: (713) 655-1200
+Facsimile: (713) 655-0222
+Local Counsel:
+Andy Tindel
+State Bar No. 20054500
+atindel@andytindel.com
+Provost Umphrey Law Firm, LLP
+112 E. Line Street, Suite 304
+Tyler, Texas 75702
+Telephone: (903) 596-0900
+Facsimile: (903) 596-0909
+
+ATTORNEYS FOR PLAINTIFF
+DAVIS-LYNCH, INC.
+
+HOULITIGATION:958093.1
+
+13
+
+Case 6:09-cv-00168-LED-JDL Document 30
+
+Filed 06/02/09 Page 17 of 17 PageID #: 433
+
+CERTIFICATE OF SERVICE
+I hereby certify that on June 2, 2009, I electronically transmitted the attached document
+to the Clerk of Court using the ECF System for filing. Based on the records currently on file, the
+Clerk of Court will transmit a Notice of Electronic Filing to the following ECF registrants:
+
+Stephen H. Cagle
+J. Dean Lechtenberger
+Joan E. Beckner
+Eric Schlichter
+HOWREY LLP
+1111 Louisiana, 25th Floor
+Houston, Texas 77002-5242
+S. Calvin Capshaw
+Elizabeth L. DeRieux
+Capshaw DeRieux, LLP
+P.O. Box 3999
+Longview, Texas 75606-3999
+ATTONEYS FOR DEFENDANT
+WEATHERFORD INT’L, INC.
+
+/s/ Eric Adams
+Eric Adams
+
+CERTIFICATE OF AUTHORIZATION TO FILE SEALED DOCUMENTS
+Pursuant to E.D. Tex. Loc. Ct. R. CV-5(a), I hereby certify that a Motion for Leave to file
+Exhibit 5 under seal has been filed.
+
+/s/ Eric Adams
+Eric Adams
+
+HOULITIGATION:958093.1
+
+14
+
+

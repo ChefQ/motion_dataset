@@ -1,0 +1,3009 @@
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 1 of 68 PageID #: 1485
+
+UNITED STATES DISTRICT COURT FOR THE
+EASTERN DISTRICT OF MISSOURI
+MISSOURI STATE CONFERENCE OF
+THE NATIONAL ASSOCIATION FOR
+THE ADVANCEMENT OF COLORED
+PEOPLE, REDDITT HUDSON,
+F. WILLIS JOHNSON and
+DORIS BAILEY,
+Plaintiffs,
+v.
+FERGUSON-FLORISSANT SCHOOL
+DISTRICT and ST. LOUIS COUNTY
+BOARD OF ELECTIONS
+COMMISSIONERS,
+Defendants.
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+Civ. No. 4:14-cv-02077-RWS
+
+PLAINTIFFS’ MEMORANDUM OF LAW IN SUPPORT OF MOTION FOR
+SUMMARY JUDGMENT
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 2 of 68 PageID #: 1486
+
+TABLE OF CONTENTS
+TABLE OF AUTHORITIES ......................................................................................................... iii
+INTRODUCTION AND PRELIMINARY STATEMENT............................................................ 1
+BACKGROUND ............................................................................................................................ 2
+SUMMARY JUDGMENT STANDARD ...................................................................................... 4
+ARGUMENT .................................................................................................................................. 4
+I.
+
+There Is No Genuine Dispute of Material Fact That Plaintiffs Have Satisfied The
+Three Gingles Preconditions. .......................................................................................... 5
+A.
+
+There is no dispute of material fact that FFSD’s African-American population
+is sufficiently large and geographically compact to allow for the creation of
+seven single-member districts for electing Board members, four of which are
+majority African-American (Gingles I). ..................................................................... 5
+
+B.
+
+There is no genuine dispute of material fact that Plaintiffs have satisfied the
+second and third Gingles preconditions. ..................................................................... 8
+1.
+
+The legal standard for Gingles II and Gingles III ....................................................... 8
+
+2.
+
+There is no dispute of material fact that, under all proposed definitions of
+candidates of choice, minority-preferred candidates usually lose and
+white-preferred candidates usually win. ............................................................... 12
+Under the District’s Proposed Methods for Identifying Candidates of
+Choice, White-Preferred Candidates Are Almost Always Elected and
+Black-Preferred Candidates Usually Lose ........................................................ 13
+
+a)
+
+b)
+
+II.
+
+i)
+
+The District’s “Top-Ranked Candidate” Approach .......................................... 14
+
+ii)
+
+The District’s “Point Estimate” Approach........................................................ 18
+Under an Appropriate Definition of Candidates of Choice, There is No
+Dispute of Material Fact That Minority-Preferred Candidates Usually
+Lose and White-Preferred Candidates Almost Always Win ............................ 20
+
+There Is No Genuine Dispute of Fact That, Under the Totality of Circumstances,
+Black Residents Of FFSD Have Less Opportunity Than Other Members Of The
+Electorate To Participate In The Political Process And Elect Candidates Of
+Their Choice ................................................................................................................. 37
+A.
+
+The “predominant” Senate Factors (Factors 2 and 7) ................................................. 38
+
+i
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 3 of 68 PageID #: 1487
+
+1.
+
+Board elections are characterized by RPV (supra Section I.B.2) (Senate
+Factor 2) ............................................................................................................... 38
+
+2.
+
+African-American candidates have largely not succeeded in being elected to
+the Board (Senate Factor 7).................................................................................. 39
+
+B.
+
+Factors related to the historical and current context of discrimination (Senate
+Factors 1, 5, and 8) .................................................................................................... 41
+1.
+
+Missouri and St. Louis County have a long history of official discrimination,
+and African-American residents of FFSD continue to bear its effects
+(Senate Factors 1 and 5). ...................................................................................... 41
+
+2.
+
+The Board is not responsive to the particularized needs of the African
+American community (Senate Factor 8). ............................................................. 48
+
+C.
+
+Factors related to campaigns and electoral structures (Senate Factors 3, 4, 6,
+and 9) ........................................................................................................................ 50
+1.
+
+African-American candidates for the Board are denied access to the
+candidate slating processes (Senate Factor 4). ..................................................... 50
+
+2.
+
+Board campaigns are characterized by racial appeals (Senate Factor 6). ................ 54
+
+3.
+
+There is no dispute that FFSD’s voting practices and procedures enhance the
+opportunity for discrimination, and its rationales for maintaining these
+practices and procedures are tenuous (Senate Factors 3 and 9). .......................... 56
+
+CONCLUSION ............................................................................................................................. 59
+
+ii
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 4 of 68 PageID #: 1488
+
+TABLE OF AUTHORITIES
+Cases
+African-American Voting Rights Legal Defense Fund, Inc. v. Missouri,
+994 F. Supp. 1105 (E.D. Mo. 1997) ......................................................................................... 42
+Aldasoro v. Kennerson,
+922 F. Supp. 339 (S.D. Cal. 1995) ............................................................................................ 23
+Allen v. State Board of Elections,
+393 U.S. 544 (1969) .................................................................................................................... 4
+Anderson v. Liberty Lobby, Inc.,
+477 U.S. 242 (1986) .................................................................................................................... 4
+Askew v. City of Rome,
+127 F.3d 1355 (11th Cir. 1997) ................................................................................................ 21
+Bartlett v. Strickland,
+556 U.S. 1 (2009) ........................................................................................................................ 6
+Bone Shirt v. Hazeltine,
+461 F.3d 1011 (8th Cir. 2006) ........................................................................................... passim
+Brooks v. Miller,
+158 F.3d 1230 (11th Cir. 1998) .................................................................................................. 9
+Brotherhood of Railroad Trainmen v. Howard,
+343 U.S. 768 (1952) .................................................................................................................. 45
+Brown v. Board of Commissioners of Chattanooga,
+722 F. Supp. 380 (E.D. Tenn. 1989) ................................................................................... 17, 55
+Brown v. Board of Education,
+349 U.S. 294 (1955) .................................................................................................................. 45
+Brown v. Thomson,
+462 U.S. 835 (1983) .................................................................................................................... 7
+Buckanaga v. Sisseton Independent School District,
+804 F.2d 469 (8th Cir. 1986) ............................................................................................. passim
+Bush v. Vera,
+517 U.S. 952 (1996) .................................................................................................................... 8
+Chasnoff v. Mokwa,
+No. ED 101748, 2015 WL 1743088 (Mo. Ct. App. E.D. Apr. 14, 2015)................................. 50
+Chisom v. Roemer,
+501 U.S. 380 (1991) ................................................................................................................ 4, 5
+Citizens for a Better Gretna v. City of Gretna,
+834 F.2d 496 (5th Cir. 1987) ........................................................................................ 10, 16, 23
+
+iii
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 5 of 68 PageID #: 1489
+
+Clay v. Board of Education of St. Louis,
+896 F. Supp. 929 (E.D. Mo. 1995) ........................................................................................... 51
+Clay v. Board of Education of St. Louis,
+90 F.3d 1357 (8th Cir. 1996) .................................................................................. 21, 23, 25, 51
+Cofield v. City of LaGrange,
+969 F. Supp. 749 (N.D. Ga. 1997) ............................................................................................ 54
+Collins v. City of Norfolk,
+816 F.2d 932 (4th Cir. 1987) .................................................................................. 17, 20, 23, 51
+Collins v. City of Norfolk,
+883 F.2d 1232 (4th Cir. 1989) ........................................................................................... passim
+Davis v. Chiles,
+139 F.3d 1414 (11th Cir. 1998) .......................................................................................... 11, 17
+Dred Scott v. Sandford,
+60 U.S. 393 (1856) .............................................................................................................. 41, 45
+Goosby v. Town Board of Hempstead,
+956 F. Supp. 326 (E.D.N.Y. 1997) ..................................................................................... 54, 55
+Guyer v. City of Kirkwood,
+38 S.W.3d 412 (Mo. 2001) ....................................................................................................... 49
+Harvell v. Blytheville School District No. 5,
+71 F.3d 1382 (8th Cir. 1995) ............................................................................................. passim
+Hazelwood School District v. United States,
+433 U.S. 299 (1977) .................................................................................................................. 45
+Jeffers v. Clinton,
+730 F. Supp. 196 (E.D. Ark. 1989) ........................................................................................... 47
+Jenkins v. Red Clay Consolidated School District Board of Education,
+4 F.3d 1103 (3d Cir. 1993) ................................................................................................... 9, 37
+Johnson v. De Grandy,
+512 U.S. 997 (1994) ............................................................................................................ 56, 57
+Jones v. Alfred H. Mayer Co.,
+392 U.S. 409 (1968) ............................................................................................................ 43, 45
+Jones v. City of Lubbock,
+727 F.2d 364 (5th Cir. 1984) .................................................................................................... 59
+Levy v. Lexington County,
+589 F.3d 708 (4th Cir. 2009) .................................................................................................... 22
+Lewis v. Alamance County,
+99 F.3d 600 (4th Cir. 1996) ................................................................................................ 21, 22
+Missouri v. Jenkins,
+515 U.S. 70 (1995) .................................................................................................................... 45
+
+iv
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 6 of 68 PageID #: 1490
+
+NAACP v. City of Niagara Falls,
+65 F.3d 1002 (2d Cir. 1995) .............................................................................................. passim
+NAACP v. City of Thomasville,
+401 F. Supp. 2d 489 (M.D.N.C. 2005) ..................................................................................... 22
+NAACP v. Hampton County Election Commission,
+470 U.S. 166 (1985) .................................................................................................................. 58
+Nipper v. Smith,
+39 F.3d 1494 (11th Cir. 1994) ............................................................................................ 10, 16
+Pope v. Cnty. of Albany,
+No. 1:11-CV-0736, 2015 WL 1311064 (N.D.N.Y. Mar. 24, 2015) ......................................... 51
+Reed v. Town of Babylon,
+914 F. Supp. 843 (E.D.N.Y. 1996) ........................................................................................... 51
+Ruiz v. City of Santa Maria,
+160 F.3d 543 (9th Cir. 1998) ............................................................................................. passim
+Rural West Tennessee African American Affairs Council, Inc. v. Sundquist,
+29 F. Supp. 2d 448 (W.D. Tenn. 1998) .............................................................................. 44, 47
+Shelley v. Kraemer,
+334 U.S. 1 (1948) ................................................................................................................ 42, 45
+Thornburg v. Gingles,
+478 U.S. 30 (1986) ............................................................................................................. passim
+United States v. City of Black Jack,
+508 F.2d 1179 (8th Cir. 1974) .................................................................................................. 43
+United States v. City of Euclid,
+580 F. Supp. 2d 584 (N.D. Ohio 2001)..................................................................................... 54
+United States v. Marengo County Commission,
+731 F.2d 1546 (11th Cir. 1984) .......................................................................................... 47, 51
+United States v. Missouri,
+388 F. Supp. 1058 (E.D. Mo. 1975) ......................................................................................... 45
+United States v. Missouri,
+515 F.2d 1365 (8th Cir. 1975) .................................................................................. 3, 45, 57, 58
+United States v. Village of Port Chester,
+704 F. Supp. 2d 411 (S.D.N.Y. 2010) ...................................................................................... 59
+Ward v. Columbus County,
+782 F. Supp 1097 (E.D.N.C. 1991) .................................................................................... 44, 56
+Westwego Citizens for Better Government v. City of Westwego,
+872 F.2d 1201 (5th Cir. 1989) .................................................................................................. 10
+Whitcomb v. Chavis,
+403 U.S. 124 (1971) .................................................................................................................. 51
+
+v
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 7 of 68 PageID #: 1491
+
+White v. Regester,
+412 U.S. 755 (1973) ........................................................................................................ 7, 13, 51
+Williams v. City of Dallas,
+734 F. Supp. 1317 (N.D. Tex. 1999) .................................................................................. 54, 55
+Statutes
+52 U.S.C. § 10301 ................................................................................................................... 1, 4, 5
+Mo. Rev. Stat. § 610.022 .............................................................................................................. 49
+Mo. Rev. Stat. ch. “Negroes and Mulattoes,” § 2 (1825) ............................................................. 42
+Mo. Rev. Stat. ch. 146, § 2-2 (1870)............................................................................................. 42
+Rules
+Federal Rule of Civil Procedure 56 ............................................................................................ 2, 4
+Constititional Provisions
+Mo. Const. art. 3 ............................................................................................................................. 7
+Mo. Const. of 1865, art. II ............................................................................................................ 42
+Mo. Const. of 1865, art. III ........................................................................................................... 42
+Mo. Const. of 1865, art. IV ........................................................................................................... 42
+Mo. Const. of 1865, art. V ............................................................................................................ 42
+Mo. Const. of 1875, art. XI ........................................................................................................... 45
+Other Authorities
+Senate Report No. 97-417 (1982) ..................................................................................... 11, 37, 38
+St. Louis County Charter ................................................................................................................ 8
+
+vi
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 8 of 68 PageID #: 1492
+
+INTRODUCTION AND PRELIMINARY STATEMENT
+This case raises fundamental legal questions about electoral processes in the FergusonFlorissant School District (“FFSD” or “the District”) and their discriminatory impact on its
+African-American citizens. The undisputed material facts establish that, based on the totality of
+circumstances, the at-large method for electing Ferguson-Florissant School Board (“Board”)
+members, in combination with racially polarized voting (“RPV”), denies African-American
+voters an equal opportunity to elect representatives of their choice, in violation of Section 2 of
+the Voting Rights Act of 1965, 52 U.S.C. § 10301 (“Section 2”).
+First, the three preconditions set forth in Thornburg v. Gingles, 478 U.S. 30 (1986), for
+establishing a Section 2 vote dilution violation are met: (1) the District’s African-American
+population is sufficiently large and geographically compact to constitute a majority of the votingage population (“VAP”) in three or four out of seven properly apportioned single-member
+districts (Gingles I) in a hypothetical redistricting plan; (2) the voting patterns of the District’s
+African-American residents are politically cohesive in Board elections (Gingles II); and (3) other
+members of the electorate vote sufficiently as a bloc to usually defeat African-American voters’
+preferred candidates (Gingles III).
+Second, under the totality of circumstances, the current at-large system for electing Board
+members causes the District’s African-American residents to have less opportunity than other
+residents to elect candidates of their choice. There is no dispute that Black candidates have fared
+far worse than white candidates in Board elections, which are marked by RPV. Nor is there any
+dispute that African-American residents of FFSD have suffered from a long history of
+discrimination and a host of socioeconomic disparities, which continue to hinder their ability to
+participate equally in the political process. As a result, the Board is dominated by white voters’
+preferred candidates and has been insufficiently responsive to the manner in which the effects of
+1
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 9 of 68 PageID #: 1493
+
+historic discrimination and other issues facing African-American residents directly affect
+educational opportunity in the District. African-American candidates, moreover, are denied
+access to union endorsements in FFSD elections, which have involved subtle racial appeals, and
+which have a variety of unnecessary features that make it harder for African Americans to elect
+their preferred candidates. Section 2 of the Voting Rights Act (“VRA”) was enacted to proscribe
+precisely this discriminatory result.
+For these reasons, and as discussed further below, the Court should grant summary
+judgment in favor of Plaintiffs and against Defendants FFSD and St. Louis Board of Election
+Commissioners (“BOEC”). See Fed. R. Civ. P. 56(a).
+BACKGROUND
+This case is brought under Section 2 of the VRA by three African-American citizens who
+are registered voters in the District, and the Missouri State Conference of the National
+Association for the Advancement of Colored People (“MO NAACP”) (collectively, “Plaintiffs”).
+Plaintiffs’ challenge endeavors to change the existing at-large system for electing Board
+members to an electoral system that is more equitable given a practical evaluation of present
+realities in the District. Plaintiffs Doris Bailey, Redditt Hudson, and F. Willis Johnson are United
+States citizens; registered, regular voters; and residents of FFSD. Plaintiffs’ Statement of
+Uncontroverted Material Facts, filed concurrently herewith (“SUMF”) ¶¶ 2-4. Plaintiff MO
+NAACP is a state affiliate of the national NAACP, the nation’s oldest and largest civil rights
+organization. The MO NAACP’s mission is to ensure the political, educational, social, and
+economic equality of rights of all persons, to eliminate racial hatred and racial discrimination,
+and to remove all barriers of racial discrimination through democratic processes. SUMF ¶ 5.
+Many MO NAACP members are African Americans who reside, work, and raise families in the
+District. SUMF ¶ 7. Among these members are individuals, including Plaintiff Hudson, who
+2
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 10 of 68 PageID #: 1494
+
+reside in areas of the District that could constitute single-member districts in which African
+Americans are a majority of the VAP, and where African Americans could elect their preferred
+candidates if the elections were not held at-large. See SUMF ¶ 8.
+The District, located in northern St. Louis County, Missouri, was created by a 1975
+desegregation order requiring the then-Ferguson-Florissant School District to annex the primarily
+African-American neighboring school districts of Kinloch and Berkeley. See United States v.
+Missouri, 515 F.2d 1365, 1369-73 (8th Cir. 1975); SUMF ¶ 11. As part of the annexation, the
+order directed that two seats on the then-six-member Ferguson-Florissant School Board be
+declared vacant and replaced by designees of the annexed school boards. The four remaining
+members were to draw lots to determine the length of their individual terms in office in order to
+create staggered elections for an “initial period of stable governance for the new district.”
+Missouri, 515 F.2d at 1373; SUMF ¶ 12.
+Today, the District covers all or part of eleven municipalities: Berkeley, Calverton Park,
+Cool Valley, and Kinloch in their entirety, as well as parts of Black Jack (one block), Ferguson,
+Florissant, Dellwood, Hazelwood, Normandy, and Old Jamestown. SUMF ¶ 13. According to
+the 2010 Decennial Census, the District has a total population of 68,663 and a total voting-age
+population (“VAP”) of 50,771, 48.19% of which is African-American. SUMF ¶ 15. Based on
+data provided to the United States Department of Education for the 2011 survey year, the District
+public schools serve 13,234 students from preschool through 12th grade, 77.1% of whom are
+African-American. SUMF ¶ 14.
+The District is governed by a seven-member Board and maintains an at-large system of
+electing Board members. SUMF ¶ 21. Board elections are conducted by the BOEC. SUMF ¶ 10.
+Board elections are staggered and held off-cycle so that either two or three Board seats are
+
+3
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 11 of 68 PageID #: 1495
+
+elected every April. SUMF ¶ 21. Each voter has the right to cast up to two votes in a two-seat
+election and up to three votes in a three-seat election, but cannot vote more than once for the
+same candidate in a single election. SUMF ¶ 24. Board seats are awarded to the candidates with
+the most votes, such that the two or three candidates receiving the greatest number of votes—the
+top two in two-seat elections and top three in three-seat elections—are elected to three-year
+terms in office. SUMF ¶¶ 25, 21. No election is held when there are the same numbers of
+candidates as open seats. SUMF ¶ 22.
+SUMMARY JUDGMENT STANDARD
+Summary judgment is appropriate when “the movant shows that there is no genuine
+dispute as to any material fact and the movant is entitled to judgment as a matter of law.” Fed. R.
+Civ. P. 56(a). “[T]he mere existence of some alleged factual dispute between the parties will not
+defeat an otherwise properly supported motion for summary judgment; the requirement is that
+there be no genuine issue of material fact.” Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 24748 (1986). Material facts are those “that might affect the outcome of the suit under the governing
+law.” Id. at 248. Since there is no genuine dispute on any facts material to Plaintiffs’ claim under
+Section 2, summary judgment is appropriate in this case.
+ARGUMENT
+Section 2 of the VRA prohibits the “impos[ition] or appl[ication]” of any electoral
+practice that “results in a denial or abridgement of the right of any citizen of the United States to
+vote on account of race or color.” 52 U.S.C. § 10301(a). The Supreme Court has held that “the
+Act should be interpreted in a manner that provides ‘the broadest possible scope’ in combating
+racial discrimination.” Chisom v. Roemer, 501 U.S. 380, 403 (1991) (quoting Allen v. State Bd.
+of Elections, 393 U.S. 544, 567 (1969)). A showing of discriminatory intent is not required, as
+“Congress [has] made clear that a violation of § 2 c[an] be established by proof of discriminatory
+4
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 12 of 68 PageID #: 1496
+
+results alone.” Chisom, 501 U.S. at 404. The standard for proving prohibited “discriminatory
+results” is set out in 52 U.S.C. § 10301(b), which provides:
+A violation of [Section 2] is established if, based on the totality of circumstances,
+it is shown that the political processes leading to nomination or election in the
+State or political subdivision are not equally open to participation by members of
+a [protected class] in that its members have less opportunity than other members
+of the electorate to participate in the political process and to elect representatives
+of their choice.
+A Section 2 claim in this context has two components. First, Plaintiffs must satisfy the
+three “Gingles preconditions,” specifically: (1) the minority group must be “sufficiently large
+and geographically compact to constitute a majority in a single-member district” (“Gingles I”),
+(2) the minority group must be “politically cohesive” (“Gingles II”), and (3) the majority must
+vote “sufficiently as a bloc to enable it . . . usually to defeat the minority’s preferred candidate”
+(“Gingles III”). Gingles, 478 U.S. at 50-51. Second, Plaintiffs must demonstrate that, based on
+the totality of circumstances, “a challenged election practice has resulted in the denial or
+abridgement of the right to vote based on color or race.” Chisom, 501 U.S. at 394.
+The undisputed facts demonstrate conclusively that Plaintiffs satisfy both of these
+components of a successful Section 2 claim.
+I.
+
+THERE IS NO GENUINE DISPUTE OF MATERIAL FACT THAT PLAINTIFFS
+HAVE SATISFIED THE THREE GINGLES PRECONDITIONS.
+A.
+
+There is no dispute of material fact that FFSD’s African-American population is
+sufficiently large and geographically compact to allow for the creation of seven
+single-member districts for electing Board members, four of which are majority
+African-American (Gingles I).
+To satisfy Gingles I, Plaintiffs must show that the minority group “is sufficiently large
+
+and geographically compact to constitute a majority in a single-member district.” Gingles, 478
+U.S. at 50. African Americans in FFSD are sufficiently numerous and geographically compact to
+constitute a majority of the VAP in at least one single-member district. See Bartlett v. Strickland,
+
+5
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 13 of 68 PageID #: 1497
+
+556 U.S. 1, 11-12 (2009). There is no dispute of material fact that Plaintiffs satisfy this
+requirement.
+Plaintiffs’ expert demographer William S. Cooper drew two plans in which African
+Americans are a majority of the VAP in four of seven single-member districts. SUMF ¶ 26.1 The
+demographics of Plaintiffs’ Illustrative Plan 1 are set out below.
+Table 1 - Plaintiffs’ Illustrative Plan 1 – 2010 Census Summary
+District Population
+
+% Dev
+
+% Black
+
+18+ Pop
+
+% 18+ Black
+
+% 18+ NH White
+
+1
+
+9841
+
+0.33%
+
+69.63%
+
+6918
+
+63.93%
+
+32.68%
+
+2
+
+10025
+
+2.20%
+
+66.36%
+
+7071
+
+60.95%
+
+35.75%
+
+3
+
+9923
+
+1.16%
+
+77.64%
+
+6984
+
+74.36%
+
+21.12%
+
+4
+
+9321
+
+-4.98%
+
+30.50%
+
+7406
+
+27.84%
+
+68.09%
+
+5
+
+9997
+
+1.92%
+
+20.33%
+
+7790
+
+17.45%
+
+79.11%
+
+6
+
+9980
+
+1.74%
+
+44.05%
+
+7442
+
+38.94%
+
+57.58%
+
+7
+
+9576
+
+-2.38%
+
+56.18%
+
+7160
+
+52.86%
+
+43.25%
+
+SUMF ¶ 35. Plan 1 contains four majority Black districts, which range from 52.86% Black
+voting-age population (BVAP) to 74.36% BVAP. The ideal district size using total population as
+the apportionment base is 9,809 (68,663/7). SUMF ¶¶ 34, 36. The total deviation (calculated by
+adding the largest + and – deviations: 2.20% and 4.98%) from the ideal district size is 7.18%.
+SUMF ¶ 36. Only three of the 96 precincts in the District are split by district boundaries, with a
+few additional precincts split by 2010 Census blocks, but no census blocks are split by district
+boundaries. SUMF ¶ 37. Public schools are balanced across all seven districts with each district
+having two to five schools. SUMF ¶ 37. Three incumbents are paired in District 2, and two in
+District 7. SUMF ¶ 37.
+The demographics of Plaintiffs’ Illustrative Plan 2 are set out below.
+
+1
+
+In developing these plans, Plaintiffs’ expert relied upon population and geographic data from the 2010 Decennial
+Census. SUMF ¶ 27. For the redistricting, he used a commonly accepted software package called Maptitude for
+Redistricting. SUMF ¶ 28. He obtained Geographic Information System (GIS) shapefiles from the St. Louis County
+GIS Department depicting FFSD’s current boundaries and the District’s precincts from 2011 to 2015. SUMF ¶ 31.
+
+6
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 14 of 68 PageID #: 1498
+
+Table 2 - Plaintiffs’ Illustrative Plan 2 – 2010 Census Summary
+District Population
+
+% Dev
+
+% Black
+
+18+ Pop
+
+% 18+ Black
+
+% 18+ NH White
+
+1
+
+10020
+
+2.15%
+
+70.15%
+
+7039
+
+64.53%
+
+32.09%
+
+2
+
+9494
+
+-3.21%
+
+66.46%
+
+6688
+
+60.89%
+
+35.90%
+
+3
+
+9736
+
+-0.74%
+
+78.66%
+
+6816
+
+75.67%
+
+19.76%
+
+4
+
+9755
+
+-0.55%
+
+31.10%
+
+7671
+
+28.12%
+
+68.35%
+
+5
+
+10232
+
+4.31%
+
+20.20%
+
+8008
+
+17.42%
+
+78.87%
+
+6
+
+9620
+
+-1.93%
+
+55.71%
+
+7149
+
+51.50%
+
+45.14%
+
+7
+
+9806
+
+-0.03%
+
+44.90%
+
+7400
+
+40.86%
+
+54.85%
+
+SUMF ¶ 38. Plan 2 contains four majority-Black districts, which range from 51.50% to 75.67%
+BVAP. SUMF ¶ 39. The total deviation from the ideal district size is 7.52%. SUMF ¶ 39. Nine
+of the 96 precincts in the District are split by district boundaries, with a few additional precincts
+split by 2010 Census blocks, but no census blocks are split by district boundaries. SUMF ¶ 40.
+Public schools are balanced across all seven districts with each district having two to five
+schools. SUMF ¶ 40. Two incumbents who reside in the same Census block in District 2 are
+paired, but no other incumbents are paired. SUMF ¶ 40.
+Plaintiffs’ illustrative plans comply with one person, one vote constitutional requirements
+because they contain total deviations of less than 10%. See White v. Regester, 412 U.S. 755, 764
+(1973) (holding that plans with total deviation of less than 10% presumptively comply with one
+person, one vote); accord Brown v. Thomson, 462 U.S. 835, 842 (1983) (“Our decisions have
+established, as a general matter, that an apportionment plan with a maximum population
+deviation under 10% falls within this category of minor deviations.”). The plans also respect
+communities of interest because public schools are balanced across all seven districts. SUMF
+¶¶ 37, 40.
+The districts in Plaintiffs’ illustrative plans were drawn to be compact and contiguous to
+satisfy the requirements of state and county law. See Mo. Const. art. 3, §§ 2, 45 (requiring that
+districts for the U.S. Congress and the Missouri House of Representatives be geographically
+7
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 15 of 68 PageID #: 1499
+
+compact and contiguous); St. Louis Cnty. Charter, § 2.035 (providing that districts drawn for the
+County Council be compact and contiguous). The plans are contiguous because all parts of a
+district are connected at some point with the rest of the district. SUMF ¶ 41. The plans are
+compact and pass the “eyeball” test, i.e., a visual inspection of district lines for compactness. See
+Bush v. Vera, 517 U.S. 952, 960 (1996). The plans are also reasonably compact based upon the
+Reock scores for each of the plan’s districts, which are in line with Reock scores for current
+municipal wards in St. Louis County.2 SUMF ¶¶ 42-43.
+The District’s experts do not dispute any of these facts in their expert reports. Plaintiffs
+have thus established the first Gingles factor. See Gingles, 478 U.S. at 50.
+B.
+
+There is no genuine dispute of material fact that Plaintiffs have satisfied the
+second and third Gingles preconditions.
+The undisputed facts also demonstrate that Plaintiffs satisfy the second and third Gingles
+
+preconditions. As explained below, there is no factual dispute that elections in the District are
+characterized by RPV, and that African-American-preferred candidates for the Board are usually
+defeated by bloc voting by other members of the electorate.
+1.
+
+The legal standard for Gingles II and Gingles III
+
+Gingles II requires a showing that the minority group, here the African-American
+community, is politically cohesive. See Gingles, 478 U.S. at 51. Proving the necessary political
+cohesiveness “typically requires a statistical and non-statistical evaluation of the relevant
+elections,” Bone Shirt v. Hazeltine, 461 F.3d 1011, 1020 (8th Cir. 2006), to demonstrate that “a
+significant number of minority group members usually vote for the same candidates,” i.e., the
+
+2
+
+Reock scores are generated from the Reock test, which “is an area-based measure that compares each district to a
+circle, which is considered to be the most compact shape possible. For each district, the Reock test computes the
+ratio of the area of the district to the area of the minimum enclosing circle for the district. The measure is always
+between 0 and 1, with 1 being the most compact. The Reock test computes one number for each district and the
+minimum, maximum, mean and standard deviation for the plan.” SUMF ¶ 42.
+
+8
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 16 of 68 PageID #: 1500
+
+existence of minority bloc voting, Gingles, 478 U.S. at 56.
+Gingles III is met where “the white majority votes sufficiently as a bloc to enable it, in
+the absence of special circumstances, usually to defeat the minority’s preferred candidate.”
+Harvell v. Blytheville Sch. Dist. No. 5, 71 F.3d 1382, 1385 (8th Cir. 1995) (citing Gingles, 478
+U.S. at 50-51). To satisfy Gingles III, Plaintiffs need not establish that white voters have “an
+unbending or unalterable hostility” to minority-preferred candidates such that they always lose;
+rather “[t]he correct question is . . . whether, as a practical matter, the usual result of the bloc
+voting that exists is the defeat of the minority-preferred candidate.” Jenkins v. Red Clay Consol.
+Sch. Dist. Bd. of Educ., 4 F.3d 1103, 1123 (3d Cir. 1993) (emphasis added); see also Blytheville,
+71 F.3d at 1389 (marginal minority electoral success “fit[s] precisely in the Gingles test as to
+whether the white majority does indeed vote sufficiently as a bloc to enable it . . . usually to
+defeat the minority’s preferred candidate” (citation and internal quotation marks omitted)).
+Together, Gingles II and Gingles III “ask whether voting is racially polarized and, if so,
+whether the white majority is usually able to defeat the minority bloc’s candidates.” Brooks v.
+Miller, 158 F.3d 1230, 1240 (11th Cir. 1998); see also Gingles, 478 U.S. at 56 (RPV inquiry
+allows courts to ascertain Gingles II and Gingles III); Bone Shirt, 461 F.3d at 1020 (“[P]olitical
+cohesiveness is implicit in [RPV].” (citation and internal quotation marks omitted)); Ruiz v. City
+of Santa Maria, 160 F.3d 543, 551 (9th Cir. 1998) (RPV “is the combined effect of the second
+and third Gingles preconditions (minority political cohesion and majority bloc voting).”).
+“[R]acial polarization exists where there is a consistent relationship between [the] race of the
+voter and the way in which the voter votes, or to put it differently, where black voters and white
+voters vote differently.” Gingles, 478 U.S. at 53 n.21 (citations and internal quotation marks
+omitted). “[T]he presence of racially polarized voting will ordinarily be the keystone of a vote
+
+9
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 17 of 68 PageID #: 1501
+
+dilution case.” Buckanaga v. Sisseton Indep. Sch. Dist., 804 F.2d 469, 473 (8th Cir. 1986).
+Thus, in determining whether Gingles II and Gingles III are satisfied, the questions are:
+(1) whether Black and white voters tend to “vote differently,” Gingles, 478 U.S. at 53 n.21; and
+(2) whether the candidates preferred by Black voters “usually” lose to candidates preferred by
+white voters, Blytheville, 71 F.3d at 1385. In addressing these questions, courts give substantial
+weight to the typical voting patterns and their usual results, but not all elections have equal
+probative value. First, more recent elections are generally more probative. Bone Shirt, 461 F.3d
+at 1020-21; SUMF Ex. B5 at ¶ 44. Second, the results of “endogenous” elections—i.e., those
+elections for the offices at issue, here, the FFSD Board—are also more probative than the results
+of “exogenous” elections—–i.e., contests for other offices, such as Congress or President. Bone
+Shirt, 461 F.3d at 1020-21. Third, the Eighth Circuit has explained that “interracial elections are
+the best indicators of whether the white majority usually defeats the minority candidate.” Id.3 “A
+system that works for minorities only in the absence of white opposition is a system that fails to
+operate in accord with the law.” Blytheville, 71 F.3d at 1389-90. “[W]hen there are only white
+candidates to choose from it is virtually unavoidable that certain white candidates would be
+supported by a large percentage of . . . black voters. Evidence of black support for white
+candidates in an all-white field, however, tells us nothing about the tendency of white bloc
+voting to defeat black candidates.” Westwego Citizens for Better Gov’t v. City of Westwego, 872
+F.2d 1201, 1208 n.7 (5th Cir. 1989) (citation and internal quotation marks omitted).
+
+3
+
+Indeed, the Gingles Court relied exclusively on interracial legislative contests. See 478 U.S. at 80-82. The Fifth,
+Ninth, and Eleventh Circuits have followed suit in holding that interracial elections are most probative of RPV. See
+Citizens for a Better Gretna v. City of Gretna, 834 F.2d 496, 503-04 (5th Cir. 1987) (“[I]mplicit in the Gingles
+holding is the notion that black preference is determined from elections which offer the choice of a black
+candidate.”); Ruiz, 160 F.3d at 552-53 (“[A] minority vs. non-minority election is more probative of racially
+polarized voting than a non-minority vs. non-minority election.”); Nipper v. Smith, 39 F.3d 1494, 1540 (11th Cir.
+1994) (“[Monoracial] elections . . . may reveal little about the issue to be determined: the capacity for white bloc
+voting usually to defeat [minority] candidates of choice. Particularly where voting is extremely polarized by race in
+elections in which [minority] candidates participate, white-on-white elections in which a small majority (or a
+
+10
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 18 of 68 PageID #: 1502
+
+Courts, moreover, regularly discount the success of minority-preferred candidates in
+elections with “special circumstances” that “[might have] worked a one-time advantage” for the
+minority candidate. Gingles, 478 U.S. at 57, 75-77. Several such special circumstances are
+relevant here.
+First, the Eighth Circuit has held that the success of a minority-preferred candidate in an
+uncontested election “is precisely the type of special circumstance recognized in Gingles as not
+vitiating any element of the claim” because “[e]ven in an extreme case of total vote dilution a
+candidate running in the face of no opposition is ensured success.” Blytheville, 71 F.3d at 1389;
+see also Gingles, 478 U.S. at 57 (“[S]pecial circumstances, such as the absence of an opponent
+. . . may explain minority electoral success in a polarized contest.”); Bone Shirt, 461 F.3d at 1020
+(describing the unopposed election of a minority candidate as a special circumstance). An
+uncontested election has no probative value for analyzing RPV, as it is impossible to discern
+voting behavior or to identify a minority-preferred candidate in the absence of any voting. See
+SUMF Ex. B9 at 1 n.1.
+Second, the pendency of a Section 2 lawsuit is another “special circumstance” that may
+eliminate or diminish the probative value of an election. See Gingles, 478 U.S. at 75-77
+(sanctioning court’s decision to reduce the weight accorded black electoral successes where
+those successes “increased markedly in . . . an election that occurred after the instant lawsuit had
+been filed” (citing S. Rep. No. 97-417, at 29 n.115 (1982))); Davis v. Chiles, 139 F.3d 1414,
+1417 n.2 (11th Cir. 1998) (“Elections of minority candidates during the pendency of Section
+Two litigation . . . have little probative value); Ruiz, 160 F.3d at 555-56, 558 (post-complaint
+election results are discounted where “unusual circumstances surrounded that election”).
+
+plurality) of [minority] voters prefer the winning candidate seem comparatively less important.”).
+
+11
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 19 of 68 PageID #: 1503
+
+Third, there are a variety of other “special circumstances,” including incumbency and the
+utilization of bullet or single-shot voting, i.e., where voters who have the right to cast more than
+one vote or withhold all of their votes except for one, forfeiting the opportunity to cast all of their
+allotted votes in order to increase the likelihood of success for a single preferred candidate.
+Gingles, 478 U.S. at 38 n.5, 57. One-off circumstances such as particularly sophisticated
+campaigns, national press attention, or other unique or unusual events may also demonstrate that
+an election is an outlier and less probative in determining typical electoral behavior. See, e.g.,
+Ruiz, 160 F.3d at 555-58 (discussing “special circumstances” including public comments about
+race and the election as well as unprecedented financial contributions to minority candidates);
+see also Gingles, 478 U.S. at 57 n.26 (noting that “special circumstances” listed in opinion are
+“illustrative, not exclusive”).
+2. There is no dispute of material fact that, under all proposed definitions of
+candidates of choice, minority-preferred candidates usually lose and whitepreferred candidates usually win.
+There is no dispute on the material facts underlying Plaintiffs’ claim: First, experts on
+both sides agree that, as Dr. Rodden states, in FFSD, “African Americans are more likely to vote
+for African-American candidates and whites are more likely to vote for white candidates.”
+SUMF Ex. B11 at ¶ 2; see SUMF ¶ 56. Second, the parties’ experts do not materially disagree as
+to the estimated levels of support each Board candidate received in each election. SUMF ¶ 54.
+Plaintiffs’ expert, Dr. Richard Engstrom, and the District’s expert, Dr. Jonathan Rodden, report
+roughly consistent estimates of the respective levels of support received by the candidates from
+Black and white voters in the past five elections, and Plaintiffs do not dispute Dr. Rodden’s
+estimates for the 2000 to 2010 elections. SUMF ¶¶ 54-55.
+Given the undisputed estimates for the levels of support, the dispute between the parties
+with respect to Gingles II and III is purely legal: in ascertaining whether Black-preferred
+12
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 20 of 68 PageID #: 1504
+
+candidates are usually defeated by white-preferred candidates, how should the court identify the
+“candidates of choice” of each group? The District concocts two bright-line rules, endorsed by
+its expert, for identifying candidates of choice, while Plaintiffs propose a case-by-case method
+for identifying minority-preferred candidates in multi-seat elections, in accordance with case law
+and the requirement that courts perform “an intensely local appraisal.” Gingles, 478 U.S. at 78
+(quoting Regester, 412 U.S. at 769-70). Ultimately, however, even this legal dispute between the
+parties is immaterial: regardless of which of the three methods proposed by the parties is used to
+identify the Black and white voters’ respective candidates of choice, it is clear that the groups
+prefer different candidates and that the candidates preferred by white voters almost always win,
+while the candidates preferred by Black voters usually lose.
+a) Under the District’s Proposed Methods for Identifying Candidates of Choice,
+White-Preferred Candidates Are Almost Always Elected and Black-Preferred
+Candidates Usually Lose
+The District’s expert proposes two methods for identifying the preferred candidates of
+Black and white voters. SUMF ¶¶ 189-91. The first method, which could be called the “TopRanked Candidate” approach, defines the candidate of choice for each racial group as the single
+candidate in each election who is estimated to have received the highest level of support (the
+most votes) among African-American or white voters in each election. SUMF ¶ 190. Thus,
+although either two or three Board seats are at stake in each election, this approach ignores the
+candidates with second- and third-highest estimated levels of support among each racial group
+and focuses exclusively on the single candidate that each group is estimated to most prefer.
+SUMF ¶ 190.
+The District’s second approach, which could be called the “Point Estimate” approach,
+defines the candidates of choice for each racial group as the two or three candidates (depending
+on the number of seats) with the highest estimated levels of support among African-American or
+13
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 21 of 68 PageID #: 1505
+
+white voters in each election. SUMF ¶ 191. This approach includes more candidates than the
+“Top-Ranked Candidate” approach, but it ignores differences in the magnitude of support
+received by each preferred candidate and whether the differences among candidates in their
+estimated levels of support are statistically significant. SUMF ¶ 191.
+As explained below, neither of the District’s methods for determining Black and white
+voters’ “candidates of choice” is consistent with applicable case law, see infra § I.B.2.b.
+Nevertheless, they lead to the same result: even when using the District’s proposed methods,
+there is no dispute that white voters vote sufficiently as a bloc so that their preferred candidates
+usually win a seat on the Board, while African-American voters’ preferred candidates are usually
+defeated.
+i) The District’s “Top-Ranked Candidate” Approach
+Applying the District’s “Top-Ranked Candidate” method to contested elections only4
+reveals that Board elections are absolute in their racial polarization. Since 2000, the top-ranked
+candidate among Black voters has always been different than the top-ranked candidate among
+white voters. SUMF ¶¶ 192, 194. Moreover, the top-ranked candidates of white voters always
+won while the top-ranked candidates of Black voters usually lost. The following chart sets forth
+the top-ranked candidates for each racial group in each contested election since 20005 as
+identified by the District’s expert and indicates their respective rates of overall success:
+Table 3 - Comparative Success Rates of White- and Black-Preferred Candidates:
+The District’s Top-Ranked Candidates
+Election
+2000
+
+Black Voters
+Top Ranked Candidate
+G. Thomas (B)
+
+Elected?
+Yes
+
+White Voters
+Top Ranked Candidate
+Hirsch (W)
+
+Elected?
+Yes
+
+4
+
+Uncontested elections have, as discussed above, little to no probative value and should be disregarded for purposes
+of the Gingles preconditions. See Blytheville, 71 F.3d at 1389; Gingles, 478 U.S. at 57; see supra at 11.
+5
+
+No elections were held in 2005, 2007, 2008, or 2010 because there were the same number of candidates as there
+were Board seats available. SUMF ¶¶ 102, 109, 110, 118.
+
+14
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 22 of 68 PageID #: 1506
+
+2001
+2002
+2003
+2004
+2006
+2009
+2011
+2012
+2013
+2014
+2015
+
+Butler (B)
+Graham (B)
+G. Thomas (B)
+Van (B)
+G. Thomas (B)
+Knowles (W)
+Graham (B)
+B. Morris (B)
+Henson (B)
+Paulette-Thurman (B)
+Graves (B)
+Overall Success Rate:
+Success Rate Last 10 Years:
+Success Rate Last 5 Years:
+
+No
+Yes
+Yes
+No
+No
+Yes
+No
+No
+No
+Yes
+Yes
+6/12
+3/7
+2/5
+
+Garofalo (W)
+Fletcher (W)
+Knorr (W)
+Garofalo (W)
+Schroeder (W)
+Schroeder (W)
+Martinez (W-H)6
+Ebert (W)
+Hogshead (W)
+Chabot (W)
+Ebert (W)
+Overall Success Rate:
+Success Rate Last 10 Years:
+Success Rate Last 5 Years:
+
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+12/12
+7/7
+5/5
+
+SUMF ¶ 192.
+The District’s proposed Top-Ranked Candidate approach reveals stark RPV, which
+establishes Gingles II. It is undisputed that Black voters and white voters have never preferred
+the same candidate as their top choice in any of the last twelve contested elections. SUMF ¶ 194.
+In fact, all of the white voters’ preferred candidates are white. At the same time, all but one of
+the Black voters’ preferred candidates are Black. SUMF ¶¶ 196-97. That lone exception was in
+2009, when there were no Black candidates. SUMF ¶ 196.
+Simple counting of the successes of these top-ranked candidates demonstrates that
+Gingles III has been satisfied. Since 2000, the top-ranked white-preferred candidate won a Board
+seat in every single election. SUMF ¶ 197. During the same time period, the top-ranked Blackpreferred candidate won a Board seat in only six of twelve contested elections (50%). SUMF
+¶ 197. That success rate falls when limiting the analysis to more recent (i.e., more probative)
+elections: during contested elections held in the past decade (2015, 2014, 2013, 2012, 2011,
+2009, and 2006), the top-ranked Black-preferred candidates won a Board seat in three out of
+6
+
+The U.S. Census Bureau “defines ‘Hispanic or Latino’ as a person of Cuban, Mexican, Puerto Rican, South or
+Central American, or other Spanish culture or origin regardless of race.” Persons who report themselves as Hispanic
+can be of any race. U.S. Census Bureau, About Hispanic Origin (July 25, 2013), available at
+http://www.census.gov/topics/population/hispanic-origin/about.html.
+
+15
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 23 of 68 PageID #: 1507
+
+seven elections only (42.9%). SUMF ¶ 198. That rate dips even further for contested elections
+held during the past five years, the most probative elections: Black-preferred candidates won a
+Board seat in a mere two out of five elections (only 40%). SUMF ¶ 199. During these same time
+periods, the top-ranked white-preferred candidates always won, demonstrating that the white
+majority voted “sufficiently as a bloc to enable it . . . usually to defeat the minority’s preferred
+candidate.” Gingles, 478 U.S. at 51.
+When discounting elections with special circumstances, see supra at 11-13, the pattern of
+losses for Black-preferred candidates is even more striking. The 2009, 2014, and 2015 elections
+were all marked by special circumstances. In the 2009 election there were no Black candidates.
+SUMF ¶ 114. The electoral success of the candidate who received the most votes among Black
+voters in that election, who is white, SUMF ¶¶ 114-15, is therefore not indicative of what
+“usually” occurs in FFSD, and thus stands as an outlier with limited probative value.7 See
+Gingles, 478 U.S. 30 at 80-82; see also Bone Shirt, 461 F.3d at 1020-21; Citizens for a Better
+Gretna, 834 F.2d at 503-04; Ruiz, 160 F.3d at 552-53; Nipper, 39 F.3d at 1540.
+The 2014 election likewise took place under “special circumstances,” namely, following
+the “controversial” resignation of Dr. Art McCoy, the first African-American District
+Superintendent. SUMF ¶ 161. As the District’s own expert, Dr. Rodden, opined, the separation
+of Dr. McCoy from the District was a “racially polarizing event,” which led to “an
+unprecedented five African American challengers.” SUMF ¶ 162.8 The unusually large field of
+African-American candidates and the high level of interest among African-American voters in
+response to this event, SUMF ¶ 162, constitute special circumstances rendering the 2014 election
+7
+
+Additionally, the Black voters’ top-ranked candidate in the 2009 election, John Knowles, resigned from the Board
+in 2011. The Board interviewed three candidates for a replacement, two African-American and one white. The
+Board rejected the two Black candidates and selected Brian Fletcher, the lone white candidate. See SUMF ¶ 117.
+8
+
+Dr. McCoy’s resignation appears to have been precipitated by issues related to race. See SUMF ¶¶ 161-65, 308-31.
+
+16
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 24 of 68 PageID #: 1508
+
+of an African American candidate less probative of whether African Americans can “usually”
+elect candidates of their choice. See Brown v. Bd. of Comm’rs of Chattanooga, 722 F. Supp. 380,
+394-96 (E.D. Tenn. 1989) (concluding Black candidate’s success was due to special
+circumstances in part because it occurred in midst of local “ferment” following a Supreme Court
+school desegregation decision).
+Special circumstances also surrounded the 2015 election, in which an African American,
+Dr. Courtney Graves, was elected. First, Graves carried out her campaign during the pendency of
+this lawsuit. SUMF ¶¶ 176, 186. The probative value of this election is thus diminished because
+pending Section 2 litigation may influence the candidate pool and voting patterns. See Gingles,
+478 U.S. at 76; Ruiz, 160 F.3d at 556-58; Davis, 139 F.3d at 1417 n.2; Collins v. City of Norfolk,
+816 F.2d 932, 938 (4th Cir. 1987) (“Collins I”). Second, other recent, unique events preceded the
+2015 election, which should inform the practical evaluation of the present reality in the District.
+Specifically, the 2015 election took place in the shadow of large-scale protests and national
+scrutiny surrounding the shooting death of Michael Brown. SUMF ¶¶ 177-78. One month before
+the 2015 election, the U.S. Department of Justice released a report finding extensive
+discrimination by government officials in Ferguson. See SUMF ¶ 181. Candidates, and voters
+more broadly, were aware of the report, which reignited intense local, national, and international
+interest in the April 2015 elections. SUMF ¶ 182. In fact, Graves ran for office in part to address
+injustices brought to light by Brown’s death and the resulting protests. See SUMF ¶ 186. Third,
+Graves “ran a sophisticated campaign in which she very explicitly encouraged supporters to
+engage in a ‘single shot’ voting strategy.” SUMF Ex. B5 at ¶ 48; SUMF ¶ 187. The Gingles
+Court explicitly identified “the utilization of bullet voting” as a special circumstance that “may
+explain minority electoral success in a polarized contest” and render the success of minority-
+
+17
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 25 of 68 PageID #: 1509
+
+preferred candidate an outliner. 478 U.S. at 57. Because of these “special circumstances”
+surrounding the 2015 election, Graves’s success should not be considered indicative of what
+“usually” occurs in FFSD elections.
+Given the special circumstances marking the 2009, 2014, and 2015 elections, the success
+of the top-ranked candidates among Black voters in those elections should not be interpreted as
+evidence that the at-large electoral scheme comports with Section 2. Setting aside those election
+results and giving greater weight to the remaining nine elections (2000, 2001, 2002, 2003, 2004,
+2006, 2011, 2012, and 2013), only three top-ranked candidates among Black voters have been
+successful (in 2000, 2002, and 2003), and none since 2003. See supra Table 3.
+ii) The District’s “Point Estimate” Approach
+The District’s “Point Estimate” approach for identifying candidates of choice leads to the
+same conclusion: white voters’ preferred candidates usually defeat Black voters’ preferred
+candidates. SUMF ¶¶ 202-10. This approach classifies as a group’s candidates of choice those
+candidates who receive the two or three highest estimated levels of support (depending on the
+number of seats) in each election. Using the results from the analysis performed by the District’s
+expert, Dr. Rodden, the following chart identifies the candidates with the two or three highest
+estimated levels of support from each racial group in each election, and their rates of success:
+Table 4 - Comparative Success Rates of White- and Black-Preferred Candidates:
+The District’s Point Estimate Approach
+Election Information
+Year
+Seats
+2000
+2001
+2002
+
+2
+2
+3
+
+2003
+2004
+2006
+
+2
+2
+2
+
+Black Voters
+Candidates with Highest
+Estimated Support
+G. Thomas (B), Hirsch (W)
+Butler (B), Garofalo (W)
+Graham (B), Butler (B),
+Clark (W)
+G. Thomas (B), Knorr (W)
+Van (B), McClendon(B)
+G. Thomas (B),
+Washington (B)
+
+Number
+Successful
+2
+1
+2
+2
+0
+0
+
+18
+
+White Voters
+Candidates with Highest
+Estimated Support
+Hirsch (W), G. Thomas (B)
+Garofalo (W), Hogshead (W)
+Fletcher(W), Knorr (W),
+Clark (W)
+Knorr (W), Lentz (W)
+Garofalo (W), Hogshead (W)
+Schroeder (W), Knowles (W)
+
+Number
+Successful
+2
+2
+2
+1
+2
+2
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 26 of 68 PageID #: 1510
+
+2009
+2011
+
+2
+3
+
+2012
+2013
+2014
+
+2
+2
+3
+
+2015
+Totals:
+Last 10 years
+Last 5 years
+
+2
+27
+16
+12
+
+Knowles (W), Schroeder (W)
+Graham (B), Hawkins (B),
+Clark (W)
+B. Morris (B), Schroeder (W)
+Henson (B), Hogshead (W)
+Paulette-Thurman (B),
+Johnson (B), Savala (B)
+Graves (B), Dameron (W)
+----
+
+2
+0
+1
+1
+1
+1
+13/27
+6/16
+4/12
+
+Knowles (W), Schroeder (W)
+Martinez (W-H), P. Morris
+(W), Chabot (W)
+Ebert (W), Schroeder (W)
+Brown (W), Hogshead (W)
+P. Morris (W), Chabot (W),
+Benz (W)
+Ebert (W), Graves (B)
+----
+
+2
+3
+2
+2
+2
+2
+24/27
+15/16
+11/12
+
+SUMF ¶ 200.
+The District’s proposed Point Estimate approach demonstrates clear RPV, which
+establishes Gingles II. Over the past 16 years, white voters strongly preferred white candidates:
+using the Point Estimate approach, 92.6% of candidates preferred by white voters (25 out of 27)
+were white. SUMF ¶ 202. The two exceptions were: (1) G. Thomas’s success over 15 years ago
+in the 2000 election; and (2) Graves’s success in the 2015 election, which was, as discussed
+above, surrounded by multiple special circumstances. Meanwhile, Black-preferred candidates
+were usually Black. Using the Point Estimate approach, 63% of candidates preferred by Black
+voters (17 out of 27) over the past 16 years were Black. SUMF ¶ 203. If we exclude the 2009
+election, which featured no Black candidates, Black voters preferred Black candidates 68% of
+the time (17 out of 25). See supra Table 4.
+This divergence among racial groups in candidate preference is mirrored in success rates:
+bloc voting by whites usually defeated African-American voters’ preferred candidates, a trend
+that has only intensified in recent elections. Using the District’s Point Estimate approach, whitepreferred candidates had a success rate of 88.9% (24 out of 27), 93.8% (15 out of 16), and 91.7%
+(11 out of 12) for the last 16, ten, and five years, respectively. SUMF ¶¶ 204-06. Black-preferred
+candidates have done far worse and have experienced a declining success rate, winning seats on
+the Board just 48.1% of the time in the past 16 years (13 out of 27); 37.5% of the time in the last
+
+19
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 27 of 68 PageID #: 1511
+
+ten years (six out of 16); and 33.3% of the time in the last five years (four out of 12). SUMF
+¶¶ 200, 207-08. Notably, when employing the Point Estimate approach, the gap in the success
+rate of white-preferred candidates in comparison to Black-preferred candidates has grown over
+time: from about 41 percentage points over the past 16 years, to 56 percentage points over the
+past ten years, to 58 percentage points over the past five years. SUMF ¶¶ 209-10.
+As discussed above, the success rates of minority-preferred candidates are overstated
+because special circumstances diminish the probative value of some of the few minoritypreferred candidate successes. Excluding the 2009 monoracial election, the uniquely highturnout 2014 election, and the post-litigation 2015 election, the success rate of Black-preferred
+candidates drops to 45% over the past 16 years (nine out of 20); 22.2% over the past ten years
+(two out of nine); and 28.6% over the last five years (two out of seven). SUMF ¶ 200.
+As these undisputed statistics demonstrate, even using the District’s proposed definitions
+of candidates of choice, Board elections are characterized by RPV, and African-American voters
+are far less successful in electing their preferred candidates compared to white voters.
+b) Under an Appropriate Definition of Candidates of Choice, There is No
+Dispute of Material Fact That Minority-Preferred Candidates Usually Lose
+and White-Preferred Candidates Almost Always Win
+Because Plaintiffs have satisfied Gingles II and III using either definition of candidates of
+choice proposed by the District’s expert, the Court need not determine whether the FFSD’s
+bright-line rules for identifying preferred candidates are appropriate in this case. As the Eighth
+Circuit has stated, however, “[t]he preferences of the minority voters must be established on an
+election-specific basis, viewing all the relevant circumstances.” Blytheville, 71 F.3d at 1386; see
+also Collins I, 816 F.2d at 937 (“Each such situation must reviewed individually to determine
+whether the elected candidates can be fairly considered as representatives of the minority
+community.”). Accordingly, an appropriate approach for identifying candidates of choice in a
+20
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 28 of 68 PageID #: 1512
+
+multi-seat context takes into account “all the relevant circumstances,” Blytheville, 71 F.3d at
+1386, factors that Dr. Rodden’s blunt bright-line rules ignore. Under a proper contextual
+approach to identifying candidates of choice, the undisputed facts demonstrate that minoritypreferred candidates fare even more poorly.
+The Eighth Circuit has not yet set forth a single standard for identifying preferred
+candidates where multiple seats are at stake,9 but other Circuits have identified several factors
+that should inform the determination on an election-by-election basis. As an initial matter, where
+the candidate with the highest level of support is clearly identifiable, that candidate generally
+constitutes a minority-preferred candidate so long as that candidate receives “substantial”
+support from minority voters.10 See, e.g., Lewis v. Alamance Cnty., 99 F.3d 600, 614 (4th Cir.
+1996); NAACP v. City of Niagara Falls, 65 F.3d 1002, 1019 (2d Cir. 1995) (in multi-seat
+context, holding that “a candidate cannot be ‘minority-preferred’ if that candidate receives
+support from fewer than 50% of minority voters”). But, as the case law makes clear, identifying
+the second and/or third preferred candidate, if any, in a multi-seat election, requires a more
+nuanced analysis that looks closely at the details of each election. See, e.g., Lewis, 99 F.3d at
+614; Niagara Falls, 65 F.3d at 1017-19; Askew v. City of Rome, 127 F.3d 1355, 1379 (11th Cir.
+1997).
+Ultimately, three factors guide the identification of minority voters’ candidates of choice
+in a multi-seat election. First, if the top choice candidate of Black voters is unsuccessful, a
+9
+
+In Clay v. Board of Education of St. Louis, the Eighth Circuit affirmed the district court’s reliance on the
+defendant’s evidence identifying African-American preferred candidates as the top four vote-getters among AfricanAmerican voters for the four contested board seats. 90 F.3d 1357, 1361-62 (8th Cir. 1996). Unlike the analysis and
+proof Plaintiffs have set forth here, however, the plaintiffs in Clay improperly “rel[ied] on the implicit assumption
+that African-American candidates were the preferred candidates of African-American voters,” and failed to identify
+and “prove, on an election-by-election basis, which candidates are minority-preferred” under a legitimate alternative
+definition. Id. at 1360-61.
+10
+
+Where the top two candidates in a two-seat election or top three in a three-seat election are clearly identifiable but
+have overlapping confidence intervals, then both the top two (or all the top three) are treated as candidates of choice.
+
+21
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 29 of 68 PageID #: 1513
+
+second-choice candidate who is successful is not necessarily minority-preferred, if that candidate
+received substantially less support than the top-choice candidate. As the Second Circuit has
+explained, “a court need not treat [a] candidate as minority-preferred if another candidate
+receives significantly higher support” among minority voters. Niagara Falls, 65 F.3d at 1019.
+Similarly, the Fourth Circuit has held that the “critical fact” in assessing whether a second or
+third choice candidate among Black voters is properly understood as a Black-preferred candidate
+“is the difference between the black support for the candidate who received the most black votes
+yet lost and . . . the candidates who won with fewer black votes.” Collins v. City of Norfolk, 883
+F.2d 1232, 1238 (4th Cir. 1989) (“Collins II”). Thus, “if the level of support received by the
+unsuccessful first-place finisher among black voters was ‘significantly higher’ than the support
+given the second- and third-place finishers by those same voters, then successful candidates who
+finished behind the unsuccessful first choice ‘are presumed not to be the minority’s preferred
+candidates or representatives of choice.’” Lewis, 99 F.3d at 612 (quoting Collins II, 883 F.2d at
+1238).11 Although courts have not converged on a definition of what constitutes “significantly
+higher” support,12 at least one court has accepted as a reasonable method a “two-thirds rule” in
+which a “second-most-favored candidate of black voters” would be deemed a candidate of
+choice only if he or she “had at least two-thirds of the support of the most favored candidate.”
+NAACP v. City of Thomasville, 401 F. Supp. 2d 489, 498 & n.3 (M.D.N.C. 2005).
+Second, where the clear first choice candidate among African-American voters is an
+11
+
+Absent consideration of the relative levels of support in a multi-seat context, “[o]nly by single-shot voting—
+withholding all votes save for their first choice, and forfeiting the opportunity to cast all votes allotted to each
+voter—could the minority be assured that its second and third choices would not be declared its preferred
+candidates.” Collins II, 883 F.2d at 1239.
+12
+
+According to the Fourth Circuit, “to determine whether a candidate who received less support from minority
+voters than an unsuccessful first choice may be deemed a minority-preferred candidate of choice in a multi-seat
+election, a district court should first consider the number of candidates on the ballot and the number of seats to be
+filled.” Levy v. Lexington Cnty., 589 F.3d 708, 717 (4th Cir. 2009); see id. at 717 n.12. This is so, at least in part,
+because these numbers dictate the levels of support each candidate can, as a mathematical matter, receive.
+
+22
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 30 of 68 PageID #: 1514
+
+African American and has lost, courts should be skeptical of attempts to characterize a winning
+white candidate as a candidate of choice of minority voters. See, e.g., Collins I, 816 F.2d at 937
+& n.6 (casting doubt on whether elected white candidates who received some support by African
+Americans could “be fairly considered as representatives of the minority community” where
+those candidates were elected over African-American candidates that were clearly the mostminority-preferred candidates). This is particularly the case in an election featuring only one
+African-American candidate. As the Fifth Circuit has observed, in a multiple seat election in
+which there was only one African-American candidate, “it [is] virtually unavoidable that certain
+white candidates would be supported by a large percentage of [the relevant community’s] black
+voters. Significance lies in the fact that the black candidate preferred by the minority was
+defeated by white bloc voting. That blacks also support white candidates acceptable to the
+majority does not negate instances in which white votes defeat a black preference.” Citizens for a
+Better Gretna, 834 F.2d at 502; see also Aldasoro v. Kennerson, 922 F. Supp. 339, 374 (S.D.
+Cal. 1995) (explaining that, in Collins II, “where Black voters favored a Black candidate first
+who lost, the Anglos whom they favored second and third were not the Black preferred
+candidates” (citing Collins II, 883 F.2d at 1238)).
+Third, the candidate who is estimated to have received the second-(or third-)highest level
+of support among minority voters cannot be deemed a minority-preferred candidate unless
+minority voters clearly and cohesively preferred that candidate over others. The Eighth Circuit
+has accepted the proposition that the “candidates receiving the highest number of AfricanAmerican votes [are] the minority preferred candidates.” Clay, 90 F.3d at 1361-62 (internal
+quotation marks omitted). But in some cases, the estimated levels of support from minority
+voters received by different candidates are statistically indistinguishable from one another. Often
+
+23
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 31 of 68 PageID #: 1515
+
+in such circumstances, a candidate cannot be considered minority-preferred, because it is
+impossible to determine to a level of statistical significance whether that candidate in fact
+received more minority support than other candidates.
+Critically, the parties in this case are not offering hard data as to the actual numbers of
+minority voters who voted for each candidate; rather, the parties’ experts rely on the Ecological
+Inference (EI) method to produce estimated levels of support for each candidate among different
+racial groups. The EI method generates a specific estimate (the “point estimate”) of the
+percentage of votes cast by African-American voters and white voters for each candidate, as a
+share of the respective groups’ VAP, as well as a “confidence interval.” SUMF ¶ 48. The
+confidence interval is the range within which we can be 95% confident, statistically, of where the
+actual level of a group’s support for a candidate falls. SUMF ¶ 48.13 The point estimate lies at the
+median of the confidence interval. SUMF ¶ 48.
+Using this method, there are some situations in which the estimated levels of support
+received by two candidates are statistically indistinguishable. As the District’s expert Dr. Rodden
+concedes, if the point estimate for one candidate falls within the confidence interval for another
+candidate, then the estimated levels of support received by the two candidates are statistically
+indistinguishable. SUMF ¶ 52. Conversely, Dr. Rodden opined that if the point estimate for one
+candidate lies outside of the confidence interval for another candidate, then there is a statistically
+significant difference in the respective estimated levels of support received by the two
+candidates. SUMF ¶ 52. For example, in the 2000 election, Dr. Rodden estimates that one
+candidate, Michael Hirsch, received 12.75 – 26.27% of Black votes with a point estimate of
+18.71%; another candidate, Anthony Smith, received 14.50 – 19.95% of Black votes with a point
+
+13
+
+A statistical estimate with a 95% degree of confidence employs the level of statistical certainty that is consistent
+with generally-accepted standards in the field of political science, and is consistent with peer-review standards for
+
+24
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 32 of 68 PageID #: 1516
+
+estimate of 16.81%. SUMF ¶ 60. Because the point estimate for Hirsch falls within the
+confidence interval for Smith, their respective levels of Black support are statistically
+indistinguishable, meaning that we cannot know, to the degree of statistical certainty employed
+by political scientists, which of these candidates received more Black support. SUMF ¶ 63. It is,
+however, clear that both Hirsch and Smith received less support among Black voters than
+another candidate, Gwendolyn Thomas, because the point estimates for both Hirsch and Smith
+lie outside the confidence interval for G. Thomas (25.70% – 43.21%). SUMF ¶¶ 60, 62.
+Given the nature of these statistical estimates, a court should not consider a candidate to
+be minority-preferred simply because that candidate has the second-(or third-)highest point
+estimate for minority support. Where candidates’ estimated levels of support are statistically
+indistinguishable, it is not only mathematically impossible to tell which candidate received more
+support; it is also an indication that minority voters are not cohesive behind a second or third
+candidate. A second or third choice candidate should be considered minority-preferred only if we
+can determine to a statistically significant degree that a candidate’s estimated level of support
+among minority voters is higher than that of others such that the candidate is clearly the second
+(or third) choice among minority voters. See Clay, 90 F.3d at 1362 (“‘[I]t is a near tautological
+principle that the minority preferred candidate ‘should generally be one able to receive
+[minority] votes.’” (second alteration in original) (quoting Blytheville, 71 F.3d at 1387)).
+Applying these three principles to identifying candidates of choice (a “Case-by-Case
+approach”) reveals stark levels of racial polarization in FFSD and extremely low levels of
+success for Black-preferred candidates, particularly in more recent elections. See infra Table 5.
+As explained below, this contextual Case-by-Case approach reveals that there were a total of 20
+
+research in that field. SUMF ¶ 49.
+
+25
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 33 of 68 PageID #: 1517
+
+white-preferred candidates in contested elections from 2000 through 2015, of which 19 were
+successful. See infra id. By contrast, there were a total of 19 Black-preferred candidates in
+contested elections from 2000 through 2015, and only seven were successful. See infra id. The
+following discussion identifies each group’s candidates of choice under a Case-by-Case
+approach in each of the last twelve contested elections.
+The 2015 Election. A close analysis of the two-seat 2015 election reveals that there was
+only one Black-preferred candidate, Graves, who is Black, and one white-preferred candidate,
+Brian Scott Ebert, who is white. Both candidates were successful. SUMF ¶¶ 167, 169, 174.
+Both the District’s expert, Dr. Rodden, and the plaintiffs’ expert, Dr. Engstrom, estimate
+that Graves had the highest level of support among Black voters by far. SUMF ¶ 167.
+Dr. Rodden estimated that she received approximately 49% of all votes cast by Black voters, a
+percentage that indicates close to unanimous support among African-American voters. SUMF
+¶ 167.14 The estimated level of support she received among Black voters is higher, to a
+statistically significant degree, than that estimated for other candidates. SUMF ¶ 169.
+Dr. Rodden agrees that Black voters were cohesive in their support for Graves. SUMF ¶ 169.
+Dr. Engstrom concluded that Graves was the candidate of choice for Black voters in the 2015
+election. SUMF ¶ 172.
+In addition, Dr. Rodden and Dr. Engstrom both estimated that Donna Marie Dameron,
+who is white, received the second-highest estimated level of support among African-American
+voters, but at approximately 14% of votes cast by African-American voters, her estimated level
+of support is substantially lower than Graves’ African-American support. SUMF ¶¶ 167-68, 170.
+Moreover, as estimated by Dr. Rodden, Dameron’s support among Black voters is statistically
+
+14
+
+49% refers to an estimate of votes cast for Graves by Black voters. Each voter was entitled to cast votes for up to
+two candidates. If each voter casts both of their votes, a candidate who received 50% of Black votes would have
+
+26
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 34 of 68 PageID #: 1518
+
+indistinguishable from that of two other candidates: Roger Hines and Michael Person. SUMF
+¶¶ 167, 171. There is, as a result, no way to determine with a reasonable degree of certainty
+whether Dameron was in fact the candidate with second-highest level of African-American
+support. SUMF ¶ 171. Dr. Rodden observed that this reflected a lack of cohesion among Black
+voters around a second-choice candidate. See SUMF ¶ 171. As Dr. Engstrom concluded, Black
+voters did not have a second preferred candidate in the 2015 election. See SUMF ¶ 172.
+With respect to white voters, Dr. Rodden estimates that Ebert’s support among white
+voters was cohesive, approximately double that of the next-highest ranked candidate among
+whites, and that the difference is statistically distinguishable. See SUMF ¶¶ 167, 174. Ebert was
+therefore the clear top choice among white voters. According to both parties’ experts, moreover,
+the estimated levels of white support for the next two candidates, Graves and Hines, are
+statistically indistinguishable. See SUMF ¶ 175. Dr. Rodden opined that white voters were not
+cohesive behind a second candidate. See SUMF ¶ 175. White voters thus also had only one
+preferred candidate in 2015: Ebert, who was elected. See SUMF ¶¶ 166-67, 174-75.
+The 2014 Election. In the three-seat 2014 election, there were three Black-preferred
+candidates (Dr. Donna Paulette-Thurman, F. Willis Johnson, and James Savala), all of whom are
+Black, and three white-preferred candidates (Kimberly Benz, Robert Chabot, and Paul Morris),
+all of whom are white. Only one Black-preferred candidate (Paulette-Thurman) was successful,
+while two white-preferred candidates (Chabot and P. Morris) were successful. See SUMF
+¶¶ 148, 151, 154, 157, 159.
+Both parties’ experts agree that Paulette-Thurman, Johnson, and Savala received levels of
+support among Black voters that are statistically distinguishable and substantially higher than
+
+received a vote from every Black voter. SUMF ¶ 24.
+
+27
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 35 of 68 PageID #: 1519
+
+those of the remaining candidates. See SUMF ¶¶ 150-53. They were accordingly the clear top
+three choices among Black voters. The parties’ experts also agree that the same is true for Benz,
+Chabot, and P. Morris among white voters. See SUMF ¶¶ 156-59.
+The 2013 Election. In the two-seat 2013 election, there was one Black-preferred
+candidate (Charles Henson), who is Black, and two white-preferred candidates (Keith Brown and
+Leslie Hogshead), both of whom are white. The two white-preferred candidates were successful;
+the Black-preferred candidate was not. See SUMF ¶¶ 139, 143, 145-46.
+As estimated by Dr. Rodden, Henson’s level of support among Black voters is
+statistically distinguishable from that of other candidates, marking him as the clear top choice
+among Black voters. See SUMF ¶¶ 141, 143. In addition, both parties’ experts estimate that
+neither Brown nor Hogshead received two-thirds or more of the African-American support
+enjoyed by Henson; moreover, their levels of African-American support are statistically
+indistinguishable from one another. SUMF ¶¶ 141-42. There is, as a result, no way to determine
+whether Brown or Hogshead was the candidate with second-highest level of African-American
+support.15 SUMF ¶ 142. As Dr. Engstrom opined, African-American voters thus had only one
+preferred candidate in 2013: Henson. SUMF ¶ 143.
+Meanwhile, Brown and Hogshead were the clear top two candidates among white voters.
+SUMF ¶ 145. Dr. Rodden estimated that the levels of support among white voters received by
+Brown and Hogshead are statistically distinguishable from and substantially higher than that of
+other candidates. See SUMF ¶¶ 145-46. Thus, Brown and Hogshead were the two whitepreferred candidates. See SUMF ¶¶ 145-46.
+
+15
+
+The Court should also be skeptical of characterizing Paul Schroeder, a successful white candidate, as a secondchoice Black-preferred candidate because the clear top-preferred candidate, who is Black, lost. See Collins II, 883
+F.2d at 1238; Niagara Falls, 65 F.3d at 1017-19.
+
+28
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 36 of 68 PageID #: 1520
+
+The 2012 Election. In the two-seat 2012 election, there was one Black-preferred
+candidate (Barbara Morris), who is Black, and two white-preferred candidates (Ebert and Paul
+Schroeder), both of whom are white. The two white-preferred candidates were successful; the
+Black-preferred candidate was not. See SUMF ¶¶ 132-34, 136-37.
+Among Black voters, B. Morris had the highest level of support by far, with Dr. Rodden
+estimating that she received approximately 51.33% of all votes cast by Black voters. SUMF
+¶ 130. This indicates not only unanimous support among Black voters but also that some
+African-American voters likely cast a vote only for her. SUMF ¶¶ 130, 24. In addition, neither
+Ebert nor Schroeder received two-thirds or more of the African-American support enjoyed by B.
+Morris.16 Their levels of African-American support are, moreover, statistically indistinguishable
+from one another, reflecting, as Dr. Rodden observed, a lack of cohesion among Black voters
+behind a second-choice candidate. See SUMF ¶¶ 130, 132-33. Therefore, as Dr. Engstrom
+concluded, B. Morris was the sole Black candidate of choice in 2012. See SUMF ¶ 134.
+Among white voters, both parties’ experts agree that Ebert and Schroeder received levels
+of support that are statistically distinguishable and substantially higher than that of B. Morris,
+marking them clearly as the white-preferred candidates in 2012. See SUMF ¶¶ 136-37.
+The 2011 Election. In the three-seat 2011 election, there were two Black-preferred
+candidates (Dr. Doris Graham and Vanessa Hawkins), who are both Black, and one whitepreferred candidate (Chris Martinez), who is white Hispanic. See SUMF ¶¶ 122-23, 127-28. The
+white-preferred candidate (Martinez) and two other white candidates (P. Morris and Chabot)
+were successful; the Black-preferred candidates were not. See SUMF ¶¶ 119-20, 125.
+Both parties’ experts agree that Graham and Hawkins received levels of support among
+
+16
+
+Because the clear top-preferred candidate, who is Black, lost, the Court should, moreover, be skeptical of
+characterizing Schroeder, a successful white candidate, as a second-choice Black-preferred candidate. See Collins II,
+
+29
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 37 of 68 PageID #: 1521
+
+Black voters that are substantially higher than and statistically distinguishable from those of any
+of the remaining candidates. See SUMF ¶¶ 120, 122. In addition, both parties’ experts estimated
+that Clark’s level of support among Black voters was less than two-thirds of that enjoyed by
+Graham and Hawkins among Black voters. SUMF ¶¶ 120, 122. Graham and Hawkins were thus
+the clear top two choices among African-American voters, and, as Dr. Engstrom opined, the only
+Black-preferred candidates in 2011. See SUMF ¶¶ 122, 123-24.
+Among white voters, both parties’ experts agree that Martinez was the clear first-choice
+candidate. Both parties’ experts also estimate that Chabot, Ebert, and Morris shared statistically
+indistinguishable levels of support, SUMF ¶¶ 127-28, making it impossible to clearly identify
+second or third candidates of choice among white voters. There was thus only one white
+candidate of choice in 2011.
+The 2009 Election. In the two-seat 2009 election, Black voters and white voters both
+preferred two candidates (John Knowles and Schroeder), both of whom are white and both of
+whom were successful. SUMF ¶¶ 111, 115-16. As estimated by Dr. Rodden, their levels of
+support among Black voters and white voters are statistically distinguishable from that of the
+other candidate, Gregory Heise, marking them as the clear top choices among Black voters and
+white voters. See SUMF ¶¶ 114-15. As noted, however, there were no Black candidates in this
+election. SUMF ¶¶ 112, 114.
+The 2006 Election. In the two-seat 2006 election, there were two Black-preferred
+candidates (Gwendolyn Thomas and Pat Washington), both of whom are Black, and two whitepreferred candidates (Schroeder and Knowles), both of whom are white. The two white-preferred
+candidates prevailed over the two Black-preferred candidates. SUMF ¶¶ 103, 105-08.
+
+883 F.2d at 1238; Niagara Falls, 65 F.3d at 1017-19.
+
+30
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 38 of 68 PageID #: 1522
+
+According to Dr. Rodden’s estimates, G. Thomas and Washington received levels of
+support among Black voters that are statistically distinguishable from that of the candidate with
+the third-highest level of Black support, Nancy Knorr, marking them as the clear top two
+candidates among Black voters. See SUMF ¶ 106. Similarly, Dr. Rodden estimates that among
+white voters, Schroeder and Knowles received levels of support that are statistically
+distinguishable from and substantially higher than that of the candidate with the third-highest
+level of white support, Knorr. See SUMF ¶ 108.
+The 2004 Election. In the two-seat 2004 election, there were two Black-preferred
+candidates (Tommie Van and Ingrid McClendon), both of whom are Black, and two whitepreferred candidates (Jeanne Garofalo and Hogshead), both of whom are white. The two whitepreferred candidates prevailed over the two Black-preferred candidates. SUMF ¶¶ 96, 98-101.
+According to Dr. Rodden’s estimates, Van and McClendon received levels of support that
+are statistically distinguishable from and substantially higher than that of the candidate with the
+third-highest level of Black support, Pernell Witherspoon, rendering them the clear top two
+choices among Black voters. See SUMF ¶¶ 98-99. Dr. Rodden likewise estimates that Garofalo
+and Hogshead received levels of support among white voters that are statistically distinguishable
+from that of the candidate with the third-highest level of white support, Van. See SUMF ¶ 101.
+The 2003 Election. In the two-seat 2003 election, there was one Black-preferred
+candidate (G. Thomas), who is Black, and one white-preferred candidate (Knorr), who is white.
+SUMF ¶¶ 87, 91-93, 95. Each group’s preferred candidate was successful. SUMF ¶¶ 87, 89.
+A close analysis of the 2003 election results reveals that there were no second candidates
+of choice among either Black or white voters. According to Dr. Rodden’s estimates, G. Thomas
+received “substantially more” support among Black voters than the candidate with the second-
+
+31
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 39 of 68 PageID #: 1523
+
+highest estimated level of Black support, Knorr.17 SUMF ¶ 92. Neither Knorr nor Lentz received
+two-thirds or more of the African-American support enjoyed by G. Thomas; their levels of
+African-American support are, moreover, statistically indistinguishable from one another. SUMF
+¶¶ 92-93. Similarly, Dr. Rodden estimates that Knorr’s level of white support is statistically
+distinguishable from and substantially higher than that of the candidate with the second-highest
+estimated level of white support, Lentz. SUMF ¶ 95. There were thus only one Black-preferred
+candidate (G. Thomas) and one white-preferred candidate (Knorr) in 2003.
+The 2002 Election. In the three-seat 2002 election, there were two Black-preferred
+candidates (Graham and Felicia Butler), both of whom are Black, and one white-preferred
+candidate (Brian Fletcher), who is white. See SUMF ¶¶ 76, 78, 80-83, 85-86. One Blackpreferred candidate, Graham, and the white-preferred candidate, Fletcher, prevailed. SUMF ¶ 76.
+According to Dr. Rodden’s estimates, Graham and Butler received levels of support
+among Black voters that are statistically distinguishable from, and substantially higher than, that
+of the candidate with the third-highest level of Black support, Jim Clark.18 See SUMF ¶¶ 78, 8081. Clark received less than two-thirds of the African-American support enjoyed by either Butler
+or Graham; his level of African-American support is, moreover, statistically indistinguishable
+from Fletcher’s and Knorr’s. SUMF ¶¶ 81, 83. Under a close analysis of the 2002 election, there
+are thus only two clear Black-preferred candidates.
+Among white voters, Dr. Rodden estimates that Fletcher’s level of support is statistically
+distinguishable from that of the candidate with the fourth-highest level of support, Lawrence
+17
+
+Because the clear top-preferred candidate, who is Black, lost, the Court should, moreover, be skeptical of
+characterizing Knorr, a successful white candidate, as a second-choice Black-preferred candidate. See Collins II, 883
+F.2d at 1238; Niagara Falls, 65 F.3d at 1017-19.
+18
+
+Because a clear top-preferred candidate, who is Black, lost, the Court should, moreover, be skeptical of
+characterizing Clark, a successful white candidate, as a third-choice Black-preferred candidate. See Collins II, 883
+F.2d at 1238; Niagara Falls, 65 F.3d at 1017-19.
+
+32
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 40 of 68 PageID #: 1524
+
+Morie. SUMF ¶ 85. Fletcher, therefore, was at least one of the top three candidates for white
+voters, making him a candidate of choice for one of the three available seats. A close analysis of
+the 2002 election results reveals that there is not a clearly identifiable second or third candidate
+of choice among white voters, because the levels of white support enjoyed by Knorr, Clark, and
+Morie are, according to Dr. Rodden’s estimates, statistically indistinguishable. See SUMF ¶ 86.
+Thus, Fletcher was the only white candidate of choice in 2001.
+The 2001 Election. In the two-seat 2001 election, Black voters preferred only one
+candidate (Butler), who is Black, and white voters preferred two candidates (Hogshead and
+Garofalo), both of whom are white. The two white-preferred candidates were successful; the
+Black-preferred candidate was not. SUMF ¶¶ 67, 69, 71-74.
+According to Dr. Rodden’s estimates, Butler’s level of Black support is statistically
+distinguishable from the level of Black support received by Hogshead, the candidate with the
+third-highest level of support, and substantially higher than the support received by both
+Hogshead and Garofalo.19 SUMF ¶¶ 69, 71. Butler, therefore, was at least one of the top two
+candidates for Black voters, making her a candidate of choice for one of the two available seats.
+As estimated by Dr. Rodden, neither Hogshead nor Garofalo received two-thirds or more of the
+African-American support enjoyed by Butler; their levels of African-American support are,
+moreover, statistically indistinguishable from each other’s. SUMF ¶¶ 69, 71, 73. Under a close
+analysis of the results of the 2001 election, there was accordingly no second candidate of choice
+among Black voters. SUMF ¶¶ 70-71, 73.
+With respect to white voters, Dr. Rodden estimates that Hogshead and Garofalo received
+levels of white support that are statistically distinguishable from and substantially higher than
+
+19
+
+Because the clear top-preferred candidate, who is Black, lost, the Court should, moreover, be skeptical of
+characterizing Garofalo, a successful white candidate, as a second-choice Black-preferred candidate. See Collins II,
+
+33
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 41 of 68 PageID #: 1525
+
+that of the remaining two candidates, Lentz and Butler. See SUMF ¶¶ 69, 74. Hogshead and
+Garofalo were thus the two candidates of choices among white voters.
+The 2000 Election. In the two-seat 2000 election, there was one Black-preferred
+candidate (G. Thomas), who is Black, and there was one white-preferred candidate (Hirsch), who
+is white. SUMF ¶¶ 58, 60, 62-63, 65-66. Each group’s preferred candidate was successful.
+SUMF ¶¶ 58, 60.
+According to Dr. Rodden’s estimates, G. Thomas’s level of support among Black voters
+is statistically distinguishable from and substantially higher than that of Hirsch, the candidate
+with the second-highest point estimate among Black voters, marking G. Thomas as the clear top
+choice candidate among Black voters. See SUMF ¶¶ 60, 62. As estimated by Dr. Rodden, neither
+Hirsch nor Anthony Smith received two-thirds or more of the African-American support enjoyed
+by G. Thomas; their levels of African-American support are, moreover statistically
+indistinguishable from each other. SUMF ¶¶ 60, 62-63. It is therefore impossible to know which
+candidate received more support among Black voters, and so there was no second Blackpreferred candidate. SUMF ¶ 63.
+With respect to white voters, Dr. Rodden estimates that Hirsch’s level of support among
+white voters is statistically significant and substantially higher than that of G. Thomas, the
+candidate with the second-highest estimated level of support among white voters. See SUMF
+¶ 65. Moreover, G. Thomas’s estimated level of white support is statistically indistinguishable
+from that of another candidate, Lentz. SUMF ¶ 66. A close analysis of the 2000 elections thus
+reveals that there was thus no second candidate of choice among white voters.
+Summary of Candidates of Choice under the Case-By-Case Approach. The following
+
+883 F.2d at 1238; Niagara Falls, 65 F.3d at 1017-19.
+
+34
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 42 of 68 PageID #: 1526
+
+chart summarizes the results described above and calculates the success rates of preferred
+candidates among Black voters and white voters:
+Table 5 - Comparative Success Rates of White- and Black-Preferred Candidates:
+Case-By-Case Approach
+
+2000
+
+Black Voters
+Number
+Preferred Candidate(s)
+Preferred
+G. Thomas (B)
+1
+
+2001
+
+Butler (B)
+
+1
+
+2002
+2003
+
+Graham (B), Butler (B)
+G. Thomas (B)
+
+2
+1
+
+2004
+
+Van (B), McClendon (B)
+
+2
+
+Election
+
+2006
+2009
+2011
+2012
+2013
+2014
+2015
+
+G. Thomas (B),
+Washington (B)
+Knowles (W),
+Schroeder (W)
+Graham (B), Hawkins (B)
+B. Morris (B)
+Henson (B)
+Paulette-Thurman (B),
+Johnson, (B) Savala (B)
+Graves (B)
+Overall Success Rate:
+Last 10 Years:
+Last 5 Years:
+
+2
+2
+2
+1
+1
+3
+1
+19
+12
+8
+
+White Voters
+Number
+Number
+Number
+Preferred Candidate(s)
+Successful
+Preferred Successful
+1
+Hirsch (W)
+1
+1
+Garofalo (W),
+0
+2
+2
+Hogshead (W)
+1
+Fletcher (W)
+1
+1
+1
+Knorr (W)
+1
+1
+Garofalo (W),
+0
+2
+2
+Hogshead (W)
+Schroeder (W),
+0
+2
+2
+Knowles (W)
+Schroeder (W),
+2
+2
+2
+Knowles (W)
+0
+Martinez (W-H)
+1
+1
+0
+Ebert (W), Schroeder (W)
+2
+2
+0
+Hogshead (W), Brown (W)
+2
+2
+Chabot (W),
+1
+3
+2
+P. Morris (W), Benz (W)
+1
+Ebert (W)
+1
+1
+7
+Overall Success Rate:
+20
+19
+4
+Last 10 Years:
+13
+12
+2
+Last 5 Years:
+9
+8
+
+Applying the legal principles set forth above, there is clear RPV. As the table above
+reveals, during the past 16 years, all 20 of the white-preferred candidates were white. By
+contrast, 17 out of 19 Black-preferred candidates were Black. If we exclude the monoracial 2009
+election in which there were no Black candidates, then all 19 of the Black-preferred candidates
+were Black. Clearly, voting is starkly polarized along racial lines.
+Moreover, the success rate for Black-preferred candidates is lower than that of whitepreferred candidates, and declining. During the past 16 years, seven out of 19 Black-preferred
+candidates (36.8%) were successful in contested elections, as compared to 19 out of 20 whitepreferred candidates (95%). During the past decade, four out of 12 Black-preferred candidates
+35
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 43 of 68 PageID #: 1527
+
+were successful (33.3%), as compared to 12 out of 13 white-preferred candidates (92.3%).
+Looking only at the most probative Board elections, namely those held in the past five years, two
+out of eight Black-preferred candidates were successful (25%), as compared to eight out of nine
+white-preferred candidates (88.9%).
+If we exclude elections featuring special circumstances (the 2009 monoracial election;
+the high-turnout 2014 election; and the post-litigation 2015 election), then the discrepancies are
+even starker. Excluding those three elections, no candidate of choice was shared by Black and
+white voters. All 14 white candidates of choice since 2000 have been successful. By contrast,
+only three out of 13 (23.1%) Black-preferred candidates since 2000 have been successful (none
+since 2003); and zero out of six Black-preferred candidates have been successful over the past
+ten years.
+Table 6 - Comparative Success Rates of White- and Black-Preferred Candidates:
+Case-By-Case Approach (Excluding Elections with Special Circumstances)
+
+2000
+
+Black Voters
+Number
+Preferred Candidate(s)
+Preferred
+G. Thomas (B)
+1
+
+2001
+
+Butler (B)
+
+1
+
+2002
+2003
+
+Graham (B), Butler (B)
+G. Thomas (B)
+
+2
+1
+
+2004
+
+Van (B), McClendon (B)
+
+2
+
+Election
+
+2006
+2011
+2012
+2013
+
+G. Thomas (B),
+Washington (B)
+Graham (B), Hawkins (B)
+B. Morris (B)
+Henson (B)
+Overall Success Rate:
+Last 10 Years:
+Last 5 Years:
+
+2
+2
+1
+1
+13
+6
+4
+
+White Voters
+Number
+Number
+Number
+Preferred Candidate(s)
+Successful
+Preferred Successful
+1
+Hirsch (W)
+1
+1
+Garofalo (W),
+0
+2
+2
+Hogshead (W)
+1
+Fletcher (W)
+1
+1
+1
+Knorr (W)
+1
+1
+Garofalo (W),
+0
+2
+2
+Hogshead (W)
+Schroeder (W),
+0
+2
+2
+Knowles (W)
+0
+Martinez (W-H)
+1
+1
+0
+Ebert (W), Schroeder (W)
+2
+2
+0
+Hogshead (W), Brown (W)
+2
+2
+3
+14
+14
+Overall Success Rate:
+0
+7
+7
+Last 10 Years:
+0
+5
+5
+Last 5 Years:
+
+Thus, applying a proper legal standard for identifying candidates of choice, the
+undisputed statistics demonstrate that FFSD elections are characterized by drastic RPV, and
+
+36
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 44 of 68 PageID #: 1528
+
+candidates preferred by African-American voters usually lose to candidates preferred by white
+voters under the current at-large system.
+II.
+
+THERE IS NO GENUINE DISPUTE OF FACT THAT, UNDER THE TOTALITY
+OF CIRCUMSTANCES, BLACK RESIDENTS OF FFSD HAVE LESS
+OPPORTUNITY THAN OTHER MEMBERS OF THE ELECTORATE TO
+PARTICIPATE IN THE POLITICAL PROCESS AND ELECT CANDIDATES OF
+THEIR CHOICE
+“[I]t will be only the very unusual case in which the plaintiffs can establish the existence
+
+of the three Gingles factors but still have failed to establish a violation of § 2 under the totality of
+circumstances.” Jenkins, 4 F.3d at 1135; see also Blytheville, 71 F.3d at 1390 (“Satisfaction of
+the necessary Gingles preconditions carries a plaintiff a long way towards showing a section 2
+violation . . . .”). In analyzing the totality of circumstances, courts look to the non-exhaustive
+“typical factors” identified in the Senate Report accompanying the 1982 amendments to the
+VRA (“Senate Factors”), see S. Rep. No. 97-417 at 28-29, that are relevant in analyzing whether
+Section 2 has been violated.20 “[T]his list of typical factors is neither comprehensive nor
+exclusive,” and Plaintiffs need not prove “any particular number of factors . . . or that a majority
+of them point one way or the other.” Gingles, 478 U.S. at 45. “[T]he question whether the
+political processes are equally open depends upon a searching practical evaluation of the past and
+present reality, and on a functional view of the political process.” Id. (citing S. Rep. No. 97-417
+at 30) (internal quotation marks omitted).
+Here, the totality of circumstances demonstrates that, under the existing at-large system,
+
+20
+
+The factors include (1) prior history of voting-related discrimination; (2) the degree of racially polarized voting;
+(3) the presence of voting practices or procedures that tend to subjugate the minority group’s voting preferences; (4)
+the exclusion of minority group members from the candidate slating process; (5) the extent to which the minority
+group bears the effects of past discrimination in areas that tend to hinder its members’ ability to participate
+effectively in the political process; (6) the use of subtle or overt racial appeals in political campaigns; and (7) the
+extent to which members of the minority group have succeeded in being elected to public office. Gingles, 478 U.S.
+at 44-45. In an appropriate case, a court may also consider (8) the extent to which elected officials have been
+responsive to the particularized needs of the minority group and (9) the policy underlying the challenged voting
+practice or procedures. Id. at 45.
+
+37
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 45 of 68 PageID #: 1529
+
+the District’s Black electorate has less opportunity than its white counterpart to participate in the
+political process and elect representatives of its choice.
+A. The “predominant” Senate Factors (Factors 2 and 7)
+“Two factors predominate the totality-of-circumstances analysis: ‘the extent to which
+voting is racially polarized and the extent to which minorities have been elected under the
+challenged scheme.’” Bone Shirt, 461 F.3d at 1022 (quoting Blytheville, 71 F.3d at 1390); see
+Gingles, 478 U.S. at 48 n.15 (citing S. Rep. No. 97-417 at 28-29). There is no dispute of fact that
+both of these “predominant” factors weigh in favor of Plaintiffs.
+1. Board elections are characterized by RPV (supra Section I.B.2) (Senate
+Factor 2)
+The first “predominant” factor considers “the extent to which voting in the elections of
+the State or political subdivision is racially polarized” (Senate Factor 2). Gingles, 478 U.S. at 4445. RPV exists “where there is a consistent relationship between [the] race of the voter and the
+way in which the voter votes.” Id. at 53 n.21 (alteration in original; internal quotation marks
+omitted). As explained supra, Section I.B.2, there is no dispute of fact that such a consistent
+relationship exists here. Regardless of which method is used to identify candidates of choice, it is
+clear that white and Black voters in FFSD elections rarely overlap in their preferences and
+generally prefer candidates of their own race. In fact, under each of the methods proposed by the
+parties for identifying candidates of choice, it is clear that Black and white voters usually
+preferred different candidates:
+Table 7 - Racial Polarization in FFSD Elections
+Method of
+Identification
+Top-Ranked
+Candidate Approach
+
+Black Voters
+
+White Voters
+
+Number of
+Candidates of Choice
+
+Number
+Black
+
+Number of
+Candidates of Choice
+
+Number
+White
+
+12
+
+11
+(91.7%)
+
+12
+
+12
+(100%)
+
+38
+
+Overlapping
+Candidates
+0/12 (0%)
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 46 of 68 PageID #: 1530
+
+Point Estimate
+Approach
+
+27
+
+17 (63%)
+
+27
+
+25
+(92.6%)
+
+10/27 (37%)
+
+Case-By-Case
+Approach
+
+19
+
+17
+(89.5%)
+
+20
+
+20
+(100%)
+
+2/19 (10.5%)
+
+See supra at § I.B.2.b; SUMF ¶¶ 192-200.
+Depending on the method used to identify candidates of choice, white voters preferred
+white candidates between 92.6% and 100% of the time, while Black voters preferred Black
+candidates between 63% and 91.7% of the time. In addition, the groups’ preferred candidates
+overlapped from 0% to, at most, 37% of the time. Thus, no matter how preferred candidates are
+identified, voting is clearly polarized along racial lines.
+2. African-American candidates have largely not succeeded in being elected to
+the Board (Senate Factor 7)
+The second “predominant” factor considers “the extent to which members of the minority
+group have been elected to public office in the jurisdiction.” Gingles, 478 U.S. at 37. This factor
+does not require the total absence of minority electoral success. See id. at 75 (“[T]he language of
+§ 2 and its legislative history plainly demonstrate that proof that some minority candidates have
+been elected does not foreclose a § 2 claim.”); Buckanaga, 804 F.2d at 476. In fact, even
+“proportional or near proportional representation of the black population on the school board . . .
+does not provide an absolute safe harbor in which a defendant can seek refuge from the totality
+of the circumstances.” Blytheville, 71 F.3d at 1388. Instead, courts “must conduct an
+‘independent consideration of the record’ and a ‘searching practical evaluation’ of the
+circumstances surrounding minority electoral successes.” Buckanaga, 804 F.2d at 476 (quoting
+Gingles, 478 U.S. at 75-76). The undisputed facts demonstrate that African-American electoral
+successes have been minimal in FFSD.
+It is undisputed that African Americans’ representation on the Board is disproportionately
+low compared to their share of the FFSD population. SUMF ¶ 214. As the District’s expert Dr.
+
+39
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 47 of 68 PageID #: 1531
+
+Rodden observes, the current composition of the Board, as well as other municipal elected bodies
+in the area, still reflects a racial composition significantly out of line with the population
+demographics. SUMF ¶ 215. That this underrepresentation persists despite the recent growth in
+the African-American population in the District is, as Dr. Rodden agrees, a “problem.” SUMF
+¶ 216.
+From 1988 until 2000, Graham was the only African American on the Board. SUMF
+¶ 219. Since 2000, there have been at most two Black members on the Board at any given time.
+SUMF ¶ 221. This underrepresentation is not due to a shortage of Black candidates: 24 Black
+candidates ran for Board seats in the 12 contested elections from 2000 to 2015, but were
+successful only five times (20.8%). SUMF ¶¶ 222-23. This is a stark comparison to the electoral
+success of white candidates, who have been successful 22 out of 37 (59.5%) times since 2000, a
+success rate almost three times that of Black candidates. SUMF ¶ 224.
+Table 8 - Comparative Success Rates of Black and White Candidates
+Black Candidates
+Election
+
+White Candidates
+
+Total Number
+
+No. Successful
+
+Total Number
+
+No. Successful
+
+2000
+
+2
+
+1
+
+4
+
+1
+
+2001
+
+1
+
+0
+
+3
+
+2
+
+2002
+
+2
+
+1
+
+4
+
+2
+
+2003
+
+1
+
+1
+
+2
+
+1
+
+2004
+
+3
+
+0
+
+2
+
+2
+
+2006
+
+2
+
+0
+
+3
+
+2
+
+2009
+
+0
+
+0
+
+3
+
+2
+
+2011
+
+2
+
+0
+
+7
+
+3
+
+2012
+
+1
+
+0
+
+2
+
+2
+
+2013
+
+2
+
+0
+
+2
+
+2
+
+2014
+
+5
+
+1
+
+3
+
+2
+
+2015
+
+3
+
+1
+
+2
+
+1
+
+TOTALS:
+
+24
+
+5 (20.8%)
+
+37
+
+22 (59.5%)
+
+See SUMF ¶¶ 222, 60, 69, 78, 89, 98, 105, 114, 120, 130, 139, 148, 167.
+Despite the recent growth of the African-American population in the District, minority
+
+40
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 48 of 68 PageID #: 1532
+
+electoral success has not improved. From 2011 to 2015, the more recent (and most probative)
+elections, 13 Black candidates ran for Board seats, but only two (15.4%) were successful. SUMF
+¶ 225. As recently as the 2013-2014 term, there were no African-American Board members.
+SUMF ¶¶ 138-39, 144, 227. Counting only African-American Board members who were
+successfully elected, there were no elected African-American Board members on the Board from
+2011 to 2014, as Henson never won a Board election. SUMF ¶¶ 109, 118, 138-39, 144, 228.
+Although there are currently two African-American Board members, both of these candidates
+won elections that were, as discussed above, marked by special circumstances (2014 and 2015).
+SUMF ¶¶ 161-65, 176-88.
+B. Factors related to the historical and current context of discrimination (Senate
+Factors 1, 5, and 8)
+1. Missouri and St. Louis County have a long history of official discrimination,
+and African-American residents of FFSD continue to bear its effects (Senate
+Factors 1 and 5).
+The State of Missouri and St. Louis County have a long and undisputed history of official
+discrimination that has “touched the right of the members of the minority group to register, to
+vote, or otherwise to participate in the democratic process.” Gingles, 478 U.S. at 36-37 (Senate
+Factor 1). There is no dispute, moreover, that African Americans in FFSD continue to “bear the
+effects of [that] discrimination in such areas as education, employment and health, which hinder
+their ability to participate effectively in the political process.” Gingles, 478 U.S. at 45 (Senate
+Factor 5). These factors weigh in favor of Plaintiffs’ claims.
+History of Official Discrimination. The State of Missouri undisputedly engaged in statesanctioned discrimination that barred Black citizens’ access to the democratic process. The State,
+and the St. Louis area in particular, bear the unfortunate distinction of having given rise to the
+infamous case Dred Scott v. Sandford, 60 U.S. 393 (1856). The State’s Constitution of 1865,
+
+41
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 49 of 68 PageID #: 1533
+
+ratified two months after the end of the Civil War, expressly restricted the franchise to white
+males. Mo. Const. of 1865, art. II, § 18. It was not until the State ratified the Fifteenth
+Amendment in 1870 that Black men were permitted to vote. SUMF ¶ 232; SUMF Ex. G13. The
+State restricted African Americans’ ability to participate in the political system in a myriad of
+other ways: for example, the State prevented African Americans from holding statewide office,21
+bearing witness in court,22 and serving as jurors.23 SUMF ¶¶ 223-24; see African-Am. Voting
+Rights Legal Def. Fund, Inc. v. Missouri, 994 F. Supp. 1105, 1125 (E.D. Mo. 1997) (noting that a
+“litany of Missouri constitutional provisions, statutes, ordinances, and decisions dating from
+1820 to 1976” could constitute sufficient evidence of “official discrimination” to satisfy Senate
+Factor 1), aff’d, 133 F.3d 921 (8th Cir. 1998).
+Housing. The St. Louis area is notorious for its official sanction of segregated housing,
+and its acquiescence to private maintenance of discriminatory real estate practices and
+exclusionary zoning practices designed to compel African Americans to remain in designated,
+underserved areas. See SUMF ¶ 235. In fact, the region’s use of these practices led to three
+landmark residential racial discrimination cases. In Shelley v. Kraemer, 334 U.S. 1 (1948), a case
+arising out of the city of St. Louis, the Supreme Court held unconstitutional state enforcement of
+racially restrictive housing covenants. After that decision, to sustain “the color line,”
+municipalities in St. Louis County (including those within the bounds of FFSD) turned to private
+realty practices, such as exclusionary zoning practices like large-lot single-family residential
+
+21
+
+Mo. Const. of 1865, art. V, § 2 (requiring that the governor be a white man), art. V, § 12 (requiring that the
+lieutenant governor be a white man), art. IV, § 3 (requiring that members of the Missouri house of representatives be
+white men), art. IV, § 5 (requiring that state senators be white men), art. III, § 6 (requiring that all voters be white
+men).
+22
+
+Mo. Rev. Stat. ch. “Negroes and Mulattoes,” § 2, at 600 (1825) (prohibiting Black people from serving as
+competent witnesses).
+23
+
+Mo. Rev. Stat. ch. 146, § 2-2, at 797 (1870) (requiring that every juror be a white man).
+
+42
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 50 of 68 PageID #: 1534
+
+zoning, which by design excluded most African Americans, and were, in turn, subsidized and
+regulated by local and federal public policies. SUMF ¶¶ 238-39. These discriminatory practices
+brought the St. Louis area, and North County specifically, back into an ugly spotlight, resulting
+in court challenges that ultimately led to the Supreme Court’s decision outlawing discrimination
+in private real estate transactions, see Jones v. Alfred H. Mayer Co., 392 U.S. 409 (1968), and to
+a ruling from the Eighth Circuit, in one of the first exclusionary zoning cases, striking down the
+town of Black Jack’s zoning ordinance banning construction of multifamily housing, see United
+States v. City of Black Jack, 508 F.2d 1179 (8th Cir. 1974), cert. denied, 422 U.S. 1042 (1975).
+SUMF ¶ 240. Even late into the 1980s, so-called urban renewal efforts in North St. Louis County
+were “designed and pursued as a means of relocating suburban pockets of American-American
+settlement ‘back’ into [St. Louis] City.” SUMF ¶ 242.
+The effects of these policies and practices in St. Louis County reverberate today. For
+example, most of the predominantly African-American neighborhoods in FFSD are in areas with
+lower median household incomes. SUMF ¶ 281. The rate of African-American homeownership
+remains depressed in the St. Louis area, and African Americans who do own homes are more
+often cornered into less stable neighborhoods on subprime terms, where there is little access to
+public services and high-performing schools. SUMF ¶¶ 245-46. The substantial homeownership
+gap between African Americans and whites, coupled with the fact that the property values of
+African Americans’ homes have grown more slowly in comparison to whites’ homes, results in
+tremendous disparities in wealth among African-American and white households. SUMF ¶¶ 24748. These disparities have inter-generational effects. SUMF ¶ 249. Because home equity is the
+centerpiece of family wealth for moderate-income Americans, historical racial discrimination in
+housing in large part caused the current race gap in family wealth. SUMF ¶¶ 244, 249-52. And
+
+43
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 51 of 68 PageID #: 1535
+
+that wealth gap is overwhelming. In 2013, for example, median family wealth for African
+Americans nationally was merely 8.2% of median family wealth for whites. SUMF ¶ 250. This
+wealth gap, stemming in part from discriminatory and unequal housing opportunities, is one
+driver of ongoing, and in many instances growing, disparities between African Americans and
+whites in other areas, such as educational achievement, employment, and health care. SUMF
+¶ 251. There is no dispute that racial disparities in these areas persist in the St. Louis
+metropolitan region, and in FFSD are much higher than national averages. SUMF ¶¶ 252-53.
+Most pertinent to this case, residential segregation persists and continues to be mirrored
+in other areas of civic life. SUMF ¶¶ 254-56. Unsurprisingly, the ongoing effects of housing
+segregation continue to hinder African Americans’ ability to participate in the political process –
+both for voters and candidates. SUMF ¶¶ 300-04; see Ward v. Columbus Cnty., 782 F. Supp.
+1097, 1104 (E.D.N.C. 1991) (segregation “disadvantages the black community politically by
+depriving its potential candidates of the opportunity to make acquaintances and to build trust and
+acceptance among white voters”); Rural W. Tenn. African Am. Affairs Council, Inc. v. Sundquist,
+29 F. Supp. 2d 448, 459 (W.D. Tenn. 1998) (“The economic and educational isolation of
+African-Americans . . . limits their ability to fund and mount political campaigns. In this sense
+therefore, blacks are not able to equally participate in the political process.”).
+Education. Of particular relevance to this case, the State and St. Louis County have an
+undisputed history of segregation and discrimination in education, which hinders effective
+participation by African Americans in the political process.24 In 1875, the State revised its thenten-year-old constitution to require, rather than merely permit, racially segregated schools. Mo.
+
+24
+
+St. Louis did not, for example, pass a public accommodations bill, barring racial discrimination in hospitals,
+restaurants and hotels, until 1961, and the 1961 law did not apply to apartments or other “landlord-tenant”
+relationships. SUMF ¶ 241.
+
+44
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 52 of 68 PageID #: 1536
+
+Const. of 1875, art. XI, § 3. A provision in the Missouri Constitution of 1904 that permitted
+segregated schooling was not officially rescinded until 1976. See Missouri v. Jenkins, 515 U.S.
+70, 176 (1995) (Ginsburg, J., dissenting) (noting the “deep, inglorious history of segregation in
+Missouri”). Private and public entities in and around FFSD resisted turning away from separatebut-equal.25
+Indeed, FFSD’s very creation was a remedy to state-sanctioned discrimination. Kinloch,
+one of the municipalities completely inside FFSD’s borders, once included the territory of the
+adjacent city of Berkeley. Prior to 1937, the areas of present-day Kinloch and Berkeley together
+formed the Kinloch School District, whose schools were segregated under Missouri law. SUMF
+¶ 261; Missouri, 515 F.2d at 1367. In 1937, white residents of Kinloch split the city, incorporated
+the city of Berkeley, and formed a new predominantly white school district. The student
+population of the new Berkeley District was 80% white, while the student population of the
+remnant of the Kinloch District was 99.3% African-American. SUMF ¶ 262. The cities of
+Berkeley and Ferguson took direct measures to isolate Kinloch’s African-American residents by
+dead-ending or barricading streets they shared with Kinloch. SUMF ¶ 265. Finally, in 1975—
+nearly two decades after Brown v. Board of Education, 349 U.S. 294 (1955)—this Court ordered
+Kinloch and Berkeley school districts to desegregate and merge into the adjacent FergusonFlorissant School District, resulting in the present-day FFSD. See United States v. Missouri, 388
+F. Supp. 1058 (E.D. Mo. 1975), aff’d in relevant part, rev’d in other part, 515 F.2d 1365 (8th
+Cir. 1975); SUMF ¶ 266.
+Educational disparities along racial lines remain highly visible in FFSD, most importantly
+25
+
+In fact, due to the resistance to desegregation in the St. Louis metropolitan area, a number of U.S. Supreme Court
+race-discrimination cases originated in the region. See, e.g., Hazelwood Sch. Dist. v. United States, 433 U.S. 299
+(1977); Alfred H. Mayer, 392 U.S. 409 (1968); Bhd. of R.R. Trainmen v. Howard, 343 U.S. 768 (1952); Shelley, 334
+U.S. 1 (1948); Dred Scott, 60 U.S. 393 (1856).
+
+45
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 53 of 68 PageID #: 1537
+
+in the achievement gap and the use of discipline in its schools. Not only do African-American
+students have lower enrollment in advanced classes such as calculus, chemistry, physics, and
+advanced placement courses in all subjects, but they also have more limited access to enrichment
+programs and extracurricular activities. SUMF ¶¶ 268-69. It is undisputed that African-American
+students in FFSD are disciplined at higher rates and more severely than white students. SUMF
+¶ 271. They receive a disproportionate number of in-school and out-of-school suspensions and
+are disproportionately referred to law enforcement by the FFSD. SUMF ¶¶ 272-74. AfricanAmerican students also receive more severe punishment for school infractions. SUMF ¶ 273. For
+instance, every student who reportedly received corporal punishment in the District in 2011 was
+African-American. SUMF ¶ 275. The disparate use of these more serious forms of discipline can
+have substantial negative effects, see SUMF ¶ 278, by, for example, keeping the student out of
+school and thus from learning, see SUMF ¶ 279.
+Other Socioeconomic Disparities. The racial disparities in housing and education
+described above are mirrored elsewhere in socioeconomic life in FFSD. African Americans in
+FFSD are more than twice as likely to live below the poverty line and more likely to be
+unemployed than are white residents. SUMF ¶ 280. Relatedly, over twice as many AfricanAmerican households rely on food stamps compared to white households, and African-American
+residents of FFSD are also less likely to have health insurance. SUMF ¶¶ 283-85. In addition,
+African Americans who live in Florissant and Ferguson, which together make up most of the
+geographic area covered by FFSD, face continuing racial profiling by law enforcement and a
+disproportionate number of stops, arrests, fines, and fees. SUMF ¶¶ 286-90. These disparities are
+not the product of chance; rather, “it is an escapable fact that” widespread socioeconomic
+disparities on the basis of race “are in large part the legacy of a history of discrimination, much
+
+46
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 54 of 68 PageID #: 1538
+
+of it governmental, beginning with the constitutionally sanctioned institution of human slavery.”
+Jeffers v. Clinton, 730 F. Supp. 196, 210 (E.D. Ark. 1989), aff’d, 498 U.S. 1019 (1991).
+Effect on Political Participation. The long history of official and private discrimination in
+the State and St. Louis County against African Americans “‘provide[s] strong circumstantial
+evidence’ . . . that the present day ability of minorities to participate on an even footing in the
+political process has been seriously impaired by the past discrimination,” and “that past
+discrimination has also led to present socio-economic disadvantages, which in turn reduces
+participation and influence in political affairs.” Buckanaga, 804 F.2d at 474 (quoting United
+States v. Marengo Cnty. Comm’n, 731 F.2d 1546, 1567 (11th Cir. 1984));26 see also Gingles, 478
+U.S. at 45; Rural W. Tenn., 29 F. Supp. 2d at 459 (in analyzing Senate Factor 1, noting that
+“[o]fficial discrimination not only prevents blacks from electing representatives of their choice, it
+also leads to disillusionment, mistrust, and disenfranchisement . . . [which] can cause black
+voters to drop out of the political process and potential black candidates to forgo an election
+run”). As the District’s expert made clear, socioeconomic disparities “feed directly into turnout”
+and registration behavior because “people who live in conditions of poverty are less likely to
+take the effort to become registered and go through the hoops that one needs to go through to get
+registered.” SUMF Ex. C5, Rodden Dep., at 71:15-72:5; see SUMF ¶ 302; Blytheville, 71 F.3d
+1382 at 1390 (“[T]he recognized historic effects of discrimination in the areas of health,
+
+26
+
+As the recent Ferguson Commission Report observes:
+We have not moved beyond race. St. Louis does not have a proud history on this topic, and we are
+still suffering the consequences of decisions made by our predecessors. However, it’s important to
+understand that racial inequity in our region is not the same as individual racism. We are not
+pointing fingers and calling individual people racist. We are not even suggesting that institutions
+or existing systems intend to be racist. What we are pointing out is that the data suggests, time and
+again, that our institutions and existing systems are not equal, and that this has racial
+repercussions. Black people in the region feel those repercussions when it comes to law
+enforcement, the justice system, housing, health, education, and income.
+
+SUMF Ex. G14 at 7.
+
+47
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 55 of 68 PageID #: 1539
+
+employment, and education impact negatively on minority political participation.”).
+2. The Board is not responsive to the particularized needs of the African
+American community (Senate Factor 8).
+There is undisputed “evidence demonstrating that [Board members] are unresponsive to
+the particularized needs of the members of” the African-American community in FFSD. Gingles,
+478 U.S. at 45. Many of the current Board members are not even aware of the particularized
+needs and concerns of the African-American community, particularly of the Black students who
+comprise the vast majority of the school population, or they believe that no such needs or
+concerns exist. SUMF ¶ 305. Most Board members are, for example, unaware that there are
+continuing socioeconomic disparities by race in the District. SUMF ¶ 308. Despite recent
+scathing reports of widespread discrimination by law enforcement, Board members are similarly
+unaware that African-American FFSD residents face racial profiling. SUMF ¶ 311. Many do not
+know, moreover, that public schools were segregated, or even that historical or present racial
+discrimination exists in the District, in St. Louis County, or in the State. SUMF ¶¶ 309-10.
+Despite member’s positions as elected officials, they are unaware of the disparate use of school
+discipline against Black students in the District. SUMF ¶ 313. While some Board members have
+a general awareness of the racial achievement gap in the District—and even that this
+achievement gap is likely a particularized concern of the African-American community—those
+few were unable to point to Board policy designed to specifically address either this achievement
+gap or disparities in discipline. SUMF ¶¶ 312-13. Instead, Board members have claimed that
+these disparities stem from “parental involvement,” “family structure,” or other factors in the
+community. SUMF ¶ 314. This explanation of the disproportionately high rate of disciplinary
+action against African-American students is a familiar method of disclaiming responsibility for
+bias rule enforcement. SUMF ¶ 315.
+
+48
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 56 of 68 PageID #: 1540
+
+The Board’s response, or lack thereof, to the African-American community’s concerns
+regarding the highly controversial suspension in November 2013 and resignation in March 2014
+of Dr. McCoy, the District’s first African-American superintendent, is another manifestation of
+the unresponsiveness of its members. SUMF ¶¶ 316-47. Dr. McCoy is highly respected within
+the African-American community, whose members viewed him as an accomplished, successful
+and effective superintendent. SUMF ¶¶ 319-20. In November 2013, the then-all-white Board
+announced that it had suspended Dr. McCoy, and released a cursory statement stating that the
+decision to suspend Dr. McCoy was “not an indication of wrongdoing” and citing instead
+“differences in focus and philosophy between the Board and the Superintendent.” SUMF ¶¶ 32123.
+In the African-American community, there was widespread opposition to the decision to
+suspend Dr. McCoy. SUMF ¶ 324. More than 1,000 parents, community leaders, and other
+District residents attended a Board meeting to express their concerns about the suspension,
+particularly the lack of transparency in the process that led up to it and the possibility that it had
+been racially motivated, and sought an explanation for Dr. McCoy’s suspension. SUMF ¶¶ 32829. The meeting lasted close to four hours. SUMF ¶ 330. Citing “personnel reasons” and “trust
+issues” during the meeting and in the weeks that followed, the Board provided no justifications
+for its actions, and chose to shield itself from any explanation or accountability to the community
+by keeping closed its meetings and records about Dr. McCoy.27 SUMF ¶¶ 331-33, 339.
+
+27
+
+The District was not required to keep from the public information concerning the basis for the Board’s decisions
+to suspend Dr. McCoy and issue charges for termination for cause against him. Missouri’s public records and
+meetings law authorizes records and meetings related to personnel to be open. See Guyer v. City of Kirkwood, 38
+S.W.3d 412, 414 (Mo. 2001) (en banc) (noting that closure of personnel records under Missouri’s public records and
+meetings law is permissive, not mandatory); see also Mo. Rev. Stat. § 610.022(4) (“Nothing in sections 610.010 to
+610.028 shall be construed as to require a public governmental body to hold a closed meeting, record or vote to
+discuss upon any matter.”). In fact, one then-Board member voted against closing the February 20, 2014 Board
+meeting, during which the Board addressed and voted on a motion to change the status of Dr. McCoy from paid
+leave to non-paid administrative leave. SUMF ¶ 340. Although many months after that decision, during which the
+
+49
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 57 of 68 PageID #: 1541
+
+Unsatisfied with the Board’s failure to address their concerns, parents and other
+community members appeared before the Board again in early December 2013, seeking an
+explanation for the treatment of Dr. McCoy and a response to their impression that his
+suspension was racially motivated, despite the Board’s bald assertions that it was not. SUMF
+¶¶ 335-36. Once again, the Board failed to provide any adequate justification for its actions. On
+December 11, 2013, the Board voted in a closed meeting to issue charges for termination for
+cause against Dr. McCoy. SUMF ¶ 337. Shortly after this meeting, the Board announced that it
+had issued a notice of charges for termination for cause against Dr. McCoy, again with no
+explanation. SUMF ¶ 338. Plaintiffs and other members of the African-American community
+understood the Board’s refusal to explain its actions to be just one example of the Board’s
+unresponsiveness to their particularized needs.28 SUMF ¶ 343. In fact, it prompted a reform slate
+to challenge the Board in the 2014 election. SUMF ¶¶ 345, 347. Even now, it is unknown to the
+community if the decision to maintain secrecy is an effort to shield the Board from scrutiny and
+accountability. SUMF ¶ 346.
+C. Factors related to campaigns and electoral structures (Senate Factors 3, 4, 6, and
+9)
+1. African-American candidates for the Board are denied access to the
+candidate slating processes (Senate Factor 4).
+Under this factor, “if there is a candidate slating process,” courts consider “whether
+
+community was met with virtual silence, Dr. McCoy and the Board agreed to keep some of the circumstances of his
+resignation hidden from the public. But the agreement came long after the African-American community pled for an
+explanation for his suspension. Even then, nothing required the Board to agree to keep secret the information the
+African-American community sought. See Chasnoff v. Mokwa, No. ED 101748, 2015 WL 1743088, at *5-6 (Mo. Ct.
+App. E.D. Apr. 14, 2015) (holding that public employees have no reasonable expectation of privacy in public
+records about their conduct as public officials).
+28
+
+Current Board member Graves included in her campaign platform her position that “[t]he school board must
+operate in a way that represents the collective interest and needs of the community,” noting that she felt that there
+were times in the past “where people weren’t being heard.” Since her election to the Board, she has observed the
+Board’s failure to provide the necessary “dialogue going back and forth” between the Board and community
+members who have expressed “a valid concern.” SUMF ¶ 347.
+
+50
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 58 of 68 PageID #: 1542
+
+members of the minority group have been denied access to that process.” Gingles, 478 U.S. at
+37; accord Clay v. Bd. of Educ. of St. Louis, 896 F. Supp. 929, 941 (E.D. Mo. 1995). “A ‘slating
+group’ is a group of individuals who select candidates to run as a bloc to fill seats which are
+currently up for election.” Clay, 896 F. Supp. at 933.29 As the Eleventh Circuit has noted, “[i]n
+jurisdictions where there is an influential official or unofficial slating organization, the ability of
+minorities to participate in that slating organization and to receive its endorsement may be of
+paramount importance.” Marengo Cnty. Comm’n, 731 F.2d at 1569. In accordance with this
+standard, this Court has considered an informal slating process in evaluating this factor. See
+Clay, 896 F. Supp. at 942.
+There are two primary slating organizations in FFSD Board elections, and both almost
+always select white candidates. First, the Ferguson-Florissant National Education Association
+(“FFNEA”) is an influential non-governmental organization that endorses candidates for the
+Board. SUMF ¶ 348. The FFNEA provides a variety of benefits to the endorsed candidates,
+including: mailing and distributing flyers, paying for signs, initiating robo-calls or phone
+banking, giving monetary campaign contributions, access to volunteers, canvassing, and working
+the polls election day to pass out campaign information to voters. SUMF ¶ 349. FFSD Board
+President Paul Morris, who was, as the Political Action Chair for the Missouri NEA for fifteen
+years, active in the endorsement process for the FFNEA, described FFNEA-endorsed candidates
+as a “slate.” SUMF ¶¶ 350-51. The FFNEA promotes all endorsed candidates for an election
+29
+
+While there may not be a “consensus in federal law or in political science texts on a definitive meaning of the
+phrase ‘slating group[,]’ . . . there is no support in the law for [a] restrictive definition.” Collins I, 816 F.2d at 938.
+Moreover, “[i]n White v. Regester, [412 U.S. 755, 766-67 (1973)], and Whitcomb v. Chavis, [403 U.S. 124, 150-51
+& n.30 (1971)], two important sources for the phrase that ultimately made its way into the Senate Report, the Court
+viewed ‘slating’ as essentially involving the endorsing of candidates.” Collins I, 816 F.2d at 938-39; see also Pope
+v. Cnty. of Albany, No. 1:11-CV-0736, 2015 WL 1311064, at *33 (N.D.N.Y. Mar. 24, 2015) (“‘The term “slating” is
+generally used to refer to a process in which some influential non-governmental organization selects and endorses a
+group or “slate” of candidates, rendering the election little more than a stamp of approval for the candidates
+selected.’” (quoting Reed v. Town of Babylon, 914 F. Supp. 843, 887 (E.D.N.Y. 1996))).
+
+51
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 59 of 68 PageID #: 1543
+
+jointly, sending mailers and making robo-calls to voters that include all FFNEA-endorsed
+candidates. SUMF ¶ 352.
+The FFNEA’s process for selecting candidates to endorse is opaque. In selecting which
+candidates to endorse, the FFNEA sends a letter to all candidates who have filed for Board
+candidacy, inviting them to seek FFNEA endorsement. SUMF ¶ 353. Interested candidates are
+then given a questionnaire with questions that will be asked during an interview before the
+endorsement committee. SUMF ¶ 353. Candidates are notified shortly after their interviews
+whether they have received FFNEA endorsement, but are not given reasons for the decision.
+SUMF ¶ 354. Indeed, since there are no published criteria for endorsement, candidates are not
+aware of how the FFNEA decides whom to endorse. SUMF ¶ 355.
+Whatever the criteria and internal process for selecting candidates to endorse, it is
+undisputed that the FFNEA endorses more white candidates than Black candidates. Of the seven
+current Board members and the most recent outgoing Board member, all sought FFNEA
+endorsement. SUMF ¶ 357. All current white Board members received FFNEA endorsement;
+neither of the two African-American Board members received FFNEA endorsement. SUMF
+¶ 357. Since 2004, similar numbers of African-American and white candidates have run in each
+contested election, yet in the six elections for which FFNEA endorsement information is
+available 11 out of 19 white candidates (58%) received a FFNEA endorsement while only 3 of
+15 African-American candidates (20%) received a FFNEA endorsement. SUMF ¶¶ 360, 362. An
+FFNEA officer recognized the value of a diverse endorsement committee, see SUMF ¶ 363, yet
+the FFNEA has repeatedly declined to support diversity on the Board. And while FFNEA
+representatives expressed concern for endorsement of individuals who are unaware of the
+particularized needs of African-American students, it endorsed Chabot and Ebert, both of whom
+
+52
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 60 of 68 PageID #: 1544
+
+testified that they are entirely unaware of historic discrimination, historic school segregation, and
+the disproportionate use of discipline against Black students in the District. SUMF ¶¶ 307-10,
+366. It also endorsed Hogshead, who testified she was entirely unaware of historic school
+segregation, the disproportionate use of discipline against Black students, and racial
+socioeconomic disparities in the District. SUMF ¶¶ 307-09, 367.
+Second, the North County Labor Club (“NCLC”), a local affiliate of the AFL-CIO labor
+council’s Committee on Political Education, also endorses candidates for the Board. SUMF
+¶ 368. The NCLC promotes all endorsed candidates for an election jointly. SUMF ¶ 370. Current
+Board President Paul Morris, who participates in endorsement decisions as a NCLC member,
+understands the recipients of NCLC endorsement in a given year to be a part of a “slate.” SUMF
+¶ 369. The NCLC endorsement comes with a variety of benefits, including lists of members and
+other unions from which to solicit monetary donations and volunteers, financial contributions,
+mailings, and notice of the endorsement in the Labor Tribune. SUMF ¶ 371. The endorsement
+correlates well with success: since 2004, the NCLC has endorsed 13 candidates for Board
+elections. Only two of the endorsed candidates lost; 11 of the 13 endorsees won seats on the
+Board. SUMF ¶ 372.
+NCLC’s endorsement criteria are opaque. SUMF ¶ 373. Its pattern of endorsements,
+however, reveals racial disparities. The five current white Board members received NCLC
+endorsement. SUMF ¶ 374. The most recent outgoing Board member, Schroeder, who is white,
+also received the endorsement the one year that he sought it. SUMF ¶ 375. Neither of the two
+African-American Board members received an endorsement from the NCLC. SUMF ¶ 374.
+Since 2004, the NCLC has endorsed 13 candidates for the Board, 12 of whom are white. SUMF
+¶ 376.
+
+53
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 61 of 68 PageID #: 1545
+
+2. Board campaigns are characterized by racial appeals (Senate Factor 6).
+The sixth Senate Factor looks at “the use of overt or subtle racial appeals in political
+campaigns.” Gingles, 478 U.S. at 44-45. Racial appeals can take a variety of forms, including the
+use of racially-charged campaign tactics and the highlighting of racially-charged campaign
+issues “that prey[] on racial anxiety,” United States v. City of Euclid, 580 F. Supp. 2d 584, 610,
+613 (N.D. Ohio 2001), such as campaign literature that “appealed to the fears of Town residents
+that black students . . . would be bused to schools in the Town,” Goosby v. Town Bd. of
+Hempstead, 956 F. Supp. 326, 342 (E.D.N.Y. 1997). See also, e.g., Bone Shirt, 336 F. Supp. 2d
+at 1041 (evidence of racial appeals included accusations that Native Americans were “trying . . .
+to take land back and put it in trust”); Williams v. City of Dallas, 734 F. Supp. 1317, 1348 (N.D.
+Tex. 1999) (campaigns employed racial appeals where platforms included opposition to busing
+for school desegregation); Cofield v. City of LaGrange, 969 F. Supp. 749, 777 (N.D. Ga. 1997)
+(evidence that discussion on districting and school consolidation were racially charged issues).
+The undisputed facts demonstrate that political campaigns for FFSD Board seats have been
+characterized by subtle racial appeals, in particular campaigns during the 2014 election.
+Board candidates in the highly polarized 2014 race relied on subtle racial appeals in
+several respects. For example, two of the successful white candidates focused on “discipline,”
+classroom disruptions, and making students “feel safe,” SUMF ¶¶ 378-82, which Plaintiffs and
+other African-American voters in the District understood to be subtle racial appeals. SUMF
+¶¶ 377, 383.
+White Board candidates in 2014 also highlighted their concerns related to the transfer of
+predominantly Black students from neighboring unaccredited school districts to FFSD, a racially
+charged issue in Missouri and within the FFSD. SUMF ¶¶ 384-89. Courts have long recognized
+that similar policies, like busing, resulting in a perceived or real influx of African-American
+54
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 62 of 68 PageID #: 1546
+
+students are racially charged, and a campaign’s focus on such issues constitutes a racial appeal.
+See, e.g., Goosby, 956 F. Supp. at 342-43; Williams, 734 F. Supp. at 1348; cf. Comm’rs of
+Chattanooga, 722 F. Supp. at 394-96 (Black candidate’s perceived “anti-busing” position
+enabled him to obtain enough white crossover votes win election). Plaintiffs and other AfricanAmerican voters in the District similarly understood these candidates’ statements to be subtle
+racial appeals. SUMF ¶ 390. Indeed, many African Americans in the FFSD viewed candidates’
+statements about transfer students, and the District’s treatment of transfer students, as an attempt
+by an all-white Board to stem any growth of the African-American student population into the
+District. SUMF ¶ 391.
+Personal attacks on a Black candidate during this election also featured racial coding.
+Plaintiff Johnson faced allegations implying that he was an absentee father and accusations that
+he was a renter, not a homeowner. SUMF ¶ 392. Notably, at least one white candidate in that
+election had previously been accused of embezzling funds from the District, yet none of the other
+candidates used campaign language or materials that raised the issue of that candidate’s integrity.
+SUMF ¶ 393. Plaintiff Johnson understood the attacks on him, particularly in comparison to how
+other candidates were treated, as racially-charged campaign tactics. SUMF ¶ 394.
+Similar racial appeals occurred during the 2013 election. As in 2014, white candidates for
+the Board frequently discussed the issue of school discipline. In debates, Board members failed
+to recognize the known biases towards disciplining Black students and particularly Black male
+students. SUMF ¶ 396. Candidates also tied the racial achievement gap to “bad parenting,”
+primarily in African-American families. SUMF ¶ 397. Former Board members Chuck Henson
+and Doris Graham believe that, during Henson’s campaign, in order to rally support against him,
+his opponents exploited his outspoken recognition of racial bias and his emphasis, while on the
+
+55
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 63 of 68 PageID #: 1547
+
+Board, on racial inclusion, bridging the racial achievement gap, and correcting the lack of
+diversity in District hiring. SUMF ¶¶ 398-99.
+3. There is no dispute that FFSD’s voting practices and procedures enhance the
+opportunity for discrimination, and its rationales for maintaining these
+practices and procedures are tenuous (Senate Factors 3 and 9).
+It is undisputed that FFSD employs at least three “voting practices or procedures that tend
+to enhance the opportunity for discrimination the minority group,” Gingles, 478 U.S. at 45
+(Senate Factor 3): (1) an at-large voting scheme, (2) staggered terms, and (3) off-cycle (i.e., April
+versus November) elections. Under a practical evaluation of present-day conditions, FFSD’s
+rationales for maintaining these practices and procedures are tenuous (Senate Factor 9) when
+weighed against the reality that these practices, taken together, form a considerable barrier to
+African American voters’ ability to elect their preferred candidates.
+At-large voting schemes enhance the opportunity for discrimination. As the Supreme
+Court has long recognized, at-large voting schemes can “minimize or cancel out the voting
+strength of racial [minorities in] the voting population.” Gingles, 478 U.S. at 47 (alteration in
+original) (citation and internal quotation marks omitted); see Johnson v. De Grandy, 512 U.S.
+997, 1018 (1994); see also Blytheville, 71 F.3d at 1390 (“The majority vote requirement,
+staggered terms, and at-large structure also tend to suppress minority voters' influence.”); Collins
+II, 883 F.2d at 1236 (at-large system and staggered terms susceptible of diluting minority votes).
+Indeed, as the Eighth Circuit has observed, the 1982 amendment to Section 2 “was aimed
+particularly at discriminatory at-large election systems which dilute minority voting strength.”
+Buckanaga, 804 F.2d at 471. At-large voting also works in conjunction with socioeconomic
+racial disparities, like those in FFSD, to disadvantage minority candidates who “are likely to
+have less access to the necessary resources for travel and advertising” outside the immediate area
+surrounding the candidates’ homes. Ward, 782 F. Supp. at 1104. It is undisputed that such
+56
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 64 of 68 PageID #: 1548
+
+difficulties exist in FFSD. SUMF ¶¶ 403-04, 406-09.
+FFSD nevertheless maintains at-large voting, claiming that it ensures that Board members
+represent the entire school district rather than specific sub-districts. SUMF ¶ 410. This rationale
+is tenuous. To date, there have never been more than two Black members on the Board, despite
+the sizeable population of African-American voters who live in the District. SUMF ¶ 411. There
+are, moreover, no current Board members who reside in municipalities other than Florissant or
+Ferguson. SUMF ¶ 412. The absence of Board members from predominantly African-American
+areas of the District also exacerbates the Board’s lack of awareness about the issues facing
+African-American residents, and the Board’s lesser familiarity with schools in African-American
+neighborhoods. SUMF ¶¶ 413-15. This lack of geographic representation is especially
+noteworthy when considering that, as part of the desegregation order that created the present-day
+FFSD, the district court took pains to ensure that the annexed school districts of predominantly
+African-American Kinloch and Berkeley had representation on the school board. Missouri, 515
+F.2d at 1373; SUMF ¶¶ 11, 12, 260-66.
+Staggered terms also enhance the opportunity for discrimination, particularly in
+conjunction with at-large voting. See, e.g., Blytheville, 71 F.3d at 1390 (“[S]taggered terms[] and
+at-large structure also tend to suppress minority voters’ influence.” (citing De Grandy, 512 U.S.
+at 1018)); Collins II, 883 F.2d at 1236 (noting that the dilutive effect of “at-large voting in a
+multimember political unit . . . may be enhanced by staggered terms”). In particular, staggered
+terms “promote the dilution of minority voting strength because they limit the number of seats,
+[and] create more head-to-head contests between white and minority candidates, which highlight
+the racial element and minimize the influence of single-shot voting.” Buckanaga, 804 F.2d at
+475 (remanding for district court to consider discriminatory effect of school district’s use of
+
+57
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 65 of 68 PageID #: 1549
+
+staggered terms). Because, as established above, white bloc voting exists in FFSD, staggered
+terms put African-American voters in FFSD “at a severe disadvantage.” Id. This is particularly
+true since local governments with staggered terms tend to generate less voter participation than
+localities that elect all seats at once, SUMF ¶ 417, and “it stands to reason that when an external
+stimulus dampens the white turnout it may impact even more greatly on a group that has faced
+historic disadvantages,” Blytheville, 71 F.3d at 1388.
+As part of the 1975 annexation order resulting in the present-day FFSD, the district court
+created staggered elections for an “initial period of stable governance for the new district.”
+Missouri, 515 F.2d at 1373. SUMF ¶ 418. FFSD continues to maintain staggered terms now that
+the need for “an initial period of stable governance” has long since passed. Insofar as some
+Board members claim that staggered terms ensure that institutional knowledge is retained after
+each election, they have not stated any reason that the current staggered system of three-year
+terms is necessary to provide that continuity. SUMF ¶ 419.
+Off-cycle elections are, as Dr. Rodden acknowledges, “[h]istorically . . . a favored
+strategy of established ethnic groups in American cities who wish to keep immigrants and
+minorities out of power.” SUMF ¶ 420. They enhance the opportunity for discrimination in two
+primary ways. First, off-cycle elections tend to generate unusually low voter turnout generally
+and disproportionately low turnout among African-American voters. See NAACP v. Hampton
+Cnty. Election Comm’n, 470 U.S. 166, 178 (1985); SUMF ¶ 421. This should come as no
+surprise: “holding local elections at a time when only the most engaged and politically astute
+citizens—those citizens who feel the most enfranchised—are likely to vote will almost certainly
+result in the diminished influence of groups who feel generally excluded from the political fabric
+of the community.” United States v. Vill. of Port Chester, 704 F. Supp. 2d 411, 444 (S.D.N.Y.
+
+58
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 66 of 68 PageID #: 1550
+
+2010); see also Blytheville, 71 F.3d at 1388 (“[I]t stands to reason that when an external stimulus
+dampens the white turnout it may impact even more greatly on a group that has faced historic
+disadvantages.”); Jones v. City of Lubbock, 727 F.2d 364, 381 (5th Cir. 1984). SUMF ¶¶ 404-05,
+407-09. Second, off-cycle elections increase the relative influence of “well-organized interest
+groups such as unionized teachers and municipal workers,” motivated to maintain the status quo.
+SUMF ¶ 426. In FFSD, these groups include the FFNEA and the NCLC. SUMF ¶¶ 348-49, 368,
+371. As explained above, both organizations generally endorse white candidates. See SUMF
+¶¶ 357-62, 374-76; supra § II.C.1.
+In FFSD, the parties’ experts agree that during the last twelve contested elections,
+African-American turnout has always been lower than, or statistically indistinguishable from,
+white turnout. SUMF ¶ 423. African-American voters are understandably disillusioned with
+Board elections in which they have had limited success electing candidates who are aware of and
+responsive to the community’s needs. SUMF ¶ 424. Insofar as Board members articulated any
+reason for maintaining off-cycle elections, they claimed that holding Board elections off-cycle
+ensures that they are not overshadowed by statewide or national races30 and gives Board
+members an opportunity to provide input in the following school year. SUMF ¶ 427. These
+rationales are tenuous when weighed against the depressive effect that off-cycle elections have
+on the political participation of minority voters in FFSD. SUMF ¶¶ 420-22.
+CONCLUSION
+The Ferguson-Florissant School District’s at-large method for electing Board members
+
+30
+
+A few Board members stated that they were unconcerned by the fact that off-cycle elections have lower turnout,
+claiming that if a voter really cares then he or she will vote regardless of when the election is held. SUMF ¶ 428.
+Such statements reflect a naïve view of the dampening effects that repeated frustration at the polls engenders in
+voters who believe their political participation is futile. See, e.g., Blytheville, 71 F.3d at 1388 (noting Black voters’
+realization “that they faced a much lower possibility of success under the present scheme” could account for low
+turnout).
+
+59
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 67 of 68 PageID #: 1551
+
+deprives its African-American residents of an equal opportunity to elect representatives of their
+choice, in violation of Section 2 of the Voting Rights Act. For the reasons set forth above,
+Plaintiffs respectfully request that this Court grant Plaintiffs’ Motion for Summary Judgement.
+
+Dated this 30th day of September, 2015.
+
+Respectfully submitted,
+/s/ Julie A. Ebenstein
+JULIE A. EBENSTEIN*
+DALE E. HO*
+SOPHIA LIN LAKIN*
+ACLU Voting Rights Project
+125 Broad Street, 18th Floor
+New York, NY 10004
+Phone: (212) 549-2693
+ANTHONY E. ROTHERT, #44827MO
+JESSIE STEFFAN, #64861MO
+ACLU of Missouri Foundation
+454 Whittier Street
+St. Louis, MO 63108
+Phone: (314) 652-3114
+M. LAUGHLIN McDONALD*
+ACLU Voting Rights Project
+2700 International Tower
+229 Peachtree Street, N.E.
+Atlanta, GA 30303
+Phone: (404) 500-1235
+* appearing pursuant to Local Rule 12.01(F)
+ATTORNEYS FOR PLAINTIFFS
+
+CERTIFICATE OF SERVICE
+I, Julie A. Ebenstein, hereby certify that on September 30, 2015, I filed the foregoing
+document using the e-filing system, thereby serving electronic copies via email to all named
+parties below:
+Darold E. Crotzer, Jr.
+Crotzer and Ormsby, LLC
+60
+
+Case: 4:14-cv-02077-RWS Doc. #: 84 Filed: 09/30/15 Page: 68 of 68 PageID #: 1552
+
+130 S. Bemiston Avenue, Suite 602
+Clayton, MO 63105
+Phone: (314) 726-3040
+dcrotzer@crotzerormsby.com
+Cindy Reeds Ormsby
+Angela Bullock Gabel
+Crotzer and Ormsby, LLC
+130 S. Bemiston Avenue, Suite 602
+Clayton, MO 63105
+Phone: (314) 726-3040
+cormsby@crotzerormsby.com
+agabel@crotzerormsby.com
+John A. Safarli
+Floyd, Pflueger & Ringer, P.S.
+200 W. Thomas Street, Suite 500
+Seattle, WA 98119
+Phone: (206) 441-4455
+jsafarli@floyd-ringer.com
+Respectfully Submitted,
+/s/ Julie A. Ebenstein
+JULIE A. EBENSTEIN*
+ACLU Voting Rights Project
+125 Broad Street, 18th Floor
+New York, NY 10004
+Phone: (212) 549-2693
+* appearing pursuant to Local Rule 12.01(F)
+ATTORNEY FOR PLAINTIFFS
+
+61
+
+

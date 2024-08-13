@@ -1,0 +1,688 @@
+Case 1:16-cv-00230-CMA-MJW Document 121 Filed 12/23/16 USDC Colorado Page 1 of 21
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLORADO
+Civil Action No.: 1:16-cv-00230-CMA-MJW (Consolidated for all purposes with Civil
+Action No. 1:16-cv-01215-CMA-MJW)
+JOAN OBESLO,
+ROYCE HORTON,
+DANIEL FISHER,
+NATHAN COMER,
+STEVE MIGOTTI,
+VALERIE MIGOTTI,
+JAMES DIMAGGIO,
+ANNE HALL,
+CAROL A. REYNON-LONGORIA,
+on behalf of GREAT-WEST FUNDS, INC.,
+Plaintiffs,
+v.
+GREAT-WEST CAPITAL MANAGEMENT, LLC,
+Defendant.
+
+DUPLASS, ZWAIN, BOURGEOIS,
+PFISTER & WEINSTOCK APLC 401(K)
+PLAN,
+Plaintiff,
+v.
+GREAT-WEST CAPITAL MANAGEMENT, LLC,
+Defendant.
+
+DEFENDANT’S OPPOSITION TO PLAINTIFFS’ MOTION TO COMPEL
+PRODUCTION OF DOCUMENT WITHHELD BY DONNA LYNNE
+
+Case 1:16-cv-00230-CMA-MJW Document 121 Filed 12/23/16 USDC Colorado Page 2 of 21
+
+TABLE OF CONTENTS
+Page(s)
+PRELIMINARY STATEMENT ......................................................................................... 1
+BACKGROUND .............................................................................................................. 2
+LEGAL STANDARD ........................................................................................................ 3
+ARGUMENT .................................................................................................................... 4
+I.
+
+II.
+
+THE EMAIL AT ISSUE IS A PRIVILEGED COMMUNICATION ................ 4
+A.
+
+The Email at Issue Contains Legal Advice from Fund
+Counsel to a Fund Director ............................................................. 4
+
+B.
+
+Even if Mr. Logsdon Represented Only the Adviser, the
+Email at Issue Would Still Be Privileged .......................................... 6
+
+THE FIDUCIARY EXCEPTION TO THE ATTORNEY-CLIENT
+PRIVILEGE IS INAPPLICABLE ................................................................. 8
+A.
+
+The Fiduciary Exception Does Not Apply to Attorney-Client
+Communications with Directors of Mutual Fund Boards.................. 9
+
+B.
+
+The Recent Kenny Decision Is an Outlier, and Is
+Distinguishable .............................................................................. 10
+
+C.
+
+Plaintiffs Fail to Show “Good Cause” to Defeat Privilege .............. 13
+
+CONCLUSION .............................................................................................................. 15
+
+i
+
+Case 1:16-cv-00230-CMA-MJW Document 121 Filed 12/23/16 USDC Colorado Page 3 of 21
+
+TABLE OF AUTHORITIES
+Page(s)
+Cases
+In re American Mutual Funds Fee Litigation,
+No. CV 04-5593 GAF (RNBx), 2009 WL 5215755 (C.D. Cal. Dec. 28,
+2009).......................................................................................................................... 7
+Fitzpatrick v. American International Group, Inc.,
+272 F.R.D. 100 (S.D.N.Y. 2010) .............................................................................. 15
+Galena Street Fund, L.P. v. Wells Fargo Bank, N.A.,
+No. 12-cv-00587-BNB-KMT, 2014 WL 943115 (D. Colo. Mar. 10, 2014)........... 12, 13
+Garner v. Wolfinbarger,
+430 F.2d 1093 (5th Cir. 1970) .......................................................................... 8, 9, 14
+Gerrits v. Brannen Banks of Florida, Inc.,
+138 F.R.D. 574 (D. Colo. 1991) ............................................................................... 14
+Herrmann v. Rain Link, Inc.,
+No. 11-1123-RDR, 2012 WL 1207232 (D. Kan. Apr. 11, 2012) ................................. 8
+Kenny v. Pacific Investment Management Co. LLC,
+No. C14-1987-RSM, 2016 WL 6836886 (W.D. Wash. Nov. 21, 2016)......... 10, 11, 13
+In re Omnicom Group Inc. Securities Litigation,
+233 F.R.D. 400 (S.D.N.Y. 2006) ........................................................................ 14, 15
+Ryskamp ex rel. Boulder Growth & Income Fund v. Looney,
+No. 10-cv-00842-WJM-KLM, 2011 WL 3861437 (D. Colo. Sept. 1,
+2011)........................................................................................................ 4, 5, 6, 8, 14
+Sawyer v. Southwest Airlines,
+Nos. Civ.A.01-2385-KHV, Civ.A.01-2386-KHV, 2002 WL 31928442 (D.
+Kan. Dec. 23, 2002) ................................................................................................... 6
+Solis v. Food Employers Labor Relations Association,
+644 F.3d 221 (4th Cir. 2011) ...................................................................................... 9
+In re Teleglobe Communications Corp.,
+493 F.3d 345 (3d Cir. 2007) ................................................................................... 8, 9
+
+ii
+
+Case 1:16-cv-00230-CMA-MJW Document 121 Filed 12/23/16 USDC Colorado Page 4 of 21
+
+United States v. Jicarilla Apache Nation,
+564 U.S. 162 (2011)..................................................................................... 10, 11, 13
+United States v. Mett,
+178 F.3d 1058 (9th Cir. 1999) ........................................................................ 3, 10, 12
+Upjohn Co. v. United States,
+449 U.S. 383 (1981)................................................................................................... 3
+Wachtel v. Health Net, Inc.,
+482 F.3d 225 (3d Cir. 2007) ....................................................................................... 9
+Ward v. Succession of Freeman,
+854 F.2d 780 (5th Cir. 1988) ................................................................................ 8, 14
+Wellinger Family Trust 1998 v. Hartford Life & Accident Insurance Co.,
+No. 11-cv-02568-CMA-BNB, 2013 WL 2444714 (D. Colo. June 5,
+2013).......................................................................................................................... 3
+Statutes
+15 U.S.C. § 80a-10(a) ..................................................................................................... 7
+15 U.S.C. § 80a-35(b) ..................................................................................................... 2
+Other Authorities
+Implementation of Standards of Professional Conduct for Attorneys,
+Exchange Act Release No. 8185, 79 S.E.C. Docket 1351, 2003 WL
+193527 (Jan. 29, 2003) .............................................................................................. 7
+Overview of Fund Governance Practices, 1994-2010 at 16, Investment
+Company Institute, https://www.idc.org/pdf/pub_11_fund_
+governance.pdf. ......................................................................................................... 4
+Practical Guidance for Mutual Fund Directors: Board Governance and
+Review of Investment Advisory Agreements 9, Mutual Fund Directors
+Forum, http://www.mfdf.org/images/uploads/newsroom/MFDF_
+Practical_ Guidance_Oct2013_(web).pdf .......................................................... 4, 6, 7
+
+iii
+
+Case 1:16-cv-00230-CMA-MJW Document 121 Filed 12/23/16 USDC Colorado Page 5 of 21
+
+Defendant Great-West Capital Management, LLC (“GWCM”) opposes the Obeslo
+Plaintiffs’ Motion to Compel Production of Document Withheld by Former Director
+Donna Lynne (“Plaintiffs’ motion” or “Pls.’ Br.”). GWCM is filing this opposition to the
+motion because the motion bears on issues important to GWCM and the Great-West
+Funds (the “Funds”). GWCM also joins in the arguments made in Lt. Governor Lynne’s
+opposition to Plaintiffs’ motion.
+PRELIMINARY STATEMENT
+Plaintiffs’ motion seeks the production of an email containing privileged legal
+advice sent by Ryan Logsdon, a lawyer and counsel to the Funds, to Lt. Governor
+Donna Lynne, a former independent director of Great-West Funds, Inc. The email was
+sent after the Obeslo Complaint was filed and concerns the issue of director
+independence. Plaintiffs contend that Mr. Logsdon is not counsel to the independent
+directors or the Funds and that therefore any legal advice he provided to Lt. Governor
+Lynne is not protected by the attorney-client privilege. Alternatively, Plaintiffs contend
+that even if the email is privileged it should be disclosed pursuant to the “fiduciary
+exception” to the attorney-client privilege that has been recognized by some courts (but
+not the Tenth Circuit). Plaintiffs’ attempt to circumvent the privilege should be rejected
+for multiple reasons.
+First, Mr. Logsdon is counsel to the Funds on whose Board Lt. Governor Lynne
+was serving as a director at the time of the email. Legal advice provided by Mr.
+Logsdon to directors of the Great-West Funds, Inc. Board of Directors is therefore
+privileged and/or subject to the common interest doctrine.
+
+Case 1:16-cv-00230-CMA-MJW Document 121 Filed 12/23/16 USDC Colorado Page 6 of 21
+
+Second, Mr. Logsdon also serves as counsel to GWCM, the adviser to the
+Funds. Great-West Funds, Inc. and GWCM share a common legal interest in ensuring
+Great-West Funds, Inc.’s compliance with federal securities laws and regulations.
+Therefore, legal advice provided by Mr. Logsdon that is designed to ensure compliance
+is protected by the common interest doctrine.
+Third, Plaintiffs’ attempt to invoke the fiduciary exception to the attorney-client
+privilege is unavailing. The Tenth Circuit has yet to even recognize that exception. In
+addition, other than a single case from the Western District of Washington, no court has
+applied the exception to require disclosure of privileged communications with directors
+in a Section 36(b) case. That lone authority was wrongly decided. It is also readily
+distinguishable on its facts. Finally, even if the exception were held to potentially apply
+in this case, Plaintiffs have failed to demonstrate the required good cause for piercing
+the privilege.
+In light of the foregoing, Plaintiffs’ motion should be denied.
+BACKGROUND
+Plaintiffs are nine individuals who are purported shareholders in mutual funds
+that are series within Great-West Funds, Inc., a registered investment company under
+the Investment Company Act of 1940 (“ICA”). GWCM serves as investment adviser to
+the Funds. Plaintiffs allege derivative claims against GWCM on behalf of Great-West
+Funds, Inc., contending that GWCM charges the Funds excessive fees in violation of
+Section 36(b) of the ICA. 15 U.S.C. § 80a-35(b). Until recently, Lt. Governor Lynne
+was an independent director of Great-West Funds, Inc.
+
+2
+
+Case 1:16-cv-00230-CMA-MJW Document 121 Filed 12/23/16 USDC Colorado Page 7 of 21
+
+Plaintiffs’ subpoena requested that Lt. Governor Lynne produce “[a]ll
+correspondence (including email) [she] ha[s] from January 2011 to the date of
+deposition regarding: Great-West Funds, Inc.; Great-West Capital Management, LLC;
+Great-West Life & Annuity Insurance Co.; or Great-West Financial.” Pls.’ Br. at 3. Lt.
+Governor Lynne has withheld from production a February 29, 2016 email from Mr.
+Logsdon, which he sent to Lt. Governor Lynne after the Obeslo action was filed,
+concerning “legal advice regarding director independence.” Id. Plaintiffs seek to
+compel production of that email.
+LEGAL STANDARD
+“[T]he attorney-client privilege ‘protects from forced disclosure any
+communication from an attorney to his client when made in the course of giving legal
+advice[.]’” Wellinger Family Trust 1998 v. Hartford Life & Accident Ins. Co., No. 11-cv02568-CMA-BNB, 2013 WL 2444714, at *2 (D. Colo. June 5, 2013) (quoting Sprague v.
+Thorn Ams., Inc., 129 F.3d 1355, 1370 (10th Cir. 1997)). It is “the oldest of the
+privileges for confidential communications known to the common law[,]” and
+“encourage[s] full and frank communication between attorneys and their clients and
+thereby promote[s] broader public interests in the observance of law and administration
+of justice.” Upjohn Co. v. United States, 449 U.S. 383, 389 (1981). Due to the essential
+role that the attorney-client privilege plays in encouraging full and frank communication,
+“hard cases should be resolved in favor of the privilege, not in favor of disclosure.” See
+United States v. Mett, 178 F.3d 1058, 1065 (9th Cir. 1999).
+
+3
+
+Case 1:16-cv-00230-CMA-MJW Document 121 Filed 12/23/16 USDC Colorado Page 8 of 21
+
+ARGUMENT
+I.
+
+THE EMAIL AT ISSUE IS A PRIVILEGED COMMUNICATION
+A.
+
+The Email at Issue Contains Legal Advice from Fund Counsel to a
+Fund Director
+
+Plaintiffs argue that the at-issue email is not privileged because Mr. Logsdon
+supposedly “is not counsel for either the disinterested directors or Great-West Funds”
+but serves only as counsel for GWCM and its parent company, Great-West Life &
+Annuity Insurance Co. (“GWL&A”). Pls.’ Br. at 4. Plaintiffs are incorrect.
+Mr. Logsdon indisputably serves as Vice President, Counsel & Secretary to
+Great-West Funds. Ex. A, Excerpt of Great-West Funds, Inc. Statement of Additional
+Information 30 (Apr. 29, 2016). As counsel to the Funds, Mr. Logsdon provides legal
+advice to directors of the Funds, which is consistent with common practice in the
+industry. 1
+The District of Colorado has recognized that the attorney-client privilege may
+attach to communications between a fund’s counsel and its directors, as a mutual fund
+is an “inanimate entity” that “must [act] through its agents.” Ryskamp ex rel. Boulder
+1
+
+“Some independent directors have their own dedicated counsel, others formally retain
+counsel with the fund, and still others have no dedicated counsel but instead rely on
+counsel to the fund . . . .” See Overview of Fund Governance Practices, 1994-2010 at
+16, Investment Company Institute [hereinafter Overview of Fund Governance
+Practices], https://www.idc.org/pdf/pub_11_fund_governance.pdf. Therefore,
+“independent directors may elect to . . . rely on counsel to the fund[,]” id. at 16, and “[i]n
+instances where independent directors formally or informally rely on counsel to the fund,
+. . . the fund counsel would constitute ‘independent legal counsel.’” Id. at 17. A recent
+study showed that 35% of mutual fund boards rely on fund counsel as their own
+counsel. See Practical Guidance for Mutual Fund Directors: Board Governance and
+Review of Investment Advisory Agreements 9 n.23, Mutual Fund Directors Forum,
+http://www.mfdf.org/images/uploads/newsroom/MFDF_Practical_Guidance_Oct2013_(
+web).pdf (citing Overview of Fund Governance Practices at 16-17).
+4
+
+Case 1:16-cv-00230-CMA-MJW Document 121 Filed 12/23/16 USDC Colorado Page 9 of 21
+
+Growth & Income Fund v. Looney, No. 10-cv-00842-WJM-KLM, 2011 WL 3861437, at
+*4, *5 (D. Colo. Sept. 1, 2011) (“Because ‘a corporation can only act through its officers,
+directors, agents and employees, . . . communications between corporate counsel and
+company personnel are privileged so long as they concern matters within the scope of
+the employees’ corporate duties.’” (citation omitted)). In Ryskamp, which involved a
+mutual fund organized as a Maryland corporation just as are the Funds, the court held
+that an attorney-client relationship existed between parties who had a “significant
+relationship to the Fund” and “clearly ha[d] [a] duty to act for the Fund.” Id. at *3, *5; see
+Ex. A, Excerpt of Great-West Funds, Inc. Statement of Additional Information 1 (Apr. 29,
+2016).
+Here, Lt. Governor Lynne received legal advice regarding director independence
+from Mr. Logsdon in his capacity as counsel to the Funds. As counsel to the Funds, Mr.
+Logsdon has a duty to act for the Funds and ensure the Funds’ compliance with any
+applicable federal securities laws and regulations, including those related to director
+independence. Because both Lt. Governor Lynne and Mr. Logsdon have a significant
+relationship to the Funds, the legal advice Mr. Logsdon provided Lt. Governor Lynne
+regarding director independence is privileged.
+Furthermore, even if the Court were to find that the independent directors are not
+the clients of Fund counsel, the common interest doctrine protects the legal advice that
+Mr. Logsdon provided to Lt. Governor Lynne in his role as Fund counsel. See
+Ryskamp, 2011 WL 3861437, at *7 (“Communications shared with third persons who
+have a common legal interest with respect to the subject matter thereof will be deemed
+
+5
+
+Case 1:16-cv-00230-CMA-MJW Document 121 Filed 12/23/16 USDC Colorado Page 10 of 21
+
+neither a breach nor a waiver of the confidentiality surrounding the attorney-client
+relationship.” (citation omitted)); Sawyer v. Southwest Airlines, Nos. Civ.A.01-2385KHV, Civ.A.01-2386-KHV, 2002 WL 31928442, at *3 (D. Kan. Dec. 23, 2002) (“The
+common interest doctrine thus acts as an exception to the general waiver rule by
+facilitating cooperative efforts among parties who share common interests.” (footnote
+omitted)). A common legal interest exists between the independent directors and the
+Funds in ensuring director independence and the Funds’ compliance with applicable
+laws and regulations, as it does for most purposes. See Practical Guidance for Mutual
+Fund Directors: Board Governance and Review of Investment Advisory Agreements 9,
+Mutual Fund Directors Forum [hereinafter “Practical Guidance for Mutual Fund
+Directors”], http://www.mfdf.org/images/uploads/newsroom/MFDF_Practical_Guidance
+_Oct2013_(web).pdf (“For most purposes, the interests of the fund are aligned with
+those of independent directors who oversee the fund on behalf of shareholders.”).
+B.
+
+Even if Mr. Logsdon Represented Only the Adviser, the Email at
+Issue Would Still Be Privileged
+
+Even if Plaintiffs were correct that Mr. Logsdon only serves as counsel to GWCM
+and GWL&A (they are not), or even if Mr. Logsdon sent the email in his capacity as
+counsel to GWCM, the legal advice that Mr. Logsdon provided to Lt. Governor Lynne
+would similarly be protected from disclosure by the common interest doctrine.
+The District of Colorado and other courts recognize that a common legal interest
+may exist between counsel to an adviser and the directors of a fund. Ryskamp, 2011
+WL 3861437, at *8 (applying common interest doctrine to communications in board
+minutes “due to the common interest of all parties to formulate a common legal strategy
+6
+
+Case 1:16-cv-00230-CMA-MJW Document 121 Filed 12/23/16 USDC Colorado Page 11 of 21
+
+regarding regulatory compliance issues”); In re Am. Mut. Funds Fee Litig., No. CV 045593 GAF (RNBx), 2009 WL 5215755, at *55 n.14 (C.D. Cal. Dec. 28, 2009) (“Courts
+have recognized that . . . once litigation under Section 36(b) is commenced . . . the
+directors often have a common interest with the adviser[.]”), aff’d sub nom. Jelinek v.
+Capital Research & Mgmt. Co., 448 F. App’x 716 (9th Cir. 2011).
+A common legal interest clearly exists between GWCM and the Great-West
+Funds, Inc. Board of Directors with regard to Great-West Funds, Inc.’s compliance with
+federal securities laws and regulations. See Practical Guidance for Mutual Fund
+Directors 6 (“In most circumstances the board and management have aligned interests
+in serving shareholders . . . .”). The ICA expressly requires that a registered investment
+company, such as Great-West Funds, Inc., be overseen by a board of directors, 40% of
+whom must be independent. See 15 U.S.C. § 80a-10(a). GWCM and the Great-West
+Funds, Inc. Board of Directors share a common interest in ensuring that the directors
+who are designated as independent are, in fact, independent. Obviously, if Great-West
+Funds, Inc. faced legal consequences for failing to ensure that at least 40% of its
+directors are independent, both Great-West Funds, Inc. and GWCM would be
+detrimentally affected, heightening the need for an independent director to be able to
+engage in full and frank conversations with counsel to the adviser. 2
+
+2
+
+The SEC recognizes that there are circumstances in which counsel to the adviser may
+be deemed to be representing the investment company (i.e., the Funds) before the
+SEC, such as where the adviser’s counsel “prepares, or assists in preparing, materials”
+to be submitted to or filed with the SEC. Implementation of Standards of Professional
+Conduct for Attorneys, Exchange Act Release No. 8185, 79 S.E.C. Docket 1351, 2003
+WL 193527 (Jan. 29, 2003).
+7
+
+Case 1:16-cv-00230-CMA-MJW Document 121 Filed 12/23/16 USDC Colorado Page 12 of 21
+
+II.
+
+THE FIDUCIARY EXCEPTION TO THE ATTORNEY-CLIENT PRIVILEGE IS
+INAPPLICABLE
+Plaintiffs further claim that, even if Mr. Logsdon’s email is privileged, its
+
+production should be compelled under the so-called fiduciary exception to the privilege.
+See Pls.’ Br. at 6. The Tenth Circuit has neither adopted the fiduciary exception nor
+addressed its scope. See Herrmann v. Rain Link, Inc., No. 11-1123-RDR, 2012 WL
+1207232, at *8 (D. Kan. Apr. 11, 2012).
+Some courts outside the Tenth Circuit have held that the attorney-client privilege
+can be overcome when the party asserting the privilege owes fiduciary duties to the
+party seeking disclosure. See, e.g., Garner v. Wolfinbarger, 430 F.2d 1093, 1103-04
+(5th Cir. 1970). In their Reply in Support of Second Motion to Compel filed against
+GWCM, Plaintiffs argued that Garner “applies to shareholder derivative actions by
+plaintiff-shareholders against their corporation’s officers and directors[.]” Pls.’ Reply in
+Supp. of Second Mot. to Compel Produc. of Docs. at 8, Sept. 6, 2016, ECF 79. Garner
+requires the party seeking to take advantage of the fiduciary exception to make a
+showing of “good cause” in order to pierce the privilege. Garner, 430 F.2d at 1103-04
+(requiring stockholders “to show cause why” the attorney-client privilege should be
+waived); see also In re Teleglobe Commc’ns Corp., 493 F.3d 345, 384 (3d Cir. 2007)
+(“Debtors should be able to put aside the privilege upon showing good cause.”); Ward v.
+Succession of Freeman, 854 F.2d 780, 787 (5th Cir. 1988) (privileged communications
+did not need to be disclosed because “plaintiffs have failed to demonstrate good
+cause”); Ryskamp, 2011 WL 3861437, at *11 (“Thus, shareholders are given access to
+otherwise privileged information upon a showing of good cause.” (citing Gerrits v.
+8
+
+Case 1:16-cv-00230-CMA-MJW Document 121 Filed 12/23/16 USDC Colorado Page 13 of 21
+
+Brannen Banks of Fla., Inc., 138 F.R.D. 574, 577-78 (D. Colo. 1991))). Plaintiffs bear
+the burden of establishing that the exception applies. See, e.g., In re Teleglobe
+Commc’ns Corp., 493 F.3d at 384; Garner, 430 F.2d at 1103-04.
+A.
+
+The Fiduciary Exception Does Not Apply to Attorney-Client
+Communications with Directors of Mutual Fund Boards
+
+Where Courts have required the disclosure of otherwise privileged information
+under the fiduciary exception, they have done so almost exclusively in contexts outside
+of Section 36(b)—for example, in corporate derivative and ERISA fiduciary lawsuits.
+See Solis v. Food Emp’rs Labor Relations Ass’n, 644 F.3d 221, 227 (4th Cir. 2011)
+(discussing contexts in which the fiduciary exception has been applied). Requiring
+disclosure of privileged communications to Section 36(b) plaintiffs under this exception
+would make new law in this District and would have a chilling effect on the efforts of
+fund counsel and advisers to thoroughly apprise mutual fund boards about legal issues.
+See, e.g., Wachtel v. Health Net, Inc., 482 F.3d 225, 231 (3d Cir. 2007) (“Full and frank
+communication between attorneys and their clients must be encouraged because the
+administration of justice in a complex society depends upon the availability of sound
+legal advice, and in turn, the soundness of legal advice depends upon clients’
+willingness to present full disclosures to their attorneys.” (citation omitted)).
+As the Ninth Circuit noted in United States v. Mett, in the ERISA context:
+[F]rom a policy perspective, an uncertain attorney-client privilege will likely result
+in ERISA trustees shying away from legal advice regarding the performance of
+their duties. This outcome ultimately hurts beneficiaries—all else being equal,
+beneficiaries should prefer well-counseled trustees who clearly understand their
+duties. In addition, a trustee’s fear that her lawyer will be used against her may
+well translate into either an unwillingness to serve at all, or an insistence on
+
+9
+
+Case 1:16-cv-00230-CMA-MJW Document 121 Filed 12/23/16 USDC Colorado Page 14 of 21
+
+contractual protections aimed at diluting the trustee’s accountability. Neither
+option services the interest of beneficiaries.
+Mett, 178 F.3d 1065. That rationale applies even more so in the context of a mutual
+fund board of directors, where the success of the fund series depends on the actions of
+qualified and fully informed independent directors. Without sound, confidential legal
+advice, independent directors would be hindered in their ability to act as the
+“watchdogs” the ICA requires them to be.
+B.
+
+The Recent Kenny Decision Is An Outlier, and is Distinguishable
+
+In November 2016, the Western District of Washington decided in Kenny v.
+Pacific Investment Management Co., a Section 36(b) action, that the fiduciary exception
+applied to communications regarding “legal advice for managing the fund” that were
+“not personal advice to the Trustees” and were “not made in anticipation of [the present]
+or any other litigation.” Kenny v. Pacific Inv. Mgmt. Co. LLC, No. C14-1987-RSM, 2016
+WL 6836886, at *4 (W.D. Wash. Nov. 21, 2016). Kenny is the only decision to apply the
+fiduciary exception to privileged communications involving mutual fund trustees in
+Section 36(b) litigation, and, in light of Point II.A above, GWCM respectfully submits that
+Kenny was wrongly decided. 3
+In addition, Kenny is distinguishable from this case on multiple grounds. First,
+the court in Kenny held that its facts were “sufficiently analogous” to situations where
+other courts have applied the fiduciary exception—situations that typically involved
+3
+
+Kenny relied heavily on two cases, United States v. Jicarilla Apache Nation and United
+States v. Mett. See Kenny, 2016 WL 6836886, at *2-4. However, both of those cases
+held that the fiduciary exception did not apply under the facts presented. See United
+States v. Jicarilla Apache Nation, 564 U.S. 162, 165-66 (2011); Mett, 178 F.3d at 1066.
+10
+
+Case 1:16-cv-00230-CMA-MJW Document 121 Filed 12/23/16 USDC Colorado Page 15 of 21
+
+trusts. Id. at *4. 4 Indeed, the court emphasized in its decision that “[t]he PIMCO Total
+Return Fund [was] indisputably set up as a trust.” Id. at *4. But here, the Great-West
+Funds are indisputably not set up as trusts; rather, Great West Funds, Inc. is a
+Maryland corporation. Ex. A, Excerpt of Great-West Funds, Inc. Statement of Additional
+Information 1 (Apr. 29, 2016). And the members of the Board of the Funds are
+indisputably not trustees; rather, they are directors. See id. at 30.
+Second, the communications at issue in Kenny bear little to no resemblance to
+the email at issue in this case. In Kenny, the court noted that “[t]he communications at
+issue include[d] legal advice for managing the fund,” Kenny, 2016 WL 6836886, at *4,
+and the Kenny plaintiff’s motion to compel noted that the vast majority of the withheld
+communications at issue pre-dated the filing of the complaint in that case. Pl.’s Mot. to
+Compel PIMCO Trustees to Produc. Docs. at 11, Kenny v. Pacific Inv. Mgmt. Co. LLC,
+2016 WL 6836886 (W.D. Wash. Nov. 21, 2016) (No. C14-1987-RSM), ECF 100. Here,
+by contrast, the at-issue email does not concern the management of the Funds, but
+rather instead concerns Lt. Governor Lynne’s independence. Mr. Logsdon sent this
+email about director independence to Lt. Governor Lynne on February 29, 2016—well
+after the Obeslo Plaintiffs filed their initial complaint on January 29, 2016.
+In United States v. Mett, which both Kenny and Plaintiffs here cite, the Ninth
+Circuit explained that there is a “spectrum” of privileged communications and that the
+
+4
+
+“English courts first developed the fiduciary exception as a principle of trust law in the
+19th century.” Jicarilla Apache Nation, 564 U.S. at 170. Modern courts have applied
+the exception “in the context of common-law trusts[.]” Id. at 167.
+11
+
+Case 1:16-cv-00230-CMA-MJW Document 121 Filed 12/23/16 USDC Colorado Page 16 of 21
+
+potential applicability of the fiduciary exception turns on where along that spectrum a
+privileged communication falls:
+On the one hand, where an ERISA trustee seeks an attorney’s advice on a
+matter of plan administration and where the advice clearly does not implicate the
+trustee in any personal capacity, the trustee cannot invoke the attorney-client
+privilege against the plan beneficiaries. On the other hand, where a plan
+fiduciary retains counsel in order to defend herself against the plan beneficiaries
+(or the government acting in their stead), the attorney-client privilege remains
+intact.
+Mett, 178 F.3d at 1064. Plaintiffs’ motion ignores Mett in this regard and incorrectly
+suggests that the fiduciary exception applies to any communication not squarely at the
+far pole of the “defend herself” end of this spectrum. Pls.’ Br. at 6-7. An attorney-client
+communication with a director that relates to director independence, which was sent to
+a director after the filing of a Section 36(b) complaint alleging the director is not
+independent, falls much farther along the “defend” end of the spectrum than the
+“administration” end of the spectrum. Mett, 178 F.3d at 1064 (“The advice is certainly a
+far cry from advice regarding whether a trust may advance to a beneficiary from the
+trust . . . or whether a trust should take certain positions in tax litigation with a state
+department of revenue.” (citation omitted)). The communication is therefore not subject
+to the exception. 5 And to the extent there is any doubt as to the right conclusion here,
+Mett is clear that “hard cases should be resolved in favor of the privilege, not in favor of
+disclosure.” Mett, 178 F.3d at 1065.
+
+5
+
+This is consistent with the fact that “‘fiduciaries do not have a duty to keep
+beneficiaries informed of all matters.’” Galena St. Fund, L.P. v. Wells Fargo Bank, N.A.,
+No. 12-cv-00587-BNB-KMT, 2014 WL 943115, at *3 (D. Colo. Mar. 10, 2014) (quoting
+Herrmann, 2012 WL 1207232, at *7).
+12
+
+Case 1:16-cv-00230-CMA-MJW Document 121 Filed 12/23/16 USDC Colorado Page 17 of 21
+
+Third, courts have suggested that the argument for applying the fiduciary
+exception is stronger where the legal advice at issue is paid for with fund assets. See,
+e.g., United States v. Jicarilla Apache Nation, 564 U.S. 162, 172, 178-79 (2011); Galena
+St. Fund, L.P. v. Wells Fargo Bank, N.A., No. 12-cv-00587-BNB-KMT, 2014 WL
+943115, at *4 (D. Colo. Mar. 10, 2014). The court in Kenny noted that “Plaintiff argues
+that the legal counsel at issue was paid for by the Trust rather than Defendants.” See
+Kenny, 2016 WL 6836886, at *2. Mr. Logsdon, by contrast, is compensated by GWL&A
+and/or GWCM, not the Funds. See Ex. B, Excerpt of GWCM: Great-West Funds, Inc.
+15(c) Review 10, 15 (Apr. 15, 2016) (noting GWL&A provides compensation to GWCM
+personnel); Ex. C, Amended and Restated Investment Advisory Agreement 7 (May 1,
+2015) (providing that for all Funds subject to the unitary management fee, GWCM “shall
+be responsible for all expenses incurred in performing the services set forth in this
+Agreement and all other expenses”).
+C.
+
+Plaintiffs Fail to Show “Good Cause” to Defeat Privilege
+
+Even if Plaintiffs were correct that (i) the fiduciary exception should be adopted
+by the Tenth Circuit, and that (ii) the exception can apply to privileged communications
+between fund counsel and a mutual fund director, and that (iii) the exception potentially
+applies to the email between Mr. Logsdon and Lt. Governor Lynne, Plaintiffs still must
+show good cause for applying the exception and piercing the privilege based on the
+factors set out in Garner. 6 As noted, Plaintiffs represented to this Court in one of their
+
+6
+
+Garner sets forth the following non-exclusive factors for determining good cause: (1)
+the number of shareholders and the percentage of stock they represent; (2) the bona
+fides of the shareholders; (3) the nature of the shareholders’ claim and whether it is
+13
+
+Case 1:16-cv-00230-CMA-MJW Document 121 Filed 12/23/16 USDC Colorado Page 18 of 21
+
+prior motions to compel that Garner is the supposedly applicable authority with regard to
+the fiduciary exception. Pls.’ Reply in Supp. of Second Mot. to Compel Produc. of Docs.
+at 8, Sept. 6, 2016, ECF 79.
+Plaintiffs cannot show good cause under Garner. Plaintiffs are just nine out of
+many thousands of shareholders of the Funds and hold a tiny fraction of one percent of
+the assets of the Funds in which they allegedly own shares. This fact alone is fatal.
+See Ryskamp, 2011 WL 3861437, at *11 (plaintiff’s ownership of less than one percent
+of shares of fund was “dispositive” factor in Garner analysis finding fiduciary exception
+inapplicable); see also Gerrits, 138 F.R.D. at 578-79 (declining to apply exception where
+plaintiffs held 6 percent of defendant’s stock, representing 25 percent of all minority
+shareholders’ ownership); Ward, 854 F.2d at 786 (plaintiffs failed to demonstrate good
+cause under Garner where they “cumulatively owned less than four (4%) of the stock”).
+In addition, Plaintiffs’ complaint has not even survived a motion to dismiss, and
+whether Plaintiffs’ claims are “obviously colorable” therefore remains unestablished.
+See Ryskamp, 2011 WL 3861437, at *11 (no good cause to apply fiduciary exception
+where “Plaintiff is a minority stockholder still attempting to get beyond the motion to
+dismiss stage of litigation”); In re Omnicom Grp. Inc. Sec. Litig., 233 F.R.D. 400, 412-13
+obviously colorable; (4) the apparent necessity or desirability of the shareholders having
+the information and the availability of it from other sources; (5) whether, if the
+shareholders’ claim is of wrongful action by the corporation, it is of action criminal, or
+illegal but not criminal, or of doubtful legality; (6) whether the communication is related
+to past or to prospective actions; (7) whether the communication is of advice concerning
+the litigation itself; (8) the extent to which the communication is identified versus the
+extent to which the shareholders are blindly fishing; and (9) the risk of revelation of
+trade secrets or other information in whose confidentiality the corporation has an
+interest for independent reasons. Garner, 430 F.2d at 1104.
+14
+
+Case 1:16-cv-00230-CMA-MJW Document 121 Filed 12/23/16 USDC Colorado Page 19 of 21
+
+(S.D.N.Y. 2006) (even the denial of motion to dismiss means only that plaintiffs’ claims
+were “simply colorable,” rather than “clearly colorable”; good cause not shown).
+Moreover, no plaintiff has ever prevailed in a Section 36(b) case that has gone to trial.
+Meanwhile, Plaintiffs have failed to demonstrate a legitimate need for the email,
+which has little to no bearing on the fees charged to the Funds. GWCM has already
+produced more than 70,000 pages of Board materials and minutes. Plaintiffs have been
+given more than enough information to evaluate the issue of director independence.
+See Fitzpatrick v. American Int’l Grp., Inc., 272 F.R.D. 100, 111 & n.8, 112 (S.D.N.Y.
+2010) (no good cause where, among other things, plaintiffs “completely fail[ed] to
+identify why they need[ed] the substance of specific privileged communications”).
+Further, there is no criminal conduct at issue in this case. See In re Omnicom
+Grp. Inc. Sec. Litig., 233 F.R.D. at 412 (plaintiffs did not show good cause where
+“wrongful conduct alleged, although potentially unlawful, is plainly not criminal”).
+As noted, the burden here is Plaintiffs’. Having failed to meet that burden, the
+fiduciary exception does not apply.
+CONCLUSION
+GWCM respectfully requests that the Court deny Plaintiffs’ motion.
+
+15
+
+Case 1:16-cv-00230-CMA-MJW Document 121 Filed 12/23/16 USDC Colorado Page 20 of 21
+
+Dated: December 23, 2016
+
+Respectfully submitted,
+/s Sean M. Murphy
+Sean M. Murphy
+Milbank, Tweed, Hadley & McCloy, LLP
+28 Liberty Street
+New York, NY 10005
+Telephone: 212.530.5688
+Facsimile: 212.822.5688
+smurphy@milbank.com
+Robert J. Liubicic
+Milbank, Tweed, Hadley & McCloy, LLP
+2029 Century Park East, 33rd Floor
+Los Angeles, CA 90067
+Telephone: 424.386.4525
+Facsimile: 213.629.5063
+rliubicic@milbank.com
+Edward C. Stewart (#23834)
+Wheeler Trigg O’Donnell, LLP
+370 Seventeenth Street, Suite 4500
+Denver, CO 80202-5647
+Telephone: 303.244.1800
+Facsimile: 303.244.1879
+stewart@wtotrial
+Robert Michael Little
+Great-West Life & Annuity Insurance Company
+8515 East Orchard Road, 2T3
+Greenwood Village, CO 80111
+Telephone: 303.737.5089
+Facsimile: 303.737.1699
+bob.little@greatwest.com
+Attorneys for Defendant, Great-West Capital
+Management, LLC
+
+Case 1:16-cv-00230-CMA-MJW Document 121 Filed 12/23/16 USDC Colorado Page 21 of 21
+
+CERTIFICATE OF SERVICE (CM/ECF)
+I hereby certify that on December 23, 2016, I caused the foregoing to be
+electronically filed with the Clerk of Court using the CM/ECF system, which will send
+notification to all counsel of record.
+•
+•
+•
+•
+•
+•
+•
+
+Kyle Geoffrey Bates
+kbates@schneiderwallace.com
+Stephen Hoeplinger
+shoeplinger@uselaws.com
+Mark T. Johnson
+mjohnson@schneiderwallace.com
+Robert Michael Little
+bob.little@greatwest.com
+Robert J. Liubicic
+rliubicic@milbank.com
+Sean Miles Murphy
+smurphy@milbank.com
+Lisa Marie Damm Northrup
+lnorthrup@milbank.com
+
+•
+•
+•
+•
+•
+•
+
+Benjamin James Reed
+breed@milbank.com
+Jerome Joseph Schlichter
+jschlichter@uselaws.com
+Thomas W. Snyder
+thomas.snyder@kutakrock.com
+Sean E. Soyars
+ssoyars@uselaws.com
+Edward Craig Stewart
+stewart@wtotrial.com
+Michael Armin Wolff
+mwolff@uselaws.com
+
+/s Sean M. Murphy
+Sean M. Murphy
+Milbank, Tweed, Hadley & McCloy, LLP
+28 Liberty Street
+New York, NY 10005
+Telephone: 212.530.5688
+Facsimile: 212.822.5688
+smurphy@milbank.com
+Attorney for Defendant, Great-West Capital
+Management, LLC
+
+2
+
+

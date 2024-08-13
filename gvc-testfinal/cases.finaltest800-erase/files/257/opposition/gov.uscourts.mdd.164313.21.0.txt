@@ -1,0 +1,1835 @@
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 1 of 49
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF MARYLAND
+(Greenbelt Division)
+
+IN RE INTEGRAL SYSTEMS, INC.
+SECURITIES LITIGATION
+
+Civil Action No. 08-cv-03387-RWT
+
+PLAINTIFFS’ MEMORANDUM IN OPPOSITION TO DEFENDANTS’ MOTION TO
+DISMISS PLAINTIFFS’ AMENDED CLASS ACTION COMPLAINT
+COHEN MILSTEIN SELLERS & TOLL PLLC
+ANDREW N. FRIEDMAN (Bar No. 14421)
+1100 New York Avenue, N.W.
+Suite 500, West Tower
+Washington, D.C. 20005
+Telephone:
+(202) 408-4600
+Facsimile:
+(202) 408-4699
+GLANCY BINKOW & GOLDBERG LLP
+LIONEL Z.GLANCY (pro hac vice)
+1801 Avenue of the Stars, Suite 311
+Los Angeles, California 90067
+Telephone: (310) 201-9150
+Facsimile:
+(310) 201-9160
+Co-Lead Counsel for the Putative Class
+LAW OFFICES OF HOWARD G. SMITH
+HOWARD G. SMITH
+3070 Bristol Pike, Suite 112
+Bensalem, PA 19020
+Telephone: (215) 638-4847
+Facsimile:
+(215) 638-4867
+Attorney for Plaintiff
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 2 of 49
+
+TABLE OF CONTENTS
+Page
+I.
+
+INTRODUCTION ............................................................................................................. 1
+
+II.
+
+FACTUAL ALLEGATIONS ............................................................................................ 4
+
+III.
+
+ARGUMENT..................................................................................................................... 9
+A.
+
+Defendants Bear A Heavy Burden to Obtain Dismissal of the Complaint............ 9
+
+B.
+
+Taken as a Whole, the Complaint Presents a Strong Inference of Scienter......... 10
+1.
+
+Defendants’ Violations Of Basic GAAP Rules And Integral’s Own
+Accounting Policies, Which Necessitated A Restatement, Give
+Rise To A Strong Inference Of Scienter .................................................. 11
+a.
+
+b.
+
+Application of Integral’s Long-Standing Revenue
+Recognition Policies and Basic GAAP Precluded
+Recognition of the Revenue at Issue............................................ 11
+i.
+
+GPS OCX Software Contract........................................... 14
+
+ii.
+
+RAIDRS........................................................................... 17
+
+iii.
+
+Post-Contract Services (Warranty) Revenue ................... 19
+
+iv.
+
+“Software Only” Sales Revenue ...................................... 21
+
+In Addition to the Obvious Nature of the Revenue
+Recognition Errors, Other Indicia of Scienter Are Present.......... 22
+i.
+
+Violation of a Company’s Own Revenue
+Recognition Policy........................................................... 22
+
+ii.
+
+Violations of GAAP/Company Policy as to a Small
+Number of Large Sales .................................................... 22
+
+iii.
+
+Defendants Made a Conscious Choice to
+Prematurely Recognize Revenue ..................................... 24
+
+iv.
+
+The Policy Violated Was Simple to Understand and
+Apply................................................................................ 26
+
+v.
+
+A Misleading Description of the Reasons for a
+Restatement Gives Rise to an Inference of Scienter........ 28
+
+2.
+
+Defendants’ False Sarbanes-Oxley Act Certifications Give Rise to
+a Strong Inference of Scienter.................................................................. 29
+
+3.
+
+The Complaint Alleges Individual Defendants’ Direct Involvement
+with the Specific Contracts and/or Accounting Principles at Issue ......... 34
+
+i
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 3 of 49
+
+TABLE OF CONTENTS
+(continued)
+Page
+4.
+
+Financial Incentives and Insider Sales Create A Strong Inference
+of Scienter ................................................................................................ 36
+
+IV.
+
+PLAINTIFFS’ SECTION 20(A) AND 20A CLAIMS ARE ADEQUATELY
+PLED................................................................................................................................ 40
+
+V.
+
+CONCLUSION................................................................................................................ 41
+
+ii
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 4 of 49
+
+TABLE OF AUTHORITIES
+Page(s)
+CASES
+Ashcroft v. Iqbal,
+129 S. Ct. 1937 (2009)...............................................................................................................9
+Backe v. Novatel Wireless, Inc.,
+607 F. Supp. 2d 1145 (S.D. Cal. 2009) ........................................................................................31
+Batwin v. Occam Networks, Inc.,
+No. CV-07-2750, 2008 WL 2676364 (C.D. Cal. July 1, 2008).........................................23, 24
+Beaver County Ret. Bd. v. LCA-Vision Inc.,
+No. 1:07-CV-750, 2009 WL 806714 (S.D. Ohio March 25, 2009) ..................................27, 28
+Bell Atl. Corp. v. Twombly,
+550 U.S. 544 (2007)...................................................................................................................9
+Chalverus v. Pegasystems, Inc.
+59 F. Supp. 2d 226 (D. Mass. 1999) ........................................................................................22
+Cheney v. Cyberguard Corp.,
+Civ. No. 98-6879, 2000 WL 1140306 (S.D. Fla. July 31, 2000)...............................................28
+Croker v. Carrier Access Corp.,
+No. 05-1011, 2006 WL 2038011 (D. Colo. July 18, 2006).........................................................31
+Crowell v. Ionics, Inc.
+343 F. Supp. 2d 1 (D. Mass. 2004) ..........................................................................................24
+Greebel v. FTP Software, Inc.,
+194 F.3d 185 (1st Cir. 1999)....................................................................................................38
+Grillo v. Tempur-Pedic Int’l, Inc.,
+553 F. Supp. 2d 809 (E.D. Ky. 2008) ......................................................................................40
+Holmes v. Baker,
+166 F. Supp. 2d 1362 (S.D. Fla. 2001) .....................................................................................28
+Howard v. Everex Systems, Inc.,
+228 F.3d 1057 (9th Cir. 2000) .................................................................................................29
+
+iii
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 5 of 49
+
+In re Allscripts, Inc. Sec. Litig.,
+No. 00 C 6796, 2001 WL 743411 (N.D. Ill. June 29, 2001) ...................................................24
+In re The Baan Co. Sec. Litig.
+103 F. Supp. 2d 1, 15 (D.D.C. 2000) .....................................................................14, 22, 24, 25
+In re Bristol-Myers Squibb Sec. Litig.,
+312 F. Supp. 2d 549 (S.D.N.Y. 2004)......................................................................................27
+In re Cardinal Health Inc. Sec. Litig.,
+426 F. Supp. 2d 688 (S.D. Ohio 2006) ....................................................................................38
+In re Comshare Inc. Sec. Litig.,
+183 F.3d 542 (6th Cir. 1999) ...................................................................................................24
+In re Dell Inc. Sec. Litig.,
+591 F. Supp. 2d 877 (W.D. Tex. 2008)....................................................................................24
+In re E.spire Communications, Inc. Sec. Litig.,
+127 F. Supp. 2d 734 (D. Md. 2001) .......................................................................26, 27, 36, 37
+In re Focus Enhancements, Inc. Sec. Litig.,
+309 F. Supp. 2d 134 (D. Mass. 2001) ......................................................................................37
+In re Galileo Corp. Shareholders Litig.,
+127 F. Supp. 2d 251 (D. Mass. 2001) ......................................................................................27
+In re Gildan Activewear, Inc. Sec. Litig.,
+636 F. Supp. 2d 261 (S.D.N.Y. 2009)......................................................................................33
+In re Inspire Pharms., Inc. Sec. Litig.,
+515 F. Supp. 2d 631 (M.D.N.C. 2007) ....................................................................................36
+In re K-tel Int’l, Inc. Sec. Litig.,
+300 F.3d 881 (8th Cir. 2002) ...................................................................................................38
+In re LDK Solar Sec. Litig., 584 F. Supp. 2d 1230 (N.D. Cal. 2008)
+584 F. Supp. 2d 1230 (N.D. Cal. 2008) ....................................................................................28
+In re MicroStrategy, Inc. Sec. Litig.,
+115 F. Supp. 2d 620 (E.D. Va. 2000) .............................................................................. passim
+In re New Century,
+588 F. Supp. 2d 1206 (C.D. Cal. 2008).....................................................................................32
+
+iv
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 6 of 49
+
+In re Paincare Holdings Sec. Litig.,
+No. 6:06-cv-362, 2007 WL 1229703 (M.D. Fla. April 25, 2007) ...........................................28
+In re PEC Solutions, Inc. Sec. Litig.,
+418 F.3d 379 (4th Cir. 2005) .......................................................................................10, 11, 39
+In re Proquest Sec. Litig.,
+527 F. Supp. 2d 728 (E.D. Mich. 2007).............................................................................37, 38
+In re Ravisent Techs., Inc. Sec. Litig.,
+No. Civ. A. 00-CV-1014, 2004 WL 1563024 (E.D. Pa. July 13, 2004)......................22, 23, 34
+In re Raytheon Sec. Litig.,
+157 F. Supp. 2d 131 (D. Mass. 2001) ..........................................................................13, 23, 28
+Iron Workers Local 16 Pension Fund v. Hilb Rogal & Hobbs Co.,
+432 F. Supp. 2d 571 (E.D. Va. 2006) ......................................................................................10
+Latham v. Matthews,
+Nos 6:08-cv-2995-RHB, 6:08-cv-3183-RHB, 2009 WL 3052223 (D.S.C. Sept. 4,
+2009) ..................................................................................................................................34, 36
+Lefkoe v. Jos. A. Bank Clothiers,
+No. WMN-06-1892, 2007 WL 6890353 (D. Md. Sept. 10, 2007) ..........................................40
+Lefkoe v. Jos. A. Bank Clothiers,
+No. WMN-06-1892, 2009 WL 3003247 (D. Md. May 1, 2009) .............................................37
+Marksman Partners, L.P. v. Chantal Pharm. Corp.,
+927 F. Supp. 1297 (C.D. Cal. 1996) ..................................................................................28, 32
+Matrix Capital Mgmt. Fund, LP v. BearingPoint, Inc.,
+576 F.3d 172 (4th Cir. 2009) ......................................................................................... passium
+Merzin v. Provident Financial Group, Inc.,
+311 F. Supp. 2d 674 (S.D. Ohio 2004) ....................................................................................26
+New England Health Care Employees Pension Fund v. Fruit of the Loom, Inc.,
+No. 1:98-cv-99-M, 1999 WL 33295037 (W.D. Ky. Aug. 16, 1999).......................................37
+Ottmann v. Hanger Orthopedic Group, Inc.,
+335 F.3d 338 (4th Cir. 2003) ........................................................................................... passim
+Provenz v. Miller,
+102 F.3d 1478 (9th Cir. 1996) .................................................................................................22
+
+v
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 7 of 49
+
+Public Employees’ Ret. Ass’n v. Deloitte & Touche LLP,
+551 F.3d 305 (4th Cir. 2009) ...................................................................................................10
+No. 84 Employer-Teamster Joint Council Pension Trust Fund v. Am. W. Holding Corp.,
+320 F.3d 920 (9th Cir. 2003) .................................................................................37, 38, 39, 40
+SEC v. Caserta,
+75 F. Supp. 2d 79, 94 (E.D.N.Y. 1999).....................................................................................22
+SEC v. Lucent Techs., Inc.,
+363 F. Supp. 2d 708 (D.N.J. 2005) ..........................................................................................29
+Shuster v. Symmetricom, Inc.,
+35 Fed. App’x 705 (9th Cir. 2002) ..........................................................................................40
+Stoneridge Inv. Partners, LLC v. Scientific-Atlanta,
+552 U.S. 148 (2008).................................................................................................................10
+Teachers’ Ret. Sys. v. Hunter,
+477 F.3d 162 (4th Cir. 2007) ...................................................................................................36
+Tellabs, Inc. v. Makor Issues & Rights, Ltd.,
+551 U.S. 308 (2007).............................................................................................................9, 10
+OTHER AUTHORITIES
+Fed R. Civ. P. 15(a)(2) ...................................................................................................................41
+
+vi
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 8 of 49
+
+Lead Plaintiffs Anthony Vidmar, Robert Ulrich, Mauro DiBacco, Charles E. Vernell, Jr,
+and Nettie J. Vernell (“Plaintiffs”) submit the following memorandum in opposition to the
+motion to dismiss their Amended Class Action Complaint (“Complaint”), filed by Defendants
+Integral Systems (“Integral” or the “Company”), Alan W. Baldwin (“Baldwin”), John B.
+Higginbotham (“Higginbotham”), William M. Bambarger (“Bambarger”), and Hemi G. LeeGallagher (“Lee-Gallagher,” collectively “Defendants”).
+I.
+
+INTRODUCTION
+This straight-forward case arises from Integral’s restatement of three quarters of
+
+unaudited financial reports to remove $10 million of prematurely recorded revenue which
+significantly inflated the Company’s reported net income during the Class Period.1 Defendants’
+motion to dismiss concedes that the operative complaint adequately pleads all but one element of
+a securities fraud claim. With respect to that single element, scienter, Defendants rely upon a
+series of implausible arguments to try to persuade the Court that the four categories of
+accounting errors at issue – which were only fully explained to investors months after the fact, at
+the urging of the SEC – were all just innocent mistakes. None of their arguments are persuasive.
+First, Defendants seize upon out-of-context and obscure provisions to create a false
+appearance of accounting “complexity” with respect to simple Generally Accepted Accounting
+Principles (“GAAP”) provisions which have long stood as Integral’s own revenue recognition
+policies.2 Belatedly located for the sole purpose of this motion, these provisions were never
+disclosed to investors as part of Integral’s Class Period accounting policies. Additionally, the
+1
+
+The Class Period runs from February 4, 2008 and December 10, 2008, inclusive.
+
+2
+
+See Memorandum in Support of Defendants’ Motion to Dismiss, filed Oct. 26, 2009, Dkt.
+No. 17 (“Def. Mem.”) at 12-16 and 29-32.
+
+-1-
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 9 of 49
+
+claim that the accounting errors only came to light when top-tier auditor Ernst & Young agreed
+to come aboard, to bring “quality and accuracy” to Integral’s financial reporting (Def. Mem. at
+8), is belied by two facts: (1) Integral had previously engaged Ernst & Young as its outside
+auditor before dismissing the firm several years earlier – in favor of Grant Thornton, who later
+resigned and was replaced by Bernstein & Pinchuk;3 and (2) Bernstein & Pinchuk’s audited
+reports for 2006 and 2007 were not restated.
+Next, Defendants seek to use Integral’s self-inflicted internal control problems over basic
+revenue recognition (which admittedly led to the material weaknesses at the root of the
+restatement) as a shield.
+
+Specifically, Defendants argue that they and other members of
+
+Integral’s accounting team were in a period of “transition” into their positions, thereby
+immunizing them from liability to investors for admittedly inflated revenue and income figures.
+(Def. Mem. at 23-25 and 34-35.) Quite the opposite is true. Not only did three of the four
+Individual Defendants join senior management prior to the Class Period,4 but all became officers
+after the commencement of a three-year Securities and Exchange Commission (“SEC”)
+investigation into former Chief Financial Officer (“CFO”) Gary Prince’s role at Integral. As
+described in a July 30, 2009 SEC Cease-and-Desist Order (entered in conjunction with Integral’s
+offer of settlement), Integral had relied heavily upon former CFO Gary Prince for every aspect of
+its accounting and public reporting for many years. (Compl. ¶¶ 36-37.) Thus, when they
+
+3
+
+See Declaration of Andrew N. Friedman (“Friedman Decl.”), served and filed herewith,
+at Ex. 1 (Form 8-K, filed January 6, 2004) (dismissing Ernst & Young) and Ex. 2 (Form 8-K,
+filed Jan. 23, 2006) (Grant Thornton resignation).
+4
+
+Only Higginbotham came to the Company during the Class Period. (See Amended Class
+Action Complaint, filed on September 21, 2009, Dkt. No. 14 (hereinafter cited as “Compl. ¶
+__”), at ¶¶ 14-18.)
+
+-2-
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 10 of 49
+
+assumed their offices, the Individual Defendants were well aware of Integral’s need to fill the
+vacuum which arose upon Prince’s termination in early 2007 so as to ensure that Integral’s
+publicly-reported financial figures were accurate. Although Baldwin claimed that he fit that bill
+(Id. at ¶ 3), in 2008, Defendants consciously and recklessly chose to prematurely recognize
+revenue on both routine transactions and two of the Company’s largest contracts – against
+Prince’s express advice. (Id. at ¶¶ 38, 185.)
+Defendants also deride Plaintiffs for alleging scienter based solely upon the Individual
+Defendants’ executive positions.
+
+(Def. Mem. at 20-22.)5
+
+Not so.
+
+Plaintiffs allege that
+
+Defendants were well aware of Integral’s undisclosed accounting weaknesses and/or the revenue
+recognition decisions made with respect to the items at issue. In an interview, Baldwin boasted
+of his expertise with respect to the reporting required of public companies (Compl. ¶ 3) and,
+during two conference calls, he discussed critical accounting personnel hires he and Bambarger
+had made. (Id. at ¶¶ 49, 76.) Higginbotham, whose departure from Integral in August 2009 is
+claimed to be “for reasons unrelated to this lawsuit,” (Def. Mem. at 4), had come to Integral with
+the goal of “turning around a company he said had suffered from accounting lapses.”6
+
+5
+
+To criticize the allegations against each of them as “generic pabulum,” Defendants
+cherry-pick general charging allegations, see Def. Mem. at 20-21 (citing Compl. ¶¶ 20, 182-83,
+190, 199, 204), but ignore the allegations referenced in text and, inter alia, Compl. ¶¶ 184-86,
+189, 191-96, 200-01, 210.
+
+6
+
+The claim that Higginbotham left for unrelated reasons – as opposed to leaving after
+specifically addressing the accounting issues noted herein – is belied by an August 10, 2009,
+Space News article, quoted in the text, which added: “One of Higginbotham’s tasks in taking the
+Integral job was to clean up accounting practices that were recently the subject of a settlement
+with the [SEC].” Peter B. de Selding, Satellite Company’s Chief Resigns Amid Lower
+Expectations, Space News, August 10, 2009, http://www.space.com/news/090810-busmonintegral-higginbotham.html (Friedman Decl. Ex. 3). In fact, Integral’s announcement of
+-3-
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 11 of 49
+
+Bambarger specifically described the accounting rationale used by the Company with respect to
+the items at issue, both during the Class Period and in post-Class Period correspondence with the
+SEC. (See, e.g., Compl. ¶¶ 27, 29, 30, 48, 61(c), 74-75, 91.)
+Regarding motive, the Individual Defendants contend that scienter is negated because
+they would have suffered financially had they exercised overpriced options. Although they
+grumble about being “harmed” by such option grants, none bought shares during the Class
+Period. (Def. Mem. at 27-28.) To the contrary, Baldwin, who remained at Integral after stepping
+down as Chief Executive Officer (“CEO”), sold all of his stock in August 2008 – at a price near
+the Class Period high. (Compl. ¶ 196.)
+For three quarters, in unaudited financial statements, Defendants recklessly recognized
+revenue in violation of GAAP, Integral’s accounting policies, and against the advice of Integral’s
+long-time accounting maven.
+
+When the need to restate was made public, Integral’s price
+
+plummeted. (Id. at ¶ 4.) Injured investors are entitled to redress.
+II.
+
+FACTUAL ALLEGATIONS
+Integral builds satellite ground systems and equipment for command and control,
+
+integration and test, data processing, and simulation.
+
+The Company has a domestic and
+
+international customer base that includes government and commercial satellite operators,
+spacecraft and payload manufacturers, and aerospace systems integrators. (Id. at ¶ 2.) During
+the Class Period, from February 4th until December 11th, 2008, Integral prematurely and
+improperly accounted for revenue from warranties, equipment, and product sales with respect
+to a number of contracts, chief among them the Next Generation Global Positioning System
+Higginbotham’s departure prominently highlighted his achievement of “significant gains in
+compliance and governance.”
+
+-4-
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 12 of 49
+
+(“GPS OCX”) contract and the Rapid Attack Identification Detection Reporting System
+(“RAIDRS”) contract with the Federal Government, which, along with one additional contract,
+were responsible for 50-60% of the Company’s government contract revenues, and 25-30% of
+the Company’s total revenues. (Id. at ¶ 21.)
+Plaintiffs’ Complaint alleges in detail how Defendants artificially inflated Integral’s stock
+price by prematurely recording revenues in violation of Sections 10(b), 20(a), and 20A of the
+Securities Exchange Act of 1934 and Rule 10b-5 promulgated thereunder. The Complaint names
+as defendants both Integral and four individuals who were intimately involved with the contracts
+and/or accounting practices at the core of the restatement, to wit, (i) Baldwin, who served as
+President, CEO and a director of Integral until July 9, 2008, at which time he resigned as CEO
+but continued serving as President until December 10, 2008, then stepped down as President and
+continued serving as a director; (ii) Higginbotham, who became CEO and a director of Integral
+on July 9, 2008, and became President on December 10, 2008; (iii) Bambarger, who served, at
+all relevant times, as Integral’s CFO and Treasurer; and (iv) Hemi G. Lee-Gallagher, who served,
+at all relevant times, as Integral’s Corporate Controller (collectively, the “Individual
+Defendants”). (Id. at ¶¶ 14-18.)
+The misleading financial statements began with the Company’s earnings report for the
+first quarter of fiscal year 2008 (“Q1’08”), issued on February 4, 2008.
+
+(Id. at ¶ 43.)
+
+Announcing record financial results and raising earnings projections, Integral also indicated that
+it had accelerated license revenue from the GPS OCX contract, a subcontract for Northrop
+Grumman (id. at ¶ 24), into Q1’08, instead of recognizing it throughout the fiscal year. (Id. at ¶¶
+43-45.) In a conference call later that day, Defendant Bambarger discussed the GPS OCX
+
+-5-
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 13 of 49
+
+contract, reiterating “we negotiated favorable contract terms that included upfront delivery of the
+licenses under the contract, allowing us to recognize license revenue and profit in the first
+quarter, rather than during the entire fiscal year, as we had originally planned.” (Id. at ¶ 48.)
+During that call, Defendant Baldwin boasted that Integral had made a number of key hires in the
+accounting department, including a senior corporate controller, a senior contract administrator,
+and a senior treasury analyst. (Id. at ¶ 49.) On February 7, 2008, Integral filed its Q1’08 results
+with the SEC on Form 10-Q, affirming its announced results, explaining Integral’s critical
+accounting policies, and certifying the accuracy of the financial information. (Id. at ¶¶ 50-60.)
+On April 28, 2008, Integral issued a press release announcing its financial results for
+Q2’08, highlighting that “[t]he results for the first six months of 2008 include a large amount of
+license revenue generated from the GPS OCX contract.” (Id. at ¶ 71.) Later that day, in a
+conference call, Defendant Bambarger again explained Integral’s Q1’08 accounting reversal,
+which allowed for a “very high profit” on the GPS OCX contract. (Id. at ¶ 75) (GPS OCX
+license revenue was “originally anticipated to be spread throughout the remainder of this year
+and even a little into the next fiscal year”). In response to a question about any similar “one
+time” financial events in Q2’08, Bambarger noted one “major significant event that would be out
+of the ordinary;” with respect to the RAIDRS contract, “we did accelerate some contract cost at
+the request of the customer and that has an effect on revenue and project cost almost equal.” (Id.
+at ¶ 74.) During the call, Baldwin again boasted that he and Bambarger had been “beefing up”
+the accounting staff by “a lot of very talented people.” (Id. at ¶ 76.) The Form 10-Q for Q2’08,
+filed May 7, 2008, attributed revenue and gross profit increases in Integral’s Ground Systems
+Segment “primarily” to the GPS OCX Q1’08 license revenue. (Id. at ¶¶ 79-80.) The Form 10-Q
+
+-6-
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 14 of 49
+
+also set forth the same accounting policies and the same internal controls reassurances that were
+contained in the Q1’08 Form 10-Q. (Id. at ¶¶ 81-85, 87.)
+On July 24, 2008, Integral announced its financial results for Q3’08 in a press release and
+conference call, in which Defendant Bambarger stated: “Revenue was higher by 14% over the
+prior year for our Government business, due to GPS and RAIDRS projects and higher license
+and maintenance revenue than we had over the prior year.” (Id. at ¶ 99.) On August 7, 2008,
+Integral filed its quarterly report for Q3’08 on Form 10-Q and continued to highlight the GPS
+OCX contract, stating, “The increase in gross profit was primarily attributable to the GPS OCX
+(Next Generation Control Segment) contract which included $2.4 million of license revenue.”
+(Id. at ¶ 101.) The Form 10-Q set forth the same accounting policies and the same internal
+controls reassurances that were contained in the earlier-filed Form 10-Qs. (Id. at ¶¶ 102-106,
+108.)
+On December 11, 2008, Integral shocked investors when it revealed that its unaudited
+financial statements for the interim periods ended December 31, 2007, March 31, 2008, and June
+30, 2008, should no longer be relied upon due to an error in the accounting treatment for certain
+transactions with respect to the timing of revenue recognition. (Id. at ¶ 125.) As a result,
+Integral would have to restate its previously-filed financial results for those three periods
+(hereinafter, the “Restatement” and the “Restatement Period”).
+
+Integral estimated the
+
+approximate net impact of the adjustments would result in a decrease of $10 million in revenues,
+a decrease of $3 million in gross profit, a decrease of $4 million in operating income, and a
+decrease of $0.13 in earnings per share. (Id. at ¶ 125.) On this news, shares of Integral declined
+
+-7-
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 15 of 49
+
+$6.38 per share, or 28.61%, to close at $15.92, on unusually heavy trading volume. (Id. at ¶
+126.)
+Following this announcement, Defendants gradually released the details surrounding the
+Restatement, to obscure the fact that they had violated basic revenue recognition principles. (Id.
+at ¶ 5.) First, during the December 11, 2008 conference call, only three types of accounting
+errors were briefly identified. (Id. at ¶¶ 128-130.) Later, in its December 24, 2008, Form 10-K
+for fiscal 2008, the Company vaguely described four types of accounting errors, gave line item
+changes for each restated quarter, and admitted to material weaknesses in internal controls over
+accounting procedures, including revenue recognition. (Id. at ¶¶ 132, 134.) The Restatement
+also admitted that Integral’s internal controls – created to ensure timely recognition of revenue –
+were ineffective, and that deficiencies in the internal controls caused the material misstatements
+of previously recognized revenue, gross profit, and net income. (Id. at ¶ 134.)
+On February 12, 2009, in response to a number of questions posed by the SEC, the
+Company explained, inter alia, the four restated items, identifying the accounting error, the
+correct GAAP principle and/or company policy that should have been followed, and the total
+dollar amount of each type of error. (Id. at ¶¶ 5(c), 63-65, 88(d).) The Company also provided
+dates on which the actual and expected revenue was or would ultimately be recognized. (Id. at ¶
+136.)
+On March 20, 2009, the Company responded to an additional SEC inquiry, as to why the
+explanations in the February 12, 2009 letter had not been disclosed to investors. (Id. at ¶ 137.)
+In its response letter, the Company stated that it believed that the Restatement, as set forth in the
+
+-8-
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 16 of 49
+
+Form 10-K, complied with GAAP and the securities laws, but agreed nonetheless to supplement
+its disclosures in its next periodic filing. (Id. at ¶ 137.)
+On May 6, 2009, providing additional details not previously given to the SEC, Integral’s
+Form 10-Q for Q2’09 explained the accounting bases for the Restatement, and specified both the
+restated items and the quarters in which each error occurred. (Id. at ¶¶ 5(e), 64, 92, 138.)
+Finally, on August 5, 2009, the Company reported that by the end of Q3’09, it had
+recognized $10 million of the $10.5 million removed from the books for the first three quarters
+of fiscal 2008, and would finally recognize the remainder in Q4’09 and Q1’10. (Id. at 5(f).)
+III.
+
+ARGUMENT
+A.
+
+Defendants Bear a Heavy Burden to Obtain Dismissal of the Complaint
+
+The Supreme Court’s decision in Tellabs, Inc. v. Makor Issues & Rights, Ltd., 551 U.S.
+308 (2007), reaffirms that, even for motions to dismiss securities fraud actions, courts must
+accept the factual allegations in a plaintiff’s complaint as true and draw all reasonable inferences
+from them. See id. at 322; see also Matrix Capital Mgmt. Fund, LP v. BearingPoint, Inc., 576
+F.3d 172, 176 (4th Cir. 2009). Moreover, in ruling on a motion to dismiss, a court should not
+require “heightened fact pleading of specifics, but only enough facts to state a claim to relief that
+is plausible on its face.” Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570 (2007). Twombly’s
+requirement of “facial plausibility” is satisfied “when the plaintiff pleads factual content that
+allows the court to draw the reasonable inference that the defendant is liable for the misconduct
+alleged.” Ashcroft v. Iqbal, 129 S. Ct. 1937, 1949 (2009). Significantly, a motion to dismiss
+merely tests “the sufficiency of the complaint and, most importantly, does not resolve contests
+surrounding the facts, the merits of the claim, or the applicability of defenses.” Iron Workers
+
+-9-
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 17 of 49
+
+Local 16 Pension Fund v. Hilb Rogal & Hobbs Co., 432 F. Supp. 2d 571, 577 (E.D. Va. 2006)
+(internal quotations omitted).
+To state a claim for securities fraud, a plaintiff must allege:
+
+“‘(1) a material
+
+misrepresentation or omission by the defendant; (2) scienter; (3) a connection between the
+misrepresentation or omission and the purchase or sale of a security; (4) reliance upon the
+misrepresentation or omission; (5) economic loss; and (6) loss causation.’” BearingPoint, 576
+F.3d at 181 (emphasis in original) (quoting Stoneridge Inv. Partners, LLC v. Scientific-Atlanta,
+Inc., 552 U.S. 148 (2008)). In their motion, Defendants tacitly acknowledge that the Complaint
+meets all but one element of the securities fraud claims – scienter. As described below, the
+Complaint more than adequately meets the requirements for pleading scienter.
+B.
+
+Taken as a Whole, the Complaint Presents a Strong Inference of Scienter
+
+Under the PSLRA, plaintiffs must allege facts that give rise to a “strong inference” of
+scienter. Tellabs, 551 U.S. at 314; BearingPoint, 576 F.3d at 181. When analyzing scienter,
+courts should ask, “When the allegations are accepted as true and taken collectively, would a
+reasonable person deem the inference of scienter at least as strong as any opposing inference?”
+Tellabs, 551 U.S. at 314. In the Fourth Circuit, scienter may be alleged by pleading either
+intentional misconduct or recklessness, which is conduct “[s]o highly unreasonable and such an
+extreme departure from the standard of ordinary care as to present a danger of misleading the
+plaintiff to the extent that the danger was either known to the defendant or so obvious that the
+defendant must have been aware of it.” BearingPoint, 576 F.3d at 181 (internal quotations
+omitted); Public Employees’ Ret. Ass’n v. Deloitte & Touche LLP, 551 F.3d 305, 313 (4th Cir.
+2009); In re PEC Solutions, Inc. Sec. Litig., 418 F.3d 379, 387 (4th Cir. 2005). When evaluating
+
+- 10 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 18 of 49
+
+scienter allegations, courts in this circuit use a “flexible, case-by-case analysis.” PEC Solutions,
+418 F.3d at 389 (citing Ottmann v. Hanger Orthopedic Group, Inc., 353 F.3d 338, 344-45 (4th
+Cir. 2003)).
+1.
+
+Defendants’ Violations of Basic GAAP Rules and Integral’s Own
+Accounting Policies, Which Necessitated a Restatement, Give Rise to a
+Strong Inference of Scienter
+
+Defendants seek to paint a picture of a company “in transition” that made four accidental
+accounting errors – two on very significant projects – while dealing with complicated GAAP
+provisions. Further, they claim that only after Integral finally secured the services of a top-flight
+auditor, Ernst & Young, was it able to reach the correct accounting determination for each of
+these transactions. The very straight-forward facts alleged and applicable GAAP principles do
+not support Defendants’ version of events.
+a.
+
+Application of Integral’s Long-Standing Revenue Recognition
+Policies and Basic GAAP Precluded Recognition of the
+Revenue at Issue
+
+Four years prior to the Class Period, Ernst & Young served as Integral’s outside auditor.
+Following the filing of the Form 10-K for fiscal 2003, Integral dismissed Ernst & Young. (See
+Friedman Decl. Ex. 1.) For the next two years, Grant Thornton served as Integral’s outside
+auditor before resigning on January 17, 2006. (See id. and Ex. 2.) Thereafter, until its dismissal
+in September 2008, Integral employed the services of Bernstein & Pinchuk. (Compl. ¶ 115.)
+Through this succession of auditors, Integral’s relevant revenue recognition policies remained
+constant:
+With respect to contract revenue, Integral stated, in 2003:
+Revenue under cost-plus-fixed-fee contracts is recorded on the basis of direct costs plus
+indirect costs incurred and an allocable portion of the fixed fee. Revenue from fixed-
+
+- 11 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 19 of 49
+
+price contracts is recognized on the percentage-of-completion method, measured by the
+cost-to-cost method for each contract. (Friedman Decl. Ex. 4, Form 10-K, filed Dec. 12,
+2003, at F-9).
+… and in 2007:
+Revenue under a fixed-price contract is recognized using a percentage of completion
+method based on costs incurred in relation to total estimated costs. Under a cost-plus
+contract, we are reimbursed for allowable costs within the contractual terms and
+conditions and are paid a negotiated fee. The fee may be fixed or based on performance
+incentives. Revenue recognition under a cost-plus contract is based upon actual costs
+incurred and a pro rata amount of the negotiated fee. (Def. Ex. A, 2007 Form 10-K, at
+25).
+With respect to software sales and services, Integral stated, in 2003:
+Most of the Company’s contracts include the license of proprietary software products.
+Sales of the Company’s software products take many forms. The Company sells (i)
+software only (a “Software-Only Sale”), (ii) software and services together, or (iii)
+software, services and hardware together. In addition, depending on a customer’s
+requirements, the Company may or may not provide post-contract customer support
+(“PCS”).
+The Company’s recognition of revenue for sales of Company software products depends
+on customer requirements and the nature of the contracts involved. In accordance with
+SOP 97-2, Software Revenue Recognition, for a Software-Only Sale, the Company
+recognizes revenue when all of the following criteria are met: persuasive evidence of an
+arrangements exists, delivery has occurred, the vendor’s fee is fixed or determinable and
+collectibility is probable. In situations where software is sold together with services
+and/or hardware, the Company recognizes software license revenue on a percentage of
+completion basis.
+With respect to PCS, the Company recognizes PCS revenue on a percentage of
+completion basis when PCS is part of a broader fixed price contract that includes
+software and services. Alternatively, when PCS services (i.e. software maintenance and
+support) are awarded to the Company under a separate maintenance contract, the
+Company recognizes PCS revenue on a straight-line basis pro rata over the term of the
+maintenance contract. (Friedman Decl. Ex. 4, at F-9).
+… and in 2007:
+Many of our contracts include the sale of company-owned proprietary software products.
+Sales of our software products may take many forms. We sell (1) software only (a
+“Software-Only Sale”), (2) software and services together, or (3) software, services, and
+
+- 12 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 20 of 49
+
+hardware together. In addition, depending on a customer’s requirements, we may or may
+not provide post-contract customer support (“PCS”).
+Our recognition of revenue from sales of software products depends on specific customer
+requirements and the nature of the contracts involved. In accordance with SOP 97-2,
+“Software Revenue Recognition,” for a Software-Only Sale, we recognize revenue when
+all of the following criteria are met: persuasive evidence of an arrangement exists,
+delivery has occurred, the vendor’s fee is fixed or determinable, and collectibility is
+reasonably assured. In situations where software is sold together with services and/or
+hardware, we recognize software license revenue on a percentage of completion basis.
+We recognize PCS revenue on a percentage of completion basis when PCS is part of a
+broader fixed-price contract that includes software and services. Alternatively, when PCS
+services (i.e., software maintenance and support) are awarded to us under a separate
+maintenance contract, we recognize PCS revenue on a straight-line basis pro rata over the
+term of the maintenance contract. (Def. Ex. A, at 26).
+The purpose of GAAP, as adopted in Integral’s policies set forth above, is “to provide a
+reliable degree of predictability.” In re Raytheon Sec. Litig., 157 F. Supp. 2d 131, 148 (D. Mass.
+2001). Sometimes, the application of simple accounting principles may involve certain factual
+details; this does not make the proper GAAP determination too complex to preclude a finding of
+scienter. In re MicroStrategy, Inc. Sec. Litig., 115 F. Supp. 2d 620, 638 & nn.35-36 (E.D. Va.
+2000) (scienter alleged with respect to premature revenue recognition in violation of SOP 97-2).
+Defendants concede that an “obvious” revenue recognition error gives rise to an inference
+of scienter. (Def. Mem. at 29 (citing cases).) Contrary to Defendants’ efforts to complicate
+matters, the straight-forward application of Integral’s policies and GAAP to the simple facts
+involved would not allow Defendants to prematurely recognize any of the revenue at issue.
+Defendants’ after-the-fact attempts to create the illusion of complexity are transparent; they
+cannot mask the fact that each of these errors is obvious.
+
+- 13 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+i.
+
+Filed 11/30/09 Page 21 of 49
+
+GPS OCX Software Contract
+
+As a preliminary matter, software sales range from those that provide a license for a
+single software product to those that, in addition to the delivery of software or a software system,
+require significant production, modification, or customization of software. Defendants contend
+that because the software licenses under the GPS OCX contract were delivered and paid for,7
+Integral could recognize all $2.4 million of the license revenue when it was received, in Q1’08.
+The basis for this claim is Integral’s purported application of the American Institute of Certified
+Public Accountants Statement of Position (“SOP”) 81-1, ¶ 39 – a provision that permits
+(otherwise) early revenue recognition where a contract can be “segmented.” (Def. Mem. at 12,
+30; Def. Ex. Q.) Defendants are wrong for several reasons.
+First, the GPS OCX contract did not meet the criteria for segmenting. SOP 81-1, ¶ 39
+only allows the segmentation of contract elements “each of which the contractor negotiated
+separately . . . and agreed to perform without regard to the performance of the others.” SOP 811, ¶ 40, further requires, inter alia, as proof that segmentation is legitimate, that separate bids
+were made on each element and that the customer had the right to accept or reject each element.
+(Def. Ex. Q.) On its face, the GPS OCX contract was not severable; it was submitted as part of
+Northrop Grumman’s bid to the Air Force. (Compl. ¶ 24.) Further, the press release announcing
+the contract award specifically noted the period of performance was through March 2009, and
+Baldwin described the contract elements to include “systems-requirement analysis,” “preliminary
+systems design,” and development of the “initial OCX system to work with existing GPM 2R-M
+7
+
+Although Defendants stress the receipt of payment for the licenses (Def. Mem. at 12),
+they also acknowledge (id. at 13, 30), that revenue is not automatically recognizable upon
+payment. In re The Baan Co. Sec. Litig., 103 F. Supp. 2d 1, 15 (D.D.C. 2000) (applying SOP
+97-2).
+
+- 14 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 22 of 49
+
+satellites.” (Compl. ¶ 61(c)(i)&(ii).) The 18-month subcontract clearly did not provide for bids
+for software licenses, alone, which the Air Force could accept or reject; nor could Defendants
+point to any evidence in Integral’s public disclosures to support such an assertion.
+Second, Defendants’ sudden reliance on SOP 81-1’s segmenting rules is disingenuous:
+Integral’s stated contract revenue policies contain no reference to “segmenting” of long-term
+contracts or any explanation of SOP 81-1, ¶ 40’s prerequisites for segmentation.
+Third, no matter what type of contract GPS OCX is,8 all of Integral’s stated policies
+concerning contract revenue did not permit the Company to recognize prepaid amounts as earned
+revenue simply because software licenses were delivered “up front.” In particular, the “contract
+revenue” policy states that revenue on fixed-fee contracts is recognized on a percentage-ofcompletion basis, predicated upon the ratio of costs incurred to total costs. Similarly, revenues
+on cost-plus-fee contracts are recognized as allowable costs are incurred, with the fee recognized
+on a pro rata basis. None of Defendants’ press releases or public filings concerning the GPS
+OCX contract made any reference to the $2.4 million as having been recognized as either a
+percentage of overall costs (fixed-fee) or a cost incurred under the contract (cost-plus-fee) –
+either at the time of the original decision to recognize the revenue, nor in the subsequent
+iterations of the reasons Integral restated. Thus, if Defendants had, in fact, secretly applied SOP
+81-1, ¶ 39 to calculate Q1’08 revenue, at some point – in the many explanations of the
+transaction given between December 2008 and May 2009 – there necessarily would have been a
+
+8
+
+At different times, Defendants inexplicably described GPS OCX as a fixed-fee contract
+(where the amount of payment does not depend on the amount of resources or time expended), a
+cost-plus contract (intended to reimburse all costs and some amount of profit), and a combined
+sale of software and services. (Compl. ¶ 61(c)(iv).)
+
+- 15 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 23 of 49
+
+connection made between the revenues recognized and the costs associated with the purported
+software license “segment” of the contract. No such explanation was ever given.
+Fourth, even if the 18-month subcontract is characterized as a “software and services”
+sale, immediate recognition of the license revenue violated Integral’s own accounting policy.
+Under the contract, Integral was required to perform a systems-requirement analysis and to
+develop both a preliminary systems design and an OCX system to work with existing satellites.
+Clearly, this was not a “software only” sale. As set forth above, Integral’s policy was straightforward: “In situations where software is sold together with services and/or hardware, we
+recognize software license revenue on a percentage of completion basis.” (Def. Ex. B, Form 10Q, filed Feb. 7, 2008). Consequently, Bambarger explained to the SEC on February 12, 2009:
+“The Company improperly recognized upfront license fee revenue of $2.4 million. Through its
+Restatement, the Company applied percentage-of-completion accounting under SOP 81-1 for the
+entire contract, which resulted in the deferral of $1.3 million of revenue initially recognized.”
+(Compl. ¶ 63.)9
+
+9
+
+Defendants’ dissection of SOP 97-2’s provisions is a red herring. (See Def. Mem. at 13.)
+While revenue may be recognized under certain circumstances – persuasive evidence of an
+arrangement exists, delivery has occurred, the vendor’s fee is fixed or determinable, and
+collectibility is reasonably assured (SOP 97-2, ¶ 8) – when significant production, modification
+and customization of computer software is not required, no judgment call on that issue was
+needed here. Integral’s revenue recognition policy drew a clear line, which applied SOP 97-2, ¶
+8, exclusively to “software only” sales. Whenever services and/or hardware were also included
+as additional elements to be delivered under a contract, Integral predetermined that production,
+modification and/or customization of the software element was sufficient to trigger percentageof-completion accounting. (Cf. Compl. ¶ 145 (SOP 97-2, ¶ 13, provides that “delivery” of one
+element, for the purposes of ¶ 8, does not occur if undelivered elements are essential to its
+functionality).)
+
+- 16 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 24 of 49
+
+Fifth, and finally, the correct approach to revenue recognition was so obvious that
+Integral stated, in its Q1’08 earnings release, that it had “previously anticipated” recognizing the
+GPS OCX license revenue throughout the entire year. (Id. at ¶ 45; see also id. at ¶ 48 (revenue
+was recognized earlier than “originally planned”).)10 Under GAAP, a public company may not
+“manage” earnings – it must recognize revenues in the quarter in which they are earned. Thus,
+when a company prepares its revenue forecasts, it does so mindful of GAAP and its own
+policies. Defendants were well aware of the correct accounting for the GPS OCX contract.
+ii.
+
+RAIDRS
+
+Integral improperly recognized as revenue in Q2’08 a reimbursement payment of $5.1
+million for a deposit Integral paid to purchase antennas to be delivered and installed in 2009.
+Defendants employed percentage-of-completion (ratio of costs incurred to total costs) accounting
+rules to this contract. In this method of accounting, revenue is recognized as work on a contract
+progresses – allowing for ratable recognition of corresponding revenue and profits during the
+course of the project, rather than waiting until project completion – based upon the costs incurred
+in providing the services required under the contract. Generally, revenue is recognized in the
+same proportion as costs incurred to date compared to expected costs to complete the contract.
+However, specific rules also apply to ensure the percentage of costs incurred and revenues
+accordingly recognized do not misrepresent the actual progress of project completion.
+One such rule, SOP 81-1, ¶ 50, expressly applies to the monies received on the RAIDRS
+contract: The cost of “expensive components to be installed into the deliverable items . . . should
+not be included in the [percentage-of-completion] measurement before the components are
+10
+
+Bambarger later indicated the revenue was planned to be recorded over the life of the 18month contract. (Compl. ¶ 75.)
+
+- 17 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 25 of 49
+
+installed if inclusion would tend to overstate the percentage of completion otherwise
+determinable.”11 Whereas the RAIDRS contract was valued at $21 million and the equipment on
+which the $5.1 million deposit was paid was not due to be installed for another year, Defendants
+initially recognized revenue prematurely upon receipt of the deposit.12 Specifically, under SOP
+81-1, ¶ 50, revenue recognition was improper because it would appear as if nearly 25% of the
+project was completed at that point – when it was not. On restatement, citing SOP 81-1, ¶ 50,
+Bambarger thus explained to the SEC (Compl. ¶ 91):
+The Company made large dollar advance purchases of equipment . . . [and] incorrectly
+included [them] in its progress towards completion calculations . . . and overstated the
+percentage of completion . . . In accordance with paragraph 50 of SOP 81-1, the
+Company removed the advance purchases . . . result[ing] in a net deferral of $7.0 million
+in contract revenue. 13
+To avoid the inference arising from their “obvious” violation of the simple, straightforward rule set forth in SOP 81-1, ¶ 50 – the uninstalled antennas should have been excluded
+from the percentage-of-completion measurement – Defendants located an obscure provision,
+
+11
+
+The entire provision, quoted in ¶ 30 of the Complaint, uses the words “in some
+circumstances.” While Defendants leap on these words as a basis to recognize the revenue, (Def.
+Mem. at 14), the “circumstances” in which the costs should not be included are those where
+doing so would “overstate” the percentage-of-completion ratio. On restatement, Defendants
+admitted that their improper inclusion of the antennas deposit did precisely that. (Compl. ¶ 91.)
+12
+
+The total amount ultimately deferred due to this accounting error was $6.3 million.
+(Compl. ¶ 29.) This amount either represented a second deposit reimbursement in Q3’08 or that
+portion of the negotiated fee which was also prematurely recognized on this cost-plus contract.
+
+13
+
+Revenues prematurely recognized on advance equipment purchases on a commercial
+project were also reversed in the Restatement – for the same reasons given with respect to the
+RAIDRS project, to wit, failure to apply SOP 81-1, ¶ 50. With respect to that contract,
+Defendants also admitted that the earning process was contractually tied to performance
+milestones and revenue should not have been recognized until the equipment was used in the
+project. (Compl. ¶ 88(e).) The total amount of revenues deferred on both projects was $7
+million.
+
+- 18 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 26 of 49
+
+which they refer to as Contract Accounting Co5, to try to argue that their initial revenue
+recognition determination was viable. Due to the lack of risk of non-payment on government
+contracts, Co5 provides that on a cost-plus contract, “[o]rdinarily, it is acceptable to accrue the
+fees as they come billable.” (Def. Mem. at 14.) Thus, Defendants desperately suggest that Co5
+provides authority for the immediate recognition of the antenna downpayment reimbursement.
+(Id.) However, Co5 deals with revenue recognition of the fee portion of a cost-plus-fee contract.
+Here, the $5.1 million at issue was not a fee but an equipment cost.
+
+(See Compl. ¶ 74
+
+(Bambarger: “we did accelerate some contractor cost at the request of the customer and that has
+an effect on revenue and project cost almost equal”).)
+
+Co5 does not provide cover for
+
+Defendants’ obvious GAAP violation.14
+Next, in keeping with their theme that scienter is absent because applicable GAAP was
+“difficult to interpret” (Def. Mem. at 2), Defendants ask the Court to believe that it was not until
+Ernst & Young brought “its greater resources, knowledge and own views” (id. at 8) to the yearend audit, that Integral was able to figure out that the equipment at issue – for which only a
+deposit was paid and would not be delivered until 2009 – had not yet been installed in early
+2008. (Id. at 14.) The Court need not indulge such implausible suggestions.
+iii.
+
+Post-Contract Services (Warranty) Revenue
+
+During each quarter of the Restatement Period, on fixed-price contracts where Integral
+provided both software and services, the Company failed to properly recognize revenue for postcontract services (“PCS”) across the warranty period. Instead, Integral prematurely recognized
+14
+
+Indeed, with respect to recognition of the fee component, Co5, ¶ 104, urges government
+contractors to use principles of “conservatism” – and to apply the “usual rule [of accrual] of
+deliveries or percentage of completion” – to “safeguard against too early proportionate
+payment.” (Def. Ex. S.)
+
+- 19 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 27 of 49
+
+total revenue under the contract, including $1.9 million in warranty revenue, upon contract
+completion, rather than waiting until such revenues were sufficiently earned across the postcontract warranty period. However, applicable GAAP, in particular FASCON 5, ¶ 83, and
+various provisions cited in SEC Staff Accounting Bulletin No. (“SAB”) 101, generally prohibit
+the recognition of revenues not yet earned because one has not yet performed the services for
+which the monies are paid. (See Compl. ¶¶ 142-43 (quoting provisions in full).) A specific
+provision, EITF 00-21, requires the severance of post-contract services that have independent
+objective value to the customer from the remainder of the contract, with revenues on the former
+to be recognized over the warranty period and the latter on a percentage-of-completion basis.
+Powerful evidence that Integral knew the proper GAAP to apply is set forth right in its
+critical accounting policies, quoted above. Because Integral also sold maintenance services
+separately, its stated policy for such services was, in accordance with GAAP, to recognize
+revenue on a straight-line, basis pro rata over the contract period, i.e., ratably recognized in equal
+amounts as the services are provided and the revenue is earned. Integral knew it could not
+recognize separately-sold service revenue upon contract execution, for example, because it was
+not yet earned until such time as the service period expired. Yet Integral made the obvious error
+of prematurely recognizing this type of revenue because it also provided other services and
+software under the same contract.15
+
+15
+
+Yet again, Defendants ask the Court to believe the Restatement was occasioned by a
+judgment call under SOP 97-2 as to whether the software component was “incidental” to the
+sale. (Def. Mem. at 15.) Not so. The explanation of the error ultimately provided to the SEC
+stated that Integral “improperly accounted for the PCS-related services element within its
+percentage of completion calculation” – even though it had “vendor specific objective of the fair
+value of the PCS-related services” (because they were also sold separately) – rather than properly
+- 20 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+iv.
+
+Filed 11/30/09 Page 28 of 49
+
+“Software Only” Sales Revenue
+
+Certain off-the-shelf software was sold by two Integral subsidiaries without significant
+production, modification or customization.
+
+Thus, pursuant to Integral’s stated policy for
+
+software only sales, each of the four elements of SOP 97-2, ¶ 8’s four-part test needed to be met
+before revenue could be recognized, to wit: persuasive evidence of an arrangement exists,
+delivery has occurred, the vendor’s fee is fixed or determinable, and collectibility is reasonably
+assured.
+
+Inexplicably, Defendants applied percentage-of-completion accounting to certain
+
+software only sales rather than waiting until either customer acceptance (pursuant to contract) or
+delivery of the software. Almost $300,000 was prematurely recognized due to this blatant
+violation of both GAAP and Integral’s stated policy. (Compl. ¶¶ 34-35.)
+Yet again Defendants claim that the “intricacies of SOP 97-2” were called into play to
+make a judgment as to whether “significant customization” was required. (Def. Mem. at 16.)
+This is a ruse. Typically, when this question is being asked on restatement, it is because revenue
+recognition needs to be deferred until the period(s) during which the customization is provided or
+accelerated because no such customization was necessary. Here, the Restatement determined
+that revenue needed to be deferred even though there was no significant customization required.
+Thus, it is clear that “customization” is being used as a pretext: Integral made “software only”
+sales and, as Defendants admit (Def. Mem. at 16), failed to wait until delivery to recognize the
+revenue. This is an obvious violation of GAAP and the Company’s stated policy.16
+
+“deferring and recognizing revenue for the PCS-related services over the service period.”
+(Compl. ¶¶ 33, 138).
+16
+
+Defendants claim that Integral’s policy was incorrect and that the error was not obvious
+because Bernstein & Pinchuk failed to notice it and instead gave Integral a “clean” audit opinion.
+(Def. Mem. at 31.) This is not the case. Integral’s policy expressly adopts SOP 97-2, ¶ 8’s four- 21 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+b.
+
+Filed 11/30/09 Page 29 of 49
+
+In Addition to the Obvious Nature of the Revenue Recognition
+Errors, Other Indicia of Scienter Are Present
+
+While violations of GAAP may be indicative of a violation of Section 10(b), they are not
+determinative. Baan, 103 F. Supp. 2d at 14. Other facts and circumstances which surround
+GAAP errors contribute to a finding of scienter. Courts have found the following circumstances,
+present here, to support a finding of scienter.
+i.
+
+Violation of a Company’s Own Revenue Recognition
+Policy
+
+Because a corporation and its executive officers are presumed to have knowledge of the
+corporation’s own policies, their transgression “evidences knowing or reckless behavior.”
+Chalverus v. Pegasystems, Inc. 59 F. Supp. 2d 226, 234 (D. Mass. 1999). Thus, violations of a
+company’s own revenue recognition policies support an inference of scienter. Provenz v. Miller,
+102 F.3d 1478, 1490 (9th Cir. 1996); In re Ravisent Techs., Inc. Sec. Litig., No. 00-CV-1014,
+2004 WL 1563024, at *9 (E.D. Pa. July 13, 2004); MicroStrategy, 115 F. Supp. 2d at 638;
+Chalverus, 59 F. Supp. 2d 226, 234. Here, as set forth above, with respect to the GPS OCX and
+RAIDRS contracts and off-the-shelf software only sales, Defendants violated Integral’s own
+revenue recognition policies.
+ii.
+
+Violations of GAAP/Company Policy as to a Small
+Number of Large Sales
+
+Where the number of sales at issue is small in number yet represents a large portion of
+earnings, defendants are presumed to have greater awareness of them. Consequently, violations
+
+part test. By recognizing revenue before delivery, Integral failed to comply with its stated
+policy. For this reason, a claim of good faith reliance on accountants, e.g., under SEC v. Caserta,
+75 F. Supp. 2d 79, 94 (E.D.N.Y. 1999), is not available here. In re Winstar Commc’ns., Nos. 01CV-3014, 01-CV-11522, 2006 WL 473885 (S.D.N.Y. Feb. 27, 2006) (so holding).
+
+- 22 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 30 of 49
+
+of company accounting policies and/or GAAP as to such highly significant transactions are
+indicative of scienter. Ravisent, 2004 WL 1563024 at *9 (premature recognition of even one
+contract would grossly overstate results of operations due to company’s limited number of
+customers); Raytheon, 157 F. Supp. 2d at 148 (majority of irregularities related to defendant’s
+seven largest contracts); MicroStrategy, 115 F. Supp. 2d at 638-39 (premature revenue
+recognition on three contracts, representing 50% of third quarter revenue and 25% of fourth
+quarter revenue). In fact, the MicroStrategy court remarked that “problems with a transaction
+with a major impact on revenues . . . support a strong evidence of scienter,” and that it “strain[s]
+credulity” to conclude otherwise. Id. at 639, 657.
+Here, Defendants repeatedly credited the GPS OCX and RAIDRS contracts – in
+particular, the GPS OCX license revenues – for Integral’s increased gross profits and revenues in
+the Restatement Period. (See Compl. ¶¶ 45, 46, 50, 71, 73, 79, 80, 99, 101.) An inference of
+scienter is thus raised by the fact that in Q1’08 and Q2’08, these key contracts were the primary
+cause of revenue overstatements of 10% and 19%, respectively, and net income overstatements
+of 39% and 30%, respectively. (Compl. ¶¶ 61(a), 88(a).)
+Defendants instead focus upon the purported minor impact on the results for all of fiscal
+2008 – a $10 million revenue reduction (6%) and a $3 million (5%) reduction in gross profits.
+(Def. Mem. at 25 n.4.) However, assessing the overall impact for fiscal 2008 intentionally masks
+the more striking effect on individual restated quarters – something which Defendants may not
+do. Batwin v. Occam Networks, Inc., No. CV-07-2750, 2008 WL 2676364, at *13 (C.D. Cal.
+July 1, 2008) (4% overall revenue reduction ignores that individual quarters were off by 30% and
+40%). Additionally, the Fourth Circuit warned that “courts should be wary when defendants
+
+- 23 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 31 of 49
+
+focus on the size of revenues in an effort to minimize the materiality of misstatements of
+income.” BearingPoint, 576 F.3d at 184-85 (citing Crowell v. Ionics, Inc., 343 F. Supp. 2d 1, 18
+(D. Mass. 2004) (the “focus on revenue” is “an old chestnut that securities fraud defendants
+frequently try on judges and juries”)).17
+Defendants also argue that the revenue was eventually recognized, primarily in 2009.
+(Def. Mem. at 16.) This argument was rejected in Occam, 2008 WL 2676364, at *13. With
+good reason: investors are owed the truth every day and are guaranteed quarterly financial
+reporting which includes management’s certification as to its accuracy. Integral’s investors were
+not required to hold their shares until all of the misreported revenues were eventually earned
+such that Defendants could finally proclaim “no harm, no foul.”
+iii.
+
+Defendants Made a Conscious Choice to Prematurely
+Recognize Revenue
+
+Certain GAAP violations are more indicative of scienter than others: While “the failure
+to detect an inaccuracy” “could easily be inadvertent,” “violations involving the premature or
+inappropriate recognition of revenue suggest a conscious choice to recognize revenue in a
+manner alleged to be improper, and may therefore support a stronger inference of scienter.”
+Baan, 103 F. Supp. 2d at 21.18
+
+17
+
+In fact, the two cases cited by Defendants had minimal bottom line impacts. See In re
+Dell Inc. Sec. Litig., 591 F. Supp. 2d 877, 894-95 (W.D. Tex. 2008) (net income was reduced
+less than 1%); In re Allscripts, Inc. Sec. Litig., No. 00 C 6796, 2001 WL 743411, at *10 (N.D.
+Ill. June 29, 2001) (loss increased only 2%).
+18
+
+Several cases cited by Defendants are distinguishable on this very basis. See Hanger
+Orthopedic, 353 F.3d at 350-51 (failure to discover verbal revenue recognition policies of
+acquired company until six months after merger); In re Comshare, Inc. Sec. Litig., 183 F.3d 542,
+546 (6th Cir. 1999) (side letters issued by foreign subsidiary affected revenue recognition).
+
+- 24 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 32 of 49
+
+Here, as explained above, Defendants (save for Higginbotham), had prepared forecasts
+containing an expectation to recognize revenue on the GPS OCX contract over the course of the
+contract.
+
+As both Integral’s press release and Bambarger (during a conference call with
+
+investors) explained, the decision to immediately record the revenue came as a result of the
+negotiation of “favorable contract terms” which resulted in upfront delivery of the software
+licenses. Clearly, Defendants sought a way to accelerate GPS OCX revenue recognition. They
+were aware of their actions – and how those actions would affect the financial statements.
+With respect to the RAIDRS contract, Bambarger indicated that the government had
+made a specific request to prepay for the antennas that were going to be delivered and installed
+in 2009. (Compl. ¶ 74.) Thus, the issue of how to account for this large advance payment – $5.1
+million represented more than 11% of initially reported revenues of $44.9 million in Q2’08 (id.
+at ¶ 69) – which would not be earned as revenue until the next year, was placed squarely before
+Defendants. (Indeed, Bambarger described this transaction as the only “major significant event
+that would be out of the ordinary” in Q2’08. (Id. at ¶ 74.) In light of the admittedly unique
+nature of the transaction, Defendants either chose to recognize revenue prematurely or were
+reckless in not ensuring it was recorded in compliance with GAAP. Cf. Baan, 103 F. Supp. 2d at
+22 (inference of scienter arises when defendant is quoted in an article – as was Baldwin here,
+(Compl. ¶ 3), discussing compliance).
+
+- 25 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+iv.
+
+Filed 11/30/09 Page 33 of 49
+
+The Policy Violated Was Simple to Understand and
+Apply
+
+As opposed to cases where complex19 or cutting edge20 accounting issues are presented,
+the premature recognition of revenue in violation of well-established, simple rules gives rise to a
+strong inference of scienter. As explained in MicroStrategy, what such rules boil down to is
+compliance with the old adage, “don’t count your chickens before they hatch.” 115 F. Supp. 2d
+at 638. Here, this occurred on several items. Regarding the RAIDRS contract, SOP 81-1, ¶ 50,
+plainly states not to include expensive equipment in the percentage-of-completion calculation if
+it is not yet installed; Defendants admitted they violated this rule.21 (Compl. ¶ 91.) On the GPS
+OCX contract, Integral’s simple stated rule was, in accordance with SOP 81-1, to employ
+percentage-of-completion accounting in all instances where services and/or hardware were sold
+in addition to software; Defendants admitted they violated this rule. (Id. at ¶ 64.) With respect
+to off-the-shelf “software only” sales, the simple rule stated in Integral’s policy is not to
+recognize revenue before delivery; Defendants admitted they violated this rule. (Def. Mem. at
+16.)22
+19
+
+Merzin v. Provident Financial Group, Inc., 311 F. Supp. 2d 674, 676 (S.D. Ohio 2004),
+(Def. Mem. at 31-32), involved errors in a financial model created to predict income and
+expenses on nine auto lease securitization transactions; defendant’s outside auditor changed
+positions, reclassifying off-balance sheet operating leases as on-balance sheet direct finance
+leases. Id. at 682 n.2. Unlike here (with the exception of the PCS services policy), a
+disagreement later arose between two auditors. Id. at 682-83 & n.2. Here, three quarters of
+unaudited financial statements misapplied revenue recognition policies in place since Ernst &
+Young’s last tenure; the financial statements for 2006 and 2007, audited by Bernstein & Pinchuk,
+were not restated.
+20
+
+Inexplicably, Defendants devote several paragraphs trying to unfavorably compare this
+case to In re E.spire Commc’ns, Inc. Sec. Litig., 127 F. Supp. 2d 734 (D. Md. 2001), arguing,
+with respect to the GAAP violation, that scienter cannot arise where reading the GAAP rule is
+not sufficient to determine the proper accounting. (Def. Mem. at 32-33.) However, E.spire
+involved accounting for a new animal, “indefeasible rights of use” (“IRUs”) – long-term leases
+- 26 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 34 of 49
+
+Regarding the fourth category, citing Beaver County Ret. Bd. v. LCA-Vision Inc., No.
+1:07-CV-750, 2009 WL 806714 (S.D. Ohio Mar. 25, 2009), Defendants argue that a simple rule
+regarding recognition of warranty revenue may be difficult to apply, thereby failing to give rise
+to an inference of scienter. The policy applied in LCA with respect to lifetime warranty revenue
+on Lasik eye surgery was that it was to be initially deferred and recognized on a straight-line
+basis over the life of the warranty, unless LCA’s prior experience dictated otherwise. Id. at *19.
+Because both the rule and the underlying commitment (a lifetime warranty on a surgical
+of portions of a telecommunications company’s fiber optic network – and brand new GAAP
+concerning the passage of title under such arrangements. E.spire, 127 F. Supp. 2d at 738. As
+both the complex lease provisions and applicable GAAP were new and evolving, E.spire bears
+no resemblance to a case where the applicable GAAP provisions were authored in 1981 (SOP
+81-1) and 1997 (SOP 97-2).
+21
+
+Shockingly, Defendants argue that application of this rule was not simple because it is
+fact-intensive. (Def. Mem. at 30.) It is almost comical for Defendants to compare the very basic
+fact of whether a yet-to-be-delivered, multi-million dollar piece of equipment was or was not yet
+installed with facts in the cases cited. See In re Bristol-Myers Squibb Sec. Litig., 312 F. Supp. 2d
+549, 567 (S.D.N.Y. 2004) (proper revenue recognition would require knowledge of a customer’s
+carrying costs); In re Galileo Corp. Shareholders Litig., 127 F. Supp. 2d 251, 265 (D. Mass.
+2001) (in a case where there was no restatement, the question of whether there is a lack of
+reasonable assurance of collection is a judgment call based upon knowledge of customer’s
+finances). In E.spire, not only did the court find the underlying contracts to be complicated
+concerning the issue of title transfer, but the transactions at issue took place during the year in
+which the new GAAP pronouncement, FIN 43, was enacted. 127 F. Supp. 2d at 746-47.
+22
+
+Defendants even suggest that scienter must be negated due to purported complexity
+because they incorrectly applied the same basic rule on two separate occasions. (Def. Mem. at
+30-31.) To reach this conclusion, however, would be to reward Defendants simply because they
+blatantly utilized the wrong accounting treatment twice – an approach that is at odds with the
+underlying facts. By recognizing revenue on delivery of licenses on the GPS-OCX contract,
+Defendants violated Integral’s stated policy, which predetermined that significant customization,
+production or modification would occur where software was sold with services and/or hardware,
+requiring percentage-of-completion accounting. On off-the-shelf sales, Defendants violated the
+same stated policy, to wit, where significant customization does not occur, revenue is not
+recognized on a percentage-of-completion basis, but must await delivery. Also, while the results
+were wrong both times, they did not go in opposite directions – both resulted in premature
+revenue recognition.
+
+- 27 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 35 of 49
+
+procedure) was more complicated than Integral’s stated straight-line policy (which covered
+warranties no longer than 360 days), so was the application: the error made by LCA was in
+measuring the amount of deferred revenues it could recognize over certain time periods. Id.
+Here, in contrast, Defendants deferred none of the warranty revenue, recognizing all of it before
+it was earned, before the commencement of the warranty period.23
+v.
+
+A Misleading Description of the Reasons for a
+Restatement Gives Rise to an Inference of Scienter
+
+The description of the reasons for the Restatement given on December 11, 2008, was
+vague and only included three of the four categories of errors. A fourth category of error was
+included in the Form 10-K, two weeks later, along with an admission of material weaknesses in
+internal controls over Integral’s revenue recognition process. (Compl. ¶¶ 5(a)&(b), 134.) The
+SEC did not deem these explanations sufficient, however, and grilled Integral on a number of
+issues, inter alia, the dollar amounts of each error type and when the revenues were expected to
+be earned. On February 12, 2009, Integral responded to these questions, explaining the GAAP
+
+23
+
+Defendants try to get mileage from the fact that their stated PCS revenue recognition rule
+– which violated GAAP and needed to be changed – was publicly disclosed. (Def. Mem. at 15,
+34.) However, in In re Paincare Holdings Sec. Litig., No. 6:06-cv-362, 2007 WL 1229703, at *7
+n.8 (M.D. Fla. Apr. 25, 2007), scienter was negated because the incorrect policy also resulted in
+understatements of net income, a fact not present here. Also, the fact that Bernstein & Pinchuk
+gave Integral a clean audit opinion despite the fact that its PCS services revenue policy was not
+in compliance with GAAP is not dispositive of liability. See In re LDK Solar Sec. Litig., 584 F.
+Supp. 2d 1230 (N.D. Cal. 2008); Cheney v. Cyberguard Corp., No. 98-6879, 2000 WL 1140306, at
+*6 (S.D. Fla. July 31, 2000); Marksman Partners, L.P. v. Chantal Pharm. Corp., 927 F. Supp.
+1297, 1314 n.13 (C.D. Cal. 1996); see also Raytheon, 157 F. Supp. 2d at 149, 156; Holmes v.
+Baker, 166 F. Supp. 2d 1362, 1376-80 (S.D. Fla. 2001) (dismissing auditors but not corporation
+and officers). This is especially true, where, as here, the audited financial statements for 2006 and
+2007 were not restated.
+
+- 28 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 36 of 49
+
+provisions applied in the Restatement.24 (Id. at ¶ 5(c).) Only after the SEC urged Integral to
+share these details with investors did Integral include them in a public filing, the Q2’09 Form 10Q, filed five months after the Restatement was first announced. Even that filing contained new
+details not previously shared with the SEC. (Id. at ¶¶ 5(e), 64, 92.)
+The slow dribbling out of the truth, which, when viewed in light of the information
+finally provided in May 2009, demonstrates the blatant nature of the accounting errors, smacks
+of a cover-up. “[C]ommon sense dictates that actions taken after the fraud occurred can be
+circumstantial evidence that the defendant acted with the requisite state of mind.” SEC v. Lucent
+Techs., Inc., 363 F. Supp. 2d 708, 717 (D.N.J. 2005) (cover ups are indicative of scienter).
+2.
+
+Defendants’ False Sarbanes-Oxley Act Certifications Give Rise to a
+Strong Inference of Scienter
+
+“[T]he affixing of a signature is not a mere formality, but rather signifies that the signer
+has read the document and attests to its accuracy.” Howard v. Everex Sys., Inc., 228 F.3d 1057,
+1061 (9th Cir. 2000) (citation omitted). Thus, in promulgating the certification rules mandated
+by the Sarbanes-Oxley Act (“SOX”), the SEC warned that “[a]n officer providing a false
+certification potentially could be subject to . . . both Commission and private actions for violating
+Section 10(b) of the Exchange Act and Exchange Act Rule 10b-5.” SEC Release No. 8124, RIN
+3235-AI54, 2002 WL 31720215, at *9 (Aug. 28, 2002). Here, Baldwin, Higginbotham and
+Bambarger executed the company’s SOX certifications for the first three quarters of 2008,
+certifying that they inter alia, designed internal controls over Integral’s financial reporting to
+“provide reasonable assurance regarding the reliability of financial reporting and the preparation
+24
+
+Bambarger’s February 12, 2009 letter to the SEC did not state that Integral erroneously
+applied SOP 81-1, ¶39, or Accounting Standard Co5 in its initial accounting for these
+transactions – underscoring that these provisions were recently located, solely for this motion.
+
+- 29 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 37 of 49
+
+of financial statements for external purposes in accordance with generally accepted accounting
+principles.” These Defendants also certified that they disclosed all significant deficiencies and
+material weaknesses which are “reasonably likely to adversely affect the registrant’s ability to
+record, process, summarize and report financial information.”
+In the Form 10-K filed two weeks after the end of the Class Period, however, Defendants
+admitted that during the Restatement Period, Integral had material weaknesses over its internal
+controls with respect to (i) recognizing revenue in compliance with its stated policies;25 (ii)
+recognizing revenues in proper periods in accordance with “appropriate measures of progress
+towards completion”; (Compl. ¶ 134.)26 and (iii) properly allocating revenues to delivered and
+undelivered elements in a multiple-element revenue arrangements.27 Defendants also admitted
+that Integral did not have “an adequate level of skilled accounting resources,” specifically,
+“accounting personnel with an adequate level of knowledge and experience.” (Compl. ¶ 134.)
+Moreover, Integral expressly admitted that these deficiencies caused the material revenue
+misstatements. (Id.)
+Because of the increased level of oversight over financial reporting that management is
+expected to undertake and affirmatively guaranty, courts have held that the execution of false
+SOX certifications are a factor in determining whether, taken collectively, a complaint’s scienter
+25
+
+This refers to the off-the-shelf sales – clearly covered by SOP 97-2’s four-part test set
+forth in Integral’s stated policy – and the GPS OCX contract. As to the latter, the admission that
+stated policies were not followed yet again emphasizes the disingenuous nature of Defendants
+now trotting out SOP 81-1, ¶ 39, and claiming that Integral thought it properly recognized all of
+the license revenue in Q1’08 by “segmenting” the contract.
+26
+
+This refers to Integral’s failure to apply SOP 81-1, ¶ 50, to the advance equipment
+purchase reimbursements on the RAIDRS contract and the smaller commercial contract.
+27
+
+This refers to the premature recognition of warranty revenue before the running of 30-,
+60- and 360-day warranty periods.
+
+- 30 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 38 of 49
+
+allegations give rise to a strong inference of scienter. Backe v. Novatel Wireless, Inc., 607 F.
+Supp. 2d 1145, 1163 (S.D. Cal. 2009) (relevant factor); Croker v. Carrier Access Corp., No. 051011, 2006 WL 2038011, at *11 (D. Colo. July 18, 2006) (a factor to be considered “in the totality
+of the circumstances”). Defendants argue, unconvincingly, that there are no specific allegations of
+“red flags” indicating that they should have known about the admitted deficiencies when they
+executed the certifications.
+
+(Def. Mem. at 23-24.)
+
+To the contrary, under the unique
+
+circumstances of this case, the false SOX certifications were recklessly executed, giving rise to
+liability.
+First, the SOX certifications were executed in 2008, long after former officer Gary Prince
+was terminated in the wake of the SEC’s formal investigation into his role at Integral,
+specifically, whether he was acting as an accountant on Integral’s behalf before the SEC.
+Integral’s 2007 Form 10-K indicated that the Company was cooperating with the investigation,
+including responding to the SEC’s subpoena. (Def. Ex. A at 21.) In light of the high-profile
+nature of this investigation of Integral and several of its former officers, Defendants were aware
+of Prince’s importance to the Company. (Compl. ¶¶ 36-37 (2009 consent decree stated that
+Prince “trained and supported the inexperienced CFOs who succeeded him. . . . suggested how
+accounting entries should be handled. . . . prepared quarterly financial forecasts. . . . drafted the
+MD&A section of periodic filings . . . reviewed and edited the entirety of each filed periodic
+report.”).)28
+
+28
+
+Defendants appear to rely upon the facts that Prince was a discredited felon and that he
+left the year before the Class Period began to negate scienter. (Def. Mem. at 24.) To the
+contrary, despite his status as a felon, Integral was totally dependent upon Prince to be an
+accounting jack-of-all-trades for the Company – even hiding his role for years so that he could
+- 31 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 39 of 49
+
+Second, Defendants suggest that the allegation that Prince alerted them to incorrect
+revenue recognition by early 2008 was too vague to be credible as a “red flag” that there were
+possible internal control problems. (Def. Mem. at 24 (putting words in quotation marks to
+suggest that the allegation is trumped up).) However, the transcript of the December 11, 2008,
+conference call submitted in support of Defendants’ motion demonstrates that former director
+Bonnie Wachtel stated she had received an e-mail from Prince telling her that Integral was not
+listening to him when he warned Defendants (save for Higginbotham) that revenue recognition
+“over the quarters” was not being properly recorded. In December 2008, she recounted raising
+this issue during the February 2008 shareholders meeting. (Def. Ex. F at 14.) 29
+Third, in light of the Company’s complete reliance on Prince for these very types of
+determinations for so many years, Defendants specifically acknowledged in Class Period
+conference calls with investors (during which both Baldwin and Bambarger spoke) that Integral
+had needed to hire key senior accounting personnel – and that they had done so in Q1’08 and
+Q2’08. (Compl. ¶¶ 49, 76 (“we’ve been beefing up or busy building the staff in terms of . . .
+finance and accounting . . . [s]o there has been a lot of very talented people that have been
+continue doing it. The lack of competent accounting personnel that followed in the wake of his
+termination was admittedly still a problem during and after the Class Period.
+29
+
+To refute this red flag, Defendants may point to Wachtel’s statement that she was assured
+(in February 2008) that the outside auditors approved of the accounting at issue. Def. Ex. F at
+14. However, Defendants cannot shield themselves from liability by claiming that they relied
+upon Bernstein & Pinchuk’s advice. See In re New Century, 588 F. Supp. 2d 1206, 1231 (C.D.
+Cal. 2008) (in finding plaintiffs pled a strong inference of scienter “the fact that the [company’s]
+independent auditor may have approved the accounting methods will not shield [the officers] from
+liability for deception such methods may have caused” (citing Marksman Partners, 927 F. Supp. at
+1297)). Moreover, Defendants cannot specifically point to a clean audit opinion on the original
+accounting treatment for the restated items, id., as the restated quarters were not the subjects of
+formal audit opinions. In any event, as explained in n.23, above, when a company’s own
+accounting policy is violated, good faith reliance on outside auditors is not an available defense.
+
+- 32 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 40 of 49
+
+added.”).) In light of these facts, Defendants (save for Lee-Gallagher) recklessly executed the
+SOX certifications for each of the restated quarters.30
+Defendants weakly assert that scienter for their false SOX certifications is negated
+because the Company was in a period of “transition” (Def. Mem. at 34-35), with several
+defendants relatively new to the Company and/or their positions during the Class Period.31 Not
+only were Defendants keenly aware of the accounting deficiencies Integral faced when they took
+their positions (because of the Prince investigation), but Baldwin touted his expertise in the area
+of SEC reporting compliance. Defendants were highly paid executives who are supposed to be
+competent in their roles as stewards over the financial reporting of a public company; affording
+them immunity because they were just getting started would set a very dangerous precedent.
+
+30
+
+Defendants may try to argue on reply, as have others, that an admission of material
+weakness, indicating that prior SOX certifications were false, adds nothing to plaintiffs’
+allegations because restatements are routinely accompanied by such mea culpas. Not so. A
+study by former SEC Chief Accountant Lynn Turner of restatements filed in 2005 revealed that
+only one half of them also contained admissions of material weaknesses. (Friedman Decl. Ex. 5.,
+L.E. Turner & T.R. Weirich, A Closer Look At Financial Restatements: Analyzing the Reasons
+Behind the Trend, The CPA Journal (Dec. 2006), at 5.) In light of the fact that the SOX
+certifications are supposed to report conditions which might result in accounting errors, “there
+should be more companies reporting material weaknesses than restating.” (Id. at 2.) But the
+authors found the reverse to be true – leading them to conclude that “it appears the auditors may
+have been cutting companies some slack.” (Id.)
+31
+
+The weakness of the “in transition” argument is demonstrated by its lackluster support –
+the citation of only two cases following the signal “Cf.” The facts of both cases bear little
+resemblance to the instant action. BearingPoint, involved the malfunction of a new billing
+system while the company was trying to integrate 30 worldwide acquisitions and thousands of
+employees. 576 F.3d at 188. In In re Gildan Activewear, Inc. Sec. Litig., 636 F. Supp. 2d 261,
+273-74 (S.D.N.Y. 2009), plaintiffs alleged that defendants misrepresented that an acquisition had
+gone more smoothly than it had, using a loss of customers following abandonment of a business
+line as proof. The court noted that there was no evidence of when defendants should have been
+aware of the problem – presumably, what Defendants are referring to as a “transition” issue.
+Here, the complaint is replete with allegations of what Defendants knew concerning the gaping
+holes in Integral’s accounting resources – and when they knew it.
+
+- 33 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+3.
+
+Filed 11/30/09 Page 41 of 49
+
+The Complaint Alleges Individual Defendants’ Direct Involvement
+with the Specific Contracts and/or Accounting Principles at Issue
+
+Contrary to Defendants’ contention, the Complaint does not merely rely on the Individual
+Defendants’ positions within the Company to allege scienter. (Def. Mem. at 21-22.) Rather, the
+Complaint details each Individual Defendants’ duties, their direct involvement with the
+Company’s day-to-day affairs, and the Individual Defendants’ knowledge of and involvement
+with the specific contracts and/or the specific accounting practices at issue, all of which give rise
+to a strong inference of scienter. See Latham v. Matthews, Nos 6:08-cv-2995-RHB, 6:08-cv3183-RHB, 2009 WL 3052223, at *21 (D.S.C. Sept. 4, 2009) (finding an inference of scienter
+when the complaint alleged that defendants were “personally” or “intimately” involved with the
+activities that were the subject of the misleading statements); Ravisent, 2004 WL 1563024, at * 8
+(finding scienter where, inter alia, the complaint alleged that individual defendants with strong
+accounting backgrounds improperly recognized revenue under the applicable accounting rules).
+For example, with regard to Defendant Baldwin, who served as President, CEO, and a director of
+Integral during the relevant time, the Complaint alleges:
+•
+
+Baldwin boasted in a February 18, 2008 interview with the Washington Post that
+he had “a very strong background in accounting and in the public disclosure that’s
+required in running a public company;” (Compl. ¶ 3);
+
+•
+
+During two conference calls, Baldwin represented to investors that he and
+Defendant Bambarger had added additional key accounting and contract
+administration personnel to strengthen the Company’s accounting processes; (id. at
+¶¶ 49, 76); and
+
+•
+
+Baldwin personally signed Integral’s periodic reports filed on Form 10-Q on
+February 7, 2008, and May 7, 2008, and certified the Company’s financial results,
+sound internal controls, and that he was responsible for creating the internal
+controls in each of these reports. (Id. at ¶¶ 189, 190).
+
+- 34 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 42 of 49
+
+The allegations relating to Defendant Bambarger – who served as CFO and Treasurer of
+Integral during the relevant time period – also do not merely rely on his job description, but
+rather indicate his specific involvement in the accounting related to the contracts in question:
+•
+
+Bambarger was involved in adding accounting and contract administration
+personnel to strengthen the Company’s accounting processes; (id. at ¶¶ 49, 76,
+109(h));
+
+•
+
+On February 4, 2008, Bambarger indicated that the Company had initially planned
+to recognize revenue from the GPS OCX contract during the entire fiscal year, but
+later decided to recognize the revenue up-front; (id. at ¶ 48);
+
+•
+
+On April 28, 2008, Bambarger explained that there was “significant accelerated
+revenue” on the GPS OCX contract, which Integral initially had anticipated would
+be spread throughout 2008 and 2009 (the period of the contract); (id. at ¶¶ 74-75);
+
+•
+
+On April 28, 2008, Bambarger explained why Integral recorded revenue for the
+$5.1 million downpayment reimbursement on the RAIDRS contract; (id. at ¶ 74);
+
+•
+
+Bambarger was responsible for ensuring that Integral properly reported its
+financial statements, and personally signed all of Integral’s financial reports,
+including the Forms 10-Q filed on February 7, 2008, and May 7, 2008, and August
+7, 2008, and certified the Company’s financial results, sound internal controls, and
+that he was responsible for creating the internal controls in each of these reports;
+(id. at ¶¶ 203-204); and
+
+•
+
+Bambarger authored correspondence with the SEC concerning the Restatement.
+(Id. at ¶¶ 5(c)&(d).)
+
+Similarly, the Complaint makes further specific allegations regarding Defendants
+Higginbotham and Lee-Gallagher:
+•
+
+Higginbotham was CEO, President, and a director of Integral during the relevant
+time period and thus was responsible for ensuring that Integral properly reported
+its financial statements and the true nature of the Company’s internal controls and
+had a duty of oversight that required him to implement reporting or information
+systems or controls and review information related to Integral’s operations to be
+informed of risks; (id. at ¶ 199);
+
+- 35 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 43 of 49
+
+•
+
+Higginbotham personally signed Integral’s Form 10-Q on August 7, 2008 and
+certified the Company’s financial results, sound internal controls, and that he was
+responsible for creating the internal controls in that report; (id. at ¶ 198);32
+
+•
+
+Lee-Gallagher was the Controller of the Company during the relevant time period
+and thus was responsible for ensuring that Integral properly accounted for the
+Company’s revenues; (id. at ¶ 209); and
+
+•
+
+Lee-Gallagher personally signed all the Forms 10-Q filed on February 7, 2008, and
+May 7, 2008, and August 7, 2008. (Id. at ¶ 208.)
+
+These allegations of the Individual Defendants’ involvement with the specific contracts
+and/or the specific accounting practices at issue give rise to a strong inference of scienter. See
+Latham, 2009 WL 3052223, at *21.
+4.
+
+Financial Incentives and Insider Sales Create A Strong Inference of
+Scienter
+
+Allegations of insider trading contribute to an inference of scienter when the timing and
+amount of the trades are “unusual or suspicious.” In re Inspire Pharms., Inc. Sec. Litig., 515 F.
+Supp. 2d 631, 639 (M.D.N.C. 2007) (quoting Teachers’ Ret. Sys. v. Hunter, 477 F.3d 162,
+183 (4th Cir. 2007)); Microstrategy, 115 F. Supp. 2d at 643-44. When considering whether the
+timing of an insider’s sales is unusual, courts look at the defendant’s history and pattern of stock
+sales, as well as whether the sales were made near the high point of the stock’s sales price.
+Hunter, 477 F.3d at 184; E.spire, 127 F. Supp. at 743 (comparing trading patterns before class
+period with trading patterns during class period).
+Here, Baldwin exercised 29,235 options on August 4, 2008, and 25,765 options on
+August 5, 2008, thus exercising all of the options that were exercisable during the Class Period.
+32
+
+Higginbotham had come to Integral with the goal of “turning around a company he said
+had suffered from accounting lapses.” Peter B. de Selding, Satellite Company’s Chief Resigns
+Amid Lower Expectations, Space News, August 10, 2009 (http://www.space.com/news/090810busmon-integral-higginbotham.html). (Friedman Decl., Ex. 3.)
+
+- 36 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 44 of 49
+
+Def. Ex. O. Baldwin immediately sold those shares on the same days that he exercised the
+options, thereby selling 100% of his stock holdings during the Class Period. (Compl. ¶ 196;
+Def. Ex. O.) The timing of these sales was unusual, because Baldwin had never previously sold
+any Integral stock, but then exercised and sold all of his exercisable options within two days,
+making these sales out of line with his history of trading. (Id. at ¶ 196.) Additionally, Baldwin
+sold all of his shares for over $47 per share, near in both time and price to the Class Period high
+of $52.71 per share on August 14, 2008. (Id. at ¶ 3.) The timing of Baldwin’s stock sales is both
+unusual and timed to maximize his benefit, giving rise to a strong inference of scienter.
+In determining whether the size of an insider’s sale of stock is unusual, courts in this
+Circuit and elsewhere compare the number of shares sold to the insider’s total holdings and
+exercisable options available. E.spire, 127 F. Supp. at 743; Microstrategy, 115 F. Supp. 2d at
+645. Numerous courts have found that sales of all or a significant portion of an insider’s stock
+contribute to a strong inference of scienter. No. 84 Employer-Teamster Joint Council Pension
+Trust Fund v. Am. W. Holding Corp., 320 F.3d 920, 939 (9th Cir. 2003) (sales of 88-100% of
+shares are probative of scienter); Lefkoe v. Jos. A. Bank Clothiers, No. WMN-06-1892, 2009 WL
+3003247, at *7 (D. Md. May 1, 2009) (sales of 74% of shares create an inference of scienter); In
+re Proquest Sec. Litig., 527 F. Supp. 2d 728, 743 (E.D. Mich. 2007) (inference of scienter arises
+when CEO sold 100% of his stock shortly before retiring and continuing to serve on the board of
+directors); In re Focus Enhancements, Inc. Sec. Litig., 309 F. Supp. 2d 134, 163 (D. Mass. 2001)
+(sales of 37%, 83%, and 100% of insiders’ stocks create inference of scienter); Microstrategy,
+115 F. Supp. 2d at 646 (sales of 56-91% of shares at unusual time probative of scienter); New
+England Health Care Employees Pension Fund v. Fruit of the Loom, Inc., No. 1:98-cv-99-M,
+
+- 37 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 45 of 49
+
+1999 WL 33295037, at *9 (W.D. Ky. Aug. 16, 1999) (sales of 80-100% of shares probative of
+scienter). Here, Baldwin exercised options to sell 100% of the shares available to him during the
+Class Period; his actions are highly probative of scienter. (Compl. ¶ 196; Def. Ex. O.)
+Defendants’ argument that the timing of Baldwin’s sales near the time that he stepped
+down as CEO negates an inference of scienter overlooks the fact that Baldwin remained in a
+position of control even after stepping down as CEO. (Def. Mem. at 26-27.) After resigning as
+CEO, Baldwin continued to serve as President for an additional five months and as a director
+thereafter. (Compl. ¶ 15.) The cases cited by Defendants deal exclusively with insiders who –
+unlike Baldwin – left the defendant corporation.33 In contrast, where a defendant remains on as a
+director after stepping down from an executive position, heavy stock sales following the office
+resignation can be indicative of scienter. Proquest, 527 F. Supp. 2d at 743 (rejecting argument
+that sales following resignation from office negated scienter where former CEO continued to
+serve on the board of directors).
+Higginbotham’s eligibility for bonuses in the form of stock options also contributes to a
+strong inference of scienter. Courts around the country have held that eligibility for bonuses in
+the form of stock options is indicative of scienter when the determination of an award of a bonus
+is based primarily on the company’s financial performance. In re Cardinal Health Inc. Sec.
+Litig., 426 F. Supp. 2d 688, 737-38 (S.D. Ohio 2006) (finding an inference of scienter where an
+executive’s bonus was related to the defendant’s financial condition); Am. W. Holding, 320 F.3d
+at 944 (same). Here, Higginbotham was eligible for annual bonuses of stock options, including
+
+33
+
+See In re K-tel Int’l, Inc. Sec. Litig., 300 F.3d 881, 896 (8th Cir. 2002); Greebel v. FTP
+Software, Inc., 194 F.3d 185, 206 (1st Cir. 1999) (no inference of scienter where senior officers
+sold within months of leaving the company).
+- 38 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 46 of 49
+
+an annual bonus of 50,000 shares that was unique to his employment contract, as well as an
+additional bonus of up to 900,000 shares under the Company’s 2008 Stock Incentive Plan.
+(Compl. ¶¶ 200-201.) In fact, after only a month on the job, Integral awarded Higginbotham a
+bonus of 50,000 options under the 2008 Stock Incentive Plan. (Id. at ¶ 201.) The potential for
+obtaining these bonuses was closely tied to the performance of Integral’s stock, as explained by
+the Company: “Stock options are intended to align the interests of the Named Executive
+Officers with the interests of stockholders by tying a portion of executive compensation to longterm stock price appreciation.” (Friedman Decl. Ex. 6 at 28 (Proxy Statement, Form 14A, filed
+Jan. 21, 2009).) Therefore, the connection between Higginbotham’s bonus potential and the
+Company’s stock price is sufficient to give rise to a strong inference of scienter based on his
+motive to keep that price inflated. See Am. W. Holding, 320 F.3d at 944.
+Higginbotham’s failure to sell shares held under option during the Class Period does not
+negate an inference of scienter because he did not exercise those options. PEC Solutions, 418
+F.3d at 389 (an inference of scienter is negated when insiders actually exercise their options but
+do not sell shares during the class period). Bambarger’s and Lee-Gallagher’s failure to sell any
+stock during the Class Period similarly fails to negate an inference of scienter, as Defendants
+claim (Def. Mem. at 27), because neither held any stock during the Class Period.
+Defendants’ insistence that they were somehow personally harmed by inflated share
+prices during the Class Period – because the price of options granted at that time would also be
+inflated – is wholly without merit because they did not actually purchase any stock during the
+
+- 39 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 47 of 49
+
+Class Period. (See Def. Mem. at 27-28.)34 Thus, unlike class plaintiffs – who actually invested
+in Integral during the Class Period – any “harm” to Defendants is purely hypothetical. The fact
+remains that Defendants (save for Baldwin) were eligible for bonuses of up to 900,000 options
+under the 2008 Stock Incentive Plan (Compl. ¶¶ 201, 206, 210), which, as explained above,
+specifically linked the eligibility for the bonus to the stock price, thus giving them a motive to
+maintain an inflated stock price in order to profit from the options granted during the Class
+Period, and creating a strong inference of scienter. See Am. W. Holding, 320 F.3d at 944.35
+IV.
+
+PLAINTIFFS’ SECTION 20(A) AND 20A CLAIMS ARE ADEQUATELY PLED
+A claim for control person liability under Section 20(a) of the Exchange Act requires
+
+only that Plaintiffs allege a primary violation of the securities laws and control by the
+Defendants. Microstrategy, 115 F. Supp. 2d at 661. Plaintiffs have done so. (Compl. ¶¶ 182201.) For a Section 20A claim, Plaintiffs must allege: (i) a primary violation; (ii) that plaintiffs’
+purchase of defendant company’s stock was contemporaneous with an insider’s sales of stock;
+and, (iii) that damages are available under Section 20A. Id. at 661-62. Plaintiffs so allege. (Id.
+at ¶¶ 238-47.) Defendants’ only argument that there is no liability under Sections 20(a) and 20A
+is premised on the lack of an underlying 10(b) violation. (Def. Mem. at 35.) As Plaintiffs have
+
+34
+
+The cases cited by Defendants concerned individuals who owned stock but did not sell it
+during the class period. See Shuster v. Symmetricom, Inc., 35 Fed. App’x 705, 707 (9th Cir.
+2002) (noting that the defendants “actually lost money”); Grillo v. Tempur-Pedic Int’l, Inc., 553
+F. Supp. 2d 809, 821-22 (E.D. Ky. 2008) (noting the decline in value in defendants’ holdings).
+35
+
+The fact that Higginbotham, Bambarger, and Lee-Gallagher did not sell any stock during
+the class period does not negate the strong inference of scienter created by Baldwin’s cash-out of
+all his stock. A strong inference of scienter may be sufficiently alleged against all defendants
+where one defendant sold a large portion of his stock and others sold none. Lefkoe, No. WMN06-1892, 2007 WL 6890353, at *6 (D. Md. Sept. 10, 2007).
+
+- 40 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 48 of 49
+
+demonstrated above that there is an underlying 10(b) violation, liability is proper under Sections
+20(a) and 20A.
+V.
+
+CONCLUSION
+For all of the foregoing reasons, Defendants’ motion to dismiss should be denied in its
+
+entirety.
+
+In the alternative, should the Court find any infirmity in the allegations of the
+
+Complaint, Plaintiffs request leave to amend. See Fed R. Civ. P. 15(a)(2). The Fourth Circuit
+has stated that “leave to amend shall be freely given when justice so requires” in order to “give[]
+effect to the federal policy in favor of resolving cases on their merits instead of disposing of
+them on technicalities.” BearingPoint, 576 F.3d at 193 (internal quotations omitted).
+
+Dated: November 30, 2009
+
+Respectfully submitted,
+COHEN MILSTEIN SELLERS & TOLL PLLC
+By: /s/ ANDREW N. FRIEDMAN
+ANDREW N. FRIEDMAN (Bar No. 14421)
+1100 New York Avenue, N.W.
+Suite 500, West Tower
+Washington, D.C. 20005
+afriedman@cohenmilstein.com
+Telephone:
+(202) 408-4600
+Facsimile:
+(202) 408-4699
+GLANCY BINKOW & GOLDBERG LLP
+LIONEL Z.GLANCY (pro hac vice)
+1801 Avenue of the Stars, Suite 311
+Los Angeles, California 90067
+Telephone: (310) 201-9150
+Facsimile:
+(310) 201-9160
+Co-Lead Counsel for the Putative Class
+[additional counsel on next page]
+
+- 41 -
+
+Case 8:08-cv-03387-RWT Document 21
+
+Filed 11/30/09 Page 49 of 49
+
+LAW OFFICES OF HOWARD G. SMITH
+HOWARD G. SMITH
+3070 Bristol Pike, Suite 112
+Bensalem, PA 19020
+Telephone: (215) 638-4847
+Facsimile:
+(215) 638-4867
+Attorney for Plaintiff
+
+- 42 -
+
+

@@ -1,0 +1,350 @@
+Case 1:08-cv-03065-JSR Document6 ~~ Filed 04/02/2008 Page 1 of 26
+
+UNITED STATES DISTRICT COURT
+
+SOUTHERN DISTRICT OF NEW YORK
+wee ee ee ee ee ee we eH ee ee ee ee ee eae ee He eH x
+
+KENNETH KRYS and CHRISTOPHER STRIDE as
+Joint Official Liquidators of SPHINX LTD., et al.,
+
+Plaintiffs, > Index No. 08 Civ. 3065
+
+-against-
+
+CHRISTOPHER SUGRUE, et al.,
+
+Defendants. .
+ee ee ee ey x
+
+MEMORANDUM OF LAW IN SUPPORT OF
+DEFENDANT BAWAG'S MOTION TO REFER
+COUNTS XXIV, XXV, AND XXVII OF THE COMPLAINT
+AS ALLEGED AGAINST BAWAG TO BANKRUPTCY COURT
+
+DECHERT LLP
+
+30 Rockefeller Plaza
+
+New York, New York 10112
+(212) 698-3500
+
+Attorneys for Bank fur Arbeit und
+Wirtschaft und Osterreichische
+Postsparkasse Aktiengeselischaft
+Case 1:08-cv-03065-JSR Document6 ~~ Filed 04/02/2008 Page 2 of 26
+
+ 
+
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORITIES 00.0... ee cecesceesseseeeveeeeeeeeseescsenecsesesenseseeseecnecaesenasseeenssueceseseesanenseed ii
+PRELIMINARY STATEMENT 0.00... ccceseesesevecseesseesessvenseasenseaevessenssesseseessaesessereesecenensensracoes 1
+STATEMENT OF FACTS 20... cecsecsccseeseeeseesesesecseesseacacnecseasneacasenseaseasseansensaseeesseseaneaazansenseasses 4
+A. The Refco Bankruptcy Cases... cece ccc eceteeseeaecseeeeeseeaceeseaeeesesesascaaeeaeeenseanees 4
+B. The BAWAG Settlement ..0... cece cece ceneeneencaneseeecneesaesaeeseesaeesseeeensenesatees 5
+C. The Refco Plan And The Confirmation Order... eseeesseeceerterseeeeeneensensenees 7
+D. -- The SPhInX Action... eeesceeceesceeseeeeeeeeseneceeseseeeescseseseseeeceauesaeseuseecueteseseeeenseneens 9
+ARGUMENT ....0. ee ecceecnereeceseseesveevessenessenseevevseesvesseensersesevesseecueesesavecsessessuesavessevnensvesnessssesesesaeer(R) 11
+I. PLAINTIFFS' CLAIMS ARE CORE MATTERS BECAUSE THEY
+ARISE UNDER TITLE 11 OR ARISE IN A CASE UNDER TITLE 11.0.0... 11
+A. BAWAG's Right To Protection From "Claims Over" Is A Core Matter.............. 13
+B. Plaintiffs' Claims Against BAWAG Are Property Of The Refco Estates............. 14
+1. The Nature Of Plaintiffs' Claims Demonstrates That They
+Are Property Of The Refco Estates ........cccceeeceeeeecneceeeeeeseeseeneeeeesaneeeeetease 15
+2. The "Alter Ego" Nature Of The Claims Makes Them
+Property Of The Refco Estates soossannanesvnsssscnecenecnnennsanuavossocencensessegnneanananssesss 17
+C. The BAWAG Settlement, The Plan, And The Confirmation Order
+Bar Plaintiffs' Claims 2.00.0... esesscesessesceesesneaseeseeesersenssscnereeceveevecserseseeaseeseneneres 18
+Il. PLAINTIFFS' CLAIMS AGAINST BAWAG ARE RELATED TO
+THE REFCO BANKRUPTCY CASES .ooiocccceccececeeececeeseceeeeeeeeaceaaeeaeeeneeseeaeeseseaeeneeteee(R) 19
+CONCLUSION... ceesecsecesceeveesererecseaseaesanecessecesesseseeasvavesessaseeaseaensseeseaseeesassessvacsecseasgenscasvens 21
+Case 1:08-cv-03065-JSR Document6 ~~ Filed 04/02/2008 Page 3 of 26
+
+ 
+
+TABLE OF AUTHORITIES
+Page
+CASES
+
+Alliance Commce'ns Group, Inc. v. Northern Telecom, Inc.,
+
+65 B.R. 581 (S.D.N.Y. 1986)... csesecescnssecssneneeterssrsesscsssersensessstrssseeseesansenssnscsceneersseaes 12
+In re Betty Qwens Schs., Inc.,
+
+No, 96-3576, 1997 U.S. Dist. LEXIS 5877 (S.D.N.Y. Apr. 17, 1997) oo. eeeeeeeeeeeeeeees i4
+Centennial & Allegheny Univ. Hosps.-East Tenet Healthsystem Phila., Inc. v.
+
+Nat'l Union of Hosp. & Health Care Employees,
+
+383 F.3d 169 (3d Cir, 2004)... ccc ccecceceeeseeseeseeeeescesanseesaeeeesaecsesneeaeeseeaesaeenecaseaeesansanaes 14
+Central Vt. P.S.C. v. Herbert,
+
+341 F.3d 186 (2d Cir. 2003)... cece cteseeseeseeseeaeesesseeseeseseeaseaeeeeeeeneaseees 15, 17, 18, 20
+Certain Underwriters at Lloyd's v. ABB Lummus Global, Inc.,
+
+No. 03-7248, 2004 U.S. Dist. LEXIS 1486 (S8.D.N.Y. Feb. 5, 2004)... cee 20
+In re Colonial Realty Co.,
+
+980 F.2d 125 (2d Cir. 1992)... esccescnecnseeseeseeseessnecosscescraseesresteeereseeeteegeigeseaeeasevanenees 15
+Drexel Burnham Lambert Group, Inc. v. Vigilant Ins. Co.,
+
+130 B.R. 405 (S.D.NCY. 199] ce ccccscessenseeneeseresecnesessenversearassnesassssssseassasensenscnseraseeaes il
+Hariow v. Palouse Producers, Inc.,
+
+56 B.R. 794 (B.A-P. 9th Cir. 1985)... cc ecesceseesseeeseensanseeseeseceesseeaesaseaceaesaecaecaeeaeeaeeaeeees 14
+Jamaica Shipping Co. v. Orient Shipping Rotterdam, B.V.,
+
+No. 04-6482, 2005 U.S. Dist. LEXIS 21553 (S.D.N.Y. Sept. 30, 2005)... ec ceeeeeereeees 14
+Kalb, Voorhis & Co. v. American Fin. Corp.,
+
+8 F.3d 130 (2d Cir. 1993)... cccssssesceserseceeceescsseceseeseceesansseceseeaesseaseeesseacnessesseeneensanneesseass 17
+Luan Inv, SE. v. Franklin 145 Corp.,
+
+304 F.3d 223 (2d Cir. 2002)... cc cccccssessecsseceeseaseaeteececseeateaneaceaecneseassasseeneeseeaeeaeeaeaes 12, 14
+in re Methyl Tertiary Butyl Ether Prods. Liab. Litig.,
+
+341 F. Supp. 2d 386 (S.D.N-Y. 2004). eee ceesteeneerseeeeeeeeecnscanseaeeeesensensgessseesnenanens 11
+Nat'l Am. Ins. Co. v. Ruppert Landscaping Co.,
+
+187 F.3d 439 (4th Cir, 1999) ooo ceccenencnseteereeerseresseneenettereessedsierisssnssneseeecnseiseeneenenes 16
+
+ii
+Case 1:08-cv-03065-JSR Document6 ~~ Filed 04/02/2008 Page 4 of 26
+
+Orion Pictures Corp. v. Showtime Networks Inc.,
+139 B.R. 785 (S.D.N.Y. 1992)... ceccscssseecessteetsssecseseeseseraeneenssseneaeatearensseedesneseresseeseess 12
+
+Osanitsch v. Marconi PLC,
+363 B.R. 361 (S.D.N.Y. 2007) (Lynch, J.) eee ccceseseesceereneceeceaeeeseeeenseecaeeeneeneateaes 11, 14
+
+Rahl v. Bande,
+316 B.R. 127 (S.D.N VY. 2004) cece ceceeceeeeeneceeensaeeaeesaesecesaeesesesaneneeeaecanseaeeaeeeeeeaeteees 20
+
+St. Paul Fire & Marine Ins. Co. v. PepsiCo, Inc.,
+884 F.2d 688 (2d Cir. 1989)... eeccceccesseeeecseeeeeseescaeeseseasenescsecesenseneesneensesesseeceaeeeaees 16, 17
+
+Sobchack v. Am. Nat'l Bank & Trust Co.,
+17 F.3d 600 (2d Cir. 1994). ccc cssssseseeeeerscsneassseceseesseesseseeseeaueasseseseseneesneeeseees 16
+
+Tenn. Student Assistance Corp. v. Hood,
+541 U.S, 440 (2004)... cece ceeceeeecaecnueeecaceseceaaeaaeaaaesacessesassaaeaaeeseesaesassasenseteaereetoaes 11
+
+Tortogs, Inc. v. Ins. Co. of N. Am.,
+No. 93-1739, 1993 U.S. Dist. LEXIS 12134 (S.D.N.Y. Sept. 1, 1993)... ssscecssenerererees 12
+
+U.S. v. Whiting Pools, Inc.,
+462 U.S. 198 (1983) ..occccccccccccsessesseeseesceaeeaessessesseaseaseeaneaeesesseseassaesaenesseessecseeaneaseateaesaesanes 14
+
+Universal Oil Ltd. v. Allfirst Bank,
+419 F.3d 83 (2d Cir. 2005)... eeeeerteecneeceeerersene res sensnecseeestiesseesesesneneeseresee saa 11, 14,19
+
+Winstar Holdings, LLC v. Blackstone Group L.P.,
+
+No. 07-4634, 2007 U S. Dist. LEXIS 90482
+(S.D.N-Y. Dec. 10, 2007) (Lynch, J.) seccccsscsssssscssssssessecssccecsssssssvasesesssessusceesesenesseensensverseee 19
+
+DOCKETED CASES
+
+BAWAG vy. Refco Ine., et al. (In re Refco Inc.),
+Adv. Pro. No. 05-03161 (RDD) (Bankr. $.D.N.Y.) (Drain, J.) cssccssssssssssesssssscsesssssseesenees 5
+
+Krys, et al, v. Sugrue, et al.,
+No. 08 Civ. 3086 (S.D.NCY.) ooececccecsssseessesceeseseseneeeceescneseacneseneseeseneseacuesenesarseneosacneeeseetaeas 10
+
+In re Refco Inc., et al.,
+
+Case No. 05-60006 (RDD) (Jointly Administered)
+(Bankr. S.D.NCY.) (Drain, Jo)... eee eceeeeceeceseneeeeseseaeeeaseasesaseaeenee reesaeesensenseesvessrenseeereses 1
+
+il
+Case 1:08-cv-03065-JSR Document6 ~~ Filed 04/02/2008 Page 5 of 26
+
+STATUTES AND RULES
+LL U.S.C. 0x00A7 362... .cscccssesescsssenceeseesesesesesesesesesneneesesssessaeseneassecsuensesnscacassaaseatsasnecavansasseaseanes 8, 15, 18
+11 UVS.C. 0x00A7 S40 Ca) CL). ceeeeececcecescscseecesesceenseensaeseseeacsesseansesavassenseessecseacsevavsceecseresvanseeensessseeasesensaras 14
+11 U.S.C. 0x00A7 1123(a)(5)ccssecssccscsssssssvseesssssssvssssecesessssssesssssessessssssuasecessesssssussiessessssssnssensecsearsssnveneesee 20
+TL] U.S.C. 8 Ld 4D eee cc cceeeseeseerseecseneseseeeeeeseneanssaesseeanensesesceauenesansssesssseseceseeseaeseatsaunesavasnens 7
+2B US .C. 0x00A7 UST oececccsccessssscssesseesesesseseecseessesencaeseneesescseseaesssessesnssescaasssesanensessssaaseseseessaessasvasseesaraseees 1
+28 U.S.C. 0x00A7 157 (a) vececcecesseccsecsesceececcseseesesecenseaesenssseesseaenenansevecssuesecatseseesessseavessvessesavenverseaseneneseees 12
+2B U.S.C. 0x00A7 15 7D) cecceccccccecsseesesesseeeeeeecesseasaeseeeeescaesencaenesseenscaescacaasesseenasaessaesaensesenaseagsseeensenaves 11
+28 U.S.C. 0x00A7 15 7(D)(2) .oeeeceeceecceccseccecteeereesesesecscueeeseessnevesseaseenseesnereaseeeneecsesseesesessseseaasenesacsessees 3,13
+QB U.S.C. 0x00A7 1S7(B)(Q)(A) sesecsssvssvececcssssecssssssssvessssseuesseceeesscsssssssssnssuavecerstsssssssssesvesssnsutseusesseeeeeeanen 13
+28 U.S.C. 0x00A7 157(D)(2)B) ooeeeeccceccescesceceeeseceesesceceaeenecaessseeaeasnenseveecsesuansaseeseseenseaseetseavarseeaeacaeees 13
+28 U.S.C. 0x00A7 157(D)(2)(O) oe eeeeseccresceeceeeeeerencesseeesesessescsassnesscesseacsassunseuecessaseedsscssesessseerenseneteeees 13
+28 U.S.C. 0x00A7 IS7(D)(B) .ceccctecesecenercesseeeeeesescsesceseeeeeeesesesescneeeecatsnsessnaaueeesacaseassnavessassesnsarenneests 3, 13
+28 U.S.C. 0x00A7 1334 oc cccceeeceseesseeceeeeessaeeesneesseneeeseaeeneneeceeaeaeseeenesaesseaeaessaesnesasessaseassanasannesesenessey 11
+28 U.S.C. 0x00A7 1334(a) oc. cececccseccesescenssesesncseseesssescescssecesesesseaceaacsenesesscsacanserseaseesneaceatsesseaeneranseeaens 11
+28 U.S.C. 0x00A7 13340) 0. cccsescseseseseresssseecececsessesesecesesectsesesseceseeceeaeaesasseateensessaenensnecseassensenseesees 11,19
+28 U.S.C. 0x00A7 1334 (GD) eee ceeceeeceeseeeseeceesesereseseeenseansesescecaneseeenseasacseseesaeasanpeaseaseeasenssanseasressenens 1
+28 ULS.C. 0x00A7 1452 (a) oeeccececcscssenseenscsnenncanenseevseseesaeesseaenereeseneeeeeesesesansssssnessecsnecanseissneaeaueneneaees 3,10
+Federal Rules of Bankruptcy Procedure Rule 9019.00... .ccsseccerceescesceetneeerssceseeseesseaasaaseneeeneeaseanes 7
+OTHER AUTHORITIES
+
+July 10, 1984 standing order of reference to bankruptcy judges
+signed by then-Acting Chief Judge Robert J. Ward 0... eset ess teeceneeeseeneenscens 1,12
+
+iv
+Case 1:08-cv-03065-JSR Document6 ~ Filed 04/02/2008 Page 6 of 26
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+eee eee ee ee ee ee eee eee ee ee ee ee eee ee ee ee ee xX
+
+KENNETH KRYS and CHRISTOPHER STRIDE as
+Joint Official Liquidators of SPHINX LTD., ecent al,
+
+Plaintiffs, : Index No. 08 Civ. 3065
+
+-against-
+
+CHRISTOPHER SUGRUE, ecent al,
+
+Defendants. .
+we ee ne ee ee ee ee een xX
+
+MEMORANDUM OF LAW IN SUPPORT OF
+DEFENDANT BAWAG'S MOTION TO REFER
+COUNTS XXIV, XXV, AND XXVIII OF THE COMPLAINT
+AS ALLEGED AGAINST BAWAG TO BANKRUPTCY COURT
+Defendant Bank fiir Arbeit und Wirtschaft und Osterreichische Postsparkasse
+
+Aktiengesellschaft ("BAWAG"), by and through its attorneys, Dechert LLP, respectfully submits
+this memorandum of law in support of its motion for an order, pursuant to 28 U.S.C. 0x00A7 157 and
+the July 10, 1984 standing order of reference to bankruptcy judges of then-Acting Chief Judge
+Robert J. Ward (the "Standing Order of Reference"), referring Counts XXIV, XXV, and XXVII
+of the complaint in this action as alleged against BAWAG to the United States Bankruptcy Court
+
+for the Southern District of New York (Drain, J.) (the "Bankruptcy Court").
+
+PRELIMINARY STATEMENT
+This case arises from the well-publicized collapse of Refco Inc. and its affiliates
+(collectively, "Refco"), and their subsequent chapter 11 filings. See in re Refco Inc., et al., Case
+No. 05-60006 (RDD) (Jointly Administered) (Bankr. $.D.N.Y.) (the "Refco Bankruptcy Cases").
+Because the claims asserted against BAWAG by plaintiffs Kenneth Krys and
+
+Christopher Stride, as Joint Official Liquidators of the SPhinX family of funds and a number of
+Case 1:08-cv-03065-JSR Document6 ~~ Filed 04/02/2008 Page 7 of 26
+
+other affiliated entities (collectively, "SPhinX") implicate core matters of bankruptcy jurisdiction
+relating to the enforcement and interpretation of Bankruptcy Court orders entered in connection
+with the Refco Bankruptcy Cases, this case should be referred to the Bankruptcy Court for
+adjudication.
+
+As detailed below, in May 2006, BAWAG paid the Official Committee of Unsecured
+Creditors of Refco (the "Committee") in excess of $400 million and waived its claim for euro350
+million (approximately $470 million) as part of a comprehensive settlement of all claims and
+potential claims asserted in an adversary proceeding arising out of BAWAG's former
+management's dealings with Refco (the "BAWAG Settlement"). An essential part of the
+bargained for consideration in the BAWAG Settlement was a comprehensive and global release
+of all claims against BAWAG, as well as "Claim Over" protection from potential claims for
+contribution or reimbursement from third parties who had settled or who might settle in the
+future with Refco. The BAWAG Settlement was so ordered by the Bankruptcy Court (Drain, J.),
+and its terms were incorporated into Refco's confirmed chapter 11 plan of reorganization (the
+"Plan") and the December 15, 2006 order confirming the Plan (the "Confirmation Order"). The
+BAWAG Settlement affords BAWAG "exclusive jurisdiction" in the bankruptcy court for any
+action seeking to enforce or to interpret its terms, "including any issues relating to Claims Over."
+Brick Aff. Exh. A.'
+
+In direct contravention of the "so ordered" BAWAG Settlement, including its "(Claim
+Over" ban, SPhinX commenced this action against BAWAG (and more than fifty other
+defendants) in New York State Supreme Court (the "Supreme Court") in an attempt to recover
+
+the $263 million it voluntarily paid to the Refco bankruptcy estates (the "Refco Estates") to settle
+
+ 
+
+1 "Brick Affidavit" or "Brick Aff." refers to the Affidavit of Brian H. Brick, sworn to April 2, 2008,
+and submitted herewith in support of BAWAG's motion.
+Case 1:08-cv-03065-JSR Document6 ~~ Filed 04/02/2008 Page 8 of 26
+
+a preference action brought by the Committee against SPhinX shortly after the commencement
+of the Refco Bankruptcy Cases (the "Preference Action"). On March 26, 2008, BAWAG
+removed those claims asserted against it by SPhinX to the United States District Court for the
+Southern District of New York pursuant to 28 U.S.C. 0x00A71452(a), and now seeks to refer such
+claims to the Bankruptcy Court. Because SPhinX's attempt to recover from BAWAG the
+amount it paid the Refco Estates to settle the Preference Action constitutes a "Claim Over" - in
+direct violation of the BAWAG Settlement, as well as the Plan and the Confirmation Order -
+plaintiffs' claims against BAWAG implicate core bankruptcy jurisdiction and must properly be
+adjudicated by the Bankruptcy Court. See 28 U.S.C. 0x00A7 157(b)(2). (Point .A.) Referral of the
+claims against BAWAG to the same Bankruptcy Court judge before whom the Refco
+Bankruptcy Cases are pending is proper because, inter alia, it is the bankruptcy judge who is
+directed to determine whether proceedings are core or non-core. See 28 U.S.C. 0x00A7 157(b)(3).
+Alternatively, even were SPhinX's claims not a disguised "Claim Over" against
+BAWAG within the meaning of the BAWAG Settlement, those claims are nonetheless property
+of the Refco Estates and, as such, are plainly within the core jurisdiction of the Bankruptcy
+Court. None of the claims asserted by SPhinX against BAWAG are specific to SPhinX, and the
+alleged injuries SPhinX suffered were no different than the injuries suffered by Refco's
+numerous other creditors. Moreover, SPhinX's claims are very similar to the claims that were
+asserted and settled by the Committee against BAWAG. And, to the extent SPhinX has alleged
+that BAWAG is responsible for Refco's wrongdoing because BAWAG controlled Refco or was
+its "alter ego," it is well settled that such claims belong to the Refco Estates and not to individual
+
+creditors. (Point I.B.)
+Case 1:08-cv-03065-JSR Document6 ~~ Filed 04/02/2008 Page 9 of 26
+
+In addition, plaintiffs' attempt to prosecute claims that are the property of the Refco
+Estates runs afoul of the explicit release and injunction provisions of the BAWAG Settlement,
+the Plan, and the Confirmation Order, which, inter alia, release BAWAG from all claims
+belonging to Refco and from all claims relating to Refco that could have been asserted by or on
+behalf of Refco - including pursuant to principles of alter ego - and enjoin prosecution of any
+action asserting claims or liabilities released pursuant to the Plan. For this reason too, plaintiffs'
+claims constitute core matters appropriately within the Bankruptcy Court's jurisdiction. (Point
+LC.)
+
+Finally, and in the alternative, even were this Court not to find core bankruptcy
+jurisdiction, plaintiffs' claims are indisputably "related to" the Refco Bankruptcy Cases. The
+outcome of this proceeding will likely have a direct and substantial effect on the Refco
+Bankruptcy Cases insofar as questions conceming the interpretation and enforcement of the
+BAWAG Settlement, the Plan, and the Confirmation Order are directly relevant to - and will
+directly impact - the debtors' nights and the administration of the Refco Estates. (Point IL.) For
+all of these reasons, and as set forth herein, plaintiffs' claims against BAWAG should be referred
+
+to the Bankruptcy Court.
+STATEMENT OF FACTS
+
+A. The Refco Bankruptcy Cases
+
+Shortly after Refco's August 2005 initial public offering, certain Refco employees
+discovered a $430 million inter-company receivable that had been improperly disguised during
+the ends of Refco's fiscal reporting periods to look like a receivable owed by an unrelated third
+party (the "RGHI Receivable"). In reality, the receivable was owed by an unconsolidated but
+
+affiliated entity, Refco Group Holdings, Inc. ("RGHT"'), which was controlled by Phillip Bennett,
+Case 1:08-cv-03065-JUSR Document6 ~ Filed 04/02/2008 Page 10 of 26
+
+Refco's chief executive officer ("Bennett"). When the receivable was discovered, Bennett
+sought - and received - a loan from BAWAG for euro350 million in an attempt to repay the
+receivable.
+
+Despite Bennett's efforts, Refco quickly spiraled toward collapse, and on October 15,
+2005, Refco filed voluntary petitions for relief under chapter 11 of the Bankruptcy Code in the
+Bankruptcy Court.
+
+On November 16, 2005, BAWAG commenced an adversary proceeding in the Refco
+Bankruptcy Cases, Adv. Pro. No. 05-03161 (RDD) (the "Adversary Proceeding"), against Refco
+and other parties alleging that Refco and Bennett had fraudulently procured the euro350 million
+loan from BAWAG. On April 17, 2006, the Committee intervened in the Adversary Proceeding
+and asserted counter-claims against BAWAG on behalf of the Refco Estates seeking to recover
+(i) allegedly fraudulent transfers totaling at least $1.325 billion that had been transferred to
+BAWAG from various Refco entities in the pre-petition period, and (ii) damages arising out of
+BAWAG?'s alleged aiding and abetting of breaches of fiduciary duty by Bennett. Brick Aff. Exh.
+
+G; see also BAWAG v. Refco Inc., et al., Adv. Pro. No. 05-03161 (RDD) (Bankr. $.D.N.Y.).
+
+B. The BAWAG Settlement
+
+The Committee and BAWAG entered into a comprehensive settlement that included a
+resolution of all of their respective claims and potential claims in the Adversary Proceeding in
+May 2006. The BAWAG Settlement, executed by the parties on June 2, 2006 in the form of a
+
+stipulation, was approved by Judge Drain of the Bankruptcy Court in a July 6, 2006 Order."
+
+ 
+
+Judge Drain's July 6, 2006 order approved the BAWAG Settlement "as if entered by the Court" but
+made a few changes to the terms of the settlement that are not relevant here. Thus, all terms of the
+BAWAG Settlement material to the issues set forth herein were adopted by the Bankruptcy Court as
+set forth in the BAWAG Settlement. Brick Aff. Exh. B.
+

@@ -1,0 +1,793 @@
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF DELAWARE
+ICONTROL NETWORKS, INC., a Delaware
+corporation,
+Plaintiff,
+v.
+ZONOFF, INC., a Delaware corporation,
+Defendant.
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+C.A. No.: 1:15-cv-01109-GMS
+JURY TRIAL DEMANDED
+
+ICONTROL’S OPPOSITION TO ZONOFF’S
+MOTION TO DISMISS AND FOR A MORE DEFINITE STATEMENT
+
+OF COUNSEL:
+James C. Yoon
+Ryan R. Smith
+Christopher D. Mays
+Mary A. Procaccio-Flowers
+WILSON SONSINI GOODRICH & ROSATI, P.C.
+650 Page Mill Road
+Palo Alto, CA 94304-1050
+650-493-9300
+
+Dated: February 16, 2016
+
+Richard K. Herrmann (I.D. No. 405)
+Mary B. Matterer (I.D. No. 2696)
+MORRIS JAMES LLP
+500 Delaware Avenue, Suite 1500
+Wilmington, DE 19801
+(302) 888-6800
+rherrmann@morrisjames.com
+mmatterer@morrisjames.com
+Attorneys for Plaintiff Icontrol Networks, Inc.
+
+TABLE OF CONTENTS
+Page
+I.
+
+INTRODUCTION .............................................................................................................. 1
+
+II.
+
+NATURE AND STAGE OF THE PROCEEDINGS ......................................................... 2
+A.
+
+Procedural History of this Action. .......................................................................... 2
+
+B.
+
+Zonoff Refuses to Negotiate a Case Schedule. ....................................................... 2
+
+III.
+
+SUMMARY OF THE ARGUMENTS ............................................................................... 3
+
+IV.
+
+STATEMENT OF RELEVANT FACTS ........................................................................... 4
+A.
+
+Zonoff’s Knowledge of the Asserted Patents ......................................................... 4
+
+B.
+
+The Complaint Pleads Substantial Facts For Willful Infringement. ....................... 5
+
+V.
+
+LEGAL STANDARDS ...................................................................................................... 6
+
+VI.
+
+ARGUMENT ...................................................................................................................... 7
+A.
+
+The Complaint Sufficiently Pleads Willful Infringement. ...................................... 7
+
+B.
+
+Zonoff’s Request To Strike Icontrol’s Damages Claim Is Improper. ................... 12
+
+C.
+
+Zonoff’s Motion For A More Definite Statement Should Be Denied. ................. 14
+
+VII.
+
+SHOULD THE COURT BE INCLINED TO GRANT DEFENDANT’S
+MOTION, THE COURT SHOULD GRANT PLAINTIFF LEAVE TO AMEND ......... 18
+
+VIII.
+
+CONCLUSION ................................................................................................................. 19
+
+-i-
+
+TABLE OF AUTHORITIES
+Page(s)
+CASES
+Bear Creek Techs., Inc. v. Vonage Holdings Corporation, et al.,
+Case No. 11-cv-723-GMS (D.I. 22) (D. Del. Sep. 27, 2012) ............................................16
+Bell Atl. Corp. v. Twombly,
+550 U.S. 544 (2007) .........................................................................................................7, 8
+Brinkmeier v. Graco Children’s Prods.,
+767 F. Supp. 2d 488 (D. Del. 2011) .....................................................................................8
+CFMT, Inc. v. Yieldup Int’l Corp.,
+No. 95-549-LON, 1996 U.S. Dist. LEXIS 22795 (D. Del. Apr. 5, 1996) .........................14
+Clouding IP LLC v. Amazon.com Inc., et. al.,
+Case No. 1-12-cv-00641-LPS (D.I. 11 (complaint) & 56 (order))
+(D. Del. May 24, 2013) ......................................................................................................16
+Crown Packaging Tech., Inc. v. Rexam Beverage Can Co.,
+559 F.3d 1308 (Fed. Cir. 2009)....................................................................................12, 13
+Dole v. Arco Chem Co.,
+921 F.2d 484 (3d Cir. 1990)...............................................................................................18
+Dunlap v. Schoefeld,
+152 U.S. 244 (1894) ...........................................................................................................13
+Erickson v. Pardus,
+127 S. Ct. 2197 (2007) .........................................................................................................7
+Foman v. Davis,
+371 U.S. 178 (1962) ...........................................................................................................18
+In Re Bill of Lading Transm’n and Processing Sys. Patent Litig.,
+681 F.3d 1323 (Fed. Cir. 2012)............................................................................................6
+In re Katz Interactive Call Processing Patent Litig.,
+821 F. Supp. 2d 1135 (C.D. Cal. 2011) .............................................................................13
+In re Seagate Tech., LLC,
+497 F.3d 1360 (Fed. Cir. 2007)..........................................................................................12
+
+-ii-
+
+IpLearn LLC v. Beeline Acquisition Corp., et. al.,
+Case No. 1-11-cv-00825-RGA (D.I. 15 (complaint) & 172 (order))
+(D. Del. Jul. 2, 2012)..........................................................................................................16
+Jackson v. Intel Corp,
+No. 09 C 2178, 2009 WL 2851742 (N.D. Ill. Aug. 31, 2009) .....................................13, 14
+Laitram Corp. v. Hewlett-Packard Co., Inc.,
+806 F. Supp. 1294 (E.D. La. 1992) ....................................................................................13
+Mark IV Indus. Corp. v. Transcore, L.P.,
+Civ. No. 09-418-GMS, 2009 U.S. Dist. LEXIS 112069
+(D. Del. Dec. 2, 2009) ........................................................................................................16
+Maxwell v. Baker,
+86 F.3d 1098 (Fed. Cir. 1996)............................................................................................13
+McZeal v. Sprint Nextel Corp.,
+501 F.3d 1354 (Fed. Cir. 2007)..........................................................................................16
+Netgear Inc. v. Ruckus Wireless Inc.,
+Civ. No. 10-999-SLR, 2013 U.S. Dist. LEXIS 35686
+(D. Del. Mar. 14, 2013)........................................................................................................7
+Oracle Am., Inc. v. Google Inc.,
+No. C 10-03561 WHA, 2011 WL 5576228 (N.D. Cal. Nov. 15, 2011) ............................13
+Phillips v. AWH Corp.,
+415 F.3d 1303 (Fed. Cir. 2005)..........................................................................................13
+Schaedler v. Reading Eagle Pub’n, Inc.,
+370 F.2d 795 (3d Cir. 1967)...............................................................................................14
+Sealant Sys. Int'l, Inc. v. TEK Global S.R.L.,
+No. 5:11-CV-00774-PSG, 2014 WL 1008183 (N.D. Cal. Mar. 7, 2014) ..........................13
+Sentry Protection Prods. Inc. v. Eagle Mfg. Co.,
+400 F.3d 910 (Fed. Cir. 2005)..................................................................................7, 11, 13
+SoftView LLC v. Apple Inc.,
+No. 10-389-LPS, 2012 U.S. Dist. LEXIS 104677 (D. Del. July 26, 2012) .......................11
+Texas Digital Systems, Inc. v. Telegenix, Inc.,
+308 F.3d 1193 (Fed. Cir. 2002)..........................................................................................13
+
+-iii-
+
+Unova Inc. v. Hewlett-Packard,
+No. CV 02-3772 ER, 2006 WL 5434534 (C.D. Cal. Feb. 16, 2006).................................13
+Walker Digital LLC v. Facebook, Inc.,
+852 F. Supp. 2d 559 (D. Del. 2012) .....................................................................................7
+Wilkerson v. New Media Tech. Carter Sch., Inc.,
+522 F.3d 315 (3d Cir. 2008).................................................................................................7
+Xpoint Techs., Inc. v. Microsoft Corp.,
+730 F. Supp. 2d 349 (D. Del. 2010) .............................................................................14, 16
+STATUTES
+35 U.S.C. § 287 ........................................................................................................................12, 13
+RULES
+Federal Rule of Civil Procedure 8 ...................................................................................................8
+Federal Rule of Civil Procedure 9(b) ...............................................................................................8
+Fed. R. Civ. P. 11 .......................................................................................................................8, 10
+Federal Rule of Civil Procedure 12(b)(6) ..................................................................................6, 13
+Federal Rule of Civil Procedure 12(e) ...........................................................................................14
+Rule 16 ...........................................................................................................................................17
+MISCELLANEOUS
+Icontrol Networks, Inc. v. Zonoff, Inc., Case No. 1:14-cv-01199 .......................................... passim
+
+-iv-
+
+I.
+
+INTRODUCTION
+Plaintiff Icontrol Networks, Inc. (“Icontrol”), by and through its attorneys, respectfully
+
+submits this Opposition to Defendant Zonoff, Inc.’s (“Zonoff”) Motion to Dismiss Plaintiff’s
+Complaint (“Compliant”) and for a More Definite Statement (“Motion”).1 Zonoff’s Motion
+incorrectly applies the law regarding pleading pre-suit damages and willful infringement.
+Notably, the Court recently addressed and rejected similar arguments from Zonoff in a copending case. On July 31, 2015, in Icontrol Networks, Inc. v. Zonoff, Inc., Case No. 1:14-cv01199 (“the 1199 Action”), the Court denied Zonoff’s request to dismiss Icontrol’s claims for
+pre-suit damages as premature. The instant Motion should be denied for similar reasons.
+Zonoff’s Motion underscores the competition between it and Icontrol. The companies
+compete for customers on a head-to-head basis. The competition is so fierce, Zonoff described
+its competition with Icontrol as the “battle to become Home OS.” Given this intense
+competition, it is not surprising that Icontrol became aware, and accordingly pled, that Zonoff
+monitors Icontrol’s press releases including those relating to patents that Icontrol asserts in this
+litigation.
+Icontrol’s Complaint includes sufficient facts to support a claim for willful infringement.
+Specifically, Icontrol pled facts from which the Court may plausibly infer that Zonoff had presuit knowledge of the Asserted Patents. In its complaint, Icontrol alleges that Zonoff (1) directly
+monitored Icontrol’s patent portfolio, including by monitoring Icontrol’s press releases regarding
+its patents; (2) received information directly from Icontrol regarding each Asserted Patent; and
+(3) specifically visited Icontrol’s website where its patents are prominently displayed. Taken
+1
+
+All references to Zonoff’s Motion refer to the Memorandum of Points and Authorities filed
+at D.I. 9.
+
+-1-
+
+together, Icontrol’s allegations reasonably support the inference that Zonoff had knowledge of
+the Asserted Patents prior to this litigation.
+Zonoff’s motion for a more definite statement should also be denied because it is an
+inappropriate vehicle to obtain Icontrol’s identification of asserted claims. By virtue of its
+Default Standard for Discovery Including Electronically Stored Information (“ESI”) (“Default
+Standard”), the District of Delaware has established procedures for identifying and narrowing
+asserted claims early in litigation through a combination of technical document production by a
+defendant and service of infringement contentions by a plaintiff. There is no justification for
+deviating from this Court’s procedures for the identification of asserted claims. The motion for
+more definite statement should be denied.
+II.
+
+NATURE AND STAGE OF THE PROCEEDINGS
+A.
+
+Procedural History of this Action.
+
+Icontrol brought this Action on November 30, 2015, against its competitor, Zonoff, after
+analyzing Zonoff’s competing products and reviewing Zonoff’s public statements. Icontrol’s
+Complaint alleges that Zonoff directly and indirectly infringes three Icontrol patents: United
+States Patent Nos. 7,633,385 (“the ’385 patent”), 7,956,736 (“the ’736 patent”), and 9,141,276
+(“the ’276 patent”) (collectively, the “Asserted Patents”). D.I. 1 (Complaint). Zonoff responded
+by moving to dismiss Icontrol’s claims, Icontrol’s pre-suit damages theories, or for a more
+definite statement. D.I. 11. Zonoff’s Motion is nearly identical to one it filed in the 1199
+Action. See D.I. 18. Zonoff’s motion filed in the 1199 Action was denied. See D.I. 58.
+B.
+
+Zonoff Refuses to Negotiate a Case Schedule.
+
+On February 9, 2016, Icontrol asked whether Zonoff cared to discuss a case schedule,
+including deadlines for the identification of asserted claims and the exchange of contentions.
+Exh. 1. In response, Zonoff stated that such a discussion would not be practicable until after the
+
+-2-
+
+pleadings are closed. Id. Zonoff did not cite any authority in support of this position, and
+declined to acknowledge the Default Standard, which sets forth specific time frames for the
+identification of asserted patent claims. Id.
+III.
+
+SUMMARY OF THE ARGUMENTS
+The Complaint meets and exceeds the applicable pleading standards. Moreover, the
+
+Motion misstates and misapplies the appropriate legal standards:
+1.
+
+The Complaint alleges facts sufficient to plausibly show (a) Zonoff’s knowledge
+
+of each Asserted Patent and (b) its continued infringement of each Asserted Patent despite an
+objectively high likelihood that its actions constituted infringement.
+2.
+
+Zonoff’s request to strike Icontrol’s pre-suit damages claim is improper and has
+
+already been rejected by this Court in an earlier-filed litigation. By statute, upon a finding of
+infringement, Icontrol is entitled to damages “in no event less than a reasonable royalty.”
+Zonoff’s argument that the Complaint does not plead compliance with the marking statute fails
+because no such affirmative duty exists.
+3.
+
+Zonoff’s request for a more definite statement should be denied. Icontrol’s
+
+Complaint clearly sets forth claims for direct, induced, contributory, and willful infringement to
+which Zonoff can frame a responsive pleading. Moreover, Icontrol is not required to plead the
+infringement of any particular claim of any Asserted Patent at this stage. Indeed, this Court has
+established clear procedures in which Icontrol must identify the claims it believes are infringed
+after receiving Zonoff’s core technical documents, and Zonoff’s request circumvents those
+procedures by seeking to require Icontrol to specify which claims it contends are infringed in its
+complaint, before receiving Zonoff’s core technical documents.
+For these reasons, discussed more fully below, Icontrol requests that the Court deny
+Zonoff’s Motion.
+-3-
+
+IV.
+
+STATEMENT OF RELEVANT FACTS
+A.
+
+Zonoff’s Knowledge of the Asserted Patents
+
+The Complaint establishes that Zonoff “either had actual knowledge of the Asserted
+Patents and/or their respective applications prior to this action or willfully blinded itself to the
+existence of those patents.” Compl. ¶ 14. Icontrol alleges that Zonoff obtained knowledge of the
+Asserted Patents, or willfully blinded itself to their existence, in several ways:
+
+
+Zonoff competes with Icontrol, leading it to research Icontrol’s patent portfolio.
+
+Compl. ¶¶ 14-16 and 19. Competition between the two companies is fierce; on at least one
+occasion, they have directly vied for the same large customer account. Id. at ¶ 16. For example,
+on May 15, 2015, the online consumer electronics website CEPro published an article
+memorializing an interview with the home security company ADT. In this article, CEPro
+reported that its industry sources indicated that ADT, currently an Icontrol customer, had hired
+Zonoff as ADT’s “new [Smart Home as a Service] provider.” Id. at ¶ 13.
+
+
+Zonoff attended the same or similar public functions, including at least one
+
+instance where Zonoff’s Mike Harris and Icontrol founder Reza Raji appeared together on an
+internet podcast called “NextMarket” to discuss home automation technology—an aspect of the
+Asserted Patents. Compl. ¶ 15.
+
+
+Zonoff visited the Icontrol website that displays the Asserted Patents. Id. at ¶¶
+
+
+
+Zonoff monitored Icontrol’s patent litigation filings. Id. at ¶¶ 20-21.
+
+
+
+Zonoff monitored Icontrol’s press releases, including Icontrol’s public
+
+18-19.
+
+announcement that the USPTO had issued judgment in a pending interference proceeding and
+awarded the claims of one of the Asserted Patents to Icontrol. Id. at ¶ 20.
+
+-4-
+
+
+
+On account of earlier-filed litigation between the parties, Zonoff investigated
+
+Icontrol, Icontrol’s litigation history, and Icontrol’s patent portfolio. Conpl. at ¶¶ 17-23.
+
+
+In the earlier-filed litigation, Icontrol produced documents related to the Asserted
+
+Patents, including publicly-available patent prosecution files. Id. at ¶ 22.
+
+
+Zonoff read certain industry publications referencing Icontrol as one the “best
+
+known companies providing interactive wireless software platforms to the security and cabletelecom industries.” Id. at ¶¶ 23.
+B.
+
+The Complaint Pleads Substantial Facts For Willful Infringement.
+
+In its Complaint, Icontrol brings claims for direct, induced, contributory, and willful
+infringement. Icontrol alleges that Zonoff has infringed and currently infringes the Asserted
+Patents by making, using, selling, offering to sell, selling, or importing products that practice the
+subject matter of the Asserted Patents (the “Accused Products”), software that takes the form of
+either finished software applications (under, for example, Zonoff’s “Zonoff Software” or
+“Zonoff app” brands), or a software development kit (under, for example, Zonoff’s “Open
+Device Software Development Kit”) that Zonoff makes, uses, sells, offers to sell, or imports.
+Compl. ¶¶ 11-12.
+The Complaint also pleads facts related to Zonoff’s inducement of third party direct
+infringers (including retailers such as Staples, service providers, consumer electronics OEMs,
+and system integrators) by, among other things, advertising the infringing products and their
+infringing use; establishing distribution channels for these infringing products in the United
+States; drafting, distributing or making available datasheets, instructions, or manuals for the
+Accused Products to Zonoff’s customers and prospective customers; and/or providing technical
+support or other services for the Accused Products to Zonoff’s customers and prospective
+
+-5-
+
+customers. Id. at ¶¶ 29, 38, 47. The Complaint also pleads that Zonoff took these actions in full
+knowledge of each Asserted Patent and did so with the specific intent to induce one or more third
+parties to infringe each Asserted Patent. Id.
+The Complaint further pleads facts related to Zonoff’s contributory infringement of third
+party direct infringers. The Complaint alleges that Zonoff sells components that are material to
+each Asserted Patent to third parties who directly infringe each Asserted Patent by making,
+using, or selling products incorporating these components. Compl. ¶¶ 29, 38, 47. The Complaint
+alleges that these components are especially made or adapted for use in infringing each Asserted
+Patent because they are not staple articles of commerce suitable for substantial non-infringing
+use and have no use apart from making or using the claimed inventions. Id. at ¶¶ 31, 40, 49. The
+Complaint further pleads that Zonoff is aware of the infringing uses to which these components
+are put. Id. at ¶¶ 32, 41, 50.
+Finally, the Complaint alleges that Zonoff, with knowledge of the Asserted Patents and
+the risk of infringement, acted despite an objectively high likelihood that its actions constituted
+infringement of the Asserted Patents. Id. at ¶¶ 24-25, 28-32, 37-41, and 46-50. For each
+Asserted Patent, the Complaint includes language indicating at least one claim that Icontrol
+believes is directly infringed. Compl. ¶¶ 28, 37, 46.
+For the reasons discussed below, Icontrol has adequately pled claims for willful
+infringement and pre-suit damages.
+V.
+
+LEGAL STANDARDS
+In reviewing a motion to dismiss filed under Federal Rule of Civil Procedure 12(b)(6),
+
+the Court must “construe the complaint in the light most favorable to the plaintiff, accept its
+allegations as true, and draw all reasonable inferences in favor of the plaintiff.” In Re Bill of
+Lading Transm’n and Processing Sys. Patent Litig., 681 F.3d 1323, 1331 (Fed. Cir. 2012). A
+-6-
+
+patentee need not “prove its case at the pleading stage,” but must plead only ‘“enough factual
+matter’ that, when taken as true, ‘state[s] a claim to relief that is plausible on its face.” Id. at
+1339, 1331 (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570 (2007)). “The issue is not
+whether a plaintiff will ultimately prevail,” Wilkerson v. New Media Tech. Carter Sch., Inc., 522
+F.3d 315, 318 (3d Cir. 2008), but whether the complaint gives the defendant fair notice of what
+the claim is and the grounds upon which it rests. Erickson v. Pardus, 127 S. Ct. 2197, 2200
+(2007).
+As discussed below, the Complaint exceeds these standards.
+VI.
+
+ARGUMENT
+Zonoff’s Motion seeks to dismiss Icontrol’s willful infringement claim and Icontrol’s
+
+claim for pre-suit damages. Zonoff’s motion also seeks a more definite statement of Icontrol’s
+claims requiring Icontrol to identify which of the Asserted Patents’ claims Icontrol contends
+Zonoff infringes. Each issue is addressed in turn and, for the reasons articulated below, the
+Motion should be denied.
+A.
+
+The Complaint Sufficiently Pleads Willful Infringement.
+
+Zonoff’s motion to dismiss the Complaint as to Icontrol’s willful infringement claims
+must fail.
+In order to state a claim for willful infringement, a party must allege that the accused
+infringer (1) knew of the asserted patents and the risk of infringement; and (2) continued to
+infringe those patents. Sentry Protection Prods. Inc. v. Eagle Mfg. Co., 400 F.3d 910, 918 (Fed.
+Cir. 2005); Netgear Inc. v. Ruckus Wireless Inc., Civ. No. 10-999-SLR, 2013 U.S. Dist. LEXIS
+35686, at *3-4 (D. Del. Mar. 14, 2013). Walker Digital LLC v. Facebook, Inc., 852 F. Supp. 2d
+559, 567-68 (D. Del. 2012) (denying motion to dismiss where the complaint alleged knowledge
+of the patent and continuing infringement).
+
+-7-
+
+Here, Zonoff is incorrect that the Complaint lacks sufficient allegations as to Zonoff’s
+knowledge of the Asserted Patents. On the contrary, the Complaint demonstrates that Zonoff
+knew of the Asserted Patents2 and the risk of infringement, but continued its infringing activities:
+First, the Complaint alleges that that “Zonoff first obtained knowledge of the Asserted
+Patents prior to this action through the instances of direct competition between Icontrol and
+Zonoff as well as the numerous interactions between the two companies.” Compl. at ¶ 15. The
+Complaint enumerates several examples, including Zonoff’s public characterizations of Icontrol
+as a competitor in the “battle to become Home OS.” Id. Icontrol also alleges that Zonoff and
+Icontrol are both members of the Z-Wave Alliance, and that Zonoff has attended the same or
+similar public functions as Icontrol, including at least one instance when Zonoff’s Mike Harris
+and Icontrol founder Reza Raji appeared together on an internet podcast called “NextMarket” to
+discuss home automation technology—an aspect of the Asserted Patents. Id. Finally, the
+Complaint alleges that Icontrol and Zonoff have directly competed for one more customer
+accounts, and based on that process, Zonoff learned of the Asserted Patents. Id. at ¶¶ 12-13, 16.
+Furthermore, Icontrol alleges that as part of this direct competition, Zonoff independently
+learned of the Asserted Patents by visiting Icontrol’s website, “where at least the ’385 and ’736
+patents are, and have been, prominently displayed,” as shown below. Compl. ¶¶ 18-19.
+
+2
+
+As Zonoff’s Motion correctly states, pleading “on information and belief” is permissible
+after Iqbal/Twombly. Motion at 7-8; see also Fed. R. Civ. P. 11. Thus, Icontrol’s allegations of
+certain facts “on information and belief” satisfy the pleading requirements under Federal Rule of
+Civil Procedure 8. The case Zonoff cites is inapposite—in it, the court not only approves of the
+use of pleading “on information and belief,” but analyzes its use in pleading fraud under the
+heightened pleading standard set forth Federal Rule of Civil Procedure 9(b). See Motion at 8,
+citing Brinkmeier v. Graco Children's Prods., 767 F. Supp. 2d 488, 496 (D. Del. 2011).
+
+-8-
+
+See www.icontrol.com/patents/
+
+Icontrol also alleges that Zonoff independently learned of the third patent-in-suit, the
+’276 patent, because, as part of its competitive analysis, “Zonoff monitors Icontrol’s press
+releases regarding its patent portfolio.” Compl. ¶ 20. As part of its monitoring activities,
+“Zonoff learned of Icontrol’s public announcement, made September 22, 2015, that the USPTO
+had issued judgment in a pending interference proceeding and awarded the claims of the ’276
+patent to Icontrol.” Id. at ¶ 20.
+
+-9-
+
+Second, the Complaint alleges that Zonoff learned of the Asserted Patents during the
+course of the 1199 Action. Id. at ¶¶ 17-18. Not only does Icontrol allege that, as part of its Rule
+11 investigative activities, Zonoff visited Icontrol’s website (where Icontrol lists its issued
+patents and pending patent applications) and undertook research into Icontrol’s portfolio, but that
+Zonoff learned of the Asserted Patents by reviewing documents produced in the 1199 Action.
+Compl. ¶¶ 18, 22. The Complaint alleges that the’385 and ’736 patents were produced as early
+as February 2015 in the 1199 Action. Id. at ¶ 22. Prosecution files related to the ’276 patent
+were also produced.3 Id.
+Third, and finally, Icontrol alleges that Zonoff independently learned about the Asserted
+Patents on account of a patent infringement lawsuit brought by Icontrol on July 10, 2013, against
+other competitors in the space, Alarm.com Inc. and Frontpoint Security Solutions LLC. Id. at ¶
+21. This litigation involved patents related to at least some of the Asserted Patents. Id. For
+example, U.S. Patent No. 8,350,694, at issue in the Alarm.com, Inc. litigation, was also subject
+to the interference proceeding involving the ’276 patent. In the 1199 Action, Icontrol produced
+all of the documents it had previously produced to Alarm.com Inc. and Frontpoint Security
+Solutions LLC. Compl. ¶ 22. Moreover, Zonoff was aware, at least as of 2014, of a publication
+naming Alarm.com and Icontrol Networks as two of the “best known companies” in the space.
+Id. at ¶ 23.
+Zonoff argues that the Court should look at these allegations in isolation and that each is
+insufficient alone to establish Zonoff’s knowledge of the Asserted Patents. See Motion at 7-14.
+
+3
+
+Given that, in the context of a motion to dismiss, the allegations in the complaint are
+accepted as true, whether the documents were in fact produced is not at issue. See Motion at 1011. Moreover, patents and patent prosecution files are publicly available, and therefore would
+not be subject to a protective order.
+
+-10-
+
+This argument necessarily fails; Icontrol’s allegations must be considered in context. SoftView
+LLC v. Apple Inc., No. 10-389-LPS, 2012 U.S. Dist. LEXIS 104677, at *17 (D. Del. July 26,
+2012) (denying a motion to dismiss, where, taken in combination, the court concluded that the
+plaintiff alleged a plausible basis from which one might reasonably infer that the defendant had
+knowledge of the patent-in-suit prior to the litigation). The combination of all of Icontrol’s
+allegations—that Zonoff competed with Icontrol for customer accounts, that Zonoff read
+industry reports and Icontrol’s press releases about its patents, that Zonoff visited Icontrol’s
+website where its patents are prominently displayed, that Zonoff had access to documents,
+including public patents and patent prosecution files, related to the Asserted Patents through
+litigation with Icontrol, that Zonoff attended the same and similar public functions, that Zonoff
+participated in the same or similar industry groups (like the Z-Wave Alliance), that Zonoff was
+aware of litigation involving patents related to the Asserted Patents—is sufficient to establish a
+plausible basis from which one could infer that Zonoff had knowledge of Asserted Patents prior
+to the litigation.
+Moreover, Zonoff misconstrues the standard, arguing in its Motion that these facts are not
+sufficient to show “actual knowledge.” Motion at 7-8. This is the standard for pleading induced
+infringement, not willful infringement. Rather, to state a claim for willful infringement, a patent
+holder must plead that the infringer had “knowledge of the patent and his infringement.” Sentry
+Protection Prods., 400 F.3d at 918 (finding the single allegation that the defendant’s
+“infringements have been willful and with full knowledge of the” asserted patents sufficient to
+necessarily infer knowledge and state a claim). To the extent Zonoff challenges Icontrol’s
+claims of induced infringement, this Court has already resolved this issue in Icontrol’s favor in
+
+-11-
+
+its July 31, 2015 Order Denying Zonoff’s Motion to Dismiss in the 14-1199 case. See Order,
+(D.I. 58) at 1 n.1.
+Finally, Icontrol alleges, that armed with knowledge of the Asserted Patents, Zonoff
+acted despite an objectively high likelihood that its actions constituted infringement of Icontrol’s
+patents. Compl. ¶ 25. This allegation is sufficient to survive a motion to dismiss. The record in
+this proceeding will establish that the risk was either known to Zonoff or so obvious that it
+should have been known. In re Seagate Tech., LLC, 497 F.3d 1360, 1371 (Fed. Cir. 2007).
+Accordingly, Zonoff’s motion should be denied as to willful infringement.
+B.
+
+Zonoff’s Request To Strike Icontrol’s Damages Claim Is Improper.
+
+Zonoff argues, in direct contradiction to the statutory requirement that a patentee be
+awarded damages upon a finding of infringement, that Icontrol’s entire claim for damages be
+dismissed. This Court already rejected this argument in the 1199 Action:
+Finally, Zonoff argues that Icontrol’s claim for damages should be dismissed
+because the Amended Complaint does not allege that Icontrol’s products
+complied with the “marking” statute, 35 U.S.C. § 287. The court rejects Zonoff’s
+position. At the very least, Zonoff had actual notice of infringement as of
+September 16, 2014, the date of filing of the original complaint. Thus, as Zonoff
+appears to acknowledge in its reply brief, only pre-suit damages (and not all
+damages) are perhaps barred. Moreover, Icontrol points out that the notice
+requirements imposed by § 287 do not apply to all patented inventions. See
+Crown Packaging Tech., Inc. v. Rexam Beverage Can Co., 559 F.3d 1308, 1316
+(Fed. Cir. 2009) (“The law is clear that the notice provisions of § 287 do not apply
+where the patent is directed to a process or method.”). The court therefore sees no
+reason to dismiss claims for pre-suit damages at this stage when the extent of
+Icontrol’s overall damages will be assessed in any event at a later time.
+Order, (D.I. 58) at 1 n.1.
+Similarly here, Zonoff offers no authority or justification for dismissing Icontrol’s claim
+for pre-suit damages. Zonoff’s argument that Icontrol must affirmatively plead compliance with
+the marking statute (35 U.S.C. § 287) is misplaced. That statute addresses does not address
+pleading requirements, and does not impose an affirmative duty on a plaintiff to plead
+
+-12-
+
+compliance. See Sentry Protection Products, 400 F.3d at 918 (holding that patentee did not
+waive claim for damages by failing to plead compliance with the marking statute). Further, the
+marking statute only applies to “[p]atentees, and persons making, offering for sale, or selling
+within the United States any patented article for or under them, or importing any patented article
+into the United States.” 35 U.S.C. § 287(a). Where a patentee’s products do not practice the
+patent, or where the claim is directed to a process or method, no marking or notice obligation is
+triggered. See Texas Digital Systems, Inc. v. Telegenix, Inc., 308 F.3d 1193, 1220 (Fed. Cir.
+2002) (marking requirement inapplicable “where there are no products to mark”) (disapproved
+on other grounds in Phillips v. AWH Corp., 415 F.3d 1303, 1319-24 (Fed. Cir. 2005)); Crown
+Packaging, 559 F.3d at 1316 (“[t]he law is clear that the notice provisions of § 287 do not apply
+where the patent is directed to a process or method”).4 Moreover, § 287’s text clarifies that its
+requirements, to the extent they apply at all, only apply to pre-suit damages because the “[f]iling
+of an action for infringement shall constitute such notice.” 35 U.S.C. § 287(a). Whether the
+marking statute applies and was complied with are factual issues to be resolved at summary
+judgment or trial, not now.5
+
+4
+
+Zonoff’s statement that “the patentee in an infringement case has the burden of ‘pleading
+and proving at trial’ that it complied with the [marking] requirement of 35 U.S.C. §287” is not
+wholly accurate. Motion at 15. Some courts place the burden first on the accused infringer to
+come forward with proof that the patentee sold or offered for sale a “patented product”, and only
+upon that threshold showing does the burden shift to the patentee to show compliance with the
+marking statute. See Laitram Corp. v. Hewlett-Packard Co., Inc., 806 F. Supp. 1294, 1296 (E.D.
+La. 1992); Sealant Sys. Int'l, Inc. v. TEK Global S.R.L., No. 5:11-CV-00774-PSG, 2014 WL
+1008183, at *1 (N.D. Cal. Mar. 7, 2014); Oracle Am., Inc. v. Google Inc., No. C 10-03561
+WHA, 2011 WL 5576228, at *1 (N.D. Cal. Nov. 15, 2011); In re Katz Interactive Call
+Processing Patent Litig., 821 F. Supp. 2d 1135, 1158-59 (C.D. Cal. 2011); Unova Inc. v.
+Hewlett-Packard, No. CV 02-3772 ER, 2006 WL 5434534, at *1 (C.D. Cal. Feb. 16, 2006).
+5
+
+None of Zonoff’s cited authority supports its arguments. Dunlap v. Schoefeld, 152 U.S.
+244, 248 (1894), and Maxwell v. Baker, 86 F.3d 1098, 1111 (Fed. Cir. 1996), both addressed
+damages awards from a final judgment. Further, in Jackson v. Intel Corp, No. 09 C 2178, 2009
+WL 2851742, at *2 (N.D. Ill. Aug. 31, 2009), the court converted a Rule 12(b)(6) motion into a
+(continued...)
+-13-
+
+C.
+
+Zonoff’s Motion For A More Definite Statement Should Be Denied.
+
+The Court should deny Zonoff’s alternative motion for a more definite statement as to
+Icontrol’s indirect infringement claims because the Complaint is sufficiently definite to enable
+Zonoff to Answer the Complaint, and because Zonoff refuses to avail itself of this Court’s
+default procedures for identifying and narrowing patent claims.
+Federal Rule of Civil Procedure 12(e) allows a party to move for a more definite
+statement when a pleading is “so vague or ambiguous that a party cannot reasonably be required
+to frame a responsive pleading.” Schaedler v. Reading Eagle Pub’n, Inc., 370 F.2d 795, 797 (3d
+Cir. 1967); see also Xpoint Techs., Inc. v. Microsoft Corp., 730 F. Supp. 2d 349, 353 (D. Del.
+2010). Motions for a more definite statement are generally viewed with disfavor, particularly
+“where the information sought by the motion could easily be obtained by discovery.” CFMT,
+Inc. v. Yieldup Int’l Corp., No. 95-549-LON, 1996 U.S. Dist. LEXIS 22795, at *3 (D. Del. Apr.
+5, 1996).
+Zonoff has no basis for moving for a more definite statement. Icontrol’s Complaint
+clearly and with great particularly sets forth the causes of actions against Zonoff. The Complaint
+specifically alleges that Zonoff directly infringes the Asserted Patents by making, using, selling,
+offering to sell, selling, or importing products that practice the Accused Products, software that
+takes the form of either finished software applications (under, for example, Zonoff’s “Zonoff
+
+(...continued from previous page)
+summary judgment motion and addressed the issue on the merits of the case (and found for
+reasons inapplicable here that the plaintiff was not entitled to damages because the patent-in-suit
+had already expired before the lawsuit was filed and the plaintiff was not entitled to pre-suit
+damages). None of these cases impose an obligation to plead compliance with the marking
+statute in a complaint or face “dismissal” of all damages claims (essentially dismissing plaintiff’s
+entire case). Rather, each (particularly Jackson) supports the notion that compliance with the
+marking statute is a factual issue to be resolved on the merits.
+
+-14-
+
+Software” or “Zonoff app” brands), or a software development kit (under, for example, Zonoff’s
+“Open Device Software Development Kit”) that Zonoff makes, uses, sells, offers to sell, or
+imports. Compl. ¶¶ 11-12, and 17.
+The Complaint further pleads all necessary facts relating to Zonoff’s inducement of third
+party direct infringers (including retailers such as Staples, service providers, consumer
+electronics OEMs, and system integrators) by, among other things, advertising the infringing
+products and their infringing use; establishing distribution channels for these infringing products
+in the United States; drafting, distributing or making available datasheets, instructions, or
+manuals for the Accused Products to Zonoff’s customers and prospective customers; and/or
+providing technical support or other services for the Accused Products to Zonoff’s customers and
+prospective customers. Id. at ¶¶ 29, 38, 47. Icontrol alleges that Zonoff took these actions in full
+knowledge of each Asserted Patent and did so with the specific intent to induce one or more third
+parties to infringe each Asserted Patent. Id. Thus the Complaint sufficiently states a claim for
+induced infringement.
+The Complaint further pleads facts related to Zonoff’s contributory infringement of third
+party direct infringers. It alleges that (1) Zonoff sells components that are material to each
+Asserted Patent to third parties who directly infringe each Asserted Patent by making, using, or
+selling product incorporating these components, (2) that these components are especially made
+or adapted for use in infringing each Asserted Patent because they are not staple articles of
+commerce suitable for substantial non-infringing use and have no use apart from making or using
+the claimed inventions, and (3) that Zonoff is aware of the infringing uses to which these
+components are put. Id. at ¶¶ 31, 40, 49.
+
+-15-
+
+Finally, the Complaint alleges that Zonoff, with knowledge of the Asserted Patents and
+the risk of infringement, acted despite an objectively high likelihood that its actions constituted
+infringement of the Asserted Patents. Compl. ¶¶ 32, 41, 50. For each Asserted Patent, the
+Complaint includes language indicating at least one claim that Icontrol believes is directly
+infringed. Id. at ¶¶ 28, 37, 46. Thus, Icontrol’s Complaint is sufficiently definite; Zonoff has
+more than enough information to frame a responsive pleading to Icontrol’s claims for direct,
+induced, contributory, and willful infringement.
+At the pleading stage, a plaintiff is not required to identify which patent claims it is
+asserting. Xpoint, 730 F. Supp. 2d at 353; see also McZeal v. Sprint Nextel Corp., 501 F.3d
+1354, 1357 (Fed. Cir. 2007); Bear Creek Techs., Inc. v. Vonage Holdings Corporation, et al.,
+Case No. 11-cv-723-GMS (D.I. 22) at *3 n.5 (D. Del. Sep. 27, 2012); and Mark IV Indus. Corp.
+v. Transcore, L.P., Civ. No. 09-418-GMS, 2009 U.S. Dist. LEXIS 112069 (D. Del. Dec. 2,
+2009). Such a requirement is impractical because, at the time of the filing of the complaint, a
+plaintiff ordinarily has access only to public information and knowledge. McZeal, 501 F.3d at
+1358. Therefore, as this Court observed in In re Bear Creek, a “plaintiff is not required to . . .
+identify which claims it is asserting . . . as these details are determined through discovery.” In
+re Bear Techs., (D.I. 22) at *3 n.5 (quoting Xpoint, 730 F. Supp. at 353 and McZeal, 501 F.3d at
+1358) (emphasis added). Zonoff offers nothing to suggest that this case is unusual or worth
+departing from the Court’s standard practices. Indeed, courts in this district routinely deny
+motions such as this, even where there are more patents with more claims at issue. See, e.g.,
+Clouding IP LLC v. Amazon.com Inc., et. al., Case No. 1-12-cv-00641-LPS (D.I. 11 (complaint)
+& 56 (order)) (D. Del. May 24, 2013) (11 patents, 347 claims); IpLearn LLC v. Beeline
+
+-16-
+
+Acquisition Corp., et. al., Case No. 1-11-cv-00825-RGA (D.I. 15 (complaint) & 172 (order)) (D.
+Del. Jul. 2, 2012) (9 patents, 511 claims).
+With its motion for a more definite statement, Zonoff attempts to jumpstart discovery.
+However, this District already has a procedural mechanism for the identification of asserted
+claims, whereby a patentee receives an early production of technical documents from a defendant
+and, in exchange, the patentee prepares preliminary infringement contentions specifically
+identifying the claims the patentee is asserting. Paragraph 4 of the Court’s Default Standard
+provides that
+a.
+Within 30 days after the Rule 16 Conference and for each defendant, the
+plaintiff shall specifically identify the accused products and the asserted patent(s)
+they allegedly infringe, and produce the file history for each asserted patent.
+b.
+Within 30 days after receipt of the above, each defendant shall produce to
+the plaintiff the core technical documents related to the accused product(s),
+including but not limited to operation manuals, product literature, schematics, and
+specifications.
+c.
+Within 30 days after receipt of the above, plaintiff shall produce to each
+defendant an initial claim chart relating each accused product to the asserted
+claims each product allegedly infringes.
+Thus, the Court’s procedures provide a mechanism for identifying specific asserted claims, but
+only after the accused infringer produces its “core technical documents.” Zonoff’s motion seeks
+to short-circuit these procedures by asking the Court to require patentees to provide their
+identification of asserted claims in the complaint, before the production of core technical
+documents. Zonoff offers no justification warranting departure from the Default Standard or an
+alternative, negotiated schedule.
+In fact, Icontrol offered to discuss a schedule for the identification of asserted claims on
+February 9, 2016. See Exh. 1. In response, however, Zonoff refused to negotiate. Id. Had
+
+-17-
+
+Zonoff been willing to negotiate, Icontrol would have diligently prepared its infringement
+contentions, including an identification of asserted claims, pursuant to Paragraph 4(c).
+Given that Icontrol’s Complaint is sufficiently definite for Zonoff to frame a response,
+and that neither the Federal Circuit nor this Court have required a patentee to identify its asserted
+patent claims at this stage of the litigation, and further given Zonoff’s failure to take advantage
+of the procedures available to identify and narrow the number of claims at issue, Zonoff’s
+request for a more definite statement should be denied.6
+VII.
+
+SHOULD THE COURT BE INCLINED TO GRANT DEFENDANT’S MOTION,
+THE COURT SHOULD GRANT PLAINTIFF LEAVE TO AMEND
+For the reasons discussed above, the Court should deny Zonoff’s Motion in its entirety.
+
+If, however, the Court grants the motion in whole or in part, Icontrol respectfully requests that
+the Court dismiss the allegations without prejudice and permit Icontrol leave to file an amended
+complaint. This Circuit applies a liberal approach to the amendment of pleadings so that “a
+particular claim will be decided on the merits rather than on technicalities.” Dole v. Arco Chem
+Co., 921 F.2d 484, 486-87 (3d Cir. 1990). Leave to amend should be granted absent a showing
+of “undue delay, bad faith or dilatory motive on the part of the movant, repeated failure to cure
+deficiencies by amendments previously allowed, undue prejudice to the opposing party by virtue
+of allowance of the amendment, futility of amendment, etc.” Foman v. Davis, 371 U.S. 178, 182
+(1962). As Zonoff has neither argued nor shown that an amendment would be improper, the
+Court should not dismiss with prejudice.
+
+6
+
+Even though it was not necessary to do so, Icontrol identified in the Complaint at least one
+claim per Asserted Patent that Icontrol presently believes Zonoff infringes, in an attempt to
+resolve Zonoff’s concerns without this Court’s intervention. Compl. at ¶¶ 28, 37, 46.
+
+-18-
+
+VIII. CONCLUSION
+For the foregoing reasons, Icontrol requests the Court deny Zonoff’s motion. In the
+alternative, should this Court decide that Zonoff’s Motion to Dismiss has any basis, Icontrol
+requests leave to amend the Complaint.
+
+Dated: February 16, 2016
+/s/ Mary B. Matterer
+Richard K. Herrmann (I.D. No. 405)
+Mary B. Matterer (I.D. No. 2696)
+MORRIS JAMES LLP
+500 Delaware Avenue, Suite 1500
+Wilmington, DE 19801
+(302) 888-6800
+rherrmann@morrisjames.com
+mmatterer@morrisjames.com
+Attorneys for Plaintiff Icontrol Networks, Inc.
+OF COUNSEL:
+James C. Yoon
+Ryan R. Smith
+Christopher D. Mays
+Mary A. Procaccio-Flowers
+WILSON SONSINI GOODRICH & ROSATI, P.C.
+650 Page Mill Road
+Palo Alto, CA 94304-1050
+650-493-9300
+
+-19-
+
+

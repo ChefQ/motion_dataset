@@ -1,0 +1,645 @@
+Case 2:15-cv-02926-DRH-SIL Document 16 Filed 10/28/15 Page 1 of 18 PageID #: 58
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF NEW YORK
+CENTRAL ISLIP DIVISION
+
+CAPRICORN MANAGEMENT
+SYSTEMS, INC.
+Plaintiff,
+
+Case No. 2:15-cv-02926-DRH-SIL
+
+v.
+GOVERNMENT EMPLOYEES
+INSURANCE COMPANY
+Defendant.
+
+GOVERNMENT EMPLOYEES INSURANCE COMPANY’S
+MOTION TO DISMISS COUNTS II AND III
+FOR FAILURE TO STATE A CLAIM
+
+Case 2:15-cv-02926-DRH-SIL Document 16 Filed 10/28/15 Page 2 of 18 PageID #: 59
+
+TABLE OF CONTENTS
+I.
+
+INTRODUCTION ...............................................................................................................1
+
+II.
+
+FACTUAL BACKGROUND..............................................................................................2
+A.
+
+GEICO’s regional office on Long Island is phasing out Capricorn’s
+software as part of a nationwide transition to a common claims processing
+system. .....................................................................................................................2
+
+B.
+
+Capricorn’s software merely automates billing processes dictated by state
+insurance regulations and implements fraud detection techniques
+presented by a third-party medical doctor at an insurance industry
+conference. ...............................................................................................................3
+
+III.
+
+FAILURE TO STATE A CLAIM .......................................................................................5
+A.
+
+To survive dismissal, a claim must give the defendant “fair notice” of the
+grounds upon which it rests and be “plausible” on its face. ....................................5
+
+B.
+
+Capricorn’s generic trade secret allegations are implausible and fail to give
+GEICO “fair notice” of what Supercede software features are at issue. .................6
+
+C.
+
+Capricorn failed to plead specific statutory requirements of the Maryland
+Uniform Trade Secrets Act. .....................................................................................9
+(i)
+
+The alleged trade secrets do not have “independent economic
+value.” ........................................................................................................10
+
+(ii)
+
+The alleged trade secrets were not “the subject of efforts
+reasonable under the circumstances to maintain [their] secrecy.” .............11
+
+IV.
+
+CONCLUSION..................................................................................................................14
+
+i
+
+Case 2:15-cv-02926-DRH-SIL Document 16 Filed 10/28/15 Page 3 of 18 PageID #: 60
+
+TABLE OF AUTHORITIES
+Cases
+Ashcroft v. Iqbal,
+556 U.S. 662 (2009)............................................................................................................... passim
+Bell Atl. Corp. v. Twombly,
+550 U.S. 544 (2007).................................................................................................................... 5
+Conley v. Gibson,
+355 U.S. 41 (1957)...................................................................................................................... 5
+IDX Sys. Corp. v. Epic Sys. Corp.,
+285 F.3d 581 (7th Cir. 2002) ...................................................................................................... 7
+James v. Countrywide Fin. Corp.,
+849 F. Supp. 2d 296 (E.D.N.Y. 2012) ........................................................................................ 5
+Kelly v. Howard I. Shapiro & Assocs. Consulting Eng’rs, P.C.,
+716 F.3d 10 (2d Cir. 2013) ......................................................................................................... 5
+Myung Ga, Inc. v. Myung Ga of MD, Inc.,
+C.A. No. 10-3464, 2011 WL 3476828 (D. Md. Aug. 8, 2011) ................................................ 10
+Optic Graphics, Inc. v. Agee,
+591 A.2d 578 (Md. 1991) ......................................................................................................... 10
+Structural Preservation Sys., LLC v. Andrews,
+931 F. Supp. 2d 667 (D. Md. 2013).......................................................................................... 10
+Swierkiewicz v. Sorema N.A.,
+534 U.S. 506 (2002)................................................................................................................ 5, 9
+Synopsys, Inc. v. ATopTech, Inc.,
+No. 13-cv-02965, 2013 WL 5770542 (N.D. Cal. Oct. 24, 2013) ............................................... 9
+Statutes
+MD. CODE ANN., COM. LAW § 11-1201 .............................................................................. 9, 10, 11
+RESTATEMENT (FIRST) OF TORTS § 757 cmt. b (1939)...................................................... 10, 11, 12
+
+ii
+
+Case 2:15-cv-02926-DRH-SIL Document 16 Filed 10/28/15 Page 4 of 18 PageID #: 61
+
+Other Authorities
+DANIEL J. TENNENHOUSE, M.D., ATTORNEYS MEDICAL DESKBOOK § 17:14 (4th ed. 2014).......... 4
+Regulation 83–No-Fault Fee Schedule, 11 NYCRR 68, available at
+http://www.dfs.ny.gov/insurance/r68/r83.htm (last visited Sept. 13, 2015)............................... 3
+Rules
+Fed. R. Civ. P. 12(b)(6)................................................................................................................... 1
+Fed. R. Civ. P. 8(a)(2)..................................................................................................................... 5
+
+iii
+
+Case 2:15-cv-02926-DRH-SIL Document 16 Filed 10/28/15 Page 5 of 18 PageID #: 62
+
+Pursuant to Fed. R. Civ. P. 12(b)(6) and the Court’s August 19, 2015 Order, defendant
+Government Employees Insurance Company (“GEICO”) respectfully moves to dismiss Counts II
+and III asserted by plaintiff Capricorn Management Systems, Inc. (“Capricorn”) for failure to
+state a claim upon which relief can be granted.
+I.
+
+INTRODUCTION
+After learning that its lucrative software contract with GEICO would not be renewed,
+
+Capricorn filed this suit alleging that GEICO stole its alleged “trade secret” software in a
+transparent attempt to secure a final windfall.
+
+The software, which was developed under
+
+GEICO’s direction by a Capricorn employee seated within GEICO’s regional office on Long
+Island, automates state-mandated insurance adjustment processes and implements fraud detection
+algorithms developed by a third-party medical doctor and made public years ago.
+The generic and sweeping allegations in Capricorn’s two trade secret claims, Counts II
+and III of its Complaint, are implausible on their face, fail to give GEICO fair notice of what
+software elements are alleged to be trade secrets, and fail to plead essential prerequisites under
+the applicable Maryland trade secret statute. The lack of specificity in Capricorn’s trade secret
+allegations is unsurprising since its software automates processes mandated by the state or
+publicly presented by others. When one looks under the hood, there are no secrets inside, not as
+presently pled or possible to plead in the future. GEICO respectfully moves the Court to dismiss
+Courts II and III for failure to state a claim upon which relief can be granted.1
+
+1
+
+While not a subject of this Rule 12(b)(6) Motion to Dismiss, GEICO also denies that Capricorn
+is entitled to any relief on Count I, which alleges that GEICO violated the terms of a license
+agreement concerning the same Capricorn software by using it to process New Jersey claims in
+addition to New York claims. D.E. 1 (“Compl.”), at ¶¶ 86-96.
+
+Case 2:15-cv-02926-DRH-SIL Document 16 Filed 10/28/15 Page 6 of 18 PageID #: 63
+
+II.
+
+FACTUAL BACKGROUND
+A.
+
+GEICO’s regional office on Long Island is phasing out Capricorn’s software
+as part of a nationwide transition to a common claims processing system.
+
+GEICO, the second largest provider of automobile insurance in the United States, is
+headquartered in Maryland but maintains a regional office in Woodbury, New York. Since the
+1980s, GEICO’s Woodbury office has used a software program called “Supercede” from
+Capricorn to process insurance claims. For many years, and continuing through the present, a
+Capricorn employee worked substantially full-time within GEICO’s Woodbury office to develop
+and support that software under GEICO’s direction. The software license and support contract
+between GEICO and Capricorn (the “Supercede License Agreement”) was most recently
+renewed in September 2013 for a three-year term (i.e., through September 2016). The contract
+remains in force and GEICO has continued, even after the filing of this lawsuit by Capricorn, to
+make the monthly royalty payments specified in the contract.
+As part of GEICO’s transition to a common, nationwide claims processing system, the
+Woodbury office is phasing out Capricorn’s Supercede software and beginning to use a new
+“ATLAS” software program developed by a different vendor. Capricorn was invited to submit,
+and in fact did submit, a proposal to be GEICO’s national claims processing software vendor.
+Ultimately, however, GEICO chose to proceed with a different vendor, partly because Capricorn
+does not have the resources necessary to support a nationwide application.
+When Capricorn learned that GEICO had selected a different vendor and would be
+phasing out the Supercede software (and, therefore, not renewing the Supercede License
+Agreement), Capricorn initiated a campaign of false accusations against GEICO, culminating in
+this lawsuit. Capricorn asserts three claims in its Complaint: (1) GEICO exceeded the scope of
+the Supercede License Agreement (Count I); (2) GEICO breached a Non-Disclosure Agreement
+
+2
+
+Case 2:15-cv-02926-DRH-SIL Document 16 Filed 10/28/15 Page 7 of 18 PageID #: 64
+
+with Capricorn by disclosing unspecified “trade secrets” to the vendor developing the new
+ATLAS software (Count II); and (3) GEICO violated “Maryland State law” by misappropriating
+the same alleged trade secrets (Count III). Capricorn seeks “an amount over $100 million
+dollars” in monetary damages, without specifying the basis for that demand, which is orders of
+magnitude more than the total value of the Supercede License Agreement.2 Compare id. at ¶ 26
+(pleading that the Supercede License Agreement is worth “hundreds of thousands of dollars”
+annually) with id. at 16 (demanding “over $100 million” in damages).
+B.
+
+Capricorn’s software merely automates billing processes dictated by state
+insurance regulations and implements fraud detection techniques presented
+by a third-party medical doctor at an insurance industry conference.3
+
+As alleged in the Complaint, “Capricorn’s products calculate provider fee reimbursement
+for No-fault and Workers Compensation, based on a particular fee schedule according to stated
+guidelines.”
+
+Compl., at ¶ 13.
+
+In short, GEICO inputs medical invoices associated with
+
+insurance claims and Capricorn’s software adjusts payouts according to guidelines promulgated
+by the New York State Department of Financial Services. See, e.g., Regulation 83–No-Fault Fee
+Schedule, 11 NYCRR 68, available at http://www.dfs.ny.gov/insurance/r68/r83.htm (last visited
+Sept. 13, 2015). While computers are well-suited to performing such numerical lookups and
+calculations, and can surely perform them much more accurately, quickly, and efficiently than
+human claims adjusters alone, there is nothing inherently secret about the process. To the
+2
+
+The $100 million damages claim includes compensation for “unjust enrichment” but the
+Complaint does not assert a claim for unjust enrichment, further confusing the basis for
+Capricorn’s demand. Compl., at 16.
+
+3
+
+GEICO acknowledges that Capricorn’s well-pled factual allegations must be accepted as true
+for purposes of this motion and does not mean to challenge them here. See infra
+Section III(A). Some background regarding the software at issue, particularly the substantial
+extent to which its functionality is dictated by insurance regulations and third party medical
+research, is, however, helpful in illustrating why Capricorn’s sweeping trade secret allegations
+are implausible and fail to give GEICO “fair notice” of what Capricorn claims as its trade
+secrets.
+3
+
+Case 2:15-cv-02926-DRH-SIL Document 16 Filed 10/28/15 Page 8 of 18 PageID #: 65
+
+contrary, the details are dictated by government regulations available online for inspection by
+any interested person. Id.
+The Supercede software also includes a module “to detect fraud related to Nerve
+Conduction Velocity testing (‘NCVs’).” Compl., at ¶ 34. As alleged, “NCVs are tests in which
+peripheral nerves in the arms and legs are stimulated with an electrical impulse to cause the
+nerve to depolarize. The depolarization, or ‘firing,’ of the nerve is measured and recorded with
+electrodes attached to the surface of the skin.” Id. at ¶ 35. In plain English, NCV tests measure
+how quickly electrical nerve impulses travel through a patient’s body.
+
+From those
+
+measurements, doctors can diagnose various neurologic disorders. See DANIEL J. TENNENHOUSE,
+M.D., ATTORNEYS MEDICAL DESKBOOK § 17:14 (4th ed. 2014).
+Supercede uses two NCV fraud detection techniques, both presented by a third-party
+neurologist, Dr. Lawrence Spitz, at an insurance industry conference in 2009. First, Supercede
+checks to see whether test measurements fall within a plausible range for a human patient.
+Second, Supercede checks to see whether the exact same measurements were previously
+submitted in connection with a different insurance claim. If the results of an NCV test are
+implausible for a human patient or exactly duplicative of previous test results, then they are
+likely to be fraudulent and will be referred to GEICO investigators for follow-up before the
+claim is paid. Two GEICO employees saw Dr. Spitz’s presentation, recognized the potential of
+his techniques for reducing fraudulent claims, and instructed Capricorn to implement them
+within Supercede accordingly.
+
+4
+
+Case 2:15-cv-02926-DRH-SIL Document 16 Filed 10/28/15 Page 9 of 18 PageID #: 66
+
+III.
+
+FAILURE TO STATE A CLAIM
+A.
+
+To survive dismissal, a claim must give the defendant “fair notice” of the
+grounds upon which it rests and be “plausible” on its face.
+
+A complaint must contain “a short and plain statement of the claim showing that the
+pleader is entitled to relief.” Fed. R. Civ. P. 8(a)(2). The statement must “give the defendant fair
+notice of what the plaintiff’s claim is and the grounds upon which it rests.” Swierkiewicz v.
+Sorema N.A., 534 U.S. 506, 512 (2002) (quoting Conley v. Gibson, 355 U.S. 41, 47 (1957)).
+“[P]laintiff’s obligation to provide the grounds of his entitlement to relief requires more than
+labels and conclusions, and a formulaic recitation of the elements of a cause of action will not
+do.” James v. Countrywide Fin. Corp., 849 F. Supp. 2d 296, 306 (E.D.N.Y. 2012) (Hurley, J.)
+(quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 555 (2007)).
+“To survive a motion to dismiss, a complaint must contain sufficient factual matter,
+accepted as true, to state a claim to relief that is plausible on its face.” Kelly v. Howard I.
+Shapiro & Assocs. Consulting Eng’rs, P.C., 716 F.3d 10, 14 (2d Cir. 2013) (quoting Ashcroft v.
+Iqbal, 556 U.S. 662, 678 (2009)). “A claim has facial plausibility when the plaintiff pleads
+factual content that allows the court to draw the reasonable inference that the defendant is liable
+for the misconduct alleged.” Iqbal, 556 U.S. at 678. “Where a complaint pleads facts that are
+‘merely consistent with’ a defendant’s liability, it ‘stops short of the line between possibility and
+plausibility of entitlement to relief.’” Id. (quoting Twombly, 550 U.S. at 557). “[O]nly a
+complaint that states a plausible claim for relief survives a motion to dismiss.” Id. (citing
+Twombly, 550 U.S. at 556) (emphasis added).
+“Factual allegations must be enough to raise a right to relief above the speculative level
+… on the assumption that all the allegations in the complaint are true….” Twombly, 550 U.S. at
+555 (citations omitted). “[T]he tenet that a court must accept as true all of the allegations
+
+5
+
+Case 2:15-cv-02926-DRH-SIL Document 16 Filed 10/28/15 Page 10 of 18 PageID #: 67
+
+contained in a complaint is inapplicable to legal conclusions.” Iqbal, 556 U.S. at 678. To the
+contrary, a court is “not bound to accept as true a legal conclusion couched as a factual
+allegation.” Id.
+B.
+
+Capricorn’s generic trade secret allegations are implausible and fail to give
+GEICO “fair notice” of what Supercede software features are at issue.
+
+Both Counts at issue here, Counts II and III, allege improper disclosure of “Capricorn’s
+Trade Secrets,” which the Complaint broadly defines as “highly customized modules and
+methods for maximizing efficiency in the management and adjustment of claims and information
+for GEICO.” Compl., at ¶ 53. While the Second Circuit has not directly opined on the required
+degree of specificity in defining trade secret claims, numerous other circuit and district courts,
+including the Southern District of New York, have required alleged trade secrets to be defined
+with a far greater degree of specificity than Capricorn provides here. See Big Vision Private Ltd.
+v. E.I. DuPont de Nemours & Co., 1 F. Supp. 3d 224, 258-59 (S.D.N.Y. 2014) (collecting cases).
+Indeed, in its pre-motion letter, Capricorn tacitly acknowledges that such a “general
+definition”—Capricorn’s own characterization—is insufficient. D.E. 14, at 2.
+Capricorn attempts to cure the deficiency by pointing to four other “specific details”
+within its Complaint:
+55.
+
+Capricorn’s Trade Secrets enable the customization and automation of the
+claims management process.
+
+56.
+
+Capricorn’s Trade Secrets enable enhanced fraud detection as part of the
+claims management process.
+
+57.
+
+Capricorn’s Trade Secrets enable monitoring of the efficiency of GEICO
+employees.
+
+58.
+
+Capricorn’s Trade Secrets enable the detection of abusive and/or
+fraudulent prescription of certain narcotic drugs.
+
+Id. (quoting Compl., at ¶¶ 55-58). GEICO will address each in turn.
+
+6
+
+Case 2:15-cv-02926-DRH-SIL Document 16 Filed 10/28/15 Page 11 of 18 PageID #: 68
+
+“Enabl[ing] the customization and automation of the claims management process” is the
+overarching purpose of Capricorn’s software and gives absolutely no indication as to what
+components of the software are alleged to be trade secrets. What about the “customization and
+automation” does Capricorn claim as a trade secret? The layout of the user interface? The
+structure of the underlying database? Such a vague and expansive definition of a trade secret
+embodied within software fails as a matter of law. See, e.g., IDX Sys. Corp. v. Epic Sys. Corp.,
+285 F.3d 581, 583 (7th Cir. 2002) (rejecting as “not plausible” a claim “both too vague and too
+inclusive, effectively asserting that all information in or about its software is a trade secret.”)
+IDX involved allegations of trade secret misappropriation under Wisconsin’s
+implementation of the Uniform Trade Secrets Act, which provides substantially the same
+statutory definition of a “trade secret” as the Maryland statute at issue here. Id. at 583 (citing
+Wis. Stat. § 134.90(1)(c)). The facts alleged in IDX are similar to those alleged by Capricorn
+here. IDX provided medical billing software to a large medical group. Id. at 582. When that
+software was phased out in favor of a competing software product, IDX brought suit alleging that
+the medical group had improperly given its trade secrets to the new software provider so it could
+eventually replace IDX. Id. Because IDX “does not separate the trade secrets from the other
+information that goes into any software package,” which is “vital under the statutory definition,”
+the court rejected IDX’s claim. Id. at 584. Capricorn’s complaint suffers from the same vague
+and over inclusive trade secret allegations that proved fatal to IDX’s claim. In short, “unless the
+plaintiff engages in a serious effort to pin down the secrets a court cannot do its job.” Id. at 583.
+Capricorn’s other “specific” allegations are similarly unavailing.
+
+GEICO assumes
+
+“enhanced fraud detection” refers to the NCV Module described in the Complaint since no other
+fraud detection capability is alleged. See Compl., at ¶¶ 34-49. As described above, however, the
+
+7
+
+Case 2:15-cv-02926-DRH-SIL Document 16 Filed 10/28/15 Page 12 of 18 PageID #: 69
+
+techniques used to detect NCV fraud—comparing reported NCV test values against a plausible
+range for human patients and checking for duplicate resubmission of old test results—were
+developed by a third-party neurologist and presented publicly at an insurance industry
+conference. The Complaint gives no hint of any additional elements, beyond those developed
+and publicly disclosed by others, Capricorn claims as its own. Accordingly, Capricorn fails to
+allege the existence of a trade secret.
+Capricorn does not mention “monitoring the efficiency of GEICO employees” elsewhere
+in the Complaint and so GEICO is left to speculate as to what this allegation refers. Compl., at
+¶ 57. Presumably, “efficiency” refers to how quickly GEICO employees process claims (e.g.,
+the average number of claims each employee processes in a given time period). Capricorn does
+not allege, and GEICO strains to see, how counting the number of claims processed by each
+employee over some period of time is a trade secret. To the extent Capricorn intends to refer to
+some more sophisticated measure of efficiency, the Complaint fails to provide adequate notice of
+what that might be.
+The Complaint also fails to provide any indication of how Capricorn’s purported trade
+secrets detect “abusive and/or fraudulent prescription of certain narcotic drugs.” Compl., at ¶ 58.
+For example, simply identifying and flagging doctors who prescribe narcotic drugs substantially
+more often than their peers can hardly be described as a trade secret technique. Again, to the
+extent Capricorn intends to refer to some more sophisticated fraud detection technique, the
+Complaint fails to provide “fair notice” of such, impermissibly leaving GEICO to speculate
+about what “trade secrets” are at issue in this case.
+The “specific” allegations upon which Capricon relies broadly recite commonplace
+insurance industry processes automated by the Supercede software and then assert that those
+
+8
+
+Case 2:15-cv-02926-DRH-SIL Document 16 Filed 10/28/15 Page 13 of 18 PageID #: 70
+
+software functions are “enabled” by Capricorn’s trade secrets. Compl., at ¶¶ 55-58. Such
+sweeping allegations are legally insufficient for two reasons. First, to claim a trade secret in
+merely automating commonplace insurance industry processes—processes prescribed by state
+regulations or developed and publicly presented by a third party—is neither “plausible” nor
+“reasonable” on its face. See Iqbal, 556 U.S. at 678. Second, to the extent Capricorn asserts that
+some more specific software elements underlying those commonplace functions are trade secrets,
+the Complaint fails to provide “fair notice” (or any notice) as to what those elements might be.
+See Swierkiewicz, 534 U.S. at 512; Synopsys, Inc. v. ATopTech, Inc., No. 13-cv-02965, 2013 WL
+5770542, *12 (N.D. Cal. Oct. 24, 2013) (dismissing a trade secret claim “too sweeping and
+vague for Defendant to be on notice of what trade secrets are at issue and where the boundary
+between those secrets and general knowledge might lie”). Counts II and III must, therefore, be
+dismissed for failure to state a claim upon which relief can be granted.
+C.
+
+Capricorn failed to plead specific statutory requirements of the Maryland
+Uniform Trade Secrets Act.
+
+To survive dismissal, both Counts II and III must adequately plead the existence of a
+trade secret, since one cannot improperly disclose or misappropriate a trade secret that does not
+exist. Capricorn pleads its trade secret claims “under Maryland State law” but fails to specify
+under what Maryland law it seeks relief. Maryland enacted the Maryland Uniform Trade Secrets
+Act (“MUTSA”), codified at MD. CODE ANN., COM. LAW §§ 11-1201, et seq., in 1989. Since
+MUTSA long precedes the allegations underpinning Counts II and III, GEICO assumes
+Capricorn intended to plead its trade secret claims under MUTSA.4
+
+4
+
+While still not explicitly stating that its claims arise under MUTSA, Capricorn also refers to
+“claims arising under the Maryland Uniform Trade Secrets Act” in its pre-motion letter
+submission of August 10, 2015. D.E. 14, at 2.
+9
+
+Case 2:15-cv-02926-DRH-SIL Document 16 Filed 10/28/15 Page 14 of 18 PageID #: 71
+
+MUTSA expressly defines a “trade secret” as follows:
+“Trade secret” means information, including a formula, pattern, compilation,
+program, device, method, technique, or process, that:
+(1)
+
+Derives independent economic value, actual or potential, from not
+being generally known to, and not being readily ascertainable by
+proper means by, other persons who can obtain economic value
+from its disclosure or use; and
+
+(2)
+
+Is the subject of efforts that are reasonable under the circumstances
+to maintain its secrecy.
+
+MD. CODE ANN., COM. LAW § 11-1201(e) (emphasis added). Although MUTSA provides
+a definition, Maryland courts still look to the Restatement of Torts as providing “helpful
+guidance to determine whether the information in a given case constitutes ‘trade secrets’ within
+the definition of [MUTSA].” Structural Preservation Sys., LLC v. Andrews, 931 F. Supp. 2d
+667, 679 (D. Md. 2013) (quoting Optic Graphics, Inc. v. Agee, 591 A.2d 578, 585 (Md. 1991)).
+(i)
+
+The alleged trade secrets do not have “independent economic value.”
+
+To be protectable as a trade secret under MUTSA, information must “[d]erive
+independent economic value, actual or potential, from not being generally known to, and not
+being readily ascertainable by proper means by, other persons who can obtain economic value
+from its disclosure or use.” MD. CODE ANN., COM. LAW § 11-1201(e)(1). Rather than establish
+the independent economic value of its purported trade secrets, the facts as pled by Capricorn
+suggest just the opposite.
+Capricorn alleges that it has not disclosed the software in question “to anyone other than
+GEICO” and, thereby, impliedly concedes that it has not licensed or sold the software to any
+“other persons” either. Compl., at ¶ 60; cf. Myung Ga, Inc. v. Myung Ga of MD, Inc., C.A. No.
+10-3464, 2011 WL 3476828, at *6 (D. Md. Aug. 8, 2011) (inferring independent economic value
+based on “several previous licensing agreements”). Capricorn’s failure to license the software in
+
+10
+
+Case 2:15-cv-02926-DRH-SIL Document 16 Filed 10/28/15 Page 15 of 18 PageID #: 72
+
+question to anyone else is perhaps not surprising since Capricorn also pleads that it was “highly
+customized … for GEICO.” Compl., at ¶ 53. As a matter of common sense, software “highly
+customized” for one company is of little utility, and therefore little value, to another company.
+To the extent that Capricorn’s software implements more generally applicable insurance
+industry functionality (e.g., adjusting claims based on New York State regulations), that
+functionality might plausibly be of value to others. Capricorn’s software would still fail to meet
+the “independent economic value” requirement under MUTSA, however, because its value
+would then not be derived “from not being generally known to, and not being readily
+ascertainable by proper means by, other persons” but rather from the very fact that it implements
+well-known and common requirements applicable to others in the insurance industry. MD. CODE
+ANN., COM. LAW § 11-1201(e)(1).
+(ii)
+
+The alleged trade secrets were not “the subject of efforts reasonable
+under the circumstances to maintain [their] secrecy.”
+
+The secrecy of a trade secret is perhaps its most defining element. Maintaining that
+secrecy is not a casual requirement easily met. Rather, “a substantial element of secrecy must
+exist, so that, except by the use of improper means, there would be difficulty in acquiring the
+information.” RESTATEMENT (FIRST)
+
+OF
+
+TORTS § 757 cmt. b (1939). In its pre-motion letter,
+
+Capricorn contends that two allegations plead the requisite secrecy:
+59.
+
+Capricorn’s Trade Secrets and related information pertaining to their
+creation, functionality, organization, compilation, and management are
+held in confidence by Capricorn as a company trade secret.
+
+60.
+
+Capricorn does not disclose its Trade Secrets to anyone other than GEICO,
+to which it has made disclosures only under the terms of a Non-Disclosure
+Agreement.
+
+D.E. 14, at 3 (quoting Compl., at ¶¶ 59-60).
+
+11
+
+Case 2:15-cv-02926-DRH-SIL Document 16 Filed 10/28/15 Page 16 of 18 PageID #: 73
+
+The first allegation merely recites the desired legal conclusion—that Capricorn’s Trade
+Secrets are trade secrets. It is not binding on the Court, need not be accepted as true, and should
+be accorded no weight. Iqbal, 556 U.S. at 678 (“The tenet that a court must accept as true all of
+the allegations contained in a complaint is inapplicable to legal conclusions.”).
+The second allegation is also largely conclusory—the trade secrets have not been
+disclosed improperly—but does imply the existence of a non-disclosure agreement. Contrary to
+the suggestion in Capricorn’s pre-motion letter, the mere existence of a non-disclosure
+agreement does not alone establish the requisite secrecy. Rather, Maryland courts, again looking
+to the Restatement for “helpful guidance,” consider a wider array of factors:
+Some factors to be considered in determining whether given information is one’s
+trade secret are:
+(1)
+
+the extent to which the information is known outside of his
+business;
+
+(2)
+
+the extent to which it is known by employees and others involved
+in his business;
+
+(3)
+
+the extent of measures taken by him to guard the secrecy of the
+information;
+
+(4)
+
+the value of the information to him and to his competitors;
+
+(5)
+
+the amount of effort or money expended by him in developing the
+information;
+
+(6)
+
+the ease or difficulty with which the information could be properly
+acquired or duplicated by others.
+
+RESTATEMENT (FIRST) OF TORTS § 757 cmt. b (1939). The Complaint is silent with respect to
+many of these considerations and pleads only sweeping and implausible conclusions with respect
+to others.
+
+12
+
+Case 2:15-cv-02926-DRH-SIL Document 16 Filed 10/28/15 Page 17 of 18 PageID #: 74
+
+On the first factor, for example, Capricorn pleads that its trade secrets “are held in
+confidence by Capricorn as a company trade secret” but defines those trade secrets so broadly—
+“automation of the claims management process,” “enhanced fraud detection,” and “monitoring
+… efficiency,” and “detection of abusive and/or fraudulent prescription[s]”—that it is facially
+implausible to suggest that no other insurance companies have developed such methods. See
+Iqbal, 556 U.S. at 678 (to survive dismissal a claim must be “plausible on its face”).
+With respect to the second factor, Capricorn pleads nothing regarding the extent to which
+its alleged trade secrets are known within Capricorn or within GEICO. Similarly, Capricorn
+does not allege any measures taken to guard the secrecy of its alleged trade secrets beyond the
+existence of a non-disclosure agreement. The Complaint is silent concerning even the most basic
+internal protections on access to its allegedly trade secret software (e.g., where is the software
+source code kept and who has access to it?).
+The remaining factors are similarly unavailing. Rather than assert that the alleged trade
+secrets are valuable to competitors, Capricorn pleads that the software in question was
+“customized … for GEICO.”
+
+Compl., at ¶ 53.
+
+The Complaint is silent with respect to
+
+Capricorn’s own expenditure of money in developing the trade secrets, perhaps not surprisingly
+since the software was developed by a Capricorn employee who sat in GEICO’s Woodbury
+office and billed GEICO for time spent developing it. Lastly, given how broadly the alleged
+trade secrets are pled by Capricorn, it is implausible to suggest that they could not be duplicated,
+or have not already been duplicated, by other insurance companies.
+Two conclusory allegations and the existence of a non-disclosure agreement are simply
+not enough to establish the “substantial element of secrecy” required for information to qualify
+for trade secret protection under MUTSA. Counts II and III should, therefore, be dismissed for
+
+13
+
+Case 2:15-cv-02926-DRH-SIL Document 16 Filed 10/28/15 Page 18 of 18 PageID #: 75
+
+failing to pled a required statutory element, namely that information in question was “the subject
+of efforts reasonable under the circumstances to maintain its secrecy.”
+IV.
+
+CONCLUSION
+To survive a motion to dismiss, a claim must be plausible. Capricorn’s suggestion that
+
+broad swaths of commonplace insurance industry software functionality, dictated by state
+regulations or developed by a third party, are protectable as its trade secrets is not. To the extent
+Capricorn intends to claim that only certain more specific elements of the Supercede software are
+its trade secrets, the Complaint fails to give GEICO the required “fair notice” of what those
+elements are. Counts II and III should be dismissed accordingly for failure to state a claim upon
+which relief may be granted.
+Date: September 16, 2015
+
+Respectfully submitted,
+/s/ Clifford Thau
+Clifford Thau, Esq.
+Marisa Antos-Fallon, Esq.
+VINSON & ELKINS LLP
+666 Fifth Avenue, 26th Floor
+New York, NY 10103
+Tel: (212) 237-0000
+Fax: (212) 237-0100
+cthau@velaw.com
+mantosfallon@velaw.com
+Charles D. Ossola, Esq. (pro hac vice)
+Matthew J. Ricciardi, Esq. (pro hac vice)
+VINSON & ELKINS LLP
+2200 Pennsylvania Avenue NW
+Suite 500 West
+Washington, DC 20037
+Tel: (202) 639-6500
+Fax: (202) 639-6604
+cossola@velaw.com
+mricciardi@velaw.com
+Counsel for Government
+Employees Insurance Company
+14
+
+

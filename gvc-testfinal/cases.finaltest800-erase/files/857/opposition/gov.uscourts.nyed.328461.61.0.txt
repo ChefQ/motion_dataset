@@ -1,0 +1,1044 @@
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 1 of 33 PageID #: 592
+
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF NEW YORK
+TODD C. BANK, Individually and on Behalf of
+All Others Similarly Situated,
+
+1:12-cv-01369-JG-VMS
+
+Plaintiff,
+-againstINDEPENDENCE ENERGY GROUP LLC, and
+INDEPENDENCE ENERGY ALLIANCE LLC,
+Defendants.
+
+PLAINTIFF’S MEMORANDUM OF LAW IN OPPOSITION TO
+DEFENDANTS’ MOTION FOR SUMMARY JUDGMENT PURSUANT TO
+RULE 56 OF THE FEDERAL RULES OF CIVIL PROCEDURE
+
+TODD C. BANK
+119-40 Union Turnpike
+Fourth Floor
+Kew Gardens, New York 11415
+(718) 520-7125
+Plaintiff Pro Se
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 2 of 33 PageID #: 593
+
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORITIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . iii
+STATUTES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . iii
+CASES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . iii
+INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+ARGUMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+I. PLAINTIFF’S INDIVIDUAL CLAIMS ARE NOT MOOT
+A. Several Circuit Courts, Including the Second Circuit,
+Have Assumed, Without Deciding, That an Unaccepted
+Rule 68 Offer of Judgment for a Plaintiff’s Maximum
+Potential Recovery Moots the Plaintiff’s Claims . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+B. The Only Result of Plaintiff’s Decision Not to Accept Defendants’
+Offer of Judgment Was, as Rule 68 of the Federal Rules of Civil
+Procedure States, That the Offer Was Deemed Withdrawn . . . . . . . . . . . . . . . . . . . . . . . . 5
+C. Numerous Post-Genesis Healthcare Cases Have Adopted
+the Reasoning of the Genesis Healthcare Dissent and Held
+That an Unaccepted Rule 68 Offer of Judgment for a Plaintiff’s
+Maximum Potential Recovery Cannot Moot the Plaintiff’s Claims . . . . . . . . . . . . . . . . . 6
+II. THE CLASS CLAIMS ARE NOT MOOT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+A. Under the Relation-Back Doctrine, Plaintiff’s
+Class Claims Would Have Remained Viable Even
+if Plaintiff’s Individual Claims Had Been Mooted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+B. Plaintiff’s Interest in Sharing the Expenses of this
+Action With the Putative Class Members Satisfies
+the ‘Case or Controversy’ Requirement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+C. Numerous Post-Genesis Healthcare Cases Have Held That
+Genesis Healthcare Does Not Apply to Rule 23 Class Actions . . . . . . . . . . . . . . . . . . . 18
+
+i
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 3 of 33 PageID #: 594
+
+Table of Contents (Cont’d)
+III.
+
+DEFENDANTS HAVE NOT MET THEIR BURDEN
+FOR OBTAINING SUMMARY JUDGMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+
+CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+
+ii
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 4 of 33 PageID #: 595
+
+TABLE OF AUTHORITIES
+Page
+STATUTES
+47 U.S.C. § 227 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 9, 12, 19, 22, 23
+Fed. R. Civ. P. 56 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Fed. R. Civ. P. 68 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . passim
+
+CASES
+Abrams v. Interco, Inc.,
+719 F.2d 23 (2d Cir. 1983) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2, 3, 3, n.3, 10
+Alliance to End Repression v. City of Chicago,
+820 F.2d 873 (7th Cir. 1987) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, n.2
+Bais Yaakov of Spring Valley v. Act, Inc.,
+No. 12-cv-40088, 2013 WL 6596720 (D. Mass. Dec. 16, 2013) . . . . . . . . . . . . . . . . 11, 18-19
+Bank v. Caribbean Cruise Line, Inc.,
+12-cv-05572 (E.D.N.Y) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Bank v. Spark Energy Holdings, LLC,
+No. 13-cv-6130, 2014 WL 2805114 (E.D.N.Y. June 20, 2014) . . . . . . . . . . . . . . . . . . . . . . . 12
+Boucher v. Rioux,
+No. 14-cv-141, 2014 WL 4417914 (D.N.H. Sept. 8, 2014) . . . . . . . . . . . . . . . . . 9, 10, 10, n.7
+Boyle v. Int’l Brotherhood of Teamsters Local 863 Welfare Fund,
+No. 12-4578, – Fed. Appx.– , 2014 WL 4235045 (3d Cir. Aug. 28, 2014) . . . . . . . . . . . . . . . 3
+Canada v. Meracord, LLP,
+No. 12-cv-5657, 2013 WL 2450631 (W.D. Wash. June 6, 2013) . . . . . . . . . . . . . . . . . . . . . 20
+Church v. Accretive Health, Inc.,
+299 F.R.D. 676 (S.D. Ala. 2014) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20, 20-21, n.10
+Damasco v. Clearwire Corp.,
+662 F.3d 891 (7th Cir. 2011) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3-4
+iii
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 5 of 33 PageID #: 596
+
+Page
+Table of Contents; Cases (Cont’d)
+Delgado v. Castellino Corp.,
+No. 13-cv-03379, 2014 WL 4339232 (D. Colo. Sept. 2, 2014) . . . . . . . . . . . . . . . . . . . . . . . 11
+Deposit Guaranty Nat’l Bank v. Roper,
+445 U.S. 326 (1980) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2, 15, 16, 16, n.8, 17, 17, n.9, 20
+Diaz v. First American Home Buyers Protection Corp.,
+732 F.3d 948 (9th Cir. 2013) . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 7,7, n.6, 8, 9, 10, 11, n.7, 12
+Domino’s Pizza, Inc. v. McDonald,
+546 U.S. 470 (2006) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Doyle v. Midland Credit Mgmt., Inc.,
+722 F.3d 78 (2d Cir. 2013) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1, 2, n.2, n.1, 10
+Genesis Healthcare Corp. v. Symczyk,
+133 S. Ct. 1523 (2013) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . passim
+Gottlieb v. Carnival Corp.,
+595 F. Supp. 2d 212 (E.D.N.Y. 2009) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Greisz v. Household Bank (Ill.), N.A.,
+176 F.3d 1012 (7th Cir. 1999) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4, 4, n.4, 7, n.6
+Herzlinger v. Nichter,
+No. 09-cv-00192, 2011 WL 4585251 (S.D.N.Y. Sept. 8, 2011),
+adopted, No. 09-cv-00192, 2011 WL 4575126 (S.D.N.Y. Oct. 3, 2011) . . . . . . . . . . . . . 13, 14
+Hrivnak v. NCO Portfolio Management, Inc.,
+719 F.3d 564 (6th Cir. 2013) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Jenkins v. Pech,
+No. 14-cv-41, 2014 WL 4247734 (D. Neb. Aug. 27, 2014) . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Knox v. Serv. Employees Int’l Union,
+132 S. Ct. 2277, 2287 (2012) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Lewis v. Continental Bank Corp.,
+494 U. S. 472 (1990) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17, n.9
+
+iv
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 6 of 33 PageID #: 597
+
+Page
+Table of Contents; Cases (Cont’d)
+Lucero v. Bureau of Collection Recovery, Inc.,
+639 F.3d 1239 (10th Cir. 2011) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Mabary v. Home Town Bank, N.A.,
+No. 13-20211, – F.3d – , 2014 WL 5801352 (5th Cir. Nov. 5, 2014) . . . . . . . . . . . . . . . . . . 15
+March v. Medicredit, Inc.,
+No. 13-cv-01210, 2013 WL 6265070 (E.D. Mo. Dec. 4, 2013) . . . . . . . . . . . . . . . . . . . . . . . 18
+Marek v. Chesny,
+473 U.S. 1 (1985) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+McCauley v. Trans Union, LLC,
+402 F.3d 340 (2d Cir. 2005) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, 4, 4, n.4
+McDowall v. Cogan,
+216 F.R.D. 46, (E.D.N.Y. 2003) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13, 14
+Minneapolis & St. Louis R. Co. v. Columbus Rolling Mill,
+119 U.S. 149 (1886) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5-6
+Morgan v. Account Collection Technology, LLC,
+No. 05-cv-2131, 2006 WL 2597865 (S.D.N.Y. Sept. 6, 2006) . . . . . . . . . . . . . . . . . . . . . 13, 14
+Nasca v. GC Services Ltd. Fartnership,
+No. 01-cv-10127, 2002 WL 31040647 (S.D.N.Y. Sept. 12, 2002) . . . . . . . . . . . . . . . . . . 13, 14
+O’Brien v. Ed Donnelly Enters., Inc.,
+575 F.3d 567 (6th Cir. 2009) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, 3, n.3, 4, n.4
+Pitts v. Terrible Herbst, Inc.,
+653 F.3d 1081 (9th Cir. 2011) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7, 19, 20
+Prater v. Medicredit, Inc.,
+No. 14-cv-159, 2014 WL 3973863 (E.D. Mo. August 14, 2014) . . . . . . . . . . . . . . . . . . . . . . 21
+Ramirez v. Trans Union, LLC,
+No. 12-cv-00632, 2013 WL 3752591 (N.D. Cal. July 17, 2013) . . . . . . . . . . . . . . . . . . . 19-20
+
+v
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 7 of 33 PageID #: 598
+
+Page
+Table of Contents; Cases (Cont’d)
+Rand v. Monsanto Co.,
+926 F.2d 596 (7th Cir. 1991) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, n.2, 5, n.5, 7, n.6, 9
+Sandoz v. Cingular Wireless LLC,
+553 F.3d 913 (5th Cir. 2008), abrogated on other grounds,
+Genesis Healthcare Corp. v. Symczyk, 133 S. Ct. 1523 (2013) . . . . . . . . . . . . . . . . . . 4, 4, n.5
+Sandusky Wellness Center LLC v. Medtox Scientific, Inc.,
+No. 12-cv-2066, 2013 WL 3771397 (D. Minn. July 18, 2013) . . . . . . . . . . . . . . . . . . . . . . . 19
+Scott v. Westlake Services LLC,
+740 F.3d 1124 (7th Cir. 2014) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9-10, 10
+Sosna v. Iowa,
+419 U.S. 393 (1975) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 16, 20
+Stein v. Buccaneers Ltd. P’ship,
+No. 13-15417, – F.3d – , 2014 WL 6734819 (11th Cir. Dec. 1, 2014) . . . . . . . . . . . . 8, 8-9, 15
+Thomas v. American Serv. Fin. Corp.,
+No. 12-cv-4235, 2013 WL 1898954, (E.D.N.Y. May 7, 2013) . . . . . . . . . . . . . . . . . . . . . . . 13
+Thorogood v. Sears, Roebuck & Co.,
+595 F.3d 750 (7th Cir. 2010) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7, n.6
+United States Parole Comm’n v. Geraghty,
+445 U.S. 388 (1980) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 16, 20
+Vega v. Credit Bureau Enters.,
+No. 02-cv-1550, 2003 WL 21544258 (E.D.N.Y. July 9, 2003) . . . . . . . . . . . . . . . . . . . . 13, 14
+Warren v. Sessoms & Rogers, P.A.,
+676 F.3d 365 (4th Cir. 2012) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Wigton v. Kaplan,
+No. 10-cv-01768, 2014 WL 4272791 (W.D. Pa. Aug. 29, 2014) . . . . . . . . . . . . . . . . . . . . . . 18
+Weiss v. Regal Collections,
+385 F.3d 337 (3d Cir. 2004) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, 3, n.2, 4, n.4, 5, n.5, 18, 21
+
+vi
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 8 of 33 PageID #: 599
+
+Page
+Table of Contents; Cases (Cont’d)
+Weitzner v. Sanofi Pasteur, Inc.,
+No. 11-cv-2198, 2014 WL 956997 (M.D. Pa. Mar. 12, 2014),
+amended, 2014 WL 1786500 (M.D. Pa. May 5, 2014) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+White v. OSI Collection Services, Inc.,
+No. 01-CV-1343, 2001 WL 1590518 (E.D.N.Y. Nov. 5, 2001) . . . . . . . . . . . . . . . . . . . . 14, 15
+Zeidman v. J. Ray McDermott & Co.,
+651 F.2d 1030 (5th Cir. 1981) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4, n.5, 4-5, n.5
+Zimmerman v. Bell,
+800 F.2d 386 (4th Cir. 1986) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, n.3
+
+vii
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 9 of 33 PageID #: 600
+
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF NEW YORK
+TODD C. BANK, Individually and on Behalf of
+All Others Similarly Situated,
+
+1:12-cv-01369-JG-VMS
+
+Plaintiff,
+-againstINDEPENDENCE ENERGY GROUP LLC, and
+INDEPENDENCE ENERGY ALLIANCE LLC,
+Defendants.
+INTRODUCTION
+Plaintiff, Todd C. Bank (“Bank”), by the undersigned counsel, submits this Memorandum
+of Law in opposition to the motion by Defendants, Independence Energy Group LLC and
+Independence Energy Alliance LLC (collectively, “Independence Energy”), for summary judgment
+pursuant to Rule 56 of the Federal Rules of Civil Procedure.
+ARGUMENT
+POINT I
+PLAINTIFF’S INDIVIDUAL CLAIMS ARE NOT MOOT
+A.
+
+Several Circuit Courts, Including the Second Circuit,
+Have Assumed, Without Deciding, That an Unaccepted
+Rule 68 Offer of Judgment for a Plaintiff’s Maximum
+Potential Recovery Moots the Plaintiff’s Claims
+In Doyle v. Midland Credit Mgmt., Inc., 722 F.3d 78 (2d Cir. 2013), the court affirmed the
+
+dismissal of a claim that the court assumed to have been mooted by the defendant’s unaccepted Rule
+68 offer of judgment for the plaintiff’s maximum potential recovery. However, the issue in Doyle
+
+1
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 10 of 33 PageID #: 601
+
+was not whether an unaccepted offer of judgment could moot a claim; rather, the issue was whether
+“offers of judgment . . . [must] comply with Rule 68 in order to render a case moot under Article III.”
+Id. at 79 (emphasis added).1 Therefore, Doyle, having not decided the broader issue, i.e., whether an
+unaccepted offer of judgment (whether or not made pursuant to Rule 68) could moot a claim in the
+first place, does not control the instant motion. See Domino’s Pizza, Inc. v. McDonald, 546 U.S. 470,
+478-479 (2006).
+For the proposition that a Rule 68 offer for a plaintiff’s maximum potential recovery moots
+the plaintiff’s claims, Doyle cited only one case: Abrams v. Interco, Inc., 719 F.2d 23 (2d Cir. 1983).
+See Doyle, 722 F.3d at 80. However, in Abrams, in which the district court had denied the plaintiffs’
+motion for class certification and the Second Circuit had affirmed that denial, see Abrams, Inc., 719
+F.2d at 32, the issue was not whether the named plaintiffs’ individual claims were still justiciable,
+but whether their class claims were. Abrams likewise did not decide the issue, but instead held that
+the putative class representative, who was offered the maximum potential recovery for his individual
+claims, ceased to have standing to pursue class claims where, reasoning that the facts before the
+court would “seem to have become the hypothetical described in [Deposit Guaranty Nat’l Bank v.]
+Roper, 445 U.S. [326] at 333 [(1980)], to wit, a ‘final judgment fully satisfying [the] named
+plaintiffs’ private substantive claims’, and there is no justification for taking the time of the court
+and the defendant in the pursuit of minuscule individual claims which defendant has more than
+satisfied.” Id. Indeed, the court stated that it read the district court’s Rule 68-based judgment in favor
+of the plaintiffs (that is, the judgment that was issued based upon the defendant’s unaccepted offer
+1
+
+Independence Energy’s reference to the true but irrelevant fact that the plaintiff in Doyle “was
+represented by Plaintiff in the instant action,” Def. Mem. at 7, appears to serve no purpose other than
+as an attempt to bias this Court.
+2
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 11 of 33 PageID #: 602
+
+of judgment) “to mean that if we were to reverse the denial of class certification, [the] plaintiffs'
+individual claims would be reinstated.” Id. at 32.
+Just as Abrams assumed but did not decide the question of individual mootness, neither did
+McCauley v. Trans Union, LLC, 402 F.3d 340 (2d Cir. 2005), in which the court addressed only the
+question of whether a plaintiff whose claim was assumed to have been mooted by an offer of
+judgment is entitled to a judgment in the amount of the offer or whether the defendant is entitled to
+a judgment of dismissal.
+Other courts have also made the same assumption that the Second Circuit has made. See
+Weiss v. Regal Collections, 385 F.3d 337, 340 (3d Cir. 2004) (in which the issue was whether the
+class claims remained live upon the mooting of the named plaintiff’s individual claims)2; Boyle v.
+Int’l Brotherhood of Teamsters Local 863 Welfare Fund, No. 12-4578, – Fed. Appx.– , 2014 WL
+4235045, *1-*2 (3d Cir. Aug. 28, 2014) (in which the issue was whether the offer had, in fact, been
+for the maximum recovery); Warren v. Sessoms & Rogers, P.A., 676 F.3d 365, 370-373 (4th Cir.
+2012) (same); O’Brien v. Ed Donnelly Enters., Inc., 575 F.3d 567, 575 (6th Cir. 2009) (same)3;
+Damasco v. Clearwire Corp., 662 F.3d 891 (7th Cir. 2011) (addressing whether the defendant’s
+
+2
+
+In Weiss, the court cited Rand v. Monsanto Co., 926 F.2d 596 (7th Cir. 1991). See Weiss, 385 F.3d
+at 340. In Rand, the court relied solely upon Alliance to End Repression v. City of Chicago, 820 F.2d
+873 (7th Cir. 1987), see Rand, 926 F.2d at 598; and, in Alliance to End Repression, the court found
+that the class claims were moot where the parties had agreed to a monetary settlement even though
+the parties had also agreed that the plaintiffs could seek a declaratory judgment and that neither party
+could appeal the district court’s decision of whether to grant the declaratory judgment, see Alliance
+to End Repression, 820 F.2d at 874, finding that “[t]h[e] case was settled before the [district] judge
+decided it.” Id. at 875.
+
+3
+
+The O’Brien court cited, for the proposition that “there [i]s no longer any case or controversy when
+defendants ha[ve] offered [a plaintiff] the full amount of damages to which the plaintiff claimed
+entitlement,” id. at 370, only one case, i.e., Zimmerman v. Bell, 800 F.2d 386 (4th Cir. 1986), see id.,
+which, in turn, relied solely upon Abrams, supra. See Zimmerman, 800 F.2d at 390.
+3
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 12 of 33 PageID #: 603
+
+settlement offer was “‘definite and certain,’” id. at 893, and whether the offer was required to be
+formally made under Rule 68, see id. at 894); Greisz v. Household Bank (Ill.), N.A., 176 F.3d 1012,
+1015 (7th Cir. 1999) (like McCauley, addressing whether a plaintiff whose claim was mooted by an
+offer of judgment is entitled to a judgment in the amount of the offer or whether the defendant is
+entitled to a judgment of dismissal)4; Lucero v. Bureau of Collection Recovery, Inc., 639 F.3d 1239,
+1240, 1243 (10th Cir. 2011) (addressing the question of whether, following the assumed mooting
+of the named plaintiff’s individual claims, the class claims remained justiciable); Sandoz v. Cingular
+Wireless LLC, 553 F.3d 913, 920-921 (5th Cir. 2008), abrogated on other grounds, Genesis
+Healthcare Corp. v. Symczyk, 133 S. Ct. 1523 (2013) (same).5
+
+4
+
+In Genesis Healthcare, the Court observed that “[s]ome courts maintain that an unaccepted offer
+of complete relief alone is sufficient to moot the individual’s claim.” Genesis Healthcare, 133 S. Ct.
+at 1529, n.4, citing Weiss, supra, 385 F.3d at 340, and Greisz, supra, 176 F.3d at 1015. Here,
+Genesis Healthcare was referring to the question of whether, assuming that an unaccepted offer of
+judgment has mooted a plaintiff’s claims, the plaintiff is entitled to a judgment for the amount of the
+offer, or, as Weiss and Greisz found, the defendant is entitled to a judgment of dismissal. See Weiss,
+385 F.3d at 340 (“[o]nce the defendant offers to satisfy the plaintiff’s entire demand, there is no
+dispute over which to litigate and a plaintiff who [does not accept the offer and thereby] refuses to
+acknowledge this loses outright [such that the defendant is entitled to a judgment in its favor] under
+Fed.R.Civ.P. 12(b)(1), because he has no remaining stake” (citation and quotation marks omitted);
+accord, Greisz, 176 F.3d at 1015.
+Further showing that the issue in Greisz and Weiss to which Genesis Healthcare was
+referring was the issue concerning which party was entitled to a judgment in the event of the assumed
+mootness of a plaintiff’s individual claims, Genesis Healthcare contrasted Greisz and Weiss with
+“[o]ther courts [that] have held that, in the face of an unaccepted offer of complete relief, district
+courts may ‘enter judgment in favor of the plaintiffs in accordance with the defendants’ Rule 68 offer
+of judgment.” Id. at 1529, n.4, quoting O’Brien, supra, 575 F.3d at 575 (emphasis added), and citing
+McCauley, supra.
+5
+
+The courts in each of the circuit cases that Sandoz cited regarding individual mootness had also
+assumed that the named plaintiffs’ individual claims were moot, and instead addressed the question
+of whether the class claims were moot. See Sandoz, supra, 553 F.3d at 921, n.5, citing Zeidman v.
+J. Ray McDermott & Co., 651 F.2d 1030 (5th Cir. 1981) (in which the issue was whether “a
+purported but uncertified class action [should] be dismissed for mootness upon tender to the named
+4
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 13 of 33 PageID #: 604
+
+B.
+
+The Only Result of Plaintiff’s Decision Not to Accept Defendants’
+Offer of Judgment Was, as Rule 68 of the Federal Rules of Civil
+Procedure States, That the Offer Was Deemed Withdrawn
+In Genesis Healthcare, the majority addressed the question of whether collective claims in
+
+an action brought under the Fair Labor Standards Act, 29 U.S.C. § 201, et seq. (“FLSA”), remained
+justiciable following the assumed mootness of the named plaintiff’s individual claims, such
+mootness having resulted from an unaccepted Rule 68 offer for the plaintiff’s maximum potential
+individual recovery. The dissent, however, argued that the Court should have addressed the question
+of whether the named plaintiff’s individual claims had, in fact, been mooted: “[e]mbedded within
+th[e] question [that the majority addressed] is a crucial premise: that the individual claim has become
+moot, as the lower courts held and the majority assumes without deciding.” Genesis Healthcare, 133
+S. Ct. at 1532 (Kagan, J., dissenting) (emphasis in original).
+In addressing the question of individual mootness, the dissent explained that the general rule
+that an unaccepted non-Rule 68 settlement offer does not moot a plaintiff’s claims applies equally
+where an offer is made under Rule 68:
+“[A] case becomes moot only when it is impossible for a court to
+grant any effectual relief whatever to the prevailing party.” [Chafin v.
+Chafin, 133 S. Ct. 1017, 1023 (2012)] (internal quotation marks
+omitted). By those measures, an unaccepted offer of judgment cannot
+moot a case. When a plaintiff rejects such an offer—however good
+the terms— her interest in the lawsuit remains just what it was before.
+And so too does the court’s ability to grant her relief. An unaccepted
+settlement offer—like any unaccepted contract offer—is a legal
+nullity, with no operative effect. As every first-year law student
+learns, the recipient’s rejection of an offer “leaves the matter as if no
+offer had ever been made.” Minneapolis & St. Louis R. Co. v.
+
+plaintiffs of their personal claims, despite the existence of a timely filed and diligently pursued
+pending motion for class certification,” id. at 1041 (emphasis added)); Weiss, supra; and Rand v.
+Monsanto Co., 926 F.2d 596 (7th Cir. 1991), which is discussed in note 2, supra.
+5
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 14 of 33 PageID #: 605
+
+Columbus Rolling Mill, 119 U.S. 149, 151 (1886). Nothing in Rule 68
+alters that basic principle; to the contrary, that rule specifies that
+“[a]n unaccepted offer is considered withdrawn.” Fed. Rule Civ.
+Proc. 68(b). So assuming the case was live before—because the
+plaintiff had a stake and the court could grant relief—the litigation
+carries on, unmooted.
+Id. at 1533-1534 (Kagan, J., dissenting) (emphases added).
+In addition, the dissent specifically explained why it is irrelevant that an offer made pursuant
+to Rule 68 includes an offer by the defendant to have a judgment issued in favor of the plaintiff:
+The text of the Rule contemplates that a court will enter judgment
+only when a plaintiff accepts an offer. See Rule 68(a) (“If. . . the
+[plaintiff] serves written notice accepting the offer, either party may
+then file the offer and notice of acceptance, plus proof of service. The
+clerk must then enter judgment”). And the Rule prohibits a court from
+considering an unaccepted offer for any purpose other than
+allocating litigation costs—including for the purpose of entering
+judgment for either party. See Rule 68(b) (“Evidence of an
+unaccepted offer is not admissible except in a proceeding to
+determine costs”). That injunction accords with Rule 68’s exclusive
+purpose: to promote voluntary cessation of litigation by imposing
+costs on plaintiffs who spurn certain settlement offers. See Marek v.
+Chesny, 473 U.S. 1, 5 (1985). The Rule provides no appropriate
+mechanism for a court to terminate a lawsuit without the plaintiff’s
+consent.
+Id. at 1535-1536 (Kagan, J., dissenting) (emphases added).
+C.
+
+Numerous Post-Genesis Healthcare Cases Have Adopted
+the Reasoning of the Genesis Healthcare Dissent and Held
+That an Unaccepted Rule 68 Offer of Judgment for a Plaintiff’s
+Maximum Potential Recovery Cannot Moot the Plaintiff’s Claims
+Both Courts of Appeals to have addressed the issue of whether a plaintiff’s claims are mooted
+
+by an unaccepted Rule 68 offer of judgment for the plaintiff’s maximum potential recovery have held
+in the negative. In Diaz v. First American Home Buyers Protection Corp., 732 F.3d 948 (9th Cir.
+2013), the Ninth Circuit became the first of two post-Genesis Healthcare Circuit Courts to have
+6
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 15 of 33 PageID #: 606
+
+ruled on the question of “whether an unaccepted Rule 68 offer that would have fully satisfied a
+plaintiff’s claim is sufficient to render the claim moot.” Id. at 952. The Ninth Circuit held that it is
+not. See id. at 950. The Diaz court acknowledged that the Ninth Circuit had not addressed the
+question specifically but instead merely assumed the answer to it:
+In Pitts v. Terrible Herbst, Inc., 653 F.3d 1081, 1091-92 (9th Cir.
+2011), we held “that an unaccepted Rule 68 offer of judgment - for
+the full amount of the named plaintiff’s individual claim and made
+before the named plaintiff files a motion for class certification - does
+not moot a class action” (emphasis added), but we did not squarely
+address whether the offer mooted the plaintiff’s individual claim. We
+assumed that an unaccepted offer for complete relief will moot a
+claim, but we neither held that to be the case nor analyzed the issue.
+See id. at 1090-92.
+Id. at 952 (emphases added). The Diaz court also noted that, “[a]lthough the majority of courts and
+commentators appear to agree with the Seventh Circuit that an unaccepted offer will moot a
+plaintiff’s claim, four justices of the United States Supreme Court, as well as the Solicitor General
+of the United States, embraced a contrary position in Genesis Healthcare.” Id. at 953, citing Brief
+for the United States as Amicus Curiae Supporting Affirmance in Genesis Healthcare (footnote
+omitted).6
+The Diaz court then proceeded to quote, at length, the Genesis Healthcare dissent’s
+discussion of whether an unaccepted Rule 68 offer that fully satisfies a plaintiff’s claims moots those
+claims, see id. at 953-954; and, adopting the dissent’s rationale, Diaz concluded as follows:
+6
+
+The Seventh Circuit opinion to which Diaz was referring is Rand v. Monsanto, supra, which is
+discussed in Point I, note 1, supra. In addition, the omitted footnote from the Diaz quotation cited
+two more Seventh Circuit cases: Thorogood v. Sears, Roebuck & Co., 595 F.3d 750 (7th Cir. 2010),
+and Greisz, supra. In Thorogood, the issue was not whether, as a general matter, a claim is mooted
+by an unaccepted offer of judgment for a named plaintiff’s maximum potential recovery on his
+individual claims, but weather the offer of judgment at issue was, in fact, for that maximum. See
+Thorogood, 595 F.3d at 752.
+7
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 16 of 33 PageID #: 607
+
+We are persuaded that Justice Kagan has articulated the
+correct approach. We therefore hold that an unaccepted Rule 68 offer
+that would have fully satisfied a plaintiff’s claim does not render that
+claim moot. This holding is consistent with the language, structure
+and purposes of Rule 68 and with fundamental principles governing
+mootness. These principles provide that “[a] case becomes moot only
+when it is impossible for a court to grant ‘any effectual relief
+whatever to the prevailing party.’” Knox v. Serv. Employees Int’l
+Union, 132 S. Ct. 2277, 2287 (2012) (quoting City of Erie v. Pap’s
+A.M., 529 U.S. 277, 287 (2000)). Here, once [the defendant]’s offer
+lapsed, it was, by its own terms and under Rule 68, a legal nullity [].
+Id. at 955 (emphases added).
+In Stein v. Buccaneers Ltd. P’ship, No. 13-15417, – F.3d – , 2014 WL 6734819 (11th Cir.
+Dec. 1, 2014), the court likewise reasoned that, under the plain meaning of Rule 68, an unaccepted
+offer of judgment cannot moot a plaintiff’s claims:
+Giving controlling effect to an unaccepted Rule 68
+offer—dismissing a case based on an unaccepted offer as was done
+here—is flatly inconsistent with the rule. When the deadline for
+accepting these offers passed, they were “considered withdrawn” and
+were “not admissible.” See Fed.R.Civ.P. 68(b). The plaintiffs could
+no longer accept the offers or require the court to enter judgment. In
+short, the plaintiffs still had their claims, and [the defendant] still had
+its defenses. [The defendant] had not paid the plaintiffs, was not
+obligated to pay the plaintiffs, and had not been enjoined from
+[violating the TCPA provision at issue]. The named plaintiffs’
+individual claims were not moot.
+Id. at 3 (emphases added). The Stein court further explained, in reasoning that is fully applicable to
+Independence Energy’ offer (as seen at A-23 - A-24), as follows:
+Our result draws further support from the terms [that the
+defendant] itself included in the offers of judgment. Each offer said:
+This offer of judgment is made for the purposes
+specified in Federal Rule of Civil Procedure 68,
+and is not to be construed as either an admission
+that [the defendant] is liable in this action, or that
+8
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 17 of 33 PageID #: 608
+
+the [plaintiff to whom the offer is directed] has
+suffered any damage. This Offer of Judgment
+shall not be filed with the Court unless (a)
+accepted or (b) in a proceeding to determine costs.
+The Plaintiff must serve written acceptance of this
+offer within fourteen (14) days, or this offer will
+be deemed rejected.
+So the offers made clear they would have no effect—would
+not even be filed—unless accepted or in a proceeding to determine
+costs.
+Just two days after saying its offers “shall not be filed,” [the
+defendant] filed the offers. And despite having said that if not
+accepted the offers would be “deemed rejected,” [the defendant] now
+says, in effect, that the offers must be treated as having been
+accepted—as having obligated [the defendant] to pay the offered
+amounts and to comply with an injunction that was never issued. The
+terms of the offers will not bear that construction.
+. . . After the offers lapsed, . . . the legal relationship between
+[the defendant] and the named plaintiffs was precisely the same as
+before the offers were made: the named plaintiffs had claims against
+[the defendant] under the [TCPA]; [the defendant] retained all [of]
+its defenses; no ruling had been made on the validity of the claims or
+defenses; and no judgment had been entered. [The defendant] had not
+paid the plaintiffs, was not obligated to pay the plaintiffs, and had not
+been enjoined from [violating the TCPA provision at issue]. The
+individual claims were not moot. The order dismissing this action
+must be reversed.
+Id. at *4-*5 (emphasis added).
+In Boucher v. Rioux, No. 14-cv-141, 2014 WL 4417914 (D.N.H. Sept. 8, 2014), the court
+noted that “[p]ost-Genesis jurisprudence in both the circuit courts and the district courts has taken
+a favorable view of Justice Kagan’s dissent[,] . . . [t]he most notable application of [it being] the
+Ninth Circuit’s decision in Diaz.” Id. at *3. The Boucher court also noted that, in Scott v. Westlake
+Services LLC, 740 F.3d 1124 (7th Cir. 2014), “[t]he Seventh Circuit, which once held that a plaintiff
+
+9
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 18 of 33 PageID #: 609
+
+forfeits his claim if he refuses a Rule 68 offer of judgment that fully satisfies his entire demand, see
+Rand, 926 F.2d at 596, questioned [the Seventh Circuit’s previous] holding in light of Justice
+Kagan’s dissent and Diaz.” Id. (citation omitted).
+The Boucher court further observed that, “[i]n the circuit courts, there are only two
+counterweights to Diaz and Scott, but they are very light.” Id. at *4. First, Boucher noted that, in
+Hrivnak v. NCO Portfolio Management, Inc., 719 F.3d 564 (6th Cir. 2013), “there was no reason for
+the court to reconsider [a pre-Genesis Healthcare Sixth Circuit precedent] because the Hrivnak
+‘defendants did not offer to satisfy all of [the plaintiff]’s individual demands.’” Id., quoting Hrivnak,
+719 F.3d at 568. For this reason, the Boucher court found that “Hrivnak cannot be counted as a
+rejection of Justice Kagan’s reasoning.” Id.
+Second, the Boucher court, referring to Doyle v. Midland, supra, found that “the Second
+Circuit relied upon its earlier decision in Abrams, supra, to affirm the dismissal of a claim as moot,
+due to the defendant’s unaccepted offer of judgment[,] [but] [t]he court did not cite Justice Kagan’s
+dissent or reconsider [the prior case] . . . ; the only issue [] in Doyle was whether the district court
+correctly treated an oral offer at a motion hearing as a Rule 68 offer of settlement.” Id., citing Doyle,
+727 F.3d at 80-81 (additional citation omitted). Thus, as Boucher noted, “[i]n short, neither Hrivnak
+nor Doyle gives this court any reason not to adopt the reasoning in Justice Kagan’s dissent.” Id.7
+7
+
+The Boucher court, having acknowledged that some post-Genesis Healthcare district courts found
+themselves to be foreclosed by their circuits’ precedent, summarized the state of the post-Genesis
+Healthcare case law as follows:
+The long and the short of it is that since Genesis was decided:
+(1) two district courts in circuits without binding precedent barring
+application of the reasoning in Justice Kagan’s dissent have adopted
+that reasoning; and (2) three district courts in circuits with binding
+precedent barring application of Justice Kagan’s reasoning have
+10
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 19 of 33 PageID #: 610
+
+In Delgado v. Castellino Corp., No. 13-cv-03379, 2014 WL 4339232 (D. Colo. Sept. 2,
+2014), the court, which also followed the Genesis Healthcare dissent, initially noted as follows:
+On the one hand, four members of the dissent have indicated, in stark
+and unflinching terms, that they absolutely reject the notion that an
+unaccepted Offer of Judgment can operate to moot a plaintiff’s claim.
+On the other hand, the majority’s opinion carefully and deliberately
+avoids that question, acknowledging a Circuit split on the issue but
+expressly stating that “we do not reach this question, or resolve the
+split, because the issue is not properly before us.” 133 S.Ct. at 152829. Rather, the majority merely assumes the applicability of a doctrine
+that the dissent so vigorously rejects, never actually endorsing it. . .
+.
+Id. at *3. The court proceeded to adopt the rationale of the Genesis Healthcare dissent:
+Ultimately, this Court elects to err on the side of caution,
+allowing [the plaintiff]’s claims to proceed. Four Justices of the
+Supreme Court emphatically reject the notion that an unaccepted
+Offer of Judgment can render a claim moot. If the majority in Genesis
+had affirmed that doctrine, or even expressed some support for it, this
+Court might be inclined to concede the doctrine’s continuing vitality.
+But they did not — beyond acknowledging the existing Circuit split
+on the question and carefully construing the grant of certiorari to
+avoid reaching that matter, the majority gave no signal that it viewed
+the “mootness-by-unaccepted-offer theory” with any degree of favor.
+. . . As between extremely vocal opponents of the doctrine on one
+side, and an absence of any vocal proponents for it on the other, this
+Court is compelled to conclude that the doctrine is waning in power.
+Id.
+
+indicated their approval of her approach, but were precluded by
+circuit precedent from adopting it. What the court has been unable to
+locate, despite a diligent search, is even a single district-court
+opinion, from a circuit that has not weighed in on the issue, that
+rejects Justice Kagan’s reasoning. The jurisprudence as a whole
+counsels in favor of adopting the reasoning of Justice Kagan and
+Diaz.
+Id. at *7.
+11
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 20 of 33 PageID #: 611
+
+In Bais Yaakov of Spring Valley v. Act, Inc., No. 12-cv-40088, 2013 WL 6596720 (D. Mass.
+Dec. 16, 2013), the court also invoked the reasoning of the Genesis Healthcare dissent and Diaz,
+ruling that the named plaintiff’s individual claims were not moot:
+The ability of a plaintiff to accept or reject the offer of judgment is
+what Justice Kagan emphasizes when she finds [that] an unaccepted
+offer of judgment cannot moot a claim . . . . See Genesis Healthcare,
+133 S.Ct. at 1532-38 (Kagan, J. dissenting).
+With no controlling precedent in the First Circuit, this Court
+has looked to the reasoning expressed by other courts on this issue,
+and is persuaded by that expressed [by] the Ninth Circuit in Diaz and
+by Justice Kagan’s dissent in Genesis Healthcare. By its terms, Rule
+68 gives plaintiff the ability to either accept or reject an offer, and
+gives a court authority to “enter judgment only when a plaintiff
+accepts an offer.” Genesis Healthcare, 133 S.Ct. at 1536 (Kagan, J.
+dissenting) . . . An “offer,” rather than “order,” “ruling,” or other
+like terms, gives the offeree the ability to accept its terms or reject it
+and proceed unhindered.
+Id. at *4 (emphases added).
+Independence Energy notes that this Court, in Bank v. Caribbean Cruise Line, LLC, No.
+12-cv-05572 (E.D.N.Y.), “dismiss[ed] Plaintiff Todd Bank's allegations under the TCPA based on
+offer of judgment that Plaintiff permitted to expire.” Def. Mem. at 7. However, Independence Energy
+fails to note that an appeal of this ruling is pending. See 2d Cir. No. 14-4720 (oral argument is
+scheduled for May 29, 2015). Independence Energy also cites Bank v. Spark Energy Holdings, LLC,
+No. 13-cv-6130, 2014 WL 2805114 (E.D.N.Y. June 20, 2014), for “noting that ‘[t]he Second Circuit
+agrees that a rejected Rule 68 offer for complete relief can render a plaintiffs claim moot ... . ,’” Def.
+Mem. at 8, but fails to note that the footnote containing that quotation was from that paragraph of
+the opinion’s text explicitly stating that the issue of whether an unaccepted offer of judgment could
+moot a claim was not before the court because no offer had been made.
+12
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 21 of 33 PageID #: 612
+
+As with respect to Bank v. Spark Energy, Independence Energy cites Aleman v. Innovative
+Elec. Servs. L.L.C., No. 14-cv-868, 2014 WL 4742726 (S.D.N.Y. Sept. 15, 2014), for the same
+proposition but fails to note that the question of whether an unaccepted offer of judgment could moot
+a claim was not before the court, as the “plaintiffs argue[d] only that the motion to dismiss should
+be denied because plaintiffs have not yet moved for attorney's fees.” Aleman, 2014 WL 4742726,
+*3, n.3.
+In sum, the only result of an unaccepted Rule 68 offer of judgment is that, as the plain
+language of the Rule 68 states, the offer is deemed withdrawn.
+POINT II
+THE CLASS CLAIMS ARE NOT MOOT
+A.
+
+Under the Relation-Back Doctrine, Plaintiff’s Class Claims Would Have
+Remained Viable Even if Plaintiff’s Individual Claims Had Been Mooted
+Numerous courts in this Circuit have held that, where an offer of judgment moots the
+
+individual claims of a putative class representative before a motion for class certification has been
+made, the class claims remain viable unless the plaintiff had been dilatory in seeking class
+certification. See Thomas v. American Serv. Fin. Corp., No. 12-cv-4235, 2013 WL 1898954, *7-9
+(E.D.N.Y. May 7, 2013); Herzlinger v. Nichter, No. 09-cv-00192, 2011 WL 4585251, *8 (S.D.N.Y.
+Sept. 8, 2011), adopted, No. 09-cv-00192, 2011 WL 4575126, *1 (S.D.N.Y. Oct. 3, 2011);
+McDowall v. Cogan, 216 F.R.D. 46, 51 (E.D.N.Y. 2003); Morgan v. Account Collection Technology,
+LLC, No. 05-cv-2131, 2006 WL 2597865, *8 (S.D.N.Y. Sept. 6, 2006); Vega v. Credit Bureau
+Enters., No. 02-cv-1550, 2003 WL 21544258, *2 (E.D.N.Y. July 9, 2003); Nasca v. GC Services
+Ltd. Fartnership, No. 01-cv-10127, 2002 WL 31040647, *3 (S.D.N.Y. Sept. 12, 2002); White v. OSI
+
+13
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 22 of 33 PageID #: 613
+
+Collection Services, Inc., No. 01-CV-1343, 2001 WL 1590518, *5-6 (E.D.N.Y. Nov. 5, 2001).
+In McDowall, supra, the court held “that if a defendant wishes to make an offer of judgment
+prior to class certification in the interests of effecting a reasonable settlement and avoiding the costs
+and inefficiencies of litigation, it must do so to the putative class and not to the named plaintiff
+alone.” McDowall, 216 F.R.D. at 51 (emphasis added). The McDowall court reasoned that
+“defendants should [not] be allowed to force plaintiffs into hastily-drafted certification motions . .
+. before the record for such [a] motion [was] complete—indeed before an [a]nswer [was] filed.” Id.
+at 51. The McDowall court further reasoned that, absent the relation-back doctrine, there would be
+“a race to the courthouse between defendants armed with uninformed offers and plaintiffs with
+under-researched certification motions.” Id.
+Other courts in this Circuit that have reached the same conclusion as did McDowell employed
+similar reasoning. See, e.g. Herzlinger, supra, 2011 WL 4585251, *8 (“[t]his Court cannot conclude
+that [the] [p]laintiff’s counsel . . . acted in bad faith on the basis that his client refused to accept an
+offer of judgment made to [the] [p]laintiff (1) only in her individual capacity, (2) prior to the time
+that [the] [d]efendants answered the complaint, (3) long before the deadline for class certification
+motions, and (4) which would have required her to abandon the claims of the putative class.”);
+Morgan, supra, 2006 WL 2597865, *8 (“[the] [p]laintiff’s claims ought not to be rendered moot by
+an offer of judgment submitted before counsel has a reasonable opportunity to compile a record
+necessary to support a motion for class certification,” quoting Vega, supra, 2003 WL 21544258, *2);
+Nasca, supra, 2002 WL 31040647, *3 (“[the plaintiff] has not yet had a reasonable opportunity to
+file a motion for certification. Less than two months after it filed its answer, and one month after the
+initial conference, [the defendant] submitted its Rule 68 offer. . . . To allow a Rule 68 offer to moot
+14
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 23 of 33 PageID #: 614
+
+a named plaintiff’s claim in these circumstances would encourage defendants to pick off named
+plaintiffs in the earliest stage of the case.”); White, supra, 2001 WL 1590518, *5-6 (“when [a]
+defendant’s offer of judgment comes very early in the litigation and before a plaintiff, who has
+indicated in her complaint her intention to pursue the claim in a representative manner, can
+reasonably bring a motion to certify[,] it is proper to apply the relation back exception even though
+no motion for class certification has yet been filed.”).
+Both circuit courts to have addressed the issue of whether Genesis Healthcare abrogated the
+relation-back doctrine in Rule 23 class actions have held in the negative. See Stein v. Buccaneers Ltd.
+P’ship, No. 13-15417, – F.3d – , 2014 WL 6734819, *3-*11 (11th Cir. Dec. 1, 2014); see also
+Mabary v. Home Town Bank, N.A., No. 13-20211, – F.3d – , 2014 WL 5801352 (5th Cir. Nov. 5,
+2014), in which the court explained that “[t]he Supreme Court [in Genesis Healthcare] rejected the
+plaintiff’s reliance on Rule 23 class action cases, explaining that ‘Rule 23 actions are fundamentally
+different from collective actions under the FLSA.’” Id. at *3, quoting Genesis Healthcare, 133 S.Ct.
+at 1529 (footnote omitted).
+Genesis Healthcare found that three Rule 23 precedents, i.e., Sosna v. Iowa, 419 U.S. 393
+(1975), Deposit Guaranty Nat’l Bank v. Roper, 445 U.S. 326 (1980), and United States Parole
+Comm’n v. Geraghty, 445 U.S. 388 (1980), “are inapposite,” Genesis Healthcare, 133 S. Ct. at 1529,
+not only because they were “by their own terms, inapplicable to the[] facts [in Genesis Healthcare],”
+id., but also because “Rule 23 actions are fundamentally different from collective actions under the
+FLSA.” Id. (emphasis added). As the Court explained:
+More fundamentally, essential to our decisions in Sosna and
+Geraghty was the fact that a putative class acquires an independent
+legal status once it is certified under Rule 23. Under the FLSA, by
+15
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 24 of 33 PageID #: 615
+
+contrast, “conditional certification” does not produce a class with an
+independent legal status, or join additional parties to the action. The
+sole consequence of conditional certification is the sending of courtapproved written notice to employees, who in turn become parties to
+a collective action only by filing written consent with the court, [29
+U.S.C.] § 216(b). So even if [the plaintiff] were to secure a
+conditional certification ruling on remand, nothing in that ruling
+would preserve her suit from mootness.
+Id. at 1530 (citation omitted). While the Court’s discussion of the three Rule 23 precedents indicated
+that the relation-back doctrine likely would apply in an FLSA collective action if the facts in a
+particular case were comparable to the facts in any of those precedents, the question of whether the
+facts in the present case are so comparable need not be addressed, as the Court’s reliance upon the
+differences between FLSA collective actions and Rule 23 class actions negates the notion that
+Genesis Healthcare is applicable to Rule 23 class actions.
+B.
+
+Plaintiff’s Interest in Sharing the Expenses of this Action With the Putative
+Class Members Satisfies the ‘Case or Controversy’ Requirement
+Further making it clear that Genesis Healthcare does not apply in Rule 23 class actions,
+
+Genesis Healthcare pointed out that the Court, in a previous case, had held that the defendant’s offer
+of judgment for the maximum potential recovery of the named plaintiffs following the district court’s
+denial of Rule 23 class certification did not moot the class claims, and that, therefore, the named
+plaintiffs could appeal the denial of certification despite the (assumed) mootness of their individual
+claims. See Genesis Healthcare, 133 S. Ct. at 1531-1532, discussing Deposit Guaranty Nat’l Bank
+v. Roper, 445 U.S. 326 (1980).8 As Genesis Healthcare explained:
+8
+
+The question that Roper addressed was not whether the named plaintiffs’ individual claims were
+moot but, rather, “whether a tender to named plaintiffs in a class action of the amounts claimed in
+their individual capacities, followed by the entry of judgment in their favor on the basis of that
+tender, over their objection, moots the case and terminates their right to appeal the denial of class
+certification.” Roper, 445 U.S. at 327 (emphasis added).
+16
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 25 of 33 PageID #: 616
+
+In Roper, the named plaintiffs’ individual claims became
+moot after the District Court denied their motion for class
+certification under Rule 23 and subsequently entered judgment in
+their favor, based on the defendant[]’s offer of judgment for the
+maximum recoverable amount of damages, in addition to interest and
+court costs. The [Roper] Court held that even though the District
+Court had entered judgment in the named plaintiffs’ favor, they could
+nevertheless appeal the denial of their motion to certify the class. The
+Court found that, under the particular circumstances of that case, the
+named plaintiffs possessed an ongoing, personal economic stake in
+the substantive controversy—namely, to shift a portion of attorney’s
+fees and expenses to successful class litigants. Only then, in dicta, did
+the Court underscore the importance of a district court’s class
+certification decision and observe that allowing defendants to “pic[k]
+off” party plaintiffs before an affirmative ruling was achieved “would
+frustrate the objectives of class actions.”
+. . . Roper’s dictum was tethered to the unique significance of
+certification decisions in [Rule 23] class-action proceedings.
+Whatever significance “conditional certification” may have in
+[FLSA] proceedings, it is not tantamount to class certification under
+Rule 23.
+Genesis Healthcare, 133 S. Ct. at 1531-1532 (emphases added; footnote and citations omitted).9 As
+Roper summarized, “[w]e can assume that a district court’s final judgment fully satisfying named
+plaintiffs’ private substantive claims would preclude their appeal on that aspect of the final
+judgment; however, it does not follow that this circumstance would terminate the named plaintiffs’
+right to take an appeal on the issue of class certification.” Roper, 445 U.S. at 333. In the present case
+as in Roper, Plaintiffs have an interest in spreading their expenses among the putative class
+
+9
+
+In the omitted footnote, the Court stated as follows: “[b]ecause Roper is distinguishable on the
+facts, we need not consider its continuing validity in light of our subsequent decision in Lewis v.
+Continental Bank Corp., 494 U. S. 472 (1990). See id., at 480 (‘[An] interest in attorney’s fees is,
+of course, insufficient to create an Article III case or controversy where none exists on the merits of
+the underlying claim’).” Genesis Healthcare, 133 S. Ct. at 1532, n.5. Even assuming, arguendo, that
+a named plaintiff’s interest in the sharing of his legal fees is insufficient to satisfy Article III, there
+has been no suggestion that the interest in sharing expenses is insufficient.
+17
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 26 of 33 PageID #: 617
+
+members.
+C.
+
+Numerous Post-Genesis Healthcare Cases Have Held That
+Genesis Healthcare Does Not Apply to Rule 23 Class Actions
+In Wigton v. Kaplan, No. 10-cv-01768, 2014 WL 4272791 (W.D. Pa. Aug. 29, 2014), the
+
+court found that Genesis Healthcare did not apply to Rule 23 actions:
+[T]he Court unequivocally held in [Genesis Healthcare] that its Rule
+23 jurisprudence was inapposite to the FLSA analysis because “Rule
+23 actions are fundamentally different from collective actions under
+the FLSA.” [Genesis Healthcare, 133 S.Ct. at 1529]. . . .
+More importantly, it is plain that under current Third Circuit
+precedent, where there is not an undue delay in moving for class
+certification, the motion for such certification relates back to the
+filing of the class complaint. Weiss [v. Regal Collections], 385 F.3d
+[337] at 348 [(3d Cir. 2004)]; see Weitzner v. Sanofi Pasteur, Inc.,
+[No. 11-cv-2198,] 2014 WL 956997, at *5-6 (M.D. Pa. Mar. 12,
+2014), amended, 2014 WL 1786500 (M.D. Pa. May 5, 2014). The
+Weitzner court also recited the cavalcade of cases which have held
+that the [Genesis Healthcare] holding was limited to FLSA collective
+actions, taking the Supreme Court’s statements of the non-relation to
+Rule 23 class claims at their word. See Weitzner, 2014 WL 956997
+at *7. This Court concludes that . . . the rule in Weiss remains the
+applicable rule of decision in these regards.
+Id. at *7, n.8 (emphases added). Accord, March v. Medicredit, Inc., No. 13-cv-01210, 2013 WL
+6265070 (E.D. Mo. Dec. 4, 2013).
+In Bais Yaakov of Spring Valley v. Act, Inc., No. 12-cv-40088, 2013 WL 6596720 (D. Mass.
+Dec. 16, 2013), the court ruled as follows:
+A plaintiff seeking to represent a class should be permitted to accept
+an offer of judgment on her individual claims under Rule 68, receive
+her requested individual relief, and have the case dismissed, or reject
+the offer and proceed with the class action. Here, [the] [p]laintiff
+chose the latter course, and, having allowed the offer to lapse, still
+has an unsatisfied claim that can be redressed by the Court. This
+case, therefore, has not been rendered moot, and the Court retains
+18
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 27 of 33 PageID #: 618
+
+subject matter jurisdiction.
+Id. at *4 (emphases added).
+In Sandusky Wellness Center LLC v. Medtox Scientific, Inc., No. 12-cv-2066, 2013 WL
+3771397 (D. Minn. July 18, 2013), the court explained:
+Although Genesis declined to “resolve the question of
+whether a Rule 68 offer that fully satisfies the plaintiff’s claims [in
+the Rule 23 context] is sufficient by itself to moot the action,”
+[Genesis Healthcare, 133 S. Ct.] at 1529 n. 4, it noted several
+differences between collective and class actions. Specifically, the
+Court distinguished FLSA collective actions from class actions,
+explaining that in the former, “conditional certification does not
+produce a class with an independent legal status,” whereas a “putative
+class acquires an independent legal status once it is certified under
+Rule 23.” Id. at 1530 (citation and internal quotation marks omitted).
+In doing so, the Court ignored Rule 23 precedent, explaining that
+“these cases are inapposite ... because Rule 23 actions are
+fundamentally different from collective actions under the FLSA.” Id.
+at 1529. In other words, Genesis is inapplicable to a Rule 23 action
+brought under the [Telephone Consumer Protection Act, 47 U.S.C.
+§ 227 (“TCPA”).] See, e.g., Chen v. Allstate Ins. Co., No. C 13-0685,
+2013 WL 2558012, at *7 (N.D.Cal. June 10, 2013) [appeal pending
+(9th Cir., No. 13-80177)] (finding that Genesis “is not directly
+applicable to the class action context”); Falls v. Silver Cross Hosp.
+& Med. Ctrs., No. 13 C 695, 2013 WL 2338154, at *1 (N.D.Ill. May
+24, 2013) (same).
+Id. at *2 (emphases added).
+In Ramirez v. Trans Union, LLC, No. 12-cv-00632, 2013 WL 3752591 (N.D. Cal. July 17,
+2013), the court likewise pointed to Genesis Healthcare’s reliance upon the differences between
+FLSA collective actions and Rule 23 class actions:
+The . . . court [in Pitts v. Terrible Herbst, Inc., 653 F.3d 1081 (9th
+Cir. 2011)] ruled: “we hold that an unaccepted Rule 68 offer of
+judgment —for the full amount of the named plaintiff’s individual
+claim and made before the named plaintiff files a motion for class
+certification—does not moot a class action.” Pitts, 652 F.3d at 109119
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 28 of 33 PageID #: 619
+
+92. . . .
+***
+[Genesis Healthcare] is an FLSA collective action, whereas
+Pitts is a Rule 23 class action. The Supreme Court explicitly
+distinguished between the scenario presented by [Genesis
+Healthcare], an FLSA action, as opposed to a Rule 23 class action.
+Calling Rule 23 cases “inapposite” and “inapplicable” to an FLSA
+claim, the Court declined to apply case law from Rule 23 actions
+“because Rule 23 actions are fundamentally different from collective
+actions under the FLSA.” Id. at 1524. The Rule 23 cases the Court
+cited to as inapplicable to [the Genesis Healthcare plaintiff]’s FLSA
+lawsuit included three cases cited by the Ninth Circuit in Pitts:
+Geraghty, Roper, and Sosna. See [Genesis Healthcare], 133 S.Ct. at
+1530-32. [Genesis Healthcare]’s delineation between Rule 23 class
+actions and FLSA collective actions bars a finding that [Genesis
+Healthcare] is “clearly irreconcilable” with Pitts. See Canada v.
+Meracord, LLP, C12-5657 BHS, 2013 WL 2450631, at *1 (W.D.
+Wash. June 6, 2013) (calling Pitts “directly on point” and stating,
+“there is nothing to indicate that the [Genesis Healthcare] holding
+extends beyond FLSA collective actions”); Chen v. Allstate Ins. Co.
+[No. 13-cv-6085], 2013 WL 2558012, at *8 (N.D. Cal. June 10,
+2013) [appeal pending (9th Cir., No. 13-80177)] (“Genesis, which
+was an FLSA collective action, is easily distinguishable from Pitts.”).
+Id. at *2-*3 (emphases added).
+In Church v. Accretive Health, Inc., 299 F.R.D. 676, 679 (S.D. Ala. 2014), the court likewise
+found that Genesis Healthcare is limited to FLSA collective actions. See id. at 679 (“[t]he premise
+that a Rule 68 offer of judgment moots a class action in the absence of a prior Rule 23 motion is a
+decidedly minority view.”).10
+10
+
+The court further noted that costs to judicial economy would result from premature classcertification motions that are filed for the sole purpose of preserving class claims in the event of an
+offer of judgment:
+[The plaintiff]’s “placeholder” [m]otion for [c]lass [c]ertification is
+highly unlikely to confer any meaningful benefit or protection on
+plaintiff.
+20
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 29 of 33 PageID #: 620
+
+Finally, in Jenkins v. Pech, No. 14-cv-41, 2014 WL 4247734 (D. Neb. Aug. 27, 2014), the
+court found that the offer of judgment did not equal the individual plaintiff’s maximum potential
+recovery, but explained, in dicta, why Genesis Healthcare was inapplicable in Rule 23 actions:
+The court rejects the defendants’ argument that the timing of
+the offer of judgment (preceding the motion for class certification)
+weighs in favor of granting their motion. . . . The plaintiff did not
+drag her feet in filing for class certification. To allow defendants to
+avoid liability for its allegedly class-wide wrongs merely by racing to
+proffer settlement offers effectively denying all putative plaintiffs’
+claims at the inception of a case would be bad policy and would
+effectively eviscerate the effectiveness of class action lawsuits in
+cases such as this one where individual damages are relatively small
+and not worthy of individual efforts to recover.
+Id. at *6 (emphases added). Accord, Prater v. Medicredit, Inc., No. 14-cv-159, 2014 WL 3973863,
+*2 (E.D. Mo. August 14, 2014).
+
+On the other side of the ledger, [the plaintiff]’s course of
+action comes with a cost. The court file is burdened with an obviously
+premature Rule 23 Motion that is devoid of content. Clerk’s Office
+staff would be required to track, monitor and report the motion for
+many months as it sits idly, collecting dust, while the plaintiff gathers
+information via discovery to populate the motion with actual
+substance. In addition to this administrative cost, plaintiff’s actions
+promote inefficiency and waste. Not only is it premature, but the Rule
+23 Motion filed now may prove unnecessary because plaintiff may
+think better of pursuing such a motion based on the results of
+discovery. Yet plaintiff advocates a system in which litigants race to
+the courthouse to file empty, placeholder motions that may or may not
+ever be litigated, and that are neither required nor encouraged by the
+Federal Rules of Civil Procedure. See Weiss v. Regal Collections, 385
+F.3d 337, 347 (3rd Cir. 2004) (federal rules do not “require or
+encourage premature certification determinations”). Such a proposal
+contravenes the spirit of federal practice, and raises significant
+concerns as to efficiency and judicial economy.
+Church, 299 F.R.D. at 679 (emphasis added).
+21
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 30 of 33 PageID #: 621
+
+POINT III
+DEFENDANTS HAVE NOT MET THEIR
+BURDEN FOR OBTAINING SUMMARY JUDGMENT
+The sole basis for Independence Energy’s contention that Bank lacks standing is the
+following finding made by this Court in ruling upon Independence Energy’s previous Rule 12(b)(6)
+motion: “‘businesses should be able to gather numbers from public directories or websites that list
+business telephone numbers (such as the Yellow Pages) under the assumption that such lines are not
+residential. A telephone subscriber who registers a line with the telephone company as a residential
+line but then lists the number in the Yell ow Pages and other directories as a business line sacrifices
+the protections afforded by the TCPA.’” Def. Mem. at 12, quoting Order dated Oct. 2, 2014, Dkt.
+No. 37, at 6-7.
+First, the very reasonable implication of the above-quoted passages is that a defendant should
+not be held liable for calling a person at his residence when the defendant has obtained that person’s
+telephone number from a business directory or listing. However, Independence Energy has not
+shown that this was the case; and, to be sure, the burden of showing how a plaintiff’s telephone
+number was obtained should, based on common sense, be on the defendant, as only the defendant
+is in a position to create and maintain such records. Even aside from the irony that one of the listings
+upon which Independence Energy relies to show that Bank’s number was listed as a business number
+was instead listed as a residential number (see Declaration of Todd C. Bank, ¶ 2), Independence
+Energy has never produced any indication of how Bank’s number was obtained. Independence
+Energy has sought to portray Bank as seeking to unfairly take advantage of the fact that his
+“business” telephone number belongs to his residence. However, if the source of that telephone
+
+22
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 31 of 33 PageID #: 622
+
+number was a residential directory or listing, then it would be Independence Energy that would be
+seeking to take advantage of the lucky (that is, lucky to Independence Energy) fact that Bank happens
+to also use the telephone number for business purposes. While the implication of this Court’s abovequoted passage is perfectly reasonable (at least in the view of Bank), the fact that Bank should not
+be able to take advantage of fortuitous circumstances should be part of a larger equation; the other
+half being that a telemarketer should likewise not be able to seek such an advantage, either.
+Just as the court in Gottlieb v. Carnival Corp., 595 F. Supp. 2d 212 (E.D.N.Y. 2009), noted,
+with respect to the TCPA’s fax-advertisement provision (Section 227(b)(1)(C)), that “‘[w]hile
+telemarketers will be responsible for determining whether a potential recipient of an advertisement,
+in fact, has invited or given permission to receive such fax messages, such a responsibility is the
+minimum necessary to protect unwilling recipients from receiving fax messages that are detrimental
+to the owner's uses of his or her fax machine,’” id. at 220, quoting S.Rep. No. 102-178, at 7-8, 1991
+U.S.C.C.A.N. 1968, at 1975-76 (1991), so, too should a telemarketer be responsible for determining
+how a recipient’s telephone number was obtained, just as that issue bears (or, as Bank argues,
+certainly should bear) on liability just as does the issue addressed in Gottlieb (i.e., consent) bears on
+liability.
+
+23
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 32 of 33 PageID #: 623
+
+CONCLUSION
+Based upon the foregoing and any other reasons that might be discerned from the record,
+Plaintiff respectfully requests that this Court: (1) deny Defendant’s motion in its entirety; and (2)
+grant Plaintiff any additional relief authorized by law.
+Dated: May 18, 2015
+Respectfully submitted,
+s/ Todd C. Bank
+TODD C. BANK
+119-40 Union Turnpike
+Fourth Floor
+Kew Gardens, New York 11415
+(718) 520-7125
+(TB-6825)
+Plaintiff Pro Se
+
+24
+
+Case 1:12-cv-01369-JG-VMS Document 61 Filed 05/18/15 Page 33 of 33 PageID #: 624
+
+CERTIFICATE OF SERVICE
+I hereby certify that on May 18, 2015, a true and accurate copy of the foregoing document
+was filed electronically. Notice of this filing will be sent to counsel all parties by operation of the
+Court’s electronic filing system. Counsel for the non-serving party is a Filing User and is served
+electronically by the Notice of Docket Activity.
+
+s/ Todd C. Bank
+TODD C. BANK
+Dated: May 18, 2015
+
+

@@ -1,0 +1,499 @@
+Karen M. Wahle
+Robert M. Stern
+O’MELVENY & MYERS LLP
+1625 Eye Street, NW
+Washington, DC 20006
+Tel: (202) 383-5300
+Fax: (202) 385-5414
+Attorneys for Defendants
+Verizon Communications Inc. and
+The Plan For Group Insurance
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+DOV FERSHTADT,
+
+CIVIL ACT. NO. 07-CV-6963
+
+Plaintiff,
+v.
+VERIZON COMMUNICATIONS INC.,
+THE PLAN FOR GROUP INSURANCE,
+METROPOLITAN LIFE INSURANCE
+COMPANY, and UNUM LIFE INSURANCE
+COMPANY OF AMERICA,
+
+MEMORANDUM IN SUPPORT OF
+THE VERIZON DEFENDANTS’
+PARTIAL MOTION TO DISMISS
+AMENDED COMPLAINT AND TO
+STRIKE JURY DEMAND
+
+JUDGE COLLEEN McMAHON
+Defendants.
+
+TABLE OF CONTENTS
+Page
+CLAIMS AND FACTS ALLEGED ............................................................................................... 1
+ARGUMENT.................................................................................................................................. 2
+I.
+
+STANDARD FOR MOTIONS UNDER FED. R. CIV. P. 12(b)(6) ...................................... 2
+
+II.
+
+COUNT II SEEKS RELIEF THAT IS UNAVAILABLE UNDER ERISA .......................... 3
+A.
+
+Monetary Damages Are Not Available Under ERISA § 502(a)(3).................................... 3
+
+B.
+
+The Requested Relief Is Not Appropriate........................................................................... 7
+
+III. COUNT III IS PREEMPTED BY ERISA AND MUST BE DISMISSED............................ 9
+IV. COUNT IV DOES NOT ASSERT A CAUSE OF ACTION ............................................... 11
+V.
+
+PLAINTIFF IS NOT ENTITLED TO A JURY ................................................................... 11
+
+CONCLUSION............................................................................................................................. 12
+
+i
+
+TABLE OF AUTHORITIES
+Page
+
+Cases
+Acquista v. New York Life Insurance Co., 285 A.D.2d 73, 730 N.Y.S.2d 272 (2001) .................. 10
+Bell Atl. Corp. v. Twombly, ___ U.S. ___, 127 S. Ct. 1955 (2007) ................................................ 2
+Billinger v. Bell Atlantic, 240 F. Supp. 2d 274 (S.D.N.Y. 2003), aff’d, 124 Fed. Appx. 669 (2d
+Cir.), cert. denied, 546 U.S. 843, 126 S. Ct. 90 (2005)............................................................. 11
+Borowski v. IBM, 978 F. Supp. 550 (D. Vt. 1997), aff’d mem., 165 F.3d 13 (2d Cir. 1998) ......... 9
+Calhoon v. TWA, Inc., 400 F.3d 593 (8th Cir. 2005) ..................................................................... 5
+Callery v. United States Life Ins. Co., 392 F.3d 401 (10th Cir. 2004)........................................... 5
+Conkey v. Reno, 885 F. Supp. 1389 (D. Nev. 1995) ....................................................................... 6
+Conley v. Gibson, 355 U.S. 41, 78 S. Ct. 99 (1957)........................................................................ 2
+Fletcher v. Powers, No. 78 Civ. 4775 (WCC), 1980 U.S. Dist. LEXIS 11491 (S.D.N.Y. May 7,
+1980) ........................................................................................................................................... 6
+Forsyth v. Humana Inc., 114 F.3d 1467 (9th Cir. 1997), aff’d on other grounds, Humana Inc. v.
+Forsyth, 525 U.S. 299, 119 S. Ct. 710 (1999)............................................................................. 9
+Frommert v. Conkright, 433 F.3d 254 (2d Cir. 2006).................................................................... 8
+Gerosa v. Savasta & Co., 329 F.3d 317 (2d Cir. 2003) ............................................................. 4, 7
+Great-West Life & Annuity Ins. Co. v. Knudson, 534 U.S. 204, 122 S. Ct. 708 (2002) ..... 4, 5, 6, 7
+Johnson v. Buckley, 356 F.3d 1067 (9th Cir. 2004) ....................................................................... 8
+Katz v. Comprehensive Plan of Group Ins., 197 F.3d 1084 (11th Cir. 1999) ................................ 9
+Kishter v. Principal Life Ins. Co., 186 F. Supp. 2d 438 (S.D.N.Y. 2002) ....................................... 6
+Kok v. First UNUM Life Ins. Co., 154 F. Supp. 2d 777 (S.D.N.Y. 2001) ..................................... 11
+Mass. Mut. Life Ins. Co. v. Russell, 473 U.S. 134, 105 S. Ct. 3085 (1985) .................................. 12
+Mauser v. Raytheon Co. Pension Plan for Salaried Employees, 239 F.3d 51 (1st Cir. 2001)....... 9
+McLeod v. Oregon Lithoprint, Inc., 102 F.3d 376 (9th Cir. 1996) ................................................ 5
+
+ii
+
+TABLE OF AUTHORITIES
+Page
+
+Mertens v. Hewitt Assocs., 508 U.S. 248, 113 S. Ct. 2063 (1993).............................................. 4, 7
+Muller v. First UNUM Life Ins. Co., 341 F.3d 119 (2d Cir. 2003) .............................................. 11
+Nechis v. Oxford Health Plans, Inc., 421 F.3d 96 (2d Cir. 2005) .............................................. 5, 7
+Ogden v. Blue Bell Creameries U.S.A., Inc., 348 F.3d 1284 (11th Cir. 2003)............................... 9
+Pelosi v. Schwab Capital Mkts., L.P., 462 F. Supp. 2d 503 (S.D.N.Y. 2006) ................................. 5
+Pilot Life Ins. Co. v. Dedeaux, 481 U.S. 41, 107 S. Ct. 1549 (1987)............................................ 11
+Priest v. Fireman’s Fund Ins. Co., No. 05-cv-0157E, 2007 U.S. Dist. LEXIS 9459 (W.D.N.Y.
+Feb. 9, 2007)............................................................................................................................... 6
+Rhorer v. Raytheon Eng’rs & Constructors, Inc., 181 F.3d 634 (5th Cir. 1999)........................... 9
+Sereboff v. Mid Atl. Med. Servs., ___ U.S. ___, 126 S. Ct. 1869 (2006) ........................................ 4
+Shaw v. Delta Air Lines, Inc., 463 U.S. 85, 103 S. Ct. 2890 (1983) ............................................. 10
+Sullivan v. LTV Aerospace & Def. Co., 82 F.3d 1251 (2d Cir. 1996).......................................... 11
+Turner v. Fallon Community Health Plan Inc., 127 F.3d 196 (1st Cir. 1997)............................... 9
+Varity Corp. v. Howe, 516 U.S. 489, 116 S. Ct. 1065 (1996)................................................. 7, 8, 9
+Wald v. Southwestern Bell Corp. Customcare Med. Plan, 83 F.3d 1002 (8th Cir. 1996) ............. 9
+Ward v. Kennard, 133 F. Supp. 2d 54 (D.D.C. 2000) .................................................................... 6
+West v. AK Steel Corp., 484 F.3d 395 (6th Cir. 2007) ................................................................... 6
+Statutes
+ERISA § 502(a)(1)(B), 29 U.S.C. § 1132(a)(1)(B).................................................................... 9, 12
+ERISA § 502(a)(3), 29 U.S.C. § 1132(a)(3)........................................................................... passim
+ERISA § 514(a), 29 U.S.C. § 1144(a) ........................................................................................... 10
+
+iii
+
+Defendants Verizon Communications Inc. (“Verizon”) and the Plan for Group Insurance
+(the “Plan”) (together, the “Verizon Defendants”) respectfully submit this memorandum in
+support of their motion to dismiss Counts II-IV of plaintiff’s Amended Complaint (“Compl.”)
+[Dkt. #10] pursuant to Fed. R. Civ. P. 12(b)(6). The Verizon Defendants also move to strike
+plaintiff’s demand for trial by jury.
+CLAIMS AND FACTS ALLEGED
+Plaintiff was employed by Verizon (or its predecessor corporations) between 1982 and
+2005. (Compl. ¶¶ 3, 15.) After the events of 9/11, he suffered from major depression, posttraumatic stress disorder, and dementia. (Id. ¶¶ 29, 32-33.) During various periods between
+2004-2007, he applied for and received disability benefits under the Plan, an employee welfare
+benefit plan sponsored by Verizon and covered under the Employee Retirement Income Security
+Act of 1974, 29 U.S.C.§ 1001, et seq. (“ERISA”). Although plaintiff’s disability benefits were
+terminated on or about August 2006 (Compl. ¶ 71), this termination was reversed on appeal in
+September 2006 (id. ¶ 75). He is currently receiving monthly benefits from the Plan. (Id. ¶ 76.)
+Plaintiff disputes the amount of the Plan benefits that he is entitled to, however. He
+alleges that, under the program in which he participated, he is entitled to receive benefits equal
+to 66% of his previous income, and that the benefits are not subject to tax. (Compl. ¶ 88.)
+Instead, he alleges, he is receiving benefits equal to only 50% of his previous income, and that
+these benefits are taxable. (Id. ¶ 75.) Further, plaintiff alleges that defendants mishandled both
+his application for benefits and his appeal by failing to provide him accurate summary plan
+descriptions (id. ¶ 40) and failing to provide him the full administrative record (id. ¶ 85).
+If required to defend these claims on the merits, the Verizon Defendants will demonstrate
+that no breach of fiduciary duty occurred, that plaintiff received all benefits to which he is
+
+1
+
+entitled, that he is currently receiving the proper amount of monthly benefits, and that he
+suffered no harm as a result of defendants’ conduct. However, even assuming the facts alleged
+in the Amended Complaint to be true, Counts II-IV must be dismissed because they fail to state a
+claim upon which relief can be granted on several grounds. See Conley v. Gibson, 355 U.S. 41,
+45-46, 78 S. Ct. 99, 85 (1957). The relief requested in plaintiff’s ERISA breach of fiduciary
+claim (Count II) is not available under ERISA, since it is neither “appropriate” nor “equitable”
+as required by the statute. Plaintiff’s state law claim for compensatory damages (Count III) is
+plainly preempted by ERISA. Finally, plaintiff’s final claim (Count IV), seeking a declaration of
+de novo review of the plan administrator’s consideration of his claim for disability benefits, is
+not a “cause of action” at all but simply suggests a standard of review under which the Court
+should adjudicate his benefit claim.
+Accordingly, Counts II-IV of plaintiff’s Amended Complaint must be dismissed.
+
+ARGUMENT
+I.
+
+STANDARD FOR MOTIONS UNDER FED. R. CIV. P. 12(b)(6)
+A court may dismiss a complaint pursuant to Fed. R. Civ. P. 12(b)(6) where the
+
+complaint fails to plead “enough facts to state a claim to relief that is plausible on its face.” Bell
+Atl. Corp. v. Twombly, __ U.S. __, 127 S. Ct. 1955, 1974 (2007). “[A] plaintiff’s obligation to
+provide the grounds of his entitlement to relief requires more than labels and conclusions, and a
+formulaic recitation of the elements of a cause of action will not do . . . . Factual allegations must
+be enough to raise a right to relief above the speculative level . . . .” Id. at 1964-65 (internal
+quotation marks omitted). Where a plaintiff “ha[s] not nudged [his] claims across the line from
+conceivable to plausible, [his] complaint must be dismissed.” Id. at 1974.
+
+2
+
+II.
+
+COUNT II SEEKS RELIEF THAT IS UNAVAILABLE UNDER ERISA
+Plaintiff’s Count II, for breach of ERISA fiduciary duties under ERISA § 502(a)(3),
+
+vaguely seeks “equitable restitution of pension funds or any other funds that are in defendants’
+possession.” (Compl. ¶ 112.) More specifically, plaintiff asserts that Verizon breached its duties
+by “disregarding the pertinent provisions” of the plan documents, motivated by its own financial
+interest. (Id.. ¶ 111.) Through more careful examination of the specific relief requested in his
+prayer for relief, however, it is obvious that plaintiff merely seeks monetary relief -- the amount
+of benefits that plaintiff claims he would have been entitled to under the Plan but for the
+defendants’ alleged mishandling of his benefit claim. Regardless of what he calls it, the
+requested relief is not authorized under any provision of ERISA, and plaintiff’s Count II must be
+dismissed.
+A.
+
+Monetary Damages Are Not Available Under ERISA § 502(a)(3)
+
+Count II is brought under ERISA § 502(a)(3), one of the civil enforcement provisions
+provided to participants and beneficiaries in ERISA. This section provides that an action can be
+commenced:
+by a participant, beneficiary, or fiduciary (A) to enjoin any act or
+practice which violates any provision of this title or the terms of the
+plan, or (B) to obtain other appropriate equitable relief (i) to redress
+such violations or (ii) to enforce any provisions of this title or the terms
+of the plan.
+29 U.S.C. § 1132(a)(3) (emphasis added). By its plain terms, this provision clearly limits
+available relief to either (A) an injunction, or (B) “other appropriate equitable relief.”
+The Supreme Court has repeatedly interpreted the relief provisions of § 502(a)(3)
+narrowly, holding that “other appropriate equitable relief” excludes monetary relief and includes
+only those types of relief that were typically available in equity, such as injunction, mandamus,
+
+3
+
+and restitution. See Great-West Life & Annuity Ins. Co. v. Knudson, 534 U.S. 204, 210, 122 S.
+Ct. 708, 712 (2002); Mertens v. Hewitt Assocs., 508 U.S. 248, 255-56, 258-59 & n.8, 112 S. Ct.
+2063, 2068, 2069-70 & n.8 (1993). Legal relief, such as the monetary “make whole” relief
+requested here, is therefore unavailable under ERISA. Id. at 255.
+In Great-West, the Supreme Court clarified that an order to pay money will constitute
+“equitable” relief only in very limited circumstances where it may be considered “equitable
+restitution” -- that is, “to restore to the plaintiff particular funds or property in the defendant’s
+possession” that rightfully belong to the plaintiff. 534 U.S. at 214. On the other hand, an action
+seeking to establish personal liability against the defendant and requiring it to pay damages from
+its assets does not constitute “equitable relief.” Id.; accord Sereboff v. Mid Atl. Med. Servs., __
+U.S. __, 126 S. Ct. 1869, 1874 (2006) (requested relief was equitable because it sought
+reimbursement through an equitable lien on a specifically identified fund and not on defendant’s
+assets generally). Here, plaintiff is not seeking to recover any specifically identifiable fund or
+property that he transferred to defendants; he is simply seeking money damages. Suits that seek
+to “compel the defendant to pay a sum of money to the plaintiff” are “almost invariably… suits
+for money damages… since they seek no more than compensation for loss resulting from the
+defendant’s breach of a legal duty.” Great-West, 534 U.S. at 210.
+Following this clear precedent, the Second Circuit has held on numerous occasions that
+requests to pay money damages, including to make plaintiff whole for an alleged breach of
+fiduciary duty, are unavailable under § 502(a)(3). In Gerosa v. Savasta & Co., 329 F.3d 317 (2d
+Cir. 2003), it rejected plaintiffs’ request for an “order directing ‘defendants to reimburse the
+plaintiffs for the shortfall the Pension Fund will experience as a result of defendants’ violation of
+their duties under ERISA.’” Id. at 321. The court emphasized that ERISA § 502(a)(3) “permits
+
+4
+
+money awards only in very limited circumstances[,]” and further that “[c]lassic compensatory
+and punitive damages are never included within ‘other appropriate equitable relief.’” Id.
+(citations omitted). In Nechis v. Oxford Health Plans, Inc., 421 F.3d 96 (2d Cir. 2005), the court
+rejected plaintiffs’ request for “restitution” of amounts that were allegedly overpaid for health
+care coverage as a result of defendants’ breach of fiduciary duty. Citing Great-West, the Nechis
+court held that only equitable restitution was a permissible form of relief under ERISA, as
+opposed to legal restitution. “Thus, a constructive trust or equitable lien is imposed when, ‘in
+the eyes of equity,’ a plaintiff is ‘the true owner’ of funds or property, and the ‘money or
+property identified as belonging in good conscience to the plaintiff [can] clearly be traced back
+to particular funds or property in the defendant’s possession.’” Id. at 103. However, the moneys
+sought by the Nechis plaintiffs -- premiums paid for healthcare coverage -- were not segregated
+in a separate account or otherwise specifically identifiable or traceable. The court therefore
+“decline[d] to perceive equitable clothing where the requested relief is nakedly contractual.”1 Id.
+Numerous district courts in this Circuit have followed suit, including this Court. In
+Pelosi v. Schwab Capital Mkts., L.P., 462 F. Supp. 2d 503, 513-14 (S.D.N.Y. 2006), the Court
+rejected plaintiff’s request for “the recovery of proceeds that plaintiff would have received but
+for her late husband’s employer’s breach of fiduciary duty,” concluding that such a “make
+whole” remedy had been foreclosed by the Supreme Court in Great-West. More recently in
+1
+
+Similarly, numerous circuits have held that the value of benefits to which a plaintiff
+claims entitlement are not recoverable as “equitable relief” under ERISA § 502(a)(3). See
+McLeod v. Oregon Lithoprint, Inc., 102 F.3d 376, 378 (9th Cir. 1996) (award of benefits that
+plaintiff would have been entitled to but for plaintiff’s error in the enrollment process was
+compensatory damages and therefore not recoverable); Calhoon v. TWA, Inc., 400 F.3d 593, 598
+(8th Cir. 2005) (award of medical benefits that plaintiff alleges he would have been entitled to
+but for the fiduciary’s breach of duty in incorrectly processing his application was not equitable
+relief); Callery v. United States Life Ins. Co., 392 F.3d 401, 406 (10th Cir. 2004) (value of life
+insurance benefits allegedly misrepresented to plaintiff was not recoverable as equitable relief).
+
+5
+
+Priest v. Fireman’s Fund Ins. Co., No. 05-cv-0157E, 2007 U.S. Dist. LEXIS 9459 (W.D.N.Y.
+Feb. 9, 2007), the court cautioned the plaintiff that “requests for relief which include the
+payments of benefits are classified as legal relief, even when the benefits would otherwise have
+been payable had the employer not interfered with the claimant’s rights.” Id. at *7 n.2 (citing
+Great-West).
+Nor can plaintiff’s claim be saved by his vague, unspecified demand for “equitable
+restitution.” (Compl. ¶ 112.) Courts have routinely held that such vague and unspecified
+requests for equitable relief are insufficient to defeat a motion to dismiss, since a court is unable
+to determine whether that relief may be awardable under the facts alleged. See West v. AK Steel
+Corp., 484 F.3d 395, 403 (6th Cir. 2007) (request for “unspecified ‘other relief as may be
+deemed just and equitable’” is “insufficient to assert a proper equitable claim under
+§ 502(a)(3)”); Kishter v. Principal Life Ins. Co., 186 F. Supp. 2d 438, 446 (S.D.N.Y. 2002)
+(despite the plaintiff’s request for “such other . . . equitable relief as the Court deems
+appropriate,” neither “plaintiff nor the court’s own ingenuity” could suggest such a form of
+relief).2
+Here, plaintiff’s claim is clearly one seeking money damages for the benefits he believes
+were improperly withheld as a consequence of defendants’ breach of their legal duties. This is
+
+2
+
+See also Impress Comm’ns v. Unumprovident Corp., 335 F. Supp. 2d 1053, 1060 (C.D.
+Cal. 2003) (“Absent a specific recitation of . . . injunctive relief sought, the Court and defendants
+are entirely unable to determine whether the complaint alleges sufficient facts to show that
+plaintiff is entitled to the requested relief”) (quoting Conkey v. Reno, 885 F. Supp. 1389, 1392
+(D. Nev. 1995)); Ward v. Kennard, 133 F. Supp. 2d 54, 59 (D.D.C. 2000) (“Despite the presence
+of the word ‘injunctive’ in that section of the complaint, the court holds that the complaint
+insufficiently pleads a request for injunctive relief, since it does not specify the form of
+injunctive or specific relief sought”); Fletcher v. Powers, No. 78 Civ. 4775 (WCC), 1980 U.S.
+Dist. LEXIS 11491, at *3-4 (S.D.N.Y. May 7, 1980) (dismissing claim for injunctive relief
+because “plaintiff has failed to specify what additional injunctive relief he seeks”).
+
+6
+
+precisely the type of “make whole” remedy the Supreme Court rejected as impermissible under
+ERISA § 502(a)(3). Following Mertens, Great-West, Nechis, and Gerosa, plaintiff’s requested
+relief is unavailable here. Accordingly, Count II should be dismissed for failure to state a claim.
+B.
+
+The Requested Relief Is Not Appropriate
+
+Even if plaintiff’s requested relief was considered to be equitable, which it is not,
+§ 502(a)(3) also requires that the requested relief be “appropriate.” In Varity Corp. v. Howe, 516
+U.S. 489, 116 S. Ct. 1065 (1996), the Supreme Court clarified the circumstances under which an
+individual plan participant or beneficiary may seek “appropriate” equitable relief under §
+502(a)(3) for a fiduciary’s breach of its obligations. There, the defendant employer fraudulently
+induced the plaintiff beneficiaries into withdrawing from their benefit plan. In assessing whether
+§ 502(a)(3) relief was available, the Supreme Court reviewed each of the causes of action under
+§ 502(a) and concluded that § 502(a)(3) creates a “‘catchall[]’ providing ‘appropriate equitable
+relief’ for ‘any’ statutory violation.” Id. at 512, 1077-78. The Court reasoned that this
+“‘catchall’ provision[] act[s] as a safety net, offering appropriate equitable relief for injuries
+caused by violations that § 502 does not elsewhere adequately remedy.” Id.
+The Court warned, however, that
+the statute authorizes “appropriate” equitable relief. We should expect that
+courts, in fashioning “appropriate” equitable relief, will keep in mind the
+“special nature and purpose of employee benefit plans,” and will respect the
+“policy choices reflected in the inclusion of certain remedies and the
+exclusion of others.” Thus, we should expect that where Congress
+elsewhere provided adequate relief for a beneficiary’s injury, there will
+likely be no need for further equitable relief, in which case such relief
+normally would not be “appropriate.”
+Id. at 515, 1079 (citations omitted). Thus, although Varity held that ERISA plan participants
+harmed by a breach of fiduciary duty may obtain individual equitable relief against the breaching
+fiduciary under § 502(a)(3), the Court also foresaw that some plaintiffs would – as plaintiff has
+
+7
+
+here – “complicate ordinary benefit claims by dressing them up in ‘fiduciary duty’ clothing.” Id.
+at 514, 1078. The Court noted that where an alleged breach of fiduciary duty relates, as it does
+in this case, to “the interpretation of plan documents and the payment of claims,” § 502(a)(1)(B)
+already provides a remedy “that runs directly to the injured beneficiary” and a remedy under
+§ 502(a)(3) is thus not “appropriate.” Id. at 512, 1077.
+This discussion in Varity has been consistently interpreted by the Second Circuit (and
+other circuits) to preclude claims for equitable relief under § 502(a)(3) when the requested relief
+may be available in a claim for benefits under § 502(a)(1)(B), most recently in Frommert v.
+Conkright, 433 F.3d 254 (2d Cir. 2006). There, the plaintiffs asserted a claim for benefits under
+§ 502(a)(1)(B), alleging that defendants had failed to properly determine their benefits, as well as
+a claim for breach of fiduciary duty by the plan administrators under § 502(a)(3). The Second
+Circuit upheld the lower court’s dismissal of the fiduciary claim, concluding that “all of the relief
+sought by the plaintiffs could be adequately provided under § 502(a)(1)(B).” Id. at 269. As the
+court concluded, “The relief that plaintiffs seek . . . falls comfortably within the scope of
+§ 502(a)(1)(B).” Because “adequate relief is available under this provision, there is no need on
+the facts of this case to also allow equitable relief under § 502(a)(3).” Id. at 270, citing Johnson
+v. Buckley, 356 F.3d 1067, 1077 (9th Cir. 2004) (“when relief is available under
+[§ 502(a)(1)(B)], courts will not allow relief under [§ 502(a)(3)’s] ‘catch-all provision’”). See
+also Borowski v. IBM, 978 F. Supp. 550, 558 (D. Vt. 1997) (relief is available under § 502(a)(3)
+if it is “equitable in nature, and not otherwise available to her,” citing Varity), aff’d mem., 165
+F.3d 13 (2d Cir. 1998).3
+
+3
+
+Other circuits have similarly dismissed claims under § 502(a)(3) where the plaintiff
+sought a remedy that was otherwise available under § 502(a)(1)(B). See Forsyth v. Humana
+Inc., 114 F.3d 1467 (9th Cir. 1997), aff’d on other grounds, Humana Inc. v. Forsyth, 525 U.S.
+8
+
+The same result should apply here. Plaintiff alleges that he is entitled to additional
+benefits under the terms of the Plan, that defendants failed to follow those terms, and that he
+should be awarded these additional benefits as relief in a fiduciary duty claim. As in Varity,
+plaintiff’s claim hinges on “the interpretation of plan documents and the payment of claims.”
+516 U.S. at 512, 116 S. Ct. at 1077.4 This exact remedy is potentially available to plaintiff under
+his claim for benefits in Count I, which is asserted under ERISA § 502(a)(1)(B). It makes no
+difference whether plaintiff could prevail under that claim. See Katz v. Comprehensive Plan of
+Group Ins., 197 F.3d 1084, 1088-89 (11th Cir. 1999) (holding that even the unrealized prospect
+of relief under § 502(a)(1) renders relief under § 502(a)(3) unavailable). Accordingly, plaintiff’s
+claims must be dismissed as requesting relief that is not “appropriate” under ERISA § 502(a)(3).
+
+III.
+
+COUNT III IS PREEMPTED BY ERISA AND MUST BE DISMISSED
+Plaintiff’s third count asserts that defendants are liable for $500,000 in consequential
+
+damages caused by their “bad faith denial and/or termination of benefits” under the Plan.
+
+299, 119 S. Ct. 710 (1999) (“equitable relief under section [502(a)(3)] is not ‘appropriate’
+because section [502(a)(1)] provides an adequate remedy in this case”); Ogden v. Blue Bell
+Creameries U.S.A., Inc., 348 F.3d 1284, 1287 (11th Cir. 2003); Turner v. Fallon Community
+Health Plan Inc., 127 F.3d 196, 200 (1st Cir. 1997) (putative beneficiary denied benefits could
+not sue under § 502(a)(3) since the claim was “specifically addressed by [§ 502(a)(1)]”); Mauser
+v. Raytheon Co. Pension Plan for Salaried Employees, 239 F.3d 51, 58 (1st Cir. 2001) (“The
+Supreme Court has thus limited the applicability of an individual claim for breach of fiduciary
+duty to those participants who are unable to avail themselves of other remedies.”); Rhorer v.
+Raytheon Eng’rs & Constructors, Inc., 181 F.3d 634, 639 (5th Cir. 1999)
+(“because[§ 502(a)(1)(B)] affords [plaintiff] an avenue for legal redress, she may not
+simultaneously maintain her claim for breach of fiduciary duty”); Wald v. Southwestern Bell
+Corp. Customcare Med. Plan, 83 F.3d 1002, 1006 (8th Cir. 1996) (“Because [plaintiff] is
+provided adequate relief by her right to bring a claim for benefits under section 502(a)(1)(B) . . .
+and she seeks no different relief [under § 502(a)(3)], equitable relief would not be appropriate in
+her case. Thus, she does not have a cause of action under section 502(a)(3).”).
+4
+
+Indeed, just to drive home this point, plaintiff expressly alleges that defendants breached
+their fiduciary duties by “disregarding the pertinent provisions of the Plan.” (Compl. ¶ 111.)
+
+9
+
+(Compl. ¶¶ 116-18.) More specifically, the complaint alleges that plaintiff is suffering memory
+loss, anxiety and depression as a result of defendants’ conduct and should receive compensation
+for these losses. As a threshold matter, Verizon is not an insurance company, and even if
+Acquista v. New York Life Insurance Co., 285 A.D.2d 73, 730 N.Y.S.2d 272 (2001) can be
+interpreted to apply to an ERISA plan as the complaint suggests (id. ¶ 117), Verizon would not
+be subjected to liability under it.
+More importantly, however, the claim is legally insufficient on the ground that any claim
+for consequential or extra contractual damages under state law is clearly preempted by ERISA.
+In enacting ERISA, Congress made regulation of employee benefit plans an exclusively federal
+concern and displaced almost all state regulation of employee benefit plans. To that end,
+§ 514(a) of ERISA provides that:
+Except as provided in subsection (b) of this section, the provisions of this
+subchapter and subchapter III of this chapter shall supersede any and all
+State laws insofar as they may now or hereafter relate to any employee
+benefit plan described in section 4(a).
+29 U.S.C. § 1144(a). Thus, any state law that “relates to” an “employee benefit plan” is
+preempted, unless it fits within one of the “very limited exceptions to pre-emption” contained in
+ERISA’s various savings clauses in § 514(b) (and which are not applicable here). Shaw v. Delta
+Air Lines, Inc., 463 U.S. 85, 104, 103 S. Ct. 2890, 2903 (1983).
+Because the allegations at issue in plaintiff’s third cause of action “relate to” ERISAcovered employee benefit plans, they must be dismissed as preempted. The Supreme Court and
+this Court have consistently and uniformly held that state law claims seeking extracontractual
+damages are preempted by ERISA. See Pilot Life Ins. Co. v. Dedeaux, 481 U.S. 41, 107 S. Ct.
+1549 (1987) (ERISA preempts all state law claims alleging improper processing of benefit
+claims); Gerosa v. Savasta & Co., 329 F.3d 317, 324 (2d Cir. 2003) (“state laws that would tend
+
+10
+
+to control or supersede central ERISA functions -- such as state laws affecting the determination
+of eligibility for benefits, amounts of benefits, or means of securing unpaid benefits -- have
+typically been found to be preempted.”); Kok v. First UNUM Life Ins. Co., 154 F. Supp. 2d 777,
+780-81 (S.D.N.Y. 2001) (McMahon, J.) (plaintiff’s state law claims all “stem from the denial of
+benefits” under an ERISA plan and are thus preempted).
+IV.
+
+COUNT IV DOES NOT ASSERT A CAUSE OF ACTION
+Plaintiff’s Count IV alleges that defendants’ conduct as complained of in the Amended
+
+Complaint “constitute[] bad faith, and is reflective of clear conflicts of interest.” (Compl. ¶ 120.)
+Consequently, plaintiff argues that he is entitled to “de novo consideration” of the denial of his
+appeal. (Id. ¶ 121.) He further clarifies that Count IV is “directed to the Court’s standard of
+review in the specific context of ERISA.” (Id. 121 n.4.)
+This is not a “cause of action” asserted under ERISA’s civil enforcement provision,
+ERISA § 502(a), but simply an interpretation of the Plan’s terms that would need to be resolved
+as part of Count I as a matter of course. It sets forth no additional claim for relief, and should be
+dismissed on that ground.
+V.
+
+PLAINTIFF IS NOT ENTITLED TO A JURY
+The Second Circuit has held on numerous occasions that there is no right to a jury trial
+
+under ERISA. See Sullivan v. LTV Aerospace & Def. Co., 82 F.3d 1251, 1257-59 (2d Cir. 1996);
+Muller v. First UNUM Life Ins. Co., 341 F.3d 119, 124 (2d Cir. 2003); Billinger v. Bell Atlantic,
+240 F. Supp. 2d 274, 286 n.8 (S.D.N.Y. 2003) (McMahon, J.) (dismissing plaintiff’s demand for
+a jury trial, because “ERISA’s civil enforcement scheme under § 502 does not include either an
+express or implied right to a jury trial”), aff’d, 124 Fed. Appx. 669 (2d Cir.), cert. denied, 546
+U.S. 843, 126 S. Ct. 90 (2005). Accordingly, plaintiff’s jury demand should be stricken.
+
+11
+
+CONCLUSION
+The remedies delineated under ERISA’s civil enforcement provisions are the exclusive
+remedies available under ERISA. See Mass. Mut. Life Ins. Co. v. Russell, 473 U.S. 134, 146,
+105 S. Ct. 3085, 3092 (1985) (“The six carefully integrated civil enforcement provisions found
+in § 502(a) of the statute as finally enacted, however, provide strong evidence that Congress did
+not intend to authorize other remedies that it simply forgot to incorporate expressly.”). The
+Supreme Court has been “especially reluctant to tamper with [the] enforcement scheme
+embodied in the statute by extending remedies not specifically authorized by its text.” GreatWest, 534 U.S. at 209, 122 S. Ct. at 712 (internal quotation marks and citations omitted).
+Because the remedies sought by plaintiff here were not typically available in equity, and because
+they are otherwise provided by ERISA § 502(a)(1), his requested remedies are not available
+under ERISA § 502(a)(3). Accordingly, for these reasons and the other grounds discussed
+above, Counts II-IV of plaintiff’s Amended Complaint fails to state a claim upon which relief
+can be granted and should be dismissed with prejudice.
+
+Dated: October 8, 2007
+Respectfully submitted,
+O’MELVENY & MYERS LLP
+
+__/s/ Karen M. Wahle_________________
+Karen M. Wahle
+Robert M. Stern
+O’Melveny & Myers LLP
+1625 Eye Street, NW
+Washington, DC 20006
+(202) 383-5300
+
+12
+
+CERTIFICATE OF SERVICE
+I certify that on October 8, 2007, I electronically filed the foregoing with the Clerk of
+Court using the CM/ECF system, which will send notification of such filing to the counsel of
+record in this matter who are registered on the CM/ECF.
+
+/s/ Karen M. Wahle
+Karen M. Wahle
+
+13
+
+

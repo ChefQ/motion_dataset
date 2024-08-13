@@ -1,0 +1,314 @@
+Case 4:14-cr-00023-A. Document 142 Filed 07/21/14 Page 1of26 PagelD 782
+
+   
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF TEXAS
+FORT WORTH DIVISION
+
+oO TE PED ey te Fey a?
+Zot; JUL eb AMI: b2
+
+a
+Laer
+
+UNITED STATES OF AMERICA CLERA OF COURT
+Vv. No. 4:14-CR-023-A
+CHRISTOPHER ROBERT WEAST (01)
+GOVERNMENT'S RESPONSE TO WEAST'S MOTION TO SUPPRESS
+
+TO THE HONORABLE JOHN McBRYDE, UNITED STATES DISTRICT JUDGE
+
+The United States Attorney for the Northern District of Texas, by and through the
+undersigned Assistant United States Attorney, files this response in opposition to Weast's
+motion to suppress and shows the Court as follows:
+Issues
+(1) Does the defendant have a reasonable expectation of privacy in computer files that he
+shares with the public?
+(2) Does the defendant have a reasonable expectation of privacy in an IP address that is
+available to the public or an Internet account that contains information voluntarily
+provided by the subscriber?
+Summary
+
+The defendant has no reasonable expectation of privacy in files that he shares with
+the public. Second, the defendant has no reasonable expectation of privacy in subscriber
+information maintained by an internet service provider because there is no legitimate
+
+expectation of privacy in information voluntarily turned over to third parties.
+
+Response Motion to Suppress - Page 1 of 9
+Case 4:14-cr-00023-A. Document 142 Filed 07/21/14 Page 2 of 26 PagelD 783
+
+Relevant Facts
+
+In June 2012, Fort Worth Police Department Officer Randy Watkins initiated a
+peer-to-peer file sharing investigation in order to identify individuals in the Fort Worth
+area who were distributing child pornography files over the Internet. On June 4, 2012,
+Officer Watkins used a program called Child Protection System (CPS) to obtain a list of
+IP addresses in the Fort Worth area that had offered to distribute known or suspected
+child pornography. Officer Watkins identified an IP address, 99.71.201.174, which was
+offering to share files via the Internet using the Gnutella Network. According to the CPS
+program, a computer using IP address 99.71.201.174 was offering more than 1,000 files
+that appeared to be images or videos of known or suspected child pornography. |
+
+On the same day, Officer Watkins used ShareazaLE, * a file-sharing program to
+make a direct, single-source connection between Watkins's undercover computer and
+defendant Weast's computer (subsequently identified), which was using the IP address
+99,71,.201.174 to make child pornography files available. Thereafter, between June 4,
+2012 and June 19, 2012, the defendant's computer shared 66 files of child pornography--
+all of which were publicly available at the time Officer Watkins downloaded these files.
+Officer Watkins also noticed in the download log files that the computer sharing files of
+
+child pornography had a nickname, "Chris."
+
+ 
+
+' The CPS system compares SHA values of images and videos against a database of images and videos known to or
+suspected of being child pornography. A SHA value is a Secure Hash Algorithm, similar to an electronic fingerprint
+for files.
+
+? Like other publicly available programs, ShareazaLE allows law enforcement to download files from other
+computers on the same file-sharing network. While this program permits law enforcement to download files entirely
+from a single source rather than from multiple sources, it does not give law enforcement any greater access to
+another peer-to-peer user's computer than that available to the rest of the public.
+
+Response Motion to Suppress - Page 2 of 9
+Case 4:14-cr-00023-A. Document 142 Filed 07/21/14 Page,3 of 26 PagelD 784
+
+Using another publicly available tool, CentralOps.net, Officer Watkins determined
+that the IP address 99.71.201.174 was owned by SBC Internet Services. Officer Watkins
+requested a subpoena through the Tarrant County District Attorney's Office for
+subscriber information for the Internet account assigned to IP address 99.71.201.174, on
+June 4, 2012 at 19:21 GMT (the date and time Officer Watkins downloaded child
+pornography from that IP address.) AT&T responded to the subpoena and provided the
+name of the account holder, Larry Weast, and the service location assigned to the Internet
+account, 833 Hallvale Road, White Settlement, Texas. Based on the images that Officer
+Watkins downloaded and the location of the IP address for the computer distributing
+child pornography, Officer Watkins obtained a search warrant for the Weast residence in
+White Settlement.
+
+When Officer Watkins executed a search warrant at the Weast residence, he seized
+a number of computers and electronic storage devices, including items from defendant
+Weast's bedroom. A forensic examination of devices located in Weast's bedroom
+revealed the presence of file-sharing software and child pornography. [a copy of the
+search warrant and affidavit, which describe the officer's method of downloading files
+are included in Exhibit A.]
+
+Argument and authorities
+
+A. Publicly available files are not protected by the Fourth Amendment
+
+Weast now contends that, while he made files publicly available through his
+computer, law enforcement's access to those files encroached on his Fourth Amendment
+right to privacy.
+
+Response Motion to Suppress - Page 3 of 9
+ 
+
+To establish a Fourth Amendment violation, the defendant must show that he had
+"a reasonable expectation of privacy" in the property to be searched. United States v.
+Setser, 568 F.3d 482, 490 (5th Cir. 2009). That showing requires the defendant "to prove
+that he had (1) an actual, subjective expectation of privacy, and (2) that the expectation is
+one which society would recognize as reasonable." /d. at 490-91 (internal quotations,
+citation omitted); see also, Katz v. United States, 389 U.S. 347, 361 (1967) (concurring
+opinion). "What a person knowingly exposes to the public, even in his own home or
+office, is not a subject of Fourth Amendment protection." Katz, 389 US. at 351.
+Therefore, in challenging an alleged "search" of his publicly shared computer folder,
+defendant bears the burden of establishing both a subjective and an objective expectation
+of privacy.
+
+The Ninth Circuit has concluded a defendant has no reasonable expectation of
+privacy in files that he makes available through file sharing software. United States v.
+Borowy, 595 F.3d 1045, 1047 (9th Cir. 2010).
+
+The Eleventh Circuit also rejected the argument that law enforcement improperly
+and unconstitutionally "electronically trespassed" on a defendant's property when it
+accessed the publicly shared folder of a defendant's computer. In United States v.
+Norman, 448 F. App'x 895 (11th Cir. 2011) (unpublished opinion)( copy attached), the
+defendant complained of the government's use of specialized software without a warrant
+to obtain information on his computer from the shared folder of a file-sharing program.
+id, at 896, As a result, the defendant argued, the evidence subsequently seized during the
+
+execution of a search warrant at his residence was unlawfully obtained. Jd.
+
+Response Motion to Suppress - Page 4 of 9
+Case 4:14-cr-00023-A .
+
+Me
+
+ 
+
+ 
+
+Document 142 Filed 07/21/14 Page5 of 26 PagelD 786
+
+Se
+
+The appellate court first recognized that Norman's act of placing the contents of
+his folder in the public domain negated any reasonable expectation of privacy in the
+folder. /d. at 897. Further, Norman's objection to law enforcement's use of "unique"
+software not available to the general public was "misplaced," because they acquired the
+same information he made available to the public. Jd. Hence, Norman's motion to
+suppress was properly denied. /d.
+
+Although the Fifth Circuit has not addressed this particular issue, one Western
+District of Texas court has arrived at a similar conclusion as the Eleventh Circuit in
+Norman and other circuits-- no reasonable expectation of privacy exists in files made
+publicly available through file-sharing programs. United States v. Dodson, 960
+F Supp.2d 689 (W.D. Texas 2013). Dodson is factually very similar to Weast's case.
+Dodson involved an agent using the Child Protection System (CPS) program to locate
+users sharing child pornography on file-sharing networks. /d. at 692. Investigation in
+that case began after the agent downloaded a child pornography file and sent a summons
+to AT&T to acquire the subscriber information associated with the IP address that was
+being used to share child pornography. Jd. at 693. Law enforcement then obtained and
+executed a search warrant at the Dodson residence. 7d. Dodson challenged use of the
+CPS software system as constituting a warrantless search of his computer; the district
+court disagreed. Ja. at 694.
+
+Once again, the court first examined (1) whether the defendant was able to
+establish an actual, subjective expectation of privacy with respect to the place being
+
+searched or the items being seized, and (2) whether that expectation of privacy was one
+
+Response Motion to Suppress - Page 5 of 9
+Case 4:14-cr-00023-A . Document 142 Filed 07/21/14 Page,6 of 26 PagelD 787
+
+imtoo
+coe
+
+ 
+
+that society would recognize as reasonable. /d. (citing United States v. Gomez, 276 F.3d
+694, 697 (Sth Cir. 2001)). The court then concluded that the defendant had no
+expectation of privacy "because Defendant had already exposed the entirety of his files to
+the many unknown users" on the file-sharing network, "which is the exact opposite of
+exhibiting an expectation of privacy." /d. (also citing United States v. Yang, 478 F.3d
+832, 835 (7th Cir. 2007)).
+
+The district court also conciuded that society would not willingly recognize an
+expectation of privacy where a user of file-sharing software had publicly shared files. 7d.
+at 695. In support, the court relied on an unpublished decision out of the Northern
+District of Texas as well decisions from several other circuits.' Id.
+
+Norman and Dedson are directly on point. Weast had no reasonable expectation
+of privacy in his Shareaza shared folder, which contained child pornography viewed by
+law enforcement. Using software available to law enforcement, Officer Watkins
+identified the defendant's computer as a likely distributor of child pornography. This
+identification was possible because the contents of Weast's shared folder on his computer
+were available to members of the public through the use of a peer-to-peer file sharing
+program. Moreover, the software Officer Watkins used did not search any areas of
+Weast's computer, download any files, or otherwise reveal any information that was
+
+unavailable to ordinary internet users.
+
+ 
+
+0x00B0 United States v. Samples, 2011 WL 4907315, *5 (N.D. Tex. Sept. 15, 2011) (Finding no ineffective assistance of
+counsel where counsel failed to challenge the use of forensic software to download files in a file-sharing case
+"because a user has no reasonable expectation of privacy in his public files'); Borowy, 595 F.3d at 1048: United
+States v. Stults, 575 F.3d 834, 842-45 (8th Cir. 2009); and United States v. Perrine, 518 F.3d 1196, 1205 (10th Cir,
+2008).
+
+Response Motion to Suppress ~ Page 6 of 9
+Case 4:14-cr-00023-A . Document 142 Filed 07/21/14 Page 7 of 26 PagelD 788
+
+sais "aka"
+
+Accordingly, Weast cannot establish that he had a reasonable expectation of
+privacy in files that he made available to the public, and his claims of a Fourth
+Amendment violation must fail.
+
+B. There is no reasonable expectation of privacy in subscriber information
+
+Weast also contends that law enforcement's use of a subpoena to obtain subscriber
+information associated with his IP address violates the Fourth Amendment. Computers
+use IP addresses to communicate with each other, similar to the post office using a home
+address to deliver mail to a resident. There is no reasonable expectation of privacy in an
+IP address. United States v. Christie, 624 F.3d 558, 573 (3d Cir. 2010); see also, Dodson,
+960 F.Supp.2d at 693, n.5).
+
+The government is unclear as to what privacy expectation Weast asserts that he
+possessed in the subscriber information related to his father's internet account. But
+regardless, there is also no Fourth Amendment protection in customer accounts
+maintained by and for an Internet provider's business. "Subscriber information provided
+to an internet provider is not protected by the Fourth Amendment's privacy expectation
+because it is voluntarily conveyed to third parties." Christie, 624 F.3d at 573; see also,
+United States v. Perrine, 518 F.3d 1196, 1204 (10th Cir. 2008) ("Every federal court to
+address this issue has held that subscriber information provided to an internet provider is
+
+not protected by the Fourth Amendment's privacy expectation.")"
+
+ 
+
+* Perrine cites the following cases in support of its conclusion: Guest v. Leis, 255 F.3d 325, 336 (6th Cir,
+2001)(consistent holding in a non-criminal context); United States v. Hambrick, 225 F.3d 656 (4th Cir, 2000)
+(unpublished), United States v. Forrester, 512 F.3d 500, 510 (9th Cir. 2008); United States v. Lifshitz, 369 F.3d 173,
+190 (2d Cir. 2004).
+
+Response Motion to Suppress - Page 7 of 9
+Eee
+
+Case 4:14-cr-00023-A. Document 142 Filed 07/21/14 Page.8 of 26 PagelD 789
+
+In the Perrine case, the defendant, like Weast, used file-sharing software to make
+files available to the public through the Internet. The Tenth Circuit court found, "To the
+extent such access could expose his subscriber information to outsiders, that additionally
+vitiates any expectation of privacy he might have in his computer and its contents."
+Perrine, 518 F.3d 1205.
+
+Riley v. California does not abrogate the holdings by these numerous courts that
+subscriber information is not protected by the Fourth Amendment. 134 S.Ct. 2473 (U.S.
+2014). Riley involved two defendants whose ceil phones were searched pursuant to their
+arrest. /d. at 2480-81. In those cases, the Fourth Amendment was triggered by the
+defendants' arrests, and the officers sought to search the cell phones pursuant to an
+exception to the warrant requirement--search incident to arrest. /d. at 2482.
+
+Here, there was no "search" by the government to raise the protections of the
+Fourth Amendment. See, Borowy, 595 F.3d at 1047, (Under Kaiz..., government
+conduct qualifies as a search only if it violates a reasonable expectation of
+privacy.")(internal citation omitted). Officer Watkins acquired publicly available child
+pornography files; his conduct did not amount to a search because Weast had no
+reasonable expectation of privacy in those files. Similarly, Weast has no reasonable
+expectation of privacy in the IP address and subscriber information voluntarily provided
+
+by Weast's father,
+
+Response Motion to Suppress - Page 8 of 9
+Case 4:14-cr-00023-A. Document 142 Filed 07/21/14 Page 9of26 PagelD 790
+
+Therefore, the government respectfully requests the Court deny Weast's motion to
+
+suppress.
+
+Respectfully submitted,
+
+SARAH R. SALDANA
+UNITED STATES ATTORNEY
+
+AISHA SALEEM
+
+Assistant United States Attorney
+Texas State Bar No. 00786218
+801 Cherry Street, Suite 1700
+Fort Worth, Texas 76102
+Telephone: 817-252-5200
+Facsimile: 817-252-5455
+Email: aisha.saleem@usdoj.gov
+
+CERTIFICATE OF SERVICE
+
+I hereby certify that on July 21, 2014, the foregoing Government's Response to
+Weast's Motion to Suppress was served by hand delivery to Angela Saad at 819 Taylor
+Street, Room 9A10, Fort Worth, Texas 76102.
+
+AISHA SALEEM
+Assistant United States Attorney
+
+Response Motion to Suppress - Page 9 of 9
+yemeens
+S
+
+Case 4:14-cr-00023-A...Document 142 Filed 07/21/14 Page.10 of 26 PagelD 791
+
+ 
+

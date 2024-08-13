@@ -1,0 +1,343 @@
+Case 6:11-cv-00390-LED Document 237
+
+Filed 04/24/13 Page 1 of 12 PageID #: 4728
+
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF TEXAS
+TYLER DIVISION
+
+Cheetah Omni LLC,
+Plaintiff,
+
+HONORABLE LEONARD DAVIS
+
+vs.
+
+Case No. 6:11CV390
+
+Alcatel-Lucent USA Inc., et al.
+
+JURY TRIAL DEMANDED
+
+Defendants.
+
+CHEETAH’S MOTION TO RECONSIDER
+THE COURT’S MEMORANDUM OPINION AND
+ORDER CONSTRUING “UNMODULATED
+OPTICAL SIGNAL,” “UNMODULATED,” AND
+THE “MODULATE” TERMS (DKT #235)
+
+Case 6:11-cv-00390-LED Document 237
+
+Filed 04/24/13 Page 2 of 12 PageID #: 4729
+
+MOTION
+On April 11, 2013, the Court issued its claim construction Memorandum Opinion and
+Order construing various terms of the patents-in-suit. Dkt #235 (“Order”). In particular, the
+Court construed the term “unmodulated optical signal” in Claims 1 and 18 of U.S. Patent No.
+7,339,714 (“the ‘714 Patent”) as “a light beam that does not carry information” and
+“unmodulated” as “not carrying information.” Order at 22. The Court construed the “modulate”
+terms1 as “vary[ing] to carry information.” Order at 22-23.
+Cheetah asks the Court to reconsider its construction of “unmodulated optical signal,”
+“unmodulated,” and the “modulate” terms in Claims 1 and 18. As explained more fully below,
+Figure 15 is the relevant embodiment for Claims 1 and 18. Figure 15 unambiguously shows that
+the “unmodulated optical signal” carries information and that “modulation” adds information to a
+signal that already carries information.
+Cheetah asks the Court to construe “unmodulated optical signal” as “light beam carrying
+information that has not been processed by the array of optical signal processing devices” and
+“unmodulated” as “not processed by the array of optical signal processing devices.” The various
+“modulate” terms should be construed as “add[ing] information to the optical signal.” These
+constructions are consistent with (1) the ‘714 patent, (2) the Court’s statement that “modulating
+an optical signal adds information to the signal,” Order at 22, and (3) the affirmed and
+undisputed construction of “optical signal” as “a light beam carrying information.”
+
+1
+
+The “modulate” terms are “to modulate,” “modulated,” and “modulation.”
+1
+
+Case 6:11-cv-00390-LED Document 237
+
+Filed 04/24/13 Page 3 of 12 PageID #: 4730
+
+BRIEF IN SUPPORT
+I.
+
+BACKGROUND
+
+This Court first construed terms in the ‘714 patent in Cheetah Omni LLC v. Samsung
+Electronics Am., Inc., 2009 WL 5196721 (E.D. Tex. Dec. 21, 2009) (Davis, J.), aff’d, 2010 WL
+4008194 (Fed. Cir. Oct. 12, 2010) (“Samsung”). There, the Court addressed terms in apparatus
+Claim 18 and method Claim 19, both of which are asserted in the present lawsuit.2 Importantly
+for the present case, the Court held that Figure 15 is the relevant embodiment for the asserted
+claims:
+The relevant embodiment of Claims 18 and 19 is Figure 15, as cited by
+both parties, which is described as:
+Fiber optic tap 1018 receives optical signals 1012 and sends one copy of
+the signal including at least header information 1014 to demultiplexer
+1024, and sends another copy of the signal including at least payload
+information 1016 to delay line 1022.
+’714 Patent, col. 21:6-10.
+Samsung, 2009 WL 5196721 at *4 (emphasis added).
+Figures 1-6 of the ‘714 Patent describe different types of MEMS mirrors that can be used
+as building blocks for later embodiments in the ‘714 patent. (Exhibit 1, ‘714 Patent at 10:46-47:
+“The variable blazed grating apparatus depicted in FIGS. 1-6 can be useful in a myriad of
+applications”; see also id. at 12:48-54.) Those later embodiments are more complex systems that
+can perform functions “such as variable attenuation, optical switching, and/or add/drop
+multiplexing,” depending on how the components are arranged and used. (Id. at 17:38-39.)
+
+2
+
+The relevant terms in Claim 18 are identical to the relevant terms in apparatus Claim 1. Only
+apparatus Claims 1 and 18 are at issue on this motion because only those claims include the
+“unmodulated” and “modulated” terms.
+2
+
+Case 6:11-cv-00390-LED Document 237
+
+Filed 04/24/13 Page 4 of 12 PageID #: 4731
+
+Construing the “modulate” terms in the present case, the Court focused primarily on
+Figures 1 and 7 and the patent’s disclosure of using “constructive interference and destructive
+interference” to achieve “attenuation” of optical signals. (Order at 20-21, citing the ‘714 Patent
+at columns 4, 8, 11, and 12.) The Court also discussed the patent’s reference to “switching” in
+conjunction with Figure 7 and concluded that “[s]uch a configuration operates as a binary
+switch.” Id.
+But this discussion of Figures 1 and 7 is not relevant to the analysis of asserted Claims 1
+and 18. Claims 1 and 18 require (i) an array of moving mirrors plus (ii) at least one other
+moving mirror (iii) arranged so that the optical signal can reflect from one to the other. For
+example, Claim 1 requires:
+a movable reflector [mirror #1] operable to receive at least a portion of the first
+signal part and to reflect that portion of the first signal part to an array of
+optical signal processing devices [mirror #2] . . . wherein at least some of the
+mirrors are operable to undergo a partial rotation . . . .
+(‘714 Patent at 23:25-42, emphasis added.) Likewise, Claim 18 requires:
+an array of optical signal processing devices . . . comprise: . . . a plurality of at
+least partially reflective mirrors [mirror #1] . . . wherein at least some of the
+mirrors are operable to undergo a partial rotation . . .;
+and a moveable reflector [mirror #2] operable to receive at least some of the
+portion of the first signal part from the array of optical signal processing devices
+....
+(Id. at 25:58-26:3, emphasis added.)
+Only two Figures in the ‘714 Patent show the claimed two-movable-mirror configuration
+in detail, Figures 11g and 11h:
+
+3
+
+Case 6:11-cv-00390-LED Document 237
+
+Filed 04/24/13 Page 5 of 12 PageID #: 4732
+
+The text accompanying these Figures states that this is an embodiment of an “add/drop
+multiplexer.” (Exhibit 1, ‘714 Patent at 16:43-45.) Figures 11g and 11h show the same physical
+structure operating in two different modes – a pass-through mode (Figure 11g) and an add/drop
+mode (Figure 11h) – depending on the rotation of the mirrors.
+In Figure 11g, the structure operates in a “pass-through mode” because the mirrors (14")
+are rotated (angled) to send the incoming optical signal (820a) one from bank of mirrors (810a)
+to the other (810b) and through the device from “IN” to “OUT.” (Id. at 16:54-60.) Importantly,
+this operation does not involve the “interference” effects described by the Court in connection
+with Figures 1 and 7 – the optical signal passes through the device unaltered.
+Figure 11h is identical to Figure 11g but with the mirrors (14') unrotated (flat). (Exhibit
+1, ‘714 Patent at 16:61-17:2.) When the mirrors are in this position, the incoming optical signal
+(820a) reflects straight back to the circulator (812) and out the “DROP” port. (Id.) This allows a
+new signal (820b) to be added without interference from the dropped signal. (Id.) New signal
+820b enters the “ADD” port, reflects straight back to circulator 818, exiting at the “OUT” port.
+(Id.) As with Figure 11g, this “add/drop” operation occurs without using interference effects.
+4
+
+Case 6:11-cv-00390-LED Document 237
+
+Filed 04/24/13 Page 6 of 12 PageID #: 4733
+
+The structures of Figures 11g/11h can be used as the “Array of VBG” (1030) shown in
+Figure 15, reproduced below. As the patent explains, the “VBG” array (1030) is “an optical
+add/drop multiplexer array.”
+(‘714 Patent at 20:53.)
+properly
+
+By
+
+rotating/unrotating
+
+the mirrors in the “VBG”
+array,
+
+an
+
+optical
+
+header
+
+(shaded box) can be added to
+the optical payload (white
+boxes 1016) from delay line
+1022. (Id. at 21:23-32.) The
+combined output is shown in Figure 15 as a series of shaded and white boxes at the port labeled
+“OUT”. In other words, the “VBG” array of Figure 15 acts like a switch in a railroad yard,
+switching optical information coming in from two different “tracks” and combining them onto a
+single “track.” This “track” switching does not involve interference effects. Instead, the “VBG”
+array “modulates” the outgoing signal merely by adding optical header information to the optical
+payload data.
+The accused ROADMs work in much the same way – combining one optical signal
+(which carries information) with other optical signals (which also carry information). The
+Court’s current construction of “unmodulated optical signal” and “unmodulated” means that
+Claims 1 and 18 do not read on Figure 15 or Defendants’ accused ROADM products.
+
+5
+
+Case 6:11-cv-00390-LED Document 237
+
+II.
+
+Filed 04/24/13 Page 7 of 12 PageID #: 4734
+
+Applicable Law
+
+The Federal Rules of Civil Procedure do not specifically provide for motions for
+reconsideration, Shepherd v. Int'l Paper Co., 372 F.3d 326, 328 n.1 (5th Cir. 2004), but a court
+may revise an interlocutory ruling “at any time before the entry of a judgment adjudicating all
+the claims and all the parties' rights and liabilities.” Fed. R. Civ. P. 54(b). Rule 59(e) governs a
+motion for reconsideration from interlocutory orders. WI-Lan, Inc. v. Acer, Inc., 2010 U.S. Dist.
+LEXIS 138111 at *23 (E.D. Tex. Dec. 30, 2010); Beneficial Innovations, Inc. v. Blockdot, Inc.,
+2010 U.S. Dist. LEXIS 54151, 2010 WL 2246291 at *7 (E.D. Tex. June 3, 2010). The grounds
+for granting a motion for reconsideration under Rule 59(e) include: “(1) an intervening change in
+controlling law; (2) the availability of new evidence not previously available; or (3) the need to
+correct a clear error of law or prevent manifest injustice.” WI-Lan, 2010 U.S. Dist. LEXIS
+138111 at *23 (quoting In re Benjamin Moore & Co., 318 F.3d 626, 629 (5th Cir. 2002)).
+In the present case, Cheetah submits that there is a need to correct a clear error of law
+with respect to the constructions of “unmodulated optical signal” and “unmodulated.”
+
+6
+
+Case 6:11-cv-00390-LED Document 237
+
+III.
+
+Filed 04/24/13 Page 8 of 12 PageID #: 4735
+
+Argument
+
+The Court construed the term “unmodulated optical signal” by first construing
+“modulating.” The Court stated that “modulating an optical signal adds information to the
+signal.” Order at 22. Cheetah does not contest that finding because it does not require that the
+“optical signal” be devoid of information. One can add information to a signal that already
+carries information – as shown in the Figure 15 embodiment. And that finding is consistent with
+the Court’s prior (and affirmed) construction of “optical signal.” Substituting in the definition of
+“optical signal,” the Court’s finding becomes: “modulating a light beam carrying information
+adds information to the signal.” That is consistent with the IEEE Dictionary, cited by the Court,
+which merely requires “transferring information” – it does not require that the signal, before
+modulation, be devoid of information. Order at 22.
+Cheetah respectfully submits that the Court erred when, after correctly saying that
+“modulating an optical signal adds information to the signal” it incorrectly stated, “[a]ccordingly,
+an unmodulated optical signal does not yet carry information.” (Id.) That conclusion does not
+follow because, as discussed, the “optical signal” may already carry information, even before it
+is modulated.
+In the present case, the “optical signal” must carry information before it is modulated.
+That is required not only by the undisputed meaning of “optical signal,” but also because Figure
+15 – the relevant Figure for the claims at issue – requires it.
+In Figure 15, reproduced again below, the optical signal carries information at all times.
+The first limitation of Claims 1 and 18 is “an optical divider operable to receive an unmodulated
+optical signal.” As the Court explained in Samsung (quoted earlier), the “optical divider” is a
+fiber optic tap that sends a signal containing at least the header information (1014) through
+7
+
+Case 6:11-cv-00390-LED Document 237
+
+Filed 04/24/13 Page 9 of 12 PageID #: 4736
+
+demultiplexer (1024) to the Electronic Processor (1028). The “optical divider” also sends a copy
+of the signal containing at least payload information (1016) through demultiplexer (1032) to the
+VBG array (1030). Thus, in Figure 15, the “unmodulated optical signal” received by the “optical
+divider” always contains information (data 1012), contrary to the Court’s construction of
+“unmodulated optical signal.” In context, “unmodulated” simply means “not yet processed.”
+
+In addition, Cheetah respectfully submits that the Court’s ultimate construction of the
+“modulate” terms, namely “vary[ing] to add information,” may imply that the signal carries no
+information before modulation. If so, it is contrary to Figure 15. For clarity, the “modulate”
+terms’ construction should correspond to the Court’s finding that “modulating an optical signal
+adds information to the signal.” Order at 22.
+
+8
+
+Case 6:11-cv-00390-LED Document 237
+
+IV.
+
+Filed 04/24/13 Page 10 of 12 PageID #: 4737
+
+CONCLUSION
+
+For these reasons, Cheetah asks the Court to construe “unmodulated optical signal,”
+“unmodulated,” “to modulate,” “modulated,” and “modulation” as follows:
+
+unmodulated optical signal
+unmodulated
+to modulate
+modulated
+modulation
+
+light beam carrying information that has not been
+processed by the array of optical signal
+processing devices
+not processed by the array of optical signal
+processing devices
+to add information to the optical signal
+added information to the optical signal
+adding information to the optical signal
+
+Respectfully submitted,
+Dated: April 24, 2013
+By: /s/ Thomas A. Lewry
+Thomas A. Lewry (MI Bar No. P36399)
+(Lead Attorney)
+John S. Le Roy (MI Bar No. P61964)
+Robert C.J. Tuttle (MI Bar No. P25222)
+John M. Halan (MI Bar No. P37616)
+Christopher C. Smith (MI Bar No. P73936)
+Brooks Kushman P.C.
+1000 Town Center, 22nd Floor
+Southfield, Michigan 48075-1238
+Tel: (248) 358-4400 – Fax: (248) 358-3351
+Email: tlewry@brookskushman.com
+jleroy@brookskushman.com
+rtuttle@brookskushman.com
+jhalan@brookskushman.com
+csmith@brookskushman.com
+T. John Ward, Jr. (TX State Bar No. 00794818)
+Jack Wesley Hill
+Ward & Smith Law Firm
+1127 Judson Road, Suite 220
+PO Box 1231
+Longview, Texas 75606
+Tel: (903) 757-6400 – Fax: (903) 757-2323
+Email: jw@jwfirm.com
+wh@jwfirm.com
+9
+
+Case 6:11-cv-00390-LED Document 237
+
+Filed 04/24/13 Page 11 of 12 PageID #: 4738
+
+Eric Miller Albritton
+Albritton Law Firm
+PO Box 2649
+111 West Tyler, 75601
+Longview, TX 75606
+Tel: (903) 757-8449 – Fax: (903) 758-7397
+ema@emafirm.com
+
+10
+
+Case 6:11-cv-00390-LED Document 237
+
+Filed 04/24/13 Page 12 of 12 PageID #: 4739
+
+CERTIFICATE OF SERVICE
+I hereby certify that the all counsel of record for Defendants who are deemed to have
+consented to electronic service are being served this 24th day of April, 2013, with a copy of this
+document via electronic mail per Local Rule CV-5(a)(3).
+/s/ Thomas A. Lewry
+
+11
+
+

@@ -1,0 +1,1983 @@
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF NEW YORK
+
+SECURITIES AND EXCHANGE
+COMMISSION,
+Plaintiff,
+v.
+
+Case No. 17-CV-430 (NGG)(LB)
+
+Date of Service: June 27, 2017
+MICHAEL L. COHEN and
+VANJA BAROS,
+Defendants.
+
+MEMORANDUM OF LAW IN SUPPORT OF DEFENDANT
+MICHAEL L. COHEN’S MOTION TO DISMISS
+THE AMENDED COMPLAINT
+
+Ronald G. White
+Kayvan B. Sadeghi
+Amanda Aikman
+MORRISON & FOERSTER LLP
+250 West 55th Street
+New York, New York 10019
+(212) 468-8000
+Attorneys for Defendant Michael L. Cohen
+
+ny-1287138
+
+TABLE OF CONTENTS
+Page
+PRELIMINARY STATEMENT ................................................................................................... 1
+THE ALLEGATIONS ................................................................................................................... 4
+ARGUMENT ................................................................................................................................. 5
+I.
+
+II.
+
+ALL CLAIMS AGAINST MR. COHEN ARE BARRED BY THE FIVE-YEAR
+STATUTE OF LIMITATIONS. ........................................................................................ 6
+A.
+
+Section 2462 Applies to All Claims Asserted in the Complaint............................ 6
+
+B.
+
+The Court Should Dismiss Time-Barred Claims on a Transaction-by
+Transaction Basis. ................................................................................................ 10
+
+C.
+
+The Tolling Agreements Do Not Save the Time-Barred Claims. ........................ 11
+
+D.
+
+All of the Alleged Transactions Fall Outside the Statute of Limitations. ............ 12
+
+THE ADVISERS ACT CLAIMS BASED ON TRANSACTIONS BY AGC II
+MUST BE DISMISSED BECAUSE THEY SEEK EXTRATERRITORIAL
+APPLICATION OF A PURELY DOMESTIC STATUTE............................................. 16
+A.
+
+B.
+III.
+
+The Investment Adviser (AML) and Its Client (AGC II) Are Foreign................ 18
+1.
+
+The Complaint Alleges No Basis to Disregard the Distinct
+Corporate Identities of AML and OZ Management. ............................... 20
+
+2.
+
+The Sharing of Employees and Resources Between Och-Ziff and
+AML Does Not Provide a Basis for Domestic Application of the
+Advisers Act............................................................................................. 23
+
+The Conduct Alleged in Relation to AGC II Is Predominantly Foreign. ............ 27
+
+CLAIMS BASED ON THE SIX “CORRUPT TRANSACTIONS” SHOULD BE
+DISMISSED FOR FAILURE TO PLEAD MR. COHEN’S KNOWLEDGE
+WITH PARTICULARITY. ............................................................................................. 28
+A.
+
+All Claims in the Complaint Are Subject to Rule 9(b), Which Requires
+Particularized Factual Allegations That Give Rise to a Strong Inference of
+Mr. Cohen’s Knowledge, or Reckless Disregard, of Bribery. ............................. 29
+
+B.
+
+The Complaint Fails to Plead Facts That Give Rise to a Strong Inference
+That Mr. Cohen Knew of, or Recklessly Disregarded, Bribery........................... 31
+1.
+
+The LIA Investment. ................................................................................ 32
+
+2.
+
+The Libya Real Estate Project.................................................................. 38
+
+3.
+
+The AML Joint Venture. .......................................................................... 41
+
+4.
+
+The Convertible Loan. ............................................................................. 46
+
+5.
+
+The Margin Loan. .................................................................................... 48
+
+6.
+
+The $77 Million Stock Transaction. ........................................................ 50
+
+CONCLUSION ............................................................................................................................ 50
+i
+ny-1287138
+
+TABLE OF AUTHORITIES
+Page(s)
+CASES
+Aaron v. SEC,
+446 U.S. 680 (1980) ...................................................................................................................8
+Acito v. IMCERA Grp., Inc.,
+47 F.3d 47 (2d Cir. 1995) ............................................................................................29, 31, 40
+Adhikari v. Kellog-Brown & Root, Inc.,
+845 F.3d 184 (5th Cir. 2017) ...................................................................................................28
+Balintulo v. Ford Motor Co.,
+796 F.3d 160, 168 (2d Cir. 2015), cert. denied, 136 S. Ct. 2485 (2016) ................................21
+Bridge v. New Holland Logansport, Inc.,
+815 F.3d 356 (7th Cir. 2016) ...................................................................................................25
+Carey v. IBEW Local 363 Pension Plan,
+201 F.3d 44 (2d Cir. 1999).........................................................................................................6
+Consol. Edison Co. of N.Y., Inc. v. UGI Util., Inc.,
+153 Fed. Appx. 749 (2d Cir. 2005) ..........................................................................................24
+de la Fuente v. DCI Telecommunications, Inc.,
+206 F.R.D. 369 (S.D.N.Y. 2002) ............................................................................................11
+de La Roche v. Calcagnini,
+No. 95-CV-6322 (RWS), 1997 WL 292108 (S.D.N.Y. June 3, 1997) ..............................40, 47
+G-I Holdings, Inc.v. Baron & Budd,
+No. 01-CV-0216 (RWS), 2004 WL 1277870 (S.D.N.Y. June 10, 2004) ....................40, 47, 49
+Gabelli v. SEC,
+133 S. Ct. 1216 (2013) .....................................................................................................6, 7, 10
+Gatt Commc’ns, Inc. v. PMC Assocs. L.L.C.,
+711 F.3d 68 (2d Cir. 2013).......................................................................................................28
+Goldstein v. SEC,
+451 F.3d 873 (D.C. Cir. 2006) ........................................................................................... 18-19
+Huang v. EZCorp, Inc.,
+No. A-15-CA-00608 (SS), 2016 WL 6092717 (W.D. Tex. Oct. 18, 2016).............................41
+
+ii
+ny-1287138
+
+In re Aozora Bank Ltd., v. SEC. Inv’s Prot. Corp.,
+480 B.R. 117 (SD.N.Y. 2012), aff’d sub nom., In re Bernard L. Madoff Inv.
+Sec. LLC, 708 F. 3d 422 (2d Cir. 2013) ...................................................................................19
+In re Copper Mountain Sec. Litig.,
+311 F. Supp. 2d 857 (N.D. Cal. 2004) .....................................................................................40
+In re IAC/InterActiveCorp Sec. Litig.,
+478 F. Supp. 2d 574 (S.D.N.Y. 2007)......................................................................................40
+In re Longtop Fin. Techs. Ltd. Sec. Litig.,
+939 F. Supp. 2d 360 (S.D.N.Y. 2013)......................................................................................38
+In re Parmalat Secs. Litg.,
+479 F. Supp. 2d 332 (S.D.N.Y. 2007)......................................................................................30
+In re Sanofi Sec. Litig.,
+155 F. Supp. 3d 386 (S.D.N.Y. 2016).....................................................................................45
+Johnson v. SEC,
+87 F.3d 484 (D.C. Cir. 1996) .....................................................................................................9
+Kiobel v. Royal Dutch Petroleum Co.,
+133 S. Ct. 1659 (2013) .......................................................................................................16, 17
+Kokesh v. SEC,
+No. 16-529, 2017 WL 2407471 (U.S. June 5, 2017) ...................................................6, 7, 8, 10
+Liu Meng-Lin v. Siemens AG,
+763 F.3d 175 (2d Cir. 2014).....................................................................................................16
+Loginovskaya v. Batratchenko,
+764 F.3d 266 (2d Cir. 2014)...............................................................................................16, 28
+Lusk v. Foxmeyer Health Corp.,
+129 F.3d 773 (5th Cir. 1997) ...................................................................................................25
+Meisel v. Grunberg,
+651 F. Supp. 2d 98 (S.D.N.Y. 2009)........................................................................................30
+Morrison v. Nat’l Australia Bank Ltd.,
+561 U.S. 247 (2010) ......................................................................................................... passim
+Mumin v. Uber Technologies, Inc.,
+Nos. 15-CV-6143, 15-CV-7387 (NGG), 2017 WL 934703
+(E.D.N.Y. Mar. 8, 2017) ..........................................................................................................30
+
+iii
+ny-1287138
+
+Nollner v. S. Baptist Convention, Inc.,
+852 F. Supp. 2d 986 (M.D. Tenn. 2012) ..................................................................................42
+Pereira v. Cogan,
+294 B.R. 449 (S.D.N.Y. 2003), vacated and remanded on other grounds sub
+nom. Pereira v. Farace, 413 F.3d 330 (2d Cir. 2005) .............................................................34
+Photopaint Techs., LLC v. Smartlens Corp.,
+335 F.3d 152 (2d Cir. 2003).....................................................................................................12
+RJR Nabisco, Inc. v. European Cmty.,
+136 S. Ct. 2090 (2016) .......................................................................................................16, 17
+Rodriguez v. It’s Just Lunch Int’l,
+No. 07-CV-9227 (SHS), 2009 WL 399728 (S.D.N.Y. Feb. 17), report and
+recommendation adopted, 2009 WL 666435 (S.D.N.Y. Mar. 12, 2009) ....................39, 47, 49
+Rusk v. N.Y. State Thruway Auth.,
+37 F. Supp. 3d 578 (W.D.N.Y. 2014) .....................................................................................37
+SEC v. Alternative Green Techs., Inc.,
+No. 11-CV-9056 (SAS), 2012 WL 4763094 (S.D.N.Y. Sept. 24, 2012).................................30
+SEC v. Amerindo Inv. Advisers, Inc., 05-CV-5231 (RJS),
+2013 WL 1385013 (S.D.N.Y. Mar. 11, 2013),
+aff’d, 639 Fed. Appx. 752 (2d Cir.), cert. denied, 136 S. Ct. 2429 (2016) ................................7
+SEC v. Bartek,
+484 F. App’x 949 (5th Cir. 2012) ..............................................................................................9
+SEC v. Cohmad Secs. Corp.,
+No. 09-CV-5680 (LLS), 2010 WL 363844 (S.D.N.Y. Feb. 2, 2010) ........................................6
+SEC v. Cole,
+No. 12-CV-8167 (RJS), 2014 WL 4723306 (S.D.N.Y. Sept. 22, 2014),
+aff’d, 661 Fed. App’x 52 (2d Cir. 2016) ...................................................................................9
+SEC v. Contorinis,
+743 F.3d 296 (2d Cir. 2014).......................................................................................................9
+SEC v. Fisher,
+No. 07-CV-4483 (JBZ), 2008 WL 2062699 (N.D. Ill. May 13, 2008)....................................11
+SEC v. Gruss,
+859 F. Supp. 2d 653 (S.D.N.Y. 2012)................................................................................29, 30
+SEC v. ICP Asset Mgmt., LLC,
+No. 10-CV-4791 (LAK), 2012 WL 2359830 (S.D.N.Y. June 21, 2012) ................................17
+iv
+ny-1287138
+
+SEC v. Jackson,
+908 F. Supp. 2d 834 (S.D. Tex. 2012) .....................................................................................11
+SEC v. Jones,
+476 F. Supp. 2d 374 (S.D.N.Y. 2007)........................................................................................8
+SEC v. Lucent Techs., Inc.,
+363 F. Supp. 2d 708 (D.N.J. 2005) ..........................................................................................31
+SEC v. McGinn, Smith & Co., Inc.,
+No. 10-CV-457(GLS), 2015 WL 667848 (N.D.N.Y. Feb. 17, 2015) .....................................29
+SEC v. Pimco Advisers Fund Mgmt. LLC,
+341 F. Supp. 2d 454 (S.D.N.Y. 2004)......................................................................................29
+SEC v. Power,
+525 F. Supp. 2d 415 (S.D.N.Y. 2007)......................................................................................31
+SEC v. Radius Capital Corp.,
+No. 2:11-CV-116-FtM-29DNF, 2013 WL 3716394 (M.D. Fla. July 15, 2013)......................11
+SEC v. Straub,
+No. 11-CV-9645 (RJS), 2016 WL 5793398 (S.D.N.Y. Sept. 30, 2016) .................7, 10, 11, 14
+SEC v. Syndicated Food Serv. Int’l, Inc.,
+No. 04-CV-1303 (NGG), 2014 WL 1311442
+(E.D.N.Y. Mar. 28, 2014) ................................................................................................ 7-8, 11
+SEC v. Wey,
+No. 15-CV-7116 (PKC), 2017 WL 1157140 (S.D.N.Y. Mar. 27, 2017)...................................7
+SEC v. Yorkville Advisors, LLC,
+No. 12-CV-7728 (GBD), 2013 WL 3989054 (S.D.N.Y. Aug. 2, 2013) ..................................30
+Troutman v. S. Ry. Co.,
+441 F.2d 586 (5th Cir. 1971) ...................................................................................................37
+United States ex rel. Ladas v. Exelis, Inc.,
+824 F.3d 16 (2d Cir. 2016).................................................................................................29, 41
+United States v. Bestfoods,
+524 U.S. 51 (1998) .......................................................................................................24, 25, 26
+United States v. Mergen,
+764 F.3d 199 (2d Cir. 2014).....................................................................................................12
+Universal Trading & Inv. Co., Inc. v. Credit Suisse (Guernsey) Ltd.,
+560 Fed. Appx. 52 (2d Cir. 2014) ............................................................................................22
+v
+ny-1287138
+
+Wellington Shields & Co. LLC v. Breakwater Inv. Mgmt. LLC,
+No. 14-CV-7529 (RJS), 2016 WL 5414979 (S.D.N.Y. Mar. 18, 2016) ..................................33
+Wilder v. News Corp.,
+No. 11-CV-4947 (PGG), 2015 WL 5853763 (S.D.N.Y. Oct. 7, 2015) ...................................21
+Worldwide Directories, S.A. De C.V. v. Yahoo! Inc.,
+No. 14-CV-7349 (AJN), 2016 WL 1298987 (S.D.N.Y. Mar. 31, 2016) .................................28
+STATUTES, RULES AND REGULATIONS
+17 C.F.R. § 275.206(4)-8 .........................................................................................................16, 19
+15 U.S.C. § 78dd-1 ..................................................................................................................10, 41
+15 U.S.C. § 78dd-2(a) ....................................................................................................................42
+15 U.S.C. § 78dd-2(h)(1) ...............................................................................................................41
+15 U.S.C. § 78ff(c) .........................................................................................................................41
+15 U.S.C. § 80b-6(1) ......................................................................................................................16
+28 U.S.C. § 2462 ..........................................................................................................................6, 7
+Fed. R. Civ. P. 9(b) ........................................................................................................................29
+
+OTHER AUTHORITIES
+Brief of SEC as Plaintiff-Appellee, SEC v. Savino,
+No. 06-1398, 2006 WL 4878139 (2d Cir. Aug. 15, 2006) ........................................................9
+Complaint, SEC v. Alcatel-Lucent,
+No. 10-CV-24620, Dkt. No. 1 (S.D. Fl. Dec. 27, 2010) ..........................................................33
+Daniel M. Weiss, Reexamining the SEC’s Use of Obey-The-Law Injunctions,
+7 U.C. Davis Bus. L.J. 6 (2006) .................................................................................................8
+Mary Jo White, Andrew Ceresney, et al., What Kokesh v. SEC Means For
+Enforcement Actions, (June 8, 2017)
+https://www.law360.com/whitecollar/articles/932661/
+what-kokesh-v-sec-means-for-secenforcementactions?utm_source=
+newsletter&utm_medium=email&utm_campaign=whitecollar&read_more=1 ......................10
+Mercury Asset Management plc, SEC No-Action Letter,
+1993 WL 13967 (pub. avail. Apr. 16, 1993) ............................................................................26
+
+vi
+ny-1287138
+
+Michael J. De La Merced and Peter Lattman, Geithner to Join Private Equity
+Firm, N.Y. Times Nov. 16, 2013,
+https://dealbook.nytimes.com/2013/11/16/geithner-to-join-private-equityfirm/?_r=0 ................................................................................................................................37
+Murray Johnstone Holdings Ltd., SEC No-Action Letter, SEC Release No. IA3222, 2011 WL 2482894 (pub. avail. Oct. 7, 1994) ................................................................27
+Plaintiff’s Consolidated Response In Opposition to Defendants Jackson’s and
+Ruehlen’s Motions to Dismiss, SEC v. Jackson,
+No. H-12-0563, Dkt. No. 37 (S.D. Tex. June 22, 2012) ..........................................................33
+Reply Brief of SEC as Appellant/Petitioner, SEC v. Citigroup
+Global Markets Inc., No. 11-5227,
+2012 WL 4322065 (2d Cir. Sept. 13, 2012) ..............................................................................9
+Royal Bank of Canada, SEC No-Action Letter,
+1998 WL 289384 (pub. avail. June 3, 1998)............................................................................26
+SEC Form ADV Glossary of Terms,
+https://www.sec.gov/rules/final/2011/ia-3221-appc.pdf ..........................................................23
+SEC Release No. IA-3222, Exemptions for Advisers to Venture Capital Funds,
+2011 WL 2482894 (Effective July 21, 2011) ..........................................................................26
+Uniao de Bancos de Brasileiros,
+SEC No-Action Letter, 1992 WL 183054 (pub. avail. July 28, 1992) ....................................26
+U.S. Securities and Exchange Commission, FCPA: A Resource Guide to the U.S.
+Foreign Corrupt Practices Act 60 (2012),
+https://www.justice.gov/sites/default/files/criminalfraud/
+legacy/2015/01/16/guide.pdf. ............................................................................................33, 42
+
+vii
+ny-1287138
+
+Defendant Michael L. Cohen respectfully submits this memorandum of law in support of
+his motion to dismiss the Amended Complaint filed on May 29, 2017 (the “Complaint”), by
+Plaintiff the Securities and Exchange Commission (“SEC”).
+PRELIMINARY STATEMENT
+The SEC’s case against Mr. Cohen based on decade-old investments in Africa was
+brought too late, oversteps the territorial limits of the SEC’s authority, and relies on speculation
+and innuendo for its core premise that Mr. Cohen knew of any violations of law. The SEC
+recognized that its original complaint was deficient—even after six years of investigation—and
+chose to amend rather than respond to Defendants’ first motions to dismiss. The amended
+complaint, however, cannot paper over the legal deficiencies and the SEC’s case must be
+dismissed.
+The case concerns investment transactions that took place between 2007 and early 2011.
+At that time, Mr. Cohen was head of the European office of a hedge fund, Och-Ziff Capital
+Management Group (“Och-Ziff”), and he oversaw investments throughout Europe, the Middle
+East, and Africa. In connection with certain investments in Africa, Och-Ziff engaged in
+transactions with businessmen whom the SEC now contends paid bribes using money obtained
+from Och-Ziff. The SEC does not allege that Mr. Cohen or any other Och-Ziff employee paid
+bribes. Indeed, there is not a single alleged email, text, or other document about any of those
+deals sent to or from Mr. Cohen that even hints at bribery. Nevertheless, the SEC alleges that by
+making these investments Mr. Cohen “knowingly or recklessly” violated and/or aided and
+abetted violations of the Foreign Corrupt Practices Act (“FCPA”) and Investment Advisers Act
+(“Advisers Act”).
+The Complaint fails as a matter of law in three respects: (i) the case was brought far
+beyond the five-year statute of limitations; (ii) half of the Advisers Act claims are extraterritorial
+1
+ny-1287138
+
+and therefore outside the statute’s reach; and (iii) the Complaint lacks particularized allegations
+that Mr. Cohen knew of, or recklessly disregarded, bribery.
+Time-Barred: All of the conduct alleged in the Complaint occurred well outside the fiveyear statute of limitations governing claims under the FCPA and the Advisers Act. Indeed, most
+of the transactions took place nine and ten years ago, in 2007 and 2008. Mr. Cohen agreed to toll
+only some of the claims, for less than two years, and his last tolling agreement expired nearly
+three years ago, still leaving the SEC well past the limitations period. The Complaint offers no
+explanation for the SEC’s delay. Statutes of limitation exist precisely to protect a defendant’s
+ability to defend himself from unfounded and stale claims, a right Mr. Cohen is denied here.
+Extraterritorial: Paying no heed to the Supreme Court’s repeated recent warnings that
+federal statutes cannot be applied extraterritorially to “predominantly foreign” conduct (see, e.g.
+Morrison v. Nat’l Australia Bank Ltd., 561 U.S. 247 (2010)), the SEC nonetheless seeks to apply
+the Advisers Act to conduct by Mr. Cohen in London on behalf of a non-U.S. investment
+adviser, advising a non-U.S. fund regarding transactions with non-U.S. entities involving shares
+in private, non-U.S. companies.
+The SEC attempts to obscure its impermissible application of the Advisers Act by
+ignoring distinctions among corporate entities and misconstruing their roles to suggest
+wrongdoing by Och-Ziff’s domestic investment adviser OZ Management LP (“OZ
+Management”). Documents relied upon and incorporated into the Complaint, however, make
+clear that the alleged advisory services were provided to a foreign investment fund by its foreign
+adviser, Africa Management Ltd. (“AML”). The foreign adviser’s advice to its foreign client
+about transactions outside the United States is “predominantly foreign” under any rational
+interpretation of that standard and cannot support claims under the Advisers Act.
+
+2
+ny-1287138
+
+Failure to Allege Knowledge: After six years of investigation, the SEC has filed a
+Complaint that does not come close to alleging the essential element of knowledge, let alone
+with the particularity required by Rule 9(b). Unlike a private plaintiff, the SEC spent many years
+and regulatory resources scouring the globe to investigate the transactions at issue before filing
+suit. It came up empty-handed when it comes to Mr. Cohen. Despite reviewing more than 45
+million pages of documents including every single email and text message by Mr. Cohen for a
+seven-year period—and interviewing dozens, if not hundreds, of witnesses all over the world—
+the SEC fails to adequately allege the central issue in the case, Mr. Cohen’s knowledge of
+bribery. Nowhere in its 85 pages does the Complaint cite a single email, text message, memo,
+note, or other document by Mr. Cohen—or anyone else—discussing, suggesting, or even hinting
+that Mr. Cohen had knowledge of any improper payments to foreign government officials in
+connection with the transactions that form the basis of the SEC’s claims. There are none of the
+cryptic emails or coded language that one might reasonably expect to see if the allegations of Mr.
+Cohen’s knowledge or involvement in bribery were true.
+The Complaint tries to mask this deficiency with speculative and conclusory allegations
+that the need for bribery was “communicated” to Mr. Cohen in supposed private conversations.
+The extreme detail in other aspects of the Complaint makes clear that if the SEC had any basis to
+allege with any specificity what was actually said, or where, or when, the Complaint would have
+alleged it. If the SEC had a recording or document reflecting these supposed conversations, or
+even a credible source, the Complaint would have alleged it. The Complaint alleges none of
+these things—no particulars about where, when, or what was said, and no source for the SEC’s
+speculation that any such conversations took place at all. That is not enough to raise a “strong
+inference” of Mr. Cohen’s knowledge, as is required under Rule 9(b). Moreover, after reviewing
+
+3
+ny-1287138
+
+Defendants’ motions to dismiss, the SEC amended its Complaint in an (unsuccessful) effort to
+rebut Mr. Cohen’s extraterritoriality argument, but the SEC had nothing to add regarding Mr.
+Cohen’s knowledge. This Complaint is the best the SEC can do, and it falls far short.
+Indeed, the Complaint suffers from the same flaw as the six-year SEC investigation that
+preceded it: after concluding that Och-Ziff’s counterparties paid foreign government officials,
+the SEC wrongly assumed that Mr. Cohen must have known of such payments and worked
+backward to seize on ambiguous circumstantial facts for support. That conclusion is neither
+justified nor well pled. Rule 9(b) is designed to safeguard defendants’ reputations from
+unfounded and improvident charges of wrongdoing like these, and it requires dismissal here.
+THE ALLEGATIONS1
+The SEC brings claims against Mr. Cohen under the FCPA and Advisers Act in
+connection with eight transactions in Africa. (See ¶¶ 6-7.) The FCPA claims focus on six
+purportedly “corrupt transactions,” alleging that Mr. Cohen violated the FCPA’s anti-bribery
+provisions, aided and abetted Och-Ziff’s violation of the same provisions, violated the FCPA’s
+internal controls provisions, and aided and abetted Och-Ziff’s books and records violations. (¶¶
+6, 204-219 (the “FCPA claims”).) The Complaint further alleges, based on four of those
+transactions and two additional ones, that Mr. Cohen violated Sections 206(1) and 206(2) of the
+Advisers Act, and also aided and abetted OZ Management’s violation of those provisions as well
+as Section 206(4) and Rule 206(4)-8. (¶¶ 220-235 (the “Advisers Act claims”).) The eight
+transactions challenged in the Complaint are:
+
+1
+
+The Complaint is cited by paragraph, as “¶ _”. Mr. Cohen disputes many of the factual allegations in the
+Complaint but accepts them, arguendo, for purposes of this motion. Documents incorporated by reference in the
+Complaint, and other materials of which Mr. Cohen seeks judicial notice, are provided as attachments to the
+accompanying declaration of Kayvan B. Sadeghi, dated June 27, 2017, and are cited herein by exhibit number as
+“Ex. _”. (See Request for Judicial Notice In Support of Michael L. Cohen’s Motion to Dismiss the Amended
+Complaint, served and filed contemporaneously herewith.)
+
+4
+ny-1287138
+
+Compl.
+¶¶
+
+Transaction
+1) Securing an investment from the Libyan Investment
+Authority (“LIA Investment”) in 2007
+
+41-71
+
+2) Libyan Real Estate Project in 2007
+
+72-77
+
+3) Loans issued in 2007 and 2008 in connection with the
+AML Joint Venture
+
+83-104
+
+4) Convertible Loan to an entity in the Democratic
+Republic of Congo in late 2007
+
+125-144
+
+5) Margin Loan to a British Virgin Islands entity in 2010
+and early 2011
+
+145-158
+
+6) $77 Million Stock Transaction by investment fund
+AGC II in early 2011
+
+167-180
+
+7) Congo-Brazzaville Oil Field Transaction by AGC II in
+late 2010
+
+182-192
+
+8) London Holding Company Stock Purchase by AGC II
+in late 2010
+
+193-201
+
+FCPA
+Claims
+
+Advisers
+Act Claims
+
+x
+x
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+x
+x
+
+ARGUMENT
+Mr. Cohen respectfully submits that the Complaint should be dismissed because: (i) the
+SEC’s claims are time-barred, even taking into account applicable tolling agreements (see
+Section I); (ii) the Advisers Act claims based on investments by AGC II (¶¶ 167-201) fail
+because they seek extraterritorial application of the statute to the foreign conduct of a foreign
+investment adviser, advising foreign clients concerning foreign investments (see Section II); and
+(iii) the FCPA and Advisers Act claims based on the “corrupt transactions” (¶¶ 41-180) fail
+because the Complaint does not plead particularized facts that give rise to a “strong inference” of
+Mr. Cohen’s purported knowledge that bribes would be paid, as is required by Rule 9(b). (See
+Section III.)
+
+5
+ny-1287138
+
+I.
+
+ALL CLAIMS AGAINST MR. COHEN ARE BARRED BY THE FIVE-YEAR
+STATUTE OF LIMITATIONS.
+A.
+
+Section 2462 Applies to All Claims Asserted in the Complaint.
+
+The SEC’s claims against Mr. Cohen are time-barred because they are based on conduct
+that occurred as many as ten years ago, and all of the claims first accrued well outside the fiveyear limitations period set forth in 28 U.S.C. § 2462. The Supreme Court recently confirmed
+that Section 2462 applies to all forms of monetary relief sought in the Complaint (see Kokesh v.
+SEC, No. 16-529, 2017 WL 2407471, at *5 (U.S. June 5, 2017)), and the same reasoning
+compels the conclusion that it bars the injunctive relief requested here as well.
+In Kokesh, the Supreme Court made clear that statutes of limitation “‘set a fixed date
+when exposure to the specified Government enforcement efforts end.’” Id. (quoting Gabelli v.
+SEC, 133 S. Ct. 1216, 1221 (2013), alterations omitted). Limitations periods are “vital to the
+welfare of society” (id.), and strict adherence to the limitations period “is the best guarantee of
+evenhanded administration of the law.” Carey v. IBEW Local 363 Pension Plan, 201 F.3d 44, 47
+(2d Cir. 1999) (quoting Mohasco Corp. v. Silver, 447 U.S. 807, 826 (1980)). Indeed, the
+Supreme Court has long recognized that it “‘would be utterly repugnant to the genius of our
+laws’ if actions for penalties could ‘be brought at any distance of time.’” Gabelli, 133 S. Ct. at
+1223 (quoting Adams v. Woods, 2 Cranch 336, 342 (1805)). That principle is particularly
+important where the plaintiff is a government agency with vast investigative powers and the
+potential to impose severe penalties. See id.
+The problems that arise in litigating a years-old claim, such as lost evidence and the
+unreliable memory of witnesses (see Carey, 201 F.3d at 47), are particularly acute and
+prejudicial in this case. With the SEC having taken over six years to investigate, Mr. Cohen is
+
+6
+ny-1287138
+
+now left in the position of trying to secure witnesses and evidence about decade-old events
+throughout Africa. To prevent such unfairness, Congress provided that:
+Except as otherwise provided by Act of Congress, an action, suit or proceeding for
+the enforcement of any civil fine, penalty, or forfeiture, pecuniary or otherwise,
+shall not be entertained unless commenced within five years from the date when
+the claim first accrued if, within the same period, the offender or the property is
+found within the United States in order that proper service may be made thereon.
+28 U.S.C. § 2462 (emphasis added).2
+Here, the SEC’s claims are time-barred because there is no dispute that Mr. Cohen was in
+the United States within the five-year period after accrual of the SEC’s claims. See Straub, 2016
+WL 5793398, at *15; see also SEC v. Wey, No. 15-CV-7116 (PKC), 2017 WL 1157140, at *28
+(S.D.N.Y. Mar. 27, 2017) (following Straub, which “has thoughtfully considered the issue,” to
+conclude that the five-year limitation period applies so long as the defendant was within the
+United States at some point during that period). Mr. Cohen is a U.S. citizen, has a home in
+Massachusetts, and allegedly “travelled . . . through the district in furtherance of the transactions
+detailed herein.” (¶¶ 15, 17.) Records of Mr. Cohen’s confirmed border crossings into and out
+of the United States, obtained from U.S. Customs and Border Protection (“CBP”), confirm that
+Mr. Cohen made trips into the United States each year between 2008 and 2016, often several a
+year. (See Sadeghi Decl. ¶ 3 & Ex. 1.)
+As a result, the SEC is barred from seeking monetary relief including civil fines,
+penalties, and disgorgement for all claims that first accrued outside the five-year limitation
+period (as extended by applicable tolling agreements). See 28 U.S.C. § 2462; Kokesh, 2017 WL
+2407471, at *5 (holding that claims for disgorgement, like claims for penalties and fines, are
+subject to the five-year limitations period of Section 2462). See also, e.g., SEC v. Syndicated
+2
+
+Section 2462 governs the claims asserted here because the Exchange Act and the Advisers Act do not specify
+another limitations period. See Gabelli, 133 S. Ct. at 1219 (Advisers Act); SEC v. Straub, No. 11-CV-9645 (RJS),
+2016 WL 5793398, at *13 (S.D.N.Y. Sept. 30, 2016) (FCPA).
+
+7
+ny-1287138
+
+Food Serv. Int’l, Inc., No. 04-CV-1303 (NGG), 2014 WL 1311442, at *25 (E.D.N.Y. Mar. 28,
+2014) (Garaufis, J.) (adopting report and recommendation barring penalties based on transactions
+that were more than five years old because, “[a]s the SEC admits, any civil penalty against [the
+defendant] ‘should be based on [his] violations during the statutory period’”).
+Moreover, the sole remaining form of relief sought by the SEC here—an “obey-the-law”
+injunction—is time-barred for the same reasons. Writing for a unanimous Court in Kokesh,
+Justice Sotomayor explained that statutes of limitations such as Section 2462 “‘rest on the
+principle that ‘even wrongdoers are entitled to assume that their sins may be forgotten.’” 2017
+WL 2407471, at *5. The Court held that disgorgement is a penalty because it “is imposed as a
+consequence of violating a public law and it is intended to deter, not to compensate.” See id. at
+*8. Disgorgement orders “‘go beyond compensation, are intended to punish, and label
+defendants wrongdoers’ as a consequence of violating public laws.” Id. at 9. While
+disgorgement orders serve remedial purposes in some cases, they are nevertheless subject to
+Section 2462 in all cases, because a “civil sanction that cannot fairly be said solely to serve a
+remedial purpose, but rather can only be explained as also serving either retributive or deterrent
+purposes, is punishment.” Id. (emphasis in the original)).
+The injunctive relief sought here is also a penalty under the standard set out in Kokesh.
+The SEC cannot seriously maintain that it is pursuing decade-old claims against Mr. Cohen
+solely for a purpose other than seeking to punish him and label him a wrongdoer.3 See SEC v.
+Jones, 476 F. Supp. 2d 374, 385 (S.D.N.Y. 2007) (dismissing claim for injunctive relief pursuant
+
+3
+
+The only injunction the SEC seeks here is an “obey the law” injunction (see Complaint at 84-85), and although it
+does not impose additional duties on a defendant, it is nonetheless a severe sanction. See generally Daniel M. Weiss,
+Reexamining the SEC’s Use of Obey-The-Law Injunctions, 7 U.C. Davis Bus. L.J. 6 (2006) (noting that entry of an
+obey-the-law injunction “can also have substantial collateral consequences for a defendant”). See also Aaron v.
+SEC, 446 U.S. 680, 703 (1980) (Burger, C.J., concurring) (an obey-the-law injunction is “a drastic remedy, not a
+mild prophylactic”).
+
+8
+ny-1287138
+
+to Section 2462, finding that the “practical effect of such an injunction here would be to
+stigmatize Defendants in the investment community” and “the severity of the[] collateral
+consequences indicate that the requested [obey-the-law] injunction would carry with it the sting
+of punishment”); SEC v. Bartek, 484 F. App’x 949, 957 (5th Cir. 2012) (affirming district court’s
+holding that obey-the-law injunction and director/officer bar were both punitive and subject to
+Section 2462); see also Johnson v. SEC, 87 F.3d 484, 488-89 (D.C. Cir. 1996) (finding
+injunction including six month suspension to be a penalty triggering Section 2462 because it was
+“likely to have longer-lasting repercussions on [defendant’s] ability to pursue her vocation”).
+It is also beyond dispute that injunctions are intended to serve a deterrent purpose. The
+SEC has itself regularly touted the deterrent purpose of the injunctions it seeks. See, e.g., Reply
+Brief of SEC as Appellant/Petitioner, SEC v. Citigroup Global Markets Inc., No. 11-5227, Dkt.
+294, at 33, 2012 WL 4322065 (2d Cir. Sept. 13, 2012) (“the Commission brings few contempt
+proceedings precisely because these injunctions generally deter misconduct.”); Brief of SEC as
+Plaintiff-Appellee, SEC v. Savino, No. 06-1398, 2006 WL 4878139, at 33 (2d Cir. Aug. 15,
+2006) (noting the court’s “wide discretion to enjoin a defendant from future violations of the
+securities laws in order to deter potential future fraudulent conduct”). In addition, courts
+imposing such injunctions at the SEC’s request have recognized that the injunctions serve a
+deterrent purpose. See SEC v. Contorinis, 743 F.3d 296, 308 (2d Cir. 2014) (upholding obeythe-law injunction as a “measure[] to deter future wrongdoing of a like type”); SEC v. Cole, No.
+12-CV-8167, (RJS), 2014 WL 4723306, at *7 (S.D.N.Y. Sept. 22, 2014)(“The Court therefore
+imposes a permanent injunction to deter against potential future harms inflicted by
+Defendants.”), aff’d, 661 Fed. App’x 52 (2d Cir. 2016).
+
+9
+ny-1287138
+
+This recognition by the SEC and the courts of the purposes of such injunctions compels
+the conclusion that they are penalties under the Supreme Court’s analysis in Kokesh. See 2017
+WL2407471 at * 2 (“sanctions imposed for the purpose of deterring infractions of public laws
+are inherently punitive because ‘deterrence [is] not [a] legitimate nonpunitive governmental
+objective’”) (quoting Bell v. Wolfish, 441 U.S. 520, 539, n. 20 (1979)). Indeed, this conclusion
+has been echoed by three former high-ranking SEC officials (its former Chair, Director of
+Enforcement and FCPA Unit Chief), who recently acknowledged that the logic of Kokesh
+“appears to raise significant questions as to whether other SEC sanctions, such as bars and even
+injunctions … likewise represent penalties and are thus constrained by the five-year limitations
+period.”4
+B.
+
+The Court Should Dismiss Time-Barred Claims on a Transaction-by
+Transaction Basis.
+
+Advisers Act claims “accrue[]—and the five-year clock begins to tick—when a
+defendant’s allegedly fraudulent conduct occurs.” Gabelli, 133 S. Ct. at 1220 (noting that claims
+accrue when plaintiff has “a complete and present cause of action”). FCPA claims accrue when
+a defendant uses the mails or instrumentalities of interstate commerce in furtherance of a corrupt
+payment. See 15 U.S.C. § 78dd-1; Straub, 2016 WL 5793398, at *19 (“Based on a plain reading
+of the statute . . . the triggering act for the running of the limitations period, i.e., the act that
+would give the SEC ‘a complete and present cause of action’ would appear to be the ‘use of the
+mails,’ not the payment or offer of payment of the bribe itself.”) (quoting Gabelli, 133 S. Ct. at
+1220). Claims for aiding and abetting a books and records violation and for circumvention of
+4
+
+Mary Jo White, Andrew Ceresney, et al., What Kokesh v. SEC Means For Enforcement Actions (June 8,
+2017), https://www.law360.com/whitecollar/articles/932661/what-kokesh-v-sec-means-for-secenforcement-actions?utm_source=newsletter&utm_medium=email&utm_campaign=whitecollar
+&read_more=1 (“having lost both Gabelli and now Kokesh, it remains to be seen whether the SEC will
+continue to advance any theories that provide them with unlimited time to bring actions and obtain
+remedies”).
+
+10
+ny-1287138
+
+accounting controls accrue when the improper recording is made. See Straub, 2016 WL
+5793398, at *19; SEC v. Jackson, 908 F. Supp. 2d 834, 872 (S.D. Tex. 2012).
+Where, as here, each cause of action incorporates multiple transactions, the Court should
+dismiss claims insofar as they rely on transactions outside the limitations period. For instance,
+Judge McMahon followed this process in de la Fuente v. DCI Telecommunications, Inc.,
+analyzing the limitations periods applicable to each of ten allegedly false accounting disclosures
+and three alleged frauds and dismissing as time-barred the Exchange Act claims based on all of
+the disclosures and two of the frauds. 206 F.R.D. 369, 376-80 (S.D.N.Y. 2002). This Court
+performed the same analysis in a different procedural posture in Syndicated Food Service, going
+transaction-by-transaction to prune those portions of an SEC claim for civil penalties that were
+based on transactions outside the five-year limitations period. See 2014 WL 1311442, at *25.
+At the pleading stage, courts regularly dismiss the time-barred portions of claims brought
+by the SEC, even if the cause of action will survive as to some other portion of the alleged
+conduct. See, e.g., SEC v. Radius Capital Corp., No. 2:11-CV-116-FtM-29DNF, 2013 WL
+3716394, at *2 (M.D. Fla. July 15, 2013) (granting motion to dismiss Securities Act and
+Exchange Act claims as to five out of fifteen securities at issue); SEC v. Fisher, No. 07-CV-4483
+(JBZ), 2008 WL 2062699, at *6-8 (N.D. Ill. May 13, 2008) (dismissing portion of SEC’s claim
+for civil penalties based on time-barred misstatements and sustaining claims only to the extent
+they were based on later SEC filings).
+C.
+
+The Tolling Agreements Do Not Save the Time-Barred Claims.
+
+None of the time-barred claims are saved by the fact that Mr. Cohen tolled the limitations
+period for Libya-related claims for less than two years. Initially, in June 2011, the SEC opened
+an investigation entitled In the Matter of the Libyan Investment Authority (B-2646), concerning
+potential violations of the FCPA. (See Order of Investigation, In the Matter of the Libyan
+11
+ny-1287138
+
+Investment Authority, Ex. 2 at 3.) In November 2012, Mr. Cohen and the SEC entered into a
+one-year Tolling Agreement, drafted by the SEC, solely with respect to actions arising out of that
+LIA investigation, referenced by title and identifying number. (See ¶ 202; Ex. 3.)
+Mr. Cohen never tolled claims arising out of the SEC’s separate investigation entitled In
+the Matter of Och-Ziff Capital Management LLC (B-02790), opened in March 2013 concerning
+violations of both the FCPA and the Advisers Act. (See Order of Investigation, In the Matter of
+Och-Ziff Capital Management LLC, Ex. 2 at 8.) The SEC did not seek a tolling agreement from
+Mr. Cohen for claims arising out of the new investigation, and in November 2013 it also allowed
+its tolling agreement concerning the Libyan Investment Authority investigation to lapse.
+In December 2013, the SEC entered into a second tolling agreement with Mr. Cohen
+(followed immediately by a third), both drafted by the SEC, which again referenced only the
+Libyan Investment Authority investigation of possible FCPA violations and not FCPA and
+Advisers Act claims arising out of the separate pending Och-Ziff investigation. (See Exs. 4, 5.)
+The SEC failed to preserve its claims by tolling only one of its open investigations and by
+waiting more than two years to file suit after the last tolling agreement expired. See United
+States v. Mergen, 764 F.3d 199 (2d Cir. 2014) (tolling provision in a plea agreement should be
+construed strictly against the government); Photopaint Techs., LLC v. Smartlens Corp., 335 F.3d
+152, 161 (2d Cir. 2003) (discussing tolling agreement and declaring “we generally interpret
+contractual ambiguities against the drafter”).
+D.
+
+All of the Alleged Transactions Fall Outside the Statute of Limitations.
+
+All of the transactions fall well outside the five-year limitations period, even after
+applying the tolling agreements to the Libya claims, as set forth in the following chart.
+
+12
+ny-1287138
+
+1. LIA Investment: The LIA invested with Och-Ziff in November 2007, and the deal fee
+was allegedly paid in two installments on or about January 16 and October 30, 2008. (¶¶ 56, 63,
+67.) Therefore, the SEC’s claims against Mr. Cohen regarding the LIA Investment first accrued
+by at least November 2007, but certainly no later than October 2008, when Och-Ziff transferred
+the last portion of the deal fee to Agent 1. (¶¶ 53, 70.) Neither Mr. Cohen nor anyone else at
+Och-Ziff allegedly took any action in furtherance of any alleged bribe after that date. Using the
+date of that last payment from Och-Ziff, there was less than a year left on the five-year clock
+when Mr. Cohen entered into his first tolling agreement effective November 26, 2012. (See Ex.
+3.) The SEC allowed that tolling agreement to lapse for a period in 2013, and the subsequent
+tolling agreements lapsed for good in September 2014. The limitations period therefore expired
+no later than August 2015.
+2. Libya Real Estate Project: This transaction occurred before the LIA Investment and
+any related claims therefore accrued and expired even earlier. Och-Ziff invested in the Libya
+13
+ny-1287138
+
+Real Estate Project “in or about” October 2007, and paid a deal fee to Agent 1 “in November
+2007,” which Agent 1 allegedly used in part to pay bribes. (See ¶¶ 72-77.)
+The claim against Mr. Cohen accrued no later than November 2007, when Och-Ziff paid
+the deal fee. See Straub, 2016 WL 5793398, at *19. Thus, there could not have been more than
+a few days left on the clock when Mr. Cohen entered his first tolling agreement effective
+November 26, 2012.5 The limitations period expired no later than November 2013, when the
+SEC allowed its tolling agreement to lapse.
+3. AML Joint Venture: The Complaint alleges a few distinct transactions with respect to
+the AML Joint Venture: an $86 million loan “[i]n or about May 2007” (¶ 83), and two $10
+million payments “[i]n 2008.” (¶ 104.) The five-year limitation period for claims concerning the
+$86 million loan ran in May 2012. The Complaint does not allege when in 2008 the $10 million
+payments were made, but the last identified bribe was paid July 3, 2008 (¶¶ 83, 87-88, 95), so the
+$10 million payments from Och-Ziff would have to precede that date if any of the funds were
+used for an identified bribe. In any event, even if the claims related to those payments accrued at
+the end of 2008, the limitations period would have expired five years later, in 2013.
+Separately, the Complaint alleges that a consultant working for Och-Ziff’s joint venture
+partner travelled to New York three years later in 2011, and received wire transfers in 2011 and
+2012 related to efforts to acquire mining rights. (¶¶ 91-92.) But the Complaint does not allege
+that the wire transfer came from any Och-Ziff-affiliated entity, that any bribes were paid with
+that money, or that Mr. Cohen had any knowledge or involvement in that conduct.
+4. Convertible Loan: The convertible loan was “funded between April and October
+2008,” with the third and final tranche funding on October 9, 2008. (¶¶ 113, 132, 139.) The
+5
+
+In fact, the claim first accrued much sooner, as the Complaint notes that the Libya real estate investment itself
+occurred in October 2007 and Mr. Cohen would presumably have used the instrumentalities of interstate commerce
+at some point leading up to the investment itself in furtherance of the transaction.
+
+14
+ny-1287138
+
+Complaint does not allege any subsequent act in furtherance of a related bribe by Mr. Cohen.
+The claim therefore first accrued by April 2008, but in any event no later than October 9, 2008,
+and the five-year limitation period therefore expired no later than October 9, 2013.
+5. Margin Loan: Och-Ziff extended a margin loan to the BVI Shell Company in two
+transfers made “[o]n or about November 24, 2010” (¶ 152), a portion of which was allegedly
+used to make bribe payments between then and February 9, 2011. (¶ 154.) With the claim
+accruing on November 24, 2010, the five-year limitations period ran on November 24, 2015.6
+6. $77 Million Stock Transaction: Mr. Cohen allegedly arranged for a purchase of shares
+in a London-based mining company in April 2011, with the effect of providing funds to South
+African Business Associate 3. (¶¶ 161-74.) Claims based on this transaction therefore accrued,
+at the latest, in April 2011, and the limitations period expired no later than April 2016.
+7. Congo-Brazzaville Oil Field Transaction: The Complaint asserts Advisers Act claims
+based on purported misstatements or omissions allegedly made in regard to the purchase of a
+25% stake in an oil field off the coast of Congo-Brazzaville. (See ¶¶ 182-92.) The Complaint
+does not specify a date for the transaction except that it occurred at some point in 2010 (¶¶ 7,
+185), meaning that the five-year limitations period expired at some point in 2015.
+8. London Holding Company Stock Purchase: The Complaint also alleges Advisers Act
+claims based on a transaction in which AGC II bought stock from a business associate, who
+allegedly used a portion of the proceeds to repay a personal loan from Mr. Cohen. (See ¶¶ 193201.) The Complaint does not supply dates for the alleged misstatements and omissions (see
+id.), but it does allege that the purchase of the stock occurred “[i]n December 2010” (¶ 194), so
+the limitation period expired no later than December 2015.
+6
+
+The Complaint alleges an additional $20 million loan approximately three months later, “[o]n or about February
+17, 2011” (¶ 152), but it does not allege any bribes were paid with that subsequent loan. (See ¶ 154 (last bribe
+February 9).) Regardless, the limitations period for the $20 million loan expired in February 2016.
+
+15
+ny-1287138
+
+II.
+
+THE ADVISERS ACT CLAIMS BASED ON TRANSACTIONS BY AGC II MUST
+BE DISMISSED BECAUSE THEY SEEK EXTRATERRITORIAL
+APPLICATION OF A PURELY DOMESTIC STATUTE.
+Counts V through VII of the Complaint assert violations of the Advisers Act based on all
+
+six of the non-Libya transactions. (See ¶¶ 220-35.)7 Three of those transactions (the $77 Million
+Stock Transaction, the Congo-Brazzaville Oil Field Transaction, and the London Holding
+Company Stock Purchase), however, fall outside the reach of the Advisers Act because they
+concern investment advice given to the foreign investment fund AGC II, by its foreign
+investment adviser AML, concerning foreign transactions.
+The Advisers Act cannot be applied to the predominantly foreign conduct alleged here.
+Federal statutes enjoy a presumption against extraterritoriality, which can be rebutted only by a
+clear demonstration of Congressional intent to reach foreign conduct. Morrison v. Nat’l
+Australia Bank Ltd., 561 U.S. 247, 255-61 (2010) (“legislation of Congress, unless a contrary
+intent appears, is meant to apply only within the territorial jurisdiction of the United States”).
+When a statute gives no clear indication of an extraterritorial application, it has none.” Morrison,
+561 U.S. at 255.8 Once a court determines that a statute does not overcome the presumption
+against extraterritoriality, then it “determine[s] whether the case involves a domestic application
+of the statute.” RJR Nabisco, Inc. v. European Cmty., 136 S. Ct. 2090, 2101 (2016).
+
+7
+
+Count V alleges that Mr. Cohen violated Sections 206(1) and (2) of the Advisers Act directly; Counts VI and VII
+allege that Mr. Cohen aided and abetted violations of Sections 206(1), 206(2), and 206(4) by OZ Management. (See
+id.) Those claims therefore require showing that Mr. Cohen (Count V) and OZ Management (Counts VI and VII),
+respectively, acted as an investment adviser for the relevant transactions. See 15 U.S.C. § 80b-6(1); 17 C.F.R. §
+275.206(4)-8.
+8
+
+Since Morrison, the Supreme Court and the Second Circuit have broadly construed and applied the presumption
+against extraterritoriality. See, e.g., Kiobel v. Royal Dutch Petroleum Co., 133 S. Ct. 1659 (2013) (affirming
+dismissal of Alien Tort Statute claim because all relevant conduct took place outside the United States); Liu MengLin v. Siemens AG, 763 F.3d 175 (2d Cir. 2014) (holding that Dodd-Frank anti-retaliation provision does not apply
+extraterritorially); Loginovskaya v. Batratchenko, 764 F.3d 266 (2d Cir. 2014) (applying the presumption against
+extraterritoriality to Section 22 of the Commodities Exchange Act); RJR Nabisco, 136 S. Ct. at 2103 (holding that
+RICO cannot be applied extraterritorially unless the predicate act of racketeering violates a predicate statute that can
+be applied extraterritorially under the Morrison standard).
+
+16
+ny-1287138
+
+Morrison makes clear that a statute is not to be applied to predominantly foreign conduct
+merely because there is some domestic connection. As the Supreme Court noted in Morrison, “it
+is a rare case of prohibited extraterritorial application that lacks all contact with the territory of
+the United States,” and “the presumption against extraterritorial application would be a craven
+watchdog indeed if it retreated to its kennel whenever some domestic activity is involved in the
+case.” Morrison, 561 U.S. at 266 (emphasis in original). Three years after Morrison, the
+Supreme Court again reiterated this principle in Kiobel, emphasizing that “even where the claims
+touch and concern the territory of the United States, they must do so with sufficient force to
+displace the presumption against extraterritorial application.” 133 S. Ct. at 1669 (emphasis
+added).
+Section 206 of the Advisers Act is silent as to extraterritorial application. Recognizing
+this, courts applying Morrison to Advisers Act claims focus on whether the facts before them
+constitute a domestic application of the statute. See, e.g., SEC v. ICP Asset Mgmt., LLC, No. 10CV-4791(LAK), 2012 WL 2359830, at *1 (S.D.N.Y. June 21, 2012). To determine whether
+application of the Advisers Act is domestic, the Court must look to the statute’s “focus.” RJR
+Nabisco, 136 S. Ct. at 2101. “If the conduct relevant to the statute’s focus occurred in the United
+States, then the case involves a permissible domestic application even if other conduct occurred
+abroad; but if the conduct relevant to the focus occurred in a foreign country, then the case
+involves an impermissible extraterritorial application regardless of any other conduct that
+occurred in U.S. territory.” Id. Courts in this District have held that “the focus of the [Advisers
+Act] is clearly on the investment adviser and its actions.” ICP Asset Mgmt., 2012 WL 2359830,
+at *3; see also SEC v. Amerindo Inv. Advisers, Inc., 05-CV-5231 (RJS), 2013 WL 1385013, at *9
+(S.D.N.Y. Mar. 11, 2013) (same), aff’d, 639 Fed. Appx. 752 (2d Cir. 2016).
+
+17
+ny-1287138
+
+The $77 Million Stock Transaction, Congo-Brazzaville Oil Field Transaction, and
+London Holding Company Stock Purchase were investments in foreign companies by a foreign
+fund, AGC II, based on the advice of its foreign investment adviser, AML. That confluence of
+foreign factors—like the “foreign cubed” transactions that were held to be extraterritorial in
+Morrison (see 561 U.S. at 283 n.11)—falls outside the reach of the Advisers Act.
+A.
+
+The Investment Adviser (AML) and Its Client (AGC II) Are Foreign.
+
+AGC II was an investment fund established by the joint venture entity AML. (See ¶¶ 78,
+159.) The Complaint conspicuously does not allege that either AGC II or AML was a domestic
+entity. As the SEC well knows, but did not allege, AGC II was organized under the laws of the
+Cayman Islands and AML was incorporated in Guernsey. (See AGC II Amended and Restated
+Exempted Limited Partnership Agreement (“AGC II LPA”), Ex. 6, at 1; AML Joint Venture
+Relationship Deed, Ex. 7.) Those formation documents also make clear that AML, not OZ
+Management, served as the investment adviser to AGC II. (See AGC II LPA, Ex. 6, at 2.)9
+Because the AGC II transactions involve investment advice given by foreign adviser AML to its
+foreign client AGC II, the SEC’s claims based on those transactions involve a clear
+extraterritorial application of the Advisers Act.
+After reviewing Mr. Cohen’s motion to dismiss, the SEC amended its Complaint to
+allege that AGC II is “beneficially owned” by U.S. investors (¶¶ 161, 163), and that it filed forms
+with the IRS (¶ 163). Neither allegation supports the SEC’s claims. First, Section 206 of the
+Advisers Act creates an obligation on the part of the adviser (AML) to the fund that the
+investment adviser is advising (AGC II), not to the investors in the fund. See Goldstein v. SEC,
+451 F.3d 873, 881 (D.C. Cir. 2006) (“The adviser owes fiduciary duties only to the fund, not to
+9
+
+Because OZ Management is not the investment adviser for AGC II, Counts VI and VII should also be dismissed
+for the independent reason that OZ Management could not have committed a primary violation under 206(1),
+206(2), or 206(4), so Mr. Cohen could not have aided and abetted that violation.
+
+18
+ny-1287138
+
+the fund’s investors” and thus the Advisers Act does not apply to the investors of the fund itself);
+In re Aozora Bank Ltd., v. SEC. Inv’s Prot. Corp., 480 B.R. 117, 125 (SD.N.Y. 2012) (feeder
+funds themselves, not the investors in those funds, were customers of the ultimate broker-dealer
+under the Securities Investor Protection Act because “at the moment each appellant used assets
+to purchase an ownership interest in the Feeder Fund those assets became property not of the
+appellants but of the Feeder Fund”), aff’d sub nom., In re Bernard L. Madoff Inv. Sec. LLC, 708
+F. 3d 422 (2d Cir. 2013).10
+The Complaint’s misleading allegation that AGC II filed a federal partnership tax return
+similarly offers no support for the SEC’s claims. The Complaint does not allege – because it
+cannot – that the fund engaged in any business in the United States. Instead, the referenced tax
+form filed by AGC II for its initial year expressly notes that AGC II was “a foreign partnership
+not generally required to file a US Return of Partnership Income,” and instead was filing the
+Form 1065 “solely for the purpose of making the partnership elections [regarding certain
+accounting policies adopted by the partnership] attached in the following statements.” (See 2008
+AGC II Form 1065, Ex. 9.) Treasury regulation § 1.6031(a)-1(3)(b)(5) makes clear that such a
+return filed by a foreign partnership solely to make an election “is not a partnership return.”
+The Complaint seeks to bring AGC II’s investments within the scope of the Advisers Act
+based on the domestic investment adviser, OZ Management, but the connection is attenuated.
+OZ Africa Management, a subsidiary of OZ Management, owned a 40% minority stake in AML.
+The majority owner of AML was a British Virgin Islands subsidiary of the Turks and Caicos
+
+10
+
+After the Goldstein decision, the SEC extended the definition of client for purposes of Rule 206(4)-8 to “any
+investor or prospective investor in the pooled investment vehicle.” See 17 C.F.R. § 275.206(4)-8. However, the
+result of the extraterritoriality analysis is the same under that Rule (at issue for Count VII) because the only two
+investors in AGC II are the U.K. Investor and OZ Partners Fund, a Cayman Islands entity. (See ¶ 222; OZ Partner
+AGC II Feeder, L.P. Amended and Restated Exempted Limited Partnership Agreement, Ex. 8, at 1.) Even Rule
+206(4)-8 does not look behind the investing entity to identify individuals with the ultimate beneficial interest.
+
+19
+ny-1287138
+
+Entity, which is not otherwise affiliated with Och-Ziff. (See AML Joint Venture Relationship
+Deed, Ex. 7, at 1-2, 17; see also Order Instituting Administrative and Cease-and-Desist
+Proceedings, In the Matter of Och-Ziff Cap. Mgmt. Grp, LLC, No. 3-17595, 2016 WL 5461964
+(Sept. 29, 2016) (“OZ Order”)), at ¶ 32.) For ease of reference, the corporate structure of the
+entities is depicted visually in the following diagram.
+
+AGC II Investment Advisory Structure
+OZ
+Management
+(U.S.)
+OZ Africa
+(U.S.)
+
+40% 60%
+
+Subsidiary of
+Turks and Caicos
+Entity (BVI)
+U.K. Investor
+(U.K.)
+
+African Global Capital
+Holdings, Ltd.
+(Cayman)
+
+Africa Management Ltd.
+(“AML”)
+(Guernsey)
+Advisory Committee
+Mr. Cohen
+S. A. Bus. Assoc. 3
+
+1.
+
+Foreign
+Investors
+
+Advisory
+Services
+
+Foreign Investment
+Advisor
+
+OZ Partners Fund
+(Cayman)
+
+African Global Capital II,
+L.P. (“AGC II”)
+(Cayman)
+Foreign
+Client
+
+The Complaint Alleges No Basis to Disregard the Distinct Corporate
+Identities of AML and OZ Management.
+
+The SEC seeks to meet Morrison’s domesticity requirement by mischaracterizing OZ
+Management as the investment adviser to AGC II (¶¶ 7, 14, 222, 228-29), and by alleging that
+OZ Management “controlled” AML and that “Och-Ziff’s approval was required for all
+investments, capital allocations, and marketing to investors related to AGC funds.” (¶¶ 79, 162.)
+20
+ny-1287138
+
+The Complaint fails, however, to allege any facts to explain how a minority investor like OZ
+Management could “control” a company that had an unaffiliated 60% owner.
+Well-established principles of respect for corporate separateness prohibit imputing the
+domestic contacts of OZ Management to AML in order to apply the Advisers Act to the foreign
+conduct advising foreign clients of that foreign adviser based on the alleged relations. In
+Balintulo v. Ford Motor Co., the Second Circuit refused to impute the actions of defendant Ford
+Motor Co.’s South African subsidiary to Ford for purposes of rebutting the presumption against
+extraterritoriality, even where there were allegations that Ford exercised control over its
+subsidiary. See 796 F.3d 160, 168 (2d Cir. 2015), cert. denied, 136 S. Ct. 2485 (2016)
+(“Allegations of general corporate supervision are insufficient to rebut the presumption against
+territoriality and establish aiding and abetting liability under the ATS.”). Further, in an
+analogous jurisdictional context, courts regularly reject jurisdiction over even wholly-owned
+foreign subsidiaries based on the domestic contacts of their parents because imputing contacts of
+a domestic parent to its foreign subsidiary requires piercing the corporate veil—an extreme
+remedy justified only where there is evidence of abuse of the corporate form. See Wilder v.
+News Corp., No. 11-CV-4947 (PGG), 2015 WL 5853763, at *6 (S.D.N.Y. Oct. 7, 2015) (“[A]
+Court will only find jurisdiction over the foreign subsidiary when the activities of the parent
+show a disregard for the separate corporate existence of the subsidiary.”) (quotation marks and
+citations omitted). Wilder involved an attempt to gain personal jurisdiction over a foreign
+wholly-owned subsidiary (NI Group) of a U.S. corporation, News Corp. The court rejected as
+insufficient allegations that the parent and subsidiary had overlapping membership on their
+boards of directors and that the parent appointed key executives and the CEO of the
+subsidiary. The court ruled that:
+
+21
+ny-1287138
+
+Plaintiffs have not demonstrated that News Corp.’s exercise of control over NI
+Group goes beyond the extent of control that a corporate parent might reasonably
+be expected to exercise over its subsidiary. To hold that News Corp.’s contacts
+with New York can be imputed to NI Group would open the door to the exercise
+of general personal jurisdiction in the United States over many foreign
+subsidiaries of U.S. based companies. Such a result would appear to run contrary
+to the tenor of the Supreme Court’s Daimler decision.
+Id., at *10; Universal Trading & Inv. Co., Inc. v. Credit Suisse (Guernsey) Ltd., 560 Fed. Appx.
+52, 55 n.1 (2d Cir. 2014) (jurisdiction over subsidiary based on contacts of parent is only proper
+when the activities of the parent show a disregard for the separate corporate existence of the
+subsidiary) (citation omitted).
+Here, the SEC has not alleged any facts to establish that OZ Management disregarded the
+separate corporate existence of AML as the designated investment adviser of AGC II. To the
+contrary, the challenged investment recommendations to AGC II respect corporate separateness
+by making clear that the recommendations were offered “on behalf of the Advisory Committee
+of [AML]” and in South African Business Associate 3’s and Mr. Cohen’s capacity “as members
+of the Advisory Committee of [AML].” (See $77 Million Stock Transaction Investment
+Recommendation, Ex. 10 at 1-2; Congo-Brazaville Oil Field Transaction Investment
+Recommendation, Ex. 11 at 1-2; London Holding Company Stock Purchase Investment
+Recommendation, Ex. 12 at 1-2.) See also infra, at p. 25.11
+Moreover, the fact that OZ Management listed AML as an affiliate on its Form ADV (¶
+79) is irrelevant, because it does not suggest that the registered advisor controls the affiliate. The
+SEC’s own instructions for completing a Form ADV direct that a filer identify as an affiliate on
+its Form ADV any entity as to which the filer indirectly has the right to vote 25% or more of the
+
+11
+
+For this reason, it is also clear that the SEC’s allegation that the UK Investor was a client of OZ Management
+when it was solicited to invest in AGC II is completely irrelevant (¶ 166). The Investment Recommendations make
+clear that the UK Investor was receiving advice from AML, not OZ Management.
+
+22
+ny-1287138
+
+voting securities. (See SEC Form ADV Glossary of Terms, at 712.) Thus, the listing has no more
+legal significance than the undisputed fact that OZ Management indirectly owned 40% of AML.
+The Complaint also offers a misleading allegation that OZ Management listed AGC II as
+a “related private fund” on its Form ADV (¶ 160), but the SEC cannot allege that any such
+designation was applicable at any relevant time. In fact, as the SEC is no doubt aware, OZ
+Management did not list AGC II as a related private fund on its Form ADV during any period
+relevant to the AGC II transactions challenged in the Complaint. (See Form ADVs from 20082011, Exs. 13-16.) OZ Management first listed AGC II as a related private fund in its August
+2012 Form ADV (see Ex. 17), after the AML Joint Venture was unwound and OZ Management
+took over as investment advisor for AGC II through a corporate restructuring in July 2012. The
+SEC’s sleight-of-hand reliance on filings from the wrong time period only highlights the absence
+of any basis for domestic application of the Advisers Act during the time period at issue.
+2.
+
+The Sharing of Employees and Resources Between Och-Ziff and AML
+Does Not Provide a Basis for Domestic Application of the Advisers Act.
+
+The amended Complaint seeks to establish a domestic connection by alleging in
+conclusory fashion that Mr. Cohen “acted on behalf of Och-Ziff and OZ Management” in
+relation to AGC II (¶ 165), and that the AML Joint Venture “‘leveraged’ the legal, accounting,
+compliance, and investor relations infrastructure at Och-Ziff.” (¶ 162.) Neither allegation
+supports domestic application of the Advisers Act, as the SEC itself made clear in its guidance
+known as the Unibanco no-action letters, upon which entities like Och-Ziff rely in structuring
+their activities.
+First, Mr. Cohen’s separate roles as an associated person of OZ Management and a
+member of the Advisory Committee of AML do not justify disregarding corporate separateness
+12
+
+https://www.sec.gov/rules/final/2011/ia-3221-appc.pdf.
+23
+
+ny-1287138
+
+and imputing the domestic contacts of OZ Management to Mr. Cohen’s foreign conduct
+undertaken for AML. The SEC makes no factual allegation to support its conclusory assertion
+that Mr. Cohen was working on behalf of OZ Management when he was advising on transactions
+involving AGC II, and it instead alleges that he ran AML out of offices in London. (See ¶ 78.)
+Employees and corporate officers are permitted to perform tasks for more than one entity
+and change corporate “hats” depending on the role in which they are acting at a particular
+time. See United States v. Bestfoods, 524 U.S. 51, 69 (1998) (reaffirming the “well established
+principle that directors and officers holding positions with a parent and its subsidiary can and do
+‘change hats’ to represent the two corporations separately, despite their common ownership”).
+In Bestfoods, the U.S. government sued a parent company under an environmental statute
+for clean-up costs for industrial waste generated by a chemical facility operated by its
+subsidiary. Id. at 57-58. The district court ruled that the parent company could be said to have
+“operated” the facility that caused the pollution, and could therefore be held liable, because it
+placed its own high-level officials in key management positions of the subsidiary, where they
+“made major policy decisions and conducted day-to-day operations” at the facility. Id. at
+68. The Supreme Court unanimously rejected this reasoning, holding that “the District Court
+wrongly assumed that the actions of the joint officers and directors are necessarily attributable
+to” the parent company. Id. The district court’s “automatic attribution of the actions of dual
+officers and directors to the corporate parent” was erroneous. Id. at 70. Instead, the Court
+applied the “time-honored common law rule” that “courts generally presume that the directors
+are wearing their ‘subsidiary hats’ and not their ‘parent hats’ when acting for the
+subsidiary.” Id. at 69-70 (emphasis added and citation omitted). See also Consol. Edison Co. of
+N.Y., Inc. v. UGI Util., Inc., 153 Fed. Appx. 749, 752 (2d Cir. 2005) (refusing to hold a parent
+
+24
+ny-1287138
+
+liable for the activity of its subsidiary where there was “[n]o evidence [that] rebuts the
+presumption that dual officers and directors can faithfully serve both parent and subsidiary.”);
+Bridge v. New Holland Logansport, Inc., 815 F.3d 356, 366 (7th Cir. 2016) (“Where the same
+officer or director works for two separate but commonly-owned entities, he at times represents
+one corporation and at times represents the other. That is, he ‘changes hats.’”); Lusk v.
+Foxmeyer Health Corp., 129 F.3d 773, 779 (5th Cir. 1997) (citing the “well established principle
+that directors and officers holding positions with a parent and its subsidiary can and do ‘change
+hats’ to represent the two corporations separately, despite their common ownership”). This
+presumption can be overcome by a showing that the officer is acting in a way that is “plainly
+contrary to the interests of the subsidiary yet nonetheless advantageous to the parent.” Bestfoods,
+524 U.S. at 70 n.13.
+Here, the SEC has made no allegations to overcome the presumption that Mr. Cohen was
+acting as a member of the Advisory Committee of AML, and not on behalf of OZ Management,
+when advising AGC II.13 Moreover, documents relied upon or incorporated into the Complaint
+make it plain that Mr. Cohen’s investment recommendations to AGC II were given in his
+capacity at AML. The Complaint cites and/or references three investment recommendations
+made to AGC II that purportedly contained misrepresentations or omissions. (See ¶¶ 175, 178,
+189-90, 194.) Those investment recommendations consistently made clear that the
+recommendations were being made by “[South African Business Associate 3] and Michael
+Cohen, as members of the Advisory Committee of Africa Management Limited Ltd.” (See
+Investment Recommendations, Exs. 10-12, at 1.) Those memoranda make clear that Mr. Cohen
+was wearing his “AML hat” when making investment recommendations to AGC II.
+
+13
+
+The Complaint also conflates OZ Management (the domestic entity) and OZ Europe (a U.K. entity), without
+alleging any basis to disregard their corporate separateness.
+
+25
+ny-1287138
+
+To ignore the distinctions between OZ Management and AML, and Mr. Cohen’s role at
+each, would open the door for application of the Advisers Act to any foreign investment adviser
+that shares personnel with a domestic registered adviser, a result antithetical to the holding in
+Morrison and at odds with the SEC’s own longstanding guidance. Indeed, the SEC has
+recognized that the “well established principle” reiterated by the Supreme Court in Bestfoods
+limits the reach of the Advisers Act. Beginning in 1992, in a series of “no action letters” known
+as the Unibanco letters, the SEC established its advance guidance on when foreign advisers
+related to U.S. advisers are subject to U.S. securities laws. In those letters, the SEC held that
+while all persons involved in U.S. investment advisory activities, such as Mr. Cohen, are deemed
+“associated persons” of the U.S. registered adviser, the fact that those “associated persons” are
+also employed by an unregistered foreign investment adviser is not sufficient to bring the
+unregistered foreign investment adviser’s activities advising foreign clients within the scope of
+the Advisers Act. See SEC Release No. IA-3222, Exemptions for Advisers to Venture Capital
+Funds, at 126, 2011 WL 2482894, at *51 (Effective July 21, 2011) (announcing that the SEC
+“would not recommend enforcement action, subject to certain conditions, against a non-U.S.
+unregistered adviser that is affiliated with a Commission-registered adviser, despite sharing
+personnel and resources.”).14
+
+14
+
+See also Uniao de Bancos de Brasileiros (“Unibanco”), SEC No-Action Letter, at 4, 1992 WL 183054, at *3
+(pub. avail. July 28, 1992) (determination by the Commission that the Advisers Act will not apply to a foreign
+investment adviser merely because it is owned by a U.S. registered investment adviser); Royal Bank of Canada,
+SEC No-Action Letter, at 8, 1998 WL 289384, at *7 (pub. avail. June 3, 1998) (recognizing that “dual employees”
+of a registered adviser and an unregistered affiliate need not comply with the Advisers Act with regard to foreign
+clients, as long as certain conditions are met, including clarifying with U.S. clients that that they are acting in their
+capacity as a registered investment adviser); Mercury Asset Management plc, SEC No-Action Letter, at 5, 1993 WL
+13967, at *17 (pub. avail. Apr. 16, 1993) (“[W]e would not recommend that the Commission take any enforcement
+action if MAM registers as an adviser under the Advisers Act, but complies with the Advisers Act only with respect
+to clients who are United States persons and not with respect to clients who are not United States persons.”) The
+SEC has affirmed its position post-Morrison. See SEC Release No. IA-3222, at 128, 2011 WL 2482894, at *52
+(“Nothing in the rules we are today adopting in this Release is intended to withdraw any prior statement of the
+Commission or the views of the staff as expressed in the Unibanco letters.”).
+
+26
+ny-1287138
+
+The Unibanco letters also established that a foreign investment advisor is not subject to
+the Advisors Act even if it shares personnel, office space, records, telephone lines and other
+facilities with a domestic investment advisor, as well as communicates with the domestic
+investment advisor about advice given to clients before that advice is disseminated. See Murray
+Johnstone Holdings Ltd., SEC No-Action Letter, at 1-4 (pub. avail. Oct. 7, 1994). The
+allegations that Och-Ziff personnel participated in marketing and due diligence (¶¶ 204-211),
+that AGC II “relied upon Och-Ziff’s marketing, back-office, legal and compliance functions” (¶
+80), and that AML “‘leveraged’ the legal, accounting, compliance, and investor relations
+infrastructure at Och-Ziff” (¶ 162) are precisely the sort of shared personnel and resources that
+do not support domestic application of the Advisers Act under the SEC’s longstanding guidance.
+The SEC’s guidance in the Unibanco letters established the legal framework that was in place
+long before Och-Ziff structured the entities involved in this case, and presumably informed the
+decision to create a structure where AML acted as the Investment Adviser for the funds.
+B.
+
+The Conduct Alleged in Relation to AGC II Is Predominantly Foreign.
+
+The alleged conduct of the investment adviser, AML, further bolsters the conclusion that
+the challenged transactions were predominantly foreign. Mr. Cohen allegedly led the challenged
+transactions out of OZ Europe’s London offices (¶ 78), each of the transactions involved foreign
+persons and entities investing in foreign countries (¶¶ 167, 173, 186, 193-94), and for each
+transaction, the Complaint alleges misrepresentations to the UK Investor. (¶¶ 177, 189, 194.)
+The Complaint alleges a handful of generalized connections between OZ Management
+and AML, including that (i) prior to any of the transactions at issue, AGC II was (unsuccessfully)
+marketed to U.S. investors; (ii) AGC II’s prime broker and custodian bank were based in New
+York; and (iii) Och-Ziff’s CEO and Michael Cohen were listed as “key persons” for AGC II.
+
+27
+ny-1287138
+
+(See ¶¶ 160-64.)15 None of these allegations relate to the transactions or representations at issue
+in this case, so these contacts with the United States therefore are too attenuated to change the
+fact that the conduct at issue in this case is “predominantly foreign.” See Worldwide Directories,
+S.A. De C.V. v. Yahoo! Inc., No. 14-CV-7349 (AJN), 2016 WL 1298987 (S.D.N.Y. Mar. 31,
+2016). In Worldwide, the court declined to find a domestic application of RICO even though
+opinions by a Judge that was allegedly bribed were drafted by the defendant in the United States
+and submitted to the Judge using either the mail or the wires, because those allegations were too
+attenuated to the scheme.
+The contacts here are even further removed from the alleged Advisers Act violations, so
+the Advisers Act claims (Counts V through VII) should be dismissed as to those transactions.
+III.
+
+CLAIMS BASED ON THE SIX “CORRUPT TRANSACTIONS” SHOULD BE
+DISMISSED FOR FAILURE TO PLEAD MR. COHEN’S KNOWLEDGE WITH
+PARTICULARITY.
+The Complaint fails to plead its core premise—that Mr. Cohen knowingly furthered and
+
+concealed bribery—with the requisite particularity. “To survive a motion to dismiss, a complaint
+‘must contain sufficient factual matter, accepted as true, to state a claim to relief that is plausible
+on its face.’” Gatt Commc’ns, Inc. v. PMC Assocs. L.L.C., 711 F.3d 68, 75 (2d Cir. 2013)
+(quoting Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009)). In addition, all claims asserted here are
+subject to the heightened pleading requirements of Rule 9(b) because the SEC’s theory of Mr.
+Cohen’s wrongdoing sounds in fraud.
+
+15
+
+The only alleged connections to the United States related to the transactions at issue are limited communications
+with certain Och-Ziff executives or employees and, for the third transaction, that proceeds were transferred from
+AGC II’s bank accounts in New York. (See ¶¶ 188, 199.) That is not sufficient to bring the transaction within the
+statute. See Loginovskaya, 764 F.3d at 275 (corporate money transfers that took place outside the United States
+were extraterritorial despite the fact that they were initiated by and occurred at the direction of a corporate executive
+operating out of New York because such minimal contacts was “insufficient to demonstrate a domestic transaction);
+see also Adhikari v. Kellog-Brown & Root, Inc., 845 F.3d 184, 198 (5th Cir. 2017) (holding that transfer of
+payments using New York bank accounts did not support domestic application of the Alien Tort Statute).
+
+28
+ny-1287138
+
+A.
+
+All Claims in the Complaint Are Subject to Rule 9(b), Which Requires
+Particularized Factual Allegations That Give Rise to a Strong Inference of
+Mr. Cohen’s Knowledge, or Reckless Disregard, of Bribery.
+
+Rule 9(b) is intended “to safeguard a defendant’s reputation from improvident charges of
+wrongdoing.” United States ex rel. Ladas v. Exelis, Inc., 824 F.3d 16, 25 (2d Cir. 2016); Acito v.
+IMCERA Grp., Inc., 47 F.3d 47, 52 (2d Cir. 1995). The Second Circuit rigorously applies the
+heightened pleading requirements of Rule 9(b) whenever a plaintiff alleges fraudulent conduct,
+regardless of whether fraudulent intent is an element of the claim. See Rombach, 355 F.3d at 171
+(“By its terms, Rule 9(b) applies to ‘all averments of fraud.’ Fed. R. Civ. P. 9(b). This wording
+is cast in terms of the conduct alleged, and is not limited to allegations styled or denominated as
+fraud or expressed in terms of the constituent elements of a fraud cause of action.”).
+Section 206(1) of the Advisers Act is a fraud statute on its face.16 Sections 206(2) and
+206(4) do not inherently require fraudulent intent,17 but here the SEC’s claims under those
+provisions are still subject to Rule 9(b) because they are based on the same alleged wrongdoing,
+and the Complaint makes no attempt to differentiate the violations of the various provisions of
+the Advisers Act. (See ¶¶ 220-28 (pleading Section 206(1) and 206(2) violations without
+distinction); ¶¶ 229-35 (pleading Section 206(4) violation based on the same allegations).)
+The heightened pleading burden for the fraud-based causes of action also applies to all of
+the remaining causes of action based on the same underlying allegations. Courts in this Circuit
+16
+
+Section 206(1) requires a showing that the investment adviser (1) employed a device, scheme, or artifice to
+defraud any client or prospective client; (2) that the investment adviser did so knowingly or with reckless disregard
+for the truth; and (3) that the fraudulent statement was material. SEC v. Pimco Advisers Fund Mgmt. LLC, 341 F.
+Supp. 2d 454, 470 (S.D.N.Y. 2004); see also SEC v. Gruss, 859 F. Supp. 2d 653, 669 (S.D.N.Y. 2012) (applying
+Rule 9(b) to a claim under Section 206(1).)
+
+17
+
+To state a claim under Section 206(2), the SEC must show that the investment adviser (1) engaged in any
+transaction, practice, or course of business that operated or would operate as a fraud or deceit upon any client or
+prospective client; (2) that it did so at least negligently; and (3) that the fraudulent statement was material. See id.
+Similarly, Section 206(4) requires a showing that OZ Management (1) operated as the investment adviser for (2) a
+pooled investment vehicle and that it (3) knowingly or negligently (4) used a fraudulent device or made a material
+misrepresentation or a material omission as to which he had a duty to speak. See SEC v. McGinn, Smith & Co., Inc.,
+No. 10-CV-457(GLS), 2015 WL 667848 (N.D.N.Y. Feb. 17, 2015).
+
+29
+ny-1287138
+
+routinely hold that where the same factual allegations are used to support claims that require
+fraud and claims that do not, those allegations are subject to Rule 9(b) for every claim. 18 For
+example, in Securities Exchange Commission v. Yorkville Advisors, LLC, the court applied Rule
+9(b) to all of the same Advisers Act claims asserted in this case—alleged violations of Section
+206(1) and 206(2), aiding and abetting violations of those provisions, and aiding and abetting
+violations of Section 206(4) and Rule 206(4)-8—because those claims were based on the same
+set of factual allegations. See No. 12-CV-7728 (GBD), 2013 WL 3989054, at *3 (S.D.N.Y. Aug.
+2, 2013). The same analysis applies here.
+Moreover, the FCPA claims asserted here sound in fraud for every transaction, including
+those that do not overlap with the Advisers Act claims (i.e. the Libya claims). “A claim sounds
+in fraud when, although not an essential element of the claim, the plaintiff alleges fraud as an
+integral part of the conduct giving rise to the claim.” Mumin v. Uber Technologies, Inc., Nos.
+15-CV-6143, 15-CV-7387 (NGG), 2017 WL 934703, at *13 (E.D.N.Y. Mar. 8, 2017) (Garaufis,
+J.). The Complaint does not allege that Mr. Cohen paid bribes. Instead, the SEC’s basis for
+asserting FCPA claims against Mr. Cohen depends on allegations that he knowingly concealed
+information about bribes paid by others to mislead Och-Ziff and/or its investors.19
+
+18
+
+See also Gruss, 859 F. Supp. 2d at 669 (applying Rule 9(b) standard to claims under both IAA Section 206(1) and
+206(2) involving the same underlying facts); In re Parmalat Secs. Litg., 479 F. Supp. 2d 332, 340 n. 30 (S.D.N.Y.
+2007) (“[Plaintiff's] claim for negligent misrepresentation ‘realleges and incorporates by reference’ all prior
+allegations, including those alleging fraud. It thus alleges intentional, not negligent, misrepresentation and is subject
+to Rule 9(b).”); Meisel v. Grunberg, 651 F. Supp. 2d 98, 108 (S.D.N.Y. 2009) (“[B]ecause plaintiff’s allegations in
+support of its negligent misrepresentation claim are based on the same set of facts upon which plaintiff’s fraud claim
+is grounded, that claim must be pleaded with particularity pursuant to Rule 9(b).”). The same holds true for aiding
+and abetting claims. See SEC v. Alternative Green Techs., Inc., No. 11-CV-9056 (SAS), 2012 WL 4763094, at *3
+(S.D.N.Y. Sept. 24, 2012) (“Claims of aiding and abetting that sound in fraud must meet the heightened pleading
+standard under Federal Rule of Civil Procedure 9(b)”).
+
+19
+
+See ¶¶ 51, 55, 60 (regarding the LIA Investment, alleging that Mr. Cohen knew of and concealed Agent 1’s role in
+the transaction and the bribes he ultimately paid from both Och-Ziff personnel and other LIA officials); ¶ 75
+(regarding the Libya Real Estate Project, alleging that “Cohen concealed the corrupt nature of Agent 1’s role in the
+transaction and that a substantial portion of the fee would be used by Agent 1 to pay bribes.”); ¶ 102 (regarding the
+AML Joint Venture, alleging that Mr. Cohen had access to records informing him of the existence of “bribe
+accounts,” but concealed this information from Och-Ziff); ¶ 107 (regarding the Convertible Loan, alleging that Mr.
+
+30
+ny-1287138
+
+The same is true for the allegations that Mr. Cohen violated the FCPA’s internal controls
+provision and aided and abetted violations of the FCPA’s books and records provision. (See,
+e.g., ¶ 106 (“Cohen and Baros were aware that their concealment of this information would cause
+Och-Ziff to incorrectly, and improperly, record corrupt payments as legitimate transactions in its
+books and records . . . [and] would circumvent Och-Ziff’s internal controls”).20 Accordingly,
+these claims are subject to the heightened pleading requirements of Rule 9(b). See SEC v.
+Power, 525 F. Supp. 2d 415, 423-424 (S.D.N.Y. 2007) (applying Rule 9(b) to Exchange Act
+Sections 13(a), 13(b)(2)(A), and Rules 12b-20, 13a-1, 13a-13, and 13b2-1 where allegations of
+reporting and recordkeeping violations sounded in fraud); SEC v. Lucent Techs., Inc., 363 F.
+Supp. 2d 708, 727 (D.N.J. 2005) (applying 9(b) to aiding and abetting violations of Section 13(a)
+and Sections 13(b)(2)(A) and 13(b)(2)(B) where the allegations sounded in fraud).
+B.
+
+The Complaint Fails to Plead Facts That Give Rise to a Strong Inference
+That Mr. Cohen Knew of, or Recklessly Disregarded, Bribery.
+
+To state a claim under Rule 9(b), the SEC must allege facts supporting a “strong
+inference” of Mr. Cohen’s state of mind either “(a) by alleging facts to show that defendants had
+both motive and opportunity to commit fraud, or (b) by alleging facts that constitute strong
+circumstantial evidence of conscious misbehavior or recklessness.” Acito, 47 F.3d at 52. The
+Cohen “concealed that Agent 3 paid bribes from Och-Ziff’s legal and compliance departments.”); ¶ 130 (regarding
+the Margin Loan, alleging that Mr. Cohen “learned from Agent 3 that he was going to use a portion of the loan
+proceeds to pay bribes . . . [and] concealed this information from others within Och-Ziff and from outside
+counsel.”); ¶ 149 (regarding the Margin Loan, alleging that Mr. Cohen “did not disclose the purpose of the loan [to
+Agent 3] to others at Och-Ziff. Cohen did not disclose what Agent 3 had told him about the intended use of the
+proceeds.”); ¶ 167 (regarding the $77 Million Stock Transaction, alleging that Mr. Cohen “structured the transaction
+to provide South African Business Associate 3 with $52 million in cash to use for secret purposes,” which ultimately
+included bribing Guinean officials).
+20
+
+See also ¶¶ 76-77 (“As a result of Cohen’s conduct and concealment, Och-Ziff recorded the $400,000 paid to
+Agent 1’s SPV as a ‘deal fee.’”); ¶ 102 (Mr. Cohen “made sure that Och-Ziff failed to audit or review the
+expenditure of its funds . . . and thus knew of Och-Ziff’s failure to comply with the firm’s financial and anticorruption policies and internal controls [and to] maintain books and records that accurately and fairly reflected its
+transactions and disposition of assets”); ¶ 130 (Mr. Cohen “understood that concealing that Agent 3 intended to pay
+bribes with the loan proceeds would circumvent financial and anti-corruption policies and internal controls at OchZiff” and “as a result [of Mr. Cohen concealing information regarding Agent 3’s payment of bribes], Och-Ziff
+incorrectly and improperly recorded corrupt payments as legitimate payments”); ¶ 180 (similar); ¶ 192 (similar).
+
+31
+ny-1287138
+
+Complaint fails to meet this standard. After six years of scorched-earth investigation, the
+Complaint does not identify a single email, recording, or other document sent to or from Mr.
+Cohen that suggests his awareness or approval of any bribe.
+For three of the six transactions (the Libya Real Estate Project, the Margin Loan, and the
+$77 Million Stock Transaction), the Complaint alleges that Mr. Cohen was aware of bribes based
+on nothing but conclusory allegations of private conversations that lack any source or supporting
+factual detail. (¶ 106; see also ¶¶ 74, 107, 114, 127.) In stark contrast to other well-pled facts,
+however, the Complaint never alleges any particulars about the supposed conversations and fails
+to identify any basis other than speculation for alleging that such conversations took place at all.
+For the other three transactions (the LIA Investment, the AML Joint Venture, and the
+Convertible Loan), the Complaint strings together a handful of other allegations, none of which
+give rise to a strong inference of scienter. Moreover, the Complaint’s recognition that many of
+the same facts were known to Och-Ziff and its counsel (whom the SEC does not contend knew
+of bribes)—undermines any inference that Mr. Cohen knew of bribery.
+1.
+
+The LIA Investment.
+
+Mr. Cohen allegedly requested that Agent 1 “work as Och-Ziff’s agent to secure a LIA
+investment.” (¶¶ 25, 42, 43.) With Agent 1’s assistance, Och-Ziff received a $300 million
+investment from LIA on November 30, 2007. (¶ 52.) “[W]hen it became clear” that the LIA
+intended to invest, Mr. Cohen and Agent 1 negotiated a deal fee of $3,750,000 (1.25% of the
+LIA investment) to be paid after the investment in two installments. (¶ 52.)
+The Complaint alleges that Mr. Cohen knew a portion of the deal fee would be used to
+pay bribes, but the particularized factual allegations do not support (and if anything negate) a
+strong inference that Mr. Cohen had any such knowledge. In fact, the timing of the deal fee, the
+size of the fee, and the involvement of an Och-Ziff attorney—all set out in the Complaint—
+32
+ny-1287138
+
+weigh against any such inference. On the other hand, to support an inference of knowledge, the
+Complaint alleges: (i) two less-than-direct statements purportedly made by Agent 1 in
+discussions with Mr. Cohen (¶¶ 5, 52, 55); (ii) that Agent 1 had political connections (¶ 61); and
+(iii) that the structure of the legal arrangement between Och-Ziff and Agent 1 suggested bribery
+(¶ 62). These allegations simply do not support the necessary strong inference of knowledge.
+a.
+
+The Particularized Facts Weigh Against Any Inference That
+Mr. Cohen Knew of Bribes.
+
+To begin with, the Complaint fails to allege any logical reason why Agent 1 would
+disclose to Mr. Cohen his illegal plan to pay bribes. Since individuals typically do not disclose
+their criminal activity to others unless there’s a need to do so, this omission is particularly
+glaring. Here, Agent 1’s fee was contingent on an investment by LIA and was payable after the
+investment, so there was no reason why Agent 1 needed to tell Mr. Cohen of any planned bribes.
+In addition, the size of the fee here undercuts any inference of bribery. The SEC
+routinely takes the position in FCPA cases that an excessive fee or commission requested by an
+agent is a red flag indicating potential bribery.21 Here, by contrast, there is no allegation that the
+fee was higher than customary. In fact, the 1.25% fee (¶ 52) was less than would be paid under
+the “Lehman Formula” that courts in this circuit have recognized as an industry standard for
+finder’s fees. See Wellington Shields & Co. LLC v. Breakwater Inv. Mgmt. LLC, No. 14-CV7529, (RJS), 2016 WL 5414979, at *1 (S.D.N.Y. Mar. 18, 2016) (referring to the Lehman
+
+21
+
+See, e.g., Plaintiff’s Consolidated Response In Opposition to Defendants Jackson’s and Ruehlen’s Motions to
+Dismiss, SEC v. Jackson, No. H-12-0563, Dkt. No. 37, at 34 (S.D. Tex. June 22, 2012) (Defendants’ “wrongful
+intent [] is evidenced” by the fact that special handling fee was excessive); Complaint, SEC v. Alcatel-Lucent, No.
+10-CV-24620, Dkt. No. 1, ¶¶ 26, 28 (S.D. Fl. Dec. 27, 2010) (inferring fraud where commissions were “much
+higher” than those “normally awarded to such a consultant”). See also Criminal Division of the U.S. Department of
+Justice & Enforcement Division of the U.S. Securities and Exchange Commission, FCPA: A Resource Guide to the
+U.S. Foreign Corrupt Practices Act 60 (2012) (“FCPA: A Resource Guide”) (in assessing corruption risk with thirdparty agents, considerations include “payment terms and how those payment terms compare to typical terms in that
+industry and country”), https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf.
+
+33
+ny-1287138
+
+Formula as “an industry standard”) (citing Lehman v. Dow Jones & Co., 783 F.2d 285, 288 (2d
+Cir. 1986)).22
+The timing of the deal fee also negates any inference of bribery. Agent 1 allegedly
+waited until “it became clear that the LIA intended” to invest before negotiating the fee (¶ 52),
+and the first installment of the deal fee was not paid until months after the investment was
+received from LIA. (¶¶ 56, 63.) Moreover, it was to be paid in two installments, the second
+almost a year after the investment. (¶¶ 52, 67.) It is highly unusual to say the least that a corrupt
+government official demanding a bribe would deliver the benefit before receiving his bribe, and
+then further agree that he would wait a full year to get all of his money.
+The Complaint also alleges that Och-Ziff commissioned a background report—sent to
+other “Och-Ziff employees,” but not Mr. Cohen—which noted Agent 1’s use of special purpose
+vehicles and his role as a “fixer” (¶ 50), yet the Complaint notably does not allege that the report
+flagged these facts as indicative of bribery, or that any of the Och-Ziff employees to whom the
+report was sent regarded these facts as red flags sufficient to stop the transaction.
+In short, nothing about the circumstances known to Mr. Cohen set forth in the Complaint
+suggests anything improper: a finder’s fee below the going rate in the industry, agreed to and
+paid after the transaction, to a businessman with a preexisting relationship with Och-Ziff, who
+had been vetted by an outside investigative firm and other Och-Ziff employees. Viewed against
+the backdrop of these alleged facts, the few remaining allegations in the Complaint fall far short
+of raising a strong inference that Mr. Cohen knew of bribes.
+
+22
+
+See also Pereira v. Cogan, 294 B.R. 449, 481 n.24 (S.D.N.Y. 2003) (“Typically, finder’s fees are paid pursuant to
+the Lehman formula that pays 5% of the first $1 million of the transaction, [sic] 4% of the second $1 million; 3% of
+the third $1 million; 2% of the fourth $ 1 million; and 1% thereafter.”), vacated and remanded on other grounds sub
+nom. Pereira v. Farace, 413 F.3d 330 (2d Cir. 2005).
+
+34
+ny-1287138
+
+b.
+
+The Remaining Allegations Do Not Raise An Inference of
+Knowledge.
+
+Seeking to raise an inference that Mr. Cohen knew of bribes in the face of the facts set
+forth above, the Complaint relies on two inadequately alleged discussions, Agent 1’s known
+political connections and the structure of the deal.
+Discussions with Agent 1: The Complaint alleges that Mr. Cohen knew Agent 1 would
+pay bribes based on “discussions” (¶ 72), but it does not allege that Agent 1 actually told Mr.
+Cohen that bribes would be paid. Instead, the Complaint alleges that Agent 1 told Mr. Cohen
+that: (i) Agent 1 would have to “confer with ‘others’” on the appropriate size of the deal fee (¶¶
+52-53); and (ii) Agent 1 wanted to keep his role secret, so he and Mr. Cohen discussed ways to
+avoid “legal and compliance” conditions regarding disclosure of Agent 1’s role to LIA. (¶ 55.)
+First, the “confer with ‘others’” remark fails to raise an inference of bribery because there
+is no reason to think that the “others” were necessarily, or even likely, government officials. The
+allegation is equally consistent with the inference that Agent 1 was sharing the fee with a nongovernment official third party who assisted in making the introduction. In fact, this is exactly
+what allegedly occurred. (See ¶¶ 63, 46 (a portion of the deal fee was transferred to the Tunisian
+Business Associate, who had earlier attended the meeting that Agent 1 set up between Mr. Cohen
+and Libyan officials).) The Complaint alleges that the Tunisian Business Associate proceeded to
+transfer the money to an account held “for the benefit” of a government official (see id.), but
+there is no allegation that Mr. Cohen was told, or otherwise knew, that the Tunisian would be
+receiving a portion of the fee and passing it on to a government official, or even that the Tunisian
+agent was connected to the Libyan official for whose benefit the money was purportedly held.
+Second, the purported conversation about ways to avoid “legal and compliance”
+conditions regarding disclosure of Agent 1’s role to LIA fails to support the weight the SEC
+
+35
+ny-1287138
+
+places on it. (¶ 55.) That allegation is belied by the SEC’s own acknowledgment that there
+were, in reality, no such “legal and compliance” requirements applicable to Agent 1. The
+Complaint quotes an internal Och-Ziff email about “legal and compliance conditions” requiring
+Agent 1 to disclose his compensation to LIA (¶ 54), then it alleges that Mr. Cohen told Agent 1
+about “these” conditions, and they “discussed ways to evade [them.]” (¶ 55.) However, in the
+SEC’s Order Instituting Administrative and Cease-and-Desist Proceedings against Och-Ziff, the
+SEC found that the disclosure conditions were inserted into a draft of the agreement to conform
+with “U.S. securities laws that were later determined not to apply.” (OZ Order at ¶ 19 (emphasis
+added).) When Agent 1 “refused to agree to provide such proof,” Och-Ziff agreed to remove the
+obligation—presumably because there was no legal requirement for such proof since the
+securities laws it initially thought required this turned out not to apply. (Id.) There is also no
+allegation in the Complaint that LIA had any rules requiring the disclosure of Agent 1’s fee. At
+best, the SEC’s allegation here is that Mr. Cohen and Agent 1 discussed ways to avoid disclosing
+something that Agent 1 was not legally required to disclose.
+Indeed, Agent 1 could have had logical—and perfectly legal—reasons why he did not
+wish to disclose his fee. For example, Agent 1 could have wanted to keep his fee secret from
+LIA in order to avoid undercutting the credibility of his recommendation of Och-Ziff, or to guard
+against the possibility that a corrupt LIA official would demand a portion of it. In the absence of
+any legal obligation to disclose the agent relationship, there is no logical inference of
+wrongdoing to be drawn from Agent 1’s desire not to disclose his fee from OZ. See SEC v.
+Cohmad Secs. Corp., No. 09-CV-5680 (LLS), 2010 WL 363844, at *4 (S.D.N.Y. Feb. 2, 2010)
+(the contention that “secrecy warned defendants of fraud amounts to an argument of ‘fraud by
+hindsight’”). Moreover, if even OZ’s attorneys and high-ranking “Och-Ziff Employee 2” (who
+
+36
+ny-1287138
+
+executed the agreement) saw nothing suspicious about Agent 1’s reluctance to provide proof that
+he had disclosed his role to LIA, then an alleged discussion about not disclosing it cannot
+support the inference that Mr. Cohen knew of Agent 1’s bribery.
+Agent 1’s Political Connections: The Complaint implies that Agent 1’s connections to
+Libyan officials somehow supports the inference that Mr. Cohen knew he would resort to
+bribery. (See ¶¶ 42, 50.) But this glosses over the fact that, every day, in perfectly legal fashion,
+businesses retain the services of individuals with political connections in order to influence
+government action. No inference of conscious misbehavior can be drawn from that fact. See,
+e.g., Troutman v. S. Ry. Co., 441 F.2d 586, 589 (5th Cir. 1971) (“one may employ an agent or
+attorney to use his influence to gain access to a public official. . . . Moreover, the illegal or
+sinister nature of a contract for professional services will not be presumed; the burden of proving
+the illegality of the contract is clearly upon the party asserting it.) (citations omitted); Rusk v.
+N.Y. State Thruway Auth., 37 F. Supp. 3d 578, 600 (W.D.N.Y. 2014) (“it is inconceivable that
+plaintiff, who himself admits that he was hired because of his political connections, could have
+reasonably believed that hiring a NYSTA employee with political connections was illegal,
+corrupt or an improper government action”). See also, e.g., Michael J. De La Merced and Peter
+Lattman, Geithner to Join Private Equity Firm, N.Y. Times Nov. 16, 2013, https://dealbook.
+nytimes.com/2013/11/16/geithner-to-join-private-equity-firm/?_r=0 (noting that Mr. Geithner
+joined Warburg Pincus when left the post of Secretary of the Treasury, and “[w]hile Mr.
+Geithner has been given the lofty title of president, several private equity executives questioned
+whether he would be much more than a prominent name who would help Warburg Pincus open
+doors on the fund-raising side, especially with foreign investors like sovereign wealth funds.”).
+
+37
+ny-1287138
+
+The Structure of the Deal: The Complaint’s allegations regarding the structure and
+documentation of the legal arrangements between Och-Ziff and Agent 1’s special purpose entity
+(see ¶¶ 57-64) amount to innuendo and similarly fail to support any inference that Mr. Cohen
+knew of bribery. First, the use of an SPV hardly supports an inference of illegality.
+Sophisticated business people the world over use such entities for perfectly lawful reasons,
+including for limitations on liability, tax optimization, and the like. See, e.g., In re Longtop Fin.
+Techs. Ltd. Sec. Litig., 939 F. Supp. 2d 360, 389 (S.D.N.Y. 2013) (holding that company hiring
+employees through a shell company to reduce government welfare payment obligations “[was]
+not a red flag of fraud,” and noting that “reputable companies routinely attempt to reduce their
+governmental liabilities to the extent legally permissible”).
+Drawing any negative inference is particularly unwarranted here because, as one would
+expect, the structure and documentation of the transaction were overseen by an Och-Ziff lawyer,
+not Mr. Cohen. The Complaint alleges that it was “an Och-Ziff employee” who emailed Mr.
+Cohen draft copies of the agreements between Och-Ziff and Agent 1’s corporate entity (¶ 57), to
+which Mr. Cohen’s entire response was simply “looks good.” (¶ 58.) The OZ Order puts a finer
+point on it, noting that the employee involved in deciding to pay the fee and in drafting the
+agreements was a “senior OZ attorney.” (See OZ Order at ¶¶ 17, 19.) Where the structure of the
+legal arrangements with Agent 1 passed muster with a “senior OZ attorney,” those arrangements
+cannot support an inference of knowledge of wrongdoing by Mr. Cohen.
+2.
+
+The Libya Real Estate Project.
+
+The Complaint also challenges Och-Ziff’s $40 million convertible loan to a property
+development venture associated with Agent 1, the Libya Real Estate Project, in October 2007
+(before Och-Ziff became an issuer in November 2007). (¶¶ 72, 74.) Mr. Cohen negotiated the
+
+38
+ny-1287138
+
+deal fee with Agent 1 and settled on a payment of $400,000—or 1% of the investment—which
+Och-Ziff approved and paid in November 2007. (¶¶ 74, 75.)
+Here, the allegations of Mr. Cohen’s knowledge are even more sparse and conclusory
+than they were with respect to the LIA Investment. The Complaint cites no documents and relies
+entirely on speculation about what was said in private conversations. (See ¶ 72 (“Based on
+discussion with Agent 1, Cohen knew that Agent 1 would make corrupt payments to Libyan
+government officials relating to the Libya Real Estate Project . . .”); ¶ 74 (“Agent 1 told Cohen
+that, in reality, the deal fee was needed to compensate him for certain expenses that he needed to
+keep ‘off the books.’ Agent 1 also told Cohen that the ongoing payment of bribes was necessary
+for the real estate development company that Och-Ziff now co-owned with Agent 1 to operate
+effectively in Libya.”).
+Speculative and Conclusory Allegations of Private Conversations: Speculative
+allegations about private conversations fail to support a strong inference of conscious
+misbehavior under Rule 9(b) where the Complaint fails to particularize any supporting details to
+establish the credibility of the allegation and its source. “Although a plaintiff is not required to
+‘plead dates, times and places with absolute precision, allegations of scienter and falsity will be
+sufficient where “the sources of the information and the information itself are described in
+detail.’” The plaintiffs have not done this.” Rodriguez v. It's Just Lunch Int'l, No. 07-CV-9227
+(SHS), 2009 WL 399728, at *5 (S.D.N.Y. Feb. 17), report and recommendation adopted, 2009
+WL 666435 (S.D.N.Y. Mar. 12, 2009) (quoting In re Flag Telecom Holdings, LTD., 308 F.
+Supp. 2d 249, 260 (S.D.N.Y. 2004) (quoting In re WorldCom, Inc. Sec. Litig., 294 F. Supp. 2d
+392, 417 S.D.N.Y. 2003 )).
+
+39
+ny-1287138
+
+Rather, under Rule 9(b), “the sources of the information and belief should be sufficiently
+identified so as to allow each defendant and the Court to review the sources and determine, at the
+pleading stage, whether an inference of fraud may be fairly drawn from the information
+contained therein.” G-I Holdings, Inc.v. Baron & Budd, No. 01-CV-0216 (RWS), 2004 WL
+1277870, at *2 (S.D.N.Y. June 10, 2004); de La Roche v. Calcagnini, No. 95-CV-6322 (RWS),
+1997 WL 292108, at *7-8 (S.D.N.Y. June 3, 1997) (“allegations fail[ed] for lack of specificity”
+because plaintiffs’ description of the conversations was made “on information and belief without
+any factual detail”); In re IAC/InterActiveCorp Sec. Litig., 478 F. Supp. 2d 574, 589 (S.D.N.Y.
+2007) (plaintiffs failed to plead an adequate source when they had no firsthand knowledge and
+the witness statement they cited did not directly support their claim). See also Acito, 47 F.3d at
+52 (while a defendant’s state of mind may be averred generally, this leeway is not a “license to
+base claims of fraud on speculation and conclusory allegations”).23
+The court rejected more detailed allegations in de la Roche, where plaintiff had alleged
+that two defendants had “engaged in telephone conversations with each other in the spring of
+1992 and thereafter to plan the fraud and its execution while the elder [defendant] was in Palm
+Beach and traveling in Europe and the younger was in New York.” 1997 WL 292108, at *7-8.
+Those allegations failed for lack of specificity because plaintiffs’ description of the conversations
+was “merely conclusory” and was made “on information and belief without any factual detail.”
+23
+
+Courts also routinely reject similar conclusory pleading by private plaintiffs (where resort to such threadbare
+pleading tactics is more common) under the comparable strong inference standard of the Private Securities
+Litigation Reform Act of 1995. See In re Copper Mountain Sec. Litig., 311 F. Supp. 2d 857, 871 (N.D. Cal. 2004)
+(The complaint “lacks any description of: (1) when and where the alleged communications took place; (2) who was
+present; (3) how [plaintiff] learned what was said during such conversations; and (4) what, specifically, was said
+during those conversations. . . . [I]n the absence of such detail, it is impossible to draw the necessary strong
+inference regarding defendants' knowledge.”); Huang v. EZCorp, Inc., No. A-15-CA-00608-SS, 2016 WL 6092717,
+at *10 (W.D. Tex. Oct. 18, 2016) (Plaintiffs’ claim that a defendant “knew or should have known the loans could not
+be accounted as ‘true asset’ sales because [a confidential witness] supposedly told [defendant so] . . . in October or
+November 2013 . . . lack[ed] sufficient indicia of reliability to give rise to a strong inference of scienter, because
+neither [the confidential witness] nor Plaintiffs provide[d][ the Court with any further specifics as to ‘when and
+where the conversation occurred.’”).
+
+40
+ny-1287138
+
+Id. As a result, “the requisite strong inference of fraudulent intent ha[d] not been raised.” Id.
+Here, the Complaint provides a similarly conclusory allegation that Mr. Cohen was told of
+bribes, with even less detail concerning the specific statements, purported timing or other
+circumstances, nor any information to suggest that the SEC has any source more credible than
+pure speculation. These vague allegations demonstrate the damage that can be done to a
+defendant’s reputation from the type of “improvident charges of wrongdoing” that Rule 9(b) is
+designed to protect against. United States ex rel. Ladas, 824 F.3d at 25.
+3.
+
+The AML Joint Venture.
+
+The Complaint next alleges that “in or about May 2007,” Och-Ziff entered into series of
+loan agreements totaling $86 million with a Turks & Caicos entity controlled by South African
+Business Associate 3, whose role was to “source and acquire assets for AGC I.” (¶ 82.) These
+loans were “ostensibly” made to acquire natural resource and mining rights to be contributed into
+the AGC I fund, and the funds were allegedly used “to acquire mining rights in Chad and Niger
+and to invest in an Africa-focused oil company.” (¶ 83.) In addition, a portion of the loan
+proceeds was allegedly used to pay bribes to facilitate acquisitions. (¶¶ 83-84.)
+As a preliminary matter, this $86 million loan transaction cannot form the basis of an
+FCPA claim by the SEC because the transaction took place in May 2007, before Och-Ziff was an
+“issuer.” 15 U.S.C. § 78dd-1 (subjecting “any issuer . . . or . . . any officer, director, employee, or
+agent of such issuer or any stockholder thereof acting on behalf of such issuer” to liability).
+Och-Ziff did not become an issuer until its initial public offering on November 14, 2007. (¶ 19.)
+Conduct prior to that date is not actionable under the FCPA in a suit brought by the SEC.24
+
+24
+
+The SEC alleges that, prior to becoming an issuer, Och-Ziff was a “domestic concern” (¶ 19), which is a term
+defined under the FCPA to include U.S. citizens, nationals, and residents, as well as certain U.S. companies. 15
+U.S.C. § 78dd-2(h)(1). That is irrelevant since the SEC does not and cannot assert claims under the FCPA
+provisions applicable to domestic concerns (Compare 15 U.S.C. § 78ff(c) (authorizing SEC to bring enforcement
+
+41
+ny-1287138
+
+The Complaint also again fails to plead facts that give rise to a strong inference of Mr.
+Cohen’s knowledge regarding bribes. There is not even a conclusory allegation that Mr. Cohen
+was told of any bribes relating to the AML Joint Venture. Instead, the Complaint relies on:
+(i) mischaracterization of three emails (¶¶ 94-97), which do not come close to raising a strong
+inference that Mr. Cohen knew of bribes, either alone or in combination; (ii) the fact that OchZiff legal and compliance stopped and reported other deals (¶ 98), which negates, not supports
+the requisite inference; and (iii) Mr. Cohen’s access to various books and records (¶ 102), an
+allegation routinely rejected as insufficient to support a strong inference of knowledge.
+Email #1: The Complaint first alleges that “[b]efore loans were provided to South
+African Business Associate 3 and the Turks & Caicos Entity, Cohen (and other Och-Ziff
+employees that he managed) learned that South African Business Associate 3 had access to
+certain deals through bribes or corrupt payments.” (¶ 94.) In support, the Complaint cites a
+single sentence from a March 22, 2007 email sent to Mr. Cohen, proposing a deal—which was
+never actually pursued by Och-Ziff—that would have cost “$20-25 million (includes $5 million
+for the ongoing Presidential campaign).” (¶ 94.) However, the Complaint omits the fact that the
+single sentence it cites is included in a 61-page attachment to an email (see Ex. 18 (cited email
+with attachment)), and it offers no facts suggesting that Mr. Cohen ever read or acted upon the
+email. A single phrase from one sentence on one page of a 61-page attachment to an email sent
+
+actions against issuers and against certain individuals acting on behalf of an issuer for civil penalties), with 15
+U.S.C. § 78dd-2(a) (separate section of the FCPA subjecting “domestic concerns” to liability)). See also Nollner v.
+S. Baptist Convention, Inc., 852 F. Supp. 2d 986, 996 (M.D. Tenn. 2012) (“the jurisdiction of the SEC with respect
+to the FCPA violations is limited only to civil actions to enforce violations by issuers, but does not encompass
+FCPA violations by domestic concerns, which are subject to exclusive DOJ enforcement (civil and/or criminal).”);
+FCPA: A Resource Guide at 4-5 (“SEC is responsible for civil enforcement of the FCPA over issuers and their
+officers, directors, employees, agents, or stockholders acting on the issuer’s behalf.”), 31-32 (acknowledging lack of
+SEC jurisdiction over misconduct that pre-dated a company’s status as an issuer subject to the SEC’s jurisdiction
+over issuers, even though the company was later acquired by an issuer).
+
+42
+ny-1287138
+
+to a busy executive relating to a deal that was never pursued hardly supports the inference of
+knowledge that the SEC claims.
+Email #2: The next alleged email post-dates the $86 million loan and therefore cannot
+support any inference that the transaction was undertaken with illicit knowledge, but in any event
+it proves nothing. (See ¶ 96; Ex. 19.) The Complaint cites a November 18, 2007 email to Mr.
+Cohen, which is forwarding an earlier email “from Och-Ziff to South African Business Associate
+2 referencing a $2.5 million payment to Agent 2 that required ‘confirmation/explanation.’” (¶
+96.) The Complaint faults Mr. Cohen for not seeking or obtaining further explanation as to this
+payment. (Id.) But the email contains no indication on its face that the payment inquired about
+is improper, so it hardly could be said to have put Mr. Cohen on notice of anything improper or
+given rise to any obligation to seek further explanation. In fact, nothing in the email suggests
+that the “confirmation/explanation” sought had anything to do with compliance concerns. But
+even if it did, nothing in the Complaint explains why it was Mr. Cohen’s responsibility to gather
+more information on the payment, especially when the face of the email demonstrates that
+another Och-Ziff employee was doing so.
+Email #3: The third email cited in the Complaint (see ¶ 97) is similarly taken out of
+context. The Complaint alleges that Mr. Cohen failed to oversee Och-Ziff’s partners in the AML
+Joint Venture, quoting a December 20, 2007 email (again, long after the loan was extended) in
+which Mr. Cohen wrote to “personnel involved with AML” that “you buy assets and sign
+contracts without our approval, but that’s [sic] what you guys do best and we let you do it.”
+(¶ 97.) The full email does not support the inference the Complaint seeks from the soundbite. In
+fact, Mr. Cohen’s email, in rebuffing a complaint about a hiring decision by AML, states
+sarcastically: “Regarding hiring, you buy assets and sign contracts without out approval, but
+
+43
+ny-1287138
+
+that’s what you guys do best and we let you do it. We run asset management firms so let us do
+what we are good at.” (Ex. 20.)
+Involvement of Och-Ziff Legal & Compliance: The Complaint next alleges that OchZiff’s legal and compliance group “knew that South African Business Associate 3 had engaged
+in illegal activities in the past” in relation to another asset he sought to sell to AGC I and
+informed a foreign government regulator of this fact in a regulatory filing in 2008. (¶ 98.) The
+legal and compliance group also allegedly stopped another transaction identified by the same
+Associate, based on reports that suggested potential bribery. (Id.) The allegation that proposed
+deals with this Associate were stopped and reported when bribery concerns arose severely
+undermines the SEC’s theory that Mr. Cohen was somehow complicit in a scheme by that
+Associate to pay bribes. The SEC turns the natural inference on its head to suggest that Mr.
+Cohen must have known South African Business Associate 3 would also pay bribes in other
+transactions that legal and compliance did not stop, and thus any further dealings with him were
+improper. (See ¶ 98.) On the contrary, the allegation demonstrates that Och-Ziff’s legal and
+compliance department was fully aware of concerns about South African Business Associate 3
+and took affirmative action to address it when they saw fit, but apparently did not deem it
+necessary to cease all contact with South African Business Associate 3 or to stop the transactions
+that did go forward. That fact negates any inference of wrongdoing and supports an inference
+that Mr. Cohen was acting in good faith. The SEC cannot reasonably fault Mr. Cohen for not
+second-guessing Och-Ziff legal and compliance as to how best to manage corruption risk.
+Access to Books and Records: The final circumstance that the Complaint raises to allege
+Mr. Cohen’s knowledge of bribes in connection with the Niger/Chad transactions is that he
+allegedly had “access”—without any suggestion that he ever availed himself of such access—to
+
+44
+ny-1287138
+
+the books and records of one of the companies AGC I held an interest in, which meant that Mr.
+Cohen could have discovered the existence of “bribe accounts.” (¶ 102.) The argument that Mr.
+Cohen, who oversaw Och-Ziff’s investments across all of Europe, the Middle East, and Africa
+(¶ 17), was responsible for reviewing, and can be held to have had knowledge of the contents of,
+the records of every company that AGC I invested in, is meritless. In addition to defying logic
+and common sense, this argument has been rejected as a legal matter. Courts have held that
+access to records is not on its own enough to support an inference of scienter. See In re Sanofi
+Sec. Litig., 155 F. Supp. 3d 386, 407 (S.D.N.Y. 2016) (“Scienter, however, cannot be inferred
+solely from the fact that, due to the defendants’ board membership or executive managerial
+position, they had access to the company’s internal documentation as well as any adverse
+information.”). Moreover, there is no allegation that the books and records would have reflected
+any bribe accounts as of the time of the loan in May 2007, or even as of the payment that Mr.
+Cohen purportedly “support[ed]” in 2008. (See id.)
+The 2008 Payment: In a transparent attempt to find some activity after Och-Ziff became
+an issuer and bootstrap its claim within the scope of the statute, the SEC’s complaint tacks on an
+allegation that $20 million in payments to South African Business Associate 3 were made by
+Och-Ziff in 2008 related to projects in Niger and Chad. But aside from its typical conclusory
+incantation that Mr. Cohen and Mr. Baros oversaw the investments and knew that bribes would
+be paid, nothing in the Complaint’s description of these payments even suggests that. Indeed,
+the Complaint alleges deception of Och-Ziff, alleging that it was falsely informed regarding the
+purpose of the payments and that South African Business Associate 3 used the funds, in part, to
+“enrich himself and his business partners.” (¶ 104.) There are no well-pled allegations that Mr.
+Cohen knew anything different than Och-Ziff about the purpose of the reimbursement request.
+
+45
+ny-1287138
+
+4.
+
+The Convertible Loan.
+
+In yet another entirely separate set of transactions, the SEC alleges that in December
+2007, Mr. Cohen and Mr. Baros began discussions with another business person, Agent 3, about
+a partnership to acquire and consolidate valuable DRC mining assets. (¶ 105.) Mr. Cohen
+allegedly concealed from Och-Ziff’s legal and compliance departments that Agent 3 paid bribes
+(¶ 107) and “lobb[ied] and advocat[ed]” for Agent 3. (¶ 111.)
+The Complaint alleges two roughly simultaneous transactions in 2007: (i) a stock
+purchase; and (ii) a $124 million convertible loan from AGC 1 to a DRC holding company
+affiliated with Agent 3, the latter of which was allegedly a corrupt transaction. (See ¶¶ 6, 125144.) To support its contention that Mr. Cohen knew of bribery, the Complaint relies on three
+facts: (i) discussions between Agent 3 and Mr. Cohen; (ii) Och-Ziff’s failure to address
+corruption risk in structuring the transaction as a loan.
+Discussions with Agent 3: The Complaint references no documents or other concrete
+facts indicating that Mr. Cohen knew any more about the risk of bribery than the array of OchZiff senior officers and lawyers who determined whether and how to do business with Agent 3.
+Instead, in a now familiar refrain, the Complaint alleges that “[d]uring face-to-face discussions
+with Cohen and Baros, Agent 3 communicated that he would have to pay substantial sums of
+money as bribes to DRC government officials” and that he “planned to use a portion of the
+money he was asking to ‘borrow’ from Och-Ziff to pay bribes.” (¶ 106.) At other points, the
+Complaint says that Mr. Cohen’s knowledge of bribery came from his “discussions and
+interactions” not just with Agent 3 but also “his associates.” (¶ 127.)
+The Complaint fails to plead any particularized facts to support this conclusory
+allegation. It does not allege how many face-to-face discussions Agent 3 took to communicate
+his purported plan, where or when any such discussion took place, what was actually said, or any
+46
+ny-1287138
+
+basis for the SEC’s belief as to what was “communicated.” Similarly, there is no description
+whatsoever of the “discussions and interactions” with Agent 3’s “associates” that supposedly
+gave rise to Mr. Cohen’s knowledge, such as who the associates were, how they would be in a
+position to know of Agent 3’s alleged bribery, what the nature of the “interactions” were, or
+when and where the discussions and interactions took place. With no alleged source and no
+particularized facts about the purported discussions and interactions, it is impossible to determine
+whether the words, context, and source of information credibly give rise to a strong inference
+that the discussions and interactions “communicated” the need to pay bribes. See supra at pp.
+37-39; G-I Holdings, Inc., 2004 WL 1277870, at *2; see also de La Roche, 1997 WL 292108, at
+*7–8; Rodriguez, 2009 WL 399728, at *5.
+The Structure of the Loan: The Complaint engages in rhetorical sleight of hand in
+suggesting that the transaction was structured as a convertible loan by Mr. Cohen to avoid
+scrutiny of Agent 3. The Complaint states that Och-Ziff—not Mr. Cohen personally—
+“structured the transaction as a Convertible Loan to justify not conducting additional due
+diligence on Agent 3,” but with respect to Mr. Cohen, notes only that he “was aware that a direct
+equity investment” would require additional investigation. (¶ 128.) But the Complaint makes
+clear elsewhere that the reason for such a structure was not Mr. Cohen, but advice from OchZiff’s outside counsel. The Complaint describes that an Och-Ziff attorney specifically sought
+advice regarding “the possibility of making a convertible loan to Agent 3 rather than partnering
+with him directly through an equity investment” and was advised by outside counsel that a
+convertible loan would be “high-risk” but would not present the same issues as a direct equity
+investment. (¶ 112.) As a result, Mr. Cohen’s awareness of the fact that Och-Ziff’s counsel had
+opined that a convertible loan required less due diligence than an equity investment does not give
+
+47
+ny-1287138
+
+rise to any inference of wrongdoing. This conclusion is bolstered by the fact that, as the
+Complaint concedes, “[o]thers within Och Ziff, including multiple senior officers and
+employees, were aware of corruption accusations against Agent 3” (¶ 108), which led to a
+February 2008 meeting—which Mr. Cohen did not attend—where Och-Ziff’s senior officers and
+attorneys discussed the legal risks involved in doing business with Agent 3, and Och-Ziff
+Employee 1 made the decision to proceed with the transactions with Agent 3. (¶¶ 110-111.) If
+the top officers and lawyers of the company debated the legal risks of doing business with Agent
+3 and specifically sought outside legal advice regarding the structure of the proposed transactions
+with Agent 3, the resulting structure conceived and vetted by lawyers cannot give rise to an
+inference that Mr. Cohen singularly understood the structure to indicate bribery would occur.
+5.
+
+The Margin Loan.
+
+In November 2010, Agent 3 allegedly asked Mr. Cohen for another loan to further his
+efforts to consolidate his DRC assets for potential resale. (¶ 148.) Och-Ziff extended a $110
+million margin loan to a “BVI Shell Company,” which was later amended to $130 million.
+(¶ 152.) The SEC complains that the use of proceeds provisions were “generic” and thus enabled
+Agent 3 to pay bribes. (¶ 149.)
+Speculative and Conclusory Allegations of Private Conversations: For this
+transaction, the allegations fall even further short of alleging Mr. Cohen’s knowledge. The
+Complaint yet again alleges in conclusory fashion that Mr. Cohen knew a portion of the loan
+would be used to pay bribes, and did not disclose “what Agent 3 had told him about the intended
+use of the proceeds,” although it never alleges what Agent 3 supposedly told him, or the basis for
+believing such conversation took place. (¶ 149.)25 As discussed above, although precise dates
+
+25
+
+The Complaint also alleges that in August 2010, a third-party mining company acquired a portion of the DRC
+entity affiliated with Agent 3 that was the borrower on the convertible loan. (¶ 147.) Mr. Cohen and Och-Ziff
+
+48
+ny-1287138
+
+and places are not required, “the sources of information and the information itself” supporting an
+allegation of scienter must be alleged. Rodriguez, 2009 WL 399728 at *5. See G-I Holdings,
+Inc. v. Baron & Budd, 2004 WL 1277870, at *2 (“the sources of the information” in a complaint
+“should be sufficiently identified so as to allow each defendant and the Court to review the
+sources and determine, at the pleading stage, whether an inference of fraud may be fairly drawn
+from the information contained therein”).26
+Generic Use of Proceeds Provision: Aside from the un-particularized conversations
+with Agent 3, the only other fact alleged in the Complaint that potentially suggests Mr. Cohen’s
+knowledge with respect to the Margin Loan is that Och-Ziff entered into a loan agreement at Mr.
+Cohen’s “urging,” which contained a “generic” use of proceeds provision. (¶ 149.) But as
+discussed above, the Complaint makes clear that senior Och-Ziff officers and attorneys were
+aware of, discussed extensively, and sought legal advice from outside counsel about, the
+corruption risks of doing business with Agent 3. (¶¶ 108-112.) In fact, outside counsel
+specifically gave Och-Ziff advice on how to structure the transaction with Agent 3. (¶ 112.)
+Against this background, if the “generic” phrasing of a legal provision in the formal Margin
+Loan agreement did not raise a red flag for the Och-Ziff attorneys overseeing it, there can be no
+inference that Cohen’s support for an agreement containing such a term indicates knowledge of
+Agent 3’s plan to pay bribes.
+played no part in that transaction, but the Complaint alleges that an unspecified “associate of Agent 3” allegedly
+informed Mr. Cohen that a portion (less than 10%) of the payment from this non-party was for “‘use on the ground’
+to corruptly acquire DRC Mining Asset K.” (¶ 147.) The Complaint does not allege any particulars about when or
+where this “associate of Agent 3” informed Mr. Cohen that some funds were for “use on the ground” or the
+associate’s basis of knowledge for this statement. Nor does the Complaint provide the context of the conversation
+so the Court and the parties could properly assess whether the ambiguous phrase “use on the ground” referred to
+bribery or something else. (See id.)
+26
+
+The same flaw applies to the allegations concerning the Congo-Brazzaville Oil Field Transaction, see ¶ 184
+(“Och-Ziff … learned that the owners of the proposed South African partner had histories of corruption, arms
+dealing and ties to the ruling South African political party”); ¶ 187 (Och-Ziff ordered, “directed and reviewed” a due
+diligence investigation into the revived transaction); ¶ 188 (Och-Ziff’s legal and compliance team was aware of the
+details of the transaction).
+
+49
+ny-1287138
+
+6.
+
+The $77 Million Stock Transaction.
+
+The allegations concerning bribery in connection with the $77 Million Stock Transaction
+are the most threadbare. The Complaint devotes one sentence to alleging that a bribe was paid in
+connection with this transaction, from the proceeds of the stock purchase by AGC II. (¶ 175.)
+The Complaint does not allege any facts to suggest that Mr. Cohen knew of any bribery in
+connection with this transaction. To the extent it seeks an inference of knowledge based on the
+earlier transactions with South African Business Associate 3 (such as the AML Joint Venture),
+those allegations fail to allege any such inference for the same reasons set forth above.
+Finally, when considering the strength (or lack thereof) of any inference, it is important to
+note that the instant case does not involve a private plaintiff with limited powers of investigation
+prior to the filing of a complaint. Here, the SEC has investigated Och-Ziff for six years, obtained
+tens of millions of pages of documents and hundreds of hours of recorded conversations from the
+company, yet it is unable to cite a single incriminating email, text, memorandum, or other
+document sent to or from Mr. Cohen. Instead, the absolute best it can allege on the crucial issue
+of knowledge is to offer a few innocuous emails and vague and conclusory allegations of
+unsourced statements. That is not enough; the FCPA and Advisers Act claims that depend on the
+unwarranted inference that Mr. Cohen knew of bribes should be dismissed.
+CONCLUSION
+Mr. Cohen respectfully requests that: (i) the Complaint be dismissed as time-barred; (ii)
+the Advisers Act claims (Counts V through VII) be dismissed as extraterritorial insofar as they
+are based on the three alleged transactions concerning AGC II; (iii) all seven causes of action be
+dismissed for failure to allege Mr. Cohen’s knowledge insofar as they are based on the
+purportedly “corrupt transactions”; and (iv) leave to re-plead a second time be denied.
+
+50
+ny-1287138
+
+Dated: New York, New York
+June 27, 2017
+
+MORRISON & FOERSTER LLP
+
+By: /s/ Ronald G. White
+Ronald G. White
+Kayvan B. Sadeghi
+Amanda Aikman
+MORRISON & FOERSTER LLP
+250 West 55th Street
+New York, New York 10019
+(212) 468-8000
+Attorneys for Defendant Michael L. Cohen
+
+51
+ny-1287138
+
+

@@ -1,0 +1,665 @@
+Case 2:12-cv-07726-KM-MAH Document 10 Filed 03/04/13 Page 1 of 23 PageID: 109
+
+Patrick J. Cerillo, Esq.
+Patrick J. Cerillo, LLC
+4 Walter Foran Blvd., Suite 402
+Flemington, NJ 08822
+T: (908) 284-0997
+F: (908) 284-0915
+pjcerillolaw@comcast.net
+Attorneys for Plaintiff
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF NEW JERSEY
+
+MALIBU MEDIA, LLC,
+CV No. 2:12-cv-07726-KM-MAH
+Plaintiff,
+v.
+JOHN DOES 1-11,
+Defendants.
+
+PLAINTIFF’S MEMORANDUM IN OPPOSITION TO MOTION TO
+QUASH OR MODIFY SUBPOENA [CM/ECF 9]
+
+1
+
+Case 2:12-cv-07726-KM-MAH Document 10 Filed 03/04/13 Page 2 of 23 PageID: 110
+
+TABLE OF CONTENTS
+I.
+
+INTRODUCTION ......................................................................................... 5
+
+II.
+
+THIS COURT SHOULD NOT QUASH THE SUBPOENA ........................ 6
+A.
+
+Defendant’s IP Address Is the Only Way to Identify the Infringer ...... 9
+
+B.
+
+Defendant’s Defenses Are Premature At This Stage of the Litigation
+Process ................................................................................................ 10
+
+C.
+
+Plaintiff Intends to Litigate ................................................................. 12
+
+III. JOINDER IS PROPER ................................................................................ 12
+A.
+
+The Infringement Occurred Through a Series of Transactions .......... 13
+i.
+
+The Supreme Court Encourages Joinder..................................... 16
+
+B.
+
+There Are Common Issues of Fact and Law ...................................... 18
+
+C.
+
+Joinder Promotes Judicial Efficiency ................................................. 19
+
+D.
+
+The Cases Relied Upon By Defendant Have Been Distinguished In
+Such A Way As Would Make Joinder Proper Here ........................... 20
+
+IV. CONCLUSION ............................................................................................ 22
+
+2
+
+Case 2:12-cv-07726-KM-MAH Document 10 Filed 03/04/13 Page 3 of 23 PageID: 111
+
+TABLE OF AUTHORITIES
+AF Holdings LLC v. Does 1-1,058, CIV.A. 12-0048 BAH, 2012 WL 3204917
+(D.D.C. Aug. 6, 2012) ......................................................................................... 5
+BMG Music v. Does 1-203, Case No. 2:04-cv-00650-CN (E.D.P.A. 2004) ....... 21
+Call of the Wild Movie v. Does 1-1,062, 770 F. Supp. 2d 332, 344-345 (D.D.C.
+2011) .................................................................................................................. 19
+Call of the Wild Movie, LLC v. Smith, 274 F.R.D. 334, 338 (D.D.C. 2011) ........ 8
+Films, Ltd. v. John Does 1-15, CIV.A. 11-7248, 2012 WL 1019067, at *6 (E.D.
+Pa. Mar. 26, 2012) ............................................................................................... 8
+Ginett v. Computer Task Group, Inc., 962 F.2d 1085, 1094 (2d Cir. 1992) ........ 13
+Interscope Records, et. al. v. Does 1-25, 2004 U.S. Dist. LEXIS, Case No. 6:04cv-197 – ACC- DAB (M.D. Fla. 2004) ............................................................. 20
+K-Beech Inc., v. John Does 1-57, Case 2:11-cv-00358-CEH-SPC, at*12 (M.D.
+Fla. 2011) ........................................................................................................... 21
+K-Beech v. Does 1-78, 5:11-cv-05060-BMS, (E.D. Pa. Oct. 13, 2011) .............. 22
+LaFace Records v. Does 1-38, 2008 WL 544992 (E.D.N.C. 2008) ..................... 21
+Malibu Media, LLC v. John Does 1-15, 2:12-cv-02090-BMS ............................ 22
+Malibu Media, LLC v. John Does 1-15, CIV.A. 12-2077, 2012 WL 3089383 (E.D.
+Pa. July 30, 2012) .............................................................................. 6, 10, 19, 22
+Malibu Media, LLC v. John Does 1–15, No. 12–2077, 2012 WL 3089383, at *8
+(E.D.Pa. July 30, 2012) ........................................................................................ 8
+Malibu Media, LLC v. John Does 1-18, 2:12-cv-02095-LDD (E.D. Pa. Aug. 6,
+2012) .................................................................................................................... 6
+Malibu Media, LLC v. John Does 1-21, 12-CV-00835-REB-MEH, 2012 WL
+3590902 (D. Colo. Aug. 21, 2012) ...................................................................... 7
+Malibu Media, LLC v. John Does 1-22, 2:12-cv-02083-CDJ (E.D. Pa. July 30,
+2012) .................................................................................................................... 6
+Malibu Media, LLC v. John Does 1-5, 12 CIV. 2954 NRB, 2012 WL 3641291
+(S.D.N.Y. Aug. 24, 2012) .................................................................................. 13
+Malibu Media, LLC v. John Does 1-9, 8:12-cv-669-T-23AEP, *4 (M.D. Fla. July
+6, 2012) ................................................................................................................ 9
+Malibu Media, LLC v. John Does No. 1-30, CIV.A. 12-3896-MAS, 2012 WL
+6203697 (D.N.J. Dec. 12, 2012) .......................................................... 5, 7, 10, 16
+Mosley v. Gen. Motors Corp., 497 F.2d 1330, 1333 (8th Cir. 1974) ................... 14
+3
+
+Case 2:12-cv-07726-KM-MAH Document 10 Filed 03/04/13 Page 4 of 23 PageID: 112
+
+Nu Image, Inc. v. Does 1-3, 932, 2:11-CV-545-FTM-29, 2012 WL 1255189 (M.D.
+Fla. Apr. 12, 2012) ............................................................................................. 19
+Patrick Collins Inc. v. John Does 1-18, 2:11-cv-07252-MSG (E.D. Pa. May 7,
+2012) .................................................................................................................... 6
+Patrick Collins Inc. v. John Does 1-21, 2:11-cv-05173 BMS, DE 17 (E.D. Pa. Nov.
+8, 2011) .............................................................................................................. 22
+Patrick Collins, Inc. v. John Does 1-21, CIV.A. 11-15232, 2012 WL 1190840, at
+*4-5 (E.D. Mich. Apr. 5, 2012) ......................................................................... 15
+Patrick Collins, Inc. v. John Does 1-28, 12-13670, 2013 WL 359759 (E.D. Mich.
+Jan. 29, 2013) ..................................................................................................... 16
+Patrick Collins, Inc. v. John Does 1-33, 11-CV-02163-CMA-MJW, 2012 WL
+415424 (D. Colo. Feb. 8, 2012) ......................................................................... 20
+Patrick Collins, Inc. v. Matthew Johnston, 2:12-cv-04200-JHS (E.D. Pa. July 24,
+2012) .................................................................................................................. 12
+Patrick Collins, Inc. v. Patricia Butler, 2:12-cv-04199-ER (E.D. Pa. July 24, 2012)
+............................................................................................................................ 12
+Raw Films v. John Does 1-15, 2012 WL 1019067, at *4 (E.D. Pa. March 26, 2012)
+............................................................................................................................ 17
+Raw Films, Ltd. v. John Does 1-15, CIV.A. 11-7248, 2012 WL 1019067 (E.D. Pa.
+Mar. 26, 2012)................................................................................................ 6, 20
+Twentieth Century Fox Film Corp. et. al. v. Does 1-12, Case No. 3:04-cv-04862WHA, (N.D. Cal. 2004) ..................................................................................... 20
+United Mine Workers of Am. v. Gibbs, 383 U.S. 715, 724 (1966) ..................... 16
+United States v. Mississippi, 380 U.S. 128 (1965) ............................................... 17
+Voltage Pictures, LLC v. Does 1-5,000, 818 F. Supp. 2d 28, 35 (D.D.C. 2011) . 10
+W. Coast Productions, Inc. v. Does 1-5829, 275 F.R.D. 9, 16 (D.D.C. 2011)....... 8
+
+4
+
+Case 2:12-cv-07726-KM-MAH Document 10 Filed 03/04/13 Page 5 of 23 PageID: 113
+
+I.
+
+INTRODUCTION
+Plaintiff respectfully requests the Court deny Defendant’s Motion because
+
+Defendant has not provided a valid reason to quash the subpoena and joinder of
+the Defendants is proper. “[T]his case involves a copyright owner's effort to
+protect a copyrighted work from unknown individuals, who are allegedly illegally
+copying and distributing the work on the Internet.” AF Holdings LLC v. Does 11,058, CIV.A. 12-0048 BAH, 2012 WL 3204917 (D.D.C. Aug. 6, 2012). Plaintiff
+has suffered great harm due to infringements committed by thousands of residents
+in this District and has no option but to file these suits to prevent the further
+widespread theft of its copyright.
+Courts in the Third Circuit and throughout the country routinely deny
+motions like the one before this Court. The District Court of New Jersey has
+addressed the same issues in BitTorrent copyright infringement actions, holding
+that similar motions should be denied because Plaintiff’s right to pursue its claim
+for copyright infringement outweighs any asserted rights to privacy by the Doe
+defendants and that joinder of the defendants is proper. See Malibu Media, LLC
+v. John Does No. 1-30, CIV.A. 12-3896-MAS, 2012 WL 6203697 (D.N.J. Dec.
+12, 2012) (“In the absence of this identifying information, Plaintiff would be
+unable to protect the legitimate interests it has in the named copyrights”).
+
+5
+
+Case 2:12-cv-07726-KM-MAH Document 10 Filed 03/04/13 Page 6 of 23 PageID: 114
+
+The Eastern District of Pennsylvania has also addressed these issues,
+explaining that joinder is proper because the conduct arose from the same series of
+transactions and the defendants have not provided a valid reason to quash the
+subpoena. See Raw Films, Ltd. v. John Does 1-15, CIV.A. 11-7248, 2012 WL
+1019067 (E.D. Pa. Mar. 26, 2012); Patrick Collins Inc. v. John Does 1-18, 2:11cv-07252-MSG (E.D. Pa. May 7, 2012); Malibu Media, LLC v. John Does 1-15,
+CIV.A. 12-2077, 2012 WL 3089383 (E.D. Pa. July 30, 2012); Malibu Media, LLC
+v. John Does 1-18, 2:12-cv-02095-LDD (E.D. Pa. Aug. 6, 2012); Malibu Media,
+LLC v. John Does 1-22, 2:12-cv-02083-CDJ (E.D. Pa. July 30, 2012). “There is
+extensive case law supporting Plaintiff’s actions in this case and precluding the
+Motion’s requested relief.
+
+Plaintiff’s copyright infringement action is
+
+contemplated by modern law and shall proceed.” Id.
+At this stage of the litigation process, Plaintiff has no other option but to file
+suit against the owners of these IP addresses to obtain the infringers identity. If
+this Court were to follow Defendant’s rationale, Plaintiff would have no recourse
+against the mass copyright infringement it suffers on a daily basis.
+II.
+
+THIS COURT SHOULD NOT QUASH THE SUBPOENA
+Rule 45(c)(3) provides that a court must modify or quash a subpoena that
+
+fails to allow a reasonable time to comply; requires a non-party to travel more than
+100 miles (except for trial within the state); requires disclosure of privileged
+6
+
+Case 2:12-cv-07726-KM-MAH Document 10 Filed 03/04/13 Page 7 of 23 PageID: 115
+
+materials; or, subjects a person to undue burden. See Fed. R. Civ. P. 45(c)(3)(A)(iiv). The Rule also provides for circumstances in which a court may modify or
+quash a subpoena. These circumstances are when the subpoena requires disclosure
+of trade secrets; disclosure of certain expert opinions; or, requires a nonparty to
+incur substantial expense to travel more than 100 miles to attend a trial. See Fed.
+R. Civ. P. 45(c)(3)(B)(i-iii).
+“Even where a party has standing to quash a subpoena based on privilege
+or a personal right, he or she lacks standing to object on the basis of undue burden.”
+Malibu Media, LLC v. John Does 1-21, 12-CV-00835-REB-MEH, 2012 WL
+3590902 (D. Colo. Aug. 21, 2012). “Defendants do not have standing to contest
+the third-party Subpoenas on the basis of undue burden… This point
+notwithstanding, Defendants have not proved that the Subpoenas impose an undue
+burden upon them.” Malibu Media, LLC v. John Does No. 1-30, CIV.A. 12-3896MAS, 2012 WL 6203697 (D.N.J. Dec. 12, 2012)
+Here, Defendant does not seek to quash the subpoena on his claim of
+privilege, but on the basis of an undue burden. This is not a valid reason to quash
+the subpoena when Defendant is a third party and not the recipient of the subpoena.
+Indeed, Defendant is not being required to respond to the subpoena or produce any
+documents himself. Defendant’s motion should be denied on this basis.
+
+7
+
+Case 2:12-cv-07726-KM-MAH Document 10 Filed 03/04/13 Page 8 of 23 PageID: 116
+
+Courts across the country have extensively addressed this issue in copyright
+BitTorrent actions and have held that third party defendants do not have standing
+to move to quash the subpoena on the basis of undue burden. See W. Coast
+Productions, Inc. v. Does 1-5829, 275 F.R.D. 9, 16 (D.D.C. 2011) (“The general
+rule is that a party has no standing to quash a subpoena served upon a third party,
+except as to claims of privilege relating to the documents being sought.”); Call of
+the Wild Movie, LLC v. Smith, 274 F.R.D. 334, 338 (D.D.C. 2011) (“the putative
+defendants face no obligation to produce any information under the subpoenas
+issued to their respective ISPs and cannot claim any hardship, let alone undue
+hardship.”); Malibu Media, LLC v. John Does 1–15, No. 12–2077, 2012 WL
+3089383, at *8 (E.D.Pa. July 30, 2012) (noting that a defendant seeking to quash a
+subpoena on an internet service provider “is not faced with an undue burden
+because the subpoena is directed at the internet service provider and not the
+[d]efendant”).
+Even if Defendant does have standing to quash the subpoena on the basis of
+an undue burden, the information Plaintiff seeks is clearly relevant. In a near
+identical BitTorrent infringement case, the Eastern District of Pennsylvania
+concluded, “the information sought is thus highly relevant to the plaintiff's claims.”
+Raw Films, Ltd. v. John Does 1-15, CIV.A. 11-7248, 2012 WL 1019067, at *6
+(E.D. Pa. Mar. 26, 2012). The Raw Films court also noted that Fed. R. Civ. P.
+8
+
+Case 2:12-cv-07726-KM-MAH Document 10 Filed 03/04/13 Page 9 of 23 PageID: 117
+
+26(b)(1) permits parties to obtain discovery of “the identity and location of persons
+who know of any discoverable matter.” Id. at *14. When addressing the issue of
+whether the infringer is the account holder of the IP address, the Court stated
+“[t]hese are not grounds on which to quash a subpoena otherwise demonstrated to
+be proper. The moving Doe may raise these and any other nonfrivolous defenses
+in the course of litigating the case.” Id. Here, Plaintiff is only seeking the basic
+identifying information of the Doe Defendants. “The information sought by
+Plaintiff falls squarely within this broad scope of discovery and is therefore
+warranted in this matter.” Malibu Media, LLC v. John Does 1-9, 8:12-cv-669-T23AEP, *4 (M.D. Fla. July 6, 2012). “[T]he Court finds that any concern about
+identifying a potentially innocent ISP customer, who happens to fall within the
+Plaintiff’s discovery requests upon the ISPs, is minimal and not an issue that would
+warrant the Court to exercise its inherent power to govern these discovery matters
+by minimizing or prohibiting the otherwise legitimate, relevant, and probative
+discovery.” Id. at *5.
+A.
+
+Defendant’s IP Address Is the Only Way to Identify the
+Infringer
+
+An individual using Defendant’s IP Address illegally downloaded Plaintiff’s
+copyrighted work. Even assuming it was not the Defendant, under the broad
+discovery provided by the Federal Rules, the subscriber’s information is still highly
+relevant because the subscriber is the most obvious person to identify who has used
+9
+
+Case 2:12-cv-07726-KM-MAH Document 10 Filed 03/04/13 Page 10 of 23 PageID: 118
+
+his or her internet service. “[E]ven assuming arguendo that the subscribers' name
+and information is not the actual user sought, we are of the opinion that it is
+reasonable to believe that it will aid in finding the true identity of the infringer and,
+therefore, we find that it is relevant. This is especially true, as in this case, where
+there is no other way to identify the proper defendants and proceed with claims
+against them.” Malibu Media, LLC v. John Does 1-15, CIV.A. 12-2077, 2012 WL
+3089383 (E.D. Pa. July 30, 2012). “Defendants' arguments are unpersuasive. The
+plain language of Rule 26 requires only that the discovery requested be reasonably
+calculated to lead to discovery of admissible evidence. It does not require, as
+Defendants suggest, that the identity of the alleged infringer be ascertained with
+absolute certainty.” Malibu Media, LLC v. John Does No. 1-30, CIV.A. 12-3896MAS, 2012 WL 6203697 (D.N.J. Dec. 12, 2012).
+B.
+
+Defendant’s Defenses Are Premature At This Stage of the
+Litigation Process
+
+Defendant claims the subpoena should be quashed because he has an open
+wireless and guest access Internet account. Denials of infringement are not a basis
+to quash the subpoena and are premature at this point in the litigation process. See
+Voltage Pictures, LLC v. Does 1-5,000, 818 F. Supp. 2d 28, 35 (D.D.C. 2011) (“A
+general denial of engaging in copyright infringement is not a basis for quashing the
+plaintiff's subpoena.”) The Court in Voltage noted that general denials of liability
+were not a basis to quash a subpoena and prevent Plaintiff from learning the
+10
+
+Case 2:12-cv-07726-KM-MAH Document 10 Filed 03/04/13 Page 11 of 23 PageID: 119
+
+identity of the subscriber of the IP address. If this were the case, Plaintiff would
+be denied critical information necessary in order to address the merits of the claim.
+It may be true that the putative defendants who filed motions and
+letters denying that they engaged in the alleged conduct did not
+illegally infringe the plaintiff's copyrighted movie, and the plaintiff
+may, based on its evaluation of their assertions, decide not to name
+these individuals as parties in this lawsuit. On the other hand, the
+plaintiff may decide to name them as defendants in order to have an
+opportunity to contest the merits and veracity of their defenses in this
+case. In other words, if these putative defendants are named as
+defendants in this case, they may deny allegations that they used
+BitTorrent to download and distribute illegally the plaintiff's movie,
+present evidence to corroborate that defense, and move to dismiss the
+claims against them. A general denial of liability, however, is not a
+basis for quashing the plaintiff's subpoenas and preventing the
+plaintiff from obtaining the putative defendants' identifying
+information.
+Id. (Emphasis added.)
+Further, Defendant expressly agreed in the Comcast terms and services to
+not allow anyone, directly or indirectly, to use his Internet access for unlawful
+uses.
+You will not use or permit another to use the Xfinity Equipment or the
+Service(s), directly or indirectly, for any unlawful purpose, including,
+but not limited to, in violation of any posted Comcast policy applicable
+to the Service(s). Use of the Xfinity Equipment or Service(s) for
+transmission, communications or storage of any information, data or
+material in violation of any U.S. federal, state or local regulation or law
+is
+prohibited.
+You acknowledge that you are accepting this Agreement on behalf of
+all persons who use the Xfinity Equipment and/or Service(s) at the
+Premises and that you shall have sole responsibility for ensuring that
+all other users understand and comply with the terms and conditions
+11
+
+Case 2:12-cv-07726-KM-MAH Document 10 Filed 03/04/13 Page 12 of 23 PageID: 120
+
+of this Agreement and any applicable Comcast policies including, but
+not limited to, acceptable use and privacy policies. 1
+(emphasis added).
+
+Here, when Defendant expressly agreed to not permit the
+
+unlawful use of copyright infringement through his Internet, the Court should not
+quash the subpoena on the basis of his unsworn statements saying someone else
+used his Internet to steal Plaintiff’s movies.
+C.
+
+Plaintiff Intends to Litigate
+
+Currently, Plaintiff is in the process of naming and serving several
+Defendants in this district and throughout the country to further litigate its claims
+against them. See e.g. Patrick Collins, Inc. v. Patricia Butler, 2:12-cv-04199-ER
+(E.D. Pa. July 24, 2012); Patrick Collins, Inc. v. Matthew Johnston, 2:12-cv04200-JHS (E.D. Pa. July 24, 2012).
+III.
+
+JOINDER IS PROPER
+Fed. R. Civ. P. 20 permits joinder when plaintiffs “assert any right to relief
+
+jointly, severally, or in the alternative with respect to or arising out of the same
+transaction, occurrence, or series of transactions or occurrences; and any question
+of law or fact common to all plaintiffs will arise in the action.” Rule 20(a) not only
+permits permissive joinder when there is the same transaction or occurrence, it also
+
+See Comcast’s Use of Services, ¶7
+http://www.comcast.com/Corporate/Customers/Policies/SubscriberAgreem
+ent.html.
+1
+
+12
+
+Case 2:12-cv-07726-KM-MAH Document 10 Filed 03/04/13 Page 13 of 23 PageID: 121
+
+permits joinder when a Plaintiff has pled (a) “series of transactions or occurrences”
+or (b) joint or several liability. Plaintiff has done both here.
+“‘With the advent of industrialization, high-speed transportation, and
+urbanization, more intricate disputes appeared with greater frequency,’ requiring
+greater use of the more liberal joinder procedures.” Ginett v. Computer Task
+Group, Inc., 962 F.2d 1085, 1094 (2d Cir. 1992) (quoting 6A Wright, Miller &
+Kane § 1581). In light of this idea, the Southern District of New York recently
+found joinder proper noting that “the nature of the technology compels the
+conclusion that defendants’ alleged transactions were part of the same ‘series of
+transactions or occurrences.’” Malibu Media, LLC v. John Does 1-5, 12 CIV. 2954
+NRB, 2012 WL 3641291 (S.D.N.Y. Aug. 24, 2012). “In sum, BitTorrent is a
+reciprocal, decentralized network—and a tough nut to crack for copyright holders.”
+Patrick Collins, Inc. v. John Does 1-28, 12-13670, 2013 WL 359759 (E.D. Mich.
+Jan. 29, 2013).
+A.
+
+The Infringement Occurred Through a Series of Transactions
+
+For the word “series” to have any meaning in Rule 20(a), the rule must
+permit joinder to be proper when there is something other than a direct transaction.
+“Series” has been interpreted by Circuit Courts to mean a “logically related” fact
+pattern.
+[A]ll ‘logically related’ events entitling a person to institute a legal
+action against another generally are regarded as comprising a
+13
+
+Case 2:12-cv-07726-KM-MAH Document 10 Filed 03/04/13 Page 14 of 23 PageID: 122
+
+transaction or occurrence. The analogous interpretation of the terms
+as used in Rule 20 would permit all reasonably related claims for relief
+by or against different parties to be tried in a single proceeding.
+Absolute identity of all events is unnecessary.
+Mosley v. Gen. Motors Corp., 497 F.2d 1330, 1333 (8th Cir. 1974).
+While the logical relationship test does not require it, should this matter go
+to trial, Plaintiff will prove that the Defendants’ infringement was committed
+through the same transaction or through a series of transactions with mathematical
+certainty by demonstrating, inter alia, that the algorithm used by BitTorrent
+Trackers would have caused the entire series of transactions to be different but for
+each of the Defendants’ infringements.
+Judge Randon in the Eastern District of Michigan properly analyzed the
+facts in a near identical case, expending substantial effort to understand the
+allegations in the complaint and the applicable law. Judge Randon summarized
+the plaintiff’s allegation asserting that each Defendant copied the same piece of the
+same file as follows:
+Plaintiff alleges that its investigator (“IPP”) was able to download at
+least one piece of the copyrighted Movie from each Defendant (Dkt.
+No. 1 at 8–10). It is important to understand the implications of this
+allegation before determining whether joinder is proper. If IPP
+downloaded a piece of Plaintiff's copyrighted Movie from each
+Defendant (and, conversely, each Defendant uploaded at least one
+piece of the Movie to IPP) then each Defendant had at least one piece
+of the Movie—traceable via Hash Identifier to the same Initial
+Seeder—on his or her computer and allowed other peers to download
+pieces of the Movie.
+14
+
+Case 2:12-cv-07726-KM-MAH Document 10 Filed 03/04/13 Page 15 of 23 PageID: 123
+
+By way of illustration: IPP's computer connected with a tracker, got
+the IP address of each of Defendants' computers, connected with each
+Defendants' computer, and downloaded at least one piece of the
+Movie from each Defendants' computer. During this transaction, IPP's
+computer verified that each Defendants' piece of the Movie had the
+expected Hash; otherwise, the download would not have occurred.
+Patrick Collins, Inc. v. John Does 1-21, CIV.A. 11-15232, 2012 WL 1190840, at
+*4-5 (E.D. Mich. Apr. 5, 2012). Significantly, Judge Randon then explained
+through the force of clear deductive logic that each Defendant obtained the piece
+of plaintiff’s movie in one of four ways all of which relate directly back to one
+individual seed.
+If Plaintiffs allegations are true, each Defendant must have
+downloaded the piece(s) each had on his or her computer in one, or
+more, of the following four ways:
+1) the Defendant connected to and transferred a piece of the Movie
+from the initial seeder; or
+2) the Defendant connected to and transferred a piece of the Movie
+from a seeder who downloaded the completed file from the initial
+seeder or from other peers; or
+3) the Defendant connected to and transferred a piece of the Movie
+from other Defendants who downloaded from the initial seeder or
+from other peers; or
+4) the Defendant connected to and transferred a piece of the Movie
+from other peers who downloaded from other Defendants, other
+peers, other Seeders, or the Initial Seeder.
+In other words, in the universe of possible transactions, at some point,
+each Defendant downloaded a piece of the Movie, which had been
+transferred through a series of uploads and downloads from the Initial
+Seeder, through other users or directly, to each Defendant, and finally
+to IPP.
+Id. Having limited the universe to four possibilities the court correctly
+concluded the transaction was logically related.
+15
+
+Case 2:12-cv-07726-KM-MAH Document 10 Filed 03/04/13 Page 16 of 23 PageID: 124
+
+Therefore, each Defendant is logically related to every other
+Defendant because they were all part of a series of transactions linked
+to a unique Initial Seeder and to each other. This relatedness arises
+not merely because of their common use of the BitTorrent protocol,
+but because each Defendant affirmatively chose to download the same
+Torrent file that was created by the same initial seeder, intending to:
+1) utilize other users' computers to download pieces of the same
+Movie, and 2) allow his or her own computer to be used in the
+infringement by other peers and Defendants in the same swarm.
+Id.
+i.
+
+The Supreme Court Encourages Joinder
+
+“Under the Rules, the impulse is toward entertaining the broadest possible
+scope of action consistent with fairness to the parties; joinder of claims, parties and
+remedies is strongly encouraged.” United Mine Workers of Am. v. Gibbs, 383 U.S.
+715, 724 (1966). “The sensible interpretation of Rule 20 by the United States
+Supreme Court in Gibbs is to promote judicial economy, prevent a multiplicity of
+lawsuits and reduce inconvenience, delay and added expense.” Malibu Media,
+LLC v. John Does No. 1-30, CIV.A. 12-3896-MAS, 2012 WL 6203697 (D.N.J.
+Dec. 12, 2012). “[W]hen in doubt, the Supreme Court instructs, join.” Patrick
+Collins, Inc. v. John Does 1-28, 12-13670, 2013 WL 359759 (E.D. Mich. Jan. 29,
+2013).
+The Honorable Judge McLaughlin addressed this exact issue in a similar
+BitTorrent copyright infringement action. Judge McLaughlin held joinder was
+proper even if the Doe defendants did not transmit the pieces directly to each other
+16
+
+Case 2:12-cv-07726-KM-MAH Document 10 Filed 03/04/13 Page 17 of 23 PageID: 125
+
+because the claims arise out of the same series of transactions. Raw Films v. John
+Does 1-15, 2012 WL 1019067, at *4 (E.D. Pa. March 26, 2012).
+[E]ven if no Doe defendant directly transmitted a piece of the Work
+to another Doe defendant, the Court is satisfied at this stage of the
+litigation the claims against each Doe defendant appear to arise out
+of the same series of transactions or occurrences, namely, the
+transmission of pieces of the same copy of the Work to the same
+investigative server.
+Id.
+In United States v. Mississippi, 380 U.S. 128 (1965) the Supreme Court
+found that the joinder of six defendants, election registrars of six different counties,
+was proper because the allegations were all based on the same state-wide system
+designed to enforce the voter registration laws in a way that would deprive African
+Americans of the right to vote. Although the complaint did not allege that the
+registrars directly interacted with each other, or even that they knew of each other’s
+actions, or that each other’s actions directly affected each other in any way, the
+Supreme Court interpreted Rule 20 to hold a right to relief severally because the
+series of transactions were related and contained a common law and fact. Id. at
+142-143.
+[T]he complaint charged that the registrars had acted and were
+continuing to act as part of a state-wide system designed to enforce
+the registration laws in a way that would inevitably deprive colored
+people of the right to vote solely because of their color. On such an
+allegation the joinder of all the registrars as defendants in a single suit
+is authorized by Rule 20(a) of the Federal Rules of Civil Procedure.
+17
+
+Case 2:12-cv-07726-KM-MAH Document 10 Filed 03/04/13 Page 18 of 23 PageID: 126
+
+Id. at 142. Indeed, the Supreme Court held all of the defendants were joined
+properly because they were all acting on the basis of the same system which created
+a transactional relatedness.
+Likewise, in the case at hand, it is not necessary for each of the Defendants
+to have directly interacted with each other Defendant, or have shared a piece of the
+file with each and every Defendant when downloading the movie. The Defendants
+are properly joined because their actions directly relate back to the same initial
+seed of the swarm, and their alleged infringement further advances the series of
+infringements that began with that initial seed and continued through other
+infringers. In doing so, the Defendants all acted under the same exact system. Just
+as it was not alleged in United States v. Mississippi that the registrars shared with
+each other their efforts to prevent African Americans from voting, it is not
+necessary for the Defendants to have shared the pieces of the movie with each
+other. It is sufficient that the Defendants shared pieces that originated from the
+same exact file, and opened their computer to allow others to connect and receive
+these pieces.
+B.
+
+There Are Common Issues of Fact and Law
+
+Rule 20(a)(2)(B) requires the plaintiffs' claims against the putative
+defendants to contain a common question of law or fact. “The Plaintiff meets this
+requirement. In each case, the Plaintiff will have to establish against each putative
+18
+
+Case 2:12-cv-07726-KM-MAH Document 10 Filed 03/04/13 Page 19 of 23 PageID: 127
+
+defendant the same legal claims concerning the validity of the copyrights in the
+movies at issue and the infringement of the exclusive rights reserved to the
+plaintiffs as copyright holders.” Nu Image, Inc. v. Does 1-3, 932, 2:11-CV-545FTM-29, 2012 WL 1255189 (M.D. Fla. Apr. 12, 2012). The “factual issues related
+to how BitTorrent works and the methods used by plaintiffs to investigate, uncover
+and collect evidence about the infringing activity will be essentially identical for
+each putative defendant.” Call of the Wild Movie v. Does 1-1,062, 770 F. Supp.
+2d 332, 344-345 (D.D.C. 2011).
+“Here, common questions of law and fact are present. Defendants are all
+accused of violating the same copyright laws. Additionally, the interconnectedness
+of using BitTorrent to complete the alleged acts creates common questions of fact.
+Consequently, we find that this low standard is satisfied.” Malibu Media, LLC v.
+John Does 1-15, CIV.A. 12-2077, 2012 WL 3089383 (E.D. Pa. July 30, 2012).
+C.
+
+Joinder Promotes Judicial Efficiency
+
+Joinder of the defendants creates judicial efficiency, particularly at this stage
+of the litigation process and is beneficial to the Doe Defendants. “The Court finds
+that joinder, at this stage of the litigation, will not prejudice any party and will
+promote judicial efficiency.” Patrick Collins, Inc. v. John Does 1-33, 11-CV02163-CMA-MJW, 2012 WL 415424 (D. Colo. Feb. 8, 2012).
+
+19
+
+Case 2:12-cv-07726-KM-MAH Document 10 Filed 03/04/13 Page 20 of 23 PageID: 128
+
+The Eastern District of Pennsylvania has addressed this issue and stated,
+“consolidating early discovery for the purpose of determining the scope of claims
+and defenses will foster judicial economy. Should that process reveal disparate
+defenses as to each party, the Court would consider such a fact relevant on a later
+review of joinder's propriety.” Raw Films, Ltd. v. John Does 1-15, CIV.A. 117248, 2012 WL 1019067 (E.D. Pa. Mar. 26, 2012).
+D.
+
+The Cases Relied Upon By Defendant Have Been Distinguished
+In Such A Way As Would Make Joinder Proper Here
+
+Defendant cites various cases in an effort to avoid joinder. Some of the cases
+cited by Defendant, unlike this case, involve multiple Plaintiffs and infringement
+of multiple copyrights in the same lawsuit. See (1) Twentieth Century Fox Film
+Corp. et. al. v. Does 1-12, Case No. 3:04-cv-04862-WHA, (N.D. Cal. 2004), (6
+Plaintiffs – 13 songs, see the Complaint at ¶¶ 4-11 and Exhibit A to the Complaint);
+(2) Interscope Records, et. al. v. Does 1-25, 2004 U.S. Dist. LEXIS, Case No. 6:04cv-197 – ACC- DAB (M.D. Fla. 2004), (16 Plaintiffs and dozens if not hundreds
+of songs, see the Complaint at ¶¶ 4-19 and Exhibit A to the Complaint); and (3)
+BMG Music v. Does 1-203, Case No. 2:04-cv-00650-CN (E.D.P.A. 2004) (17
+Plaintiffs and numerous works, see the Complaint at ¶¶ 4-19 & 23). Since multiple
+works were at issue in these copyright cases, the Plaintiffs in those cases did not
+plead that the online infringements were part of the same transaction or series of
+
+20
+
+Case 2:12-cv-07726-KM-MAH Document 10 Filed 03/04/13 Page 21 of 23 PageID: 129
+
+transactions or that the defendants in those cases were contributorily liable for each
+others’ infringement.
+Here, all of the defendants infringed on one work by Plaintiff, within the
+same BitTorrent swarm. As the Middle District of Florida states, “[t]he Court
+recognizes that each Defendant may later present different factual and substantive
+legal defenses, but that does not defeat, at this stage of the proceedings, the
+commonality in facts and legal claims that support joinder under Rule
+20(a)(2)(B).” K-Beech Inc., v. John Does 1-57, Case 2:11-cv-00358-CEH-SPC,
+at*12 (M.D. Fla. 2011).
+Defendant’s citation to LaFace Records v. Does 1-38, 2008 WL 544992
+(E.D.N.C. 2008) is also misplaced. In LaFace, eleven recording studios sued over
+dozens of copyrights. The only commonality supporting joinder was that the
+Defendants used Gnutella, a peer-to-peer file sharing protocol. Significantly,
+Gnutella works through one peer to one peer transactions; i.e., a user connects to
+one computer and gets the whole file. Here, Plaintiff only sued on one copy of one
+movie which was broken up into pieces by BitTorrent. And, Plaintiff alleged that
+the Defendants were distributing the pieces to each other. Indeed, BitTorrent
+works differently than Gnutella insofar as it causes all participants in a swarm to
+upload pieces of the movie to each other. Consequently, here, Plaintiff pled that
+
+21
+
+Case 2:12-cv-07726-KM-MAH Document 10 Filed 03/04/13 Page 22 of 23 PageID: 130
+
+each of the Defendants is contributorily liable for the infringement of each of the
+other Defendants. This is yet another basis to hold that joinder is proper.
+Further, Defendant relies on K-Beech v. Does 1-78, 5:11-cv-05060-BMS,
+(E.D. Pa. Oct. 13, 2011) where the Honorable Schiller severed an early BitTorrent
+case. Since this opinion, Judge Schiller has ruled joinder is proper in several
+BitTorrent infringement suits. See e.g. Patrick Collins Inc. v. John Does 1-21,
+2:11-cv-05173 BMS, DE 17 (E.D. Pa. Nov. 8, 2011) (denying motion to sever);
+Malibu Media, LLC v. John Does 1-15, 2:12-cv-02090-BMS, DE 13, 16 (denying
+motion to dismiss and/or sever complaint and motion to quash). Defendant also
+relies on Judge Kelly’s opinion in K-Beech, Inc. v. John Does 1-36, 11-cv-5058,
+ECF No. 13 (E.D. Pa. Oct. 21, 2011). Since that opinion, Judge Kelly has also
+ruled in favor of Plaintiff and found joinder to be proper. See Malibu Media, LLC
+v. John Does 1-15, CIV.A. 12-2077, 2012 WL 3089383 (E.D. Pa. July 30, 2012)
+(“we find that the alleged actions of the Defendants arise from the same transaction,
+occurrence or series of transactions or occurrences”).
+IV.
+
+CONCLUSION
+For the foregoing reasons, Plaintiff respectfully requests that the Court deny
+
+the subject motion.
+DATED this 4th day of March, 2013
+Respectfully submitted,
+22
+
+Case 2:12-cv-07726-KM-MAH Document 10 Filed 03/04/13 Page 23 of 23 PageID: 131
+
+By: /s/Patrick Cerillo
+
+CERTIFICATE OF SERVICE
+I hereby certify that on March 4, 2013, I electronically filed the foregoing
+document with the Clerk of the Court using CM/ECF and that service was
+perfected on all counsel of record and interested parties through this system.
+By: /s/Patrick Cerillo
+
+23
+
+

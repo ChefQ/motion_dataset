@@ -1,0 +1,611 @@
+Case 1:09-cv-11267-GAO Document 106 Filed 05/11/12 Page 1 of 20
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF MASSACHUSETTS
+
+In re: Genzyme Corporation Securities
+Litigation
+
+Consolidated
+No. 09-cv-11267 (GAO)
+ORAL ARGUMENT REQUESTED
+
+INDIVIDUAL DEFENDANTS’ OPPOSITION TO PLAINTIFFS’ MOTION FOR
+RELIEF FROM FINAL JUDGMENT UNDER RULE 59 TO AMEND ORDER AND
+JUDGMENT OF MARCH 30, 2012, TO PROVIDE FOR DISMISSAL WITHOUT
+(RATHER THAN WITH) PREJUDICE, AND TO GRANT LEAVE TO FILE
+AMENDED COMPLAINT UNDER RULE 15
+
+John D. Hanify, BBO# 219880
+Michael T. Marcucci, BBO# 652186
+JONES DAY
+100 High Street
+Boston, MA 02110-1781
+Telephone: (617) 960-3939
+Facsimile: (617) 449-6999
+Counsel for Individual Defendants
+
+Case 1:09-cv-11267-GAO Document 106 Filed 05/11/12 Page 2 of 20
+TABLE OF CONTENTS
+Page
+PRELIMINARY STATEMENT ................................................................................................... 1
+I.
+
+PLAINTIFFS DO NOT PROVIDE A SEPARATE BASIS TO VACATE THE
+JUDGMENT IN FAVOR OF THE INDIVIDUAL DEFENDANTS ............................... 2
+A.
+
+No Error in the March 30 Order Justifies Vacating the Judgment in Favor
+of the Individual Defendants .................................................................................. 2
+
+B.
+
+Plaintiffs’ Newly Discovered Evidence is Not New and Does Not Justify
+Vacating the Judgment in Favor of the Individual Defendants Under Rule
+59............................................................................................................................ 4
+1.
+
+II.
+
+The New Confidential Witness Statements are Duplicative,
+Immaterial, and Do Not Provide a Basis to Overturn the Court’s
+Holding that the Individual Defendants Lacked Scienter .......................... 4
+(a)
+
+The New Confidential Witness Statements About What
+“Management” Knew are Inadequate to Establish Scienter
+Against the Individual Defendants................................................. 6
+
+(b)
+
+The New Confidential Witness Statements Do Not
+Remotely Establish Scienter Against Mr. Termeer ....................... 9
+
+PLAINTIFFS’ PROPOSED AMENDED COMPLAINT FAILS TO STATE A
+SECTION 10(b) CLAIM AGAINST ANY OF THE INDIVIDUAL
+DEFENDANTS AND SHOULD BE DENIED AS FUTILE.......................................... 10
+A.
+
+The PAC Does Not Remedy the Lack of Scienter ............................................... 11
+
+B.
+
+Plaintiffs Fail to Cure the Other Deficiencies Identified in the Individual
+Defendants’ Motion to Dismiss ........................................................................... 11
+
+C.
+
+1.
+
+The PAC Impermissibly Relies on the Group Pleading Doctrine ........... 11
+
+2.
+
+Plaintiffs Cannot Plead Section 20(a) Control Person Liability for
+Any of the Individual Defendants ............................................................ 12
+
+Plaintiffs Eliminate the only Actionable Statement by Dr. Meeker, so
+Amendment would be Futile for Any Claims Against Him ................................ 13
+
+CONCLUSION ............................................................................................................................ 14
+
+-i-
+
+Case 1:09-cv-11267-GAO Document 106 Filed 05/11/12 Page 3 of 20
+
+TABLE OF AUTHORITIES
+Page
+CASES
+Applestein v. Medivation, Inc.,
+No. C–10–0998 EMC, 2012 WL 986276 (N.D. Cal. Mar. 22, 2012) .......................................6
+Baker v. MBNA Corp,
+C.A. No. 05-272 (GMS), 2007 WL 2009673 (D. Del. July 6, 2007) ........................................6
+Contrast Greebel v. FTP Software, Inc.,
+194 F.3d 185 (1st Cir. 1999) ....................................................................................................11
+Dura Pharm. Inc. v. Broudo,
+544 U.S. 336 (2005) .................................................................................................................13
+Ernest & Ernst v. Hochfelder,
+425 U.S. 185 (1976) ...................................................................................................................5
+Fannon v. Guidant Corp.,
+583 F.3d 995 (7th Cir. 2009) ...................................................................................................10
+Foman v. Davis,
+371 U.S. 178 (1962) .................................................................................................................10
+Glassman v. Computervision Corp.,
+90 F.3d 617(1st Cir. 1996) .......................................................................................................10
+Heywood v. Cell Therapeutics, Inc.,
+No. C05-0396 RSM, 2006 WL 5701625 (W.D. Wash. May 4, 2006) ......................................9
+In re Alkermes Sec. Litig.,
+No. Civ.A. 03-12091-RCL, 2005 WL 2848341 (D. Mass. Oct. 6, 2005)............................9, 10
+In re ArthroCare Corp. Sec. Litig.,
+726 F. Supp. 2d 696 (W.D. Tex. 2010)....................................................................................14
+In re Cabletron Sys. Inc.,
+311 F.3d 11 (1st Cir. 2002) ................................................................................................7, 8, 9
+In re Dothill Sys. Corp. Sec. Litig.,
+No. 06–CV–228 JLS, 2009 WL 734296 (S.D. Cal. Mar. 18, 2009) ......................................5, 6
+In re Harley-Davidson, Inc. Sec. Litig.,
+660 F. Supp. 2d 969 (E.D. Wisc. 2009) .....................................................................................8
+
+-ii-
+
+Case 1:09-cv-11267-GAO Document 106 Filed 05/11/12 Page 4 of 20
+
+In re Optimal U.S. Litig.,
+--- F. Supp. 2d ---, 2011 WL 642988 (S.D.N.Y. Dec. 21, 2011) .............................................12
+In re Stone & Webster, Inc. Sec. Litig.,
+414 F.3d 187 (1st Cir. 2005) ..............................................................................................12, 13
+Janbay v. Canadian Solar, Inc.,
+No. 10 Civ. 4430(RWS), 2012 WL 1080306 (S.D.N.Y. Mar. 30, 2012) ................................11
+Janus Capital Grp., Inc. v. First Derivative Traders,
+---U.S.---, 131 S.Ct. 2296, 180 L.Ed.2d 166 (2011) ..........................................................11, 12
+Limantour v. Cray, Inc.,
+432 F. Supp. 2d 1129 (W.D. Wash. 2006) .................................................................................5
+McCasland v. FormFactor, Inc.,
+No. C 07–5545 SI, 2008 WL 2951275 (N.D. Cal. July 25, 2008) ............................................5
+Neurontin Mkting and Sales Prac. Litig.,
+799 F. Supp. 2d 110 (D. Mass. 2011) ........................................................................................4
+Orlan v. Spongetech Delivery Sys., Inc., Sec. Litig.,
+Nos. 10–CV–4093 (DLI)(JMA), 10–CV–4104 (DLI)(JMA), 2012 WL 1067975
+(E.D.N.Y. Mar. 29, 2012) ........................................................................................................12
+Raymond v. Raymond Corp.,
+938 F.2d 1518 (1st Cir. 1991) ....................................................................................................4
+SEC v. Tambone,
+597 F.3d 436 (1st Cir. 2010) ....................................................................................................13
+Solow v. Citigroup, Inc.,
+--- F. Supp. 2d ---, 2011 WL 5869599, at *10 (S.D.N.Y. Nov. 22, 2011)...............................12
+Southland Sec. Corp. v. Inspire Ins. Solutions, Inc.,
+365 F.3d 353 (5th Cir. 2004) .....................................................................................................2
+Wells v. Monarch Capital Corp.,
+No. 91-10575-MA, 1991 WL 354938 (D. Mass. Aug. 23, 1991) ...........................................14
+
+-iii-
+
+Case 1:09-cv-11267-GAO Document 106 Filed 05/11/12 Page 5 of 20
+
+PRELIMINARY STATEMENT
+Mark R. Bamforth, Alison Lawton, Geoffrey McDonough, David P. Meeker, Henri A.
+Termeer, and Michael S. Wyzga (“the Individual Defendants”) join in Genzyme’s Opposition.
+These Individual Defendants also offer additional reasons why the judgment in favor of the
+Individual Defendants should not be vacated, and leave to amend should be denied.
+There was no material error in the Court’s Opinion. Instead, Plaintiffs use this present
+motion as pretext to confound these proceedings with yet another mountain of misleading,
+inconsistent, and conclusory allegations that fail to withstand careful scrutiny. Plaintiffs’ motion
+adds nothing of substance to Plaintiffs’ earlier-discredited theory of fraud by hindsight.
+With respect to the Individual Defendants, Plaintiffs do not show how correction of any
+alleged error in the Court’s decision would give rise to a cogent and compelling inference that
+any one, much less all, of the Individual Defendants had an intent to defraud. The so-called
+“newly discovered evidence,” could have been mustered well before the Court’s decision, and
+the confidential witness statements are ineffectual because they are not based on specific
+information personally known to the witnesses and virtually silent on any direct connection to
+the contemporaneous knowledge of Individual Defendants.
+Nothing in the Proposed Amended Complaint (“PAC”) cures the fatal flaws in the
+Complaint identified by the Court’s March 30 Order (“Order”), and in the Individual
+Defendants’ Motion to Dismiss. Amendment would be futile. Moreover, as to Dr. Meeker, no
+amendment could be allowed, since in his case Plaintiffs’ PAC eliminates the only actionable
+statement made by him during the original class period.
+
+Case 1:09-cv-11267-GAO Document 106 Filed 05/11/12 Page 6 of 20
+
+I.
+
+PLAINTIFFS DO NOT PROVIDE A SEPARATE BASIS TO VACATE THE
+JUDGMENT IN FAVOR OF THE INDIVIDUAL DEFENDANTS.
+Plaintiffs identify two grounds to vacate the Court’s March 30 Order: (i) an alleged
+
+manifest error by the Court in its finding that the February 2009 Complete Response Letter did
+not make reference to the October 2008 Form 483 and; (ii) purportedly newly discovered
+confidential witness statements. See Pls.’ Mem. at 5-16. Genzyme’s Opposition to Plaintiffs’
+Rule 59(e) motion thoroughly explains how neither ground justifies relief from the Court’s final
+judgment. Here, the Individuals Defendants address the Plaintiffs’ inability to establish any
+separate grounds for relief from the final judgment in favor of the Individual Defendants.
+Just as they must establish a Section 10(b) claim against each Individual Defendant,
+Plaintiffs must also now provide a compelling basis to vacate the judgment in favor of each
+Individual Defendant. See Southland Sec. Corp. v. Inspire Ins. Solutions, Inc., 365 F.3d 353,
+364-65 (5th Cir. 2004). Plaintiffs cannot satisfy this burden.
+A.
+
+No Error in the March 30 Order Justifies Vacating the Judgment in Favor of
+the Individual Defendants.
+
+The thrust of Plaintiffs’ manifest error argument is that the Court did not appreciate that
+the FDA’s 2009 February Complete Response Letter, which addressed the Lumizyme BLA,
+actually mentioned the cGMP issues identified in the October 2008 FDA Form 483. See Pls.’
+Mem. at 6-7. Plaintiffs contend that had the Court appreciated this, the Court would have held
+that the October 2008 Form 483 was material. See Pls.’ Mem. at 8-9. From that questionable
+assumption, Plaintiffs then extrapolate a bounty of alleged information regarding the negative
+prospects of Lumizyme approval, and Allston plant contamination. Id. at 10-12. Of course, as
+Genzyme’s brief makes clear, the Court made no error. Even if it had, the correction of any such
+alleged error would not justify the reinstatement of the Section 10(b) claims against the
+Individual Defendants.
+
+-2-
+
+Case 1:09-cv-11267-GAO Document 106 Filed 05/11/12 Page 7 of 20
+
+In fact, Plaintiffs cite just one set of statements by the Individual Defendants, in an
+October 2008 conference call, that is implicated by the alleged error. See Pls.’ Mem. at 9.
+Plaintiffs contend that if the Court had not made this asserted factual error, the Court would have
+held that during an October 2008 conference call, Ms. Lawton, Mr. Termeer, and Dr.
+McDonough made statements they knew were false.
+However, any asserted connection between the February 2009 Complete Response Letter
+and the earlier 2008 FDA inspection does not render the October Form 483 material. The
+February 2009 letter did not change what was in the minds of Ms. Lawton, Mr. Termeer, and Dr.
+McDonough five months earlier during the October 2008 conference call. At that time, the only
+pertinent information in the possession of these three Individual Defendants was the existence of
+the FDA inspection and the Form 483. As this Court correctly noted, the October Form 483, by
+itself, is “of doubtful materiality.” See Order at 17.
+Plaintiffs cite no further evidence that would establish that any of these three Individual
+Defendants knew at the time of that October 2008 conference call that the FDA would deny the
+Lumizyme BLA in 2009, or even that the PDUFA date would be postponed from November
+2008 until February 2009. See Order at 6. Plaintiffs offer no factual bases for the Court to
+change its holding that Ms. Lawton, Mr. Termeer, and Dr. McDonough did not have an intent to
+defraud in October 2008.
+Instead, Plaintiffs entire “manifest factual error” remains premised on the same “fraudby-hindsight” theme that thoroughly infected the Plaintiffs’ Complaint, and was rejected by this
+Court. See Order at 20 (“The allegations in this respect amount to fraud by hindsight.).
+Moreover, Plaintiffs cite no other or additional statements by any of the Individual Defendants
+that are implicated by the Court’s alleged “error.” No such allegation is tenable since following
+
+-3-
+
+Case 1:09-cv-11267-GAO Document 106 Filed 05/11/12 Page 8 of 20
+
+receipt of the February 2009 Complete Response Letter, the Company disclosed the existence of
+the October Form 483, rendering Plaintiffs’ arguments on this point moot and immaterial. See
+Order at 8.
+B.
+
+Plaintiffs’ Newly Discovered Evidence is Not New and Does Not Justify
+Vacating the Judgment in Favor of Individual Defendants Under Rule 59.
+
+Plaintiffs’ second ground to vacate the judgment against the Individual Defendants is
+newly discovered evidence. See Pls.’ Mem. at 12-16. Like the correction of any supposed error,
+Plaintiffs’ alleged newly discovered evidence does not prove scienter against any of the
+Individual Defendants. In assessing a new evidence claim under a Rule 59(e) motion, courts
+require that the movant show: “(1) The evidence has been discovered since the trial; (2) The
+evidence could not by due diligence have been discovered earlier by the movant; (3) The
+evidence is not merely cumulative or impeaching; and (4) The evidence is of such nature that it
+would probably change the result if a new trial is granted.” Neurontin Mkting and Sales Prac.
+Litig., 799 F. Supp. 2d 110, 113 (D. Mass. 2011) (quoting Raymond v. Raymond Corp., 938 F.2d
+1518, 1527 (1st Cir. 1991)).
+Here, Plaintiffs’ “new” confidential witness statements do not in fact constitute new
+evidence, and in any event, they do not justify vacating the judgment in favor of the Individual
+Defendants under Rule 59.
+1.
+
+The New Confidential Witness Statements are Duplicative,
+Immaterial, and Do Not Provide a Basis to Overturn the Court’s
+Holding that the Individual Defendants Lacked Scienter.
+
+The new confidential witnesses fail to cure the fatal defects in Plaintiffs’ Complaint
+against the Individual Defendants – most glaring of all, they persist in a notable lack of
+particularized allegations establishing that the Individual Defendants knew, or had reason to
+know, that their statements were false or misleading at the time made, and that the statements
+
+-4-
+
+Case 1:09-cv-11267-GAO Document 106 Filed 05/11/12 Page 9 of 20
+
+were made with an intent to deceive the markets. See Order at 21 (“the allegations do not give
+rise to a cogent and compelling inference that the defendants withheld disclosure of the disputed
+information not because they believed the information to be unimportant or its disclosure
+unnecessary, but because they understood – and sought to prevent – its likely informative effect
+on the market.”) (emphasis in original); see also Ernest & Ernst v. Hochfelder, 425 U.S. 185,
+193, n.12 (1976). Not a single confidential witness is alleged “to have had any interactions or
+communications with any of the [Individual Defendants], or to have provided any of the
+[Individual Defendants] with information, or to have heard or read any statement by any
+[Individual Defendants], that contradicted or even cast doubt on a public statement made during
+the class period.” McCasland v. FormFactor, Inc. No. C 07–5545 SI, 2008 WL 2951275, at *8
+(N.D. Cal. July 25, 2008).
+Instead, these 13 new confidential witnesses are primarily low-level employees,
+providing unreliable, speculative, and conclusory allegations about general conditions at the
+Allston plant that fail to draw a single, direct or meaningful connection to any Individual
+Defendant. See In re Dothill Sys. Corp. Sec. Litig., No. 06–CV–228 JLS (WMc), 2009 WL
+734296, at *13 (S.D. Cal. Mar. 18, 2009) (“[T]here must be sufficient information that would
+allow the [Court] to ‘be able to tell whether a confidential witness is speaking from personal
+knowledge or merely regurgitating gossip and innuendo.’”) (quoting Limantour v. Cray, Inc.,
+432 F. Supp. 2d 1129, 1141 (W.D. Wash. 2006)). Rather than repeat the arguments in
+Genzyme’s Opposition on this point, the Individual Defendants focus on the handful of new
+confidential witness statements that make either generalized allegations about what
+“management” knew, or make claims about information provided to Mr. Termeer.
+
+-5-
+
+Case 1:09-cv-11267-GAO Document 106 Filed 05/11/12 Page 10 of 20
+
+(a)
+
+The New Confidential Witness Statements About What
+“Management” Knew are Inadequate to Establish Scienter
+Against the Individual Defendants.
+
+A few of the new confidential witnesses make general assertions that Genzyme
+“management” must have been aware of compliance problems at Allston, and therefore the
+Defendants knew they were lying about the prospect of Lumizyme approval. See e.g., Pls.’
+Mem. at 14. However, these confidential witness statements lack any specificity about the state
+of Individual Defendants’ knowledge. The statements are self evidently not based on the
+witnesses’ personal knowledge, and fail to identify how or why the Individual Defendants would
+have known at the time that any of their statements were false or misleading.
+For example, CW #3 alleges that “Genzyme management was aware of issues at Allston
+before the FDA sent its warning letter.” PAC ¶ 46. This witness statement is an assertion
+unsupported by facts, disassociated from any Individual Defendant and cannot establish, as a
+matter of law, scienter against any of the Individual Defendants. See Baker v. MBNA Corp, C.A.
+No. 05-272 (GMS), 2007 WL 2009673, at *7 (D. Del. July 6, 2007) (“blanket allegations [of
+scienter] against ‘the defendants’ and ‘management’ do not meet particularized requirements of
+Rule 9(b) or the PSLRA.”).
+First, such a bald assertion does not explain how CW #3 had a basis to make this
+observation, or had personal knowledge of this evidence. See Applestein v. Medivation, Inc., No.
+C–10–0998 EMC, 2012 WL 986276, at * 8 (N.D. Cal. Mar. 22, 2012) (confidential witness
+statements lack reliability, in part, because “[p]laintiffs do not explain the basis for each
+confidential witness’s knowledge”); Dothill, 2009 WL 734296, at *14 (rejecting allegations of
+confidential witness that “management” knew product development was delayed because
+complaint did not explain how witness was in position to “know what management ‘all knew’”).
+
+-6-
+
+Case 1:09-cv-11267-GAO Document 106 Filed 05/11/12 Page 11 of 20
+
+This witness does not identify any conversation heard or observed by CW #3, with an Individual
+Defendant in which any of these issues at Allston were made known to that Individual
+Defendant.
+Plaintiffs also tout the statements of CW #1 as proof that Genzyme management was
+aware of facts rendering public statements by Defendants false at the time the statements were
+made. See Pls.’ Mem. at 14. CW #1 worked at Genzyme for over a decade at various positions
+relating to manufacturing at Allston, and alleges that “management” received minutes of FDA
+inspections that described “the inspector’s focus and potential follow-up items.” PAC ¶ 47. CW
+#1 contends that daily reports, created during the May 2009 FDA inspection “were also
+circulated directly to the very highest levels of the Company, … the Alison Lawtons, the David
+Meekers, and the Mark Bamforths of the Company.” Id. ¶ 147. Plaintiffs then leap to an
+allegation that the Defendants, including all Individual Defendants, knew the Lumizyme BLA
+would never be approved because the deficiencies identified by the FDA were never rectified.
+See Pls.’ Mem. at 14; PAC ¶ 14. Although the Rule 59(e) motion is silent on this point, the PAC
+adds an allegation that because of these FDA minutes, Ms. Lawton knew that her May 2009
+statements regarding the nature of the May 2009 FDA inspection, and her description of a
+conversation with the FDA inspector were false at the time they were made. See Comp. ¶¶ 304305; Pls.’ Mem. at 11; PAC ¶ 147. However, the allegations are insufficient to prove scienter for
+several important reasons.
+First, CW #1’s allegations on their face lack the required specificity to establish that the
+witness was in any position to have personal knowledge about what information individuals
+within Genzyme management supposedly received or knew. See In re Cabletron Sys. Inc., 311
+F.3d 11, 30-31 (1st Cir. 2002) (for the allegations of a confidential witness to be reliable the
+-7-
+
+Case 1:09-cv-11267-GAO Document 106 Filed 05/11/12 Page 12 of 20
+
+complaint must establish, inter alia, “personal knowledge” and a “strong basis of knowledge” of
+the facts alleged). Moreover, claiming that “the Alison Lawtons … of the world” or
+“management” received a document is well short of the particularized allegations required to
+show scienter with respect to Individual Defendants. CW #1 offers no insight into what specific
+information was contained in these minutes, whether that information was actually reviewed by
+any Individual Defendant, how that information rendered statements by Individual Defendants
+false, or how that information gave Individual Defendants a basis to know statements they
+subsequently made would be false or misleading. See In re Harley-Davidson, Inc. Sec. Litig.,
+660 F. Supp. 2d 969, 999 (E.D. Wisc. 2009) (vague claims of inventory issues being raised at
+meeting and “mere receipt of reports insufficient to establish scienter…”). With respect to Ms.
+Lawton, CW #1, and the PAC do not offer any evidence that Ms. Lawton inaccurately recounted
+what she was told by the FDA inspector following the May 2009 inspection. Nor do such
+allegations explain how these allegedly circulated FDA inspection updates contradicted anything
+Ms. Lawson said at the time.
+Finally, the fact that “management” received updates on FDA inspections is wholly
+consistent and supportive of this Court’s holding of a strong “inference of a nonculpable
+explanation for the defendants’ actions.” Order at 21. The inference is far more likely that, if
+such update reports existed, they accurately recounted the results of the inspections, the
+Company’s interaction with the inspectors, and outlined the Company’s efforts to address any
+issues, consistently with the Individual Defendants’ public statements at the time.
+
+-8-
+
+Case 1:09-cv-11267-GAO Document 106 Filed 05/11/12 Page 13 of 20
+
+(b)
+
+The New Confidential Witness Statements Do Not Remotely
+Establish Scienter Against Mr. Termeer.
+
+Plaintiffs’ new confidential witness statements also attempt specific claims against Mr.
+Termeer. First, CW #6 was a secretary for various officials for fifteen years at the Allston plant.
+See PAC at iii. According to CW #6, “everything that happened at Allston was reported to
+Termeer.” Id. ¶ 47; see also id. ¶ 91. Such hyperbole is self-evidently unreliable. Plaintiffs
+provide no basis to explain how CW #6, who worked at a different location and did not work for
+or report to Mr. Termeer, could somehow be situated to know what reports Mr. Termeer actually
+received about Allston. See In re Cabletron, 311 F.3d at 30-31. More importantly, the
+statements by CW #6 on their face fail to explain what specific information was reported to Mr.
+Termeer, or how that information would have informed Mr. Termeer that something he said
+during the class period was false. This type of generalized statement of an all-knowing CEO is
+not only unbelievable, but routinely rejected by courts. See e.g., Heywood v. Cell Therapeutics,
+Inc., No. C05-0396 RSM, 2006 WL 5701625, at *5 (W.D. Wash. May 4, 2006) (confidential
+witness’s “generalized and speculative statements” that CEO “knew everything” about
+company’s drug trial does not meet particularity requirement).
+Next, CW #7 alleges that Mr. Termeer attended all FDA inspection closeout meetings.
+See PAC ¶ 47. CW #7, however, left Genzyme in 2006, two years before the first relevant FDA
+inspection and thus could have no personal knowledge of Mr. Termeer’s attendance at any
+inspection meetings relating to Allston during the class period. See PAC at iii. Without personal
+knowledge (or even a basis for hearsay), CW #7’s assertions about Mr. Termeer are simply
+unreliable. See In re Alkermes Sec. Litig., No. Civ.A. 03-12091-RCL, 2005 WL 2848341, at
+*15, n.12 (D. Mass. Oct. 6, 2005) (based on allegations of confidential witness that was not
+employed during time of incident, “it is questionable whether the Plaintiffs’ allegations met the
+-9-
+
+Case 1:09-cv-11267-GAO Document 106 Filed 05/11/12 Page 14 of 20
+
+requisite particularity requirements.”). Mr. Termeer’s attendance at a FDA inspection closeout
+meeting does not create an inference of scienter, much less a strong one. Moreover, Plaintiffs do
+not provide the requisite particularity to establish that even if Mr. Termeer did attend such
+meetings that the information he received would have been inconsistent with anything he said
+during the class period.
+Neither of these new confidential witnesses provide any new basis for the Court to find
+that Mr. Termeer had the requisite state of mind when he made any of the statements attributed
+to him during the class period. Accordingly, a Rule 59(e) motion for relief from judgment in
+favor of Mr. Termeer should also be denied.
+II.
+
+PLAINTIFFS’ PROPOSED AMENDED COMPLAINT FAILS TO STATE A
+SECTION 10(b) CLAIM AGAINST ANY OF THE INDIVIDUAL DEFENDANTS
+AND SHOULD BE DENIED AS FUTILE.
+In addition to seeking to vacate the Court’s March 30 Order under Rule 59(e), Plaintiffs
+
+also seek leave to amend the Complaint. Because judgment has been entered, Plaintiffs must
+meet a far heavier burden. First, they must satisfy the “manifest error” test of Rule 59 (e), which
+they cannot do in this case. That burden is not eased, as the Plaintiffs inaccurately imply, by the
+fact that this pleading exercise relates to a motion to amend the Complaint. The test of 59(e)
+remains unchanged and here represents an obstacle to any amendment. See Fannon v. Guidant
+Corp., 583 F.3d 995, 1002-03 (7th Cir. 2009). However, even if judgment had not entered, the
+plaintiffs would not be able to escape the utter futility of their proposed amendment. While
+amendments are generally liberally allowed, a motion for leave to amend should be denied when
+amendment would be futile. See Foman v. Davis, 371 U.S. 178, 182 (1962). “Futility means
+that the complaint, as amended, would fail to state a claim upon which relief could be granted.”
+Glassman v. Computervision Corp., 90 F.3d 617, 623 (1st Cir. 1996).
+
+-10-
+
+Case 1:09-cv-11267-GAO Document 106 Filed 05/11/12 Page 15 of 20
+
+A.
+
+The PAC Does Not Remedy the Lack of Scienter.
+
+As explained earlier, the PAC does not overcome the bases for the Court’s March 30
+scienter holding. Moreover, while not addressed by the Court’s March 30 Order, Plaintiffs’ PAC
+cannot account for the absence of any motive on the part of the Individual Defendants to engage
+in the fraudulent scheme that Plaintiffs claim occurred here. For example, not a single Individual
+Defendant is alleged to have made any unusual sales of Genzyme stock during the class period.
+See Contrast Greebel v. FTP Software, Inc., 194 F.3d 185, 197-98 (1st Cir. 1999). The absence
+of motive strengthens the inference of no scienter against all Individual Defendants. See Janbay
+v. Canadian Solar, Inc., No. 10 Civ. 4430(RWS), 2012 WL 1080306, at *11 (S.D.N.Y. Mar. 30,
+2012) (“Where a complaint fails to allege motive, the strength of the circumstantial allegations of
+conscious misbehavior or recklessness must be correspondingly greater.”) (internal quotations
+omitted). Without any evidence of improper motive, Plaintiffs’ PAC cannot withstand greater
+scienter scrutiny.
+B.
+
+Plaintiffs Fail to Cure the Other Deficiencies Identified in the Individual
+Defendants’ Motion to Dismiss.
+1.
+
+The PAC Impermissibly Relies on the Group Pleading Doctrine.
+
+Beyond scienter, the PAC still contains the range of defects identified in the Individual
+Defendants’ Motion to Dismiss. Most notably, Plaintiffs continue to rely on the doctrine of
+group pleading against some of the Individual Defendants. Not only was group pleading
+impermissible when the Individual Defendants filed their Motion to Dismiss, see Memorandum
+in Support of Individual Defendants’ Motion to Dismiss (Dkt. No. 66) at 3-5, the doctrine has
+since lost further legitimacy following the Supreme Court’s decision in Janus Capital Grp., Inc.
+v. First Derivative Traders, ---U.S.---, 131 S.Ct. 2296, 180 L.Ed.2d 166 (2011). In this decision,
+the Supreme Court held that an investment advisor was not liable for misstatements regarding a
+
+-11-
+
+Case 1:09-cv-11267-GAO Document 106 Filed 05/11/12 Page 16 of 20
+
+mutual fund that were contained in the investment advisor’s prospectus because the mutual fund
+retained “ultimate authority” over the content of the prospectus. See 131 S.Ct. at 2302. Since
+this decision, courts have questioned the continued vitality of the group pleading doctrine. See
+e.g., Orlan v. Spongetech Delivery Sys., Inc., Sec. Litig., Nos. 10–CV–4093 (DLI)(JMA), 10–
+CV–4104 (DLI)(JMA), 2012 WL 1067975, at *10 (E.D.N.Y. Mar. 29, 2012) (“While the group
+pleading doctrine apparently was ‘alive and well’ in this circuit prior to Janus, it is uncertain
+whether it survived .”); In re Optimal U.S. Litig., --- F. Supp. 2d ---, 2011 WL 642988, at *11
+(S.D.N.Y. Dec. 21, 2011) (noting that “Janus calls into question the viability of the group
+pleading doctrine for federal securities law claims”).
+2.
+
+Plaintiffs Cannot Plead Section 20(a) Control Person Liability for
+Any of the Individual Defendants.
+
+The PAC also includes the same deficient control-person-liability pleading against the
+Individual Defendants. To state a claim for control person liability under Section 20(a), a
+plaintiff must show: “(i) an underlying violation of the same chapter of the securities law by the
+controlled entity … and (ii) control of the primary violator by the defendant.” In re Stone &
+Webster, Inc. Sec. Litig., 414 F.3d 187, 194 (1st Cir. 2005). Although unresolved by the First
+Circuit, other courts also require that a plaintiff establish “that the controlling person was in
+some meaningful sense a culpable participant in the alleged fraud perpetrated by the controlled
+person.” Solow v. Citigroup, Inc., --- F. Supp. 2d ---, 2011 WL 5869599, at *10 (S.D.N.Y. Nov.
+22, 2011). For the same reasons outlined in the Memorandum in Support of Individual
+Defendants’ Motion to Dismiss, Plaintiffs’ PAC falls far short of adequately pleading control
+person liability against the Individual Defendants. See Dkt. No. 66, at 20-30.
+
+-12-
+
+Case 1:09-cv-11267-GAO Document 106 Filed 05/11/12 Page 17 of 20
+
+C.
+
+Plaintiffs Eliminate the Only Actionable Statement by Dr. Meeker, so
+Amendment Would be Futile for Any Claims Against Him.
+
+In an unsuccessful attempt to streamline the allegations, Plaintiffs reduced the class
+period by a year, moving the start of the class from October 2007 to October 2008. But in doing
+so, Plaintiffs eliminated from the class period the only alleged actionable statement by Dr.
+Meeker - an October 2007 statement that Lumizyme approval was “expected to come in the first
+quarter of next year.” Comp. ¶ 217. It is axiomatic that there can be no §10(b) liability without
+a material misrepresentation or omission. See Stone & Webster, 414 F. 3d at 193 (citing Dura
+Pharm. Inc. v. Broudo, 544 U.S. 336, 341-42 (2005)). Without one, any §10(b) claim would fail
+against Dr. Meeker, so this amendment against him is beyond futile.
+Plaintiffs may claim that Dr. Meeker is liable under §10(b) for his silence while others
+made alleged misstatements, or under a theory of group pleading. Neither provides a basis for
+liability against Dr. Meeker. As explained in the Reply Memorandum in Support of the
+Individual Defendants’ Motion to Dismiss, securities law cannot support a claim of individual
+liability for failing to correct the statements of others, especially when that party is not alleged to
+have made any statement. See Dkt. No. 73, at 10-13. Liability for silence is inconsistent with
+the language of Rule 10b-5 that states it is unlawful “to make any untrue statement of a material
+fact or to omit to state a material fact necessary in order to make the statement made … not
+misleading.” 17 C.F.R. § 240.10b-5 (emphasis added); see also SEC v. Tambone, 597 F.3d 436,
+447-48 (1st Cir. 2010).
+Similarly, as noted above, group pleading cannot be the basis for liability against Dr.
+Meeker. See supra, at 11-12; see also Dkt. No. 66, at 3-4. Here, Plaintiffs’ PAC contains no
+allegations connecting Dr. Meeker to any of the specific published statements made by the
+
+-13-
+
+Case 1:09-cv-11267-GAO Document 106 Filed 05/11/12 Page 18 of 20
+
+Company identified in the PAC. Accordingly, there is no conceivable basis upon which he could
+be liable for any alleged misstatements or omissions in the Company’s public filings or press
+releases.
+Lastly, the PAC fails to plead control person liability against Dr. Meeker. The PAC is
+particularly devoid of the required specificity to plausibly infer control by Dr. Meeker. Plaintiffs
+rely almost exclusively on his title as Executive Vice President. See Wells v. Monarch Capital
+Corp., No. 91-10575-MA, 1991 WL 354938, at *12 (D. Mass. Aug. 23, 1991) (the court noted
+company officers “titles alone … without more specific allegation are insufficient to state a claim
+under § 20(a)”). Besides this, Plaintiffs regurgitate formulaic and conclusory allegations of
+control by Dr. Meeker. See PAC ¶ 232. “However, a plaintiff cannot simply base a control
+person claim on boilerplate allegations; instead, the plaintiff must provide some factual support
+which indicates the control person defendant was in a position to control a primary violator.” In
+re ArthroCare Corp. Sec. Litig., 726 F. Supp. 2d 696, 730 (W.D. Tex. 2010).
+CONCLUSION
+For the foregoing reasons, Plaintiffs’ motion for relief from the Court’s final judgment
+and for leave to amend the Complaint should be denied.
+
+-14-
+
+Case 1:09-cv-11267-GAO Document 106 Filed 05/11/12 Page 19 of 20
+
+Respectfully submitted,
+MARK R. BAMFORTH, ALISON
+LAWTON, GEOFFREY MCDONOUGH,
+DAVID P. MEEKER, HENRI A. TERMEER
+AND MICHAEL S. WYZGA
+By their attorneys
+
+/s/ Michael T. Marcucci
+John D. Hanify, BBO# 219880
+Michael T. Marcucci, BBO# 652186
+JONES DAY
+100 High Street
+Boston, MA 02110-1781
+Telephone: (617) 960-3939
+Facsimile: (617) 449-6999
+mmarcucci@jonesday.com
+Counsel for Individual Defendants
+
+Dated: May 11, 2012
+
+-15-
+
+Case 1:09-cv-11267-GAO Document 106 Filed 05/11/12 Page 20 of 20
+
+CERTIFICATE OF SERVICE
+I certify that the foregoing document was filed this 11th day of May 2012 through the
+Court’s CM/ECF system, which will serve a copy upon counsel of record listed in the Notice of
+Electronic Filing. I am not aware at this time of counsel of record who require paper copies.
+
+/s/ Michael T. Marcucci
+Michael T. Marcucci
+
+

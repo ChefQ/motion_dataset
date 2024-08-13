@@ -1,0 +1,1574 @@
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 1 of 29
+
+CHAD. A READLER
+1 Acting Assistant Attorney General
+2 WILLIAM C. PEACHEY
+Director, District Court Section
+3 COLIN A. KISOR
+Deputy Director
+4 ELIANIS N. PEREZ
+Assistant Director
+5 MONIQUE T. PEOPLES
+6 Senior Litigation Counsel
+CARA E. ALSTERBERG
+7 MATTHEW P. SEAMON
+JULIAN KURZ
+8 MARY L. LARAKERS
+THEO NICKERSON
+9
+Trial Attorneys
+10 Office of Immigration Litigation
+Civil Division, United States Department of Justice
+11 P.O. Box 868, Ben Franklin Station
+Washington, DC 20044
+12 Telephone: (202) 532-4667
+Facsimile: (202) 305-7000
+13
+E-mail: Cara.E.Alsterberg@usdoj.gov
+14
+Counsel for Defendants
+15
+UNITED STATES DISTRICT COURT
+NORTHERN DISTRICT OF CALIFORNIA
+16
+SAN FRANCISCO DIVISION
+17
+ESTEBAN ALEMAN GONZALEZ and JOSE )
+18 EDUARDO GUTIERREZ SANCHEZ,
+)
+) No. 3:18-CV-1869-JSC
+19
+Plaintiffs,
+)
+) DEFENDANTS’ OPPOSITION TO
+20
+v.
+) PLAINTIFFS’ MOTION FOR CLASS
+) CERTIFICATION
+21 JEFFERSON B. SESSIONS, et al.,
+)
+Defendants.
+22
+)
+23
+24
+25
+26
+27
+28
+
+DEFENDANTS’ OPPOSITION TO PLAINTIFFS’ MOTION FOR CLASS CERTIFICATION
+3:18-CV-1869-JSC
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 2 of 29
+
+1
+
+TABLE OF CONTENTS
+
+2
+3
+
+I.
+
+4
+
+LEGAL BACKGROUND ...................................................................................................2
+
+5
+
+A. THE LEGAL STANDARD FOR REINSTATEMENT, THE RESONABLE FEAR
+DETERMINATION PROCESS, AND WITHOLDING-ONLY PROCEEDINGS ......2
+
+6
+
+B. SUPREME COURT AND NINTH CIRCUIT LAW ON BOND HEARINGS ............5
+
+7
+
+C. CLASS CERTIFICATION REQUIRMENTS ..............................................................6
+
+8
+II.
+
+FACTUAL BACKGOUND.................................................................................................7
+
+9
+A. Esteban Aleman Gonzalez .............................................................................................7
+
+10
+
+B. Jose Eduardo Gutierrez Sanchez ....................................................................................8
+
+11
+12
+
+III.
+
+13
+
+ARGUMENT .......................................................................................................................9
+A. The Putative Class Fails to Satisfy the Commonality Requirement of Rule 23(a)(2)
+and Typicality Requirement of 23(a)(3). .....................................................................11
+
+14
+
+1. Plaintiffs Have Failed to Meet the Commonality Requirement
+of Rule 23(a)(2)................................................................................................13
+
+15
+16
+
+2. Plaintiffs Have Failed to Meet the Typicality
+Requirement of Rule 23(a)(3) ..........................................................................16
+
+17
+18
+
+B. The Named Plaintiffs Will Not Fairly and Adequately Protect Class Interests Pursuant
+to Rule 23(a)(4) ............................................................................................................19
+
+19
+
+C. The Court Lacks Jurisdiction to Order Bond for the Putative Class Members on Due
+Process Grounds...........................................................................................................20
+
+20
+21
+22
+
+IV.
+
+CONCLUSION ..................................................................................................................21
+
+23 CERTIFICATE OF SERVICE
+24
+25
+26
+27
+28
+
+i
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 3 of 29
+
+TABLE OF AUTHORTIES
+
+1
+2
+
+Cases
+
+3 Amchem Prods., Inc. v. Windsor,
+521 U.S. 591 (1997) ...................................................................................................................19
+4
+Califano v. Yamasaki,
+5
+442 U.S. 682 (1979) .....................................................................................................................6
+6 Casas-Castrillon v. DHS,
+535 F.3d 942 (9th Cir. 2008) .......................................................................................................5
+7
+Clark v. Martinez,
+8
+543 U.S. 371 (2005) ...................................................................................................................14
+9 Comcast Corp. v. Behrend,
+569 U.S. 27 (2013) .......................................................................................................................6
+10
+Crawford v. Honig,
+11
+37 F.3d 485 (9th Cir. 1995) .......................................................................................................19
+12 Diouf v. Napolitano,
+634 F.3d 1081 (9th Cir. 2011) .................................................................................................5, 6
+13
+Ellis v. Costco Wholesale Corp.,
+14
+657 F.3d .....................................................................................................................................19
+15 Franklin v. Barry,
+909 F. Supp. 21 (D.D.C. 1995) ....................................................................................................7
+16
+Gen. Tel. Co. v. Falcon,
+17
+457 U.S. 147 (1982) .....................................................................................................................7
+18 General Tel. Co. v. EEOC,
+446 U.S. 318 (1980) ...................................................................................................................10
+19
+Hanlon v. Chrysler Corp.,
+20
+150 F.3d 1011 (9th Cir. 1998) ...................................................................................................19
+21 Hartman v. Duffey,
+19 F.3d 1459 (D.C. Cir. 1994) .....................................................................................................7
+22
+Hernandez v. Ashcroft,
+23
+345 F.3d 824 (9th Cir. 2003) .......................................................................................................3
+24 In re Google AdWords Litigation,
+No. 5:08– CV–3369 EJD, 2012 WL 28068 (N.D. Cal. Jan. 5, 2012)........................................11
+25
+26
+27
+28
+
+ii
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 4 of 29
+
+1
+
+In re Lorazepam & Clorazepate Antitrust Litig.,
+202 F.R.D. 12 (D.D.C. 2001).....................................................................................................12
+
+2 Jama v. ICE,
+543 U.S. 335 (2005) .....................................................................................................................3
+3
+Jennings v. Rodriguez,
+4
+138 S. Ct. 830 (2018) ..................................................................................................... 1, passim
+5 Kas v. Financial General Bankshares, Inc.,
+105 F.R.D. 453 (D.D.C. 1984)...................................................................................................12
+6
+Lanza v. Ashcroft,
+7
+389 F.3d 917 (9th Cir. 2004) .................................................................................................4, 15
+8 Little v. Washington Metro. Area Transit Auth.,
+No. CV 14-1289 (RMC), 2017 WL 1403122 (D.D.C. Apr. 18, 2017)......................................12
+9
+Matter of I-S- & C-S-,
+10
+24 I. & N. Dec. 432 (BIA 2008) ..................................................................................................4
+11 McCarthy v. Kleindienst,
+741 F.2d 1406 (D.C. Cir. 1984) ...................................................................................................7
+12
+McReynolds v. Sodexho Marriott Services, Inc.,
+13
+208 F.R.D. 428 (D.D.C. 2002)...................................................................................................19
+14 Miller,
+335 F.3d .......................................................................................................................................6
+15
+Padilla-Ramirez v. Bible,
+16
+882 F.3d 826 (9th Cir. 2017) ...............................................................................................10, 13
+17 Ramos v. Sessions,
+No. 3:18-CV-413, 2018 WL 1317276 (N.D. Cal. Mar. 13, 2018) ..............................................5
+18
+Reno v. Am.- Arab Anti-Discrimination Comm.,
+19
+525 U.S. 471 (1999) ...................................................................................................................20
+20 Rodriguez v. Hayes,
+591 F.3d 1105 (9th Cir. 2010) ...................................................................................................20
+21
+Rodriguez v. Robbins,
+22
+804 F.3d 1060 (9th Cir. 2015) .....................................................................................................5
+23 Siles v. ILGWU,
+783 F.2d 923 (9th Cir. 1986) .....................................................................................................10
+24
+Taylor v. D.C. Water & Sewer Auth.,
+25
+241 F.R.D. 33 (D.D.C. 2007).....................................................................................................19
+26
+27
+28
+
+iii
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 5 of 29
+
+1
+
+Wal–Mart Stores, Inc. v. Dukes,
+564 U.S. 338 (2011) ..................................................................................................... 11, passim
+
+2 Zadvydas v. Davis,
+533 U.S. 678 (2001) ....................................................................................................... 6, passim
+3
+Zinser v. Accufix Research Inst., Inc.,
+4
+253 F.3d 1180 (9th Cir. 2001) .....................................................................................................7
+5
+
+FEDERAL STATUES
+
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+
+8 U.S.C. § 1182 ..............................................................................................................................13
+8 U.S.C § 1228(b) ..........................................................................................................................10
+8 U.S.C. §1229a(c)(7) ....................................................................................................................10
+8 U.S.C. § 1231(a)(1)(A) ...............................................................................................................13
+8 U.S.C. § 1231(a)(5)...........................................................................................................1, 4, 8, 9
+8 U.S.C. § 1231(a)(6).......................................................................................................1, 5, 10, 21
+8 U.S.C. § 1231(b)(2)(E) ...........................................................................................................4, 15
+8 U.S.C. § 1231(b)(3) ..................................................................................................................3, 4
+8 U.S.C. § 1231(b)(3)(b) ..................................................................................................................3
+8 U.S.C. § 1231(b)(5) ......................................................................................................................4
+8 U.S.C. § 1252(f)(1) .....................................................................................................1, 11, 20, 21
+FEDERAL REGULATIONS
+
+19 8 C.F.R. § 208.17(a).........................................................................................................................3
+20 8 C.F.R. § 208.31(a).........................................................................................................................3
+21 8 C.F.R. § 208.31(b) ........................................................................................................................3
+22 8 C.F.R. § 208.31(e).........................................................................................................................3
+23 8 C.F.R. § 208.31(f) .........................................................................................................................3
+24 8 C.F.R. § 208.31(g)(1)..............................................................................................................3, 15
+25 8 C.F.R. § 208.31(g)(2)....................................................................................................................4
+26
+27
+28
+
+iv
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 6 of 29
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+8 C.F.R. § 1208.16(c).......................................................................................................................3
+8 C.F.R. § 1208.16(f) ...........................................................................................................4, 15, 16
+8 C.F.R. § 1208.2(c)(3)(i) ................................................................................................................4
+FEDERAL RULES OF CIVIL PROCEUDRE
+Fed. R. Civ. P. 23 .........................................................................................................................1, 9
+Fed. R. Civ. P. 23(a) ........................................................................................................................6
+Fed. R. Civ. P. 23(a)(2) ..................................................................................................................11
+Fed. R. Civ. P. 23(a)(3) ..................................................................................................................11
+Fed. R. Civ. P. 23(a)(4) ..................................................................................................................19
+Fed. R. Civ. P. 23(b)(2)............................................................................................................11, 12
+
+11
+12
+
+PUBLIC LAW
+
+13
+14
+15
+
+Pub. L. No. 105-227.........................................................................................................................3
+Pub. L. No. 107-296 § 471...............................................................................................................2
+
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+v
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 7 of 29
+
+1
+
+This case involves Plaintiffs’ attempt to challenge both their permissible detention and denial
+
+2 of bond hearings pursuant to 8 U.S.C. § 1231(a)(6). This Court should deny Plaintiffs’ Motion for
+3 Class Certification because Plaintiffs’ fail to meet their burden by demonstrating both the
+4 commonality and typicality requirements under Fed. R. Civ. P. 23. Under Plaintiffs’ definition, their
+5 sweeping proposed class encompasses a broad range of dissimilarly situated individuals whose claims
+6 are not common, whose injuries are not typical, and who have different factual bases for their claims.
+7 ECF 21 at 10; Compl. ¶ 30. Further, the members of the proposed class would be impossible to
+8 discern because Plaintiffs do not, and cannot, demonstrate who will be a part of the proposed class in
+9 the future. Thus, even if Plaintiffs were to prevail in this action, it would be unclear as to which class
+10 members would be entitled to relief. The named Plaintiffs are also inadequate representatives of the
+11 class proposed in the Motion because of the factual differences that distinguish Plaintiffs’ claims.
+12 Additionally, Plaintiffs cannot satisfy Rule 23(b)(2) because this Court lacks jurisdiction to grant relief
+13 on Plaintiffs’ constitutional claims on a classwide basis pursuant to 8 U.S.C. § 1252(f)(1). See
+14 generally Jennings v. Rodriguez, 138 S. Ct. 830, 851 (2018). When a court lacks jurisdiction to grant
+15 classwide injunctive relief, it may not certify a class pursuant to Rule 23(b)(2) (even if the court holds
+16 jurisdiction to grant classwide declaratory relief). Id.
+17
+
+Ultimately, this lawsuit is a poor class action vehicle. Certification will do nothing more than
+
+18 undermine the judicial efficacy concerns the class action device is meant to facilitate. Congress made
+19 clear that for an individual subject to a reinstated order of removal, detention authority lies under § 1231.
+20 Therefore, the Court should deny Plaintiffs’ motion to certify a class in its entirety.
+21
+
+I.
+
+LEGAL BACKROUND
+
+22 A. THE LEGAL STANDARD FOR REINSTATEMENT, THE REASONABLE FEAR
+DETERMINATION PROCESS, AND WITHHOLDING-ONLY PROCEEDINGS
+23
+24
+
+Under 8 U.S.C. § 1231(a)(5), the United States Department of Homeland Security (“DHS”) may
+
+25 reinstate a prior order of removal for an alien it finds “reentered the United States illegally after having been
+26
+27
+28
+
+DEFENDANTS’ OPPOSITION TO PLAINTIFFS’ MOTION FOR CLASS CERTIFICATION
+3:18-CV-1869-JSC
+
+2 / 24
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 8 of 29
+
+1 removed or having departed voluntarily, under an order of removal.” 1 Id. When DHS reinstates a removal
+2 order, the “prior order of removal is reinstated from its original date and is not subject to being reopened or
+3 reviewed.” Id.
+4
+
+If the alien subject to a reinstated order of removal expresses fear of persecution or torture upon
+
+5 return to his home country, the immigration officer refers the alien to U.S. Citizenship and Immigration
+6 Services (“USCIS”) for an interview by an asylum officer to determine whether the alien establishes a
+7 “reasonable fear” of return. 8 C.F.R. § 208.31(b). This initiates what is referred to as the reasonable fear
+8 determination process. See Regulations Concerning the Convention Against Torture, 64 Fed. Reg. 8478,
+9 8479 (Feb. 19, 1999) (“[T]his screening process will also allow for the fair and expeditious resolution of
+10 such claims without unduly disrupting the streamlined removal processes applicable to these aliens[.]”).
+11 USCIS has exclusive jurisdiction to make a reasonable fear determination. 8 C.F.R. § 208.31(a). If the
+12 asylum officer determines that the alien has not established a reasonable fear, the alien may request review
+13 of that determination by an Immigration Judge (“IJ”). 8 C.F.R. § 208.31(f). If the IJ concurs with the
+14 determination that no reasonable fear of persecution or torture exists, the case is returned to DHS for
+15 execution of the reinstated order of removal, and no administrative appeal is available.
+
+8 C.F.R.
+
+16 § 208.31(g)(1). If, on the other hand, the asylum officer determines that the alien has established a
+17 reasonable fear of persecution or torture, the alien is referred to the IJ for consideration of withhold in g
+18 of removal only. 2 8 C.F.R. § 208.31(e).
+19
+
+1
+
+Although the relevant statutory sections refer to the Attorney General, the Homeland of Security Act
+20 of 2002, Pub. L. No. 107-296 § 471, 116 Stat. 2135 (2002), transferred most immigration law
+enforcement functions from the Department of Justice (“DOJ”) to the DHS, while the DOJ’s Executive
+21 Office of Immigration Review (“EOIR”) retained its role in administering immigration courts and the
+Board. Jama v. ICE, 543 U.S. 335, 338 n.1 (2005); Hernandez v. Ashcroft, 345 F.3d 824, 828 n.2 (9th
+22 Cir. 2003).
+2
+
+The alien may apply for withholding of removal under 8 U.S.C. § 1231(b)(3) or under the regulations
+promulgated under § 2242(b) of the Foreign Affairs Reform and Restructuring Act of 1998 (“FARRA”),
+24 Pub. L. No. 105-227, 112 Stat. 2681, which implement the United States’ obligations under the
+Convention Against Torture (“CAT”). 8 C.F.R. § 1208.16(c). An alien who is barred from withhold in g
+25
+23
+
+26
+27
+28
+
+DEFENDANTS’ OPPOSITION TO PLAINTIFFS’ MOTION FOR CLASS CERTIFICATION
+3:18-CV-1869-JSC
+
+3 / 24
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 9 of 29
+
+1
+
+Likewise, if an alien requests review of an asylum officer’s determination that the alien does not
+
+2 have a reasonable fear of persecution or torture and the IJ finds that the alien does have a reasonable
+3 fear, the alien may apply for withholding of removal before the immigration court.
+4 208.31(g)(2).
+
+8 C.F.R. §
+
+The subsequent proceedings are commonly referred to as “withholding- only
+
+5 proceedings,” because the jurisdiction of the IJ is limited to consideration of withholding of removal. 8
+6 C.F.R. § 1208.2(c)(3)(i) (“The scope of review in [withholding-only] proceedings . . . shall be limited
+7 to a determination of whether the alien is eligible for withholding or deferral of removal.”). Indeed,
+8 during withholding-only proceedings, “all parties are prohibited from raising or considering any other
+9 issues, including but not limited to issues of admissibility, deportability, eligibility for waivers, and
+10 eligibility for any other form of relief.” Id.
+11
+
+Withholding of removal is country-specific relief from physical removal; thus, even if an alien
+
+12 ultimately succeeds on his withholding claim, he could potentially be removed to an alternate country.
+13 8 U.S.C. § 1231(b)(2)(E); 8 C.F.R. § 1208.16(f); Lanza v. Ashcroft, 389 F.3d 917, 933 (9th Cir. 2004)
+14 (stating that a grant of withholding “only prohibits removal of the petitioner to the country of risk, but
+15 does not prohibit removal to a non-risk country”). A grant of withholding of removal by the IJ, therefore,
+16 does nothing to disturb the existence or finality of a final order of removal. 8 U.S.C. § 1231(b)(5); see
+17 also Matter of I-S- & C-S-, 24 I. & N. Dec. 432, 433 (BIA 2008). Additionally, in withholding- only
+18 proceedings, an alien who is granted protection from removal to a specific country is ineligible to apply
+19 for any other form of relief under the INA, including asylum and adjustment of status. 8 U.S.C. §
+20 1231(a)(5) (providing that an alien subject to reinstatement “is not eligible and may not apply for any relief
+21 under [the INA]”); see also Lanza, 389 F.3d at 933 (stating that a grant of withholding is not a basis for
+22 adjustment to lawful permanent resident status and only prohibits removal to the country of risk).
+23 Consequently, the alien remains subject to a final order of removal, and DHS is simply restricted from
+24
+
+of removal under 8 U.S.C. § 1231(b)(3)(b) may apply for deferral of removal under the CAT. 8 C.F.R.
+25 § 208.17(a).
+26
+27
+28
+
+DEFENDANTS’ OPPOSITION TO PLAINTIFFS’ MOTION FOR CLASS CERTIFICATION
+3:18-CV-1869-JSC
+
+4 / 24
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 10 of 29
+
+1 removing the alien to the designated country of removal at that time. 8 U.S.C. § 1231(b)(3); see also Matter
+2 of I-S-, 24 I. & N. Dec. at 434 (“We note in this regard that a grant of withholding of removal . . . does not
+3 afford the respondents any permanent right to remain in the United States.”).
+4 B. SUPREME COURT AND NINTH CIRCUIT LAW ON BOND HEARINGS
+5
+
+In Diouf v. Napolitano, the Ninth Circuit held that “prolonged detention under § 1231(a)(6),
+
+6 without adequate procedural protections, would raise ‘serious constitutional concerns.’” 634 F.3d 1081,
+7 1086 (9th Cir. 2011) (quoting Casas-Castrillon v. DHS, 535 F.3d 942, 950 (9th Cir. 2008)). “To address
+8 those concerns,” the court “appl[ied] the canon of constitutional avoidance and construe[d] § 1231(a)(6)
+9 as requiring an individualized bond hearing, before an immigration judge, for aliens facing prolonged
+10 detention under that provision.” Id. As Defendants argue in their Response to Plaintiffs’ Motion for
+11 Preliminary Injunction, Diouf is clearly irreconcilable with the Supreme Court’s recent decision in
+12 Jennings v. Rodriguez, 138 S. Ct. 830 (2018). See generally Resp. to Mot. for Prelim. Inj., ECF 27.
+Jennings reversed the Ninth Circuit’s judgment in Rodriguez v. Robbins, 804 F.3d 1060 (9th Cir.
+
+13
+
+14 2015), which, as to § 1226(a) detainees, explicitly applied the Ninth Circuit’s prior holding in Casas15 Castrillon v. DHS, 535 F.3d 942 (9th Cir. 2008). In Diouf, the Ninth Circuit “extended the procedural
+16 protections established in Casas to individuals detained under § 1231(a)(6).” See Rodriguez, 804 F.3d
+17 at 1068–69. Because Jennings reversed a judgment that explicitly applied the holding in Casas, and
+18 because Diouf explicitly “extended” Casas, Jennings and Diouf are clearly irreconcilable. 3 Although
+19 Jennings indeed distinguished §§ 1225(b)(1) and (b)(2) from § 1231(a)(6), it did not do so with respect
+20 to the relevant issue — whether § 1231(a)(6) can plausibly be construed to require periodic bond
+21 hearings. 4
+22
+
+3
+
+In a string of post-Jennings decisions, district courts in the Ninth Circuit have mistakenly held that
+Diouf “remains good law.” E.g., Ramos v. Sessions, No. 3:18-CV-413, 2018 WL 1317276, at *3 (N.D.
+23
+Cal. Mar. 13, 2018). Those decisions emphasize that Jennings “expressly contrast[ed] . . . sections 1225
+24 and 1226 with . . . section 1231(a)(6).” Id.
+4 8 U.S.C. § 1231(a)(6) delineates the scenarios where an inadmissible or criminal alien may be detained
+25 beyond the removal period.
+26
+27
+28
+
+DEFENDANTS’ OPPOSITION TO PLAINTIFFS’ MOTION FOR CLASS CERTIFICATION
+3:18-CV-1869-JSC
+
+5 / 24
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 11 of 29
+
+1
+
+Jennings also distinguished §§ 1225(b)(1) and (b)(2) from § 1231(a)(6) with respect to whether
+
+2 those statutes can plausibly be interpreted to limit the permissible length of detention. 138 S. Ct. at 843–
+3 44. As Jennings noted, §§ 1225(b)(1) and (b)(2) unambiguously mandate that aliens within their scope
+4 “shall” be detained, whereas § 1231(a)(6) ambiguously provides that post-removal-order aliens “may
+5 be detained.” Id. at 844. Thus, whereas §§ 1225(b)(1) and (b)(2) cannot plausibly be construed to limit
+6 the permissible length of detention, “Congress left the permissible length of detention under § 1231(a)(6)
+7 unclear.” Id. (emphasis added).
+8
+
+The fact that Jennings distinguished §§ 1225(b)(1) and (b)(2) from § 1231(a)(6) on the
+
+9 permissible-length-of-detention issue does not diminish the fact that Jennings and Diouf are clearly
+10 irreconcilable on the issue of bond hearings. Under Jennings’s reasoning, § 1231(a)(6) cannot plausibly
+11 be construed to require periodic bond hearings. See id. at 842 (finding that the Ninth Circuit misapplied
+12 the canon of constitutional avoidance and impermissibly read into the statutes a continuing obligatio n
+13 for bond hearings). Because Diouf held to the contrary, it is clearly irreconcilable with Jennings. The
+14 Court “should consider [itself] bound by the intervening higher authority.” Miller, 335 F.3d at 900; see
+15 Zadvydas v. Davis, 533 U.S. 678, 701 (2001) (providing a mechanism for review of custody
+16 determinations and holding that § 1231(a)(6) continues to authorize detention “until it has been
+17 determined that there is no significant likelihood of removal in the reasonably foreseeable future.”).
+18 C. CLASS CERTIFICATION REQUIREMENTS
+19
+
+“The class action is ‘an exception to the usual rule that litigation is conducted by and on behalf
+
+20 of the individual named parties only.’” Comcast Corp. v. Behrend, 569 U.S. 27, 33 (2013) (quoting
+21 Califano v. Yamasaki, 442 U.S. 682, 700-01 (1979)). To fall within the exception, Plaintiffs “must
+22 affirmatively demonstrate [their] compliance” with Rule 23 of the Federal Rules of Civil Procedure.
+23 Wal–Mart Stores, Inc. v. Dukes, 564 U.S. 338, 350 (2011). A party seeking certification of a proposed
+24 class bears the burden to demonstrate that the required elements set forth in Rule 23(a) exist, includin g
+25 that: (1) there are sufficiently numerous parties (“numerosity”); (2) there are questions of law or fact
+26
+27
+28
+
+DEFENDANTS’ OPPOSITION TO PLAINTIFFS’ MOTION FOR CLASS CERTIFICATION
+3:18-CV-1869-JSC
+
+6 / 24
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 12 of 29
+
+1 common to the class (“commonality”); (3) the claims or defenses of the named plaintiffs are typical of
+2 claims or defenses of the class (“typicality”); and (4) the named plaintiffs will fairly and adequately
+3 protect the interests of the class (“adequacy of representation”). See Fed. R. Civ. P. 23(a). In addition
+4 to meeting the requirements set forth in Rule 23(a), the proposed class must also qualify under Rule
+5 23(b)(1), (2), or (3). See Hartman v. Duffey, 19 F.3d 1459, 1468 (D.C. Cir. 1994); Franklin v. Barry,
+6 909 F. Supp. 21, 30 (D.D.C. 1995); see also Zinser v. Accufix Research Inst., Inc., 253 F.3d 1180, 1186
+7 (9th Cir. 2001).
+The proponents of a class action have the burden of proof as to each of Rule 23’s requirements.
+
+8
+
+9 See McCarthy v. Kleindienst, 741 F.2d 1406, 1414 n.9 (D.C. Cir. 1984). The Supreme Court has held
+10 that “actual, not presumed, conformance with Rule 23(a) [is] indispensable.” Gen. Tel. Co. v. Falcon,
+11 457 U.S. 147, 160 (1982). If a court is not fully satisfied, the class cannot be certified. Id. “While the
+12 trial court has broad discretion to certify a class, its discretion must be exercised within the framework
+13 of Rule 23.” Zinser, 253 F.3d at 1186. When reviewing a motion for class certification, it “‘may be
+14 necessary for the court to probe behind the pleadings before coming to rest on the certification question,’
+15 and that certification is proper only if ‘the trial court is satisfied, after a rigorous analysis, that the
+16 prerequisites of Rule 23(a) have been satisfied.’” Wal–Mart Stores, Inc., 564 U.S. at 350 (quoting
+17 Falcon, 457 U.S. at 160-161).
+18
+
+II.
+
+19
+
+A. Esteban Aleman Gonzalez
+
+20
+21
+22
+23
+24
+
+FACTUAL BACKGROUND
+
+Plaintiff Esteban Aleman Gonzalez is a native and citizen of Mexico. Compl. ¶ 11. In April
+2000, he applied for admission to the United States. Notice and Order of Expedited Removal (Apr. 14,
+2000), ECF 27, Ex. A. In doing so, he presented an entry document that belonged to another person.
+Id.
+
+An immigration officer found that Aleman Gonzalez was inadmissible under 8 U.S.C.
+
+§ 1182(a)(6)(C)(i) because he had sought to procure admission by fraud or by willfully misrepresenting
+
+25
+26
+27
+28
+
+DEFENDANTS’ OPPOSITION TO PLAINTIFFS’ MOTION FOR CLASS CERTIFICATION
+3:18-CV-1869-JSC
+
+7 / 24
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 13 of 29
+
+1 a material fact. Id. Immigration officers issued an Expedited Removal Order and then removed Aleman
+2 Gonzalez. Id.
+3
+
+On an unknown date, Aleman Gonzalez unlawfully reentered the United States. Notice of
+
+4 Intent/Decision to Reinstate Prior Order (Aug. 18, 2017), ECF 27, Ex. B. In August 2017, immigratio n
+5 officers arrested him and determined that he was “removable as an alien who ha[d] illegally reentered
+6 the United States after having been previously removed.” Id. (citing 8 U.S.C. § 1231(a)(5)). Aleman
+7 Gonzalez declined to contest the finding that he was removable. Id. An immigration officer reinstated
+8 Aleman Gonzalez’s April 2000 removal order. Id.
+9
+
+While in custody, Aleman Gonzalez expressed a fear that he would persecuted or tortured if ICE
+
+10 removed him to Mexico. See Notice of Referral to Immigration Judge (Aug. 30, 2017) ¶ 6, ECF 27, Ex.
+11 C. An asylum officer interviewed Aleman Gonzalez, determined that he reasonably feared persecution
+12 or torture, and then referred him to an immigration judge for “withholding-only” proceedings. Id.; see
+13 8 C.F.R. §§ 208.31(e), 241.8(e).
+14
+
+In withholding-only proceedings, Aleman Gonzalez moved for a bond hearing.
+
+See
+
+15 Memorandum Decision of the Immigration Judge (Mar. 23, 2018), ECF 27, Ex. D. An immigratio n
+16 judge denied the motion for lack of jurisdiction. Id. The immigration judge has scheduled a July 9,
+17 2018 hearing on the merits of Aleman Gonzalez’s withholding-of-removal claim.
+
+Notice of
+
+18 Withholding-Only Hearing (Mar. 28, 2018), ECF 27, Ex. E.
+19
+
+On February 26, 2018, an ICE officer reviewed Aleman Gonzalez’s custody status. Decision to
+
+20 Continue Detention (Feb. 26, 2018), ECF 27, Ex. F. The officer determined that Aleman Gonzalez
+21 should remain in custody “pending disposition of [his] Withholding Only proceedings.” Id. ICE will
+22 review Aleman Gonzalez’s custody status again on August 26, 2018. Id.
+23
+24
+
+B. Jose Eduardo Gutierrez Sanchez
+Plaintiff Jose Eduardo Gutierrez Sanchez is a native and citizen of Mexico. Compl. ¶ 12. In
+
+25 May 2009, he unlawfully entered the United States. Notice and Order of Expedited Removal (May 19,
+26
+27
+28
+
+DEFENDANTS’ OPPOSITION TO PLAINTIFFS’ MOTION FOR CLASS CERTIFICATION
+3:18-CV-1869-JSC
+
+8 / 24
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 14 of 29
+
+1 2009), ECF 27, Ex. G. Shortly thereafter, immigration officers arrested him and charged him as
+2 inadmissible under 8 U.S.C. § 1182(a)(7)(A)(i)(I).
+
+Id. Immigration officers issued an Expedited
+
+3 Removal Order and then removed Gutierrez Sanchez. Id.
+4
+
+On an unknown date, Gutierrez Sanchez unlawfully reentered the United States. Notice of
+
+5 Intent/Decision to Reinstate Prior Order (Sept. 26, 2017), ECF 27, Ex. H. On September 26, 2017,
+6 immigration officers arrested him and determined that he was “removable as an alien who ha[d] illegally
+7 reentered the United States after having been previously removed.” Id. (citing 8 U.S.C. § 1231(a)(5)).
+8 Gutierrez Sanchez declined to contest the finding that he was removable. Id. An immigration officer
+9 Gutierrez Sanchez’s May 2009 removal order. Id.
+10
+
+While in custody, Gutierrez Sanchez expressed a fear that he would persecuted or tortured if ICE
+
+11 removed him to Mexico. See Notice of Referral to Immigration Judge (Oct. 3, 2017) ¶ 6, ECF 27, Ex.
+12 I. An asylum officer interviewed him, determined that he reasonably feared persecution or torture, and
+13 then referred him to an immigration judge for “withholding-only” proceedings. Id.; see 8 C.F.R. §§
+14 208.31(e), 241.8(e).
+15
+
+In withholding-only proceedings, Gutierrez Sanchez moved for a bond hearing. See Order of
+
+16 the Immigration Judge (Apr. 4, 2018), ECF 27, Ex. J. The immigration judge denied the motion for lack
+17 of jurisdiction.
+
+Id. The judge has scheduled a June 18, 2018 hearing on the merits of Gutierrez
+
+18 Sanchez’s withholding-of-removal claim. Notice of Withholding-Only Hearing (April 19, 2018), ECF
+19 27, Ex. K.
+20
+
+On December 19, 2017, an ICE officer reviewed Gutierrez Sanchez’s custody status. Decision
+
+21 to Continue Detention (Dec. 19, 2017), ECF 27, Ex. L. The officer determined that Gutierrez Sanchez
+22 should remain in custody “pending disposition of [his] Withholding Only proceedings.” Id. ICE will
+23 review Gutierrez Sanchez’s custody status again on June 19, 2018. Id.
+24
+25
+26
+27
+28
+
+DEFENDANTS’ OPPOSITION TO PLAINTIFFS’ MOTION FOR CLASS CERTIFICATION
+3:18-CV-1869-JSC
+
+9 / 24
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 15 of 29
+
+1
+
+III.
+
+2
+
+ARGUMENT
+
+This Court should deny Plaintiffs’ Motion for Class Certification because Plaintiffs’ fail to meet
+
+3 their burden by showing the existence of the commonality and typicality requirements under Fed. R.
+4 Civ. P. 23. Under Plaintiffs’ definition, their sweeping proposed class encompasses a broad range of
+5 dissimilarly situated individuals whose claims are not common, whose injuries are not typical, and who
+6 have different factual bases for their claims. Plaintiffs’ proposed class definition states:
+7
+All individuals who are detained pursuant to 8 U.S.C. § 1231(a)(6) in the Ninth Circuit
+by, or pursuant to the authority of, the U.S. Immigration and Customs Enforcement, and
+who have reached or will reach six months in detention, and have been or will be denied
+a prolonged detention bond hearing before an Immigration Judge.
+
+8
+9
+10
+
+5
+11 ECF 21 at 10. Thus, Plaintiffs’ proposed class encompasses individuals: (1) detained pursuant to
+
+12 Section 1231(a)(6) who have been issued administrative final removal orders pursuant to 8 U.S.C §
+13 1228(b); (2) who are awaiting judicial review of the Board’s denial of a motion to reopen removal
+14 proceedings, see 8 U.S.C. §1229a(c)(7); and (3) who have been issued a judicial stay of removal under
+15 Padilla-Ramirez, 882 F.3d 881, 882 (9th Cir. 2017), amended and superseded, 882 F.3d 826, 830-32
+16 (9th Cir. 2018) (individuals with pending petitions for review in withholding-only proceedings with
+6
+17 stays).
+
+18
+19
+
+5
+
+21
+
+6
+
+Plaintiffs’ note in their proposed class definition that the certified classes in the Central District of
+California and Western District of Washington are excluded from the putative class proposed in this
+20 case. ECF 21 at 10, n.3.
+
+22
+23
+24
+25
+26
+27
+28
+
+To the extent that Plaintiffs’ proposed class meets the requirements for numerosity, this is solely due
+to the fact that Plaintiffs’ proposed class definition is overbroad. Plaintiffs fail to meet their burden to
+show numerosity because bare allegations and vague declaratory evidence are insufficient. Siles v.
+ILGWU, 783 F.2d 923, 930 (9th Cir. 1986) (holding plaintiff failed to satisfy numerosity because,
+despite presenting evidence that thousands of employees were covered by the benefit plan at issue, she
+did not provide specific facts as to how many were actually harmed by the application of the benefit
+plan); accord General Tel. Co. v. EEOC, 446 U.S. 318 (1980) (numerosity is determined by examining
+the specific facts and circumstances of each case).
+
+DEFENDANTS’ OPPOSITION TO PLAINTIFFS’ MOTION FOR CLASS CERTIFICATION
+3:18-CV-1869-JSC
+
+10 / 24
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 16 of 29
+
+1
+
+Further, the members of the proposed class would be impossible to discern because Plaintiffs do
+
+2 not, and cannot, demonstrate who will be a part of the proposed class in the future. Thus, even if
+3 Plaintiffs were to prevail in this action, it would be unclear as to which class members would be entitled
+4 to relief. The named Plaintiffs are also inadequate representatives of the class proposed in the Motion
+5 because of the factual differences that distinguish Plaintiffs’ claims. Finally, Plaintiffs cannot satisfy
+6 Rule 23(b)(2) because this Court lacks jurisdiction to grant relief on Plaintiffs’ constitutional claims on
+7 a classwide basis pursuant to 8 U.S.C. § 1252(f)(1). Therefore, the Court should deny Plaintiffs’ motion
+8 to certify a class.
+9
+10
+
+A.
+
+The Putative Class Fails to Satisfy the Commonality Requirement of Rule 23(a)(2) and
+Typicality Requirement of 23(a)(3).
+
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Plaintiffs do not establish commonality and typicality in their proposed class definition, where
+the putative class is broadly drawn and brings within its ambit differing factual circumstances and
+differing legal claims. Fed. R. Civ. P. 23(a)(2), (3). To obtain class certification, Plaintiffs must
+demonstrate that the proposed class members are entitled to common relief. See Fed. R. Civ. P. 23(a)(2),
+(b)(2). To establish commonality, the Supreme Court has repeatedly held that “[i]t is not the raising of
+common ‘questions’ – even in droves – but, rather the capacity of a classwide proceeding to generate
+common answers apt to drive the resolution of the litigation.” Wal-Mart Stores, Inc., 564 U.S. at 350
+(citation omitted). “Dissimilarities within the proposed class are what have the potential to impede the
+generation of common answers.” Id. (citation omitted).
+This requirement is likewise present in Rule 23(b)(2), which requires that “final injunctive relief
+or corresponding declaratory relief is appropriate respecting the class as a whole.” For certification
+under Rule 23(b)(2), Plaintiffs must show that “declaratory relief is available to the class as a whole”
+and that the challenged conduct is “such that it can be enjoined or declared unlawful only as to all of the
+class members or as to none of them.” Wal-Mart Stores, Inc., 564 U.S. at 360. Therefore, Plaintiffs
+DEFENDANTS’ OPPOSITION TO PLAINTIFFS’ MOTION FOR CLASS CERTIFICATION
+3:18-CV-1869-JSC
+
+11 / 24
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 17 of 29
+
+1 have the burden of demonstrating that the factual differences in the class are unlikely to bear on the
+2 individual’s entitlement to relief. See In re Google AdWords Litigation, No. 5:08– CV–3369 EJD, 2012
+3 WL 28068 *15-16 (N.D. Cal. Jan. 5, 2012) (“The question of which advertisers among the hundreds of
+4 thousands of proposed class members are even entitled to restitution would require individ ua l
+5 inquiries.”). If the factual differences have the likelihood of changing the outcome of the legal issue,
+6 then class certification may not be appropriate.
+7
+
+The typicality requirement of Rule 23(a)(3) ensures that the interests of the named representative
+
+8 align with the interests of the class. 7
+
+As long as the claims “resemble or exhibit the essential
+
+9 characteristics of those of the representatives,” Rule 23(a)(3) will be satisfied. Kas v. Financial General
+10 Bankshares, Inc., 105 F.R.D. 453, 461 (D.D.C. 1984). The typicality requirement is not met, however,
+11 if the proposed class representatives are subject to unique defenses. Id. At bottom, the typicality
+12 requirement is used to ascertain “whether the action can be efficiently maintained as a class and whether
+13 the named plaintiffs have incentives that align with those of the absent class members so as to assure
+14 that the absentees’ interests will be fairly represented.” In re Lorazepam & Clorazepate Antitrust Litig.,
+15 202 F.R.D. 12, 27 (D.D.C. 2001) (citations omitted).
+16
+
+Rule 23(a)’s commonality and typicality requirements occasionally merge: “[b]oth serve as
+
+17 guideposts for determining whether under the particular circumstances maintenance of a class action is
+18 economical and whether the named plaintiff’s claim and the class claims are so interrelated that the
+19 interests of the class members will be fairly and adequately protected in their absence.” Wal-Mart, Inc.,
+20
+7
+
+The typicality requirement is likewise present in Rule 23(b)(2). Under Rule 23(b)(2), Plaintiffs must
+21 demonstrate that Defendants have “acted or refused to act on grounds that apply generally to the class,
+so that final injunctive relief or corresponding declaratory relief is appropriate respecting the class as a
+22 whole.” Fed. R. Civ. P. 23(b)(2). For certification under Rule 23(b)(2), Plaintiffs must show that
+23 “declaratory relief is appropriate respecting the class as a whole” and that the challenged conduct is
+“such that it can be enjoined or declared unlawful only as to all of the class members or as to none of
+24 them.” Wal-Mart Stores, Inc., 564 U.S. at 360. Therefore, Plaintiffs have the burden of demonstrating
+that the factual differences within the class are unlikely to bear on an individual’s entitlement to relief.
+25
+26
+27
+28
+
+DEFENDANTS’ OPPOSITION TO PLAINTIFFS’ MOTION FOR CLASS CERTIFICATION
+3:18-CV-1869-JSC
+
+12 / 24
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 18 of 29
+
+1 131 S. Ct. at 2551 n.5 (quoting Falcon, 457 U.S. at 157-58, n. 13); see also Little v. Washington Metro.
+2 Area Transit Auth., No. CV 14-1289 (RMC), 2017 WL 1403122, at *17 (D.D.C. Apr. 18, 2017).
+3
+
+1. Plaintiffs Have Failed to Meet the Commonality Requirement of Rule 23(a)(2).
+
+4
+
+In their Motion for Class Certification, Plaintiffs’ proposed class lacks commonality because the
+
+5 proffered class definition encompasses a broad range of individuals with different factual bases for their
+6 claims, including diverse groups of aliens whose legal and factual interests differ considerably from
+7 each other and from those of the proposed class representatives.
+8
+
+Section 1231(a) authorizes ICE to detain aliens who, like the named Plaintiffs, are in
+
+9 withholding-only proceedings. Padilla-Ramirez v. Bible, 882 F.3d 826, 832 (9th Cir. 2017). It provides
+10 that “when an alien is ordered removed, the [Secretary of Homeland Security] shall remove the alien
+11 from the United States within a period of 90 days.” 8 U.S.C. § 1231(a)(1)(A). During the 90-day
+12 “removal period,” the Secretary “shall detain the alien.” Id. § 1231(a)(2). Once the removal period
+13 ends, the Secretary “may” continue to detain certain aliens, including ones who are inadmissible under
+14 8 U.S.C. § 1182. Id. § 1231(a)(6) (emphasis added).
+15
+
+Plaintiffs concede that § 1231(a)(6) authorizes the detention of their putative class. Compl. ¶
+
+16 29. They claim that their detention without a bond hearing violates the INA, the APA, and the Due
+17 Process Clause of the U.S. Constitution. Compl. ¶¶ 61-72. However, Plaintiffs’ proposed class does
+18 not present common legal and factual issues on this question. In Zadvydas v. Davis, the Supreme Court
+19 held that § 1231(a)(6) does not authorize the Government to detain an alien indefinitely. 533 U.S. 678,
+20 688–702 (2001).
+
+The Court detected ambiguity in the statutory phrase “may be detained,” and
+
+21 accordingly applied the canon of constitutional avoidance to limit the length of post-removal-perio d
+22 detention. Id. at 689. Specifically, the Court construed § 1231(a)(6) to mean that an alien who has been
+23 ordered removed may not be detained beyond “a period reasonably necessary to bring about that alien’s
+24 removal from the United States.” Id. The Court additionally held that six months is a presumptively
+25 reasonable period and that, after six months, § 1231(a)(6) continues to authorize detention “until it has
+26
+27
+28
+
+DEFENDANTS’ OPPOSITION TO PLAINTIFFS’ MOTION FOR CLASS CERTIFICATION
+3:18-CV-1869-JSC
+
+13 / 24
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 19 of 29
+
+1 been determined that there is no significant likelihood of removal in the reasonably foreseeable future.”
+2 Id. at 701.
+3
+
+Plaintiffs claim that the continued detention and denial of bond hearings for the named Plaintiffs
+
+4 and proposed class members violates the Due Process Clause. Compl. ¶¶ 70-72. However, this legal
+5 claim requires an individualized and fact-specific analysis that cannot be conducted on a classwide basis.
+6 In Zadvydas, the Supreme Court established the framework under which courts must resolve due process
+7 challenges to § 1231(a)(6) detention. 533 U.S. 678 (2001). In resolving such a challenge, a court may
+8 not reach the due process issue, but instead must construe § 1231(a)(6) to limit the length of permissible
+9 detention to “a period reasonably necessary to secure removal” from the United States. Id. at 699. Under
+10 Zadvydas’s construction of § 1231(a)(6), post-removal-order detention does not even “raise a serious
+11 constitutional problem,” let alone violate the Due Process Clause, until (1) the length of an alien’s
+12 detention exceeds the presumptively reasonable six-month period, and (2) the alien demonstrates that
+13 he is not significantly likely to be removed in the reasonably foreseeable future. Id. at 690, 701.
+14
+
+Courts must interpret § 1231(a)(6) in accordance with Zadvydas (i.e., in a manner that does not
+
+15 violate the Due Process Clause), irrespective of the “presence or absence of constitutional concerns in
+16 [an] individual case.” Clark v. Martinez, 543 U.S. 371, 382 (2005). A contrary approach would render
+17 § 1231(a)(6) “a chameleon, its meaning subject to change.” Id. Because the same statutory text cannot
+18 properly be given “different meanings in different cases,” courts must uniformly apply Zadvydas’
+19 construction of § 1231(a)(6) “in all cases.” Id. at 383, 386.
+20
+
+Thus, under Zadvydas’s construction of § 1231(a)(6), the detention of named Plaintiffs and their
+
+21 putative class does not raise a serious constitutional problem, let alone violate the Due Process Clause,
+22 unless they can show that they are not significantly likely to be removed in the reasonably foreseeable
+23 future. Zadvydas, 533 U.S. at 701. This is a detail-specific analysis that necessarily requires a factual
+24 assessment of, among other things, the likelihood that individuals will prevail on their requests for relief
+25 from removal and, for those in withholding-only proceedings, whether there are alternative countries to
+26
+27
+28
+
+DEFENDANTS’ OPPOSITION TO PLAINTIFFS’ MOTION FOR CLASS CERTIFICATION
+3:18-CV-1869-JSC
+
+14 / 24
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 20 of 29
+
+1 which they could be removed. 8 C.F.R. §1208.16(f). Under this analysis, Plaintiffs’ proposed class is
+2 impermissibly broad because it is impossible to accurately assess whether putative class members are
+3 likely to be removed in the reasonably foreseeable future on a classwide basis. Plaintiffs’ proposed class
+4 falsely assumes that there is not a significant likelihood of removal in the reasonably foreseeable future.
+5
+
+Plaintiffs’ putative class is overly broad because the class includes different groups of individua ls
+
+6 who have widely divergent likelihoods of removal in the reasonably foreseeable future. Even among
+7 the subset of class members who—like the named Plaintiffs—are in withholding-only proceedings,
+8 these aliens face different likelihoods of removal based on the relative merits of their underlying claims
+9 for withholding or deferral of removal. The merits of such claims necessarily depends on various
+10 factors, including the strength of their claim to fear of persecution or torture, conditions in the country
+11 of removal, and whether the United States regularly removes individuals to their country of origin. It is
+12 impossible to assess all of these factors on a classwide basis, making it impossible to assess whether
+13 these individuals are significantly likely to be removed in the reasonably foreseeable future.
+14
+
+Moreover, the proposed class lacks commonality because it includes not just individuals who
+
+15 have been deemed to have a “reasonable fear” of return to their home country, but also individuals whom
+16 an asylum officer determined did not to have a “reasonable fear” of return. For those individuals who
+17 receive a negative “reasonable fear” determination, the likelihood of removal in the foreseeable future
+18 is necessarily greater than it is for individuals who have already met their initial burden to demonstrate
+19 a reasonable fear of removal. This is because individuals who receive a negative reasonable fear
+20 determination, though they may seek review of that determination by an immigration judge, will be
+21 immediately removed to their country of origin if the judge concurs with the asylum officer’s
+22 determination. 8 C.F.R. § 208.31(g)(1) (stating that “[n]o appeal shall lie from the immigration judge’s
+23 decision”). Moreover, withholding of removal is country-specific relief from physical removal. 8 U.S.C.
+24 § 1231(b)(2)(E); 8 C.F.R. § 1208.16(f). Therefore, even individuals who receive a positive reasonable
+25 fear determination, are placed in withholding-only proceedings, and ultimately succeed on their
+26
+27
+28
+
+DEFENDANTS’ OPPOSITION TO PLAINTIFFS’ MOTION FOR CLASS CERTIFICATION
+3:18-CV-1869-JSC
+
+15 / 24
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 21 of 29
+
+1 withholding claim could still potentially be removed to an alternate country. Lanza v. Ashcroft, 389
+2 F.3d 917, 933 (9th Cir. 2004) (stating that a grant of withholding “only prohibits removal of the
+3 petitioner to the country of risk, but does not prohibit removal to a non-risk country”). For many—
+4 though certainly not all— aliens in Plaintiffs’ putative class, there may be third countries to whom these
+5 individuals may be removed, irrespective of the outcome of their applications for relief in withhold ing6 only proceedings. See 8 C.F.R. § 1208.16(f).
+7
+
+Furthermore, as Plaintiffs concede, their putative class is not limited to the already broad and
+
+8 diverse group of detained individuals with reinstated removal orders who are in withholding- only
+9 proceedings. Their proposed class includes not only individuals with reinstated removal orders who are
+10 detained pursuant to § 1231(a)(6), but also individuals “who have been issued administratively final
+11 removal orders pursuant to 8 U.S.C. § 1228(b), as well as individuals who are awaiting judicial review
+12 of the BIA’s denial of a motion to reopen removal proceedings, see 8 U.S.C. § 1229a(c)(7), and who
+13 have been issued a judicial stay of removal.” Compl. ¶ 30. These groups of individuals, although
+14 detained under the same section as aliens with reinstated removal orders, § 1231(a)(6), are not similarly
+15 situated to individuals in withholding-only proceedings. They present substantively different legal
+16 claims challenging their final removal orders, are potentially seeking different forms of relief in their
+17 removal proceedings beyond the narrow relief available in withholding-only proceedings, and therefore
+18 may be considerably more or less likely to be removed in the reasonably foreseeable future. For these
+19 reasons, these members of Plaintiffs’ proposed class present substantively different constitutional claims
+20 with respect to their ongoing detention.
+21
+
+2. Plaintiffs Have Failed to Meet the Typicality Requirement of Rule 23(a)(3).
+
+22
+
+Plaintiffs’ proposed class lacks commonality for the same reasons it lacks typicality: the
+
+23 proffered class definition includes groups of aliens whose legal and factual interests differ from those of
+24 the proposed class representatives. Plaintiffs’ sweeping proposed class encompasses a broad range of
+25 individuals with different factual bases for their claims to relief from removal, different likelihoods of
+26
+27
+28
+
+DEFENDANTS’ OPPOSITION TO PLAINTIFFS’ MOTION FOR CLASS CERTIFICATION
+3:18-CV-1869-JSC
+
+16 / 24
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 22 of 29
+
+1 removal in the reasonably foreseeable future, and, therefore, substantively different constitutional claims
+2 challenging the propriety of their continued detention without a bond hearing. The Complaint states
+3 that the proposed class consists mostly of individuals who “were previously removed from the United
+4 States and have since returned because they feared persecution or torture in their home country” and
+5 have been referred for withholding-only proceedings. Compl. ¶ 2. Yet, Plaintiffs move this Court to
+6 certify a class that includes potentially hundreds of individuals who, unlike both of the named Plaintiffs,
+7 are not in withholding-only proceedings. See ECF 21 at 2. Most notably, the proposed class broadly
+8 includes individuals “who have been issued administratively final removal orders pursuant to 8 U.S.C.
+9 § 1228(b), as well as individuals who are awaiting judicial review of the BIA’s denial of a motion to
+10 reopen removal proceedings, see 8 U.S.C. § 1229a(c)(7), and who have been issued a judicial stay of
+11 removal.” Compl. ¶ 30. Nonetheless, Plaintiffs insist that “variations in the nature of class members’
+12 underlying proceedings [. . .] are irrelevant, because they are all deprived of their liberty under the same
+13 statute[.]” ECF 21 at 13.
+14
+
+Contrary to Plaintiffs’ assertions, the factual variations in individual cases are exactly why
+
+15 typicality cannot be established in this case. As discussed with respect to commonality, supra, due
+16 process challenges to ongoing § 1231(a)(6) detention must be resolved under the framework laid out in
+17 Zadvydas v. Davis. 533 U.S. 678. In resolving such challenges, a court may not reach the due process
+18 issue, but instead must construe § 1231(a)(6) to limit the length of permissible detention to “a period
+19 reasonably necessary to secure removal” from the United States. Id. at 699. Under this construction of
+20 § 1231(a)(6), post-removal-order detention does not even “raise a serious constitutional problem,” let
+21 alone violate the Due Process Clause, unless the alien demonstrates that he is not significantly likely to
+22 be removed in the reasonably foreseeable future. Id. at 690, 701. This requires an individualized and
+23 fact-specific analysis, and therefore, contrary to Plaintiffs’ assertions, the “variations in the nature of
+24 class members’ underlying proceedings,” ECF 21 at 13, significantly impact the merits of their
+25 constitutional claims.
+26
+27
+28
+
+DEFENDANTS’ OPPOSITION TO PLAINTIFFS’ MOTION FOR CLASS CERTIFICATION
+3:18-CV-1869-JSC
+
+17 / 24
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 23 of 29
+
+1
+
+Both named Plaintiffs in this case are natives and citizens of Mexico who were previously
+
+2 removed from the United States, subsequently illegally reentered in clear and flagrant violation of
+3 United States law, and have been placed in withholding-only proceedings to pursue the limited relief
+4 available to them in that setting. Additionally, other putative class members may have received negative
+5 reasonable fear assessments and therefore are even less likely to ultimately prevail on their claims for
+6 relief from removal. Moreover, while the United States regularly removes individuals to Mexico,8 other
+7 class members may be from countries to which the Government rarely removes individua ls.
+8 Furthermore, other putative class members may never have been previously removed from the United
+9 States and may be pursuing completely different forms of relief that are statutorily unavailable to
+10 individuals in withholding-only proceedings. All of these factors significantly impact the likelihood
+11 that individuals detained under § 1231(a)(6) will be removed in the reasonably foreseeable future.
+Therefore, the two named Plaintiffs’ claims are not typical of these individuals, who otherwise
+
+12
+
+13 might be swept into the broad and nebulous class definition. The difficulty in determining whether there
+14 is a common legal question or answer to which these types of individuals would be subject is
+15 compounded by the fact that Plaintiffs’ overbroad class definition does not, indeed cannot, define the
+16 numerous reasons that individuals find themselves detained pursuant to § 1231(a)(6). There is no
+17 common answer that could drive the resolution of the separate and distinct claims in this scenario. Wal18 Mart Stores, Inc., 564 U.S. at 350. Some putative class members may have strong constitutional claims
+19 challenging their detention pursuant to the analysis under Zadvydas, but others may not. Ultimately,
+20 Plaintiffs simply cannot satisfy their burden to show that every putative class member’s claims will be
+21 reasonably coextensive with those of the named Plaintiffs in a way that establishes typicality for the
+22 purposes of Rule 23(a)(3). Accordingly, the Court should deny Plaintiffs’ motion for class certification.
+23
+24
+
+8
+
+In Fiscal Year 2016, ICE removed 149,821 individuals to Mexico. See ICE, Fiscal Year 2016 ICE
+Enforcement and Removal Operations Report 16, https://www.ice.gov/sites/default/files/
+25 documents/Report/2016/removal-stats-2016.pdf (last visited May 1, 2018).
+26
+27
+28
+
+DEFENDANTS’ OPPOSITION TO PLAINTIFFS’ MOTION FOR CLASS CERTIFICATION
+3:18-CV-1869-JSC
+
+18 / 24
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 24 of 29
+
+1
+
+B. The Named Plaintiffs Will Not Fairly and Adequately Protect Class Interests Pursuant
+to Rule 23(a)(4).
+
+2
+
+Pursuant to Rule 23(a)(4), the named Plaintiffs must fairly and adequately protect the interests
+
+3 of other members of the class. Fed. R. Civ. P. 23(a)(4). To determine whether named Plaintiffs will
+4 adequately represent a class, courts must resolve two questions: (1) whether the named Plaintiffs and
+5 their counsel have any conflicts of interest with other class members; and (2) whether the named
+6 Plaintiffs and their counsel will prosecute the action vigorously on behalf of the class. Taylor v. D.C.
+7 Water & Sewer Auth., 241 F.R.D. 33, 45 (D.D.C. 2007) (citing McReynolds v. Sodexho Marriott
+8 Services, Inc., 208 F.R.D. 428, 446 (D.D.C. 2002); Ellis, 657 F.3d at 985 (citing Hanlon v. Chrysler
+9 Corp., 150 F.3d 1011, 1020 (9th Cir. 1998)). Adequate representation depends on the qualifications of
+10 counsel for the representatives, an absence of antagonism, a sharing of interests between representatives
+11 and absentees, and the unlikelihood that the suit is collusive.” Crawford v. Honig, 37 F.3d 485, 487 (9th
+12 Cir. 1995). Ultimately, the adequacy requirement “serves to uncover conflicts of interest between the
+13 named plaintiffs and the class they seek to represent,” Amchem Prods., Inc. v. Windsor, 521 U.S. 591,
+14 594 (1997), and often “merge[s] . . . with the commonality and typicality criteria of Rule 23(a), which
+15 serve as guideposts for determining whether maintenance of a class action is economical and whether
+16 the named plaintiff’s claim and the class claims are so interrelated that the interests of the class members
+17 will be fairly and adequately protected in their absence.” Id. at 626 n.20.
+18
+
+Here, the named Plaintiffs are inadequate representatives for the same reasons they fail to satisfy
+
+19 typicality and commonality. First, as both named Plaintiffs await determination on their withhold in g
+20 claims, it is undetermined whether named Plaintiffs would even be adequate to represent each other.
+21 Articulating the standards that govern Rule 23(a)(4), the Supreme Court explained that “a class
+22 representative must be part of the class and possess the same interest and suffer the same injury as the
+23 class members.” Amchem Prods., 521 U.S. at 625-26. If Sanchez or Aleman Gonzalez receive differing
+24 results from their applications for withholding of removal and relief under CAT, the likelihood of their
+25 removal differs. Compl. ¶¶ 41, 49.
+26
+27
+28
+
+DEFENDANTS’ OPPOSITION TO PLAINTIFFS’ MOTION FOR CLASS CERTIFICATION
+3:18-CV-1869-JSC
+
+19 / 24
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 25 of 29
+
+1
+
+As detailed above, the named Plaintiffs do not possess either the same interests or injuries as the
+
+2 putative class. For example, the named Plaintiffs cannot represent the interests of potential putative
+3 class members who have already been denied or granted withholding-only relief. In addition, both
+4 named Plaintiffs are detained as they have re-entered the United States illegally. ECF 27, Ex. B, Ex. H.
+5 Therefore, the named Plaintiffs cannot represent the interests of putative class members who do not have
+6 reinstated removal orders, but are detained pursuant to § 1231(a)(6).
+
+Ultimately, the factual
+
+7 circumstances surrounding the named Plaintiffs are distinct from the other class members they would
+8 represent.
+9
+
+Additionally, there is no claim in Plaintiffs’ Complaint or discussion in Plaintiffs’ Motion for
+
+10 Class Certification asking this Court to create subclasses, or indicating which named Plaintiffs could
+11 represent the interests of a particular subclass. See generally ECF 21. Because it fails to define
+12 subclasses or otherwise specify which plaintiffs may be capable of representing individuals with distinct
+13 legal issues within Plaintiffs’ broadly defined putative class, this Court should deny Plaintiffs’ motion
+14 to certify the proposed class in its entirety.
+15
+16
+
+C. The Court Lacks Jurisdiction to Order Bond for the Putative Class Members on Due
+Process Grounds.
+
+17
+
+Finally, Plaintiffs cannot satisfy Rule 23(b)(2) because this Court does not have jurisdiction to
+
+18 grant relief on Plaintiffs’ constitutional claims on a classwide basis. Federal law provides that “no court
+19 (other than the Supreme Court) shall have jurisdiction or authority to enjoin or restrain the operation of
+20 [8 U.S.C. §§ 1221–1232] other than with respect to the application of such provisions to an individ ua l
+21 alien against whom proceedings under such part have been initiated.” 8 U.S.C. § 1252(f)(1). The statute
+22 “prohibits federal courts from granting classwide injunctive relief against the operation of §§ 1221–
+23 1231.” Reno v. Am.- Arab Anti-Discrimination Comm., 525 U.S. 471, 481 (1999).
+24
+
+In Rodriguez v. Hayes, the Ninth Circuit held that § 1252(f)(1) did not affect its jurisdiction over
+
+25 certain statutory claims because the claims did not “seek to enjoin the operation of the immigratio n
+26
+27
+28
+
+DEFENDANTS’ OPPOSITION TO PLAINTIFFS’ MOTION FOR CLASS CERTIFICATION
+3:18-CV-1869-JSC
+
+20 / 24
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 26 of 29
+
+1 detention statutes, but to enjoin conduct . . . not authorized by the statutes.” 591 F.3d 1105, 1120 (9th
+2 Cir. 2010). In reference to this holding, the Supreme Court stated that the Ninth Circuit’s reasoning
+3 “does not seem to apply to an order granting relief on constitutional grounds.” Jennings, 138 S. Ct. at
+4 851. Indeed, § 1252(f)(1) squarely prohibits district courts from ordering bond hearings for a class of
+5 aliens on constitutional grounds.
+6
+
+ICE is currently detaining the putative class members under the authority of 8 U.S.C.
+
+7 § 1231(a)(6). See supra Section A. Thus, if the Court ordered the Government to conduct bond hearings
+8 or to release the putative class members, it would “enjoin or restrain the operation of [§ 1231].” 8 U.S.C.
+9 § 1252(f)(1). Section 1252(f)(1) clearly prohibits the Court from doing so on constitutional grounds.
+10 Accordingly, if the Court determines that the putative class members’ detention violates the Due Process
+11 Clause, it must consider each putative class member’s individual circumstances and grant relief, if at all,
+12 on an individual basis. The Court lacks jurisdiction, on the other hand, to grant classwide injunctive
+13 relief on due process grounds.
+14
+
+When a court lacks jurisdiction to grant classwide injunctive relief, it may not certify a class
+
+15 pursuant to Rule 23(b)(2), even if the court holds jurisdiction to grant classwide declaratory relief.
+16 Jennings, 138 S. Ct. at 851. Rule 23(b)(2) certification is thus proper “only when a single injunction or
+17 declaratory judgment would provide relief to each member of the class.” Id. at 852. As the Supreme
+18 Court recently reiterated, a Rule 23(b)(2) class action litigated on common facts is not an appropriate
+19 way to resolve due process claims. Id. at 852 (“[D]ue process is flexible, we have stressed repeatedly,
+20 and it calls for such procedural protections as the particular situation demands.” (internal quotation
+21 marks omitted)). Accordingly, the Plaintiffs cannot satisfy Rule 23(b)(2) and the Court should deny
+22 Plaintiffs’ motion to certify the proposed class.
+23
+24
+
+IV.
+
+CONCLUSION
+
+This Court should deny Plaintiffs’ Motion for Class Certification because the proposed class
+
+25 definition encompasses a broad range of dissimilarly situated individuals whose claims are not common,
+26
+27
+28
+
+DEFENDANTS’ OPPOSITION TO PLAINTIFFS’ MOTION FOR CLASS CERTIFICATION
+3:18-CV-1869-JSC
+
+21 / 24
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 27 of 29
+
+1 whose injuries are not typical, and who have different factual bases for their claims. Further, the
+2 membership of the proposed class would be impossible to discern because Plaintiffs do not consider the
+3 fact that their ultimate removal or release from custody unquestionably turns on individ ua l
+4 circumstances. Thus, even if Plaintiffs prevail in this action, it would be unclear which members of the
+5 class are entitled to relief. Further, the named Plaintiffs are inadequate representatives of the class
+6 proposed in the Motion, and the Motion does not propose any subclasses or indicate which named
+7 Plaintiff could represent a proposed subclass.
+8 Dated: May 3, 2018
+9
+10
+
+Respectfully Submitted
+CHAD A. READLER
+Acting Assistant Attorney General
+Civil Division
+
+11
+12
+13
+14
+
+WILLIAM C. PEACHEY
+Director
+Office of Immigration Litigation
+COLIN A. KISOR
+Deputy Director
+
+15
+16
+17
+18
+19
+20
+21
+
+ELIANIS N. PEREZ
+Assistant Director
+MONIQUE T. PEOPLES
+Senior Litigation Counsel
+JULIAN KURZ
+MARY L. LARAKERS
+THEO NICKERSON
+MATTHEW P. SEAMON
+Trial Attorneys
+
+22
+23
+24
+25
+26
+27
+28
+
+/s/ Cara E. Alsterberg
+CARA E. ALSTERBERG
+Trial Attorney
+U.S. Department of Justice, Civil Division
+Office of Immigration Litigation –
+DEFENDANTS’ OPPOSITION TO PLAINTIFFS’ MOTION FOR CLASS CERTIFICATION
+3:18-CV-1869-JSC
+
+22 / 24
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 28 of 29
+
+3
+
+District Court Section
+P.O. Box 868, Washington, DC 20044
+Telephone: 202-532-4667
+Facsimile: 202-305-7000
+Cara.E.Alsterberg@usdoj.gov
+
+4
+
+Counsel for Defendants
+
+1
+2
+
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+DEFENDANTS’ OPPOSITION TO PLAINTIFFS’ MOTION FOR CLASS CERTIFICATION
+3:18-CV-1869-JSC
+
+23 / 24
+
+Case 3:18-cv-01869-JSC Document 28 Filed 05/03/18 Page 29 of 29
+
+CERTIFICATE OF SERVICE
+Case No. 3:18-cv-11910
+
+1
+2
+
+I HEREBY CERTIFY that on May 3, 2018, a true copy of the foregoing was filed with the
+Clerk
+of
+the Court using the CM/ECF system which sent notification of such filing via e-mail to the
+3
+following:
+4
+Matthew H. Green, AZ SBN 020827*
+5 Law Offices of Matthew H. Green
+6 130 West Cushing Street
+Tucson, AZ 85701
+7 matt@arizonaimmigration.net
+8 Vasudha Talla, CA SBN 316219
+Julia Mass, CA SBN 189649
+9
+American Civil Liberties Union
+10 Foundation of Northern California
+39 Drumm Street
+11 San Francisco, CA 94111
+jmass@aclunc.org
+12 vtalla@aclunc.org
+13
+
+Michael Kaufman, CA SBN 254575
+14 American Civil Liberties Union
+Foundation of Southern California
+15 1313 West 8th Street
+Los Angeles, CA 90017
+16 mkaufman@aclusocal.org
+17
+
+Bardis Vakili, CA SBN 247783
+18 American Civil Liberties Union Foundation
+of San Diego and Imperial Counties
+19 P.O. Box 87131
+San Diego, CA 92138-7131
+20 bvakili@aclusandiego.org
+21
+22
+23
+24
+25
+26
+27
+28
+
+ATTORNEYS FOR PLAINTIFFS
+/s/ Cara E. Alsterberg
+CARA E. ALSTERBERG
+Trial Attorney
+United States Department of Justice
+ATTORNEY FOR DEFENDANTS
+DEFENDANTS’ OPPOSITION TO PLAINTIFFS’ MOTION FOR CLASS CERTIFICATION
+3:18-CV-1869-JSC
+
+24 / 24
+
+

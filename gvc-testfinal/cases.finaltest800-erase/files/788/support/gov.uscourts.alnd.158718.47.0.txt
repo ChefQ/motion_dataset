@@ -1,0 +1,2501 @@
+FILED
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 1 of 30
+
+2017 Jul-03 PM 03:43
+U.S. DISTRICT COURT
+N.D. OF ALABAMA
+
+1
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF NORTHERN DISTRICT OF ALABAMA
+SOUTHERN DIVISION
+
+2
+3
+4
+5
+6
+7
+
+Civil Action No. 2:16-CV-00694MHH
+
+TOMMY & KATRINA HEARD,
+v.
+
+Plaintiffs,
+
+PLAINTIFFS’ MOTION FOR
+PARTIAL SUMMARY
+JUDGMENT
+
+NATIONSTAR MORTGAGE LLC,
+et al.
+
+Hearing Date: TBD
+Time TBD
+
+Defendants.
+
+8
+9
+
+(Oral Argument Requested)
+
+TO ALL PARTIES AND ATTORNEYS OF RECORD:
+
+10
+11
+
+PLEASE TAKE NOTICE that pursuant to Fed. R. Civ. P. 56 Plaintiffs,
+
+12
+
+Tommy and Katrina Heard (“Plaintiffs”), hereby submit their motion for partial
+
+13
+
+summary judgment against Defendant, Nationstar Mortgage, LLC (“Nationstar”).
+
+14
+
+Plaintiff’s motion will be based on this Notice of Motion, the attached
+
+15
+16
+
+Memorandum of Points and Authorities, the attached Statement of Facts with
+
+17
+
+exhibits, the pleadings and papers on the file herein, and such further argument and
+
+18
+
+evidence as may be presented.
+
+19
+
+DATED this 3rd day of July 2017.
+
+20
+21
+22
+23
+24
+
+/s/ David A. Chami
+David A. Chami (pro hac vice)
+PRICE LAW GROUP, APC
+1204 E. Baseline Road, Suite 102
+Tempe, Arizona 85283
+david@pricelawgroup.com
+
+/s/Joshua C. Snable
+SNABLE LAW FIRM, LLC
+2112 11th Avenue South, Suite 528
+Birmingham, AL 32505
+jsnable@snablelaw.com
+Attorneys for Plaintiffs
+Tommy & Katrina Heard
+
+25
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+i
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 2 of 30
+
+1
+2
+
+TABLE OF CONTENTS
+
+3
+
+Page
+
+4
+
+I.
+
+INTRODUCTION……………………………………………….…………. 1
+
+6
+
+II.
+
+LEGAL STANDARD………………………………………….…………... 2
+
+7
+
+III.
+
+STATEMENT OF FACTS………….……………………………….……... 2
+
+IV.
+
+ARGUMENT.………………………………………….…………………... 5
+
+5
+
+8
+9
+
+A.
+10
+
+Defendant Violated The
+TCPA…………………………………………………………………… 6
+
+11
+
+1. Defendant did not have consent to contact
+Plaintiffs……………………………………………….……………....... 7
+2. Defendant used an ATDS when contacting
+Plaintiffs…………………………………………………..………….…. 8
+3. Defendant willfully and knowingly violated
+TCPA……………………...........................................………………… 13
+4. Defendant’s use of pre-recorded messages is a per se violation of the
+TCPA………………………………..…………………………………..15
+
+12
+13
+14
+15
+16
+17
+
+B.
+
+18
+19
+
+V.
+
+Defendant Violated The
+FCRA……………………………………..…………………………… 16
+CONCLUSION…………………………………………………………… 23
+
+20
+21
+22
+23
+24
+25
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+i
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 3 of 30
+
+1
+2
+3
+
+TABLE OF AUTHORITIES
+Page(s)
+CASES
+
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+Alea London Ltd. v. American Home Services, Inc.,
+638 F.3d 768, 776 (C.A.11 (Ga.),2011).………………………………….. 14
+Anderson v. Liberty Lobby, Inc.,
+477 U.S. 242, 255(1986)……………………..…………………...………... 2
+Celotex Corp. v. Catrett,
+477 U.S. 317, 323 (1986)………...………………………………………… 2
+Gager v. Dell Financial Services LLC,
+727 F.3d 265 (3d Cir. 2013)………………….…………………………….. 7
+Harris v. World Financial Network Nat. Bank,
+867 F.Supp.2d 888, 895 (E.D.Mich.,2012)……………………………….. 14
+Hinkle v. Midland Credit Management, Inc.,
+827 F.3d 1295, 1302 (C.A.11 (Ga.), 2016)……………………….. 17, 18, 19
+Lawrence v. Bayview Loan Servicing, LLC,
+666 Fed.Appx. 875, 879 (C.A.11 (Fla.), 2016)…………………………….. 7
+
+17
+18
+
+Matsushita Elec. Indus. Co. v. Zenith Radio Corp.,
+475 U.S. 574, 586 (1986)……………..……………………………………..2
+
+19
+20
+
+Osorio v. State Farm Bank,
+746 F.3d 1242 (11th Cir. 2014)……………..………………………………. 7
+
+21
+22
+
+Strauss v. CBE Group, Inc.,
+173 F.Supp. 3d 1302, 1310 (S.D. Fla., 2016)……………….……..……… 10
+
+23
+
+FCC DECLARATORY RULINGS
+24
+25
+
+In re Rules and Regulations Implementing the Telephone Consumer Protection Act
+of 1991 (2015 FCC Ruling),
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+ii
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 4 of 30
+
+1
+2
+3
+
+30 FCC Rcd. 7961, 7990…………………………..……………..………… 7
+In the Matter of Rules & Regulations Implementing the Telephone Consumer
+Protection Act of 1991,
+2003 WL 21517853, 18 F.C.C.R. 14014 ¶ 131 (July 3, 2003)…………..… 9
+
+4
+
+6
+
+In the Matter of Rules & Regulations Implementing the Telephone Consumer
+Protection Act of 1991,
+2008 WL 65485, 23 F.C.C.R. 559 ¶ 12 (Jan. 4, 2008)………………..……. 9
+
+7
+
+STATUTES
+
+5
+
+8
+
+47 U.S.C. § 227………………………………………….……1, 7, 9, 13, 15, 16, 23
+
+9
+
+11
+
+15 U.S.C. Sections
+§ 1681s-2(b)……………………………………………………………… 17, 18, 23
+§ 1681s-2(b)(1)(A) ……………………………………………...………………..18
+
+12
+
+RULES
+
+10
+
+13
+
+Fed. R. Civ. P. 56(c)………………………………………………………………. 2
+
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+iii
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 5 of 30
+
+MEMORANDUM OF POINTS AND AUTHORITIES
+
+1
+2
+3
+4
+
+I.
+
+INTRODUCTION
+This matter concerns the unlawful actions of Defendant Nationstar LLC
+
+(“Defendant”) in violation of the Telephone Consumer Protections Act, 47 U.S.C. §
+
+5
+6
+
+227 et seq. (“TCPA”) and the Fair Credit Reporting Act, 15 U.S.C. § 1681 et seq.
+
+7
+
+(“FCRA”). Defendant Nationstar is a “furnisher” of information to consumer
+
+8
+
+reporting agencies under FCRA § 1681s-2. Plaintiffs’ Complaint (Doc. 1) alleges
+
+9
+
+Defendant Nationstar made non-emergency calls without consent using an automatic
+10
+11
+
+telephone dialing system to Plaintiffs’ cell phone, failed to conduct a reasonable
+
+12
+
+investigation of the credit information it was reporting with respect to Plaintiffs,
+
+13
+
+thereby violating its duties as a furnisher under the FCRA. As a result of Defendants
+
+14
+15
+
+actions, Plaintiffs have suffered actual pecuniary losses related to time and expenses
+
+16
+
+in preparing and mailing certified letters to the Defendants, have suffered multiple
+
+17
+
+credit denials, received credit at higher interest rates, have suffered emotional
+
+18
+
+distress, anxiety, sleepless nights and humiliation related to the inaccurate credit
+
+19
+20
+
+reporting. Furthermore, Plaintiffs have suffered emotional distress, stress and
+
+21
+
+anxiety related to the constant barrage of phone calls and past due billing statement
+
+22
+
+they receive each month. Plaintiff Tommy Heard further suffered longer work days
+
+23
+
+due to multiple interruptions by Defendant calling Plaintiff while he was at work
+24
+25
+
+despite having instructed Defendant that the calls were interrupting him at work. For
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+1
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 6 of 30
+
+1
+2
+3
+
+the reasons discussed herein, Plaintiffs respectfully request that the Court grant
+Plaintiffs Tommy & Katrina Heards’ Motion for Summary Judgment in respect to
+its claims made against the Defendant.
+
+4
+
+II.
+
+LEGAL STANDARD
+
+5
+6
+
+Summary judgment is appropriate where there is no genuine issue as to any
+
+7
+
+material fact and the moving party is entitled to judgment as a matter of law. Fed.
+
+8
+
+R. Civ. P. 56(c). On a motion for summary judgment, the moving party bears the
+
+9
+
+initial responsibility of informing the court of the basis for its motion and identifying
+10
+11
+
+those portions of the record that establish the absence of a material issue of fact.
+
+12
+
+Celotex Corp. v. Catrett, 477 U.S. 317, 323 (1986). In determining whether
+
+13
+
+summary judgment is appropriate, a court must resolve all ambiguities and draw all
+
+14
+15
+
+reasonable inferences against the moving party. Matsushita Elec. Indus. Co. v.
+
+16
+
+Zenith Radio Corp., 475 U.S. 574, 586 (1986); Anderson v. Liberty Lobby, Inc., 477
+
+17
+
+U.S. 242, 255 (1986). Plaintiff believes that the undisputed facts warrant summary
+
+18
+
+judgment for Plaintiff on all claims. The only issue for trial would be related to
+
+19
+20
+21
+22
+
+damages.
+III.
+
+STATEMENT OF FACTS
+In or around 2001, Plaintiffs, Tommy and Katrina Heard, entered into a
+
+23
+
+conventional mortgage loan with AMSouth Bank to purchase a new home.
+24
+25
+
+Plaintiffs’ Statement of Facts (“PSOF”), ¶ 1. The property was an investment home
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+2
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 7 of 30
+
+1
+2
+3
+
+located at 1002 Ladiga Southeast Street, Jacksonville, AL 36265 (the “Property”)
+and not Plaintiffs’ residence. PSOF at ¶ 3. In or around 2004, the Plaintiffs
+refinanced their mortgage with GMAC Mortgage. Id. at ¶ 2. Subsequently, in or
+
+4
+
+around 2012, GMAC Mortgage filed for bankruptcy protection and the mortgage
+5
+6
+
+servicing for the Property was transferred to Ocwen. Id. at ¶ 4. Plaintiffs have always
+
+7
+
+made timely payments on the mortgage. Id. at ¶ 5. Since the inception of the loan,
+
+8
+
+Plaintiffs have maintained adequate property insurance and paid insurance and taxes
+
+9
+
+separately. Id. at ¶ 6. Further, Plaintiffs went so far as to setup automatic online
+10
+11
+12
+13
+
+payment so that their payment would always be on time. Id. at ¶ 7.
+On or about June 4, 2015 Plaintiff Tommy received a collection call from
+Defendant. Id. at ¶ 15. Defendant claimed that the mortgage payment for the month
+
+14
+15
+
+of May was past due in the amount of $503.85. Id. at ¶ 11. About half way through
+
+16
+
+the call Plaintiff realized, for the first time, that Defendant was now also servicing
+
+17
+
+the loan for the Property in addition to the loan on another property he owned. Id. at
+
+18
+
+16. Plaintiff explained to the collector that the Property was insured and was not
+
+19
+20
+
+escrowed for taxes and insurance. Id. at ¶ 18. Following the June 4, 2015 call,
+
+21
+
+Plaintiff, through their insurance agent, faxed proof of insurance to Defendant on
+
+22
+
+June 5, 2015. Id. at ¶ 21.
+
+23
+
+On July 28, 2015 Plaintiff answered another collection call from Defendant.
+24
+25
+
+PSOF ¶ 37. The representative stated that Nationstar had not received a payment for
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+3
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 8 of 30
+
+1
+
+the month of July even though the payment had been taken from the Plaintiff’s bank
+
+2
+
+account on July 10, 2015. Id. at ¶ 40. Again, on August 4, 2015, Plaintiff was forced
+
+3
+
+to discuss the alleged delinquencies with Defendant. Id. at ¶ 44. The representative
+
+4
+
+asked the Plaintiff to verify his information and informed Plaintiff that due to the
+5
+6
+
+use of automatic dialer he would not know what number he was calling. Id. at ¶ 49.
+
+7
+
+After several failed attempts to remedy the situation, the Mr. Heard unequivocally
+
+8
+
+revoked consent to be contacted on his cellular phone on August 22, 2015. Id. at ¶
+
+9
+
+55.
+10
+11
+
+Plaintiffs’ revocation on August 22, 2015 was ignored and Defendant
+
+12
+
+continued to contact Plaintiffs on their cell phone. Moreover, the Plaintiffs’
+
+13
+
+unequivocally revoked another 14 times; on October 29, 2015, on November 9,
+
+14
+15
+
+2015, November 23, 2015, on December 2, 2015, twice on December 3, 2015, on
+
+16
+
+December 21, 2015, on December 22, 2015, on January 6, 2016, on January 15,
+
+17
+
+2016, on January 19, 2016, on February 9, 2016, on February 26, 2016, and on
+
+18
+
+March 28, 2016. Id. at ¶ 58. Between August 22, 2015, and June 3, 2016, Plaintiffs
+
+19
+20
+
+were called using a predictive dialer, blast call or pre-recorded message 180 times
+
+21
+
+after Plaintiffs unequivocally revoked consent to be contacted numerous times. Id.
+
+22
+
+at ¶ 61.
+
+23
+
+In or around October 2015, Mr. Heard obtained a copy of his credit report and
+24
+25
+
+confirmed that Nationstar, despite its promise to correct any derogatory credit
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+4
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 9 of 30
+
+1
+
+reporting, had in fact reported him as delinquent in multiple months with the various
+
+2
+
+credit reporting agencies. Id. at ¶¶ 54, 72. Mr. Heard sent a dispute letter to the 3
+
+3
+
+major credit reporting agencies explaining why the information reporting was
+
+4
+
+inaccurate and attached proof that his home was in fact insured without escrow Id.
+5
+6
+
+at ¶ 75. As a result of the inaccurate reporting, Mr. Heard had multiple credit denials.
+
+7
+
+Id. at ¶ 77.
+
+8
+
+Plaintiff Katrina Heard obtained a copy of her credit report in or around
+
+9
+
+November 2015 and confirmed that Nationstar had also reported her as delinquent
+10
+11
+
+in different months with the various credit reporting agencies. Id. at ¶ 78. Mrs.
+
+12
+
+Heard, like her husband, sent in similar dispute letters to the credit reporting
+
+13
+
+agencies. Id. at ¶ 81. After receiving the disputes for both Plaintiffs, Defendant failed
+
+14
+15
+
+to remove the late payments and continued to report the Plaintiffs as delinquent in
+
+16
+
+subsequent months. ¶¶ 83, 84, 105-108.
+
+17
+
+IV.
+
+18
+
+ARGUMENT
+The TCPA was created to regulate the use of automatic telephone dialing
+
+19
+20
+
+systems, as well as pre-recorded and artificial voice calls. The FCRA was created to
+
+21
+
+promote the accuracy and fairness of information in the files of consumer reporting
+
+22
+
+agencies and those entities that furnish such information to the credit reporting
+
+23
+
+agencies.
+24
+25
+
+Congress made the following findings related to the FCRA:
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+5
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 10 of 30
+
+1
+2
+3
+4
+5
+6
+7
+
+1) The banking system is dependent upon fair and accurate credit
+reporting. Inaccurate credit reports directly impair the efficiency
+of the banking system, and unfair credit reporting methods
+undermine the public confidence which is essential to the
+continued functioning of the banking system.
+2) …
+3) …
+4) There is a need to insure that consumer reporting agencies exercise
+their grave responsibilities with fairness, impartiality, and
+respect for the consumer’s right to privacy. (emphasis added)
+15. U.S.C. § 1681.
+
+8
+9
+
+The evidence and undisputed facts clearly illustrate that the Defendant
+
+10
+
+violated both the TCPA and FCRA such that no reasonable jury could rule in favor
+
+11
+
+of Defendant. Defendant admitted it erroneously reported Plaintiffs as late and
+
+12
+
+charged for escrow without any substantiated evidence that Plaintiffs owed escrow
+13
+14
+
+on the account. PSOF at ¶¶ 85, 86. Defendant admitted that it utilizes an automated
+
+15
+
+dialing system. Id. at ¶¶ 49, 52. The evidence shows that there was no human
+
+16
+
+intervention needed to place the calls made to Plaintiff and that the system
+
+17
+
+automatically predicted when the calls would be made to Plaintiff. Id. at ¶¶ 65, 6818
+19
+
+70. There is no dispute Defendant made calls that were per se violations of the
+
+20
+
+TCPA which prohibits pre-recorded calls without consent. Id. at ¶¶ 61-63. There is
+
+21
+
+further no dispute that Defendant did not have Plaintiff’s consent to call him at all,
+
+22
+23
+
+much less on his cell phone utilizing an ATDS. Id. at ¶¶ 57-58, 61.
+
+24
+
+The undisputed facts will clearly establish that Defendant failed to conduct
+
+25
+
+a reasonable investigation (or any investigation) of Plaintiffs’ disputes. It was only
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+6
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 11 of 30
+
+1
+
+after Plaintiffs initiated the present action (seven month after) before Defendant
+
+2
+
+corrected the reporting errors. For the reasons stated above and the arguments
+
+3
+
+outlined below, this Court should grant Plaintiffs’ motion for partial summary
+
+4
+
+judgment on all counts and the only remaining action remaining for trial should be
+5
+6
+7
+8
+9
+
+related to damages.
+A. NO GENUINE DISPUTE OF MATERIAL FACT REGARDING
+WHETHER DEFENDANT VIOLATED THE TCPA;
+ACCORDINGLY, PLAINTIFF RESPECTFULLY REQUESTS
+THE ENTRY OF SUMMARY JUDGMENT AS TO LIABILITY
+PURSUANT TO 47 U.S.C. § 227(B)(3)(B).
+
+10
+11
+
+(1) Defendant Violated the TCPA by contacting Plaintiff without
+consent
+
+12
+
+The Plaintiffs are entitled to summary judgment because the Defendant
+13
+14
+
+violated the TCPA by contacting Plaintiff without express consent. It is undisputed
+
+15
+
+that Plaintiff unequivocally revoked consent to be contacted not less than 14 separate
+
+16
+
+occasions, and the Defendant ignored those revocations and continued to contact
+
+17
+18
+19
+20
+21
+
+Plaintiff. PSOF ¶ 58.
+“No specific method is required under the TCPA for a caller to obtain
+prior consent to
+
+place
+
+automated
+
+calls
+
+or
+
+to
+
+subsequently
+
+revoke that consent.” Lawrence v. Bayview Loan Servicing, LLC, 666 Fed.Appx.
+
+22
+23
+
+875, 879 (C.A.11 (Fla.), 2016) (citing In re Rules and Regulations Implementing the
+
+24
+
+Telephone Consumer Protection Act of 1991 (2015 FCC Ruling), 30 FCC Rcd.
+
+25
+
+7961, 7990.) Thus, consistent with common law principles, oral revocation is
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+7
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 12 of 30
+
+1
+
+sufficient to withdraw prior express consent. Id.; see also 2015 FCC Ruling, 30 FCC
+
+2
+
+Rcd. at 7965 (noting that “[c]onsumers may revoke consent at any time and through
+
+3
+
+any reasonable means”). Lawrence, 666 Fed. Appx. at 879. In 2014, the 11th Circuit,
+
+4
+
+aligning itself with the 3rd Circuit, held that oral revocation of prior express consent
+
+5
+6
+
+to be contacted using in ATDS is sufficient to revoke that prior express consent.
+
+7
+
+Osorio v. State Farm Bank, 746 F.3d at 1255 citing Gager v. Dell Financial Services
+
+8
+
+LLC 727 F.3d at 273-74. Therefore, based on the overwhelming and incontrovertible
+
+9
+
+evidence, Defendant did not have consent to contact Plaintiff using an ATDS.
+10
+11
+
+Between August 22, 2015 and June 3, 2016, Mr. Heard was called using a
+
+12
+
+predictive dialer where a live person would be connected to Mr. Heard after he
+
+13
+
+answered the call or by prerecorded message/blast call where an automated message
+
+14
+15
+
+would be left for Mr. Heard 180 times after Plaintiff unequivocally revoked consent
+
+16
+
+to be contacted beginning on August 22 and multiple times thereafter. PSOF ¶¶ at
+
+17
+
+55, 61. On August 22, 2015, Plaintiff received a phone call from Defendant. During
+
+18
+
+this phone call, Plaintiff unequivocally revoked consent to be contacted on his cell
+
+19
+20
+
+phone. Id. The Plaintiff continued to receive calls after he revoked consent to be
+
+21
+
+contacted on fourteen additional occasion; October 29, 2015, November 9, 2015,
+
+22
+
+November 23, 2015, December 2, 2015, twice on December 3, 2015, December 21,
+
+23
+
+2015, December 22, 2015, January 6, 2016, January 15, 2016, January 19, 2016,
+24
+25
+
+February 9, 2016, February 26, 2016, and March 28, 2016. Id. ¶ 58. Plaintiff’s
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+8
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 13 of 30
+
+1
+
+revocations are written within the Defendant’s own collection call notes and
+
+2
+
+therefore cannot claim that their calls were not made without consent. Furthermore,
+
+3
+
+the sheer volume of the revocations and the number of calls that followed makes it
+
+4
+
+clear that Nationstar willfully ignored Plaintiff’s requests. Id.
+
+5
+6
+
+(2) Defendant Violated the TCPA by using an ATDS when Defendant
+called Plaintiffs
+
+7
+
+The Plaintiffs are entitled to summary judgment because the Defendant called
+8
+9
+
+Plaintiff’s cell phone using a predictive dialer, blast call or pre-recorded message on
+
+10
+
+an almost daily basis after Plaintiff Tommy Heard revoked consent to be called.
+
+11
+
+PSOF ¶¶ 58, 61, 63.
+
+12
+
+Under the statute, the TCPA makes clear that “[i]t shall be unlawful for any
+13
+14
+
+person within the United States, or any person outside the United States if the
+
+15
+
+recipient is within the United States— (A) to make any call (other than a call made
+
+16
+
+for emergency purposes or made with the prior express consent of the called party)
+
+17
+18
+
+using any automatic telephone dialing system or an artificial or prerecorded voice
+
+19
+
+(iii) to any telephone number assigned to a paging service, cellular telephone service,
+
+20
+
+specialized mobile radio service, or other radio common carrier service, or any
+
+21
+
+service for which the called party is charged for the call . . . .” 47 U.S.C. §
+
+22
+23
+24
+25
+
+227(b)(1)(A)(iii). Furthermore, in its 2003 Order, the Federal Communications
+Commission (“FCC”) explained that the TCPA includes equipment that “has the
+capacity to store or produce numbers and dial those numbers at random, sequential
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+9
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 14 of 30
+
+1
+
+order, or from a database of numbers” (emphasis added). In the Matter of Rules &
+
+2
+
+Regulations Implementing the Telephone Consumer Protection Act of 1991, 2003
+
+3
+
+WL 21517853, 18 F.C.C.R. 14014 ¶ 131 (July 3, 2003.) The FCC further explained
+
+4
+
+that the basic function of an ATDS equipment is “the capacity to dial numbers
+
+5
+6
+
+without human intervention.” Id. ¶ 132. In 2008 the FCC reaffirmed this definition
+
+7
+
+of an ATDS and stated that a predictive dialer is subject to the TCPA statute. In the
+
+8
+
+Matter of Rules & Regulations Implementing the Telephone Consumer Protection
+
+9
+
+Act of 1991, 2008 WL 65485, 23 F.C.C.R. 559 ¶ 12 (Jan. 4, 2008). The FCC
+10
+11
+
+determined that “based on the statutory definition of ‘automatic telephone dialing
+
+12
+
+system,’ the TCPA’s legislative history, and current industry practice and
+
+13
+
+technology, a predictive dialer falls within the meaning and definition of autodialer
+
+14
+15
+
+and the intent of congress.” Id. at 566. Moreover, “[t]he record demonstrates that a
+
+16
+
+predictive dialer is equipment that dials numbers and, when certain computer
+
+17
+
+software is attached, also assists telemarketers in predicting when a sales agent will
+
+18
+
+be available to take calls.” 18 F.C.C. Rcd. 14014, 14091 (2003).
+
+19
+20
+
+In Strauss v. CBE Group, Inc., the plaintiff was denied his motion for
+
+21
+
+summary judgment in part related to his TCPA claim because the plaintiff failed to
+
+22
+
+show that the defendant was using an automatic telephone dialing system. Strauss v.
+
+23
+
+CBE Group, Inc., 173 F.Supp. 3d 1302, 1310 (S.D. Fla., 2016). The Strauss court
+24
+25
+
+found that the dialing system used was not a predictive dialer because there was
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+10
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 15 of 30
+
+1
+2
+3
+
+substantial evidence “that human intervention is essential at the point and time that
+the number is dialed.” Id. at 1311 (emphasis added). Also, the system and software
+utilized by the defendant required is not capable of initiating automatic outbound
+
+4
+
+calls. Id. at 1310.
+5
+6
+
+Unlike the defendant in Strauss, the Defendant in this case uses a system that
+
+7
+
+is admittedly capable and in fact does make the outbound calls for the collector.
+
+8
+
+PSOF ¶ 68. In addition, the system and software operated by Defendant requires no
+
+9
+
+human intervention needed to place calls. Id. ¶ 70. These facts highlight significant
+10
+11
+
+differences with the facts that prevented summary judgment for the plaintiff in
+
+12
+
+Strauss.
+
+13
+
+Nationstar further admitted that the iAssist program, which it uses to initiate
+
+14
+15
+
+the calls, predicts the best time to call the debtor or the borrower. Id. ¶ 65. Nationstar
+
+16
+
+admitted that the individual collectors at Defendants’ collection centers are fed calls
+
+17
+
+one after the other with sometimes with absolutely no downtime. Id. ¶ 66. During
+
+18
+
+her deposition Ms. Wimberly testified as to the type of telephone system Nationstar
+
+19
+20
+21
+22
+
+employs:
+Q. …In general when – when collection calls are being
+made, you're not deciding who to call in the outbound
+calls, the system is doing that for you, correct?
+
+23
+
+A. Yes.
+24
+25
+
+Q. Okay. All right. So describe for me if you can a
+typical day. When you walk into the office to start your
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+11
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 16 of 30
+
+1
+
+day, you put your headset on and what happens? Tell
+me.
+
+2
+3
+4
+5
+6
+
+A. I walk into the office. I put my headset on. I pull up
+the dialer and I go into, more than likely, outbound and
+it'll go ahead and start dialing the calls for me.
+(BY MR. CHAMI) Okay. And so when the headset's on
+and you -- you open up, is it LSAMs, is that what it's
+called?
+
+7
+8
+9
+10
+
+A. Well, we have iAssist now, which is another.
+Q. Okay. iAssist. Put your headset on, you open up the
+computer program to go into outbound calls; is that
+accurate?
+
+11
+
+A. Yes, and I put in my extension number to my phone.
+12
+13
+
+Q. Okay. And then a call comes in?
+
+14
+
+A. Yes.
+
+15
+
+Q. All right. And let me ask you, do you hear the phone
+ring when you're on the phone?
+
+16
+17
+18
+
+A. No, it just pops up.
+Ex. Q Wimberly Depo. 19:2-8, 20:4-21:1. The testimony of Ms. Wimberly clearly
+
+19
+20
+
+illustrate that the Defendant does in fact use an automatic telephone dialing system.
+
+21
+
+Her testimony indicates that the telephone system is paired with iAssist, which
+
+22
+
+predicts the best time to dial a borrower. Additionally, her testimony makes clear, as
+
+23
+
+does the recording of the August 4, 2015 call, that there is no human intervention
+24
+25
+
+needed and the system places the outbound calls for her without any knowledge of
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+12
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 17 of 30
+
+1
+2
+3
+
+who is being contacted. PSOF at ¶¶ 49, 62, 68-70. Considering the testimony made
+by Defendants’ representatives, the Court should find that the Defendant used an
+ATDS and the calls were made automatically.
+
+4
+
+Notably, during the August 4, 2015 call, the representative states that he was
+5
+6
+
+unable to stop the calls since Nationstar uses an “automatic dialer.” PSOF ¶ 49. After
+
+7
+
+listening to the recording above, Ms. Wimberly confirmed that outbound calls are
+
+8
+
+placed through an automatic dialer system. Ex. Q at 40:25-41:6. There is no doubt
+
+9
+
+that Ms. Wimberly understood what an automatic dialer was because she stated in
+10
+11
+
+her deposition “[t]o my understanding is the generating system that dials out the
+
+12
+
+numbers.” Id. 39:14-17.
+
+13
+
+This Court should grant summary judgment for Plaintiffs’ TCPA claim that
+
+14
+15
+
+Defendant negligently called Plaintiff’s cell phone using an ATDS for the following
+
+16
+
+reasons: the Defendants’ representatives have admitted to understanding what an
+
+17
+
+automatic dialer and have admitted to using an automatic dialer, Mr. Heard revoked
+
+18
+
+consent to be contacted on at least 15 separate occasions, Nationstar admitted that
+
+19
+20
+
+the iAssist software predicts the best time to call the borrower, Nationstar’s dialer
+
+21
+
+records indicate predictive calls, blast calls and pre-recorded messages were used
+
+22
+
+when contacting the Plaintiff, the Defendants’ representatives have admitted that
+
+23
+
+there is no human intervention required to place outbound calls, Defendants’
+
+24
+25
+
+representatives admitted that the system determines who to call, Nationstar admitted
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+13
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 18 of 30
+
+1
+2
+3
+4
+
+that the individual collectors are fed calls one after the other with little to no
+downtime. Id. at ¶¶ 49, 62-63, 65-66, 68-70.
+(3) Defendant Willfully Violated The TCPA When Defendant
+Continued To Call Plaintiff With An ATDS After Plaintiff
+Revoked Consent.
+
+5
+6
+
+This Honorable Court should grant Plaintiffs’ motion for summary judgment
+
+7
+
+for Defendant’s “willful or knowing” violation of the TCPA when the Defendant
+
+8
+
+continuously called Plaintiff Tommy Heard almost daily after he notified the
+
+9
+
+Defendant to stop calling on multiple occasions.
+
+10
+11
+
+A willful or knowing violation of the Telephone Consumer Protection Act
+
+12
+
+occurs when the Defendant places calls to the party using an ATDS and after being
+
+13
+
+notified that the party does not want to be call anymore. “In order for Plaintiff to
+
+14
+
+prove that Defendants knew that they acted in a manner that violated the statute
+15
+16
+
+(regardless if Defendants actually knew that they were violating the statute), Plaintiff
+
+17
+
+must also show that Defendants knew that Plaintiff did not consent to the phone
+
+18
+
+calls.” Harris v. World Financial Network Nat. Bank, 867 F.Supp.2d 888, 895
+
+19
+
+(E.D.Mich.,2012). “The TCPA does not require any intent for liability except when
+
+20
+21
+
+awarding treble damages.” Alea London Ltd. v. American Home Services, Inc., 638
+
+22
+
+F.3d 768, 776 (C.A.11 (Ga.),2011). “Importantly though, the intent for treble
+
+23
+
+damages does not require any malicious or wanton conduct, but rather is satisfied by
+
+24
+25
+
+merely ‘knowing’ conduct.” Id. at 776.
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+14
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 19 of 30
+
+1
+
+In Harris, the plaintiff answered a call on August 23, 2010 and told the
+
+2
+
+defendant to stop calling him because the defendant was calling the wrong number.
+
+3
+
+Despite plaintiff’s revocation, the defendant continued to call the plaintiff using an
+
+4
+
+Avaya Predictive Dialing system (the same type of ATDS the Defendant uses in this
+5
+6
+
+case). Harris, 867 F.Supp.2d at 890-91. The plaintiff produced the audio recording,
+
+7
+
+filed a motion for summary judgment regarding liability, and was granted the motion
+
+8
+
+by the court. Id. at 894.
+
+9
+
+The plaintiff also requested that he be awarded treble damages for defendant’s
+10
+11
+
+“willful or knowing violation” of the TCPA. The court awarded the damages
+
+12
+
+because it found that the defendant “displayed a reckless disregard for [p]laintiff’s
+
+13
+
+rights under the TCPA.” Id. at 895-96. Moreover, the court stated that the ruling was
+
+14
+15
+16
+17
+18
+
+“consistent with the FCC’s determination that it is a creditor or debt collector’s
+burden of proving consent to call a party’s cellular phone.” Id. at 896.
+Here, Plaintiff Tommy Heard notified the Defendant to stop calling him on
+cell phone on August 22, 2015. PSOF ¶ 55. Additionally, Plaintiff continued to
+
+19
+20
+
+receive calls to his cell phone and he revoked consent to be called a total of not less
+
+21
+
+than 15 times. Id. ¶ 58; See Also, Ex. G Nationstar at 001226, 001227,
+
+22
+
+001228, 001229, 001230, 001233, 001234, 001236, 001237.
+
+23
+24
+
+(4) Defendant’s Use of Pre-Recorded Messages are Per Se Violations
+of the TCPA
+
+25
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+15
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 20 of 30
+
+1
+
+While Plaintiffs assert that summary judgment is appropriate for all autodialed
+
+2
+
+calls made after August 22, 2015, it is undeniable that at a minimum Plaintiffs are
+
+3
+
+entitled to summary judgment for all prerecorded messages (“Blast” calls) made by
+
+4
+
+defendant after August 22, 2015. The TCPA specifically states that it is unlawful to
+5
+6
+
+“[m]ake any call… using any automatic telephone dialing system or an artificial or
+
+7
+
+prerecorded voice… to any telephone number assigned to a paging service, cellular
+
+8
+
+telephone service… or any service for which the called party is charged for the
+
+9
+
+call…” 47 U.S.C. § 227(b)(1)(A)(iii). (emphasis added).
+10
+11
+
+Defendant’s own call records show a multitude of “pre-recorded dialer
+
+12
+
+message” notes attached to the phone call date and time. The pre-recorded/Blast calls
+
+13
+
+were made to Plaintiff’s phone on the following dates: August 22, 2015 3:00 p.m.;
+
+14
+15
+
+September 5, 2015 at 4:54 p.m.; September 11, 2015 at 11:48 a.m.; October 16, 2015
+
+16
+
+at 7:21 p.m.; November 6, 2015 at 5:37 p.m.; November 7, 2016 at 4:51 p.m.;
+
+17
+
+November 28, 2015 at 3:15 p.m.; November 30, 2015 at 7:18 p.m.; December 4,
+
+18
+
+2015 at 4:35 p.m.; December 5, 2015 at 3:45 p.m.; and April 4, 2016 at 5:30 p.m.
+
+19
+20
+21
+22
+
+PSOF ¶ 61. Ex. G. By the very definition of the TCPA, the prerecorded voice
+messages left on Plaintiff’s cellular phone, that Plaintiff pays for, are violations of
+the statute. 47 U.S.C. § 227(b)(1)(A)(iii).
+
+23
+
+In summary, there is no genuine dispute of material fact regarding whether
+24
+25
+
+Defendant willfully or knowingly violated the TCPA, and Plaintiff respectfully
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+16
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 21 of 30
+
+1
+
+requests that this Honorable Court find that Defendant willfully violated the TCPA.
+
+2
+
+The only remaining issue for a trier of fact would be to determine the appropriate
+
+3
+
+amount of damages between $500.00 and $1,500.00 under the circumstances.
+
+4
+5
+6
+7
+8
+
+B. NO GENUINE DISPUTE OF MATERIAL FACT REGARDING
+WHETHER DEFENDANT VIOLATED THE FCRA; DEFENDANT
+VIOLATED THE FCRA BY REPORTING INACCURATE
+INFORMATION AND NOT COMPLETETING A REASONABLE
+INVESTIGATION
+The Plaintiffs are entitled to summary judgment because the Defendant
+
+9
+
+clearly violated the FCRA by not completing a reasonable investigation when the
+10
+11
+
+consumer disputed the inaccurate credit reporting information. The Defendant did
+
+12
+
+not complete a reasonable investigation because (1) the dispute agents simply look
+
+13
+
+at the payment history and compare it with the credit reporting agencies’ (CRA)
+
+14
+15
+
+information, (2) the dispute agents average between 50-100 disputes a day, (3) the
+
+16
+
+dispute agents did not reach out to the escrow department when handling the dispute
+
+17
+
+sent in by the Plaintiffs, (4) the dispute agents were not properly trained, (5) the
+
+18
+
+account was in fact never late, (6) and the Defendant is currently reporting a negative
+
+19
+20
+21
+22
+
+escrow after confirming with the Plaintiffs that it has been removed back in 2015.
+Under the FCRA a furnisher “[a]fter receiving notice pursuant to § 1681i of a
+dispute with regard to the completeness or accuracy of any information provided by
+
+23
+
+a person to a consumer reporting agency, the person shall (A) conduct an
+24
+25
+
+investigation with respect to the disputed information.” 15 U.S.C. § 1681s-
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+17
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 22 of 30
+
+1
+
+2(b)(1)(A). The reasonableness of the furnisher’s investigation will in part depend
+
+2
+
+on the status of the furnisher – “as an original creditor, a collection agency collecting
+
+3
+
+on behalf of the original creditor, a debt buyer, or a down-the-line buyer – “and on
+
+4
+
+the quality of documentation available to the furnisher.” Hinkle v. Midland Credit
+
+5
+6
+
+Management, Inc., 827 F.3d 1295, 1302 (C.A.11 (Ga.), 2016).
+
+7
+
+The issue before the Court concerns Defendant’s attempts to collect an escrow
+
+8
+
+balance on Plaintiffs’ account that was subsequently reported to the credit reporting
+
+9
+
+agencies that resulted from an improperly placed escrow account on the Plaintiffs’
+10
+11
+
+loan. PSOF ¶ 11. Plaintiff Tommy Heard spoke with multiple representatives of
+
+12
+
+Nationstar to resolve the issue. Id. ¶¶ 15, 25, 34, 41, 44. He provided Nationstar’s
+
+13
+
+escrow department with proof of insurance to show that he was insured and an
+
+14
+15
+
+escrow should not have been placed, and he sent bank statements showing that he
+
+16
+
+has made timely payments since Nationstar began to service the loan. Id. ¶¶ 21, 32.
+
+17
+
+Further, Mr. Heard has paid an additional amount of $13.27 than is required by his
+
+18
+
+mortgage payment each month. Id. at ¶ 7.
+
+19
+20
+
+The Hinkle court delves into the requirements of a furnisher by first looking
+
+21
+
+at the plain text of § 1681s-2(b). After analyzing the meaning of the statute, the
+
+22
+
+Hinkle court concluded that the “definitions support the conclusion that § 1681s-2(b)
+
+23
+
+requires some degree of careful inquiry by furnishers of information.” Id. at 1303.
+
+24
+25
+
+“In particular, when a furnisher does not already possess evidence establishing that
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+18
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 23 of 30
+
+1
+2
+3
+4
+
+an item of disputed information is true, § 1681s–2(b) requires the furnisher to seek
+out and obtain such evidence before reporting the information as ‘verified.’” Id. at
+1303.
+The defendant in Hinkle was a “down-the-line” debt buyer; not unlike
+
+5
+6
+
+Defendant Nationstar who acquired servicing rights from Ocwen. When the plaintiff
+
+7
+
+in Hinkle disputed the information with the defendant, the defendant simply
+
+8
+
+compared the information possessed by the credit reporting agencies (CRAs) with
+
+9
+
+the information in its internal records. The court held that the defendant was not
+10
+11
+
+entitled to summary judgment based off the facts of the case and it had a duty to
+
+12
+
+conduct a more thorough investigation. Id.
+
+13
+
+Similarly, Defendant Nationstar was not the original creditor. PSOF ¶ 8.
+
+14
+15
+
+Plaintiff Tommy Heard obtained his credit report in or around October 2015 and
+
+16
+
+confirmed that Nationstar had reported him as delinquent in different months with
+
+17
+
+the various credit reporting agencies. Id. ¶ 72. Mr. Heard sent a letter disputing the
+
+18
+
+inaccurate information with the various credit reporting agencies, who in turn
+
+19
+20
+
+notified Nationstar of the consumer dispute. Id. ¶ 75. In at least one conversation
+
+21
+
+with Nationstar Mr. Heard was assured that his credit report would be corrected to
+
+22
+
+fix any negative reporting. Id. at ¶¶ 53, 54. Nationstar did not complete a reasonable
+
+23
+
+investigation as required by § 1681s-2(b). Defendant Nationstar did not “seek out
+
+24
+25
+
+and obtain such evidence before reporting the information as verified” as required
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+19
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 24 of 30
+
+1
+
+by § 1681s-2(b). The Defendant did not have any communications with Ocwen and
+
+2
+
+considering the debt it was collecting was purportedly assessed by Ocwen, it is
+
+3
+
+shocking that Nationstar did not make any effort to communicate with Ocwen once
+
+4
+
+the dispute was raised (at the very latest). PSOF ¶¶ 108, 109. Additionally, the
+5
+6
+
+Defendant, like the defendant in Hinkle, compared the information possessed by the
+
+7
+
+CRAs and the information on its internal computers only.
+
+8
+
+11
+
+Q. Would it be fair to say that when reviewing -- when
+receiving an ACDV that your practice is to look at the
+information on the ACDV and compare it to what's on
+the LSAMS computer screen to make sure that it's
+reporting accurately?
+
+12
+
+A.
+
+9
+10
+
+13
+14
+15
+
+Yes.
+
+Q. And the changes that you would make would be the
+changes that are indicated in LSAMS, right?
+A.
+
+Yes, I would reflect that.
+
+16
+
+Ex. R Kasza Depo. 37:8, 38:23.
+17
+18
+
+Q. So tell me, is there a normal process that you follow
+when you review a dispute from a consumer?
+
+19
+
+A.
+
+Yes.
+
+21
+
+Q.
+
+Describe that process to me.
+
+22
+
+A. Okay. I look at LSAMS and see -- Oh, first of
+course, I pull up the e-OSCAR dispute. And then I pull
+LSAMS and then I always review the borrower
+information first. And then if I need to, I check the note.
+And then I just follow the rest of the ACDV to see what
+the borrower disputed and the borrower sometimes they
+
+20
+
+23
+24
+25
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+20
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 25 of 30
+
+1
+2
+3
+
+include a dispute like specifically what they're disputing.
+Sometimes they don't. So a lot of times we just have to
+go through the ACDV, look at every single thing and
+look at LSAMS, verify what we have and what came
+through.
+
+4
+
+Ex. S Gifford Depo. 18:5-18. It is clear from the above two excerpts that the dispute
+5
+6
+
+agents simply reviewed the information possessed by the credit reporting agencies
+
+7
+
+and the information contained in the internal records at Nationstar. After checking
+
+8
+
+for any inconsistencies between the CRAs’ information and Nationstar’s, the dispute
+
+9
+
+agents then change the CRA’s information to match the information of Nationstar’s
+10
+11
+
+records. This is a bare-bones attempt to make changes that are based not on an
+
+12
+
+investigation but only on confirming the information in the system. Ms. Gifford
+
+13
+
+further testified:
+
+14
+15
+
+Q. Well, in order for you to make these entries, you
+would have had to look at something, correct?
+
+16
+
+A.
+
+Yes.
+
+18
+
+Q.
+
+What would you have looked at?
+
+19
+
+A.
+
+The payment history in LSAMS.
+
+Q.
+
+And LSAMS is just a computer screen, right?
+
+A.
+
+Yes.
+
+17
+
+20
+21
+22
+23
+24
+25
+
+Q. So you look at the payment history computer screen
+and you put into the ACDV response whatever the
+computer screen says, correct?
+A.
+
+Correct.
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+21
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 26 of 30
+
+1
+
+Id. at 31:2-12. Again, the Defendants’ representatives testify that all they do is
+
+2
+3
+
+compare the reported history to what is currently showing on their computer screen.
+
+4
+
+There is no reasonable investigation that comprises of reviewing the documents
+
+5
+
+supplied by Plaintiffs or communicating with the prior mortgage servicer or trying
+
+6
+
+to locate evidence to support the reporting. The Plaintiffs’ dispute revolved around
+
+7
+8
+9
+10
+
+incorrect escrow being placed on their account and the dispute agents did not even
+take steps to reach out to the escrow department or take any steps related to the
+specific claim the Plaintiffs were making.
+
+11
+12
+13
+
+Q. I mean in your process of looking at a dispute, are you
+able to make a decision about whether or not Nationstar
+is improperly trying to collect for escrow payments like
+Mr. Heard is alleging in his dispute?
+
+14
+15
+16
+17
+18
+19
+20
+
+A.
+
+I do not work escrow, no.
+
+Q. So I understand that you don't work in escrow. So
+my question was a little different though. It was more or
+less trying to ascertain whether you would need to reach
+out to escrow as part of your investigation to figure out if
+what Mr. Heard was claiming had any merit, would that
+be something that you would normally do is reach out to
+escrow in a situation where the borrower is claiming that
+the issue is with improper escrow?
+
+21
+22
+23
+24
+
+A.
+
+No.
+
+Q. So how would you investigate a claim like this by
+Mr. Heard to determine whether the lates that are being
+reported are related to an escrow issue?
+
+25
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+22
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 27 of 30
+
+1
+
+A. If I had seen this letter, I would have just gone
+through the payment history.
+
+2
+3
+4
+5
+6
+
+Q. Okay. So you would have looked at LSAMS and
+you would have -- which is likely what you did here,
+right?
+A. Yes.
+Q. And just reported the lates as they showed in the
+computer, right?
+
+7
+8
+
+A.
+
+Correct.
+
+9
+
+Id. at 38:18-25, 39:1-18. As illustrated by the testimony above, Ms. Gifford admitted
+
+10
+
+that reaching out to the escrow department would not be something that she would
+
+11
+
+normally do. The only actions she would take to investigate the claim and determine
+12
+13
+
+whether the information is accurate is look to the computer screen and compare it
+
+14
+
+with the information provided by the CRAs. Parroting what the computer shows is
+
+15
+
+not a reasonable investigation. Nationstar agrees that even if something is reporting
+
+16
+
+accurately on the Nationstar computer and to the credit reporting agencies, it can still
+17
+18
+
+be inaccurate. SOF ¶ 86. Ultimately, when called to the mat over whether the
+
+19
+
+reporting was accurate, Nationstar was forced to correct it.
+
+20
+21
+22
+23
+
+Q: Yeah, why did Ocwen force place insurance on the
+property?
+A: No, well, I misspoke. I don’t know why Ocwen force
+placed the insurance that they placed. I just know
+that when I discovered, I fixed it.
+PSOF ¶ 85 Ex. O 28:2-6.
+
+24
+25
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+23
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 28 of 30
+
+1
+
+When questioned further about the credit reporting at issues Ms. Clopton initially
+
+2
+
+indicated that Nationstar attempted to communicate with Ocwen about the Escrow
+
+3
+
+only to admit she had no evidence of any such contact.
+
+4
+
+A: Well, I’m not speaking for Ocwen and I –
+
+5
+6
+7
+8
+9
+10
+11
+12
+13
+
+Q: Nationstar?
+A: -- want to make that clear. I’m here on behalf of
+Nationstar. I’m not in-house Counsel, so I can’t provide
+you with any legal conclusions. What I will say is my
+understanding of this file on behalf of Nationstar is escrow
+was placed by Ocwen prior to the transfer. Ocwen didn’t
+correct it when it transferred. When it transferred to us, it
+was impounded with escrow. And when we requested that
+Ocwen clarify that or make corrections, which will also be
+them approving for us to remove the negative and send
+that back to them, they confirmed that their financial that
+were sent over including the escrow was correct.
+
+14
+15
+16
+
+Q: Where is that confirmation? Is it in writing?
+A: It won’t be part of this record because that is handled
+by acquisitions.
+
+17
+18
+19
+20
+21
+22
+
+Q: Okay. So I want to see – have you seen request from
+Nationstar to Ocwen requesting that they confirm the
+escrow shortage was proper?
+A: I’ve seen the research request. I haven’t seen any
+documentation where this person sent something –
+Nationstar sent this to Ocwen and they sent the response,
+I haven’t seen that.
+
+23
+
+Id. at 139:12-140:10.
+24
+25
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+24
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 29 of 30
+
+After Ms. Clopton testified about these alleged communications that she was
+
+1
+2
+
+not a party to, Nationstar entered into a stipulation confirming that apart from the
+
+3
+
+documents and information contained in the documents disclosed to Plaintiff in the
+
+4
+
+litigation, Ocwen had no other communications with Ocwen concerning Plaintiff’s
+
+5
+6
+
+escrow account. PSOF ¶ 109.
+
+7
+
+V.
+
+8
+
+CONCLUSION
+Plaintiff respectfully further requests that this Honorable Court grant
+
+9
+
+Plaintiff’s motion for summary judgment as to liability for Defendant’s willful
+10
+11
+
+violations of the TCPA and award statutory damages of $271,000.00 in addition to
+
+12
+
+reasonable attorney’s fees pursuant to 47 U.S.C. § 227(b)(3)(B), § 227(b)(3)(C), 15
+
+13
+
+U.S.C. § 1681n, and § 1681s-2(b) and award statutory damages of $270,00.00 and
+
+14
+15
+
+enter judgment against Defendant Nationstar for violating the TCPA and FCRA.
+
+16
+17
+18
+19
+20
+21
+22
+
+Respectfully submitted this 3rd day of July, 2017
+/s/ David A. Chami
+David A. Chami (pro hac vice)
+PRICE LAW GROUP, APC
+1204 E. Baseline Road, Suite 102
+Tempe, Arizona 85283
+david@pricelawgroup.com
+
+/s/Joshua C. Snable
+OF COUNSEL:
+SNABLE LAW FIRM, LLC
+2112 11th Avenue South, Suite 528
+Birmingham, AL 32505
+jsnable@snablelaw.com
+Attorneys for Plaintiffs
+Tommy & Katrina Heard
+
+23
+24
+25
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+25
+
+Case 2:16-cv-00694-MHH Document 47 Filed 07/03/17 Page 30 of 30
+
+CERTIFICATE OF SERVICE
+
+1
+2
+
+I hereby certify that on the 3rd day of July 2017, a true and exact copy of the
+
+3
+
+foregoing has been served via U.S. Mail and Electronic Mail upon the following
+
+4
+
+counsel of record:
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+Of Counsel:
+R. Frank Springfield (SPR024)
+Ryan J. Hebson (HEB003)
+BURR & FORMAN LLP
+420North 20th Street, Suite 3400
+Birmingham, Alabama 35203
+Telephone: (205)251-3000
+fspringf@burr.com
+rhebson@burr.com
+Robert M. Luck, III (admitted pro hac vice)
+REED SMITH LLP
+901 East Byrd Street Suite 1700
+Richmond, Virginia 23219
+Telephone: (804) 344-3416
+rluck@reedsmith.com
+
+16
+17
+18
+19
+20
+21
+22
+23
+
+Henry Pietrkowski (admitted pro hac vice)
+REED SMITH LLP
+10 South Wacker Drive 40th Floor
+Chicago, Illinois 60606-7507
+Telephone: (312) 207-3904
+hpietrkowski@reedsmith.com
+Attorneys for Defendant
+Nationstar Mortgage, LLC
+/s/Sandra Padilla
+
+24
+25
+
+PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT
+2
+
+

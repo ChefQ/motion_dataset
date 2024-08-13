@@ -1,0 +1,3341 @@
+Case 3:07-cv-02845-WHA
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+Document 216
+
+Filed 07/31/2008
+
+Page 1 of 29
+
+BRYAN WILSON (CA SBN 138842)
+ERIC C. PAI (CA SBN 247604)
+MORRISON & FOERSTER LLP
+755 Page Mill Road
+Palo Alto, California 94304-1018
+Telephone: 650.813.5600
+Facsimile: 650.494.0792
+E-Mail: BWilson@mofo.com; EPai@mofo.com
+DAVID C. DOYLE (CA SBN 70690)
+STEVEN E. COMER (CA SBN 154384)
+BRIAN M. KRAMER (CA SBN 212107)
+MORRISON & FOERSTER LLP
+12531 High Bluff Drive, Suite 100
+San Diego, California 92130-2040
+Telephone: 858.720.5100
+Facsimile: 858.720.5125
+E-Mail: DDoyle@mofo.com; SComer@mofo.com;
+BMKramer@mofo.com
+Attorneys for Plaintiff
+APPLERA CORPORATION – APPLIED BIOSYSTEMS GROUP
+
+13
+
+UNITED STATES DISTRICT COURT
+
+14
+
+NORTHERN DISTRICT OF CALIFORNIA
+
+15
+
+SAN FRANCISCO DIVISION
+
+16
+17
+18
+19
+20
+21
+22
+23
+24
+
+APPLERA CORPORATION – APPLIED
+BIOSYSTEMS GROUP, a Delaware corporation,
+Plaintiff,
+v.
+ILLUMINA, INC., a Delaware corporation,
+SOLEXA, INC., a Delaware corporation, and
+STEPHEN C. MACEVICZ, an individual,
+Defendants.
+
+Case No.
+
+C07 02845 WHA
+
+APPLERA CORPORATION –
+APPLIED BIOSYSTEMS
+GROUP’S OPPOSITION TO
+SOLEXA’S MOTION FOR
+PARTIAL SUMMARY
+JUDGMENT OF
+INFRINGEMENT
+Date:
+Time:
+Place:
+Judge:
+
+August 21, 2008
+8:00 a.m.
+Courtroom 9, 19th Floor
+William H. Alsup
+
+25
+26
+27
+28
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+Case 3:07-cv-02845-WHA
+
+1
+
+Document 216
+
+Filed 07/31/2008
+
+Page 2 of 29
+
+TABLE OF CONTENTS
+
+2
+3
+4
+5
+
+Page
+I.
+II.
+III.
+
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+IV.
+
+INTRODUCTION .............................................................................................................. 1
+FACTS ................................................................................................................................ 2
+ARGUMENT ...................................................................................................................... 3
+A.
+The SOLiD System Probes Do Not Infringe the ’119 Patent ................................. 3
+1.
+Application of the Doctrine of Equivalents Would Vitiate the
+Phosphoramidate Claim Limitation ............................................................ 4
+a.
+Simplicity of the Structure .............................................................. 4
+b.
+Specificity and Narrowness of the Claim........................................ 5
+c.
+Foreseeability of Variations ............................................................ 6
+2.
+Expanding Claim 1 Beyond the Phosphoramidate Limitation Would
+Render the Claim Invalid. ........................................................................... 7
+3.
+Illumina Cannot Show that a Phosphorothiolate Linkage is the
+Equivalent of a Phosphoramidate Linkage ................................................. 8
+a.
+Illumina Does Not Address the Key Differences Between
+the Linkages .................................................................................... 8
+b.
+The Differences Between the Linkages Are Substantial............... 10
+B.
+The One-Base Encoding Prototype Did Not Infringe the ’341 Patent
+Because The Primer Was Hybridized to the Binding Region, Not the
+Target Polynucleotide ........................................................................................... 11
+1.
+The Court Resolved this Issue During Claim Construction...................... 11
+2.
+The Court Rejected Illumina’s Proposed Construction ............................ 13
+3.
+Illumina is Precluded from Asserting Equivalents.................................... 14
+a.
+Prosecution History Estoppel........................................................ 14
+b.
+Disclosure-Dedication Rule .......................................................... 15
+4.
+Hybridizing the Primer to the Target Polynucleotide is Not
+Equivalent to Hybridizing the Primer to the Binding Region................... 16
+C.
+The One-Base Encoding Prototype Was Used To Identify A Base Within
+Each Cycle, But It Did Not Infringe ..................................................................... 17
+D.
+Illumina Is Not Entitled To Summary Judgment Because It Cannot
+Overcome AB’s Affirmative Defenses ................................................................. 20
+1.
+AB owns the patents ................................................................................. 21
+2.
+AB has equitable rights to practice the patents based on Macevicz’s
+obligation to assign the inventions to AB. ................................................ 22
+3.
+The facts establish that Illumina is estopped by Macevicz’s breach
+from asserting the patents against AB....................................................... 22
+4.
+Illumina’s claims are barred by the doctrine of unclean hands................. 23
+CONCLUSION ................................................................................................................. 25
+
+28
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+i
+
+Case 3:07-cv-02845-WHA
+
+1
+
+Document 216
+
+Filed 07/31/2008
+
+Page 3 of 29
+
+TABLE OF AUTHORITIES
+
+2
+
+Page
+
+3
+
+CASES
+
+4
+
+Arachnid, Inc. v. Merit Indus., Inc.,
+939 F.2d 1574 (Fed. Cir. 1991)............................................................................................... 22
+
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+
+Baxter Diagnostics, Inc. v. AVL Scientific Corp.,
+924 F. Supp. 994,
+modified on other grounds, 954 F. Supp. 199 (C.D. Cal. 1996) ............................................. 18
+Digeo, Inc. v. Audible, Inc.,
+No. C05-464JLR, 2006 U.S. Dist. LEXIS 62994 (W.D. Wash. Aug. 24, 2006).................... 22
+Embrex, Inc. v. Serv. Eng’g Corp.,
+216 F.3d 1343 (Fed. Cir. 2000)............................................................................................... 18
+Enreach Tech. Inc. v. Embedded Internet Solutions,
+403 F. Supp. 2d 968 (N.D. Cal. 2005) .................................................................................... 22
+Freedman Seating Co. v. Am. Seating Co.,
+420 F.3d 1350 (Fed. Cir. 2005),
+cert. denied, 546 U.S. 1150 (2006) ........................................................................................... 4
+Graver Tank & Mfg. Co. v. Linde Air Prods. Co.,
+339 U.S. 605 (1950) .............................................................................................................. 8, 9
+Int’l Gamco, Inc. v. Multimedia Games, Inc.,
+504 F.3d 1273 (Fed. Cir. 2007)............................................................................................... 21
+
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+Johnson & Johnston Assocs., Inc. v. R.E. Serv. Co.,
+285 F.3d 1046 (Fed. Cir. 2002)............................................................................................... 15
+K-2 Corp. v. Salomon S.A.,
+191 F.3d 1356 (Fed. Cir. 1999)................................................................................................. 7
+Lockheed Martin Corp. v. Space Sys./Loral, Inc.,
+324 F.3d 1308 (Fed. Cir. 2003)................................................................................................. 4
+Maxon Premix Burner Co. v. Eclipse Fuel Eng’g Co.,
+471 F.2d 308 (7th Cir. 1972)................................................................................................... 18
+Norian Corp. v. Stryker Corp.,
+432 F.3d 1356 (Fed. Cir. 2005)............................................................................................... 14
+PC Connector Solutions LLC v. SmartDisk Corp.,
+406 F.3d 1359 (Fed. Cir. 2005)........................................................................................... 9, 10
+
+28
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+ii
+
+Case 3:07-cv-02845-WHA
+
+1
+
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+Filed 07/31/2008
+
+Page 4 of 29
+
+TABLE OF AUTHORITIES
+(continued)
+
+2
+3
+
+Document 216
+
+Page
+Pfizer, Inc. v. Teva Pharms. USA, Inc.,
+429 F.3d 1364 (Fed. Cir. 2005)......................................................................................... 15, 16
+PSC Computer Prods., Inc. v. Foxconn Int’l, Inc.,
+355 F.3d 1353 (Fed. Cir. 2004)......................................................................................... 15, 16
+Purdue Pharma L.P. v. Faulding Inc.,
+230 F.3d 1320 (Fed. Cir. 2000)................................................................................................. 8
+Sage Prods., Inc. v. Devon Indus., Inc.,
+126 F.3d 1420 (Fed. Cir. 1997)......................................................................................... 4, 5, 6
+Starsight Telecast v. Gemstar Dev. Corp.,
+No. C 93-20777 RMW(EAI), 1995 U.S. Dist. LEXIS 22006 (N.D. Cal. Aug. 11,
+1995) ................................................................................................................................. 23, 24
+Styne v. Stevens,
+26 Cal. 4th 42 (2001) .............................................................................................................. 20
+
+13
+14
+15
+16
+17
+
+Tanabe Seiyaku Co. v. United States Int’l Trade Comm’n,
+109 F.3d 726 (Fed. Cir. 1997)..................................................................................... 5, 6, 7, 11
+U.S. v. Georgia-Pacific Co.,
+421 F.2d 92 (9th Cir. 1970)..................................................................................................... 23
+Wilson Sporting Goods Co. v. David Geoffrey & Assocs.,
+904 F.2d 677 (Fed. Cir. 1990)................................................................................................... 8
+
+18
+19
+20
+21
+
+STATUTES
+35 U.S.C. § 154(a)(1).................................................................................................................... 21
+
+22
+23
+
+OTHER AUTHORITIES
+
+24
+
+3 Bernard E. Witkin, California Procedure, Actions § 423, at 532 (4th ed. 1997) ...................... 20
+
+25
+
+10B Charles Alan Wright & Arthur R. Miller, Federal Practice and Procedure: Civil
+§ 2734, at 256 (3d ed. 2008) ................................................................................................... 20
+
+26
+27
+28
+
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+iii
+
+Case 3:07-cv-02845-WHA
+
+1
+
+Document 216
+
+Filed 07/31/2008
+
+Page 5 of 29
+
+Applera Corporation – Applied Biosystems Group (“AB”) hereby opposes Solexa, Inc.’s1
+
+2
+
+Motion for Partial Summary Judgment of Infringement (“Illumina’s Motion”).
+
+3
+
+MEMORANDUM OF POINTS AND AUTHORITIES
+
+4
+
+I.
+
+5
+
+Illumina concedes that the sole asserted claim of the ’119 patent is not literally infringed
+
+INTRODUCTION
+
+6
+
+because the probes used in the SOLiD™ System do not contain the claimed phosphoramidate
+
+7
+
+linkage. The Patent Office only allowed the patent to issue because a phosphoramidate linkage is
+
+8
+
+different from other linkages. Finding the two structures equivalent would vitiate the
+
+9
+
+phosphoramidate linkage limitation on which the Patent Office expressly relied.
+
+10
+
+The ’341 patent requires that the initializing oligonucleotide probe (also known as the
+
+11
+
+primer) hybridize to the target polynucleotide. During claim construction the Court correctly
+
+12
+
+declined to redraft this requirement, stating: “The language makes clear that a binding region and
+
+13
+
+the target polynucleotide are connected, and together form the template. . . . The binding region,
+
+14
+
+target polynucleotide, and template are each distinct items.” (Claim Constr. Order (“Order”),
+
+15
+
+Docket No. 33, at 8-9.) Illumina’s continuing disagreement with the Court is not a basis on
+
+16
+
+which it can avoid summary judgment, much less a basis on which it can obtain summary
+
+17
+
+judgment. In the accused products, the primer hybridizes to the known binding region, not the
+
+18
+
+target polynucleotide, and therefore they do not infringe.
+
+19
+
+Illumina’s final assertion – that a prototype system was used to test ligation chemistry – is
+
+20
+
+trivial in the context of the overall case. Like the Macevicz invention, the prototype used one-
+
+21
+
+base encoded probes in which the label on each probe corresponded one-to-one with the identity
+
+22
+
+of the target nucleotide being interrogated. The one-base prototype was only for internal research
+
+23
+
+and was never sold. Illumina did not even have its damages expert evaluate damages attributable
+
+24
+
+to the prototype. The only significant issue is whether the commercialized SOLiD System, which
+
+25
+26
+27
+
+1
+
+AB filed its own motion for summary judgment of noninfringement against all
+Defendants, which it refers to collectively as “Illumina.” (AB’s Motion for Summary Judgment
+of Noninfringement (“AB’s Motion”), Docket No. 207, at 1.) Since Solexa was acquired by
+Illumina, AB refers to “Illumina” in this brief as well.
+
+28
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+1
+
+Case 3:07-cv-02845-WHA
+
+Document 216
+
+Filed 07/31/2008
+
+Page 6 of 29
+
+1
+
+uses two-base encoded probes and corresponding software, determines the identity of a base
+
+2
+
+within each cycle. Illumina does not address the commercial system in its motion, except in its
+
+3
+
+discussion of the ’119 patent.
+
+4
+
+AB’s affirmative defenses relating to ownership, standing, shop rights, equitable title,
+
+5
+
+estoppel, and unclean hands also preclude granting summary judgment to Illumina. While the
+
+6
+
+facts establish that legal and equitable title properly lie with AB, the Court has already held that
+
+7
+
+these issues will be decided at trial, not by motion. Because infringement cannot be found
+
+8
+
+without first overcoming AB’s affirmative defenses, genuine issues of material fact exist, and
+
+9
+
+Illumina’s motion must be denied.
+
+10
+
+II.
+
+11
+
+The operation of the SOLiD System is described in AB’s motion for summary judgment
+
+FACTS
+
+12
+
+of noninfringement. (AB’s Motion at 3-6.) Illumina does not challenge AB’s description of how
+
+13
+
+the accused products work. Thus, there are no genuinely disputed facts that preclude granting
+
+14
+
+AB’s motion for summary judgment.2
+
+15
+
+The accused products and asserted patent claims at issue in the parties’ motions for
+
+16
+
+summary judgment are summarized in the table below. On the sole asserted claim of the ’119
+
+17
+
+patent, both AB and Illumina seek summary judgment as to all accused products. On the ’341
+
+18
+
+patent, AB seeks summary judgment of noninfringement of all asserted claims as to all accused
+
+19
+
+products. Illumina has moved only on claim 1 and only as to the one-base encoding prototype.
+
+20
+
+Finally, on the sole asserted claim of the ’597 patent, AB seeks summary judgment of
+
+21
+
+noninfringement as to the two-base encoding SOLiD System. Illumina has moved only as to the
+
+22
+
+one-base encoding prototype. The overlap is shown in the table below.
+
+23
+24
+25
+26
+27
+
+2
+
+In contrast, fact issues on AB’s non-technical affirmative defenses, which are not
+grounded on how the accused products work, preclude granting Illumina’s motion. See infra
+section III.D.
+
+28
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+2
+
+Case 3:07-cv-02845-WHA
+
+1
+2
+
+Document 216
+
+Filed 07/31/2008
+
+One-base encoding prototype
+’341 patent
+
+3
+
+Page 7 of 29
+
+Two-base encoding SOLiD
+System
+
+BOTH
+(AB on all claims;
+Illumina on claim 1 only)
+
+AB only
+
+4
+
+’119 patent
+
+BOTH
+
+BOTH
+
+5
+
+’597 patent
+
+Illumina only
+
+AB only
+
+6
+7
+8
+9
+
+III.
+
+ARGUMENT
+A.
+
+The SOLiD System Probes Do Not Infringe the ’119 Patent.
+
+In naturally-occurring strands of DNA, each nucleotide is linked to its neighbor by a
+
+10
+
+linker that has an oxygen atom (O) at one end and is called a “phosphodiester.” Claim 1 of the
+
+11
+
+’119 patent requires a modified oligonucleotide probe in which this oxygen atom is replaced with
+
+12
+
+a nitrogen atom (N) and hydrogen atom (H); this linker is called a “phosphoramidate.” Illumina
+
+13
+
+concedes that the probes used in the SOLiD System do not literally infringe because they contain
+
+14
+
+a sulfur atom (S) instead of the claimed nitrogen-hydrogen linkage; this linker is called a
+
+15
+
+“phosphorothiolate.” (Illumina’s Motion at 8.) The three different linkages (along with the
+
+16
+
+Beaton patent linkage, discussed later) are illustrated below.
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+
+Illumina should be precluded as a matter of law from asserting the doctrine of equivalents
+
+27
+
+because it would vitiate the phosphoramidate linkage limitation that was critical to the allowance
+
+28
+
+of claim 1. Moreover, Illumina fails to address the central and substantial difference between the
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+3
+
+Case 3:07-cv-02845-WHA
+
+Document 216
+
+Filed 07/31/2008
+
+Page 8 of 29
+
+1
+
+claimed phosphoramidate linkage and the phosphorothiolate linkage of the probes used in the
+
+2
+
+SOLiD System. Therefore, Illumina’s motion for summary judgment should be denied.
+
+3
+4
+5
+
+1.
+
+Application of the Doctrine of Equivalents Would Vitiate the
+Phosphoramidate Claim Limitation.
+
+The Federal Circuit holds that “an element of an accused product or process is not, as a
+
+6
+
+matter of law, equivalent to a limitation of the claimed invention if such a finding would entirely
+
+7
+
+vitiate the limitation.” Freedman Seating Co. v. Am. Seating Co., 420 F.3d 1350, 1358 (Fed. Cir.
+
+8
+
+2005), cert. denied, 546 U.S. 1150 (2006) (citation omitted). The factors in determining vitiation
+
+9
+
+include “the simplicity of the structure, the specificity and narrowness of the claim, and the
+
+10
+
+foreseeability of variations at the time of filing the claim with the PTO.” Id. at 1360. All of these
+
+11
+
+considerations show that deeming a sulfur linkage (phosphorothiolate) to be the equivalent of the
+
+12
+
+claimed nitrogen-hydrogen linkage (phosphoramidate) would vitiate the claim limitation.
+
+13
+
+Whether an asserted equivalent would vitiate the claim limitation is a question of law for the
+
+14
+
+Court. Id. at 1358; Lockheed Martin Corp. v. Space Sys./Loral, Inc., 324 F.3d 1308, 1321 (Fed.
+
+15
+
+Cir. 2003) (citation omitted) (“[I]f a court determines that a finding of infringement under the
+
+16
+
+doctrine of equivalents ‘would entirely vitiate a particular claimed element,’ then the court should
+
+17
+
+rule that there is no infringement under the doctrine of equivalents.”).
+
+18
+19
+
+a.
+
+Simplicity of the Structure.
+
+The simplicity of the structure refers to whether any subtlety of language, complexity of
+
+20
+
+the technology, or subsequent change in the state of the art could have “obfuscated the
+
+21
+
+significance of [the] limitation at the time of its incorporation into the claim.” Sage Prods., Inc.
+
+22
+
+v. Devon Indus., Inc., 126 F.3d 1420, 1425 (Fed. Cir. 1997). No such obfuscation exists here.
+
+23
+
+Claim 1 of the ’119 patent claims an oligonucleotide probe with a simple chemical formula.
+
+24
+
+Illumina agrees that the phosphoramidate linkage is spelled out precisely in claim 1 using
+
+25
+
+standard chemical notations. (Illumina’s Motion at 4-5 (“The term ‘─OP(=O)(O─)NH─’
+
+26
+
+likewise requires no special construction. . . . N represents nitrogen, H represents hydrogen.”)).
+
+27
+28
+
+The simplicity of the structure was confirmed by Macevicz’s own statements to the
+Examiner during prosecution. The Examiner’s initial Office Action rejected claim 1 (originally
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+4
+
+Case 3:07-cv-02845-WHA
+
+Document 216
+
+Filed 07/31/2008
+
+Page 9 of 29
+
+1
+
+numbered as claim 18 at the time) for lack of enablement and written description. (Declaration of
+
+2
+
+Steven E. Comer in Support of AB’s Motion (“Comer Decl.”), Docket No. 212, Ex. F at 2.) In
+
+3
+
+response to this rejection, Macevicz argued that “methods for synthesizing oligonucleotides
+
+4
+
+containing such phosphoramidate linkages were well known in the art,” and therefore it was not
+
+5
+
+necessary for the patent to teach these methods. (Comer Decl. Ex. G at 4.) Macevicz also cited
+
+6
+
+several references teaching such phosphoramidate linkages, demonstrating that Macevicz
+
+7
+
+understood that his claim was limited to the simple, well-known phosphoramidate linkage. (Id.)
+
+8
+9
+
+b.
+
+Specificity and Narrowness of the Claim.
+
+The Federal Circuit has held that “the doctrine of equivalents is not available for the
+
+10
+
+attainment in court of a scope of protection which encompasses subject matter deliberately
+
+11
+
+removed from examination by the PTO during prosecution through narrow claiming.” Tanabe
+
+12
+
+Seiyaku Co. v. United States Int’l Trade Comm’n, 109 F.3d 726, 732 (Fed. Cir. 1997) (citation
+
+13
+
+omitted). The rationale is that a patentee desiring broader protection should have sought broader
+
+14
+
+claims during prosecution so that the PTO could ensure that the claims that ultimately issued were
+
+15
+
+novel, useful, and nonobvious. Sage, 126 F.3d at 1425.
+
+16
+
+Macevicz chose to draft claim 1 of the ’119 patent narrowly and specifically with a
+
+17
+
+phosphoramidate linkage limitation. In fact, the Examiner allowed claim 1 because it was limited
+
+18
+
+to “the unique internucleotide linkage comprising an N atom in place of a 5’ most bridging O
+
+19
+
+atom.” The Examiner also distinguished the claimed invention from the Beaton patent (U.S.
+
+20
+
+Patent No. 5,625,050), which described a probe in which the oxygen atom is replaced with a
+
+21
+
+carbon (C) atom. The Examiner stated:
+
+22
+23
+24
+25
+26
+
+Claim 18 {which issued as claim 1 of the ’119 patent} appears to be
+allowable over the prior art because of the unique internucleotide
+linkage comprising a N atom in place of a 5’ most bridging O atom
+in an internucleotide linkage. The examiner is unaware of a
+reference that teaches such a construct. The closest prior art
+discovered against this claim is Beaton et al. [U.S. Patent no.
+5,525,050 {sic} (1997)]. Beaton et al. teach{es} oligos wherein the
+5’ most bridging O atom in an internucleotide linkage is replaced
+by a C atom.
+
+27
+28
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+5
+
+Case 3:07-cv-02845-WHA
+
+Document 216
+
+Filed 07/31/2008
+
+Page 10 of 29
+
+1
+
+(Comer Decl. Ex. F at 4 (square brackets in original, curly brackets added); Declaration of
+
+2
+
+Michael L. Metzker, Ph.D. in Support of AB’s Opposition (“Metzker Opp. Decl.”) ¶¶ 9-13, Ex. A
+
+3
+
+at Col. 3:20-24; 4:7-16, 22-26, 32-36, 48-60; 5:22-24, 29-33, 48-49, 65-67; 6:1-7:33; 15:25-30.)
+
+4
+
+Macevicz’s decision to draft claim 1 as a chemical formula with a precise
+
+5
+
+phosphoramidate limitation rendered the claim specific and narrow. Claim 1 contains other
+
+6
+
+structures defined by variables, but Macevicz specifically claimed a nitrogen-hydrogen
+
+7
+
+phosphoramidate linkage. 3 (See Illumina’s Motion at 3-4.) Similarly, in the ’341 patent,
+
+8
+
+Macevicz broadly claimed methods that include probes containing any “chemically scissile
+
+9
+
+internucleosidic linkage,” not just phosphoramidate linkages. (Comer Decl. Ex. A claim 7.)
+
+10
+
+Macevicz could have used this language in the ’119 patent to more broadly claim a class of
+
+11
+
+probes with different types of linkages, but did not.
+
+12
+
+This scenario is like that in the Tanabe case. There, the patentee argued that butanone, the
+
+13
+
+solvent used by the accused infringer, was the equivalent of acetone, the solvent claimed in the
+
+14
+
+patent. Tanabe, 109 F.3d at 729. The two solvents differ by only a single methylene (CH2)
+
+15
+
+group. Id. The Federal Circuit noted that the patentee could have more broadly claimed the class
+
+16
+
+of ketone solvents that would have included both acetone and butanone. Id. at 732. But because
+
+17
+
+the patentee chose to claim only “acetone” specifically by name, the Federal Circuit upheld the
+
+18
+
+ITC’s determination that the doctrine of equivalents should not be applied. Id. Macevicz’s claim
+
+19
+
+is even more specific – he claimed not merely by name, but by precise chemical formula.
+
+20
+21
+
+c.
+
+Foreseeability of Variations.
+
+As between the patentee and the public at large, “it is the patentee who must bear the cost
+
+22
+
+of its failure to seek protection for [a] foreseeable alteration of its claimed structure.” Sage, 126
+
+23
+
+F.3d at 1425. In the case of the ’119 patent, variations were not only foreseeable at the time of
+
+24
+25
+26
+27
+
+3
+
+Claim 1 uses three variables for the chemical formula of the claimed probe. First, the
+“(B)j” limitation is a set of nucleotides or analogs thereof numbering in the range of 1 to 12.
+Second, the “(B)k” limitation is a set of nucleotides or analogs thereof numbering in the range of
+1 to 12, such that the total number of nucleotides or analogs thereof in the (B)j and (B)k sets add
+up to no more than 12. Third, the “Bt*” limitation is “a labeled, non-extendable chainterminating moiety.” (Comer Decl. Ex. B claim 1; Illumina’s Motion at 3-4.)
+
+28
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+6
+
+Case 3:07-cv-02845-WHA
+
+Document 216
+
+Filed 07/31/2008
+
+Page 11 of 29
+
+1
+
+filing, they were also disclosed, but not claimed. The public is entitled to rely on Macevicz’s
+
+2
+
+claim drafting choices.
+
+3
+
+The specification of the ’119 patent broadly states that any type of chemically scissile
+
+4
+
+internucleosidic linkage may be employed. (Comer Decl. Ex. B at 10:16-30.) A
+
+5
+
+phosphoramidate linkage is described as only one example of the general class of chemically
+
+6
+
+scissile internucleosidic linkages. (Id.) Furthermore, as admitted by Illumina’s expert,
+
+7
+
+Dr. Backman, the availability of these other linkages was well known to persons of ordinary skill
+
+8
+
+in the art. (Backman Dep., Comer Decl. Ex. K at 25:6-26:8.) Despite the broad disclosure of
+
+9
+
+other linkages in the ’119 patent specification, Macevicz pursued only a narrow claim for probes
+
+10
+
+with phosphoramidate linkages. See Tanabe, 109 F.3d at 732 (“the doctrine of equivalents is not
+
+11
+
+available for the attainment in court of a scope of protection which encompasses subject matter
+
+12
+
+deliberately removed from examination by the PTO during prosecution through narrow
+
+13
+
+claiming”) (citation omitted).4 He did so despite being well-aware of the possible variations that
+
+14
+
+could have been claimed by relying on the specification’s broader language. Allowing Illumina
+
+15
+
+to expand the claim now to cover these other variations would improperly rewrite the claims by
+
+16
+
+vitiating the phosphoramidate linkage limitation.
+
+17
+
+2.
+
+18
+
+Expanding Claim 1 Beyond the Phosphoramidate Limitation
+Would Render the Claim Invalid.
+
+19
+
+Additionally, the Federal Circuit has held that a patentee is not entitled to a scope of
+
+20
+
+equivalents that would have rendered the claim invalid. See, e.g., K-2 Corp. v. Salomon S.A., 191
+
+21
+
+F.3d 1356, 1366-67 (Fed. Cir. 1999). Ignoring the nitrogen-hydrogen linkage limitation of claim
+
+22
+
+1 would remove the distinction relied on by the Examiner to distinguish the prior art, including
+
+23
+24
+25
+26
+27
+
+4
+
+The ’341 patent claims are to methods of sequencing by ligation. Unlike the ’119 patent
+claims, the ’341 patent claims are not solely to probes of a particular structure. Therefore, while
+Macevicz’s claims to methods using probes having any “chemically scissile internucleosidic
+linkage” in the ’341 patent show that he knew how to claim probes more broadly than he did in
+the ’119 patent, the broad language in the method claims of the ’341 patent did not subject the
+broader class of probes, as the sole object of a claim, to Examiner scrutiny. Because the ’341
+patent does not independently claim the probes themselves, there was no reason for the Examiner
+to consider the patentability of the probes, standing alone, during prosecution of the ’341 patent.
+
+28
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+7
+
+Case 3:07-cv-02845-WHA
+
+Document 216
+
+Filed 07/31/2008
+
+Page 12 of 29
+
+1
+
+the Beaton patent. It would also result in invalidity in light of other prior art references disclosing
+
+2
+
+phosphorothiolate linkages, such as the Carr patent (GB 2,236,852), which discloses an
+
+3
+
+oligonucleotide probe with the exact same sulfur atom substitution as in the probes used in the
+
+4
+
+SOLiD System. (Metzker Opp. Decl. ¶¶ 14-15, Ex. E at 14:13-14, 18:2-10, 19:16-21, 20:6-15,
+
+5
+
+20:23-27.) The claim expansion Illumina seeks would also result in invalidity due to a lack of
+
+6
+
+written description, since the specification does not disclose that Macevicz had possession of an
+
+7
+
+invention using a phosphorothiolate in place of the claimed phosphoramidate linkage. Purdue
+
+8
+
+Pharma L.P. v. Faulding Inc., 230 F.3d 1320, 1323-24 (Fed. Cir. 2000) (finding patent invalid for
+
+9
+
+failure to comply with written description requirement). Indeed, Macevicz testified that he did
+
+10
+
+not envision using phosphorothiolate as a cleavable linkage. (Declaration of Eric C. Pai in
+
+11
+
+Support of AB’s Opposition (“Pai Decl.”) Ex. 1 at 241:13-242:11.) The Court should reject
+
+12
+
+Illumina’s invitation to redraft the claim now to grant claim scope that Macevicz did not, and
+
+13
+
+could not, obtain during prosecution. Wilson Sporting Goods Co. v. David Geoffrey & Assocs.,
+
+14
+
+904 F.2d 677, 684 (Fed. Cir. 1990) (“[S]ince prior art always limits what an inventor could have
+
+15
+
+claimed, it limits the range of permissible equivalents of a claim.”).
+
+16
+17
+18
+19
+
+3.
+
+Illumina Cannot Show that a Phosphorothiolate Linkage is the
+Equivalent of a Phosphoramidate Linkage.
+a.
+
+Illumina Does Not Address the Key Differences Between
+the Linkages.
+
+Even if Illumina were entitled to assert the doctrine of equivalents as to the
+
+20
+
+phosphoramidate limitation, Illumina fails to offer the requisite proof to show infringement by
+
+21
+
+equivalents. Illumina’s motion is deficient in at least two ways.
+
+22
+
+First, Illumina applies an incorrect legal standard to its doctrine of equivalents analysis.
+
+23
+
+Illumina asserts that “because claim 1 of the ’119 patent is directed to a composition of matter”
+
+24
+
+that “contains only structural limitations,” the way in which the probe is used and the manner and
+
+25
+
+conditions in which the linkage is cleaved are irrelevant. (Illumina’s Motion at 10, 13.) This
+
+26
+
+assertion is directly contradicted by Graver Tank, the well-known case on which Illumina bases
+
+27
+
+its argument. (Id. at 11-13.) Graver Tank was a composition of matter case in which the
+
+28
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+8
+
+Case 3:07-cv-02845-WHA
+
+Document 216
+
+Filed 07/31/2008
+
+Page 13 of 29
+
+1
+
+Supreme Court held that an equivalents analysis does require consideration of the purpose and
+
+2
+
+function of the claimed ingredient:
+
+3
+
+Consideration must be given to the purpose for which an ingredient
+is used in a patent, the qualities it has when combined with the
+other ingredients, and the function it [was] intended to perform.
+
+4
+5
+
+Graver Tank & Mfg. Co. v. Linde Air Prods. Co., 339 U.S. 605, 609 (1950) (emphasis added).
+
+6
+
+Illumina quotes the same passage in its own brief, but without authority asserts that the law is the
+
+7
+
+opposite of what the Supreme Court said it is. (See Illumina’s Motion at 12.)5
+
+8
+
+Second, Illumina fails to address the evidence, or even the issue, of the central and
+
+9
+
+substantial difference between phosphoramidate and phosphorothiolate linkages – the manner and
+
+10
+
+conditions in which the linkage is cleaved. Illumina’s motion dismisses this issue as
+
+11
+
+“immaterial,” despite its own expert’s admission that the function of the linkage and its
+
+12
+
+cleavability are significant. (Backman Dep., Pai Decl. Ex. 2 at 38:24-39:4 (“Q. The claim
+
+13
+
+language doesn’t say chemically scissile internucleosidic linkage, does it? A. No. But the claim
+
+14
+
+has to be read in light of the specification where the function of the phosphoramidate linkage is to
+
+15
+
+be a chemically scissile internucleosidic linkage.”).) Illumina’s conclusory statements that this
+
+16
+
+difference is immaterial fail to meet the Federal Circuit’s requirement of “particularized evidence
+
+17
+
+and linking argument as to the ‘insubstantiality of the differences’ between the claimed invention
+
+18
+
+and the accused device.” PC Connector Solutions LLC v. SmartDisk Corp., 406 F.3d 1359, 1364
+
+19
+
+(Fed. Cir. 2005). Such conclusory statements do not raise any genuine issues of material fact to
+
+20
+21
+22
+23
+24
+25
+26
+27
+
+5
+
+Illumina also incorrectly suggests that Graver Tank stands for the blanket proposition
+that “substitution of one element (magnesium) for another (calcium)” is an insubstantial
+difference. (Illumina’s Motion at 11-12.) First of all, the actual issue was whether manganese
+silicate could be considered an “alkaline earth metal silicate” under the doctrine of equivalents.
+339 U.S. at 610 (emphasis added). Manganese is an element; alkaline earth metals are a group of
+elements having similar properties. (See Metzker Opp. Decl. ¶¶ 16-17 (citing Periodic Table of
+the Elements) Ex. B.) The case was not about whether one element could be substituted for
+another element.
+Furthermore, in Graver Tank, the Supreme Court affirmed the judgment of infringement
+based on the particular circumstances of the case and the weight of the evidentiary record, which
+included, inter alia, the fact that the specification of the patent-in-suit disclosed the alleged
+equivalent, testimony by experts familiar with both the claimed invention and the accused product
+as to the purposes of the allegedly equivalent metals, recognized scientific texts, and disclosures
+of the prior art. Graver Tank, 339 U.S. at 610-11. Illumina has offered no such evidence here.
+
+28
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+9
+
+Case 3:07-cv-02845-WHA
+
+Document 216
+
+Filed 07/31/2008
+
+Page 14 of 29
+
+1
+
+avoid summary judgment of noninfringement. Id. at 1364-65. Illumina bears the burden of proof
+
+2
+
+on this issue, yet it has not presented any evidence to support its assertion of immateriality. Thus,
+
+3
+
+Illumina cannot prevail on its motion.6
+
+4
+5
+
+b.
+
+The Differences Between the Linkages Are Substantial.
+
+Because Illumina ducked the issue, AB’s motion for summary judgment of
+
+6
+
+noninfringement showing that the differences between the claimed phosphoramidate linkage and
+
+7
+
+AB’s phosphorothiolate linkage are substantial stands unrebutted. (AB’s Motion at 24.) The
+
+8
+
+most critical difference, which Illumina avoided discussing as “immaterial,” is the manner and
+
+9
+
+conditions in which the linkages are cleaved.
+
+10
+
+An important purpose of the claimed linkage is that it is chemically cleavable. (Comer
+
+11
+
+Decl. Ex. B at 10:16-30; Backman Report, Comer Decl. Ex. I ¶¶ 113-116, 141; Backman Dep.,
+
+12
+
+Pai Decl. Ex. 2 at 38:24-39:4.) Dr. Backman acknowledges that one of the key differences
+
+13
+
+between a phosphoramidate linkage and a phosphorothiolate linkage is the pH under which each
+
+14
+
+is cleaved. According to the specification of the ’119 patent, phosphoramidate linkages are
+
+15
+
+cleaved with trifluoroacetic acid (“TFA”) under highly acidic conditions (where pH = 1). (Comer
+
+16
+
+Decl. Ex. B at 9:40-52.) By contrast, phosphorothiolate linkages are cleaved with silver nitrate
+
+17
+
+under neutral conditions (where pH = 7). (Declaration of Michael L. Metzker in Support of AB’s
+
+18
+
+Motion, Docket No. 211, Ex. 1 (“Metzker Report”) at 23.)
+
+19
+
+As Dr. Backman admitted, acidic conditions are less favorable for sequencing DNA
+
+20
+
+because they can damage the DNA. (Backman Dep., Comer Decl. Ex. K at 44:20-45:11.) He did
+
+21
+
+not know whether the acidic conditions used in the Macevicz patents would damage the DNA.
+
+22
+
+(Id.) Dr. Metzker, who has studied the issue, stated that the low pH of TFA (approximately the
+
+23
+
+pH of stomach acid) was recognized as undesirable because of the damage it would do to the
+
+24
+
+sample DNA. (Metzker Report at 22.) Accordingly, a phosphorothiolate linkage cannot be the
+
+25
+26
+27
+
+6
+
+In addition to AB’s position that Illumina should be legally precluded from asserting the
+doctrine of equivalents, the substantiality of the differences is an alternative ground on which AB
+has sought summary judgment of noninfringement of the ’119 patent. (AB’s Motion at 24-25.)
+
+28
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+10
+
+Case 3:07-cv-02845-WHA
+
+Document 216
+
+Filed 07/31/2008
+
+Page 15 of 29
+
+1
+
+equivalent of a phosphoramidate linkage. See Tanabe, 109 F.3d at 733-34 (finding substantial
+
+2
+
+difference where accused solvent produced better results than claimed solvent).7
+
+3
+
+B.
+
+4
+5
+
+The One-Base Encoding Prototype Did Not Infringe the ’341 Patent
+Because The Primer Was Hybridized to the Binding Region, Not the
+Target Polynucleotide.
+
+A key limitation of claim 1 of the ’341 patent is that step (a) requires “an initializing
+
+6
+
+oligonucleotide probe hybridized to a target polynucleotide.” In its Claim Construction Order,
+
+7
+
+the Court held that the express language of the claim requires that the initializing oligonucleotide
+
+8
+
+probe hybridize to the target polynucleotide, not the binding region. (Order at 8-9.) No accused
+
+9
+
+product – including the one-base encoding prototype at issue in Illumina’s motion – meets this
+
+10
+
+limitation. Therefore, it does not infringe the ’341 patent as a matter of law.
+
+11
+12
+
+1.
+
+The Court Resolved this Issue During Claim Construction.
+
+Illumina agrees that this is purely a claim construction issue because there is no factual
+
+13
+
+dispute over how this aspect of the one-base prototype worked. (Illumina’s Motion at 17.) The
+
+14
+
+only dispute is the correct construction of “hybridized to a target polynucleotide,” which the
+
+15
+
+Court already resolved in construing the meaning of the “initializing oligonucleotide probe.”
+
+16
+
+In its Claim Construction Order, the Court found that the patent clearly distinguishes
+
+17
+
+between the binding region and the target polynucleotide:
+
+18
+
+The language makes clear that a binding region and the target
+polynucleotide are connected, and together form the template. . . .
+The binding region, target polynucleotide, and template are each
+distinct items.
+
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+7
+
+Dr. Metzker’s report discusses several other fundamental chemical differences between
+sulfur (used in AB’s phosphorothiolate linkage) and nitrogen (used in the claimed
+phosphoramidate linkage). (Metzker Report at 22.) Illumina’s motion offers only attorney
+argument in response to these differences, such as the argument that sulfur and nitrogen exist in
+the same form (i.e., solid, liquid, or gas) when used in probes. (Illumina’s Motion at 9.)
+Illumina’s argument does not meet the evidentiary standard required for asserting equivalents, nor
+does it change the fact that the different chemical reactivities of sulfur, nitrogen, and other
+linkages lead to significant differences in the way the linkages function and the results they
+provide when used as probes in DNA sequencing methods.
+
+28
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+11
+
+Case 3:07-cv-02845-WHA
+
+Document 216
+
+Filed 07/31/2008
+
+Page 16 of 29
+
+1
+
+(Order at 8-9 (emphasis added).) The Court noted that the specification states “[p]referably, a
+
+2
+
+target polynucleotide is conjugated to a binding region to form a template, and the template is
+
+3
+
+attached to a solid phase support . . . ” (Id. at 8 (quoting ’341 patent col. 8:8–10).)
+
+4
+5
+6
+7
+
+(Id. at 9 (depicting invention “As Described in Claim 1 of the ’341 patent”).) The Court held that
+
+8
+
+the express language of the claim requires that the initializing oligonucleotide probe hybridize to
+
+9
+
+the target polynucleotide, not the binding region. (Id. at 8-9.) Further, because “the specification
+
+10
+
+teaches a different method than what is claimed,” the Court determined that “the inventor, patent
+
+11
+
+counsel, and the examiner all made a drafting error.” (Id.) The Court declined Illumina’s request
+
+12
+
+to redraft the language, holding that “[t]he express language of the claim must govern.” (Id. at 9.)
+
+13
+
+By contrast, in the one-base prototype, the initializing oligonucleotide probe hybridized to
+
+14
+
+the binding region, not the target polynucleotide. In the one-base prototype the “primer” (the
+
+15
+
+initializing oligonucleotide probe) hybridized to the “P1 adapter,” which was a fully-known
+
+16
+
+binding region (this is true for AB’s SOLiD System as well). (Backman Dep., Comer Decl.
+
+17
+
+Ex. K at 115:18-24; Backman Report, Comer Decl. Ex. I ¶ 141; Metzker Report at 9; Declaration
+
+18
+
+of Gina Costa, Ph.D. in Support of AB’s Opposition (“Costa Opp. Decl.”) ¶ 5.) Illumina’s
+
+19
+
+motion does not dispute any of these facts about the operation of the one-base prototype.
+
+20
+
+(Illumina’s Motion at 17-18.) Dr. Backman confirmed this description of the prototype in his
+
+21
+
+expert report and deposition. (Backman Dep., Comer Decl. Ex. K at 115:18-24; Backman
+
+22
+
+Report, Comer Decl. Ex. I ¶ 141.)
+
+23
+
+Based on these facts and the Court’s claim construction, the one-base prototype did not
+
+24
+
+provide “an initializing oligonucleotide probe hybridized to a target polynucleotide.” Therefore,
+
+25
+
+it did not infringe the ’341 patent, and Illumina’s motion should be denied.
+
+26
+27
+28
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+12
+
+Case 3:07-cv-02845-WHA
+
+1
+2
+
+2.
+
+Document 216
+
+Filed 07/31/2008
+
+Page 17 of 29
+
+The Court Rejected Illumina’s Proposed Construction.
+
+During the claim construction proceedings, AB made clear the impact this issue would
+
+3
+
+have on summary judgment. Nonetheless, Illumina now seeks to reargue the same claim
+
+4
+
+construction position the Court already rejected.
+
+5
+
+Illumina again conflates the “binding region” and the “target polynucleotide,” despite the
+
+6
+
+Court’s conclusion that the terms are distinct: “[t]he passage [from the specification] does not
+
+7
+
+provide an express or implied definition that requires the target polynucleotide to be distinct from
+
+8
+
+the template or binding region.” (Illumina’s Motion at 15.) Illumina repeats its argument from
+
+9
+
+the claim construction briefing that the distinctions between the target polynucleotide, the binding
+
+10
+
+region, and the template can be ignored as only part of a preferred embodiment. (Illumina’s
+
+11
+
+Motion at 15; Illumina’s Reply Claim Constr. Br., Docket No. 100, at 8, 11.) This position was
+
+12
+
+addressed and rejected during claim construction.8 (Order at 9 (“The binding region, target
+
+13
+
+polynucleotide, and template are each distinct items.”).)
+
+14
+
+Illumina incorrectly frames this de facto motion for reconsideration as a necessary
+
+15
+
+response to the Court’s claim construction: “The Court’s comments regarding a ‘drafting error’
+
+16
+
+in claim 1 of the ’341 patent indicates formal construction is necessary.” (Illumina’s Motion at
+
+17
+
+14.) The Court’s order, however, already provided a formal construction and held the opposite of
+
+18
+
+what Illumina now seeks:
+
+19
+
+21
+
+While it is tempting to just fix it up in the claim construction
+process, that temptation would be dangerous course, for it should be
+up to the PTO in the first instance to amend claims. . . . Even “a
+nonsensical result does not require the court to redraft the claims.”
+. . . Solexa’s construction must be rejected.
+
+22
+
+(Order at 9 (citations omitted).) The Court made clear that there is a drafting error in claim 1 and
+
+23
+
+that it would not redraft the claim to fix this error. Illumina’s renewed invitation to redraft the
+
+24
+
+claim language should be rejected.
+
+20
+
+25
+26
+27
+
+8
+
+Illumina also repeats two other arguments it made at the claim construction hearing,
+which were likewise rejected. (Illumina’s Motion at 16-17.)
+
+28
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+13
+
+Case 3:07-cv-02845-WHA
+
+1
+2
+
+3.
+
+Document 216
+
+Filed 07/31/2008
+
+Page 18 of 29
+
+Illumina is Precluded from Asserting Equivalents.
+
+Illumina’s motion includes the conclusory argument that this limitation could be met
+
+3
+
+alternatively under the doctrine of equivalents. (Illumina’s Motion at 18.) Illumina asserts that
+
+4
+
+hybridizing the initializing oligonucleotide probe to the known binding region is the equivalent of
+
+5
+
+the claimed invention in which the initializing oligonucleotide probe is hybridized to the target
+
+6
+
+polynucleotide. (Id.) However, Illumina is barred from asserting equivalents by each of the two
+
+7
+
+legal doctrines below.
+
+8
+9
+
+a.
+
+Prosecution History Estoppel.
+
+First, Illumina is barred by prosecution history estoppel. Amendment-based estoppel bars
+
+10
+
+Illumina from asserting the doctrine of equivalents because Macevicz narrowed the scope of the
+
+11
+
+claim limitation at issue through an amendment in response to a rejection by the Patent Office.
+
+12
+
+“[U]nder the doctrine of prosecution history estoppel, a narrowing of claim scope during
+
+13
+
+prosecution creates a presumption that the patentee has surrendered, for purposes of the doctrine
+
+14
+
+of equivalents, all subject matter falling between the scope of the original claim and the scope of
+
+15
+
+the claim as amended.” Norian Corp. v. Stryker Corp., 432 F.3d 1356, 1363 (Fed. Cir. 2005)
+
+16
+
+(citing Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co., 535 U.S. 722, 741 (2002)).
+
+17
+
+In the original application for the ’341 patent, Macevicz drafted claim 1 to read
+
+18
+
+“extending an initializing oligonucleotide along the polynucleotide.” (Comer Decl. Ex. N at 28
+
+19
+
+(emphasis added).) This original version of the claim language used the broad and general term
+
+20
+
+“polynucleotide,” rather than any of the specific terms Macevicz used in the specification: target
+
+21
+
+polynucleotide, binding region, or template. The Examiner issued an Office Action rejecting this
+
+22
+
+claim language for indefiniteness. (Comer Decl. Ex. D at 3.)
+
+23
+
+In amending the claim in response to this rejection, Macevicz could have chosen to
+
+24
+
+replace “polynucleotide” with any of those three specific terms – “target polynucleotide,”
+
+25
+
+“binding region,” or “template.” He chose “target polynucleotide” and thereby relinquished any
+
+26
+
+additional claim scope that would have been covered by those other terms or by the original term
+
+27
+
+“polynucleotide.” (Comer Decl. Ex. E at 2-3.) Illumina cannot recapture that relinquished claim
+
+28
+
+scope through the doctrine of equivalents.
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+14
+
+Case 3:07-cv-02845-WHA
+
+1
+2
+
+Document 216
+
+b.
+
+Filed 07/31/2008
+
+Page 19 of 29
+
+Disclosure-Dedication Rule.
+
+A second independent ground for precluding the doctrine of equivalents is that Macevicz
+
+3
+
+dedicated this disclosed but unclaimed subject matter to the public. The Federal Circuit has
+
+4
+
+repeatedly held that “a patent applicant who discloses but does not claim subject matter has
+
+5
+
+dedicated that matter to the public and cannot reclaim the disclosed matter under the doctrine of
+
+6
+
+equivalents.” PSC Computer Prods., Inc. v. Foxconn Int’l, Inc., 355 F.3d 1353, 1355-56 (Fed.
+
+7
+
+Cir. 2004); see also Johnson & Johnston Assocs., Inc. v. R.E. Serv. Co., 285 F.3d 1046, 1054
+
+8
+
+(Fed. Cir. 2002). Yet this is exactly what Illumina attempts to do.
+
+9
+
+Illumina admitted during claim construction that the specification of the ’341 patent
+
+10
+
+discloses hybridizing the primer to the known binding region. Illumina’s opening brief stated:
+
+11
+
+“The specifications teach that the ‘initializing oligonucleotide’ hybridizes to a known sequence.”
+
+12
+
+(Illumina’s Opening Claim Constr. Br., Docket No. 82, at 7.) The Court cited the difference
+
+13
+
+between what Macevicz disclosed in the specification and what he claimed as a further reason not
+
+14
+
+to redraft claim 1: “To be sure, the specification teaches a different method than what is claimed,
+
+15
+
+but the law is full of patents that claim less than taught in the specification (and, sadly, vice
+
+16
+
+versa).” (Order at 8.) Thus, the specification’s disclosure falls squarely within the disclosure-
+
+17
+
+dedication rule, and Illumina is barred as a matter of law from recapturing the disclosed matter
+
+18
+
+under the doctrine of equivalents.
+
+19
+
+Because of the express and precise terms of the disclosure – which both Illumina and the
+
+20
+
+Court have already recognized – Illumina cannot escape the disclosure-dedication rule by arguing
+
+21
+
+that this alternative was not “specifically identified.” See Pfizer, Inc. v. Teva Pharms. USA, Inc.,
+
+22
+
+429 F.3d 1364, 1379 (Fed. Cir. 2005). The Court already found that the specification teaches
+
+23
+
+precisely the unclaimed alternative that Illumina now asserts as an equivalent:
+
+24
+25
+26
+27
+
+Binding region (40) has a known sequence, but can vary greatly in
+length and composition. It must be sufficiently long to
+accommodate the hybridization of an initializing oligonucleotide . .
+. . Preferably, the binding region should be long enough to
+accommodate a set of different initializing oligonucleotides, each
+hybridizing to the template to produce a different starting point for
+subsequent ligation.
+
+28
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+15
+
+Case 3:07-cv-02845-WHA
+
+Document 216
+
+Filed 07/31/2008
+
+Page 20 of 29
+
+1
+
+(Order at 8 (citing ’341 patent col. 5:13-27).) Allowing Illumina to redraft the claim to recapture
+
+2
+
+what it dedicated would also undermine the public notice function that is the “driving force”
+
+3
+
+behind the disclosure-dedication rule. See Pfizer, 429 F.3d at 1379; see also PSC Computer
+
+4
+
+Prods., 355 F.3d at 1360 (“Were the patentee allowed to reclaim some specifically-disclosed-but-
+
+5
+
+unclaimed [subject] matter under the doctrine of equivalents, the public would have no way of
+
+6
+
+knowing which disclosed matter infringed and which did not.”). The burden of Macevicz’s
+
+7
+
+choices in drafting his claims falls on the patentee, not the public.
+
+8
+9
+10
+
+4.
+
+Hybridizing the Primer to the Target Polynucleotide is Not
+Equivalent to Hybridizing the Primer to the Binding Region.
+
+Even if Illumina were entitled to assert the doctrine of equivalents, it could not show that
+
+11
+
+hybridizing the primer to the binding region is equivalent to hybridizing the primer to the target
+
+12
+
+polynucleotide. Illumina’s expert, Dr. Backman, admitted that hybridizing the primer to a fully-
+
+13
+
+known binding region provides advantages in efficiency, consistency, and convenience:
+
+14
+15
+16
+17
+18
+
+Linking the target polynucleotide to a binding region of known
+sequence is advantageous because it allows predesigned initializing
+oligonucleotides to be used in the claimed method. . . . Because
+these regions and oligonucleotides are pre-designed, they can be
+tested, optimized, and kept conveniently at hand for use.
+(Backman Report, Comer Decl. Ex. I ¶ 138.)
+Moreover, hybridizing the primer to the binding region provides a known starting point
+
+19
+
+for sequencing the target polynucleotide. (Metzker Report at 9.) This is a critical and substantial
+
+20
+
+difference. A target polynucleotide can be over 500-600 nucleotides in length. (Comer Decl.
+
+21
+
+Ex. A col. 2:2-12.) Without a pre-designed binding region, the system cannot predict, control, or
+
+22
+
+know where among these hundreds of nucleotides the primer has hybridized to the target
+
+23
+
+polynucleotide. Multiple primers may hybridize to arbitrary locations, and the specification
+
+24
+
+teaches no way of knowing how many primers have hybridized or where they have hybridized.
+
+25
+
+(Metzker Report at 9.) In other words, without a predetermined starting point, the system will
+
+26
+
+start at a random, unknown location.
+
+27
+28
+
+This defeats the point of DNA sequencing. Even if the system continues to operate and
+generates some information, one has no way of knowing how that information corresponds to the
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+16
+
+Case 3:07-cv-02845-WHA
+
+Document 216
+
+Filed 07/31/2008
+
+Page 21 of 29
+
+1
+
+hundreds of nucleotides in the target polynucleotide. As Dr. Metzker puts it, the system “would
+
+2
+
+produce little usable information, since one would not know the starting point” and it “would add
+
+3
+
+an extraordinary amount of unnecessary complexity” to attempt to solve these problems. (Id.)
+
+4
+
+By contrast, using the binding region as a starting point allows the system to start from a known
+
+5
+
+location and keep track of interrogation positions.
+
+6
+
+Dr. Backman agreed at his deposition that the binding region provides a starting point for
+
+7
+
+sequencing the target polynucleotide, but failed to acknowledge its significance. (Backman Dep.,
+
+8
+
+Pai Decl. Ex. 2 at 74:15-19.) Ignoring the problems caused by not having a known starting point,
+
+9
+
+Dr. Backman made only the conclusory statement that “[w]hether the initializing oligonucleotide
+
+10
+
+is hybridized to a known, unknown, or partially known sequence does not change the function,
+
+11
+
+way, or result.” (Backman Report, Comer Decl. Ex. I ¶ 142.) This is both contrary to his own
+
+12
+
+report, and nothing close to the particularized evidence and linking argument required to show
+
+13
+
+infringement by equivalence. (Id. ¶ 138.)
+
+14
+15
+16
+
+C.
+
+The One-Base Encoding Prototype Was Used To Identify A Base
+Within Each Cycle, But It Did Not Infringe.
+
+Instead of seeking a ruling as to whether AB’s commercialized SOLiD System infringes
+
+17
+
+the ’597 patent, Illumina seeks judgment that a prototype system, which never progressed beyond
+
+18
+
+proof of concept and was never sold or offered to the public, infringed because it used one-base
+
+19
+
+encoded probes and thus determined the identity of a base in each cycle. (Declaration of Gina
+
+20
+
+Costa, Ph.D. in Support of AB’s Motion (“Costa Decl.”) ¶ 18, Docket No. 208; Comer Decl. Ex.
+
+21
+
+M at 36:7-37:22; Costa Opp. Decl. ¶¶ 4-8.) The one-base prototype is so insignificant that
+
+22
+
+Illumina did not have its damages expert evaluate damages attributable to the prototype. (Siuta
+
+23
+
+Dep., Pai Decl. Ex. 3 at 160:1-7 (“Q. If we assume that the two base encoding version of the
+
+24
+
+SOLiD system is found not to infringe, what are the appropriate damages in this case? A. I don’t
+
+25
+
+have an opinion on that at this moment. That’s not something that I considered.”); see also id. at
+
+26
+
+160:8-12, 165:15-166:3.)
+
+27
+28
+
+Although the prototype used one-base encoded probes in which the label on each probe
+corresponded one-to-one with the identity of the target nucleotide being interrogated, and was
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+17
+
+Case 3:07-cv-02845-WHA
+
+Document 216
+
+Filed 07/31/2008
+
+Page 22 of 29
+
+1
+
+therefore used to determine the identity of a base within each cycle, infringement cannot be
+
+2
+
+found, because the use was de minimis and because AB’s affirmative defenses preclude judgment
+
+3
+
+for Illumina.9 See infra section III.D.
+
+4
+
+The Federal Circuit recognizes a de minimis exception to patent infringement. Embrex,
+
+5
+
+Inc. v. Serv. Eng’g Corp., 216 F.3d 1343, 1349 (Fed. Cir. 2000). While the Federal Circuit has
+
+6
+
+not set precise boundaries for the exception, AB’s use of the prototype, which was used for
+
+7
+
+internal research and never marketed or sold to the public, qualifies for the exception. See Baxter
+
+8
+
+Diagnostics, Inc. v. AVL Scientific Corp., 924 F. Supp. 994, 1016, modified on other grounds,
+
+9
+
+954 F. Supp. 199 (C.D. Cal. 1996) (de minimis infringement exists where the manufacture or sale
+
+10
+
+is insignificant in amount and where alleged infringing activity is terminated at the de minimis
+
+11
+
+stage); Maxon Premix Burner Co. v. Eclipse Fuel Eng’g Co., 471 F.2d 308, 317 (7th Cir. 1972)
+
+12
+
+(holding that manufacture and sale of a single experimental prototype would be excused as de
+
+13
+
+minimis activity).
+
+14
+
+Analysis of the one-base prototype, however, further demonstrates why the
+
+15
+
+commercialized SOLiD System, on which AB has moved for summary judgment, does not
+
+16
+
+determine the identity of a base within each cycle as required by all of the asserted claims of the
+
+17
+
+’341 and ’597 patents.
+
+18
+
+For one, the prototype used different probes, which were designed so that only one base
+
+19
+
+produced information about (interrogated) the target fragment. (See Costa Opp. Decl. ¶¶ 5-6,
+
+20
+
+Ex. A; Backman Report, Comer Decl. Ex. I ¶¶ 75-95; Comer Decl. Ex. M at 61:24-65:15, 76:15-
+
+21
+
+85:22.) Each probe had one of four labels that corresponded to the identity of the base at the
+
+22
+
+interrogation position. The four different types of labels generally emitted energy at different
+
+23
+
+wavelengths. A digital camera recorded images in four expected wavelength ranges and
+
+24
+
+computers analyzed the images to determine which color to assign to each label. (Costa Opp.
+
+25
+26
+27
+
+9
+
+The one-base prototype also does not infringe any of the asserted claims of the ’341
+patent because the primer was hybridized to the known adapter, not to the target polynucleotide.
+(See supra section III.B. and section III.C. of AB’s motion for summary judgment of
+noninfringement.)
+
+28
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+18
+
+Case 3:07-cv-02845-WHA
+
+Document 216
+
+Filed 07/31/2008
+
+Page 23 of 29
+
+1
+
+Decl. ¶ 6; Comer Decl. Ex. M at 80:7-82:9, 99:13-100:8, 102:17-104:1.) Because the prototype
+
+2
+
+probes interrogated only one base at a time, each color corresponded one-to-one with the four
+
+3
+
+possible nucleotides at the position being interrogated. (See Costa Opp. Decl. ¶¶ 5-6, Ex. A.)
+
+4
+
+Thus, a green label indicated that the target nucleotide being interrogated was a C. (Id.; Backman
+
+5
+
+Report, Comer Decl. Ex. I ¶¶ 162-169.)
+
+6
+
+This one-to-one correspondence was similar to the labeling of the probes described in the
+
+7
+
+Macevicz patents (as discussed above with respect to the ’119 patent, the probes differ in other
+
+8
+
+ways). In the Macevicz patents, each probe is identified by a label corresponding one-to-one to
+
+9
+
+the identity of one interrogating position. Thus, once a color is determined, it identifies a specific
+
+10
+
+base in the target in each ligation cycle. (Backman Report, Comer Decl. Ex. I ¶ 61; Illumina’s
+
+11
+
+Opp’n to AB’s MSJ on Ownership, Docket No. 76, at 7; Illumina’s Opening Claim Constr. Br.,
+
+12
+
+Docket No. 82, at 2.)
+
+13
+
+This is very different from the commercialized SOLiD System, which uses two-base
+
+14
+
+encoded probes and different software. In the two-base encoded SOLiD System, a green label,
+
+15
+
+for example, corresponds with the combinations AC, CA, GT, or TG. (See AB’s Motion at 3-4.)
+
+16
+
+Thus, in the SOLiD System, a green label does not reveal which of those four combinations is
+
+17
+
+correct, which means that the target nucleotides at either position being interrogated can be an A,
+
+18
+
+C, T, or G. (Id.)
+
+19
+
+The software used in the two systems is also very different. In the one-base prototype, the
+
+20
+
+bases in the target fragment were identified within each cycle, so the computers needed only to
+
+21
+
+compare the sequence for the fragment to a publicly-available sequence of bases for the target
+
+22
+
+organism’s genome not to determine the identity of the bases (they had already been determined)
+
+23
+
+but to see where the fragment sequence fit into the larger genome. (Costa Opp. Decl. ¶ 7.) This
+
+24
+
+is very different from the SOLiD System, which requires an alignment process to determine the
+
+25
+
+identity of the target nucleotides. As discussed in more detail in AB’s motion for summary
+
+26
+
+judgment and the accompanying declarations, the software takes a known reference sequence of
+
+27
+
+nucleotides (a sequence that has already been determined for that organism) and converts it into a
+
+28
+
+color sequence by applying the same coding used to interrogate the bases in the target. (AB’s
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+19
+
+Case 3:07-cv-02845-WHA
+
+Document 216
+
+Filed 07/31/2008
+
+Page 24 of 29
+
+1
+
+Motion at 5-6.) The software then tries to find where color readings for a given fragment (a string
+
+2
+
+of 25 to 35 color readings) match the reference sequence (for humans, a string of 3.2 billion
+
+3
+
+colors). The output is a list of potential matches for each fragment. (Id.) It is only through the
+
+4
+
+alignment process that the system determines the identity of the bases in the target fragment.
+
+5
+
+D.
+
+6
+7
+
+Illumina Is Not Entitled To Summary Judgment Because It Cannot
+Overcome AB’s Affirmative Defenses.
+
+Even if the Court were to accept every representation and argument offered by Illumina,
+
+8
+
+its motion must still be denied because Illumina fails to overcome AB’s affirmative defenses.
+
+9
+
+(See Docket No. 88 at 11 (statute of limitations defense basis for denial of summary judgment).)
+
+10
+
+At a minimum, the issues of fact regarding AB’s defenses, which were not addressed by Illumina,
+
+11
+
+preclude summary judgment of infringement.10 Summary judgment of infringement is precluded
+
+12
+
+unless Illumina demonstrates that there is no genuine issue of material fact that AB’s affirmative
+
+13
+
+defenses must fail. See 10B Charles Alan Wright & Arthur R. Miller, Federal Practice and
+
+14
+
+Procedure: Civil § 2734, at 256 (3d ed. 2008) (“A claimant is entitled to summary judgment only
+
+15
+
+when . . . every one of the defenses asserted legally are insufficient”). Illumina cannot do so.
+
+16
+
+AB’s defenses ─ ownership, standing, shop rights, equitable rights to practice the patents,
+
+17
+
+estoppel, and unclean hands ─ are all based on its legal or equitable title to the Macevicz patents
+
+18
+
+and Illumina’s misconduct in claiming title to the patents. (See Docket Nos. 61, 70.) The Court
+
+19
+
+has already held that there are disputed issues of fact that require trial.11 (See Docket Nos. 88,
+
+20
+
+180.)
+
+21
+22
+23
+24
+25
+26
+27
+
+10
+
+These issues of fact do not impact AB’s own motion for summary judgment of
+noninfringement as they pertain to AB’s affirmative defenses.
+11
+
+Even if the Court had ruled on statute of limitations grounds that AB was precluded
+from making an affirmative claim of ownership of the patents, evidence of ownership would
+remain relevant to AB’s affirmative defenses. See Styne v. Stevens, 26 Cal. 4th 42, 51 (2001)
+(“Under well-established authority, a defense may be raised at any time, even if the matter alleged
+would be barred by a statute of limitations if asserted as the basis for affirmative relief.”); see
+generally 3 Bernard E. Witkin, California Procedure, Actions § 423, at 532 (4th ed. 1997). Thus,
+even if AB’s affirmative state law causes of action had been barred, defenses based on
+Macevicz’s misconduct would still be viable.
+
+28
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+20
+
+Case 3:07-cv-02845-WHA
+
+1
+
+1.
+
+Document 216
+
+Filed 07/31/2008
+
+Page 25 of 29
+
+AB owns the patents.
+
+2
+
+In addition to each of the bases for denying Illumina’s motion discussed above, summary
+
+3
+
+judgment of infringement cannot be entered because there are disputed facts establishing that AB
+
+4
+
+is the rightful owner of the Macevicz patents, not Illumina. See 35 U.S.C. § 154(a)(1) (patentee is
+
+5
+
+granted right to “exclude others” from practicing the claimed invention); Int’l Gamco, Inc. v.
+
+6
+
+Multimedia Games, Inc., 504 F.3d 1273, 1277 (Fed. Cir. 2007) (patent rights are rights to
+
+7
+
+“exclude others”). AB raised several affirmative defenses addressing its ownership claim,
+
+8
+
+including that it is the legal owner and thus cannot be excluded from practicing the patent,
+
+9
+
+Illumina is not the legal owner so it does not have standing to bring an action for infringement,
+
+10
+
+and that AB has at a minimum rights under the shop rights doctrine or the employed-to-invent
+
+11
+
+doctrine. (Docket No. 70 at 2-5.) Illumina’s motion is silent on these defenses.
+
+12
+
+As AB set forth in prior briefing, the facts establish that AB is the legal owner of the
+
+13
+
+Macevicz patents. (See e.g., Docket Nos. 58-63.) In 1992, Macevicz signed an Invention
+
+14
+
+Agreement, in which he promised to assign his inventions to AB. (Docket No. 156 Ex. 1 ¶ 2.)
+
+15
+
+The only exception in the Agreement was for inventions that were developed entirely on his own
+
+16
+
+time and without company resources, and unrelated to AB’s business. Macevicz further agreed
+
+17
+
+that if he believed the invention fell within the exception, he would promptly disclose, in writing,
+
+18
+
+what the invention was and the grounds for his belief that it fell within the exception. (Id. ¶ 7.)
+
+19
+
+Thereafter, while working for AB as Senior Patent Counsel, Macevicz purportedly invented the
+
+20
+
+subject matter of the patents-in-suit. On April 17, 1995, he filed the patent application leading to
+
+21
+
+the three patents. Four months later, on August 7, 1995, Macevicz left AB. Three weeks later, on
+
+22
+
+August 31, 1995, he purported to assign the patent application to Illumina’s predecessor, Lynx.12
+
+23
+
+(Docket No. 156 Ex. 8.) Macevicz’s actions amount to, inter alia, breach of contract, breach of
+
+24
+
+fiduciary duty, and conversion, for which AB seeks injunctive relief and a declaration of
+
+25
+
+ownership.
+
+26
+27
+
+12
+
+Lynx merged with Solexa in 2005. (Docket No. 55 ¶ 2.) Illumina acquired Solexa in
+January 2007. (Id.) The three entities are referred to collectively herein as “Illumina.”
+
+28
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+21
+
+Case 3:07-cv-02845-WHA
+
+1
+
+Document 216
+
+Filed 07/31/2008
+
+Page 26 of 29
+
+The Court has already found disputed issues of fact regarding the rights to the Macevicz
+
+2
+
+patents and denied cross motions for summary judgment, establishing AB’s prima facie case and
+
+3
+
+the existence of disputed issues of material fact relating to these defenses. (Docket Nos. 88, 180.)
+
+4
+
+Because Illumina has not ─ and cannot under the Court’s order ─ show that there is no genuine
+
+5
+
+issue of material fact that these defenses fail, summary judgment cannot be granted for Illumina.
+
+6
+
+(See Docket Nos. 61, 80.)
+
+7
+
+2.
+
+8
+9
+
+AB has equitable rights to practice the patents based on
+Macevicz’s obligation to assign the inventions to AB.
+
+Even if AB’s claim for ownership were to fail, there is also a genuine issue of material
+
+10
+
+fact regarding AB’s equitable rights to practice the claims. “Equitable title may be defined as ‘the
+
+11
+
+beneficial interest of one person whom equity regards as the real owner, although the legal title is
+
+12
+
+vested in another.’” Arachnid, Inc. v. Merit Indus., Inc., 939 F.2d 1574, 1578 n.3 (Fed. Cir. 1991)
+
+13
+
+(citing Black’s Law Dictionary 1486 (6th ed. 1990)). Thus, even if the Court were to find legal
+
+14
+
+title in Illumina, Macevicz’s contract to assign inventions to AB and his fiduciary duty establish
+
+15
+
+equitable title in AB. See id. at 1581 (“an agreement to assign in the future inventions not yet
+
+16
+
+developed may vest the promisee with equitable rights in those inventions”); Enreach Tech. Inc.
+
+17
+
+v. Embedded Internet Solutions, 403 F. Supp. 2d 968, 975-76 (N.D. Cal. 2005); see also Digeo,
+
+18
+
+Inc. v. Audible, Inc., No. C05-464JLR, 2006 U.S. Dist. LEXIS 62994, at *18-22 (W.D. Wash.
+
+19
+
+Aug. 24, 2006). As noted above, the Court has already determined that issues of fact preclude
+
+20
+
+resolution of the ownership issues, legal or equitable, prior to trial.
+
+21
+22
+23
+
+3.
+
+The facts establish that Illumina is estopped by Macevicz’s
+breach from asserting the patents against AB.
+
+As a condition of his employment with AB, Macevicz agreed to comply with AB’s
+
+24
+
+Invention Agreement. (Pai Decl. Ex. 4. (“[s]igning this [Employee Invention Agreement] is a
+
+25
+
+condition of employment.”).) Under that agreement, if Macevicz made an invention that he did
+
+26
+
+not believe he was required to assign to AB, he was still required to “[a]dvise the Company
+
+27
+
+promptly in writing” about his invention. (Docket No. 156 Ex. 1 ¶ 7.) AB relied on Macevicz’s
+
+28
+
+statements that he would comply with the invention agreement and offer letter.
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+22
+
+Case 3:07-cv-02845-WHA
+
+1
+
+Document 216
+
+Filed 07/31/2008
+
+Page 27 of 29
+
+Macevicz breached that obligation to disclose. There is no evidence of any written
+
+2
+
+disclosure that would satisfy the Invention Agreement, and Macevicz admits that he made no
+
+3
+
+such disclosure. (Pai Decl. Ex. 5 at 97:18-25, 104:24-105:7, 106:5-11, 107:2-15, 114:4-115:4.)
+
+4
+
+There is evidence, however, that if Macevicz had disclosed the inventions to AB, AB would have
+
+5
+
+been interested in them. Dr. Hunkapiller, who headed AB at the time, testified to this. (Pai Decl.
+
+6
+
+Ex. 6 at 100:19-101:25.) Dr. Frank Oaks, a current Illumina Vice President who worked at AB
+
+7
+
+throughout the time period relevant to this case, confirmed that AB would have wanted to know
+
+8
+
+about the inventions even if AB did not want to pursue them. (Pai Decl. Ex. 7 at 46:18-47:17.)
+
+9
+
+As Dr. Oaks explained, ABI “had this broad business involved in multiple things so they certainly
+
+10
+
+would have patented things outside of Sanger sequencing.” (Id. at 54:14-17.) Since Macevicz
+
+11
+
+concealed his inventions from AB, instead of disclosing them, he deprived AB of this
+
+12
+
+opportunity. Put another way, there is no question that if Macevicz had disclosed his inventions
+
+13
+
+to AB, as he was required to do, any issues would have been resolved in 1995 and this litigation
+
+14
+
+would not have happened.
+
+15
+
+AB would not have hired Macevicz had he disclosed that he would not comply with the
+
+16
+
+Invention Agreement, and it would not have continued to employ him if it had known that he
+
+17
+
+concealed an invention that he was obligated to disclose. Macevicz is thus estopped from
+
+18
+
+asserting any claims against AB based on the patents at issue in this case. See, e.g., U.S. v.
+
+19
+
+Georgia-Pacific Co., 421 F.2d 92, 96 (9th Cir. 1970) (“[e]quitable estoppel is a doctrine adjusting
+
+20
+
+the relative rights of parties based upon consideration of justice and good conscience.”) (citations
+
+21
+
+omitted). Unless Illumina can prove that it is a bona fide purchaser for value, which it cannot do
+
+22
+
+(see Docket No. 61 at 15-21), Illumina also cannot enforce the patents against AB.
+
+23
+
+4.
+
+Illumina’s claims are barred by the doctrine of unclean hands.
+
+24
+
+AB’s unclean hands defense also precludes summary judgment of infringement. There
+
+25
+
+are ample facts supporting this defense. “The [un]clean hands doctrine is applicable when 1) a
+
+26
+
+party seeking affirmative relief 2) is guilty of conduct involving fraud, deceit, unconscionability,
+
+27
+
+or bad faith 3) directly related to the matter in issue 4) that injures the other party 5) and affects
+
+28
+
+the balance of equities between the litigants.” See, e.g., Starsight Telecast v. Gemstar Dev. Corp.,
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+23
+
+Case 3:07-cv-02845-WHA
+
+Document 216
+
+Filed 07/31/2008
+
+Page 28 of 29
+
+1
+
+No. C 93-20777 RMW(EAI), 1995 U.S. Dist. LEXIS 22006, at *10-12 (N.D. Cal. Aug. 11, 1995)
+
+2
+
+(citing Precision Instrument Mfg. Co. v. Auto. Maint. Mach. Co., 324 U.S. 806, 814-815 (1945)).
+
+3
+
+The unclean hands defense primarily involves questions of fact, which Illumina’s motion does not
+
+4
+
+address. Id. at *12.
+
+5
+
+Two sets of facts establish Illumina’s unclean hands. First, as discussed above, Illumina
+
+6
+
+accepted Macevicz’s purported assignment of the patents despite Macevicz’s breach of his
+
+7
+
+obligation to disclose them to AB. See supra section III.D.3. Illumina was not a bona fide
+
+8
+
+purchaser for value, yet it has asserted those patents against AB in this case.
+
+9
+
+Second, as early as November 1994, while Macevicz was still employed with AB, Lynx
+
+10
+
+Therapeutics (a predecessor to Illumina) was already negotiating with Macevicz regarding the
+
+11
+
+assignment of a patent application to Lynx. (Docket No. 72-5.) On May 1, 1995, again while
+
+12
+
+Macevicz was still employed with AB, Lynx provided Macevicz with an Indemnity Agreement
+
+13
+
+covering liabilities arising from his conduct while working at AB. (Docket No. 72-3.) Macevicz
+
+14
+
+believes he received the Indemnity Agreement because he intended to depart from AB to Lynx.
+
+15
+
+(Pai Decl. Ex. 5 at 17:15-24.) With the Indemnity Agreement in hand, Macevicz left AB without
+
+16
+
+telling AB about his patent applications and joined Lynx. Macevicz then purported to assign to
+
+17
+
+Lynx several patent applications, including the application resulting in the Macevicz patents
+
+18
+
+asserted by Illumina in this litigation. (Docket No. 72-6.)
+
+19
+
+That Indemnity Agreement is the basis for which Illumina has been indemnifying and
+
+20
+
+providing counsel for Macevicz in this litigation over his conduct while he was still at AB.
+
+21
+
+(Docket No. 72-3; Docket No. 72-4 at 10:13-12:1, 27:12-28:7, 167:4-12; Pai Decl. Ex. 8.)
+
+22
+
+Illumina’s conduct in this litigation thus perpetuates and ratifies its earlier wrongdoing in
+
+23
+
+encouraging Macevicz to breach his obligations to AB. There is at least a genuine issue of
+
+24
+
+material fact that because Illumina assisted Macevicz’s wrongdoing, Illumina should be barred
+
+25
+
+from enforcing the patents against AB.
+
+26
+
+///
+
+27
+
+///
+
+28
+
+///
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+24
+
+Case 3:07-cv-02845-WHA
+
+Document 216
+
+Filed 07/31/2008
+
+Page 29 of 29
+
+1
+
+IV.
+
+2
+
+For the foregoing reasons, AB respectfully requests that Illumina’s motion be denied.
+
+3
+4
+5
+6
+7
+8
+
+CONCLUSION
+
+Dated: July 31, 2008
+
+MORRISON & FOERSTER LLP
+
+By:
+
+/s/ Steven E. Comer
+Steven E. Comer
+Attorneys for Plaintiff
+APPLERA CORPORATION –
+APPLIED BIOSYSTEMS GROUP
+
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+AB’S OPPOSITION TO SOLEXA’S MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT
+Case No. C07 02845 WHA
+pa-1270858
+
+25
+
+

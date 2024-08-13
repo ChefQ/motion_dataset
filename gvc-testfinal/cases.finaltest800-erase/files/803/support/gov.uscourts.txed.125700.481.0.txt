@@ -1,0 +1,532 @@
+Case 6:10-cv-00521-LED Document 481 Filed 08/13/13 Page 1 of 17 PageID #: 14500
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF TEXAS
+TYLER DIVISION
+WI-LAN INC.,
+Plaintiff,
+v.
+ALCATEL-LUCENT USA INC.; et al.,
+Defendants.
+
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+
+Civil Action No. 6:10-cv-521-LED
+Civil Action No. 6:13-cv-252-LED
+CASES CONSOLIDATED FOR
+TRIAL
+JURY TRIAL DEMANDED
+
+WI-LAN INC.’S MOTION FOR A NEW TRIAL CONCERNING
+THE NON-INFRINGEMENT OF CERTAIN CLAIMS OF U.S. PATENT
+NOS. 6,088,326; 6,222,819; 6,195,327 AND 6,381,211
+
+Case 6:10-cv-00521-LED Document 481 Filed 08/13/13 Page 2 of 17 PageID #: 14501
+
+Table of Contents
+LEGAL STANDARD..................................................................................................................... 1
+ARGUMENT .................................................................................................................................. 2
+I. Defendants’ Arguments Invited The Jury To Completely Disregard The Full Scope Of
+The Asserted Claims of the ‘326, ‘819 and ‘211 Patents ........................................................... 2
+A.
+The asserted claims of the ’326, ’819 and ’211 Patents do not require a “separate”
+overlay code ............................................................................................................................ 2
+B.
+Claim 5 of the ’326 Patent and claim 11 of the ’819 Patent do not exclude orthogonal
+codes generated on-the-fly ...................................................................................................... 6
+C.
+Defendants’ improper arguments requiring a “separate” code confused the jury and
+warrant a new trial .................................................................................................................. 7
+II.
+Defendants’ Arguments Excluded The Preferred Embodiment From The Scope Of The
+Asserted Claims of The ’326 Patent In An Effort To Confuse The Jury .................................... 8
+III. Defendants Intentionally Obfuscated The Plain Language Of The Claims And Grafted
+Extraneous Limitations Into Claim 11 Of The ’327 Patent ...................................................... 10
+IV.
+
+A New Trial Is Also Warranted On Damages And On Validity .................................... 11
+
+CONCLUSION ............................................................................................................................. 12
+
+i
+
+Case 6:10-cv-00521-LED Document 481 Filed 08/13/13 Page 3 of 17 PageID #: 14502
+
+Table of Authorities
+Cases
+Johnson v. Offshore Express, Inc.,
+845 F.2d 1347 (5th Cir. 1988) ................................................................................................ 3, 7
+Linear Technology Corp. v. International Trade Commission,
+566 F.3d 1049 (Fed. Cir. 2009) .................................................................................................. 6
+Nissho–Iwai Co., Ltd. v. Occidental Crude Sales,
+729 F.2d 1530 (5th Cir.1984) ..................................................................................... 2, 7, 10, 11
+Shows v. Jamison Bedding, Inc.,
+671 F.2d 927 (5th Cir. 1982) ...................................................................................................... 2
+Smith v. Trans World Drilling Co.,
+773 F.2d 610 (5th Cir. 1985) ...................................................................................................... 1
+Vitronics Corp. v. Conceptronic, Inc.,
+90 F.3d 1576 (Fed. Cir. 1996) .................................................................................................. 10
+Whitehead v. Food Max of Miss., Inc.,
+163 F.3d 265 (5th Cir. 1984) ...................................................................................................... 2
+Rules
+FED. R. CIV. P. 59(a)(1) ................................................................................................................... 1
+FED. R. CIV. P. 60(b) ....................................................................................................................... 2
+
+ii
+
+Case 6:10-cv-00521-LED Document 481 Filed 08/13/13 Page 4 of 17 PageID #: 14503
+
+Plaintiff Wi-LAN Inc. (“Wi-LAN”) requests a new trial on infringement of all asserted
+claims, as well as validity of the asserted claims of the ’326, ’819 and ’211 Patents.1 Wi-LAN
+makes this request because the verdict is the result of the jury’s confusion regarding the
+interpretation of the asserted claims caused by Defendants’ trial strategy—in which Defendants’
+counsel and expert witnesses repeatedly distorted the Court’s claim constructions and
+misdirected the jury with incorrect legal argument.
+Defendants’ mischaracterization of the Court’s claim constructions coupled with
+Defendants’ repeated demonization of Wi-LAN’s licensing model thoroughly confused the jury
+as to the specific fact issues being tried and generated an immense prejudice against Wi-LAN.
+Because of Defendants’ campaign of creating confusion and prejudice in the jurors’ minds, the
+trial in this case accomplished little more than to adjudicate infringement under a distorted claim
+interpretation that was wholly unsupported by the Court’s Markman Order or Federal Circuit
+precedent. Wi-LAN seeks a new trial in order to obtain a balanced and fair trial on the merits
+where both sides engage on relevant factual issues employing the Court’s actual claim
+constructions.
+LEGAL STANDARD
+“The court may, on motion, grant a new trial on all or some of the issues[.]” FED. R. CIV.
+P. 59(a)(1). The trial court’s power to grant a new trial has “long been regarded as an integral
+part of trial by jury.” See Smith v. Trans World Drilling Co., 773 F.2d 610, 613 (5th Cir. 1985).
+“[I]f the trial judge is not satisfied with the verdict of a jury, he has the right—and indeed the
+duty—to set the verdict aside and order a new trial.” Id. In deciding to grant a new trial, the
+Court “need not take the view of the evidence most favorable to the verdict winner . . . but may
+1
+
+Wi-LAN concurrently renews its Motion for Judgment As A Matter of Law as to the validity of
+the asserted claims of the ’326, ’819 and ’211 Patents. In addition, as explained in Section IV
+below, Wi-LAN requests a new trial on damages as well.
+1
+
+Case 6:10-cv-00521-LED Document 481 Filed 08/13/13 Page 5 of 17 PageID #: 14504
+
+weigh the evidence.” Whitehead v. Food Max of Miss., Inc., 163 F.3d 265, 270 (5th Cir. 1984).
+“A trial judge may order a new trial if he suspects that the jury verdict reflects confusion.”
+Nissho–Iwai Co., Ltd. v. Occidental Crude Sales, 729 F.2d 1530, 1538 (5th Cir.1984). The Fifth
+Circuit considers three factors—simplicity of the issues, the extent to which the evidence is in
+dispute, and the absence of any pernicious or undesirable occurrence at trial—as factors that
+weigh against granting a new trial. See Shows v. Jamison Bedding, Inc., 671 F.2d 927, 930-931
+(5th Cir. 1982). “When one or more of these factors are absent, however, [the Fifth Circuit] will
+affirm a new trial order even if on our own review of the ‘cold record’ we are not convinced that
+the jury verdict was against the great weight of the evidence.” See id.
+Moreover, a court may grant a motion for new trial under Rule 60(b) on the basis of
+“fraud, . . . misrepresentation, or misconduct by an opposing party[.]” See FED. R. CIV. P. 60(b).
+Granting a motion under Rule 60(b) is within the discretion of the trial court, and because this
+rule “is remedial in nature it should be liberally construed.” Johnson v. Offshore Express, Inc.,
+845 F.2d 1347, 1358 (5th Cir. 1988).
+ARGUMENT
+I.
+
+DEFENDANTS’ ARGUMENTS INVITED THE JURY TO COMPLETELY DISREGARD THE
+FULL SCOPE OF THE ASSERTED CLAIMS OF THE ’326, ’819 AND ’211 PATENTS
+A. The asserted claims of the ’326, ’819 and ’211 Patents do not require a
+“separate” overlay code
+Defendants’ presentation on non-infringement of the ’326, ’819 and ’211 Patents
+
+centered on the argument that neither the HSDPA standard nor the accused products generated a
+“separate” overlay code or “two sets of codes.” See Trial Transcript 116:12-13 (July 9, 2013
+Morning Session) (cited portions attached as Exhibit A). Indeed, Dr. Wicker testified that the
+basis of his opinion was that the overlay code had to be a “separate” code from the orthogonal
+code. See Trial Transcript 117:8-16 (July 11, 2013 Morning Session) (cited portions attached as
+2
+
+Case 6:10-cv-00521-LED Document 481 Filed 08/13/13 Page 6 of 17 PageID #: 14505
+
+Exhibit B). In doing so, Defendants’ experts grafted a variety of limitations on the asserted
+claims:
+
+
+See Ex. B, Trial Transcript 117:8-16 (July 11, 2013 Morning Session) (Dr.
+Wicker arguing, without any basis in the claims or the Court’s constructions, that
+the asserted claims of the ’326, ’819 and ’211 Patents required the overlay code to
+be “a separate sequence” and a “separate code”)
+
+
+
+See Ex. B, Trial Transcript 82:4-6 (July 11, 2013 Morning Session) (Dr. Wicker
+arguing, without any basis in the claims or the Court’s constructions, that the
+asserted claims of the ’326, ’819 and ’211 Patents required the overlay code to be
+“separate” from the orthogonal code)
+
+
+
+See Ex. B, Trial Transcript 30:14-18 (July 11, 2013 Morning Session) (Dr.
+Wicker arguing, without any basis in the claims or the Court’s constructions, that
+the asserted claims of the ’326, ’819 and ’211 Patents required that overlay code
+had to be a completely separate sequence without any overlap with the orthogonal
+code)
+
+
+
+See Ex. B, Trial Transcript 80:8-13 (July 11, 2013 Morning Session) (Dr. Wicker
+arguing, without any basis in the claims or the Court’s constructions, that the
+asserted claims of the ’326, ’819 and ’211 Patents excluded one code that
+encompassed both overlay and orthogonal codes)
+
+
+
+See Ex. B, Trial Transcript 161:17-23 (July 11, 2013 Morning Session) (Dr.
+Olivier arguing, without any basis in the claims or the Court’s constructions, that
+the asserted claims of the ’326, ’819 and ’211 Patents required the overlay code to
+be a “separate code”)
+
+3
+
+Case 6:10-cv-00521-LED Document 481 Filed 08/13/13 Page 7 of 17 PageID #: 14506
+
+
+
+See Trial Transcript 20:15-20 (July 11, 2013 Afternoon Session) (cited portions
+attached as Exhibit C) (Dr. Akl arguing, without any basis in the claims or the
+Court’s constructions, that the asserted claims of the ’211 Patents required “two
+independent codes”)
+
+Wi-LAN raised its objection to Defendants’ non-infringement theory during Defendants’
+cross-examination of Dr. Wells.
+
+See Ex. A, Trial Transcript 100:24-101:17 (July 9, 2013
+
+Morning Session); see also id. at 115:24-116:18. And, in light of the Court’s ruling on WiLAN’s objection, Wi-LAN resorted to fleshing out the baseless nature of Defendants’ noninfringement theory during cross-examination of Defendants’ expert witnesses. See generally
+Ex. B, Trial Transcript 80:1-13, 81:15-82:6, 161:17-162:3 (July 11, 2013 Morning Session).
+However, by then, Defendants’ mischaracterization of the Court’s claim constructions had
+already been implanted in the jury’s mind and, despite Wi-LAN’s efforts during crossexamination, that bell could not be un-rung.
+None of these arguments served any legitimate purpose other than to thoroughly confuse
+the jury into thinking that the claims required the overlay code to be a “separate” code or an
+“independent” code. See Ex. B, Ex. C. Nonetheless, Defendants’ experts testified that the jury
+should find non-infringement because the accused products do not have an overlay code
+“separate” from the orthogonal code. See id. In so doing, however, Defendants’ experts
+improperly shoehorned a new limitation into the claims that did not exist.
+Neither the intrinsic record nor the Court’s Markman Order require the overlay codes to
+be separate from the orthogonal codes. In fact, during the Markman hearing, Defendants
+requested the Court to insert the word “separate” into the construction for “overlay code.” See
+Dkt. No. 201 at 58 (“… I think a better construction, quite frankly, is: A second code separate
+
+4
+
+Case 6:10-cv-00521-LED Document 481 Filed 08/13/13 Page 8 of 17 PageID #: 14507
+
+from the orthogonal code that subdivides an orthogonal channel.”); see id. at 61 (“… the fact that
+these are two separate codes is important.”) The Court, however, declined to insert such a
+limitation requiring overlay codes be a “separate” code. See Dkt. 200 at 13-14. Despite the Court
+expressly rejecting Defendants’ position, Defendants nonetheless brought this argument through
+the back door by stating that the word “additional” in the Court’s construction of “overlay code”
+meant a “separate” code. See Ex. B, Trial Transcript 117:8-16 (July 11, 2013 Morning Session).
+This testimony finds no basis in the Court’s construction. Had the Court construed the “overlay
+code” to be a “separate” code, the Markman order would have so reflected. But the Court did not
+include the word “separate” in its construction, despite Defendants’ request to import such a
+limitation during the Markman hearing. Defendants’ experts successfully confused the jury by
+making an end-run around the Court’s constructions and importing extraneous limitations into
+the claims.
+Lastly, contrary to Defendants’ argument at trial, Federal Circuit precedent dictates that
+two elements of a claim are not required to be completely separate from each other in the
+absence of any such requirement in the intrinsic record. See Linear Technology Corp. v.
+International Trade Commission, 566 F.3d 1049, 1054-56 (Fed. Cir. 2009) (“[w]e agree with the
+Commission’s construction of ‘second circuit’ and ‘third circuit,’ defining the terms broadly to
+not require entirely separate and distinct circuits.”) Similarly here, there is absolutely nothing in
+the intrinsic record that mandates “overlay codes” to be separate from the “orthogonal codes.”
+Defendants’ trial theme was in clear violation of established Federal Circuit precedent, and thus,
+further mandates a new trial on the merits.2
+
+2
+
+Defendants’ arguments with respect to the “second encoder” and “overlay code generator”
+elements of the asserted claims of the ’326 and ’819 Patents, and “second decoder” and “overlay
+code generator” elements of the ’211 Patents were predicated solely on their theory that the
+5
+
+Case 6:10-cv-00521-LED Document 481 Filed 08/13/13 Page 9 of 17 PageID #: 14508
+
+B. Claim 5 of the ’326 Patent and claim 11 of the ’819 Patent do not
+exclude orthogonal codes generated on-the-fly
+The specification of the ’326 and ’819 Patents describe two techniques for generating
+orthogonal codes. One of these techniques is to generate the orthogonal codes “on-the-fly.” See
+U.S. Patent No. 6,088,326 col. 3 ll. 31-33 (attached as Exhibit E). Another is to store the
+orthogonal codes in storage and retrieve the codes as required. Id. at col. 3 ll. 33-37. Neither the
+claim language nor the intrinsic record requires these two techniques to be mutually exclusive
+such that the presence of one necessarily reflects the absence of another. Nonetheless, during his
+testimony, Dr. Wicker added a negative limitation to the claims requiring these techniques to be
+mutually exclusive. See Ex. B, Trial Transcript 42:11-43:4 (July 11, 2013 Morning Session); see
+also id. at 43:5 (“So it’s one or the other…”). Dr. Wicker improperly shoehorned this limitation
+into claim 5 of the ’326 Patent and claim 11 of the ’819 Patent by testifying that the claim
+excluded any implementation that generated orthogonal codes “on-the-fly.” See id. at 43:5-20.
+Dr. Olivier provided no explanation, other than to simply agree with Dr. Wicker with respect to
+the “storage element.” See id. at 149:20-22.
+Though there is no dispute that claim 5 of the ’326 Patent and claim 11 of the ’819 Patent
+require orthogonal codes to be stored in a storage, Defendants’ argument at trial went a step
+
+asserted claims required the “overlay codes” to be “separate” from the “orthogonal codes.” See
+Trial Transcript 179:25-180:2 (July 10, 2013 Afternoon Session) (cited portions attached as
+Exhibit D) (Dr. Wicker testifying that “[f]urthermore, there was no second encoder. Without any
+overlay codes, there’s no encoder to encode them.”); see also Ex. B, Trial Transcript 33:18-34:2
+(July 11, 2013 Morning Session); see id. at 149:6-10 (Dr. Olivier testifying that “[t]here’s also –
+because there’s no overlay code, there’s no overlay code generator … And since there’s no
+overlay code, you don’t have a second encoder for applying the overlay code.”); Ex. C, Trial
+Transcript 25:16-18 (July 11, 2013 Afternoon Session) (Dr. Akl testifying that “[s]o it makes
+sense, if there is no overlay code and no overlay code generator, there would be no second
+decoder.”). Therefore, Defendants’ arguments relating to the “second encoder,” “second
+decoder” and “overlay code generator” elements were improper for exactly the same reasons as
+their arguments relating to the “overlay code” element.
+6
+
+Case 6:10-cv-00521-LED Document 481 Filed 08/13/13 Page 10 of 17 PageID #: 14509
+
+further. Neither Dr. Wicker nor Dr. Olivier provided any evidence as to why it would be
+appropriate to import a negative limitation into these claims.3
+C. Defendants’ improper arguments requiring a “separate” code
+confused the jury and warrant a new trial
+This Court has full discretion to order a new trial if it “suspects that the jury verdict
+reflects confusion.” Nissho-Iwai Co. Ltd. v. Occidental Crude Sales, 729 F.2d 1530 at 1538 (5th
+Cir. 1984). Indeed, the Court has authority under Rule 60(b) to order a new trial on the basis of
+“misrepresentation, or misconduct by an opposing party.” Johnson v. Offshore Express Inc., 845
+F.2d 1347 at 1358 (5th Cir. 1988).
+Defendants’ arguments requiring a “separate” code did exactly that—they misrepresented
+the Court’s construction of “overlay code.”
+
+Defendants severely distorted the Court’s
+
+construction for the term “overlay code” and inserted extraneous limitations. See Ex. B, Trial
+Transcript 82:4-6 (July 11, 2013 Morning Session) (“I do agree that it has to be separate. Yes”).
+This, despite the fact that the Court, during the Markman hearing, squarely rejected Defendants’
+attempt to import the same extraneous limitation requiring the overlay codes to be “separate.”
+See Dkt. No. 201 at 58 (“… I think a better construction, quite frankly, is: A second code
+separate from the orthogonal code that subdivides an orthogonal channel.”); id. at 61 (“… the
+fact that these are two separate codes is important.”). The Court, however, declined to insert such
+a limitation requiring overlay codes be a “separate” code. See Dkt. 200 at 13-14. Defendants’
+importation of a negative limitation into claim 5 of the ’326 Patent and claim 11 of the ’819
+Patent, as described in Section I.B above similarly misdirected the jury. See Ex. B, Trial
+Transcript 42:11-43:4 (July 11, 2013 Morning Session); see id. at 43:5-20; id. at 149:20-22.
+These arguments served no purpose other than to confuse the jury. This Court should, therefore,
+3
+
+Dr. Akl did not address this issue in his trial testimony.
+7
+
+Case 6:10-cv-00521-LED Document 481 Filed 08/13/13 Page 11 of 17 PageID #: 14510
+
+order a new trial in light of Defendants’ misrepresentation and distortion of the Court’s claim
+constructions.
+II.
+
+DEFENDANTS’ ARGUMENTS EXCLUDED THE PREFERRED EMBODIMENT FROM THE
+SCOPE OF THE ASSERTED CLAIMS OF THE ’326 PATENT IN AN EFFORT TO
+CONFUSE THE JURY
+Dr. Wicker testified that neither the HSDPA standard nor the accused products infringed
+
+the asserted claims of the ’326 Patent because they did not have a “second encoder, selectively
+operable instead of the TDM encoder.” See Trial Transcript 200:11-24 (July 10, 2013 Afternoon
+Session) (cited portions attached as Exhibit D). In an attempt to prove non-infringement, Dr.
+Wicker completely distorted the claim language and interpreted “selectively operable” to mean
+that a single frequency channel is either divided using overlay codes, or divided using TDM
+techniques, but both cannot be used at the same time. See id. at 201:3-4 (“… you use one or you
+use the other, but not both” (emphasis added)); id. at 202:19-20 (“At any one time, you only get
+one of the solutions.” (emphasis added)). Dr. Wicker’s impromptu (and previously undisclosed)
+opinion on claim interpretation completely disregarded the preferred embodiment disclosed in
+Figure 15A of the ’326 Patent illustrating the same single frequency channel being selectively
+divided using overlay codes and TDM techniques, at the same time. See Ex. E, U.S. Patent No.
+6,088,326 Fig. 15A. In fact, Dr. Wicker’s testimony clearly indicated to the jury that Figure 15A
+was not within the scope of the claims. See Ex. B, Trial Transcript 97:5-7 (July 11, 2013
+Morning Session) (“The selective operability in the claim language, as opposed to this figure,
+says that we have a choice.” (emphasis added)).4
+The specification of the ’326 Patent explains that the same single frequency channel can
+have RW codes that are divided using TDM techniques (e.g., RW5 to RW11 in Fig 15A) and, at
+4
+
+Dr. Olivier adopted Dr. Wicker’s testimony with respect to the “selectively operable” claim
+element. See Ex. B, Trial Transcript 149:11-19 (July 11, 2013 Morning Session). Dr. Akl did not
+address this issue in his trial testimony.
+8
+
+Case 6:10-cv-00521-LED Document 481 Filed 08/13/13 Page 12 of 17 PageID #: 14511
+
+the same time, have RW codes that are divided using overlay codes (e.g., RW14 and RW15 in
+Fig. 15A). See Ex. E, U.S. Patent No. 6,088,326 col. 19 ll. 1-4 (“As illustrated by RW5 to RW11,
+TDM can be used on the downlink traffic channels to enable more than one CT to ST
+communication to take place on the same RW channel during each frame.” (emphasis added));
+id. at col. 19 ll. 12-17 (“It should be noted that, in both FIGS. 15A and 15B, the channels RW14
+and RW15 are reserved as a call control channel and an link acquisition channel, respectively,
+and overlay codes are employed on these channels, irrespective of whether the path is a
+downlink or an uplink path.” (emphases added)).
+By testifying that the claims require the overlay codes and TDM techniques cannot be
+applied to the same single frequency channel, Dr. Wicker and Dr. Olivier improperly excluded a
+preferred embodiment from the scope of the claims. Moreover, neither Dr. Wicker nor Dr.
+Olivier provided any evidentiary support for their claim construction excluding a preferred
+embodiment from the asserted claims. Indeed, it is well established that an interpretation of a
+claim that excludes a preferred embodiment is “rarely, if ever, correct.” Vitronics Corp. v.
+Conceptronic, Inc., 90 F.3d 1576 at 1583 (Fed. Cir. 1996) (“… a preferred (and indeed only)
+embodiment in the specification would not fall within the scope of the patent claim. Such an
+interpretation is rarely, if ever, correct and would require highly persuasive evidentiary
+support….”).
+Dr. Wicker’s and Dr. Olivier’s testimony successfully confused the jury into believing
+that the scope of the claims was much narrower than the claims as construed by the Court. This
+argument served no purpose other than to conflate the issues for the jury and this Court has full
+discretion to order a new trial because “the jury verdict reflects confusion.” Nissho-Iwai Co. Ltd.
+v. Occidental Crude Sales, 729 F.2d 1530 at 1538 (5th Cir. 1984).
+
+9
+
+Case 6:10-cv-00521-LED Document 481 Filed 08/13/13 Page 13 of 17 PageID #: 14512
+
+III.
+
+DEFENDANTS INTENTIONALLY OBFUSCATED THE PLAIN LANGUAGE OF THE
+CLAIMS AND GRAFTED EXTRANEOUS LIMITATIONS INTO CLAIM 11 OF THE ’327
+PATENT
+
+In addition to severely distorting the claim elements of the overlay patents (i.e., the ’326,
+’819 and ’211 Patents), Defendants read in extraneous limitations into claim 11 of the ’327
+Patent in arguing non-infringement. Despite the fact that the claim only requires the “parameter”
+to be “indicative of” intercell interference, Dr. Wicker testified that the parameter must “only
+measure the interference from other cells.” See Ex. B, Trial Transcript 84:22-25 (July 11, 2013
+Morning Session).5
+Dr. Wicker also read in yet another limitation into claim 11 of the ’327 Patent when he
+testified that neither the HSDPA standard nor the accused products infringed claim 11 because
+they didn’t “lock” the channels due to intercell interference. See id. at 55:12-13 (“We’re locking
+them out from all users, not simply reassigning them”); see also id. at 70:13-16 (“There is no
+situation in which one of those channels is locked out, taken out of use because of interference
+from other cells.”). However, nothing in claim 11 of the ’327 Patent requires the channels to be
+“locked” or “locked out” as Dr. Wicker testified. In fact, Dr. Wicker imported a limitation from a
+different, unrelated, and non-asserted claim (claim 5 of the ’327 Patent) that requires designating
+“one or more of said traffic channels as locked channels” into claim 11 of the ’327 Patent. See
+U.S. Patent No. 6,195,327 cl. 5 (attached as Exhibit F).
+None of these arguments served any legitimate purpose, and in making these arguments,
+Defendants confused the jury on what was required by the claims. This Court has full discretion
+
+5
+
+Dr. Olivier provided no additional explanation, other than to simply agree with Dr. Wicker’s
+opinions and provide conclusory statements. See Ex. B, Trial Transcript 138:21-139:7 (July 11,
+2013 Morning Session); id. at 140:23-141:1; id. at 154:3-5. Dr. Akl provided no testimony on
+this issue.
+10
+
+Case 6:10-cv-00521-LED Document 481 Filed 08/13/13 Page 14 of 17 PageID #: 14513
+
+to order a new trial if it “suspects that the jury verdict reflects confusion.” Nissho-Iwai Co. Ltd.
+v. Occidental Crude Sales, 729 F.2d 1530 at 1538 (5th Cir. 1984).
+IV.
+
+A NEW TRIAL IS ALSO WARRANTED ON DAMAGES AND ON VALIDITY6
+That the jury was thoroughly confused by Defendants’ trial strategy is further reflected in
+
+the verdict form where the jury answered the damages issue, finding zero damages, despite
+finding non-infringement and invalidity. See Dkt. No. 465 at 4. Given the jury’s finding on noninfringement and invalidity, and the explicit instructions on the Verdict Form, the jury had no
+reason to respond to Question 4. Id. Indeed, Question 4 of the Verdict Form requests damages
+only for those claims that the jury has “found infringed and not invalid.” See id..
+However, because a new trial is warranted on infringement, and because judgment should
+be rendered for Wi-LAN on the validity of the asserted claims (for the reasons stated in WiLAN’s Renewed Motion for Judgment As A Matter Of Law Of No Invalidity),7 Wi-LAN
+believes that it is entitled to a new trial not only on infringement but on damages as well.
+Indeed, if the claims are found infringed, Wi-LAN is entitled to no less than a reasonable royalty
+for Defendants’ infringement of the asserted claims. See 35 U.S.C. §284. There was sufficient
+evidence of a reasonable royalty damage amount adduced at trial, including the expert opinions
+of Mr. Jarosz, or alternatively the expert damages opinions of Defendants’ own experts. See Ex.
+C, Trial Transcript 54:11-25 (July 11, 2013 Afternoon Session); id. at 153:7-154:2. Therefore, if
+the claims are found infringed, Wi-LAN is entitled to a new trial where the jury can determine
+the appropriate reasonable royalty, which is not currently reflected in the jury’s verdict.
+6
+
+In the event Wi-LAN’s Renewed Motion for JMOL on Validity is not granted, a new trial on
+validity is warranted.
+7
+
+Should this Court deny Wi-LAN’s Renewed Motion for Judgment As A Matter Of Law Of No
+Invalidity, as explained in Wi-LAN’s Renewed Motion, the jury’s invalidity findings are against
+the great weight of the evidence. Therefore, at the very least, Wi-LAN is entitled to a new trial
+on validity.
+11
+
+Case 6:10-cv-00521-LED Document 481 Filed 08/13/13 Page 15 of 17 PageID #: 14514
+
+CONCLUSION
+Wi-LAN acknowledges that the Court has invested considerable resources in the first trial
+against the Defendants, but a new trial is particularly warranted here. Defendants’ strategy was to
+confuse the jury to the point where there could be no clarity on how the issue of infringement
+should even be decided. In doing so, Defendants avoided the correct framework—the claims and
+the Court’s constructions. This Court should not validate Defendants’ strategy by entering
+judgment of non-infringement without a new trial that adjudicates the question under the correct
+framework—the claims and the Court’s constructions.
+For the reasons set forth above, Wi-LAN respectfully requests that this Court grant WiLAN’s motion for new trial on the issue of infringement and damages, and if the Court denies
+Wi-LAN’s motion for judgment as a matter of law on validity, Wi-LAN also requests a new trial
+on the validity of the asserted patent claims.
+
+12
+
+Case 6:10-cv-00521-LED Document 481 Filed 08/13/13 Page 16 of 17 PageID #: 14515
+
+Dated: August 13, 2013
+
+Respectfully submitted,
+By: /s/David B. Weaver
+David B. Weaver (TX Bar 00798576)
+Lead Attorney
+Avelyn M. Ross (TX Bar 24027817)
+Ajeet P. Pai (TX Bar 24060376)
+Syed K. Fareed (TX Bar 24065216)
+Jeffrey T. Han (TX Bar 24069870)
+Seth A. Lindner (TX Bar 24078862)
+VINSON & ELKINS LLP
+2801 Via Fortuna, Suite 100
+Austin, TX 78746
+Tel: (512) 542-8400
+Fax: (512) 236-3476
+dweaver@velaw.com
+aross@velaw.com
+apai@velaw.com
+sfareed@velaw.com
+jhan@velaw.com
+slindner@velaw.com
+Steve R. Borgman (TX Bar 02670300)
+Gwendolyn Johnson Samora
+(TX Bar 00784899)
+VINSON & ELKINS LLP
+1001 Fannin Street, Suite 2500
+Houston, TX 77002-6760
+Tel: (713) 758-2222
+Fax: (713) 758-2346
+sborgman@velaw.com
+gsamora@velaw.com
+Local Counsel
+Johnny Ward (TX Bar No. 00794818)
+Wesley Hill (TX Bar No. 24032294)
+Claire Abernathy Henry
+(TX Bar No. 24053063)
+Ward & Smith Law Firm
+P.O. Box 1231
+1127 Judson Rd., Ste. 220
+Longview, TX 75606-1231
+Tel: (903) 757-6400
+Fax: (903) 757-2323
+jw@jwfirm.com
+wh@jwfirm.com
+claire@wsfirmcom
+Attorneys for Plaintiff Wi-LAN Inc.
+13
+
+Case 6:10-cv-00521-LED Document 481 Filed 08/13/13 Page 17 of 17 PageID #: 14516
+
+CERTIFICATE OF SERVICE
+The undersigned certifies that the foregoing document was filed electronically in
+compliance with Local Rule CV-5(a). As such, this document was served on all counsel who are
+deemed to have consented to electronic service on this the 13th day of August, 2013.
+
+/s/David B. Weaver
+David B. Weaver
+
+14
+
+

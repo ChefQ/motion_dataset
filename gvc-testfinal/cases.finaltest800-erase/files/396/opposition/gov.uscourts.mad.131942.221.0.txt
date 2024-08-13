@@ -1,0 +1,2331 @@
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 1 of 55
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF MASSACHUSETTS
+
+IN RE BANK OF AMERICA HOME
+AFFORDABLE MODIFICATION
+PROGRAM (HAMP) CONTRACT
+LITIGATION
+
+No. 1:10-md-02193
+
+DEFENDANT BANK OF AMERICA, N.A.’S
+OPPOSITION TO PLAINTIFFS’ MOTION FOR CLASS CERTIFICATION
+
+James W. McGarry (BBO #633726)
+Dahlia S. Fetouh (BBO #651196)
+GOODWIN PROCTER LLP
+Exchange Place
+53 State Street
+Boston, MA 02109
+Tel.: (617) 570-1000
+Fax: (617) 523-1231
+jmcgarry@goodwinprocter.com
+dfetouh@goodwinprocter.com
+Brooks R. Brown
+Keith E. Levenberg
+GOODWIN PROCTER LLP
+901 New York Ave., N.W.
+Washington, D.C. 20001
+Tel.: (202) 346-4000
+Fax: (202) 346-4444
+bbrown@goodwinprocter.com
+klevenberg@goodwinprocter.com
+Counsel to Defendant Bank of America, N.A.
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 2 of 55
+
+TABLE OF CONTENTS
+Page
+PRELIMINARY STATEMENT .....................................................................................................1
+BACKGROUND .............................................................................................................................2
+A. The Home Affordable Modification Program .....................................................................2
+B. Plaintiffs’ Claims and Motion for Class Certification .........................................................5
+C. The Named Plaintiffs ...........................................................................................................7
+D. Bank of America’s HAMP Compliance Efforts ..................................................................8
+ARGUMENT .................................................................................................................................11
+I. Individual Cases Asserting the Same Claims as Plaintiffs’ Show Why Class
+Certification Is Inappropriate .............................................................................................11
+II. Rule 23(c)(4) Does Not Permit Even the Partial Certification Plaintiffs Seek ..................15
+III. Plaintiffs Do Not Satisfy Rule 23(a) ..................................................................................18
+A. There Is No Common Question of Law or Fact...........................................................18
+1. Commonality Is Defeeated by the Necessity of Individualized Evidentiary
+Inquiries Into Borrowers’ Performance Under TPPs .............................................18
+2. Plaintiffs’ “Common Question” Cannot “Drive the Resolution of the
+Litigation” ..............................................................................................................20
+3. Commonality Is Defeated by Material Differences in Applicable State
+Law ........................................................................................................................22
+4. The UDAP and Other Common Law Claims Are Inherently Individualized ........25
+5. Unsupported and Untruthful Declarations Signed by a Few Former
+Employees and Contractors Do Not Demonstrate Commonality ..........................27
+B. Plaintiffs Are Not Typical of the Purported Class .......................................................28
+IV. Plaintiffs Do Not Satisfy Rule 23(b)..................................................................................30
+
+-i-
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 3 of 55
+
+TABLE OF AUTHORITIES
+Page(s)
+Cases
+Amarin Plastics, Inc. v. Md. Cup Corp.,
+946 F.2d 147 (1st Cir. 1991) ....................................................................................................18
+Amchem Prods. Inc. v. Windsor,
+521 U.S. 591 (1997) .................................................................................................................14
+Anderson v. PHH Mortg.,
+2012 WL 4496341 (C.D. Cal. Sept. 28, 2012) ........................................................................26
+Avevedo v. CitiMortgage, Inc.,
+2012 WL 3134222 (N.D. Ill. July 25, 2012) ............................................................................12
+Baehl v. Bank of Am., N.A.,
+2013 WL 1319635 (S.D. Ind. Mar. 29, 2013)..........................................................................13
+In re Bank of Boston Corp. Sec. Litig.,
+762 F. Supp. 1525 (D. Mass. 1991) .........................................................................................29
+Barrett v. Option One Mortg. Corp.,
+2012 WL 4076465 (D. Mass. Sept. 18, 2012) (Zobel, J.) ........................................................27
+Bassie v. Bank of Am., N.A.,
+2012 WL 6530482 (S.D. Tex. Dec. 13, 2012) .........................................................................21
+Bishop’s Prop. & Invs. LLC v. Protective Life Ins. Co.,
+255 F.R.D. 619 (M.D. Ga. 2009) .............................................................................................23
+Bosque v. Wells Fargo Bank, N.A.,
+762 F. Supp. 2d 342 (D. Mass. 2011) ................................................................................ 23-24
+Bowers v. Jefferson Pilot Fin. Ins. Co.,
+219 F.R.D. 578 (E.D. Mich. 2004) ..........................................................................................23
+Brady v. Chase Home Fin., LLC,
+2012 WL 1900606 (W.D. Mich. May 24, 2012) .....................................................................12
+Brinson v. Bank of Am., N.A.,
+2013 WL 147835 (D. Alas Jan. 13, 2013) .........................................................................12, 14
+Brown v. Am. Honda (In re New Motor Vehicles Canadian Exp. Antitrust Litig.),
+522 F.3d 6 (1st Cir. 2008) ..................................................................................................15, 16
+
+- ii -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 4 of 55
+
+Brush v. Wells Fargo Bank, N.A.,
+911 F. Supp. 2d 445 (S.D. Tex. Nov. 29, 2012) ......................................................................13
+Campusano v. BAC Home Loans Servicing LP,
+2013 WL 2302676 (E.D. Cal. Apr. 29, 2013)....................................................................19, 28
+Castano v. Am. Tobacco Co.,
+84 F.3d 734 (5th Cir. 1996) .....................................................................................................15
+Cave v. Saxon Mortg. Servs., Inc.,
+2013 WL 1915660 (E.D. Pa. May 9, 2013) .............................................................................26
+Cerdant, Inc. v. DHL Express (USA), Inc.,
+2010 WL 3397501 (S.D. Ohio Aug. 25, 2010) ........................................................................29
+Citimortgage, Inc. v. Crawford,
+2013 WL 1225387 (S.D. Ohio Mar. 26, 2013) ........................................................................23
+CLN Props., Inc. v. Republic Servs., Inc.,
+2010 WL 5146734 (D. Ariz. Dec. 13, 2010) ...........................................................................23
+Comcast Corp. v. Behrend,
+133 S. Ct. 1426 (2013) .......................................................................................................15, 30
+DeLeon v. Wells Fargo Bank, N.A.,
+2011 WL 311376 (N.D. Cal. Jan. 28, 2011) ............................................................................26
+Dix v. American Bankers Life Assur. Co.,
+415 N.W.2d 206 (Mich. 1987) .................................................................................................24
+Durmic v. J.P. Morgan Chase Bank, NA.,
+2010 WL 4825632 (D. Mass. Nov. 24, 2010) .........................................................................24
+Franklin v. GEICO,
+2011 WL 5166458 (W.D. Wash. Oct. 31, 2011) .....................................................................23
+Frost v. Wells Fargo Bank, N.A.,
+901 F. Supp. 2d 999 (W.D. Mich. 2012) .................................................................................13
+Gaines v. Boston Herald, Inc.,
+998 F. Supp. 91 (D. Mass. 1998) .............................................................................................28
+Geske v. Wells Fargo Bank, N.A.,
+2012 WL 1231835 (N.D. Tex. Apr. 12, 2012) ..................................................................12, 14
+Gikas v. JPMorgan Chase Bank, N.A.,
+2013 WL 1457042 (D.N.H. Apr. 10, 2013) .............................................................................13
+
+- iii -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 5 of 55
+
+Gomes v. Bank of Am., N.A.,
+2013 WL 2149743 (D. Haw. May 15, 2013) ...........................................................................17
+Gomez v. Bank of Am., N.A.,
+2012 WL 929790 (D. Or. Mar. 19, 2012) ..........................................................................14, 26
+Goss v. ABN AMRO Mortg. Grp., LLC,
+2012 WL 5986783 (E.D. Mich. Nov. 29, 2012) ......................................................................12
+Hayes v. Bank of Am. Corp.,
+2012 WL 4364084 (D. Nev. Sept. 21, 2012) .....................................................................13, 14
+Helmus v. Chase Home Fin., LLC,
+890 F. Supp. 2d 806 (W.D. Mich. 2012) .................................................................................12
+Johnson v. Wells Fargo Bank, N.A.,
+2013 WL 823369 (E.D. Mich. Mar. 6, 2013) ..........................................................................25
+Jones v. CitiMortgage, Inc.,
+2013 WL 1704304 (E.D. Cal. Apr. 19, 2013)..........................................................................25
+JPMorgan Chase Bank, N.A. v. Ilardo,
+940 N.Y.S.2d 829 (N.Y. Sup. Ct. 2012) ..................................................................................12
+Juarez v. SunTrust Mortg., Inc.,
+2013 WL 1983111 (E.D. Cal. May 13, 2013) .........................................................................12
+Karapetyan v. JPMorgan Chase Bank, N.A.,
+2012 WL 3308883 (E.D. Tex. June 6, 2012) ...........................................................................23
+Keosseian v. Bank of Am.,
+2012 WL 458470 (D.N.J. Feb. 10, 2012) ................................................................................25
+Kor. Supply Co. v. Lockheed Martin Corp.,
+63 P.3d 937 (Cal. 2003) .................................................................................................... 24- 25
+Krouse v. BAC Home Loans Servicing, LP,
+2011 WL 6100406 (E.D. Cal. Dec. 6, 2011) ...............................................................12, 14, 24
+Laguer v. OneWestBank, FSB,
+2013 WL 831055 (Mass. Super. Ct. Feb. 27, 2013) ................................................................26
+LeBlanc v. Bank of Am., N.A.,
+2013 WL 3146829 (W.D. Tenn. June 18, 2013) .....................................................................18
+Legore v. OneWest Bank, FSB,
+898 F. Supp. 2d 912 (D. Md. 2012) ...................................................................................13, 17
+
+- iv -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 6 of 55
+
+Leshin v. St. Charles Pontiac, Inc.,
+1997 WL 587678 (N.D. Ill. Sept. 18, 1997) ............................................................................29
+Linton v. New York Life Ins. & Annuity Corp.,
+392 F. Supp. 2d 39 (D. Mass. 2005) (Zobel, J.).......................................................................15
+London v. Wal-Mart Stores, Inc.,
+340 F.3d 1246 (11th Cir. 2003) ...............................................................................................30
+Lucia v. Wells Fargo Bank, N.A.,
+798 F. Supp. 2d 1059 (N.D. Cal. 2011) .......................................................................13, 22, 23
+Lund v. CitiMortgage, Inc.,
+2011 WL 1873690 (D. Utah May 17, 2011) ............................................................................13
+In re M3 Power Razor Sys. Mktg. & Sales Prac. Litig.,
+270 F.R.D. 45 (D. Mass. 2010) ................................................................................................23
+Marchese v. JPMorgan Chase Bank, N.A.,
+2013 WL 136427 (D. Md. Jan. 8, 2013) ..................................................................................26
+Marino v. Home Depot U.S.A., Inc.,
+245 F.R.D. 729 (S.D. Fla. 2007) ..............................................................................................23
+Marquez v. Wells Fargo Bank, N.A.,
+2013 WL 98533 (D. Mass. Jan. 8, 2013) .................................................................................13
+Matthews v. Wells Fargo Bank, N.A.,
+2012 WL 3903453 (D. Md. Sept. 6, 2012) ..............................................................................25
+McGann v. PNC Bank, N.A.,
+2013 WL 1337204 (N.D. Ill. Mar. 29, 2013)...............................................................12, 24, 26
+Miller v. Bank of Am., N.A.,
+858 F. Supp. 2d 1118 (S.D. Cal. 2012) ....................................................................................29
+Monroe v. Hughes,
+1990 WL 267361 (D. Or. Dec. 18, 1990) ................................................................................29
+Montalvo v. Bank of America Corp.,
+864 F. Supp. 2d 567 (W.D. Tex. 2012)....................................................................................24
+Nachar v. PNC Bank, N.A.,
+901 F. Supp. 2d 1012 (N.D. Ohio 2012) ............................................................................24, 29
+Nadan v. Homesales, Inc.,
+2011 WL 3584213 (E.D. Cal. Aug. 12, 2011) ...................................................................12, 24
+
+-v-
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 7 of 55
+
+Nash v. Green Tree Servicing, LLC,
+2013 WL 1867357 (E.D. Va. May 2, 2013) ............................................................................24
+In re Nassau Cty. Strip Search Cases,
+461 F.3d 219 (2d Cir. 2006).....................................................................................................15
+Nastrom v. JPMorgan Chase Bank, N.A.,
+2012 WL 5522795 (E.D. Cal. Nov. 14, 2012) .........................................................................17
+Neal v. Residential Credit Solutions, Inc.,
+2013 WL 428675 (D. Md. Feb. 1, 2013) .................................................................................26
+Nugent v. Fed’l Home Loan Mortg. Corp.,
+2013 WL 1326425 (E.D. Cal. Mar. 29, 2013) .........................................................................13
+Nungaray v. Litton Loan Servicing, LP,
+135 Cal. Rptr. 3d 442 (Cal. Ct. App. 2011) .............................................................................12
+Orthocraft, Inc. v. Sprint Spectrum, L.P.,
+2002 WL 31640477 (E.D.N.Y. Nov. 16, 2002).......................................................................16
+Pace v. CitiMortgage, Inc.,
+2013 WL 55825 (M.D. Ga. Jan. 3, 2013) ..........................................................................12, 24
+Palacio v. HSBC Bank USA, N.A.,
+2012 WL 4928878 (Mass. Super. Ct. Oct. 4, 2012) ................................................................17
+Pandit v. Saxon Mortg. Servs., Inc.,
+2012 WL 4174888 (E.D.N.Y. Sept. 17, 2012) ........................................................................12
+Pennington v. HSBC Bank USA, N.A.,
+493 F. App’x 548 (5th Cir. 2012) ............................................................................................12
+In re Pharm. Indus. Average Wholesale Price Litig.,
+252 F.R.D. 83 (D. Mass. 2008) ................................................................................................30
+In re Pharm. Indus. Avg. Wholesale Price Litig.,
+230 F.R.D. 61 (D. Mass. 2005) ................................................................................ 2, 18, 28-29
+Phillips v. WellPoint, Inc.,
+2012 WL 4904523 (S.D. Ill. Oct. 15, 2012) ............................................................................16
+Prasad v. BAC Home Loans Servicing LP,
+2010 WL 5090331 (E.D. Cal. Dec. 7, 2010) ...........................................................................12
+In re Prudential Ins. Co. of Am. SGLI/VGLI Contract Litig.,
+286 F.R.D. 155 (D. Mass. 2012) ..............................................................................................16
+
+- vi -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 8 of 55
+
+Ramirez v. Wells Fargo Bank, N.A.,
+2011 WL 1585075 (N.D. Cal. Apr. 27, 2011) .........................................................................24
+Ramos v. Bank of Am., N.A.,
+2012 WL 1999867 (D. Md. June 4, 2012) ......................................................................... 25-26
+Reitz v. Nationstar Mortg., LLC,
+2013 WL 3282875 (E.D. Mo. June 27, 2013) ................................................................... 26-27
+Salvador v. Bank of Am., N.A.,
+456 B.R. 610 (Bankr. M.D. Ga. 2011)...............................................................................12, 14
+Senter v. JPMorgan Chase Bank, N.A.,
+810 F. Supp. 2d 1339 (S.D. Fla. 2011) ..............................................................................12, 21
+Shaw v. BAC Home Loans Servicing, LP,
+2013 WL 789195 (D. Mass. Mar. 1, 2013)..............................................................................21
+Slimm v. Bank of Am. Corp.,
+2013 WL 1867035 (D.N.J. May 2, 2013) ................................................................................25
+Soin v. Fed. Nat’l Mortg. Ass’n,
+2012 WL 1232324 (E.D. Cal. Apr. 12, 2012)..........................................................................12
+Spaulding v. Wells Fargo Bank, N.A.,
+714 F.3d 769 (4th Cir. 2013) ...................................................................................................26
+Speleos v. BAC Home Loans Serv., L.P.,
+2013 WL 1442336 (D. Mass. Mar. 28, 2013) ..........................................................................26
+State v. O’Neill Investigations, Inc.,
+609 P.2d 520 (Alas 1980) ........................................................................................................24
+Stent v. Bank of Am.,
+2012 WL 760776 (D. Nev. Mar. 8, 2012) ...............................................................................25
+Stolba v. Wells Fargo & Co.,
+2011 WL 3444078 (D.N.J. Aug. 8, 2011) ...............................................................................12
+Stovall v. SunTrust Mortg., Inc.,
+2011 WL 4402680 (D. Md. Sept. 20, 2011) ................................................................12, 21, 24
+Stutman v. Chem. Bank,
+731 N.E.2d 608 (N.Y. 2000) ....................................................................................................24
+Thomas v. JPMorgan Chase & Co.,
+811 F. Supp. 2d 781 (S.D.N.Y. 2011)................................................................................13, 23
+
+- vii -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 9 of 55
+
+In re Transkaryotic Therapies, Inc. Sec. Litig.,
+2005 WL 3178162 (D. Mass. Nov. 28, 2005) .........................................................................14
+Vida v. OneWest Bank, F.S.B.,
+2010 WL 5148473 (D. Ore. Dec. 13, 2010) ............................................................................24
+Wal-Mart Stores, Inc. v. Dukes,
+131 S. Ct. 2541 (2011) .................................................................................................20, 27, 30
+White v. JPMorgan Chase Bank, N.A.,
+2013 WL 3071894 (D. Md. June 17, 2013) .............................................................................27
+Whitmer v. CitiMortgage Inc.,
+2012 WL 6677785 (N.D. Ill. Dec. 21, 2012) ...........................................................................26
+Wittkowski v. PNC Mortg.,
+2011 WL 5838517 (D. Minn. Nov. 18, 2011) .........................................................................12
+Yacoubou v. Wells Fargo Bank, N.A.,
+901 F. Supp. 2d 623 (D. Md. 2012) .........................................................................................17
+Young v. Wells Fargo Bank, N.A.,
+2013 WL 2165262 (1st Cir. May 21, 2013).................................................................13, 23, 26
+Statutes and Rules
+KY. REV. ST. § 367.220(1) .............................................................................................................24
+MO. REV. ST. § 407.025(1) ............................................................................................................24
+ALAS. STAT. § 45.50.531(a) ...........................................................................................................24
+WIS. STAT. § 100.18(11)(b)(2) .......................................................................................................24
+FED. R. CIV. P. 23 ................................................................................................................... passim
+Other Authorities
+HAMP Supplemental Directive 09-01 [App. A Ex. 3] ............................................................3, 4, 7
+HAMP Supplemental Directive 09-07 [App. A Ex. 18] ..............................................................3, 4
+HAMP Supplemental Directive 09-10 [App. A Ex. 22] ..............................................................4, 6
+HAMP Supplemental Directive 10-01 [App. A Ex. 6] ................................................................4, 5
+MAKING HOME AFFORDABLE® PROGRAM HANDBOOK FOR SERVICERS OF NON-GSE
+MORTGAGES (v4.2 May 1, 2013) ....................................................................................... 2-3, 5
+
+- viii -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 10 of 55
+
+SIGTARP-10-005, FACTORS AFFECTING IMPLEMENTATION OF THE HOME AFFORDABLE
+MODIFICATION PROG. (Mar. 25, 2010) [App. A. Ex. 1] .............................................................8
+Supplemental Documentation—Frequently Asked Questions, Home Affordable
+Modification Prog. 2009-2010 Conversion Campaign [App. A Ex. 9] ................................. 4-5
+
+- ix -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 11 of 55
+
+On its face, this case is no different from the myriad cases brought by individual plaintiffs
+claiming that mortgage servicers breached trial loan modification agreements under the federal
+Home Affordable Modification Program (HAMP) by not giving them permanent modifications.
+These cases have been dismissed by literally hundreds of courts on a variety of grounds. Just as
+significantly, the minority that have survived dismissal have invariably turned on individualized
+facts specific to each plaintiff: their satisfaction of eligibility requirements, specific oral and
+written representations made to them, even the jurisdiction where they bring suit.
+This case differs in only two respects. First, Plaintiffs purport to bring it as a class action,
+evidently figuring that claims which overwhelmingly fail individually have litigation value when
+asserted on behalf of “a hundred thousand individuals.” Pls. Ex. 13 at ¶ 13. Second, Plaintiffs
+are not even alleging they were entitled to modifications. Plaintiffs admit that many of them
+may not have qualified for HAMP, and that some unknown (and unknowable) number of class
+members may not have qualified either, but that Bank of America nevertheless harmed them by
+not sending prompt rejection letters. The putative class thus amounts to a hodgepodge of
+differently situated borrowers, including those who cannot establish a contract, those who cannot
+establish their own performance, those who cannot establish damages, and those who can only
+try to establish these things with individualized evidence of their personal course of dealings.
+Plaintiffs do not deny the individualized nature of their claims; indeed, their trial plan
+embraces it, contemplating multi-phased proceedings in which almost nothing is designated for
+classwide resolution—but individualized discovery, summary judgment proceedings, and minitrials are necessary to assess liability, damages, and “any individual defense[s]” for a hundred
+thousand claims. Dkt. #211 at 2. The plan is fatally defective for many reasons, but foremost
+among them is that Plaintiffs need individualized evidence to establish threshold elements of
+
+-1-
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 12 of 55
+
+their claims at the liability phase, not merely at the individual mini-trial phase they contemplate
+afterwards. A basic element of a breach-of-contract claim is the plaintiff’s own performance.
+Plaintiffs do not even attempt to show that this can be established on a classwide basis. Another
+basic element is damages. Plaintiffs do not attempt to show that this can be established on a
+classwide basis, either. Holding individual trials for damages calculations does not resolve this
+defect, because, as the First Circuit has held, the fact of damages across the class is a threshold
+showing Plaintiffs must make to establish liability. But even if each phase could proceed exactly
+as Plaintiffs envision, their proposal to kick the can down the road after three years of litigation
+by certifying an unusual “liability only” class and then holding individual mini-trials that would
+dwarf the purported “common” issues is a stark illustration why this case is fundamentally
+unsuitable for class treatment. If, as Judge Saris has said, “[h]olding 11,000 individual damages
+trials . . . is a management nightmare” (In re Pharm. Indus. Avg. Wholesale Price Litig., 230
+F.R.D. 61, 95 (D. Mass. 2005)), what Plaintiffs propose here is a nightmare more than tenfold.
+BACKGROUND
+A.
+
+The Home Affordable Modification Program
+The Treasury Department launched HAMP in early 2009 to make mortgage payments
+
+more affordable for homeowners at risk of foreclosure through a combination of interest-rate
+reductions, term extensions, and principal forbearance. The program guidelines—first published
+March 4, 2009, and since continuously revised and expanded through dozens of Supplemental
+Directives (SDs), FAQs, waivers, and updates, most of which have now been incorporated into
+or superseded by an official handbook that has itself undergone multiple revisions1—outline how
+
+1
+
+See, e.g., MAKING HOME AFFORDABLE® PROGRAM HANDBOOK FOR SERVICERS OF NON-GSE
+MORTGAGES (v4.2 May 1, 2013) (hereinafter “MHA HANDBOOK”). Fannie Mae and Freddie
+Mac each have their own versions of HAMP (see https://www.efanniemae.com/sf/
+-2-
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 13 of 55
+
+to assess and verify eligibility and how loans may be modified. Eligibility requirements pertain
+to lien status, occupancy, unpaid principal balance, monthly payment amounts, and borrower
+income, among other factors.
+
+Borrowers also must supply documentation to verify their
+
+income—the particular requirements for which have also undergone repeated revision2—and
+complete credit counseling in certain circumstances.
+If a loan is eligible, and the servicer is not precluded from doing so by other contractual
+arrangements or investor requirements, it must consider the borrower for a modification. In
+doing so, the servicer follows a series of steps (the “waterfall”) to adjust the monthly mortgage
+payment to 31 percent of the borrower’s pre-tax monthly income. If the waterfall produces an
+affordable payment, the servicer tests whether the cost of modifying the loan is less than the cost
+of foreclosing (the Net Present Value, or NPV, test). If it is, the servicer may offer the borrowers
+a Trial Period Plan (“TPP”) temporarily lowering their monthly payment. Until May 2010, Bank
+of America offered TPPs to borrowers using variants of a Fannie Mae/Freddie Mac form in
+which borrowers promise: (i) to provide a Hardship Affidavit; (ii) to “provide[] documentation
+for all income that I receive,” (iii) that the property is their “principal residence,” “has not been
+condemned,” and has not undergone a “change in ownership,” (iv) that “all documents and
+information I have provided . . . are true and correct,” (v) to “obtain credit counseling,” if
+required, and (vi) “[t]hat all persons who signed the Loan Documents” signed the TPP. See App.
+B (filed herewith) Ex. 10. The TPP does not take effect until both the servicer and the borrower
+sign it, and the borrower will not receive a permanent modification if Bank of America
+determines that he or she does not qualify. Id. at ¶ 2.F & G. If the borrower makes the trial
+
+mha/mhamod/, http://www.freddiemac.com/singlefamily/service/mha_modification.html), the
+guidance for which Servicers must follow separately from HAMP.
+2
+
+E.g., App. A (filed herewith) Ex. 3 (SD 09-01) at 5-8 & Ex. 18 (SD 09-07) at 2-6.
+-3-
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 14 of 55
+
+payments and otherwise satisfies the underwriting requirements, Bank of America offers a
+permanent modification which the borrower must also sign and return.
+Before Spring 2010, consistent with the HAMP guidelines at the time (compare App. A
+Ex. 3 (SD 09-01) at 5 with App. A Ex. 6 (SD 10-01) at 1-2), Bank of America issued TPPs based
+on borrowers’ unverified income representations and collected the documents needed to verify
+incomes during the trial period.3 Unsurprisingly, this resulted in a vast number of borrowers
+deemed ineligible for HAMP once their income was later verified.
+
+Additionally, many
+
+borrowers failed to submit complete documents, requiring Bank of America to request missing
+items, sometimes numerous times. While Bank of America and other servicers accommodated
+such delays by granting trial period extensions, this resulted in some borrowers’ spending
+months in trial plans only to learn they were not eligible.
+Treasury made a number of adjustments to address these challenges. Beginning in
+August 2009, Treasury issued a series of waivers allowing servicers to extend trial periods to
+allow borrowers to submit missing documents. See App. A Exs. 13-16. In October 2009, it
+eliminated a requirement that had forced servicers to make repeated requests for updated
+property valuation information. Id. Ex. 18 (SD 09-07) at 5-6. On December 23, 2009, Treasury
+issued SD 09-10, prohibiting servicers from denying any modifications for TPPs scheduled to
+expire on or before January 31, 2010 for any reason other than property specifications. Id. Ex.
+22. Treasury also issued FAQ 1222-01, providing guidance for “situations where an eligible
+borrower successfully completed the HAMP trial period but has not been converted by the
+servicer to a permanent modification in a timely fashion” and requiring that eligible borrowers be
+3
+
+See App. A ¶¶ 9-11, 21; App. C (filed herewith) Ex. 1 at 133:14-25, 219:5-220:7; Ex. 2 at
+101:15-20; Ex. 3 at BAC-HAMP045072 (“Verbal financial information dated from March 4,
+2009 forward was used to assess customer eligibility for and to place customers into Trial
+modifications.”).
+-4-
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 15 of 55
+
+offered permanent modifications “made effective as of the date the modification would have
+become effective if the servicer had converted the borrower in a timely fashion.” Id. Ex. 9 at 23; see also MHA HANDBOOK at 127-28. Ultimately, with the release of SD 10-01, Treasury
+revised the HAMP guidelines, effective June 1, 2010, to require income verification before
+offering a TPP. See App. A. Ex. 6.
+B.
+
+Plaintiffs’ Claims and Motion for Class Certification
+Plaintiffs seek to certify 26 classes of borrowers who received TPPs from Bank of
+
+America “in 2009 and the first part of 2010, pursuant to Treasury Directive SD-09.” Mot. at 12.
+In other words, they do not seek certification on behalf of borrowers who received trial plans
+after Treasury required that incomes be verified prior to trial plan issuance, or for anyone else in
+the HAMP program in the last 3 or more years. Their theory is that Bank of America breached
+their TPPs and violated various state UDAP statutes because they did not “tender” Plaintiffs
+either a permanent HAMP modification agreement or a “written denial of eligibility” “prior to
+the Modification Effective Date specified in the Trial Period Plan Agreement.” Mot. at 11-12.
+While Plaintiffs’ claims sound in contract, they are not actually based on any contractual
+language in the TPPs. In fact, nothing in the TPPs promises that Bank of America will provide
+either a permanent modification agreement or a written eligibility denial prior to the
+contemplated Modification Effective Date (“MED”).
+
+The TPPs state that if the borrower
+
+“compl[ies] with the requirements in Section 2” to make trial payments and the borrower’s
+“representations in Section 1” regarding hardship, occupancy, income, and the provision of
+supporting documentation “continue to be true in all material respects,” Bank of America “will
+send [the borrower] a [permanent] Modification Agreement for [his or her] signature.” App. B
+Ex. 10 ¶ 3. No deadline for sending the borrower the permanent modification agreement is
+
+-5-
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 16 of 55
+
+mentioned, which makes sense because borrowers had until the end of the day before the MED
+to complete their trial obligations—meaning that a borrower’s eligibility for a modification might
+not even be established until the MED. See App. C Ex. 6 at ¶ 36. And the TPPs contain no
+commitment whatsoever to send ineligible borrowers a written denial letter, either by the MED
+or at any other time. The provision addressing ineligible borrowers states, in full:
+
+App. B Ex. 10 ¶ 2.F.
+Thus, rather than basing their contract claims on an actual contract, Plaintiffs claim that
+the obligations they allege arise from HAMP guidelines. See Mot. at 4 n.11. Plaintiffs’ expert
+makes similar claims, citing to Treasury directives, not to any TPP. See, e.g., Pls. Ex. 13 ¶¶ 39,
+40, n.48, n.51. But Plaintiffs’ reliance on the program guidelines is highly selective, as Plaintiffs
+ignore all of the guidelines that contradict their theories. For example, Plaintiffs claim that
+borrowers were injured if they failed to qualify for modifications but did not receive denials at
+the end of their initial trial period—completely ignoring the Treasury directive extending trial
+periods and prohibiting Bank of America from issuing denials “for any reason other than failure
+to meet the HAMP property eligibility requirements.” App. A Ex. 22 (SD 09-10). Plaintiffs
+claim that borrowers were injured if they received permanent modifications after the MED
+contemplated by the TPP, but ignore the Treasury guidance specifically instructing servicers to
+make such modifications retroactive to the MED. Id. Ex. 9 at 2-3. And Plaintiffs persist in their
+theory that all borrowers, under all circumstances, should have had their eligibility evaluations
+finalized by the end of their trials without acknowledging the four separate waivers issued
+
+-6-
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 17 of 55
+
+allowing servicers to extend trial periods to give borrowers more time to supply required
+documents. Id. Exs. 13-16. Plaintiffs also ignore the contractual language appearing in some
+(but not all) of their TPPs expressly providing for trial period extensions for borrowers who
+made trial payments late. Compare, e.g., App. B Ex. 44 ¶ 4.E with, e.g., id. Ex. 10 (no ¶ 4.E).
+C.
+
+The Named Plaintiffs
+Plaintiffs submit 43 class representatives (inclusive of couples), but mention only one of
+
+them in their brief. Plaintiffs say that Antoun and Sabah Moussa “exemplify” their claims
+because they made their trial payments, allege they were “repeatedly” asked “to send documents
+they had already sent,” and thus claim they were wrongly denied a modification. Mot. at 10.
+Plaintiffs fail to mention that the Moussas “repeatedly” failed to send a key financial document
+until well after the MED. See App. B ¶ 7. Plaintiffs say nothing about the other 42 Plaintiffs,
+but the reality is a patchwork quilt of different situations, legal theories, and applicable defenses:
+
+
+Some of the Plaintiffs were offered a permanent HAMP modification with terms
+retroactive to their original MED. Some accepted (see App. B ¶ 24 (Lopez)), and
+some did not. See id. ¶ 16 (Carillo), ¶ 31 (Nelson).
+
+
+
+Some of the Plaintiffs failed to make their trial payments, and thus do not even come
+within the class definition. See id. ¶ 10 (George), ¶ 31 (Nelson).
+
+
+
+Some of the Plaintiffs admit making untrue representations in their TPP. See App. C
+Ex. 4 at 71:6-10, 72:1-23, 76:8-77:5, 134:23-135:10 (Galasso) & Ex. 7 at 11:8-14:13,
+124:20-125:9 (Volpe).
+
+
+
+Some of the Plaintiffs failed to provide required documents by their MED—or failed
+to provide them at all—and thus did not perform their own obligations under the TPP.
+See App. B ¶¶ 3-9 (Moussa), ¶ 10 (George), ¶ 12 (Alvarenga), ¶ 14 (Buckley), ¶ 15
+(Cabrera), ¶ 17 (Cipowski), ¶ 18 (Dugree), ¶ 19 (Goldman), ¶ 26 (McManaman), ¶ 28
+(Morrow & Clark), ¶ 29 (Kirkpatrick).
+
+
+
+Some of the Plaintiffs failed to complete the credit counseling they were obligated to
+complete under the TPP. See id. ¶ 10 (George), ¶ 13 (Balde), ¶ 21 (Hlavsa); App. C.
+Ex. 15 at 121:4-122:7, Ex. 16 at 130:7-131:6. At least one of the named Plaintiffs
+filed for bankruptcy during the trial period (see App. B. ¶ 20 (Golden)), and thus was
+eligible for HAMP only “at the servicer’s discretion.” App. A. Ex. 3 (SD 09-01) at 2.
+
+-7-
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 18 of 55
+
+D.
+
+
+
+Some of the Plaintiffs were deemed ineligible for a permanent modification based on
+their verified income and monthly payment amounts or the fact that the property was
+not their primary residence, and Plaintiffs’ only complaint is that they were not
+notified of their ineligibility sooner. See App. B ¶¶ 3-9 (Moussa), ¶ 11 (Magno), ¶ 13
+(Balde), ¶ 14 (Buckley), ¶ 15 (Cabrera), ¶ 17 (Cipowski), ¶ 18 (Dugree), ¶ 19
+(Galasso), ¶ 20 (Golden). ¶ 21 (Hlavsa), ¶ 22 (Kunsky), ¶ 29 (Kirkpatrick), ¶ 30
+(Soper). Plaintiffs do not articulate any theory that explains how such borrowers
+were damaged.
+
+
+
+Some of the named Plaintiffs entered into their TPPs with Wilshire Credit Corp., not
+Bank of America, with MEDs before Bank of America even serviced their loans (see
+id. ¶ 12 (Alvarenga); App. C ¶ 22 (Freeman), ¶ 27 (Hall)), including at least one
+Wilshire declined for a permanent HAMP modification before transferring servicing
+to Bank of America. App. B ¶ 12 (Alvarenga).
+
+
+
+At least one of the Plaintiffs claims an oral contract with Bank of America. See id. ¶
+21 (Hlavsa); App. C Ex. 8 at 95:3-96:13, 134:17-137:10.
+
+
+
+Some of the Plaintiffs were offered other loan modifications after they originally
+failed to qualify for HAMP. Some of those Plaintiffs turned those modifications
+down, thus failing to mitigate their alleged damages. See App. B ¶ 9 (Moussa), ¶ 10
+(George), ¶ 18 (Dugree), ¶ 27 (Mikhail), ¶ 30 (Soper). Others accepted the
+modifications (see id. ¶ 11 (Magno), ¶ 13 (Balde), ¶ 15 (Cabrera), ¶ 25
+(Manfredonia), ¶ 26 (Morrow & Clark)), and Plaintiffs offer no evidence, nor any
+method by which such evidence could be adduced, that those modifications are less
+favorable than the modifications Plaintiffs claim they should have gotten.4
+
+Bank of America’s HAMP Compliance Efforts
+Bank of America has converted more trial and permanent HAMP modifications than any
+
+other loan servicer. The program has not been free of challenges, but Bank of America has
+dedicated enormous resources to HAMP based on its commitment to promoting modifications as
+an alternative to foreclosure that benefits homeowners, investors, and servicers. See App. A.
+When Treasury rolled out HAMP, it estimated there were nearly three million eligible
+borrowers. The first TPPs were issued within weeks, and servicers—across the board—faced
+challenges implementing a program that demanded major new resources: underwriters to review
+
+4
+
+Beyond the 26 Plaintiffs specifically identified above, the applications, decisions, and
+communications related to the remaining Plaintiffs are also inherently individual and require fileby-file analysis to understand. See App. C ¶¶ 18-37 and exhibits referenced therein.
+-8-
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 19 of 55
+
+documents and validate incomes, legal and business staff to reconcile HAMP compliance
+demands with contractual obligations to investors, and technology and staff to run NPV
+calculations. Compounding these problems was the fact that “[p]rogram rules had not been fully
+developed . . . by the time the program began, and Treasury . . . had to revise guidelines
+repeatedly, often causing confusion and delay.” App. A. Ex. 1 at 30.
+Borrowers’ ability to obtain trial modifications based on unsupported oral representations
+had particularly salient consequences, incentivizing borrowers to use trial plans to lower their
+monthly payments even if they did not qualify—and “gam[e] the system by withholding required
+documents . . . thereby avoiding to have to make payments until the end of the trial period and
+still avoid foreclosure.” Id. at 23. Despite official recognition that “Treasury’s decision to
+permit servicers to start trial modifications before receiving supporting documents has been
+counterproductive, creating a large backlog of trial modifications, of which many will never
+become permanent” (id. at 1), Bank of America went out of its way not to decline files and
+continued attempting to place borrowers in modifications even after their trials expired. See
+App. A. ¶ 31. But in Plaintiffs’ version of events, Bank of America responded by “issu[ing]
+wrongful denials en masse to reduce its HAMP backlog” while simultaneously (and bizarrely)
+pursuing a strategy to add to that backlog by “stringing homeowners along.” Mot. at 6.
+Plaintiffs ignore these well-documented, industry-wide challenges and accuse Bank of
+America of “deliberate bad faith.” Mot. at 2, 6. Plaintiffs do not support this theory with any of
+the millions of documents, tens of thousands of emails, or dozens of depositions taken in this
+case, instead relying on statements their lawyers have commissioned from a few exemployees/contractors, which were clearly drafted by Plaintiffs’ counsel to support their theory
+that the outcomes they contest reflect indiscriminate (and inexplicable) corporate malevolence
+
+-9-
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 20 of 55
+
+rather than the obvious administrative challenges presented by a massively scaled program rolled
+out on short notice with ever-changing guidelines. The declarations would not support class
+certification even if they were credible, but they are demonstrably false:
+
+
+Half of the declarants didn’t even work for Bank of America during the relevant
+period. Compare Mot. at 12 (defining class as borrowers who received TPPs “in
+2009 and the first part of 2010”), with Pls. Ex. 1 ¶ 2 (employed from June 2010
+through August 2012); Pls. Ex. 5 ¶ 3 (employed from August 2010 to January 2011);
+Pls. Ex. 7 at 2 (employed from April 2010 to November 2011).
+
+
+
+The declarants wildly misrepresented their duties at the Bank, and most had only
+minimal involvement with HAMP—or none at all. Simone Gordon, Theresa
+Terrelonge, and Recorda Simon were call-center operators whose only involvement
+with HAMP would have been to forward calls to other departments if a borrower
+might qualify; See App. D (filed herewith) Ex. 5 ¶¶ 12-16, Ex. 8 ¶¶ 4-11 & 19, Ex. 9
+¶¶ 4-12. Up until a few months before her termination in 2012, Gordon worked in a
+call center responsible only for credit card customers. See id. Ex. 4 ¶¶ 4-20, Ex. 5 ¶¶
+4-11. Bert Sheeks was a contractor responsible for processing customer complaints,
+not HAMP applications. See id. Ex. 10 at ¶¶ 5-9. William Wilson claims he worked
+as an underwriter, but he didn’t. See id. Ex. 1 ¶ 5, Ex. 2 at ¶¶ 4, 6; Ex. 3 ¶ 5. Steven
+Cupples is the only declarant who actually worked as an underwriter, but he was
+tasked solely with running income calculations and had no role in making eligibility
+determinations as he claims. See id. Ex. 6 ¶¶ 6-7, 13 & 17; Ex. 7 ¶ 5, 13.
+
+
+
+The declarants’ wild misrepresentations about their roles lead to impossible claims
+about what they did and saw. In her role as a credit-card call center operator until the
+end of 2011, Gordon would not have dealt with HAMP applications. See id. Ex. 4 ¶¶
+4-20, Ex. 5 ¶¶ 4-5, 7-11. Gordon and Terrelonge each contrived allegations that they
+received gift cards or cash to refer loans to foreclosure or deny HAMP modifications,
+but they worked in departments that did not have the ability to do either of these
+things. See id. Ex. 4 ¶¶ 4-20, Ex. 5 ¶¶ 4-5, 7-24; Ex. 8 ¶¶ 4-11, 13-26. The SEIBEL
+database that Sheeks claims he used to deny HAMP applications and force borrowers
+to restart the process was not used for HAMP; Sheeks was never instructed to close a
+complaint file in SEIBEL without reason, but even if he had done so, it would have
+had no effect on a HAMP application. See id. Ex. 10 ¶¶ 6-21. In Wilson’s roles, he
+would have had neither the qualifications nor the authority to determine who was
+eligible for HAMP. See id. Ex. 2 ¶¶ 6, 8 & 12, Ex. 3 ¶¶ 6, 10, Ex. 11 ¶¶ 3-6. Despite
+Wilson’s claims that the bank used a “blitz” process to deny modifications as quickly
+as possible, blitzes were used to help approve applications, not deny them: a “blitz”
+describes the use of overtime hours on evenings and weekends (when CRMs had the
+greatest chance of reaching borrowers) to call large numbers of borrowers to obtain
+outstanding documentation needed to process their applications. See id. Ex. 2 ¶ 8,
+Ex. 3 ¶ 14, Ex. 11 ¶ 14, Ex. 13 ¶¶ 5-8, Ex. 14 ¶¶ 6-9, Ex. 15 ¶¶ 8-11, Ex. 16 ¶¶ 6-9,
+Ex. 17 ¶¶ 8-11, Ex. 18 ¶¶ 6-9. Wilson’s claim that the bank pushed HAMP-eligible
+borrowers into “more profitable” non-HAMP modifications is also contradicted by
+- 10 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 21 of 55
+
+empirical data establishing that HAMP modifications were in fact more profitable.
+See id. Ex. 12 ¶¶ 2-10.
+
+
+The sole claim in the declarations with any pertinence to this motion (because it bears
+on what borrowers had to do to satisfy eligibility requirements) is the claim that the
+bank never issued TPPs based on borrowers’ unverified oral representations. In fact,
+it was routine for Bank of America to do so, consistent with HAMP’s guidelines at
+the time (see supra n.3 and App. D Ex. 6 ¶ 17; Ex. 7 ¶ 13. ), and many named
+Plaintiffs received TPPs based on oral or other unverified representations. See, e.g.
+App. C. Ex. 4 at 68:14-70:8, 70:23-71:5, 73:3-24 & Ex. 9 (Galasso); Ex. 5 at 49:1723, 50:5-17, 52:11-22; 53:3-10, 55:7-57:6 & Exs. 10-12 (Soper).
+
+
+
+The declarants have a significant motive to manufacture false allegations against
+Bank of America, since at least six of the seven were fired for inappropriate
+behavior—including threatening violence against a coworker (Gordon), sending
+inappropriate text messages to a member of his team (Cupples), and bullying his
+associates (Wilson). App. D. Ex. 1 at ¶¶ 4, 6, 8, 12-14.
+
+
+
+Other employees have attested that the bank bent over backwards to help borrowers
+seeking HAMP modifications and that they were trained to explore HAMP as the first
+option for borrowers in distress, give borrowers multiple opportunities to provide
+required documents, and communicate regularly with borrowers about their
+applications. See id. Ex. 13 ¶¶ 3-4, Ex. 14 ¶¶ 3-5, Ex. 15 ¶¶ 3-7, Ex. 16 ¶¶ 3-5, Ex.
+17 ¶¶ 3-7, Ex. 18 ¶¶ 3-5. Bank employees were often contacted directly by borrowers
+wishing to express thanks for their help on HAMP applications. See, e.g., id. Ex. 13 ¶
+4, Ex. 14 ¶ 5, Ex. 15 ¶ 7, Ex. 16 ¶ 5, Ex. 17 ¶ 7, Ex. 18 ¶ 5.
+
+In sum, the declarants could not have witnessed what they claim to have witnessed because they
+were not in a position to do so—and would not have witnessed such things in any event because
+Bank of America’s actual practices were diametrically opposite.
+ARGUMENT
+I. INDIVIDUAL CASES ASSERTING THE SAME CLAIMS AS PLAINTIFFS’ SHOW
+WHY CLASS CERTIFICATION IS INAPPROPRIATE.
+Literally hundreds of individual plaintiffs across the country have brought actions
+alleging that their servicers breached TPPs by not offering them permanent HAMP
+modifications. This substantial body of law (see Appendix) is significant for numerous reasons.
+First, the majority of courts to address the issue have rejected the claims and held that
+even borrowers who made their trial payments and satisfied the eligibility requirements do not
+
+- 11 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 22 of 55
+
+have a contractual claim for a permanent loan modification.5 Some reject the claims because the
+TPPs “are indefinite and uncertain as to material terms of the permanent loan modifications,”
+and thus “represent, at best, unenforceable agreements to agree.”6 Some reject the claims
+because the plaintiffs (like the Plaintiffs here) seek to enforce alleged contracts which have not
+actually been signed by both parties.7 Some reject the claims because the TPPs make the
+servicer’s commitment to modify a loan contingent on the servicer’s sending the borrower a fully
+executed permanent modification agreement, and thus borrowers who are never sent one have no
+
+5
+
+E.g., Geske v. Wells Fargo Bank, N.A., 2012 WL 1231835, *6 (N.D. Tex. Apr. 12, 2012)
+(“courts have almost uniformly concluded that TPPs are not enforceable contracts based solely
+on a plaintiff’s compliance with the terms of the TPP”); Wittkowski v. PNC Mortg., 2011 WL
+5838517, *3-4 (D. Minn. Nov. 18, 2011) (“Plaintiff was not promised a permanent loan
+modification in exchange for making timely payments and fulfilling the TPP document
+requirements.”); Stolba v. Wells Fargo & Co., 2011 WL 3444078, *3 (D.N.J. Aug. 8, 2011) (“the
+plain language of the relevant TPP documents makes clear that satisfying the TPP conditions for
+permanent modification does not guarantee that Plaintiff would receive such modification”);
+Prasad v. BAC Home Loans Servicing LP, 2010 WL 5090331, *2-4 (E.D. Cal. Dec. 7, 2010)
+(“no binding contract” where “plaintiff allege[d] that he performed the terms and conditions of
+the contract by providing the requested documents and making three successive payments”);
+JPMorgan Chase Bank, N.A. v. Ilardo, 940 N.Y.S.2d 829, 839-40 (N.Y. Sup. Ct. 2012) (“claims
+that the TPP was a binding contract and the [servicer] breached it by failing to offer a permanent
+modification after the Ilardos successfully performed are rejected as unmeritorious”).
+
+6
+
+Senter v. JPMorgan Chase Bank, N.A., 810 F. Supp. 2d 1339, 1351 (S.D. Fla. 2011); accord,
+e.g., Juarez v. SunTrust Mortg., Inc., 2013 WL 1983111, *17 (E.D. Cal. May 13, 2013); Pace v.
+CitiMortgage, Inc., 2013 WL 55825, *3 (M.D. Ga. Jan. 3, 2013); Salvador v. Bank of Am., N.A.,
+456 B.R. 610, 617-19 (Bankr. M.D. Ga. 2011); Nadan v. Homesales, Inc., 2011 WL 3584213, *6
+(E.D. Cal. Aug. 12, 2011).
+7
+
+E.g., Pennington v. HSBC Bank USA, N.A., 493 F. App’x 548, 554 (5th Cir. 2012); McGann v.
+PNC Bank, N.A., 2013 WL 1337204, *6 (N.D. Ill. Mar. 29, 2013); Brinson v. Bank of Am., N.A.,
+2013 WL 147835, *5 (D. Alas Jan. 13, 2013); Helmus v. Chase Home Fin., LLC, 890 F. Supp.
+2d 806, 815 (W.D. Mich. 2012); Goss v. ABN AMRO Mortg. Grp., LLC, 2012 WL 5986783, at
+*6 (E.D. Mich. Nov. 29, 2012); Pandit v. Saxon Mortg. Servs., Inc., 2012 WL 4174888, *4
+(E.D.N.Y. Sept. 17, 2012); Avevedo v. CitiMortgage, Inc., 2012 WL 3134222, *8 (N.D. Ill. July
+25, 2012); Brady v. Chase Home Fin., LLC, 2012 WL 1900606, *7 (W.D. Mich. May 24, 2012);
+Soin v. Fed. Nat’l Mortg. Ass’n, 2012 WL 1232324, *5-6 (E.D. Cal. Apr. 12, 2012); Krouse v.
+BAC Home Loans Servicing, LP, 2011 WL 6100406, *4 (E.D. Cal. Dec. 6, 2011); Stovall v.
+SunTrust Mortg., Inc., 2011 WL 4402680, *12 (D. Md. Sept. 20, 2011); Nungaray v. Litton Loan
+Servicing, LP, 135 Cal. Rptr. 3d 442, 446-47 (Cal. Ct. App. 2011).
+- 12 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 23 of 55
+
+contractual right to a permanent modification.8 And, of course, some reject the claims because
+of the plaintiffs’ failure to satisfy the permanent modification eligibility requirements.9
+Second, even the few cases where the plaintiffs have survived dismissal turn on
+individualized facts specific to their circumstances and course of dealings with their servicers.
+Just as those individualized facts have proven dispositive in individual cases, they will certainly
+prove dispositive of the claims of individual class members here—making it impossible to
+litigate those claims with common proof. For example, Plaintiffs rely heavily on Young v. Wells
+Fargo Bank, N.A., 2013 WL 2165262, *6 (1st Cir. May 21, 2013), which reinstated a claim that
+a TPP “required Wells Fargo to offer [the plaintiff] a permanent modification” on the ground that
+the plaintiff alleged “that she performed all of her obligations under the TPP.” But Plaintiffs
+cannot show with common proof that every class member performed all of their obligations.
+Third, the different results and different rationales employed across this vast body of
+precedent crystallize the problems inherent in Plaintiffs’ request to certify claims under 26
+different states’ laws. Young is based on Massachusetts law. But Lucia, applying California
+law, and Thomas, applying New Jersey law—to cite just two examples—reached the opposite
+result on the question of whether borrowers’ performance of all their TPP obligations entitles
+them to permanent modifications, and Plaintiffs also seek certification of claims subject to the
+laws of these states, too. Breaking the class into 26 subclasses does not resolve this problem.
+8
+
+E.g., Thomas v. JPMorgan Chase & Co., 811 F. Supp. 2d 781, 796 (S.D.N.Y. 2011); Lucia v.
+Wells Fargo Bank, N.A., 798 F. Supp. 2d 1059, 1069 (N.D. Cal. 2011); Lund v. CitiMortgage,
+Inc., 2011 WL 1873690 (D. Utah May 17, 2011).
+9
+
+E.g., Gikas v. JPMorgan Chase Bank, N.A., 2013 WL 1457042, *3-4 (D.N.H. Apr. 10, 2013);
+Marquez v. Wells Fargo Bank, N.A., 2013 WL 98533, *2 (D. Mass. Jan. 8, 2013); Nugent v.
+Fed’l Home Loan Mortg. Corp., 2013 WL 1326425 (E.D. Cal. Mar. 29, 2013); Baehl v. Bank of
+Am., N.A., 2013 WL 1319635, *11-12 (S.D. Ind. Mar. 29, 2013); Brush v. Wells Fargo Bank,
+N.A., 911 F. Supp. 2d 445 (S.D. Tex. Nov. 29, 2012); Hayes v. Bank of Am. Corp., 2012 WL
+4364084, *4 (D. Nev. Sept. 21, 2012); Legore v. OneWest Bank, FSB, 898 F. Supp. 2d 912 (D.
+Md. 2012); Frost v. Wells Fargo Bank, N.A., 901 F. Supp. 2d 999, 1008-09 (W.D. Mich. 2012).
+- 13 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 24 of 55
+
+Plaintiffs still contemplate summary judgment proceedings that would require this Court to
+interpret and apply the laws of all 26 class states. Plaintiffs also cite 12 states where the
+proposed class representatives “filed their claims directly before this Court” and “hence there
+would be no remand to a transferor court under § 1407(a),” leaving this Court to conduct the
+trials and instruct the jury on the laws of these dozen states. Dkt. #211 at 2 & n.2.
+Fourth, the myriad individual cases asserting the same claims Plaintiffs seek to certify
+for class treatment make it impossible to sustain the argument that a class action is a “superior”
+method for adjudicating such claims, as Rule 23(b)(3) requires. In imposing this requirement,
+“the Advisory Committee had dominantly in mind vindication of the ‘rights of groups of people
+who individually would be without effective strength to bring their opponents into court at all.’”
+Amchem Prods. Inc. v. Windsor, 521 U.S. 591, 617 (1997). Manifestly, individual borrowers
+asserting claims based on HAMP TPPs have not lacked the ability to bring suit.
+Finally, many of the borrowers who have brought individual claims are actually
+members of the class Plaintiffs seek to certify. For example, Katy Brinson, Diana Hayes, Rusty
+and Brenna Krouse, Tommy and Melissa Geske, Alma and Jose Gomez, and James Salvador all
+come within Plaintiffs’ class definition—and they also all brought individual claims against
+Bank of America, had their day in court, and lost. See Brinson, Hayes, Krouse, Geske, Salvador,
+supra; Gomez v. Bank of Am., N.A., 2012 WL 929790 (D. Or. Mar. 19, 2012). A class action can
+be a superior method of adjudicating claims when necessary to “avoid[] potentially inconsistent
+adjudications,” In re Transkaryotic Therapies, Inc. Sec. Litig., 2005 WL 3178162, *3 (D. Mass.
+Nov. 28, 2005), but here class certification would have the opposite effect, inviting results
+directly at odds with long-settled adjudications.
+
+- 14 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 25 of 55
+
+II. RULE 23(C)(4) DOES NOT PERMIT EVEN THE PARTIAL CERTIFICATION
+PLAINTIFFS SEEK.
+The Supreme Court held in Comcast Corp. v. Behrend, 133 S. Ct. 1426, 1433 (2013), that
+a class cannot be certified unless plaintiffs “establish[] that damages are capable of measurement
+on a classwide basis.” Plaintiffs concede they have no method to do this, but try to evade
+Comcast by seeking partial certification under Rule 23(c)(4) with a plan contemplating a “Phase
+One” of liability trials for 26 state classes and a “Phase Two” of individualized proceedings on
+damages and other issues. Dkt. #211 at 2.10 Plaintiffs rely on the statement in the Comcast
+dissent that “a class may be certified for liability purposes only, leaving individual damages
+calculations to subsequent proceedings” (Mot. at 13), but that principle, even if applicable in
+other contexts, does not help Plaintiffs here. Under binding First Circuit precedent, establishing
+the fact of damages for each class member is something Plaintiffs must do at the liability phase.
+Brown v. Am. Honda (In re New Motor Vehicles Canadian Exp. Antitrust Litig.), 522 F.3d 6, 28
+(1st Cir. 2008). And Plaintiffs propose no method for doing this on a classwide basis.
+Damages are an essential element of Plaintiffs’ claims. See Linton v. New York Life Ins.
+& Annuity Corp., 392 F. Supp. 2d 39, 41 (D. Mass. 2005) (Zobel, J.) (contract plaintiff must
+demonstrate “that [plaintiff] suffered damages from the breach”). A person who has no damages
+10
+
+Plaintiffs argue that “[w]hen considering whether a class should be certified only for certain
+issues pursuant to Rule 23(c)(4), the Court’s inquiry is whether the factors of 23(a) and 23(b) are
+met with regard to the issues sought to be certified,” and that they need not show that common
+issues predominate with respect to the case as a whole. Mot. at 13. As Plaintiffs recognize,
+however, that is not the law in this Circuit. The First Circuit has never addressed whether Rule
+23(c)(4) absolves plaintiffs of the requirement to establish that common issues predominate with
+respect to the case as a whole, and courts elsewhere are split. Compare In re Nassau Cty. Strip
+Search Cases, 461 F.3d 219 (2d Cir. 2006), with Castano v. Am. Tobacco Co., 84 F.3d 734 (5th
+Cir. 1996). Bank of America respectfully submits that “[t]he proper interpretation of the
+interaction between subdivisions (b)(3) and (c)(4) is that a cause of action, as a whole, must
+satisfy the predominance requirement of (b)(3)” and that reading Rule 23(c)(4) to permit the
+Court to “sever” individualized issues and only assess predominance based on what remains
+“would eviscerate the predominance requirement.” Castano, 84 F.3d at 745 n.21.
+- 15 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 26 of 55
+
+cannot prevail on the liability questions that Plaintiffs propose for common resolution in “Phase
+One.” Thus, the class cannot be certified without a common method for identifying (at the very
+least) which borrowers have damages and which do not. In Brown, the First Circuit vacated a
+certification based on a damages model that showed aggregate damages but failed to show which
+class members were damaged in the first place, holding:
+[P]laintiffs’ theory . . . must include some means of determining that each
+member of the class was in fact injured, even if the amount of each individual
+injury could be determined in a separate proceeding. Predominance is not
+defeated by individual damages questions as long as liability is still subject to
+common proof. . . . Establishing liability, however, still requires showing that
+class members were injured. . . .
+The plaintiffs might intend to use their damages model to prove both fact of
+damages and the measure of those damages. If so, the district court would need
+enough information to evaluate preliminarily whether the proposed model will be
+able to establish, without need for individual determinations for the many millions
+of potential class members, which . . . were impacted . . . and which were not.
+522 F.3d at 28 (emphasis added). Similarly, In re Prudential Ins. Co. of Am. SGLI/VGLI
+Contract Litig., 286 F.R.D. 155, 158 (D. Mass. 2012), denied certification on the ground that if
+“the fact of actual injury is an element” of the claim, “each class member must prove that he or
+she suffered some injury.” The Court found that “regardless of what measure of damages
+Plaintiffs choose, it seems likely that they will have to show that each class member suffered
+some actual, legally cognizable injury . . . to establish liability,” giving rise to “the necessity of
+an individualized inquiry regarding injury for each proposed class member.” Id. at 159.11
+While Plaintiffs declare without support that “all class members have been injured” (Mot.
+at 4), they do not propose any method for determining whether this is in fact the case. Their
+11
+
+See also, e.g., Phillips v. WellPoint, Inc., 2012 WL 4904523, *5 (S.D. Ill. Oct. 15, 2012) (no
+commonality where Court would have to “make an inquiry into whether each [class member]
+actually suffered damages as a result of defendants’ breach”); Orthocraft, Inc. v. Sprint
+Spectrum, L.P., 2002 WL 31640477, *2 (E.D.N.Y. Nov. 16, 2002) (“The critical issue . . . is that
+the fact of injury as to each member of the class is a necessary element and would still require
+individual analysis, . . . which defeats the typicality and commonality requirements”).
+- 16 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 27 of 55
+
+class includes multiple categories of borrowers (and many named Plaintiffs) who do not have
+damages either from an economic perspective, as a matter of law, or both, including:
+
+
+Borrowers who rejected permanent HAMP modifications offered to them. Nearly
+one in ten borrowers in the random sample population is in this category. See App.
+C. Ex. 13 at ¶ 31 & Table 4.
+
+
+
+Borrowers who defaulted on their trial plan (at least 14% of the sample population)
+and borrowers who did not return documents necessary for evaluating their eligibility
+(at least 40% of the sample population). Id.
+
+
+
+Borrowers who stopped making their mortgage payments, either during or after trial
+periods. See Yacoubou v. Wells Fargo Bank, N.A., 901 F. Supp. 2d 623, 636 (D. Md.
+2012) (“no evidence of any quantifiable damages [plaintiff] suffered due to Wells
+Fargo’s breach” because plaintiff “has not made any mortgage payments” “since
+before this suit was filed”); Palacio v. HSBC Bank USA, N.A., 2012 WL 4928878, *6
+(Mass. Super. Ct. Oct. 4, 2012) (no damages where plaintiff “has not made a
+mortgage payment since August 2008 and thus[] has lived in her home rent-free”).
+
+
+
+Borrowers who received HAMP modifications, but after Plaintiffs say they should
+have received them. See App. C. Ex. 13 at ¶¶ 48-51 (showing that “[t]here is no
+damage to the borrower simply from having conversion to the permanent
+modification occur at a date later than 3-4 months after beginning the TPP” because
+the terms “are made retroactive to the contemplated effective date”).
+
+
+
+Borrowers who subsequently received modifications (either HAMP or otherwise)
+other than the HAMP modifications at issue here. See Legore, 898 F. Supp. 2d at 918
+(finding that plaintiff “no longer has a claim for economic damages now that his loan
+agreement has been permanently modified” under a subsequent agreement).
+
+
+
+Borrowers who could not afford even a modified payment. See Gomes v. Bank of
+Am., N.A., 2013 WL 2149743, *6 (D. Haw. May 15, 2013) (no harm to plaintiff
+because “[n]othing in the record indicates that he would have been able to comply
+with the terms of any loan modification offered him”).
+
+
+
+Borrowers who did not experience foreclosures, negative credit reporting, or other
+alleged grounds for damages (see TAC ¶ 538). See Nastrom v. JPMorgan Chase
+Bank, N.A., 2012 WL 5522795, *7 (E.D. Cal. Nov. 14, 2012) (“Plaintiffs also fail to
+allege facts of an injury” from alleged promise of HAMP modification “as there is no
+assertion that Defendants have foreclosed on their home”); Legore, 898 F. Supp. 2d at
+918 (no damages from credit reporting absent “evidence that [plaintiff’s] credit scores
+were detrimentally affected in a way that has resulted in economic damages”).
+
+The litigation plan proposed by Plaintiffs simply is not a permissible way of adjudicating the
+claims of a putative class that includes people with no injury—and would not be administratively
+
+- 17 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 28 of 55
+
+feasible even setting that defect aside. The striking thing about Plaintiffs’ motion is just how
+very little they ultimately deem appropriate for class treatment and how much of the litigation
+burden they leave for individual mini-trials. Even their list of purportedly “common liability
+issues” amounts to 218 issues under the laws of 26 states. Dkt. #211-4. Once those 218 issues
+are resolved, hearings on “individual damages claims” would occur that “would also resolve any
+individual defense claimed by Defendant.” Dkt. #211 at 2. Judge Saris once remarked that
+“[h]olding 11,000 individual damages trials in Part II is a management nightmare,” Pharm.
+Indus. Wholesale Price, 230 F.R.D. at 95, but Plaintiffs here propose individual trials for a class
+that allegedly “number[s] in the hundreds of thousands.” Pls. Ex. 13 ¶ 45.
+III. PLAINTIFFS DO NOT SATISFY RULE 23(A).
+A. There Is No Common Question of Law or Fact.
+1. Commonality Is Defeated By the Necessity of Individualized Evidentiary
+Inquiries Into Borrowers’ Performance Under TPPs.
+One of the unusual features of Plaintiffs’ class definition is that it excludes borrowers
+who failed to satisfy their obligations under the TPP to make trial payments, but does not
+exclude borrowers who failed to satisfy other TPP obligations. Plaintiffs do not articulate any
+basis for concluding that borrowers in the latter category have a claim if borrowers in the former
+category do not, because there isn’t one. A party’s own performance under a contract is a
+necessary condition for accusing the other party of breach. Amarin Plastics, Inc. v. Md. Cup
+Corp., 946 F.2d 147, 151 (1st Cir. 1991); see also, e.g., LeBlanc v. Bank of Am., N.A., 2013 WL
+3146829, *10 (W.D. Tenn. June 18, 2013) (“failure to fulfill the conditions of the TPP would
+result in Bank of America having no liability”). Consequently, adjudicating Plaintiffs’ claims
+will require individualized inquiries into whether each borrower satisfied their TPP obligations.
+
+- 18 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 29 of 55
+
+Such inquiries doomed class certification in Campusano v. BAC Home Loans Servicing
+LP, 2013 WL 2302676 (E.D. Cal. Apr. 29, 2013). There, plaintiffs argued that claims for breach
+of loan modification agreements could be adjudicated on a classwide basis because they were
+based on standard form contracts, but the Court agreed with Bank of America that the alleged
+standardization was irrelevant where the claims did not turn on the interpretation of contractual
+terms, but on individualized examinations whether each borrower in fact satisfied those terms.
+The Court found commonality lacking because the agreements “would lead to a host of
+individual questions” such as, “Did both parties agree to this contract? Did this contract require
+fulfillment of conditions precedent? Were those conditions fulfilled in this instance?” Id. at *6.
+Rather than proposing a method to show that each class member fulfilled such conditions,
+Plaintiffs simply assume it, declaring that “[a]ll class members performed their key duties.”
+Mot. at 1. The “key duties” here include swearing to a legitimate hardship, making timely trial
+payments, providing required documents, showing that the property is a principal residence,
+completing credit counseling if required, and certifying that all of the documents and information
+they have provided are true. App. A Ex. 10. Borrowers who fail to return documents, or whose
+documents fail to substantiate the representations they made, have not performed their “key
+duties” under the TPP and do not have a claim. Borrowers who may have converted their home
+to a rental property, or who have not undergone required credit counseling, likewise did not
+perform and have no claim. Whether these “key duties” have been performed in each case is
+something Plaintiffs have the burden of establishing. They cannot do so by assuming what they
+set out to prove. Nor can they do so by wishing those duties away, as when they state that “the
+only remaining condition to satisfy was to timely make all required payments.” Mot. at 4.
+
+- 19 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 30 of 55
+
+Nor can Plaintiffs make the requisite showing without individualized documentary
+evidence. See App. C Ex. 6 ¶¶ 22-31. In attempting to argue otherwise, Plaintiffs’ expert makes
+a statement which is telling for what it leaves unsaid: that Bank of America has a database that
+“can be queried to identify borrowers who had returned all necessary documents” (Pls. Ex. 13 ¶
+64), as if the documentation requirements only exist as a gratuitous hoop to jump through and the
+actual content of the documents is immaterial. In reality, the point of collecting documents is to
+review them to assess eligibility. It is therefore impossible to assess a borrower’s eligibility
+without a document review. See App. C Ex. 6 ¶ 25. Indeed, Plaintiffs base their motion on
+allegations that the Moussas supplied the required documents but that Bank of America’s records
+wrongly indicated otherwise. See Mot. at 10-11. When a claim is based on a discrepancy
+between what borrowers say they supplied and what bank records indicate, it cannot be resolved
+by reference to the electronic records alone. Only an intensive, manual review to confirm that
+borrowers provided the required documents, and that the documents are sufficient to verify their
+eligibility, can determine whether they performed under their TPPs. See, e.g., App. B ¶¶ 3-9.
+2. Plaintiffs’ “Common Question” Cannot “Drive the Resolution of the Litigation.”
+To satisfy the commonality requirement of Rule 23(a), Plaintiffs must identify “a
+common contention” that “is capable of classwide resolution—which means that determination
+of its truth or falsity will resolve an issue that is central to the validity of each one of the claims
+in one stroke.” Wal-Mart Stores, Inc. v. Dukes, 131 S. Ct. 2541, 2551 (2011). The question
+must be one that is “apt to drive the resolution of the litigation.” Id. Here, the supposed
+“common question” Plaintiffs raise is “whether BoA breached their TPPs when it failed to
+provide either a written denial or a permanent loan modification as of the Modification Effective
+Date.” Mot. at 16. But this is not a question that can resolve the validity of each claim or drive
+the resolution of the litigation, because resolving whether Bank of America “failed to provide
+- 20 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 31 of 55
+
+either a written denial or a permanent loan modification as of the Modification Effective Date” is
+not enough to resolve “whether BoA breached their TPPs.” Id.
+The most fundamental reason for this is that the TPPs do not actually promise that Bank
+of America will send either a written denial or a permanent modification by the MED. See supra
+at 5-6. Obviously, answering a question that will not actually determine the validity of any claim
+cannot drive the resolution of those claims.12 But even if one were to indulge Plaintiffs’ legal
+theory arguendo, the question they raise still cannot drive the resolution of the litigation due to
+the disconnect between that theory and what their “common method” is capable of showing. In
+ambiguously alleging an obligation to “provide” permanent modifications to eligible borrowers,
+Plaintiffs conflate two different things: the offer of a modification, and its implementation.
+Plaintiffs admit that Bank of America is not obligated to give every borrower who “complies
+with the TPP’s written requirements” a permanent modification: it is required, at most, to “offer”
+one. Pls. Ex. 13 ¶ 28. That is the theory on which Plaintiffs base their claims: that “upon
+successful completion of the TPP, the Servicer must offer the homeowner a permanent
+modification.” TAC ¶ 96. But Plaintiffs’ method for identifying class members does not even
+try to identify who was not offered a modification; it is designed only to identify those who did
+
+12
+
+To whatever extent Plaintiffs believe HAMP guidelines impose obligations not reflected in
+the contractual language, that is irrelevant to their claims. See Stovall, 2011 WL 4402680, at *12
+(“The fact that she claims the letter itself did not comply with the HAMP guidelines is of no
+matter as she is precluded from bringing a private right of action to enforce the HAMP
+guidelines.”); Senter, 810 F. Supp. 2d, at 1339 (because “[t]he TPP Agreements do not explicitly
+incorporate the terms of the HAMP Guidelines,” “the Court need not look to the HAMP . . .
+Supplemental [D]irectives[] to ascertain the meaning of the contractual terms of the TPP
+Agreements”); Shaw v. BAC Home Loans Servicing, LP, 2013 WL 789195, *4 (D. Mass. Mar. 1,
+2013) (dismissing claim based on allegations that plaintiff “has a breach of contract claim against
+BAC because it failed to follow HAMP program guidelines”); Bassie v. Bank of Am., N.A., 2012
+WL 6530482, *3 (S.D. Tex. Dec. 13, 2012) (“breach of contract claim . . . premised upon alleged
+violations of HAMP guidelines[] must be dismissed”).
+- 21 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 32 of 55
+
+not receive an “implementation.” Pls. Ex. 13 ¶ 79.13 The distinction is critical, because, as their
+expert admits, it results in Plaintiffs’ including borrowers in their putative class who had
+permanent modifications offered to them but did not accept the offers (and thus have no claim
+for breach under Plaintiffs’ theory). App. C Ex. 14 at 80:5-16. Plaintiffs also include in their
+class borrowers who did accept the offer and whose implementation is allegedly “untimely” only
+because the borrower’s acceptance was untimely. App. C Ex. 6 ¶ 33. Resolving the supposed
+“common question” whether borrowers received either a written denial or an implemented
+modification without addressing whether modifications were offered and timely accepted will
+not determine the validity of a single claim, and thus cannot drive the resolution of the litigation.
+Even if Plaintiffs revised their method to base class membership on offers rather than
+implementations, it still would not advance the litigation because Plaintiffs concede they have no
+common method for determining whether a borrower was entitled to an offer. See App. C Ex. 14
+at 39:9-16 (“Q. Did you make an effort to identify borrowers to whom the bank was required to
+offer a permanent modification? A. No. . . .”). Without any means of distinguishing those who
+were entitled to an offer from those who did not receive offers due to their own failure to
+perform, it is impossible to assess who has a claim and who does not. See supra Part III.A.1.
+3. Commonality Is Defeated By Material Differences in Applicable State Law.
+Plaintiffs concede there are material differences among the 26 states’ laws applicable to
+their claims (Dkt. #211 at 3). It is well-established that if Plaintiffs were seeking to certify a
+13
+
+Notably, however, while Plaintiffs rely on HAMP guidelines rather than actual contractual
+language to establish Bank of America’s contractual obligations, HAMP guidelines do not
+support this legal theory. See, e.g., Lucia, 798 F. Supp. 2d, at 1068-69 (“HAMP only requires
+participating servicers to consider eligible loans for modification, but does not require servicers
+to modify eligible loans.”) (citing Williams v. Geithner, 2009 WL 3757380, *6 (D. Minn. Nov. 9,
+2009) (noting the “Congressional intent to afford discretion in the decision whether to modify
+loans” and observing that “regulations promulgated by Treasury for administering the HAMP
+clearly demonstrate that the Secretary allowed the exercise of some discretion, including
+calculation of the NPV, to the servicers”)).
+- 22 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 33 of 55
+
+single class governed by 26 states’ laws, the need to “examine the laws of each state where
+putative class members’ contracts were entered into” would “alone present[] an impediment to
+certification.”14 Plaintiffs cannot end-run this rule by seeking 26 separate classes, because the
+administrative challenge of applying 26 states’ laws is the same whether there are 26 classes or a
+single class, particularly given Plaintiffs’ plan for this Court to apply the law of all 26 states in
+summary judgment proceedings and conduct trials for the twelve class states with no remand
+court. See Dkt. #211 at 2 & n.2; In re M3 Power Razor Sys. Mktg. & Sales Prac. Litig., 270
+F.R.D. 45, 57-58 (D. Mass. 2010) (“Certification of subclasses . . . must continue to facilitate the
+operation of the class action”) (citing Klay v. Humana, Inc., 382 F.3d 1241, 1262 (11th Cir.
+2004) (court “must be careful not to certify too many groups” because applying or instructing the
+jury on the applicable law would be an “impossible task”)).
+Plaintiffs try to downplay the extent of the state-law differences, but the vast universe of
+case law involving similar claims shows that the differences are material and case-dispositive:
+
+
+This Court previously held that lack of consideration for Plaintiffs’ TPPs did not
+mandate dismissal of their claims under Massachusetts law, deferring decisions on
+other states’ laws. Dkt. #66 at 8 n.3. But courts applying the law of other class states
+have reached the opposite result. E.g., Karapetyan v. JPMorgan Chase Bank, N.A.,
+2012 WL 3308883, *3-4 (E.D. Tex. June 6, 2012); Citimortgage, Inc. v. Crawford,
+2013 WL 1225387, *4-5 (S.D. Ohio Mar. 26, 2013).
+
+
+
+As noted above, in Young, the First Circuit held, in a case governed by Massachusetts
+law, that the plaintiff had stated a claim on the theory that she was entitled to a
+permanent modification because “she performed all of her obligations under the
+TPP.” But Lucia, 798 F. Supp. 2d at 1069, and Thomas, 811 F. Supp. 2d at 796,
+reached the opposite result under California and New Jersey law, respectively.
+
+
+
+Bosque v. Wells Fargo Bank, N.A., 762 F. Supp. 2d 342, 351 (D. Mass. 2011), found
+that plaintiffs had stated a claim under Massachusetts law on the theory that “TPPs
+
+14
+
+Bishop’s Prop. & Invs. LLC v. Protective Life Ins. Co., 255 F.R.D. 619, 624-25 (M.D. Ga.
+2009); accord Marino v. Home Depot U.S.A., Inc., 245 F.R.D. 729, 735-36 (S.D. Fla. 2007);
+Bowers v. Jefferson Pilot Fin. Ins. Co., 219 F.R.D. 578, 583 (E.D. Mich. 2004); Franklin v.
+GEICO, 2011 WL 5166458, *7 (W.D. Wash. Oct. 31, 2011); CLN Props., Inc. v. Republic
+Servs., Inc., 2010 WL 5146734, *7-8 (D. Ariz. Dec. 13, 2010).
+- 23 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 34 of 55
+
+were offers” for permanent modifications, but Vida v. OneWest Bank, F.S.B., 2010
+WL 5148473, *6 (D. Ore. Dec. 13, 2010), held that a “Trial Period Plan is explicitly
+not an enforceable offer for [a permanent] modification” under Oregon law.
+
+
+McGann, 2013 WL 1337204, at *8, found that “part performance” in “abid[ing] by
+PNC’s employees’ requests for documentation and ma[king] eight TPP payments”
+barred a statute-of-frauds defense under Illinois law. Krouse, 2011 WL 6100406, at
+*4, reached the opposite conclusion under California law, finding that the plaintiffs’
+performance of “only the monthly TPP payments and the production of financial
+documents” was not “a sufficient change in position to bar the statute of frauds.”
+
+
+
+Ramirez v. Wells Fargo Bank, N.A., 2011 WL 1585075, *4-5 (N.D. Cal. Apr. 27,
+2011), sustained a claim for breach of contract based on allegations of “oral
+representations . . . that defendant would modify the loan.” But courts applying
+Texas law, Montalvo v. Bank of America Corp., 864 F. Supp. 2d 567, 581-82 (W.D.
+Tex. 2012), and Ohio law, Nachar v. PNC Bank, N.A., 901 F. Supp. 2d 1012, 1018
+(N.D. Ohio 2012), rejected claims based on oral agreements to modify loans.
+
+
+
+Nash v. Green Tree Servicing, LLC, 2013 WL 1867357, *4 (E.D. Va. May 2, 2013),
+held that the plaintiff need not have received a fully executed TPP to state a breachof-contract claim under Virginia law. But Stovall held that plaintiff’s “fail[ure] to
+allege that she received a fully executed copy of the [TPP] “completely eviscerate[s]”
+her breach-of-contract claim under Maryland law. 2011 WL 4402680, at *12.
+
+
+
+Durmic v. J.P. Morgan Chase Bank, NA., 2010 WL 4825632, *4 (D. Mass. Nov. 24,
+2010), rejected the argument that TPPs “lack material terms and constitute, at most, a
+contingent agreement to attempt to come to an agreement in the future.” Nadan, 2011
+WL 3584213, at *6, and Pace, 2013 WL 55825, at *3, reached the opposite result
+under California and Georgia law, respectively.
+
+Plaintiffs also assert UDAP claims under 20 state laws with vastly different elements and
+defenses. In some states, plaintiffs must establish the “intent to deceive,” Dix v. American
+Bankers Life Assur. Co., 415 N.W.2d 206, 209 (Mich. 1987); elsewhere, “[i]ntent to deceive
+need not be proved.” State v. O’Neill Investigations, Inc., 609 P.2d 520, 535 (Alas 1980). Most
+states require an “ascertainable loss of money or property,” ALAS. STAT. § 45.50.531(a); KY.
+REV. ST. § 367.220(1); MO. REV. ST. § 407.025(1), or “pecuniary loss,” WIS. STAT. §
+100.18(11)(b)(2); in New York, “pecuniary harm” is “not necessar[y].” Stutman v. Chem. Bank,
+731 N.E.2d 608, 612 (N.Y. 2000). Some states permit recovery of “actual damages,” KY. REV.
+ST. § 367.220(1), but in California, “damages cannot be recovered” and a plaintiff is limited to
+
+- 24 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 35 of 55
+
+“restitution” of “money or property in which he or she has a vested interest.” Kor. Supply Co. v.
+Lockheed Martin Corp., 63 P.3d 937, 943, 947 (Cal. 2003). In HAMP cases, UDAP claims have
+also been dismissed because they are not “sufficiently independent of HAMP” to evade the rule
+that private litigants cannot sue to enforce HAMP guidelines,15 or because the failure of
+common-law claims leaves plaintiffs without the requisite “predicate violation for a UCL claim.”
+Jones v. CitiMortgage, Inc., 2013 WL 1704304, *12 (E.D. Cal. Apr. 19, 2013).
+4. The UDAP and Other Common Law Claims Are Inherently Individualized.
+Plaintiffs argue that their UDAP claims present common issues because “[m]any” of the
+statutes have “objective criteria bearing on whether BoA’s actions with regard to TPPs were
+‘unfair.’” Mot. at 17. Even if one sets aside the substantive differences in each state’s law, the
+“objective criteria” in the statutes is irrelevant without a common glue uniting “BoA’s actions.”
+Plaintiffs do not challenge standard language in every TPP, but rather individual borrowers’
+outcomes based on what they did to perform under the TPP, what documents Bank of America
+required them to provide, how Bank of America handled those documents, and how Bank of
+America communicated with them. Put simply, any claim that Bank of America treated a
+borrower “unfairly,” or in breach of an implied covenant of good faith and fair dealing, cannot be
+resolved without evidence of exactly how that borrower was treated. See Ramos v. Bank of Am.,
+N.A., 2012 WL 1999867, *3-5 (D. Md. June 4, 2012) (“[E]very factual allegation in support of a
+potential [Maryland CPA] claim must be grounded in Defendants’ actual conduct pursuant to the
+
+15
+
+Slimm v. Bank of Am. Corp., 2013 WL 1867035, *12-13 (D.N.J. May 2, 2013); accord
+Johnson v. Wells Fargo Bank, N.A., 2013 WL 823369, *7 (E.D. Mich. Mar. 6, 2013); Matthews
+v. Wells Fargo Bank, N.A., 2012 WL 3903453, *1 (D. Md. Sept. 6, 2012); Stent v. Bank of Am.,
+2012 WL 760776, *2 (D. Nev. Mar. 8, 2012); Keosseian v. Bank of Am., 2012 WL 458470, *2
+(D.N.J. Feb. 10, 2012).
+- 25 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 36 of 55
+
+TPP.”). Consequently, such borrower-specific evidence has often been dispositive in whether
+UDAP and fair-dealing claims in individual HAMP cases are dismissed or survive dismissal.16
+Plaintiffs address only one aspect of the necessary analysis, arguing that reliance can be
+assessed on a class-wide basis. Mot. at 20. This argument is foreclosed by the fact that
+circumstances specific to individual borrowers have negated reliance in individual cases, e.g.,
+Anderson v. PHH Mortg., 2012 WL 4496341, *3-4 (C.D. Cal. Sept. 28, 2012); DeLeon v. Wells
+Fargo Bank, N.A., 2011 WL 311376, *6-7 (N.D. Cal. Jan. 28, 2011), thus can negate reliance for
+individual members of the putative class here. Reliance is also an element of a promissory
+estoppel claim, which numerous courts, e.g., Reitz v. Nationstar Mortg., LLC, 2013 WL
+16
+
+Compare, e.g., Young, 2013 WL 2165262, at *10 (dismissing claim for breach of covenant of
+good faith and fair dealing based on plaintiff’s servicing history, even while declining to dismiss
+breach-of-contract claim); Spaulding v. Wells Fargo Bank, N.A., 714 F.3d 769, 771 (4th Cir.
+2013) (affirming dismissal of Maryland CPA claim where appellant did not show reliance or
+“suffer[] damages,” and because servicer did not misrepresent need for more documents);
+Laguer v. OneWestBank, FSB, 2013 WL 831055, at *9 (Mass. Super. Ct. Feb. 27, 2013)
+(dismissing Ch. 93A claim because “[it] was not unfair . . . for OneWest to deny Laguer’s loan
+modification requests after Laguer failed to respond” to document requests); Gomez, 2012 WL
+929790 at *8-9 (dismissing UTPA claim where plaintiffs failed to “allege that the denial of a
+permanent loan modification resulted in any harm to them”), with, e.g., Cave v. Saxon Mortg.
+Servs., Inc., 2013 WL 1915660, at *10 (E.D. Pa. May 9, 2013) (denying dismissal of UTPCPL
+claim based on servicer’s “representations to Plaintiffs after their trial periods ended, in assuring
+them that they were still in trial periods and giving them erroneous and misleading information”
+and evidence “that Plaintiffs relied on, and were deterred from seeking other remedies based on,”
+those representations); McGann, 2013 WL 1337204, at *9 (denying dismissal of Illinois CFA
+claim because plaintiff “detail[ed] specific instances” of conversations with PNC representatives
+in which they “misrepresent[ed] whether [the servicer] would approve” the HAMP
+modification); Whitmer v. CitiMortgage Inc., 2012 WL 6677785, *4 (N.D. Ill. Dec. 21, 2012)
+(denying dismissal of CFA claim given that “[t]he complaint carefully details the specific
+employees of defendant plaintiff spoke with . . . and what they told her”); Speleos v. BAC Home
+Loans Serv., L.P., 2013 WL 1442336, *8 (D. Mass. Mar. 28, 2013) (denying summary judgment
+on Ch. 93A claim based on “factual dispute as to whether, financially, the plaintiffs could have
+made their monthly mortgage payments if their loan was modified”); Neal v. Residential Credit
+Solutions, Inc., 2013 WL 428675, *4 (D. Md. Feb. 1, 2013) (denying summary judgment on
+CPA claim based on allegations plaintiffs were “given false information . . . on which they relied
+to their detriment” and “forewent an opportunity to refinance their mortgage”); Marchese v.
+JPMorgan Chase Bank, N.A., 2013 WL 136427, *11 (D. Md. Jan. 8, 2013) (denying dismissal of
+CPA claim based on “myriad oral or written statements”).
+- 26 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 37 of 55
+
+3282875, *16 (E.D. Mo. June 27, 2013); White v. JPMorgan Chase Bank, N.A., 2013 WL
+3071894, *4 (D. Md. June 17, 2013), have dismissed based on the plain language of the TPPs
+and thus require individualized evidence of other representations to establish reliance.
+5. Unsupported and Untruthful Declarations Signed by a Few Former Employees
+and Contractors Do Not Demonstrate Commonality.
+Plaintiffs submit several declarations nominally attributed to former employees and
+contractors of Bank of America accusing the bank of a wide variety of intentional misconduct. It
+is unclear what purpose Plaintiffs intend these declarations to serve other than being prejudicial
+and inflammatory, since they would do absolutely nothing to demonstrate that this case warrants
+class certification even if they were credible—and they are not credible. See supra at 10-11.
+That is because none of the declarants claim, nor are they in a position to claim, personal
+involvement with every class member’s loan, nor even a significant proportion of them. Any
+claims they make about how they mistreated loans they handled, even if credited, cannot be used
+to support conclusions about other loans. Thus, Plaintiffs’ insinuation that Bank of America
+should be presumed to have subjected the entire class to a particular treatment just because a
+former employee (falsely) claims to have treated some borrowers in that fashion is directly
+analogous to the theory rejected by numerous courts in the wake of Wal-Mart that the way one
+employee exercises his or her discretion can be extrapolated to support conclusions about the
+whole class. E.g., Barrett v. Option One Mortg. Corp., 2012 WL 4076465, *3 (D. Mass. Sept.
+18, 2012) (Zobel, J.) (decertifying class where plaintiffs “do not claim that all of [defendant’s
+employees] exercised their discretion in the same way”) (citing Wal-Mart, 131 S. Ct. at 2554).
+Plaintiffs challenge thousands of individual decisions. Commonality thus requires “some
+glue holding the alleged reasons for all those decisions together.” Wal-Mart, 131 S. Ct. at 2552.
+But the declarations do not establish any glue that unites them all. For example, Plaintiffs cite a
+
+- 27 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 38 of 55
+
+declarant’s claim that “BoA cleaned out its HAMP backlog with a ‘blitz’ in which each ‘team’
+declined hundreds of files at a time.” Mot. at 7. The allegation is irrelevant because the
+declarant claims he “began” to witness this after July 2011, Pls. Ex. 1 ¶¶ 4, 9, well beyond the
+relevant period. The allegation is also irrelevant because Plaintiffs do not claim that any of their
+own files went through a “blitz,” nor identify any loans that went through it—much less show
+that every class member went through it. See Campusano, 2013 WL 2302676 at *7 (rejecting
+theory “that BOA’s ‘uniform systemic practices’ fulfill the commonality requirement” where
+“Plaintiffs have not submitted any evidence of even a single case in which these processes”
+affected a class member; “Without any evidence linking the purported common conduct . . . to
+the alleged harms suffered by the class (the breaches of the loan modification agreements), the
+common conduct cannot allow the Court to resolve the claims of [the] class ‘in one stroke’”).
+B. Plaintiffs Are Not Typical of the Purported Class.
+The same factors that defeat commonality for the putative class defeat typicality for the
+Plaintiffs. Plaintiffs who failed to perform under their TPPs (e.g., Cipowski, Cabrera, Goldman,
+McManaman, Morrow & Clerk, Kirkpatrick, Balde, Hlavsa) cannot be typical of a class that
+must establish performance to state a claim. Plaintiffs who failed to make timely trial payments
+(e.g., George, Nelson) cannot be typical of a class whose very definition excludes such
+borrowers. Plaintiffs who have no damages (e.g., Carillo, Nelson, Magno, Balde, Cabrera,
+Galasso, Kunsky, Kirkpatrick) cannot be typical of a class that must show damages as an
+element of their claims. See Gaines v. Boston Herald, Inc., 998 F. Supp. 91, 97-98 (D. Mass.
+1998) (to show typicality, “Plaintiffs must show that they themselves have been injured, not
+merely that an injury has been suffered by members of a class to which they belong”).
+A plaintiff’s claim is typical if it “arises from the same event or practice or course of
+conduct that gives rise to the claims of other class members, and if his or her claims are based on
+- 28 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 39 of 55
+
+the same legal theory.” Pharm. Indus. Wholesale Price, , 230 F.R.D. at 78. Neither is true of the
+Plaintiffs’ claims here. They do not arise from a singular “event” or “course of conduct” because
+there is no singular event or course of conduct: this case challenges thousands of decisions made
+for thousands of different reasons. And there is no single legal theory uniting the class as a
+whole or the named Plaintiffs. Borrowers claiming an entitlement to a HAMP modification
+plainly have a different theory of recovery than borrowers who admit they were properly denied
+but merely challenge the timeliness of their rejections.
+Finally, a plaintiff “cannot be considered typical” when “subject to unique defenses that
+would divert attention from the common claims of the class.” In re Bank of Boston Corp. Sec.
+Litig., 762 F. Supp. 1525, 1532 (D. Mass. 1991).
+
+Many Plaintiffs (e.g., George, Dugree,
+
+Mikhail) are subject to the defense that they failed to mitigate damages by refusing other
+modifications after they did not qualify for HAMP. See Monroe v. Hughes, 1990 WL 267361,
+*3 (D. Or. Dec. 18, 1990) (typicality defeated by failure to mitigate damages); accord Cerdant,
+Inc. v. DHL Express (USA), Inc., 2010 WL 3397501, *8-9 (S.D. Ohio Aug. 25, 2010); Leshin v.
+St. Charles Pontiac, Inc., 1997 WL 587678, *4 (N.D. Ill. Sept. 18, 1997). Plaintiffs who failed
+to make TPP payments (e.g., George, Nelson) or failed to satisfy other TPP obligations (e.g.,
+George, Cipowski, Cabrera, Goldman, McManaman, Morrow and Clark) are subject to the
+defense that their non-performance defeats their claims.
+
+Plaintiffs who rely on “oral”
+
+representations (e.g., Hlavsa) are subject to statute-of-frauds defenses. See Nachar, 901 F. Supp.
+at 1018. Plaintiffs who allege incorrect credit reporting are subject to the defense that their
+claims are preempted by federal law. See Miller v. Bank of Am., N.A., 858 F. Supp. 2d 1118,
+1124 (S.D. Cal. 2012) (“UCL claim [predicated] on allegations that . . . BAC reported inaccurate
+information to the credit reporting agencies” preempted by Fair Credit Reporting Act). Plaintiffs
+
+- 29 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 40 of 55
+
+who entered into TPPs with entities other than Bank of America (e.g., Alvarenga, Freeman, Hall,
+Volpe) are not only subject to a unique factual defense, but are outside the class definition.
+IV.
+
+PLAINTIFFS DO NOT SATISFY RULE 23(B).
+As set forth supra Part II, predominance is defeated by Plaintiffs’ failure to show that the
+
+mere fact of damages can be established classwide (cf. Comcast, 133 S. Ct. at 1433), and by the
+substantial portion of this litigation they admit will need to be adjudicated in individual minitrials.17 Rule 23(b)(3) also requires Plaintiffs to show that a class action is a superior method for
+adjudicating their claims, a conclusion foreclosed by the hundreds of plaintiffs who litigated
+such claims individually. Some even come within Plaintiffs’ class definition, which is fatal to
+superiority. See FED. R. CIV. P. 23(b)(3)(B) (consideration of “the extent and nature of any
+litigation concerning the controversy already begun by . . . class members”).
+Finally, it is significant that Plaintiffs’ claims are based so heavily on allegations of noncompliance with Treasury guidelines.
+
+Even if such allegations were true, that is an issue
+
+between Bank of America and Treasury, not between Bank of America and Plaintiffs. Contract
+claims on behalf of individual borrowers are not a superior means of adjudicating alleged
+violations of supervisory guidelines. Cf. London v. Wal-Mart Stores, Inc., 340 F.3d 1246, 1255
+n.5 (11th Cir. 2003) (expressing “doubt” about superiority where claims are based on alleged
+“failure to follow the requirements of a complex regulatory scheme, subject to different
+reasonable interpretations”). For all the above reasons, Plaintiffs’ motion should be denied.
+
+17
+
+Plaintiffs suggest that their class can also be certified under Rule 23(b)(2) (see Mot. at 16
+n.66), but this argument is waived by their failure to address any of the Rule’s requirements, see
+In re Pharm. Indus. Average Wholesale Price Litig., 252 F.R.D. 83, 106 (D. Mass. 2008), and
+foreclosed on the merits by their failure to identify any injunctive relief that would “benefit[] all
+[class] members at once.” Wal-Mart, 131 S. Ct. at 2558.
+- 30 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 41 of 55
+
+Dated: July 12, 2013
+
+Respectfully submitted,
+Bank of America, N.A., for itself and as
+successor by merger to BAC Home Loans
+Servicing, L.P.,
+By their attorneys,
+/s/ James W. McGarry
+James W. McGarry (BBO #633726)
+Dahlia S. Fetouh (BBO #651196)
+Natalie B. Kaminsky (BBO #675467)
+Lauren S. Kupersmith (BBO #677213)
+GOODWIN PROCTER LLP
+Exchange Pl., 53 State St.
+Boston, Mass. 02109
+Tel.: (617) 570-1000
+Fax: (617) 523-1231
+jmcgarry@goodwinprocter.com
+dfetouh@goodwinprocter.com
+nkaminsky@goodwinprocter.com
+lkupersmith@goodwinprocter.com
+Brooks R. Brown (BBO #634144)
+Keith E. Levenberg
+GOODWIN PROCTER LLP
+901 New York Ave., N.W.
+Washington, D.C. 20001
+Tel.: (202) 346-4000
+Fax: (202) 346-4444
+bbrown@goodwinprocter.com
+klevenberg@goodwinprocter.com
+Seth M. Goldstein
+Lee I. Sherman (BBO #677411)
+GOODWIN PROCTER LLP
+601 S. Figueroa St.
+Los Angeles, Cal. 90017
+Tel.: (213) 426-2500
+Fax: (213) 623-1673
+sgoldstein@goodwinprocter.com
+leesherman@goodwinprocter.com
+
+- 31 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 42 of 55
+
+ADDENDUM
+CASE LAW REJECTING INDIVIDUAL HAMP CLAIMS
+CASES HOLDING THAT PERFORMANCE UNDER TPPs DOES NOT CONFER A
+CONTRACTUAL RIGHT TO A PERMANENT MODIFICATION
+Reitz v. Nationstar Mortgage, LLC,
+2013 WL 3282875, *10 (E.D. Mo.
+June 27, 2013)
+
+“[U]pon review of the initial TPP offer letter, the TPP
+Agreement itself, and the HAMP Guidelines, it is clear
+that the loan servicer (the defendant) is given discretion
+in providing a loan modification. . . . Plaintiff fails to
+point to any statement in any document which clearly
+states that simply by making the payments and providing
+information automatically qualified her for a loan
+modification.”
+
+White v. JPMorgan Chase Bank,
+N.A., 2013 WL 2071894, *4 (D. Md.
+June 17, 2013)
+
+“Th[e] language [in plaintiffs’ TPP] contradicts
+Plaintiffs’ averments that timely payment of the reduced
+TPP amounts was the sole action necessary to
+contractually bind Chase to finalize their loan
+modification. Finalization of Plaintiffs’ loan
+modification was clearly conditional. . . . As a result,
+Plaintiffs’ breach of contract claim must be
+dismissed. . . .”
+
+Fed’l Home Loan Mortg. Corp. v.
+Hassell, 2013 WL 823241, *5-6
+(E.D. Mich. Mar. 6, 2013)
+
+“Plaintiff . . . claims that the Trial Plan and the Partial
+Reinstatement Agreement are binding contracts; that the
+purported contracts required Wells Fargo to modify her
+mortgage loan once she complied with its terms; that she
+did comply with all its terms; and that Wells Fargo
+breached the contracts when it failed to modify her
+mortgage loan. The Court is not persuaded by Plaintiff’s
+theory.”
+
+Burr v. JP Morgan Chase Bank,
+N.A., 2012 WL 1059043, *4 (S.D.
+Tex. Mar. 28, 2012)
+
+“[E]ven if the Burrs fulfilled all of their obligations under
+the TPP as alleged in the Complaint, the TPP does not
+guarantee the permanent modification of the Burrs’ loan
+or obligate Defendants to modify the loan. The TPP
+requires certain events to occur prior to the modification
+and makes the modification dependent upon the
+discretion of the Defendants.”
+
+- A-1 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 43 of 55
+
+Polk v. Countrywide Fin. Corp.,
+2012 WL 2952389, *4 (E.D. Mich.
+Jul. 19, 2012)
+
+“Plaintiff's submission of trial period payments and
+documents does not obligate Defendant to permanently
+modify the loan. Defendant is entitled to review these
+submissions and approve or deny the request.”
+
+Wittkowski v. PNC Mortg., 2011 WL “Pursuant to the terms of the TPP, Plaintiff was not
+5838517, *3-4 (D. Minn. Nov. 18,
+promised a permanent loan modification in exchange for
+2011)
+making timely payments and fulfilling the TPP document
+requirements.”
+Stolba v. Wells Fargo & Co., 2011
+WL 3444078, *3 (D.N.J. Aug. 8,
+2011)
+
+“[T]he plain language of the relevant TPP documents
+makes clear that satisfying the TPP conditions for
+permanent modification does not guarantee that Plaintiff
+would receive such modification.”
+
+Prasad v. BAC Home Loans
+Servicing LP, 2010 WL 5090331,
+*2-4 (E.D. Cal. Dec. 7, 2010)
+
+“[The TPP] makes clear that providing the requested
+documents was simply a part of the application process,
+which plaintiff was willing to complete in the hope that
+BAC would modify his loan. Under the language of
+Exhibit 2, a binding modification would not result unless
+and until BAC determined that plaintiff complied with
+the requirements. If BAC so determined, then it would
+send plaintiff a modification agreement, including a new
+monthly payment amount, which both plaintiff and
+defendant would execute. Plaintiff has not alleged or
+provided exhibits (1) that BAC determined plaintiff had
+met the requirements, or (2) that BAC sent plaintiff a
+loan modification with a new monthly payment that was
+then executed by both plaintiff and BAC. As such, no
+binding contract has been alleged. . . .”
+
+JPMorgan Chase Bank, N.A. v.
+Ilardo, 940 N.Y.S.2d 829, 840-41
+(N.Y. Sup. Ct. 2012)
+
+“The Ilardos’ claims that the TPP was a binding contract
+and the [servicer] breached it by failing to offer a
+permanent modification after the Ilardos successfully
+performed are rejected as unmeritorious. . . . [A]ny
+permanent modification [was] subject to the subsequent
+approval of Chase. . . .”
+
+Brown v. Bank of N.Y. Mellon, 2011
+WL 206124, *3 (W.D. Mich. Jan.
+21, 2011)
+
+“The trial period plan agreement did not guarantee that
+Plaintiff's loan documents would be modified.”
+
+- A-2 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 44 of 55
+
+Vida v. OneWest Bank, F.S.B., 2010
+WL 5148473, *6 (D. Or. Dec. 13,
+2010)
+
+“[T]he Plan states explicitly that modification is not
+guaranteed until the modification process is complete,
+and not at any intermediate point in the modification
+process. The Trial Period Plan is explicitly not an
+enforceable offer for loan modification.”
+
+Rosas v. Carnegie Mortg., LLC,
+“HAMP trial plans do not create binding contracts
+2013 WL 791024, *4 (C.D. Cal. Feb. requiring permanent loan modification.”
+25, 2013)
+Geske v. Wells Fargo Bank, N.A.,
+2012 WL 1231835, *6 (N.D. Tex.
+Apr. 12, 2012)
+
+“Because of . . . the discretion given to lenders under
+TPPs in deciding whether to provide borrowers with an
+executed Modification Agreement, courts have almost
+uniformly concluded that TPPs are not enforceable
+contracts based solely on a plaintiff's compliance with the
+terms of the TPP.”
+
+Ortiz v. America’s Servicing Co.,
+2012 WL 2160953, *4 (C.D. Cal.
+Jun. 11, 2012)
+
+“[A] binding contract does not exist unless and until ASC
+determined that plaintiff complied with the requirements
+[of the TPP]. . . . Because plaintiff has not alleged that
+defendants approved her for a permanent modification,
+no binding contract was ever created.”
+
+Pineda v. CitiMortgage, Inc., 2012
+WL 2070317, *4 (N.D. Cal. Jun. 8,
+2012)
+
+“Defendant agreed to consider Plaintiffs’ request for a
+loan modification, but it did not agree to provide one. . . .
+[T]he [TPP] gave Defendant the discretion to determine
+whether Plaintiffs qualified for a loan modification.
+There is no indication that Defendant reached such a
+determination.”
+
+Bohnhoff v. Wells Fargo Bank, N.A.,
+853 F. Supp. 2d 849, 854-55 (D.
+Minn. 2012)
+
+“[A] contract was not formed, because no offer to modify
+was present. . . . [T]he TPP specifically stated that it was
+‘not a modification of the Loan Documents.’ In other
+words, the TPP is an offer to consider modification,
+expressly conditioned on continued trial payments (for
+three months or longer) and other criteria. . . . As a
+result, no contract formed.”
+
+Billingsley v. OneWest Bank, FSB,
+2013 U.S. Dist. LEXIS 95118, *3-4
+(D. Minn. July 9, 2013)
+
+“[C]ourts in this district have consistently rejected
+borrowers’ claims that lenders breached a Home
+Affordable Modification Trial Period Plan when the
+lenders did not permanently modify mortgages because
+no enforceable contract to permanently modify the
+mortgage was formed. . . . The Court concludes that
+Billingsley’s breach-of-contract claim fails.”
+
+- A-3 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 45 of 55
+
+CASES HOLDING TPPs UNENFORCEABLE AS INDEFINITE “AGREEMENTS TO
+AGREE”
+Senter v. JPMorgan Chase Bank,
+N.A., 810 F. Supp. 2d 1339, 1351
+(S.D. Fla. 2011)
+
+“Since the TPP Agreements are indefinite and uncertain
+as to material terms of the permanent loan modifications,
+such agreements represent, at best, unenforceable
+agreements to agree that do not rise to the level of a valid
+contract.”
+
+Salvador v. Bank of Am., N.A., 456
+B.R. 610, 617-19 (Bankr. M.D. Ga.
+2011)
+
+“It is clear from the terms of the TPP Agreement that the
+document is nothing more than an agreement to negotiate
+further with respect to the terms of a proposed loan
+modification.”
+
+Juarez v. SunTrust Mortg., Inc.,
+2013 WL 1983111, *17 (E.D. Cal.
+May 13, 2013)
+
+“The trial plan did not obligate [defendant] to provide a
+permanent modification, which was to be agreed upon
+and executed separately from the trial plan.”
+
+Pace v. CitiMortgage, Inc., 2013
+WL 55825, *3 (M.D. Ga. Jan. 3,
+2013)
+
+“[A]lleged agreement to offer a permanent modification
+of unspecified terms—such as interest rate, monthly
+payment amount, principal, and loan maturity date— . . .
+lacks a ‘meeting of the minds as to all essential terms’
+and is unenforceable.”
+
+Nadan v. Homesales, Inc., 2011 WL
+3584213, *6 (E.D. Cal. Aug. 12,
+2011)
+
+“[A] purported agreement to modify the Nadans’ loan in
+the future [is] an unenforceable ‘agreement to agree’
+given the TPP’s absence of ‘essential terms of the
+purported permanent modifications.’”
+
+Reitz v. Nationstar Mortgage, LLC,
+2013 WL 3282875, *14 (E.D. Mo.
+June 27, 2013)
+
+“The nature and timing of the permanent loan agreement
+is left undetermined as the TPP Agreement fails to
+establish any of the terms governing the potential
+permanent loan modification. The TPP Agreement is
+indefinite and uncertain as to the essential terms of a
+permanent loan modification, therefore, it fails to rise to
+the level of a valid enforceable contract under Missouri
+law.”
+
+- A-4 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 46 of 55
+
+CASES HOLDING TPPs UNENFORCEABLE FOR LACK OF CONSIDERATION
+Karapetyan v. JPMorgan Chase
+Bank, N.A., 2012 WL 3308883, *4
+(E.D. Tex. June 6, 2012) (citations
+omitted)
+
+“Plaintiffs argue that the three payments that Plaintiffs
+made pursuant to the TPP constitute valid consideration.
+The Court disagrees. This is not new consideration under
+Texas law. . . . The borrower making three trial-periodplan payments and submitting financial information was
+not new consideration that would support the trial period
+plan because the borrower was already contractually
+obligated make payments and provide financial
+information under the deed of trust. . . . Thus, Plaintiffs
+cannot rely upon the TPP to create a binding contractual
+obligation to enter into a permanent loan modification.”
+
+Rackley v. JPMorgan Chase Bank,
+N.A., 2011 WL 2971357, *4 (W.D.
+Tex. July 21, 2011)
+
+“[A]n agreement to do what one is already bound to do
+generally cannot serve as sufficient consideration to
+support a contract modification. Plaintiff was already
+obligated to disclose to JPMC his financial information
+under his original loan document, and his payments both
+during and after the Modification Effective Date went
+toward that loan's debt. Consequently, no new
+consideration supported Plaintiff's TPP sufficient to make
+it an enforceable contract to modify his loan with JPMC.”
+
+CitiMortgage, Inc. v. Crawford,
+2013 WL 1225387, *5 (S.D. Ohio
+Mar. 26, 2013)
+
+“[Borrowers] have not adequately alleged consideration,
+as neither the TPP payments nor [their] submission of
+documents are sufficient. A promise ‘to pay a sum less
+than that which [a party] was already obligated to pay’ is
+not consideration. Consequently, the submission of TPP
+payments does not qualify as consideration, as
+Defendants already owed Plaintiff significantly more
+under the terms of their mortgage. Similarly, the
+‘submission of . . . documentation’ is not consideration.”
+
+Reitz v. Nationstar Mortgage, LLC,
+2013 WL 3282875, *13 (E.D. Mo.
+June 27, 2013)
+
+“[T]he Court finds that the plaintiff’s TPP payments and
+provision of financial information does not constitute
+sufficient consideration for the TPP Agreement to qualify
+as a binding contract between the parties entitling the
+plaintiff to a modified loan mortgage.”
+
+- A-5 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 47 of 55
+
+Graybill v. Wells Fargo Bank, N.A.,
+2013 WL 978245, *15 (N.D. Cal.
+Mar. 12, 2013)
+
+“[T]he Graybills allege that they submitted information
+to Wells Fargo, Wells Fargo agreed to consider that
+information according to certain procedures, and they
+applied in consideration for Wells Fargo’s promises to
+consider their application. Unlike the cases where
+Plaintiffs forego other financing options or pay a filing
+fee, nothing in the FAC supports a plausible inference
+that Plaintiffs provided any consideration.”
+
+CASES HOLDING TPPs UNENFORCEABLE BECAUSE THEY WERE NOT SIGNED
+BY BOTH PARTIES
+Brinson v. Bank of Am., N.A., 2013
+WL 147835, *5 (D. Alaska Jan. 13,
+2013)
+
+“Because BOA never sent plaintiff a signed copy of the
+TPP, the court cannot conclude that BOA intended to be
+bound, and thus the TPP never ripened into an offer.”
+
+Goss v. ABN AMRO Mortg. Grp.,
+LLC, 2012 WL 5986783, *7 (E.D.
+Mich. Nov. 29, 2012)
+
+“Defendant did not sign the Trial Period Plan. Thus, the
+loan modification offer [plaintiff] signed ‘did not ripen
+into a binding agreement, primarily because [it] bears
+only [his] signature, and therefore, does not objectively
+reflect a meeting of the minds regarding the essential
+modification terms.’”
+
+Fed’l Home Loan Mortg. Corp. v.
+Hassell, 2013 WL 823241, *7 (E.D.
+Mich. Mar. 6, 2013)
+
+“It is beyond dispute that Wells Fargo did not sign the
+Trial Plan. Thus, the loan modification proposal
+[plaintiff] signed ‘did not ripen into a binding
+agreement. . . .’”
+
+Heikkinen v. Bank of Am., N.A.,
+2012 WL 628608, *6 (E.D. Mich.
+Feb. 27, 2012) (quoting Voydanoff v.
+Select Portfolio Serv., Inc., 2011 WL
+6757841, *7 (Mich. Ct. App. Dec.
+22, 2011))
+
+“[S]imilar to the plaintiff in Voydanoff, Plaintiff here
+cannot establish a claim that Defendants breached an
+agreement to modify her mortgage loan. It is undisputed
+that Defendants did not sign the TPP. Thus, the loan
+modification proposal she signed ‘did not ripen into a
+binding agreement, primarily because [it] bears only [the
+plaintiff]’s signature, and therefore, does not objectively
+reflect a meeting of the minds regarding the essential
+modification terms.’”
+
+Avevedo v. CitiMortgage, Inc., 2012
+WL 3134222, *8 (N.D. Ill. July 25,
+2012)
+
+“The offer to modify the plaintiffs’ loan was . . . not
+binding unless and until CitiMortgage executed the TTP
+and returned it to the plaintiffs. This never happened.
+Thus, CitiMortgage was not required to modify the
+plaintiffs’ loan, assuming that the plaintiffs held up their
+end of the bargain.”
+
+- A-6 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 48 of 55
+
+Soin v. Fannie Mae, 2012 WL
+1232324, *5-6 (E.D. Cal. Apr. 12,
+2012)
+Krouse v. BAC Home Loans
+Servicing, LP, 2011 WL 6100406,
+*4 (E.D. Cal. Dec. 6, 2011)
+
+“[P]laintiffs have submitted a copy of the TPP signed by
+them only. . . . Plaintiffs have failed as a matter of law to
+allege facts sufficient to establish that they entered into a
+contract to permanently modify the terms of their loan.”
+“Defendants contend that they never executed the TPP
+agreement, and therefore the contract is unenforceable
+under the statute of frauds. . . . [B]ecause the statute of
+frauds applies, and no claimed exception to the statute
+have been properly alleged or pled, Plaintiffs' breach of
+written contract claim is dismissed.”
+
+Stovall v. SunTrust Mortg., Inc.,
+2011 WL 4402680, *12 (D. Md.
+Sept. 20, 2011)
+
+“Stovall’s conclusory assertion that SunTrust breached
+the TPP Agreement by failing to extend a permanent loan
+modification . . . is completely eviscerated by the fact
+that she never received a fully executed copy of the
+document, and was ultimately sent ‘a letter . . . informing
+her that she had been denied for a loan modification.’”
+
+Nungaray v. Litton Loan Servicing,
+LP, 135 Cal. Rptr. 3d 442, 447 (Cal.
+Ct. App. 2011)
+
+“As a matter of law, there was no contract [where] . . .
+[n]either Litton nor the Bank executed the Plan nor did
+they prepare, execute, and forward a permanent
+modification agreement.”
+
+Morales v. Chase Home Fin. LLC,
+2011 WL 1670045, *6 (N.D. Cal.
+Apr. 11, 2011)
+
+“Plaintiffs fail to allege . . . that they have met all the
+conditions set forth in the TPP Contract for loan
+modification, including receipt of a ‘fully executed copy
+of a Modification Agreement,’ and therefore fail to allege
+the existence of a binding contract regarding a permanent
+loan modification.”
+
+Herold v. U.S. Bank, N.A., 2011 WL
+4072029, *2 (D. Ariz. Sept. 13,
+2011)
+
+“Even assuming a TPP could be an enforceable
+contract, . . . neither plaintiff nor defendants ever signed
+this document. Therefore, the TPP was merely an offer.”
+
+CASES HOLDING THAT BORROWERS HAVE NO CONTRACTUAL RIGHT TO A
+PERMANENT MODIFICATION BECAUSE THE TPP EXPRESSLY MAKES THE
+RIGHT CONTINGENT ON THE SERVICER’S SENDING A FULLY EXECUTED
+PERMANENT MODIFICATION AGREEMENT
+Pennington v. HSBC Bank USA,
+N.A., 493 F. App’x 548, 554 (5th
+Cir. 2012)
+
+“The Penningtons’ claim for breach of the TPP fails for
+a[] . . . basic reason: . . . The TPP expressly requires that
+before the contract is final, the lender must send a signed
+copy to the borrower. The Penningtons never alleged
+that they received such a signed copy.”
+
+- A-7 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 49 of 55
+
+Lucia v. Wells Fargo Bank, N.A.,
+798 F. Supp. 2d 1059, 1069 (N.D.
+Cal. 2011)
+
+“Plaintiffs fail to allege, however, that they have met all
+the conditions set forth in the TPP Contract for loan
+modification, including receipt of a ‘fully executed copy
+of a Modification Agreement,’ and therefore fail to allege
+the existence of a binding contract regarding a permanent
+loan modification.”
+
+McGann v. PNC Bank, N.A., 2013
+WL 1337204, *6 (N.D. Ill. Mar. 29,
+2013)
+
+“[T]he plain language of the TPP Agreement states PNC
+is not obligated to provide a HAMP loan modification
+until both parties execute the TPP Agreement. . . .
+Because PNC never executed and returned the [TPP], it
+had no obligation to offer McGann a permanent HAMP
+loan modification pursuant to the TPP Agreement.”
+
+Helmus v. Chase Home Fin., LLC,
+890 F. Supp. 2d 806, 815 (W.D.
+Mich. 2012)
+
+“By its plain terms, the TPP makes it clear that it was not
+an offer, and would not become binding on Chase until
+the contract was signed and returned to Plaintiffs, which
+it was not. As a result, there was no offer for Plaintiffs to
+accept.”
+
+Thomas v. JPMorgan Chase & Co.,
+811 F. Supp. 2d 781, 796 (S.D.N.Y.
+2011)
+
+“Plaintiffs’ claim . . . is contradicted by the express terms
+of the TPP agreements, which state that any permanent
+modification is subject to the subsequent approval of
+Chase, and the receipt of a signed modification
+agreement. . . . [P]laintiffs clearly never received a ‘fully
+executed copy of the Modification Agreement.’”
+
+Lund v. CitiMortgage, Inc., 2011
+WL 1873690, *2 (D. Utah May 17,
+2011)
+
+“[The TPP] makes clear . . . that the modification would
+not be made permanent until, among other things,
+Plaintiffs received a fully executed copy of a
+modification agreement.”
+
+Pandit v. Saxon Mortg. Servs., Inc.,
+2012 WL 4174888, *4-5 (E.D.N.Y.
+Sept. 17, 2012)
+
+“[T]he TPP cautioned borrowers that their loan would not
+be modified unless, prior to the Modification Effective
+Date, the Lender provided them with fully executed
+copies of both the TPP and a Modification Agreement.
+Defendant never provided Plaintiffs with executed copies
+of either document.”
+
+Brady v. Chase Home Fin., LLC,
+2012 WL 1900606, *7 (W.D. Mich.
+May 24, 2012)
+
+“In the instant case, the TPP provided that the plan would
+not take effect until Chase signed and returned a copy of
+the TPP to Brady. Because Chase never sent Brady a
+copy of a fully-executed TPP, the TPP never ripened into
+an offer that Brady could accept. Accordingly, Brady
+fails to state a breach of contract claim.”
+
+- A-8 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 50 of 55
+
+Pratt v. BAC Home Loan Servicing,
+LP, 2012 WL 1565232, *4 (D. Md.
+Apr. 30, 2012)
+
+“[T]he language of the TPP Agreement belies Plaintiff's
+contention that Defendant owed Plaintiff any contractual
+duty. . . . Nothing in the TPP provides Plaintiff with a
+right to a permanent loan modification. . . .”
+
+McInnis v. BAC Home Loan
+Servicing, LP, 2012 WL 383590, *7
+(E.D. Va. Jan. 13, 2012)
+
+“According to Plaintiff’s own allegations, she did not
+receive a fully executed copy of the modification
+agreement, a condition necessary to modifying her
+original loan under the terms of the TPP Agreement.”
+
+Pool v. Wells Fargo Bank, N.A.,
+2012 WL 3264294, *5 (D. Colo.
+Aug. 10, 2012)
+
+“Pursuant to the language contained in the TPP, . . . the
+HAMP process requires the counter signature of the
+servicer . . . and Plaintiff here neither alleges nor
+provides . . . any evidence that Wells Fargo
+countersigned the TPP. . . .”
+
+Nachar v. PNC Bank Nat’l Ass’n,
+901 F. Supp. 2d 1012, 1019 (N.D.
+Ohio 2012)
+
+“[B]y its plain language, [the TPP] indicates that it is not
+an offer of a permanent modification. The [TPP]
+specifically states that it is not a modification of the Loan
+documents, and further stipulates that if the Servicer does
+not provide a fully executed copy of the [TPP] and
+separate Modification Agreement, the Loan documents
+will not be modified and the [TPP] will terminate. Prior
+to expiration of the trial period, PNC . . . did not send
+Plaintiff or John Nachar an executed copy of the [TPP] or
+a separate Modification Agreement. As such, Plaintiff
+has failed to establish the existence of a contract pursuant
+to the [TPP], since it was not an offer of permanent
+modification.”
+
+Rummell v. Vantium Capital, Inc.,
+Plaintiffs’ TPP stated that it would “‘not take effect
+2012 WL 2564846, *6-7 (E.D. Mich. unless and until both I [the borrower] and the Lender sign
+Jul. 2, 2012)
+it and Lender provides me with a copy of this plan with
+Lender's signature.’ Defendant CitiMortgage never
+signed the 2009 TPP and never returned a signed copy to
+Plaintiffs. Therefore, . . . the 2009 TPP did not ‘ripen
+into a binding contract’ obligating any Defendant to
+provide Plaintiffs with a loan modification.”
+Lonberg v. Freddie Mac, 776 F.
+Supp. 2d 1202, 1210 (D. Ore. 2011)
+
+“[P]laintiff failed to allege or provide evidence of a loan
+modification with a new monthly payment that was
+executed by both plaintiff and defendant. Thus, I find no
+binding contract has been alleged to sufficiently state a
+breach of contract claim.”
+
+- A-9 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 51 of 55
+
+CASES HOLDING THAT BORROWERS HAD NO CLAIMS BECAUSE THEY DID
+NOT PERFORM THEIR OWN OBLIGATIONS UNDER THEIR TPPs
+“Gikas acknowledges that he failed to provide Chase
+Gikas v. JPMorgan Chase Bank,
+N.A., 2013 WL 1457042, *4 (D.N.H. with the documents it requested. . . . Because Gikas did
+Apr. 10, 2013)
+not fulfill the preconditions to a modification under the
+terms of the TPP, the defendants were not obligated to
+provide him with one.”
+Marquez v. Wells Fargo Bank, N.A.,
+2013 WL 98533, *2 (D. Mass. Jan.
+8, 2013)
+
+“Plaintiffs in their opposition admit that Arriaga failed to
+sign the TPP and Hardship Affidavit and to provide
+documentation of his income. This admission proves
+fatal to the claim that a valid contract was formed.”
+
+Baehl v. Bank of Am., N.A., 2013
+WL 1319635, *12 (S.D. Ind. Mar.
+29, 2013)
+
+“Plaintiffs failed to comply with the requirements for
+applying to the HAMP program, so a contract was never
+formed. Plaintiffs knew or should have known that BOA
+did not intend to create a loan modification until it
+decided whether Plaintiffs satisfied the TPP’s
+requirements.”
+
+Brush v. Wells Fargo Bank, N.A.,
+911 F. Supp. 2d 445, 470 (S.D. Tex.
+Nov. 29, 2012)
+
+“The Brushes have not identified or provided any
+evidence showing that they met the necessary conditions
+for a loan modification under HAMP. . . . The only
+payment that the Brushes made under the Agreement was
+returned by their bank for insufficient funds.”
+
+Legore v. OneWest Bank, FSB, 898
+F. Supp. 2d 912, 920 (D. Md. 2012)
+
+“[A]lthough Legore contends that his documents were
+lost and he was required to resubmit them, he does not
+contest that he had failed to submit acceptable income
+verification documentation; accordingly it was not
+deceptive or misleading for OneWest to require Legore to
+resubmit documents and to initially deny Legore’s
+HAMP application.”
+
+Frost v. Wells Fargo Bank, N.A., 901 “Defendant argues that even if there were an enforceable
+F. Supp. 2d 999, 1008-09 (W.D.
+agreement, Plaintiffs breached the alleged agreement by
+Mich. 2012)
+failing to provide the required documents to Defendant.
+Defendant's argument provides an independent basis for
+summary judgment in its favor. . . .”
+
+- A-10 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 52 of 55
+
+Heikkinen v. Bank of Am., N.A.,
+2012 WL 628608, *6 (E.D. Mich.
+Feb. 27, 2012)
+
+“[E]ven if Plaintiff could establish that the TPP was a
+binding agreement to modify her mortgage, she cannot
+establish that she satisfied all the conditions for
+modification set out in the TPP. Specifically, despite
+Chase’s repeated, written notices to Plaintiff for
+additional documents it needed to complete her loan
+modification request, Plaintiff testified that she did not
+recall sending the requested documents to Chase.”
+
+Nungaray v. Litton Loan Servicing,
+LP, 135 Cal. Rptr. 3d 442, 447 (Cal.
+Ct. App. 2011)
+
+“The plain and clear language of [plaintiffs’ TPP] states
+that the Plan ‘is not a modification of the Loan
+Documents’ and the documents will not be modified
+unless the Nungarays ‘meet all of the conditions required
+for modification[.]’” There was no contract here, because
+“Litton and the Bank . . . did not receive the Nungarays’
+complete financial information, despite sending the
+Nungarays’ counsel three letters requesting the
+information and returning one of the Nungarays’
+payments for lack of accompanying financial
+information.”
+
+Pace v. CitiMortgage, Inc., 2013
+WL 55825, *3 (M.D. Ga. Jan. 3,
+2013)
+
+“[E]ven if Pace’s allegations were sufficient to establish
+the existence of an enforceable contract, his allegations
+demonstrate that he failed to comply with his obligations
+under that agreement.”
+
+Jackson v. Federal Nat’l Mortg.
+Ass’n, Inc., 2012 WL 1030016, *5
+(D. Or. Mar. 26, 2012)
+
+“Plaintiff's breach of contract action cannot be
+maintained because it is undisputed that Plaintiff failed to
+perform his obligations under the TPP by making timely
+payments.”
+
+Bonsu v. Ocwen Loan Serv., LLC,
+2012 WL 5853397, *3 (Mich. Ct.
+App. Nov. 15, 2012)
+
+“[P]laintiff failed to provide the requested documentation
+in a timely manner pursuant to the TPP. Because
+plaintiff did not satisfy these terms of the TPP
+agreement, . . . the trial court did not err in granting
+defendant's motion for summary disposition.”
+
+Lonberg v. Freddie Mac, 776 F.
+Supp. 2d 1202, 1210 (D. Or. 2011)
+
+“[P]laintiff merely alleged that she complied with the
+TPP, without providing evidence as such.”
+
+- A-11 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 53 of 55
+
+LeBlanc v. Bank of Am., N.A., 2013
+WL 3146829, *10 (W.D. Tenn. June
+18, 2013)
+
+“[F]ailure to fulfill the conditions of the TPP would result
+in Bank of America having no liability pursuant to the
+TPP. . . . Because LeBlanc has failed to plead that he
+satisfied the conditions necessary for the liability to
+attach to the TPP, . . . LeBlanc has not satisfied the
+pleading standard for a material element of his breach-ofcontract claim based on the TPP.”
+
+CASES HOLDING THAT BORROWERS HAD NO CLAIMS BECAUSE THEY DID
+NOT QUALIFY FOR HAMP
+Pennington v. HSBC Bank USA,
+N.A., 493 F. App’x 548, 553-54 (5th
+Cir. 2012)
+
+“Smith[’s] assertion that she would not have fallen
+behind [on her mortgage] absent HAMP shows [that] she
+was ineligible for the loan modification. . . . Because
+financial eligibility is a condition for the TPP, Smith is
+not entitled to any benefits the TPP might provide.”
+
+Burton v. Nationstar Mortg. LLC,
+2013 WL 2355524, *7 (E.D. Cal.
+May 29, 2013)
+
+“The complaint and its inferences raise uncertainty
+whether Mr. Burton occupied the property as of August
+1, 2009 or October 9, 2009 to satisfy the residence
+certification. Such uncertainty subjects the breach of
+contract claim to dismissal. . . .”
+
+Pratt v. BAC Home Loan Servicing,
+LP, 2012 WL 1565232, *4 (D. Md.
+Apr. 30, 2012)
+
+“According to Plaintiff’s own allegations, he had been
+able to afford his mortgage payments at the time he
+received the TPP, and thus, under the plain language of
+the TPP, he did not qualify for a permanent loan
+modification.”
+
+Nugent v. Fed. Home Loan Mortg.
+Corp., 2013 WL 1326425, *4 (E.D.
+Cal. Mar. 29, 2013)
+
+“[T]o obtain a modification, Aquila and Carla Nugent
+had to certify and represent that ‘[t]here has been no
+change in the ownership of the Property since I signed
+the Loan Documents.’ . . . Aquila and Carla Nugent
+could not make this representation since the ownership of
+the property changed two years after the loan documents
+were signed, when they transferred an undivided 50%
+interest in the property to Andrew Nugent. Plaintiffs are
+therefore ineligible for the HAMP agreement that forms
+the basis of their breach of contract claim.”
+
+- A-12 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 54 of 55
+
+Hayes v. Bank of Am. Corp., 2012
+WL 4364084, *4 (D. Nev. Sept. 21,
+2012)
+
+“Bank of America argues that ‘Plaintiff cannot plausibly
+allege that she fully complied with the TPP Agreement
+and thus deserves a permanent modification because she
+does not dispute that she failed to meet the requirement
+that her mortgage payment be greater than 31% of her
+income.’ . . . The Court agrees. Because Plaintiff has
+failed to adequately plead her performance under the
+agreement, Plaintiff also fails to allege Defendants’
+breach.”
+
+- A-13 -
+
+Case 1:10-md-02193-RWZ Document 221 Filed 07/12/13 Page 55 of 55
+
+CERTIFICATE OF SERVICE
+I hereby certify that this document filed through the ECF system will be sent
+electronically to the registered participants as identified on the Notice of Electronic Filing (NEF)
+and paper copies will be sent to those indicated as non-registered participants on July 12, 2013.
+/s/ James W. McGarry
+
+

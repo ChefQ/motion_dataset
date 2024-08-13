@@ -1,0 +1,841 @@
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 1 of 28
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+MILLENNIUM TGA, INC.,
+No. 1:12-mc-00150-ESH-AK
+Plaintiff,
+v.
+JOHN DOE,
+Defendant.
+
+NON-PARTY COMCAST CABLE COMMUNICATIONS, LLC’S
+MEMORANDUM OF LAW IN OPPOSITION TO PLAINTIFF’S
+MOTION TO COMPEL COMPLIANCE WITH SUBPOENA
+
+John D. Seiver
+Leslie G. Moylan
+Lisa B. Zycherman
+DAVIS WRIGHT TREMAINE LLP
+1919 Pennsylvania Ave., N.W., Suite 800
+Washington, DC 20006
+(202) 973-4200
+Attorneys for Non-Party Comcast Cable
+Communications, LLC
+
+March 26, 2012
+
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 2 of 28
+
+TABLE OF CONTENTS
+TABLE OF AUTHORITIES .......................................................................................................... ii
+INTRODUCTION AND FACTUAL BACKGROUND ................................................................ 1
+ARGUMENT .................................................................................................................................. 3
+A.
+
+Legal Standard .........................................................................................................3
+
+B.
+
+This Court Lacks Personal Jurisdiction Over the Majority of Potential
+Doe Defendants Identified in the Subpoena ............................................................5
+
+C.
+
+Joinder of the Doe Defendants is Improper ...........................................................13
+
+D.
+
+Permitting Discovery of Comcast in This Action Would Encourage
+Forum Shopping and Risk Other Ill Effects ..........................................................18
+
+E.
+
+Even if Compliance with the Subpoena is Ordered, the Court Should
+Allow a Reasonable Time for Compliance ............................................................19
+
+CONCLUSION ............................................................................................................................. 20
+
+i
+
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 3 of 28
+
+TABLE OF AUTHORITIES
+Page(s)
+FEDERAL CASES
+Abex Corp. v. Maryland Cas. Co.,
+790 F.2d 119 (D.C. Cir. 1986) ...........................................................................................18
+Arista Records, LLC v. Does,
+No. 07-CV-2828, 2008 U.S. Dist. LEXIS 90183 (N.D. Ohio Nov. 3, 2008) ....................15
+Berlin Media Art v. Does 1-654,
+No. 11-03770, 2011 U.S. Dist. LEXIS 120257 (N.D. Cal. Oct. 18, 2011) .......................11
+Boy Racer, Inc. v. Does 2-52,
+No. C 11-2834 [Doc. No. 12], (N.D. Cal.) ..................................................................13, 17
+Burger King Corp. v. Rudzewicz,
+471 U.S. 462 (1985) ...........................................................................................................10
+Call of the Wild Movie, LLC v. Does 1-1,062,
+770 F. Supp. 2d 332 (D.D.C. 2011) .......................................................................11, 12, 15
+Caribbean Broad. Sys., Ltd. v. Cable & Wireless PLC,
+148 F.3d 1080 (D.C. Cir. 1998) ...........................................................................................4
+Central Freight Lines, Inc. v. APA Transp. Corp.,
+322 F.3d 376 (5th Cir. 2003) ...............................................................................................7
+CP Prods., Inc. v. Does 1-300,
+No. 10 C 6255, 2011 WL 737761 (N.D. Ill. Feb. 24, 2011) ..............................................10
+Diabolic Video Prods., Inc. v. Does 1-2099,
+No. 10-CV-5865, 2011 WL 3100404 (N.D. Cal. May 31, 2011) ......................................13
+DigiProtect USA Corp. v. Does 1-240,
+No. 10-cv-8760, 2011 WL 4444666 (S.D.N.Y. Sept. 26, 2011) ...................................9, 13
+DigiProtect USA Corp. v. Does 1-266,
+No. 10-cv-8759, 2011 WL 1466073 (S.D.N.Y. Apr. 13, 2011) ........................................10
+
+Digital Sin, Inc. v. Doe,
+No. C 11-04397, 2011 U.S. Dist. LEXIS 128033 (N.D. Cal. Nov. 4, 2011) .....................14
+
+ii
+
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 4 of 28
+
+Eisel v. Secretary of Army,
+477 F.2d 1251 (D.C. Cir. 1973) .........................................................................................18
+Exponential Biotherapies, Inc. v. Houthoff Buruma N.V.,
+638 F. Supp. 2d 1 (D.D.C. 2009) .........................................................................................5
+Frass v. Southern Pac. Transp. Co.,
+810 F. Supp. 189 (S.D. Miss. 1993).....................................................................................7
+Funimation Entm’t v. Does 1-1,337,
+No. 3:11-cv-00147, Order Vacating the Court’s Order Granting Plaintiff’s Motion
+for Leave to Take Discovery Prior to Rule 26(f) Conference and Order to Show
+Cause [Doc. No. 6], (N.D. Tex. Feb. 7, 2011) ...................................................................11
+Gillespie v. Civiletti,
+629 F.2d 637 (9th Cir. 1980) ..............................................................................................5
+Hard Drive Prods., Inc. v. Does 1-188,
+809 F. Supp. 2d 1150 (N.D. Cal. 2011) .................................................................11, 13, 14
+Hard Drive Prods. v. Does 1-30,
+No. 11cv345, 2011 U.S. Dist. LEXIS 119333 (E.D. Va. Oct. 17, 2011) .........................11
+Hard Drive Prods., Inc. v. Does 1-130,
+No. C-11-3826, 2011 U.S. Dist. LEXIS 132449 (N.D. Cal. Nov. 16, 2011) ....................14
+Healix Infusion Therapy, Inc. v. HHI Infusion Servs.,
+No. H-09-3440, 2010 WL 2277389 (S.D. Tex. June 3, 2010).............................................8
+In re Micron Tech., Inc. Sec. Litig.,
+264 F.R.D. 7 (D.D.C. 2010).................................................................................................5
+International Shoe Co. v. Washington,
+326 U.S. 310 (1945) .............................................................................................................7
+K-Beech, Inc. v. Does 1-85,
+No. 11-CV-00469, 2011 U.S. Dist. LEXIS 124581 (E.D. Va. Oct. 5, 2011) ..............16, 17
+King v. Forest,
+No. 3:08-CV-1405-L, 2008 WL 4951049 (N.D. Tex. Nov. 14, 2008) ................................7
+Liberty Media Holdings, LLC v. BitTorrent Swarm,
+No. 11-cv-21525, 2011 WL 5190048 (S.D. Fla. Nov. 1, 2011) ........................................14
+Linder v. Department of Def.,
+133 F.3d 17 (D.C. Cir. 1998) ...............................................................................................5
+iii
+
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 5 of 28
+
+Lumiere v. Mae Edna Wilder, Inc.,
+261 U.S. 174 (1923) .............................................................................................................7
+McGIP, LLC v. Does 1-149,
+No. C 11-02331, 2011 U.S. Dist. LEXIS 108109 (N.D. Cal. Sept. 16, 2011) ......14, 15, 17
+Millenium TGA v. Doe,
+No. 10 C 5603, 2011 U.S. Dist. LEXIS 110135 (N.D. Ill. Sept. 26, 2011) .......................10
+Millenium TGA v. Does 1-800,
+No. 10 C 5603 [Doc. No. 55], (N.D. Ill. Mar. 31, 2011) ...................................................14
+Millennium TGA, Inc. v. Does 1-21,
+No. 11-2258, 2011 WL 1812786 (N.D. Cal. May 12, 2011) .............................................14
+Millenium TGA v. Does 1-939,
+No. 1:11-cv-02176-RLW (D.D.C.) ....................................................................................17
+New Sensations, Inc. v. Does 1-1,474,
+No. C 11-2770, 2011 U.S. Dist. LEXIS 140670 (N.D. Cal. Dec. 7, 2011) .......................10
+Nu Image, Inc. v. Does 1-23,322,
+799 F. Supp. 2d 34 (D.D.C. 2011) ...................................................................5, 8, 9, 12, 18
+On The Cheap, LLC v. Does 1-5011,
+No. C10-472, 2011 U.S. Dist. LEXIS 99831 (N.D. Cal. Sept. 6, 2011) .....................10, 14
+Oppenheimer Fund, Inc. v. Sanders,
+437 U.S. 340 (1978) .............................................................................................................5
+Pacific Century Int’l, Inc. v. Does 1-101,
+No. C-11-02533, 2011 WL 2690142 (N.D. Cal. July 8, 2011) .........................................14
+Patrick Collins, Inc. v. Does 1-2,590,
+No. C 11-2766, 2011 U.S. Dist. LEXIS 140913 (N.D. Cal. Dec. 7, 2011) .......................11
+SBO Pictures, Inc. v. Does 1-87,
+No. 11-1962, 2012 U.S. Dist. LEXIS 6968 (D.D.C. Jan. 19, 2012) ..................................10
+Steve Hardeman, LLC v. Does 1-168,
+No. 3:11-cv-00056, Order Severing Does 2-168 [Doc. No. 6],
+(N.D. Tex. Feb. 10, 2011) ..................................................................................................13
+System Pipe & Supply, Inc. v. M/V VIKTOR KURNATOVSKIY,
+242 F.3d 322 (5th Cir. 2001) ...............................................................................................7
+iv
+
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 6 of 28
+
+United States v. Columbia Broad. Sys., Inc.,
+666 F.2d 364 (9th Cir. 1981) ...............................................................................................5
+Voltage Pictures, LLC v. Does 1-5000,
+No. 10-0873, 2011 U.S. Dist. LEXIS 50787 (D.D.C. May 12, 2011) ...............................15
+Watts v. SEC,
+482 F.3d 501 (D.C. Cir. 2007) .............................................................................................4
+Well Go USA, Inc. v. Does,
+No. 4:11cv00554A (N.D. Tex. Sept. 28, 2011) .................................................................17
+World-Wide Volkswagen Corp. v. Woodson,
+444 U.S. 286 (1980) .............................................................................................................7
+
+STATUTES
+17 U.S.C. § 512 ................................................................................................................................1
+28 U.S.C. § 1391(b) .........................................................................................................................9
+28 U.S.C. § 1400(a) .....................................................................................................................8, 9
+47 U.S.C. § 551(c) .........................................................................................................................19
+Tex. Civ. Prac. & Rem. Code Ann. § 17.042(2) ..............................................................................8
+
+RULES
+Fed. R. Civ. P. 20(a)(2) ............................................................................................................13, 14
+Fed. R. Civ. P. 45 .........................................................................................................................4, 9
+
+OTHER AUTHORITIES
+Lyrissa Barnett Lidsky & Thomas F. Cotter,
+Authorship, Audiences, and Anonymous Speech,
+82 Notre Dame L. Rev. 1537 (Apr. 2007) .........................................................................19
+
+v
+
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 7 of 28
+
+Non-Party Comcast Cable Communications, LLC (“Comcast”) submits this
+memorandum in opposition to Plaintiff’s Motion to Compel Compliance with Subpoena
+(“Motion”).
+INTRODUCTION AND FACTUAL BACKGROUND
+This miscellaneous action arises out of an underlying copyright infringement case
+pending in the U.S. District Court for the Southern District of Texas (No. 11-4501) (the
+“Underlying Action”) in which Plaintiff alleges that Defendant John Doe and 938 anonymous
+alleged co-conspirators have infringed Plaintiff’s copyright in a certain sexually explicit
+audiovisual work by distributing and downloading unauthorized copies or excerpts of the work
+over the Internet. Compl. [Doc. 1] ¶ 23. Comcast is not a defendant in the Underlying Action,
+nor has Plaintiff alleged that Comcast has any liability for the alleged infringement of Plaintiff’s
+copyright. Comcast is a non-party that is, among other things, an Internet service provider
+(“ISP”), and is not liable for subscribers’ “Bit Torrent protocol” transfers that may infringe any
+copyright.1 17 U.S.C. § 512(a). Comcast was served with a subpoena because Plaintiff does not
+know the identities of John Doe and his alleged co-conspirators. Compl. ¶ 4. Plaintiff claims to
+have identified certain IP addresses corresponding to various ISPs, including Comcast. Id. In
+the Underlying Action, the U.S. District Court for the Southern District of Texas granted
+permission for Plaintiff to pursue limited discovery of the ISPs to attempt to identify the one
+named Doe Defendant plus 938 other subscribers associated with specific IP addresses who
+Plaintiff claims will then be named as defendants in an amended complaint. Id. ¶¶ 4, 38; Order
+
+1
+
+Indeed, Comcast respects and supports the rights of copyright owners to bring valid actions
+against alleged copyright infringers. However, Comcast also requires that these actions be
+brought in accordance with all applicable procedural and other legal requirements.
+1
+
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 8 of 28
+
+Granting Plaintiff’s Motion for Leave to Take Expedited Discovery, attached to Motion at 182
+(“Discovery Order”). Comcast did not have the opportunity to participate in the underlying
+court’s consideration or ultimate grant of Plaintiff’s motion in the Discovery Order.
+Pursuant to the Discovery Order, Plaintiff served the Subpoena on Comcast on
+February 15, 2012, seeking the identities of 351 individuals who, Plaintiff alleges, are Comcast
+subscribers. See Subpoena, attached to Motion. The return date was set by Plaintiff as May 4,
+2012. The Subpoena was not captioned with the court where the Underlying Action is pending –
+the U.S. District Court for the Southern District of Texas. Rather, the Subpoena was issued out
+of this Court, although there is no apparent reason for doing so, given that (as discussed herein)
+only three of the 351 Comcast IP addresses can be definitely traced to subscribers in the District
+of Columbia. Comcast filed timely objections to the Subpoena by letter dated February 29,
+2012. See February 29, 2012 letter, attached to Motion at 31.
+Comcast objected to compliance with the Subpoena on several grounds. First, the vast
+majority of the subscribers whose personal information is sought in the Subpoenas are not even
+subject to either this Court’s or the underlying court’s jurisdiction. Indeed, a preliminary search
+of the IP addresses listed in Plaintiff’s Subpoena reveals that just three of the 351 Comcast IP
+addresses in the Subpoena can be definitely associated with subscribers located in the District of
+Columbia, and only 14 of the remaining IP addresses can be definitely traced to subscribers in
+Texas. Courts have found that utilizing discovery to identify Does who are not subject to
+personal jurisdiction or joinder, and never sued, but are nonetheless contacted for settlement
+demands, is abusive.
+
+2
+
+Because Plaintiff did not separately file the attachments to the Motion, references to page
+numbers in Plaintiff’s Motion are to the ECF electronically-stamped page numbers.
+2
+
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 9 of 28
+
+Second, the rules for joinder of John Doe and his alleged co-conspirators cannot be
+satisfied in the Underlying Action. The distinct trend in other federal district courts has been to
+deny prospective joinder and quash subpoenas in this type of action where the allegations are
+that BitTorrent swarms are an actionable conspiracy. Indeed, the lack of proper joinder is
+evident on the face of the exhibit attached to Plaintiff’s Complaint, which reflects that the alleged
+illegal activity of the different IP addresses occurred on different days and times over a more
+than eight-week period. Thus, Plaintiff cannot claim that John Doe and his alleged coconspirators acted in concert.
+Finally, it is not at all clear why Plaintiffs chose to issue the Subpoena out of this Court
+except as an effort to forum shop and avoid unfavorable precedent in the federal district courts in
+Texas, to take advantage of perceived favorable precedent in this district, or simply to cause
+confusion as to where the proper challenges to the discovery efforts can be made.3 Plaintiff’s
+penchant to forum shop (or forum “avoid”) is revealed in the procedural posture of this very
+action – before the Underlying Action was filed, Plaintiff had previously filed in this Court a
+substantially identical complaint involving the same IP addresses, facts and claims. Once that
+complaint was assigned to Judge Wilkins, who had in a previous case denied a copyright
+infringement plaintiff’s motion for an ex parte discovery order, Plaintiff voluntarily dismissed
+the action and re-filed the Underlying Action in the Southern District of Texas. However, even
+though the Underlying Action is now pending in Texas, Plaintiff chose to issue the Subpoena out
+
+3
+
+Indeed, Plaintiff filed in the Southern District of Texas as at least the Northern District has
+disallowed early discovery in these types of cases. Funimation Entm’t v. Does 1-1,337, No.
+3:11-cv-00147, Order Vacating the Court’s Order Granting Plaintiff’s Motion for Leave to Take
+Discovery Prior to Rule 26(f) Conference and Order to Show Cause [Doc. No. 6] (N.D. Tex.
+Feb. 7, 2011); Steve Hardeman, LLC v. Does 1-168, No. 3:11-cv-00056, Order Severing Does 2168 [Doc. No. 6.] (N.D. Tex. Feb. 10, 2011).
+3
+
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 10 of 28
+
+of this Court, likely to take advantage of perceived favorable opinions regarding joinder issued
+by other judges in this district.4 This Court should not countenance such gamesmanship.
+Given the apparent and expected abuse of the discovery process, these procedural
+anomalies, and inherent substantive defects in the Underlying Action, not only would Comcast
+be unduly burdened by having to comply with the Subpoena, its subscribers’ privacy interests
+would not be adequately protected and they would be inappropriately drawn into a civil action
+that could not be commenced against them individually in the jurisdiction where the Underlying
+Action is pending.
+Additionally, even if the Court directs Comcast to comply with the Subpoena, the Court
+should enter a protective order allowing for a reasonable time for Comcast to comply, notify
+subscribers as required by law, and allow the subscribers the opportunity to contest the validity
+of the claims being asserted before being identified and pursued by Plaintiff for settlement.
+ARGUMENT
+A. Legal Standard
+When a motion to compel compliance with a subpoena is filed against a non-party, Fed.
+R. Civ. P. 45 “requires that district courts quash subpoenas that call for privileged matter or
+would cause an undue burden.” Watts v. SEC, 482 F.3d 501, 508 (D.C. Cir. 2007). Discovery
+commencing before a Rule 26 conference – including jurisdictional discovery to identify
+defendants – should be permitted only where “good cause” supports it. See, e.g., Caribbean
+Broad. Sys., Ltd. v. Cable & Wireless PLC, 148 F.3d 1080, 1090 (D.C. Cir. 1998) (plaintiff
+4
+
+Though Plaintiff might believe it “fished its wish” by avoiding Judge Wilkins when it filed this
+miscellaneous action, had Plaintiff properly identified the previously dismissed identical action
+before Judge Wilkins as a “related case,” this action would have been assigned to Judge Wilkins.
+Given Plaintiff’s lack of candor with the Court in this regard, Comcast is filing a “Notice of
+Related Case and Request for Reassignment” concurrently with this Opposition.
+4
+
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 11 of 28
+
+“must have at least a good faith belief that such discovery will enable it to show that the court
+has personal jurisdiction over the defendant”).
+Where, as here, the underlying action is procedurally defective or the Doe Defendants are
+not subject to suit, any burden put upon a non-party to identify Defendants is an undue burden.
+Nu Image, Inc. v. Does 1-23,322, 799 F. Supp. 2d 34, 37 (D.D.C. 2011) (Wilkins, J.) (denying
+motion for discovery in a similar action seeking ISPs’ subscribers’ identities); see also Linder v.
+Department of Def., 133 F.3d 17, 24 (D.C. Cir. 1998) (whether a subpoena is proper “‘must be
+determined according to the facts of the case,’ such as the party’s need . . . and the nature and
+importance of the litigation”); In re Micron Tech., Inc. Sec. Litig., 264 F.R.D. 7, 9 (D.D.C. 2010)
+(“The ‘undue burden’ test requires district courts to be ‘generally sensitive’ to the costs imposed
+on third parties.”); United States v. Columbia Broad. Sys., Inc., 666 F.2d 364, 371-72 (9th Cir.
+1981) (“Nonparty witnesses are powerless to control the scope of litigation and discovery, and
+should not be forced to subsidize an unreasonable share of the costs of a litigation to which they
+are not a party.”).5 While the issue of Plaintiff’s compensation is not at issue, whether the
+Court’s processes should be used to allow discovery in the face of procedural irregularities
+should be examined closely.
+
+5
+
+See also Oppenheimer Fund, Inc. v. Sanders, 437 U.S. 340, 352 n.17 (1978) (“[W]hen the
+purpose of a discovery request is to gather information for use in proceedings other than the
+pending suit, discovery properly is denied.”); accord Gillespie v. Civiletti, 629 F.2d 637, 642
+(9th Cir. 1980) (pre-Rule 26 discovery should be denied where the court concludes that
+discovery “would not uncover [the defendants’] identities, or that the complaint would be
+dismissed on other grounds”); Exponential Biotherapies, Inc. v. Houthoff Buruma N.V., 638 F.
+Supp. 2d 1, 11 (D.D.C. 2009) (plaintiff must “reasonably ‘demonstrate[] that it can supplement
+its jurisdictional allegations through discovery’”).
+5
+
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 12 of 28
+
+B. This Court Lacks Personal Jurisdiction Over the Majority of Potential Doe
+Defendants Identified in the Subpoena
+As Comcast pointed out in its February 29, 2012 letter objecting to Plaintiff’s subpoena
+(“Objection Letter”), nearly all of the IP addresses for which Plaintiff seeks discovery in this
+case are for individuals not within either this Court’s jurisdiction or the court in the Underlying
+Action’s jurisdiction. See February 29, 2012 letter, attached to Motion at 31. Indeed, a
+preliminary search of the IP addresses listed in Plaintiff’s Subpoena reveals that just three of the
+351 Comcast IP addresses in the Subpoena can be definitely associated with subscribers located
+in the District of Columbia, and only 14 of the remaining IP addresses can be definitely traced to
+subscribers in Texas.6 Accordingly, the other 334 anonymous subscribers whose personal
+information is sought in the Subpoena are not subject to this Court’s jurisdiction or the
+jurisdiction of the Southern District of Texas. Comcast should not be subject to the burden –
+undue or otherwise – of providing the requested information that ultimately will not even be
+useful in the Underlying Action and which, consistent with Plaintiff’s counsel’s tactics in
+multiple courts, will likely only ever be used to attempt to extract pre-litigation settlements from
+Comcast’s subscribers who are not subject to personal jurisdiction in the Underlying Action.
+Nor should Comcast’s customers face the disclosure of their identities to Plaintiff given these
+clear procedural defects.
+In the Motion, Plaintiff makes no attempt to establish that personal jurisdiction over the
+Doe Defendant and his alleged co-conspirators would be proper in the Underlying Action.
+Instead, Plaintiff argues that Comcast cannot raise the personal jurisdiction issue at this time, and
+
+6
+
+This information was derived from Comcast’s automated system that performs preliminary
+research for an IP address. However, such information is not exact since the complete research
+must be performed and verified by an analyst.
+6
+
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 13 of 28
+
+that Plaintiff is not even required to demonstrate that personal jurisdiction exists at this time.
+However, Plaintiff’s arguments lack merit in several regards.
+First, the Complaint in the Underlying Action was brought in the U.S. District Court for
+the Southern District of Texas, with the Subpoena at issue merely issuing out of this Court.
+Accordingly, it is the law of the Southern District of Texas – not this Court – as to issues
+regarding personal jurisdiction over the Doe Defendant and/or his alleged co-conspirators that
+would govern. And, “the court in the Underlying Action may raise the question of personal
+jurisdiction sua sponte.” King v. Forest, No. 3:08-cv-1405-L, 2008 WL 4951049, at *4-5 (N.D.
+Tex. Nov. 14, 2008) (dismissing action against John Doe defendant for lack of personal
+jurisdiction) (citing System Pipe & Supply, Inc. v. M/V VIKTOR KURNATOVSKIY, 242 F.3d
+322, 324 (5th Cir. 2001) (approving sua sponte dismissal of action instead of entry of default
+judgment); Frass v. Southern Pac. Transp. Co., 810 F. Supp. 189, 190 (S.D. Miss. 1993) (raising
+question of personal jurisdiction sua sponte)). It is “well-established that the Texas long-arm
+statute authorizes the exercise of personal jurisdiction to the full extent allowed by the Due
+Process Clause of the Fourteenth Amendment.” Central Freight Lines v. APA Transp. Corp.,
+322 F.3d 376, 380 (5th Cir. 2003). The constitutional due process test is typically met if the
+defendant has “minimum contacts” with the forum state (here, Texas) such that the maintenance
+of the suit “does not offend ‘traditional notions of fair play and substantial justice.’” Id. (citing
+International Shoe Co. v. Washington, 326 U.S. 310, 316 (1945)). This analysis requires courts
+to determine whether “the defendant’s conduct and connection with the forum State are such that
+he should reasonably anticipate being haled into court there.” World-Wide Volkswagen Corp. v.
+Woodson, 444 U.S. 286, 297 (1980). These same personal jurisdiction limitations apply to
+copyright infringement actions. Lumiere v. Mae Edna Wilder, Inc., 261 U.S. 174, 177 (1923)
+
+7
+
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 14 of 28
+
+(the Copyright Act does not permit nationwide service of process). The Texas long-arm statue
+authorizes jurisdiction over a non-resident defendant if the defendant commits a tort “in whole or
+in part in this state.” Tex. Civ. Prac. & Rem. Code Ann. § 17.042(2). The Southern District of
+Texas has found that, for the tort of copyright infringement, the “effects test” provides that
+personal jurisdiction “may be proper where the effects of a defendant’s conduct in one state may
+cause injury in the forum state.” Healix Infusion Therapy, Inc. v. HHI Infusion Servs., No. H-093440, 2010 WL 2277389, at *3 (S.D. Tex. June 3, 2010) (citation omitted). Here, there is no
+allegation that the copyright holder is located in this jurisdiction. Indeed, the Complaint alleges
+that Plaintiff is organized under the laws of the State of Hawaii, with its principal place of
+business located in Los Angeles, California. Compl. ¶ 2.
+Second, even if this Court were ultimately the one that would make the personal
+jurisdiction determination, in citing caselaw from this District to support its argument that
+discussion of personal jurisdiction is premature, Plaintiff conspicuously ignores the recent
+decision by Judge Wilkins in Nu Image.7 In Nu Image, Judge Wilkins analyzed a discovery
+request to authorize subpoenas on multiple ISPs to obtain the identifying information for various
+IP addresses alleged to have been used to illegally download copyrighted works. The IP
+addresses were for a multitude of subscribers not resident in this district and, with a non-resident
+plaintiff, Judge Wilkins found no good grounds to assert jurisdiction or venue in D.C. pursuant to
+28 U.S.C. § 1400(a). Judge Wilkins required the Nu Image plaintiff to make a prima facie
+evidentiary showing that all Doe defendants were likely to reside in this district – before serving
+subpoenas on the ISPs – on the grounds that it would comport with fundamental notions of
+fairness and would not impose any real burden on plaintiff, given the “geolocation services that
+7
+
+Of course, as discussed herein, Plaintiff’s avoidance of Judge Wilkins and his Nu Image
+decision is no accident. See infra Section D.
+8
+
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 15 of 28
+
+are generally available to the public to derive the approximate location of the IP addresses
+identified for each putative defendant.” 799 F. Supp. 2d at 37-42.8 Here, Plaintiff admits that it
+is capable of making preliminary determinations as to the location of the potential Doe
+Defendants (Compl. ¶ 6), so there is no reason why it could not have informed the Court of the
+many IP Addresses that have no connection to this or the underlying jurisdiction. Further, it is
+certainly not proper to require the underlying subscribers/potential defendants who do not reside
+here to travel more than 100 miles to anonymously challenge the subpoenas. See Fed. R. Civ. P.
+45(c)(3)(A)(ii) (requiring that a subpoena requiring a nonparty witness to travel more than 100
+miles from his or her residence or place of business to be modified or quashed).
+Given the ever-increasing mass Doe defendant actions being filed throughout the country,
+many courts have now had the opportunity to analyze the characteristics of BitTorrent filesharing systems, and other courts have reached similar conclusions to Nu Image. Indeed, several
+courts have revisited their earlier rulings that permitted broad Doe discovery by way of broad
+subpoenas to multiple ISPs. For example, in two similar proceedings in the United States
+District Court for the Southern District of New York, the court refused to allow discovery of any
+subscriber outside the State of New York, rejecting Plaintiff’s identical argument in the instant
+Complaint concerning BitTorrent swarms and seeders. “The mere fact that BitTorrent protocol
+and eDonkey network employ ‘swarming’ capacity is insufficient to confer jurisdiction.”
+DigiProtect USA Corp. v. Does 1-240, No. 10-cv-8760, 2011 WL 4444666, at *3 (S.D.N.Y.
+
+8
+
+Nu Image reconsidered the court’s prior orders that had authorized discovery of the ISPs in
+mass copyright actions based on plaintiffs’ representations that the general venue statute, 28
+U.S.C. § 1391(b), governed, rather than the specific venue statute for copyright litigation:
+“[O]nce the Court realized that 28 U.S.C. § 1400(a) was the appropriate venue statute, and that it
+requires that every single defendant can be ‘found here,’ the Court felt compelled to focus more
+sharply on personal jurisdiction and the good cause standard for expedited discovery. The Court
+recognizes its initial error and seeks to correct it here.” Nu Image, 799 F. Supp. 2d at 41 n.7.
+9
+
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 16 of 28
+
+Sept. 26, 2011). In a second DigiProtect case, the court quashed the subpoenas, amended its
+earlier order allowing discovery of the ISPs, and held that plaintiff “may only serve subpoenas
+on those ISPs whose IP addresses identified by [plaintiff] in [the exhibit listing IP addresses]
+correspond to accounts located in” the state where the court is located. DigiProtect USA Corp. v.
+Does 1-266, No. 10-cv-8759, 2011 WL 1466073, at *4 (S.D.N.Y. Apr. 13, 2011). See also CP
+Prods., Inc. v. Does 1-300, No. 10 C 6255, 2011 WL 737761, at *1 (N.D. Ill. Feb. 24, 2011)
+(“[T]here is no justification for dragging into an Illinois federal court, on a wholesale basis, a
+host of unnamed defendants over whom personal jurisdiction clearly does not exist and-more
+importantly-as to whom [plaintiff’s] counsel could readily have ascertained that fact.”);
+Millennium TGA v. Doe, No. 10 C 5603, 2011 U.S. Dist. LEXIS 110135, at *4-5 (N.D. Ill.
+Sept. 26, 2011) (denying request for discovery of ISPs and dismissing action where Plaintiff’s
+current counsel failed to show any facts show how defendant’s “infringing activities were
+directed towards this forum and bring him or her within this court’s jurisdiction”); On The
+Cheap, LLC v. Does 1-5011, No. C10-4472, 2011 U.S. Dist. LEXIS 99831, at *7-8 (N.D. Cal.
+Sept. 6, 2011) (explaining that the logical effect of Plaintiff’s personal-jurisdiction arguments
+“would be that everybody who used . . . BitTorrent would subject themselves to jurisdiction in
+every state,” a result inconsistent with Burger King Corp. v. Rudzewicz, 471 U.S. 462, 475
+(1985), and other Supreme Court precedent); SBO Pictures, Inc. v. Does 1-87, No. 11-1962,
+2012 U.S. Dist. LEXIS 6968, at *6-9 (D.D.C. Jan. 19, 2012) (following Nu Image and denying
+request for discovery of ISPs); New Sensations, Inc. v. Does 1-1,474, No. C 11-2770, 2011 U.S.
+Dist. LEXIS 140670, at *7-9 (N.D. Cal. Dec. 7, 2011) (citing Nu Image and explaining that,
+“[w]here Plaintiff has made no effort to determine jurisdiction, the administration of justice is
+not served by requiring out-of-state recipients of subpoenas to bring challenges to the subpoenas
+
+10
+
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 17 of 28
+
+in far-flung jurisdictions”); Hard Drive Prods., Inc. v. Does 1-188, 809 F. Supp. 2d 1150 at
+1157-65 (N.D. Cal. 2011) (quashing subpoenas where Plaintiff’s counsel failed to provide a
+sufficient showing that the Doe defendants were properly subject to suit as part of the same
+“swarm”; summarizing decisions that address mechanics of BitTorrent protocols); Hard Drive
+Prods., Inc. v. Does 1-30, No. 11cv345, 2011 U.S. Dist. LEXIS 119333, at *7-10 (E.D. Va.
+Oct. 17, 2011) (citing Hard Drive, 809 F. Supp. 2d 1150, with approval); Berlin Media Art v.
+Does 1-654, No. 11-03770, 2011 U.S. Dist. LEXIS 120257, at *4-6 (N.D. Cal. Oct. 18, 2011)
+(denying request for discovery of the identities of Does 1-654 based on jurisdictional principles
+and the court’s research: “with minimal effort, the Court was able to utilize one of many free and
+publicly available services to look up the locations affiliated with IP addresses for which Plaintiff
+seeks discovery”); Patrick Collins, Inc. v. Does 1-2,590, No. C 11-2766, 2011 U.S. Dist. LEXIS
+140913, at *4-5 (N.D. Cal. Dec. 7, 2011) (explaining that, “even if one or more of the
+unidentified defendants allegedly downloaded the file at some point during the time period in
+question from a computer located in this District, the Court is not aware of any caselaw that
+suggests that it has personal jurisdiction over all 2,590 Defendants based on this connection”);
+Funimation Entm’t v. Does 1-1,337, No. 3:11-cv-00147, Order Vacating the Court’s Order
+Granting Plaintiff’s Motion for Leave to Take Discovery Prior to Rule 26(f) Conference and
+Order to Show Cause [Doc. No. 6], (N.D. Tex. Feb. 7, 2011) (vacating prior order allowing early
+discovery of Does because “the Discovery Motion concerns matters that could materially affect
+the interest of the Defendant Does, but because the Defendants’ identities have yet to be
+ascertained, the Does cannot represent their interests before this Court”). But see Call of the
+Wild Movie, LLC v. Does 1-1,062, 770 F. Supp. 2d 332, 345-46 (D.D.C. 2011) (concluding that
+
+11
+
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 18 of 28
+
+jurisdictional discovery was warranted where plaintiff had a good-faith belief for allegation that
+personal jurisdiction existed).9
+For these reasons, Plaintiff’s Motion should be denied and the Subpoena should be
+quashed.
+C. Joinder of the Doe Defendants is Improper
+As Comcast also pointed out in its Objection Letter, the exhibit attached to Plaintiff’s
+Complaint here reflects that the alleged illegal activity of the different IP addresses occurred on
+different days and times over a more than eight-week period. Compl., Exh. A. Accordingly, the
+rules for prospective joinder of the Doe Defendant and/or his alleged co-conspirators cannot be
+satisfied in the Underlying Action. Without that being shown, compelling discovery of these
+alleged co-conspirators is not proper. As expected, Plaintiff cites to several decisions of this
+Court involving similar actions where the Court has found certain allegations to preliminarily
+satisfy the pleading requirements for joinder. Mot. at 9-10. Plaintiff, however, fail to recognize
+that it is the law of the jurisdictions of the Underlying Action – not this district – that would
+govern whether joinder is proper. Indeed, in each of the five cases from this district that Plaintiff
+cites, there was no underlying action in another jurisdiction – the complaint was filed in this
+court. That is not the case here.
+
+9
+
+Given the multitude of mass Doe actions filed by Plaintiff’s counsel throughout the country
+(discussed below), Comcast has asked Judge Howell to revisit the Call of the Wild decision in
+opposition to a currently pending motion to compel filed by Plaintiff’s counsel against Comcast
+in another proceeding before this Court. See AF Holdings v. Does 1-1058, No. 1:12-CV-00048BAH, Opposition to Plaintiff’s Motion to Compel Compliance with Subpoena [Doc. No. 12],
+(D.D.C. Mar. 5, 2012). Moreover, even if this action does not get transferred to Judge Wilkins
+(see supra n.4), Comcast respectfully suggests that Judge Wilkins’ precedent in Nu Image should
+be followed here, given that this action is identical to an earlier filed but dismissed action that
+was previously assigned to Judge Wilkins. See infra Section D.
+12
+
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 19 of 28
+
+Numerous other cases have made clear that the alleged use of BitTorrent technology, like
+earlier P2P technologies, does not satisfy the requirements for permissive joinder. See, e.g.,
+Hard Drive, 809 F. Supp. 2d at 1157. Here, just as the court found in Hard Drive, because the
+exhibit attached to the Complaint reflects that the activity of the different IP addresses occurred
+on different days and times over a more than eight-week period,10 any suggestion that the Doe
+Defendants acted in concert is unpersuasive. Id. at 1163-64. See also DigiProtect USA Corp. v.
+Does 1-240, 2011 WL 4444666, at *3 n.2 (“To participate, a user must be online at the time of a
+swarm.”). Accordingly, the Complaint does not satisfy the “same series of transactions” test for
+joinder. Fed. R. Civ. P. 20(a)(2). Indeed, a series of nearly identical recent cases have expressly
+prohibited discovery and quashed subpoenas similar to the instant Subpoena. See, e.g., Steve
+Hardeman, LLC v. Does 1-168, No. 3:11-cv-00056, Order Severing Does 2-168 [Doc. No. 6],
+(N.D. Tex. Feb. 10, 2011) (severing all but one Doe Defendant because “Defendants’ alleged use
+of the BitTorrent software system to commit copyright infringement is, without more,
+insufficient for permissive joinder under Rule 20”); Hard Drive, 809 F. Supp. 2d 1150 (finding
+joinder improper and severing and dismissing all claims against all but one Doe defendant)
+(citing Boy Racer, Inc. v. Does 2-52, No. 11-2834 [Doc. No. 12], (N.D. Cal.)) (finding that the
+nature of BitTorrent protocol does not justify joinder of otherwise unrelated Doe defendants
+because BitTorrent protocol is of the same peer-to-peer architecture of other peer-to-peer
+protocols where joinder has been found improper); Diabolic Video Prods., Inc. v. Does 1-2099,
+No. 10-CV-5865, 2011 WL 3100404, at *3 (N.D. Cal. May 31, 2011) (“[T]he mere allegation
+that defendants have used the same peer-to-peer network to infringe a copyrighted work is
+insufficient to meet the standards for joinder set forth in Rule 20.”); Millennium TGA Inc. v.
+
+10
+
+In the Hard Drive case, it was a two-week period. Hard Drive, 809 F. Supp. 2d at 1164.
+13
+
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 20 of 28
+
+Does 1-800, No. 10 C 5603 [Doc. No. 55], (N.D. Ill. Mar. 31, 2011) (court order sua sponte
+severing all but one Doe defendant, finding that “merely committing the same type of violation
+in the same way does not link defendants together for purposes of joinder”); Pacific Century
+Int’l, Inc. v. Does 1-101, No. C-11-02533, 2011 WL 2690142, at *4 (N.D. Cal. July 8, 2011)
+(Rule 20(a)(2) joinder was improper because “the only commonality between copyright
+infringers of the same work is that each commit[ted] the exact same violation of the law in
+exactly the same way”) (internal quotation marks and citation omitted); Millennium TGA, Inc. v.
+Does 1-21, No. 11-2258, 2011 WL 1812786, at *3 (N.D. Cal. May 12, 2011) (finding Rule
+20(a)(2) joinder of the Doe defendants impermissible because “the Doe [d]efendants’ individual
+and separate alleged reproductions of Plaintiff’s Work – which occurred over the span of twenty
+days – do not satisfy [the Rule 20(a)(2)] requirement.”)); Hard Drive Prods., Inc. v. Does 1-130,
+No. C-11-3826, 2011 U.S. Dist. LEXIS 132449, at *9 (N.D. Cal. Nov. 16, 2011) (dismissing
+Does 2-130 and imposing ongoing obligations upon plaintiff and its counsel to demonstrate that
+the discovery sought of Doe 1 is used for a proper purpose); Liberty Media Holdings, LLC v.
+BitTorrent Swarm, No. 11-cv-21525, 2011 WL 5190048, at *2-4 (S.D. Fla. Nov. 1, 2011) (the
+court sua sponte found joinder of multiple Doe defendants improper under Fed. R. Civ. P. 20(a)
+and dismissed the claims against all but a single defendant); On the Cheap, LLC, 2011 U.S. Dist.
+LEXIS 99831, at *16-17 & n.6 (disapproving the use of mass actions and noting abusive
+settlement tactics); Digital Sin, Inc. v. Doe, No. C 11-04397, 2011 U.S. Dist. LEXIS 128033, at
+*9 (N.D. Cal. Nov. 4, 2011) (citing other similar cases). In fact, counsel for Plaintiff must be
+aware of the Hard Drive, Boy Racer, Pacific Century, Millennium and McGIP 11 cases, given
+
+11
+
+McGIP, LLC v. Does 1-149, No. C 11-02331, 2011 U.S. Dist. LEXIS 108109 (N.D. Cal.
+Sept. 16, 2011).
+14
+
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 21 of 28
+
+that its firm (or the firm that merged with its firm) represented the plaintiff in each of those
+cases.12
+Comcast recognizes that this Court’s decision in Call of the Wild, 770 F. Supp. 2d 332,
+reached a different conclusion – i.e., that it was premature at the pleading stage to consider
+misjoinder.13 Again, unlike here, the underlying complaint in that action was not pending in
+another jurisdiction. Additionally, given the multitude of mass Doe actions filed by Plaintiff’s
+counsel throughout the country (discussed below), Comcast respectfully suggests that the Court
+should revisit its conclusion in that case. As the court pointed out in the McGIP case, Plaintiff’s
+strategy in filing these cases
+effectively precludes consideration of joinder issues at a later point
+in the proceedings. By not naming or serving a single defendant,
+[Plaintiff] ensures that this case will not progress beyond its infant
+stages and therefore, the court will never have the opportunity to
+evaluate joinder. Deferring a ruling on joinder, then, would
+“encourage[] [p]laintiffs … to join (or misjoin) as many doe
+defendants as possible….”
+McGIP, 2011 U.S. Dist. LEXIS 108109, at *8 (quoting Arista Records, LLC v. Does, No. 07CV-2828, 2008 U.S. Dist. LEXIS 90183, at *17 (N.D. Ohio Nov. 3, 2008)) (alterations in
+original).
+Indeed, in another case brought by Plaintiff’s counsel pending in the Northern District of
+California, the court issued an order to show cause requiring Plaintiff’s lawyers to file a
+
+12
+
+The existence of these, and other, unfavorable decisions suggests that such plaintiffs appear to
+be engaged in forum shopping – i.e., selecting venues based on an assessment of where they are
+likely to obtain the largest amount of subscriber information with the least judicial resistance.
+See infra Section D.
+13
+See also Voltage Pictures, LLC v. Does 1-5000, No. 10-0873, 2011 U.S. Dist. LEXIS 50787,
+at *42 (D.D.C. May 12, 2011) (noting that “[c]ourts have varying thresholds for the exercise of
+their discretion to sever defendants in such cases”).
+15
+
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 22 of 28
+
+declaration listing the cases it has pending in federal court and the number of defendants who
+had actually been served in each case. Attached hereto as Exhibit 1 is a true and correct copy of
+the January 19, 2012 Order. In response, Plaintiff’s counsel declared that in none of the 118
+federal actions filed during the last two years by the Prenda law firm (or its predecessors) has a
+single Defendant been served.14 Attached hereto as Exhibit 2 is a true and correct copy of the
+Declaration of Charles E. Piehl dated February 24, 2012, along with the listing of cases filed
+where not a single Doe defendant has been served. This striking admission confirms the modus
+operandi employed by Plaintiff’s counsel – they simply move from court to court seeking
+authorization to serve subpoenas to the broadest number of subscribers – imposing everincreasing burdens on the ISPs – without using the information gathered for the purpose of
+litigating any case on its merits. Instead, “plaintiffs have used the offices of the Court as an
+inexpensive means to gain the Doe defendants’ personal information and coerce payment from
+them.”15 K-Beech, Inc. v. Does 1-85, No. 11-CV-00469, 2011 U.S. Dist. LEXIS 124581, at *7
+(E.D. Va. Oct. 5, 2011).16 These facts weigh heavily in favor of addressing compliance with
+
+14
+
+The Court ordered Plaintiff’s counsel to disclose “a list of the BitTorrent copyright
+infringement cases involving multiple joined John Doe Defendants filed [by] Plaintiff’s
+counsel’s law firm or predecessor firm in federal court.” (Emphasis added.) Plaintiff’s counsel
+took the judge’s Order quite literally and disclosed only those cases in which more than one Doe
+defendant had been named in the complaint. Plaintiff’s counsel did not disclose the numerous
+other cases (approximately 60) it has also filed in various federal courts, in which only one Doe
+is named as a defendant, but where discovery of alleged “co-conspirators” is sought in the same
+manner as the “multiple joined” Doe defendant cases. Plaintiff’s counsel’s Doe-plus-coconspirator approach is just one of its latest tactics to test the judicial waters for obtaining
+subscriber information.
+15
+In a separate action involving K-Beech, Inc. as a plaintiff, one of the defendants asserted a
+counterclaim alleging that the plaintiff intentionally placed its work on a BitTorrent server and
+allowed the BitTorrent swarm to continue for the sole purpose of logging IP addresses in order to
+coerce users to settle copyright infringement claims. K-Beech, Inc. v. Marc Puskas et al., No.
+11-cv-01601, Counterclaim [Doc. No. 12], (D. Ariz. Feb. 29, 2012).
+16
+In yet another similar action, in an order denying counsel proposed discovery, a federal judge
+remarked that, “[i]f plaintiff and [plaintiff’s counsel, different from this case] had displayed the
+16
+
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 23 of 28
+
+Rule 20 at the outset. E.g., McGIP, supra, at *10 (in these specific circumstances, a threshold
+evaluation of joinder “is critical to ensuring compliance with the Federal Rules of Civil
+Procedure”); Boy Racer, Inc. v. Does 2-52, No. 11-2834 [Doc. No. 12], (N.D. Cal.) at 2
+(“[B]efore allowing expedited discovery to uncover the identity of unnamed defendants, the
+district courts of this circuit must determine whether [joinder is justified].”). For these additional
+reasons, Plaintiff’s Motion should be denied and the Subpoena should be quashed.
+D. Permitting Discovery of Comcast in This Action Would Encourage Forum Shopping
+and Risk Other Ill Effects
+Given the dramatic rise in the number of mass Doe actions being filed nationwide, and
+the increasing concerns voiced by courts that “plaintiffs have used the offices of the Court as an
+inexpensive means to gain the Doe defendants’ personal information and coerce payment from
+them,”17 plaintiffs appear be selecting venues based on an assessment of where they are likely to
+obtain the largest amount of subscriber information with the least resistance. Indeed, this
+appears to be just what has happened in this case.
+Court records demonstrate that, before the complaint in the Underlying Action was filed,
+Plaintiff had previously filed in this Court a substantially identical complaint involving the same
+parties, facts and claims. In Millennium TGA v. Does 1-939, No. 1:11-cv-02176-RLW,
+Plaintiff’s counsel filed the complaint on December 7, 2011. Once that action was assigned to
+Judge Wilkins, Plaintiff voluntarily dismissed the action on December 16, 2011. See Pacer
+Docket Sheet, attached hereto as Exhibit 3. Plaintiff’s counsel then re-filed the Underlying
+slightest degree of candor with the court, they would have disclosed to the court in their motion
+for leave [to take expedited discovery] that judges in this district had raised serious questions
+concerning the propriety of the filing of actions such as this and the discovery techniques
+employed by Stone and his clients in all, or a large number, of the suits they filed in the Dallas
+Division.” Well Go USA, Inc. v. Does, No. 4:11cv00554A (N.D. Tex. Sept. 28, 2011) (Order)
+(emphasis added).
+17
+
+K-Beech, Inc. v. Does 1-85, 2011 U.S. Dist. LEXIS 124581, at *7.
+17
+
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 24 of 28
+
+Action in the Southern District of Texas. The only change Plaintiff’s counsel made to the refiled complaint was to caption the case in Texas as against one Doe, but seek discovery of the
+other 938 by way of multiple subpoenas to the ISPs. The complaints pertain to the same movie
+and a comparison of the IP addresses shows the same dates and times in both complaints.
+The reason for voluntarily dismissing the earlier complaint assigned to Judge Wilkins is
+absolutely clear: In June 2011, Judge Wilkins denied a copyright infringement plaintiff’s motion
+for an ex parte discovery order. Nu Image, Inc. v. Does 1-23,322, 799 F. Supp. 2d 34 (D.D.C.
+2011); see supra Section B (discussing Nu Image). It seems beyond question that, in light of the
+Nu Image order, once the initial complaint was assigned to Judge Wilkins, Plaintiff’s counsel
+found no point in pursuing it any further.
+Perhaps this is an example better characterized as “forum avoidance” rather than
+“shopping,” but that is a fine distinction to make and it would be disingenuous to deny that
+selective filing and dismissals were pursued based on the Judge drawn. Filing complaints in
+multiple jurisdictions, and then serving subpoenas in different jurisdictions, seems only designed
+to maximize the opportunities to gain discovery with least resistance. The burdens on the
+judicial system and litigants (as well as third-parties) caused by forum shopping of this type are
+well-recognized. Abex Corp. v. Maryland Cas. Co., 790 F.2d 119, 125 (D.C. Cir. 1986); see also
+Eisel v. Secretary of Army, 477 F.2d 1251, 1263 (D.C. Cir. 1973) (“If one were permitted to
+establish jurisdiction by merely being before the court, a petitioner could select any forum he
+wished; this would be forum shopping in its most extreme form.”).
+Given this blatant abuse of the judicial and discovery process, Plaintiff’s Motion should
+be denied and the Subpoena should be quashed.
+
+18
+
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 25 of 28
+
+E. Even if Compliance with the Subpoena is Ordered, the Court Should Allow a
+Reasonable Time for Compliance
+As a cable operator, Comcast must protect its cable, telephone, and Internet subscribers’
+privacy in compliance with federal law. Comcast may not provide any subscriber’s personally
+identifiable information (“PII”) to a third party without first ensuring compliance with the
+requirements of Section 631(c) of the Communications Act, 47 U.S.C. § 551(c). That Section
+generally prohibits cable operators from disclosing such information without the subscriber’s
+express written consent and also imposes an affirmative obligation on a cable operator to “take
+such actions as are necessary to prevent unauthorized access to such information by a person
+other than the subscriber or cable operator.” 47 U.S.C. § 551(c)(1).
+Section 631(c)(2) provides three exceptions to the general ban on disclosing personally
+identifiable information without the subscribers’ express consent. Disclosure is permitted:
+(1) “when necessary to render, or conduct a legitimate business activity related to, a cable service
+or other service provided by the cable operator to the subscriber,” 47 U.S.C. § 551(c)(2)(A);
+(2) “pursuant to a court order authorizing such disclosure, if the subscriber is notified of such
+order by the person to whom the order is directed,” 47 U.S.C. § 551(c)(2)(B); and (3) in the form
+of aggregate customer name and address lists, as long as the cable operator has provided the
+subscriber the opportunity to prohibit or limit such disclosure and the lists contain no information
+regarding customers’ viewing activities or other transactions. 47 U.S.C. § 551(c)(2)(C).
+The only exception applicable to the Subpoena is contained in Section 631(c)(2)(B),
+which requires a court order and notice to the subscriber before disclosure of any PII may be
+made. Such notice must afford the subscriber enough time to challenge anonymously any
+disclosure before it is made. A decision otherwise would render the notice provision a nullity.
+See Lyrissa Barnett Lidsky & Thomas F. Cotter, Authorship, Audiences, and Anonymous Speech,
+19
+
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 26 of 28
+
+82 Notre Dame L. Rev. 1537, 1598 (Apr. 2007) (advocating extending the protections of Section
+631 in other contexts to “guarantee the defendant has a chance to defend his right to speak
+anonymously before it is too late”) (emphasis added).
+The Discovery Order provides only 30 days for Comcast to notify its subscribers of the
+Subpoena. The Subpoena contains 351 IP addresses. Resolving each IP address is time
+consuming initially and for quality control, notice and response. Accordingly, if the Court orders
+compliance with the Subpoena (though Comcast believes it should not), a protective order should
+be entered providing Comcast with a reasonable amount of time that would permit Comcast to
+respond to the subpoena on a timeframe that does not excessively tax its resources and inhibit it
+from engaging in other business. Comcast proposes that it can reasonably respond to no more
+than 50 IP address lookup requests per month. As such, the Court should modify the Discovery
+Order and enter a protective order limiting Comcast’s compliance with the subpoena to
+providing information with respect to no more than 50 IP addresses per month. The protective
+order should provide Comcast with 30 days to provide a response from the date of notice to its
+subscriber for each set of 50 IP addresses. The lookup and response process would thus occur on
+a rolling basis. As such, Comcast would preserve its records for the IP addresses listed in the
+subpoena so that the rolling responses would not cause information related to IP addresses to go
+beyond Comcast’s normal residential IP retention policy.
+CONCLUSION
+For the foregoing reasons, Comcast respectfully requests that this Court deny Plaintiff’s
+Motion to Compel. In the alternative, the Court should modify the Discovery Order and enter a
+protective order allowing for a reasonable time for Comcast to comply with the Subpoena.
+
+20
+
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 27 of 28
+
+Dated: March 26, 2012
+
+Respectfully submitted,
+
+/s/
+John D. Seiver
+Leslie G. Moylan
+Lisa B. Zycherman
+DAVIS WRIGHT TREMAINE LLP
+1919 Pennsylvania Ave., N.W., Suite 800
+Washington, DC 20006
+(202) 973-4200
+Counsel for Non-Party Comcast Cable
+Communications Management, LLC
+
+21
+
+Case 1:12-mc-00150-RLW Document 7 Filed 03/26/12 Page 28 of 28
+
+CERTIFICATE OF SERVICE
+I HEREBY CERTIFY that on this 26th day of March 2012, true and correct copies of the
+foregoing document was served via ECF upon all counsel of record:
+Paul A. Duffy
+PRENDA LAW INC.
+161 N. Clark Street
+Suite 3200
+Chicago, IL 60601
+(312) 880-9160
+Fax: (312) 893-5677
+Email: paduffy@wefightpiracy.com
+
+/s/
+John D. Seiver
+
+

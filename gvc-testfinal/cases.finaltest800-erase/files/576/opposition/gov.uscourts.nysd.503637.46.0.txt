@@ -1,0 +1,854 @@
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 1 of 28
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+------------------------------------------------------------------------X
+JANE DOE, LUKE LOE, RICHARD ROE, and MARY :
+MOE, individually and on behalf of all others similarly
+:
+situated,
+:
+:
+Plaintiffs,
+:
+: No. 1:18-cv-09936 (LGS)
+v.
+:
+:
+THE TRUMP CORPORATION, DONALD J. TRUMP, in :
+his personal capacity, DONALD TRUMP, JR., ERIC
+:
+TRUMP, and IVANKA TRUMP,
+:
+:
+Defendants.
+:
+:
+------------------------------------------------------------------------X
+
+DEFENDANTS’ MEMORANDUM OF LAW IN OPPOSITION TO PLAINTIFFS’
+MOTION FOR LEAVE TO PROCEED UNDER PSEUDONYMS
+
+David Spears
+Cynthia Chen
+Bradley Pollina
+SPEARS & IMES LLP
+51 Madison Avenue
+New York, New York 10010
+Tel: (212) 213-6996
+Attorneys for Defendants
+
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 2 of 28
+
+TABLE OF CONTENTS
+TABLE OF AUTHORITIES ................................................................................................... iv
+PRELIMINARY STATEMENT ...............................................................................................1
+BACKGROUND .......................................................................................................................2
+ARGUMENT .............................................................................................................................3
+I.
+
+There Is a Presumption Against Pseudonymous Pleading .............................................4
+
+II.
+
+Exceptions From the Rule May Only Arise in Extraordinary
+Circumstances, Which Are Not Present in This Case....................................................6
+FACTOR ONE:
+
+Plaintiffs’ claims do not involve matters that
+are highly sensitive and of a personal nature ............................7
+
+FACTOR TWO:
+
+Identification of Plaintiffs would not pose a risk
+of retaliatory physical or mental harm to
+Plaintiffs or to innocent non-parties ...........................................8
+
+FACTOR THREE:
+
+Identification of Plaintiffs presents no other
+harms, as there is no risk that “the injury
+litigated against would be incurred as a result .........................15
+
+FACTOR FOUR:
+
+Plaintiffs are not “particularly vulnerable” ..............................16
+
+FACTOR FIVE:
+
+Plaintiffs’ lawsuit seeks damages from
+a private individual, and it does not
+challenge the actions of the government ..................................17
+
+FACTOR SIX:
+
+Defendants would be severely prejudiced by allowing
+Plaintiffs to press their claims anonymously ...........................18
+
+FACTOR SEVEN:
+
+Plaintiffs identities have thus far been kept
+confidential, but that fact has no significance ..........................20
+
+FACTOR EIGHT:
+
+The public’s interest in the litigation
+would be furthered by requiring
+Plaintiffs to disclose their identities .........................................20
+
+ii
+
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 3 of 28
+
+FACTOR NINE:
+
+The issues presented in this proceeding are not
+purely legal in nature, and therefore there is a strong
+public interest in knowing the litigants’ identities ...................21
+
+FACTOR TEN:
+
+There are no alternative mechanisms for
+protecting the confidentiality of Plaintiffs ...............................22
+
+OTHER FACTOR:
+
+An additional factor relevant to this particular
+case compels rejection of Plaintiffs’ request ...........................22
+
+CONCLUSION ........................................................................................................................23
+
+iii
+
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 4 of 28
+
+TABLE OF AUTHORITES
+Cases
+Bravia Capital Partners, Inc. v. Fike,
+296 F.R.D. 136 (S.D.N.Y. 2013) ...............................................................................................8
+Does I thru XXIII v. Advanced Textile Corp.,
+214 F.3d 1058 (9th Cir. 2000) .......................................................................................4, 10, 14
+Doe v. Blue Cross & Blue Shield United,
+112 F.3d 869 (7th Cir. 1997) .....................................................................................................5
+Doe v. Bridgeport Police Dep’t,
+198 F.R.D. 325 (D. Conn. 2001)..............................................................................................13
+Doe v. City of New York,
+201 F.R.D 100 (S.D.N.Y. 2001) ..............................................................................................20
+Doe v. City of New York,
+15-cv-117 (AJN) (KNF), ECF No. 24 (S.D.N.Y. Feb. 4, 2016) ....................................7, 17, 18
+Doe v. City of Indianapolis, Ind.,
+No. 1:12-CV-00062-TWP, 2012 WL 639537 (S.D. Ind. Feb. 27, 2012) .......................... 13-14
+Doe v. Del Rio,
+241 F.R.D. 154 (S.D.N.Y. 2003) ..................................................................................... passim
+Doe v. Delta Airlines, Inc.,
+310 F.R.D. 222 (S.D.N.Y. 2015) ...............................................................................................6
+Doe v. Deschamps,
+64 F.R.D. 652 (D. Mont. 1974)..................................................................................................5
+Doe v. Fedcap Rehabilitation Services, Inc.,
+No. 17-cv-8220 (JPO), 2018 WL 2021588 (S.D.N.Y. Apr. 27, 2018) ..........................4, 19, 20
+Doe v. Kamehameha Sch./Bernice Pauahi Bishop Estate,
+596 F.3d 1036 (9th Cir. 2010) ...........................................................................................10, 21
+Doe No. 2 v. Kolko,
+242 F.R.D. 193 (E.D.N.Y. 2006) ...............................................................................................6
+Doe v. Pittsylvania Cty., Va.,
+844 F. Supp. 2d 724 (W.D. Va. 2012) ............................................................................... 12-13
+
+iv
+
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 5 of 28
+
+Doe v. Shakur,
+164 F.R.D. 359 (S.D.N.Y. 1996) .......................................................................................17, 19
+Doe v. Smith,
+105 F. Supp. 2d 40 (E.D.N.Y. 1999) .........................................................................................9
+Doe v. Stegall,
+653 F.2d 180 (5th Cir. 1981) ...............................................................................................4, 14
+EW v. New York Blood Ctr.,
+213 F.R.D. 108 (E.D.N.Y. 2003) .........................................................................................4, 17
+Grottano v. The City of New York,
+No. 15-Civ-9242 (RMB) (KNF), 2016 WL 2604803 (S.D.N.Y. March 30, 2016) ...................6
+Javier H. v. Garcia-Botello,
+211 F.R.D. 194 (W.D.N.Y. 2002) ............................................................................................15
+L.H. v. Schwarzenegger,
+No. CIV. S-06-2042 (LKK) (GGH), 2007 WL 662463 (E.D. Cal. Feb. 28, 2007) .................14
+Makaeff v. Trump University, LLC,
+No. 10 Civ. 940 (S.D. Cal.)........................................................................................................9
+Plaintiffs # 1-21 v. Cty. of Suffolk,
+138 F. Supp. 3d 264 (E.D.N.Y. 2015) ............................................................................. passim
+Richmond Newspapers, Inc. v. Virginia,
+448 U.S. 555 (1980) .............................................................................................................5, 19
+Roe v. Aware Women Ctr. For Choice, Inc.,
+253 F.3d 678 (11th Cir. 2001) ...................................................................................................4
+Sealed Plaintiff v. Sealed Defendant,
+537 F.3d 185 (2d Cir. 2008)............................................................................................. passim
+United States v. Amodeo,
+71 F.3d 1044 (2d Cir. 1995).......................................................................................................5
+Rules
+Federal Rules of Civil Procedure
+Rule 10(a)...................................................................................................................................4
+
+v
+
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 6 of 28
+
+Defendants The Trump Corporation, Donald J. Trump, Donald Trump, Jr., Eric Trump,
+and Ivanka Trump respectfully submit this opposition to Plaintiffs Jane Doe, Luke Loe, Richard
+Roe, and Mary Moe’s Motion for leave to proceed under pseudonyms and to the Memorandum
+of Law In Support of Plaintiffs’ Motion for Leave to Proceed Under Pseudonyms, both filed
+October 29, 2018 (ECF Doc. 3, 4; collectively, the “Motion” or “Mot. Mem.”).1
+PRELIMINARY STATEMENT
+This lawsuit should be seen for what it is: a ploy by savvy advocates to bypass
+contractually mandated arbitration with the entity to which Plaintiffs paid their money – which is
+not a Trump company – in favor of a far-fetched and vituperative attack on the President of the
+United States and his family.
+Plaintiffs have sued the President in his personal capacity, along with his family-owned
+business and three of his children, based on his endorsements of a company called American
+Communications Network (“ACN”) many years ago when he was a private citizen. Plaintiffs
+allege that Mr. Trump’s endorsements of ACN were misleading, and that as a result of those
+endorsements they entered into agreements with ACN and paid money to ACN, thereby causing
+losses to themselves that they now claim as damages. Missing from Plaintiffs’ allegations is the
+fact that each of them entered into a written agreement with ACN providing that any dispute
+between ACN and themselves would be resolved exclusively through arbitration, and that any
+claim they asserted against ACN would be brought in their individual capacity only, and not as a
+claimant or class member in a class action.2 Thus, Plaintiffs had available to them a
+
+1
+
+In Support of their Opposition to Motion, Defendants also submit the Declaration of Cynthia Chen In
+Support of Opposition to Plaintiffs’ Motion to Proceed Under Pseudonyms, dated November 30, 2018 (“Chen
+Decl.”).
+2
+
+See Chen Decl., Ex. A at ¶ 17; Ex. B at Section II(B).
+
+1
+
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 7 of 28
+
+straightforward path to recovery against ACN but chose not to take it, in favor of a putative class
+action alleging a litany of legal violations by the President, filed one week before the midterm
+elections.
+In the Motion, Plaintiffs seek leave to prosecute their case anonymously. In support, they
+invoke case law that allows a plaintiff to proceed anonymously in extraordinary circumstances,
+where the allegations involve matters of a highly sensitive and personal nature or where the
+plaintiff is particularly vulnerable to retaliation by the defendant through repetition of the same
+conduct complained of in the lawsuit. This case involves neither, and Plaintiffs do not satisfy the
+stringent tests established by the Second Circuit for the exceptional relief they seek. Plaintiffs’
+Motion should be denied.
+BACKGROUND
+ACN is a multi-level marketing company that encourages individuals to become
+“Independent Business Owners” (“IBOs”). (Compl. ¶ 69.) IBOs pay an initial sign-up fee and
+an annual renewal fee in order to be able to sell ACN’s products. (Id.) During the time period of
+2013 to 2016, the sign-up fee was $499 and the renewal fee was $149. (Id.) According to the
+ACN compensation plan, an IBO could earn small commissions on sales and billings to
+customers who purchased ACN products and services through the IBO, with additional bonuses
+for meeting sales targets. (Id. ¶ 70.) IBOs could also earn money by recruiting others to sign up
+as IBOs. (Id.) At various times, Mr. Trump made public statements and appearances on behalf
+of ACN and received compensation from ACN in return for his endorsement. (Id. ¶¶ 77-87, 117,
+130.)
+Plaintiffs filed their Complaint under the pseudonymous names of Jane Doe, Luke Loe,
+Richard Roe, and Mary Moe, and their true identities have not been disclosed to Defendants. On
+
+2
+
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 8 of 28
+
+the same day that they filed the Complaint, Plaintiffs filed the Motion, seeking leave “to proceed
+under pseudonyms until such time as the Court may order Plaintiffs’ names to be disclosed.”
+(Mot. Mem. 1 n.1.) Not one of the Plaintiffs has submitted a sworn statement to the Court –
+even pseudonymously – detailing or discussing the concerns that she or he has regarding the
+disclosure of her or his identity; but counsel has filled in the gap with rabid speculation, which
+they support primarily with anecdotal accounts dating back many years. Plaintiffs seek to cast
+their strategic choice to end-run their prescribed legal remedy against ACN in favor of suing “the
+President of the United States” as “a perilous decision” (id. at 1), and they assert that disclosing
+their identities would expose them to “crushing mental, economic, and professional harm” and
+“set their lives ablaze” (id. at 2). Concomitantly, Plaintiffs assert that Defendants “will suffer no
+prejudice . . . from not knowing Plaintiffs’ names.” (Id.)
+ARGUMENT
+Courts deeply disfavor anonymous litigation. There is a strong default rule against a
+plaintiff proceeding under a pseudonym because that practice offends First Amendment
+principles, is inherently unfair to defendants, and contravenes the express requirements of the
+Federal Rules of Civil Procedure. Only in rare and extraordinary circumstances, which a
+plaintiff must establish by a particularized factual showing, will a court allow a plaintiff to
+proceed under a pseudonym.
+In Sealed Plaintiff v. Sealed Defendant, 537 F.3d 185 (2d Cir. 2008), the Second Circuit
+set out ten specific factors for district courts to apply in deciding requests by plaintiffs to proceed
+anonymously, with the instruction that courts also should consider other factors present in the
+circumstances of the case before them. Plaintiffs here rely almost entirely on the second Sealed
+Plaintiff factor, arguing that if their names are made public they will be subjected to retaliatory
+
+3
+
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 9 of 28
+
+mental and physical harm. But they do not even attempt to make the required particularized
+showing, instead offering only speculation by counsel. Plaintiffs’ anemic support for their
+request is completely undone by the weight of the other factors, which overwhelmingly favor
+Defendants.
+I.
+
+There Is a Presumption Against Pseudonymous Pleading
+Through its requirement that “the title of a complaint must name all the parties,” Rule
+
+10(a) of the Federal Rules of Civil Procedure embraces the “‘customary and constitutionallyembedded presumption of openness in judicial proceedings,’” Sealed Plaintiff, 537 F.3d at 18889 (quoting Roe v. Aware Women Ctr. For Choice, Inc., 253 F.3d 678, 685 (11th Cir. 2001)).
+This requirement of openness “serves the vital purpose of facilitating public scrutiny of judicial
+proceedings,” and it “cannot be set aside lightly.” Id.
+Under Rule 10(a), courts “begin with a presumption against anonymous or
+pseudonymous pleading,” Doe v. Del Rio, 241 F.R.D. 154, 156 (S.D.N.Y. 2003) (Lynch, J.)
+(cited with approval in Sealed Plaintiff, 537 F.3d at 189), and a plaintiff seeking to proceed
+anonymously “has to overcome the strong default rule that parties must proceed under their real
+names,” Doe v. Fedcap Rehabilitation Services, Inc., No. 17-cv-8220 (JPO), 2018 WL 2021588,
+at *3 (S.D.N.Y. Apr. 27, 2018) (emphasis added). The presumption against litigating
+anonymously derives from the “clear and strong First Amendment interest in ensuring that what
+transpires in the courtroom is public property.” EW v. New York Blood Ctr., 213 F.R.D. 108,
+111 (E.D.N.Y. 2003) (quoting Doe v. Stegall, 653 F.2d 180, 185 (5th Cir. 1981)). A plaintiff’s
+use of a fictitious name “runs afoul of the public’s common law right of access to judicial
+proceedings,” Does I thru XXIII v. Advanced Textile Corp., 214 F.3d 1058, 1067 (9th Cir. 2000),
+a right that is “supported by the First Amendment,” Del Rio, 241 F.R.D. at 156.
+
+4
+
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 10 of 28
+
+The Second Circuit has long recognized the public’s “presumption of access” to judicial
+proceedings. United States v. Amodeo, 71 F.3d 1044, 1048 (2d Cir. 1995). In Amodeo, the court
+explained that there is a “need for federal courts . . . to have a measure of accountability and for
+the public to have confidence in the administration of justice,” and therefore “public monitoring
+is an essential feature of democratic control.” Id.; see also Del Rio, 241 F.R.D. at 157
+(explaining that “public monitoring of the courts” is facilitated when parties are required to
+litigate in their names, since the public cannot engage in an independent assessment of the facts
+of a court case or assess judicial impartiality without knowing who the litigants are). In Sealed
+Plaintiff the Second Circuit reaffirmed the importance of parties proceeding in their names:
+“[I]dentifying the parties to the proceeding is an important dimension of publicness” because
+“[t]he people have a right to know who is using their courts.” 537 F.3d at 189 (quoting Doe v.
+Blue Cross & Blue Shield United, 112 F.3d 869, 872 (7th Cir. 1997)); see also Del Rio, 241
+F.R.D. at 156 (citing Doe v. Deschamps, 64 F.R.D. 652, 653 (D. Mont. 1974) (“lawsuits are
+public events and the public has a legitimate interest in knowing the facts involved in them,”
+including “the identity of the parties”)).
+In addition to the First Amendment policy considerations discussed above, requiring
+parties to publicly disclose their identities also has important practical implications for the
+successful administration of justice. When parties’ names are disclosed, the case in question
+may thereby “come to the attention of key witnesses unknown to the parties.” Richmond
+Newspapers, Inc. v. Virginia, 448 U.S. 555, 596-97 (1980) (Brennan, J., concurring). By
+contrast, allowing a party to proceed anonymously “could deprive a litigant and the court of the
+chance that a yet unknown witness would, upon learning [the anonymous party’s identity], know
+to step forward with valuable information about the events or the credibility of witnesses.” Del
+
+5
+
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 11 of 28
+
+Rio, 241 F.R.D. at 159; see also Doe v. Delta Airlines, Inc., 310 F.R.D. 222, 225 (S.D.N.Y.
+2015) (“[F]ull disclosure of Doe’s identity may lead others to come forward with information
+relevant to this claim.”).
+II.
+
+Exceptions From the Rule May Only Arise in Extraordinary
+Circumstances, Which Are Not Present in This Case
+Notwithstanding the critically important policy and practical justifications for public
+
+disclosure of parties identities, on rare occasion courts permit plaintiffs to proceed anonymously
+when extraordinary or special circumstances are present. Such special circumstances include, for
+example, a plaintiff’s “allegations involv[ing] matters that are highly sensitive and of a personal
+nature.” Grottano v. The City of New York, No. 15-Civ-9242 (RMB) (KNF), 2016 WL 2604803,
+at *2 (S.D.N.Y. Mar. 30, 2016); see also Doe No. 2 v. Kolko, 242 F.R.D. 193, 196 (E.D.N.Y.
+2006) (“issues involving matters of the utmost intimacy, including sexual assault”); Del Rio, 241
+F.R.D. at 157 (“limited matters of a sensitive and highly personal nature”) (internal quotation
+marks omitted).
+Such special circumstances also include cases where a plaintiff alleges that public
+servants, such as police officers or prison guards, have committed illegal acts, including assault
+or a violation of constitutional rights, and that, by virtue of their positions in the government, the
+defendants are able to retaliate against the plaintiff by repeating the unlawful conduct
+complained of. See Doe v. City of New York, 15-cv-117 (AJN) (KNF), ECF No. 24 at 5-6, 8
+(S.D.N.Y. Feb. 4, 2016) (allowing incarcerated plaintiff to proceed anonymously in suit alleging
+physical and sexual assault by prison employees); Plaintiffs # 1-21 v. Cty. of Suffolk, 138 F.
+Supp. 3d 264, 274 (E.D.N.Y. 2015) (granting plaintiffs’ motion to proceed anonymously in case
+alleging that still-serving police officers had violated plaintiffs’ constitutional rights by targeting
+
+6
+
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 12 of 28
+
+Latinos and could retaliate by seeking to bring on deportation proceedings against plaintiffs if
+their names were disclosed).
+The leading case in the Second Circuit on when an exception to the rule against
+anonymous pleading may occur is the 2008 decision in Sealed Plaintiff. In that case, the Second
+Circuit “set forth the standard governing the use of pseudonyms in civil litigation in our Circuit.”
+537 F.3d at 189. In doing so, the Court drew on “both the rules adopted by other Circuits and the
+experience of the district courts of [the Second] Circuit.” Id. The court held generally that a
+district court must balance “a plaintiff’s interest in anonymity” against both “the public interest
+in disclosure” and “the potential prejudice to defendants.” 537 F.3d at 186. The court then
+“note[d] with approval” ten factors that had been identified by sister circuits and district courts in
+the Second Circuit, id. at 189-90, cautioning that the list “is non-exhaustive” and that “district
+courts should take into account other factors relevant to the particular case under consideration,”
+id.
+As demonstrated below, the ten specified factors from Sealed Plaintiff overwhelmingly
+favor Defendants’ interests over Plaintiffs’ interests in this case. Moreover, even considered
+alone, the critically important “other” factor relevant to this case – Plaintiffs’ election to forego
+their right to arbitrate against ACN in favor of attacking the President – requires that the Motion
+be denied.
+FACTOR ONE: Plaintiffs’ claims do not involve matters that
+are highly sensitive and of a personal nature
+Courts give special solicitude in cases where the plaintiff’s claim involves matters of a
+sensitive and highly personal nature in which there is a “need to protect intimate information.”
+Del Rio, 241 F.R.D. at 158; see also, Sealed Plaintiff, 537 F.3d at 187. Obviously, Plaintiffs’
+case does not involve a matter of an intimate personal nature. To the contrary, Plaintiffs allege
+7
+
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 13 of 28
+
+fraud in commercial dealings, which is a garden variety topic that implicates none of the
+considerations applicable under this factor.
+FACTOR TWO: Identification of Plaintiffs would not pose a risk
+of retaliatory physical or mental harm to
+Plaintiffs or to innocent non-parties
+The principal justification that Plaintiffs advance for the extraordinary relief they seek is
+based on the second Sealed Plaintiff factor. In support, Plaintiffs offer anecdotal reports that, in
+the past, Mr. Trump has publicly criticized political adversaries and, in limited instances,
+litigants adverse to him in other lawsuits wholly unrelated to this one. Plaintiffs also argue that
+supporters of the President have recently threatened violence against some of the most visible,
+widely-known critics of the President and against a public accuser of Supreme Court Justice
+Brett Kavanaugh during his confirmation hearings. (Mot. Mem. 3-7.) Plaintiffs’ reliance on this
+factor is completely unsupported by the relevant case law.
+Plaintiffs claim they would be placed in extreme peril if their identities were disclosed.
+This speculation is based exclusively on various forms of hearsay from third parties, including
+the press, some dating back many years. Such thin support is plainly insufficient to meet
+Plaintiffs’ burden. See Plaintiffs # 1-21, 138 F. Supp. 3d at 272 (“The Court does not find the
+newspaper articles offered by the Plaintiffs, many of them from several years ago, to be
+persuasive evidence that there is a risk that these particular Plaintiffs will be retaliated against if
+their identities are disclosed in this case.”)
+Notably, not a single Plaintiff has submitted a sworn statement averring that he or she
+actually has such a fear and seeking to provide a subjective basis for it.3 Under prevailing case
+
+3
+By proceeding as they have, Plaintiffs have already waived the right to present any evidence to support
+their claimed fears, including any sworn statements. See Bravia Capital Partners, Inc. v. Fike, 296 F.R.D. 136, 144
+(S.D.N.Y. 2013) (explaining that where party did not append required evidence in support of her motion to her
+opening brief but “attempted to cure these deficiencies by submitting” such evidence in connection with her reply
+
+8
+
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 14 of 28
+
+law, this lack of factual support and particularization of Plaintiffs’ concerns is fatal. In Del Rio,
+a plaintiff seeking to proceed anonymously submitted a detailed letter from a treating social
+worker who predicted that the plaintiff would be seriously harmed by public disclosure of her
+name. See 241 F.R.D. at 161. The social worker represented that, “it appears very likely, given
+[plaintiff’s] high degree of fear and reactivity, that, should her case no longer remain anonymous
+. . . she will suffer a recurrence of PTSD along with depression.” Id. The court found this
+proffered factual support to be insufficient, comparing it unfavorably to the showing made by the
+plaintiff in Doe v. Smith, 105 F. Supp. 2d 40, 43 (E.D.N.Y. 1999), who had “submitted her own
+sworn statement attesting to the likelihood of harmful psychological and emotional consequences
+if she were forced to identify herself.” Del Rio, 241 F.R.D. at 161. Here, Plaintiffs have literally
+submitted no evidence to support their claims of risk to themselves, thus placing themselves in
+an even weaker position than the plaintiff in Del Rio whose request to proceed anonymously was
+denied.
+Plaintiffs place great emphasis on what they claim to have been the terrible treatment
+visited upon the lead plaintiff in Makaeff v. Trump University, LLC, No. 10 Civ. 940 (S.D. Cal.),
+a class action filed eight years ago. (See Mot. Mem. 3-4, 10-11.) That case is irrelevant because
+it concerns a lead plaintiff’s motion, many years into the litigation, to withdraw from the case,
+and not a request to proceed anonymously, which requires a plaintiff to overcome the strong
+constitutional presumption of public judicial proceedings. Further, Ms. Makaeff sought to
+withdraw as lead plaintiff for a host of reasons not referenced by Plaintiffs, including the death
+of her mother, the development of significant health problems, and the unforeseen “media
+
+brief, it was “not proper” because she “was obligated, in her initial moving papers . . . to provide evidence”
+supporting her motion and “[b]y failing to provide any evidence . . . in her initial moving papers, [she] deprived [the
+opposing party] of the opportunity to analyze her” request).
+
+9
+
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 15 of 28
+
+obsession” with her lawsuit once Mr. Trump became a candidate for President. See Makaeff,
+ECF No. 472 at 13-14. This case, by contrast – like most cases currently pending against Mr.
+Trump – has garnered relatively little public attention, generating only a handful of news stories
+and drawing no comment from the President.
+Indeed, if Plaintiffs here are allowed to proceed anonymously, there is no possible reason
+why every other plaintiff who might sue Mr. Trump in the future would not be entitled to the
+same privilege. And presumably the same would be true for any future lawsuit against any
+future sitting President. Plaintiffs in this case have brought a mundane fraud case that includes
+no allegations about anything relating to the President’s performance in office or any political
+topic. Accordingly, Plaintiffs grossly exaggerate the importance of their lawsuit when they
+compare themselves to a participant in Justice Kavanaugh’s confirmation process whose name
+became a household word in this country and who appeared live on television in a proceeding
+watched by millions around the world. There is nothing about Plaintiffs or their lawsuit that
+should excite anyone.
+Many plaintiffs who seek leave to proceed anonymously contend that if her or his name
+is disclosed, she or he faces the threat of retaliation by members of the public who are hostile to
+them because of their involvement in the litigation in question. Courts scrutinize such claims
+scrupulously, seeking to protect wherever possible the constitutional interest in open
+proceedings. The Ninth Circuit’s decision in Doe v. Kamehameha Sch./Bernice Pauahi Bishop
+Estate, 596 F.3d 1036 (9th Cir. 2010) – which Plaintiffs do not cite – is highly instructive.4
+
+4
+In Sealed Plaintiff, 537 F.3d at 189-90, the leading case in this Circuit on the issue, the Court of Appeals
+expressly adopted the balancing test and factors developed by the Ninth Circuit in Does I thru XXIII v. Advanced
+Textile Corp., 214 F.3d 1058 (9th Cir. 2000), see Sealed Plaintiff, 537 F.3d at 189-90, which in turn were applied in
+Kamehameha. See Kamehameha, 596 F.3d at 1042-44.
+
+10
+
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 16 of 28
+
+In that case, school-age children sued the private Kamehameha Schools, which had been
+established a century before for the purpose of preserving Hawaiian culture and preserving the
+Hawaiian language. Id. at 1039. Over the years, the Schools’ trustees had enforced a policy of
+admitting Native Hawaiians to the near exclusion of applicants from other racial backgrounds.
+Id. The plaintiffs were four minor children of non-Hawaiian descent and their parents, who
+challenged the Schools for racial discrimination. Id. at 1038.
+In support of their motion for leave to proceed anonymously, the plaintiffs argued that
+they feared physical injury to the plaintiff-children if their identities were revealed. The
+plaintiffs pointed out that in an earlier, related litigation, the U.S. Attorney for the District of
+Hawaii had noted a “growing sense of anger and rage” and threats to hold a “kill haole [persons
+of non-Hawaiian descent] day every day,” prompting the U.S. Attorney to warn the public that
+violence based on race or threats of such violence were federal offenses. Id. at 1040. In
+addition, the parent of a child-plaintiff in that related litigation submitted an affidavit recounting
+that, in connection with that litigation, there had been calls to “break the plaintiff’s and his
+attorney’s every bone and make those bastards suffer,” among other acts of intimidation. Id.
+Similarly, the plaintiffs themselves presented evidence of internet threats to them of “lickins
+everyday” and attacks by “Hawaiians armed with baseball bats or guns,” as well as evidence of
+other “violent crimes with racial overtones committed by Native Hawaiians against nonNatives.” Id. In spite of all this evidence, the plaintiffs’ request to proceed anonymously was
+rejected.
+The magistrate judge who first heard the plaintiffs’ motion to proceed anonymously
+denied it, finding that, although the plaintiffs’ affidavits showed “subjective fear” of retaliation,
+the threats against plaintiffs and their attorneys in the earlier, related litigation were not directed
+
+11
+
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 17 of 28
+
+at the plaintiff children in the present case, and that the internet comments conveyed the
+commentators’ frustration with the lawsuit rather than actual threats against the plaintiffchildren. Id. at 1040-41. That ruling further roiled the public, drawing still more internet vitriol
+directed at the plaintiffs. See id. at 1041.
+The district court confirmed the magistrate judge’s ruling, finding that, given the absence
+of evidence of threats directed at any plaintiff directly, “no reasonable person in any position
+would believe a threat would be carried out.” Id. at 1042 (emphasis in original). In turn, the
+Ninth Circuit affirmed the district court’s exercise of discretion in denying the plaintiffs’ request.
+Id. The circuit court acknowledged that the threats against the plaintiffs were “undoubtedly
+severe,” and it found the existence of “several facts militating in favor of a finding that the Doe
+children’s fears are reasonable,” including that, “[i]n context,” internet threats “become much
+more frightening,” particularly where the context “no doubt includes random acts of racial
+violence against non-Native Hawaiian children.” Id. at 1043-44. However, none of this
+evidence warranted reversal, “[g]iven the strong general presumption that plaintiffs will conduct
+litigation under their own names.” Id. at 1043. The circuit court endorsed the magistrate judge’s
+observation “that many times people say things anonymously on the internet that they would
+never say in another context and have no intention of carrying out.” Id. at 1045.
+Similarly, in a case cited by Plaintiffs, Doe v. Pittsylvania Cty., Va., 844 F. Supp. 2d 724
+(W.D. Va. 2012) (see Mot. Mem. 18), the court denied the plaintiff’s motion to proceed
+anonymously in her action challenging a county Board of Supervisors’ practice of opening its
+meetings with prayer, despite the plaintiff’s proffer of multiple, wide-ranging threats by
+unidentified members of the public. These included threats of “daily beating[s]”; a press report
+quoting a characterization of the plaintiff’s case as “an assault by the devil”; commentary by
+
+12
+
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 18 of 28
+
+opponents of the plaintiff’s case that her counsel was the “enemy” and would “burn in hell”; and
+a letter purportedly from the local Ku Klux Klan declaring its determination to learn the
+plaintiff’s identity. Id. at 734, 736, 740. The court found this detailed factual support
+insufficient to “establish[] the likelihood of retaliatory physical harm.” Id. at 741.
+Plaintiffs fail to direct the Court to any meaningful judicial precedent to support their
+argument that the potential harm they speculate about so imaginatively is sufficient to establish
+their entitlement to proceed anonymously. The only two cases from courts in the Second Circuit
+that Plaintiffs cite – Doe v. Bridgeport Police Dep’t, 198 F.R.D. 325 (D. Conn. 2001) and
+Plaintiffs # 1-21, supra (see Mot. Mem. 11) – simply do not support Plaintiffs’ argument. In
+Bridgeport, the court’s sole reference to pseudonymous pleading was in a footnote where the
+court stated that it had granted the Plaintiffs’ Motion to Proceed Under Fictitious Name, with no
+analysis at all of why the court had done so. See 198 F.R.D. at 328 n.1. And in Plaintiffs # 1-21,
+a case against the Suffolk County Police Department and various individuals associated with the
+Police Department, the court found the plaintiffs’ “fears of possible retaliation and further
+harassment” by Suffolk County police officers to be “reasonable,” 138 F. Supp. 3d at 273, based
+on the plaintiffs’ “extraordinary” allegations of criminal wrongdoing by the defendants, which
+were supported by an indictment against one defendant based on the same conduct challenged in
+the complaint, id. at 272.
+The other, out-of-circuit cases Plaintiffs rely on (see Mot. Mem. 11-12) are inapposite.
+For instance, in Doe v. City of Indianapolis, Ind., No. 1:12-CV-00062-TWP, 2012 WL 639537
+(S.D. Ind. Feb. 27, 2012), the court allowed the plaintiff, an individual on the State of Indiana’s
+sex and violent offender registry, to proceed anonymously with a challenge to a state statute
+prohibiting him from using social networking sites or instant message programs that were
+
+13
+
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 19 of 28
+
+accessible to minors. See id. at *1-*3. There, unlike here, the plaintiff challenged governmental
+action, and the case presented a “pure issue of law” in challenging the constitutionality of a
+statute. Id. at *2. It was also “solidly in the record that Plaintiff and his minor son have been
+targeted for violence based upon Plaintiff’s status as a sex offender,” making it “reasonable for
+Plaintiff to fear retaliation” if his participation in the suit were revealed. Id.
+In L.H. v. Schwarzenegger, No. CIV. S-06-2042 (LKK) (GGH), 2007 WL 662463 (E.D.
+Cal. Feb. 28, 2007), incarcerated plaintiffs under the jurisdiction of the California Department of
+Juvenile Justice brought a case to challenge a policy and practice of denying due process, equal
+protection, and access to counsel in parole hearings. The court allowed the plaintiffs to remain
+anonymous because of the threat of “groundless revocation of parole,” which “necessarily
+implicates . . . parolees’ liberty interests” and also “exposes a parolee to a host of other possible
+harms including retaliation” by prison officials. Id. at *16.
+Advanced Textile Corp., 214 F.3d at 1058, permitted a group of Chinese nationals
+brought in as temporary workers in garment factories in Saipan to bring a Fair Labor Standards
+Act suit anonymously because the plaintiffs submitted extensive evidence of coercive working
+conditions, including that some workers were required to surrender their passports and that
+recruiters bringing workers to Saipan had threatened workers or their family members with fines
+or possible arrest by the Chinese government. See id. at 1064-65, 1069. In addition, managers at
+the defendants’ factories had threatened workers “with various reprisals, including termination,
+blacklisting, deportation, and closing the factory” and had even made “oblique threats of
+physical harm to employees who complained about working conditions.” Id. at 1065.
+In Doe v. Stegall, 653 F.2d 180 (5th Cir. 1981), the Fifth Circuit allowed the plaintiffschoolchildren to bring an anonymous constitutional challenge against prayer and Bible-reading
+
+14
+
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 20 of 28
+
+exercises in public schools, taking into account important factors not present in this case,
+including the “special status and vulnerability of the child-litigants, the showing of possible
+threatened harm and serious social ostracization based upon militant religious attitudes, and the
+fundamental privateness of the religious beliefs, all of which are at the core of this suit.” Id. at
+186.
+The circumstances of this case bear no relation to the circumstances present in the cases
+just discussed. Plaintiffs in this case have wholly failed to establish any likelihood of retaliatory
+harm to them if their identities are disclosed to the public.
+FACTOR THREE: Identification of Plaintiffs presents no other
+harms, as there is no risk that “the injury
+litigated against would be incurred as a result”5
+The 2015 decision by Judge Spatt in Plaintiffs # 1-21, supra, presents a classic example
+of the dangers that factor three is intended to address. There, the plaintiffs brought their action
+anonymously against the Suffolk County Police Department and individuals associated with it,
+alleging discriminatory policing in violation of the plaintiffs’ rights under the Fourth, Fifth, and
+Fourteenth Amendments. See 138 F. Supp. 3d at 268-69. Among other things, one of the named
+individual defendants had recently been indicted after being recorded by an undercover officer
+while “committing the acts at issue in [the] case.” Id. at 273; see also id. at 272. In addition, the
+plaintiffs alleged that there were other police officers involved in the constitutional violations
+described in the complaint who were still employed by the Department. See id. “Based on the
+extraordinary nature of these allegations,” the court found the plaintiffs’ fears of retaliation
+through the same conduct alleged in the complaint to be “reasonable.” Id.; see also Javier H. v.
+Garcia-Botello, 211 F.R.D. 194, 196 (W.D.N.Y. 2002) (granting plaintiff’s request for
+
+5
+
+Sealed Plaintiff, 537 F.3d at 190. Plaintiffs inexplicably omit the key quoted language from their
+reference to this factor in their Motion. (See Mot. Mem. 8.)
+
+15
+
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 21 of 28
+
+anonymity where “[d]efendants have been charged with similar acts of harassment, intimidation
+and threats of violence that Plaintiffs continue to fear”).
+This factor is plainly inapplicable to Plaintiffs in this case. The injury Plaintiffs are
+litigating against is fraud relating to the contract they entered into with ACN, and they obviously
+are exposed to zero risk that, if their identities are disclosed, they would be subject to further
+fraud in relation to dealings with ACN. Plaintiffs nevertheless disingenuously seek to adapt their
+situation to this factor by offering a permutation of their argument under factor two above about
+retaliatory harm, claiming that if their names are disclosed “they are likely to face a barrage of
+online threats and harassment . . . as well as the possible hacking of their personal accounts.”
+(Mot. Mem. 12) (emphasis added). In support of this irrelevant argument, Plaintiffs assert that
+rapid technological advances are making the need for plaintiff anonymity more compelling,
+citing two law review articles. (Id. at 12-13.) This argument, and the proffered support for it,
+have nothing to do with the concerns this factor was intended to address.
+FACTOR FOUR: Plaintiffs are not “particularly vulnerable”
+For the law concerning the fourth factor, Defendants look once again to Judge Spatt’s
+2015 decision in Plaintiffs # 1-21, supra, where the plaintiffs were particularly vulnerable to the
+possible harms of disclosure. The plaintiffs there were Latinos who had challenged
+unconstitutional discrimination against the Latino community by the police. See id. at 268. The
+court found that because of the plaintiffs’ particular status as immigrants, they were “at risk of
+deportation” if their names were made public. Id. at 274.
+Plaintiffs in this case do not and cannot provide any cogent argument that they are
+particularly vulnerable in the sense that this factor contemplates. They are merely pursuing a
+
+16
+
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 22 of 28
+
+civil lawsuit for money damages based on prior, now-concluded commercial dealings, and there
+is nothing about their status that renders them vulnerable in any sense.
+FACTOR FIVE: Plaintiffs’ lawsuit seeks damages from
+a private individual, and it does not
+challenge the actions of the government
+As Judge Nathan noted in her 2016 decision in Doe v. City of New York, No. 1:15-cv00117 (AJN) (KNF), ECF No. 24, it is an “important factor under the Sealed Plaintiff test . . .
+whether the lawsuit challenges government or private action.” Id. at 5 (citing Sealed Plaintiff,
+537 F.3d at 190). Courts are much less inclined to grant leave to proceed anonymously in “a
+civil suit for damages, where plaintiff is seeking to vindicate primarily her own interests,” Doe v.
+Shakur, 164 F.R.D. 359, 361 (S.D.N.Y. 1996), rather than in a case against the government or
+government officials. Under the circumstances of this case, this factor favors Defendants, and it
+lends no support to Plaintiffs’ request.
+When “a plaintiff attacks governmental activity, for example a governmental policy or
+statute, the plaintiff’s interest in proceeding anonymously is considered particularly strong.”
+New York Blood Ctr., 213 F.R.D. at 111. That is because “[i]n such circumstances the plaintiff
+presumably represents a minority interest (and may be subject to stigmatization).” Id.; see also
+Plaintiffs # 1-21, 138 F. Supp. 3d at 274. By contrast, in cases involving claims against private
+individuals, policy considerations consistently favor the defendant, and the plaintiff faces a more
+difficult challenge. Thus, in Judge Nathan’s 2016 decision in Doe, the court noted that
+“[t]raditionally, courts have been reluctant to authorize plaintiffs alleging sexual assault to
+proceed anonymously when suing private parties.” Doe v. City of New York, No. 1:15-cv-00117
+(AJN) (KNF), ECF No. 24 at 5. The court explained that, because “private defendants in civil
+lawsuits may suffer damage to their good names and reputation,” they have special concerns not
+
+17
+
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 23 of 28
+
+shared by the government, which “has less of a concern with protecting its reputation than a
+private individual.” Id. at 5-6; see also Del Rio, 241 F.R.D. at 159 (“where individual defendants
+are sued based not on abstract challenges to public policies but rather with regard to particular
+actions and incidents, open proceedings . . . benefit the public as well as the parties and also
+serve the judicial interest in accurate fact-finding and fair adjudication.”).
+Plaintiffs’ claim that their lawsuit is akin to litigation challenging action by the
+government (Mot. Mem. 14-15) is obviously misguided. Plaintiffs have not sued the government
+or a government actor, but rather Mr. Trump “in his personal capacity,” along with his business
+and three of his children, none of whom are government actors. Accordingly, the policy
+rationale that supports more favorable treatment for a plaintiff who is challenging government
+action, and thereby arguably acting in the public interest, is wholly inapposite to Plaintiffs in this
+lawsuit.
+FACTOR SIX: Defendants would be severely prejudiced by allowing
+Plaintiffs to press their claims anonymously
+Plaintiffs claim that allowing them to proceed anonymously “in no way prejudices
+Defendants.” (Mot. Mem. 15.) To the contrary, courts have recognized that all defendants,
+especially individuals, are necessarily prejudiced whenever a plaintiff is able to pursue a case
+anonymously. Therefore, as a general matter, whenever a complaint “makes accusations against
+individual [d]efendants that could potentially damage their . . . reputation[],” the defendants
+“have a right to know who is making these allegations against them, as does the public.”
+Plaintiffs # 1-21, 138 F. Supp. 3d at 275.
+As Judge Oetken pointed out in Fedcap Rehabilitation, a defendant who is litigating
+against an anonymous plaintiff has a “genuine disadvantage” in terms of “settlement leverage”
+because “a publicly accused defendant might be eager to settle in order to get its name out of the
+18
+
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 24 of 28
+
+public eye,” while “a pseudonymous plaintiff might hold out for a larger settlement because they
+face no such reputational risk”. 2018 WL 2021588 at *2-*3. This would certainly be true in this
+case if Plaintiffs were allowed to proceed anonymously, even if only temporarily. Similarly, as
+noted above, concealing Plaintiffs’ names could deprive Defendants of the chance that “a yet
+unknown witness would, upon learning [the plaintiff’s identity], know to step forward with
+valuable information about the events or the credibility of witnesses.” Del Rio, 241 F.R.D. at
+159 (citing Richmond Newspapers, 448 U.S. at 596-97). This potential problem obviously has a
+disproportionate and unfair impact “[w]here the defendants’ identities are known, but not the
+plaintiffs’,” because in such a case “information about only [defendants] may thus come to
+light.” Id.
+Even more importantly for purposes of this case, the law recognizes the “serious
+disadvantage” imposed on a defendant anytime the plaintiff is allowed to proceed anonymously,
+based on the fact that the defendant “would be required to defend himself publicly while plaintiff
+could make her accusations from behind a cloak of anonymity.” Shakur, 164 F.R.D. at 361; see
+also id. (“[P]laintiff has chosen to bring this lawsuit. She has made serious charges and has put
+her credibility in issue. Fairness requires that she be prepared to stand behind her charges
+publicly.”). Among other things, “anonymity might allow [a] [p]laintiff to make accusations that
+they would not have made if their identity was publicly known.” Fedcap Rehabilitation, 2018
+WL 2021588 at *2. In short, being required to take full public responsibility for one’s litigation
+conduct instills an important discipline in both sides’ words and actions, while proceeding
+anonymously empowers a plaintiff to take great liberties.
+Further, because “[d]efendants do not have the option of proceeding pseudonymously,”
+there is an “imbalance” inherent in allowing a plaintiff to do so, and this imbalance is acceptable
+
+19
+
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 25 of 28
+
+“only in unique circumstances.” Fedcap Rehabilitation, 2018 WL 2021588 at *3; see also Doe
+v. City of New York, 201 F.R.D 100, 102 (S.D.N.Y. 2001) (“The [defendants] have no lesser
+interests in their reputations than plaintiff, yet [plaintiff] has shown no solicitude for their
+privacy, and they are not afforded an opportunity to seek to have their names withheld from the
+public. If we are to have a policy on protecting the names of individual litigants from public
+disclosure, there is a very substantial interest in doing so on a basis of equality.”). Clearly, in
+this case, it is harmful to Defendants to be subject to public vilification with no possibility of
+anonymity while anonymous Plaintiffs are free to file publicly a 160-page complaint overflowing
+with invective.
+FACTOR SEVEN: Plaintiffs identities have thus far been kept
+confidential, but that fact has no significance
+Plaintiffs also seek to rely on the seventh factor specified in Sealed Plaintiff, which is
+whether the plaintiff’s identity has thus far been kept confidential. See 537 F.3d at 190.
+Plaintiffs represent that their identities have thus far been kept confidential, and Defendants are
+not in a position to dispute that representation. However, this factor becomes important only
+where the plaintiff is unable to satisfy it, and it is neutral when a plaintiff is able to satisfy it,
+since, on its own, it says nothing about whether the plaintiff actually merits the extraordinary
+relief they are requesting.
+FACTOR EIGHT: The public’s interest in the litigation
+would be furthered by requiring
+Plaintiffs to disclose their identities
+For all of the policy reasons discussed above that favor open court proceedings with the
+parties identified by name, and based on the inherent unfairness to the defendant in every case
+where the plaintiff is allowed to litigate anonymously, the public has an overriding interest in this
+case in public disclosure of Plaintiffs’ names. Mr. Trump is, after all, the sitting President of the
+20
+
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 26 of 28
+
+United States, and when such scurrilous allegations are made against him in a publicly filed
+lawsuit the public has a profound interest in knowing who is making the allegations, so that it
+can assess the accuracy of what is being alleged and inform itself as to the credibility of the
+accuser.
+Finally, it is clearly not in the public interest to safeguard to Plaintiffs the right to sit
+behind a curtain and lob wild accusations at the President with the assurance that they need not
+take personal responsibility for their attacks. Like the person who goes overboard in his or her
+commentary as an anonymous speaker over the internet, see Kamehameha Sch., 596 F.3d at
+1045, if Plaintiffs were allowed to keep their identities secret, they would be able to indulge their
+worst instincts in the way they litigate this case.
+FACTOR NINE: The issues presented in this proceeding are not
+purely legal in nature, and therefore there is a strong
+public interest in knowing the litigants’ identities
+There is sometimes a lesser interest in disclosing the plaintiff’s identify in a case that
+primarily involves a legal issue such as a challenge to the constitutionality of a statute, as
+opposed to a case with disputed fact issues. See Plaintiffs # 1-21, 138 F. Supp. 3d at 277-78.
+But this proceeding is clearly not such a case, as it turns to a great extent on the hundreds of
+factual allegations set out against Defendants in the Complaint. Where, as here, “[p]laintiffs’
+claims are fact-specific,” the “[p]laintiffs’ credibility and factual knowledge will . . . play a key
+role in the outcome of the[] claims.” Id. at 276. Accordingly, the circumstances of this case
+require a finding that “Plaintiffs’ identities are of crucial importance to the Defendants in
+investigating and asserting defenses to [Plaintiffs’] claims.” Id.
+
+21
+
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 27 of 28
+
+FACTOR TEN: There are no alternative mechanisms for
+protecting the confidentiality of Plaintiffs
+Plaintiffs propose to the Court that they be allowed to proceed anonymously at least
+temporarily. But they provide no explanation as to why such a temporary reprieve would make
+sense, or even any difference. And in fact, allowing Plaintiffs to proceed anonymously only for
+a while would make no sense. Even accepting, theoretically, Plaintiffs’ arguments about the
+public scrutiny they would be subjected to if their names were made public, there is no reason
+why that scrutiny would be lesser if their names were not disclosed until some future time;
+indeed, precisely the same consequences could be anticipated no matter when the disclosure
+occurs. Meanwhile, during any period when Plaintiffs were allowed to proceed anonymously,
+Defendants would suffer all of the harms detailed above, and the important public interest in
+openness detailed above would go unsatisfied. Plaintiffs’ Motion should be rejected in its
+entirety now.
+OTHER FACTOR: An additional factor relevant to this particular
+case compels rejection of Plaintiffs’ request
+Most importantly, Plaintiffs should not be allowed to throw themselves on the mercy of
+the Court as potential victims if their names are disclosed, when they have truly gone out of their
+way to erect a special platform from which to attack the President. Plaintiffs easily could have
+proceeded directly against ACN pursuant to the cost-efficient arbitration clause set out in their
+contracts with ACN, and in so doing they presumably could have pursued an agency theory
+against ACN based on their theories about Mr. Trump’s paid endorsements of ACN. In that
+scenario, Plaintiffs would have been participants in a confidential proceeding, and none of the
+supposedly dire risk to themselves that they now decry would have been a thought in anyone’s
+mind. But Plaintiffs clearly wanted something else, something more, and they apparently got it
+
+22
+
+Case 1:18-cv-09936-LGS Document 46 Filed 11/30/18 Page 28 of 28
+
+by filing this lawsuit. These circumstances should constitute a per se basis for denial of
+Plaintiffs’ Motion.
+CONCLUSION
+For the foregoing reasons, Plaintiffs’ Motion for Leave to Proceed Under Pseudonyms
+should be denied.
+Respectfully submitted,
+/s/ David Spears
+David Spears
+Cynthia Chen
+Bradley Pollina
+SPEARS & IMES LLP
+51 Madison Avenue
+New York, New York 10010
+Tel: (212) 213-6996
+Fax: (212) 213-0849
+dspears@spearsimes.com
+cchen@spearsimes.com
+bpollina@spearsimes.com
+Attorneys for Defendants
+
+23
+
+

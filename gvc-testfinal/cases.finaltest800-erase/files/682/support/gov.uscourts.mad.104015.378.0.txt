@@ -1,0 +1,248 @@
+Case 1:06-cv-11109-RWZ
+
+Document 378
+
+Filed 07/25/2008
+
+Page 1 of 7
+
+UNITED STATES DISTRICT COURT
+DISTRICT OF MASSACHUSETTS
+
+AKAMAI TECHNOLOGIES, INC., and
+MASSACHUSETTS INSTITUTE OF
+TECHNOLOGY,
+Plaintiffs,
+
+Civil Action No. 1:06-cv-11109 RWZ
+
+v.
+LIMELIGHT NETWORKS, INC.,
+Defendant.
+
+MEMORANDUM IN SUPPORT OF LIMELIGHT NETWORKS, INC.’S
+MOTION FOR RECONSIDERATION OF THE COURT’S DENIAL OF LIMELIGHT’S
+MOTION FOR JUDGMENT AS A MATTER OF LAW BASED ON NEW CASE LAW
+
+Case 1:06-cv-11109-RWZ
+
+I.
+
+Document 378
+
+Filed 07/25/2008
+
+Page 2 of 7
+
+INTRODUCTION
+Limelight Networks, Inc. (“Limelight”) moves for reconsideration of the Court’s July 1,
+
+2008 denial of its Motion for Judgment as a Matter of Law (JMOL). Limelight’s motion is based
+on the July 14, 2008 Federal Circuit opinion in Muniauction, Inc. v. Thomson Corp., -- F.3d --,
+2008 WL 2717689 (Fed. Cir. July 14, 2008)1. In Muniauction, the Federal Circuit (in a
+unanimous opinion written by Judge Gajarsa, the author of the prior Federal Circuit decision
+regarding the ‘703 Patent in this suit2) established that the joint infringement theory relied upon
+by Akamai in the present case requires a showing that the accused direct infringer is vicariously
+liable for the acts committed by any others required to complete performance of the claimed
+method. Further, the Court held as a matter of law that an accused infringer’s control over
+access to an Internet-based system, coupled with instructions to customers on how to use that
+system, is insufficient to establish direct infringement. Id. at *9. Thus, Akamai’s proof in this
+case — which did not establish any basis for vicarious liability for the acts of others, and merely
+showed that Limelight controlled access to its Internet-based system and provided instructions to
+its customers on how to use that system — is insufficient as a matter of law.
+Limelight therefore requests, based on the law established by the July 14, 2008 Federal
+Circuit decision in Muniauction, that this Court reconsider its July 1, 2008 denial of Limelight’s
+Motion for Judgment as a Matter of Law and enter judgment that Limelight does not infringe
+Claims 19-21 and 34 of U.S. Patent No. 6,108,703 (“the ‘703 Patent”).
+
+1
+
+For the Court’s convenience, a copy of Muniauction is attached hereto as Exhibit A.
+
+2
+
+Akamai Techs., Inc. v. Cable & Wireless Internet Servs., Inc., 344 F.3d 1186 (Fed. Cir. 2003)
+
+2
+
+Case 1:06-cv-11109-RWZ
+
+II.
+
+Document 378
+
+Filed 07/25/2008
+
+Page 3 of 7
+
+UNDER THE MUNIAUCTION STANDARD, LIMELIGHT IS NOT LIABLE FOR
+DIRECT INFRINGEMENT
+Limelight and Akamai do not dispute, and the evidence at trial confirmed, that no
+
+single party performs every step of the asserted claims of the ‘703 Patent. Rather, Limelight’s
+customers (not Limelight) allegedly perform certain steps of the asserted claims (including what
+Akamai alleged was “tagging” in Claims 19-21 and 34 and “serving the given page from the
+content provider domain” in Claims 19-21). (Docket # 345 (Limelight’s Mem. in Support of its
+Mtns. for Judgment as a Matter of Law Pursuant to Fed. R. Civ. P. 50) at 24-28). The evidence
+Akamai asserts it presented to prove direct infringement3, under a “joint infringement” theory,
+was that Limelight provides “instructions or directions” to its customers to perform one or more
+steps of the asserted claims. (See Docket # 343 (Akamai’s Mem. in Opposition to Limelight’s
+Mtn. for Judgment as a Matter of Law) at 31-33).
+Two weeks after this Court denied Limelight’s Motion (See July 1, 2008 Electronic
+Order), the Federal Circuit announced its vicarious liability standard in the Muniauction
+decision, based on facts remarkably similar to the instant case. In Muniauction, the Court of
+Appeals overturned a jury verdict of infringement (and a subsequent denial of JMOL for noninfringement), because no single party either performed or had another party perform on its
+behalf each step of the asserted claims. And because the plaintiff identified no legal theory on
+which the accused infringer might be vicariously liable for the actions of its customers, the
+Federal Circuit held that the defendant could not infringe the asserted claims, as a matter of law.
+Muniauction, 2008 WL 2717689 at *9.
+The issue in Muniauction, also presented in the instant case, was whether the accused
+infringer was responsible for the actions of its customers by issuing instructions to those
+customers on how to use the accused Internet-based system. Reversing the jury verdict of
+infringement, the Federal Circuit held that the fact the defendant controlled access to its Internet3
+
+Akamai voluntarily abandoned all indirect infringement assertions prior to trial. (See Email from C. Perez to A.
+Mackinnon on Feb. 10, 2008 attached hereto as Exhibit B; see also Trial Tr. 46:4-9, February 26, 2008,
+Charge Conf, Transcript Appendix attached hereto as Exhibit C).
+
+3
+
+Case 1:06-cv-11109-RWZ
+
+Document 378
+
+Filed 07/25/2008
+
+Page 4 of 7
+
+based system, and instructed its customers how to use that system, was legally insufficient to
+establish direct infringement. Id. at *9.4
+The claims at issue in Muniauction concerned a method of carrying out electronic
+bidding on the Internet and required that a customer perform at least one step of the claimed
+method (e.g., inputting the customer’s bid on his/her computer). Id. at *8-9. The accused
+infringer operated the Internet-based bidding system and performed many of the other steps of
+the asserted method claims. Id. at *8. The Federal Circuit held that the accused infringer was
+not liable because no legal theory existed under which the accused infringer might be vicariously
+liable for the actions of its customers. Id. at *9. “[M]ere ‘arms-length cooperation’ will not
+give rise to direct infringement by any party.” Id. at *8 (emphasis added). Further, the fact that
+the accused infringer “controls access to its system and instructs bidders on its use is not
+sufficient to incur liability for direct infringement.” Id. at *9 (emphasis added).
+The Muniauction case is remarkably similar to the instant case, most pertinently in terms
+of the divided infringement facts. Like the patent claims in Muniauction, the asserted ‘703
+Patent claims involve multiple steps which no one entity performs. Rather, the actions of both
+the CDN operator and its customers are required to meet the requirements of each claimed
+method.
+Further, just as in Muniauction, Akamai’s theory of Limelight’s alleged liability was that
+Limelight instructed its customers how to use the Limelight CDN system and gain access to its
+system.5 This precise argument was considered and expressly found to be legally insufficient to
+4
+
+This intervening decision by the Federal Circuit on joint infringement justifies reconsideration. See Davis v.
+Lehane, 89 F.Supp.2d 142, 147 (D. Mass. 2000) (stating that “a court should grant a motion for reconsideration
+of an interlocutory order only when the movant demonstrates (1) an intervening change in the law; (2) the
+discovery of new evidence not previously available; or (3) a clear error of law in the first order”); see also
+Vermont Pure Holdings, Ltd. v. Nestle Waters N.A., Inc., Case No. Civ.A.03-11465 DPW, 2006 WL 839486 at
+*3 (D. Mass. Mar. 28, 2006).
+
+5
+
+Akamai also argued that the customer’s acts that may comprise a step of the claim are “necessary” to use the
+Limelight system. (See Docket # 343 at 35). This argument was also rejected in Muniauction. To use the
+accused infringer’s online bidding system, its customers must input their bids into the customer’s computer (a
+step in the claim); but the Federal Circuit held that such acts, even though necessary and under the instructions
+of the accused infringer, were insufficient to establish direct infringement by the accused infringer.
+Muniauction, 2008 WL 2717689 at *8.
+
+4
+
+Case 1:06-cv-11109-RWZ
+
+Document 378
+
+Filed 07/25/2008
+
+Page 5 of 7
+
+establish direct infringement in Muniauction. As the Federal Circuit has now held, direct
+infringement requires a showing that the accused direct infringer is vicariously liable for the acts
+committed by any others required to complete performance of the claimed method, and an armslength relationship with customers, even when coupled with instructions to those customers on
+how to use the accused infringer’s system can not suffice, as a matter of law, to prove direct
+infringement.
+Akamai also argued that Limelight’s “contractual relationship” with its customers was
+sufficient “direction or control” to incur liability for the steps of the asserted claims performed
+by those customers. (Docket # 343 at 31 fn. 11, 33). The patentee in Muniauction made the
+same argument (see Muniauction Federal Circuit Brief, 2007 WL 4693007 at *47 attached hereto
+as Exhibit D), which the Federal Circuit rejected — finding that the contractual relationship did
+not suffice.
+Under this binding precedent established by the Federal Circuit’s July 14, 2008 holding
+in Muniauction, Akamai has not shown direct infringement by Limelight and the verdict should
+be set aside.
+III.
+
+CONCLUSION
+In light of the law established by the Federal Circuit’s July 14, 2008 decision in
+
+Muniauction, Inc. v. Thomson Corp., Limelight cannot be liable for infringement of the asserted
+method claims of the ‘703 Patent. No evidence introduced by Akamai establishes that Limelight
+is vicariously liable for the acts committed by any others required to complete performance of
+the method covered by the asserted claims. And the fact that Limelight enters into contracts
+with, and provides instruction to, its customers to perform certain acts in order to use the
+Limelight CDN, is now ruled to be insufficient to establish direct infringement, as a matter of
+law. Accordingly, the Court should reconsider its denial of Limelight’s Motion for Judgment as
+a Matter of Law and enter judgment in Limelight’s favor that Limelight does not infringe Claims
+19-21 or 34 of the ‘703 Patent.
+
+5
+
+Case 1:06-cv-11109-RWZ
+
+DATED: July 25, 2008
+
+Document 378
+
+Filed 07/25/2008
+
+Page 6 of 7
+
+By: /s/Alexander F. MacKinnon
+Robert G. Krupka (pro hac vice)
+Alexander F. MacKinnon (pro hac vice)
+Kirkland & Ellis LLP
+777 South Figueroa Street
+Los Angeles, California 90017
+Telephone: (213) 680-8400
+Facsimile: (213) 680-8500
+Gael Mahony (BBO #315180)
+Daniel K. Hampton (BBO #634195)
+Holland & Knight LLP
+10 St. James Avenue, 11th Floor
+Boston, MA, 02116
+Telephone: (617) 523-2700
+Facsimile: (617) 523-6850
+Attorneys for Defendant
+Limelight Networks, Inc.
+
+6
+
+Case 1:06-cv-11109-RWZ
+
+Document 378
+
+Filed 07/25/2008
+
+Page 7 of 7
+
+CERTIFICATE OF SERVICE
+I hereby certify that this document (Memorandum In Support Of Limelight Networks,
+Inc.’s Motion For Reconsideration Of The Court’s Denial Of Limelight’s Motion For
+Judgment As A Matter Of Law Based on New Case Law) was filed through the ECF system
+and will be sent electronically to the registered participants as identified on the Notice of
+Electronic Filing (NEF) and paper copies will be sent to those indicated as non-registered
+participants on July 25, 2008, via first class mail.
+
+/s/Alexander F. MacKinnon
+Alexander F. MacKinnon
+
+K&E 13128194.3
+
+

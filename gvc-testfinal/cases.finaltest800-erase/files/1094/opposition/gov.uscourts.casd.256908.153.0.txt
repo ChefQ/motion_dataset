@@ -1,0 +1,1528 @@
+Case 3:07-cv-02000-H-CAB
+
+Document 153
+
+Filed 12/14/2007
+
+Page 1 of 22
+
+David A. Hahn, (SBN 125784)
+1 HAHN & ADEMA
+501 West Broadway, Suite 1600
+2 San Diego, California 92101-3595
+Telephone: (619) 235-2100
+3 Facsimile: (619) 235-2101
+4
+
+Attorney for Lucent Technologies Inc.
+5 and Multimedia Patent Trust
+(Additional counsel listed on the last page)
+6
+7
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF CALIFORNIA
+
+8
+9
+
+LUCENT TECHNOLOGIES INC. and
+10 MULTIMEDIA PATENT TRUST,
+11
+
+v.
+
+12
+
+Plaintiffs,
+
+GATEWAY, INC., GATEWAY COUNTRY
+13 STORES LLC, GATEWAY COMPANIES,
+INC., GATEWAY MANUFACTURING LLC
+14 and COWABUNGA ENTERPRISES, INC.,
+15
+16
+17
+
+and
+
+Defendants,
+
+MICROSOFT CORPORATION,
+Intervener.
+
+18
+
+19 MICROSOFT CORPORATION,
+20
+21
+
+v.
+
+Plaintiff,
+
+Case No. 07-CV-2000-H (CAB)
+consisting of matters severed from
+consolidated cases:
+Case No. 02-CV-2060-B (CAB)
+Case No. 03-CV-0699-B (CAB)
+Case No. 03-CV-1108-B (CAB)
+LUCENT'S MEMORANDUM OF
+POINTS AND AUTHORITIES IN
+OPPOSITION TO MICROSOFT'S
+MOTION FOR SUMMARY
+JUDGMENT OF OBVIOUSNESS OF
+U.S. PATENT NO. 5,347,295
+Date:
+Time:
+Courtroom:
+Judge:
+
+January 7, 2008
+10:30 A.M.
+13
+Hon. Marilyn L. Huff
+
+LUCENT TECHNOLOGIES INC.,
+
+22
+
+Defendant.
+LUCENT
+TECHNOLOGIES
+INC. and
+23
+MULTIMEDIA PATENT TRUST,
+24
+Plaintiffs,
+v.
+25
+26 DELL INC.,
+27
+
+Defendant.
+
+28
+LUCENT'S OPPOSITION TO MICROSOFT'S SUMMARY JUDGMENT
+BRIEF RE OBVIOUSNESS OF U.S. PATENT NO. 5,347,295
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+3
+
+Page 2 of 22
+
+I.
+
+INTRODUCTION ...............................................................................................................1
+
+II.
+
+COUNTER-STATEMENT OF FACTS ..............................................................................2
+
+4
+
+A.
+
+The Invention of the '295 Patent ..............................................................................2
+
+B.
+
+The Asserted Claims Cover Several Different Aspects of the Pen Computer
+System......................................................................................................................4
+
+5
+6
+
+Filed 12/14/2007
+
+TABLE OF CONTENTS
+
+1
+2
+
+Document 153
+
+III.
+
+7
+
+LEGAL STANDARD..........................................................................................................5
+A.
+
+Summary Judgment .................................................................................................5
+
+B.
+
+Obviousness .............................................................................................................5
+
+8 IV.
+
+ARGUMENT.......................................................................................................................7
+
+9
+
+A.
+
+10
+
+The Prior Art Does Not Render Obvious any Claim of the '295 Patent ..................7
+1.
+
+The Prior Art Does Not Disclose a Single Set of Recognized Gestures
+for Identical Executable Commands at Both the Operating System
+Level and the Application Level, as Required by the Court's
+Construction of Claims 1, 3, 4, 6, and 12 ....................................................8
+
+2.
+
+Adding Proximity Sensing to the FIDS System, as Required by Claims
+3 and 12, Would Detract from Its Overall Performance and Therefore
+Would Not Have Been Obvious ..................................................................9
+
+3.
+
+Adding Compound Gestures to FIDS Cuts Against the Touted
+Simplicity and Familiarity of the FIDS System's In-Place Gesture Set.....11
+
+4.
+
+The FIDS System's Simple and Familiar Gestures Would Not
+Require—and the Paper Teaches Away from—Displaying a Shape
+Representing the Actual Gesture ...............................................................12
+
+5.
+
+The FIDS Paper Considered but Rejected the Coleman Paper..................13
+
+6.
+
+This Court's Previous Order and Defendants' Previous Statements
+Preclude Finding that It Would Have Been Obvious to Add a RearMounted Digitizer to the FIDS System, as Required by the Court's
+Claim Construction for each of the Asserted Claims.................................14
+
+7.
+
+Defendants Fail to Identify any Prior Art Having a Pen-Position
+Digitizer Co-Processor, as Required by the Court's Construction for
+each of the Asserted Claims.......................................................................16
+
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23 V.
+
+CONCLUSION..................................................................................................................17
+
+24
+25
+26
+27
+28
+LUCENT'S OPPOSITION TO MICROSOFT'S SUMMARY JUDGMENT
+BRIEF RE OBVIOUSNESS OF U.S. PATENT NO. 5,347,295
+
+i
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 153
+
+Filed 12/14/2007
+
+Page 3 of 22
+
+TABLE OF AUTHORITIES
+
+1
+2 Cases
+
+3 Amazon.com, Inc. v. Barnesandnoble.com, Inc.,
+239 F.3d 1343 (Fed. Cir. 2001) ...................................................................................................... 15
+4
+Anderson v. Liberty Lobby, Inc.,
+5
+477 U.S. 242 (1986)...................................................................................................................... 4, 5
+6
+Beckson Marine, Inc. v. NFM, Inc.,
+292 F.3d 718 (Fed. Cir. 2002) .......................................................................................................... 6
+7
+8 Caterpillar Inc. v. Sturman Indus., Inc.,
+387 F.3d 1358 (Fed. Cir. 2004) ....................................................................................................... 4
+9
+Eli Lilly and Co. v. Barr Labs., Inc.,
+10
+251 F.3d 955 (Fed. Cir. 2001) .......................................................................................................... 5
+11
+
+Forest Labs., Inc. v. Ivax Pharms., Inc.,
+501 F.3d 1263 (Fed. Cir. 2007) .................................................................................................... 5, 6
+12
+13 Graham v. John Deere Co. of Kansas City,
+383 U.S. 1 (1966).......................................................................................................................... 5, 6
+14
+Hamilton v. State Farm Fire & Cas. Co.,
+15
+270 F.3d 778 (9th Cir. 2001) .......................................................................................................... 15
+16
+
+In re Kahn,
+441 F.3d 977 (Fed. Cir. 2006) .......................................................................................................... 6
+17
+18 KSR Int'l. Co. v. Teleflex Inc.,
+127 S. Ct. 1727 (2007).................................................................................................................. 6, 7
+19
+Lucent Techs. Inc. v. Gateway, Inc.,
+20
+509 F. Supp. 2d 912 (S.D. Cal. 2007)............................................................................................... 6
+21 Mercedes-Benz of N. Am., Inc. v. Hartford Acc. & Indem. Co.,
+974 F.2d 1342 (9th Cir. 1992) .......................................................................................................... 5
+22
+23 Pfizer, Inc. v. Apotex, Inc.,
+480 F.3d 1348 (Fed. Cir.),
+24
+cert. denied, 128 S. Ct. 110 (2007)................................................................................................... 5
+25 PharmaStem Therapeutics, Inc. v. ViaCell, Inc.,
+491 F.3d 1342 (Fed. Cir. 2007) .................................................................................................... 6, 7
+26
+Schumer v. Laboratory Computer Sys., Inc.,
+27
+308 F.3d 1304 (Fed. Cir. 2002) ........................................................................................................ 5
+28
+LUCENT'S OPPOSITION TO MICROSOFT'S SUMMARY JUDGMENT
+BRIEF RE OBVIOUSNESS OF U.S. PATENT NO. 5,347,295
+
+ii
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 153
+
+Filed 12/14/2007
+
+Page 4 of 22
+
+Takeda Chem. Indus., Ltd. v. Alphapharm Pty., Ltd.,
+492 F.3d 1350 (Fed. Cir. 2007) .................................................................................................... 6, 7
+
+2
+
+United States v. Boyce,
+148 F. Supp. 2d 1069 (S.D. Cal. 2001),
+3
+aff’d, 36 Fed. Appx. 612 (9th Cir. 2002) .......................................................................................... 4
+4
+5 Statutes
+6 35 U.S.C. § 103(a) ................................................................................................................................ 5
+7
+8
+
+Rules
+Fed. R. Civ. P. 56 (c) ............................................................................................................................ 4
+
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+LUCENT'S OPPOSITION TO MICROSOFT'S SUMMARY JUDGMENT
+BRIEF RE OBVIOUSNESS OF U.S. PATENT NO. 5,347,295
+
+iii
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 153
+
+Filed 12/14/2007
+
+Page 5 of 22
+
+1 I.
+
+INTRODUCTION
+
+2
+
+This Court should deny defendants' summary judgment motion that the asserted claims of
+
+3 U.S. Patent No. 5,347,295 ("the '295 patent") are invalid for obviousness. To be entitled to summary
+4 judgment, defendants must show there is no genuine issue of material fact as to the obviousness of
+5 the asserted claims.
+
+Here, there are numerous disputed factual issues that go to the heart of
+
+6 defendants' obviousness contentions for each of the ten different asserted claims.
+
+Indeed,
+
+7 defendants' own expert acknowledges that his opinions on obviousness are "in many instances,
+8 factually challenged by Lucent and its expert, Mr. Ward." (Ex. 1, 11/9/07 Kelly Dep. at 58). Simply
+9 put, defendants' obviousness contentions boil down to a classic factual dispute regarding the factual
+10 inquiries that underlie the obviousness inquiry.
+11
+
+It bears emphasis that defendants acknowledge that no prior art reference discloses all the
+
+12 limitations in any of the asserted claims—each of which cover different aspects of the innovative
+13 '295 patent pen computing system. Instead, defendants hope to fill the holes in their invalidity
+14 analysis with a patchwork of different prior art references and conclusory references to the
+15 obviousness of the differences. But the evidence does not support defendants' position—let alone
+16 demonstrate invalidity by clear and convincing evidence. For example:
+17
+
+1.
+
+The prior art does not disclose a single set of gestures for identical executable
+commands at both the operating system level and the application level as required by
+the Court's constructions for claims 1, 3, 4, 6, and 12 of the '295 patent;
+
+2.
+
+Adding proximity sensing to the FIDS system, as required by claims 3 and 12 of the
+'295 patent, would have been expected to reduce that system's overall performance
+and therefore would not have been obvious;
+
+3.
+
+Adding compound gestures to the FIDS system, as required by claims 39 and 40 of
+the '295 patent, would have moved away from the touted simplicity and familiarity of
+the FIDS system's in-place gesture set and therefore would not have been obvious;
+
+4.
+
+The FIDS system's simple and familiar gesture set would not require, nor does the
+paper even suggest, displaying on the FIDS screen a shape representing the actual
+gesture made by a user of the computer as required by claims 6 and 43 of the '295
+patent; and
+
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+LUCENT'S OPPOSITION TO MICROSOFT'S SUMMARY JUDGMENT
+BRIEF RE OBVIOUSNESS OF U.S. PATENT NO. 5,347,295
+
+1
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+5.
+
+1
+2
+
+Document 153
+
+Filed 12/14/2007
+
+Page 6 of 22
+
+The FIDS Paper considered, but rejected, the teachings of the Coleman paper
+including the teaching that the direction of motion of said gesture is associated with
+the predetermined action as required by claim 46 of the '295 patent.
+
+3
+
+For at least these reasons, defendants' motion for summary judgment should be denied.
+
+4 II.
+
+COUNTER-STATEMENT OF FACTS
+
+5
+6
+7
+
+A.
+
+The Invention of the '295 Patent
+
+At the time of the '295 patent invention, most computers were operated, with rare exception,
+
+8 by a keyboard and a mouse. (Ex. 2, 3/31/06 Ward Expert Report ¶ 25). Pen-based computers,
+9 where the user inputs information by marking on the screen with a stylus, had been introduced, but
+10 the technology was unrefined and the operation and design presented many challenges. People in
+11 the industry were addressing the problem of handwriting to replace the keyboard for text input inside
+12 specific applications, but no one had considered controlling the computer overall with a stylus and
+13 gestures, let alone the many problems presented by such a concept. (Id.)
+14
+
+Hence, the '295 patent disclosed a new class of computer that is controlled by a stylus
+
+15 executing gestures on the computer screen. (Ex. 3, '295 Patent Abstract; col. 1:6-9; FIG. 1). For
+16 example, the computer is controllable both inside applications and at the operating system level
+17 through gestures and printed characters drawn on the display screen using the electronic stylus. (Id.
+18 at col. 7:4-6). This new type of computer used an electronically sensed pen or stylus and digitizer to
+19 track the location of the pen or stylus as the primary input device. (Id.) The primary means of
+20 controlling the computer: a set of numerous gestures drawn with the stylus over almost any object
+21 visible on the display and recognized by a handwriting recognition algorithm. (Id. at col. 3:22-24).
+22
+23
+24
+25
+26
+27
+28
+LUCENT'S OPPOSITION TO MICROSOFT'S SUMMARY JUDGMENT
+BRIEF RE OBVIOUSNESS OF U.S. PATENT NO. 5,347,295
+
+2
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 153
+
+Filed 12/14/2007
+
+Page 7 of 22
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+The hardware for the pen-computer described in the '295 patent includes a stylus 4 with a tip
+
+11 6 which is utilized with the computer 2. (Ex. 3, '295 Patent at col. 6:16-18). Liquid crystal display
+12 10 is mounted as the front surface of the unit. (Id. at col. 6:20-21). Mounted behind the display is
+13 the pen position digitizer 20. (Id. at col. 6:21-22). The digitizer 20 tracks the x and y coordinates of
+14 the electronic ink which is then analyzed by a handwriting recognition algorithm. (Id.) Also
+15 included is a pen-position digitizer co-processor 90 (not shown) programmed with the handwriting
+16 recognition algorithm. (Id. at 6:36-37). The stylus 4 contains a radio frequency inductor/capacitor
+17 circuit and the present invention senses when the stylus is in proximity to or in contact with the front
+18 surface of the computer. (Id. at col. 6:26-27 and col. 6:61-63).
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+LUCENT'S OPPOSITION TO MICROSOFT'S SUMMARY JUDGMENT
+BRIEF RE OBVIOUSNESS OF U.S. PATENT NO. 5,347,295
+
+3
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+
+B.
+
+Document 153
+
+Filed 12/14/2007
+
+Page 8 of 22
+
+The Asserted Claims Cover Several Different Aspects of the Pen
+Computer System
+
+The claims of the '295 patent cover many different aspects and features of a pen computer
+system. Each asserted independent claim of the '295 patent includes a means-plus-function claim
+element that—per the Court's claim construction—requires circuitry for performing the function of
+"detecting a stroke of the stylus tip in contact with the screen." (Ex. 3, '295 Patent at col. 18:5-7,
+20:28-30, 20:52-54). The Court identified the corresponding structure as "[p]en position digitizer
+20, as shown in figs. 2 and 3 and described in the specification at col. 6:21-22; and col. 6:53-68."
+(Ex. 4, Order Construing Claims for United States Patent No. 5,347,295 at 3, 7, and 9; Ex. 3, '295
+Patent). Each of these claims go on, however, to claim different features and characteristics of the
+system. For instance, one of the elements of claim 39 requires "recognizing at least a first gesture, a
+second gesture, and a third gesture comprising said first and second gestures," which, generally
+speaking, relates to a type of compound gesture recognition. Claim 41 requires a "detecting means
+for detecting a direction of motion of the creation of said gesture," which, again generally speaking,
+relates to a type of directional gesture recognition. The dependent claims similarly claim various
+aspects of a pen computer system, including, by way of example, a "means for detecting proximity
+of the stylus tip to the screen" (claim 3) and a "means . . . for displaying on said screen a shape
+representing the actual gesture made by a user" (claim 6).
+In their attempt to show that the claims of the '295 patent were merely obvious combinations
+of prior art, defendants obscure many of these claim elements and cobble together snippets from
+prior art without any explanation for how the resulting combinations would have been obvious to a
+person of ordinary skill in the art at the time of the invention. As this Court's claim construction
+makes clear, the '295 patent does not claim pen computer systems or gesture recognition generally.
+Rather, each asserted claim is directed to specific, novel, and non-obvious features that can be
+incorporated in a pen computer system. Several of these elements are completely absent from
+defendants' prior art, and others are present only in ways that would not have been obvious to
+combine.
+
+27
+28
+LUCENT'S OPPOSITION TO MICROSOFT'S SUMMARY JUDGMENT
+BRIEF RE OBVIOUSNESS OF U.S. PATENT NO. 5,347,295
+
+4
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 153
+
+Filed 12/14/2007
+
+Page 9 of 22
+
+1 III.
+
+LEGAL STANDARD
+
+2
+
+A.
+
+3
+
+Summary judgment is appropriate only when "there is no genuine issue as to any material
+
+Summary Judgment
+
+4 fact and . . . the moving party is entitled to a judgment as a matter of law." Caterpillar Inc. v.
+5 Sturman Indus., Inc., 387 F.3d 1358, 1373 (Fed. Cir. 2004) (quoting Fed. R. Civ. P. 56 (c)). "The
+6 evidence of the non-movant is to be believed, and all justifiable inferences are to be drawn in his
+7 favor." Id. (quoting Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 255 (1986)). Where, as here,
+8 "the moving party bears the burden of proof at trial, it cannot obtain summary judgment unless it
+9 presents evidence so compelling that no rational jury would fail to award judgment for the moving
+10 party." United States v. Boyce, 148 F. Supp. 2d 1069, 1080 (S.D. Cal. 2001), aff'd, 36 Fed. Appx.
+11 612 (9th Cir. 2002). Where the evidence presents a close question that could be resolved either way
+12 by a jury, summary judgment should be denied. See Mercedes-Benz of N. Am., Inc. v. Hartford Acc.
+13 & Indem. Co., 974 F.2d 1342 (9th Cir. 1992).
+14
+
+A summary judgment determination must also be guided by the appropriate burden of proof.
+
+15 If the Court determines that a reasonable jury applying the proper burden of proof—in this case
+16 clear-and-convincing evidence—could find for the non-movant, then there exists a genuine issue of
+17 material fact that precludes granting of summary judgment. See Anderson, 475 U.S. at 255.
+18
+
+B.
+
+Obviousness
+
+19
+
+Because every patent is presumed valid, accused infringers face a "high burden of showing
+
+20 invalidity on summary judgment." Schumer v. Lab. Computer Sys., Inc., 308 F.3d 1304, 1315 (Fed.
+21 Cir. 2002). "[A] moving party seeking to invalidate a patent at summary judgment must submit
+22 clear and convincing evidence of invalidity so that no reasonable jury could find otherwise." Eli
+23 Lilly and Co. v. Barr Labs., Inc., 251 F.3d 955, 962 (Fed. Cir. 2001) (emphasis added). If evidence
+24 is presented establishing a prima facie case of invalidity, the non-movant must come forward with
+25 evidence to support a finding of validity, but "the ultimate burden of proving invalidity remains with
+26 the challenger throughout the litigation."
+
+Pfizer, Inc. v. Apotex, Inc., 480 F.3d 1348, 1360 (Fed.
+
+27 Cir.), cert. denied, 128 S. Ct. 110 (2007). A claimed invention can be found obvious only "if the
+28
+
+differences between the subject matter sought to be patented and the prior art are such that the
+LUCENT'S OPPOSITION TO MICROSOFT'S SUMMARY JUDGMENT
+BRIEF RE OBVIOUSNESS OF U.S. PATENT NO. 5,347,295
+
+5
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 153
+
+Filed 12/14/2007
+
+Page 10 of 22
+
+1 subject matter as a whole would have been obvious at the time the invention was made to a person
+2 having ordinary skill in the art." 35 U.S.C. § 103(a). Obviousness is ultimately a question of law
+3 based on underlying determinations of fact. Forest Labs., Inc. v. Ivax Pharms., Inc., 501 F.3d 1263,
+4 1269 (Fed. Cir. 2007).
+5
+
+Courts have long recognized the need to "guard against slipping into use of hindsight" when
+
+6 considering whether an invention would have been obvious at the time of the invention. Graham v.
+7 John Deere Co. of Kansas City, 383 U.S. 1, 36 (1966) (internal quotations omitted). To combat the
+8 tendency toward hindsight, Graham requires courts to focus on several underlying factual inquiries,
+9 including "four general types, all of which must be considered by the trier of fact: (1) the scope and
+10 content of the prior art; (2) the level of ordinary skill in the art; (3) the differences between the
+11 claimed invention and the prior art; and (4) any objective indicia of nonobviousness." Id. Earlier
+12 this year, the United States Supreme Court reaffirmed the primacy of those factors in determining
+13 whether a patent is invalid for obviousness. See KSR Int'l. Co. v. Teleflex Inc., 127 S. Ct. 1727, 1734
+14 (2007) (citing Graham, 383 U.S. at 17-18). Indeed, the trier of fact must consider all four of the
+15 Graham factors when assessing obviousness, Forest Labs., 501 F.3d at 1269. Under Graham's
+16 fourth factor, courts are to "look at any secondary considerations that would prove instructive,"
+17 including "identify[ing] a reason that would have prompted a person of ordinary skill in the relevant
+18 field to combine elements in the way the claimed new invention does." KSR, 127 S. Ct. at 1739,
+19 1741.1
+20
+21
+22
+23
+24
+25
+26
+27
+
+Defendants misstate the proper legal standard for obviousness, mischaracterize the impact of the
+Supreme Court's KSR decision, and gloss over the heavy burden of proof they face on summary
+judgment. KSR did not render a sweeping change in the law of obviousness. Rather, KSR
+reaffirmed the Graham framework as the touchstone for an obviousness analysis. Takeda Chem.
+Indus., Ltd. v. Alphapharm Pty., Ltd., 492 F.3d 1350, 1355 (Fed. Cir. 2007) (noting that KSR held
+that the Graham factors "still control an obviousness inquiry"); Lucent Techs. Inc. v. Gateway, Inc.,
+509 F. Supp. 2d 912, 934 (S.D. Cal. 2007) ("KSR also reaffirmed familiar principles set out in
+Graham."). Also contrary to defendants' view, the Supreme Court acknowledged the continued
+relevance of the teaching, suggestion, motivation ("TSM") principle. KSR, 127 S. Ct. at 1741.
+1
+
+28
+LUCENT'S OPPOSITION TO MICROSOFT'S SUMMARY JUDGMENT
+BRIEF RE OBVIOUSNESS OF U.S. PATENT NO. 5,347,295
+
+6
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 153
+
+Filed 12/14/2007
+
+Page 11 of 22
+
+"[R]ejections on obviousness grounds cannot be sustained by mere conclusory statements;
+
+2 instead, there must be some articulated reasoning with some rational underpinning to support the
+3 legal conclusion of obviousness." KSR, 127 S. Ct. at 1741 (quoting In re Kahn, 441 F.3d 977, 988
+4 (Fed. Cir. 2006)). Thus, "the burden falls on the patent challenger to show by clear and convincing
+5 evidence that a person of ordinary skill in the art would have had reason to attempt to make the
+6 composition or device, or carry out the claimed process, and would have had a reasonable
+7 expectation of success in doing so." PharmaStem Therapeutics, Inc. v. ViaCell, Inc., 491 F.3d 1342,
+8 1360 (Fed. Cir. 2007) (citing KSR, 127 S. Ct. at 1740). In light of these mandated factual inquiries,
+9 "a district court properly may grant summary judgment on obviousness . . . only when the[se]
+10 underlying factual inquiries present no lingering genuine issues." Beckson Marine, Inc. v. NFM,
+11 Inc., 292 F.3d 718, 723 (Fed. Cir. 2002).
+12
+
+In that regard, the Supreme Court has "acknowledged the importance of identifying 'a reason
+
+13 that would have prompted a person of ordinary skill in the relevant field to combine the elements in
+14 the way the claimed new invention does' in an obviousness determination." Takeda, 492 F.3d at
+15 1356-57 (quoting KSR, 127 S. Ct. at 1731). Accordingly, "a patent composed of several elements is
+16 not proved obvious merely by demonstrating that element was, independently, known in the prior
+17 art." KSR, 127 S. Ct. at 1731. For example, "combining elements that work together 'in an
+18 unexpected and fruitful manner' would not have been obvious." PharmaStem, 491 F.3d at 1360
+19 (quoting KSR, 127 S. Ct. at 1740). Moreover, "when the prior art teaches away from combining
+20 certain known elements, discovery of a successful means of combining them is more likely to be
+21 nonobvious." KSR, 127 S. Ct at 1740.
+22 IV.
+23
+24
+25
+
+ARGUMENT
+A.
+
+The Prior Art Does Not Render Obvious any Claim of the '295 Patent
+
+Defendants' invalidity analysis completely ignores critical claim elements that are missing
+
+26 from the prior art and defendants fail to address the fact that the prior art teaches away from their
+27 cobbled-together combinations. Accordingly, the prior art cannot render obvious the '295 patent.
+28
+LUCENT'S OPPOSITION TO MICROSOFT'S SUMMARY JUDGMENT
+BRIEF RE OBVIOUSNESS OF U.S. PATENT NO. 5,347,295
+
+7
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+1.
+
+Document 153
+
+Filed 12/14/2007
+
+Page 12 of 22
+
+The Prior Art Does Not Disclose a Single Set of Recognized
+Gestures for Identical Executable Commands at Both the
+Operating System Level and the Application Level, as Required
+by the Court's Construction of Claims 1, 3, 4, 6, and 12
+
+Asserted claim 1, and dependent claims 3, 4, 6, and 12 include the limitation:
+means coupled to said computer for implementing each said
+recognized gesture, said implementing means including means for
+performing a predetermined action associated with each said
+predefined shape, said predetermined action being determined by the
+context in which said gesture was used, including a first context in
+which said action is executed upon an operating system level object
+and a second context in which said action is executed upon an
+application level object.
+(Ex. 3, '295 patent, col. 18:19-28). The Court's claim construction Order states "[t]his paragraph
+specifically claims the system's design allowing use of a single set of gestures for identical
+executable commands at both the operating system level and the application level." (Ex. 4, Order
+Construing Claims For U.S. Pat. 5,347,295 at 5). Significantly, the gestures in this limitation are
+"said recognized gesture[s]," as set forth in the previous claim limitation:
+means coupled to said computer for recognizing a plurality of said
+gestures, said recognizing means including means for comparing each
+said gesture to at least one predefined shape.
+
+17 (Id. at col. 18:15-18). Accordingly, to qualify as a "recognized gesture" within the meaning of this
+18 claim, the gesture must be recognized by "comparing each said gesture to at least one predefined
+19 shape." (Id.; Ex. 4, Order Construing Claims For U.S. Pat. No. 5,347,295 at 4 citing handwriting
+20 recognition algorithms that utilize shape recognition of, for example, symbols or marks).
+21
+
+The Levine Patent describes a computer system with a graphical user interface that allows
+
+22 use of a stylus and digitizing tablet, including a "touch-and-lift" operation, but the reference lacks
+23 many of the elements of the asserted claims. Contrary to defendants' view, the Levine Patent fails to
+24 disclose recognized gestures within the meaning of the claims. (Ex. 3, '295 patent, col. 18:15-18;
+25 Ex. 4, Order Construing Claims For U.S. Pat. No. 5,347,295 at 4; Ex. 5, Levine Patent at 10:20-44;
+26 Ex. 6, 10/12/07 Ward Expert Report ¶¶ 43-46). Defendants mistakenly refer to the Levine Patent's
+27 touch-and-lift operation as a "gesture" within the meaning of the claims. That operation is not a
+28
+
+recognized gesture within the meaning of the claims because in the touch-and-lift operation there is
+LUCENT'S OPPOSITION TO MICROSOFT'S SUMMARY JUDGMENT
+BRIEF RE OBVIOUSNESS OF U.S. PATENT NO. 5,347,295
+
+8
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 153
+
+Filed 12/14/2007
+
+Page 13 of 22
+
+1 no recognition of shapes, as required by the claim. (Ex. 5, Levine Patent at 10:20-44). In the
+2 context of the touch-and-lift operation, the Levine Patent states:
+3
+4
+5
+6
+7
+
+A "touch and lift" operation is used for selecting an item exhibited on
+display unit 18. Preferably, once the writing tip end 30 or the erasure
+end 28 makes contact with the tablet surface, the "touch" part of the
+operation is defined, but the user must lift the stylus end 28, 30 from
+the tablet surface within the succeeding second or so to define the
+"lift" portion of the operation. If the user delays lifting stylus end 28,
+30, then the "touch and lift" operation is not invoked, and no effect
+results.
+
+8 (Id. at col. 10:26-35). The touch and lift operation is defined by the stylus tip's contact and departure
+9 from the screen, and time. (Id.) There is no recognition of shapes involved in defining the Levine
+10 Patent's touch and lift operation. (Id.) Hence, the touch and lift operation is not a "recognized
+11 gesture." (Id.; Ex. 6, 10/12/07 Ward Expert Report ¶¶ 43-46).
+12
+
+Thus, even if it were obvious to combine the Levine Patent with FIDS, which it is not, doing
+
+13 so would not lead to the claimed invention. Claims 1, 3, 4, 6, and 12 are not rendered obvious by the
+14 combination of the FIDS Paper and the Levine Patent. Accordingly, defendants are not entitled to
+15 summary judgment of obviousness as to these claims.
+16
+17
+18
+19
+20
+21
+
+2.
+
+Adding Proximity Sensing to the FIDS System, as Required by
+Claims 3 and 12, Would Detract from Its Overall Performance
+and Therefore Would Not Have Been Obvious
+
+Asserted claim 3 includes the limitation:
+said second detecting means includes means for detecting proximity of
+the stylus tip to the screen; and said apparatus further includes means
+coupled to said computer for displaying on said display an indicator of
+the proximity of the stylus tip to the screen.
+
+22 (Ex. 3, '295 Patent at col. 18:32-36). The FIDS Paper describes a prototype tablet (flat panel display
+23 with front-mounted digitizer) and a prototype text editing application. The Taguchi Patent describes
+24 a rear-mounted proximity sensing digitizer. Neither the FIDS Paper nor the Taguchi Patent disclose
+25 all of the elements of the '295 claims. Nevertheless, defendants argue that it would have been
+26 obvious to combine the proximity-sensing-digitizer disclosed by Taguchi with the system disclosed
+27 by the FIDS Paper. (Microsoft Br. at 7).
+28
+LUCENT'S OPPOSITION TO MICROSOFT'S SUMMARY JUDGMENT
+BRIEF RE OBVIOUSNESS OF U.S. PATENT NO. 5,347,295
+
+9
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 153
+
+Filed 12/14/2007
+
+Page 14 of 22
+
+In that regard, defendants argue that "[t]he FIDS Paper discusses the problems of parallax,
+
+2 [Ex. B at 74]; rear-mounted proximity sensing digitizers—like that in the Taguchi Patent—
+3 indisputably reduce parallax problems, [Ex. L at 90:2-91:2-4]." (Id.) However, defendants' only
+4 support for that proposition is a conclusory statement by their own expert. (Microsoft Br. at 7 (citing
+5 Ex. 1, 11/9/07 Kelly Dep. at 90:2-91:4)). The proposition is simply incorrect.
+6
+
+In fact, proximity sensing digitizers potentially increase the problem of parallax. The FIDS
+
+7 Paper states that "parallax problems are caused by the distance between the sensing mechanism and
+8 the underlying image." (Ex. 7, FIDS Paper at 74). Dr. Kelly, defendants' own expert, states that "if
+9 you are touching something that is above what you're trying to identify, there is a potential
+10 misconvergence, and that's referred to as 'parallax.'" (Ex. 1, 11/9/07 Kelly Dep. at 90:21-24). When
+11 using a proximity sensing rear-mounted digitizer, the digitizer recognizes or senses the stylus tip
+12 before it contacts the screen, resulting in a potential greater distance between the stylus tip and the
+13 underlying image. In fact, with proximity sensing, the user may attempt to identify an image on the
+14 screen with the tip of the stylus suspended in air above the display screen. Such a situation "might
+15 make parallax errors more apparent, as the tracking cursor would be visibly offset from the actual
+16 position of the stylus tip," potentially making it even more difficult for the user to align the stylus
+17 tip, the tracking cursor, and the underlying image. (Ex. 8, 5/12/06 Ward Expert Report ¶ 87).
+18
+
+Accordingly, it would not have been obvious to add means for detecting proximity of the
+
+19 stylus tip to the screen. The combination of the FIDS Paper and Taguchi Patent do not, therefore,
+20 render obvious claim 3 or 12. Further, as it would not have been obvious to add proximity sensing
+21 to the FIDS system, it likewise would not have been obvious to include means coupled to said
+22 computer for displaying an indicator of the proximity of the stylus tip to the screen.2 Accordingly,
+23 defendants are not entitled to summary judgment of obviousness of claim 3 or 12.
+24
+25
+2 Dependent claim 12 calls for "means for terminating display of said indicator when the stylus tip
+26 departs from proximity to the screen." It likewise would not have been obvious to include this
+27 feature for the same reasons discussed above.
+
+28
+LUCENT'S OPPOSITION TO MICROSOFT'S SUMMARY JUDGMENT
+BRIEF RE OBVIOUSNESS OF U.S. PATENT NO. 5,347,295
+
+10
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+3.
+
+1
+2
+3
+
+Document 153
+
+Filed 12/14/2007
+
+Page 15 of 22
+
+Adding Compound Gestures to FIDS Cuts Against the Touted
+Simplicity and Familiarity of the FIDS System's In-Place Gesture
+Set
+
+Asserted claim 39 and its dependent claim 40 include the limitation:
+means for . . . recognizing at least a first gesture, a second gesture, and
+a third gesture comprising said first and second gestures
+
+4
+
+5 (Ex. 3, '295 patent at col. 20:31-38). Defendants admit that the FIDS reference does not disclose this
+6 limitation. (Microsoft Br. at 9). Defendants argue, based on their expert's analysis, that this
+7 limitation would have been obvious in light of the FIDS Paper and the Buxton Paper. (Microsoft Br.
+8 at 9 citing Kelly Expert Report (Ex. D) at 176-77, 33-39, and 84-94). The Buxton Paper provides a
+9 general description of a system with a digitizing tablet for musical notation, but the reference lacks
+10 many elements of the claims.
+11
+
+Defendants argue that because the FIDS Paper is "suitable . . . for exotic and special
+
+12 application" it would have been obvious to add additional gestures to the system and to combine the
+13 FIDS Paper and the Buxton Paper. (Ex. 7, FIDS Paper at 75-76). That proposition reads far too
+14 much into what is no more than a vague rumination in the FIDS Paper. (Id.) What the FIDS Paper
+15 actually discloses is that "many existing applications could be ported to the FIDS system" and
+16 "benefit from the new style of interaction" (Id. at 75)—and thereby use the FIDS system's in-place
+17 gesture set.
+18
+
+Defendants ignore that the FIDS Paper emphasizes the importance of simplicity and
+
+19 familiarity in its already-existing gesture set. (Id. at 81). Specifically, the FIDS Paper states
+20 "similarity with existing techniques is important in a new computer tool. As proof correction
+21 marks—already familiar to many—are used for basic editing tasks, the learning time for this system
+22 should be less than for the usual text-editor." (Id.) Also, "recall of the methods and the commands
+23 should be easier." (Id.) Additionally, "[t]he naturalness of the marks, we believe, prevents some
+24 errors due to faulty recall." (Id.)
+25
+
+Indeed, FIDS does not contemplate—in fact it discourages—adding a different, more
+
+26 complicated, and less familiar set of gestures such as the musical notations disclosed in Buxton, to
+27 the already-existing text editing and proof reading gesture set of FIDS. (Ex. 6, 10/12/07 Ward
+28
+LUCENT'S OPPOSITION TO MICROSOFT'S SUMMARY JUDGMENT
+BRIEF RE OBVIOUSNESS OF U.S. PATENT NO. 5,347,295
+
+11
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 153
+
+Filed 12/14/2007
+
+Page 16 of 22
+
+1 Expert Report ¶ 128). These facts teach against combining the Buxton Paper with the FIDS Paper
+2 and raise genuine issues of material fact as to the obviousness of these claims.
+3
+
+In light of these facts, it would not have been obvious to one of ordinary skill in the art to add
+
+4 the musical notation gestures of Buxton to the simple and familiar text editing gesture set disclosed
+5 in the FIDS Paper. Accordingly, defendants are not entitled to summary judgment of obviousness of
+6 claim 39 or 40.
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+4.
+
+The FIDS System's Simple and Familiar Gestures Would Not
+Require—and the Paper Teaches Away from—Displaying a
+Shape Representing the Actual Gesture
+
+Asserted dependent claims 6 and 43 include the limitation:
+means coupled to said computer for displaying on said screen a shape
+representing the actual gesture made by a user of the computer
+(Ex. 3, '295 Patent at col. 18:43-46 and col. 21:10-12). Defendants state that it would have been
+obvious to combine this feature from Taguchi with the FIDS system because FIDS "discusses
+sketching figures and patterns on the screen, [Ex. B at 78], which would necessarily require
+displaying on the screen the actual marks drawn." (Microsoft Br. at 8 (citing Ex. 7, FIDS Paper at
+78)). Defendants' conclusion that a discussion of sketching figures and patterns on the screen would
+"necessarily require" displaying the actual shape drawn relies on an unsupported leap of reasoning.
+First, the FIDS Paper in no way suggests "displaying on [the FIDS] screen a shape
+representing the actual gesture made by a user," as specifically required by claims 6 and 43. (Ex. 7,
+FIDS Paper at 78; see also Ex. 3, '295 Patent at col. 18:43-46 and col. 21:10-12). Second, even if
+the discussion of sketching figures and patterns on the screen could somehow be interpreted to
+necessarily require displaying the shape, which it does not, the FIDS Paper itself teaches away from
+such a technique. (Ex. 7, FIDS Paper at 78). The authors explain that "[t]he patterns drawn would
+be interpreted by software using pattern recognition methods and converted to the primitives
+intended. However, as a pattern recognition problem this is quite complicated." (Id.) (emphasis
+added). Third, the FIDS Paper discloses a limited set of proof correction marks "already familiar to
+many" and states that "recall of the methods and commands should be eas[y]." (Ex. 7, FIDS Paper at
+
+28
+LUCENT'S OPPOSITION TO MICROSOFT'S SUMMARY JUDGMENT
+BRIEF RE OBVIOUSNESS OF U.S. PATENT NO. 5,347,295
+
+12
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 153
+
+Filed 12/14/2007
+
+Page 17 of 22
+
+1 81). A simple gesture set "already familiar to many" and easily recalled by the users simply would
+2 not require displaying on the screen the shape representing the actual gesture. (Ex. 6, 10/12/07 Ward
+3 Expert Report ¶ 120).
+4
+
+These facts ground defendants before they can make their leap as to the obviousness of these
+
+5 claims. Indeed, these facts teach away from the claimed limitation and at a minimum raise genuine
+6 issues of material fact as to the obviousness of these claims. Therefore it would not have been
+7 obvious to combine the FIDS Paper and Taguchi Patent, and defendants are not entitled to summary
+8 judgment of obviousness of claims 6 and 43.
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+
+5.
+
+The FIDS Paper Considered but Rejected the Coleman Paper
+
+Asserted dependent claim 46 includes the limitation:
+wherein [the] direction of motion of [the] gesture is associated with
+[the] predetermined action.
+(Ex. 3, '295 Patent at col. 22:9-11). Defendants argue it would have been obvious to combine the
+teachings of the Coleman Paper with the FIDS Paper and that the resulting combination renders
+claim 46 obvious. (Microsoft Br. at 11). The Coleman Paper describes a system for text editing
+using a stylus to draw proofreader's symbols. Defendants are wrong that the proffered combination
+would have been obvious.
+First, replacing a "simpl[e]" algorithm that "work[ed] quite well" with a more complicated
+algorithm that included detecting direction of motion and association of the direction with a
+predetermined action simply defies common sense. The FIDS Paper discloses that "[f]or recognition
+of the editing marks drawn on the display, methods used in character recognition were adapted. A
+simple algorithm differentiates between the marks." (Ex. 7, FIDS Paper at 77) ( emphasis added).
+This simple algorithm used filtering and extraction of character features including "starting point and
+ending point of each stroke, minimum and maximum x and y values, and direction angles at the
+beginning of a stroke. Finally, a decision tree is applied to classify the marks." Id.) "Simplicity is
+the main advantage of the algorithm. It works quite well." (Id.)
+
+27
+28
+LUCENT'S OPPOSITION TO MICROSOFT'S SUMMARY JUDGMENT
+BRIEF RE OBVIOUSNESS OF U.S. PATENT NO. 5,347,295
+
+13
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 153
+
+Filed 12/14/2007
+
+Page 18 of 22
+
+Second, the authors of the FIDS Paper considered different algorithms, identified the most
+
+2 promising alternative, and disclosed that the chosen alternative did not involve direction of motion.
+3 (Ex. 7, FIDS Paper at 77). Indeed, the authors of the FIDS Paper considered more advanced
+4 algorithms to make recognition more reliable. But the authors concluded that "[o]ur research
+5 suggests that most promising of the applicable algorithms are methods using the direction angles of
+6 the point sequences forming the strokes." (Id. at 77-78).
+7
+
+Third, and significantly, the authors of the FIDS Paper rejected the teachings of the Coleman
+
+8 Paper. (Id. at 77). The authors stated that "[s]omewhat similar ideas have also been considered by
+9 other researchers." (Id. at 77 (citing the Coleman Paper); see also id. at Reference 26 on p. 82). But
+10 the authors concluded that these other researchers' "approaches have been more limited and without
+11 possibilities offered by the FIDS hardware." (Id. at 77) (emphasis added).
+12
+
+Striving for simplicity, which the authors of the FIDS Paper had with their current design,
+
+13 having considered more complicated algorithms and found most promising one that did not include
+14 direction of motion recognition, and having considered but rejected the Coleman Paper's ideas, the
+15 FIDS Paper simply did not lend itself to any combination—let alone an obvious combination—with
+16 the Coleman Paper. Accordingly, defendants are not entitled to summary judgment of obviousness
+17 of claim 46.
+18
+19
+20
+21
+22
+23
+24
+25
+26
+
+6.
+
+This Court's Previous Order and Defendants' Previous
+Statements Preclude Finding that It Would Have Been Obvious
+to Add a Rear-Mounted Digitizer to the FIDS System, as
+Required by the Court's Claim Construction for each of the
+Asserted Claims
+
+All the asserted claims include the limitation:
+detecting means coupled to said computer for detecting a stroke of the
+stylus tip in contact with the screen.
+(Ex. 3, '295 patent, col. 18:5-7, 20:28-30, 20:52-54; see also Section II.B above). The Court
+construed this means-plus-function limitation to include corresponding structure pen position
+digitizer 20. (Ex. 4, Order Construing Claims For U.S. Pat. No. 5,347,295 at 3, 7, and 9).
+
+27
+28
+LUCENT'S OPPOSITION TO MICROSOFT'S SUMMARY JUDGMENT
+BRIEF RE OBVIOUSNESS OF U.S. PATENT NO. 5,347,295
+
+14
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 153
+
+Filed 12/14/2007
+
+Page 19 of 22
+
+Defendants previously argued to this Court that front-mounted digitizers are the "very
+
+2 antithesis" and "substantial[ly] different[t]" than rear-mounted digitizers. (Ex. 9, Mem. of Points and
+3 Auths. in Supp. of Mot. of Dell, Inc. for Summ. J. on Non-Infringement of the Asserted Claims of
+4 U.S. Pat. No. 5,347,295 at 8-9). Defendants pointed out that certain sections of the specification
+5 "state unequivocally that the disclosed digitizer is of a type that is mounted behind the display:
+6 'Mounted behind the display is the pen position digitizer 20.'" (Ex. 9, Mem. of Points and Auths. In
+7 Supp. Of Mot. Of Dell, Inc. For Summ. J. Of Non-Infringement On the Asserted Claims Of U.S.
+8 Patent No. 5,347,295 To Agulnick et al. at 3) (emphasis in original). In its March 8, 2007 Order the
+9 Court accepted that view and "interpret[ed] the word 'screen' to include the display . . . but not to
+10 include the digitizer." In doing so, the Court effectively amended its claim construction and held
+11 that devices with front-mounted digitizers, such as certain of defendants' accused products, were
+12 beyond the scope of the claims. (Ex. 10, Court's 3/08/07 Order Granting Summary Adjudication of
+13 No Infringement of U.S. Patent No. 5,347,295).
+14
+
+Since the Court's March 8th Order, of course, Lucent has proceeded under the assumption
+
+15 that the parties were bound by that Order. Defendants, however, despite having previously argued—
+16 and won—on this issue, now change their view of the claim language and argue that prior art having
+17 a front-mounted digitizer renders the patent invalid. That is inconsistent with the Court's March 8th
+18 Order. The Court's ruling that a front-mounted digitizer is beyond the scope of the claims—in which
+19 the Court accepted defendants' argument that front-mounted digitizers are the "very antithesis" of
+20 rear-mounted digitizers—cuts against finding that it would have been obvious to combine a front21 mounted digitizer with a device that had a rear-mounted digitizer. Accordingly, to the extent this
+22 Court maintains its prior ruling accepting defendants' position regarding front-mounted digitizers,
+23 summary judgment of obviousness should be denied.
+24
+
+And in any event, defendants should not be allowed to take one position on claim
+
+25 construction when discussing infringement and the opposite position when discussing validity.
+26 Amazon.com, Inc. v. Barnesandnoble.com, Inc., 239 F.3d 1343, 1351 (Fed. Cir. 2001) ("Because the
+27 claims of a patent measure the invention at issue, the claims must be interpreted and given the same
+28
+
+meaning for purposes of both validity and infringement analyses. A patent may not, like a 'nose of
+LUCENT'S OPPOSITION TO MICROSOFT'S SUMMARY JUDGMENT
+BRIEF RE OBVIOUSNESS OF U.S. PATENT NO. 5,347,295
+
+15
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 153
+
+Filed 12/14/2007
+
+Page 20 of 22
+
+1 wax,' be twisted one way to avoid anticipation and another to find infringement." (quotation marks
+2 and citations omitted)); cf. Hamilton v. State Farm Fire & Cas. Co., 270 F.3d 778, 782 (9th Cir.
+3 2001) ("[J]udicial estoppel [invoked by courts] not only to prevent a party from gaining an
+4 advantage by taking inconsistent positions, but also because of general considerations of the orderly
+5 administration of justice and regard for the dignity of judicial proceedings, and to protect against a
+6 litigant playing fast and loose with the courts." (quotation marks and alterations omitted)).
+7
+8
+9
+
+7.
+
+Defendants Fail to Identify any Prior Art Having a Pen-Position
+Digitizer Co-Processor, as Required by the Court's Construction
+for each of the Asserted Claims
+
+All of the asserted claims include means-plus-function claim elements that the Court has
+
+10 construed to include the corresponding structure "pen position digitizer co-processor 90, as shown in
+11 fig. 3 and described in the specification at Col. 6:36-37." (Ex. 4, Order Construing Claims For U.S.
+12 Pat. No. 5,347,295 at 4, 8, and 10). Defendants have failed to identify any disclosure in the prior art
+13 that constitutes a pen position digitizer co-processor.
+14
+
+Defendants argue that "[t]he FIDS paper discloses a central processor programmed with
+
+15 software that determines that a gesture is complete." (Microsoft's Br. at 6) (emphasis in original). In
+16 support of that argument, defendants cite Dr. Kelly's expert report, which, in turn, points to page 74
+17 of the FIDS Paper. But defendants' liberal paraphrasing completely misstates what the FIDS Paper
+18 discloses. All that page 74 of the FIDS Paper discloses is that the "environment for the prototype"
+19 included an "80186-based microcomputer workstation" and a "flat-panel display . . . connected to the
+20 IDC186 graphics controller." The paper says nothing at all about which, if any, of these structures
+21 constitutes a "co-processor . . . with software that determines that a gesture is complete," as required
+22 by the Court's construction. Nor have defendants pointed to any other prior art reference disclosing
+23 specific structure that constitutes a co-processor with software that determines that a gesture is
+24 complete. The question whether modern day central processors could satisfy this limitation—which
+25 is the subject of Mr. Ward's infringement opinion—has no bearing on the question whether
+26 defendants have identified any prior art that actually discloses structure satisfying the co-processor
+27
+28
+LUCENT'S OPPOSITION TO MICROSOFT'S SUMMARY JUDGMENT
+BRIEF RE OBVIOUSNESS OF U.S. PATENT NO. 5,347,295
+
+16
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 153
+
+Filed 12/14/2007
+
+Page 21 of 22
+
+1 limitation of the claims.3 See 35 U.S.C. § 103 (obviousness assessed from the perspective of person
+2 of ordinary skill in the art "at the time the invention was made"). It is defendants' burden to show
+3 that the prior art, whether alone or in combination, discloses each and every claim limitation, and
+4 defendants' bald statements fail to do so.
+5
+6
+
+V.
+
+For the foregoing reasons, Lucent respectfully requests that the Court deny defendants'
+
+7
+8
+
+CONCLUSION
+
+motion for summary judgment.
+
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+Defendants argue that it is inconsistent for Mr. Ward to opine—in his validity report—that the
+21 claims require a "specific component" corresponding to the co-processor, while also opining—in his
+infringement report—that a central processor (CPU) programmed with software could meet this
+22 limitation. (Microsoft Br. at 5-6). There is nothing inconsistent about Mr. Ward's positions. In his
+23 infringement report, Mr. Ward states that "[t]he pen position co-processor is implemented in Tablet
+PC devices as a software virtualization of hardware. Modern CPUs in Tablet PC devices are
+24 sufficiently capable that they can handle running the software on both the main processor (CPU 50
+in the '295 patent) and the pen position digitizer co-processor 90 described in the '295 patent." (Ex.
+25 2, 3/31/06 Ward Expert Report ¶ 119). Thus, in Mr. Ward's view, a modern CPU programmed with
+software as a virtualization of hardware is the "specific component" corresponding to the co26 processor. Defendants have not pointed to any such CPUs in the prior art, nor does it appear that
+27 CPUs were capable of filling this role at the time of the invention.
+3
+
+28
+LUCENT'S OPPOSITION TO MICROSOFT'S SUMMARY JUDGMENT
+BRIEF RE OBVIOUSNESS OF U.S. PATENT NO. 5,347,295
+
+17
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 153
+
+Filed 12/14/2007
+
+Page 22 of 22
+
+1
+2 Dated: December 14, 2007
+3
+4
+5
+6
+7
+
+By:
+
+David A. Hahn
+David A. Hahn, SBN 125784
+HAHN & ADEMA
+501 West Broadway, Suite 1600
+San Diego, California 92101-3595
+Telephone: (619) 235-2100
+Facsimile: (619) 235-2101
+John M. Desmarais (admitted pro hac vice)
+Robert A. Appleby (admitted pro hac vice)
+Gregory F. Corbett (admitted pro hac vice)
+KIRKLAND & ELLIS LLP
+153 East 53rd Street
+New York, New York 10022
+Telephone: (212) 446-4800
+Facsimile: (212) 446-4900
+
+8
+9
+10
+11
+12
+
+Attorneys for Lucent Technologies Inc.
+
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+LUCENT'S OPPOSITION TO MICROSOFT'S SUMMARY JUDGMENT
+BRIEF RE OBVIOUSNESS OF U.S. PATENT NO. 5,347,295
+
+18
+
+Case No. 07-CV-2000-H (CAB)
+
+

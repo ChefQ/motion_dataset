@@ -1,0 +1,709 @@
+Case 6:10-cv-00521-LED Document 492 Filed 08/30/13 Page 1 of 23 PageID #: 15339
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF TEXAS
+TYLER DIVISION
+WI-LAN INC.,
+Plaintiff,
+v.
+
+CIVIL ACTION NO. 6:10–CV–521–LED
+
+ALCATEL–LUCENT USA INC., et al.,
+Defendants.
+
+WI-LAN INC.,
+Plaintiff,
+v.
+
+CIVIL ACTION NO. 6:13–CV–252–LED
+
+HTC CORPORATION, et al.,
+Defendants.
+
+DEFENDANTS’ RESPONSE TO PLAINTIFF’S MOTION FOR NEW TRIAL
+CONCERNING THE NON-INFRINGEMENT OF THE PATENTS-IN-SUIT
+
+Case 6:10-cv-00521-LED Document 492 Filed 08/30/13 Page 2 of 23 PageID #: 15340
+
+TABLE OF CONTENTS
+Table of Authorities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . iv
+Preliminary Statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Legal Standard . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Points and Authorities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+A. Defendants did not “demonize” Wi-LAN. . . . . . . . . . . . . . . . . . . . . . . . . 2
+B. Defendants did not “distort[] the Court’s claim
+construction.” . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+1. Wi-LAN is not entitled to a new trial regarding the
+overlay-code patents. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+a. Defendants’ experts applied the Court’s
+construction for “overlay code” in the overlay-code
+patents. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+i. Whether the accused products could infringe
+without a “separate” overlay code was a fact
+issue, not a claim-construction issue. . . . . . . . . . . . . . . . . . . . . . 3
+ii. The Court did not reject Defendants’ position
+that the additional overlay codes must be
+separate from the orthogonal code. . . . . . . . . . . . . . . . . . . . . . . 5
+iii. Wi-LAN ignores the second part of the Court’s
+claim construction. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+b. Defendants’ experts testified properly regarding the
+“storage” element in the overlay-code patents. . . . . . . . . . . . . . . . . . . 6
+c. Defendants’ experts testified properly regarding the
+“selectively operable” element in the overlay-code
+patents. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+C. Wi-LAN is not entitled to a new trial on the intercellinterference patent. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+1. Defendants’ experts testified properly regarding the
+“indicative of . . . interference” element of the
+intercell-interference patent. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+10
+
+2. Defendants’ experts testified properly regarding the
+“channel pool” element of the intercell-interference
+patent. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+12
+
+– ii –
+
+Case 6:10-cv-00521-LED Document 492 Filed 08/30/13 Page 3 of 23 PageID #: 15341
+
+D. Wi-LAN is not entitled to a new trial on validity and
+damages.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+14
+
+E. The jury was not confused. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+15
+
+Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+15
+
+Certificate of Service . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+19
+
+– iii –
+
+Case 6:10-cv-00521-LED Document 492 Filed 08/30/13 Page 4 of 23 PageID #: 15342
+
+TABLE OF AUTHORITIES
+
+Dawson v. Wal-Mart Stores, Inc.,
+978 F.2d 205 (5th Cir. 1992) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Gov’t Fin. Servs. One Ltd. P’ship v. Peyton Place,
+62 F.3d 767 (5th Cir. 1995) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Morreale v. Downing,
+630 F.2d 286 (5th Cir. 1980) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Sibley v. Lemaire, ,
+184 F.3d 48 (5th Cir. 1999) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+z4 Techs. Inc. v. Microsoft Corp.,
+No. 6:06-cv-142, 2006 U.S. Dist. LEXIS 58374 (Aug. 18, 2006 . . . . . . . . . . . . . . . 1
+
+– iv –
+
+Case 6:10-cv-00521-LED Document 492 Filed 08/30/13 Page 5 of 23 PageID #: 15343
+
+PRELIMINARY STATEMENT
+The jury heard and carefully considered the evidence in this case, weighed the credibility of
+the witnesses, and rendered its verdict. Wi-LAN’s motion for new trial attempts to pick out
+sound bites from the testimony of Defendants’ experts (often invited by Wi-LAN’s own lawyers)
+to suggest that they testified improperly. Had the testimony actually been improper, Wi-LAN’s
+counsel certainly would have objected at trial. But not a single piece of testimony in Wi-LAN’s
+motion was the subject of an objection or request for limiting instruction. Wi-LAN has not met
+the high burden necessary to obtain a new trial and should therefore be denied.
+LEGAL STANDARD
+A motion for new trial under Rule 59 is addressed to the trial court’s discretionary
+authority, and a court’s denial of such a motion will be reversed “only for an abuse of
+discretion.” Gov’t Fin. Servs. One Ltd. P’ship v. Peyton Place, 62 F.3d 767, 774 (5th Cir. 1995).
+A new trial may be granted on evidentiary grounds, but only if, at a minimum, the verdict is
+shown to be against the great weight of the evidence. Dawson v. Wal-Mart Stores, Inc., 978 F.2d
+205, 208 (5th Cir. 1992). The court must view the evidence “in a light most favorable to the
+jury’s verdict, and . . . the verdict must be affirmed unless the evidence points so strongly and
+overwhelmingly in favor of one party that the court believes that reasonable persons could not
+arrive at a contrary conclusion.” Dawson v. Wal-Mart Stores, Inc., 978 F.2d 205, 208 (5th Cir.
+1992). A new trial may also be granted on grounds of prejudicial legal error, such as the
+erroneous admission or exclusion of evidence. z4 Techs. Inc. v. Microsoft Corp., No. 6:06-cv142, 2006 U.S. Dist. LEXIS 58374, at *38 (Aug. 18, 2006 E.D. Tex). Parties moving for new
+trial must demonstrate that any alleged prejudicial error was in fact harmful. Sibley v. Lemaire,
+184 F.3d 481, 487 (5th Cir. 1999). Wi-LAN cannot meet its heavy burden for a new trial.
+Wi-LAN cannot meet this heavy burden.
+–1–
+
+Case 6:10-cv-00521-LED Document 492 Filed 08/30/13 Page 6 of 23 PageID #: 15344
+
+POINTS AND AUTHORITIES
+A. Defendants did not “demonize” Wi-LAN.
+Wi-LAN begins its Motion with strong language, claiming that Defendants “demoniz[ed]”
+Wi-LAN’s licensing model to confuse the jury and generate “an immense prejudice against
+Wi-LAN.” 1 Wi-LAN does not cite any testimony for the alleged “demonization,” but
+presumably it is referring to Defendants’ cross-examination of Wi-LAN’s corporate
+representative with Exhibit DX-435, which set forth Wi-LAN’s “Core Licensing Methodology”
+of filing multiple lawsuits in serial fashion against potential licensees. Before the jury’s verdict,
+Wi-LAN proudly included this document on its website, but after the verdict, it was removed
+from the site for reasons known only to Wi-LAN. In any event, Wi-LAN did not object to the
+exhibit, and thus, any complaint that it was unfairly prejudicial rings hollow.
+B. Defendants did not “distort[] the Court’s claim construction.”
+Wi-LAN accuses Defendants of “distort[ing] the Court’s claim constructions.” 2 Nothing
+could be further from the truth. Indeed, the record clearly shows that each of Defendants’
+technical experts painstakingly and dutifully applied the Court’s constructions in rendering their
+opinions. What Wi-LAN complains about is the experts’ testimony — often elicited by
+Wi-LAN’s own lawyers on cross-examination — providing the details of the experts’ opinions.
+Notably, Wi-LAN did not object at any time during the trial that Defendants or their experts
+were using an incorrect construction for any of the terms about which it now complains, nor did
+it request any limiting instructions. Put plainly, Wi-LAN’s expert, Dr. Wells, simply lost the
+credibility battle.
+
+1
+2
+
+Motion at 1.
+Id.
+–2–
+
+Case 6:10-cv-00521-LED Document 492 Filed 08/30/13 Page 7 of 23 PageID #: 15345
+
+1. Wi-LAN is not entitled to a new trial regarding the overlay-code patents.
+a. Defendants’ experts applied the Court’s construction for “overlay code” in the
+overlay-code patents.
+i. Whether the accused products could infringe without a “separate” overlay
+code was a fact issue, not a claim-construction issue.
+The Court construed “overlay code” as “an additional code that subdivides an orthogonal
+channel.” Memorandum Opinion and Order (May 16, 2012), ECF No. 200, at 14. Contrary to
+Wi-LAN’s contention that “Defendants’ experts grafted a variety of limitations on the asserted
+claims,” 3 Defendants’ experts all applied this construction in forming their opinions. 4 In essence,
+Wi-LAN’s argument improperly characterizes a factual dispute at the trial as a claimconstruction issue. The factual dispute was whether a single OVSF code defined by the HSDPA
+standard was both the claimed “orthogonal code” and the “overlay code,” which the Court
+construed to be an additional code other than the orthogonal code. There was substantial
+evidence that, as a factual matter, a single OVSF code did not meet both required claim
+elements. 5 Thus, the Court should not disturb the jury’s verdict of non-infringement.
+Moreover, Wi-LAN is complaining about testimony that its own lawyers elicited on crossexamination. Even though none of Defendants’ experts had stated any opinions on direct about
+whether an overlay code had to be “separate” from the orthogonal code, Wi-LAN’s counsel
+
+3
+
+Motion at 3.
+See, e.g., Ex. C: Trial Tr. at 17:18–18:1 (July 11, 2013 (Morning Session) (Dr. Wicker));
+id. at 23:24–24:7 (Dr. Wicker); id. at 29:8–19 (Dr. Wicker); id. at 100:12–101:3 (Dr. Wicker); id.
+at 143:11–18 (Dr. Olivier); id. at 146:6–9 (Dr. Olivier); id. at 157:20–158:2 (Dr. Olivier); Ex. D:
+Trial Tr. at 17:4–13 (July 11, 2013 (Afternoon Session) (Dr. Akl)); id. at 20:15–20 (Dr. Akl).
+5
+Ex. C: Trial Tr. at 22:24–26:12 (July 11, 2013 (Morning Session)); id. at 30:19–32:14;
+id. at 81:24–82:6; id. at 100:8–102:7; id. at 117:8–13; id. at 118:11–20; id. at 161:17–23; Ex. D:
+Trial Tr. at 12:19–15:7 (July 11, 2013 (Afternoon Session)).
+4
+
+–3–
+
+Case 6:10-cv-00521-LED Document 492 Filed 08/30/13 Page 8 of 23 PageID #: 15346
+
+opened that door by asking for Dr. Wicker’s and Dr. Olivier’s opinions on the subject. 6 When
+they opined that an “additional code” indicates a code that is separate from the claimed
+orthogonal code, Wi-LAN did not object or seek to exclude these opinions. 7 This presented the
+factual question of whether a single OVSF code could satisfy both claim elements.
+Wi-LAN’s arguments are also undermined by the testimony of one of the inventors, Martin
+Lysejko, 8 who explained the relationship between the orthogonal code and the overlay code. As
+a factual matter, Mr. Lysejko testified that the orthogonal code (or “RW code”) and overlay code
+are “independent of each other.” 9 In short, the jury had and understood the facts necessary to
+determine whether the Defendants’ products infringed the asserted claims and determined that
+the products did not.
+In fact, Wi-LAN’s counsel specifically recognized that it was for the jury to decide whether
+to accept the experts’ opinions. In crossing Dr. Olivier, counsel asked: “[I]f the jury disagrees
+with your reading of that term [“overlay code”], then the jury’s free to disregard your opinions,
+correct?” 10 Now that the jury has disagreed with Wi-LAN’s assertion of fact that a single OVSF
+code can be both an orthogonal code and an additional overlay code, Wi-LAN asks the Court to
+order a new trial by claiming that Defendants applied the improper construction.
+Wi-LAN’s argument is not only incorrect, it is also untimely. If Wi-LAN believed the
+
+6
+
+Ex. C: Trial Tr. at 117:13–15 (July 11, 2013 (Morning Session) (“Q. So you agree with
+me, your opinions are based on your view of the Court’s construction that an additional code
+must be a separate code.”) (Dr. Wicker); id. at 161:17–20 (“Q. Now, so you agree with Dr.
+Wicker that in the definition of overlay code, when it says additional, that the Court’s claim
+construction means separate, correct?) (Dr. Olivier).
+7
+See id. at 117:16–23 (Dr. Wicker); id. at 161:21–23.
+8
+Unlike co-inventor Paul Struhsaker, Mr. Lysejko was not a fact witness being paid by
+Wi-LAN.
+9
+
+Ex. E: Trial Tr. at 11:5–13 (July 12, 2013 (Morning Session)).
+
+10
+
+Ex. C: Trial Tr. at 161:25–162:2 (July 11, 2013 (Morning Session)).
+–4–
+
+Case 6:10-cv-00521-LED Document 492 Filed 08/30/13 Page 9 of 23 PageID #: 15347
+
+testimony it elicited was improper, it should have objected or requested a limiting instruction. It
+did not. 11 Having failed to do so, its current complaints do not justify a new trial. See, e.g.,
+Morreale v. Downing, 630 F.2d 286, 290 (5th Cir. 1980).
+ii. The Court did not reject Defendants’ position that the additional overlay
+codes must be separate from the orthogonal code.
+Wi-LAN also asserts that the Court “expressly reject[ed] Defendants’ position” that the
+additional overlay code is separate from the orthogonal code. 12 Wi-LAN is incorrect. Indeed, the
+opposite is true. As shown by the arguments at the Markman hearing, the claim-construction
+issue was not whether an additional code must be a separate code. Rather, the arguments
+centered on whether the two codes could be applied simultaneously or in series. In fact, the Court
+recognized that having an “additional code” implied a separate code, as it asked: “If it is an
+additional code, then wouldn’t that imply that it was separate?” 13
+The Court’s claim-construction ruling is consistent with this understanding. It explained
+that, although the codes could be applied simultaneously, the overlay code is not the same code
+as the orthogonal code, but rather is “an additional code that subdivides an orthogonal channel.”
+Memorandum Opinion and Order (May 16, 2012), ECF No. 200, at 14. The Court further noted
+that Wi-LAN agreed that “an overlay code is an additional code other than the orthogonal
+code.” Id. (emphasis added).
+Wi-LAN’s trial position that a single OVSF code can satisfy both limitations is therefore
+11
+
+Wi-LAN deceptively states that it “raised its objection to Defendants’ non-infringement
+theory during Defendants’ cross-examination of Dr. Wells.” Motion, at 4 (citing Trial Tr. at
+100:24–101:17 (July 9, 2013 (Morning Session)); id. 115:24–116:18). These objections,
+however, were directed to whether the claimed orthogonal code and overlay code could be
+applied simultaneously. None of Defendants’ experts asserted that the claims precluded
+simultaneous application of the two codes, and Wi-LAN does not now contend that they did.
+Wi-LAN’s suggestion that it objected to the testimony about which it now complains is baseless.
+12
+Motion, at 5.
+13
+Ex. A: Hearing Tr. at 59:24-25 (Apr. 26, 2012).
+–5–
+
+Case 6:10-cv-00521-LED Document 492 Filed 08/30/13 Page 10 of 23 PageID #: 15348
+
+contrary to the Court’s construction, and it is no surprise that the jury rejected it.
+iii. Wi-LAN ignores the second part of the Court’s claim construction.
+Wi-LAN also ignores the remaining portion of the “overlay code” construction, namely
+that the overlay code must “subdivide[] an orthogonal channel.” Defendants’ experts testified
+that the OVSF codes in the UMTS Standard for HSDPA and the accused products do not
+subdivide any orthogonal channels. 14 Specifically, they testified that in the OVSF code tree
+defined by the standard, there is exactly one code per channel. 15 Thus, channels cannot be
+subdivided because higher-level codes are “blocked” from use. The jury heard this testimony,
+weighed the credibility of the witnesses, and determined that the accused products do not
+infringe. Wi-LAN is not entitled to a new trial on infringement.
+b. Defendants’ experts testified properly regarding the “storage” element in the
+overlay-code patents.
+If the Court finds that Wi-LAN’s complaints about the “overlay codes” do not warrant a
+new trial, then the Court need not consider Wi-LAN’s additional arguments regarding the
+“storage” and “selectively operable” elements, as these elements appear in only some of the
+asserted overlay-code patent claims. Defendants, however, address Wi-LAN’s arguments in the
+interest of completeness and because they are as baseless as its arguments about the overlay
+codes.
+Claim 5 of the ’326 Patent and claim 11 of the ’819 Patent both state: “wherein the
+orthogonal code generator is a storage arranged to store the set of orthogonal codes.” 16 Dr.
+Wicker explained that the accused products do not meet this limitation because the “set of codes”
+14
+
+Ex. C: Trial Tr. at 22:17–23:11 (July 11, 2013 (Morning Session); id. at 25:12–28:15; id.
+at 145:25–148:18.
+15
+
+E.g., id. at 6:21–8:1; id. at 118:17–20; id. at 145:21–146:5; id. at 158:13–18; Ex. D: Trial
+Tr. at 21:7–19 (July 11, 2013 (Afternoon Session)).
+16
+See, e.g., Ex. F: ’326 Patent (PX 1) at 29:23–24.
+–6–
+
+Case 6:10-cv-00521-LED Document 492 Filed 08/30/13 Page 11 of 23 PageID #: 15349
+
+in the claims is “all of the codes” and the accused products never store the set, bur rather store, at
+most, only a single code. 17 Wi-LAN misrepresents Dr. Wicker’s testimony on this issue and
+accuses him of “add[ing] a negative limitation” into the claims that require the “orthogonal code
+generator” to be a “storage.” 18 Wi-LAN’s assertion is baseless.
+Indeed, Wi-LAN’s argument is deceptive because it cites to Dr. Wicker’s testimony about
+the specification’s description of a technique for generating codes, namely “on-the-fly”
+generation. 19 When testifying about what the claims cover, Dr. Wicker never asserted the claims
+exclude on-the-fly code generation. On the contrary, Dr. Wicker testified that attempting to limit
+the claims to embodiments shown in the patent is improper. 20 In short, Wi-LAN’s motion
+attributes testimony to Dr. Wicker that simply does not exist. Dr. Wicker analyzed the claim
+language and testified that the accused products did not meet that claim language.
+Further, even if Dr. Wicker had testified about the scope of the “storage” limitation in a
+way that Wi-LAN believed was incorrect, it could have objected. But once again, it did not. In
+fact, Wi-LAN’s counsel cross-examined Dr. Wicker about his testimony regarding the “storage”
+limitation, but notably, did not ask a single question about an alleged “negative limitation” in the
+claims. Wi-LAN’s new-trial motion should be denied.
+c. Defendants’ experts testified properly regarding the “selectively operable”
+element in the overlay-code patents.
+As with the “storage” limitation, if the Court concludes that a new trial is not warranted
+based on Wi-LAN’s “overlay code” argument, the Court need not address Wi-LAN’s arguments
+about the claims with the “selectively operable” language. Nevertheless, Wi-LAN’s arguments
+17
+18
+19
+20
+
+See Ex. C: Trial Tr. at 47:17–48:14 (July 11, 2013 (Morning Session); id. at 51:3–23.
+Motion at 6.
+See id. (citing Trial Tr. at 42:11-43:5 (July 11, 2013 (Morning Session)).
+Ex. C: Trial Tr. at 88:23–89:1 (July 11, 2013 (Morning Session).
+–7–
+
+Case 6:10-cv-00521-LED Document 492 Filed 08/30/13 Page 12 of 23 PageID #: 15350
+
+about these claims also fail.
+In arguing that Dr. Wicker and Dr. Olivier misstated the scope of the claims in the ’326
+Patent that require a “second encoder, selectively operable instead of the TDM encoder,”
+Wi-LAN misrepresents Dr. Wicker’s testimony. Specifically, Wi-LAN asserts that Dr. Wicker
+“distorted the claim language and interpreted ‘selectively operable’ to mean that a single
+frequency channel is either divided using overlay codes, or divided using TDM techniques, but
+both cannot be used at the same time.” 21 Dr. Wicker offered no such testimony.
+Rather, Dr. Wicker explained that if a data item is to be sent to a user, the system has a
+choice — it can send that data item using overlay codes or using TDM techniques, but it cannot
+do it both ways. 22 And that is exactly what the “selectively operable” language in the claims of
+the ’326 Patent requires. Claim 5, for example, requires “a second encoder, selectively operable
+instead of the TDM encoder, to apply the overlay code . . . to said data item.”23 Because the
+claim requires the overlay code to be applied to “said data item,” there must be an antecedent
+basis for that data item in the claim. There is. Claim 5 requires “a TDM encoder to apply time
+division multiplexing (TDM) techniques to the data item in order to insert the data item within a
+time slot of the orthogonal channel.” Under fundamental rules of claim construction, “the data
+item” and “said data item” are necessarily the same data item — i.e., a particular data item sent
+over a particular orthogonal channel.
+The “selectively operable” language provides the system with a choice, as shown by the
+switch 109 in Figure 7B of the patents-in-suit. If it receives a data item to be sent to a user, the
+system can encode that data item using TDM techniques, or alternatively, it can encode it using
+21
+22
+23
+
+Motion at 8 (emphasis added).
+See Ex. C: Trial Tr. at 34:3–19 (July 11, 2013 (Morning Session)).
+Ex. F: ’326 Patent (PX 1) at 29:18–20.
+–8–
+
+Case 6:10-cv-00521-LED Document 492 Filed 08/30/13 Page 13 of 23 PageID #: 15351
+
+an overlay code. This is exactly what Dr. Wicker said. The “selectively operable” limitation in
+the asserted claims of the ’326 Patent is not, as Wi-LAN argues, addressed to the different
+situation where one data item (e.g., user data) is sent on one orthogonal channel using TDM
+techniques and a different data item (e.g., control data) is sent over a separate orthogonal channel
+using overlay codes. Rather, that different scenario, which is depicted in Figure 15A of the
+patents-in-suit, is addressed by different claims, such as claim 11 of the ’819 Patent, that provide
+for the use of overlay codes on certain channels and the use of TDM techniques on others.
+In claim 11 of the ’819 Patent, which Wi-LAN asserted at trial, the “second encoder” is not
+“selectively operable instead of the TDM encoder.” Rather, the second encoder applies overlay
+codes to a data item on an orthogonal channel, while the TDM encoder applies TDM techniques
+to different data items “to be sent over a traffic channel.” 24 Wi-LAN’s contention that all
+asserted claims must be depicted in Figure 15A is simply incorrect. Dr. Wicker properly testified
+that Figure 15A does not show the “selectively operable” second encoder required by the
+asserted claims of the ’326 Patent.
+Regardless, Wi-LAN did not object or request a limiting instruction, and its belated
+objections do not justify a new trial.
+C. Wi-LAN is not entitled to a new trial on the intercell-interference patent.
+As it did with the overlay-code patents, for the ’327 Patent, Wi-LAN complains about
+testimony from Defendants’ experts to which it neither objected nor requested a limiting
+instruction. And just as before, Wi-LAN’s arguments misstate the testimony and carefully avoid
+discussing the actual claim language. Wi-LAN’s arguments fail and do not support the granting
+of a new trial.
+
+24
+
+Ex. H: ’819 Patent (PX 3) at 29:6–8.
+–9–
+
+Case 6:10-cv-00521-LED Document 492 Filed 08/30/13 Page 14 of 23 PageID #: 15352
+
+1. Defendants’ experts testified properly regarding the “indicative of . . . interference”
+element of the intercell-interference patent.
+In its first argument regarding the ’327 Patent, Wi-LAN states that “Dr. Wicker testified
+that the parameter [indicative of interference from other cells] must ‘only measure the
+interference from other cells.’” 25 That assertion misstates Dr. Wicker’s testimony. What
+Wi-LAN quotes is its counsel’s question to Dr. Wicker, who responded that the parameter must
+“indicate[] the interference from other cells.” 26 The entire line of questioning by Wi-LAN’s
+counsel shows that Dr. Wicker was not placing a limitation that the received parameter only
+measure inter-cell interference, but rather that he correctly stated that the parameter must indicate
+the presence of inter-cell interference:
+Q. Now, you argue that the Alcatel-Lucent products don’t infringe the
+’327 patent because the CQI doesn’t measure essentially only intercell
+interference. Isn’t that what you’re arguing?
+A. Yes.
+Q. And it doesn’t just need to be indicative of. So we can strike that
+language. It needs to be only measuring whether the wireless link is
+subject to interference solely from signals generated by other cells.
+That’s really your opinion, isn’t it, sir?
+A. It is my opinion that the analyzer has to receive parameters indicative
+of, and I’m simply interpreting that word indicative.
+Q. So you interpreted the word “indicative of” to mean only measuring the
+interference from other cells?
+A. That’s right. It indicates the interference from other cells.
+Q. And you went through testimony where you said there’s interference
+that’s caused by other things, correct?
+A. That’s correct. 27
+25
+26
+27
+
+Motion at 10.
+Ex. C: Trial Tr. at 84:22–25 (July 11, 2013 (Morning Session))
+Id. at 84:8–85:4.
+– 10 –
+
+Case 6:10-cv-00521-LED Document 492 Filed 08/30/13 Page 15 of 23 PageID #: 15353
+
+Dr. Wicker’s testimony on cross-examination does not contradict his direct testimony that
+the “Channel Quality Indicator,” or CQI, in the accused products is not a parameter indicative of
+interference from other cells. In fact, Wi-LAN does not challenge Dr. Wicker’s testimony that
+the CQI can be affected by numerous things, including obstructions, intra-cell interference,
+intercell interference, quality of the phone, distance, power control, and weather. 28 Dr. Wicker’s
+testimony is also undisputed that the base station cannot tell why a mobile phone reports a
+change in its CQI. 29
+In any event, Wi-LAN did not object or request a limiting instruction relating to Dr.
+Wicker’s testimony.
+Separately, Wi-LAN does not challenge Dr. Olivier’s testimony about this topic. Instead,
+Wi-LAN falsely states: “Dr. Olivier provided no additional explanation other than to simply
+agree with Dr. Wicker’s opinions and provide conclusory statements.” 30 This is incorrect. Dr.
+Olivier provided a detailed explanation of what the CQI does, based on the 3G Evolution
+textbook authored by four Ericsson engineers and based on detailed technical documents for the
+accused Ericsson base stations. 31 Contrary to Wi-LAN’s misrepresentations, Dr. Olivier’s
+testimony was actually in some ways more detailed than Dr. Wicker’s and confirmed that the
+CQI is not a parameter “indicative of whether [a] wireless link is subject to interference from
+signals generated” by other cells, as required by the asserted claims of the ’327 Patent.
+Substantial evidence supports the jury’s verdict, and Wi-LAN is not entitled to a new trial.
+
+28
+29
+30
+31
+
+Id. at 66:1–68:9.
+Id. at 68:10–69:1.
+Motion at 10 n.5.
+See Ex. C: Trial Tr. at 152:2–156:5 (July 11, 2013 (Morning Session)).
+– 11 –
+
+Case 6:10-cv-00521-LED Document 492 Filed 08/30/13 Page 16 of 23 PageID #: 15354
+
+2. Defendants’ experts testified properly regarding the “channel pool” element of the
+intercell-interference patent.
+Wi-LAN also contends that Dr. Wicker imported a “locking” limitation from unasserted
+claim 5 of the ’327 Patent into claim 11. This is not true. Claim 11 requires: “a channel controller
+being responsive to the output signal from the analyser, to selectively reduce the number of code
+division multiplexed channels in the channel pool.” 32 The specification for the ’327 Patent
+describes two ways to reduce the number of channels in the channel pool. First, a number of
+channels can be designated as “locked channels.” 33 Second, the central terminal may actually
+disable one or more of the modems in the central terminal that are used to create wireless links. 34
+Under either approach, because channels are removed from the channel pool, they are not
+available for the establishment of wireless links.
+Wi-LAN makes much of the fact that some of Dr. Wicker’s testimony referred to the
+“locking” of channels. 35 What Wi-LAN fails to acknowledge, however, is that in one of the
+pieces of testimony it cites, 36 Dr. Wicker was describing one of the embodiments described in
+the specification — not the claim limitations. And in the second piece of testimony, while Dr.
+Wicker used the words “locked out” initially, he immediately corrected himself and clarified that
+the claim covers any technique by which a channel is removed from the channel pool, thereby
+making those channels unavailable for use:
+Q. So let’s move to the last element of Claim 11. And could you remind us
+again what the last element requires.
+A. Okay. That’s the channel controller. This is the portion of the claim
+32
+33
+34
+35
+36
+
+Ex. G: ’327 Patent (PX 2) at 31:50–52 (emphasis added).
+See, e.g., id. at 3:23–30.
+See, e.g., id. at 25:61–67.
+See Motion at 10.
+Ex. C: Trial Tr. at 55:12–13 (July 11, 2013 (Morning Session).
+– 12 –
+
+Case 6:10-cv-00521-LED Document 492 Filed 08/30/13 Page 17 of 23 PageID #: 15355
+
+that takes that estimate of how channels are being affected by other cell
+interference and takes some of those cells out of the people [sic: pool],
+takes them out of commission, and says: These channels cannot be
+used by anybody in the cell, because of this interference from other
+cells.
+Q. And do HSDPA-compatible base stations satisfy that element of Claim
+11?
+A. No.
+Q. And why do you say that?
+A. We talked a lot about HSDPA and the 15 data channels. They’re going
+to be allocated to someone within the cell if there’s data to send. There
+is no situation in which one of those channels is locked out, taken out
+of use because of interference from other cells. It simply doesn’t
+happen. 37
+Contrary to Wi-LAN’s assertions, Dr. Wicker clearly testified that Claim 11’s requirement
+of reducing the number of channels in the channel pool is not limited to “designating a channel
+as a locked channel” but rather could be satisfied any time a channel is taken out of use in
+response to the receipt of parameters indicative of inter-cell interference.
+Moreover, Wi-LAN does not challenge Dr. Olivier’s testimony on this issue. Dr. Olivier
+testified that the accused base stations do not meet the limitation of “selectively reducing the
+number of code division channels in the pool in order to reduce the effect of interference from
+other cells.” 38 As Dr. Olivier explained, the channel pool is for the entire central terminal and not
+for a particular user. 39 On cross-examination, Wi-LAN’s counsel did not question Dr. Olivier
+about this opinion. It cannot now assert that the jury was confused.
+The jury rendered its just verdict after carefully considering the evidence and weighing the
+credibility of the witnesses. Wi-LAN’s motion for a new trial should be denied.
+37
+38
+39
+
+Id. at 69:22–70:16 (emphasis added).
+Id. at 149:11–19, 151:6–152:1, 156:1–16.
+Id. at 156:14–16.
+– 13 –
+
+Case 6:10-cv-00521-LED Document 492 Filed 08/30/13 Page 18 of 23 PageID #: 15356
+
+D. Wi-LAN is not entitled to a new trial on validity and damages.
+Wi-LAN claims that because the jury answered Question 4 of the Verdict Form “finding
+zero damages,” the jury must have been confused. 40 This is simply wrong. As an initial matter,
+the jury did not answer Question 4 by saying Wi-LAN was entitled to “zero damages.” Rather,
+the jury placed the symbol “ø” in the space for the damages:
+
+As the Court is aware, in mathematics, the null sign or “ø”, is used to designate the empty
+set. Far from being confused, the jury understood completely. Indeed, during the trial, one of
+Defendants’ damages experts, Christopher Bakewell, explained what would happen if the jury
+found that the patents were not infringed or were invalid:
+Q. Now, if the jury finds that there is no infringement or that the patents
+are invalid, are there any damages in this case?
+A. Then there’s no damages. The damages amount would be the
+equivalent of zero or really would be a null value, because the
+damages wouldn’t be an issue. 41
+The jury saw Wi-LAN’s case for what it was — an improper attempt to coerce the
+Defendants to take licenses by forcing them to engage in costly litigation over invalid patents
+that were not infringed. Based on that understanding, the jury made clear that Wi-LAN’s request
+40
+41
+
+Motion at 10.
+Ex. D: Trial Tr. at 58:10-15 (July 11, 2013 (Afternoon Session)) (emphasis added).
+– 14 –
+
+Case 6:10-cv-00521-LED Document 492 Filed 08/30/13 Page 19 of 23 PageID #: 15357
+
+for damages was a nullity. 42
+E. The jury was not confused.
+Finally, Wi-LAN repeatedly contends that Defendants’ trial strategy confused the jury. The
+record, however, shows that the jury was not confused in any way. Indeed, the jury was afforded
+the opportunity after each witness to submit written questions to clarify any points of confusion.
+Rather than showing confusion, the jury’s questions demonstrated that it had a substantial grasp
+on the technical aspects of the case. In fact, following the submission of questions for Dr.
+Wicker, the Court commented: “I continue to be amazed at our East Texas juries’ comprehension
+of the technology. 43 Accordingly, the Court should reject Wi-LAN’s jury-confusion argument as
+baseless.
+CONCLUSION
+For the reasons set forth above, the jury’s verdict was supported by evidence. Accordingly
+Defendants respectfully request that the Court Wi-LAN’s Motion in its entirety.
+
+42
+
+Incredibly, Wi-LAN’s motion states that its damages expert, John Jarosz, offered an
+opinion of a reasonable-royalty amount at trial. Motion at 10. He did not. The Court twice struck
+Mr. Jarosz’s opinions such that, at trial, he could not provide an ultimate opinion with respect to
+damages but rather only had “inputs that the jury can consider.” Ex. B: Trial Tr. at 148:19–25
+(July 10, 2013 (Morning Session)). The jury considered those “inputs” and found the damages to
+be the empty set.
+43
+Ex. C: Trial Tr. at 124:9–11 (July 11, 2013 (Morning Session)).
+– 15 –
+
+Case 6:10-cv-00521-LED Document 492 Filed 08/30/13 Page 20 of 23 PageID #: 15358
+
+Dated: August 30, 2013
+
+Respectfully submitted,
+By: /s/ Martin R. Bader______________
+Stephen S. Korniczky (pro hac vice)
+Martin R. Bader (pro hac vice)
+James Geriak (pro hac vice)
+SHEPPARD, MULLIN, RICHTER & HAMPTON
+12275 El Camino Real, Suite 200
+San Diego, California 92130-2006
+Tel: 858-720-8924
+Fax: 858-847-4892
+skorniczky@sheppardmullin.com
+mbader@sheppardmullin.com
+dyannuzzi@sheppardmullin.com
+lhsu@sheppardmullin.com
+gbuccigross@sheppardmullin.com
+Eric Hugh Findlay (TX Bar 00789886)
+Roger Brian Craft (TX Bar 04972020)
+FINDLAY CRAFT
+6760 Old Jacksonville Highway
+Suite 101
+Tyler, Texas 75703
+Tel: 903-534-1100
+Fax: 903-534-1137
+efindlay@findlaycraft.com
+bcraft@findlaycraft.com
+ATTORNEYS FOR DEFENDANTS
+HTC CORPORATION, HTC AMERICA, INC.
+AND EXEDEA INC.
+
+– 16 –
+
+Case 6:10-cv-00521-LED Document 492 Filed 08/30/13 Page 21 of 23 PageID #: 15359
+
+Dated: August 30, 2013
+
+Respectfully submitted,
+By: /s/Robert A. Appleby______________
+Gregory S. Arovas (pro hac vice)
+Robert A. Appleby (pro hac vice)
+Jeanne M. Heffernan (pro hac vice)
+Akshay S. Deoras (pro hac vice)
+KIRKLAND & ELLIS LLP
+601 Lexington Avenue
+New York, NY 10022
+Tel: (212) 446-4800
+Fax: (212) 446-4900
+Alcatel-Lucent-Wi-LAN-Defense@kirkland.com
+Michael E. Jones
+Allen F. Gardner
+POTTER MINTON PC
+110 N. College, Suite 500 (75702)
+P.O. Box 359
+Tyler, Texas 75710
+(903) 597 8311
+(903) 593 0846 (Facsimile)
+mikejones@potterminton.com
+allengardner@potterminton.com
+ATTORNEYS FOR DEFENDANT
+ALCATEL-LUCENT USA INC.
+
+– 17 –
+
+Case 6:10-cv-00521-LED Document 492 Filed 08/30/13 Page 22 of 23 PageID #: 15360
+
+Dated: August 30, 2013
+
+Respectfully submitted,
+
+/s/ Bruce S. Sostek___
+
+Bruce S. Sostek (Lead Attorney)
+State Bar No. 18855700
+Bruce.Sostek@tklaw.com
+Richard L. Wynne, Jr.
+State Bar No. 24003214
+Richard.Wynne@tklaw.com
+THOMPSON & KNIGHT LLP
+1722 Routh Street, Suite 1500
+Dallas, Texas 75201
+214.969.1700
+214.969.1751 (facsimile)
+ATTORNEYS FOR DEFENDANTS ERICSSON INC.,
+TELEFONAKTIEBOLAGET LM ERICSSON, SONY
+MOBILE COMMUNICATIONS AB, and SONY MOBILE
+COMMUNICATIONS (USA) INC.
+
+– 18 –
+
+Case 6:10-cv-00521-LED Document 492 Filed 08/30/13 Page 23 of 23 PageID #: 15361
+
+CERTIFICATE OF SERVICE
+This is to certify that on the 30th day of August, 2013, a copy of the foregoing document
+was served on counsel of record by electronic mail.
+
+Richard L. Wynne, Jr.
+Richard L. Wynne, Jr.
+
+– 19 –
+
+

@@ -1,0 +1,2064 @@
+Case 1:07-cv-01281-RJL
+
+Document 9
+
+Filed 07/24/2007
+
+Page 1 of 25
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+AJILON PROFESSIONAL STAFFING, LLC,
+Plaintiff
+v.
+
+CASE NO. 1:07-cv-01281-RJL
+
+JOSHUA KUBICKI, KIMBERLY DANOWSKI,
+and JON POMYKALA,
+Defendants.
+
+MEMORANDUM OF POINTS AND AUTHORITIES OF
+DEFENDANTS IN OPPOSITION TO AJILON’S MOTION
+FOR TEMPORARY RESTRAINING ORDER AND PRELIMINARY INJUNCTION
+
+Michael A. Schlanger (D.C. Bar No. 88849)
+Anthony Herman (D.C. Bar No. 424643)
+Mark W. Mosier (D.C. Bar No. 974887)
+COVINGTON & BURLING LLP
+1201 Pennsylvania Ave., NW
+Washington, DC 20004
+Telephone: (202) 662-6000
+Facsimile: (202) 662-6291
+Counsel for Defendants Joshua Kubicki, Kimberly
+Danowski, and Jon Pomykala
+
+Case 1:07-cv-01281-RJL
+
+Document 9
+
+Filed 07/24/2007
+
+Page 2 of 25
+
+TABLE OF CONTENTS
+
+INTRODUCTION .......................................................................................................................... 1
+BACKGROUND ............................................................................................................................ 3
+A.
+
+Legal Staffing Industry. .......................................................................................... 3
+
+B.
+
+Defendants’ Restrictive Covenants......................................................................... 4
+
+C.
+
+Mr. Kubicki’s Relationship with Crowell & Moring.............................................. 5
+
+LEGAL STANDARD..................................................................................................................... 6
+ARGUMENT.................................................................................................................................. 7
+I.
+
+AJILON FACES NO THREAT OF IRREPARABLE INJURY........................................ 7
+
+II.
+
+AJILON IS UNLIKELY TO SUCCEED ON THE MERITS OF ITS CLAIMS............. 10
+A.
+
+Ajilon’s Customer Information Is Not a Trade Secret.......................................... 11
+
+B.
+
+Ajilon’s Restrictive Covenants Are Unenforceable.............................................. 14
+
+III.
+
+DEFENDANTS WOULD BE SUBSTANTIALLY INJURED BY AN
+INJUNCTION................................................................................................................... 18
+
+IV.
+
+THE PUBLIC INTEREST IS NOT FURTHERED BY AN INJUNCTION. .................. 19
+
+CONCLUSION............................................................................................................................. 20
+
+ii
+
+Case 1:07-cv-01281-RJL
+
+Document 9
+
+Filed 07/24/2007
+
+Page 3 of 25
+
+TABLE OF AUTHORITIES
+FEDERAL CASES
+Berman v. DePetrillo, 1997 U.S. Dist. LEXIS 3966 (D.D.C. 1997) ...............................8, 9
+Bristol-Myers Squibb Co. v. Shalala, 923 F. Supp. 212 (D.D.C. 1996) ..............................8
+Carabillo v. ULLICO Inc. Pension Plan and Trust, 355 F. Supp. 2d 49 (D.D.C.
+2004) (Leon, J.)....................................................................................................6, 7, 11
+Catalyst & Chem. Servs., Inc. v. Global Ground Support, 350 F. Supp. 2d 1
+(D.D.C. 2004) ........................................................................................................ 11-13
+City of Tempe, Ariz. v. Fed. Aviation Admin., 239 F. Supp. 2d 55 (D.D.C. 2003)..............6
+Cobell v. Norton, 391 F.3d 251 (D.C. Cir. 2004) ................................................................6
+Dorfmann v. Boozer, 414 F.2d 1168 (D.C. Cir. 1969) ........................................................6
+Godbey v. Frank E. Basil, Inc., 603 F. Supp. 775 (D.D.C. 1985) .....................................14
+HIRECounsel D.C. v. Thuemmler, No. 05-2111 (D.D.C. filed Oct. 28, 2005) .........2, 9, 18
+Moore v. Summers, 113 F. Supp. 2d 5 (D.D.C. 2000).........................................................6
+Morgan Stanley DW Inc. v. Rothe, 150 F. Supp. 2d 67 (D.D.C. 2001).......................13, 19
+Mylan Pharm. v. Shalala, 81 F. Supp. 2d 30 (D.D.C. 2000).............................................10
+Wisconsin Gas Co. v. FERC, 758 F.2d 669 (D.C. Cir. 1985)..........................................7, 8
+STATE CASES
+Abbott Laboratories v. Norse Chemical Corp., 147 N.W.2d 529 (Wisc. 1967)................14
+Coskey's Television & Radio Sales & Serv., Inc. v. Foti, 602 A.2d 789 (N.J.
+Super. Ct. App. Div. 1992) .................................................................................... 16-19
+Ingersoll-Rand Co. v. Ciavatta, 542 A.2d 879 (N.J. 1988) .............................14, 15, 18, 19
+Ruesch v. Ruesch International Monetary Services, 479 A.2d 295 (D.C. 1984).........13, 17
+Solari Indus., Inc. v. Malady, 264 A.2d 53 (N.J. 1970).....................................................15
+Subcarrier Commc'n Inc. v. Day, 691 A.2d 876 (N.J. Super. Ct. App. Div. 1997).....15, 16
+
+iii
+
+Case 1:07-cv-01281-RJL
+
+Document 9
+
+Filed 07/24/2007
+
+Page 4 of 25
+
+Whitmyer Bros., Inc. v. Doyle, 274 A. 2d 577 (N.J. 1971) .........................................15, 16
+
+STATE STATUTE
+D.C. Code Ann. § 36-401 et seq ........................................................................................11
+
+iv
+
+Case 1:07-cv-01281-RJL
+
+Document 9
+
+Filed 07/24/2007
+
+Page 5 of 25
+
+Defendants Joshua Kubicki, Kimberly Danowski, and Jon Pomykala respectfully
+submit this Memorandum of Points and Authorities in opposition to the motion of plaintiff
+Ajilon Professional Staffing, LLC (“Ajilon”) for a temporary restraining order and preliminary
+injunction.
+INTRODUCTION
+Defendants are former employees of Ajilon, a job placement and staffing
+company. At Ajilon, Mr. Kubicki solicited law firms, offering to provide attorneys or paralegals
+to meet the firm’s temporary staffing needs; Ms. Danowski worked in an administrative position,
+handling accounting and billing matters; and Mr. Pomykala was responsible for staffing projects
+with contract attorneys. All three left Ajilon in June 2007, and now work in similar positions for
+one of Ajilon’s many competitors, Solomon-Page Group LLC (“Solomon-Page”).
+Ajilon seeks to prevent defendants from working for Solomon-Page. In its
+papers, Ajilon quotes at length from the restrictive covenants found in its employee contracts, but
+it never attempts to show that these provisions are reasonable restraints of trade, as is its burden
+under New Jersey law.1 These provisions are patently unreasonable. Ms. Danowski and Mr.
+Pomykala are, among other things, prohibited from working for any staffing agency within 35
+miles of Washington D.C. for one year. Mr. Kubicki’s contract is substantially more restrictive.
+He cannot work for a staffing agency within 50 miles of Washington D.C. or any other city in
+which Ajilon has an office. Because Ajilon has offices in every legal market with significant
+demand for temporary legal placement -- including New York, Chicago, Los Angeles, San
+
+1
+
+New Jersey law applies based on the contracts’ choice-of-law provisions. See infra note 11.
+
+Case 1:07-cv-01281-RJL
+
+Document 9
+
+Filed 07/24/2007
+
+Page 6 of 25
+
+Francisco, Atlanta, Dallas, and Houston -- the provision effectively prevents him from working
+in his chosen profession.
+Ajilon further attempts to restrict defendants’ ability to work in Washington’s
+legal staffing market by claiming trade secret protection for information about its customers.
+Ajilon does not seek to protect its list of customers and their information because defendants do
+not have Ajilon’s list and therefore could not have misappropriated it. Instead, Ajilon claims in a
+conclusory manner that the information in the list deserves trade secret protection, but this
+information is nothing more than the law firm names, addresses, telephone numbers, and contact
+information. Nonetheless, Ajilon alleges that Mr. Kubicki misappropriates its trade secrets every
+time he calls a law firm to inquire about its staffing needs, despite that a law firm’s contact
+information is not secret in any way. If Ajilon is correct, which clearly it is not, defendants
+would be prevented from working in the Washington market permanently because they could not
+start divulging Ajilon’s trade secrets after one year simply because they were no longer bound by
+covenants not to compete.
+Ajilon is not entitled to injunctive relief because it is unlikely to succeed on the
+merits of its claims, it faces no irreparable injury, and the balance of harms clearly favor
+defendants. In a similar case pending in this Court, Judge Roberts denied a temporary
+restraining order and preliminary injunction for these reasons. See HIRECounsel D.C. v.
+Thuemmler, No. 05-2111 (D.D.C. Jan. 5, 2006) (order denying temporary restraining order and
+preliminary injunction). According to Judge Roberts, the employer -- a legal staffing company -had “not offered persuasive evidence that any trade secrets or any confidential business
+information was inappropriately appropriated or converted”; “the sort of harm that HIRECounsel
+contemplates does appear to me to be of the nature that’s regularly compensated with money
+
+2
+
+Case 1:07-cv-01281-RJL
+
+Document 9
+
+Filed 07/24/2007
+
+Page 7 of 25
+
+damages and is fairly easily translated into dollar amounts”; and the balance of equities favored
+the former employee because “to lose his employment and to be barred from seeking a similar
+position would certainly constitute a hardship.” (Mosier Decl. Ex. A, at 46-49.)2 Ajilon’s motion
+should similarly be denied.
+BACKGROUND
+A.
+
+Legal Staffing Industry.
+Staffing companies, like Ajilon and Solomon-Page, place attorneys and paralegals
+
+in temporary and permanent positions at law firms and corporate legal departments. When a law
+firm needs additional support for a large document review, it often hires a staffing company to
+find attorneys to provide assistance. Almost all of the larger law firms in Washington use
+staffing companies; many firms use them on a regular basis and often use multiple staffing
+companies on the same project. (Kubicki Decl. ¶ 10.)
+The legal staffing market in Washington is highly competitive. No fewer than ten
+companies compete for work from the dozens of law firms who regularly seek temporary help.
+(Id. ¶ 8.) Because law firms primarily contract with staffing companies on a project-by-project
+basis, most law firms use multiple companies, with some firms using as many as five or six. (Id.
+¶ 8.) For example, Solomon-Page recently obtained a project from Crowell & Moring, but
+Crowell still uses Ajilon for other projects. (Id. ¶¶ 13-14.)
+Because law firms and staffing companies rarely, if ever, enter into long-term or
+exclusive arrangements, staffing companies must constantly try to anticipate which firms need
+2
+
+Similarly, New Jersey courts have denied injunctive relief to nearly identical claims, finding
+that the staffing companies were unlikely to succeed in establishing that its customer lists were
+entitled to protection. (See Mosier Decl. Ex. C, at 19 (P.C. Help Servs., Inc. v. Wein, No. C-20696E (N.J. Super. Ct. Ch. Div. 1996)); id. Ex. B, at 44-45 (Accounts on Call v. Silverberg, No. C176-95, (N.J. Super. Ct. Ch. Div. 1995)).)
+
+3
+
+Case 1:07-cv-01281-RJL
+
+Document 9
+
+Filed 07/24/2007
+
+Page 8 of 25
+
+help. As Mr. Kubicki explains, “To get work, I review publications such as Deal.com, the Wall
+Street Journal, the American Lawyer and other business publications to get leads on major
+litigation and mergers and acquisition activity.” (Id. ¶ 3.) Staffing employees, of course, also
+routinely call their law firm contacts -- friends, former customers, and even law school
+classmates -- to see whether they know of anyone needing staffing assistance. (Id.) They also
+rely on customer information kept by their company. For example, Solomon-Page maintains a
+database with information about its Washington customers. (Id. ¶ 7.)
+The staffing market is highly transparent. Staffing companies know which law
+firms use temporary attorneys and which do not. They also know which staffing companies are
+hired by which law firms. In short, when a staffing company obtains a project from a law firm,
+everyone in the industry knows about it. (Id. ¶ 10.)
+B.
+
+Defendants’ Restrictive Covenants.
+Defendants’ contracts with Ajilon each contained a number of post-employment
+
+restrictive covenants. The contracts for Ms. Danowski and Mr. Pomykala are identical. Neither
+can work, for one year, for another staffing company within 35 miles of Washington. (Compl.
+Ex. C ¶ 10.) Nor can they solicit, for one year, any customer that conducted business with
+Ajilon’s Washington office during the previous year, or any customer they had contact with
+during the previous two years. (Id. ¶ 11.) These provisions would require Ms. Danowski and
+Mr. Pomykala to quit their jobs with Solomon-Page, and either move to a different city or find a
+job in a different industry.
+Mr. Kubicki’s restrictive covenants go well beyond those of his co-defendants.
+His contract effectively prevents him from working in the staffing industry for one year. The
+contract states: “For a period of one year after the termination of this Agreement, Employee will
+not, within a radius of fifty (50) miles from the present place of business of the Employer, or any
+4
+
+Case 1:07-cv-01281-RJL
+
+Document 9
+
+Filed 07/24/2007
+
+Page 9 of 25
+
+other office of a company affiliated with the Employer . . . [work for] any business similar to the
+type of business conducted by Employer.” (Compl.. Ex. B ¶ 10 (emphasis added).) This
+provision would prevent Mr. Kubicki from working in any city with a significant market for
+temporary legal services, including New York, Chicago, Los Angeles, San Francisco, Orlando,
+Atlanta, Minneapolis, Charlotte, Austin, Dallas, Houston, and San Antonio. (Kubicki Decl.
+¶ 16.)
+Mr. Kubicki’s solicitation covenant is also significantly broader. The provision
+not only prevents Mr.Kubicki from soliciting Ajilon’s customers, but expressly prohibits him
+from soliciting “prospective customers from whom Employee solicited business while in the
+employ of Employer.” (Id. ¶ 10(A).) Because he solicited every law firm in Washington that
+hires temporary attorneys, this covenant would prevent him from contacting any firm that might
+need his services. (Kubicki Decl. ¶ 17.)3
+C.
+
+Mr. Kubicki’s Relationship with Crowell & Moring.
+Ajilon names only one customer that Mr. Kubicki has solicited since he resigned:
+
+Crowell & Moring (“Crowell”).4 According to the complaint, “[t]he relationship that Ajilon had
+with Crowell was extremely profitable; in fact, Crowell was one of Ajilon’s biggest customers.
+Up to and including his date of resignation, Kubicki worked to solicit projects at Crowell and
+other firms.” (Compl. ¶ 22.) The complaint further alleges that Mr. Kubicki obtained a project
+for Solomon-Page shortly after he left Ajilon. (Id. ¶ 25.)
+
+3
+
+The contracts also contain clauses precluding solicitation of Ajilon’s temporary employees.
+Ajilon does not allege that defendants have contacted any of its temporary employees.
+
+4
+
+There are no such allegations against Ms. Danowski or Mr. Pomykala.
+
+5
+
+Case 1:07-cv-01281-RJL
+
+Document 9
+
+Filed 07/24/2007
+
+Page 10 of 25
+
+Mr. Kubicki’s ability to obtain work from Crowell is not a result of his working
+for Ajilon. Instead, Mr. Kubicki’s contacts at the firm were likely a reason why Ajilon hired him
+in the first place. He was, after all, a staff attorney at Crowell before leaving to join Ajilon.
+(Kubicki Decl. ¶ 12.) He also has a number of close friends at the firm, including a law school
+classmate. (Id.) In fact, the project that Mr. Kubicki recently obtained for Solomon-Page
+resulted from a phone call made to Mr. Kubicki from his law school classmate; it was not based
+in any way on Ajilon’s customer information. (Id. ¶ 13.)
+LEGAL STANDARD
+A preliminary injunction is “an extraordinary remedy that should be granted only
+when the party seeking the relief, by a clear showing, carries the burden of persuasion.” Cobell
+v. Norton, 391 F.3d 251, 258 (D.C. Cir. 2004); see also Moore v. Summers, 113 F.Supp. 2d 5, 17
+(D.D.C. 2000) (preliminary injunction is an “extraordinary form of judicial relief”).
+This Court may issue a preliminary injunction only if Ajilon demonstrates: “(1) a
+substantial likelihood of success on the merits, (2) that it would suffer irreparable injury if the
+injunction is not granted, (3) that an injunction would not substantially injure other interested
+parties, and (4) that the public interest would be furthered by the injunction.” Carabillo v.
+ULLICO Inc. Pension Plan and Trust, 355 F.Supp.2d 49, 53 (D.D.C. 2004) (Leon, J.).
+Although the court considers these factors on a “sliding scale,” id., “[i]t is
+particularly important for plaintiffs to demonstrate a substantial likelihood of success on the
+merits.” City of Tempe, Ariz. v. Fed. Aviation Admin., 239 F. Supp. 2d 55, 59 (D.D.C. 2003).
+Moreover, as this Court has explained, “if a party makes no showing of irreparable injury, the
+court may deny the motion for injunctive relief without considering the other factors.”
+Carabillo, 355 F.Supp.2d at 53 (Leon, J.).
+
+6
+
+Case 1:07-cv-01281-RJL
+
+Document 9
+
+Filed 07/24/2007
+
+Page 11 of 25
+
+Because Ajilon seeks to change the status quo by preventing defendants from
+continuing to work for Solomon-Page, it carries an even greater burden. This Court has
+recognized that, “when a party seeks a mandatory injunction, i.e., to change the status quo rather
+than to preserve it, the moving party must meet a higher standard than in the ordinary case by
+showing ‘clearly’ that he or she is entitled to relief or that ‘extreme or very serious damage’ will
+result from the denial of the injunction.” id.; see also Dorfmann v. Boozer, 414 F.2d 1168, 1173
+(D.C. Cir. 1969) (“The power to issue a preliminary injunction, especially a mandatory one,
+should be sparingly exercised.”).
+ARGUMENT
+I.
+
+AJILON FACES NO THREAT OF IRREPARABLE INJURY.
+Ajilon is not entitled to injunctive relief unless it shows that it will suffer
+
+irreparable harm if its motion is denied. Indeed, this Court may deny Ajilon’s motion based
+solely on its failure to prove such injury. See Carabillo, 355 F.Supp.2d at 53. Yet Ajilon claims
+irreparable injury based merely on the possibility that it will lose business or customer
+relationships as a result of defendants’ employment with Solomon-Page. Circuit precedent
+makes clear that the loss of business opportunity is insufficient for injunctive relief -- both
+because the injury is too speculative and because it can be adequately remedied by monetary
+damages.
+In order to show irreparable injury, Ajilon must make a “clear showing” that the
+injury it will suffer is “certain and great,” “actual and not theoretical,” and “of such imminence
+that there is a ‘clear and present’ need for equitable relief to prevent irreparable harm.”
+Wisconsin Gas Co. v. FERC, 758 F.2d 669, 674 (D.C. Cir. 1985) (citation omitted) (emphasis in
+original). Because it is seeking a mandatory injunction, Ajilon must also show that “extreme or
+very serious damage will result from the denial of the injunction.” Carabillo, 355 F.Supp.2d at
+7
+
+Case 1:07-cv-01281-RJL
+
+Document 9
+
+Filed 07/24/2007
+
+Page 12 of 25
+
+53 (internal quotation marks omitted). Ajilon cannot come close to satisfying this substantial
+burden.
+Ajilon’s alleged injuries are too speculative to warrant injunctive relief. Ajilon
+claims that, without an injunction, its business will be hurt, it will lose its customers, and its
+employees will leave. Pl’s Mot. at 6.5 But to establish its losses, Ajilon must show “certain,”
+and “actual” losses that are attributable to defendants’ working for Ajilon. Wisconsin Gas, 758
+F.2d at 674. Ajilon cannot satisfy this burden by showing that its revenue is less now than when
+defendants worked at Ajilon.6 Instead, it must establish losses caused by defendants’ working at
+Solomon-Page. That Solomon-Page obtained a project from Crowell & Moring establishes an
+injury to Ajilon only if Ajilon can show that it -- and not one of the many other staffing
+companies -- would have received the work if defendants resigned from Ajilon but did not join a
+competitor. Ajilon does not make any allegations of this sort.
+Because the possible loss of future business opportunities is so speculative, it
+provides no basis for injunctive relief. As this Court has explained, “arguments of possible
+economic loss are clearly too speculative to be a proper basis upon which to find ‘irreparable
+harm.’” Carabillo, 355 F.Supp.2d at 53; see also Bristol-Myers Squibb Co. v. Shalala, 923 F.
+Supp. 212, 221 (D.D.C. 1996) (mere speculation about market share does not constitute
+
+5
+
+Ajilon also asserts that it will lose goodwill and that its business reputation will be damaged,
+but it provides no explanation of how this might occur; nor does it cite any cases to support this
+claim. These vague, conclusory allegations cannot support injunctive relief. See Berman v.
+DePetrillo, 1997 U.S. Dist. LEXIS 3966, at *9 (D.D.C. 1997) (“The plaintiffs assert that they
+have lost “professional good will” and “credibility in the marketplace” and face “destruction of
+their reputations.” The plaintiffs have cited no cases indicating that such harm is “irreparable.”).
+6
+
+Ajilon does not allege that defendants breached their contracts by resigning; as at-will
+employees, they were free to do so. Ajilon therefore cannot seek to recover for any losses
+attributable to defendants’ leaving its company.
+
+8
+
+Case 1:07-cv-01281-RJL
+
+Document 9
+
+Filed 07/24/2007
+
+Page 13 of 25
+
+irreparable injury); Berman v. DePetrillo, 1997 U.S. Dist. LEXIS 3966, at *9 (D.D.C. 1997)
+(“[T]he loss of a business opportunity . . . is purely speculative.”).
+Even if its losses were not speculative, Ajilon cannot show irreparable injury
+because monetary damages can remedy any loss that it might suffer. Ajilion claims that
+“[m]onetary damages alone cannot fully compensate a loss of this sort,” Pl’s Mot. at 6, but its
+supporting declaration monetizes its estimated losses. (DeMario Decl. ¶ 48 (“Their wrongful
+conduct will continue to cause ever-increasing loss of revenue to Ajilon, estimated
+conservatively at $250,000 per month.”).) A loss of business is precisely the type of harm that
+can be compensated by monetary damages. See Berman, 1997 U.S. Dist. LEXIS 3966, at *12
+(“a plaintiff deprived of the opportunity to make business deals has a remedy for money
+damages.”); id. at *9 (“[T]he loss of a business opportunity is a purely economic injury, and
+economic loss alone, however substantial, does not constitute ‘irreparable harm.’”).
+On facts similar to those presented here, Judge Roberts denied the employer’s
+request for injunctive relief because of the speculative nature of injury and the adequacy of
+money damages. HIRECounsel D.C. v. Thuemmler, No. 05-2111 (D.D.C. Jan. 5, 2006) (order
+denying temporary restraining order and preliminary injunction). According to Judge Roberts,
+HIRECounsel had not established that the harm was certain or imminent; moreover, “the sort of
+harm that HIRECounsel contemplates does appear to me to be of the nature that’s regularly
+compensated with money damages and is fairly easily translated into dollar amounts.” (Mosier
+Decl. Ex. A, at 47.) This reasoning applies equally here.
+Ajilon’s claim of irreparable harm especially rings hollow in light of its selective
+enforcement of covenants not to compete and its delay in seeking injunctive relief. As Ajilon
+concedes, other employees have left to join competitors -- including Solomon-Page -- without
+
+9
+
+Case 1:07-cv-01281-RJL
+
+Document 9
+
+Filed 07/24/2007
+
+Page 14 of 25
+
+Ajilon enforcing its non-compete clause. (Mullenholz Decl. ¶¶ 9, 30-31.) For example, Andrew
+Perlin left Ajilon’s Washington office to joined Solomon-Page’s Washington office without
+Ajilon taking any action to enforce his covenant not to compete. (Kubicki Decl. ¶ 15.) If its
+customer information were truly “trade secrets,” one would expect Ajilon to be more vigilant in
+enforcing the terms of its employment agreements.
+Moreover, Ajilon waited nearly a month after Mr. Kubicki left the company
+before bringing this action, and when it finally filed suit, it was content to wait an additional nine
+days before being heard on its motion for a temporary restraining order. (See Pl.’s Mot. (filed
+July 18, 2007) (requesting July 27, 2007 hearing date).) “Though such a delay is not dispositive
+of the issue, it further militates against a finding of irreparable harm.” Mylan Pharm. v. Shalala,
+81 F. Supp. 2d 30, 44 (D.D.C. 2000) (finding no irreparable harm when movant waited two
+months before seeking injunctive relief); id. at 43 (movant’s “delay in bringing this action further
+undercuts its allegation of irreparable harm”).
+Ajilon’s failure to show irreparable injury provides sufficient grounds to deny its
+request for injunctive relief.
+II.
+
+AJILON IS UNLIKELY TO SUCCEED ON THE MERITS OF ITS CLAIMS.
+To be entitled to injunctive relief, Ajilon must show some likelihood that it will
+
+succeed on the merits of its claim. It attempts this showing in a single conclusory sentence,
+citing no legal authority. (Pl.’s Mot at 7.) Ajilon presents no argument to show that a law firm’s
+name and telephone number are trade secrets. Nor does Ajilon explain, as New Jersey law
+requires, why its post-employment restrictive covenants are enforceable. This Court should find
+that Ajilon failed to meet its burden based on its failure to present any legal arguments to support
+
+10
+
+Case 1:07-cv-01281-RJL
+
+Document 9
+
+Filed 07/24/2007
+
+Page 15 of 25
+
+its claims. In any event, Ajilon’s trade secret and breach of contract claims have little chance of
+success.7
+A.
+
+Ajilon’s Customer Information Is Not a Trade Secret.
+Ajilon will not succeed at using the District of Columbia Uniform Trade Secrets
+
+Act, D.C. Code Ann. § 36-401 et seq. (“Trade Secrets Act”) to prevent defendants from
+competing with it. In his declaration, Mr. Kubicki explains how he, and others in his field,
+solicit projects by searching the newspaper and trade journals for stories of major litigation and
+mergers and acquisition activity, and then following up on these leads by making phone calls to
+the firms involved in these matters. (Kubicki Decl. ¶ 2.) According to Ajilon, every time Mr.
+Kubicki sees a story in the Wall Street Journal and contacts a law firm to see if they need staffing
+assistance, he has misappropriated its trade secrets because the name and phone number of the
+law firm is in its customer list. Such a theory finds no support in trade secret law.
+The complaint’s allegations with respect to the only “customer” that it actually
+names -- Crowell & Moring -- show just how far it attempts to stretch the Trade Secrets Act.
+Ajilon alleges that its trade secrets were misappropriated because Mr. Kubicki regularly solicited
+business from Crowell while he was at Ajilon, and now he has obtained a project from the firm
+for Solomon-Page. But Mr. Kubicki has contacts at Crowell, not based on any trade secrets he
+misappropriated for Ajilon, but because he was an employee at Crowell before he ever worked
+for either Ajilon or Solomon-Page. (Id. ¶ 12.)8 Ajilon cannot prevent Mr. Kubicki from
+
+7
+
+The complaint also includes a number of tort claims. Ajilon does not argue that any of these
+claims can support injunctive relief, and thus defendants do not address them.
+8
+
+The complaint provides no basis for finding that Ms. Danowski or Mr. Pomykala
+misappropriated trade secrets because there are no allegations that either has taken the customer
+list or has used information from it to solicit a customer.
+
+11
+
+Case 1:07-cv-01281-RJL
+
+Document 9
+
+Filed 07/24/2007
+
+Page 16 of 25
+
+soliciting business from his friends and former co-workers -- nor can it prevent him from using
+Solomon-Page’s contacts in the Washington market -- by claiming that the firm’s name, address,
+and telephone number are trade secrets.
+To succeed on its trade secret claim, Ajilon must first establish the existence of a
+trade secret. See Catalyst & Chem. Servs., Inc. v. Global Ground Support, 350 F. Supp. 2d 1, 8
+(D.D.C. 2004) (“The threshold inquiry in every trade secret case is whether or not there is a trade
+secret to be misappropriated.”) (internal quotation marks and alterations omitted). But to do this,
+Ajilon must show that the information it seeks to protect is secret. Id. Ajilon cannot make such
+a showing.
+The complaint alleges that Ajilon is entitled to trade secret protection for its
+“clients’ names, addresses, telephone numbers, and contact information.” (Compl. ¶ 31.) It does
+not, however, claim that its customer list is a trade secret. Ajilon likely seeks trade protection for
+the data contained in its customer list but not for the list itself because defendants do not have
+Ajilon’s customer list, and therefore cannot have misappropriated it. Indeed, the complaint -instead of claiming that the customer list was misappropriated -- alleges only that defendants
+used “information contained in the confidential business records of Ajilon.” (Compl. ¶ 27(a).)
+Ultimately, this distinction makes little difference; neither the customer list nor the information
+contained in it is a trade secret.
+The information contained in Ajilon’s customer list clearly cannot be a trade
+secret because it is publicly available and known to everyone in the industry. See Catalyst, 350
+F. Supp. 2d at 8-9 (“Information that is generally known or readily ascertainable to the public
+cannot constitute a trade secret. Furthermore, information which is generally known within an
+industry, even if it is not generally known to the public, cannot constitute a trade secret.”)
+
+12
+
+Case 1:07-cv-01281-RJL
+
+Document 9
+
+Filed 07/24/2007
+
+Page 17 of 25
+
+(internal quotation marks and citations omitted). Ajilon nonetheless seeks trade secret protection
+for the names and addresses of many of the largest law firms in Washington. This information -which can be found easily in Martindale-Hubbell, the phone book, or on the internet -- is not
+secret and therefore cannot be considered a trade secret.
+Ajilon’s customer list similarly is not a trade secret because it is nothing more
+than a compilation of publicly available information. A list aggregating publicly available
+information can only qualify as a trade secret if “there is an added value to the combination over
+the value of the individual parameters, i.e., when ‘the whole is more than the sum of the parts.’”
+Catalyst, 350 F.Supp.2d at 10.9 Ajilon makes no attempt to show that its customer list has any
+value beyond similar publicly available lists of firm names, addresses, and telephone numbers.
+The D.C. Court of Appeals has held that customer information of a foreign
+exchange business cannot be protected as a trade secret. Ruesch v. Ruesch Int’l Monetary Servs.,
+479 A.2d 295 (D.C. 1984).10 The court noted that “when the prospective clients are
+commercially conspicuous, courts have characterized the expenditure of time, money, and
+resources undertaken by businesses to acquire prospective clients as simply widespread
+canvassing of an obvious and highly competitive market . . ., or merely the outgrowth of . . .
+normal marketing endeavors.” Id. at 298 (internal quotation marks and citations omitted).
+
+9
+
+A customer list may be entitled to trade secret protection if it contains confidential information
+about the customers. See, e.g., Morgan Stanley DW Inc. v. Rothe, 150 F. Supp. 2d 67, 71
+(D.D.C. 2001) (treating customer list, which defendant had taken and that included “taxpayer
+information, margin papers, correspondence, and check receipts, among other vital and
+confidential information regarding the client,” as a trade secret). No such confidential
+information is involved in this case, and even it if were, defendants have not misappropriated any
+confidential information on Ajilon’s customer list because they do not have the list.
+10
+
+Because this case was decided before the Trade Secrets Act was adopted, the court applied
+general common law principles to resolve the claim. The court’s reasoning is instructive
+nonetheless.
+
+13
+
+Case 1:07-cv-01281-RJL
+
+Document 9
+
+Filed 07/24/2007
+
+Page 18 of 25
+
+Like Ajilon, Ruesch alleged that it spent considerable time and money to build its
+customer list. The court, however, recognized that this claim confuses efforts to develop
+customer relationships and steps taken to put together a customer list. According to the court,
+“[Plaintiff] argues that it spent substantial time and money on its
+customer list. In reality that time and money was spent on the
+development of the market which the customer list represents.
+[Defendant] is only attempting to sell to this market and
+[plaintiff's] customer information, in view of its public nature,
+should not be protected to prevent such competition.”
+Id. at 299 (quoting Abbott Laboratories v. Norse Chemical Corp., 147 N.W.2d 529, 541 (Wisc.
+1967) (alterations in original). Ajilon’s customer list similarly deserves no trade secret
+protection.
+B.
+
+Ajilon’s Restrictive Covenants Are Unenforceable.
+Because New Jersey law11 disfavors restraints of trade, an employer bears the
+
+burden of establishing the enforceability of post-employment restrictive covenants. See
+Ingersoll-Rand Co. v. Ciavatta, 542 A.2d 879, 894 (N.J. 1988). Ajilon never acknowledges
+that New Jersey law governs its contract, much less attempts to show that its restrictive
+covenants are enforceable. They clearly are not. It is well established under New Jersey law that
+an employer cannot enforce restrictive covenants merely to protect itself from competition or to
+prevent an employee from taking a job with its competitor. Id. at 892.
+Ajilon’s contract provisions are unenforceable because they unreasonably restrict
+defendants’ ability to work. Under New Jersey law, only “reasonable” restrictive covenants are
+11
+
+New Jersey law applies to the breach of contract claim based on the contracts’ choice-of-law
+provision. (Compl. Ex. A at ¶ 16 (“This agreement will be governed by the laws of the State of
+New Jersey.”).) Because New Jersey has a substantial relationship to the transaction—Ajilon
+maintains its principle place of business there (Compl. ¶ 1)—and applying New Jersey law does
+not contradict a fundamental policy of the District of Columbia, this choice-of-law provision
+should be enforced. See Godbey v. Frank E. Basil, Inc., 603 F.Supp. 775, 776 (D.D.C. 1985).
+
+14
+
+Case 1:07-cv-01281-RJL
+
+Document 9
+
+Filed 07/24/2007
+
+Page 19 of 25
+
+enforceable. Id. A restrictive covenant is reasonable only if the employer can show that the
+restraint is necessary to protect its “‘legitimate interests’” and that it does not cause an “‘undue
+hardship’” on the employee. Id. (quoting Whitmyer Bros., Inc. v. Doyle, 274 A. 2d 577 (N.J.
+1971); Solari Indus., Inc. v. Malady, 264 A.2d 53 (N.J. 1970).) Ajilon can show neither.
+Ajilon’s contract provisions are not necessary to protect its “legitimate interests.”
+The New Jersey Supreme Court has long held that lessening competition is not a legitimate
+interest. See Whitmyer Bros., 274 A. 2d at 581 (“The employer has no legitimate interest in
+preventing competition.”). This is true even where, as here, an employer seeks to limit
+competition from its former employees. According to the New Jersey Supreme Court,
+knowledge, skill, expertise, and information acquired by an
+employee during his employment become part of the employee’s
+person. They belong to him as an individual for the transaction of
+any business in which he may engage, just the same as any part of
+the skill, knowledge and information received by him before
+entering the employment. An employee can use those skills in any
+business or profession he may choose, including a competitive
+business with his former employer. Courts will not enforce a
+restrictive agreement merely to aid the employer in extinguishing
+competition, albeit competition from a former employee.
+Ultimately, the consuming public would suffer from judicial
+nurturing of such naked restraints on competition.
+Ingersoll-Rand, 542 A.2d at 892 (internal quotation marks and citations omitted); Subcarrier
+Commc’n Inc. v. Day, 691 A.2d 876, 882 (N.J. Super. Ct. App. Div. 1997) (in response to claim
+of harm from competition with former employee: “that sort of harm is not actionable; it is called
+free enterprise”).
+Ajilon’s conclusory claim of misappropriated trade secrets and confidential
+information does not establish that its restrictive covenants are necessary to protect its legitimate
+interests. Although New Jersey law recognizes that protecting trade secrets and confidential
+information is a legitimate interest, the case law is clear that Ajilon’s customer information is
+
+15
+
+Case 1:07-cv-01281-RJL
+
+Document 9
+
+Filed 07/24/2007
+
+Page 20 of 25
+
+neither a trade secret nor sufficiently confidential to establish the reasonableness of the
+restrictive covenants.
+New Jersey courts are unwilling to treat customer information like Ajilon’s as
+confidential. One court, for example, decided that a list of customers, which consisted of “the
+names, addresses, phone numbers and contact persons,” was not a trade secret. Subcarrier, 691
+A.2d at 881. The court concluded that customer lists do not deserve trade secret protection
+“[w]here customers are known in an industry or are easily discernible and personal contacts are
+taken from job to job.” Id. (emphasis added.) In refusing to recognize the list as a trade secret,
+the court noted that the customers’ “identities and locations are a matter of common knowledge
+in the industry. We cannot understand how their identity or plaintiff’s relationship with them
+would be deserving of protection.” Id. (emphasis added); see also Whitmyer Bros., 274 A. 2d at
+581 (“matters of general knowledge within the industry may not be classified as trade secrets or
+confidential information entitled to protection”).
+Nor can Ajilon enforce its covenants not to compete on the grounds that it is
+necessary to protect its customer relationships. See Coskey’s Television & Radio Sales & Serv.,
+Inc. v. Foti, 602 A.2d 789, 795 (N.J. Super. Ct. App. Div. 1992). Ajilon alleges that, when Mr.
+Kubicki worked for it, Crowell was its biggest customer; that Mr. Kubicki has already obtained
+work from Crowell for Solomon-Page; and thus he must be enjoined to protect its relationship
+with Crowell. (Compl. ¶¶ 22, 25.) But Mr. Kubicki’s ability to obtained work from Crowell is
+not based on contacts formed while he was at Ajilon. (See Kubicki Decl. ¶ 12.) Indeed, Mr.
+Kubicki obtained a project from Crowell for Solomon-Page, not by soliciting Crowell, but
+because his long-time friend contacted him. (Id. ¶ 13.) New Jersey law is clear that this is not
+the sort of customer relationship that a restrictive covenant can protect.
+
+16
+
+Case 1:07-cv-01281-RJL
+
+Document 9
+
+Filed 07/24/2007
+
+Page 21 of 25
+
+A New Jersey appellate court vacated a preliminary injunction issued under
+similar circumstances. See Coskey’s, 602 A.2d at 789. In that case, the trial court enjoined the
+defendant, a former employee whose contract included a non-compete provision, from soliciting
+his former customers. In vacating the injunction, the court explained:
+What [the employee] brought to his employer, he should be able to
+take away. This is little different than the tradesman who brings his
+tools to his employer and upon separation leaves with them, or a
+scientist who has entered into an employment relationship with a
+head full of scientific data which he used for the benefit of his
+employer and then may use for the benefit of another upon
+reemployment. . . .[The employee’s] relationships within the
+industry were not bought and paid for; they were merely rented
+during the period of employment.
+Id. at 795 (emphasis added). Ajilon similarly did not purchase Mr. Kubicki’s relationships
+within the industry.
+Even if Ajilon had a legitimate interest to protect, its covenants not to compete are
+unenforceable because they cause an “undue hardship” for defendants. Ingersoll-Rand, 542
+A.2d at 894. Defendants’ contracts prevent each of them from working in the staffing industry in
+Washington. Mr. Kubicki’s contract prevents him from accepting similar jobs in, among other
+cities, New York, Chicago, Los Angeles, San Francisco, Dallas, or Houston. Preventing
+defendants from working for a year in their chosen profession clearly imposes an “undue
+hardship.” See Coskey’s, 602 A.2d at 794 (finding undue hardship where employee was “free to
+uproot his family and move elsewhere to continue his employment, giving up the contacts that he
+had personally developed . . . [because] this was neither a fair nor a viable alternative”).
+This Court should follow the lead of New Jersey trial courts, which deny
+preliminary injunctions seeking enforcement of non-competition clauses in the professional
+staffing industry. In Accounts on Call v. Silverberg, No. C-176-95, (N.J. Super. Ct. Ch. Div.
+1995), the plaintiff -- a staffing company that is affiliated with Ajilon -- sought to prevent two of
+17
+
+Case 1:07-cv-01281-RJL
+
+Document 9
+
+Filed 07/24/2007
+
+Page 22 of 25
+
+its former employees from working for Solomon-Page. The court denied a preliminary
+injunction, finding that the staffing agency was unlikely to succeed in enforcing its covenant not
+to compete. Refusing to treat the employer’s customer information as confidential, the court saw
+“nothing different between the plaintiff’s operation from any cold calling solicitation in a
+number of industries. Potential customers are readily ascertainable and public information. . . .
+There is nothing in the record to demonstrate plaintiff’s likelihood of success in establishing the
+confidential or proprietary nature of that customer list.” (Mosier Decl. Ex. B, at 43-44.)
+Similarly, in P.C. Help Servs., Inc. v. Wein, No. C-206-96E (N.J. Super. Ct. Ch. Div. 1996), the
+court denied a preliminary injunction, finding that the a staffing company was unlikely to
+succeed in enforcing its covenant not to compete because its customer list was not a trade secret.
+(See Mosier Decl. Ex. C, at 19.) This Court should do the same.
+III.
+
+DEFENDANTS WOULD BE SUBSTANTIALLY INJURED BY AN
+INJUNCTION.
+The harm to defendants is clear. If the Court grants Ajilon’s request for
+
+injunctive relief, defendants must quit their jobs. If immediate unemployment were not injury
+enough, defendants must either move to a different city to find work in the staffing industry or
+stay in Washington and try to find work in an unfamiliar job. These injuries are substantial and
+irreparable. Even if defendants ultimately prevail in this case, they cannot recover for losses
+sustained for their period of unemployment between the time the injunction is granted and the
+decision on the merits.
+Courts recognize that the harm caused by enjoining an employee from working in
+his chosen profession outweighs any threatened harm to the employer. In HIRECounsel, Judge
+Roberts found the balance of harms to favor the employee, noting that “to lose his employment
+and to be barred from seeking a similar position would certainly constitute a hardship.” (Mosier
+
+18
+
+Case 1:07-cv-01281-RJL
+
+Document 9
+
+Filed 07/24/2007
+
+Page 23 of 25
+
+Decl. Ex. A, at 49.) In Coskey’s, the court -- in vacating an injunction -- acknowledged the harm
+that the injunction had caused: “ The preliminary injunction in this case had obvious devastating
+effects upon [the employee], and only limited (and mainly financial) effects upon [the
+employer].” 602 A.2d at 796.
+The harm to defendants, who would be forced to quit their jobs, clearly weighs
+against granting injunctive relief.
+IV.
+
+THE PUBLIC INTEREST IS NOT FURTHERED BY AN INJUNCTION.
+Ajilon fails to show that the public interest is furthered by an injunction. Ajilon
+
+claims that the public interest is furthered “because the public has a deeply rooted interested in
+protecting trade secret client lists and other confidential information.” (Pl’s Mot. 7.) This
+interest, according to Ajilon, includes “‘preventing unfair competition, commercial piracy, [and]
+misleading solicitations.’” (Id. (quoting Morgan Stanley, 150 F. Supp. 2d at 79).) But the only
+information at issue in this case is law firm names, addresses, and telephone numbers. The
+public has no interest in keeping publicly available information secret. The information at issue
+in this case is not secret -- primarily because the law firms themselves publicize it.
+Ajilon also claims that the public has an interest in seeing contracts enforced.
+(Pl’s Mot. 7.) Although this is generally true, it certainly does not apply to contractual
+provisions that are unenforceable on public policy grounds. The public interest is not furthered
+by an injunction based on unenforceable restrictive covenants. Instead, the public interest is
+furthered by not enforcing the unreasonable restraints of trade found in defendants’ contracts.
+Ingersoll-Rand, 542 A.2d at 892 (“Ultimately, the consuming public would suffer from judicial
+nurturing of such naked restraints on competition.”).
+
+19
+
+Case 1:07-cv-01281-RJL
+
+Document 9
+
+Filed 07/24/2007
+
+Page 24 of 25
+
+CONCLUSION
+For the foregoing reasons, the Court should deny Plaintiff’s Motion for
+Temporary Restraining Order and for Preliminary Injunction.
+
+Respectfully submitted,
+
+___/s/ Anthony Herman______________
+Michael A. Schlanger (D.C. Bar No. 88849)
+Anthony Herman (D.C. Bar No. 424643)
+Mark W. Mosier (D.C. Bar No. 974887)
+COVINGTON & BURLING LLP
+1201 Pennsylvania Ave., NW
+Washington, DC 20004
+Telephone: (202) 662-6000
+Facsimile: (202) 662-6291
+
+July 24, 2007
+
+Attorneys for Defendants Joshua Kubicki,
+Kimberly Danowski, and Jon Pomykala
+
+20
+
+Case 1:07-cv-01281-RJL
+
+Document 9
+
+Filed 07/24/2007
+
+Page 25 of 25
+
+CERTIFICATE OF SERVICE
+I hereby certify that a true and correct copy of defendants’ Opposition to Ajilon’s
+Motion for Temporary Restraining Order and for Preliminary Injunction was served upon:
+Benjamin Hahn, Esq.
+SCHNADER HARRISON SEGAL & LEWIS LLP
+2001 Pennsylvania Ave N.W., Suite 300
+Washington, DC 20006-1825
+by First Class mail under the Rules of this Court on July 24, 2007.
+
+/s/ Anthony Herman
+Anthony Herman
+
+21
+
+Case 1:07-cv-01281-RJL
+
+Document 9-2
+
+Filed 07/24/2007
+
+Page 1 of 6
+
+Case 1:07-cv-01281-RJL
+
+Document 9-2
+
+Filed 07/24/2007
+
+Page 2 of 6
+
+Case 1:07-cv-01281-RJL
+
+Document 9-2
+
+Filed 07/24/2007
+
+Page 3 of 6
+
+Case 1:07-cv-01281-RJL
+
+Document 9-2
+
+Filed 07/24/2007
+
+Page 4 of 6
+
+Case 1:07-cv-01281-RJL
+
+Document 9-2
+
+Filed 07/24/2007
+
+Page 5 of 6
+
+Case 1:07-cv-01281-RJL
+
+Document 9-2
+
+Filed 07/24/2007
+
+Page 6 of 6
+
+Case 1:07-cv-01281-RJL
+
+Document 9-3
+
+Filed 07/24/2007
+
+Page 1 of 2
+
+Case 1:07-cv-01281-RJL
+
+Document 9-3
+
+Filed 07/24/2007
+
+Page 2 of 2
+
+Case 1:07-cv-01281-RJL
+
+Document 9-4
+
+Filed 07/24/2007
+
+Page 1 of 2
+
+Case 1:07-cv-01281-RJL
+
+Document 9-4
+
+Filed 07/24/2007
+
+Page 2 of 2
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 1 of 129
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+AJILON PROFESSIONAL STAFFING, LLC,
+Plaintiff
+v.
+
+CASE NO. 1:07-cv-01281-RJL
+
+JOSHUA KUBICKI, KIMBERLY DANOWSKI,
+and JON POMYKALA,
+Defendants.
+
+DECLARATION OF MARK W. MOSIER
+I, Mark W. Mosier, declare as follows:
+1.
+
+I am an associate at the law firm of Covington & Burling LLP, counsel to
+
+defendants in the above-captioned matter. I have personal knowledge of and am competent to
+testify to the matters set forth herein.
+2.
+
+Attached hereto at Exhibit A is a true and correct copy of a hearing
+
+transcript of the U.S. District Court for the District of Columbia in HIRECounsel D.C., LLC v.
+Thuemmler, No. 05-2111 (D.D.C.), dated January 5, 2006, denying plaintiff’s motion for a
+temporary restraining order and preliminary injunction.
+3.
+
+Attached hereto at Exhibit B is a true and correct copy of a hearing
+
+transcript of the Superior Court of New Jersey, Hudson County, in Accounts on Call v.
+Silverberg, No. C-176-95 (N.J. Super. Ct. Ch. Div.), dated October 24, 1995, denying plaintiff’s
+motion for a preliminary injunction.
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 2 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+EXHIBIT A
+
+Page 3 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 4 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 5 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 6 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 7 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 8 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 9 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 10 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 11 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 12 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 13 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 14 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 15 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 16 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 17 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 18 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 19 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 20 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 21 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 22 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 23 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 24 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 25 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 26 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 27 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 28 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 29 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 30 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 31 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 32 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 33 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 34 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 35 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 36 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 37 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 38 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 39 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 40 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 41 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 42 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 43 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 44 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 45 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 46 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 47 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 48 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 49 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 50 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 51 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 52 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 53 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 54 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 55 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 56 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 57 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 58 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 59 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 60 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 61 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+EXHIBIT B
+
+Page 62 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 63 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 64 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 65 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 66 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 67 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 68 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 69 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 70 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 71 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 72 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 73 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 74 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 75 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 76 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 77 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 78 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 79 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 80 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 81 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 82 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 83 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 84 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 85 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 86 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 87 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 88 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 89 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 90 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 91 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 92 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 93 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 94 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 95 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 96 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 97 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 98 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 99 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 100 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 101 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 102 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 103 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 104 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 105 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 106 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 107 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 108 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 109 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+EXHIBIT C
+
+Page 110 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 111 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 112 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 113 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 114 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 115 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 116 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 117 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 118 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 119 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 120 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 121 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 122 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 123 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 124 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 125 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 126 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 127 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 128 of 129
+
+Case 1:07-cv-01281-RJL
+
+Document 9-5
+
+Filed 07/24/2007
+
+Page 129 of 129
+
+

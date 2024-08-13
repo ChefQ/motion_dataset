@@ -1,0 +1,549 @@
+Case 2:10-cv-06141-WJM-MF Document 63 Filed 07/02/12 Page 1 of 20 PageID: 1618
+
+LOWENSTEIN SANDLER PC
+65 Livingston Avenue
+Roseland, New Jersey 07068
+(973) 597-2500
+DEBEVOISE & PLIMPTON LLP
+919 Third Avenue
+New York, New York 10022
+(212) 909-6000
+Attorneys for Plaintiff
+JPMorgan Chase Bank, N.A.
+UNITED STATES DISTRICT COURT
+DISTRICT OF NEW JERSEY
+------------------------------------------------------x
+:
+JPMORGAN CHASE BANK, N.A.,
+Case No. 2:10-CV-06141 (WJM)
+:
+Plaintiff,
+:
+v.
+:
+REPUBLIC MORTGAGE INSURANCE
+MEMORANDUM IN
+COMPANY and REPUBLIC MORTGAGE :
+OPPOSITION TO
+INSURANCE COMPANY OF NORTH
+DEFENDANTS’ MOTION TO
+CAROLINA,
+:
+ENJOIN OR STAY
+ARBITRATION
+Defendants.
+:
+------------------------------------------------------x
+
+Case 2:10-cv-06141-WJM-MF Document 63 Filed 07/02/12 Page 2 of 20 PageID: 1619
+
+TABLE OF CONTENTS
+Page
+Preliminary Statement................................................................................................1
+Statement of Facts......................................................................................................3
+A.
+
+The Arbitration ......................................................................................4
+
+B.
+
+Relevant Procedural History in this Action ..........................................5
+
+Argument....................................................................................................................7
+A.
+
+Litigation Conduct Occurring After February 22, 2011 Cannot
+Support a Finding of Waiver.................................................................7
+
+B.
+
+Chase’s Litigation Conduct Prior to February 22, 2011 Did Not
+Waive Its Right to Arbitrate Its Claims with Respect to the Bear
+Certificate ............................................................................................10
+
+Conclusion ...............................................................................................................15
+
+i
+
+Case 2:10-cv-06141-WJM-MF Document 63 Filed 07/02/12 Page 3 of 20 PageID: 1620
+
+TABLE OF AUTHORITIES
+CASES
+AAMCO Transmissions, Inc v. Dunlap, No. 11-4009, 2011 WL 3586225
+(E.D. Pa. Aug. 16, 2011).......................................................................................8
+Doctor’s Assocs., Inc v. Distajo, 107 F.3d 126 (2d Cir. 1997) .............................8, 9
+Gingiss Int’l Inc. v. Bormet, 58 F.3d 328 (7th Cir. 1995) .........................................8
+Gray Holdco, Inc. v. Cassady, 654 F.3d 444 (3d Cir. 2011).......................11, 12, 13
+Hoxworth v. Blinder, Robinson & Co., 980 F.2d 912 (3d Cir. 1992)..........11, 12, 13
+Louis Dreyfus Negoce S.A. v. Blystad Shipping & Trading Inc., 252 F.3d 218
+(S.D.N.Y. 2001) ..................................................................................................15
+Microstrategy, Inc. v. Lauricia, 268 F.3d 244 (4th Cir. 2001)..................................9
+Moses H. Cone Mem’l Hosp. v. Mercury Constr. Corp., 460 U.S. 1 (1983) ............1
+Nationwide Mut. Fire Ins. Co. v. Hamilton, 410 F. App’x 537 (3d Cir. 2011).......15
+PaineWebber, Inc. v. Faragalli, 61 F.3d 1063 (3d Cir. 1995) ........................1, 7, 14
+Palcko v. Airborne Express, Inc., 372 F.3d 588 ......................................................13
+Tokio Marine & Fire Ins. Co., Ltd v. M/V Saffron Trader, 257 F. Supp. 2d
+651 (S.D.N.Y. 2003)...........................................................................................14
+Wood v. Prudential Ins. Co. of Am., 207 F.3d 674 (3d Cir. 2000) ....................13, 14
+Zimmer v. CooperNeff Advisors, Inc., 523 F.3d 224 (3d Cir. 2004) .............2, 13, 14
+
+OTHER AUTHORITIES
+Fed. R. Civ. P. 15 .......................................................................................................5
+Fed. R. Civ. P. 26 .................................................................................................6, 13
+
+ii
+
+Case 2:10-cv-06141-WJM-MF Document 63 Filed 07/02/12 Page 4 of 20 PageID: 1621
+
+Preliminary Statement
+In a transparent attempt to avoid answering for one of its many contractual
+breaches, Republic Mortgage Insurance Company (“RMIC”) asks the Court to
+disregard the strong federal policy favoring arbitration, Moses H. Cone Mem’l
+Hosp. v. Mercury Constr. Corp., 460 U.S. 1, 24-25 (1983); PaineWebber, Inc. v.
+Faragalli, 61 F.3d 1063, 1068 (3d Cir. 1995), and enjoin a duly commenced
+arbitration. In support of this extraordinary relief, RMIC argues that JPMorgan
+Chase Bank, N.A. (“Chase”) waived its right to arbitrate by engaging in litigation
+concerning the arbitration claim that prejudiced RMIC with respect to that claim.
+This argument does not survive even the most casual scrutiny.
+As a preliminary matter, RMIC obfuscates and grossly mischaracterizes the
+nature and scope of the relevant litigation conduct. The arbitration at issue, which
+Chase filed with the American Arbitration Association on May 25, 2012
+(hereinafter, the “Arbitration”) concerns a breach of a master insurance policy,
+Policy No. 36450, issued by RMIC to Bear Stearns Residential Mortgage Corp.
+(“Bear Stearns”) on January 12, 2005 (the “Bear Policy”). The breach relates to
+the improper rescission of a single insurance certificate issued pursuant to the
+policy (the “Bear Certificate”). This action does not now and has never related to
+the Bear Policy (or any other master policy issued to Bear Stearns). Chase’s initial
+complaint listed the Bear Certificate among the certificates at issue in this matter.
+1
+
+Case 2:10-cv-06141-WJM-MF Document 63 Filed 07/02/12 Page 5 of 20 PageID: 1622
+
+The mere temporary inclusion of this policy in the initial complaint, however, does
+not constitute waiver of Chase’s right to arbitrate. Cf. Zimmer v. CooperNeff
+Advisors, Inc., 523 F.3d 224 (3d Cir. 2004) (finding that the filing of a complaint
+alone without resulting prejudice to the opposing party would not constitute
+waiver).
+It is crystal clear that Chase’s temporary inclusion of the Bear Certificate
+among many others listed as being at issue in its first complaint in no way
+prejudiced RMIC. In the matter of weeks that the Bear Certificate was included in
+this action, nothing occurred any differently than if the claim had not been
+asserted. There was no discovery at all concerning the facts of that claim and no
+motion practice related to it. RMIC’s argument that it has been prejudiced because
+it faces the threat of inconsistent orders if the Arbitration is permitted to proceed is
+a red herring for two reasons. First, assuming it were possible for there to be
+inconsistent orders (which it is not), this consequence would not result from any of
+Chase’s litigation conduct, but rather would result from the agreement between the
+parties that permits claims to be litigated in arbitration or in court at the election of
+the insured. RMIC cites no case authority even suggesting that enjoining the
+arbitration is appropriate under such circumstances. Second—and most
+importantly—the declaratory relief sought in the two proceedings is, in reality,
+wholly distinct and does not pose a risk of inconsistent declaratory judgments. In
+2
+
+Case 2:10-cv-06141-WJM-MF Document 63 Filed 07/02/12 Page 6 of 20 PageID: 1623
+
+the arbitration, Chase seeks a ruling interpreting a particular section-section 2.4-of
+the master policy at issue; here, although Chase has sought declarations concerning
+the meaning of provisions in identically worded policies, it has not sought any
+declaration as to the meaning of section 2.4.
+For the foregoing reasons and those set forth herein, RMIC’s motion should
+be denied.
+Statement of Facts
+Although RMIC does its best to obfuscate them, the facts relevant to
+adjudication of the Motion are uncomplicated. Chase, as the agent of the current
+insured party under the Bear Policy has the unambiguous contractual right to elect
+the forum for resolving claims relating to the Bear Certificate. (Demand for
+Arbitration and Statement of Claims, dated May 25, 2012 ¶ 8 (hereinafter, the
+“Demand”), attached as Ex. A to Declaration of Albert E. Fowerbaugh, dated June
+19, 2012 (hereinafter, the “Fowerbaugh Aff.”)) The contract plainly states that the
+insured may choose to either arbitrate or litigate such claims. (Ex. A to Demand at
+22.) This action relates solely to RMIC’s breach of its contractual duties to Chase
+in connection with 377 specific Certificates, but not the Bear Certificate. (Compl.
+¶ 12, ECF No. 1 (identifying the master policies issued to Chase and Washington
+Mutual as subject of this action); Affidavit of Joyce Mizerak, dated July 2, 2012
+
+3
+
+Case 2:10-cv-06141-WJM-MF Document 63 Filed 07/02/12 Page 7 of 20 PageID: 1624
+
+(hereinafter, “Mizerak Aff.”) ¶ 4.) Simply put, there is no overlap of the legal or
+factual issues in this action and the Arbitration.
+A.
+
+The Arbitration
+The arbitration relates to a single breach by RMIC of the Bear Policy.
+
+(Demand ¶¶ 4, 11 (“In particular, as is relevant to this arbitral claim, RMIC
+violated its contractual duties with respect to [the loan at issue].”)). The breach
+relates to the improper rescission of a single insurance certificate issued pursuant
+to the Bear Policy. (Id. ¶¶ 22, 40-41.) The Bear Policy, which is not among the
+Master Policies at issue in this action, contains a clear and unambiguous arbitration
+clause that gives the insured the right to elect arbitration to settle disputes arising
+out of or relating to the Bear Policy. It provides, in relevant part, as follows:
+7.6 Arbitration of Disputes; Suits and Actions
+Brought by the Insured
+a.
+Unless prohibited by applicable law, the Insured,
+at its option, may elect to settle by arbitration a
+controversy, dispute, or other assertion of liability or
+rights which it initiates arising out of or relating to this
+Policy, including the breach, interpretation, or
+construction thereof. . .
+b.
+No suit or action (including arbitration hereunder)
+brought by the Insured against the Company with respect
+to the Company’s liability for a claim under this Policy
+shall be sustained. . .unless the suit or action is
+commenced within three (3) years (five (5) years in
+Florida or Kansas) . . .
+4
+
+Case 2:10-cv-06141-WJM-MF Document 63 Filed 07/02/12 Page 8 of 20 PageID: 1625
+
+(Ex. A to Demand at 22-23.) This provision (hereinafter, the “Arbitration Clause”)
+does not require the insured to give any advance notice of its intent to arbitrate to
+RMIC nor does it require any consultation with RMIC prior to the time the insured
+seeks arbitration.
+B.
+
+Relevant Procedural History in this Action
+The procedural history of this action relevant to this motion is limited.
+
+Chase, through its former counsel, commenced this action by filing a complaint on
+November 23, 2010 (the “Initial Complaint”). The Initial Complaint challenged
+RMIC’s rescission of approximately 2,000 insurance certificates, including the
+Bear Certificate. (Ex. A to Compl.) Soon thereafter on February 22, 2011, Chase
+amended the Initial Complaint pursuant to Federal Rule of Civil Procedure 15,
+reducing the number of certificates at issue to approximately 1,800. (Ex. A to Am.
+Compl., ECF No. 19.) The purpose of the amendment was to eliminate reference
+to a number of certificates that, upon more careful consideration, Chase elected not
+to include in this litigation for various reasons. The Bear Certificate was among
+the certificates removed from the Initial Complaint. Contrary to the suggestion
+that pervades RMIC’s motion papers, Chase’s litigation decisions relating to the
+amendment of the Initial Complaint were not examples of forum shopping or some
+other improper litigation tactic—rather, they reflect a genuine effort to limit this
+action to claims under policies issued to Chase, Washington Mutual and certain
+5
+
+Case 2:10-cv-06141-WJM-MF Document 63 Filed 07/02/12 Page 9 of 20 PageID: 1626
+
+third-party originators from whom Chase purchased loans (the “Third-Party
+Originators”). (Mizerak Aff. ¶ 2.)
+As of February 22, 2011, very little had happened in this case. Although
+RMIC had filed a motion to dismiss, the motion in no way related to the Bear
+Certificate, Chase had not yet opposed the motion and the Court had not yet ruled
+on it. The Court had entered no orders, except one permitting Chase to file a
+motion for partial summary judgment. No discovery had taken place, except that
+RMIC had submitted its initial disclosures under Federal Rule of Civil Procedure
+26 (Defs.’ Br. at 10-11), none of which related in any way to the Bear Certificate.
+On February 22, 2011, Chase simultaneously filed an amended complaint (the
+“First Amended Complaint”), its opposition to RMIC’s motion to dismiss, and a
+cross-motion for partial summary judgment. (ECF Nos. 19, 20 and 21.) The Court
+ruled on RMIC’s motion on May 4, 2011 and dismissed this action without
+prejudice. (Order, ECF No. 37.)
+Pursuant to Judge Chesler’s May 4, 2011 Order granting it leave to do so,
+Chase subsequently filed a further amended complaint on July 19, 2011 (the
+“Second Amended Complaint”), which pursues a different legal theory than the
+previously filed complaints and is currently pending before this Court. (See
+Second Am. Compl., ECF No. 38.) The Second Amended Complaint asserts
+different legal theories than the ones asserted in both the Initial Complaint and the
+6
+
+Case 2:10-cv-06141-WJM-MF Document 63 Filed 07/02/12 Page 10 of 20 PageID: 1627
+
+First Amended Complaint and seeks relief with respect to a more limited number
+of specific instances in which RMIC refused to pay a valid and validly submitted
+claim. In total, the Second Amended Complaint relates to 377 specific coverage
+rescissions, all arising under master policies issued to Chase, Washington Mutual
+or the Third-Party Originators. (Mizerak Aff. ¶ 2.) Once again, the Bear
+Certificate was not among the 377 specific certificates included in the Second
+Amended Complaint. (Id.)
+Argument
+As noted, the Bear Policy gives the insured the right to arbitrate disputes
+arising under or relating to the policy. The dispute as to the propriety of RMIC’s
+rescission of the Bear Certificate falls squarely within that clause. RMIC does not
+dispute that the Bear Policy gives Chase the right to select arbitration to resolve
+that claim. Despite the unambiguous contract provision, and the fact that “waiver
+is not to be lightly inferred,” Faragalli, 61 F.3d at 1068, RMIC argues here that
+Chase waived its right to arbitrate by engaging in litigation conduct that prejudiced
+RMIC. RMIC is wrong.
+A.
+
+Litigation Conduct Occurring After February 22, 2011 Cannot Support a
+Finding of Waiver
+As a preliminary matter, to the extent that RMIC’s waiver argument is based
+
+upon litigation conduct occurring after February 22, 2011, it should be rejected out
+7
+
+Case 2:10-cv-06141-WJM-MF Document 63 Filed 07/02/12 Page 11 of 20 PageID: 1628
+
+of hand. Ample case law holds that a party does not waive its right to arbitrate a
+claim by engaging in litigation with respect to distinct claims. See, e.g., Doctor’s
+Assocs., Inc v. Distajo, 107 F.3d 126, 133 (2d Cir. 1997) (“[O]nly prior litigation
+of the same legal and factual issues as those the party now wants to arbitrate
+results in waiver of the right to arbitrate.”) (emphasis added). The same rule
+applies even if the distinct claims arise under the same contract. See, e.g., Gingiss
+Int’l Inc. v. Bormet, 58 F.3d 328, 332 (7th Cir. 1995) (holding that prosecuting
+related claims in state court was not waiver of arbitration and noting that “the
+franchise agreement provided [plaintiff] with the right, but not the obligation, to
+litigate rather than arbitrate these claims”); AAMCO Transmissions, Inc v. Dunlap,
+No. 11-4009, 2011 WL 3586225, at *11 (E.D. Pa. Aug. 16, 2011) (no waiver
+where litigation at issue differs from parties’ prior dispute and party filed separate
+action).
+Where, as here, the litigation conduct relates to claims distinct from those
+asserted in arbitration, there is no need to analyze whether or not the party
+opposing arbitration has suffered prejudice. Doctor’s Assocs., Inc., 107 F.3d at
+133 (noting that it is not necessary to determine whether the opposing party
+suffered any prejudice as a result of unrelated litigation conduct); Microstrategy,
+Inc. v. Lauricia, 268 F.3d 244, 251 (4th Cir. 2001) (“But because the prior actions
+were primarily directed to claims unrelated to those asserted by [defendant], the
+8
+
+Case 2:10-cv-06141-WJM-MF Document 63 Filed 07/02/12 Page 12 of 20 PageID: 1629
+
+expense and effort associated with those claims cannot be used in support of the
+argument that [plaintiff] waived its right to arbitrate the discrimination claims.”).
+As noted, after February 22, 2011, the sole issue submitted to arbitration—
+the propriety of the rescission of the Bear Certificate—was not at issue in this
+action. (Ex. A to Am. Compl., ECF No. 19.) Rather, this action pertained only to
+other, distinct breaches relating to the rescission of other distinct insurance
+certificates issued pursuant to distinct master policies. (Id.; Mizerak Aff. ¶¶ 2-4 .)
+Accordingly, any litigation conduct occurring after February 22, 2011 cannot be
+construed as a waiver of Chase’s right to arbitrate its claim relating to the Bear
+Certificate.
+RMIC, nonetheless, argues that the current litigation conduct is relevant
+because Chase is asserting the same claim for declaratory relief in both forums.
+This assertion is patently false. It is plain from an examination of the pleadings in
+both cases that Chase is seeking different declaratory relief in the two proceedings.
+RMIC points out that the Bear Policy and the master policies at issue in this case
+have identical terms. (Defs.’ Br. at 4.) But, even so, the declarations sought in the
+two actions are different. In the arbitration, Chase has requested a declaration
+concerning the operation of section 2.4 of the Bear Policy—specifically, a
+declaration that RMIC is not entitled to rescind insurance coverage where neither
+the loan originator nor an appraiser made or participated in a material
+9
+
+Case 2:10-cv-06141-WJM-MF Document 63 Filed 07/02/12 Page 13 of 20 PageID: 1630
+
+representation. (Demand ¶ 37.) Although Chase has sought several declarations
+from this Court with respect to identically worded policies, it has not sought any
+declaration interpreting section 2.4 of the master policies at issue in this action.
+(See Second Am. Compl. at 25-26 (listing eight declarations sought by Chase in
+this action, all of which relate to the operation of state law and sections 2.2, 2.3 and
+5.6 of the master policies, and not section 2.4).)
+B.
+
+Chase’s Litigation Conduct Prior to February 22, 2011 Did Not Waive Its
+Right to Arbitrate Its Claims with Respect to the Bear Certificate
+Turning to Chase’s litigation conduct prior to the time it filed its First
+
+Amended Complaint on February 22, 2011, it is clear that this conduct did not
+waive its right to arbitrate claims with respect to the Bear Certificate because
+RMIC has suffered no cognizable prejudice resulting from Chase’s limited
+litigation conduct. As set forth above, the only litigation conduct in which Chase
+engaged was to identify the Bear Certificate as one of the certificates at issue in
+this action in the Initial Complaint, but Chase promptly voluntarily amended the
+Initial Complaint to exclude the claim.
+RMIC argues that in order to determine whether Chase has waived its right
+to arbitrate, the Court must examine a number of factors set forth in Hoxworth v.
+Blinder, Robinson & Co., 980 F.2d 912 (3d Cir. 1992). Courts in the Third Circuit
+apply the Hoxworth factors to determine whether a party “demonstrates sufficient
+
+10
+
+Case 2:10-cv-06141-WJM-MF Document 63 Filed 07/02/12 Page 14 of 20 PageID: 1631
+
+prejudice arising from the delay of the party seeking arbitration in making its
+demand.” Gray Holdco, Inc. v. Cassady, 654 F.3d 444, 451 (3d Cir. 2011). As is
+evident from the plain meaning of the factors, however, they were initially
+designed to assess waiver in situations where a party moves to compel arbitration
+of a dispute that is currently the subject of a pending litigation, which is not the
+situation in this case. The standard Hoxworth factors are, “(1) timeliness or lack
+thereof the motion to arbitrate; (2) extent to which party seeking arbitration has
+contested the merits of the opposing party’s claims; (3) whether the party seeking
+arbitration informed its adversary of its intent to pursue arbitration prior to seeking
+to enjoin the court proceedings; (4) the extent to which a party seeking arbitration
+engaged in non-merits motion practice; (5) the party’s acquiescence to the court’s
+pretrial orders; and (6) the extent to which the parties engaged in discovery.” Id.
+(citing Hoxworth, 980 F.2d at 926-27).
+Application of the Hoxworth factors, to the extent they apply here, shows
+that RMIC has not suffered any prejudice:
+
+
+The first factor is the timeliness of a party’s demand for arbitration.
+Gray, 645 F.3d at 451. Here, Chase’s demand for arbitration was
+made within the agreed-upon period for bringing an arbitration in the
+arbitration clause and was, therefore, timely. ((See Ex. A to Demand
+at 22) (imposing three-year time period in which to file suit or
+arbitration).) The fact that the demand occurred after Chase was
+already engaged in litigation concerning other, distinct claims is
+simply of no relevance. Litigation of those claims in no way
+prejudiced RMIC with respect to the claim submitted to arbitration.
+11
+
+Case 2:10-cv-06141-WJM-MF Document 63 Filed 07/02/12 Page 15 of 20 PageID: 1632
+
+
+
+The second factor is the degree to which plaintiff “participated in
+substantive legal proceedings and has pursued or challenged legal
+positions and arguments advanced by the respective parties in the
+litigation.” Gray, 645 F.3d at 451. Similarly, the fourth factor looks
+at the extent to which a party used the litigation mechanism,
+specifically “the extent to which a party seeking arbitration engaged in
+non-merits motion practice” Id. Here, Chase’s only litigation conduct
+while the Bear Certificate was part of its complaint was to obtain
+permission to file a request to file a motion for Summary Judgment.
+(Order, ECF No. 18.) Contemporaneously with filing its motion for
+summary judgment, Chase amended its complaint to exclude the Bear
+Certificate, and the summary judgment motion in no way related to it.
+Accordingly, RMIC has not and cannot possibly claim that Chase’s
+litigation conduct prejudiced it with respect to the claim relating to the
+Bear Certificate.
+
+
+
+The third factor is whether the party seeking arbitration informed its
+adversary of its intent to pursue arbitration prior to seeking to enjoin
+litigation proceedings. Gray, 645 F.3d at 451. This factor only makes
+sense when a party seeks to compel the arbitration of the same claims
+currently being litigated. In those circumstances, such notice could
+relieve the other party of continuing to litigate the claim prior to its
+submission to arbitration. Here, this same concern is not implicated.
+The Arbitration Clause does not require Chase to give RMIC advance
+notice of its intent to arbitrate and the existence of ongoing litigation
+concerning other, distinct claims imposes no such duty. As such, this
+Hoxworth factor does not weigh in favor of either party.
+
+
+
+The fifth factor is also ill-suited for application on these facts. That
+factor looks at a party’s “acquiescence to the court’s pretrial orders.”
+Gray, 645 F.3d at 451. It should go without saying that Chase has
+acquiesced with the Court’s orders in this litigation because Chase
+fully intends to litigate the claims that are actually at issue in this case
+before this Court. Because this factor is aimed at cases where a party
+seeks to compel arbitration (and, typically, stay litigation) of the same
+claims it is of limited use here.
+
+
+
+The final factor—one that does apply in the current circumstances—is
+the extent the parties engaged in discovery that might prejudice the
+opposing party. Gray, 645 F.3d at 451. Here, RMIC admits the only
+12
+
+Case 2:10-cv-06141-WJM-MF Document 63 Filed 07/02/12 Page 16 of 20 PageID: 1633
+
+discovery has been initial disclosures pursuant to Rule 26, which is to
+say, hardly any discovery at all. (Defs.’ Br. at 36.) This factor clearly
+weighs in Chase’s favor because the absence of discovery shows that
+it obtained no unfair advantage in the arbitration by taking advantage
+of the discovery mechanisms available in this action. Wood v.
+Prudential Ins. Co. of Am., 207 F.3d 674, 680 (3d Cir. 2000) (finding
+no prejudice because there were no depositions nor any other
+discovery taken, and the Federal Rules were not used to conduct
+otherwise unavailable discovery).
+As the foregoing illustrates, not all of the Hoxworth factors are well-suited to
+analyzing RMIC’s motion, but, when they apply, they weigh heavily against
+finding waiver. In deciding this motion, the Court should focus on the key
+question the non-exclusive list of Hoxworth factors are aimed at answering: did
+the litigation conduct of the party seeking arbitration prejudice the party opposing
+it. Palcko v. Airborne Express, Inc., 372 F.3d 588, 598 (3d Cir. 2004)
+(“[P]rejudice is the touchstone for determining whether the right to arbitrate has
+been waived.”) (internal quotation omitted); Zimmer, 523 F.3d at 234 (remanding
+to District Court to consider whether party demonstrated prejudice).
+RMIC has not been prejudiced by any litigation conduct with respect to the
+Bear Certificate. The mere filing of a complaint does not waive the right to
+arbitrate the claim and does not prejudice the opposing party. Zimmer, 523 F.3d at
+232-33 (fact that party initially filed a complaint is insufficient alone to find
+prejudice); see also Tokio Marine & Fire Ins. Co., Ltd v. M/V Saffron Trader, 257
+F. Supp. 2d 651, 655 (S.D.N.Y. 2003) (finding no waiver and noting that the
+
+13
+
+Case 2:10-cv-06141-WJM-MF Document 63 Filed 07/02/12 Page 17 of 20 PageID: 1634
+
+“extremely limited activity of filing a complaint, without more, does not suggest a
+waiver of the arbitration agreement”). On the contrary, in this Circuit, courts
+typically find waiver through litigation conduct only “when both parties had
+engaged in extensive discovery,” Faragalli, 61 F.3d at 1069; see also Wood, 207
+F.3d at 680 (holding no waiver of arbitration where litigation tactics were not
+extensive and party had not strategically used the Federal Rules to conduct
+discovery), which RMIC admits in its motion papers did not occur with respect to
+any claim in this litigation, much less any claim relating to the Bear Certificate at
+issue in the Arbitration.
+Although lengthy, RMIC’s motion contains no sensible explanation of the
+prejudice it has suffered resulting from the inclusion of the claims related to the
+Bear Certificate in the Initial Complaint. There is none. RMIC complains that it
+has been prejudiced because it has incurred substantial cost in litigating this action
+and permitting the arbitration to go forward would compound those costs. (Defs.’
+Br. at 20.) This assertion may be true, but RMIC cannot claim to be prejudiced
+based on the fact that it is more expensive to litigate distinct claims in two forums
+instead of one—this possibility arises naturally from the fact that RMIC entered
+into multiple master policies with different insureds and also agreed that the
+insureds have the right to select between arbitration or litigation with respect to
+individual claims. As one court aptly put it: “Prejudice does not refer to enforcing
+14
+
+Case 2:10-cv-06141-WJM-MF Document 63 Filed 07/02/12 Page 18 of 20 PageID: 1635
+
+a bargained-for agreement, even where such enforcement will obligate a party to
+litigate in more than one forum.” Louis Dreyfus Negoce S.A. v. Blystad Shipping
+& Trading Inc., 252 F.3d 218, 230 (2d Cir. 2001); see also Nationwide Mut. Fire
+Ins. Co. v. Hamilton, 410 F. App’x 537, 540 (3d Cir. 2011), cert. denied, 132 S.Ct.
+119 (2011) (noting that “the policy favoring arbitration takes precedence even
+when parties will be required to resolve related disputes in other forums because
+the relevant federal law requires piecemeal resolution when necessary to give
+effect to an arbitration agreement”). And, RMIC does not (and cannot) allege that
+any of its incurred costs resulted from the inclusion of the Bear Certificate in the
+Initial Complaint.
+RMIC also complains that if the arbitration is permitted to proceed it could
+be subject to inconsistent declaratory judgments (Defs.’ Br. at 23) but this assertion
+does not withstand scrutiny either. As discussed above, the declaratory relief
+sought in the arbitration is distinct from and does not overlap with the declaratory
+relief sought in this action. See supra 9-10.
+Conclusion
+For all the foregoing reasons, Chase respectfully requests that the Court
+deny RMIC’s motion. RMIC does not dispute that the Bear Policy gives Chase the
+right to arbitrate claims relating to the Bear Certificate. The fact that Chase
+included the Bear Certificate in its Initial Complaint for a few short months does
+15
+
+Case 2:10-cv-06141-WJM-MF Document 63 Filed 07/02/12 Page 19 of 20 PageID: 1636
+
+not constitute waiver of the right to arbitrate that separate and distinct claim and
+certainly caused no prejudice to RMIC.
+
+Dated:
+
+July 2, 2012
+/s/ Michael D. Lichtenstein
+Lawrence M. Rolnick
+Michael D. Lichtenstein
+LOWENSTEIN SANDLER PC
+65 Livingston Avenue
+Roseland, New Jersey 07068
+(973) 597-2500
+
+16
+
+Case 2:10-cv-06141-WJM-MF Document 63 Filed 07/02/12 Page 20 of 20 PageID: 1637
+
+and
+Robert D. Goodman
+Andrew J. Ceresney*
+Philip A. Fortino*
+DEBEVOISE & PLIMPTON LLP
+919 Third Avenue
+New York, New York 10022
+(212) 909-6000
+*Admitted pro hac vice.
+Attorneys for Plaintiff JPMorgan
+Chase Bank, N.A.
+
+17
+
+

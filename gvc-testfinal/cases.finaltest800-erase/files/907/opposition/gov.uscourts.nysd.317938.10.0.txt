@@ -1,0 +1,1006 @@
+Case 1:07-cv-11189-BSJ-DCF
+
+Document 10
+
+Filed 02/20/2008
+
+Page 1 of 23
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+---------------------------------------X
+MARYANN ROBINSON,
+Plaintiff,
+
+07 Civ. 11189 (BSJ)
+
+- against -
+
+ECF CASE
+
+DEUTSCHE BANK TRUST
+COMPANY AMERICAS,
+Defendant.
+---------------------------------------X
+
+=========================================================
+PLAINTIFF’S MEMORANDUM OF LAW IN OPPOSITION
+TO DEFENDANT’S MOTION TO DISMISS
+=========================================================
+
+VLADECK, WALDMAN, ELIAS &
+ENGELHARD, P.C.
+Attorneys for Plaintiff
+1501 Broadway, Suite 800
+New York, New York 10036
+(212) 403-7300
+Of Counsel:
+Debra L. Raskin
+Anand Swaminathan
+
+249799 v1
+
+Case 1:07-cv-11189-BSJ-DCF
+
+Document 10
+
+Filed 02/20/2008
+
+Page 2 of 23
+
+TABLE OF CONTENTS
+
+TABLE OF AUTHORITIES ...................................................................................................... ii
+I.
+
+PRELIMINARY STATEMENT.......................................................................... 1
+
+II.
+
+STATEMENT OF FACTS .................................................................................. 2
+
+III.
+
+A.
+
+Plaintiff's Background and Clients ........................................................... 2
+
+B.
+
+Defendant's Repeated Misrepresentations to Plaintiff ............................... 3
+
+C.
+
+Robinson Learns of the Bank's Misrepresentations................................... 6
+
+ARGUMENT ...................................................................................................... 8
+A.
+
+PLAINTIFF'S RELIANCE ON DEFENDANT'S
+MISREPRESENTATIONS WAS NOT UNREASONABLE AS A
+MATTER OF LAW................................................................................. 8
+1.
+
+The Elements of a Fraudulent Inducement Claim.......................... 8
+
+2.
+
+The Reasonableness of Plaintiff's Reliance Raises an Issue of Fact
+Unsuitable for Determination on a Motion to Dismiss ................ 10
+
+3.
+
+B.
+
+IV.
+
+249799 v1
+
+a.
+
+The Misrepresentations are Collateral to and Not
+Contradicted by the Agreement....................................... 11
+
+b.
+
+Despite Her Diligent Efforts, Plaintiff Could Not Discover
+the Falsity of Defendant's Representations ...................... 12
+
+Because Defendant's Misrepresentations are Collateral to the
+Contract, the Agreement's General Merger Clause Does Not Make
+Plaintiff's Reliance Unreasonable as a Matter of Law ................. 14
+
+DEFENDANT'S REFERENCE TO DOCUMENTS NEITHER
+ATTACHED TO THE COMPLAINT NOR INCORPORATED BY
+REFERENCE IS IMPERMISSIBLE...................................................... 17
+
+CONCLUSION ................................................................................................. 19
+
+ii
+
+Case 1:07-cv-11189-BSJ-DCF
+
+Document 10
+
+Filed 02/20/2008
+
+Page 3 of 23
+
+TABLE OF AUTHORITIES
+CASES
+484 Assocs. L.P. v. Moy,
+No. 06 Civ. 2290, 2007 WL 683999 (S.D.N.Y. Mar. 5, 2007) ..................................10, 13
+Allen v. West Point-Pepperell, Inc.,
+945 F.2d 40 (2d Cir. 1991) ............................................................................................ 17
+Alter v. Bogoricin,
+No. 97 Civ. 0662, 1997 WL 691332 (S.D.N.Y. Nov. 6, 1997)..................................11, 12
+Bangkok Crafts Corp. v. Capitolo Di San Pietro in Vaticano,
+No. 03 Civ. 15, 2007 WL 1687044 (S.D.N.Y. June 11, 2007) ....................................... 10
+Bell Atl. Corp. v. Twombly,
+127 S. Ct. 1955 (2007) .................................................................................................... 8
+Bonacci v. Lone Star Int'l Energy, Inc.,
+No. 98 Civ. 0634, 1999 WL 76942 (S.D.N.Y. Feb. 16, 1999)...................................10, 11
+Bridgestone/Firestone, Inc. v. Recovery Credit Srvs., Inc.,
+98 F.3d 13 (2d Cir. 1996)................................................................................................ 9
+Canelle v. Russian Tea Room Realty LLC,
+No. 01 Civ. 0616, 2002 WL 287750 (S.D.N.Y. Feb. 27, 2002)...................................... 18
+Chambers v. Time Warner, Inc.,
+282 F.3d 147 (2d Cir. 2002) ............................................................................................ 8
+Cress v. Wilson,
+No. 06 Civ. 2717, 2007 WL 1686687 (S.D.N.Y. June 6, 2007) ..................................... 18
+Doehla v. Wathne Ltd., Inc.,
+No. 98 Civ. 6087, 1999 WL 566311 (S.D.N.Y. Aug. 3, 1999)....................................... 10
+Emergent Capital Inv. Mgmt., LLC v. Stonepath Group, Inc.,
+343 F.3d 189 (2d Cir. 2003) .......................................................................................... 14
+Four Finger Art Factory, Inc. v. Dinicola,
+No. 99 Civ. 1259, 2001 WL 21248 (S.D.N.Y. Jan. 9, 2001) .................................9, 14, 15
+Goldman v. Belden,
+754 F.2d 1059 (2d Cir. 1985) ........................................................................................ 18
+
+249799 v1
+
+iii
+
+Case 1:07-cv-11189-BSJ-DCF
+
+Document 10
+
+Filed 02/20/2008
+
+Page 4 of 23
+
+Iqbal v. Hasty,
+490 F.3d 143 (2d Cir. 2007) ............................................................................................ 8
+Junk v. Aon Corp.,
+No. 07 Civ. 4640, 2007 WL 4292034 (S.D.N.Y. Dec. 3, 2007) .................... 12, 13, 14, 16
+Lama Holding Co. v. Smith Barney, Inc.,
+88 N.Y.2d 413, 646 N.Y.S.2d 76 (1996) ......................................................................... 9
+Lazard Freres & Co. v. Protective Life Ins. Co.,
+108 F.3d 1531 (2d Cir. 1997) ........................................................................................ 14
+Leonard F. v. Israel Disc. Bank of N.Y.,
+199 F.3d 99 (2d Cir. 1999) ............................................................................................ 17
+PKFinans Int'l Corp. v. IBJ Schroeder Leasing Corp.,
+No. 96 Civ. 1816, 1996 WL 363138 (S.D.N.Y. June 28, 1996) ..................................... 13
+Smalley v. Dreyfus Corp.,
+No. 8857, 2008 WL 357400 (N.Y. 2008) ...................................................................... 10
+Stamelman v. Fleishman-Hillard, Inc.,
+No. 02 Civ. 8318, 2003 WL 21782645 (S.D.N.Y. July 31, 2003) .......................10, 13, 15
+Stewart v. Jackson & Nash,
+976 F.2d 86 (2d Cir. 1992) ........................................................................................ 9, 13
+Swierkiewicz v. Sorema N.A.,
+534 U.S. 506 (2002)........................................................................................................ 8
+Wurtsbaugh v. Banc of Am. Sec. LLC,
+No. 05 Civ. 6220, 2006 WL 1683416 (S.D.N.Y. June 20, 2006) ..............................16, 17
+Wynn v. AC Rochester,
+273 F.3d 153 (2d Cir. 2001) ............................................................................................ 9
+Yak v. Bank Brussels Lambert,
+252 F.3d 127 (2d Cir. 2001) .......................................................................................... 17
+STATUTES
+Fed. R. Civ. P. 12(b)(6) ........................................................................................................ 8, 17
+
+249799 v1
+
+iv
+
+Case 1:07-cv-11189-BSJ-DCF
+
+I.
+Plaintiff
+
+Document 10
+
+Filed 02/20/2008
+
+Page 5 of 23
+
+PRELIMINARY STATEMENT
+
+Maryann
+
+Robinson
+
+("Robinson"
+
+or
+
+"plaintiff")
+
+submits
+
+this
+
+memorandum in opposition to the motion to dismiss of her former employer, Deutsche Bank
+Trust Company Americas ("defendant" or the "Bank"). Defendant's sole argument is that the
+misrepresentations and omissions of fact the Complaint sets forth cannot support a claim of
+fraudulent inducement because plaintiff's reliance was not reasonable as a matter of law.
+Defendant is wrong.
+Plaintiff, who has worked in private banking for almost two decades, accepted
+employment with the Bank only after defendant made repeated assurances regarding its ability to
+meet the needs of her existing clients. Those assurances, which centered around the nature and
+scope of the Bank’s private wealth management practice and its lending and credit policies, were
+critical to Robinson's ability to maintain a client base and also to her reputation in the industry.
+Plaintiff acted diligently in following up on the Bank’s assurances. She not only requested
+extensive information about the Bank’s practices, but also insisted on follow-up discussions with
+key Bank executives to confirm the Bank’s ability to meet her clients' needs. Plaintiff relied on
+numerous and repeated representations when she entered into a written employment agreement
+with the Bank (the "Agreement"), a contract that served primarily to set forth her compensation,
+including bonuses, stock awards and other benefits.
+
+The Agreement neither affirmed nor
+
+disclaimed the Bank’s prior assurances regarding its ability to service Robinson's clients.
+Under the allegations in the Complaint, which must be taken as true on this
+motion, plaintiff’s reliance was reasonable.
+
+Defendant does not dispute that the alleged
+
+misrepresentations were collateral to, that is, not addressed in, the terms of the Agreement.
+Accordingly, the false statements and omissions are sufficient to support a claim for fraudulent
+inducement. Because plaintiff was diligent in attempting to assess the veracity of the Bank’s
+249799 v1
+
+Case 1:07-cv-11189-BSJ-DCF
+
+Document 10
+
+Filed 02/20/2008
+
+Page 6 of 23
+
+representations, and the Agreement does not contradict those misrepresentations, the
+reasonableness of plaintiff’s reliance is not properly decided on a motion to dismiss. Finally, the
+Agreement's general merger clause does not render plaintiff’s reliance unreasonable as a matter
+of law for the same reason – the Bank’s misrepresentations regarded matters collateral to the
+parties’ contract. Plaintiff therefore is entitled to have a jury determine whether she reasonably
+relied on defendant's fraudulent misrepresentations.
+II.
+A.
+
+STATEMENT OF FACTS
+
+Plaintiff's Background and Clients
+Plaintiff has worked in the banking industry since 1982, with almost 20 years of
+
+experience as a private banker at important financial institutions including Citibank, N.A. and
+Union Bank of Switzerland. (Compl. ¶ 8.)
+
+Prior to joining Deutsche Bank, plaintiff was
+
+employed by HSBC Bank USA ("HSBC") for nearly ten years. (Compl. ¶ 9.) Her last position
+there was as a Senior Vice President in the Domestic Private Banking Group. (Id.) In that
+capacity, she provided financial services to individuals with an average net worth of $50 million,
+many of whom were entrepreneurs across a wide variety of industries. (Id.) In 2006, plaintiff's
+client base generated substantial revenue, and in turn plaintiff earned a base salary of $300,000
+and an incentive bonus of $500,000, plus a Special Stock Award. (Id.)
+In early 2006, Patrick Campion ("Campion"), the head of defendant's United
+States Private Bank, called Robinson to inform her that it was interested in hiring her to work as
+a private banker in its Private Wealth Management Division ("PWM"). (Compl. ¶ 10.) Campion
+stated that the Bank wanted to hire senior private bankers and expand its products and services,
+particularly lending, in the PWM area. (Compl. ¶ 11.) Plaintiff was reluctant to leave HSBC,
+where she had built client relationships over ten years, and was concerned that defendant would
+
+249799 v1
+
+2
+
+Case 1:07-cv-11189-BSJ-DCF
+
+Document 10
+
+Filed 02/20/2008
+
+Page 7 of 23
+
+be unable to serve adequately her clients' needs. (Compl. ¶ 13.) Plaintiff concluded that any
+discussion of joining PWM at that time was premature. (Id.)
+B.
+
+Defendant's Repeated Misrepresentations to Plaintiff
+In February 2007, after a recruiter from Lockwood Gibb Associates called
+
+plaintiff to reiterate the Bank's interest in hiring her, plaintiff agreed to an interview. (Compl. ¶¶
+14, 15.) Plaintiff interviewed with a number of senior managers at the Bank, including Thomas
+Bowers ("Bowers"), the head of PWM in the United States, and Kyle Delaney ("Delaney"), a
+Managing Director and head of the Eastern Region of the United States Private Bank. (Compl. ¶
+15.)
+In plaintiff's conversations with each of the Bank's senior managers, including
+Bowers and Delaney, she explained that she would consider leaving HSBC only for an
+opportunity that would allow her to provide her clients with better service and access to credit
+and investment resources than they could obtain at HSBC. (Compl. ¶ 16.) In each of these
+conversations, plaintiff described the profile of her clients in extensive detail, and further
+detailed the specific lending, capital markets, and investment transactions she had executed for
+them at HSBC. (Id.) In particular, plaintiff explained that, because her clients were wealthy
+entrepreneurs with business interests in industries including commercial real estate, private
+equity, hedge fund management, sports franchise ownership, music publishing and film
+production, they often had significant credit needs. (Id.) Plaintiff explained that in securing
+loans, her clients would pledge not only traditional assets such as marketable securities and
+residential mortgages, but also non-traditional assets such as commercial mortgages, beneficial
+interests in contracts, private equity, and equity interests in investment entities. (Id.) Plaintiff
+also explained that for some of her clients, HSBC would extend credit on an unsecured basis.
+(Id.)
+249799 v1
+
+3
+
+Case 1:07-cv-11189-BSJ-DCF
+
+Document 10
+
+Filed 02/20/2008
+
+Page 8 of 23
+
+Plaintiff interviewed with Bowers, the head of PWM in the United States, in
+February 2007. After hearing about the specific transactions that plaintiff conducted for her
+clients at HSBC, Bowers assured Robinson that the Bank could accommodate their credit needs.
+Bowers stated further that PWM had not adopted the restrictive credit policies of some other
+institutions, including Citibank and JP Morgan. (Compl. ¶ 18.) Bowers said that plaintiff's
+wealthy clients could secure loans with their non-traditional assets, as they had done at HSBC,
+and that such clients could also borrow on an unsecured basis. (Id.) Plaintiff also met with
+Delaney, the head of the Eastern Region of the United Stated Private Bank. Plaintiff asked
+Delaney whether PWM had a standard mortgage program that included jumbo mortgages with
+the commonly-available options of 15 and 30-year fixed rates, as well as 3, 5, 7 and 10-year
+adjustable interest rates. Delaney responded that such programs existed at the Bank. (Compl. ¶
+21.) During the course of plaintiff's interviews, both Bowers and Delaney assured plaintiff that
+defendant was committed to growing the United States loan portfolio. (Compl. ¶ 17.)
+Also during her February 2007 interview, plaintiff told Bowers that her clients
+needed access to tailored credit market products. (Compl. ¶ 19.) Bowers immediately called
+Ralph Tipple ("Tipple"), a Managing Director and head of Private Client Investment Services at
+the Bank. Tipple described to Robinson standardized structured notes distributed to a wide range
+of clients in PWM and DB Alex Brown, a related brokerage entity, and stated that defendant had
+a clear process for credit approval, legal documentation, and trade execution. (Id.) Tipple said
+that once a banker such as plaintiff identified a transaction, a capital markets specialist would
+document and execute the transaction. (Id.) Tipple also told Robinson that his group could
+provide her clients with tailored capital market offerings, including securities trading facilities
+and derivatives investments. (Id.)
+
+249799 v1
+
+4
+
+Case 1:07-cv-11189-BSJ-DCF
+
+Document 10
+
+Filed 02/20/2008
+
+Page 9 of 23
+
+Plaintiff sought, in addition to the representations by Bowers and other senior
+managers, other assurances regarding the Bank's ability to meet her clients' credit needs. (Compl.
+¶ 20.) During her interview with Bowers in February 2007, Robinson insisted on speaking with
+the person or people who would be in charge of approving loans and capital markets exposure
+for her clients. (Id.) Bowers identified Elizabeth Engel ("Engel"), who said she was acting head
+of PWM's Lending Group, as the person plaintiff should speak with. (Id.) When plaintiff and
+Engel later met, they discussed in detail the profiles, and needs, of plaintiff's clients. (Id.)
+Although Robinson had specifically asked to speak with the Bank manager who would be in
+charge of approving plaintiff's requests on behalf of her clients, neither Bowers nor Engel
+mentioned the Credit Risk Management Group ("CRM"), or that only CRM, and not the Lending
+Group, had authority to approve loans or credit exposure to PWM clients. (Id.)
+
+Plaintiff
+
+accordingly believed that she had spoken to the executive charged with approving credit
+requests. (Compl. ¶ 29.)
+After plaintiff's numerous interviews and discussions with senior management
+there, the Bank sent plaintiff the Agreement, a letter dated April 3, 2007. The Agreement set
+forth defendant's offer of a position as a private banker in PWM, with the title of Managing
+Director. (Compl. ¶ 22.)
+
+The letter addressed primarily plaintiff's total compensation and
+
+benefits, including her annual salary, bonuses, and other payments. (Id.) At or about the same
+time as plaintiff was interviewing with defendant, she was also considering a job offer from First
+Republic Bank. (Compl. ¶ 26.) Based on the Bank's senior managers' repeated representations
+regarding the Bank's ability to meet her clients' needs, on April 18, 2007, Robinson accepted
+defendant's offer. (Compl. ¶ 23.)
+
+249799 v1
+
+5
+
+Case 1:07-cv-11189-BSJ-DCF
+
+C.
+
+Document 10
+
+Filed 02/20/2008
+
+Page 10 of 23
+
+Robinson Learns of the Bank's Misrepresentations
+After being placed on garden leave1 for two months by HSBC, plaintiff began
+
+working at the Bank on July 9, 2007. (Compl. ¶ 23, 27.) It became clear to plaintiff shortly after
+she joined the Bank that defendant had made serious misrepresentations and failed to disclose
+material information during the hiring process, and that, at the time they were made, the Bank
+knew its representations were untrue. (Compl. ¶ 27.) Despite its numerous assurances to the
+contrary, the Bank could not meet the needs of plaintiff's clients. (Compl. ¶ 28.) In fact, the
+Bank did not approve any of the loans plaintiff proposed on behalf of her clients because,
+contrary to the representations by Bowers and other senior managers, the Bank lacked unsecured
+lending capacity and did not have guidelines that accepted the types of collateral plaintiff's
+clients offered. (Id.)
+More specifically, plaintiff learned that contrary to prior representations, the
+Bank, for purposes of providing loans, did not recognize many types of collateral, including the
+non-traditional assets plaintiff’s clients owned. (Compl. ¶ 30.) Plaintiff also became aware that
+the Bank had a cap on their total unsecured loans. (Compl. ¶ 31.) Robinson had not been told
+that the cap existed, that at least half of that cap had been exhausted at the time she interviewed
+with Bowers, or that the cap had been used completely by the time she joined in July 2007.
+(Compl. ¶ 31.) In addition, contrary to Tipple’s representations in February 2007, defendant did
+not have a clear process for credit approval, documentation, and execution for transactions
+involving capital markets products. Robinson learned this when she attempted to execute a
+foreign exchange transaction identical to one she had executed repeatedly at HSBC, and was told
+1
+
+Garden leave refers to the period when Robinson technically remained an employee of
+HSBC but did no work. Such an enforced period of non-competition is common for employees
+in the financial services industry.
+
+249799 v1
+
+6
+
+Case 1:07-cv-11189-BSJ-DCF
+
+Document 10
+
+Filed 02/20/2008
+
+Page 11 of 23
+
+that the Bank could not process such a transaction. (Compl. ¶ 32.) Plaintiff also learned that,
+contrary to what Delaney had told her during their first meeting, the Bank did not have a
+standard residential mortgage program, and that defendant had only two residential mortgage
+offerings, neither of which was a fixed rate option. (Compl. ¶ 33.)
+Plaintiff also became aware that it was CRM, and not the Lending Group, that
+was responsible for approving loans to PWM clients. (Compl. ¶ 29.) At the time he discussed
+this issue with plaintiff in February 2007, Bowers knew that CRM had that authority, but
+nevertheless had plaintiff speak with Engel in the Lending Group. (Id.) By deliberately keeping
+plaintiff from speaking directly with managers in CRM, Bowers, Engel and the Bank prevented
+plaintiff from ascertaining that the Bank had misrepresented its credit processes and standards.
+(Id.) It became even more obvious that the Bank was not actually interested in expanding its
+lending portfolio in the United States when on October 5, 2007, Pierre de Weck, global head of
+PWM, stated to the entire PWM staff that “the lending business in the United States is now fully
+developed.” (Compl. ¶ 34.)
+As early as July 27, 2007, plaintiff told Delaney that the situation was untenable
+because she could not properly service her clients and that her inability to meet their needs would
+ruin her reputation in the industry. She told him that the situation must be fixed or she would
+lose all of her clients. (Compl. ¶ 36.) Plaintiff reiterated her concerns in an October 5, 20072
+meeting with Bowers and Delaney. (Compl. ¶ 37.) When, by November 2007, there was no
+improvement in the situation, plaintiff realized the only option that would allow her to maintain
+her client base and salvage her career was to resign and pursue a position at a firm that was
+
+2
+
+249799 v1
+
+The Complaint mistakenly lists the date as September 5, 2007.
+
+7
+
+Case 1:07-cv-11189-BSJ-DCF
+
+Document 10
+
+Filed 02/20/2008
+
+Page 12 of 23
+
+committed to private banking. (Compl. ¶ 39.) She tendered her resignation to the Bank in a letter
+dated November 5, 2007. (Compl. ¶ 40.)
+By leaving HSBC, plaintiff forfeited $713,000 in deferred compensation and lost
+the ability to begin drawing from her pension at age 55 rather than at HSBC's normal retirement
+age of 65. (Id.) In addition, plaintiff accepted $50,000 less in annual salary from the Bank than
+she had received at HSBC; Robinson accepted the salary cut because the credit and other
+resources defendant had promised during the hiring process would have allowed her to earn
+additional incentive compensation to compensate for the salary shortfall. (Compl. ¶ 25.)
+III.
+
+ARGUMENT
+
+In reviewing a motion to dismiss under Fed. R. Civ. P. 12(b)(6), the Court must
+accept "all factual allegations in the complaint as true, and draw[] all reasonable inferences in the
+plaintiff’s favor." Chambers v. Time Warner, Inc., 282 F.3d 147, 152 (2d Cir. 2002).
+
+A
+
+complaint must "amplify a claim with some factual allegations in those contexts where such
+amplification is needed to render the claim plausible." Iqbal v. Hasty, 490 F.3d 143, 157-58 (2d
+Cir. 2007).3 Plaintiff easily satisfies this standard.
+A.
+
+PLAINTIFF'S RELIANCE ON DEFENDANT'S MISREPRESENTATIONS
+WAS NOT UNREASONABLE AS A MATTER OF LAW
+1.
+
+The Elements of a Fraudulent Inducement Claim
+
+"Under New York law, to state a claim for fraud a plaintiff must demonstrate: (1)
+a misrepresentation or omission of material fact; (2) which the defendant knew to be false; (3)
+
+3
+
+In Iqbal, 490 F.3d at 155, the Court noted that "[c]onsiderable uncertainty concerning the
+standard for assessing the adequacy of pleadings has recently been created by the Supreme
+Court's decision in Bell Atl. Corp. v. Twombly, [127 S. Ct. 1955 (2007)]." Nevertheless, the
+Second Circuit has adhered to the requirement that on a motion to dismiss, the factual allegations
+of a complaint be accepted as true. Iqbal, 490 F.3d at 147, 152; see Swierkiewicz v. Sorema
+N.A., 534 U.S. 506, 508 n.1 (2002)
+
+249799 v1
+
+8
+
+Case 1:07-cv-11189-BSJ-DCF
+
+Document 10
+
+Filed 02/20/2008
+
+Page 13 of 23
+
+which the defendant made with the intention of inducing reliance; (4) upon which the plaintiff
+reasonably relied; and (5) which caused injury to the plaintiff." Wynn v. AC Rochester, 273 F.3d
+153, 156 (2d Cir. 2001) (citing Lama Holding Co. v. Smith Barney, Inc., 88 N.Y.2d 413, 421,
+646 N.Y.S.2d 76 (1996)). While a fraud claim may not allege simply that a party to a contract
+did not intend to meet its obligations, a fraudulent inducement claim can be premised upon false
+statements of present fact or false statements of future intent that concern matters collateral or
+extraneous to the contract between the parties. See Bridgestone/Firestone, Inc. v. Recovery
+Credit Srvs., Inc., 98 F.3d 13, 20 (2d Cir. 1996); Stewart v. Jackson & Nash, 976 F.2d 86, 89-90
+(2d Cir. 1992) (reversing dismissal of fraudulent inducement claim of attorney alleging law
+firm's misrepresentation prior to hiring her); Four Finger Art Factory, Inc. v. Dinicola, No. 99
+Civ. 1259, 2001 WL 21248, at * 3 (S.D.N.Y. Jan. 9, 2001).
+Plaintiff alleges with specificity a number of misrepresentations, including,
+among other things, defendant's assurances that it had broad and expanding lending capabilities
+and capacity, that it had open and flexible credit policies, that it had the present and future ability
+to meet the needs of plaintiff's clients, and that it had committed to the PWM business. The
+Agreement is silent as to each of these issues. Likely for that reason, defendant does not –
+because it could not – dispute that these misrepresentations support a claim for fraudulent
+inducement; those misstatements unquestionably are collateral or extraneous to the Agreement.
+Instead, the only element of the fraudulent inducement claim that defendant challenges is
+whether plaintiff reasonably relied upon the alleged misrepresentations. As discussed below,
+both the caselaw and the facts alleged here make clear that this question is not properly decided
+on a motion to dismiss.
+
+249799 v1
+
+9
+
+Case 1:07-cv-11189-BSJ-DCF
+
+2.
+
+Document 10
+
+Filed 02/20/2008
+
+Page 14 of 23
+
+The Reasonableness of Plaintiff's Reliance Raises an Issue
+of Fact Unsuitable for Determination on a Motion to Dismiss
+
+This Court has repeatedly held that the reasonableness of a party's reliance "is
+intensely fact-specific and generally considered inappropriate for determination on a motion to
+dismiss." Stamelman v. Fleishman-Hillard, Inc., No. 02 Civ. 8318, 2003 WL 21782645, at *7
+(S.D.N.Y. July 31, 2003) (quoting Doehla v. Wathne Ltd., Inc., No. 98 Civ. 6087, 1999 WL
+566311, at *10 (S.D.N.Y. Aug. 3, 1999)); accord 484 Assocs. L.P. v. Moy, No. 06 Civ. 2290,
+2007 WL 683999, at *3 (S.D.N.Y. Mar. 5, 2007); see Bangkok Crafts Corp. v. Capitolo Di San
+Pietro in Vaticano, No. 03 Civ. 15, 2007 WL 1687044, at *5 (S.D.N.Y. June 11, 2007); Bonacci
+v. Lone Star Int'l Energy, Inc., No. 98 Civ. 0634, 1999 WL 76942, at *2 (S.D.N.Y. Feb. 16,
+1999).4
+The caselaw suggests several limited circumstances under which a court may
+determine, as a matter of law, that a party’s reliance was unreasonable, none of which applies
+here. Courts may rule as a matter of law where the alleged misrepresentations are explicitly
+contradicted by the written agreement, see Bonacci, 1999 WL 76942, at *2 (internal citations
+omitted), or where the plaintiff had actual notice of the falsity of the misrepresentations or could
+have obtained such information “with minimal diligence,” see 484 Assocs., 2007 WL 683999, at
+*3 (internal citations omitted). Again, neither of these exceptions is applicable.
+
+4
+
+The recent decision of the New York Court of Appeals in Smalley v. Dreyfus Corp., No.
+8857, 2008 WL 357400 (N.Y. 2008), issued after defendant filed its initial brief, is inapplicable.
+Although the Court in Smalley granted a motion to dismiss a fraudulent inducement claim, that
+determination centered on the plaintiffs' at-will employment status. The Court held that the
+plaintiffs had failed to allege injuries "separate and distinct from termination of their at-will
+employment" by the defendant employer. Id. In this case, in contrast, Robinson alleges injuries
+stemming from her leaving her prior employer, HSBC, as a result of defendant's
+misrepresentations. The Court in Smalley did not discuss whether the plaintiffs had reasonably
+relied on the alleged misrepresentations.
+
+249799 v1
+
+10
+
+Case 1:07-cv-11189-BSJ-DCF
+
+a.
+
+Document 10
+
+Filed 02/20/2008
+
+Page 15 of 23
+
+The Misrepresentations are Collateral to
+and Not Contradicted by the Agreement
+
+None of the fraudulent misrepresentations here is contradicted by the terms of the
+Agreement, and, as discussed above, they concern matters clearly collateral to the contract. The
+Agreement the parties signed concerns primarily plaintiff’s compensation and benefits, including
+her salary, incentive compensation, signing award, vesting of shares, deferred compensation, and
+vacation and benefits; the Agreement also includes standard terms regarding notice and nonsolicitation, the use and disclosure of inventions and other forms of goodwill, and confidentiality.
+The Agreement is silent with respect to the nature and scope of the Bank’s PWM practice, as
+well as its ability, through its lending and capital market functions, to service the needs of
+plaintiff’s clients.
+
+Those issues taken together constitute the subject matter of the
+
+misrepresentations and omissions plaintiff alleges. Defendant has not cited a provision of the
+Agreement that contradicts any of the misrepresentations.
+
+That failure alone requires that
+
+defendant's motion be denied. See Bonacci, 1999 WL 76942, at *2 (declining to dismiss
+fraudulent inducement claim as a matter of law because defendant "fail[ed] to indicate any
+[documents forming the agreement] that contradict[ed] the alleged misrepresentations made by
+[plaintiff]").
+The facts in Alter v. Bogoricin, No. 97 Civ. 0662, 1997 WL 691332 (S.D.N.Y.
+Nov. 6, 1997), cited by defendant,5 are inapposite for the reason discussed above. The fraudulent
+inducement claim in Alter was based on the employer's representations that it would share profits
+with the plaintiff based on his performance. However, the parties' written employment contract
+contained terms regarding a different profit sharing arrangement. Thus, this Court in Alter held
+5
+
+Defendant Deutsche Bank Trust Company Americas' Memorandum of Law In Support of
+Its Motion to Dismiss the Complaint ("Def. Br."), at 7.
+
+249799 v1
+
+11
+
+Case 1:07-cv-11189-BSJ-DCF
+
+Document 10
+
+Filed 02/20/2008
+
+Page 16 of 23
+
+that the alleged misrepresentations were not collateral to the employment contract, and therefore
+the plaintiff had failed to state a claim for fraudulent inducement. 1997 WL 691332, at *9.
+b.
+
+Despite Her Diligent Efforts, Plaintiff Could Not
+Discover the Falsity of Defendant's Representations
+
+While defendant refers repeatedly to plaintiff’s sophistication (Def. Br. at 6, 7),
+the Bank does not and cannot argue that she had knowledge of the falsity of the Bank’s
+misrepresentations or that she failed to act diligently in obtaining information regarding
+defendant’s business.
+
+As alleged in the Complaint, plaintiff initially rejected the Bank’s
+
+overtures, and began to consider leaving her position at HSBC only when the Bank made
+specific assurances regarding its ability to service plaintiff’s existing clients. Plaintiff explained
+in detail the requirements of those clients to each of defendant's senior managers she met.
+(Compl. ¶¶ 16, 19, 20.) As alleged in the Complaint, plaintiff’s questioning on these matters was
+extensive and repeated.
+Not simply accepting the assurances Bowers, Delaney and others gave her,
+Robinson also insisted on meeting with the executives at the Bank in charge of approving loans
+and capital market exposure for her clients. The Bank informed plaintiff that she should speak
+with Engel, head of PWM’s lending group, which she did. Plaintiff’s allegations show that she
+acted diligently in attempting to test the veracity of the Bank’s assurances. By directing plaintiff
+to speak with Engel in PWM’s Lending Group, when the CRM group actually would be in
+charge of approving her clients' loans, the Bank thwarted plaintiff’s efforts to test its
+misstatements. As plaintiff later learned, CRM did not have the capability to make such loans.
+In arguing that plaintiff’s sophistication renders her reliance unreasonable as a
+matter of law, defendant relies primarily (Def. Br. at 6-7) on Junk v. Aon Corp., No. 07 Civ.
+
+249799 v1
+
+12
+
+Case 1:07-cv-11189-BSJ-DCF
+
+Document 10
+
+Filed 02/20/2008
+
+Page 17 of 23
+
+4640, 2007 WL 4292034 (S.D.N.Y. Dec. 3, 2007). In fact, the reasoning in Junk supports
+plaintiff.
+Although this Court in Junk ruled that the plaintiff unreasonably relied on the
+defendant’s statements of present fact, it denied the defendant’s motion with respect to the
+plaintiff’s promissory fraud claim. In the promissory fraud claim, the plaintiff in Junk alleged
+that at the time the defendant made certain commitments as to its future conduct, the defendant
+had no intention of performing on its promises. Id. at *7-8.6 Here, in addition to allegations that
+the Bank fraudulently misrepresented a number of present facts, plaintiff also alleges that the
+Bank made promises of future conduct – that it was committed to growing the PWM business
+and that it would provide credit to plaintiff's entrepreneurial clients – when in fact it had no
+intention at the time the statements were made of performing. Thus, Junk in significant part
+weighs against the dismissal of this case on motion.
+Although reasonable reliance is an element of fraud claims based on both present
+misrepresentations of fact and future promises made with no intention to perform,7 the Court in
+Junk did not apply its holding of reasonable reliance to the alleged misrepresentations of present
+fact. The Court did not explain why it reached contradictory conclusions with respect to the
+common element of reasonable reliance.
+6
+
+Claims of promissory fraud are essentially claims of fraudulent inducement based on
+misrepresentations of present intent, rather than misrepresentations of present fact. Courts often
+discuss cases involving such representations about future events as fraudulent inducement
+claims. See, e.g., Stamelman, 2003 WL 21782645, at *6 ("[W]hile mere promissory statements
+as to what will be done in the future are not actionable, it is settled that, if a promise was actually
+made with a preconceived and undisclosed intention of not performing it, it constitutes a
+misrepresentation of material existing fact upon which an action . . . based on fraudulent
+inducement may be predicated." (quoting Stewart, 976 F.2d at 89)).
+7
+
+See 484 Assocs., 2007 WL 683999, at *3 (all fraud claims under New York law require
+reasonable reliance); PKFinans Int'l Corp. v. IBJ Schroeder Leasing Corp., No. 96 Civ. 1816,
+1996 WL 363138, at *3 (S.D.N.Y. June 28, 1996) (same).
+249799 v1
+
+13
+
+Case 1:07-cv-11189-BSJ-DCF
+
+Document 10
+
+Filed 02/20/2008
+
+Page 18 of 23
+
+The remaining portions of Junk that defendant cites (Def. Br. at 6, 7) also fail to
+support its motion. The Bank quotes language from Junk regarding a plaintiff's “lack of due
+care” with respect to the alleged misrepresentation. Unlike the plaintiff in Junk, however,
+Robinson acted diligently to test the veracity of the Bank’s assurances.8
+
+In addition, in
+
+discussing the sophistication of the parties, the Court in Junk noted that the plaintiff was an
+attorney, while Robinson is not. Id. at *7.9
+3.
+
+Because Defendant's Misrepresentations are Collateral to the
+Contract, the Agreement's General Merger Clause Does Not
+Make Plaintiff's Reliance Unreasonable as a Matter of Law
+
+Defendant argues that the Agreement's general merger clause renders
+unreasonable plaintiff's reliance on the Bank's numerous fraudulent misstatements. (Def. Br. at 89.) Only by ignoring that the misrepresentations alleged in the Complaint are collateral or
+extraneous to the Agreement, see Part III.A.2.a, supra, can defendant make this erroneous
+argument.
+As defendant acknowledges (Def. Br. at 8 n.3), "a general merger clause does not
+preclude a claim for fraudulent inducement . . . unless it contains a disclaimer with respect to the
+specific representation. . . ." Four Finger, 2001 WL 21248, at *4. As discussed previously, the
+Agreement is silent as to the nature and scope of the Bank's PWM practice, and the ability of its
+lending and capital markets functions to meet the needs of plaintiff’s clients.
+
+Defendant
+
+8
+
+Defendant's citation (Def. Br. at 6) to Emergent Capital Inv. Mgmt., LLC v. Stonepath
+Group, Inc., 343 F.3d 189, 195 (2d Cir. 2003), is infirm for similar reasons. The court in
+Emergent Capital relied principally on the plaintiff's lack of due care. See 343 F.3d at 195
+(relying on the statement in Lazard Freres & Co. v. Protective Life Ins. Co., 108 F.3d 1531,
+1541-43 (2d Cir. 1997) that "the buyer should have, and easily could have, protected itself from
+misrepresentation by demanding that it see the report prior to a closing").
+9
+
+As discussed in Part III.B, infra, defendant inappropriately attempts to incorporate
+information regarding plaintiff’s use of an attorney in contract negotiations. These matters, not
+referenced in the Complaint, are not properly considered on a motion to dismiss.
+
+249799 v1
+
+14
+
+Case 1:07-cv-11189-BSJ-DCF
+
+Document 10
+
+Filed 02/20/2008
+
+Page 19 of 23
+
+therefore necessarily does not dispute that these representations are sufficiently collateral or
+extraneous to support a claim for fraudulent inducement.
+Defendant nevertheless asks this Court to apply the general merger clause to
+render unreasonable as a matter of law plaintiff's reliance on representations wholly collateral to
+the contract. Were the Court to accede to the Bank's request, the result would convert the
+general merger clause, in direct contravention of law, into an absolute bar to a fraudulent
+inducement claim.
+A general merger clause renders a party's reliance unreasonable as a matter of law
+only where the terms of the contract directly contradict the misrepresentations at issue. In
+Stamelman, this Court stated that a general merger clause could render reliance unreasonable as
+a matter of law where the agreement at issue "contained language nullifying all prior oral or
+written agreements with respect to the subject matter of that agreement." Stamelman, 2003 WL
+21782645, at *8 (emphasis added). However, Stamelman distinguished that scenario from the
+case before it, in which the contract did not discuss the representations at issue or specifically
+disclaim them. Id. Similarly, in Four Finger, this Court rejected the argument that the contract's
+general merger clause rendered the plaintiff's reliance unreasonable as a matter of law. The
+Court held that the defendant's fraudulent representations about what he would do once the
+agreement was signed had not been specifically disclaimed in the written agreement. Four
+Finger, 2001 WL 21248, at *4.
+In sum, a fraudulent inducement claim can survive where the alleged
+misrepresentations are collateral or extraneous to a contract between the parties. If a general
+merger clause rendered one party’s reliance unreasonable as a matter of law, general merger
+
+249799 v1
+
+15
+
+Case 1:07-cv-11189-BSJ-DCF
+
+Document 10
+
+Filed 02/20/2008
+
+Page 20 of 23
+
+clauses would be an absolute bar to fraudulent inducement claims, which defendant concedes
+they are not.10
+Defendant cites (Def. Br. at 8-9) only two cases in support of its argument – Junk
+and Wurtsbaugh v. Banc of Am. Sec. LLC, No. 05 Civ. 6220, 2006 WL 1683416 (S.D.N.Y. June
+20, 2006). Both are inapposite. First, defendant's citation to Junk is misleading. The passage of
+Junk that defendant’s brief quotes several times (Def. Br. at 8) was taken from the Court’s
+discussion of a breach of contract claim, not the claim of fraudulent inducement. Defendant cites
+to the conclusion that "[b]y signing the offer letter [containing a merger clause], Plaintiff
+explicitly agreed to forfeit any prior oral agreement between himself and Defendants." Junk,
+2007 WL 4292034, at *3. However, this language concerned the argument by the plaintiff in
+Junk that the defendant had orally agreed to an employment contract for a specified duration,
+despite explicit language in the written agreement that his employment was at will.
+
+Not
+
+surprisingly, this Court held that where the alleged oral promise of employment for a specified
+duration was directly contradicted by the written contract's express language, the general merger
+clause, among other things, precluded a breach of contract claim for wrongful termination. The
+Junk court's discussion of the general merger clause thus concerned circumstances – both legal
+and factual – not relevant here.
+Wurtsbaugh (Def. Br. at 8) involved an employment contract arising out of the
+acquisition of a financial software and services company by a large banking institution, and is
+also inapposite. This Court in Wurtsbaugh found that language in the parties' contract reserving
+10
+
+Plaintiff does not contend that a general merger clause can have no weight in the
+factfinder's evaluation of a fraudulent inducement claim involving an underlying written
+contract. Rather, where the alleged misrepresentations are collateral to the terms of the contract,
+a general merger clause does not make a party's reliance on those collateral misrepresentations
+unreasonable as a matter of law.
+
+249799 v1
+
+16
+
+Case 1:07-cv-11189-BSJ-DCF
+
+Document 10
+
+Filed 02/20/2008
+
+Page 21 of 23
+
+the defendant's right to divest itself of any part of its business directly contradicted the plaintiff's
+alleged reliance on the defendant’s purported promise not to divest itself of certain operations.
+See 2006 WL 1683416, at *7. This Court held that "the issue of divesture is therefore not
+collateral to the contract and any assertion of reliance on the continued presence of the clearing
+operation is unreasonable." Id. The Court's mention of the merger clause was surplusage.
+Even if this Court in Wurtsbaugh had relied on the merger clause, the analysis
+would have no bearing here because it is uncontested that the Bank's misrepresentations are
+collateral or extraneous to the Agreement. Thus, in contrast to the role of such a clause in
+Wurtsbaugh, the general merger clause here, under well-established caselaw, is not an absolute
+bar to a fraudulent inducement claim. Defendant therefore fails to establish that plaintiff's
+reliance was not reasonable as a matter of law.
+B.
+
+DEFENDANT'S REFERENCE TO DOCUMENTS
+NEITHER ATTACHED TO THE COMPLAINT NOR
+INCORPORATED BY REFERENCE IS IMPERMISSIBLE
+Defendant inappropriately attempts to present evidence that plaintiff was assisted
+
+by counsel in negotiating the Agreement with the Bank. In deciding a motion to dismiss under
+Rule 12(b)(6), a court "must confine its consideration 'to facts stated on the face of the
+complaint, in documents appended to the complaint or incorporated in the complaint by
+reference, and to matters of which judicial notice may be taken.'" Leonard F. v. Israel Disc. Bank
+of N.Y., 199 F.3d 99, 107 (2d Cir. 1999) (quoting Allen v. West Point-Pepperell, Inc., 945 F.2d
+40, 44 (2d Cir. 1991)); see Yak v. Bank Brussels Lambert, 252 F.3d 127, 130 (2d Cir. 2001)
+(internal citations omitted). Here, the facts defendant alleges and the email defendant submits
+(Def. Br. at 3-4, 7, 9, Exhibit A) are not stated on the face of the Complaint, attached to the
+Complaint, or incorporated in the Complaint by reference, and therefore cannot be considered on
+a motion to dismiss.
+249799 v1
+
+17
+
+Case 1:07-cv-11189-BSJ-DCF
+
+Document 10
+
+Filed 02/20/2008
+
+Page 22 of 23
+
+Moreover, negotiations with respect to the Agreement, and counsel's participation
+in that process, are merely one potential factual consideration relevant to assessing whether
+plaintiff's reliance was reasonable. Plaintiff is entitled to discovery to obtain countervailing
+facts, including evidence that, in her industry, specific representations regarding the nature,
+scope and processes of a private bank's business, including its lending practices, are generally
+not included in employment contracts.11 The weighing of such factors, however, is not permitted
+at this stage of the litigation. See Cress v. Wilson, No. 06 Civ. 2717, 2007 WL 1686687, at *3
+(S.D.N.Y. June 6, 2007) (in considering a motion to dismiss, a court is "not to weigh the
+evidence that might be presented at a trial but merely to determine whether the complaint itself is
+legally sufficient." (quoting Goldman v. Belden, 754 F.2d 1059, 1067 (2d Cir. 1985))); accord
+Canelle v. Russian Tea Room Realty LLC., No. 01 Civ. 0616, 2002 WL 287750, at *2 (S.D.N.Y.
+Feb. 27, 2002).
+Application of this rule is particularly appropriate here since there are material
+factual disputes as to the role of counsel in negotiating the Agreement. Because the allegations
+in the Complaint easily set forth a plausible claim for fraudulent inducement, plaintiff should be
+given an opportunity to discover facts as to the role of attorneys in such negotiations and other
+matters that may be relevant to her reliance.
+
+11
+
+In similar circumstances, a doctor might retain a lawyer to negotiate her agreement with a
+practice group, but would not ask the lawyer to discuss, or have the employment contract reflect,
+the availability of diagnostic equipment such as MRI's or CAT scans; rather, she might inquire to
+assure herself of the availability of necessary tools.
+
+249799 v1
+
+18
+
+Case 1:07-cv-11189-BSJ-DCF
+
+IV.
+
+Document 10
+
+Filed 02/20/2008
+
+Page 23 of 23
+
+CONCLUSION
+
+For the foregoing reasons, defendant's motion to dismiss should be denied.
+Dated: New York, New York
+February 20, 2008
+VLADECK, WALDMAN, ELIAS
+& ENGELHARD, P.C.
+By:___s/ Debra L. Raskin______
+Debra L. Raskin
+Anand Swaminathan
+Attorneys for Claimant
+1501 Broadway, Suite 800
+New York, New York 10036
+(212) 403-7300
+
+249799 v1
+
+19
+
+

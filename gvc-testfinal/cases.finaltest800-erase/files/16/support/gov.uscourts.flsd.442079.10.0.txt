@@ -1,0 +1,791 @@
+Case 1:14-cv-21884-BB Document 10 Entered on FLSD Docket 07/18/2014 Page 1 of 26
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF FLORIDA
+Case No. 1:14-cv-21884-BB
+
+DEBRA HARRIS and BARBARA
+STARK, on behalf of themselves and all
+others similarly situated,
+Plaintiffs,
+v.
+NORDYNE, LLC,
+Defendant.
+
+DEFENDANT NORDYNE, LLC’S MOTION TO DISMISS PLAINTIFFS’
+CLASS ACTION COMPLAINT AND SUPPORTING MEMORANDUM OF LAW
+
+Case 1:14-cv-21884-BB Document 10 Entered on FLSD Docket 07/18/2014 Page 2 of 26
+
+TABLE OF CONTENTS
+INTRODUCTION ...........................................................................................................................1
+STATEMENT OF FACTS ..............................................................................................................2
+ARGUMENT ...................................................................................................................................4
+I.
+
+STANDARD OF REVIEW .................................................................................................4
+
+II.
+
+PLAINTIFFS FAIL TO ADEQUATELY PLEAD A FDUTPA CLAIM ...........................6
+
+III.
+
+IV.
+
+A.
+
+Plaintiffs Do Not Identify Any Alleged Unfair or Deceptive Act or
+Practice .....................................................................................................................6
+
+B.
+
+Plaintiffs Fail to Establish Causation .......................................................................9
+
+C.
+
+Plaintiffs Fail to Plead Their FDUTPA Claim With the Specificity
+Required by Federal Rule of Civil Procedure 9(b) ................................................11
+
+PLAINTIFFS CANNOT MAINTAIN A CLAIM FOR UNJUST ENRICHMENT .........14
+A.
+
+Plaintiffs’ Unjust Enrichment Claim Fails Because an Adequate Remedy
+at Law Exists ..........................................................................................................14
+
+B.
+
+The Existence of Express Warranties Dooms Plaintiffs’ Unjust
+Enrichment Claim ..................................................................................................16
+
+PLAINTIFFS HAVE NOT ADEQUATELY PLED DIVERSITY
+JURISDICTION UNDER 28 U.S.C. § 1332(d) ................................................................17
+
+CONCLUSION ..............................................................................................................................18
+
+i
+
+Case 1:14-cv-21884-BB Document 10 Entered on FLSD Docket 07/18/2014 Page 3 of 26
+
+TABLE OF AUTHORITIES
+Page(s)
+Cases
+Allyn v. CNL Lifestyle Props., Inc.,
+No. 6:13-cv-132-Orl-36GJK, 2013 WL 6439383 (M.D. Fla. Nov. 27, 2013) ..................16, 17
+Alvarez v. Royal Caribbean Cruises, Ltd.,
+905 F. Supp. 2d 1334 (S.D. Fla. 2012) ....................................................................................16
+Am. Honda Motor Co. v. Motorcycle Info. Network, Inc.,
+390 F. Supp. 2d 1170 (M.D. Fla. 2005) .............................................................................14, 15
+Aprigliano v. Am. Honda Motor Co.,
+979 F. Supp. 2d 1331 (S.D. Fla. 2013) ..................................................................................7, 8
+Ashcroft v. Iqbal,
+556 U.S. 662 (2009) ......................................................................................................... passim
+BAC Fin. Servs., Inc., v. Multinational Life Ins. Co.,
+No. 13-21529, 2013 WL 5929428 (S.D. Fla. Nov. 5, 2013) ...................................................16
+Beale v. Biomet, Inc.,
+492 F. Supp. 2d 1360 (S.D. Fla. 2007) ......................................................................................6
+Begualg Inv. Mgmt. Inc. v. Four Seasons Hotel Ltd.,
+No. 10-22153-CIV, 2011 WL 4434891 (S.D. Fla. Sept. 23, 2011) ...................................11, 12
+Bell Atlantic Corp. v. Twombly,
+550 U.S. 544 (2007) .......................................................................................................5, 11, 15
+Bowleg v. Bowe,
+502 So. 2d 71 (Fla. 3d DCA 1987) ..........................................................................................14
+Cannon v. Metro Ford, Inc.,
+242 F. Supp. 2d 1322 (S.D. Fla. 2002) ....................................................................................12
+Cebrian v. Robert H. Ballard Rehab. Hosp.,
+No. ED CV 13-2149, 2013 U.S. Dist. LEXIS 173184 (C.D. Cal. Dec. 6, 2013) ..............17, 18
+Cutsforth v. Renschler,
+235 F. Supp. 2d 1216 (M.D. Fla. 2002) .....................................................................................8
+
+ii
+
+Case 1:14-cv-21884-BB Document 10 Entered on FLSD Docket 07/18/2014 Page 4 of 26
+
+Denarii Sys., LLC v. Arab,
+No. 12-24239-CIV, 2013 WL 6162825 (S.D. Fla. Nov. 25, 2013) .........................................14
+Fitzpatrick v. General Mills, Inc.,
+635 F.3d 1279 (11th Cir. 2011) ...........................................................................................9, 10
+In re Fla. Cement & Concrete Antitrust Litig.,
+746 F. Supp. 2d 1291 (S.D. Fla. 2010) ......................................................................................6
+Flintlock Constr. Servs. v. Well-Come Holdings,
+LLC, 710 F.3d 1221 (11th Cir. 2013) ......................................................................................17
+Furmanite Am., Inc. v. T.D. Williamson, Inc.,
+506 F. Supp. 2d 1134 (M.D. Fla. 2007) .....................................................................................6
+Gary v. D. Agustini & Asociados, S.A.,
+865 F. Supp. 818 (S.D. Fla. 1994) ...........................................................................................16
+Gavron v. Weather Shield Mfg.,
+819 F. Supp. 2d 1297 (S.D. Fla. 2011) ......................................................................................9
+H & J Paving of Fla., Inc. v. Nextel, Inc.,
+849 So.2d 1099 (Fla. 3d DCA 2003) .........................................................................................6
+In re Heartland Payment Sys., Customer Data Sec. Breach Litig.,
+834 F. Supp. 2d 566 (S.D. Tex. 2011) .......................................................................................8
+Jovine v. Abbott Labs., Inc.
+795 F. Supp. 2d 1331 (S.D. Fla. 2011) ..............................................................................10, 15
+Kais v. Mansiana Ocean Residences, LLC,
+No. 08-21492-CIV, 2009 U.S. Dist. LEXIS 25417 (S.D. Fla. Mar. 26, 2009) .......................11
+Llado-Carreno v. Guidant Corp.,
+No. 09-20971-CIV, 2011 WL 705403 (S.D. Fla. Feb. 22, 2011) ......................................11, 12
+Lydia Sec. Monitoring, Inc. v. Alarm One, Inc.,
+No. 07-80145-CIV, 2007 WL 2446889 (S.D. Fla. Aug. 23, 2007) .........................................11
+Mallory & Evans Contrs. & Engrs, LLC v. Tuskegee Univ.,
+663 F.3d 1304 (11th Cir. 2011) ...............................................................................................17
+Marquez v. Flextronics Am., LLC,
+No. 12-61520-Civ, 2013 WL 5448072 (S.D. Fla. Sept. 30, 2013) ............................................5
+Martinez v. Weyerhaeuser Mortg. Co.,
+959 F. Supp. 1511 (S.D. Fla. 1996) .........................................................................................14
+iii
+
+Case 1:14-cv-21884-BB Document 10 Entered on FLSD Docket 07/18/2014 Page 5 of 26
+
+U.S. ex rel. Matheny v. Medco Health Solutions, Inc.,
+671 F.3d 1217 (11th Cir. 2012) .................................................................................................5
+Mills v. Foremost Ins. Co.,
+511 F.3d 1300 (11th Cir. 2008) .................................................................................................5
+Montgomery v. New Piper Aircraft,
+209 F.R.D. 221 (S.D. Fla. 2002) ..........................................................................................9, 10
+Montgomery v. New Piper Aircraft, Inc.,
+No. 00-14284-CIV, 2002 U.S. Dist. LEXIS 18198 (S.D. Fla. Aug. 6, 2002) ...........................8
+In re Motions to Certify Classes against Court Reporting Firms for Charges Relating to Word
+Indices,
+715 F. Supp. 2d 1265 (S.D. Fla. 2010) ....................................................................................10
+PB Prop. Mgmt., Inc. v. Goodman Mfg. Co.,
+No. 3:12-cv-1366 (M.D. Fla. Aug. 27, 2013) ......................................................................1, 13
+Perret v. Wyndham Vacation Resorts, Inc.,
+889 F. Supp. 2d 1333 (S.D. Fla. 2012) ................................................................................7, 11
+PNR, Inc. v. Beacon Property Management, Inc.,
+842 So.2d 773 (Fla. 2003)..........................................................................................................6
+Postell v. Ryder Truck Rental, Inc.,
+512 Fed. App’x 977 (11th Cir. 2013) ......................................................................................18
+Prohias v. Pfizer, Inc.,
+490 F. Supp. 2d 1228 (S.D. Fla. 2007) ..............................................................................14, 15
+Scobie v. Taylor,
+No. 13-60457-Civ., 2013 WL 3776270 (S.D. Fla. July 17, 2013) ............................................5
+Scott v. Capital One Bank & Capital One Servs.,
+No. 8:08-cv-132-T-30-EAJ, 2008 WL 2157037 (M.D. Fla. May 20, 2008) .............................6
+Selby v. Goodman Mfg. Co., Inc.,
+No. 2:13-cv-2162 (N.D. Ala. June 17, 2014).............................................................................1
+Silver v. Countrywide Home Loans, Inc.,
+760 F. Supp. 2d 1330 (S.D. Fla. 2011) ......................................................................................9
+Speier-Roche v. Volkswagen Grp. of Am., Inc.,
+No. 14-20107-CIV, 2014 WL 1745050 (S.D. Fla. Apr. 30, 2014) ....................................14, 16
+Summit Tech., Inc. v. High-Line Med. Instruments, Co.,
+933 F. Supp. 918 (C.D. Cal. 1996) ............................................................................................8
+iv
+
+Case 1:14-cv-21884-BB Document 10 Entered on FLSD Docket 07/18/2014 Page 6 of 26
+
+Tooltrend, Inc. v. CMT Utensili, SRL,
+198 F.3d 802 (11th Cir. 1999) .................................................................................................17
+Weaver v. Mateer & Harbert, P.A.,
+No. 5:09-CV-514-Oc-34TBS, 2012 WL 3065362 (M.D. Fla. July 27, 2012).........................15
+Webster v. Royal Caribbean Cruises, Ltd.,
+124 F. Supp. 2d 1317 (S.D. Fla. 2000) ....................................................................................16
+Wells Fargo Bank Nat’l Ass’n v. Procorp Enters., LLC,
+No. 2:14-cv-273, 2014 WL 2118881 (M.D. Fla. May 21, 2014) ............................................17
+Zlotnick v. Premier Sales Group, Inc.,
+480 F.3d 1281 (11th Cir. 2007) .................................................................................................9
+Federal Statutes
+28 U.S.C. §1332(d) ..............................................................................................................2, 17, 18
+State Statutes
+Fla. Stat. Ann. §§ 501.22 et seq. (“FDUTPA”) ..................................................................... passim
+Fla. Stat. § 501.204(1)......................................................................................................................9
+Fla. Stat. § 501.211(2)................................................................................................................9, 10
+Federal Rules
+Fed. R. Civ. P. 8(a) ..................................................................................................................4, 5, 6
+Fed. R. Civ. P. 9(b) ................................................................................................................ passim
+Fed. R. Civ. P. 12(b)(6)................................................................................................................1, 4
+
+v
+
+Case 1:14-cv-21884-BB Document 10 Entered on FLSD Docket 07/18/2014 Page 7 of 26
+
+Pursuant to Federal Rules of Civil Procedure (the “Rules”) 12(b)(6) and 9(b), Defendant
+Nordyne, LLC (“Nordyne”) respectfully moves to dismiss the Class Action Complaint
+(“Complaint”) [ECF No. 1] filed by Plaintiffs Debra Harris (“Plaintiff Harris”) and Barbara Stark
+(“Plaintiff Stark”) (collectively, “Plaintiffs”).
+INTRODUCTION
+Plaintiffs filed this lawsuit for violation of the Florida Deceptive and Unfair Trade
+Practices Act, Fla. Stat. Ann. §§ 501.22 et seq. (“FDUTPA”) (Count I), and unjust enrichment
+(Count II). Plaintiffs’ FDUTPA claim fails for three reasons. First, Plaintiffs have not pled any
+unfair or deceptive act or practice as those terms are interpreted by Florida courts. Second,
+Plaintiffs have not adequately alleged the required element of causation. Third, Plaintiffs’
+barebones Complaint fails to plead their FDUTPA claim with the particularity required by Rule
+9(b). These shortcomings render Plaintiffs’ FDUTPA claim legally deficient on its face.
+Plaintiffs’ claim for unjust enrichment likewise fails for two reasons.
+
+First, the
+
+availability of an adequate legal remedy—here, the FDUTPA claim—precludes an unjust
+enrichment claim premised on the same allegedly wrongful conduct. Second, Plaintiffs’ unjust
+enrichment claim is also barred by the existence of an express contract governing the subject of
+the dispute—Nordyne’s warranty. Accordingly, Plaintiffs’ claim for unjust enrichment should
+be dismissed.1
+1
+
+Indeed, similar claims against other HVAC system manufacturers have been dismissed on the
+same grounds in other courts in the Eleventh Circuit. See, e.g., Order Granting in Part and
+Denying in Part Defendants’ Motion to Dismiss, PB Prop. Mgmt., Inc. v. Goodman Mfg. Co.,
+No. 3:12-cv-1366, *11-15 (M.D. Fla. Aug. 27, 2013) (dismissing a similar FDUTPA claim for
+failing to satisfy Rule 9(b) particularity, and rejecting a similar unjust enrichment claim as
+precluded by the FDUTPA claim and the manufacturer’s express warranty); Order Granting in
+Part and Denying in Part Defendants’ Motion to Dismiss, Selby v. Goodman Mfg. Co., Inc., No.
+2:13-cv-2162, *11 (N.D. Ala. June 17, 2014) (dismissing a similar unjust enrichment claim as
+incompatible with the existence of an express warranty). True and correct copies of the Middle
+District of Florida and Northern District of Alabama orders are attached hereto as Exhibits 1 and
+2, respectively.
+
+Case 1:14-cv-21884-BB Document 10 Entered on FLSD Docket 07/18/2014 Page 8 of 26
+
+Aside from these substantive deficiencies, Plaintiffs’ Complaint must be dismissed
+because Plaintiffs have failed to adequately plead diversity jurisdiction under 28 U.S.C.
+§1332(d). Because Nordyne is a limited liability company, Plaintiffs must plead the citizenship
+of each of Nordyne’s members in attempting to invoke diversity jurisdiction under section
+1332(d). Plaintiffs have failed to do so. Accordingly, and for the reasons discussed more
+specifically below, Plaintiffs’ Complaint should be dismissed.
+STATEMENT OF FACTS
+As alleged in the Complaint, Plaintiffs Harris and Stark each purchased HVAC products
+manufactured by Nordyne. Plaintiff Harris alleges that in October 2011, she purchased from
+GreenDog Energy Solutions LLC (“GreenDog”) two HVAC systems manufactured by Nordyne
+—“a 1.5 ton system intended to heat and cool her master bedroom” and “a 3.5 ton system
+intended to cool the main part of Harris’ house.” Compl. ¶ 31. At three unspecified times
+“[t]hroughout the summer months of 2012,” Harris claims to have contacted GreenDog about her
+3.5 ton system because she “suspected it was not operating properly.” Id. ¶ 34. On these
+occasions, GreenDog allegedly “topped [ ] off” the “refrigerant in the coils.” Id. ¶ 34. Harris
+does not specify when these service visits occurred or whether they resulted in any out-of-pocket
+costs.
+Roughly a year later in July 2013, Harris claims to have again contacted GreenDog about
+her 3.5 ton system because “it was still not functioning properly.” Compl. ¶ 35. According to
+the Complaint, GreenDog determined that refrigerant “was leaking from holes in the system’s
+copper evaporator coils and preventing the system from generating cool air.” Id. Again, the
+Complaint contains no details about when this alleged inspection occurred or whether the
+inspection resulted in any out-of-pocket costs.
+
+2
+
+Case 1:14-cv-21884-BB Document 10 Entered on FLSD Docket 07/18/2014 Page 9 of 26
+
+The Complaint alleges that while GreenDog charged Harris $280 for refrigerant and labor
+on October 9, 2013, Nordyne replaced the evaporator coils for Harris’ 3.5 ton system free of
+charge under Nordyne’s express warranty. See Compl. ¶¶ 35-37. Harris does not allege that she
+has experienced any problems with her 3.5 ton system after the evaporator coils were replaced in
+October 2013, nor does she allege that she has ever experienced any problems with her 1.5 ton
+Nordyne HVAC system.
+Plaintiff Stark alleges that on February 1, 2012, she purchased from Cliff’s Air
+Conditioning & Heating Inc. (“Cliff’s”) an HVAC system manufactured by Nordyne. See
+Compl. ¶ 40. After using the system without incident for over one-and-a-half years, she “noticed
+that it was not generating cool air” in September 2013 and requested an inspection. Id. ¶ 42.
+Cliff’s allegedly determined that the evaporator coils had failed. See id. ¶ 43. The Complaint
+alleges that while Cliff’s charged Stark $250 for refrigerant and labor associated with the repair
+of her HVAC system, Stark was provided replacement evaporator coils free of charge under
+Nordyne’s warranty. See Compl. ¶ 45. The Complaint does not provide the specific date on
+which Stark’s HVAC unit was repaired. While she has not alleged any problems with her
+HVAC unit since Cliff’s replaced the coils, Stark avers that she “will continue to sustain
+unnecessary, out-of-pocket losses for labor and refrigerant” as a result of the replacement coils,
+which “will ultimately cause her system to prematurely fail yet again.” Id. ¶ 44.
+Aside from the recounting of these Plaintiff-specific repairs, the operative allegations on
+which the Complaint rests with respect to Nordyne’s alleged misrepresentations and omissions
+are conclusory and non-specific. The Complaint avers that Nordyne holds itself out to the public
+as “a trusted name in the industry” that has been “designing and manufacturing reliable heating
+and cooling products for more than 90 years.” Compl. ¶ 11. The Complaint also claims that
+
+3
+
+Case 1:14-cv-21884-BB Document 10 Entered on FLSD Docket 07/18/2014 Page 10 of 26
+
+Nordyne represents that it “focuses on creating genuine value for its customers through a unique
+combination of innovation, product performance and responsive support.” Id. Ultimately, the
+Complaint avers that Nordyne knew or should have known of two supposed causes of leakage
+and premature coil failure in their HVAC units: (i) problems associated with the use of a new
+federally mandated refrigerant, R-410A, see Compl. ¶¶ 14-17; and (ii) problems associated with
+formicary corrosion, see id. ¶ 18, which Plaintiffs describe as an “industry-wide” problem. Id. ¶
+19.
+Plaintiffs’ chief allegation is that although Nordyne had knowledge of these potential
+causes of leakage, Nordyne failed to disclose them to Plaintiffs and putative Class Members. See
+Compl. ¶¶ 3-4, 11, 19-23, 26-29, 38, 46, 52, 56, 64, 75. Plaintiffs, however, contradict their own
+chief allegation by conceding in their Complaint that Nordyne announced on its company
+website that “the ‘copper alloy’ that these coils are made out of is susceptible to a deadly triad of
+common household items (namely: oxygen, moisture in the air and organic acids found in
+numerous items)’ and that ‘[u]ltimately they mean that refrigerant will leak out of the coils and
+result in a costly repair or replacement.’” Compl. ¶ 19.
+Based on these allegations, Plaintiffs filed this putative class action against Nordyne,
+asserting claims for violation of FDUTPA and unjust enrichment. As shown below, neither
+claim can survive this motion.
+ARGUMENT
+I.
+
+STANDARD OF REVIEW
+To survive a motion to dismiss for failure to state a claim brought under Rule 12(b)(6),
+
+Plaintiffs’ Complaint must satisfy the baseline pleading requirements of Rule 8(a). The Supreme
+Court has interpreted this rule to require that a complaint “contain sufficient factual matter … to
+state a claim to relief that is plausible on its face.” Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009);
+4
+
+Case 1:14-cv-21884-BB Document 10 Entered on FLSD Docket 07/18/2014 Page 11 of 26
+
+Marquez v. Flextronics Am., LLC, No. 12-61520-Civ, 2013 WL 5448072, at *3 (S.D. Fla. Sept.
+30, 2013). It is imperative that such a “deficiency should … be exposed at the point of minimum
+expenditure of time and money by the parties and the court.” Bell Atlantic Corp. v. Twombly,
+550 U.S. 544, 558 (2007). Under this standard, Plaintiffs’ factual allegations must “raise a right
+to relief above the speculative level[,]” Twombly, 550 U.S. at 555, and put forth “more than an
+unadorned, the defendant-unlawfully-harmed-me accusation.” Iqbal, 556 U.S. at 678. Mere
+“labels and conclusions” and other threadbare recitals of a claim do not suffice and must be
+disregarded.
+
+Mills v. Foremost Ins. Co., 511 F.3d 1300, 1303 (11th Cir. 2008) (quoting
+
+Twombly, 550 U.S. at 555); Scobie v. Taylor, No. 13-60457-Civ., 2013 WL 3776270, at *1 (S.D.
+Fla. July 17, 2013) (citing Iqbal, 556 U.S. at 678). As explained below, even taking all of the
+Plaintiffs’ allegations as true, the Complaint, resting on generalities, fails to meet even these
+basic pleading requirements of Rule 8(a).
+Furthermore, when a claim sounds in fraud—as Plaintiffs’ FDUTPA claim does—the
+supporting allegations must satisfy Rule 9(b)’s heightened pleading requirements. Rule 9(b)
+requires that, “[i]n alleging fraud or mistake, a party must state with particularity the
+circumstances constituting fraud or mistake.” Fed. R. Civ. P. 9(b). Thus, the complaint must
+allege “facts as to time, place, and substance of the defendant’s alleged fraud, specifically the
+details of the defendants’ allegedly fraudulent acts, when they occurred, and who engaged in
+them.” U.S. ex rel. Matheny v. Medco Health Solutions, Inc., 671 F.3d 1217, 1222 (11th Cir.
+2012) (internal citation and quotation marks omitted). As further explained below, Plaintiffs
+have failed to plead their FDUTPA claim with Rule 9(b) particularity, and it therefore must be
+dismissed.
+
+5
+
+Case 1:14-cv-21884-BB Document 10 Entered on FLSD Docket 07/18/2014 Page 12 of 26
+
+II.
+
+PLAINTIFFS FAIL TO ADEQUATELY PLEAD A FDUTPA CLAIM
+The allegations set forth in Plaintiffs’ Complaint are insufficient to show that Nordyne
+
+violated FDUTPA. In order to state a claim under FDUTPA, a plaintiff must plead: “(i) an
+unfair or deceptive act or practice, (ii) causation, and (iii) actual damages.” See Beale v. Biomet,
+Inc., 492 F. Supp. 2d 1360, 1373 (S.D. Fla. 2007). Plaintiffs’ FDUTPA claim fails for three
+reasons. First, even under Rule 8(a)’s lenient pleading standard, Plaintiffs fail to adequately
+plead an unfair or deceptive act or practice. Second, Plaintiffs similarly fail to adequately plead
+causation under Rule 8(a). Third, because Plaintiffs frame their FDUTPA claim in terms of
+alleged misrepresentations, see Compl. ¶¶ 62-66, the claim sounds in fraud, and the factual
+allegations supporting it must therefore satisfy Rule 9(b)’s particularity requirements. Plaintiffs’
+FDUTPA allegations miss this heightened pleading bar. For these reasons, Plaintiffs’ FDUTPA
+claim must be dismissed.
+A.
+
+Plaintiffs Do Not Identify Any Alleged Unfair or Deceptive Act or Practice
+
+Plaintiffs’ FDUTPA claim fails because it does not allege an unfair or deceptive act or
+practice on Nordyne’s part—a necessary element of the claim. An unfair practice is one that
+“offends established public policy, is immoral, unethical, oppressive, unscrupulous, or
+substantially injurious to consumers.” Furmanite Am., Inc. v. T.D. Williamson, Inc., 506 F.
+Supp. 2d 1134, 1145 (M.D. Fla. 2007); see also PNR, Inc. v. Beacon Property Management, Inc.,
+842 So.2d 773, 777 (Fla. 2003). This strong language encompasses only egregious conduct such
+as Sherman Act conspiracies, see In re Fla. Cement & Concrete Antitrust Litig., 746 F. Supp. 2d
+1291, 1321 (S.D. Fla. 2010), predatory lending practices, see Scott v. Capital One Bank &
+Capital One Servs., No. 8:08-cv-132-T-30-EAJ, 2008 WL 2157037, *2-3 (M.D. Fla. May 20,
+2008), and selling “useless and obsolete” equipment. See H & J Paving of Fla., Inc. v. Nextel,
+Inc., 849 So.2d 1099, 1100 (Fla. 3d DCA 2003). No such conduct has been alleged here. In
+6
+
+Case 1:14-cv-21884-BB Document 10 Entered on FLSD Docket 07/18/2014 Page 13 of 26
+
+fact, the only specific factual allegations in Plaintiffs’ Complaint indicate that contrary to
+behaving egregiously, Nordyne openly disclosed any potential problems affecting its evaporator
+coils.
+Aside from this, Plaintiffs formulaically recite the legal standard for a FDUTPA claim,
+repeatedly labelling Nordyne’s alleged conduct as “unfair” and “deceptive,” without
+substantiating these conclusions. See Compl. ¶¶ 62, 63, 64, 65, 67, 68. These are merely
+unsupported legal conclusions that do not provide sufficient notice to Nordyne about Plaintiffs’
+specific allegations, nor do they “unlock the doors of discovery.” Iqbal, 556 U.S. at 678. They
+should be disregarded.
+The only paragraph of their Complaint that purportedly offers any factual support for
+Plaintiffs’ FDUTPA claim derives from generalized, standard, and subjective statements that
+Nordyne allegedly made about the quality of its products. Plaintiffs hold out as deceptive
+Nordyne’s alleged statement that it is a “trusted name in the industry,” that it has been
+“designing and manufacturing reliable heating and cooling products for more than 90 years,” and
+that it “focuses on creating genuine value for its customers through a unique combination of
+innovation, product performance and responsive support.” Compl. ¶ 11.
+These statements are nothing more than quintessential examples of opinion or puffery,
+which are not actionable under FDUTPA. See, e.g., Perret v. Wyndham Vacation Resorts, Inc.,
+889 F. Supp. 2d 1333, 1341-42 (S.D. Fla. 2012) (finding that mere puffery does not support a
+FDUTPA claim). Indeed, the types of statements on which Plaintiffs rely are precisely the types
+of statements courts have held constitute non-actionable puffery. For example, courts have held
+that representations equating to “boastful statements of opinion and sales talk … are merely
+aspirational goals and not [actionable] statements of fact.” Aprigliano v. Am. Honda Motor Co.,
+
+7
+
+Case 1:14-cv-21884-BB Document 10 Entered on FLSD Docket 07/18/2014 Page 14 of 26
+
+979 F. Supp. 2d 1331, 1341 (S.D. Fla. 2013); see also Cutsforth v. Renschler, 235 F. Supp. 2d
+1216, 1238 (M.D. Fla. 2002) (a statement that a corporate acquisition “adds value for our
+consumers” is mere puffery); Summit Tech., Inc. v. High-Line Med. Instruments, Co., 933 F.
+Supp. 918, 931 (C.D. Cal. 1996) (“a vague statement that [ ] machines are ‘reliable’ [is] a claim
+incapable of objective verification and not expected to induce reasonable consumer reliance”); In
+re Heartland Payment Sys., Customer Data Sec. Breach Litig., 834 F. Supp. 2d 566, 592 (S.D.
+Tex. 2011) (“Heartland’s slogans—‘The Highest Standards’ and ‘The Most Trusted
+Transactions’—are puffery on which the Financial Institution Plaintiffs could not reasonably
+rely.”). Because the statements on which Plaintiffs rely are mere puffery, they cannot support a
+FDUTPA claim.
+Plaintiffs are equally unsuccessful at pleading an actionable omission on Nordyne’s part.
+Although they repeatedly allege that Nordyne failed to disclose supposed coil defects, see
+Compl. ¶¶ 3, 20, 22, 23, 26-29, 56, 62-64, this naked assertion is belied by the Complaint itself.
+Specifically, Plaintiffs themselves admit that Nordyne explicitly warned of the possibility and
+consequences of formicary corrosion. See Compl. ¶ 19. Plaintiffs further admit that Nordyne
+alerted consumers to the possibility of repair or replacement of evaporator coils.
+
+See id.
+
+Importantly, Plaintiffs admit that Nordyne’s warnings were made at the same time Nordyne was
+placing its product into the stream of commerce. See id.
+To bring a FDUTPA claim, “a plaintiff must show the potential deception of ‘consumers
+acting reasonably in the circumstances’ rather than just any consumers.” Montgomery v. New
+Piper Aircraft, Inc., No. 00-14284-CIV, 2002 U.S. Dist. LEXIS 18198, *15-16 (S.D. Fla. Aug. 6,
+2002). But here, Plaintiffs’ own allegations show that any reasonable consumer would not have
+been deceived by Nordyne. That is, no reasonable consumer would have been deceived about
+
+8
+
+Case 1:14-cv-21884-BB Document 10 Entered on FLSD Docket 07/18/2014 Page 15 of 26
+
+the possibility or consequences of formicary corrosion when, as Plaintiffs concede, Nordyne
+posted on its website an explicit warning addressing those topics. See Zlotnick v. Premier Sales
+Group, Inc., 480 F.3d 1281, 1285 (11th Cir. 2007) (dismissing a FDUTPA claim where “no
+reasonable purchaser would believe” that an agreement meant something inconsistent with its
+express terms); Silver v. Countrywide Home Loans, Inc., 760 F. Supp. 2d 1330, 1343 (S.D. Fla.
+2011) (denying a FDUTPA claim because no reasonable consumer would be deceived where the
+allegedly deceptive loan terms were disclosed to the borrower). Thus, Plaintiffs’ own allegations
+demonstrate that Nordyne did not commit a deceptive act.
+B.
+
+Plaintiffs Fail to Establish Causation
+
+Plaintiffs’ FDUTPA claim suffers from another related fatal flaw: it fails to allege the
+required element of legal causation. To properly allege a FDUTPA violation, a plaintiff must
+plead injury “as a result of” some unfair method of competition, unconscionable act or practice,
+or unfair or deceptive act or practice. Fla. Stat. §§ 501.204(1), 501.211(2). Although Florida
+courts are divided over whether a FDUTPA plaintiff must show individual, actual proof of
+reliance (compare Montgomery v. New Piper Aircraft, 209 F.R.D. 221, 229 (S.D. Fla. 2002)
+(“[I]n order to prove liability under FDUTPA, the Court must determine that (1) each putative
+class member was exposed to the Defendants’ advertising and marketing materials alleged to
+constitute a deceptive trade practice and (2) if exposed, the advertising and marketing materials
+caused each putative class member damage.”), with Gavron v. Weather Shield Mfg., 819 F. Supp.
+2d 1297, 1301 (S.D. Fla. 2011) (concluding that the plaintiff need not allege individual reliance
+to state a FDUTPA claim)), a plaintiff must, at a minimum, “prove that an objective reasonable
+person would have been deceived.” Fitzpatrick v. General Mills, Inc., 635 F.3d 1279, 1283
+
+9
+
+Case 1:14-cv-21884-BB Document 10 Entered on FLSD Docket 07/18/2014 Page 16 of 26
+
+(11th Cir. 2011).2 Here, Plaintiffs fail to meet either standard: actual reliance or the objective
+possibility of reliance by any reasonable consumer.
+Critically, the Complaint does not allege that Plaintiffs, or any other consumer, read or
+heard a single statement of Nordyne’s, let alone that they were directly injured “as a result” of
+such statements. See Fla. Stat. 501.211(2). The mere fact that Plaintiffs purchased an HVAC
+system manufactured by Nordyne does not suffice to properly plead the causation element of a
+FDUTPA claim.
+
+As the Court in Jovine v. Abbott Labs., Inc., made clear, “[a]lthough a
+
+consumer may buy a product because he relied on a representation, it does not follow that a
+consumer relied on a representation because he purchased a product.” 795 F. Supp. 2d 1331,
+1339 (S.D. Fla. 2011).
+All that Plaintiffs do plead regarding causation is that, on the basis of a general,
+subjective statement allegedly made by Nordyne about the company’s history and goals,
+consumers would expect their HVAC systems to function properly. Specifically, the Complaint
+states:
+Nordyne represents itself to the public as a “trusted name in the industry” that has
+been “designing and manufacturing reliable heating and cooling products for
+more than 90 years.” Nordyne further represents that it “focuses on creating
+genuine value for its customers through a unique combination of innovation,
+product performance and responsive support.” Accordingly, Plaintiffs and
+putative Class Members reasonably expected Nordyne’s HVAC systems to
+function properly and be reliable and of high quality.
+
+2
+
+Even under the latter standard, the “factual circumstances that counsel a reasonable person to
+act in a particular way or hold a particular belief,” such as their reasons for purchasing the
+product or their exposure to the representations, should be considered. In re Motions to Certify
+Classes against Court Reporting Firms for Charges Relating to Word Indices, 715 F. Supp. 2d
+1265, 1281-83 (S.D. Fla. 2010); see also Montgomery, 209 F.R.D. at 229 (“In order to prove
+liability under FDUTPA, the Court must determine that [ ] each putative class member was
+exposed to the Defendants’ advertising and marketing materials alleged to constitute a deceptive
+trade practice.”).
+10
+
+Case 1:14-cv-21884-BB Document 10 Entered on FLSD Docket 07/18/2014 Page 17 of 26
+
+Compl. ¶ 11 (emphasis added). This is an attempt to plead causation by way of the word
+“[a]ccordingly”—it forms the only link between Nordyne’s alleged statements and Plaintiffs’
+and putative Class Members’ supposed expectations. Id. Yet, even before Twombly and Iqbal,
+use of such legal buzzwords was clearly inadequate to plead FDUTPA causation. See Lydia Sec.
+Monitoring, Inc. v. Alarm One, Inc., No. 07-80145-CIV, 2007 WL 2446889, at *5 (S.D. Fla.
+Aug. 23, 2007) (“Merely stating ‘as a result’ does not provide sufficient allegations to show
+causation in an FDUTPA claim.”); see also Kais v. Mansiana Ocean Residences, LLC, No. 0821492-CIV, 2009 U.S. Dist. LEXIS 25417, at *2 (S.D. Fla. Mar. 26, 2009) (holding that the
+plaintiff failed to plead causation under FDUTPA by not stating how “these alleged deceptive
+acts caused him … to act differently in any way”). Plaintiffs’ speculative, unfounded conclusion
+that purchasers’ expectations followed necessarily from statements allegedly made by Nordyne
+does not establish legal causation and should be disregarded. See Iqbal, 556 U.S. at 678 (“[T]he
+tenet that a court must accept as true all of the allegations contained in a complaint is
+inapplicable to legal conclusions.”).
+C.
+
+Plaintiffs Fail to Plead Their FDUTPA Claim With the Specificity Required
+by Federal Rule of Civil Procedure 9(b)
+
+Plaintiffs’ FDUTPA claim should also be dismissed because it is not alleged with the
+sufficient detail required to successfully bring such a claim. Rule 9(b) dictates that a plaintiff
+must plead with particularity the “who, what, where, when, [and] how” of any alleged fraud.
+Begualg Inv. Mgmt. Inc. v. Four Seasons Hotel Ltd., No. 10-22153-CIV, 2011 WL 4434891, at
+*3 (S.D. Fla. Sept. 23, 2011). This includes FDUTPA claims sounding in fraud. See, e.g.,
+Perret, 846 F. Supp. 2d at 1332-33 (dismissing a FDUTPA claim per Rule 9(b) for failing to
+state the date, time, and place of the allegedly fraudulent representations); Llado-Carreno v.
+Guidant Corp., No. 09-20971-CIV, 2011 WL 705403, at *5 (S.D. Fla. Feb. 22, 2011)
+11
+
+Case 1:14-cv-21884-BB Document 10 Entered on FLSD Docket 07/18/2014 Page 18 of 26
+
+(recognizing that Rule 9(b) applies to “all claims that sound in fraud,” including FDUTPA
+claims); Begualg Inv. Mgmt., 2011 WL 4434891, at *5 (following Llado-Carreno); Cannon v.
+Metro Ford, Inc., 242 F. Supp. 2d 1322, 1332 (S.D. Fla. 2002) (dismissing, under Rule 9(b),
+FDUTPA claims that “fail[ed] to plead with any particularity the circumstances constituting the
+purported fraud”).
+Measured against this heightened requirement, Plaintiffs’ FDUTPA claim fails. Notably,
+the Complaint offers only “[t]hreadbare recitals of the elements of a cause of action, supported
+by mere conclusory statements”—the hallmark of an inadequate pleading. Iqbal, 556 U.S. at
+678. Rather than stating the who, what, where, when, and how of the alleged fraud—as they
+must—Plaintiffs recite legal conclusions couched as factual allegations. See, e.g., Compl. ¶ 63
+(“Nordyne’s actions constitute unconscionable, deceptive, or unfair acts or practices.”); id.
+(stating that Nordyne engaged in “immoral, unethical, oppressive, and unscrupulous activities
+that are substantially injurious to consumers”). Indeed, Plaintiffs make only general, baseless
+statements about Nordyne’s alleged conduct. See, e.g., id. ¶ 20 (“Nordyne failed to disclose or
+otherwise notify Plaintiffs and putative Class Members of problems inherent in its copper
+evaporator coils or that the coils were likely to fail, and in certain instances already had failed.”);
+id. ¶ 63 (“Defendant Nordyne misrepresented and omitted material facts regarding the copper
+evaporator coils contained within their HVAC systems by failing to disclose known defects”). In
+particular, Plaintiffs offer no facts supporting the conclusion that Nordyne failed to disclose the
+possibility of evaporator coil failure and/or formicary corrosion. On the contrary, they concede
+that Nordyne disclosed these facts.
+The only specific allegation of a supposedly fraudulent statement or representation
+concerns a general, subjective comment allegedly made by Nordyne about the company’s history
+
+12
+
+Case 1:14-cv-21884-BB Document 10 Entered on FLSD Docket 07/18/2014 Page 19 of 26
+
+and goals. See Compl. ¶ 11 (“Nordyne represents itself to the public as a ‘trusted name in the
+industry’ that has been ‘designing and manufacturing reliable heating and cooling products for
+more than 90 years.’ Nordyne further represents that it ‘focuses on creating genuine value for its
+customers through a unique combination of innovation, product performance and responsive
+support.’”). As discussed more fully in Section II.A. supra, these statements are considered
+nothing more than mere puffery and are not sufficient to successfully plead a claim for fraud.
+Furthermore, Plaintiffs do not plead with specificity when, where, and how these alleged
+statements were made by Nordyne, nor who specifically made the statements. In particular, even
+if such statements could be construed as possible misrepresentations (which they are not),
+Plaintiffs fail to plead with particularity whether they—or any other consumer for that matter—
+even viewed these statements prior to purchasing the allegedly defective products. A district
+court in the Middle District of Florida recently held that a plaintiff failed to plead its FDUTPA
+claim with sufficient particularity because of these very types of omissions. The court found that
+while the complaint “alleges facts as to the substance” of the defendants’ alleged
+misrepresentations and concealments, it “fail[ed] to allege with specificity the time at which they
+occurred.” Order Granting in Part and Denying in Part Defendants’ Motion to Dismiss, PB
+Prop. Mgmt., Inc. v. Goodman Mfg. Co, No. 3:12-cv-1366, *13-14 (M.D. Fla. Aug. 27, 2013).
+Moreover, the court found that the complaint failed to specify when the plaintiff viewed the
+alleged misrepresentations on the defendants’ website, or even whether the plaintiff or any other
+consumer viewed these alleged misrepresentations at all before purchasing the allegedly
+defective products. See id. Just on the basis of failing to plead these facts with particularity, the
+court granted the defendants’ motion to dismiss as to the plaintiff’s FDUTPA claim. See id.
+
+13
+
+Case 1:14-cv-21884-BB Document 10 Entered on FLSD Docket 07/18/2014 Page 20 of 26
+
+Ultimately, Plaintiffs have failed to satisfy Rule 9(b)’s heightened pleading requirement.
+For this reason and the reasons set forth above, Plaintiffs’ FDUTPA claim should be dismissed.
+III.
+
+PLAINTIFFS CANNOT MAINTAIN A CLAIM FOR UNJUST ENRICHMENT
+A.
+
+Plaintiffs’ Unjust Enrichment Claim Fails Because an Adequate Remedy at
+Law Exists
+
+Plaintiffs’ unjust enrichment claim must also be dismissed. Under Florida law, “unjust
+enrichment is an equitable remedy and is not available where an adequate legal remedy exists.”
+Martinez v. Weyerhaeuser Mortg. Co., 959 F. Supp. 1511, 1518 (S.D. Fla. 1996); see also
+Prohias v. Pfizer, Inc., 490 F. Supp. 2d 1228, 1236-37 (S.D. Fla. 2007) (dismissing plaintiffs’
+unjust enrichment claim because plaintiffs had an adequate remedy at law); Am. Honda Motor
+Co. v. Motorcycle Info. Network, Inc., 390 F. Supp. 2d 1170, 1178 (M.D. Fla. 2005) (“It is well
+settled in Florida that unjust enrichment is an equitable remedy and is, therefore, not available
+where there is an adequate legal remedy.”); Bowleg v. Bowe, 502 So. 2d 71, 72 (Fla. 3d DCA
+1987) (“[T]he theory of unjust enrichment is equitable in nature and is, therefore, not available
+where there is an adequate legal remedy.”). Thus, in order to sustain an unjust enrichment claim,
+a party must “allege that he has no adequate remedy at law.” Denarii Sys., LLC v. Arab, No. 1224239-CIV, 2013 WL 6162825, at *6 (S.D. Fla. Nov. 25, 2013). Moreover, the preemption of
+an unjust enrichment claim does not depend on the likelihood of prevailing on available claims
+at law. Rather, the mere availability of another adequate remedy—here, the FDUTPA claim—is
+sufficient to preclude an unjust enrichment claim, irrespective of the other claim’s ultimate fate.
+See Speier-Roche v. Volkswagen Grp. of Am., Inc., No. 14-20107-CIV, 2014 WL 1745050, at *8
+(S.D. Fla. Apr. 30, 2014) (“Plaintiff’s failure to state a claim for breach of warranty does not
+save the unjust enrichment claim.”).
+
+14
+
+Case 1:14-cv-21884-BB Document 10 Entered on FLSD Docket 07/18/2014 Page 21 of 26
+
+Applying these principles, courts in this district have rejected unjust enrichment claims at
+the pleadings stage when they are predicated on the same allegations as FDUTPA claims because
+an adequate legal remedy exists. See, e.g., Prohias, 490 F. Supp. 2d at 1237 (“[I]n their unjust
+enrichment claim, the plaintiffs seek recovery for the exact same wrongful conduct as in their
+consumer fraud act claim …. Accordingly, the plaintiffs’ claims for unjust enrichment are
+dismissed.”); Am. Honda Motor Co., 390 F. Supp. 2d at 1178 (“The Defendants’ [unjust
+enrichment] claim is predicated on the same set of allegations supporting their claims under
+FUTSA and FDUTPA. Accordingly, because an adequate remedy exists at law, the Defendants
+have not stated a claim upon which relief may be granted.”).
+Here, Plaintiffs plead claims both for alleged violations of FDUTPA and unjust
+enrichment. Critically, they base their unjust enrichment claim on exactly the same insufficient
+facts, circumstances, and allegations underlying their FDUTPA claim, shotgun-pleading a
+duplicative and inconsistent cause of action. See Twombly, 550 U.S. at 555; Jovine, 795 F. Supp.
+2d at 1342.
+
+Indeed, “[o]ther than to parrot the elements of a cause of action for unjust
+
+enrichment,” Weaver v. Mateer & Harbert, P.A., No. 5:09-CV-514-Oc-34TBS, 2012 WL
+3065362, *11 n. 29 (M.D. Fla. July 27, 2012), Plaintiffs’ unjust enrichment claim adds nothing
+beyond their already-inadequate FDUTPA allegations. Plaintiffs do not even attempt to allege
+that an adequate legal remedy does not exist here, nor could they because “although a plaintiff
+ordinarily may plead in the alternative, here, if Plaintiff cannot prevail with his available legal
+remedies [which include recovery under FDUTPA], he cannot prevail on his unjust enrichment
+claim.” Jovine, 795 F. Supp. 2d at 1342. In sum, because Plaintiffs’ unjust enrichment claim
+relies on the exact same factual predicates and allegations that support their FDUTPA claim,
+Plaintiffs’ unjust enrichment claim should be dismissed.
+
+15
+
+Case 1:14-cv-21884-BB Document 10 Entered on FLSD Docket 07/18/2014 Page 22 of 26
+
+B.
+
+The Existence of Express Warranties Dooms Plaintiffs’ Unjust Enrichment
+Claim
+
+Under Florida law, an unjust enrichment claim must be dismissed if it is undisputed that
+an express contract exists. See Speier-Roche, 2014 WL 1745050 at *8 (an unjust enrichment
+claim can be pled only “if one or more parties contest the existence of an express contract
+governing the subject of the dispute”); Alvarez v. Royal Caribbean Cruises, Ltd., 905 F. Supp. 2d
+1334, 1341 (S.D. Fla. 2012) (holding that the existence of an express contract necessarily
+precludes an unjust enrichment claim); Webster v. Royal Caribbean Cruises, Ltd., 124 F. Supp.
+2d 1317, 1326 (S.D. Fla. 2000) (unjust enrichment “cannot be awarded when an enforceable
+contract exists”). In Speier-Roche, the court made clear that an express warranty constitutes the
+very type of contract warranting the dismissal of an unjust enrichment claim. 2014 WL 1745050
+at *8 (“Here, because there is an express warranty governing Plaintiff’s rights, her unjust
+enrichment claim must fail.”).
+Notably, the mere existence of an express contract governing the subject of the dispute,
+regardless of whether a plaintiff actually claims breach of contract, can defeat an unjust
+enrichment claim. As the Speier-Roche court held, “Plaintiff’s failure to state a claim for breach
+of warranty does not save the unjust enrichment claim.” 2014 WL 1745050 at *8; see also BAC
+Fin. Servs., Inc., v. Multinational Life Ins. Co., No. 13-21529, 2013 WL 5929428, *4 (S.D. Fla.
+Nov. 5, 2013) (dismissing an unjust enrichment claim where the underlying conduct related to
+express insurance contracts, even though the plaintiff did not allege breach of those contracts,
+because “an unjust-enrichment claim lies only in the absence of an express contract.”); Gary v.
+D. Agustini & Asociados, S.A., 865 F. Supp. 818, 827 (S.D. Fla. 1994) (dismissing an unjust
+enrichment claim where the plaintiff “may seek a contractual remedy,” though he had not done
+so) (emphasis added); Allyn v. CNL Lifestyle Props., Inc., No. 6:13-cv-132-Orl-36GJK, 2013
+16
+
+Case 1:14-cv-21884-BB Document 10 Entered on FLSD Docket 07/18/2014 Page 23 of 26
+
+WL 6439383, *3, *6-7 (M.D. Fla. Nov. 27, 2013) (dismissing an unjust enrichment claim that
+“concern[ed] the same subject matter” as the investment contract that the plaintiffs executed,
+despite the fact that they did not allege breach of the investment contract). This outcome follows
+from the fact that unjust enrichment is “based on a legal fiction created by courts to imply a
+‘contract’ as a matter of law.” Tooltrend, Inc. v. CMT Utensili, SRL, 198 F.3d 802, 805 (11th
+Cir. 1999). Here, both Plaintiffs Harris and Stark allege the existence of an express warranty
+covering their respective HVAC systems. See Compl. ¶¶ 37, 45.
+For these reasons, Plaintiffs’ fail to state a claim for unjust enrichment, and the claim
+must be dismissed.
+IV.
+
+PLAINTIFFS HAVE NOT ADEQUATELY PLED DIVERSITY JURISDICTION
+UNDER 28 U.S.C. § 1332(d)
+Plaintiffs purport to invoke diversity jurisdiction under 28 U.S.C. §1332(d). In order to
+
+do so, they must prove, at a minimum, that at least one plaintiff and one defendant are citizens of
+different states. 28 U.S.C. §1332(d)(2). As the Eleventh Circuit has held on numerous
+occasions, “[f]or the purpose of determining diversity jurisdiction, ‘a limited liability company is
+a citizen of any state of which a member of the company is a citizen.’” Flintlock Constr. Servs.
+v. Well-Come Holdings, LLC, 710 F.3d 1221, 1224 (11th Cir. 2013). Thus, to sufficiently allege
+the citizenship of an LLC, “a party must list the citizenships of all the members of the limited
+liability company.” Mallory & Evans Contrs. & Engrs, LLC v. Tuskegee Univ., 663 F.3d 1304,
+1305 (11th Cir. 2011). Where a party fails to do so, Florida courts will routinely dismiss the
+complaint for lack of jurisdiction. See e.g., Wells Fargo Bank Nat’l Ass’n v. Procorp Enters.,
+LLC, No. 2:14-cv-273, 2014 WL 2118881 (M.D. Fla. May 21, 2014); see also Cebrian v. Robert
+H. Ballard Rehab. Hosp., No. ED CV 13-2149, 2013 U.S. Dist. LEXIS 173184 (C.D. Cal. Dec.
+6, 2013) (finding that the removing party failed to meet its burden to demonstrate diversity
+17
+
+Case 1:14-cv-21884-BB Document 10 Entered on FLSD Docket 07/18/2014 Page 24 of 26
+
+jurisdiction pursuant to §1332(d) because it failed to allege the citizenship of each of the
+members of an LLC party).
+Here, Plaintiffs have not pled the citizenship of any of the members of Nordyne. Indeed,
+they have not even pled what they allege is Nordyne’s principal place of business—the way in
+which the citizenship of a typical corporation is determined. See Postell v. Ryder Truck Rental,
+Inc., 512 Fed. App’x 977, 980 (11th Cir. 2013) (“A corporation is deemed a citizen of any state
+in which it is incorporated and the state in which it has its principal place of business.”). Thus,
+they have not sufficiently established diversity jurisdiction under section 1332(d). Accordingly,
+their Complaint must be dismissed for lack of jurisdiction.
+CONCLUSION
+For all of the foregoing reasons, Nordyne respectfully requests that the Court grant
+Nordyne’s motion to dismiss in its entirety and dismiss the Plaintiffs’ Class Action Complaint,
+with prejudice, together with such relief as this Court deems just and proper.
+
+18
+
+Case 1:14-cv-21884-BB Document 10 Entered on FLSD Docket 07/18/2014 Page 25 of 26
+
+Dated: July 18, 2014
+
+/s/ Edward Soto
+Edward Soto (Fla. Bar No. 0265144)
+Edward.Soto@weil.com
+Pravin Patel (Fla. Bar No. 0099939)
+Pravin.Patel@Weil.com
+Weil, Gotshal & Manges LLP
+1395 Brickell Avenue, Suite 1200
+Miami, Florida 33131
+Telephone: (305) 577-3100
+Fax: (305) 374-7159
+Arvin Maskin (pro hac vice pending)
+Arvin.Maskin@weil.com
+Melody E. Akhavan (pro hac vice pending)
+Melody.Akhavan@weil.com
+Weil, Gotshal & Manges LLP
+767 Fifth Avenue
+New York, NY 10153
+Telephone: (212) 310-8000
+Fax: (212) 310-8007
+
+Attorneys for Nordyne, LLC
+
+19
+
+Case 1:14-cv-21884-BB Document 10 Entered on FLSD Docket 07/18/2014 Page 26 of 26
+
+CERTIFICATE OF SERVICE
+I hereby certify that on July 18, 2014, I electronically filed the foregoing with the Clerk
+of the Court for the United States District Court for the Southern District of Florida by using the
+CM/ECF system, which sent notification of such filing to all CM/ECF participants.
+
+/s/ Edward Soto
+Edward Soto (Fla. Bar No. 0265144)
+Edward.Soto@weil.com
+Weil, Gotshal & Manges LLP
+1395 Brickell Avenue, Suite 1200
+Miami, Florida 33131
+Telephone: (305) 577-3100
+Fax: (305) 374-7159
+Attorneys for Nordyne, LLC
+
+20
+
+

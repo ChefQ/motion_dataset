@@ -1,0 +1,494 @@
+HYPERPHRASE TECHNOLOGIES, LLC v. GOOGLE INC.
+
+Doc. 151
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE WESTERN DISTRICT OF WISCONSIN
+HYPERPHRASE TECHNOLOGIES, LLC and
+HYPERPHRASE INC.,
+Plaintiffs,
+v.
+
+Civil Action No. 06 C 0199 bbc
+
+GOOGLE INC.,
+Defendant.
+GOOGLE’S MEMORANDUM IN SUPPORT OF ITS MOTION TO FIND THIS CASE
+EXCEPTIONAL PURSUANT TO 35 U.S.C. § 285 AND TO AWARD POST-REMAND
+ATTORNEYS’ FEES AND EXPENSES
+
+Dockets.Justia.com
+
+I.
+
+INTRODUCTION
+Despite that the narrow remand, the settled claim construction, and the undisputed facts
+
+each pointed to one inevitable conclusion—that HyperPhrase had no good faith infringement
+position—HyperPhrase stubbornly pursued this case after remand. The Federal Circuit had
+rejected HyperPhrase’s proposed construction of the key “data reference” term. HyperPhrase
+knew exactly how the accused AutoLink feature worked—indeed no further depositions of
+technical witnesses were required for the second round of summary judgment briefing. And
+HyperPhrase was well aware of the scores of prior art references Google found raising
+substantial challenges to the validity of the asserted patents. Yet instead of reasonably
+reassessing its case and cutting its losses, it doubled down. HyperPhrase ignored the facts and
+law and charged ahead fully understanding the insurmountable hurdles it faced. From that point
+forward, HyperPhrase engaged in a pattern of obfuscation and delay, on issues ranging from the
+routine to the pivotal. It reneged on prior stipulations. It equivocated on the settled claim
+construction. It persisted with allegations rendered baseless by clear and controlling authority.
+And to avoid the inevitable summary judgment, it sought to create factual disputes where there
+were none, unnecessarily multiplying the burdens on both Google and the Court.
+These are the hallmarks of a litigant whose true interest is in using the burdens and
+uncertainties of the litigation process, and the risks inherent in a jury trial, to enhance its
+settlement leverage. There is a line of zealous advocacy, and HyperPhrase and its counsel
+crossed it here. This post-remand litigation conduct makes this case exceptional under 35 U.S.C.
+§ 285, entitling Google to its reasonable attorney fees and expenses incurred in continuing to
+defend this case. “Where, as here, the patentee is manifestly unreasonable in assessing
+infringement, while continuing to assert infringement in court, an inference is proper of bad
+
+1
+
+faith, whether grounded in or denominated wrongful intent, recklessness, or gross negligence.”
+Eltech Sys. Corp. v. PPG Indus., Inc., 903 F.2d 805, 811 (Fed. Cir. 1990).
+II.
+
+FACTUAL BACKGROUND
+In 2006, Judge Shabaz granted summary judgment of noninfringement in favor of Google
+
+largely on his construction of the term “data reference.”1 (Dkt. No. 64.) HyperPhrase appealed
+that decision to the Federal Circuit, which largely affirmed. (Dkt. No. 109.) However, the
+Federal Circuit disagreed with a small portion of Judge Shabaz’s specific application of the term
+“data reference” to the accused AutoLink feature, with regard to two of the five originally
+asserted patents, namely U.S. Patents Nos. 6,526,321 (“‘321 patent”) and 5,903,889 (“‘889
+patent”). (Id. at 10.)
+This was far from a victory for HyperPhrase. Critically, the Federal Circuit rejected
+HyperPhrase’s claim construction position on what “data reference” should mean. (Dkt. No.
+125-02 (Federal Circuit slip. op.) at fn. 5.) Given the extensive record developed in the District
+Court, including in Google’s earlier summary judgment filings, HyperPhrase knew exactly how
+the accused AutoLink technology worked and knew that, without its preferred construction, the
+remand simply delayed the inevitable.
+With little of substance to go on, HyperPhrase chose a different path. As explained in
+detail below, when Google after remand sought to raise a defense that was plainly permitted by
+an earlier stipulation and order, HyperPhrase opposed. (See Dkt. Nos. 98, 110, 114, and 118.)
+After losing the issue in the first instance, it then re-litigated the issue when Google sought
+summary judgment on that same defense. (See, e.g., Dkt. Nos. 127 at 1-4 and 136 at fn. 3.) That
+1
+
+Following Judge Shabaz’s ruling, Google moved for attorney fees and expenses pursuant
+to Section 285. The motion was denied due to Judge Shabaz’s opinion that Google placed too
+much weight on “hindsight reliance” predicated on his summary judgment determination. (See
+Dkt. No. 80.) In the current motion, Google seeks only the fees and expenses incurred since the
+remand from the Federal Circuit.
+2
+
+was only a part of HyperPhrase’s strategy to avoid the merits on summary judgment. As to the
+issues on which it ultimately lost, HyperPhrase sought to obfuscate the key facts, and
+unnecessarily multiply the burdens on Google and the Court, by baselessly disputing Google’s
+proposed findings of fact and offering hundreds of largely unnecessary “facts” of its own. (See
+Dkt. Nos. 131, 132, 137 and 138.) It likewise persisted in pressing theories that not only differed
+from or misapplied the Federal Circuit’s settled construction, but which made its infringement
+and validity positions irreconcilable. (Compare, e.g. Dkt. No. 127 at 39 (modifying the hidden
+file infringes) to Dkt. No. 130-2 at 173 of 307 (prior art does not anticipate because it modifies
+hidden file).) So too did it refuse to drop its allegation of willful infringement despite clear and
+controlling authority from the Federal Circuit and this Court stripping this allegation of any
+colorable viability. (See Dkt. Nos. 101, 126 and 135.)
+III.
+
+ARGUMENT
+A.
+
+The Standards for Finding an Exceptional Case Are Straightforward,
+Discretionary, and Fully Applicable to this Case
+
+Pursuant to 35 U.S.C. § 285, “[t]he court in exceptional cases may award reasonable
+attorney fees to the prevailing party.” To determine whether an award of fees under this statute
+is appropriate, (1) the court determines whether there is clear and convincing evidence that the
+case is “exceptional”; and (2) if so, the court then determines whether an award of attorney fees
+to the prevailing party is warranted. Cybor Corp. v. FAS Techs., 138 F.3d 1448, 1460 (Fed. Cir.
+1998) (en banc); see also Enzo Biochem, Inc. v. Calgene, Inc., 188 F.3d 1362, 1370 (Fed. Cir.
+1999). The award of such fees is discretionary, and courts may “weigh intangible as well as
+tangible factors: the degree of culpability of the infringer, the closeness of the question, litigation
+behavior, and any other factors whereby fee shifting may serve as an instrument of justice.”
+Nat’l Presto Indus. v. West Bend Co., 76 F.3d 1185, 1197 (Fed. Cir. 1996).
+
+3
+
+What constitutes an “exceptional” case is a factual, but subjective, determination:
+The prevailing party may prove the existence of an exceptional
+case by showing: inequitable conduct before the PTO; litigation
+misconduct; vexatious, unjustified, and otherwise bad faith
+litigation; a frivolous suit or willful infringement. Litigation
+misconduct and unprofessional behavior are relevant to the award
+of attorney fees, and may suffice, by themselves to make a case
+exceptional. . . . Inadequacy of pre-filing preparation may [also] be
+relevant to the “exceptional” case question.
+Epcon Gas Sys. Inc. v. Bauer Compressors, Inc., 279 F.3d 1022, 1034-35 (Fed. Cir. 2002)
+(citations omitted); see e.g., Taurus IP, LLC v. DaimlerChrysler Corp., 559 F. Supp. 2d 947, 967
+(W.D. Wis. 2008) (“Factors relevant to determining whether a case is ‘exceptional’ include
+‘closeness of the question, pre-filing investigation and discussions with defendant, and litigation
+behavior’”); Brooks Furniture Mfg. v. Dutailier Int’l., Inc., 393 F.3d 1378, 1381 (Fed. Cir. 2005)
+(“A case may be deemed exceptional when there has been some material inappropriate conduct
+related to the matter in litigation, such as . . . misconduct during litigation, vexatious or
+unjustified litigation, conduct that violates Fed. R. Civ. P. 11, or like infractions.”). In particular,
+where a case has been pursued in bad faith which results in extending or expanding the litigation,
+a case may be found exceptional. See Taurus IP, 559 F. Supp. 2d at 967 (“a case may be
+exceptional where the losing party has ‘prolong[ed] litigation in bad faith.’”). The pertinent
+inquiry under Section 285 is whether the plaintiff knew or should have known that its claims
+were baseless but pursued them anyway. Forest Labs., Inc. v. Abbott Labs., 339 F.3d 1324, 1330
+(Fed. Cir. 2003).
+A district court must examine all of the evidence of misconduct and bad faith in order to
+make the appropriate determination under Section 285. See Yamanouchi Pharm. Co. v. Danbury
+Pharmacal, Inc., 231 F.3d 1339, 1347 (Fed. Cir. 2000) (“In assessing whether a case qualifies as
+
+4
+
+exceptional, the district court must look at the totality of the circumstances.”); accord Nilssen v.
+Osram Sylvania, Inc., 528 F.3d 1352, 1357-1358 (Fed. Cir. 2008).
+B.
+
+HyperPhrase’s Actions Post-Remand Reflect A Pattern Of Conduct Of
+Obfuscation And Vexatious Multiplication Of Proceedings, Which Amounts
+To Bad Faith Litigation Misconduct
+1.
+
+HyperPhrase’s Baseless Opposition To Google’s Efforts to Amend the
+Pleadings
+
+Almost from the outset of the post-remand proceedings, HyperPhrase and its counsel
+embarked on a pattern of obfuscation and vexatious multiplication of proceedings. Illustrative of
+this is what Google faced when it sought to add its license defense after the mandate issued.2
+(See Dkt. No. 98 at 4 and Dkt. No. 114 at 3-4.) This should have been a routine and ministerial
+process, given that HyperPhrase had previously stipulated—as a condition to putting the case in
+a procedural posture that would allow it to appeal Judge Shabaz’s summary judgment
+determination—that if the case were remanded, Google could amend the pleadings to add “any”
+new claims. (Dkt. No. 71.) Judge Shabaz entered that stipulation, and dismissed the case.
+Instead, HyperPhrase opposed. Its position was specious. HyperPhrase contended that
+Google had delayed unnecessarily in raising this defense. But the defense was based on a license
+agreement that HyperPhrase had failed to produce to Google until just days before Judge Shabaz
+threw the case out in 2006. According to HyperPhrase, notwithstanding the express stipulation
+permitting Google to raise “any” new defenses after remand, and notwithstanding that Judge
+2
+
+Google’s amended pleadings added a license defense in view of the combination of the
+alleged infringing Google Toolbar and Microsoft’s Internet Explorer web browser, which was
+implicated in HyperPhrase’s infringement contentions (HyperPhrase had licensed the patents to
+Microsoft). HyperPhrase did not timely produce the license in this litigation and had a
+significant financial interest in not only delaying its production but keeping the license defense
+out of the case. This is because data Google produced showed that such a license would have
+reduced HyperPhrase’s damages claims by at least 90%. (See Dkt. No. 103 at 31-32
+(HyperPhrase’s infringement contentions and damages claims) and Dkt. No. 114 (timing).) It
+was also manifestly unfair for HyperPhrase to seek a royalty on the combination of the Google
+and Microsoft technology where an allegedly necessary step in HyperPhrase’s infringement
+contentions was performed by Microsoft technology HyperPhrase had already licensed. (See
+Dkt. No. 114 at 6-7 and Exhibit 8 (highlighting HyperPhrase’s “browser” infringement theory.)
+5
+
+Shabaz had dismissed HyperPhrase’s case, Google should have raised its new license defense
+during the pendency of HyperPhrase’s appeal. HyperPhrase’s position was completely without
+merit. The issue went to a contested motion, and HyperPhrase lost on the basis of the stipulation.
+(Dkt. No. 118)
+That should have been the end of the matter, but it was not. When Google then sought
+summary judgment on the basis of this defense (Dkt. No. 103 at 29-32), HyperPhrase sought to
+re-litigate the issue. This time HyperPhrase relied on the “mandate rule.”3 This argument was
+not only far too late, but it lacked merit for the same reason as HyperPhrase’s other arguments in
+that HyperPhrase persisted in ignoring the dispositive nature of the earlier stipulation—
+suggesting that Google was free to add a defense upon which the court was not permitted to
+make a merits determination. (See Dkt. Nos. 127 at 1-4 (HyperPhrase opposition), 136 at fn. 3
+(Google reply), and 141 at 11 (Court opinion: “This position is meritless.”).)
+Where as here a party’s litigation conduct results in needless expense by its adversary or
+requires its adversary to re-litigate issues already decided, attorneys’ fees should be awarded.
+See Taurus IP, LLC v. DaimlerChrysler Corp., 559 F. Supp. 2d 947, 968 (W.D. Wis. 2008)
+(awarding fees to an accused infringer where plaintiff breached a prior settlement agreement and
+filed repetitive motions on the same arguments); see also Serrano v. Tellular Corp., 111 F.3d
+1578, 1585 (Fed. Cir. 1997).
+2.
+
+HyperPhrase Sought to Obfuscate Agreed-to Facts by Disputing All of
+Google’s Findings and by Offering Extensive and Needless Findings of
+Its Own
+
+HyperPhrase and its counsel’s efforts to obfuscate and unnecessarily and vexatiously
+multiply the proceedings extended also to the merits, as reflected in its baseless disputing of
+3
+
+The “mandate rule” limits the scope of issues that may be litigated on remand by the
+appellant (here HyperPhrase). It is discussed in the parties’ earlier briefing. See, e.g., Dkt. No.
+136 at fn. 3 (citing Engel Indus. Inc. v. Lockformer Co., 166 F.3d 1379, 1382-83 (Fed. Cir.
+1999)).
+6
+
+nearly all of Google’s noninfringement and invalidity proposed findings of fact, coupled with its
+presentation of 399 of its own findings. (See Dkt. No. 132 (nos. 7-156 concerned infringement).)
+HyperPhrase’s Additional Statement of Proposed Findings of Fact and Conclusions of Law
+(“APFOF”) were plainly designed to create the impression of disputes where there were none,
+and were in many cases in violation of the Court’s procedure. (See Dkt. Nos. 9 at 5-6, 132 and
+138.) These additional findings were completely unwarranted since they: (1) raised no genuine
+issues of material fact, (2) reflected HyperPhrase’s failure to respond to Google’s proposed
+findings, and (3) were largely unsubstantiated. In fact, HyperPhrase’s summary judgment
+oppositions did not contain a single cite to its APFOF, yet Google and the Court were put to the
+meaningless and incredibly time-consuming and complex burden of sorting through and
+responding to all 399 them, as well as to HyperPhrase’s largely unfounded objections to
+Google’s. (See Dkt. Nos. 126-128.) Moreover, HyperPhrase’s APFOF often either disputed or
+merely responded to Google’s proposed findings by rewriting them with objectionable claim
+language or made up terms. For instance, in HyperPhrase’s APFOF offered multiple
+constructions of “data reference” after the Federal Circuit had explicitly construed the term. (Id.,
+e.g., HyperPhrase proposed finding nos. 171 (“a ‘data reference’ is a ‘unique phrase or word’”),
+199 (correct definition for data reference), 266 (“a ‘data reference’ is a unique phrase or word’
+which is meant to be read to understand the record”), 267 (“data references” do not “encompass
+hidden programming codes”).)
+In Third Wave Techs., Inc. v. Stratagene Corp., 405 F. Supp. 2d 991, 1015-18 (W.D.
+Wis. 2005), this Court awarded fees due inter alia to frivolous responses to findings of fact and
+opposing counsel’s “disregard for professionalism, civility and simple courtesy.” See also Am.
+Standard, Inc. v. York Int’l Corp., 244 F. Supp. 2d 990, 996-997 (W.D. Wis. 2002) (fees granted
+
+7
+
+to accused infringer for plaintiffs’ “dilatory tactics” and inadequate discovery responses). These
+attempts to obfuscate the record, rather than genuinely dispute it, to survive summary judgment
+was litigation misconduct.
+3.
+
+HyperPhrase Rewrote The Federal Circuit’s Settled Claim
+Construction of “Data Reference”
+
+So too did HyperPhrase and its counsel persist on remand in muddying the waters on the
+key “data reference” claim term. (See, e.g., Dkt. No. 125-19 (Niro Decl. Ex. R) at 18.) The term
+“data reference” was a centerpiece of HyperPhrase’s appeal. However, the Federal Circuit
+declined to adopt HyperPhrase’s proposed construction. (Dkt. No. 125-05 at fn. 5.) That should
+have been the end of it, but it was not. On remand, HyperPhrase continued to shade and spin this
+construction, and its application, in order to avoid the substantial invalidity problems presented
+by the Federal Circuit’s construction. Ironically, HyperPhrase’s appeal to the Federal Circuit
+regarding Judge Shabaz’s construction of “data reference” was that it was too narrow and it
+imported limitations into the claims. (See, e.g., Exhibit 1 (HyperPhrase Appeal Reply Br.) at 4-7
+(arguing the construction was too narrow); see also id. at 19 (complaining about importing
+limitations into the claims).) Yet once HyperPhrase got what it asked for (a broader
+construction) and was forced to deal with the inevitable invalidity issues on remand it back
+peddled. HyperPhrase had no choice but to narrow the broad construction it received by
+“interpreting” it so that it would not cover operation on text hidden from a user—which,
+unfortunately for HyperPhrase’s infringement position, is exactly how Google’s accused product
+
+8
+
+AutoLink operates and which was another ground upon which this court could have
+independently thrown the entire case out. (See Dkt. No. 136 at 4-6.)4
+Term:
+“data reference”
+
+Construction:
+Federal Circuit: A unique phrase or
+word used in a record to refer to
+another record or record segment
+and that a data reference may refer
+to one or more than one record.
+
+HyperPhrase’s Various Constructions:
+February 11, 2008 (Thompson Suppl. Rpt.
+served after remand and uses three different
+constructions): Under any claim construction,
+the ISBN number itself in AutoLink qualifies
+as a DR or data reference. First, under the plain
+words of the patent claims, the ISBN number is
+a “reference” to “data”-just like in the patents,
+it is a string that becomes hyperlinked as
+anchor text in an anchor tag. Second, it is “a
+unique phrase or word used in a record to refer
+to another record or record segment” (Google’s
+construction) and it is a “key word or phrase
+that may be parsed from a record, temporarily
+stored, and used in the process of creating a
+link to another record (HyperPhrase’s
+construction). (Dkt. No. 129-04 at 20 of 37.)
+April 11, 2008 (after Google summary
+judgment motion filed and uses a fourth
+construction): This term has been defined by
+the Federal Circuit in this case as follows: A
+unique phrase or word which may be used in a
+record to refer to another record or record
+segment, and a data reference may refer to one
+or more than one record. See Niro Decl., Ex.
+[A], U.S. Court of Appeals for the Federal
+Circuit Opinion, Dec. 26, 2007, p. 10.
+Consistent with the Federal Circuit’s
+opinion, HyperPhrase believes that a “data
+reference” is the text in a record normally
+displayed for a typical user to read and not
+hidden computer codes. (Niro Decl. Ex. R
+(Dkt. No. 125-19) at 18 (emphasis added).)
+
+These tactics put Google to the burden of addressing and debunking every attempted endruns around the Federal Circuit. Indeed, it is remarkable that HyperPhrase would treat the
+Federal Circuit’s construction so cavalierly given its strident (and incorrect) view that the
+4
+
+The Court found that Google did not infringe the ’889 patent for every one of the three
+independent bases Google advanced in its opening brief, (Dkt. No. 103 at 8-15) including for the
+reason that AutoLink operated on the separate, hidden DOM (Dkt. No. 141 at 18). Though this
+opinion was based on another claim term, HyperPhrase should have known it was equally not
+satisfied under HyperPhrase’s new “data reference” construction.
+9
+
+“mandate rule” precluded Google’s license defense. See Dkt. No. 127 (HyperPhrase Opp. to
+Google’s SJ motion) at 3, citing Engel Indus., 166 F.3d at 1382-83 and Amado v. Microsoft
+Corp., 517 F.3d 1353, 1360 (Fed. Cir. 2008). “[A] case may be exceptional where the losing
+party has ‘prolong[ed] litigation in bad faith.’” Taurus IP, 559 F. Supp. 2d at 967. Presenting
+new claim constructions after the Federal Circuit has construed the key term and shifting both
+infringement and validity positions based on these modified constructions justifies finding a case
+exceptional. See e.g., Am. Standard, Inc. v. York Int’l Corp., 244 F. Supp. 2d 990, 996-997
+(W.D. Wis. 2002); and Depuy Spine, Inc. v. Medtronic Sofamor Danek, Inc., 534 F. Supp. 2d
+224, 226-227 (D. Mass. 2008) (finding that the failure to accept the Federal Circuit’s claim
+construction governing the case can lead to a finding of exceptional case).
+Increasingly, courts have found a case exceptional when one party refuses to apply the
+Court’s construction of a relevant term. For instance, in Medtronic Navigation, Inc. v. BrainLab
+Medizinische Computersystems GmbH, the district court found the case exceptional under 35
+U.S.C. § 285 when the patentee failed to make an objective assessment of its case in view of the
+court’s claim constructions and counsel instead chose to press on and pursue a strategy of
+distorting those settled claim constructions. No. 78-CV-01072, 2008 U.S. Dist. LEXIS 13483, at
+*18-19 (D. Colo. Feb. 12, 2008). In Medtronic, the court even made the patentee and its lawyers
+liable for fees. Id. at *34. When a party and its counsel continually shift positions and prolongs
+litigation by seeking to distort settled claim constructions, a finding that the case is exceptional is
+warranted. Id. at *30-31. This is particularly true where the construction at issue has been
+appealed to and settled by the Federal Circuit, and even more egregious, as is explained below,
+because given what HyperPhrase knew about how AutoLink operated (i.e., on “hidden text”), if
+its somehow validity saving construction was correct, then Google could not infringe the patents,
+
+10
+
+which is no doubt why HyperPhrase took inconsistent claim construction positions in the
+summary judgment briefing—a narrow one for validity and broader one for infringement.
+4.
+
+HyperPhrase’s Infringement Expert Offered Multiple Opinions, Some
+Late in the Litigation, Each Containing New Theories
+
+HyperPhrase’s shifting positions regarding claim construction were reflected in the
+numerous and inconsistent positions it took on infringement and validity. This increased
+Google’s legal expenses following remand, and needlessly complicated the summary judgment
+briefing both on noninfringement and invalidity.
+HyperPhrase’s opposition filings totaled 1200 pages, nearly half of which were devoted
+to expert declarations. A set of issues that had already been addressed once on summary
+judgment, and once by the Federal Circuit, does not warrant this sort of deluge. The issues had
+been crystallized, and non-infringement was clear.
+For example, in Dr. Thompson’s timely 2008 supplemental expert report (his third report,
+filed after remand) he failed to address Google’s noninfringement argument regarding
+AutoLink’s operation on hidden text (the DOM file -- a basis for the Court’s ultimate
+determination of noninfringement), even though Google had made this argument in 2006. (Dkt.
+No. 129-4 (Thompson 2008 report; the word “DOM” does not even appear).) HyperPhrase and
+Dr. Thompson instead waited until after Google filed its post-remand summary judgment motion
+to address this issue, when they should have assessed the viability of HyperPhrase’s infringement
+claims upon remand, and certainly by Dr. Thompson’s third expert report. Furthermore,
+HyperPhrase’s final infringement position conflicted with its sole employee, named inventor,
+and substitute validity expert Carlos de la Huerga’s opinion that the claims could not cover
+modifying hidden computer codes (compare Dkt. No. 127 at 39 (modifying the hidden DOM
+codes in the accused product infringes) to Dkt. No. 130-2 at 173 of 307 (prior art does not
+
+11
+
+anticipate because it modifies hidden computer codes—as like AutoLink operates on the hidden
+DOM codes).)
+A plaintiff that continually shifts theories, or that maintains multiple inconsistent
+positions at the same time, particularly on claim constructions that are the law of the case, and
+who needlessly multiplies its infringement theories in order to maintain its case, acts in bad faith.
+Taurus IP at 967, citing Eltech, 903 F.2d at 809-10 (“A plaintiff asserting patent infringement
+while remaining ‘manifestly unreasonable in assessing infringement’ acts in bad faith that may
+be grounds for finding a case to be ‘exceptional.’”).
+5.
+
+HyperPhrase Continued to Pursue Its Willful Infringement Allegation
+After Changes in Law Foreclosed Such A Finding
+
+HyperPhrase also steadfastly maintained its untenable willful infringement allegation
+after remand. During pendency of the appeal in this case, the Federal Circuit in a landmark
+decision overruled 20+ years of authority on willful infringement and imposed on the patentee a
+significantly heightened two-part test for willfulness requiring clear and convincing evidence if
+“objective recklessness” and that this objectively-defined risk “was either known or so obvious
+that it should have been known to the accused infringer.” In re Seagate Tech, LLC, 497 F.3d
+1360, 1371 (Fed. Cir. 2007). There is no way HyperPhrase could meet that standard here,
+particularly where Google prevailed on summary judgment of noninfringement in a strongly
+worded opinion by an Article III judge. Indeed, on very similar facts, Judge Shabaz applied In re
+Seagate in rejecting a willfulness allegation after summary judgment had been granted but was
+later overturned by the Federal Circuit. Franklin Elec. Co. v. Dover Corp., No. 05-CV-598,
+2007 U.S. Dist. LEXIS 84588 (W.D. Wis. Nov. 15, 2007).
+Google approached HyperPhrase prior to filing its summary judgment motions and
+informed it that Google would be filing a summary judgment of willfulness unless the
+
+12
+
+willfulness claims were withdrawn. HyperPhrase offered no response.5 This forced Google to
+seek summary judgment on this issue as well. (See, e.g., Dkt. Nos. 102 (Google brief), 126
+(HyperPhrase opp.) and 135 (Google reply).) While HyperPhrase’s true motives are known only
+to it, when one looks at its refusal to drop this issue, coupled with it prolix opposition to
+Google’s other summary judgment motions, one could fairly conclude that its true desire was to
+“get to the jury at all costs” by unduly, unnecessarily, and unreasonably complicating the record
+and issues that the Court had to address on summary judgment. See Medtronic Navigation, 2008
+U.S. Dist. LEXIS 13483, at *30-33 (sanctioning plaintiff and its counsel for failing to reassess its
+case in view of settled law).
+C.
+
+The Court Should Exercise Its Discretion and Award Google Its Reasonable
+Attorneys’ Fees and Expenses
+
+When determining whether a case is exceptional “the district court must look at the
+totality of the circumstances.” Yamanouchi Pharm. Co. v. Danbury Pharmacal, Inc., 231 F.3d
+1339, 1347 (Fed. Cir. 2000); see also Nilssen 528 F.3d at 1357-1358. District Courts have wide
+discretion to assess attorneys’ fees as a sanction when a party acts in bad faith, vexatiously,
+wantonly or for oppressive reasons. Id.; see also Mathis v. Spears, 857 F.2d 749, 757-58 (Fed.
+Cir. 1988). HyperPhrase’s post-remand actions, when considered under “the totality of
+circumstances” standard and path and pattern of conduct identified above, are litigation
+misconduct that make both the case exceptional and warrant exercise of the Court’s discretion to
+award fees.
+
+5
+
+HyperPhrase’s counsel was well aware of this change in the law because over seven
+weeks before Google filed its summary judgment motion of no willfulness, lead counsel for
+HyperPhrase lost a portion of a Federal Circuit decision that took pains to note this change in the
+law, and remanded for a redetermination of willfulness under the new standard should liability
+be found. See Black & Decker, Inc. v. Robert Bosch Tool Corp., 260 Fed. Appx. 284, 291 (Fed.
+Cir. 2008).
+13
+
+The underlying goals of Section 285, which include the prevention of injustice,
+deterrence and compensation, would all be satisfied here if fees were awarded, and doing so
+would protect future defendants in this Court from similar litigation misconduct. Upon a finding
+that Google is entitled to fees and expenses, Google will submit a detailed accounting of the
+relevant fees and expenses, which Google estimates to be approximately $500,000.
+IV.
+
+CONCLUSION
+For the reasons provided above, Google respectfully requests that this Court find this case
+
+exceptional and enter an order awarding Google its attorneys’ fees and expenses pursuant to 35
+U.S.C. § 285.
+Dated: January 23, 2009
+
+By:
+
+s/James D. Peterson
+James A. Friedman
+James D. Peterson
+Godfrey & Kahn, S.C.
+One East Main Street, Suite 500
+P.O. Box 2719
+Madison, WI 53701-2719
+Phone: (608) 257-3911
+Facsimile: (608) 257-0609
+Of counsel:
+Jason W. Wolff
+Fish & Richardson P.C.
+12390 El Camino Real
+San Diego, CA 92130
+Telephone: (858) 678-5070
+Facsimile: (858) 678-5099
+Frank E. Scherkenbach
+Kurt L. Glitzenstein
+Fish & Richardson P.C.
+225 Franklin Street
+Boston, MA 02110
+Telephone: (617) 542-5070
+Facsimile: (617) 542-8906
+Attorneys for Defendant Google, Inc.
+
+3496348_1
+
+14
+
+

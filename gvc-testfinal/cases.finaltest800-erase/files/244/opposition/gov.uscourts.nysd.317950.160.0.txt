@@ -1,0 +1,1717 @@
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 1 of 47
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+IN RE UBS AG SECURITIES LITIGATION
+
+MASTER FILE NO. 1:07-CV-11225-RJS
+ELECTRONICALLY FILED
+
+LEAD PLAINTIFFS’ MEMORANDUM OF LAW
+IN OPPOSITION TO UBS DEFENDANTS’ MOTION TO DISMISS CLAIMS BASED
+ON PURCHASES OF UBS SHARES OUTSIDE THE UNITED STATES
+
+BARROWAY TOPAZ KESSLER
+MELTZER & CHECK, LLP
+Gregory M. Castaldo
+Andrew L. Zivitz
+Sharan Nirmul
+Naumon A. Amjed
+Jennifer L. Joost
+Richard A. Russo, Jr.
+280 King of Prussia Rd.
+Radnor, PA 19087
+Tel: (610) 667-7706
+Fax: (610) 667-7056
+Co-Lead Counsel For Lead Plaintiffs
+
+GRANT & EISENHOFER P.A.
+Jay W. Eisenhofer
+Geoffrey C. Jarvis
+Charles T. Caliendo
+Brenda F. Szydlo
+Natalia D. Williams
+485 Lexington Avenue, 29th Floor
+New York, NY 10017
+Tel: (646) 722-8500
+Fax: (646) 722-8501
+Co-Lead Counsel For Lead Plaintiffs
+
+ROBBINS GELLER
+RUDMAN & DOWD LLP
+Samuel H. Rudman
+Robert M. Rothman
+58 South Service Road
+Suite 200
+Melville, NY 11747
+Tel: (631) 367-7100
+Fax: (631) 367-1173
+Liaison Counsel
+
+MOTLEY RICE LLC
+Joseph F. Rice
+William H. Narwold
+Gregg S. Levin
+James M. Hughes
+Badge Humphries
+28 Bridgeside Blvd.
+Mt. Pleasant, SC 29464
+Tel: (843) 216-9000
+Fax: (843) 216-9450
+Co-Lead Counsel For Lead Plaintiffs
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 2 of 47
+
+TABLE OF CONTENTS
+
+Page(s)
+
+TABLE OF AUTHORITIES .........................................................................................................iii
+PRELIMINARY STATEMENT..................................................................................................... 1
+RELEVANT FACTUAL BACKGROUND ................................................................................... 6
+A.
+
+The Parties............................................................................................................... 6
+1.
+
+Plaintiffs And The Putative Class ............................................................... 6
+
+2.
+
+UBS Voluntarily Registered All Of Its Ordinary Shares
+With The NYSE .......................................................................................... 6
+
+B.
+
+Defendants’ Fraud In The United States................................................................. 9
+
+C.
+
+U.S. Law Enforcement Proves UBS Engaged In Frauds In
+The U.S. .................................................................................................................. 9
+
+ARGUMENT ................................................................................................................................ 10
+I.
+
+DEFENDANTS’ MOTION TO DISMISS SHOULD BE
+DENIED BECAUSE WHEN, AS HERE, STOCK IS REGISTERED
+ON AN AMERICAN EXCHANGE, SECTION 10(b) APPLIES
+REGARDLESS OF THE LOCATION OF THE EXCHANGE
+WHERE THE PURCHASE ORDER WAS EXECUTED ................................................ 10
+A.
+
+The Relevant Facts And Decision In Morrison Demonstrate
+That The Court Was Addressing A Situation When The
+Securities At Issue Were Not Registered On A U.S. Exchange ........................... 10
+
+B.
+
+Ample Evidence From Both Within And Outside The
+Morrison Opinion Dictates That When U.S. Exchange-Registered
+Securities Are At Issue, Section 10(b) Applies Regardless
+Of The Location Of The Transaction.................................................................... 12
+1.
+
+Justice Scalia Recognized That The Statute’s Plain
+Language Makes Section 10(b) Applicable To U.S.
+Exchange-Registered Securities No Matter Where
+The Purchase Or Sale Occurs.................................................................... 13
+
+2.
+
+The Morrison Opinion Elsewhere Recognized
+The Distinction Between Registered Shares
+And Unregistered Shares .......................................................................... 16
+
+i
+
+Case 1:07-cv-11225-RJS Document 160
+
+II.
+
+Filed 10/18/10 Page 3 of 47
+
+3.
+
+The Concurring And Dissenting Opinions
+In Morrison And A Recent Decision In This
+District Recognize That The Morrison Majority’s
+Holding Is Not Applicable To U.S.
+Exchange-Registered Securities................................................................ 19
+
+4.
+
+The Presumption Against Extraterritorial Application
+Of The Exchange Act Is Not Implicated When, As Here,
+Securities That Are Registered On A National
+Securities Exchange Are At Issue ............................................................. 22
+
+C.
+
+The Policy Concerns Raised By Defendants
+(And Their Amicus) Are Meritless........................................................................ 27
+
+D.
+
+None Of The Cases Defendants Cite Rejected The
+Argument Presented Here ..................................................................................... 31
+
+EVEN IF PURCHASERS OF U.S. EXCHANGE-REGISTERED
+SECURITIES OUTSIDE THE UNITED STATES CANNOT
+BRING CLAIMS UNDER SECTION 10(b), OREGON STATES
+A SECTION 10(B) CLAIM BECAUSE ITS PURCHASES AND
+SALES OF UBS SHARES OCCURRED WITHIN THE UNITED STATES .................. 32
+A.
+
+Oregon’s Purchases Occurred In The United States ............................................. 33
+
+B.
+
+Oregon Was Injured In The United States ............................................................ 36
+
+CONCLUSION ............................................................................................................................. 40
+
+ii
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 4 of 47
+
+TABLE OF AUTHORITIES
+Page(s)
+CASES
+Adams v. Dick,
+226 Mass. 46, 115 N.E. 227 (1917) ........................................................................................ 35
+In re Adelphia Commc’ns Corp. Sec. & Derivative Litig.,
+398 F. Supp. 244 (S.D.N.Y. 2005).................................................................................... 34, 35
+Alfadda v. Fenn,
+935 F.2d 475 (2d Cir. 1991).................................................................................................... 29
+In re Alstom SA Sec. Litig.,
+406 F. Supp. 2d 346 (S.D.N.Y. 2005)..................................................................................... 29
+In re Alstom SA Sec. Litig.,
+2010 WL 3718863 (S.D.N.Y. Sept. 14, 2010)........................................................................ 13
+Anwar v. Fairfield Greenwich Ltd.,
+2010 WL 3022848 (S.D.N.Y. July 29, 2010) ......................................................................... 39
+ATSI Commc’ns, Inc. v. Shaar Fund, Ltd.,
+493 F.3d 87 (2d Cir. 2007)..................................................................................................... 6-7
+In re Banco Santander Sec. – Optimal Litig.,
+2010 WL 3036990 (S.D. Fla. July 30, 2010) .......................................................................... 32
+Cedeno v. Intech Group, Inc.,
+2010 WL 3359468 (S.D.N.Y. Aug. 25, 2010) ........................................................................ 32
+Connecticut Nat’l Bank v. Germain,
+503 U.S. 249 (1992) ................................................................................................................ 16
+Cooper Indus., Inc. v. Aviall Servs., Inc.,
+543 U.S. 157 (2004) ................................................................................................................ 10
+Cornwell v. Credit Suisse Group,
+2010 WL 3069597 (S.D.N.Y. July 27, 2010) ............................................................. 31, 37, 38
+Dura Pharms., Inc. v. Broudo,
+544 U.S. 336 (2005) ................................................................................................................ 36
+Envtl. Def. Fund v. Massey,
+986 F.2d 528 (D.C. Cir. 1993) ................................................................................................ 24
+
+iii
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 5 of 47
+
+Foley Bros., Inc. v. Filardo,
+336 U.S. 281 (1949) .................................................................................................................. 2
+In re Gaming Lottery Sec. Litig.,
+58 F. Supp. 2d 62 (S.D.N.Y. 1999)................................................................................... 29, 30
+Lampf, Pleva, Lipkind, Prupis & Petigrow v. Gilbertson,
+501 U.S. 350 (1991) ................................................................................................................ 37
+Leasco Data Processing Equipment Corp. v. Maxwell,
+468 F.2d 1326 (1972).............................................................................................................. 17
+Lee v. Bankers Trust Co.,
+166 F.3d 540 (2d Cir. 1999).................................................................................................... 16
+Maryland v. Wilson,
+519 U.S. 408 (1997) ................................................................................................................ 38
+In re Maxwell Commc’n Corp. plc,
+186 B.R. 807, 815-16 (S.D.N.Y. 1995) ................................................................................. 22
+Morrison v. Nat’l Australia Bank Ltd.,
+130 S. Ct. 2869 (2010) ..................................................................................................... passim
+Pinker v. Roche Holdings Ltd.,
+292 F.3d 361 (3d Cir. 2002)................................................................................................... 7-8
+Plumbers’ Union Local No. 12 Pension Fund v. Swiss Reinsurance Co.,
+2010 WL 3860397 (S.D.N.Y. Oct. 4, 2010) ........................................................................... 39
+Rakas v. Illinois,
+439 U.S. 128 (1978) ................................................................................................................ 38
+In re Royal Ahold, N.V. Sec. & ERISA Litig.,
+351 F. Supp. 2d 334 (D. Md. 2004) ........................................................................................ 29
+Schoenbaum v. Firstbrook,
+405 F. 2d 200, modified on other grounds en banc, 405 F.2d 215 (1968) ............................. 16
+SEC v. Credit Bancorp, Ltd.,
+2010 WL 3582906 (S.D.N.Y. Sept. 13, 2010 and Order Adhering To
+Opinion dated Sept. 30, 2010) .................................................................................... 20, 21, 22
+SEC v. Zanford,
+535 U.S. 813 (2002) ................................................................................................................ 33
+Sgalambo v. McKenzie,
+2010 WL 3119349 (S.D.N.Y. Aug. 6, 2010) .......................................................................... 31
+
+iv
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 6 of 47
+
+Shaw v Dreyfus,
+172 F.2d 140 (2d Cir. 1949) .............................................................................................. 34-35
+In re Societe Generale Sec. Litig.,
+2010 WL 3910286 (S.D.N.Y. Sept. 29, 2010)........................................................................ 39
+Sosa v. Alvarez-Machain,
+542 U.S. 692 (2004) ................................................................................................................ 36
+Stackhouse v. Toyota Motor Co.,
+2010 WL 3377409 (S.D. Cal. Jul. 16, 2010) .............................................................. 37, 38, 39
+Stella v. Graham-Paige Motors Corp.,
+232 F.2d 299 (2d Cir. 1956).............................................................................................. 34, 36
+Touregman v. Collins Fin. Servs., Inc.,
+2009 WL 6527757 (S.D. Cal. Aug. 6, 2009) .......................................................................... 22
+Tradex Global Master Fund SPC Ltd. v. Rieden,
+No. 09 Civ. 6395, slip op. (S.D.N.Y. July 23, 2010) .............................................................. 32
+STATUTES
+15 U.S.C. § 78 ........................................................................................................................ passim
+Dodd-Frank Wall Street Reform Act § 929P(b)(2)
+Pub. L. No. 111-203, 124 Stat. 1376, July 21,2010, codified at 15 U.S.C. § 78aa(b) ...... 27, 28
+Racketeer Influenced and Corrupt Organizations Act, 18 U.S.C. §§ 1961-68 ............................. 32
+OTHER AUTHORITIES
+17 C.F.R. § 240.12d1-1(a) .............................................................................................................. 8
+44B Am. Jur. 2d Int’l Law § 71 (2010) ........................................................................................ 23
+Restatement (First) of Conflict of Laws § 377 ....................................................................... 36, 37
+Treaty of Friendship with Switzerland, 11 Stat. 587 (1850)......................................................... 28
+
+v
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 7 of 47
+
+PRELIMINARY STATEMENT
+Four Court-appointed lead plaintiffs represent the putative class of defrauded UBS AG
+(“UBS” or the “Company”) investors with respect to the claims asserted under §§ 10(b) and
+20(a) of the Securities Exchange Act of 1934 (“Exchange Act”) and §§ 11, 12(a)(2) and 15 of the
+Securities Act of 1933 (“Securities Act”).1 The putative class for purposes of the Exchange Act
+claims comprises U.S. and foreign residents who purchased UBS shares on the New York Stock
+Exchange (“NYSE”) and foreign exchanges.
+While Defendant UBS is a Swiss bank, in 2000, it voluntarily chose to “list” its ordinary
+shares (the equivalent of common stock) for trading on the NYSE in connection with UBS’s $6.3
+billion acquisition of U.S. investment banking firm Paine Webber Group, Inc. (“Paine Webber”)
+and, thus, registered those shares with the NYSE and U.S. Securities and Exchange Commission
+(“SEC”) pursuant to Section 12(b) of the Exchange Act. The Amended Consolidated Securities
+Class Action Complaint (“Complaint” or “Compl.”) alleges that UBS and certain current and
+former executives of UBS and/or its U.S. subsidiaries (“Defendants”) engaged in fraud in the
+United States that began almost immediately following the Paine Webber acquisition.
+Defendants do not dispute that § 10(b) of the Exchange Act (“§ 10(b)”) covers purchases by
+
+1
+
+Lead plaintiffs are: (1) City of Pontiac Policemen’s and Firemen’s Retirement System
+(“Pontiac”), a Michigan pension plan; (2) Arbejdsmarkedets Tillægspension (“ATP”), a
+Denmark pension fund; (3) Union Asset Management Holding AG (“Union”), a German
+investment company; and (4) International Fund Management, S.A. (“IFM”), a Luxembourg
+financial institution. Teamsters Union Local 500 Severance Fund (“Teamsters”), Oregon Public
+Employees Board (“Oregon”) and Alaska Laborers-Employers Retirement Fund (“Alaska
+Laborers”), each of which is a U.S. pension fund, and Council of the Borough of South Tyneside
+(“Tyneside”), an England pension fund, are representative plaintiffs. Lead Plaintiffs and the
+representative plaintiffs are referred to as “Plaintiffs.” ATP, Union, and IFM are referred to as
+“Foreign Lead Plaintiffs,” or along with Tyneside, “Foreign Plaintiffs.”
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 8 of 47
+
+defrauded U.S. and foreign class members who purchased their UBS shares on the NYSE.2
+Defendants move, however, to dismiss the Exchange Act claims brought by Foreign Plaintiffs
+and Oregon, a U.S. citizen, who placed orders for UBS’s NYSE-registered shares that were
+executed on non-U.S. exchanges.
+Defendants argue that the Supreme Court’s recent decision in Morrison v. National
+Australia Bank Ltd., 130 S. Ct. 2869 (2010), created a “bright line” rule that, under all
+circumstances, “Section 10(b) does not apply to ‘transactions conducted upon foreign exchanges
+and markets.’” DB at 10 (quoting Morrison, 130 S. Ct. at 2882 (emphasis in original)).
+Defendants take an overly broad view of Morrison’s holding.
+In Morrison, Australian shareholders who purchased stock of an Australian bank on
+Australian stock exchanges sued the bank and others for fraud under § 10(b). The Supreme
+Court emphasized that the Australian bank’s stock was not registered on any U.S. exchange. The
+Supreme Court found that § 10(b) was ambiguous as to whether it applies to purchases of
+securities that are not registered on a U.S. exchange or traded in the U.S. Consequently, the
+Supreme Court resorted to canons of statutory construction and consulted legislative history to
+ascertain Congress’ intent. See infra at 11-12. In the context of the unregistered securities at
+issue in Morrison, the Supreme Court stated that the Exchange Act is silent as to § 10(b)’s
+extraterritorial application. 130 S. Ct. at 2883. Thus, Morrison found that the presumption
+against extraterritorial application of a statute, see Foley Bros., Inc. v. Filardo, 336 U.S. 281, 285
+(1949) (“legislation of Congress, unless a contrary intent appears, is meant to apply only within
+2
+
+See UBS Defs.’ Mem. Of Law In Support Of Their Mot. To Dismiss All Claims Based On
+Purchases Of UBS Shares Outside The United States (hereafter “DB”) at 1 (“Defendants do not
+seek dismissal of claims based on purchases of UBS ordinary shares inside the United States.”).
+Thus, Defendants’ motion to dismiss is not relevant to the Securities Act claims because the
+
+2
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 9 of 47
+
+the territorial jurisdiction of the United States”), precluded § 10(b)’s application to purchases and
+sales of such unregistered securities in foreign markets, even though there was some fraudulent
+conduct that occurred in the United States (i.e., at the Australian bank’s subsidiary in Florida). If
+Congress wanted § 10(b) to apply in cases where fraudulent conduct in the United States taints
+the value of unregistered securities traded exclusively in foreign markets, the Supreme Court
+reasoned, it was legislating as to foreign matters and, thus, would have made (and based on the
+presumption against extraterritorial application of U.S. statutes, was required to make) such
+application explicit. Since as to unregistered securities there was no explicit statement that
+Congress intended to regulate foreign transactions in such securities, Morrison found that § 10(b)
+did not reach such transactions. See infra at 12.
+Here, by contrast, there is no ambiguity in the statute and no question that in drafting §
+10(b) to prohibit deceptive conduct “in connection with the purchase or sale of any security
+registered on a national securities exchange….[,]” 15 U.S.C. § 78j(b) (emphasis added),
+Congress was legislating as to domestic matters. Thus, as Justice Scalia — who wrote for the
+majority in Morrison — recognized, it does not matter where the purchase or sale occurred when
+U.S.-exchange registered securities are at issue. Justice Scalia made this unequivocal when he
+stated:
+The transactional test we have adopted—whether the purchase or sale is made in
+the United States, or involves a security listed on a domestic exchange—meets
+that requirement [i.e., the requirement that Section 10(b) avoid extraterritorial
+regulation of foreign securities exchanges].
+Morrison, 130 S. Ct. at 2886 (emphasis added); and when he stated:
+Section 10(b) reaches the use of a manipulative or deceptive device or contrivance
+only in connection with the purchase or sale of a security listed on an American
+putative class of plaintiffs asserting Securities Act claims does not include investors (foreign or
+U.S.) who purchased their UBS shares outside the United States.
+
+3
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 10 of 47
+
+stock exchange, and the purchase or sale of any other security [i.e., an
+unregistered security] in the United States.
+Id. at 2888 (emphasis added).
+Morrison, thus, identifies two separate categories of transactions in securities — clearly
+delineated by use of the disjunctive connector “or” — to which § 10(b) applies: (1) when the
+security is registered with a U.S. exchange, regardless of whether the purchase or sale occurred
+in the United States or abroad; and (2) when the purchase or sale of the security is made in the
+United States, regardless of whether the security trades on (i.e., is registered with) a domestic
+exchange or, in other words, the purchase was made in the domestic over-the-counter market.
+The foreign plaintiffs in Morrison met the criteria for neither category because they purchased
+securities that did not trade in the domestic over-the-counter market and that the Supreme Court
+deemed to be unregistered on a U.S. exchange. Foreign Plaintiffs here, by contrast, are within
+Morrison’s first category because UBS’s ordinary shares are registered on the NYSE. Since §
+10(b) is plain concerning its applicability to purchases of UBS’s U.S.-exchange registered
+securities, Defendants’ motion to dismiss must be denied.
+Defendants (and their amicus curiae NYSE Euronext) assert that Plaintiffs’ entire
+argument is based solely on a narrow reading of Justice Scalia’s words cited above and that
+Plaintiffs ignore the broader thrust of the Court’s opinion that it is the location of the securities
+transactions that are critical. See DB at 18-19; Br. of Amicus Curiae NYSE Euronext In Supp.
+Of Defs.’ Motion To Dismiss All Claims Based On Purchases Of UBS Shares Outside The
+United States (“NYSE Euronext Br.”) at 3. This is false.
+While Justice Scalia’s carefully chosen words cited above (and the plain words of §
+10(b)) are certainly enough to establish that § 10(b) is applicable to purchases and sales of U.S.
+exchange-registered securities regardless of where the transactions occur, there is ample other
+
+4
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 11 of 47
+
+evidence, including, inter alia: (1) other portions of the Morrison opinion, which expressly
+recognize the distinction between foreign issuers who have “dually listed” securities (i.e., stock
+that is registered on an American exchange and on an exchange in the foreign issuer’s home
+jurisdiction) and those that do not, and also make clear that the Morrison location-of-thetransaction test is not applicable to U.S. exchange-registered securities; (2) Morrison’s
+concurring and dissenting opinions and a recent decision in this District, which also recognize
+that the location of the transaction is irrelevant when U.S. exchange-registered securities are at
+issue; and (3) the fact that in interpreting § 10(b)’s meaning there is no reason to apply the
+presumption against extraterritoriality, as Morrison did concerning unregistered securities,
+because as to the registered securities at issue here, §10(b)’s applicability is unambiguous and,
+thus, no resort to canons of construction is necessary. See infra at 12-16. Indeed, with respect to
+U.S. exchange-registered securities (like UBS’s ordinary shares), Congress was legislating as to
+domestic matters and, therefore, the presumption against extraterritoriality is not implicated. See
+infra at 22-27.
+Defendants’ other arguments also fail. Contrary to Defendants’ assertions, none of the
+cases they cite rejected the foregoing argument,3 and Morrison did not recognize that the
+Australian bank’s securities were registered on a U.S. exchange. See infra at 10-11, 31-32.
+Furthermore, the policy concerns Defendants (and NYSE Euronext) raise are meritless. See
+infra at 27-31.
+Alternatively, if this Court concludes that § 10(b) does not apply to purchases of NYSEregistered securities that were executed on non-U.S. exchanges, the claims of U.S. residents
+3
+
+While a recent decision in this District (decided after Defendants submitted their brief) did
+reject a similar argument, the decision was based on a very limited 5-page letter submission in
+
+5
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 12 of 47
+
+(such as Oregon) who purchased on foreign exchanges should not be dismissed because their
+“purchases” occurred within the United States, despite the fact that the purchase order was
+ultimately executed on a foreign exchange. See infra at 32-39. Therefore, such purchases come
+within § 10(b) even if Defendants’ erroneous interpretation of Morrison is accepted.
+RELEVANT FACTUAL BACKGROUND
+A.
+
+THE PARTIES
+1.
+
+Plaintiffs And The Putative Class
+
+The putative class for the Exchange Act claims is defined as Plaintiffs and other
+purchasers of UBS shares “on Worldwide exchanges, including, but not limited to, the . . . NYSE
+[and] the Swiss Exchange (“SWX”). . . from August 13, 2003 to February 23, 2009, inclusive
+(the “Class Period”).” Compl. at 1. The Foreign Plaintiffs purchased their UBS ordinary shares
+in transactions that were executed on exchanges outside the United States. See id. Oregon, a
+U.S. citizen, purchased some of its UBS ordinary shares pursuant to purchase orders that were
+ultimately executed on the Swiss Stock Exchange and suffered more than $48 million in losses
+as a result of those transactions.4 Compl. ¶ 113; Dkt. No. 94, Ex. G.
+2.
+
+UBS Voluntarily Registered All Of Its Ordinary Shares With The
+NYSE
+
+Defendant UBS is a global investment banking and wealth management powerhouse.
+Although based in Zurich, Switzerland, UBS has extensive operations in the U.S., see FY 2007
+Form 20-F, at pp. 96-99, Ex. I,5 and is subject to extensive U.S. state and federal regulatory
+
+which arguments could not be adequately presented, and the decision is not binding here. See
+infra at 13 n. 11.
+4
+
+Oregon also suffered substantial losses from NYSE transactions, which Defendants concede
+come within § 10(b) and, thus, are not subject to their motion to dismiss. See DB at 1.
+5
+
+Although this is a motion to dismiss and reference to matters outside the pleadings are
+generally not permitted, the Court may properly refer to UBS’s SEC filings. See ATSI
+
+6
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 13 of 47
+
+regimes relating to banking, see FY 2007 Form 20-F, at pp. 45-46, Ex. I (explaining regimes and
+noting that in bankruptcy, UBS’s U.S. assets would likely be used to satisfy creditors of its U.S.
+branches before being available in Swiss insolvency proceedings).
+UBS currently has no American Depositary Receipts (or “ADRs”) listed on any U.S.
+exchange.6 Instead, in connection with its acquisition of Paine Webber, UBS terminated its ADR
+program. See UBS Form FY 1999 Form 20-F, at p. 43, Ex. A. UBS then voluntarily chose to
+register all of its “ordinary shares” (the equivalent of common stock) with the SEC on May 16,
+2000, see FY 2007 Form 20-F, at p. 11, Ex. I, and filed a Form F-4 registration statement under
+the Securities Act of 1933 with the SEC on September 21, 2000 to register 45,232,592 of its
+ordinary shares at a proposed maximum offering price exceeding $6.3 billion, see Form F-4,
+filed with the SEC on 9/21/00, cover page, Ex. M. UBS’s ordinary shares are concurrently
+listed on the Swiss Exchange.
+UBS’s subsequently filed Forms 20-F reflecting that UBS’s ordinary shares have been
+continuously registered from 2000 through 2009, which encompasses all years included within
+the Class Period. See UBS’s Forms 20-F for FY 1999 through FY 2009, Exs. A through L. As
+an example, UBS’s FY 2007 Form 20-F, filed with the SEC on March 17, 2008, reflects that
+UBS had “2,073,547,344 ordinary shares (including 158,105,524 treasury shares)” and the
+“[o]rdinary shares [have a] par value [of] CHF 0.10 per share.” See FY 2007 Form 20-F, at p. 1,
+Ex. I. The FY 2007 Form 20-F further indicates that all of these ordinary shares were “registered
+or to be registered pursuant to Section 12(b) of the [Exchange] Act” and that all of these shares
+
+Commc’ns, Inc. v. Shaar Fund, Ltd., 493 F.3d 87, 98 (2d Cir. 2007). References to Ex. __ are to
+the exhibits to the Declaration of Geoffrey C. Jarvis unless otherwise noted.
+6
+
+“An ADR is a receipt…issued by a depositary bank that represents a specified amount of a
+foreign security that has been deposited with a foreign…agent of the depositary, known as the
+
+7
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 14 of 47
+
+are registered with the NYSE. See id., at p. 2. As a consequence of the registration of its
+ordinary shares, UBS is required to make (and makes) periodic filings with the SEC.7
+In registering its ordinary shares simultaneously on the Swiss and New York exchanges
+— which UBS termed “Global Registered Shares” — and abandoning its ADR program, UBS
+enabled its investors to freely trade its ordinary shares such that an ordinary share purchased in
+Switzerland could be sold in the United States or vice versa:
+A "Global Registered Share" is a security that can be traded and
+transferred across applicable borders without the need for conversion. This
+means that identical shares can be traded on different stock exchanges in
+different currencies. For example, the same share purchased on the SIX
+Swiss Exchange can be sold on the New York Stock Exchange or vice
+versa
+http://www.ubs.com/1/e/investors/faq/share.html. Moreover, UBS specifically recognized that
+cross-border trading of UBS’s dually-listed ordinary shares would subject it to regulation by the
+SEC in addition to Swiss regulators, but specifically stated that such dual-regulation is not
+burdensome because international regulatory structures continue to align. According to UBS:
+UBS is pioneering the Global Registered Share (GRS), which allows for
+cross-market portability at minimized cost to investors. The concept
+behind American Depository Receipts (ADRs) is the creation of tailormade securities for individual unlinked markets, following local
+regulations. UBS believes that, with the globalization of financial markets,
+this concept is becoming less valid for securities, which will increasingly
+be traded in multiple markets. UBS believes that a global fungible security
+can best track liquidity across the globe. UBS also believes that regulatory
+structures of different markets will continue to align, reducing the need to
+custodian….” Pinker v. Roche Holdings Ltd., 292 F.3d 361, 367 (3d Cir. 2002) (citations
+omitted).
+7
+
+Section 12(b) of the Exchange Act provides that a security may be registered on a national
+securities exchange if an application is filed with such exchange and the SEC. See 15 U.S.C.
+§ 78l(b). SEC regulations provide that an “application filed pursuant to section 12(b) and (c) of
+the act for registration of a security on a national securities exchange shall be deemed to apply
+for registration of the entire class of such security.” 17 C.F.R. § 240.12d1-1(a). Section 12
+registration gives rise to SEC reporting requirements identified in Section 13. See 15 U.S.C. §
+78m.
+
+8
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 15 of 47
+
+have individual securities in each market to comply with different local
+regulations.
+Id. (emphasis added).
+B.
+
+DEFENDANTS’ FRAUD IN THE UNITED STATES
+
+The Defendants engaged in substantial fraud in the United States, including (a) making
+misleading statements in the U.S. to conceal massive losses in mortgage backed and other
+securities and by deliberately overvaluing these securities, (b) concealing a scheme to
+fraudulently market auction rate securities in the United States to thousands of U.S. investors, (c)
+executing a plan, devised in Switzerland, to enable UBS to act as an unlicensed investment
+adviser in the U.S., which included training UBS bankers in methods to evade U.S. law
+enforcement efforts and regularly dispatching these bankers to the U.S. to conspire with U.S. tax
+evaders, who evaded billions in U.S. taxes during the Class Period, and (d) filing with the SEC,
+as UBS was required to do since its ordinary shares were registered, almost a decade’s worth of
+false and misleading financial statements and other filings that concealed the fraud. ¶¶ 531-956.8
+C.
+
+U.S. LAW ENFORCEMENT PROVES UBS ENGAGED IN FRAUDS IN THE U.S.
+
+UBS’s frauds led to a nationwide mobilization of U.S. civil and criminal law
+enforcement agencies at the federal and state levels. With regard to mortgage-related fraud, the
+SEC and federal criminal authorities investigated UBS’s conduct. ¶¶ 1023-29. The ARS fraud
+ultimately led to the settlement of lawsuits filed by the New York Attorney General (“NYAG”),
+SEC and other U.S. regulators, pursuant to which UBS agreed to repurchase over $22 billion of
+fraudulently-marketed ARS that were sold to approximately 40,000 U.S. investors and pay a
+8
+
+Defendants attempt to contradict the Complaint’s allegations by asserting that Plaintiffs’ claims
+are based exclusively on UBS’s false and misleading Swiss-issued financial statements. See DB
+at 1-2. This is wrong. The Complaint also alleges the falsity of UBS’s SEC filings and certain
+certifications filed with the SEC by certain individual defendants as well as numerous other false
+and misleading statements made in the United States. See Compl. ¶¶ 531-956.
+
+9
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 16 of 47
+
+$150 million fine. See UBS’s Form 6-K dated August 12, 2008 at 89, Ex. N. Dedication of
+further scarce law enforcement resources was required to put a stop to UBS’s fraud in the U.S. in
+assisting some 52,000 U.S. tax cheats evade U.S. income taxes. UBS entered into a Deferred
+Prosecution Agreement with federal prosecutors to stave off indictment and admitted to a
+lengthy list of criminal acts that has enabled numerous U.S. taxpayers to evade U.S. income
+taxes. In a related action, the SEC charged that from at least 1999 through 2008, UBS
+knowingly acted as an unregistered broker-dealer and investment adviser to aid wealthy
+taxpayers in evading taxes. In addition to paying a total of $780 million to resolve the
+investigations, UBS was permanently enjoined from further violations of the U.S. securities
+laws. See Compl. ¶¶ 1116-41, 1254-66.
+ARGUMENT
+I.
+
+DEFENDANTS’ MOTION TO DISMISS SHOULD BE DENIED BECAUSE
+WHEN, AS HERE, STOCK IS REGISTERED ON AN AMERICAN EXCHANGE,
+SECTION 10(b) APPLIES REGARDLESS OF THE LOCATION OF THE
+EXCHANGE WHERE THE PURCHASE ORDER WAS EXECUTED
+A.
+
+THE RELEVANT FACTS AND DECISION IN MORRISON DEMONSTRATE THAT THE
+COURT WAS ADDRESSING A SITUATION WHEN THE SECURITIES AT ISSUE
+WERE NOT REGISTERED ON A U.S. EXCHANGE
+
+Defendants claim that Morrison addressed securities that were registered on the NYSE
+because its ADRs were registered there and cite to a single page of the voluminous record that
+indicates (in miniscule-sized type) that NAB’s ordinary shares were NYSE-registered, although
+not for trading. See DB at 23. They are wrong.
+First, there is no indication whatsoever in Morrison that the Court recognized this oblique
+reference in the record or much less weighed its significance. The reference, therefore, cannot be
+properly considered in interpreting the meaning of the decision. See Cooper Indus., Inc. v. Aviall
+Servs., Inc., 543 U.S. 157, 170 (2004) (quoting Webster v. Fall, 266 U.S. 507, 511 (1925)
+
+10
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 17 of 47
+
+(“‘Questions which merely lurk in the record, neither brought to the attention of the court nor
+ruled upon, are not to be considered as having been so decided as to constitute precedents.’”).
+On the contrary, as shown below, the Court specifically determined that no U.S. exchangeregistered securities were at issue.
+In Morrison, foreign investors in National Australia Bank, Ltd. (“NAB”), an Australian
+bank, asserted claims in U.S. district court under § 10(b) because much of the fraudulent conduct
+at issue occurred within U.S. borders at the Florida location of a NAB subsidiary. See 130 S. Ct.
+at 2875-76. The Supreme Court stated at the outset of its opinion that the ordinary shares issued
+by NAB and purchased by the foreign investor-plaintiffs were not listed on the NYSE. See id. at
+2875. In addition to not being listed or traded on an American exchange, these ordinary shares
+were purchased by foreigners on a foreign (Australian) stock exchange, not anywhere inside the
+United States. See id. at 2875-76. The Court specifically noted that there were ADRs that had
+been purchased by NAB investors in connection with trades executed on the NYSE, but
+expressly pointed out that those ADR purchasers were not parties to the lawsuit at the time of the
+appeal because they had no damages:
+Section 10(b) reaches the use of a manipulative or deceptive device or contrivance
+only in connection with the purchase or sale of a security listed on an American
+stock exchange, and the purchase or sale of any other security in the United
+States. This case involves no securities listed on a domestic exchange, and all
+aspects of the purchases complained of by those petitioners who still have live
+claims occurred outside the United States.
+Id. at 2888 (emphases added); see id. at 2876 n.1.9
+
+9
+
+See also id. at 2875 (NAB’s “Ordinary Shares — what in America would be called ‘common
+stock’ — are traded on the Australian Stock Exchange Limited and on other foreign securities
+exchanges, but not on any exchange in the United States.”) (emphasis added); id. at 2875 (“We
+decide whether § 10(b)…provides a cause of action to foreign plaintiffs suing foreign and
+American defendants for misconduct in connection with securities traded on foreign
+exchanges.”) (emphasis added).
+
+11
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 18 of 47
+
+With respect to unregistered securities, Morrison examined whether by including the
+words “not so registered” in § 10(b),10 Congress intended for § 10(b) to capture the purchase and
+sale of securities that are not registered on a U.S. exchange and are not traded in the domestic
+over-the-counter market. Applying the presumption against extraterritoriality, the Court
+concluded that Congress did not. See id. at 2877-86. Indeed, the Supreme Court held that the
+remaining plaintiffs’ claims did not come within § 10(b)’s purview because the unregistered
+NAB shares were not purchased or sold within the United States. See id. at 2888. In reaching its
+conclusion, the Court emphasized that it was applying the presumption against extraterritorial
+application of a U.S. law. See id. at 2877-83 (citing, among other cases, Foley Bros.). The Court
+cited the conflict between foreign and U.S. law that would be created if § 10(b) were extended to
+securities that are not registered on a U.S. exchange (and, indeed, do not even trade over-thecounter in the U.S.), and reasoned that if Congress intended application of U.S. law to
+transactions in unregistered securities simply based on the occurrence of some fraudulent
+conduct within the U.S. (i.e., at NAB’s Florida subsidiary), it would have addressed conflicts of
+laws issues. See 130 S. Ct. at 2885-86 (citation omitted). Since Congress did not, the Supreme
+Court dismissed the case.
+B.
+
+AMPLE EVIDENCE FROM BOTH WITHIN AND OUTSIDE THE MORRISON
+OPINION DICTATES THAT WHEN U.S. EXCHANGE-REGISTERED SECURITIES
+ARE AT ISSUE, SECTION 10(b) APPLIES REGARDLESS OF THE LOCATION OF
+THE TRANSACTION
+
+Throughout their brief, Defendants argue that the location of the purchase or sale
+transaction is the only relevant consideration in determining whether § 10(b) is applicable. DB
+
+10
+
+In relevant part, § 10(b) makes it unlawful to, in contravention of SEC rules, use “any
+manipulative or deceptive device” “in connection with the purchase or sale of any security
+registered on a national securities exchange or any security not so registered… .” 15 U.S.C.
+§ 78j(b).
+
+12
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 19 of 47
+
+at 10-29. When, as in Morrison, unregistered securities that do not trade in U.S. markets are at
+issue, Defendants are correct. But, as shown below, when, as here, U.S. exchange-registered
+securities are at issue, Morrison itself recognized that the location-of-the-transaction test on
+which Defendants so heavily rely is entirely irrelevant, as recognized by a recent decision in this
+District interpreting Morrison. 11
+1.
+
+Justice Scalia Recognized That The Statute’s Plain Language Makes
+Section 10(b) Applicable To U.S. Exchange-Registered Securities No
+Matter Where The Purchase Or Sale Occurs
+
+With respect to securities registered on a U.S. exchange, which were not at issue in
+Morrison, the Supreme Court clearly stated that § 10(b)’s anti-fraud provisions apply. Justice
+Scalia, in his majority opinion, specifically delineated a bright line between registered and
+unregistered securities. He addressed this distinction multiple times in the opinion of the Court:
+And it is in our view only transactions in securities listed on domestic exchanges,
+and domestic transactions in other securities, to which §10(b) applies.
+130 S. Ct. at 2884 (emphasis added);
+The transactional test we have adopted—whether the purchase or sale is made in
+the United States, or involves a security listed on a domestic exchange—meets
+that requirement [i.e., the requirement that Section 10(b) avoid regulation of
+foreign securities exchanges]
+id. at 2886 (emphasis added);
+
+11
+
+Defendants may seek to rely upon In re Alstom SA Securities Litigation, No. 03 Civ. 6595
+(VM), 2010 WL 3718863, at *2-3 (S.D.N.Y. Sept. 14, 2010), which reached a conclusion similar
+to that espoused by Defendants herein. Alstom is inapplicable here, however, because the case
+involved ADRs that were listed on the NYSE, not “dually-listed” common stock like UBS’s
+ordinary shares. Moreover, Judge Marrero’s decision was based on a very limited, 5-page letter
+submission by Plaintiffs where the arguments presented herein could not be adequately
+developed. Respectfully, what Judge Marrero missed is that, as Judge Sweet acknowledged in a
+subsequently decided case, Justice Scalia understood the difference between registered and
+unregistered securities and clearly and unequivocally limited the Supreme Court’s focus on the
+location of the transaction to Morrison’s facts (i.e., where the foreign purchases and sales were
+of unregistered securities). See infra at 20-22 (discussing Credit Bancorp opinion).
+
+13
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 20 of 47
+
+Section 10(b) reaches the use of a manipulative or deceptive device or contrivance
+only in connection with the purchase or sale of a security listed on an American
+stock exchange, and the purchase or sale of any other security [i.e., an
+unregistered security] in the United States.”)
+id. at 2888 (emphasis added).
+Defendants agree that by “listed,” Justice Scalia referred to securities that trade on a U.S.
+exchange and, thus, are registered with that exchange and the SEC. In fact, all parties agree that
+Justice Scalia used the terms interchangeably. See DB at 22 (“[T]he Supreme Court used the
+terms “listed” and “registered” interchangeably.”).12 Nonetheless, Defendants (and NYSE
+Euronext) erroneously assert that Plaintiffs’ entire argument is based solely on “the Court’s use
+of the single word ‘listed’” in this passage from the majority’s opinion. DB at 18-19; NYSE
+Euronext Br. at 3. This is simply not so.
+To be sure, Justice Scalia’s deliberate choice of the word listed (and his recognition of its
+interchangeability with the word “registered”) is more than enough to support the undeniable
+conclusion that § 10(b) reaches transactions in securities that are registered on a U.S. exchange
+(no matter where the trade is actually executed). If Justice Scalia had wanted to limit the test the
+Supreme Court adopted to whether the transaction occurred in the United States under all
+circumstances, he would have written: “The transactional test we have adopted—whether the
+purchase or sale is made in the United States—meets that requirement.” Justice Scalia did not do
+that. Instead, he deliberately inserted “or involves a security listed on a domestic exchange”
+because he, being no stranger to construing statutes based on the plain meaning of their words,
+12
+
+See, e.g., 130 S. Ct. at 2885 (“The Act’s registration requirements apply only to securities
+listed on national securities exchanges. 15 U.S.C. §78l(a).”). The Exchange Act also uses the
+terms interchangeably. See 15 U.S.C. §78l(d) (“If the exchange authorities certify to the
+Commission that the security has been approved by the exchange for listing and registration, the
+registration shall become effective….); id. (“A security registered with a national securities
+exchange may be…stricken from listing and registration in accordance with [SEC and exchange
+rules]….”); see also 15 U.S.C. §78l(e)&(f).
+
+14
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 21 of 47
+
+recognized that Congress unequivocally stated that § 10(b) applies to transactions in securities
+registered on a U.S. exchange under all circumstances. There is simply no rational explanation
+for why Justice Scalia would insert “or involves a security listed on a domestic exchange” if he
+was not construing what § 10(b) makes plain — that the statute applies to all transactions in U.S.
+exchange-registered securities.
+Justice Scalia’s analysis — holding that all transactions (regardless of location) in shares
+listed/registered on a U.S. exchange are within the ambit of § 10(b) — does nothing more than
+follow the clear language of the statute. Section 10(b) states in relevant part that it prohibits
+deceptive conduct “in connection with the purchase or sale of any security registered on a
+national securities exchange ….” 15 U.S.C. § 78j(b) (emphasis added). Where U.S. exchangeregistered securities are at issue, there is simply no ambiguity in the statute, unlike in Morrison
+in which the Court was construing the phrase “not so registered.”
+As the foregoing passage written by Justice Scalia recognized, Congress said § 10(b)
+applies to U.S. exchange-registered securities, without limitation by where the purchase or sale
+transaction occurs. Indeed, Congress – which recognized in the Exchange Act that securities
+sometimes trade in both domestic and foreign exchanges (e.g., are dually-listed)13 – could have
+said that such conduct is prohibited only if the transaction in the U.S. exchange-registered
+security also occurs on the domestic exchange. It did not. Thus, as to securities registered on a
+U.S. exchange (like UBS’s ordinary shares here), where the transaction occurred is simply not
+relevant to determining whether the statute applies. Consequently, resorting to canons of
+construction, as the Supreme Court did in Morrison in interpreting the meaning of the remainder
+13
+
+See 15 U.S.C. § 78b(2) (“The prices established and offered in such transactions [e.g.,
+transactions on U.S. exchanges and in the U.S. over-the-counter market] are generally
+
+15
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 22 of 47
+
+of § 10(b) (i.e., the meaning of “in connection with the purchase or sale of…any security not so
+registered”), simply is not necessary. As the Supreme Court explained in Connecticut Nat’l
+Bank v. Germain, 503 U.S. 249, 253-54 (1992):
+[C]anons of construction are no more than rules of thumb that help courts
+determine the meaning of legislation, and in interpreting a statute a court should
+always turn first to one, cardinal canon before all others. We have stated time and
+again that courts must presume that a legislature says in a statute what it means
+and means in a statute what it says there. When the words of a statute are
+unambiguous, then, this first canon is also the last: judicial inquiry is complete.
+(emphasis added; citations and quotation marks omitted); see also Lee v. Bankers Trust Co., 166
+F.3d 540, 544 (2d Cir. 1999) (“It is axiomatic that the plain meaning of a statute controls…, and
+that judicial review must end at the statute’s unambiguous terms. Legislative history and other
+tools of interpretation may be relied upon only if the terms of the statute are ambiguous.”).
+The evidence does not stop at Justice Scalia’s words or the plain language of the statute,
+however, as numerous other factors support this conclusion, as discussed below.
+2.
+
+The Morrison Opinion Elsewhere Recognized The Distinction
+Between Registered Shares And Unregistered Shares
+
+Justice Scalia specifically recognized the importance of the distinction between shares
+that are simultaneously listed and traded in the United States and other countries (i.e., “dual
+listed” shares, like UBS’s ordinary shares) and shares that are not. See 130 S. Ct. at 2878-79
+(discussing the Second Circuit’s decision in Schoenbaum v. Firstbrook, 405 F. 2d 200, 208,
+modified on other grounds en banc, 405 F.2d 215 (1968)). Justice Scalia explained:
+Schoenbaum involved the sale in Canada of the treasury shares of a Canadian
+corporation whose publicly traded shares (but not, of course, its treasury shares)
+were listed on both the American Stock Exchange and the Toronto Stock
+Exchange.
+
+disseminated and quoted throughout the United States and foreign countries and constitute a
+basis for determining and establishing the prices at which securities are bought and sold….”).
+
+16
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 23 of 47
+
+130 S. Ct. at 2878 (emphasis added). Justice Scalia noted that the district court in Schoenbaum
+properly dismissed the case because § 10(b) does not apply extraterritorially to unlisted
+securities, such as the Canadian issuer’s treasury shares, see 130 S. Ct. at 2878, and explained
+that in creating what would develop into the conduct and effects test (which the Supreme Court
+rejected in Morrison), the Second Circuit improperly reversed the district court. According to
+Morrison, the Second Circuit erroneously believed that, in an effort to protect American
+investors, “[i]t sufficed to apply §10(b) . . . [because, ] although the transactions in treasury
+shares took place in Canada, they affected the value of the common shares publicly traded in the
+United States.” 130 S. Ct. at 2878 (citation omitted). The Supreme Court found that the Second
+Circuit failed to properly apply the presumption against extraterritoriality because the Second
+Circuit erroneously believed that it could use adverse effects on American investors from
+transactions involving unregistered securities in foreign markets (i.e., the treasury shares) to
+change the plain meaning of § 10(b), which clearly has no application where unregistered
+securities are at issue. See id. at 2878.
+Justice Scalia similarly criticized the Second Circuit’s decision in Leasco Data
+Processing Equipment Corp. v. Maxwell, 468 F.2d 1326 (1972), in which the Second Circuit
+found there was subject matter jurisdiction under the conduct/effects test to hear a § 10(b) claim
+even though “the corporation whose securities were traded (abroad) was not listed on any
+domestic exchange.” Morrison, 130 S. Ct. at 2878 (emphasis added). The Supreme Court’s
+discussion of Schoenbaum and Leasco demonstrates that Justice Scalia (and the majority) made a
+clear distinction between U.S. exchange-registered securities (which were not at issue in
+Morrison) and unregistered securities that did not even trade in the domestic over-the-counter
+market (which were at issue in Morrison). The purpose of doing so was to emphasize that
+
+17
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 24 of 47
+
+Morrison’s holding is not applicable when U.S. exchange-registered securities are at issue, as the
+concurrence and dissent also recognize, see infra at 19-20.
+Justice Scalia also recognized this critical distinction in discussing §§ 30(a) and (b) of the
+Exchange Act.14 The majority opinion states: “With regard to securities not registered on
+domestic exchanges, the exclusive focus on domestic purchases and sales is strongly confirmed
+by § 30(a) and (b), discussed earlier.” 130 S. Ct. at 2885 (emphases in original). Clearly, given
+the emphases supplied, Justice Scalia viewed securities that are registered on domestic
+exchanges differently from those that are not.
+Defendants assert that the Court’s observation, in discussing Sections 30(a) and (b), that
+“it is the foreign location of the transaction that establishes…the Act’s inapplicability,’” DB at
+13 (quoting 130 S. Ct. at 2885) (emphasis in original)), supports the notion that the Court held
+that § 10(b) does not apply to transactions that occur on foreign exchanges under all
+circumstances. Defendants ignore, however, that (as explained above) Justice Scalia’s
+discussion of §§ 30(a) and (b) began with the phrase: “With regard to securities not registered
+on domestic exchanges….” See 130 S. Ct. at 2885 (emphasis in original). This lead-in phrase
+that was deliberately inserted by the majority makes it clear that the Court was limiting its
+holding to situations in which the foreign transaction is in a security that has not been registered
+on a U.S. exchange. Put differently, Justice Scalia clearly recognized that the location of the
+
+14
+
+Section 30(a) makes it unlawful for a broker or dealer to use interstate commerce to effect
+transactions in securities issued by U.S. issuers on exchanges located outside the United States.
+See 130 S. Ct. at 2883 (citing 15 U.S.C. § 78dd(a)). Section 30(b), by contrast, states that the
+Exchange Act does not apply to a person who “transacts a business in securities without the
+jurisdiction of the United States,” unless he does so in violation of SEC promulgated rules. See
+130 S. Ct. at 2883-84 (citing 15 U.S.C. § 78dd(b)).
+
+18
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 25 of 47
+
+transaction only matters when unregistered securities are at issue.15 Morrison’s holding,
+therefore, does not extend to foreign purchasers of UBS’s ordinary shares here because the
+shares are registered on the NYSE.
+3.
+
+The Concurring And Dissenting Opinions In Morrison And A Recent
+Decision In This District Recognize That The Morrison Majority’s
+Holding Is Not Applicable To U.S. Exchange-Registered Securities
+
+In his concurrence, Justice Breyer also viewed § 10(b) as creating two categories: one for
+registered securities and one for securities that are “not so registered.” See 130 S. Ct. at 2888
+(citing § 10(b)’s “not so registered” language”). Justice Breyer stated that the first category of §
+10(b), relating to securities “registered on a national securities exchange,” was not at issue in
+Morrison because the securities purchased by the foreigners in that case were unregistered. See
+130 S. Ct. at 2888 (“The first category therefore does not apply.”). Justice Breyer then stated:
+Further, the relevant purchases of these unregistered securities took place
+entirely in Australia and involved only Australian investors. And in accordance
+with the presumption against extraterritoriality, I do not read the second category
+[i.e., the “not so registered” category] to include such transactions. Thus, while
+state law or other federal fraud statutes…may apply to the fraudulent activity
+alleged here to have occurred in the United States, I believe that § 10(b) does not.
+This case does not require us to consider other circumstances.
+Id. (emphasis added). Clearly, Justice Breyer agreed with the two categories that the
+majority’s decision created. The “other circumstances” are the ones presented by this
+case — that is, whether the first category of § 10(b) involving U.S. exchange-registered
+securities is applicable when the purchase transaction occurred on a foreign exchange.
+
+15
+
+Indeed, the fact that Justice Scalia emphasized that he was writing about unregistered
+securities when he stated that the exclusive focus of Section 10(b) is on purchases and sales
+occurring domestically in the United States logically suggests that the opposite is also true (i.e.,
+that with respect to American exchange-registered securities, the focus of Section 10(b) need not
+be on domestic purchases and sales, but rather is on whether the claim involves a security
+registered on a national securities exchange). Otherwise, there was no valid reason to include the
+lead-in phrase.
+
+19
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 26 of 47
+
+The dissent also held the view that the majority’s decision did not cover
+transactions in U.S.-exchange registered securities. Justice Stevens, with whom Justice
+Ginsburg joined, stated:
+Repudiating the Second Circuit’s approach in its entirety, the Court establishes a
+novel rule that will foreclose private parties from bringing § 10(b) actions
+whenever the relevant securities were purchased or sold abroad and are not listed
+on a domestic exchange.
+130 S. Ct. at 2894 (emphasis added). Plainly, since the connector “and” was added, the dissent
+interpreted the majority’s decision as requiring two things: (1) purchases and sales abroad; and
+(2) the absence of U.S. exchange-registered securities. Thus, the dissent also recognized that the
+majority’s holding is not applicable to foreign purchases of U.S. exchange-registered securities.16
+Judge Sweet’s recent decision in SEC v. Credit Bancorp, Ltd., No. 99 Civ. 11395, 2010
+WL 3582906 (S.D.N.Y. Sept. 13, 2010 and Order Adhering To Opinion dated Sept. 30, 2010),
+similarly recognizes that the holding in Morrison does not preclude application of § 10(b) when
+U.S. exchange-registered securities are at issue, even if the securities purchases occur in foreign
+markets. In Credit Bancorp, the SEC brought a § 10(b) claim against an executive at the U.S.
+subsidiary of Credit Bancorp, Ltd. (“CBL”), a foreign corporation based in Switzerland. CBL
+set up a credit facility program in Europe targeted at CEOs of public companies. Investors could
+purchase interests in the credit facility by posting securities and other assets as collateral in
+exchange for which the investors received lump sum loans at attractively low interest rates. See
+id. at *2-6 (S.D.N.Y. Sept. 13, 2010). Several investors who purchased interests in the credit
+facility transferred the stock of public companies that were listed, registered and traded on U.S.
+16
+
+Defendants seek to place great emphasis on the Court’s statement that “the focus of the
+Exchange Act is not upon the place where the deception originated, but upon purchases and sales
+of securities in the United States….” See DB at 18-19 (quoting 130 S. Ct. at 2884). However, as
+the concurrence and dissent recognize, this statement was made in the context of the Morrison
+decision, which involved an unregistered security and, thus, it is not binding in this case.
+
+20
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 27 of 47
+
+exchanges as collateral. See id. at *8-11. Interests in the credit facility were bogus as CBL was
+engaged in a Ponzi scheme. Contrary to CBL’s and the individual defendant’s representations
+that the pledged collateral was held in trust in the United States and could not be encumbered,
+investors’ assets were held in foreign banks and routinely used by CBL to engage in a variety of
+risky investment transactions in Europe to earn profits exclusively for CBL’s benefit. Judge
+Sweet entered summary judgment for the SEC finding that the individual defendant made
+numerous false statements concerning the credit facility and, thus, violated § 10(b). See id. at
+*15-16.
+The defendant subsequently sought reconsideration based on Morrison and argued that
+the relevant transactions occurred abroad and, therefore, Morrison required dismissal of the
+SEC’s claims. See id. at *19. Judge Sweet disagreed and found that the purchases of the foreign
+investment facility occurred in the United States, but even if they did not, Morrison is
+nevertheless satisfied because the purchases of the foreign credit facility involved securities
+listed on domestic exchanges. In relevant part, Judge Sweet explained:
+[Defendant] argues that because [CBL’s CEO’s] purchases and sales [of
+securities] in Europe were the actual fraud in this case, § 10(b) does not apply to
+[defendant’s] conduct. This contention is unavailing, as Morrison states that §
+10(b) applies to securities transactions in the United States or transactions
+involving securities listed on an American exchange, both of which are present
+here….
+*
+
+*
+
+*
+
+Plainly, the transactions of securities through which domestic investors entered
+the Insured Credit Facility Program at Credit Bancorp took place within the
+United States.
+Furthermore,…the securities which were transferred into Credit Bancorp’s
+possession were…securities on American stock exchanges. [Defendant] does not
+suggest that the other securities he brought into the Insured Credit Facility
+Program were not also listed on domestic exchanges.
+
+21
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 28 of 47
+
+Therefore, the transactions for which [defendant] was…sued satisfied both
+approaches to the application of § 10(b) under Morrison: they involved a
+securities transaction occurring domestically, and they involved the exchange of
+securities listed on domestic exchanges.
+Id. at *19-20 (citations omitted).
+4.
+
+The Presumption Against Extraterritorial Application Of The
+Exchange Act Is Not Implicated When, As Here, Securities That Are
+Registered On A National Securities Exchange Are At Issue
+
+Defendants assert that even where a foreign issuer voluntarily registers its shares on a
+U.S. exchange, investors who purchase outside the U.S. do not have a remedy under § 10(b). In
+their view, because Morrison noted that the Exchange Act is silent as to the extraterritorial
+application of § 10(b), the presumption against extraterritorial application of § 10(b) applies. See
+DB at 20. This argument is without merit for two reasons.
+First, as explained above, the unambiguous language of § 10(b) makes it clear that it
+applies to transactions in securities that are registered on a U.S. exchange (like UBS’s ordinary
+shares). Thus, there is no need to resort to canons of construction and the statute must be applied
+as written. See supra at 13-16.
+Second, even if this Court were to conclude that there is some ambiguity in the statute
+requiring it to analyze the presumption against extraterritoriality, Defendants’ argument still
+fails. When domestic conduct is at issue, as is the case with respect to § 10(b), the law is clear
+that the presumption against extraterritoriality is not implicated. See In re Maxwell Commc’n
+Corp. plc, 186 B.R. 807, 815-16 (S.D.N.Y. 1995) (“[A] court must determine if the presumption
+applies at all: after identifying the conduct proscribed or regulated by the particular legislation in
+question, a court must consider if that conduct occurred outside of the borders of the U.S.”); see
+also Touregman v. Collins Fin. Servs., Inc., No. 08-cv-01392, 2009 WL 6527757, at *2 (S.D.
+Cal. Aug. 6, 2009) (“Before considering whether a statute should be applied extraterritorially, a
+
+22
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 29 of 47
+
+court must first address whether [its] application…presents an issue of extraterritoriality at all.”)
+(citing Envtl. Def. Fund v. Massey, 986 F.2d 528, 532 (D.C. Cir. 1993); 44B Am. Jur. 2d Int’l
+Law § 71 (2010) (“the presumption has no bearing when the conduct that Congress seeks to
+regulate occurs largely within the United States”).
+It is indisputable that in making § 10(b) applicable to purchases and sales of securities
+registered on U.S. exchanges, Congress was in fact legislating with respect to domestic matters.
+It was legislating to prohibit specific conduct by issuers (foreign or domestic) who voluntarily
+come to the United States and list their shares for trading on U.S. exchanges. More specifically,
+in § 10(b), Congress (given the SEC’s promulgation of Rule 10b-5) made it unlawful for “any
+person” to make false and misleading statements in connection with the purchase or sale of U.S.
+exchange-registered securities (and also unregistered securities that trade in the American overthe-counter market).17 See 15 U.S.C. § 78m; Morrison, 130 S. Ct. at 2882. Elsewhere in the
+Exchange Act, Congress created an obligation for issuers who elect to register their securities
+with a U.S. exchange to make periodic reports and file them with the SEC. See 15 U.S.C. § 78m.
+That obligation applies to both U.S. and foreign issuers alike (although the specific reporting
+obligations differ slightly).18 Thus, when applied to securities registered on a U.S. exchange,
+
+17
+
+Defendants agree that § 10(b)’s reference to “any security not so registered” means a security
+traded in the over-the-counter market in the United States. See DB at 18 & n.20.
+18
+
+It is useful to examine, by contrast, what Congress was not doing in enacting § 10(b).
+Congress did not make it unlawful for foreign issuers whose securities are not listed on a
+“national securities exchange” or traded in the U.S. over-the-counter market to make misleading
+statements (the situation in Morrison). In other words, Congress was not enacting a law telling a
+foreign issuer what it must do (or refrain from doing) with respect to a security that it is not
+registering on an American exchange or issuing for trading in the U.S. over-the-counter market.
+Such laws are, of course, the province of the lawmakers who regulate such foreign markets, not
+Congress, and such extraterritorial application of § 10(b) would cause the interference with
+foreign law recognized in Morrison. See 130 S. Ct. at 2887-88. Indeed, as Morrison held with
+respect to foreign (i.e., non-U.S. exchange-registered) securities, legislation causing such
+interference would require a specific statement of Congressional intent before a court would
+
+23
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 30 of 47
+
+there is simply no manner in which Congress can be deemed to have been legislating
+“extraterritorially.” Therefore, the presumption against extraterritorial application is not
+implicated.
+In this case, conduct prohibited by § 10(b) (i.e., the making of false and misleading
+statements with respect to securities registered on a U.S. exchange) occurred in the United States
+because (i) after UBS registered its securities for trading on the NYSE, it filed a multitude (more
+than six years worth) of false financial statements with the SEC in Washington, D.C., and (ii)
+certain other defendants also made false and misleading statements in the United States. See
+supra at 9. With respect to the U.S. exchange-registered securities at issue here, it is of no
+moment that the victims of the domestic fraud suffered injury outside the United States when
+they purchased UBS’s U.S.-exchange registered shares in transactions that occurred on
+exchanges outside the U.S. As a consequence, § 10(b) is, unlike in Morrison, not being applied
+extraterritorially here. See Envtl. Def. Fund v. Massey, 986 F.2d at 531-32 (“[T]he presumption
+against extraterritoriality is not applicable when the conduct regulated by the government occurs
+within the United States. By definition, an extraterritorial application of a statute involves the
+regulation of conduct beyond U.S. borders. Even where the significant effects of the regulated
+conduct are felt outside U.S. borders, the statute itself does not present a problem of
+extraterritoriality, so long as the conduct which Congress seeks to regulate occurs largely within
+U.S. borders.”).
+Defendants will no doubt assert that there also were fraudulent acts that occurred in
+Switzerland (e.g., mailing and/or preparation of UBS’s false and misleading financial statements
+
+apply the legislation extraterritorially. Morrison found such a statement as to unregistered
+securities to be lacking. Thus, even though there was fraudulent conduct within U.S. borders,
+§10(b) did not apply. See id.
+
+24
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 31 of 47
+
+to UBS shareholders from/in Switzerland). But this makes no difference. Even assuming
+arguendo that UBS simply filed its false and misleading financial statements that were prepared
+in Switzerland with the SEC, this is still a domestic tortious act that is condemned by § 10(b). In
+other words, while UBS may also have committed fraud in other jurisdictions by violating the
+requirements of a statute or law in those jurisdictions, that does not mean that Congress was not
+legislating with respect to domestic matters or that UBS did not engage in a domestic fraud
+prohibited by § 10(b).
+Defendants further claim that Morrison foreclosed the ability of purchasers outside the
+United States to assert a § 10(b) claim under all circumstances because the Court stated: “[w]e
+know of no one who thought that the Act was intended to ‘regulat[e] foreign securities
+exchanges — or indeed who believed that under established principles of international law
+Congress had the power to do so.” DB at 19 (quoting 130 S. Ct. at 2884 (emphasis added by
+Defendants). This observation is misplaced here.
+Plaintiffs are not suggesting that Congress set out to extend (and extended) § 10(b) to
+securities, like those in Morrison, that are not registered with a U.S. exchange or that are not,
+whether registered or unregistered, purchased or sold within the United States. But, that is not
+the situation in this case because UBS voluntarily registered its shares with the SEC and listed its
+shares for trading on the NYSE, and Swiss financial regulators knowingly allowed UBS to do it.
+By providing an entirely optional remedy to those who purchased NYSE-registered securities
+outside the United States, there is no sense in which the Exchange Act would be impermissibly
+“regulating” foreign stock exchanges. See infra at 26. Indeed, UBS’s entire purpose in
+registering its ordinary shares on the NYSE was so that the shares would freely trade in both
+U.S. and Swiss markets such that ordinary shares purchased in one exchange could be sold on
+
+25
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 32 of 47
+
+the other. Such transactions necessarily entail — as UBS recognizes — being subject to
+regulation in the multiple jurisdictions in which the ordinary shares are registered regardless of
+where the purchase or sale of the security occurred. See supra at 8.
+Defendants (and NYSE Euronext) also overstate the sense in which Morrison was
+discussing “regulation” of foreign securities exchanges. See DB at 26 (Morrison recognized
+“that imposing U.S. securities laws on transactions on foreign securities exchanges effectively
+would nullify the choices of sovereign governments as to how their capital markets should be
+regulated”). Merely because § 10(b) applies to transactions in U.S. exchange-registered
+securities outside the United States (i.e., on foreign exchanges) does not mean that the SEC or
+some other U.S. regulator is now free to poke their noses onto the floor of the Swiss Stock
+Exchange and tell Swiss traders what they can or cannot do when trading U.S. exchangeregistered securities. Nor does such application imply U.S. regulation of what the Swiss
+executives who run the Swiss Stock Exchange must do in creating or applying exchange trading
+rules as to NYSE-registered securities or what fraud remedies its courts should provide with
+respect to securities that Swiss corporations chose not to list on a U.S. exchange.
+Similarly, Defendants’ argument that “Plaintiffs’ ‘listing theory’ would lead to the
+incongruous results that the Securities Act does not apply extraterritorially, but the Exchange Act
+does, see DB at 19-20 n. 21, misses the mark because § 10(b) is not being applied
+extraterritoriality with respect to U.S. exchange-registered securities.19
+
+19
+
+Defendants note that after Morrison, the Exchange Act was amended to expressly provide that
+federal courts have subject matter jurisdiction over claims by the SEC and Department of
+Justice. They then assert that this amendment shows that “Congress clearly understood Morrison
+to bar Section 10(b) claims based on transactions outside the United States, and wanted to
+provide a basis for such claims by the SEC and DOJ, but not by private plaintiffs.” DB at 20 n.
+22 (citing Dodd-Frank Wall Street Reform Act § 929P(b)(2)). This assertion is without merit.
+This amendment dealt with the subject matter jurisdiction of the federal courts, not the text of
+
+26
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 33 of 47
+
+In sum, because Morrison does not preclude the application of § 10(b) to purchases and
+sales of the U.S. exchange-registered securities at issue here, the presumption against
+extraterritoriality is of no consequence.
+C.
+
+THE POLICY CONCERNS RAISED BY DEFENDANTS (AND THEIR AMICUS) ARE
+MERITLESS
+
+The parade of horribles to which the Defendants (and NYSE Euronext) point if this Court
+finds, as it should, that § 10(b) covers transactions in U.S. exchange-registered securities even if
+they occur outside the U.S. lack merit. Indeed, their so-called concerns are simply not realistic.
+NYSE Euronext asserts that if a foreign issuer that “cross-lists” its securities on a U.S.
+exchange can be sued by foreign plaintiffs, such a result would “supplant[] the law of the country
+where the transaction actually occurred.” NYSE Euronext Br. at 3; see also id. at 7-8 (“[T]here is
+no good reason to avoid the application of the law of the country where the securities transaction
+occurred.”). This is not so. The law of foreign jurisdictions is not supplanted or avoided — it is
+merely supplemented with an optional remedy that can be pursued by the defrauded purchaser of
+a U.S. exchange-registered security. Such a foreign plaintiff still can elect to bring a fraud
+lawsuit in the foreign country where the exchange was located or perhaps in his own country of
+residence, if (as is likely given the globalization of markets) the two are different. Indeed, in the
+class action context, the investor is always free to opt out of any class that is certified in the
+United States.20
+
+§ 10(b). The Supreme Court made clear in Morrison that the federal courts already have
+jurisdiction to hear the § 10(b) claims of both the SEC and private plaintiffs, see 130 S. Ct. at
+2876-77 & n. 3, and, therefore, this amendment has no bearing on § 10(b)’s applicability here.
+20
+
+Such a supplemental remedy is perfectly consistent with U.S. treaties that provide foreigners
+the same access to U.S. courts and rights to sue as are afforded to U.S. citizens. See, e.g., Treaty
+of Friendship with Switzerland, 11 Stat. 587 (“The citizens of the United States of America and
+the citizens of Switzerland…shall be at liberty to prosecute and defend their rights before courts
+of justice in the same manner as native citizens….”).
+
+27
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 34 of 47
+
+NYSE Euronext further asserts that “Plaintiffs’ argument would undermine the decadeslong effort by U.S. authorities to promote cooperation with foreign governments in the regulation
+of securities transactions.” NYSE Euronext Br. at 6. Yet, neither NYSE Euronext nor
+Defendants offer any example of how any of the agreements between the SEC and foreign
+regulators to which they cite, NYSE Euronext Br. at 6-7 & n.8, would be affected at all, let alone
+adversely. As stated earlier, nothing this Court finds with respect to the ability of private
+investors who purchased U.S. exchange-registered securities to sue under § 10(b) empowers
+federal regulators to do anything that Congress has not already empowered them to do, see
+Dodd-Frank Wall Street Reform and Consumer Protection Act § 929P(b)(2) (SEC and
+Department of Justice has jurisdiction to enforce Exchange Act’s antifraud provisions outside the
+United States). Likewise, nothing this Court decides will require the SEC or any other federal
+regulator to take any action contrary to the agreements to which NYSE Euronext cites.
+Next, both Defendants and NYSE Euronext claim that allowing purchasers of U.S.
+exchange-registered securities whose transactions were executed on exchanges outside the
+United States to sue under § 10(b) would deter capital investment in this country because it
+would create fear among such issuers. See NYSE Euronext Br. at 9 (“[T]he ability of the U.S.
+exchanges to attract and retain foreign issuers would be gravely impaired.”); DB at 28
+(“Exposing these foreign issuers to worldwide class actions will encourage the over 850 foreign
+issuers who list their ordinary shares or ADRs on a U.S. exchange to de-list, and discourage
+other foreign issuers from ever listing their shares or ADRs here….The harm to U.S. markets
+would be grave.”). This argument is self-refuting. Defendants pretend that a ruling from this
+Court that purchasers outside the United States (including U.S. citizens) can avail themselves of
+a § 10(b) remedy would result in a radical change in the law. But this simply is not so. Prior to
+
+28
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 35 of 47
+
+Morrison, numerous courts allowed suits by foreign purchasers of foreign securities on foreign
+exchanges, see, e.g., Alfadda v. Fenn, 935 F.2d 475, 478 (2d Cir. 1991); In re Alstom SA Sec.
+Litig., 406 F. Supp. 2d 346, 362-63, 387 (S.D.N.Y. 2005); In re Royal Ahold, N.V. Sec. & ERISA
+Litig., 351 F. Supp. 2d 334 (D. Md. 2004); In re Gaming Lottery Sec. Litig., 58 F. Supp. 2d 62,
+74 (S.D.N.Y. 1999), and certainly the ability of U.S. investors to sue regardless of where the
+security was purchased was unquestioned. And yet, as Defendants point out, no less than 850
+foreign issuers listed their ordinary shares or ADRs on U.S. exchanges despite that risk. DB at
+28. Thus, it is obvious that this Court’s ruling will not encourage delisting.21 The loss of a §
+10(b) remedy as to U.S. exchange-registered securities would, however, deter U.S. investors
+from purchasing such shares in foreign markets, where they often go in search of the best
+available price. Indeed, Oregon purchased numerous shares on the Swiss Stock Exchange and
+suffered extensive losses as a result. See supra at 6.
+Defendants’ citation to an article by Professor Coffee and remarks by U.S. business
+leaders to the effect that foreign issuers fear U.S. antifraud litigation, see DB at 28 & n. 32, are
+similarly flawed. The “fear” of U.S. anti-fraud litigation is present in this case and others
+regardless of whether purchasers of securities outside the United States have the option of
+participating in § 10(b) litigation in the U.S. Since, as Defendants concede, purchasers of UBS
+securities in the United States unquestionably may assert § 10(b) claims, foreign issuers will still
+“fear” U.S. litigation. The ruling of this Court will not change whether a foreign issuer may be
+sued under § 10(b) — it will only change the number of investors who may sue. As a
+consequence, the “fear” to which Defendants and NYSE Euronext point will not be eliminated
+21
+
+Indeed, Defendants contradict themselves by noting that several companies recently delisted
+not as a result of fears regarding how many shareholders can bring § 10(b) claims, but due to
+
+29
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 36 of 47
+
+regardless of this Court’s ruling. Rather, the reason for any delistings by foreign issuers is, as
+Professor Coffee suggested, equally as likely to be attributable to the costs of complying with the
+strict regulatory requirements set forth in the Sarbanes-Oxley Act,22 which, of course, has
+nothing at all to do with who may bring private claims for § 10(b) violations.
+Finally, Defendants complain that Plaintiffs’ interpretation “mean[s] that Morrison
+actually broadened § 10(b)’s extraterritorial reach[,]” DB at 5. In this regard, they note that prior
+to Morrison, under the “conduct” and “effects” test, certain courts held that purchasers of foreign
+securities on foreign exchanges sometimes were not permitted to sue in the U.S. if they were
+unable to prove that the U.S. conduct caused their losses. See id. Defendants then assert that if
+Plaintiffs’ argument is correct, the Morrison decision actually expanded § 10(b)’s application
+beyond what was previously permitted by the conduct and effects test, a result which Defendants
+claim simply cannot be. See id. (“All of those cases [involving foreign issuers and decided
+under the conduct and effects test], if presented today on plaintiffs’ theory, would survive. Thus,
+a Supreme Court decision meant to sharply curtail the extraterritorial application of § 10(b)
+would sharply expand it.”) (emphasis in original). This is less a policy argument than it is an
+observation. In any event, Defendants’ assertion is flawed by the assumption embedded in it —
+that the Supreme Court in Morrison set out to curtail the extraterritorial application of § 10(b)
+under all circumstances. As explained earlier, U.S. exchange-registered securities were not at
+issue in Morrison. To the extent the Supreme Court set out to curtail the extraterritorial
+application of § 10(b) in Morrison, it did so only with respect to unregistered securities that do
+not trade in U.S. markets. There is no indication that the Supreme Court was keeping a
+
+amendments to SEC rules that made delisting easier. See DB at 28; see also NYSE Euronext Br.
+at 9 & n. 11.
+
+30
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 37 of 47
+
+scorecard of how many § 10(b) claims involving purchasers on foreign exchanges survived prior
+to Morrison and then rendered a decision with the intention of curtailing that number, sharply or
+otherwise. Rather, the Supreme Court created a bright-line test based on the plain language of
+the statute which is not in any way dependent upon the results reached by courts using the
+conduct and effects test. The first prong of that test begins and ends with whether the security is
+registered on a U.S. exchange, and UBS’s ordinary shares are here.
+D.
+
+NONE OF THE CASES DEFENDANTS CITE REJECTED THE ARGUMENT
+PRESENTED HERE
+
+Defendants assert that “following Morrison, every court that has addressed this
+issue…has held that foreign investors cannot bring Section 10(b) claims based on purchases of
+securities outside the United States.” DB at 14-15. The cases cited, however, are inapposite.
+Sgalambo v. McKenzie, No. 09 Civ. 10087 (SAS), 2010 WL 3119349 (S.D.N.Y. Aug. 6,
+2010), dismissed the § 10(b) claims of purchasers of a Canadian issuer’s common stock on
+foreign exchanges, but there the plaintiffs conceded the issue and presented no argument to the
+contrary. See id. at *17. Similarly, Cornwell v. Credit Suisse Group, No. 08 Civ. 3758 (VM),
+2010 WL 3069597 (S.D.N.Y. July 27, 2010), dismissed the § 10(b) claims of purchasers of a
+Swiss company’s ordinary shares on foreign exchanges, but Judge Marrero did not address the
+critical argument and distinction from Morrison that is presented here — i.e., that the foreign
+issuer’s ordinary shares were registered on the NYSE.
+Similarly, Tradex Global Master Fund SPC Ltd. v. Rieden, No. 09 Civ. 6395 (S.D.N.Y.
+July 23, 2010) (attached to the Declaration of Robert Giuffra as Ex. 8), is inapposite because,
+
+22
+
+See John C. Coffee, Jr., Securities Policeman to the World? The Cost of Global Class Actions,
+N.Y.L.J., Sept. 18, 2008, at 1 (attached to the Giuffra Decl. as Ex. 15).
+
+31
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 38 of 47
+
+unlike here where UBS’s shares are registered on the NYSE, Tradex “involve[d] no securities
+listed on a domestic exchange, nor any securities purchased in the United States.” Slip Op. at 2.
+Cedeno v. Intech Group, Inc., No. 09 Civ. 9716, 2010 WL 3359468 (S.D.N.Y. Aug. 25,
+2010), is not on point because it was not a § 10(b) case and did not even involve securities or
+stock exchanges, foreign or domestic. The case involved claims under the Racketeer Influenced
+and Corrupt Organizations Act, 18 U.S.C. §§ 1961-68, asserted by foreign plaintiffs against
+Venezuelans relating to certain alleged schemes by the Venezuelan government. The schemes
+only contacts to the United States were the limited movement of funds into and out of U.S.-based
+bank accounts. Thus, Judge Rakoff cited Morrison for the general proposition that statutes
+should not be applied extraterritorially unless there is an indication in the text that it should apply
+outside the United States, and merely found that this RICO case did not have the requisite U.S.
+connections to be heard in a U.S. court. Id. at *1-3.
+In re Banco Santander Sec. – Optimal Litig., No. 09-2073, 2010 WL 3036990 (S.D. Fla.
+July 30, 2010), is also inapposite because it merely dismissed §10(b) claims of foreign plaintiffs
+who purchased foreign securities that were not registered on a U.S. exchange. See id. at *5-6.
+II.
+
+EVEN IF PURCHASERS OF U.S. EXCHANGE-REGISTERED SECURITIES
+OUTSIDE THE UNITED STATES CANNOT BRING CLAIMS UNDER
+SECTION 10(b), OREGON STATES A SECTION 10(b) CLAIM BECAUSE ITS
+PURCHASES AND SALES OF UBS SHARES OCCURRED WITHIN THE
+UNITED STATES
+Unlike here, in Morrison, no U.S. plaintiff was a party before the Supreme Court and no
+
+U.S. purchasers of securities were included in the proposed class of purchasers. The Supreme
+Court, thus, left open the question of where a transaction occurs for purposes of § 10(b). For this
+
+32
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 39 of 47
+
+Court to extend Morrison to U.S. citizens would strip away the protections of U.S. law from the
+core investors the Exchange Act was intended to protect — U.S. citizens acting in the U.S.23
+Thus, even if Defendants’ erroneous interpretation of Morrison is accepted and § 10(b)
+does not extend to purchases and sales of U.S. exchange-registered securities that occurred on a
+foreign exchange, Oregon is not barred from bringing § 10(b) claims based on its purchases of
+UBS shares on the Swiss exchange because those “purchases” occurred in the United States.
+A.
+
+OREGON’S PURCHASES OCCURRED IN THE UNITED STATES
+
+The majority opinion in Morrison did not define the term “purchase” in the second clause
+of the transaction test: “Section 10(b) reaches . . . the purchase or sale of any other security in
+the United States.” 130 S. Ct. at 2888. Based upon the ordinary meaning of the term “purchase,”
+as well as Supreme Court precedent that § 10(b) “should be construed not technically and
+restrictively, but flexibly to effectuate its remedial purposes,” SEC v. Zanford, 535 U.S. 813
+(2002), a U.S. investor such as Oregon, who, while in the United States, purchased common
+shares of a foreign company (such as UBS) from a foreign exchange (such as the Swiss stock
+exchange), satisfies Morrison’s transactional test because this constitutes a “purchase . . . of any
+other security in the United States.” Because the Court also did not define the phrase “other
+security” and did not limit this phrase by inserting the term “domestic,” the phrase “other
+security” applies to UBS’s shares.
+Black’s Law Dictionary defines a “purchase” as “[t]he act or an instance of buying”
+(Black’s Law Dictionary 1354 (9th ed. 2009), while the Exchange Act defines the term
+23
+
+Indeed, as one amicus curiae conceded, it is well-established that §10(b) extends to the claims
+of American investors. See Brief of Infineon Technologies, AG as Amicus Curiae Supporting
+Respondents, 2010 WL 723007, at *1 (“amicus recognizes the United States’ interest in deterring
+and remedying securities fraud perpetrated against the United States capital markets and [U.S.]
+investors”). In writing for the majority, Justice Scalia specifically cited to the Infineon brief in
+support of his reasoning. See Morrison, 130 S. Ct. at 2886.
+
+33
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 40 of 47
+
+“purchase” as “any contract to buy, purchase, or otherwise acquire.” 15 U.S.C. § 78c(a)(13). In
+other words, a U.S. investor who places a buy order in the United States for a stock listed on a
+foreign exchange completes his or her “purchase” in the United States when the buy order is
+placed. In Shaw v. Dreyfus, the Second Circuit, applying the Exchange Act definition and the
+ordinary meaning of the word “purchase,” stated that “[the] generally understood meaning of
+‘purchase’ is to acquire something by one’s own act or agreement for a price.” 172 F.2d 140,
+142 (2d Cir. 1949) (emphasis added). Under Shaw, an investor becomes a purchaser when the
+investor voluntarily undertakes to become involved in the transaction. See In re Adelphia
+Commc’ns Corp. Sec. & Derivative Litig., 398 F. Supp. 244, 260 (S.D.N.Y. 2005) (citing Shaw
+for proposition that a purchase occurs when the buyer takes an action that involves decisionmaking). Likewise, in Stella v. Graham-Paige Motors Corp., 232 F.2d 299 (2d Cir. 1956), the
+Second Circuit stated that the date when an individual became a “purchaser” is the date when he
+or she “incurred an irrevocable liability to take and pay for the stock.” Id. at 301 (emphasis
+added).
+Therefore, a “purchase” of securities occurs when an investor places his buy order — not
+when the buy order is ultimately settled on the exchange. Generally, the initiation of a buy order
+is in response to a general offer that a security is for sale — the general offer is the quoted price
+on the exchange. If an investor submits a buy order based on a quoted price, then the voluntary
+“act” of initiating a buy order is “one’s own act or agreement” to buy a stock for a certain price.
+This action alone alters the designation of the investor from a mere buyer to a purchaser — and
+thus determines the time and location of the purchase. Accordingly, the initiation of a buy order
+satisfies the definition of “purchase,” and the transaction is a “domestic” one under Morrison.
+
+34
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 41 of 47
+
+A “purchase” does not occur on the foreign exchange at the time the U.S. purchaser
+places his or her buy order because the intervening acts that take place on the exchange (i.e., the
+processing of the trade, processing by a clearing house or the act of delivering the security) do
+not reflect an agreement or contract; rather, the act of submitting the buy order is the agreement
+or contract.
+
+For example, in Adams v. Dick, 226 Mass. 46, 115 N.E. 227 (1917), the
+
+Massachusetts Supreme Court, in determining whether a purchase on the NYSE represented a
+future contract for the sale of a security or a present sale, rejected the defendants’ argument that,
+until the sale is cleared by the clearing house and the purchaser receives the stock certificate,
+only a future contract to purchase, and not a purchase has occurred. 226 Mass. at 55-56, 115
+N.E. at 230-31. Instead, the court held that a sale occurs when the order is made and “all the
+steps . . . taking place between the orders of the plaintiff and the conclusion of the transactions,
+constitute merely machinery of convenience for expediting” the actual purchase. 226 Mass. at
+55, 115 N.E. at 230.
+Here, Oregon’s purchase of UBS stock occurred in the U.S. for purposes of the Exchange
+Act because Oregon made the decision to invest in UBS stock, and initiated the purchase of UBS
+stock, from the U.S. by means of domestic contractual transactions. Under both the statutory
+definition of a “purchase” of securities set forth in § 3(a)(13) as “any contract to buy, purchase,
+or otherwise acquire” and the case law interpreting that definition, Oregon’s purchases of UBS
+stock occurred in the U.S. because the investment decision was made in the United States (see
+Adelphia Commc’ns, 398 F. Supp. 2d at 260) and Oregon’s act of initiating the buy orders —
+i.e., its “own act or agreement for a price” (Shaw, 172 F.2d at 142), whereby it “incurred an
+irrevocable liability to take and pay for the stock” (Stella, 232 F.2d at 301) — occurred in the
+United States.
+
+35
+
+Case 1:07-cv-11225-RJS Document 160
+
+B.
+
+Filed 10/18/10 Page 42 of 47
+
+OREGON WAS INJURED IN THE UNITED STATES
+
+Apart from the foregoing, the application of United States law to an action sounding in
+fraud where the victim is injured in the United States reflects the usual application of wellaccepted “choice of law” norms. This principle is embodied in the long-standing lex loci delicti
+rule, and strongly supports application of § 10(b) to Oregon’s purchase of UBS stock.24
+Under the lex loci delicti rule, as set forth in the Restatement (First) of Conflict of Laws,
+the local law of the “place of wrong” generally governs. Restatement (First) of Conflict of Laws
+§ 377 (1934). Section 377 describes the “place of the wrong” as the “state where the last event
+necessary to make an actor liable for an alleged tort takes places.” Here, the “last event” was the
+harm to the investor. As § 377 of the Restatement explains, “[w]hen a person sustains loss by
+fraud, the place of wrong is where the loss is sustained, not where fraudulent representations are
+made.” Id. The Restatement demonstrates this principle with two examples that are particularly
+relevant here:
+A, in state X, makes false misrepresentations by letter to B in Y as a result of
+which B sends certain chattels from Y to A, in X. A keeps the chattels. The
+place of the wrong is in state Y where B parted with the chattels. Id. (emphasis
+added).
+A, in state X, owns shares in M company. B, in state Y, fraudulently persuades A
+not to sell the shares. The value of the shares fall. The place of the wrong is X.
+Id., comment a. These examples demonstrate that the law of the place where the victim suffered
+harm applies for claims of common law fraud. Because the law of securities fraud is grounded in
+
+24
+
+The “common-law roots of the securities fraud action” under Section 10(b) may be found in
+“common-law tort actions for deceit and misrepresentation.” Dura Pharms., Inc. v. Broudo, 544
+U.S. 336, 341, 345 (2005). Further, the dominant principle in choice of law analysis for tort
+cases was lex loci delicti when the Exchange Act was passed. See Sosa v. Alvarez-Machain, 542
+U.S. 692, 705 (2004). Thus, in enacting the Exchange Act, Congress would have expected that
+the statute applied where its own residents were injured by the fraud.
+
+36
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 43 of 47
+
+that common law, see Lampf, Pleva, Lipkind, Prupis & Petigrow v. Gilbertson, 501 U.S. 350,
+376 (1991). This Court should find that these same principles apply here.
+Defendants cite a series of recent cases to argue that Oregon’s claims should be
+dismissed. For example, Defendants reference Cornwell v. Credit Suisse Group, No. 08 Civ.
+3758, 2010 WL 3069597 (S.D.N.Y. July 27, 2010), which dismissed foreign-squared claims
+involving U.S. investors who purchased a foreign company’s ordinary shares on the Swiss
+Exchange. See DB at 15-16, 22. Defendants also cite Stackhouse v. Toyota Motor Co., 2010
+WL 3377409 (S.D. Cal. Jul. 16, 2010), which denied lead plaintiff status to U.S. investors who
+purchased shares of Toyota on a foreign exchange, see DB at 16, and interpreted Morrison’s use
+of the term “domestic transactions” as meaning “purchases and sales of securities explicitly
+solicited by the issuer within the United States rather than transactions in foreign-traded
+securities where the ultimate purchaser or seller has physically remained in the United States.”
+2010 WL 3377409, at *1. Plaintiffs respectfully disagree with the district courts’ holdings in
+these cases. Both the Cornwell and Stackhouse courts applied an overly broad interpretation of
+the Supreme Court’s holding in Morrison. For example, in Cornwell, the court found that “read
+as a whole, the Morrison opinions indicate that the Court considered that under its new test
+§10(b) would not extend to foreign securities trades executed on foreign exchanges even if
+purchased or sold by American investors, and even if some aspects of the transaction occurred in
+the United States.” 2010 WL 3069597, at *5. Similarly, in Stackhouse, the court stated that
+domestic transactions “means purchases and sales of securities explicitly solicited by the issuer
+within the United States rather than transactions in foreign-traded securities where the ultimate
+purchaser or seller has physically remained in the United States.” 2010 WL 3377409, at *1.
+However, Morrison simply held that “Section 10(b) reaches the use of a manipulative or
+
+37
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 44 of 47
+
+deceptive device or contrivance only in connection with the purchase or sale of a security listed
+on an American stock exchange, and the purchase or sale of any other security in the United
+States.” 130 S. Ct. at 2888. Instead of applying that holding, the court in Cornwell improperly
+blurred the distinction between the Supreme Court’s majority opinion in Morrison and the
+concurrence by Justice Stevens.
+
+The Cornwell court reasoned that, since the majority in
+
+Morrison did not implicitly address Justice Stevens’ concurrence — which interpreted the
+majority’s holding as barring § 10(b) claims of U.S. investors who purchased shares in a
+company listed only on a foreign exchange – the majority had considered and implicitly
+sanctioned that interpretation of the reach of its opinion. 2010 WL 3069597, at *5. That
+reasoning, however, is not only an unwarranted expansion of the holding in Morrison,25 but it
+also narrows the geographical reach of the Exchange Act’s protections beyond that which would
+have otherwise occurred under analogous state and common law choice of law principles. For
+example, courts have regularly found that in-state residents may rely on the protection of state
+deceptive practice laws even if those laws do not apply “extraterritorially.”26 This narrowing,
+
+25
+
+Prior Supreme Court decisions have rejected the position that silence by the majority implies
+an adoption of positions espoused in a concurrence. For example, in Rakas v. Illinois, 439 U.S.
+128 (1978), the Court held that passengers who did not assert a property interest in the
+automobile searched or the evidence seized, and failed to show that they had any legitimate
+expectation of privacy, did not have standing to challenge a search and seizure on Fourth
+Amendment grounds. The Court’s majority opinion, however, did not address the broader
+statement made by Justice Powell in his concurrence, that “passengers in automobiles have no
+Fourth Amendment right not to be ordered from their vehicle, once a proper stop is made.” Id. at
+155 n.4. Later, in Maryland v. Wilson, 519 U.S. 408, 412-13 (1997), a majority of the Court
+subsequently rejected Justice Powell’s interpretation of the majority in Rakas as non-binding
+dicta, and decided de novo the issue of whether passengers in vehicles are protected by the
+Fourth Amendment during police searches. Thus, Rakas and Wilson demonstrate that when a
+majority opinion of the court does not address an interpretation of the law set forth in a
+concurring opinion, that silence does not amount to an endorsement of the concurrence’s
+interpretation.
+26
+
+Stackhouse did not even address Justice Stevens’ concurrence and the decision was only
+preliminary because it was rendered in connection with a lead plaintiff application. See 2010
+
+38
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 45 of 47
+
+which the majority in Morrison was unwilling to endorse, is wholly at odds with the statement of
+Congress’s purposes in Section 2 of the Act, and with the overwhelming weight of authority
+interpreting the Act. As this Court recently held in Anwar v. Fairfield Greenwich Ltd., No. 090118 (VM), 2010 WL 3022848 (S.D.N.Y. July 29, 2010), it is a usual canon of statutory
+construction that statutes are interpreted to be consistent with the common law, particular where,
+as here, the legislature was acting to protect the public. Id. at *3.
+
+WL 3377409, at *1 (“[T]his is not a final determination of the issue and Plaintiffs are not
+foreclosed from arguing that domestic purchasers of Toyota common stock have claims under §
+10(b)….”).
+On reply, Defendants may point to Judge Berman’s recent decision in In re Societe Generale
+Securities Litigation, No. 08 Civ. 2495, 2010 WL 3910286 (S.D.N.Y. Sept. 29, 2010), which
+dismissed the claims of U.S. purchasers of a French company’s securities on a foreign exchange
+because the court concluded that the plaintiffs there were attempting to improperly resurrect the
+Second Circuit’s conduct test. See id. at *6 (“By asking the court to look to the location of the
+act of placing a buy order, and to the place of the wrong, Plaintiffs are asking the Court to apply
+the conduct test specifically rejected in Morrison.”). Respectfully, however, Judge Berman
+misconstrued the conduct test in concluding that the plaintiffs were trying to resurrect it. By
+asking the court, in connection with examining the definition of “purchase” under the Exchange
+Act, to recognize that a U.S. citizen places a buy order within U.S. borders, neither the plaintiffs
+in Societe Generale nor Plaintiffs here are seeking application of the conduct test. Indeed, the
+conduct test examined whether the U.S.-based conduct of defendants directly caused plaintiffs’
+losses. The location of the conduct of the investor-victims of the securities fraud was not
+relevant to whether the conduct test was satisfied. Thus, Societe Generale was wrongly decided.
+Similarly, Judge Koeltl’s recent decision in Plumbers’ Union Local No. 12 Pension Fund v.
+Swiss Reinsurance Co., No. 08 Civ. 1958, 2010 WL 3860397 (S.D.N.Y. Oct. 4, 2010), which
+dismissed the claims of U.S. citizens who purchased a Swiss company’s stock on the Swiss
+Stock Exchange, is inapposite because the court there specifically relied on Societe Generale’s
+erroneous interpretation that the plaintiffs were attempting to resurrect the conduct test, id. at *8.
+Moreover, in Swiss Reinsurance, unlike here, the Swiss company’s shares were not dually-listed
+on a U.S. exchange. See id. at *2 (“[T]he only stock exchange on which Swiss Re common
+stock was listed [and traded] was the SWX Stock Exchange….).”
+
+39
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 46 of 47
+
+Case 1:07-cv-11225-RJS Document 160
+
+Filed 10/18/10 Page 47 of 47
+
+CERTIFICATE OF SERVICE
+The undersigned, hereby certifies that on this date, the LEAD PLAINTIFFS’
+MEMORANDUM OF LAW IN OPPOSITION TO UBS DEFENDANTS’ MOTION TO
+DISMISS CLAIMS BASED ON PURCHASES OF UBS SHARES OUTSIDE THE
+UNITED STATES and the accompanying Declaration of Geoffrey C. Jarvis were served
+upon the individuals registered for the Court’s CM/ECF system in case No. 07-CV-11225, and
+was additionally sent via first class mail and email to:
+
+Robert J. Giuffra , Jr.
+Sullivan & Cromwell LLP
+125 Broad Street
+New York, NY 10004
+
+Dated: October 18, 2010
+
+/s/ Geoffrey C. Jarvis
+Geoffrey C. Jarvis
+485 Lexington Avenue, 29th Floor
+New York, NY 10017
+Tel: (646) 722-8500
+Fax: (646) 722-8501
+
+

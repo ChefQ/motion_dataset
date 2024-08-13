@@ -1,0 +1,18 @@
+#!/bin/bash
+
+python3 folder2scv.py --folder_path $1 --csv_type "both" 
+#python3 folder2scv.py --folder_path $1 --csv_type "both" --summarize
+#mv summariz*csv summarized/dataset
+mv testset.csv paired_testset.csv unsummarized/dataset
+ln unsummarized/dataset/* unsummarized/test_data
+#ln summarized/dataset/* summarized/test_data
+(cd unsummarized; python3 ./experiments.py)
+#(cd summarized; python3 ./experiments.py)
+(cd unsummarized/permotion; ./permotion.bash)
+#(cd summarized/permotion; ./permotion.bash)
+(cd unsummarized/llm; ./llm.bash)
+#(cd summarized/llm; ./llm.bash)
+(ln unsummarized/dataset/* unsummarized/test_data)
+#(ln summarized/dataset/* summarized/test_data)
+(cd unsummarized; python3 ./predictAll.py)
+#(cd summarized; python3 ./predictAll.py)

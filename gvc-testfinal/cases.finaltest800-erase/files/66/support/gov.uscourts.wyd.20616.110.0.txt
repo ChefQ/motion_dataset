@@ -1,0 +1,1376 @@
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 1 of 32
+
+Traci L. Van Pelt, Wyo. Bar #6-4330
+Michael T. McConnell, Wyo. Bar #5-2942
+Jared C. Lockwood, Pro Hac Vice
+McConnell Fleischner Houghtaling &
+Craigmile, LLC
+4700 S. Syracuse Street, Suite 200
+Denver, CO 80237
+(303) 480-0400 - Phone
+(303) 458-9520 – Facsimile
+tvanpelt@mfhc.com
+mmcconnell@mfhc.com
+jlockwood@mfhc.com
+Attorneys for Defendant Secore & Waller, LLP
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF WYOMING
+
+NAOMI L. MILES REVOCABLE TRUST,
+NAOMI L. MILES, TRUSTEE, and
+CHARLES W. MILES, JR. TRUST,
+NAOMI L. MILES, TRUSTEE,
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+Plaintiffs,
+v.
+
+CASE NO. No. 2:10-cv-00034-WFD
+
+DENNIS R. LAWRENCE, et al.
+
+DEFENDANT SECORE & WALLER, LLP’S
+MEMORANDUM IN SUPPORT OF ITS MOTION TO DISMISS PURSUANT TO FED.
+R. CIV. P. 12(b)(6)
+
+1
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 2 of 32
+
+TABLE OF CONTENTS
+I.
+
+INTRODUCTION………………………………………………………………………1
+
+II.
+
+STATEMENT OF THE CASE…………………………………………………………2
+
+III.
+
+STATEMENT OF UNDISPUTED FACTS……………………………………………5
+
+IV.
+
+LEGAL ARGUMENT…………………………………………………………………..6
+A.
+
+Fed.R.Civ.P. 12(b)(6) Standards………………………………………………..7
+
+B.
+
+Overview of Federal Securities Law……………………………………………8
+
+C.
+
+Plaintiffs’ Claims Against Secore & Waller Under 15 U.S.C. §78j(b) and 17
+C.F.R. §240.10b-5 Must Be Dismissed…………………………………………9
+
+D.
+
+a.
+
+Secore & Waller Cannot Be Liable Under 15 U.S.C. §78j(b) and 17
+C.F.R. §240.10b-5 for Merely Assisting in the Drafting of the Private
+Placement Memoranda……………………………………………………12
+
+b.
+
+Plaintiffs Have Failed to Plead Scienter Against Secore & Waller…….14
+
+c.
+
+Plaintiffs Have Not Alleged Reliance on the PPMs……………………..17
+
+d.
+
+Plaintiffs Cannot Establish Loss of Causation Against Secore &
+Waller………………………………………………………………………18
+
+Plaintiffs’ Fifth Claim For Relief Against Secore & Waller for Violation of
+the Wyoming Securities Act, WS §17-4-122(a), Must Be Dismissed……….19
+a.
+
+E.
+
+F.
+
+V.
+
+Plaintiffs’ Wyoming Securities Act Claim Regarding SR-4 is Barred by
+the Applicable Statute of Limitations……………………………………21
+
+Plaintiffs’ Eighth Claim For Relief Against “Defendants” (Assumingly
+Including Secore & Waller) for Fraud Must Be Dismissed………………….21
+a.
+
+Plaintiffs Failed to Plead Fraud With Particularity……………………..22
+
+b.
+
+Plaintiffs Have Alleged Fraud Generally Against All Defendants in
+Violation of PSLRA Requirements……………………………………….23
+
+Plaintiffs’ Tenth Claim For Relief Against “Defendants” (Assumingly
+Including Secore & Waller) for Negligence Must Be Dismissed………........23
+
+CONCLUSION…………………………………………………………………………25
+i
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 3 of 32
+
+TABLE OF AUTHORITIES
+
+Cases
+15 U.S.C. §78j ....................................................................................................................................................... 11, 12
+Alvarado v. KOB-TV, L.L.C., 493 F.3d 1210, 1215 (10th Cir.2007) ....................................................................... 3, 12
+Ashcroft v. Iqbal, --- U.S. ---, 129 S.Ct. 1937, 1949-50 , 173 L.Ed.2d 868 (2009) ................................................. 8, 18
+Bauchman v. West High Sch., 132 F.3d 542, 550 (10th Cir. 1997) ................................................................................8
+Bell Atlantic Corporation v. Twombly, 550 U.S. 544, 555, 127 S.Ct. 1955, 167 L.Ed.2d 929 (2007) .......... 8, 9, 10, 18
+Birt v. Wells Fargo Home Mortgage, Inc. 75 P.3d 640, 656 (Wyo. 2003) ............................................................ 26, 28
+Blue Chip Stamps v. Manor Drug Stores, 421 U.S. 723, 749, 95 S. Ct. 1917, 44 L.Ed.2d 539 (1975) .........................6
+Brooks v. Blue Cross & Blue Shield of Fla., Inc., 116 F.3d 1364, 1369 (11th Cir.1997) ..............................................4
+Brooks v. Zebre, 792 P.2d 196,202 (Wyo. 1990) ........................................................................................................ 26
+Bruschi v. Brown, 876 F.2d 1526, 1530 (11th Cir. 1989) ....................................................................................... 23, 24
+Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A., 511 U.S. 164, 177, 114 S.Ct. 1439, 128
+L.Ed.2d 119 (1994) ............................................................................................................................................ 12, 13
+City of Philadelphia v. Fleming Cos., 264 F.3d 1245, 1258 (10th Cir. 2001) ....................................................... 10, 20
+County of Santa Fe, N.M. v. Public Service Co. of New Mexico, 311 F.3d 1031, 1035 (10th Cir.2002) ......................3
+Dura Pharmaceuticals, Inc. v. Broudo, 544 U.S. 336, 341-342, 125 S.Ct. 1627, 161 L.Ed.2d 577 (2005) .......... 13, 19
+Durgin v. Mon, 659 F. Supp. 2d 1240, 1255, (S.D. Fla. 2009) .............................................................................. 20, 21
+Ernst & Ernst v. Hochfelder, 425 U.S. 185, 194 n. 12, 96 S. Ct. 1375, 47 L. Ed. 2d 668 (1976) ......................... 19, 21
+Farlow v. Peat, Marwick, Mitchell & Co., 950 F.2d 982, 986 (10th Cir. 1992) ..................................................... 13, 27
+GFF Corp. v. Associated Wholesale Grocers, Inc., 130 F.3d 1381, 1384 (10th Cir.1997) ...........................................4
+Greebel v. FTP Software, Inc., 194 F.3d 185, 195-96 (1st Cir. 1999) ......................................................................... 10
+Halliburton Co. v. Claypoole, 868 P.2d 252, 256 (Wyo.1994) ................................................................................... 26
+Helwig v. Vencor, Inc., 251 F.3d 540, 551 (6th Cir. 2001) (en banc) ......................................................................... 10
+Herman & MacLean v. Huddleston, 459 U.S. 375, 103 S. Ct. 683, 74 L. Ed. 2d 548 (1983) ................... 11, 12, 19, 23
+Holowecki v. Fed. Express Corp., 440 F.3d 558, 565-66 (2d Cir.2006)........................................................................3
+Huddleson v. Herman & MacLean, 640 F.2d 534, 549 (5th Cir. 1981) ....................................................................... 23
+In re Estate of Drwenski, 83 P.3d 457, 461 (Wyo. 2004) ...................................................................................... 29, 30
+In re Kendall Square Research Corporation Securities Litigation, 868 F. Supp. 26, 28 (D.Mass.1994) .................... 14
+In re MTC Electronic Technologies Shareholders Litigation, 898 F. Supp. at 987) ................................................... 14
+In re Navarre Corp. Sec. Litig., 299 F.3d 735, 741 (8th Cir. 2002) ............................................................................ 10
+In re Refco, Inc. Sec. Litig., 609 F.Supp.2d 304 (S.D.N.Y. 2009) ............................................................................... 16
+In re Stac Electronics Securities Litigation, 89 F.3d 1399, 1405 n. 4 (9th Cir.1996)....................................................3
+Koch v. Koch Industries, Inc., 203 F.3d 1202, 1236 (10th Cir.2000) .......................................................................... 27
+Kushner v. Beverly Enters., Inc., 317 F.3d 820, 827 (8th Cir. 2003)........................................................................... 10
+Lavoie v. Safecare Health Service, Inc., 840 P.2d 239, 252 (Wyo.1992) .................................................................... 26
+Leipham v. Adams, 77 Wash.App. 827, 832, 894 P.2d 576 (1995) ............................................................................. 29
+Marchant v. Cook, 967 P.2d 551,554 (Wyo. 1998) ..................................................................................................... 26
+Mizzaro v. Home Depot, Inc., 544 F.3d 1230, 1238 (11th Cir. 2008) ......................................................................... 19
+Moore v. Guthrie, 438 F.3d 1036, 1039 (10th Cir. 2006) ...............................................................................................8
+Moore v. Lubnau, 855 P.2d 1245, 1248 (Wyo. 1993) ................................................................................................. 28
+Pace v. Swerdlow, 519 F.3d 1067, 1072 (10th Cir.2008) ..............................................................................................3
+Pacific Inv. Management Co. LLC v. Mayer Brown, LLP, 603 F.3d 144, 148 (2nd Cir. 2010).............................passim
+Papasan v. Allain, 478 U.S. 265, 286, 106 S.Ct. 2932, 92 L.Ed.2d 209 (1986) ............................................................8
+Peay v. BellSouth Medical Assistance Plan, 205 F.3d 1206 (10th Cir. 2000) ................................................................1
+Phillips v. Bell, 265 Fed. Appx. 133, 138 (10th Cir. 2010) ...........................................................................................9
+Pinter v. Dahl, 486 U.S. 622, 108 S.Ct. 2063, 100 L.Ed.2d 658 ................................................................................. 28
+Ravenswood Inv. Co., v. Bishop Capital Corp., 374 F. Supp. 2d 1055, 1065 (D. Wyo. 2005) ............................. 24, 26
+Robbins v. Oklahoma, 519 F. 3d 1242, 1246 (10th Cir. 2008) ......................................................................................9
+Schuler v. Community First National Bank, 999 P.2d 1303, 1306 (Wyo.2000) .......................................................... 29
+Seattle-First National Bank v. Carlstedt, 800 F.2d 1008, 1011 (10th Cir.1986) ......................................................... 27
+SEC v. Wolfson, 539 F.3d 1249, 1257-1259 (10th Cir. 2008) ................................................................................ 13, 15
+Shapiro v. Cantor, 123 F.3d 717 (2d Cir.1997) ............................................................................................... 13, 14, 15
+
+ii
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 4 of 32
+
+Southland Securities Corp. v. Inspire Ins. Solutions, 365 F.3d 353, 365 (5th Cir. 2004) ............................................. 28
+State v. Nelson, 49 P.3d 185, 188 (Wyo. 2002) ........................................................................................................... 25
+Stoneridge Inv. Partners, LLC v. Scientific-Atlanta, 552 U.S. 148, 156-157, 128 S. Ct. 761, 768, 169 L. Ed. 2d 627
+(2008) .................................................................................................................................................... 11, 12, 13, 22
+Strait v. Kennedy, 103 Wash.App. 626, 13 P.3d.......................................................................................................... 29
+Superintendent of Ins. of N.Y. v. Bankers Life & Casualty Co., 404 U.S. 6, 13, n. 9, 92 S.Ct. 165, 30 L.Ed.2d 128
+(1971) ...................................................................................................................................................................... 11
+Tal v. Hogan, 453 F.3d 1244, 1263 (10th Cir.2006) ................................................................................................... 27
+Tellabs, Inc. v. Makor Issues & Rights, Ltd., 551 U.S. 308, 321, 127 S. Ct. 2499, 2508, 168 L. Ed. 2d 179 (2007) .19,
+20, 21
+Trask v. Butler, 123 Wash.2d 835, 845, 872 P.2d 1080 (1994) ................................................................................... 29
+Unity House, Inc. v. North Pacific Investments, Inc., 918 F. Supp. 1384, 1389 (D. Ct. Hawaii 1996) .........................6
+Utah Gospel Mission v. Salt Lake City Corp., 425 F.3d 1249, 1253-54 (10th Cir.2005) ..............................................3
+Vosgerichian v. Commodore International, 862 F. Supp. 1371, 1378 (E.D.Pa.1994)................................................. 14
+Willmschen v. Meeker, 750 P.2d 669, 672 (Wyo. 1988).............................................................................................. 26
+Wright v. Ernst & Young, LLP, 152 F.3d 169, 176 (2nd Cir. 1998) ............................................................................. 14
+Wyo. Stat. Ann. §17-4-122 .......................................................................................................................................... 25
+Ziemba v. Cascade International, Inc., 256 F.3d 1194, 1202 (11th Cir. 2001) ........................................................... 20
+
+Statutes
+15 U.S.C. §78j(b)..................................................................................................................................................passim
+15 U.S.C. §78u-4(b)(1); and (2) .................................................................................................................................. 15
+17 C.F.R. §240.10b-5 ...........................................................................................................................................passim
+17 CFR 230.501 et seq ..................................................................................................................................................4
+Private Securities Litigation Reform Act of 1995, Pub.L. No. 104-67, 109 Stat. 737 ....................................... 8, 15, 23
+Securities Exchange Act of 1934 ........................................................................................................................... 12, 21
+Wyo. Stat, Ann. §17-4-113 (a)(ix)(B) ......................................................................................................................... 20
+Wyo. Stat. Ann §17-4-122(a)(ii) ................................................................................................................................. 20
+Wyo. Stat. Ann. §17-4-133 (a)(ix)(A) ......................................................................................................................... 20
+Wyo. Stat. Ann. 17-4-122(e) ....................................................................................................................................... 21
+Wyoming Securities Act, WS §17-4-122(a) .......................................................................................................... 19, 20
+Wyoming Statute §17-4-101, et seq. ........................................................................................................................... 19
+
+Rules
+FED. R. CIV. P. 12(b)(2) .................................................................................................................................................1
+Federal Rule of Civil Procedure 8(a)(2) ........................................................................................................................8
+Rule 9(b) ...................................................................................................................................................................... 22
+Wyo. R. Civ. P. 12(b)(6) ............................................................................................................................................. 21
+
+iii
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 5 of 32
+
+EXHIBITS
+Exhibit 1 – Private Placement Memorandum (“PPM”) for the SR-4 offering
+Exhibit 2 – Private Placement Memorandum (“PPM”) for the SR-12 offering
+
+iv
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 6 of 32
+
+I. INTRODUCTION 1
+Plaintiffs have filed an 83-page complaint against 19 Defendants. As against Defendant
+Secore & Waller, LLP (“Secore & Waller), a small Texas law firm, Plaintiffs have pled four
+causes of action: (1) Count 1 – Securities Fraud under 15 U.S.C. §78j(b) and 17 C.F.R.
+§240.10b-5; (2) Count 5 – Securities Fraud and aiding and abetting under the Wyoming
+Securities Act; (3) Count 8 – common law fraud; and (4) Count 10 – Common law negligence.
+Complaint ¶¶ 205-208 & 251-218. The overwhelming majority of the allegations in Plaintiffs’
+Complaint do not relate in any way to Secore & Waller.
+Plaintiffs are The Naomi Miles Revocable Trust, Naomi Miles, Trustee (“the Miles Trust)
+and the Charles W. Miles, Jr. Trust, Naomi Miles Trustee (“the Credit Trust”). The gravamen of
+Plaintiffs’ claims against Secore & Waller is the Trusts purchase of preferred stock in two
+corporations, Shale Royalties 4, Inc. (“SR-4”), and Shale Royalties 12, Inc. (“SR-12”). SR-4 and
+SR-12 were oil and gas lease acquisition and development corporations. Provident Royalties,
+LLC (“Provident”), the parent of SR-4 and SR-12, retained Secore & Waller to draft the Private
+Placement Memorandum (“PPM”) for the SR-4 and SR-12 offerings. Is it undisputed that
+Secore & Waller is not identified in the PPM. It is undisputed that the PPM does not contain any
+false statements. It is undisputed that Secore & Waller did not sell, nor offer to sell, stock in SR4 and SR-12 to Plaintiffs (or anyone else for that matter).
+Plaintiffs’ claims center on the Trusts' investment advisors, Defendants Lawrence and
+Pope and their various investment entities. Plaintiffs claim that Defendants Lawrence and Pope
+got them into risky, illiquid, bad investments, unsuitable for the two Trusts. These include such
+far ranging investments as a Miami Beach hotel, to bundled promissory notes made by
+healthcare providers, to campaign media holdings. Indeed, one of Plaintiffs’ core allegations is
+their financial advisors recommended sham loans between the trusts to create the false
+1
+
+While the first procedural step in assessing any claims against Secore & Waller is the
+evaluation of personal jurisdiction pursuant to FED. R. CIV. P. 12(b)(2) and governing Tenth
+Circuit authority, Peay v. BellSouth Medical Assistance Plan, 205 F.3d 1206 (10th Cir. 2000),
+this Court has requested all substantive motions to be filed on August 25, 2010, including any
+motions under FED. R. CIV. P. 12(b)(6). Under Peay, this Court lacks personal jurisdiction over
+Secore & Waller. That issue has been fully briefed by Secore & Waller in its Motion to Dismiss
+under FED. R. CIV. P. 12(b)(2) for lack of personal jurisdiction (Docket # 72).
+Without
+consenting to this Court’s personal jurisdiction over Secore & Waller, and subject to its
+jurisdictional motions, Secore & Waller now moves to dismiss all claims against it under FED. R.
+CIV. P. 12(b)(6) for failure to state a claim upon which relief can be granted.
+1
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 7 of 32
+
+appearance of being an accredited investor. It is undisputed that none of these sham loans or
+resultant investments relate to Secure & Waller in any way.
+Plaintiffs have made the tactical decision to take their relatively straightforward case
+against their financial advisers and tack on a mish-mash of defendants with varying alleged
+connections to the four groups of high-risk investments. One of the four groups of high-risk
+investments is labeled in the Complaint as “Provident Royalties LLC Offerings” which are the
+Trusts’ purchases of stock in SR-4 and SR-12. Complaint, ¶¶ 40-44. Plaintiffs allege they lost
+$230,000 on Provident offerings. Complaint, ¶ 43. Plaintiffs elected not to sue Provident or any
+of its principals or subsidiaries. Rather, the only defendant with an alleged connection to
+Provident that Plaintiffs elected to sue (other than their financial advisers who sold it to them) is
+Secore & Waller.
+Secore & Waller is located in Texas. It is not alleged that Plaintiffs have ever been
+clients of Secore & Waller or that Secore & Waller had any contact of any kind with the
+Plaintiffs. Secore & Waller’s drafting of the PPM for SR-4 and the PPM for SR-12 are the sole
+bases for the claims against Secore & Waller.
+Importantly, the Complaint does not allege that Mrs. Miles ever read the PPMs for either
+SR-4 or SR-12. In fact, the Complaint fails to allege that Mrs. Miles ever received a PPM for
+SR-4. The Complaint fails to allege she ever read the PPM for SR-12. Secore & Waller’s name
+does not appear anywhere in either PPM. In fact, the Complaint alleges that Mrs. Miles first
+became aware that Secore & Waller drafted the PPMs well after her Trusts purchased the stock.
+Further, the SR-4 and SR-12 offerings were limited to accredited investors and Plaintiffs
+claim it was only after a sham loan between the Trusts that one Trust, The Credit Trust, was able
+to buy the SR-4 and SR-12 stock. Secore & Waller was not involved with the sham loans in any
+way. In short, at the time Plaintiffs made their investments, they: (1) did not know of the PPMs
+and had not read them; and (2) did not know whether Secore & Waller had drafted any portion of
+the PPMs. As a matter of law, Plaintiffs did not rely upon Secore & Waller in making the SR-4
+and SR-12 investments. There is no allegation against Secore & Waller upon which relief can be
+granted.
+II.
+
+STATEMENT OF THE CASE
+
+Provident and SR-4 and SR-12 hired Secore & Waller to draft PPMs for the private
+offerings. Compl. ¶ 28. The PPMs – and alleged omissions – form the sole bases for the claims
+
+2
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 8 of 32
+
+against Secore & Waller. Plaintiffs refer to the PPM throughout their Complaint; however, they
+failed to attach the PPMs to the Complaint. Under a long line of venerable Tenth Circuit
+authority, when a document is central to a plaintiff's claims, its authenticity is not in question,
+and it is referred to and quoted in the Complaint, a court may consider the document without
+converting a defendant’s Rule 12(b)(6) motion into a motion for summary judgment. See
+Alvarado v. KOB-TV, L.L.C., 493 F.3d 1210, 1215 (10th Cir.2007); County of Santa Fe, N.M. v.
+Public Service Co. of New Mexico, 311 F.3d 1031, 1035 (10th Cir.2002); Utah Gospel Mission v.
+Salt Lake City Corp., 425 F.3d 1249, 1253-54 (10th Cir.2005), quoted in Pace v. Swerdlow, 519
+F.3d 1067, 1072 (10th Cir.2008). See also Holowecki v. Fed. Express Corp., 440 F.3d 558, 56566 (2d Cir.2006) (applying same rule to consider plaintiff's filings with EEOC in deciding
+motion to dismiss ADEA claims as untimely), aff'd, 128 S.Ct. 1147 (2008).
+Particularly in securities actions, courts often look to materials outside the pleadings in
+order to determine Rule 12(b)(6) motions. Courts routinely consider public filings at the motion
+to dismiss stage. See, e.g., In re Stac Electronics Securities Litigation, 89 F.3d 1399, 1405 n. 4
+(9th Cir.1996) (district court’s consideration of prospectus text, including portions not mentioned
+in the complaints, was appropriate at the motion to dismiss stage and did not convert the motion
+to one for summary judgment). It is accepted practice that, “if a plaintiff does not incorporate by
+reference or attach a document to its complaint, but the document is referred to in the complaint
+and is central to plaintiff's claim, a defendant may submit an indisputably authentic copy to the
+court to be considered on a motion to dismiss.” GFF Corp. v. Associated Wholesale Grocers,
+Inc., 130 F.3d 1381, 1384 (10th Cir.1997); see also Brooks v. Blue Cross & Blue Shield of Fla.,
+Inc., 116 F.3d 1364, 1369 (11th Cir.1997) (“[W]here the plaintiff refers to certain documents in
+the complaint and those documents are central to the plaintiff's claim, ... the Court may consider
+the documents part of the pleadings for purposes of Rule 12(b)(6) dismissal, and the defendant’s
+attaching such documents to the motion to dismiss will not require conversion of the motion into
+a motion for summary judgment.”) (Citation omitted). “If the rule were otherwise, a plaintiff
+with a deficient claim could survive a motion to dismiss simply by not attaching a dispositive
+document upon which the plaintiff relied.” See GFF, 130 F.3d at 1385.
+Here, Plaintiffs claims' against Secore & Waller are based upon the PPMs for SR-4 and
+SR-12. The focus of Plaintiffs’ claim is the allegation that the PPMs failed to disclose that SR-4
+and SR-12 did not have audited financial statements. Compl. ¶ 123. However, that allegation is
+
+3
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 9 of 32
+
+false and is directly contradicted by the disclosures actually made in the PPMs. The PPMs are
+25 pages long, excluding exhibits. For both SR-4 and SR-12, the PPMs state the following:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+The corporation was recently incorporated.
+The corporation had no prior activities.
+The corporation had no significant assets.
+The corporation had no current cash flow.
+The corporation had no balance sheets.
+The corporation had no financial information at all for investors to review.
+The investments were “high risk” and suitable only for persons of substantial
+financial means who have no need for liquidity and who can afford to lose their
+entire investment.
+The corporation was a start-up enterprise and may have cash flow problems.
+The corporation had no operating history on which investors may base an
+evaluation of potential future performance.
+Investors should retain their own legal or financial advisors about whether to
+invest in the corporations.
+Information regarding the performance of prior oil and gas related investment
+funds managed or financed by affiliates of the corporation was provided in an
+exhibit (SR-12 only; SR-4 was one of the first offerings).
+Additional information could be obtained from the management of the
+corporation upon request.
+Approximately 86% of the proceeds of the offering, after payment of expenses,
+fees and commissions, would “be used to implement the Corporation’s plan of
+business.”
+While proceeds would be used primarily to acquire oil and gas properties, the
+proceeds could also be used to pay overhead and administrative expenses and
+might include the payment of intangible costs which might not result in the
+acquisition of an asset.
+
+Exhibits 1 and 2, PPM for SR-4 and SR-12 at pp. i, ii, 1, 9, 18, and 23.
+The PPMs stated – in bold-faced and ALL CAPS on the very first page:
+AN INVESTMENT IN THE PREFERRED STOCK INVOLVES A HIGH
+DEGREE OF RISK. ONLY THOSE PERSONS WHO HAVE THE
+FINANCIAL ABILITY AND WILLINGNESS TO ACCEPT SUCH RISK
+SHOULD CONSDIER INVSETING IN THE PREFRRD STOCK. SEE
+“RISK FACTORS.”
+Ex. 1 and 2, PPMs at p. i.
+The “Risk Factors” take up four pages of each PPM. Ex. 1 and 2, pp. 11-15. The
+investors in SR-4 and SR-12 had to be “accredited investors” as that term is defined in 17 CFR
+230.501 et seq. Ex. 1 and 2, PPMs at p. i. Only the Miles Trust was an accredited investor able
+to purchase Shale Royalties investments. Compl. ¶ 60.
+4
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 10 of 32
+
+Plaintiffs now contend that SR-4 and SR-12 were Ponzi schemes. Compl. ¶28. They
+contend that Secore & Waller should have disclosed that SR-4 and SR-12 did not have audited
+financial statements and that therefore, SR-4 and SR-12 may be Ponzi schemes. Compl. ¶ 119.
+These allegations are nothing more than conclusory, self-serving statements. They are woefully
+insufficient to state a claim under Rule 12(b)(6) and federal and state substantive law.
+III.
+
+STATEMENT OF UNDISPUTED FACTS
+
+Naomi Miles is the sole trustee of both the Miles Trust and the Credit Trust. Complaint
+¶¶ 7-8. The Miles Trust satisfied the requirements of an “accredited investor”, thereby enabling
+it to purchase the SR-4 and SR-12 stock. Complaint ¶ 60. The Credit Trust did not meet the
+requirements of an “accredited investor”, thereby precluding it from purchasing SR-4 and SR-12
+offerings. Id. There is no allegation that the Credit Trust actually purchased any stock in SR-4
+or SR-12. Thus, only the Miles Trust can assert a claim against Secore & Waller. 2
+Secore & Waller is a Texas limited liability partnership and law firm maintaining a
+principal place of business in Dallas, Texas. Complaint ¶ 28. Secore & Waller prepared the
+PPMs for SR-4 and SR-12. Id. Secore & Waller did not provide investment advice, legal
+advice, or have any communications whatsoever with Plaintiffs. Compl. passim.
+The Miles Trust purchased the following investments, relevant to this Motion, on or
+about the following dates and in the following amounts: (1) SR-4 preferred stock in the amount
+of $50,000 on July 2, 2007; (2) SR-12 preferred stock (series A) in the amount of $40,000 on
+June 16, 2008; (3) SR-12 preferred stock (series B) in the amount of $40,000 on June 16, 2008.
+Complaint ¶ 61.
+2
+
+Plaintiffs have failed to allege that the Credit Trust purchased any of the SR securities at issue
+here. Complaint, ¶¶ 1, 61-62. Rather, the Complaint alleges The Credit Trust (not an
+“accredited investor” with the ability to purchase the Provident stock offerings), through sham
+loans to the Miles Trust (an “accredited investor” with the ability to purchase the Provident stock
+offerings) purchased SR-4 preferred stock in the amount of $100,000 on July 2, 2007.
+Complaint ¶ 61. “Only a purchaser or seller of securities has standing to bring an action under
+Section 10(b) and Rule 10b-5.” Blue Chip Stamps v. Manor Drug Stores, 421 U.S. 723, 749, 95
+S. Ct. 1917, 44 L.Ed.2d 539 (1975). Plaintiffs’ allegations that the Credit Trust made loans to
+the Miles Trust, and then the Miles Trust purchased the securities at issue does not confer
+standing upon the Credit Trust to bring any claims against Lawrence. See Unity House, Inc. v.
+North Pacific Investments, Inc., 918 F. Supp. 1384, 1389 (D. Ct. Hawaii 1996) (Court found
+customer did not have standing to sue under Section 10(b) or Rule 10b-5 for money that had
+been fraudulently converted from customer and used to purchased securities.) Accordingly, the
+Credit Trust cannot assert a claim against Secore & Waller related to the purchase of SR-4 stock.
+5
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 11 of 32
+
+The Credit Trust (not an “accredited investor” with the ability to purchase the Provident
+stock offerings), through sham loans to the Miles Trust (an “accredited investor” with the ability
+to purchase the Provident stock offerings) allegedly “purchased” (for lack of a better word) the
+following investments, relevant to this Motion, on or about the following dates and in the
+following amounts: (1) SR-4 preferred stock in the amount of $100,000 on July 2, 2007.
+Complaint ¶ 61. Secore & Waller was not involved in the sham loan in any way. Complaint ¶
+82 subparagraphs b & c.
+Plaintiffs do not allege that Naomi Miles ever received a PPM related to the Miles Trust’s
+purchase of $50,000 of SR-4 stock or the Credit Trust’s (through sham loans to the Miles Trust)
+purchase of $100,000 of SR-4 stock. Complaint ¶¶ 61, 82-83. Plaintiffs allege that Miles
+received a PPM from her brokers for the SR-12 offering, yet do not specify when Miles received
+this PPM. Complaint ¶ 98. Plaintiffs do not allege that Ms. Miles read the PPM for SR-4 or SR12 or relied upon the PPMs in purchasing the stock. Compl., ¶ 99. Rather, Plaintiffs allege that
+“[a]s a direct and proximate result of [her brokers’] solicitation, on or about June 16, 2008, the
+Miles Trust purchased…” the SR-12 stock. Complaint ¶ 99.
+Further, the Complaint alleges that Plaintiffs may have first become aware that Secore &
+Waller drafted the PPMs well after the Trusts purchased the SR-4 and SR-12 stock. Plaintiffs
+allege that Miles may have first become aware that Secore & Waller might have drafted the
+PPMs for SR-4 and SR-12 from a November 14, 2008 due diligence report of Mick &
+Associates, Inc. for the Shale Royalties 19 offerings. Complaint ¶ 28a. (emphasis supplied)
+Plaintiffs never purchased Shale Royalties 19 offerings; rather the Trusts purchased only
+SR-4 and SR-12 offerings. Complaint ¶ 43. Further, Plaintiffs purchased the SR-4 and SR-12
+offerings on July 2, 2007 and June 16, 2008 respectively. Complaint ¶¶ 43 and 61. The
+Complaint concedes that Plaintiffs did not know that Secore & Waller drafted the PPMs until
+well after both the Credit Trust (through a sham loan to the Miles Trust) and the Miles Trust
+purchased the $230,000 in stock. Plaintiffs have not sued Provident, any of its principals or
+subsidiaries, or SR-4 and SR-12. Complaint ¶¶ 10-28. Rather Plaintiff has elected only to sue
+Secore & Waller.
+Secure & Waller is entitled to dismissal, with prejudice, of all claims.
+IV.
+
+LEGAL ARGUMENT
+
+Secore & Waller is simultaneously moving to dismiss the claims against it filed in the
+
+6
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 12 of 32
+
+consolidated case of The Martha W. Gibbs Rev. Trust, et al. v. Lawrence, et al., Civil Action No.
+2010-CV-0120-WFD. The arguments raised in that Motion are equally applicable to the case at
+bar, and the factual allegations only differ slightly. Secore & Waller incorporate by reference the
+arguments raised in the Gibbs Motion to Dismiss as if fully set forth herein.
+
+As relates
+
+specifically to the claims asserted by the Plaintiffs in the case at bar, Secore & Waller submit the
+following legal authority, which mandates dismissal of all claims against it.
+A. FED. R. CIV. P. 12(b)(6) STANDARDS
+Rule 12(b)(6) provides for dismissal of a Complaint for “failure to state a claim upon
+which relief can be granted.” FED. RULE CIV. P. 12(b)(6). When determining whether to dismiss
+a case for failure to state a claim pursuant to FED. R. CIV. PROC. 12(b)(6), only well-pleaded,
+nonconclusory factual allegations in the complaint are accepted as true and viewed in light most
+favorable to the nonmoving party. Ashcroft v. Iqbal, --- U.S. ---, 129 S.Ct. 1937, 1949-50 , 173
+L.Ed.2d 868 (2009); Moore v. Guthrie, 438 F.3d 1036, 1039 (10th Cir. 2006). Conclusory
+allegations will not be similarly treated, nor will arguments that extend beyond allegations
+contained in the complaint. Bauchman v. West High Sch., 132 F.3d 542, 550 (10th Cir. 1997).
+“The complaint itself must show [plaintiff] is ‘entitled to relief’ under each claim raised.” Id.
+As the Supreme Court stated in Iqbal:
+As the Court held in Twombly, 550 U.S. 544, 127 S.Ct. 1955, 167 L.Ed.2d 929,
+the pleading standard Rule 8 announces does not require “detailed factual
+allegations,” but it demands more than an unadorned, the-defendant-unlawfullyharmed-me accusation. Id., at 555, 127 S.Ct. 1955 (citing Papasan v. Allain, 478
+U.S. 265, 286, 106 S.Ct. 2932, 92 L.Ed.2d 209 (1986)). A pleading that offers
+“labels and conclusions” or “a formulaic recitation of the elements of a cause of
+action will not do.” 550 U.S., at 555, 127 S.Ct. 1955. Nor does a complaint
+suffice if it tenders “naked assertion[s]” devoid of “further factual enhancement.”
+Id., at 557, 127 S.Ct. 1955.
+Iqbal, 129 S. Ct. 1949.
+Pursuant to Bell Atlantic Corporation v. Twombly, 550 U.S. 544, 555, 127 S.Ct. 1955,
+167 L.Ed.2d 929 (2007), a complaint must allege, “more than labels and conclusions, and
+formulate the elements of a cause of action…”The alleged facts must “raise a right to relief
+above the speculative level.” Id. The Tenth Circuit has embraced and interpreted the standard
+set forth in Twombly:
+
+7
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 13 of 32
+
+Following Twombly, we determined that “plausibility,” as used by the Supreme
+Court referred to the scope of allegations in a complaint, and “if they are so
+general that they encompass a wide swath of conduct, and much of it innocent,
+then the plaintiffs have not nudged their claims across the line from conceivable
+to plausible.”
+Phillips v. Bell, 265 Fed. Appx. 133, 138 (10th Cir. 2010) citing Robbins v. Oklahoma, 519 F. 3d
+1242, 1246 (10th Cir. 2008). As the Tenth Circuit held in Phillips,
+While, generally, only the complaint and its allegations are considered in a motion
+to dismiss, documents referred to in the complaint may be considered at the
+motion-to-dismiss stage if they are “central to the plaintiff's claim” and their
+authenticity is undisputed. . . . In reviewing a motion to dismiss, it is important to
+note “Federal Rule of Civil Procedure 8(a)(2) provides that a complaint must
+contain ‘a short and plain statement of the claim showing that the pleader is
+entitled to relief.’” Robbins v. Oklahoma, 519 F.3d 1242, 1246 (10th Cir. 2008.
+In the past, we “generally embraced a liberal construction of [this] pleading
+requirement,” and held “a complaint containing only conclusory allegations could
+withstand a motion to dismiss unless its factual impossibility was apparent from
+the face of the pleadings....” Id. However, the Supreme Court has recently
+“clarified” this standard, stating that “to withstand a motion to dismiss, a
+complaint must contain enough allegations of fact ‘to state a claim to relief that is
+plausible on its face.’” Id. at 1247 (quoting Bell Atlantic Corp. v. Twombly, 550
+U.S. 544, 570, 127 S.Ct. 1955, 167 L.Ed.2d 929 (2007)). Specifically, “[f]actual
+allegations must be enough to raise a right to relief above the speculative level,”
+Twombly, 550 U.S. at 555, 127 S.Ct. 1955, so that “[t]he allegations must be
+enough that, if assumed to be true, the plaintiff plausibly (not just speculatively)
+has a claim for relief.”
+Id. at 138-139.
+For the reasons set forth below, Plaintiffs’ Complaint does not allege any clear set of
+plausible facts upon which relief can be granted, or any reasonably cognizable claim against
+Secore & Waller. Hence, Secore & Waller requests that all claims against the law firm be
+dismissed with prejudice.
+
+B. Overview of Federal Securities Law.
+The Private Securities Litigation Reform Act of 1995, Pub.L. No. 104-67, 109 Stat. 737,
+(the “PSLRA”) mandates a more stringent pleading standard for securities fraud actions in
+general, and for scienter allegations in particular. City of Philadelphia v. Fleming Cos., 264 F.3d
+1245, 1258 (10th Cir. 2001). The PSLRA, therefore, requires the Court to disregard all “catchall” or “blanket” assertions that do not live up to the particularity requirements of the statute. In
+
+8
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 14 of 32
+
+re Navarre Corp. Sec. Litig., 299 F.3d 735, 741 (8th Cir. 2002). Moreover, inferences of
+scienter must be both reasonable and strong to survive dismissal. Kushner v. Beverly Enters.,
+Inc., 317 F.3d 820, 827 (8th Cir. 2003); Helwig v. Vencor, Inc., 251 F.3d 540, 551 (6th Cir.
+2001) (en banc); Greebel v. FTP Software, Inc., 194 F.3d 185, 195-96 (1st Cir. 1999).
+
+C. Plaintiffs’ Claims Against Secore & Waller under 15 U.S.C. §78j(b) and 17 C.F.R.
+§240.10b-5 Must Be Dismissed
+Section 10(b) of the Securities Exchange Act makes it:
+unlawful for any person, directly or indirectly, by the use of any means or
+instrumentality of interstate commerce or of the mails, or of any facility of any
+national securities exchange ... [t]o use or employ, in connection with the
+purchase or sale of any security ... any manipulative or deceptive device or
+contrivance in contravention of such rules and regulations as the Commission
+may prescribe as necessary or appropriate in the public interest or for the
+protection of investors.
+15 U.S.C. §78j. Further, pursuant to this section, the SEC promulgated Rule 10b-5, which makes
+it unlawful
+(a) To employ any device, scheme, or artifice to defraud,
+(b) To make any untrue statement of a material fact or to omit to state a material
+fact necessary in order to make the statements made, in the light of the
+circumstances under which they were made, not misleading, or
+c) To engage in any act, practice, or course of business which operates or would
+operate as a fraud or deceit upon any person, “in connection with the purchase or
+sale of any security.”
+17 CFR §240.10b-5.
+The text of the Securities Exchange Act does not provide for a private cause of action for
+§10(b) violations. Stoneridge Inv. Partners, LLC v. Scientific-Atlanta, 552 U.S. 148, 156-157,
+128 S. Ct. 761, 768, 169 L. Ed. 2d 627 (2008) (citing Superintendent of Ins. of N.Y. v. Bankers
+Life & Casualty Co., 404 U.S. 6, 13, n. 9, 92 S.Ct. 165, 30 L.Ed.2d 128 (1971)). However, the
+Supreme Court has found a right of action implied in the words of the statute and its
+implementing regulation. Id. The implied private right of action under Rule 10b-5 was
+reaffirmed by the Supreme Court in Herman & MacLean v. Huddleston, 459 U.S. 375, 103 S. Ct.
+683, 74 L. Ed. 2d 548 (1983). The Court explained the relationship between the implied cause of
+
+9
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 15 of 32
+
+action under Section 10(b) of the 1934 Act and express liability under Section 11 of the 1933
+Act, as follows:
+Although limited in scope, Section 11 places a relatively minimal burden on a
+plaintiff. In contrast, Section 10(b) is a “catchall” antifraud provision, but it
+requires a plaintiff to carry a heavier burden to establish a cause of action. While a
+Section 11 action must be brought by a purchaser of a registered security, must be
+based on misstatements or omissions in a registration statement, and can only be
+brought against certain parties, a Section 10(b) action can be brought by a
+purchaser or seller of “any security” against “any person” who has used “any
+manipulative or deceptive device or contrivance” in connection with the purchase
+or sale of a security. 15 U.S.C. §78j (emphasis added). However, a Section 10(b)
+plaintiff carries a heavier burden than a Section 11 plaintiff. Most significantly, he
+must prove that the defendant acted with scienter, i.e., with intent to deceive,
+manipulate, or defraud.
+Herman & MacLean v. Huddleston, 459 U.S. 375, 382.
+Although an implied private right of action exists under §10(b) of 15 U.S.C. §78j,
+liability under 10(b) does not extend to aiders and abettors. Central Bank of Denver, N.A. v.
+First Interstate Bank of Denver, N.A., 511 U.S. 164, 177, 114 S.Ct. 1439, 128 L.Ed.2d 119
+(1994); and Stoneridge, 552 U.S. at 158. In Central Bank of Denver, N.A. v. First Interstate
+Bank of Denver, N.A., the Supreme Court ruled that aiding and abetting liability may not be
+imposed under Rule 10b-5. Rather, for secondary actors such as lawyers and accountants to be
+liable under Rule 10b-5, the Supreme Court held that all of the requirements for primary liability
+must be satisfied. Id. Hence a person bringing a private right of action against a secondary actor
+under §10(b) must allege that the conduct of the secondary actor satisfies each of the elements or
+preconditions to primary actor liability under §10(b). Stoneridge, 552 U.S. at 158.
+As such, to establish liability against any actor (primary or secondary) in a §10(b) private
+action a plaintiff must plead and prove: (1) a material misrepresentation or omission by the
+defendant; (2) scienter; (3) a connection between the misrepresentation or omission and the
+purchase or sale of a security; (4) reliance upon the misrepresentation or omission; (5) economic
+loss; and (6) loss causation. See Stoneridge Inv. Partners, LLC v. Scientific-Atlanta, 552 U.S.
+148, at 157 (citing Dura Pharmaceuticals, Inc. v. Broudo, 544 U.S. 336, 341-342, 125 S.Ct.
+1627, 161 L.Ed.2d 577 (2005)); see also Farlow v. Peat, Marwick, Mitchell & Co., 950 F.2d
+982, 986 (10th Cir. 1992).
+First, it is not clear that Plaintiffs are asserting any primary liability claims against Secore
+& Waller. To the extent they are, those claims must be dismissed. For a private litigant to
+10
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 16 of 32
+
+succeed on a claim for primary actor liability, it must prove that the statement on which the
+litigant relied was actually made by the defendant. As the Tenth Circuit explained in SEC v.
+Wolfson, 539 F.3d 1249, 1257-1259 (10th Cir. 2008)
+[T]he [Supreme] Court recognized that secondary actors could be held liable
+under the statute so long as they themselves made a material misstatement or
+omission (or committed some other fraudulent act), and each of the remaining
+elements of liability under §10(b) are satisfied.
+…
+[A] secondary actor cannot incur primary liability under the Act for a statement
+not attributed to that actor at the time of its dissemination. Such a holding would
+circumvent the reliance requirements of the Act.
+Id. (Internal citations omitted)
+As the Second Circuit explained in Shapiro v. Cantor, 123 F.3d 717 (2d Cir.1997), “[i]f
+Central Bank is to have any real meaning, a defendant must actually make a false or misleading
+statement in order to be held liable under Section 10(b). Anything short of such conduct is
+merely aiding and abetting, and no matter how substantial that aid may be, it is not enough to
+trigger liability under Section 10(b).” Shapiro, 123 F.3d at 720 (quoting In re MTC Electronic
+Technologies Shareholders Litigation, 898 F. Supp. at 987).
+Moreover, a third party’s review and approval of documents containing fraudulent
+statements is not actionable under Section 10(b) because one must make the material
+misstatement or omission in order to be a primary violator. Wright v. Ernst & Young, LLP, 152
+F.3d 169, 176 (2nd Cir. 1998); see, also, In re Kendall Square Research Corporation Securities
+Litigation, 868 F. Supp. 26, 28 (D.Mass.1994) (accountant's “review and approval” of financial
+statements and prospectuses insufficient); Vosgerichian v. Commodore International, 862 F.
+Supp. 1371, 1378 (E.D.Pa.1994) (allegations that accountant “advised” and “guid[ed]” client in
+making allegedly fraudulent misrepresentations insufficient).
+Here, Plaintiffs have not alleged that Secore & Waller made any material misstatements
+or omissions. Plaintiffs have alleged misstatements and omissions in the PPMs that are not
+attributed to Secore & Waller. Secore & Waller is not identified in anywhere the PPM. No
+statement within or outside the PPM is attributable to Secore & Waller. There is simply no basis
+for primary liability here. The same reasoning holds true for secondary actor liability.
+To the extent Plaintiffs are asserting claims of secondary liability against Secore &
+Waller, Plaintiffs have failed to plead the required elements of a §10(b) claim against Secore &
+
+11
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 17 of 32
+
+Waller in their Complaint. Specifically, under recent federal case law, Secore & Waller, as a
+secondary actor, cannot be liable for merely assisting in drafting the Private Placement
+Memoranda not attributed to Secore & Waller at the time of dissemination. See Pacific Inv.
+Management Co. LLC v. Mayer Brown, LLP, 603 F.3d 144, 148 (2nd Cir. 2010); accord, Shapiro,
+123 F.3d at 720; and SEC v. Wolfson, 539 F.3d at 1257-58 (10th Cir. 2008). Moreover, with
+respect to the §10(b) claims against Secore & Waller, Plaintiffs have failed to plead the required
+element of scienter. Plaintiffs have not alleged any facts demonstrating scienter. Plaintiffs have
+merely alleged that Secore & Waller "should have known" of the alleged risks presented by a
+lack of audited financial statements. Further, the facts as alleged do not establish a connection
+between the alleged misrepresentation or omission by Secore & Waller and the purchase of the
+Provident offerings, do not establish reliance on the SR-4 or SR-12 PPM, and do not establish
+loss causation. Plaintiffs therefore have failed to state a claim against Secore & Waller under 15
+U.S.C. §78j(b) and 17 C.F.R. §240.10b-5 upon which relief can be granted.
+a. Secore & Waller Cannot Be Liable Under 15 U.S.C. §78j(b) and 17 C.F.R.
+§240.10b-5 for Merely Assisting in the Drafting of the Private Placement
+Memoranda.
+Plaintiffs’ claim against Secore & Waller under §10(b) must be dismissed under FED. R.
+CIV. P. 12(b)(6) as Plaintiffs have failed to assert that any allegedly false statement in the SR-4
+and SR-12 PPMs were attributable to Secore & Waller at the time the SR-4 and SR-12 PPMs
+were disseminated. The Second Circuit has held that for a defendant to be liable under §10(b)
+of the Securities Exchange Act of 1934 and Rule 10b-5 for making false statements, the false
+statements must have been attributed to the defendant at the time they were disseminated.
+Pacific Inv. Management Co. LLC v. Mayer Brown, LLP, 603 F.3d at 148. It is not sufficient
+that the defendant created, drafted or assisted in drafting the allegedly false statements. Id
+In Pacific Investment, the plaintiffs invested in the corporate stock of Refco. Refco
+collapsed and plaintiffs lost their investments. Id. at 144. The plaintiffs sued Refco's outside
+counsel, Mayer, Brown, Rowe & Maw LLP and Mr. Collins, a partner at Mayer Brown, who was
+the law firm’s primary contact with Refco. Id. Plaintiffs’ claims were based on a fraudulent
+scheme involving sham loans that were designed to conceal the true financial condition of Refco.
+Id. Collins and Mayer Brown allegedly participated in the fraud by drafting documents for the
+transactions. Pacific Inv. Management Co. LLC, 603 F.3d at 149.
+
+12
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 18 of 32
+
+In the Pacific Investment case, Plaintiffs asserted claims for violations of section 10(b) of
+the Securities Exchange Act of 1934. Id., at 150. Plaintiffs alleged that Mayer Brown and
+Collins participated in several of these sham loan transactions over a five-year period. Id., at
+149. According to plaintiffs’ complaint, defendants’ involvement included negotiating the terms
+of the loans, drafting and revising the documents relating to the loans, transmitting the
+documents to the participants, and retaining custody of and distributing the executed copies of
+the documents. 3 Id., at 149-50. Plaintiffs also alleged that defendants were responsible for false
+statements appearing in three Refco documents: (1) an Offering Memorandum for an
+unregistered bond offering; (2) a Registration Statement for a subsequent registered bond
+offering; and (3) a Registration Statement for Refco's initial public offering of common stock.
+Id. Plaintiffs alleged that these documents failed to disclose the true nature of Refco's financial
+condition, which had been concealed through the multiple sham loans. Id.
+The law firm and Collins moved to dismiss plaintiffs’ claims. A federal district court
+granted defendant's Rule 12(b)(6) motion to dismiss this claim. See In re Refco, Inc. Sec. Litig.,
+609 F.Supp.2d 304 (S.D.N.Y. 2009). The circuit court affirmed and held that attorneys may not
+be held liable for violating Rule 10b-5 for drafting false statements that are not attributed to them
+at the time the statements are disseminated. Pacific Inv. Management Co. LLC v. Mayer Brown,
+LLP, 603 F.3d at 155.
+The Second Circuit held that to be held liable for violating Rule 10b-5, it is not enough
+that the secondary actor defendant created the false statement. Id. at 151. Further, the Second
+Circuit found that to be held liable for violating Rule 10b-5, it is not enough for the secondary
+actor to simply be identified in the document containing the false statement. Id. at 150. Rather,
+the Second Circuit determined that to be held liable for violating Rule 10b-5, the allegedly false
+statement must be attributed to the secondary actor defendants in the document at the time the
+document is disseminated – i.e. at the time the false statement was disseminated, the secondary
+actor defendant must be identified as the author of the document containing the allegedly false
+statement or identified as the author of the false statement itself. Id. at 158.
+Under the rule requiring attribution, the court added, it is not enough that the secondary
+actor was identified as being involved in a transaction, or that the public understands that a
+3
+
+By contrast, Plaintiffs make no such allegations here, only that Secore & Waller drafted the
+PPM.
+13
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 19 of 32
+
+secondary actor has a role behind the scenes. Rather, the court held that “[a]n attribution
+requirement makes clear – to secondary actors and investors alike – that those who sign or
+otherwise allow a statement to be attributed to them expose themselves to liability. Those who
+do not are beyond the reach of Rule 10b-5’s private right of action.” Id. at 157.
+Applying the attribution requirement, the circuit court upheld the district court’s
+dismissal of the Rule 10b-5(b) claims against Mayer Brown and attorney Collins under FED. R.
+CIV. P. 12(b)(6). Id. The Offering Memorandum, the Registration Statement, and the IPO
+Registration Statement did not mention Mr. Collins individually by name. Id. at 158. And
+although the Offering Memorandum and the IPO Registration Statement noted that Mayer
+Brown represented Refco, neither document attributed any particular statement to Mayer Brown
+or identified Mayer Brown as the author of any portion the document. Id. The court found that
+the attribution requirement was not satisfied by the mere fact that Mayer Brown was identified in
+the document as representing Refco. Id.
+The attribution requirement for secondary actor liability under §10(b) announced in
+Pacific Inv. Management Co. LLC v. Mayer Brown, LLP, is directly on point in this case and
+should be applied by this Court here. Additionally the facts alleged in this case actually lend
+themselves better to application of the attribution requirement and mandate dismissal of
+Plaintiffs’ §10(b) claim against Secore & Waller.
+Clearly, the facts as plead in Plaintiffs Complaint mandate dismissal of all 15 U.S.C.
+§78j(b) and 17 C.F.R. 240.10(b)-5 claims against Secore & Waller under FED. R. CIV. P.
+12(b)(6). First, Plaintiffs do not allege that Naomi Miles ever received a PPM related to the
+Credit Trust’s (through sham loans to the Miles Trust) purchase of $100,000 of SR-4 stock.
+Complaint ¶¶ 82-83. Plaintiffs do allege that Miles received a PPM for SR-12 from her brokers,
+Pope and Glossi, for the SR-12 offering, yet do not specify when Miles received this PPM.
+Complaint ¶ 98. Plaintiffs do not allege that she read the PPM for SR-12 or how, specifically,
+she relied upon it when purchasing $130,000 in SR-12 preferred stock for her Trusts. Complaint
+¶ 99. In fact, Plaintiffs allege that “[a]s a direct and proximate result of Pope and Glossi’s
+solicitation, on or about June 16, 2008, the Miles Trust purchased $40,000 of Preferred Stock in
+Series A in SR 12 and $40,000 of Preferred Stock Series B in SR 12.” Complaint ¶ 99.
+Additionally, Plaintiffs do not allege that Secore & Waller is identified as the drafter of
+the PPMs, nor can they. Secore & Waller’s name is not anywhere in the PPMs. Additionally,
+
+14
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 20 of 32
+
+Plaintiffs’ Complaint alleges that Miles may have become aware that Secore & Waller might
+have drafted the PPMs well after the Trusts purchased the stock. Plaintiffs allege that Miles
+became aware that Secore & Waller may have drafted the PPPM for SR-4 from a November 14,
+2008 due diligence report of Mick & Associates, Inc. for the Shale Royalties 19 offering.
+Complaint ¶ 28a.
+
+Plaintiffs never purchased Shale Royalties 19 offerings, rather the trusts
+
+purchased only SR-4 and SR-12 offerings on July 2, 2007 and June 16, 2008 respectively, well
+before Miles alleges she ever heard of Secore & Waller. Complaint ¶¶ 43 and 61.
+Clearly, Plaintiffs do not, and cannot, allege that any statements in the PPMs were
+attributable to Secore & Waller at the time of dissemination. Plaintiffs do not, and cannot, allege
+that Secore & Waller is identified in any way within the PPMs. Plaintiffs do not allege that
+Miles ever read the PPMs or identify how she allegedly relied upon them when purchasing
+preferred stock in SR-4 and SR-12. A conclusory allegation does not suffice under the Supreme
+Court’s rulings in Iqbal and Twombly. In fact, Plaintiffs do not allege that Miles ever received a
+PPM for SR-4. The facts as pled in Plaintiffs Complaint mandate dismissal of all 15 U.S.C.
+§78j(b) and 17 C.F.R. §240.10b-5 claims against Secore & Waller under FED. R. CIV. P.
+12(b)(6).
+b. Plaintiffs Have Failed to Plead Scienter against Secore & Waller.
+As noted above, to prove any defendant violated Section 10(b) of the Securities
+Exchange Act, the plaintiff must show, among other things, the defendant acted with scienter.
+Dura Pharmaceuticals, Inc. v. Broudo, 544 U.S. 336, 341-42 (2005). In fact, scienter, is the
+“most significant” heightened pleading requirement a Plaintiff must fulfill in private §10(b)
+actions. Herman & MacLean v. Huddleston, 459 U.S. 375, 382. Additionally, the Private
+Securities Litigation Reform Act (PSLRA) imposes on a plaintiff the heightened pleading
+requirement of scienter.
+
+Under the PSLRA's heightened pleading instructions, any private
+
+securities complaint alleging that the defendant made a false or misleading statement must: (1)
+“specify each statement alleged to have been misleading [and] the reason or reasons why the
+statement is misleading,” 15 U.S.C. §78u-4(b)(1); and (2) “state with particularity facts giving
+rise to a strong inference that the defendant acted with the required state of mind,” §78u-4(b)(2).
+Tellabs, Inc. v. Makor Issues & Rights, Ltd., 551 U.S. 308, 321, 127 S. Ct. 2499, 2508, 168 L.
+Ed. 2d 179 (2007). Here, Plaintiffs have filed to allege any set of facts sufficient to show Secore
+& Waller acted with the requisite mental state.
+
+15
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 21 of 32
+
+The facts required to sufficiently plead scienter in a 10(b) claim must show “a mental
+state embracing intent to deceive, manipulate, or defraud.” Ernst & Ernst v. Hochfelder, 425
+U.S. 185, 194 n. 12, 96 S. Ct. 1375, 47 L. Ed. 2d 668 (1976); Herman & MacLean v.
+Huddleston, 459 U.S. at 283; SEC v. Ruberz, 350 F. 3d 1084, 1094 (9th Cir. 2003). In some
+cases, however, courts have held that “severe recklessness” can constitute scienter. Mizzaro v.
+Home Depot, Inc., 544 F.3d 1230, 1238 (11th Cir. 2008). However, severe recklessness requires
+more than “inexcusable negligence.” Ziemba v. Cascade International, Inc., 256 F.3d 1194, 1202
+(11th Cir. 2001). Actionable “recklessness” in the securities context is “conduct which is highly
+unreasonable and which represents an extreme departure from the standards of ordinary care ...
+to the extent that the danger was either known to the defendant or so obvious that the defendant
+must have been aware of it.” City of Philadelphia v. Fleming Companies, Inc., 264 F.3d 1245,
+1264 (10th Cir. 2001); see Durgin v. Mon, 659 F. Supp. 2d 1240, 1255, (S.D. Fla. 2009) (holding
+that lack of due diligence was at most negligence, not reckless conduct).
+In a FED. R. CIV. P. 12(b)(6) context, to determine whether a complaint supports a strong
+inference of scienter, the Court must accept as true all factual allegations in the complaint and
+consider the complaint in its entirety, including documents incorporated into the complaint by
+reference and matters subject to judicial notice. Tellabs, Inc. v. Makor Issues & Rights, Ltd., 551
+U.S. 308, 322-23 “The inquiry . . . is whether all of the facts alleged, taken collectively, give rise
+to a strong inference of scienter, not whether any individual allegation, scrutinized in isolation,
+meets that standard.” Id. (emphasis omitted). “[I]n determining whether the pleaded facts give
+rise to a ‘strong’ inference of scienter, the court must take into account plausible opposing
+inferences.”
+
+Id.
+
+Thus, the court considers “plausible nonculpable explanations for the
+
+defendant’s conduct” in addition to inferences favoring the plaintiff. Id. at 2510. “The inference
+of scienter must be more than merely ‘reasonable’ or ‘permissible’ - it must be cogent and
+compelling, thus strong in light of other explanations.” Id. Ultimately, the court asks, “When
+the allegations are accepted as true and taken collectively, would a reasonable person deem the
+inference of scienter at least as strong as any opposing inference?” Id.
+Plaintiffs’ Complaint makes no allegations of scienter whatsoever on the part of Secore &
+Waller. The Complaint pleads no fact showing Secore & Waller possessed “a mental state
+embracing intent to deceive, manipulate, or defraud” when drafting the PPMs or any facts that
+would give rise to a strong inference of scienter on the part of Secore & Waller. See Ernst &
+
+16
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 22 of 32
+
+Ernst v. Hochfelder, 425 U.S. 185, 194 n. 12; see also Tellabs, Inc. v. Makor Issues & Rights,
+Ltd., 551 U.S. 308, 322-23. Rather, the only allegations against Secore & Waller – without
+stating any obligation to do so and assuming the truth of such allegations – is that it failed to
+conduct due diligence; failed to disclose the risk of the lack of audited financial statements, and
+failed to disclose that SR-4 and SR-12 “could” be Ponzi schemes. Complaint ¶ 143. These
+allegations do not even come close to properly asserting scienter, or the intent to deceive,
+manipulate or defraud potential investors, on the part of Secore & Waller.
+
+Rather these
+
+allegations more closely resemble a claim of negligence. See Durgin v. Mon, 659 F. Supp. 2d at
+1255 (stating lack of due diligence is at most negligence). Negligence cannot be grounds for
+recovery under §10(b). See Ernst & Ernst v. Hochfelder, 425 U.S. 185, 214. Plaintiffs certainly
+fail to state a claim under §10(b) upon which relief can be granted.
+Taking the allegations in the Complaint as a whole, it is apparent that Plaintiff has not
+alleged that Secore & Waller acted with scienter, or had the requisite “intent to deceive,
+manipulate or defraud,” any investor, much less Naomi Miles or her Trusts. Plaintiffs have not
+alleged that Miles had any contact with Secore & Waller or knew anything about the existence of
+Secore & Waller prior to or at the time the Credit Trust and/or the Miles Trust invested in the
+Provident offerings.
+Moreover, Plaintiffs proffer only conclusory allegations that “Secore & Waller, as
+attorneys, and purported experts in transactional securities, either knew, or recklessly ignored
+warning signs that the Provident offerings were or may be fraudulent Ponzi schemes….”
+Complaint ¶ 143. Plaintiffs offer no facts to support this claim. Rather, Plaintiffs base this
+conclusory statement on a logical fallacy – that under similar circumstance “attorneys
+or…experts in transactions securities” must “know” or would otherwise have to “ignore” the
+mere possibility that certain security offerings “may” possibly become fraudulent Ponzi schemes.
+See Complaint ¶ 143. These conclusory allegations are not grounded in fact and certainly cannot
+support Plaintiffs §10(b) claim against Secore & Waller under the heightened pleading
+requirements required to maintain a 10(b) claim.
+c. Plaintiffs Have Not Alleged Reliance on the PPMs
+The rule requiring attribution of a false statement to a secondary actor is consistent with
+the Supreme Court’s holding in Stoneridge Investment Partners, LLC v. Scientific-Atlanta, Inc.,
+552 U.S. 148 (2008).
+
+See Pacific Inv. Management Co. LLC, 603 F.3d at155-156.
+
+17
+
+In
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 23 of 32
+
+Stoneridge, which involved deceptive conduct rather than false statements, the Supreme Court
+held that a secondary actor could not be held liable under Rule 10b-5 where the plaintiff did not
+rely on the secondary actor’s own deceptive conduct, rather than the primary actor’s deceptive
+conduct. Stoneridge. Under Stoneridge, direct reliance is required for a Rule 10b-5 claim. Id.
+Again, Plaintiffs do not allege that Naomi Miles ever received a PPM related to the
+Credit Trust’s (through sham loans to the Miles Trust) purchase of $100,000 of SR-4 preferred
+stock. Complaint ¶¶ 82-83. Plaintiffs do allege that Miles received a PPM from her brokers,
+Pope and Glossi, for the SR-12 offering, yet do not specify when Miles received this PPM.
+Complaint ¶ 98. Plaintiffs do not allege that she read the PPM for SR-12 or relied upon it when
+purchasing SR-12 preferred stock. Complaint ¶ 99. In fact, Plaintiffs allege that “[a]s a direct
+and proximate result of Pope and Glossi’s solicitation, on or about June 16, 2008, the Miles
+Trust purchased $40,000 of Preferred Stock in Series A in SR 12 and $40,000 of Preferred Stock
+Series B in SR 12.” Complaint ¶ 99. Plaintiffs make no similar allegations regarding direct
+reliance on PPMs or statements by Secore & Waller in purchasing Shale Royalties stock. Hence,
+Plaintiffs have failed to allege yet another required element of a §10(b) claim against Secore &
+Waller - reliance. As such, Plaintiffs’ §10(b) claim against Secore & Waller must be dismissed
+with prejudice under FED. R. CIV. P. 12(b)(6).
+d. Plaintiffs Cannot Establish Loss Causation Against Secore & Waller.
+In Huddleson v. Herman & MacLean, 640 F.2d 534, 549 (5th Cir. 1981) aff’d in part,
+rev’d in part by, Herman & MacLean v. Huddleston, 459 U.S. 375 (1983), the Fifth Circuit
+stated that in an action under §10(b):
+Causation is related to but distinct from reliance. Reliance is a causa sine qua
+non, a type of “but for” requirement: had the investor known the truth he would
+not have acted. Causation requires one further step in the analysis: even if the
+investor would not otherwise have acted, was the misrepresented fact a proximate
+cause of the loss? The plaintiff must prove not only that, had he known the truth,
+he would not have acted, but in addition that the untruth was in some reasonably
+direct, or proximate, way responsible for his loss. The causation requirement is
+satisfied in a Rule 10b-5 case only if the misrepresentation touches upon the
+reasons for the investment's decline in value. If the investment decision is induced
+by misstatements or omissions that are material and that were relied on by the
+claimant, but are not the proximate reason for his pecuniary loss, recovery under
+the Rule is not permitted. Absent the requirement of causation, Rule 10b-5 would
+become an insurance plan for the cost of every security purchased in reliance
+upon a material misstatement or omission
+
+18
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 24 of 32
+
+Huddleson, 640 F. 2d at 549 (internal citations omitted).
+Loss causation requires a showing that the misrepresentations or omissions caused the
+economic harm. Huddleson, 640 F.2d at 549. In other words, a plaintiff must demonstrate that
+the defendant’s fraudulent conduct “touches upon the reasons for the investment’s decline in
+value.” Id. “If the particular loss complained of is caused by supervening general market forces
+or other factors unrelated to the defendant’s misconduct that operate to reduce the value of the
+plaintiff’s securities, the plaintiff is precluded from recovery under Rule 10b-5.” Bruschi v.
+Brown, 876 F.2d 1526, 1530 (11th Cir. 1989).
+Here, Plaintiffs’ Complaint is devoid of any allegations related to the alleged acts or
+omissions of Secore & Waller that touch in any way on loss causation. First, Plaintiffs have
+failed to allege that they received the SR-4 PPM. Complaint ¶¶ 82-83. Plaintiffs also fail to
+assert any facts demonstrating reliance on the SR-12 PPM in purchasing the SR-12 preferred
+stock. Complaint ¶ 99. Further, Plaintiffs have not alleged that any statement in the SR-4 or SR12 PPMs was attributable to Secore & Waller at the time of dissemination.
+
+Finally, as
+
+specifically related to loss causation, Plaintiff has not alleged that any allegedly false statement
+in the SR-4 or SR-12 PPMs caused Plaintiffs’ investments to decline in value. In fact, Plaintiffs
+specifically allege that Provident Royalties, LLC – not Secore & Waller – operated a fraudulent
+ponzi scheme involving SR-4 and SR-12, which caused Plaintiffs’ investments to decline in
+value.
+
+Consequently, Plaintiffs cannot recover under §10(b) as factors other than alleged
+
+omissions in the SR-4 and SR-12 PPMs, namely Provident Royalties, LLC alleged Ponzi scheme
+involving SR-4 and SR-12, caused the loss in the value of Plaintiffs’ securities. See, Bruschi v.
+Brown, 876 F.2d at 1530. Plaintiffs do not allege that any act, omission or statement of Secore &
+Waller caused Plaintiffs’ investments to decline in value, nor can they. Hence, Plaintiffs have
+failed to establish the requisite element of their §10b claim – loss causation. Plaintiffs’ §10b
+claim against Secore & Waller must be dismissed accordingly.
+
+D. Plaintiffs’ Fifth Claim For Relief Against Secore & Waller for Violation of the
+Wyoming Securities Act, WS §17-4-122(a), Must Be Dismissed.
+This Court has held that Wyoming Statute §17-4-101, et seq., is “fairly analogous to the
+federal claim regarding Section 10 of the Securities of the Exchange Act and Rule 10b-5.”
+Ravenswood Inv. Co., v. Bishop Capital Corp., 374 F. Supp. 2d 1055, 1065 (D. Wyo. 2005). In
+
+19
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 25 of 32
+
+other words, section WS §17-4-122(a)(ii) is the Wyoming state law equivalent to a claim under
+Section 10(b) of the Securities Exchange Act or a Rule 10b-5 claim. The same federal authority
+cited above applies with equal force to Plaintiffs’ claims under the Wyoming state statute.
+Ravenswood, 374 F. Supp. 2d at 1065. Section 17-4-122(a)(ii) of the Wyoming Securities Act
+states that any person who:
+Offers or sells a security by means of any untrue statement of a material fact or
+any omission to state a material fact necessary in order to make the statements
+made, in the light of the circumstances under which they are made, not misleading
+(the buyer not knowing of the untruth or omission), and who does not sustain the
+burden of proof that he did not know, and in the exercise of reasonable care could
+not have known, of the untruth or omission, is liable to the person buying the
+security from him . . .
+Wyo. Stat. Ann §17-4-122(a)(ii).
+Case law applying WS §17-4-122 is sparse. However, the statutory language mandates
+dismissal of this claim against Secore & Waller with prejudice. Wyo. Stat. Ann. §17-4-133
+(a)(ix)(A) defines “sale” or “sell” to include “every contract of sale of, contract to sell, or
+disposition of, a security or interest in a security for value”.
+
+Wyo. Stat. Ann. §17-4-113
+
+(a)(ix)(A). Further, Wyo. Stat, Ann. §17-4-113 (a)(ix)(B) defines “Offer” or “offer to sell” to
+include “every attempt or offer to dispose of, or solicitation of an offer to buy, a security or
+interest in a security for value”.
+Plaintiffs have only alleged that Secore & Waller prepared the PPM of SR-12, the
+security purchased by the Trusts which is the subject of this Wyoming Securities Act claim. See
+Complaint ¶ 28 (any Wyoming Securities Act claim regarding SR-4 would be barred by the twoyear statute of limitations set forth in Wyo. Stat. Ann. 17-4-122(e) – discussed below). Plaintiffs
+do not allege that Secore & Waller sold or offered to sell any securities to Naomi Miles, the
+Miles Trust or the Credit Trust. Complaint.
+Wyo. Stat. Ann §17-4-122(a)(ii) explicitly applies only to “[a]ny person who “[o]ffers or
+sells a security…” Id. (emphasis added). Plaintiffs have alleged only that Secore & Waller may
+have drafted the PPM for SR-12 and absolutely have not alleged that Secore & Waller sold,
+offered, or offered to sell any securities, including preferred stock in SR-12, to Miles or her
+Trusts. The language of the Wyoming Securities Act statute is clear and unambiguous and
+therefore should be construed as written. See State v. Nelson, 49 P.3d 185, 188 (Wyo. 2002). As
+such, Plaintiffs’ claim against Secore & Waller under Wyo. Stat. Ann. §17-4-122 must be
+
+20
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 26 of 32
+
+dismissed for failure to state a claim upon which relief can be granted pursuant to FED. R. CIV. P.
+12(b)(6) and/or Wyo. R. Civ. P. 12(b)(6).
+a. Plaintiffs’ Wyoming Securities Act Claim regarding SR-4 is Barred by the
+Applicable Statute of Limitations.
+Wyo. Stat. Ann. 17-4-122(e) states “[n]o person may sue under this section more than
+two (2) years after the contract of sale.” Plaintiffs allege that the Trusts’ purchases of SR-4
+preferred stock occurred on July 2, 2007. Complaint ¶¶61-62. Plaintiffs filed their Complaint
+on February 26, 2010. Consequently, all claims Plaintiffs may have had under the Wyoming
+Securities Act related to SR-4 purchases are barred by the applicable two-year statute of
+limitations. Wyo. Stat. Ann. 17-4-122(e). Plaintiffs appear to be aware of this and have only
+pled a Wyoming Securities Act claim related to purchases of SR-12. Complaint ¶¶ 189-192.
+E. Plaintiffs’ Eighth Claim For Relief Against “Defendants” (Assumingly Including
+Secore & Waller) for Fraud Must Be Dismissed.
+Under Wyoming common law, actionable common law fraud "is established when a
+plaintiff demonstrates, by clear and convincing evidence, that (1) the defendant made a false
+representation intended to induce action by the plaintiff; (2) the plaintiff reasonably believed the
+representation to be true; and (3) the plaintiff relied on the false representation and suffered
+damages." Marchant v. Cook, 967 P.2d 551,554 (Wyo. 1998); Birt v. Wells Fargo Home
+Mortgage, Inc. 75 P.3d 640, 656 (Wyo. 2003). As this Court held in Ravenswood, 374 F. Supp.
+2d at 1066:
+In order to prevail on a common law fraud allegation under Wyoming law, a
+plaintiff must prove (1) that the defendant made a false representation to induce
+action, (2) that the plaintiff relied upon the representation to his detriment, and (3)
+that the plaintiff reasonably believed the representation to be true. Halliburton Co.
+v. Claypoole, 868 P.2d 252, 256 (Wyo.1994) (citing Lavoie v. Safecare Health
+Service, Inc., 840 P.2d 239, 252 (Wyo.1992)).
+Plaintiffs’ common law fraud claim suffers from the same deficiencies as their
+§78r claim. Based upon the Amended Complaint, Plaintiffs cannot show that they
+relied upon a statement to their detriment.
+The elements of common law fraud are similar to the elements of a §10(b) claim. Id.
+(dismissing Wyoming state law fraud claim for the same deficiencies as noted in plaintiff’s claim
+under §78r of the Securities and Exchange Act.) Importantly, under §10(b) and common law
+
+21
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 27 of 32
+
+fraud, the plaintiff must establish that the defendant made an untrue statement or false
+representation with intent or "scienter." See, e.g., Willmschen v. Meeker, 750 P.2d 669, 672 (Wyo.
+1988); and Brooks v. Zebre, 792 P.2d 196,202 (Wyo. 1990).
+In the case at bar, for substantially the same reasons that Plaintiffs cannot maintain their
+§10(b) and Wyoming Securities Act claims against Secore & Waller, Plaintiffs cannot maintain a
+common law fraud claim against Secore & Waller.
+a. Plaintiffs Failed to Plead Fraud With Particularity.
+Dismissal of a claim for failure to meet the particularity requirements of Rule 9(b) is
+treated as a dismissal for failure to state a claim upon which relief can be granted under Rule
+12(b)(6). Seattle-First National Bank v. Carlstedt, 800 F.2d 1008, 1011 (10th Cir.1986). Rule
+9(b) provides that “[i]n all averments of fraud or mistake, the circumstances constituting fraud or
+mistake shall be stated with particularity.” Id. The primary purpose of Rule 9(b) is to afford a
+defendant fair notice of the plaintiff's claim and of the factual ground upon which it is based.
+Farlow v. Peat, Marwick, Mitchell & Co., 956 F.2d 982, 987 (10th Cir.1992) (overruled on other
+grounds). Rule 9(b) also safeguards defendant's reputation and goodwill from improvident
+charges of wrongdoing and inhibits the institution of strike suits. Id. Courts within the Tenth
+Circuit rigorously enforce these purposes. Id. A complaint alleging fraud must set forth the
+time, place and contents of the false representation, the identity of the party making the false
+statements, and the consequences of the fraud. Tal v. Hogan, 453 F.3d 1244, 1263 (10th
+Cir.2006) quoting Koch v. Koch Industries, Inc., 203 F.3d 1202, 1236 (10th Cir.2000).
+Again, Plaintiffs have not specifically alleged that Naomi Miles relied on any of the
+PPMs when purchasing SR-4 or SR-12 preferred stock for the Miles Trust or the Credit Trust.
+Rather, Plaintiffs aver generally, and in a conclusory fashion, that Miles relied upon, among
+other things, “the written representations made in the private placement memoranda and other
+offering materials provided to her.” Complaint ¶ 207. Yet, Plaintiffs failed to allege that Miles
+ever received a PPM for SR-4 either before of after she purchased SR-4 stock for her Trusts.
+Plaintiffs did not allege that Miles read the PPM for SR-12 either before of after she purchased
+SR 12 stock for the Miles Trust. These are particulars that the Rule 9(b) mandates and which
+Plaintiffs have completely failed to allege in the Complaint.
+
+Consequently, without these
+
+particulars, Plaintiffs’ Complaint fails to allege with the requisite particularity that she relied on
+allegedly false statements in the PPMs or how she did so. Therefore, the alleged false statements
+
+22
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 28 of 32
+
+in the PPMs could legally have no consequences on Naomi Miles or her Trusts. In addition, no
+alleged false statements are attributed to Secore & Waller. As such, Plaintiffs common law fraud
+claim must be dismissed with prejudice as to Secore & Waller.
+b. Plaintiffs have alleged Fraud Generally Against All Defendants in
+Violation of PSLRA Requirements.
+PSLRA “requires Plaintiff to distinguish among those they sue and enlighten each
+defendant as to his or her particular part in the alleged fraud.” Southland Securities Corp. v.
+Inspire Ins. Solutions, 365 F.3d 353, 365 (5th Cir. 2004). Instead, in their Eighth Claim for
+Relief, Plaintiffs group all Defendants, including Secore & Waller, together along with all
+Defendants’ alleged participation in the multiple frauds allegedly perpetrated on Miles and her
+Trusts. Plaintiffs “shotgun” approach to pleading fraud in this matter demands dismissal of the
+common law fraud claim against Secore & Waller with prejudice.
+
+F. Plaintiffs’ Tenth Claim For Relief Against “Defendants” (Assumingly Including
+Secore & Waller) for Negligence Must Be Dismissed.
+Plaintiffs’ Tenth Claim for relief seeks recovery under a theory of negligence. The four
+elements of negligence are, “(1) the defendant owed the plaintiff a duty to conform to a specified
+standard of care; (2) the defendant breached the duty of care; (3) the defendant breached that
+duty of care proximately causing injury to the plaintiff; and (4) the injuries sustained by the
+plaintiff is compensable by money damages.” Birt v. Wells Fargo Home Mortgage, Inc., 75 P.3d
+640, 658 (Wyo. 2003). Count Ten of Plaintiffs’ Complaint is devoid of the facts that Plaintiffs
+allege compose their claim for negligence against Secore & Waller. Complaint ¶¶ 216-218).
+Plaintiffs allege that Secore & Waller owed a duty to those who foreseeably would rely
+upon the PPM. Complaint ¶122. Plaintiffs are mistaken. This grafting of a tort concept of
+foreseeability in the context of securities litigation was rejected in the Supreme Court case of
+Pinter v. Dahl, 486 U.S. 622, 108 S.Ct. 2063, 100 L.Ed.2d 658. Secore & Waller owed no duty
+to anyone other than its clients. In fact, the existence of a duty to counterparties to a transaction
+could create a conflict with the duty of the firm to its client.
+Additionally, under Wyoming law, to establish a negligence claim against a legal
+professional, the plaintiff must first establish that the attorney owed him a duty, then the plaintiff
+has the obligation to establish (1) the accepted standard of legal care or practice, (2) that the
+
+23
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 29 of 32
+
+lawyer’s conduct departed from the standard, and (3) that his conduct was the legal cause of the
+injuries suffered. Moore v. Lubnau, 855 P.2d 1245, 1248 (Wyo. 1993) (holding the long-held
+standards in a medical malpractice claim are analogous and should be applied to a legal
+malpractice claim).
+The existence of a duty a defendant owes to a plaintiff is a question of law, “ ‘making an
+absence of duty the surest route to summary judgment in negligence actions.’ ” In re Estate of
+Drwenski, 83 P.3d 457, 461 (Wyo. 2004) (citing Schuler v. Community First National Bank, 999
+P.2d 1303, 1306 (Wyo.2000)). Here, in Count Ten of Plaintiffs’ Complaint, Plaintiffs failed to
+allege that Secore & Waller owed Naomi Miles or her Trusts any duty whatsoever. Complaint
+¶¶ 215 – 218. This Court must dismiss Plaintiffs’ negligence claim against Secore & Waller.
+In Wyoming, an attorney is immune from negligence claims brought by a non-client
+except in limited circumstances where the client intends the attorneys’ services to directly benefit
+a third party non-client. Estate of Drwenski, 83 P.3d at 464. Thus, the threshold inquiry must be
+whether the plaintiff is the intended beneficiary of the transaction; if not, no further inquiry need
+be made. Estate of Drwenski, 83 P.3d at 464 (citing Strait v. Kennedy, 103 Wash.App. 626, 13
+P.3d
+Here, Plaintiffs lack standing to sue the attorney for legal malpractice. Estate of
+Drwenski, 83 P.3d at 464 (citing Leipham v. Adams, 77 Wash.App. 827, 832, 894 P.2d 576
+(1995)). An “intended beneficiary” of the transaction under this rule means just that - the
+transaction must have been intended to benefit the plaintiff; it is not enough that the plaintiff may
+be an incidental beneficiary of the transaction. Estate of Drwenski, 83 P.3d at 464 (citing Trask
+v. Butler, 123 Wash.2d 835, 845, 872 P.2d 1080 (1994).
+Whether a limited duty an attorney owes to a nonclient exists must be assessed on a caseby-case basis utilizing the following factors: (1) the extent to which the transaction was intended
+to directly benefit the plaintiff; (2) the foreseeability of harm; (3) the degree of certainty that the
+plaintiff suffered injury; (4) the closeness of the connection between the defendant’s conduct and
+the injury suffered; (5) whether expansion of liability to the nonclient would place an undue
+burden on the legal profession; and (6) the policy of preventing future harm. Estate of Drwenski,
+83 P.3d at 464-65.
+Reviewing Plaintiffs’ Compliant in a light most favorable to Plaintiffs, this Court must
+dismiss Plaintiffs negligence claim against Secore & Waller for failure to state a claim.
+
+24
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 30 of 32
+
+Plaintiffs’ Complaint is devoid of factual allegations that would establish any duty Secore &
+Waller owed to Miles or her Trusts. Further Plaintiffs have not pled facts that can plausibly
+establish Secore & Waller’s work on this matter on behalf of Provident Royalties, LLC was
+intended to benefit Miles or her Trusts. As such, under Wyoming law, no further inquiry into the
+lawyers’, Secore & Waller’s, liability to non-clients, Plaintiffs, is necessary. Estate of Drwenski,
+83 P.3d at 464. As such, Plaintiffs’ claim for negligence against Secore & Waller must be
+dismissed under FED. R. CIV. P. 12(b)(6).
+V.
+
+CONCLUSION
+
+For the foregoing reasons, and based upon the forgoing authorities, all claims against
+Secore & Waller must be dismissed under FED. R. CIV. P. 12(b)(6).
+
+Secore & Waller
+
+respectfully requests this Court enter an order dismissing all claims against it, with prejudice.
+DATED this 25th day of August, 2010.
+Respectfully Submitted,
+*S/
+Traci L. Van Pelt
+Traci L. Van Pelt, Wyo. Bar No. 6-4330
+Michael T. McConnell, Wyo, Bar No. 5-2942
+Jared C. Lockwood, Pro Hac Vice
+McConnell Fleischner Houghtaling & Craigmile, LLC
+
+Denver Corporate Center, Tower 1
+4700 South Syracuse Street, Suite 200
+Denver, Colorado 80237-2710
+Phone Number: 303-480-0400
+Fax Number: 303-458-9520
+tvanpelt@mfhc.com
+mmcconnell@mfhc.com
+jlockwood@mfhc.com
+
+25
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 31 of 32
+
+CERTIFICATE OF SERVICE
+I, the undersigned, hereby certify that on this 25th day of August, 2010 a copy of the foregoing
+DEFENDANT SECORE & WALLER LLP’S FED.R.CIV.P. 12(b)(6) MOTION TO
+DISMISS AND SUPPORTING BRIEF has been e-filed and thereby served electronically via
+the Court’s CM/ECF system to the following persons:
+Kim D. Cannon, Esq.
+J. Mark Stewart, Esq.
+Davis & Cannon, LLP
+P.O. Box 43
+Cheyenne, WY 82001
+cannon@davisandcannon.com
+mark@davisandcannonchey.com
+Attorneys for Plaintiff
+John A. Hutchings
+Dill Dill Carr Stonbraker & Hutchings, PC
+455 Sherman Street, Suite 300
+Denver, CO 80203
+jhutchings@dillanddill.com
+Attorneys for Plaintiff [pro hac vice]
+Mark W. Gifford, Esq.
+Jeffrey C. Brinkerhoff, Esq.
+Gifford & Brinkerhoff
+243 South Park Street
+P.O. Box 2508
+Casper, WY 82602
+mark@giffordbrinkerhoff.com
+jeff@giffordbrinkerhoff.com
+Attorneys for Defendant Dennis R. Lawrence and
+Agricultural Income and Planning Associates, LLC
+David F. DeFazio, Esq.
+DeFazio Law Office, LLC
+172 Center Street, Suite 203
+P.O. Box 4877
+Jackson, WY 83001
+david@defaziolaw.com
+Attorneys for Defendants CapWest Securities, Inc.; Colorado Capital
+Holdings, LLC; Capstone Financial Group, Inc.; Randall Pope;
+Nathan Glossi; Dale Keith Hall; and David Leon Smiths
+Jason M. Tangeman, Esq.
+Nicholas & Tangeman, LLC
+
+26
+
+Case 2:10-cv-00034-WFD Document 110
+
+Filed 08/25/10 Page 32 of 32
+
+170 North 5th Street
+P.O. Box 0928
+Laramie, WY 80273-0928
+jtangeman@wyolegal.com
+Attorneys for Defendant Steve Holmes
+Charles W. Gameros, Jr., P.C.
+Hoge & Gameros, L.L.P.
+4514 Cole Avenue, Suite 1500
+Dallas, TX 75205
+bgameros@legaltexas.com
+Attorneys for Defendant Steve Holmes [pro hac vice]
+Thomas N. Long, Esq.
+Laura Jean Jackson
+Long Reimer Winegar Beppler LLP
+2120 Carey Avenue, Suite 300
+P.O. Box 87
+Cheyenne, WY 82003
+tlong@lrw-law.com
+ljackson@lrw-law.com
+Attorneys for Defendant Richard Hancock
+K. Lawson Pedigo, Esq.
+Miller Keffer Bullock & Pedigo
+8401 N. Central Expressway, Suite 630
+Dallas, TX 75225
+KLPedigo@mkp-law.net
+Attorneys for Defendant Richard Hancock [pro hac vice]
+
+Traci L. Van Pelt
+Traci L. Van Pelt
+
+27
+
+

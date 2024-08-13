@@ -1,0 +1,267 @@
+Case 6:11-cv-00390-LED Document 248
+
+Filed 05/13/13 Page 1 of 8 PageID #: 4814
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF TEXAS
+TYLER DIVISION
+Cheetah Omni LLC
+Plaintiff,
+Civil Action No. 6:11-cv-390 (LED)
+v.
+Alcatel-Lucent USA Inc., et al.
+Defendants.
+
+DEFENDANTS’ RESPONSE TO CHEETAH’S MOTION TO RECONSIDER THE
+COURT’S MEMORANDUM OPINION AND ORDER CONSTRUING
+“UNMODULATED OPTICAL SIGNAL,” “UNMODULATED,”
+AND THE “MODULATE” TERMS (DKT #235)
+
+Defendants Alcatel-Lucent, Ciena Corporation, Ciena Communications, Inc., Fujitsu
+Network Communications and Nokia Siemens Networks hereby provide their Response to
+Plaintiff Cheetah Omni’s (“Cheetah”) Motion to Reconsider the Court’s Memorandum Opinion
+and Order Construing “Unmodulated Optical Signal,” “Unmodulated,” and the “Modulate”
+Terms (Dkt #235) (“Cheetah’s Motion”). 1
+
+1
+
+The Tellabs defendants neither join nor oppose this Response because the Motion at issue is
+directed to claims that are not asserted against them.
+
+Case 6:11-cv-00390-LED Document 248
+
+I.
+
+Filed 05/13/13 Page 2 of 8 PageID #: 4815
+
+INTRODUCTION
+Cheetah’s Motion should be denied because it fails to identify any error of law or fact, or
+
+present newly discovered evidence, the only proper bases for reconsideration. Cheetah merely
+reargues the issue and re-hashes previously rejected arguments regarding the Samsung ruling and
+the patent figures raised in the briefing and Markman hearing.
+Moreover, even if Cheetah could satisfy the high standard for reconsideration, which it
+cannot, this Court’s construction of the terms “unmodulated optical signal,” “unmodulated,” and
+the “modulate” terms 2 from U.S. Patent No. 7,339,714 (“the ‘714 Patent”) is correct and
+supported by a thorough analysis of the full briefing and oral arguments of the parties as well as
+the relevant intrinsic and extrinsic evidence. Accordingly, Cheetah’s Motion should be denied.
+II.
+
+APPLICABLE LAW
+Reconsideration under Rule 59(e) “is an extraordinary remedy that should be used
+
+sparingly.” Templet v. Hydrochem Inc., 367 F.3d 473, 479 (5th Cir. 2004). “[S]uch a motion is
+not the proper vehicle for rehashing evidence, legal theories, or arguments that could have been
+offered or raised before the entry of judgment.” Id. (citing Simon v. United States, 891 F.2d
+1154, 1159 (5th Cir. 1990)); see also Intel Corp. v. Commonwealth Sci. & Indus. Research
+Organization, 2009 U.S. Dist. LEXIS 131912, *20 (E.D. Tex. Apr. 9, 2009) (Davis, J.) (citing
+Ross v. Marshall, 426 F.3d 745, 763 (5th Cir. 2005); LeClerc v. Webb, 419 F.3d 405, 412 n.13
+(5th Cir. 2005) (“A motion for reconsideration may not be used to rehash rejected arguments or
+introduce new arguments.”). Rather, reconsideration motions must “clearly establish either a
+manifest error of law or fact or must present newly discovered evidence.” Intel Corp., 2009 U.S.
+Dist. LEXIS 131912, *20 (citing Ross, 426 F.3d at 763 (quoting Pioneer Natural Res. USA, Inc.
+
+2
+
+The “modulate” terms are “to modulate,” “modulated,” and “modulation.”
+
+-2-
+
+Case 6:11-cv-00390-LED Document 248
+
+Filed 05/13/13 Page 3 of 8 PageID #: 4816
+
+v. Paper, Allied Indus. & Energy Workers Int'l Union Local, 328 F.3d 818, 820 (5th Cir. 2003))).
+A court abuses its discretion in denying a motion to reconsider only if it “bases its decision on an
+erroneous view of the law or on a clearly erroneous assessment of the evidence.” Id.
+III.
+
+ARGUMENT
+A.
+
+There Is No Clear Error of Law in the Court’s Claim Constructions and
+Cheetah Presents No Newly Discovered Evidence
+
+Cheetah does not even attempt to satisfy the high standard for reconsideration. Cheetah
+concedes that there is no “newly discovered” evidence, focusing exclusively on evidence that
+was previously before the Court (i.e., the Samsung ruling and ‘714 patent specification), and then
+rearguing its losing position. Intel Corp., 2009 U.S. Dist. LEXIS 131912, *20 (Motions for
+reconsideration “cannot be used to raise arguments which could, and should, have been made
+before the judgment issued.”). Cheetah also fails to point to any “clear error” in the Court’s
+order, using the phrase only in a background legal section. Moreover, far from committing error,
+as set forth below, the Court’s analysis was reasoned and correct. The Court’s opinion on the
+relevant “modulate” terms spans six pages containing detailed analyses of both parties’ positions,
+the Court’s prior ruling in Samsung, and intrinsic and extrinsic evidence. (See Court’s Claim
+Construction Order, Dkt. 235, pp. 18-23).
+B.
+
+Even If Considered, Cheetah’s Arguments Fail on the Merits
+
+Cheetah argues that the Court erred in its construction of the “modulate” terms because
+Figure 15 of the ’714 patent allegedly describes an embodiment where the “optical signal”
+carries information before it is “modulated,” and therefore “unmodulated” cannot mean a signal
+that is not carrying information. (Cheetah’s Motion, Dkt. 237, p. 7 (emphasis in original)).
+Cheetah also argues that the Court’s construction of these terms is inconsistent with its opinion
+in the Samsung litigation. Cheetah is wrong on both counts.
+
+-3-
+
+Case 6:11-cv-00390-LED Document 248
+
+Filed 05/13/13 Page 4 of 8 PageID #: 4817
+
+Even if Figure 15 illustrates an optical signal that is carrying information, that does not
+mean that an “unmodulated” signal is a signal that is already carrying information. It simply
+means, accepting Cheetah’s premise, that Figure 15 does not show an unmodulated optical signal
+(it shows a modulated signal). And not surprisingly, consistent with Figure 15, several claims of
+the ’714 patent do not require an unmodulated optical signal. 3 Thus, Figure 15 is not helpful for
+Cheetah. 4 Moreover, even if every claim did require an unmodulated optical signal, it is well
+settled that ”not every claim must cover every disclosed embodiment.” (Court’s Claim
+Construction Order, Dkt. 235, p. 11 (citing Baran v. Med. Device Techs., Inc., 616 F.3d 1309,
+1316 (Fed. Cir. 2010))).
+With respect to the Samsung litigation, Cheetah argues that the Court is being
+inconsistent with its ruling there because the “the Court [in that case] held that Figure 15 is the
+relevant embodiment for the asserted claims [18 and 19].” (Cheetah’s Motion, Dkt. 237, p. 2).
+This court, however, already expressly considered the Samsung ruling and explained that its
+decision was consistent with that ruling. (Court’s Claim Construction Order, Dkt. 235, p. 22). In
+addition, this Court’s decision was consistent with the Samsung ruling because the Court’s
+reference to Figure 15 was with respect to an entirely different claim term—“a first signal part
+and a second signal part” — not to the “modulate” terms. See Samsung, 2009 U.S. Dist. LEXIS
+119541, *11-12. The Court never said that Figure 15 was relevant to the “modulate” terms. Id.
+at *8-11. Thus, the Samsung litigation is also not helpful for Cheetah.
+3
+
+For instance, independent claims 5 and 19 do not require an unmodulated optical signal.
+
+4
+
+Cheetah also refers to Figures 11g and 11h in the background section of its brief as alleged
+components of Figure 15. (Cheetah’s Motion, Dkt. 237, pp. 3-5). These figures do not change
+the analysis. In addition, Cheetah argues that these Figures do “not involve the ‘interference’
+effects described by the Court.” (Id. at 4). This is incorrect. The specification expressly refers
+to Figure 11g operating “in a diffraction mode” and “diffract[ing]” the signal. ‘714 Patent, col.
+16, ll. 52-60.
+
+-4-
+
+Case 6:11-cv-00390-LED Document 248
+
+Filed 05/13/13 Page 5 of 8 PageID #: 4818
+
+Here, after analyzing all of the intrinsic and extrinsic evidence, the Court properly
+recognized that an unmodulated optical signal does not carry any information, and that
+modulation varies the signal to carry information. As the Court stated:
+The ‘714 Patent describes a type of “modulation” (i.e., phase shift
+modulation) that differs from more commonly used frequency
+modulation (FM) and amplitude modulation (AM). In FM, an
+information signal of 1s and 0s is used to “modulate” a carrier
+wave to change its frequency between f1 and f2, according to the
+pattern of 1s and 0s. Similarly, in AM, an information signal of 1s
+and 0s is used to “modulate” a carrier wave to change its amplitude
+between A1 and A2, according to the pattern of 1s and 0s. A
+receiver (FM or AM) demodulates the received carrier wave to
+extract the original pattern of 1s and 0s of the information signal.
+In the modulation scheme of the ‘714 Patent, a carrier wave is not
+phase-shifted in response to an information signal and its pattern of
+1s and 0s. Instead, two lightwave signals are phase-shifted relative
+to one another in response to an information signal having a
+pattern of 1s and 0s such that, when they are combined
+(interference), there are corresponding changes in the intensity of
+an output lightwave signal. These changes in intensity reproduce
+the information signal content pattern. Thus, the output lightwave
+signal is “modulated” in its intensity according to the information
+signal.
+(Court’s Claim Construction Order, Dkt. 235, p. 21, n.7). Thus, the Court properly found that an
+unmodulated signal does not carry information and the process of modulating the signal adds
+information to it.
+In contrast, Cheetah wants to interpret “unmodulated” as a signal that has not yet been
+processed by the claimed invention (Cheetah’s Motion, Dkt. 237, p. 8), but this would render the
+term unmodulated superfluous because any signal that has not yet been “processed” by the
+invention would necessarily be unmodulated. This circular construction is legally incorrect and
+has already been rejected by this Court. See, e.g., Bicon Inc. v. Straumann Co., 441 F.3d 945,
+951 (Fed. Cir. 2006) (rejecting proposed construction because it rendered claim language
+
+-5-
+
+Case 6:11-cv-00390-LED Document 248
+
+Filed 05/13/13 Page 6 of 8 PageID #: 4819
+
+superfluous).
+Cheetah finally argues that “Figures 1 and 7 [are] not relevant to the analysis of asserted
+[c]laims 1 and 18” because claims 1 and 18 require “(i) an array of moving mirrors plus (ii) at
+least one other moving mirror” and these figures, allegedly, do not depict “the claimed twomovable-mirror configuration.” (Cheetah’s Motion, Dkt. 237, p. 3). Cheetah misses the point
+because those figures are relevant (as is the rest of the evidence relied upon by the Court) in
+determining what the patent means by an “unmodulated” optical signal. (Court’s Claim
+Construction Order, Dkt. 235, pp. 20-21 (describing how Figures 1 and 7 relate to the proper
+construction of this term)). Moreover, the Federal Circuit has made clear that a patent figure
+does not need to include every feature of a claim for it to be relevant to, and instructive for,
+construing certain terms in a claim. See Altair Engineering, Inc. v. LEDdynamics, Inc., 2011 WL
+836440, *3 (Fed. Cir. 2011). In short, the Court properly considered Figures 1 and 7 when
+construing these terms.
+IV.
+
+CONCLUSION
+For the foregoing reasons, the Defendants ask that the Court deny Cheetah’s Motion to
+
+Reconsider in its entirety. See Intel Corp., 2009 U.S. Dist. LEXIS 131912, *20 (“A court abuses
+its discretion in denying a motion to reconsider only if it ‘bases its decision on an erroneous view
+of the law or on a clearly erroneous assessment of the evidence.’”) (citing Ross, 426 F.3d at 763
+(quoting Pioneer Natural Res. USA, Inc. v., 328 F.3d at 820)).
+
+-6-
+
+Case 6:11-cv-00390-LED Document 248
+
+Filed 05/13/13 Page 7 of 8 PageID #: 4820
+
+Respectfully submitted,
+
+Dated: May 13, 2013
+/s/
+Melvin R. Wilcox
+Melvin R. Wilcox, III
+Texas Bar No. 21454800
+mrw@yw-lawfirm.com
+Yarbrough & Wilcox PLLC
+100 E. Ferguson St.
+Tyler, Texas 75702
+(903) 595-1133; Fax (903) 595-0191
+Christopher E. Chalsen (Pro Hac Vice)
+cchalsen@milbank.com
+Lawrence T. Kass (Pro Hac Vice)
+lkass@milbank.com
+Anna Brook (Pro Hac Vice)
+abrook@milbank.com
+Milbank, Tweed, Hadley & McCloy LLP
+1 Chase Manhattan Plaza
+New York, NY 10005-1413
+(212) 530-5000; Fax (212) 822-5844
+
+Counsel for Fujitsu Network Communications, Inc.
+and on behalf of Ciena Corporation, Ciena
+Communications, Inc., Alcatel-Lucent USA Inc.,
+and NokiaSiemens Networks US LLC
+
+-7-
+
+Case 6:11-cv-00390-LED Document 248
+
+Filed 05/13/13 Page 8 of 8 PageID #: 4821
+
+CERTIFICATE OF SERVICE
+
+I hereby certify that DEFENDANTS’ RESPONSE TO CHEETAH’S MOTION
+TO RECONSIDER THE COURT’S MEMORANDUM OPINION AND ORDER
+CONSTRUING “UNMODULATED OPTICAL SIGNAL,” “UNMODULATED,” AND
+THE “MODULATE” TERMS (DKT #235) was served on May 13, 2013 via Court’s
+CM/ECF system and by electronic mail as follows:
+•
+•
+
+Cheetah Omni LLC counsel email distribution (CheetahBK@brookskushman.com)
+Defendants counsel email distribution (Cheetah-Defendants@kslaw.com)
+
+/s/Melvin R. Wilcox
+
+

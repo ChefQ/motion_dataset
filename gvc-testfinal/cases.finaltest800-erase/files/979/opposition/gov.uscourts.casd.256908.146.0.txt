@@ -1,0 +1,3236 @@
+Case 3:07-cv-02000-H-CAB
+
+1
+2
+3
+4
+5
+
+Document 146
+
+Filed 12/14/2007
+
+Page 1 of 29
+
+David A. Hahn (SBN 125784)
+HAHN & ADEMA
+501 West Broadway, Suite 1600
+San Diego, California 92101-3595
+Telephone: (619) 235-2100
+Facsimile: (619) 235-2101
+Attorneys for Plaintiff Lucent Technologies Inc.
+
+6
+7
+
+UNITED STATES DISTRICT COURT
+
+8
+
+SOUTHERN DISTRICT OF CALIFORNIA
+
+9
+10
+
+LUCENT TECHNOLOGIES INC. and
+MULTIMEDIA PATENT TRUST,
+
+11
+12
+13
+14
+
+v.
+
+Plaintiff,
+
+GATEWAY, INC., GATEWAY COUNTRY
+STORES LLC, GATEWAY COMPANIES,
+INC., GATEWAY MANUFACTURING LLC
+and COWABUNGA ENTERPRISES, INC.,
+Defendants,
+
+15
+
+and
+
+16
+
+MICROSOFT CORPORATION,
+
+17
+
+Intervener.
+
+18
+
+MICROSOFT CORPORATION,
+
+19
+v.
+
+20
+21
+
+28
+
+LUCENT’S OPPOSITION TO DELL’S
+MOTION FOR SUMMARY
+JUDGMENT OF INVALIDITY OF
+CLAIMS 1-3 OF U.S. PATENT NO.
+4,439,759 TO FLEMING ET AL.
+Date:
+Time:
+Courtroom:
+Judge:
+
+January 7, 2008
+10:30 A.M.
+13
+Hon. Marilyn L. Huff
+
+LUCENT TECHNOLOGIES INC. and
+MULTIMEDIA PATENT TRUST,
+v.
+
+25
+
+27
+
+Case No. 02-CV-2060 B (CAB)
+Case No. 03-CV-0699 B (CAB)
+Case No. 03-CV-1108 B (CAB)
+
+Defendant.
+
+24
+
+26
+
+consisting of matters severed from
+consolidated cases:
+
+LUCENT TECHNOLOGIES INC.,
+
+22
+23
+
+Plaintiff,
+
+Case No. 07-CV-2000-H (CAB)
+
+Plaintiff,
+
+DELL INC.,
+Defendant.
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3
+OF U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 146
+
+Filed 12/14/2007
+
+Page 2 of 29
+
+TABLE OF CONTENTS
+Page
+
+2
+3
+
+I.
+
+INTRODUCTION .....................................................................................................................1
+
+4
+
+II.
+
+BACKGROUND .......................................................................................................................2
+
+5
+
+A.
+
+Technical Background. ..................................................................................................2
+
+6
+
+B.
+
+The Fleming ‘759 Patent................................................................................................2
+
+C.
+
+The Asserted Claims Of The ‘759 Patent. .....................................................................2
+
+D.
+
+The NASA Report..........................................................................................................2
+
+E.
+
+The Pec Affidavit...........................................................................................................3
+
+7
+8
+9
+10
+11
+
+III.
+
+12
+13
+14
+15
+
+IV.
+
+16
+17
+18
+19
+20
+
+V.
+
+LEGAL STANDARDS .............................................................................................................6
+A.
+
+Summary Judgment. ......................................................................................................6
+
+B.
+
+Anticipation....................................................................................................................7
+
+C.
+
+Obviousness. ..................................................................................................................8
+
+ARGUMENT.............................................................................................................................9
+A.
+
+A Genuine Factual Dispute Exists As To Whether The NASA Report Was A
+Printed Publication As Of The Filing Date Of The Fleming ‘759 Patent......................9
+
+B.
+
+Dell’s “Evidence” Is Unreliable And Should Be Excluded.........................................10
+
+C.
+
+Dell Has Failed to Prove That The NASA Report Was Publicly Accessible
+Before May 19, 1981. ..................................................................................................12
+
+21
+
+Even If The NASA Report Is Prior Art, Dell Has Failed To Prove The NASA Report
+Invalidates The Asserted Claims Of The Fleming ‘759 Patent. ..............................................16
+
+22
+
+A.
+
+The NASA Report Does Not Anticipate Claims 1-3. ..................................................16
+
+23
+
+B.
+
+Ample Evidence Establishes A Genuine Dispute Concerning The Alleged
+Obviousness Of Claims 1-3 Of The Fleming ‘759 Patent. ..........................................21
+
+24
+25
+
+VI.
+
+CONCLUSION........................................................................................................................24
+
+26
+27
+28
+
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3
+OF U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+i
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 146
+
+Filed 12/14/2007
+
+Page 3 of 29
+
+TABLE OF AUTHORITIES
+
+2
+
+Cases
+
+3
+
+Ajinomoto Co. v. Archer-Daniels-Midland Co.,
+C.A. No. 95-218-SLR,
+1998 U.S. Dist. LEXIS 3833 (D. Del. Mar. 13, 1998) ....................................................... 9, 13
+
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Anderson v. Liberty Lobby, Inc.,
+477 U.S. 242 (1986).................................................................................................................. 7
+ATD Corp. v. Lydall, Inc.,
+159 F.3d 534 (Fed. Cir. 1998)................................................................................................... 7
+Beyene v. Coleman Sec. Servs., Inc.,
+854 F.2d 1179 (9th Cir. 1988) ................................................................................................ 14
+Carella v. Starlight Archery and Pro Line Co.,
+804 F.2d 135 (Fed. Cir. 1986)................................................................................................... 8
+Caterpillar Inc. v. Deere & Co.,
+224 F.3d 1374 (Fed. Cir. 2000)................................................................................................. 7
+Celotex Corp. v. Catrett,
+477 U.S. 317 (1986).................................................................................................................. 6
+Constr. Tech., Inc. v. The Lockformer Co., Inc.,
+86 Civ. 0457 (JSM), 88 Civ. 0742 (JSM),
+990 U.S. Dist. LEXIS 20000 (S.D.N.Y. November 2, 1990) ................................................. 16
+Daiichi Sankyo Co., Ltd. v. Apotex, Inc.,
+501 F.3d 1254 (Fed. Cir. 2007)............................................................................................... 10
+Elan Pharm., Inc. v. Mayo Found. for Medical Ed. and Res.,
+346 F.3d 1051 (Fed. Cir. 2003)................................................................................................. 7
+Eli Lilly and Co. v. Barr Labs., Inc.,
+251 F.3d 955 (Fed. Cir. 2001)................................................................................................... 9
+Exxon Corp. v. Mobil Oil Corp.,
+C.A. No. H-96-3795,
+1998 U.S. Dist. LEXIS 17555 (S.D. Tex. Aug. 13, 1998)...................................................... 16
+Forest Labs., Inc. v. Ivax Pharms., Inc.,
+501 F.3d 1263 (Fed. Cir. 2007)............................................................................................... 10
+Golden Blount, Inc. v. Robert H. Peterson Co.,
+365 F.3d 1054 (Fed. Cir. 2004)................................................................................................. 9
+Graham v. John Deere Co.,
+383 U.S. 1 (1966).................................................................................................................... 10
+In re Cronyn,
+890 F.2d 1158 (Fed. Cir. 1989)........................................................................................... 9, 15
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3
+OF U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+ii
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+2
+3
+4
+
+Document 146
+
+Filed 12/14/2007
+
+Page 4 of 29
+
+In re Hall,
+781 F.2d 897 (Fed. Cir. 1986)................................................................................................... 8
+In re Kahn,
+441 F.3d 977 (Fed. Cir. 2006)................................................................................................. 11
+
+5
+
+In re Wyer,
+655 F.2d 221 (C.C.P.A. 1981) .................................................................................................. 8
+
+6
+
+KSR Int’l Co. v. Teleflex Inc.,
+127 S. Ct. 1727 (2007)................................................................................................ 10, 11, 26
+
+7
+8
+9
+
+Lucent Tech. Inc. v. Gateway,
+02-CV-2060 B (CAB),
+2007 U.S. Dist. LEXIS 46863 (S.D. Cal. June 27, 2007)......................................................... 8
+
+10
+
+Northern Telecom, Inc. v. Datapoint Corp.,
+908 F.2d 931 (Fed. Cir. 1990)............................................................................................. 9, 17
+
+11
+
+Orr v. Bank of Am.
+285 F.3d 764 (9th Cir. 2002) ................................................................................................. 14
+
+12
+13
+14
+15
+
+Pfizer, Inc. v. Apotex, Inc,
+480 F.3d 1348 (Fed. Cir. 2007)............................................................................................... 10
+PharmaStem Therapeutics, Inc. v. Viacell, Inc.,
+491 F.3d 1342 (Fed. Cir. 2007)............................................................................................... 11
+
+16
+
+Philips Elecs. & Pharm. Indus. Corp. v. Thermal & Elec. Indus., Inc.,
+450 F.2d 1164 (3d Cir. 1971).................................................................................................... 8
+
+17
+
+RCA Corp. v. Data Gen. Corp.,
+701 F. Supp. 456 (D. Del. 1988)............................................................................................. 17
+
+18
+19
+
+Richardson v. Suzuki Motor Co., Ltd.,
+868 F.2d 1226 (Fed. Cir. 1989)................................................................................................. 7
+
+20
+
+Schumer v. Laboratory Computer Sys., Inc.,
+308 F.3d 1304 (Fed. Cir. 2002)................................................................................................. 9
+
+21
+22
+
+Takeda Chem. Indus., Ltd. v. Alphapharm Pty., Ltd.,
+492 F.3d 1350 (Fed. Cir. 2007)............................................................................................... 11
+
+23
+
+United States v. Boyce,
+148 F. Supp. 2d 1069 (S.D. Cal. 2001)..................................................................................... 6
+
+24
+25
+26
+27
+28
+
+Statutes
+35 U.S.C. § 103(a) ................................................................................................................................ 8
+Fed. R. Civ. P. 56(c) ............................................................................................................................. 6
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3
+OF U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+iii
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+2
+3
+
+Document 146
+
+Filed 12/14/2007
+
+Page 5 of 29
+
+Fed. R. Civ. P. 56(e) ........................................................................................................................... 12
+Fed. R. Evid. 801(c)............................................................................................................................ 12
+
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3
+OF U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+iv
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+I.
+
+Document 146
+
+Filed 12/14/2007
+
+Page 6 of 29
+
+INTRODUCTION
+
+2
+
+Dell’s motion for summary judgment of invalidity of claims 1-3 of the Fleming ‘759 Patent is
+
+3
+
+based on a reference — the NASA Report — that is not prior art to the Fleming ‘759 Patent. On that
+
+4
+
+basis alone, Dell’s motion for summary judgment fails.1
+
+5
+
+Dell bears the burden of proving — by clear and convincing evidence — that the NASA
+
+6
+
+Report qualified as a prior-art printed publication under 35 U.S.C. § 102 before May 19, 1981, when
+
+7
+
+the Fleming ‘759 Patent was filed. To meet this heavy burden, Dell must prove that the NASA
+
+8
+
+Report was publicly accessible by that date, which means that Dell must prove that a member of the
+
+9
+
+public could both locate and physically obtain the NASA Report. Dell, however, has come forward
+
+10
+
+with no competent evidence to prove either of these requirements. Rather, the only “evidence” that
+
+11
+
+Dell proffers is a conclusory affidavit from a librarian at the library at George Washington University
+
+12
+
+— where the only known copy of the NASA Report currently resides — who has no relevant personal
+
+13
+
+knowledge about the NASA Report or the policies and procedures at George Washington University
+
+14
+
+library before 1993, more than a decade too late.
+
+15
+
+When the facts are fully exposed, it is clear that Dell has failed to adduce prima facie evidence
+
+16
+
+that the NASA Report is prior art. First, within the George Washington University library, the NASA
+
+17
+
+Report is located in a Special Collections Department that is not accessible to members of the public.
+
+18
+
+Second, as of the filing date of the Fleming ‘759 Patent, the NASA Report was not indexed by subject
+
+19
+
+matter, and therefore it would have been impossible for someone to find unless that person were
+
+20
+
+already aware of its existence. Thus, at a minimum, a genuine factual dispute exists as to whether a
+
+21
+
+member of the public could both locate and physically obtain the NASA Report as of the filing date of
+
+22
+
+the Fleming ‘759 Patent, and therefore as to whether it qualifies as a prior-art printed publication
+
+23
+
+under 35 U.S.C. § 102.
+
+24
+25
+26
+27
+28
+
+The primary basis for Dell’s motion is alleged anticipation, with alleged obviousness asserted only
+as a fallback position. But after the KSR decision, Judge Brewster permitted Defendants to search for
+additional prior art only to support their obviousness cases, not to search for additional prior art in
+order to make additional anticipation arguments. Dell’s motion should therefore be stricken.
+1
+
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3 OF
+U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+1
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 146
+
+Filed 12/14/2007
+
+Page 7 of 29
+
+Even if the NASA Report qualifies as prior art, however, Dell’s motion for summary judgment
+
+2
+
+still fails. Dell argues that the NASA Report anticipates claims 1-3 of the Fleming ‘759 Patent. But
+
+3
+
+in making this argument, Dell improperly rewrites claim 1 to delete the word “directly” from the first
+
+4
+
+mode of access, and also ignores the Court’s claim construction for the term “in-use background
+
+5
+
+color.” When the NASA Report is compared to the actual claim language and the correct claim
+
+6
+
+construction, it is clear that the NASA Report does not disclose all of the elements of claims 1-3, and
+
+7
+
+therefore could not anticipate. Realizing the weakness of its position, Dell seeks to supply the
+
+8
+
+missing elements with an obviousness argument. But Dell’s obviousness contention is based entirely
+
+9
+
+on attorney argument, and is unsupported by any competent expert opinion. Lucent’s expert, on the
+
+10
+
+other hand, has opined that claims 1-3 would not have been obvious in view of the NASA Report.
+
+11
+
+Dell’s motion for summary judgment should, accordingly, be denied.
+
+12
+
+II.
+
+BACKGROUND
+
+13
+
+A.
+
+14
+
+Lucent incorporates by reference the Technical Background discussion from Section II.A of
+
+Technical Background.
+
+15
+
+Lucent’s Opposition To Gateway’s Motion For Partial Summary Judgment Of Invalidity Of U.S.
+
+16
+
+Patent No. 4,439,759 (Fleming) as if fully set forth herein.
+
+17
+
+B.
+
+18
+
+Lucent incorporates by reference the discussion of the Fleming ‘759 Patent from Section II.B
+
+The Fleming ‘759 Patent.
+
+19
+
+of Lucent’s Opposition To Gateway’s Motion For Partial Summary Judgment Of Invalidity Of U.S.
+
+20
+
+Patent No. 4,439,759 (Fleming) as if fully set forth herein.
+
+21
+
+C.
+
+22
+
+Lucent incorporates by reference the discussion of the Asserted Claims of the Fleming ‘759
+
+The Asserted Claims Of The ‘759 Patent.
+
+23
+
+Patent from Section II.C of Lucent’s Opposition To Gateway’s Motion For Partial Summary
+
+24
+
+Judgment Of Invalidity Of U.S. Patent No. 4,439,759 (Fleming) as if fully set forth herein.
+
+25
+
+D.
+
+26
+
+The NASA Report (Blackburn Dec. Ex. 9) purportedly describes the particular
+
+The NASA Report.
+
+27
+
+implementation of a display system, known as the CORE system, at George Washington University.
+
+28
+
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3 OF
+U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+2
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 146
+
+Filed 12/14/2007
+
+Page 8 of 29
+
+1
+
+The only known copy of the NASA Report is held in the Special Collections Department of the
+
+2
+
+Melvin Gelman Library at George Washington University (the “Library”). (Id.) The Special
+
+3
+
+Collections Department of the Library is restricted only to Library personnel, and is thus not open to
+
+4
+
+members of the public. (Ex. 1 at 57:23-58:2.) 2 And the materials held within the Special Collections
+
+5
+
+Department cannot be checked out or sent outside of the library. (Ex. 1 at 58:3-15, 61:7-13.)
+
+6
+
+E.
+
+7
+
+In attempting to prove that the NASA Report is prior art, Dell has submitted an Affidavit from
+
+8
+
+Jean A. Pec, the Head of Collections Management Services for the Library. (Blackburn Dec. Ex. 14.)
+
+9
+
+In her Affidavit, Ms. Pec purports to opine that the NASA Report was available in the Library to
+
+10
+
+The Pec Affidavit.
+
+members of the public as of September 1980.
+
+11
+
+During her deposition, however, Ms. Pec made clear that she did not start working at the
+
+12
+
+Library until 1993 — twelve years after the filing date of the Fleming ‘759 Patent — and that she did
+
+13
+
+not talk to anyone else at the Library who might have worked at the Library during the relevant
+
+14
+
+timeframe about the purported facts set forth in her Affidavit:
+
+15
+
+Q. Had you ever worked for George Washington University or any of
+its libraries before February 1993?
+
+16
+
+A. No.
+
+17
+
+*
+
+18
+
+20
+
+22
+23
+
+*
+
+Q. In preparing your affidavit, did you talk to other library employees
+or other employees of George Washington University regarding the
+facts set forth in your affidavit?
+
+19
+
+21
+
+*
+
+A. No.
+(Ex. 1, at 12:22-25, 33:18-22.) Ms. Pec also clarified that her Affidavit was actually drafted by
+attorneys for Dell, and that she had only looked at her Affidavit for “a minute or so” before signing:
+Q. Do you know who created [your] affidavit?
+
+24
+
+A. I do not remember the names of people, no.
+
+25
+
+Unless otherwise indicated, references herein to “Ex.” refer to the Declaration Of James E. Marina
+In Support Of Lucent’s Oppositions To Defendants’ Motions For Summary Judgment Of Invalidity
+Of Claims 1-3 Of The Fleming ‘759 Patent filed concurrently herewith.
+
+2
+
+26
+27
+28
+
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3 OF
+U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+3
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 146
+
+Filed 12/14/2007
+
+Page 9 of 29
+
+Q. Did you see drafts of that affidavit before the version that you
+signed?
+
+2
+
+A. No.
+
+3
+4
+
+Q. Did you discuss the language that was going to be included in that
+affidavit?
+
+5
+
+A. No.
+
+6
+
+*
+
+7
+
+*
+
+*
+
+Q. Had you seen any of the language that appeared in the affidavit
+before you signed it?
+
+8
+
+A. Had I seen it written? No.
+
+9
+
+*
+
+10
+
+*
+
+*
+
+11
+
+Q. And did you review this affidavit to assure that it was accurate and
+truthful before you signed it?
+
+12
+
+A. I looked through it.
+
+13
+
+Q. How much time did you spend looking at the document?
+
+14
+
+A. Looking at the affidavit?
+
+15
+
+Q. At the affidavit.
+
+16
+
+A. I probably spent a minute or so, however long it takes one to scan
+through.
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+(Ex. 1 at 36:6-37:3, 90:19-91:4.)
+Ms. Pec further made clear that at least some of the averments in her Affidavit were based
+solely on representations by Dell’s counsel. (See, e.g., Ex. 1 at 119:9-120:2.) And she made clear
+that the only basis for her opinion that the NASA Report was purportedly first available in the Library
+in September 1980 was a printout from the Online Computer Library Center (“OCLC”) — a thirdparty library service — regarding the NASA Report. (Ex. 1 at 90:2-6.) But while the OCLC printout
+contains an “entered” date that purportedly reflects when the Library acquired the NASA Report, Ms.
+Pec testified that she had no personal knowledge as to how this “entered” date was generated or
+maintained:
+Q. Have you ever worked for OCLC?
+
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3 OF
+U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+4
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 146
+
+4
+5
+
+Page 10 of 29
+
+A. Have I ever been an employee of OCLC? No.
+
+2
+3
+
+Filed 12/14/2007
+
+*
+
+*
+
+*
+
+Q. And you’re not personally involved in how OCLC maintains its
+databases?
+A. No, I am not.
+
+6
+
+Q. And you’re not aware of the physical equipment they use, their
+methodology, their processes and procedures?
+
+7
+
+A. As such, no.
+
+8
+9
+
+*
+
+*
+
+*
+
+Q. [W]ho creates the information that’s provided in the “entered” field?
+
+10
+
+A. The computer at OCLC creates that.
+
+11
+
+Q. And do you know how the computer at OCLC creates the date?
+
+12
+
+A. No, I don’t, sir.
+
+13
+
+(Ex. 1 at 63:3-4, 78:24-79:21.) Ms. Pec also testified that the OCLC printout she was relying upon
+
+14
+
+had been altered by an unknown third party since this litigation began:
+
+15
+
+Q. Does that mean that the record was replaced on March 22, 2004?
+
+16
+
+A. Yes, it does. It means something in the record was changed, but I
+couldn’t tell you what, and I couldn’t tell you who.
+
+17
+18
+
+*
+
+*
+
+*
+
+19
+
+Q. So you don’t know whether it was George Washington or somebody
+outside of George Washington who did that?
+
+20
+
+A. I have no idea.
+
+21
+22
+23
+24
+25
+26
+27
+28
+
+*
+
+*
+
+*
+
+Q. Do you know which fields or which information [were altered] in
+2004?
+A. No, I don’t.
+(Ex. 1 at 82:18-22, 85:20-23, 87:3-6.)
+Mr. Pec further testified that the OCLC database is not available to members of the public:
+Q: To access [OCLC] records, would you also need to enter a log in?
+
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3 OF
+U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+5
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 146
+
+Filed 12/14/2007
+
+Page 11 of 29
+
+A: Yes.
+
+2
+
+*
+
+3
+
+*
+
+*
+
+4
+
+Q: So assuming I were a GW student and could go into Gelman Library
+at the time, I would not have been able to walk up to the [OCLC]
+terminal and start using it?
+
+5
+
+A: That is correct . . .
+
+6
+
+(Ex. 1 at 65:17-66:5.) Furthermore, Larry Olszewski, a Director of OCLC, has indicated that the
+
+7
+
+Library did not join OCLC until 1987 (Ex. 1 at 89:6-24; Ex. 2), and Ms. Pec admitted that she has no
+
+8
+
+evidence to the contrary. (Ex. 1 at 29:7-15; 83:11-84:2.)
+
+9
+
+Ms. Pec also testified that subject-matter searching of OCLC records did not become available
+
+10
+
+until the 1990’s. (Ex. 1 at 122:4-20, 124:20-125:19.) Thus, a member of the public interested in
+
+11
+
+“computer graphics” — the subject matter field entered on the OCLC printout for the NASA Report
+
+12
+
+— in 1981 would not have been able to locate the NASA Report by subject-matter searching the
+
+13
+
+OCLC database, and could only have known to seek the NASA Report from the Library if previously
+
+14
+
+informed of its existence.
+
+15
+
+III.
+
+LEGAL STANDARDS
+
+16
+
+A.
+
+17
+
+Summary judgment is appropriate only where “the pleadings, depositions, answers to
+
+Summary Judgment.
+
+18
+
+interrogatories, and admissions on file, together with the affidavits, if any, show that there is no
+
+19
+
+genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of
+
+20
+
+law.” Celotex Corp. v. Catrett, 477 U.S. 317, 322-23 (1986); accord Fed. R. Civ. P. 56(c). Where, as
+
+21
+
+here, “the moving party bears the burden of proof at trial, it cannot obtain summary judgment unless it
+
+22
+
+presents evidence so compelling that no rational jury would fail to award judgment for the moving
+
+23
+
+party.” United States v. Boyce, 148 F. Supp. 2d 1069, 1080 (S.D. Cal. 2001). Furthermore, “[w]hen
+
+24
+
+ruling on a motion for summary judgment, all of the nonmovant’s evidence is to be credited, and all
+
+25
+
+justifiable inferences are to be drawn in the nonmovant’s favor.” Caterpillar Inc. v. Deere & Co., 224
+
+26
+
+F.3d 1374, 1379 (Fed. Cir. 2000).
+
+27
+28
+
+A summary judgment determination must also be guided by the appropriate burden of proof.
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3 OF
+U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+6
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 146
+
+Filed 12/14/2007
+
+Page 12 of 29
+
+1
+
+If the Court determines that a reasonable jury applying the proper burden of proof — in this case
+
+2
+
+clear-and-convincing evidence — could find for the nonmovant, then there exists a genuine issue of
+
+3
+
+material fact that precludes granting of summary judgment. See Anderson v. Liberty Lobby, Inc., 477
+
+4
+
+U.S. 242, 255 (1986).
+
+5
+
+B.
+
+6
+
+“A patent is invalid for anticipation when the same device or method, having all of the
+
+Anticipation.
+
+7
+
+elements and limitations contained in the claims, is described in a single prior art reference.” ATD
+
+8
+
+Corp. v. Lydall, Inc., 159 F.3d 534, 545 (Fed. Cir. 1998). “Every element of the claimed invention
+
+9
+
+must be literally present, arranged as in the claim.” Richardson v. Suzuki Motor Co., Ltd., 868 F.2d
+
+10
+
+1226, 1236 (Fed. Cir. 1989). Furthermore, “[t]o serve as an anticipating reference, the reference must
+
+11
+
+enable that which it is asserted to anticipate.” Elan Pharm., Inc. v. Mayo Found. for Medical Ed. and
+
+12
+
+Res., 346 F.3d 1051, 1054 (Fed. Cir. 2003). “Whether an invention is anticipated is a question of
+
+13
+
+fact.” Id.
+
+14
+
+Whether a document qualifies as a printed publication for prior art purposes “depends on the
+
+15
+
+accessibility of the document ‘to the extent that persons interested and ordinarily skilled in the subject
+
+16
+
+matter or art, exercising reasonable diligence, can locate it.’” Lucent Tech. Inc. v. Gateway, 02-CV-
+
+17
+
+2060 B (CAB), 2007 U.S. Dist. LEXIS 46863, at *15 (S.D. Cal. June 27, 2007) (quoting In re Wyer,
+
+18
+
+655 F.2d 221, 226 (C.C.P.A. 1981)); In re Hall, 781 F.2d 897, 898-99 (Fed. Cir. 1986) (“Because
+
+19
+
+there are many ways in which a reference may be disseminated to the interested public, ‘public
+
+20
+
+accessibility’ has been called the touchstone in determining whether a reference constitutes a ‘printed
+
+21
+
+publication.’”). “[O]ne who wishes to characterize the information, in whatever form it may be, as a
+
+22
+
+‘printed publication’ . . . should produce sufficient proof of its dissemination or that it has otherwise
+
+23
+
+been available and accessible to persons concerned with the art to which the document relates and
+
+24
+
+thus most likely avail themselves of its contents.” Carella v. Starlight Archery and Pro Line Co., 804
+
+25
+
+F.2d 135, 139 (Fed. Cir. 1986) (quoting In re Wyer, 655 F.2d 221, 227 (C.C.P.A. 1981) (quoting
+
+26
+
+Philips Elecs. & Pharm. Indus. Corp. v. Thermal & Elec. Indus., Inc., 450 F.2d 1164, 1171 (3d Cir.
+
+27
+
+1971)).
+
+28
+
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3 OF
+U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+7
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 146
+
+Filed 12/14/2007
+
+Page 13 of 29
+
+Where the public accessibility of a thesis, dissertation, or similar document is at issue, courts
+
+2
+
+look not only to whether the document was shelved in a public library, but also whether it was
+
+3
+
+“cataloged or indexed in a meaningful way.” In re Cronyn, 890 F.2d 1158, 1161 (Fed. Cir. 1989);
+
+4
+
+Ajinomoto Co. v. Archer-Daniels-Midland Co., C.A. No. 95-218-SLR, 1998 U.S. Dist. LEXIS 3833,
+
+5
+
+at *119 (D. Del. Mar. 13, 1998) (“The key to determining whether the [alleged prior art] thesis was
+
+6
+
+publicly available is whether the thesis was indexed, cataloged, and shelved on the critical date.”).
+
+7
+
+Dell bears the burden of proving, by clear and convincing evidence, that the NASA Report was
+
+8
+
+publicly accessible before May 19, 1981. Northern Telecom, Inc. v. Datapoint Corp., 908 F.2d 931,
+
+9
+
+936-37 (Fed. Cir. 1990); see Golden Blount, Inc. v. Robert H. Peterson Co., 365 F.3d 1054, 1058
+
+10
+
+(Fed. Cir. 2004).
+
+11
+
+C.
+
+12
+
+Because every patent is presumed valid, accused infringers face a “high burden of showing
+
+Obviousness.
+
+13
+
+invalidity on summary judgment.” Schumer v. Lab. Computer Sys., Inc., 308 F.3d 1304, 1315 (Fed.
+
+14
+
+Cir. 2002). “[A] moving party seeking to invalidate a patent at summary judgment must submit such
+
+15
+
+clear and convincing evidence of invalidity so that no reasonable jury could find otherwise.” Eli
+
+16
+
+Lilly and Co. v. Barr Labs., Inc., 251 F.3d 955, 962 (Fed. Cir. 2001) (emphasis added). If evidence is
+
+17
+
+presented establishing a prima facie case of invalidity, the nonmovant must come forward with
+
+18
+
+evidence sufficient to support a finding of validity, but “the ultimate burden of proving invalidity
+
+19
+
+remains with the challenger throughout the litigation.” Pfizer, Inc. v. Apotex, Inc, 480 F.3d 1348,
+
+20
+
+1360 (Fed. Cir. 2007).
+
+21
+
+A claimed invention can be found obvious only “if the differences between the subject matter
+
+22
+
+sought to be patented and the prior art are such that the subject matter as a whole would have been
+
+23
+
+obvious at the time the invention was made to a person having ordinary skill in the art.” 35 U.S.C. §
+
+24
+
+103(a). Obviousness is ultimately a question of law based on underlying determinations of fact.
+
+25
+
+Forest Labs., Inc. v. Ivax Pharms., Inc., 501 F.3d 1263, 1269 (Fed. Cir. 2007). The underlying factual
+
+26
+
+issues to be considered in an obviousness analysis that must be considered by the trier of fact include:
+
+27
+
+(1) the scope and content of the prior art; (2) the level of ordinary skill in the art; (3) the differences
+
+28
+
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3 OF
+U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+8
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 146
+
+Filed 12/14/2007
+
+Page 14 of 29
+
+1
+
+between the claimed invention and the prior art; and (4) objective indicia of nonobviousness.”
+
+2
+
+Daiichi Sankyo Co., Ltd. v. Apotex, Inc., 501 F.3d 1254, 1256 (Fed. Cir. 2007). Earlier this year, the
+
+3
+
+United States Supreme Court reaffirmed the primacy of those factors in determining whether a patent
+
+4
+
+is invalid for obviousness. See KSR Int’l Co. v. Teleflex Inc., 127 S. Ct. 1727, 1734 (2007) (citing
+
+5
+
+Graham v. John Deere Co., 383 U.S. 1, 17-18 (1966)).
+
+6
+
+“[R]ejections on obviousness grounds cannot be sustained by mere conclusory statements;
+
+7
+
+instead, there must be some articulated reasoning with some rational underpinning to support the legal
+
+8
+
+conclusion of obviousness.” KSR, 127 S. Ct. at 1741 (quoting In re Kahn, 441 F.3d 977, 988 (Fed.
+
+9
+
+Cir. 2006)). Thus, “the burden falls on the patent challenger to show by clear and convincing evidence
+
+10
+
+that a person of ordinary skill in the art would have had reason to attempt to make the composition or
+
+11
+
+device, or carry out the claimed process, and would have had a reasonable expectation of success in
+
+12
+
+doing so.” PharmaStem Therapeutics, Inc. v. Viacell, Inc., 491 F.3d 1342, 1360 (Fed. Cir. 2007)
+
+13
+
+(citing, inter alia, KSR, 127 S. Ct. at 1740).
+
+14
+
+In that regard, the Supreme Court has “acknowledged the importance of identifying ‘a reason
+
+15
+
+that would have prompted a person of ordinary skill in the relevant field to combine the elements in
+
+16
+
+the way the claimed new invention does’ in an obviousness determination.” Takeda Chem. Indus.,
+
+17
+
+Ltd. v. Alphapharm Pty., Ltd., 492 F.3d 1350, 1356-57 (Fed. Cir. 2007) (quoting KSR, 127 S. Ct. at
+
+18
+
+1731). Accordingly, “a patent . . . is not proved obvious merely by demonstrating that each of its
+
+19
+
+elements was, independently, known in the prior art.” KSR, 127 S. Ct. at 1731. For example,
+
+20
+
+“combining elements that work together ‘in an unexpected and fruitful manner’ would not have been
+
+21
+
+obvious.” PharmaStem, 491 F.3d at 1360 (quoting KSR, 127 S. Ct. at 1740). Moreover, “when the
+
+22
+
+prior art teaches away from combining certain known elements, discovery of a successful means of
+
+23
+
+combining them is more likely to be nonobvious.” KSR, 127 S.Ct at 1740.
+
+24
+
+IV.
+
+25
+26
+27
+28
+
+ARGUMENT
+A.
+
+A Genuine Factual Dispute Exists As To Whether The NASA Report Was A
+Printed Publication As Of The Filing Date Of The Fleming ‘759 Patent.
+
+Dell bears the burden of proving by clear and convincing evidence that the NASA Report is a
+
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3 OF
+U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+9
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 146
+
+Filed 12/14/2007
+
+Page 15 of 29
+
+1
+
+prior-art printed publication. Northern Telecom, 908 F.2d at 936-37. To show that the NASA Report
+
+2
+
+is a prior-art printed publication, Dell must prove all of the following facts: 1) that the NASA Report
+
+3
+
+physically existed within the Library before May 19, 19813; 2) that the NASA Report was catalogued
+
+4
+
+and meaningfully indexed by subject matter before May 19, 1981; 3) that an interested member of the
+
+5
+
+public could have learned of the NASA Report’s existence before May 19, 1981; and 4) that such a
+
+6
+
+member of the public could have accessed the NASA Report within the private Special Collections
+
+7
+
+Department of the Library before May 19, 1981. The lack of any of these elements would be fatal to
+
+8
+
+Dell’s motion. The lack of all of them confirms that the NASA Report is not prior art.
+
+9
+
+B.
+
+10
+
+Dell’s “Evidence” Is Unreliable And Should Be Excluded.
+
+As a threshold matter, the evidence submitted by Dell to prove prior publication of the NASA
+
+11
+
+Report, the Pec Affidavit and the attached OCLC printout, is unreliable and should be excluded. With
+
+12
+
+respect to the Pec Affidavit, Ms. Pec has no firsthand knowledge of when the NASA Report was first
+
+13
+
+cataloged and shelved, or where the report was first shelved. In fact, Ms. Pec testified at her
+
+14
+
+deposition that she has never even seen the original NASA Report. (Ex. 1 at 69:5-13.) While Ms.
+
+15
+
+Pec may be able to provide evidence of general library practices in effect since her employment at the
+
+16
+
+Library in 1993, she is unable to provide evidence of the general library practice during the relevant
+
+17
+
+time period:
+
+18
+19
+
+Q. Have you had any specific conversations regarding what policies
+and procedures were used in 1980 and 1981 to catalog special collection
+material at George Washington University?
+
+20
+
+A. No.
+
+21
+
+Q: Once the material was returned to special collection, do you know
+where it would be shelved or maintained?
+
+22
+
+A. No, I don’t.
+
+23
+
+*
+
+24
+
+27
+28
+
+*
+
+Q. And have you done any investigation into the specific policies and
+procedures in place in 1980 and ‘81 regarding when a document such as
+
+25
+26
+
+*
+
+For purposes of this motion only, Lucent is assuming the invention date of the claims 1-3 of the
+Fleming ‘759 Patent is the filing date of the patent, May 19, 1981.
+3
+
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3 OF
+U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+10
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+2
+
+Document 146
+
+Filed 12/14/2007
+
+Page 16 of 29
+
+[the NASA Report] would have been returned to the special collections
+department?
+
+3
+
+A. You’ve asked similar questions earlier, and no, I have not done any
+research into that.
+
+4
+
+Q. And by “research,” just to clarify, you haven’t spoken to anybody
+on the subject?
+
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+A. No.
+Q. And you haven’t looked at any documents on the subject?
+A. No.
+(Ex. 1 at 102:4-17.) This case is analogous to Ajinomoto Co., Inc. v. Archer-Daniels-Midland Co.,
+which found on similar facts that a witness did not have sufficient knowledge to establish when a
+thesis was indexed, cataloged and, shelved:
+Dr. Tribe had no first-hand knowledge of the procedures employed by
+the university libraries, being a doctoral candidate not a member of the
+library personnel. Moreover, he was not present at the university for
+most of the 1977 to 1978 period; consequently, he admitted that there
+were ‘many details of the cataloging with which [he] would not be
+familiar.’ Thus, his testimony is speculative and not probative of
+general indexing, cataloging, and shelving procedures in the
+University of Melbourne libraries at issue.
+
+16
+
+1998 U.S. Dist. LEXIS 3833, at *120. Thus, even though Ms. Pec is a current employee of the
+
+17
+
+Library, she was not an employee during the relevant time period, nor was she present during the
+
+18
+
+relevant time period. She has no knowledge of the specific catalog and shelving policies and
+
+19
+
+procedures in place in 1980 and 1981. Therefore, her testimony, like the testimony at issue in
+
+20
+
+Ajinomoto, “is speculative and not probative of general indexing, cataloging, and shelving
+
+21
+
+procedures” in the Library during the relevant time period. The Pec Affidavit cannot support Dell’s
+
+22
+
+allegation that the NASA Report is prior art.
+
+23
+
+With respect to the OCLC printout attached to Ms. Pec’s Affidavit, the printout is hearsay
+
+24
+
+without any exception and is therefore inadmissible. It is well settled that “[a] trial court can only
+
+25
+
+consider admissible evidence in ruling on a motion for summary judgment.” Orr v. Bank of Am., 285
+
+26
+
+F.3d 764, 773 (9th Cir. 2002) (citing Fed. R. Civ. P. 56(e)); Beyene v. Coleman Sec. Servs., Inc., 854
+
+27
+
+F.2d 1179, 1181 (9th Cir. 1988)). Dell is relying on the OCLC printout for the truth of the maters
+
+28
+
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3 OF
+U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+11
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 146
+
+Filed 12/14/2007
+
+Page 17 of 29
+
+1
+
+recited therein, rendering the OCLC printout hearsay. See Fed. R. Evid. 801(c). Absent a narrow
+
+2
+
+range of exceptions, hearsay is inadmissible. Dell has failed to present evidence that any of those
+
+3
+
+exceptions apply.
+
+4
+
+For example, Ms. Pec’s testimony demonstrates her inability to qualify the OCLC printout as a
+
+5
+
+business record under Fed. R. Evid. 803(6). Ms. Pec stated during her deposition that she had nothing
+
+6
+
+to do with the creation or maintenance of the OCLC printout, and indeed she is not even an employee
+
+7
+
+of OCLC:
+
+8
+
+Q. Okay. Just to make sure that I have it clear, this [OCLC printout]
+was accessed from a database maintained by OCLC?
+
+9
+
+A. Yes.
+
+10
+11
+
+Q. And you’re not personally involved in how OCLC maintains its
+databases?
+
+12
+
+A. No, I am not.
+
+13
+
+Q. You’re not aware of the physical equipment they use, their
+methodology, their processes and procedures?
+
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+
+A. As such, no.
+(Ex. 1 at 78:20-79:6.)
+The inadmissibility of hearsay is grounded on the unreliability of such testimony. The
+accuracy of its contents cannot be subject to cross-examination or otherwise investigated. These
+considerations are especially apt in the present situation where the OCLC printout was altered in some
+way after the commencement of this litigation. (See § I.A, supra.) Neither which aspects have been
+altered nor the party responsible for the alteration are known. (Id.) Such unreliability reinforces the
+propriety of the legal requirement that the hearsay OCLC printout be excluded from evidence.
+C.
+
+Dell Has Failed to Prove That The NASA Report Was Publicly Accessible Before
+May 19, 1981.
+
+If Ms. Pec’s Affidavit and the OCLC printout are struck from evidence as they should be,
+
+25
+
+Dell’s motion fails a priori. But even if the Pec Affidavit and the OCLC printout are considered on
+
+26
+
+this motion, Dell has still failed to prove that the NASA Report is a prior-art printed publication. Dell
+
+27
+
+has failed to offer evidence that interested members of the public could have located the NASA
+
+28
+
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3 OF
+U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+12
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 146
+
+Filed 12/14/2007
+
+Page 18 of 29
+
+1
+
+Report in 1981 or that they could have accessed the NASA Report once aware of its existence. This
+
+2
+
+lack of public availability defeats Dell’s motion.
+
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+
+1.
+
+A Member Of The Public Could Not Have Located The NASA Report
+Before May 19, 1981.
+
+A document within a library cannot be a printed publication if it is not “catalogued or indexed
+in any meaningful way.” In re Cronyn, 890 F.2d at 1161. This requires more than just indexing by an
+author’s name and the work’s title; it requires research aids which bear a relationship to the subject
+matter of the document. Id. As the party asserting the affirmative defense of invalidity, Dell bears
+the burden of proving this subject-matter indexing by clear and convincing evidence.
+But Dell has offered no evidence that members of the public could have found the NASA
+Report in any index or catalogue in 1981. First, the OCLC printout, to the extent it comprises
+evidence of subject-matter indexing of the NASA Report, was not accessible to the public. As Ms.
+Pec testified, OCLC records required user names and passwords to access and were only available on
+dedicated terminals whose use was limited to specific library personnel. (See § I.B, supra.) Without
+access to OCLC, an interested member of the public would have had no means of discovering the
+NASA Report’s existence in 1981. See Exxon Corp. v. Mobil Oil Corp., C.A. No. H-96-3795, 1998
+U.S. Dist. LEXIS 17555, at *29-30 (S.D. Tex. 1ug. 13, 1998) (finding that a thesis was not prior art
+where there was no publicly accessible index that referenced the thesis).
+But even if members of the public had access to OCLC, that would not cure the defect in
+cataloguing. Notwithstanding the averments in her Affidavit, Ms. Pec testified during her deposition
+that subject matter searching for the NASA Report was not available until long after the relevant
+1980-81 time period:
+
+23
+
+Q. What is your earliest knowledge of it being searchable by subject
+matter? What date is earliest?
+
+24
+
+A. I would have to estimate subject --
+
+25
+
+Q. To your knowledge
+
+26
+
+A. Sometime in the 1990s for subject searching.
+
+27
+
+(Ex. 1 at 122:9-15.) Ms. Pec’s counsel even examined her during her deposition to make clear that
+
+28
+
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3 OF
+U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+13
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 146
+
+Filed 12/14/2007
+
+Page 19 of 29
+
+1
+
+any implication to the contrary — that the NASA Report was indexed by subject matter in 1981 —
+
+2
+
+was a misreading of the Affidavit. (Ex. 1 at 124:20-125:19.) Moreover, George Washington
+
+3
+
+University did not become a member of OCLC until 1987. (Ex. 2.)
+
+4
+
+Dell has thus failed to adduce any evidence of subject-mater indexing of the NASA Report
+
+5
+
+during the relevant time frame. Dell has therefore failed to carry its burden of proof for summary
+
+6
+
+judgment.
+
+7
+8
+9
+
+2.
+
+The NASA Report Was Not Physically Accessible Before May 19, 1981.
+
+In addition to requiring subject-matter indexing, courts have held that a document must be
+physically accessible to the public to constitute a printed publication. See Constr. Tech., Inc. v. The
+
+10
+
+Lockformer Co., Inc., 86 Civ. 0457 (JSM), 88 Civ. 0742 (JSM), 1990 U.S. Dist. LEXIS 20000, at
+
+11
+
+*17-18 (S.D.N.Y. November 2, 1990) (holding that theses that were cataloged but not physically
+
+12
+
+accessible to the public are not “printed publications”); RCA Corp. v. Data Gen. Corp., 701 F. Supp.
+
+13
+
+456, 468 (D. Del. 1988).
+
+14
+
+As discussed above, the Special Collections Department of the Library is closed to the public.
+
+15
+
+Even if an interested member of the public were to have learned of the existence of the NASA Report
+
+16
+
+prior to May 19, 1981, that person would have been unable to enter the Special Collections
+
+17
+
+Department, a closed stack portion of the Library that did not allow non-staff members to enter and
+
+18
+
+did not allow its holdings to leave the Library. (See § I.C, supra.) And Ms. Pec was unable to
+
+19
+
+provide any evidence regarding how access could be accomplished:
+
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Q. If someone who was physically at Gelman Library went to the
+special collections department to request access to material, do you
+understand what the policies or criteria would be for granting access to
+that individual?
+A. No, I don’t.
+(Ex. 1 at 62:3-8.) Such limited access defeats Dell’s assertion that the NASA Report constitutes prior
+art. See Northern Telecom, 908 F.2d at 936-37 (Fed Cir. 1990) (holding that a document within a
+library that was restricted to authorized personal did not constitute prior art). Thus, even if the NASA
+Report had been sufficiently catalogued, this limited physical access to the NASA Report would
+
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3 OF
+U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+14
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+Document 146
+
+Filed 12/14/2007
+
+Page 20 of 29
+
+prevent it from constituting prior art.
+3.
+
+No Evidence Exists That The NASA Report Was Shelved In The Library
+Before May 19, 1981.
+
+There is also no evidence as to when the NASA Report was first shelved in the library. A
+document’s existence within a library is not sufficient to qualify the document as prior art if its
+processing is not complete, i.e., if the document is not yet shelved. See In re Bayer, 568 F.2d 1357,
+1362 (C.C.P.A 1978) (explaining that a thesis, whose processing was not completed by the critical
+date was not a printed publication). Thus, even if subject-matter indexing existed in 1981, there is no
+evidence as to whether the NASA Report would have been present at the proper physical location
+before May 19, 1981.
+Ms. Pec testified that she did not know the timeframe for cataloging and shelving documents
+in the Special Collections Department in the 1980-1981 timeframe:
+Q. Regarding the special collections department, are you aware for the
+1980 to 1981 time frame how long it took them to process a document
+when they got it back from CMS or the equivalent entity in those days?
+A. No, I’m not personally aware.
+
+16
+
+Q. Do you know how long it would have taken for that item to end up
+on the shelves, once it had been cataloged?
+
+17
+
+A. No, I’m not personally aware of how long it would take to have
+shelved the document.
+
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+(Ex. 1 at 105:4-14.) Thus, no evidence exists of when the NASA Report was actually placed on the
+shelves within the Special Collections Department of the Library. Ms. Pec’s Affidavit, based upon
+the hearsay OCLC printout, cannot cure this defect:
+Q. Do you know in the 1980/81 time frame, how long it would have
+taken for a card catalog entry to be generated by OCLC and sent to a
+library after the information was uploaded into OCLC?
+A. No, I don’t.
+*
+
+*
+
+*
+
+Q. Just a few follow-up questions on what we’ve discussed today.
+Are you aware in the 1980/1981 time frame for OCLC how long
+between an entry was created to when it would be available to other
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3 OF
+U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+15
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 146
+
+1
+
+users of the system?
+
+2
+
+A. No, I’m not specifically aware.
+
+3
+
+Filed 12/14/2007
+
+Page 21 of 29
+
+(Ex. 1 at 82:6-10, 104:23-105:3.)
+
+4
+
+In view of the foregoing, it is clear that Dell has not even come close to meeting its clear-and-
+
+5
+
+convincing burden of proving that the NASA Report is a prior-art printed publication. Dell’s motion
+
+6
+
+for summary judgment should therefore be denied.
+
+7
+
+V.
+
+8
+9
+10
+11
+12
+13
+14
+
+Even If The NASA Report Is Prior Art, Dell Has Failed To Prove That The NASA
+Report Invalidates The Asserted Claims Of The Fleming ‘759 Patent.
+A.
+
+The NASA Report Does Not Anticipate Claims 1-3.
+
+Dell contends that the NASA Report anticipates claims 1-3 of the Fleming ‘759 Patent. As set
+forth below, however, the NASA Report, even if prior art, fails to disclose the first and third modes of
+access of claim 1, and therefore does not anticipate claims 1-3.
+1.
+
+The NASA Report Does Not Disclose The First Mode Of Access Of Claim
+1.
+
+Dell contends that the first mode of access of claim 1 (which is also required by claims 2 and
+
+15
+
+3) — “wherein an in-use color is directly specified as a color data value” — is satisfied by the
+
+16
+
+SET_CURRENT_COLOR (R,G,B) and SET_COLOR functions described in the NASA Report. It is
+
+17
+
+undisputed that the operands of these functions — R, G, B and C1, C2, and C3 — ultimately call for a
+
+18
+
+particular color. But it is also undisputed that these operands are floating point, or real, numbers that
+
+19
+
+must be converted to integers before the display system can interpret them as color data values.
+
+20
+
+Thus, while these functions call for a particular color, they do not directly do so, as the plain language
+
+21
+
+of claim 1 requires. (Richter Dec. ¶ 39.)
+
+22
+23
+
+Indeed, James Foley, one of the authors of the NASA Report, testified:
+
+24
+
+Q. Okay. So I understand this, then, so when it comes time to specify
+-- when it comes time for the application, for them to specify an R, G,
+B value, that value is specified as floating point, right?
+
+25
+
+A. That’s correct.
+
+26
+
+Q. But in order to work with the hardware, that floating point needs
+to be converted into an integer at some point?
+
+27
+28
+
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3 OF
+U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+16
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 146
+
+Filed 12/14/2007
+
+Page 22 of 29
+
+1
+
+A. Correct.
+
+2
+
+[Objection omitted]
+
+3
+
+A. It needs to go through -- it needs to be converted into a integer by
+means of a multiply and round.
+
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+(Thomases Dec. Ex. 17 at 94.) Thus, because of this intermediate conversion step that is necessary
+for the display system to understand the operands of the SET_CURRENT_COLOR (R,G,B) and
+SET_COLOR functions as color data values, these functions do not directly specify color.
+Dell’s arguments to the contrary are unavailing. First, Dell argues that the first mode of access
+of claim 1 is satisfied by the SET_CURRENT_COLOR (R,G,B) and SET_COLOR functions because
+these functions “call for” a particular color in accordance with the Court’s claim construction for the
+phrase “specified by.” But Dell misses the point. There is no dispute that the operands of
+SET_CURRENT_COLOR (R,G,B) and SET_COLOR call for a particular color. There is also no
+dispute, however, that they do not directly call for a particular color as claim 1 requires. Rather, they
+must first be converted from floating point to integer form through at least a multiply and round
+procedure so that they can be processed by the system. The colors are therefore not directly specified.
+(Richter Dec. ¶ 39.)
+Second, Dell argues that this interpretation is “squarely at odds” with the patent. (Dell Br. 10.)
+But this argument is not only incorrect, it is irrelevant. The Fleming ‘759 Patent clearly discloses
+direct color specification through the use of integers. For example, in discussing the color selection
+process in mode 0 — which corresponds to the first mode of access of claim 1 — the patent indicates
+that the specified RGB value is compared to the RGB values in the color memory and the color is set
+to the closest match in the color memory. (Col. 7, lns. 25-34.) And the RGB values in the color
+memory are described as binary integers. (See, e.g., col. 5, lns. 37-41.)
+But more importantly, it is the claim language, not the specification, that defines the scope of
+the invention. At bottom, Dell’s argument is that the word “directly” in the first mode of access is
+superfluous and should be read out of the claim, so that in the first mode of access “an in-use color is
+directly specified as a color data value.” Dell’s attempt to delete the word “directly” from claim 1
+
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3 OF
+U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+17
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 146
+
+Filed 12/14/2007
+
+Page 23 of 29
+
+should be rejected.4
+
+2
+
+In view of the foregoing, the NASA Report does not disclose the first mode of access of claim
+
+3
+
+1, and therefore cannot anticipate claim 1. Because claims 2 and 3 also require the first mode of
+
+4
+
+access of claim 1 by virtue of the Court’s corresponding structure for the mode selecting function of
+
+5
+
+those claims, the NASA Report also does not anticipate claims 2 and 3.
+
+6
+
+2.
+
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+The NASA Report Does Not Disclose The Third Mode Of Access Of Claim
+1.
+
+Dell also contends that the NASA Report discloses the third of mode of access of claim 1
+(which is also required by claims 2 and 3) — “wherein the in-use foreground color and an in-use
+background color are specified as indexes into the color memory” — via the
+SET_BACKGROUND_COLOR_INDEX (INDEX) and SET BACKGROUND INDEX functions.
+These functions, however, do not specify an in-use background color as construed by the Court: “a
+color that will be used as the background color for subsequently received text and graphics drawing
+commands until changed.” (Thomases Dec. Ex. 4.)
+The SET_BACKGROUND_COLOR_INDEX (INDEX) and SET BACKGROUND INDEX
+functions set the background of the entire screen to the specified index value after the issuance of a
+NEWFRAME command. (Richter Dec. ¶ 41; Thomases Dec. Ex. 16 at 165, 175; Thomases Dec. Ex.
+17 at 151-52.) After the background color of the screen has been set, subsequently received text and
+graphics drawing commands draw in a foreground color only — referred to as the “stroke” portion of
+the character — over the previously set background color of the entire screen. As Dr. Wedig testified:
+Q. Will you agree that the command that’s drawing the O is not
+
+21
+
+Dell’s attempt to rely on the NASA Report’s reference to direct color specification and Dr. Foley’s
+testimony concerning direct color specification is irrelevant. The issue is not whether the NASA
+Report or Dr. Foley refer to the type of color specification used with the SET_CURRENT_COLOR
+(R,G,B) and SET_COLOR functions as direct color specification. Rather, the issue is how those
+functions actually specify color in view of the claims and the Court’s construction. And as discussed
+above, they do not do so directly as required by claim 1. Nor is Dell’s argument that the draft Bell
+Home Information System Provision Standard (Blackburn Dec. Ex. 17) refers to a color value
+“represent[ing] a binary fraction” relevant. First, “representing” a binary fraction and actually being a
+binary fraction are not the same thing. More importantly however, it is the claims and the Court’s
+construction that determine the scope of the claimed invention, not documents that evidence
+conception of the invention.
+
+4
+
+22
+23
+24
+25
+26
+27
+28
+
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3 OF
+U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+18
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 146
+
+Filed 12/14/2007
+
+Page 24 of 29
+
+1
+
+drawing in that background color, correct?
+
+2
+
+[OBJECTION OMITTED]
+
+3
+4
+
+A. The command for setting -- for drawing an O in a Core-based
+system draws the -- what -- maybe we can agree on calling it the stroke
+portion of it, the actual portion that you see of the physical letter.
+
+5
+
+(Thomases Dec. Ex. 16 at 176.) Dr. Wedig further testified that the NASA Report does not disclose
+
+6
+
+any text or graphics drawing commands that draw in a background color. Rather, the background of
+
+7
+
+the entire color is specified, a NEWFRAME command is issued to set the color of the entire screen,
+
+8
+
+and then text and graphics are drawn using only the foreground color:
+
+9
+10
+
+Q. Can you tell me if the NASA Final Report discloses an actual text
+or graphics command that draws not only the stroke portion, but the
+background portion?
+
+11
+
+[OBJECTION OMITTED]
+
+12
+
+A. (Reviewing document.) Well, that -- that would be accomplished
+by setting the background, issuing the new frame, then issuing the -the text or graphics command. So it requires a combination of
+commands. It’s not a single command.
+
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+(Thomases Dec. Ex. 16 at 177.)
+To draw a character with a background color in the purported implementation CORE system
+described by the NASA Report, one would have to set the foreground color to the desired background
+color, and then draw a small rectangle on the screen. One would then reset the foreground color to
+the desired color of the character, and then draw that character in that foreground color over the
+previously drawn rectangle:
+Q. For example, if I wanted to draw the letter “O” on a blue back -- on
+a screen that has a blue background, where the strike is black and the
+portion within was yellow, could I do that?
+A. Okay, so again, the question was -Q. Could I do that?
+A. I could do that by drawing a little rectangle of the background
+color and then putting the text on top of that.
+(Thomases Dec. Ex. 17 at 39-40.)
+Thus, in the purported implementation of the CORE system described by the NASA Report,
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3 OF
+U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+19
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 146
+
+Filed 12/14/2007
+
+Page 25 of 29
+
+1
+
+only a foreground color can be used for subsequently received text and graphics drawing commands.
+
+2
+
+The text and graphics drawing commands draw in foreground color over the previously set or default
+
+3
+
+background color of the entire screen, whatever that color may be and without regard to what the
+
+4
+
+color may be. Because the text and graphics drawing commands draw only in a foreground color over
+
+5
+
+a previously set background color, no background color is used for these commands.
+
+6
+
+Dell argues that Lucent is relying on an erroneous reading of the Court’s construction, because
+
+7
+
+the Court’s construction only requires that the in-use background color be used “for” subsequently
+
+8
+
+received text and graphics drawing commands, not “by” them. But this is just wordplay. As a matter
+
+9
+
+of common sense, if a drawing command does not draw in a background color, then a background
+
+10
+
+color is not used for that command. A background color may independently form the background of
+
+11
+
+the text or graphics that is drawn by the command, but it is not used for the command itself, which is
+
+12
+
+what the Court’s claim construction requires.5
+
+13
+
+Moreover, Defendants admitted during the claim construction hearing in this case that in-use
+
+14
+
+foreground and background colors are colors that are drawn by subsequently received drawing
+
+15
+
+commands:
+
+16
+
+So when the terminal processor receives the draw command, what it
+does is it looks to see what the current foreground and background
+colors are, you know, the in-use foreground and in-use background
+colors, and it will write into video memory in the particular pixels that
+the host computer tells it to draw in certain color information. And
+it’ll set the foreground color for character and video memory to two
+and the background color to seven.
+
+17
+18
+19
+20
+
+(Ex. 11 at 230-31.) This is also consistent with the Summary of the Invention of the Fleming ‘759
+
+21
+
+Patent, which states that “[t]hese in-use drawing colors may be applied by subsequently received text
+
+22
+
+and graphics drawing commands.” (Fleming ‘759 Patent, col. 1, lns. 61-63.) Finally, Dell’s technical
+
+23
+
+expert admitted in his original expert report on the issue of alleged invalidity that an in-use
+
+24
+Dell’s argument that the draft Bell Home Information System Provision Standard (Blackburn Dec.
+Ex. 17) discloses a point drawing command that does not draw in a background color is irrelevant,
+since there is no background associated with a point. More importantly however, as discussed
+previously, it is the claims and the Court’s construction that determine the scope of the claimed
+invention, not documents that evidence conception of the invention.
+5
+
+25
+26
+27
+28
+
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3 OF
+U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+20
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 146
+
+Filed 12/14/2007
+
+Page 26 of 29
+
+1
+
+background color is written into the video memory (frame buffer) along with the in-use foreground
+
+2
+
+color by the same drawing command at the same time:
+
+3
+
+In many image display systems, the idea of foreground and background
+color is used to help specify the image on the display. The application
+program issues a command to the image display system and instructs the
+system that a foreground color is to be used for subsequent drawing
+commands.
+The user can also issue command that particular
+background color is to be used for all future drawing commands. Then,
+whenever a command to draw an object with foreground and
+background characteristics is issued, the previously specified foreground
+and background colors are used to determine the Pixel values in Video
+Memory to create the object on the display.
+
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+
+(Ex. 12, ¶ 14.)
+In view of the foregoing, it is clear that the NASA Report does not disclose an “in-use
+background” color as construed by the Court, and therefore does not anticipate claims 1-3 of the
+Fleming ‘759 Patent.
+B.
+
+Ample Evidence Establishes A Genuine Dispute Concerning
+The Alleged Obviousness Of Claims 1-3 Of The Fleming ‘759 Patent.
+
+Realizing that its anticipation case fails, Dell retreats to an obviousness argument. First, Dell
+
+15
+
+contends that to the extent the NASA Report does not disclose direct color specification, it would
+
+16
+
+have been obvious to modify the system described in the NASA Report to include direct color
+
+17
+
+specification. Second, Dell contends that to the extent the NASA Report does not disclose an in-use
+
+18
+
+background color, it would have been obvious to modify the system described in the NASA Report to
+
+19
+
+include an in-use background color. But genuine factual disputes exist as to whether or not these
+
+20
+
+elements would have been obvious to one of ordinary skill in the art, precluding summary judgment.
+
+21
+
+With respect to the issue of direct color specification, Dell raises for the first time in its brief
+
+22
+
+the argument that it would have been obvious to modify the system described in the NASA Report to
+
+23
+
+include color specification through the use of integer RGB values. But Dell offers no expert opinion
+
+24
+
+in support of this new argument, and instead relies solely on attorney argument. It is Mr. Richter’s
+
+25
+
+opinion, however, that modifying the system described in the NASA Report to specify colors using
+
+26
+
+integer RGB values would not have been obvious to one of ordinary skill in the art. (Richter Dec.
+
+27
+
+¶ 40.) As Mr. Richter explains in his Declaration, the use of floating point specification gives the
+
+28
+
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3 OF
+U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+21
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 146
+
+Filed 12/14/2007
+
+Page 27 of 29
+
+1
+
+system described in the NASA Report increased flexibility, in that using floating point specification
+
+2
+
+enables color to be specified without regard to the actual color depth, i.e., the number of bits of R, G,
+
+3
+
+and B, required by different types of graphics hardware that could be used with the system. (Id.) A
+
+4
+
+conversion could then be used to convert to the appropriate color depth. (Id.) Thus, in Mr. Richter’s
+
+5
+
+opinion, eliminating floating point specification from a flexible system to make a less flexible system
+
+6
+
+would not have been something that was obvious to one of ordinary skill in the art, but in fact would
+
+7
+
+have completely counterintuitive. (Id.)
+
+8
+9
+
+With respect to Dell’s contention that it would have been obvious to modify the system of the
+NASA Report to include an in-use background color, Dell relies on attorney argument and a
+
+10
+
+conclusory expert opinion from Dr. Wedig. The following is the sum total of Dr. Wedig’s opinion on
+
+11
+
+this issue:
+
+12
+13
+14
+15
+16
+17
+18
+
+To the extent that Lucent or its expert assert that the NASA Final
+Report does not disclose the “in-use background color” element, it is
+my opinion that a person of ordinary skill in the art would have
+knowledge of systems that had the ability to set the background color of
+individual characters or graphic primitives by index to a color memory.
+See, for example, The Application of The Intercolor 8000 Terminal To
+Thematic Cartography, James R. Carter, Siggraph ‘76, July 14-16, 1976
+at p. 163; Ramtek 9000 Series Graphic Display System Programming
+Manual at p. 3-21; Antiope Specification, pp. 6-7. Therefore, at a
+minimum, the NASA Final Report, in view of the knowledge of a
+person of ordinary skill would render this claim obvious.
+
+19
+
+(Thomases Dec. Ex.15, ¶ 88.) As the foregoing make clear, Dr. Wedig’s opinion is that it would
+
+20
+
+have been obvious to modify the NASA Report to include an in-use background color because
+
+21
+
+purportedly “a person of ordinary skill in the art would have knowledge of systems that had the ability
+
+22
+
+to set the background color of individual characters or graphic primitives by index to a color
+
+23
+
+memory.” But Dr. Wedig provides no explanation as to why one of ordinary skill in the art would
+
+24
+
+have been led to make the suggested combination. Dr. Wedig’s opinion amounts to an argument that
+
+25
+
+using an in-use background color in connection with the system described in the NASA Report would
+
+26
+
+have been obvious to one of ordinary skill in the art merely because background colors were known in
+
+27
+
+the art. This conclusory opinion is not only inadequate for Gateway to carry its summary judgment
+
+28
+
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3 OF
+U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+22
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 146
+
+Filed 12/14/2007
+
+Page 28 of 29
+
+1
+
+burden here, but it is contrary to KSR’s admonition that “[a] patent . . . is not proved obvious merely
+
+2
+
+by demonstrating that each of its elements was, independently, known in the prior art.” KSR, 127 S.
+
+3
+
+Ct. at 1731.
+
+4
+
+In contrast, Mr. Richter has opined that, given the fact that the system described in the NASA
+
+5
+
+Report, which uses stroke commands as discussed above, has no text or graphics drawing commands
+
+6
+
+that could make use of a background color, one of ordinary skill in the art would not have been led to
+
+7
+
+combine an in-use background color with the NASA Report system. (Richter Dec. ¶ 40; Richter Dec.
+
+8
+
+Ex. 1, ¶ 48; Richter Dec. Ex. 2, ¶ 13.) Indeed, since no commands in the NASA Report system could
+
+9
+
+use a background color, such a combination would have been inoperative.
+
+10
+11
+12
+
+Realizing the deficiency of the opinion set forth in his report, Dr. Wedig tried to remedy his
+opinion during his deposition:
+
+14
+
+Q. Okay. You don’t explain, though, why, in your opinion, one of
+ordinary skill in the art might take the system talked about in the
+NASA Final Report and add the ability to set the background color of
+individual characters or graphic primitives by index to a color
+memory, right?
+
+15
+
+[OBJECTION OMITTED]
+
+16
+
+A. Yeah, I said that I think that that is just something that would be
+obvious to one of ordinary skill. You -- all of the pieces are there, and
+it’s a -- it’s a non -- I think a noncreative step to -- to take it the final -the final -- the final step; that is, the in-use background color, first of
+all, as I said, I believe it’s already taught, but even if the Court feels
+that it’s not directly taught, that it would be obvious to one of ordinary
+skill that you could create a background -- create an in-use background
+color by using an index to a color memory, because this is just
+something that would have been knowledgeable to one of ordinary
+skill.
+
+13
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+(Wedig Tr. 180.) In response to this newly proffered opinion that the addition of an in-use
+background color would not have been a creative step — which still does not explain why someone of
+ordinary skill in the art would have been led to make the asserted combination — Mr. Richter
+submitted a supplemental report prior to his deposition, and upon which he was questioned at his
+deposition, indicating his opinion that the proposed combination would have been creative. (Richter
+Dec. Ex. 2 ¶ 13.) Mr. Richter reiterated his previously expressed opinion that adding an in-use color
+
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3 OF
+U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+23
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 146
+
+Filed 12/14/2007
+
+Page 29 of 29
+
+1
+
+to a stroke-based system that could not make use of such a color would make no sense from a
+
+2
+
+technical perspective, and therefore would not have been a predicable combination leading to
+
+3
+
+predicable results. (Id.; Thomases Dec. Ex. 5 at 610-614.) Mr. Richter also pointed out that
+
+4
+
+developers of the CORE System, who were leaders in the field of computer graphics in the late 1970’s
+
+5
+
+and early 1980’s, did not include an in-use background color in the version of the CORE system
+
+6
+
+described in the NASA Report, demonstrating that there were no particular design or market demands
+
+7
+
+for an in-use background color or the ability to specify such a color. (Id.)
+
+8
+9
+10
+11
+12
+
+In view of the foregoing, it is clear that a genuine dispute exists as to whether claims 1-3 of the
+Fleming ‘759 Patent would have been obvious in view of the NASA Report.
+VI.
+
+CONCLUSION
+For all the foregoing reasons, Lucent respectfully requests that the Court deny Dell’s motion
+
+for summary judgment that claim 1, 2, and 3 of the Fleming ‘759 patent are invalid.
+
+13
+14
+
+Dated: December 14, 2007
+
+By:
+
+15
+
+s/David A. Hahn
+
+David A. Hahn (SBN 125784)
+HAHN & ADEMA
+501 West Broadway, Suite 1600
+San Diego, California 92101-3595
+Telephone: (619) 235-2100
+Facsimile: (619) 235-2101
+
+16
+17
+18
+
+22
+
+John M. Desmarais (admitted pro hac vice)
+Robert A. Appleby (admitted pro hac vice)
+James E. Marina (admitted pro hac vice)
+KIRKLAND & ELLIS LLP
+153 East 53rd Street
+New York, New York 10022
+Telephone: (212) 446-4800
+Facsimile: (212) 446-4900
+
+23
+
+Attorneys for Lucent Technologies Inc.
+
+19
+20
+21
+
+24
+25
+26
+27
+28
+
+LUCENT’S OPPOSITION TO DELL’S MOTION FOR
+SUMMARY JUDGMENT OF INVALIDITY OF CLAIMS 1-3 OF
+U.S. PATENT NO. 4,439,759 TO FLEMING ET AL.
+
+24
+
+Case No. 07-CV-2000-H (CAB)
+
+

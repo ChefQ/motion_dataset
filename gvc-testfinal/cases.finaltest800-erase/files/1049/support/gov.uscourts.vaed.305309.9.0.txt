@@ -1,0 +1,1099 @@
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 1 of 32 PageID# 143
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF VIRGINIA
+NORFOLK DIVISION
+HILL-ROM COMPANY, INC.,
+HILL-ROM SERVICES, INC., and
+HILL-ROM MANUFACTURING, INC.
+Plaintiffs,
+v.
+GENERAL ELECTRIC COMPANY,
+Defendant.
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+Case No. 2:14-cv-187
+
+MEMORANDUM OF LAW IN SUPPORT OF PLAINTIFFS’
+MOTION FOR PRELIMINARY INJUNCTION
+INTRODUCTION AND FACTUAL BACKGROUND
+Plaintiffs
+
+Hill-Rom
+
+Company,
+
+Inc.,
+
+Hill-Rom
+
+Services,
+
+Inc.,
+
+and
+
+Hill-Rom
+
+Manufacturing, Inc. (collectively, “Hill-Rom”) seek a preliminary injunction to enjoin Defendant
+General Electric Company (“GE”) from its continued infringement of Hill-Rom’s patents. The
+patents1 cover technology that decreases dramatically the number of patients catching infections
+while staying in hospitals or other healthcare facilities. Hill-Rom’s inventions use real-time
+locating systems (“RTLS”) to ensure that healthcare workers sanitize their hands when required,
+thereby greatly reducing the risks of transmitting infections between patients.
+
+Hill-Rom
+
+pioneered this hand hygiene technology over 15 years ago, patented it, and recently introduced it
+into the marketplace. Despite having actual knowledge of Hill-Rom’s patents since at least
+2012, GE recently began selling a system based on Hill-Rom’s technology.
+
+GE’s system
+
+includes each element of the patent claims that Hill-Rom asserts.
+1
+
+U.S. Patent No. 6,727,818 (“the ’818 patent”), U.S. Patent No. 8,368,544 (“the ’544
+patent”), and U.S. Patent No. 7,408,470 (“the ’470 patent” and, collectively with the ’818 patent
+and the ’544 patent, “patents in suit”).
+
+-1-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 2 of 32 PageID# 144
+
+Because the market for this technology is in now in an early, critical phase during which
+competitors’ long-term market positions will be determined, Hill-Rom is suffering and stands to
+suffer additional incalculable and irreparable harm, including substantial long-term market loss
+in this nascent market, price erosion, and loss of good will, reputation, and customer relations, if
+GE’s infringement is allowed to continue unabated pending this litigation. Hill-Rom’s motion
+for a preliminary injunction is based on this memorandum, as well as the declarations of Robin
+A. Felder, Ph.D, an expert in medical automation at University of Virginia (“Felder Decl.”);
+Bradley N. Reiff, Ph.D, an expert economist at Compass Lexecon (“Reiff Decl.”); and Timothy
+Wildman (“Wildman Decl.”) and Adam McMullin (“McMullin Decl.”) of Hill-Rom.
+The Problem: HAIs are Killing People and Costing Billions
+Infections that patients catch in hospitals, known as healthcare-associated infections
+(“HAIs”), affect approximately 1 in 20 persons admitted to a hospital in the United States – and
+impose costs in the tens of billions of dollars annually. See R. Douglas Scott II, The Direct
+Medical Costs Of Healthcare-Associated Infections in U.S. Hospitals and the Benefits of
+Prevention (March 2009) at 1, http://www.cdc.gov/HAI/pdfs/hai/Scott_CostPaper.pdf (last
+accessed May 7, 2014) (HAIs are estimated to affect 4.5 out of every 100 persons admitted to a
+hospital and cost U.S. hospitals from $28.4 to $45 billion annually). The human toll can affect
+any of us—in 2011, approximately 75,000 with HAIs died during their hospitalizations.
+HEALTHCARE-ASSOCIATED INFECTIONS (HAIS), http://www.cdc.gov/HAI/surveillance/index.html
+(last accessed May 7, 2014). The financial costs hit hospitals’ bottom lines due to legislation
+requiring hospitals to bear the full costs of treating such infections. Reiff Decl. at ¶ 14. Yet
+reducing HAIs has proved stubbornly difficult.
+
+-2-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 3 of 32 PageID# 145
+
+Old Methods to Reduce HAIs Did Not Work
+Researchers know that HAIs are often spread on the hands of healthcare workers and that
+consistent hand sanitization by doctors, nurses, and other hospital staff can significantly reduce
+the number of HAIs. McMullin Decl. at ¶¶ 2, 3. Yet healthcare workers are busy, and in the
+fast-paced, often chaotic environment of a hospital, hand hygiene compliance rates remain too
+low, and inconsistent. See Wildman Decl. at ¶ 5. Until now, there has been no reliable way to
+ensure that healthcare workers are sanitizing their hands when they should be. In the past,
+hospitals tried using human monitors to manually record handwashing events, but researchers
+found that hand hygiene compliance lapsed when the human monitor was no longer present. See
+Id. This approach proved ineffective.
+Hill-Rom Invents Technology That Significantly Reduces HAIs
+Hill-Rom recognized this problem long ago, and over the past 15 years has worked to
+develop and refine the first technology that can objectively, automatically, and in real time track
+healthcare workers’ compliance with hand hygiene requirements. See Wildman Decl. at ¶¶ 6-7.
+That research has resulted in a patent family encompassing breakthrough technology that uses
+RTLS to automate monitoring of hand hygiene compliance. Id. The claims of Hill-Rom’s ’818
+and ‘544 patents are directed to systems and methods for monitoring hand hygiene compliance,
+and the ’470 patent claims are directed to a computer readable medium storing a computer
+program with instructions for monitoring hand hygiene compliance. Felder Decl. at ¶ 14.
+The significance of Hill-Rom’s technology is difficult to overstate: Hill-Rom’s patented,
+automated hand hygiene technology solves the problems that plagued early attempts to enforce
+compliance through manual monitoring.
+
+Wildman Decl. at ¶¶ 5-6.
+
+-3-
+
+Better hand hygiene
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 4 of 32 PageID# 146
+
+compliance translates to human lives saved and significant budgetary relief for hospitals.
+McMullin Decl. at ¶ 3. To invoke a cliché, Hill-Rom’s patented technology is a game-changer.
+The Market for Effective Hand Hygiene Technology Is Huge
+Because of the huge potential savings to healthcare facilities, and the immeasurable
+benefit of fewer lives lost, the potential market for this technology is massive. There are over
+5,000 hospitals in the United States – all potential customers. Reiff Decl. at ¶ 25. RTLS-based
+hand hygiene systems only just became available commercially in approximately late 2012.
+McMullin Decl. at ¶ 15. Although the RTLS-based hand hygiene market is nascent, with
+estimated sales of approximately $5 million in 2013, the size of the market is increasing rapidly.
+Id. at ¶¶ 16, 18. For these reasons, in addition to being a boon to society, Hill-Rom’s pioneering
+hand hygiene technology has the potential to amplify Hill-Rom’s financial performance and
+greatly augment its favorable reputation and good will for years to come. McMullin Decl. at ¶¶
+18-20, 43-48.
+The Wide-Open Market for Hill-Rom’s Inventions Attracts an Infringer
+Recognizing the potential of this technology, GE developed an RTLS-based hand
+hygiene compliance product, called AgileTrac, which is based on Hill-Rom’s hand hygiene
+technology and blatantly infringes Hill-Rom’s patents. See Wildman Decl. at ¶ 35; Felder Decl.
+at ¶¶ 49, 64, 78.
+
+Despite knowing of Hill-Rom’s patents, GE has forged ahead with its
+
+infringement unabated.
+GE Targets HCA, One of the Most Significant Customers in the Market
+Though GE’s hand hygiene systems at issue here are a small part of, and recent addition
+to, GE’s vast product lines, it is pushing to sell AgileTrac to one of the largest hospital chains in
+America, Hospital Corporation of America (“HCA”). McMullin Decl. at ¶¶ 13, 21, 30-31, 35.
+
+-4-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 5 of 32 PageID# 147
+
+HCA has already installed GE’s AgileTrac in at least one of its nearly 300 healthcare facilities,
+and GE is striving to become its exclusive supplier of RTLS-based hand hygiene systems –
+systems invented and patented by Hill-Rom. Id. at ¶ 35. Hill-Rom has learned that HCA will
+purchase RTLS-based hand hygiene systems for its many hospitals from either Hill-Rom or GE.
+Id. at ¶ 29. Thus, Hill-Rom and GE are competing head-to-head in an emerging market for hand
+hygiene systems, including for the single most significant customer. Id. at ¶ 30.
+The hand hygiene provider that wins HCA as a client will have an overwhelming
+advantage in the market, not only because HCA’s decision to purchase from a particular supplier
+will cover a large network of hospitals, but also because that decision will confer a reputational
+advantage on that supplier and other customers will be more likely to purchase from it as well.
+Reiff Decl. at ¶¶ 30-31. To invoke another cliché, Hill-Rom will never again get this chance to
+make an important first impression on this nascent market.
+Hill-Rom is informed that GE has installed at least one AgileTrac infringing system at an
+HCA facility in Summerville, South Carolina and installed another approximately five AgileTrac
+hand hygiene systems elsewhere. McMullin Decl. at ¶¶ 35-36. Hill-Rom itself has sold and
+installed several hand hygiene systems in the United States. Id. at ¶ 37.
+Without a Preliminary Injunction, Hill-Rom Faces Irreparable Harm
+This is a critical time in the market for RTLS-based hand hygiene compliance
+technology, and due to the nature of the technology, early sales hold special significance. The
+RTLS-based hand hygiene systems at issue here require a meaningful investment in
+infrastructure. See Felder Decl. at ¶ 13; Wildman Decl. at ¶ 6. Real time tracking requires each
+facility to be equipped with room location devices, soap dispensers, and other equipment usually
+installed within ceilings and walls that receive and transmit signals. Felder Decl. at ¶ 13;
+
+-5-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 6 of 32 PageID# 148
+
+Wildman Decl. at ¶¶ 6, 12, 18, 26. Due to the significant investment and infrastructure required
+for each system, a customer is likely to remain committed to a provider for as many as 15 years,
+and it would be extremely difficult for a competitor to dislodge an incumbent supplier. Reiff
+Decl. at ¶¶ 27-29. The company that first sells a hand hygiene system to a customer also has
+additional advantages over competitors. Id. at ¶ 29. For example, it will establish a relationship
+with the customer during the years following the sale, as it provides customer support and
+maintenance of the system it sold.
+
+Id.
+
+Through these ongoing contacts, the customer
+
+relationship is likely to be strengthened. Id.
+By losing both initial sales and ultimate market share to GE, Hill-Rom will lose not only
+the profits from the lost sales and likely future sales to that customer, but Hill-Rom is also likely
+to suffer damage to its brand and reputation. Id. at ¶ 32. With a diminished market share, HillRom is less likely to be perceived as the pioneering developer and leading manufacturer of hand
+hygiene systems that it is. Id. In addition, GE’s infringement potentially limits the price HillRom can charge for its product, causing significant price erosion. Id. at ¶ 30 n.25, ¶ 38. Thus,
+not only will Hill-Rom suffer lost sales, but it may have made those sales at a higher price absent
+GE’s infringement. See id.
+In sum, GE’s infringement of Hill-Rom’s patents irreparably damages Hill-Rom in the
+market, unfairly captures lasting market share, deprives Hill-Rom of valuable customer
+relationships, and erodes the price Hill-Rom can charge for its product. As discussed below, a
+preliminary injunction is proper and necessary to preserve the status quo and prevent this
+wrongful and imminent injury.
+DISCUSSION
+The Patent Act protects a patent owner’s rights in its invention by giving courts the
+ability to preliminarily enjoin infringers “to prevent the violation of any right secured by patent,
+-6-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 7 of 32 PageID# 149
+
+on such terms as the court deems reasonable.” 35 U.S.C. § 283. In deciding whether to issue a
+preliminary injunction, a court must consider whether the patentee has shown “(1) likelihood of
+success on the merits, (2) irreparable harm, (3) balance of hardships, and (4) public interest.”
+Celsis In Vitro, Inc. v. CellzDirect, Inc., 664 F.3d 922, 926 (Fed. Cir. 2012).2 To obtain a
+preliminary injunction, “the movant must establish at the very least both of the first two factors,
+i.e., a likelihood of success on the merits and irreparable harm.” Anton/Bauer, Inc. v. PAG, Ltd.,
+329 F.3d 1343, 1348 (Fed. Cir. 2003). See also Kemin Foods, L.C. v. Pigmentos Vegetales del
+Centro S.A. de C.V., 93 F. App’x 225, 229 (Fed. Cir. 2004) (same).
+Here, each of the factors strongly weighs in favor of this Court issuing a preliminary
+injunction prohibiting GE from continuing to infringe Hill-Rom’s patents.
+I.
+
+HILL-ROM IS LIKELY TO SUCCEED ON THE MERITS OF ITS PATENT
+INFRINGEMENT CLAIM.
+To show a reasonable likelihood of success on the merits, the patentee must demonstrate
+
+that (1) it will likely prove infringement, and (2) its infringement claim will likely withstand
+challenges to validity and enforceability of the asserted patents. See Purdue Pharma L.P. v.
+Boehringer Ingelheim GMBH, 237 F.3d 1359, 1363 (Fed. Cir. 2001). The grant of a preliminary
+injunction does not require that infringement be proved beyond all question, or that there be no
+evidence supporting the viewpoint of the accused infringer. H.H. Robertson, Co. v. United Steel
+Deck, Inc., 820 F.2d 384, 390 (Fed. Cir. 1987), abrogated on other grounds by Markman v.
+Westview Instruments, Inc., 52 F.3d 967 (Fed. Cir. 1995). Nor is the patentee required to show
+
+2
+
+Because “a preliminary injunction of this type . . . involves substantive matters unique
+to patent law,” a court addressing a motion for preliminary injunction in a patent case must apply
+the law of the Federal Circuit. Hybritech Inc. v. Abbott Labs., 849 F.2d 1446, 1451 n.12 (Fed.
+Cir. 1988). “[P]urely procedural questions,” however, “involving the grant of a preliminary
+injunction are controlled by the law of the appropriate regional circuit.” Id.
+
+-7-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 8 of 32 PageID# 150
+
+infringement of all claims; rather, the patentee must show merely that it will likely prove
+infringement of any one claim. Intervet Am., Inc. v. Kee-Vet Labs., Inc., 887 F.2d 1050, 1055
+(Fed. Cir. 1989).
+At trial, the patentee need only establish infringement by a preponderance of the
+evidence. See, e.g., Braun Inc. v. Dynamics Corp. of Am., 975 F.2d 815, 819 (Fed. Cir. 1992). If
+each element recited in the claims is found in an accused product, the manufacturer of the
+accused product cannot avoid infringement merely by identifying additional elements. Stiftung
+v. Renishaw PLC, 945 F.2d 1173, 1178 (Fed. Cir. 1991). Likewise, an accused method “does not
+avoid literally infringing a method claim . . . simply because it employs additional steps.” Dow
+Chem. Co. v. Sumitomo Chem. Co., Ltd., 257 F.3d 1364, 1380 (Fed. Cir. 2001).
+“‘[W]hoever without authority makes, uses, offers to sell, or sells any patented invention,
+within the United States’ infringes the patent.” Rotec Indus., Inc. v. Mitsubishi Corp., 215 F.3d
+1246, 1251 (Fed. Cir. 2000) (citing 35 U.S.C. § 271(a)). An infringement analysis involves two
+steps: first the claims must be construed to determine the scope of the claims, and then the claim
+elements must be compared to the accused device or process.
+
+Zodiac Pool Care Inc. v.
+
+Hoffinger Industries, Inc., 206 F.3d 1408, 1413 (Fed. Cir. 2000). In making this comparison, the
+trier of fact must compare the accused product with the claims of the patent only, and not with
+the patentee’s commercial embodiment or other version of the patent. Zenith Laboratories, Inc.
+v. Bristol-Myers Squibb Company, 19 F. 3d 1418, 1423 (Fed. Cir. 1994). However, in applying
+the claims to the accused product, the Court need not issue a final claim construction at the
+preliminary injunction phase. The Court is free to revisit and adjust its interpretation of the
+claim terms “as its understanding of the technology evolves.” See Jack Guttman, Inc. v.
+Kopykake Enters., Inc., 302 F.3d 1352, 1361 (Fed. Cir. 2002).
+
+-8-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 9 of 32 PageID# 151
+
+Infringement under the doctrine of equivalents proceeds in much the same way.3 A
+system may infringe under the doctrine of equivalents when there is no substantial difference
+between the claimed invention and the accused product. See CCS Fitness, Inc. v. Brunswick
+Corp., 288 F.3d 1359, 1365 (Fed. Cir. 2002); Netword, LLC v. Central Corp., 242 F.3d 1347,
+1350 (Fed. Cir. 2001); Wang Labs, Inc. v. America Online, Inc., 197 F.3d 1377, 1386 (Fed. Cir.
+1999).
+A.
+
+GE’s RTLS-Based Hand Hygiene Product Infringes the ’818, ’544, and ’470
+Patents.
+
+The publicly available marketing materials and an inspection of the GE system presently
+installed at HCA’s Summerville Medical Center leave no doubt that the GE system infringes and
+that GE is inducing customers to infringe the method claims in the patents in suit. Felder Decl.
+at ¶¶ 49, 64, 78. As set forth below and in the supporting declarations filed herewith, each claim
+element and step of multiple claims of the patents in suit is found in GE’s products and conduct.
+Uniloc USA, Inc. v. Microsoft Corp., 632 F.3d 1292, 1301 (Fed. Cir. 2011).
+1.
+
+Overview of GE’s Infringement
+
+As described in more detail in the declarations of Robin A. Felder, Ph.D. and Timothy
+Wildman, Hill-Rom is likely to prove that GE’s AgileTrac hand hygiene system infringes at least
+claims 1-3, 6, 12-15, 37, 43-45, 47-48, 52, and 56 of the ’818 patent, at least claims 1, 5, and 1314 of the ’544 patent, and at least claims 15-16 and 19 of the ’470 patent. GE infringes HillRom’s patents both directly and indirectly.
+
+3
+
+Hill-Rom addresses literal infringement in this brief, but reserves the right to establish
+infringement under the doctrine of equivalents as the case proceeds.
+
+-9-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 10 of 32 PageID# 152
+
+2.
+
+GE’s Manufacture, Marketing, and Sales Infringe the Asserted Patents
+Directly.
+
+Hill-Rom is likely to prove that GE directly infringes at least claims 1-3, 6, 12-15, 37, 4345, 47-48, 52, and 56 of the ’818 patent (“the ’818 Asserted Claims”), at least claims 1, 5, and
+13-14 of the ’544 patent (“the ’544 Asserted Claims”), and at least claims 15-16 and 19 of the
+’470 patent (“the ’470 Asserted Claims”).
+(a)
+
+’818 Patent
+
+The ’818 Asserted Claims are directed to systems and methods for monitoring
+compliance with a hand hygiene protocol. Of the method claims, claims 1-3, 6, and 12-15 each
+require the following steps:
+(1) receiving first location information which tracks movement of a person
+through a facility and (2) handwashing information associated with
+attempts by the person to wash her hands; (3) determining, based upon the
+first location information and the handwashing information received
+during the receiving step, whether a person who has entered a patient
+contact zone has washed her hands since her most recent exposure to a
+contamination zone other than her current exposure to the patient contact
+zone; and (4) updating compliance information for the person based upon
+the determining step.
+The GE system performs each step of these method claims. The GE software receives
+information from a series of room locators about the location of a caregiver as he or she moves
+throughout the hospital; receives handwashing information from a handwashing monitoring
+sensor; determines whether a caregiver has washed his or her hands since entering a patient
+room; and updates compliance information for that caregiver. Felder Decl. at ¶¶ 22-25. Method
+claim 37 is similarly infringed, as described in further detail in the supporting declaration. Id. at
+¶¶ 33-36.
+The system claims of the ’818 patent, claims 43-45, 47-48, and 56, each require (1) a
+master station; (2) a plurality of first sensors operable to track movement of a person through a
+
+-10-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 11 of 32 PageID# 153
+
+facility, and provide the master station with location information associated with the movement
+of the person; and (3) a plurality of second sensors operable to provide the master station with
+handwashing information associated with attempts by the person to wash her hands. The master
+station is operable to
+(1) determine based upon the location information whether the person has
+entered a patient contact zone, (2) determine based upon the location
+information and the handwashing information whether the person washed
+her hands since her most recent exposure to a contamination zone other
+than her current exposure to the patient contact zone, and (3) update
+compliance information for the person based upon whether the person has
+entered a patient contact zone and whether the person washed her hands
+since her most recent exposure to a contamination zone other than her
+current exposure to the patient contact zone.
+The GE system infringes the system claims of the ’818 patent because, among other
+things, the GE system has a master station with software that determines whether someone has
+entered a patient room and whether the person has washed his or her hands within a preset period
+of time, and updates information about the caregiver’s compliance. Felder Decl. at ¶¶ 37-49.
+The GE system has readers located throughout the facility that contain sensors to receive location
+information as a person moves through the facility. The system also has sensors that are wired to
+each soap or alcohol dispenser to track handwashing attempts by a person.
+(b)
+
+’544 Patent
+
+The ’544 Asserted Claims are directed to systems for monitoring compliance with a hand
+hygiene protocol. The asserted independent claim requires
+(1) a sensor associated with a handwashing device positioned in a facility
+and configured to detect the presence of a person in a handwashing
+monitoring area, (2) a badge configured to transmit an identification signal
+to the sensor, the identification signal being associated with a person, (3) a
+handwashing monitoring device operably coupled to the handwashing
+device, the handwashing monitoring device being configured to generate a
+compliance signal indicative of whether the person has or has not used the
+
+-11-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 12 of 32 PageID# 154
+
+handwashing device, (4) a network, the sensor and the handwashing
+device being operably coupled to the network, and
+(5) a master station operably coupled to the network, the master station
+including memory and a processor, the master station being configured to
+receive via the network a combined signal including information
+indicating that an identification signal from the badge has been received
+by the sensor and information indicating that a compliance signal has been
+generated by the handwashing monitoring device, the master station being
+configured to determine whether the person is or is not in compliance with
+a handwashing policy of the facility.
+The GE system has each of these elements.
+
+The system includes readers located
+
+throughout the facility that are sensors to receive handwashing information; badges; a unique
+identification signal going from the badges to a reader; a handwashing monitoring device; an
+actuation (compliance) signal from the monitoring device; a hospital network; and a master
+station containing the GE software that aggregates the compliance information and generates
+reports of compliance or non-compliance with the facility’s hand hygiene policy. Felder Decl. at
+¶¶ 68-78.
+(c)
+
+’470 Patent
+
+The ’470 Asserted Claims are directed to computer readable media storing computer
+programs comprising instructions for monitoring hygiene to
+(1) access a predetermined hygiene policy, (2) receive usage information
+indicative of use of a cleaning device to clean an item, (3) receive
+identification information uniquely identifying an item, (4) receive
+location information indicative of a location of an item, (5) receive contact
+information indicative of an instance of contact between a first item and a
+second item, (6) evaluate the usage information, identification
+information, location information, and contact information to detect
+compliance or non-compliance with the hygiene policy, and (7) generate
+an output indicative of such compliance or non-compliance.
+The GE software performs each of the steps listed in the ’470 Asserted Claims and thus is
+likely to contain the computer readable media claimed in the ‘470 Patent. The GE software
+accesses a hygiene policy of a facility; receives information about the usage of a soap or alcohol
+
+-12-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 13 of 32 PageID# 155
+
+dispenser; receives information identifying a particular caregiver from a badge; receives
+information about the location of the caregiver from a room locator; receives information about
+the caregiver’s contact with a cleaning device when the caregiver actuates the dispenser;
+evaluates the information to determine compliance or non-compliance with the facility’s hand
+hygiene policy; and generates a report of compliance or non-compliance with the facility’s
+policy. Felder Decl. at ¶¶ 52-61.
+3.
+
+GE’s Marketing and Sale of the AgileTrac Hand Hygiene System
+Constitute Inducement and Contributory Infringement of the
+Asserted Patents.
+
+Hill-Rom will also prove that GE’s activities constitute indirect infringement. First, GE’s
+sales of the system induce its customers to infringe the asserted patents because the customers
+infringe the asserted method and system claims by using the system as installed. Liability for
+inducement of infringement under 35 U.S.C. § 271(b) arises when the defendant knew of the
+patent and it “actively and knowingly aid[ed] and abet[ted] another’s direct infringement. Walter
+Tech Corp. v. Calco, Ltd., 850 F.2d 660, 668 (Fed. Cir. 1988) (emphasis omitted). The attached
+supporting materials demonstrate conclusively that GE’s system meets each element of the
+asserted system claims and performs each element of the asserted method claims. Further, GE
+has had actual knowledge of the ’818 and ’470 patents since well before this lawsuit. For
+example, GE cited the patent application that matured into the ’470 patent during prosecution of
+its own patent application in 2012, which has still not issued. During prosecution of that same
+application, a patent examiner at the U.S. Patent and Trademark Office cited the ’818 patent as
+blocking prior art to GE’s claimed invention. GE installed the accused GE systems after these
+events, and thus copied Hill-Rom’s patented technology.
+GE also contributes to its customers’ infringement of the asserted patents. A party is
+liable for contributory infringement “if it knows the products [it sells] to be ‘especially made or
+
+-13-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 14 of 32 PageID# 156
+
+especially adapted for use in an infringement of such patent, and not a staple article or
+commodity of commerce suitable for substantial noninfringing use.’” RF Delaware, Inc. v. Pac.
+Keystone Technologies, Inc., 326 F.3d 1255, 1267 (Fed. Cir. 2003) (citing 35 U.S.C. § 271(c)).
+In the present case, asserted claims 1-3, 6, and 12-15, and 37 of the ’818 patent are
+directed to a patented process. The GE system is especially adapted for performing these
+claimed methods of monitoring hygiene compliance; indeed, GE’s marketing materials make
+clear that the sole purpose of the GE system is as follows: “GE Healthcare’s AgileTrac hand
+hygiene platform provides the capability to accurately record, measure, and report hand-washing
+data throughout a patient care facility[.]” Felder Decl., Exh. D at 2. The inescapable conclusion
+is that GE’s sales of its AgileTrac hand hygiene system constitute contributory infringement.
+B.
+
+The ’818, ’544, and ’470 Patents Are Valid.
+
+Patents are presumed valid. 35 U.S.C. § 282(a). This presumption exists at every stage
+of litigation, including the preliminary injunction stage. Canon Computer Sys., Inc. v. Nu-Kote
+Int’l, Inc., 134 F.3d 1085, 1088 (Fed. Cir. 1998).
+
+If GE does not challenge validity, the
+
+presumption of validity is sufficient on its own to satisfy Hill-Rom’s burden of showing a
+likelihood of success on validity issues. Id. If GE challenges validity in an attempt to defend
+against Hill-Rom’s motion, GE must demonstrate by clear and convincing evidence that the
+patent is invalid. 35 U.S.C. § 282; Gemmy Indus. Corp. v. Chrisha Creations Ltd., 452 F.3d
+1353, 1358 (Fed. Cir. 2006). In the preliminary injunction context, this would require that GE
+“establish a substantial question of invalidity or unenforceability, i.e., that it is likely to succeed
+in proving invalidity or unenforceability of the asserted patents.” See Abbott Labs v. Andrx
+Pharms., Inc., 473 F.3d 1196, 1201 (Fed. Cir. 2007). Even if GE can identify some evidence of
+invalidity, at this stage in the case Hill-Rom is held to a less stringent standard; Hill-Rom need
+
+-14-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 15 of 32 PageID# 157
+
+only show a “clear case supporting the validity of the patent in suit.” See Abbott Labs. v. Sandoz,
+Inc., 500 F. Supp. 2d 807, 817 (N.D. Ill. 2007).
+II.
+
+HILL-ROM WILL SUFFER IRREPARABLE HARM IF THE COURT DOES
+NOT GRANT A PRELIMINARY INJUNCTION.
+Irreparable harm “is suffered when monetary damages are difficult to ascertain or are
+
+inadequate.” Multi-Channel TV Cable Co. v. Charlottesville Quality Cable Operating Co., 22
+F.3d 546, 551 (4th Cir. 1994) (citation omitted). See also Canon, Inc. v. GCC Int’l Ltd., 263 F.
+App’x 57, 62 (Fed. Cir. 2008) (“At the preliminary injunction stage, irreparable harm consists of
+harm that could not be sufficiently compensated by money damages or avoided by a later
+decision on the merits.”). The purpose of a preliminary injunction is “to preserve the legal
+interests of the parties against future infringement which may have market effects never fully
+compensable in money.” Hybritech, 849 F.2d at 1457. Generally, monetary damages are not an
+adequate remedy against future infringement of a patent. Smith & Nephew, Inc. v. Synthes
+(U.S.A.), 466 F. Supp. 2d 978, 984 (W.D. Tenn. 2006).
+As described below, the market impact of GE’s continued infringement of Hill-Rom’s
+patents will be extensive, likely irreversible, and not curable by money damages. GE is a direct
+competitor of Hill-Rom, and GE’s imminent sale of infringing products during the pendency of
+this lawsuit will not be compensable by the mere payment of damages. The market for the
+RTLS-based hand hygiene systems at issue here is in its most critical beginning stages, and by
+infringing Hill-Rom’s patents, GE is obtaining market share that may be impossible for HillRom to recapture even when it ultimately prevails in this lawsuit.
+
+With each sale of its
+
+infringing product, GE captures a customer that is unlikely to purchase another RTLS-based
+hand hygiene system for up to 15 years. McMullin Decl. at ¶¶ 22-23. GE’s infringement is also
+damaging Hill-Rom’s reputation and may be suppressing the price that Hill-Rom’s products
+
+-15-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 16 of 32 PageID# 158
+
+would otherwise command. Hill-Rom is entitled to a preliminary injunction to stanch this
+ongoing and irreparable harm. See Phillips v. Crown Cent. Petroleum Corp., 602 F.2d 616, 630
+(4th Cir. 1979) (“A future injury of uncertain date and incalculable magnitude is irreparable
+harm, and protection from such an injury is a legitimate end of injunctive relief.”).
+A.
+
+Without a Preliminary Injunction, Hill-Rom Will Permanently Lose the
+Opportunity to Capture Market Share in a Nascent Market in Which Its
+Long-Term Market Position Is Significantly Influenced by Initial Sales.
+
+Numerous courts have recognized that infringement by a direct competitor in a nascent
+market constitutes injury so severe as to be irreparable and incapable of compensation in
+damages.
+
+For example, in TiVo, Inc. v. EchoStar Communications Corp., TiVo sought a
+
+permanent injunction, alleging that EchoStar infringed its patents in the young market for digital
+video recorders (“DVRs”). 446 F. Supp. 2d 664 (E.D. Tex. 2006) rev’d in part on other
+grounds, 516 F.3d 1290 (Fed. Cir. 2008). In holding that TiVo had demonstrated irreparable
+harm, the court observed that “Defendants compete directly with Plaintiff—Defendants market
+their infringing products to potential DVR customers as an alternative to purchasing Plaintiff's
+DVRs.” Id. at 669. The court found that “[t]he availability of the infringing products leads to
+loss of market share for Plaintiff's products.” Id. It emphasized that the parties were competing
+in a new market, stating that “[l]oss of market share in this nascent market is a key consideration
+in finding that Plaintiff suffers irreparable harm[.]” Id. at 669-670.4 The Court continued,
+4
+
+Even in established markets, infringement by a direct competitor weighs heavily in
+favor of finding irreparable harm. See, e.g., Systemation, Inc. v. Engel Indus., Inc., 194 F.3d
+1331, 1999 WL 129640, *6 (Fed. Cir. 1999) (affirming preliminary injunction and holding that
+“los[s of] sales to a direct competitor” evinces irreparable harm); Visto Corp. v. Seven Networks,
+Inc., 2:03-CV-333-TJW, 2006 WL 3741891, *4 (E.D. Tex. Dec. 19, 2006) (granting permanent
+injunction; “The parties to this case are direct competitors, and this fact weighs heavily in the
+court’s analysis. Intellectual property enjoys its highest value when it is asserted against a direct
+competitor in the plaintiff’s market.”); Arlington Indus., Inc. v. Bridgeport Fittings, Inc., No.
+3:06-CV-1105, 2011 WL 2927817, *10 (M.D. Pa. July 18, 2011) (granting preliminary
+
+-16-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 17 of 32 PageID# 159
+
+“Plaintiff is losing market share at a critical time in the market’s development, market share that
+it will not have the same opportunity to capture once the market matures.” Id. at 669-70
+(emphasis added).5
+Here, as in TiVo, the patentee and infringer are directly competing in a young and rapidly
+developing market with potential for significant growth in sales. See 446 F. Supp. 2d at 669;
+McMullin Decl. at ¶¶ 18, 21. In this type of market, winning large initial contracts with
+significant customers will significantly influence each competitor’s long-run market position.
+Reiff Decl. at ¶ 27. As in TiVo, “[t]he availability of [GE’s] infringing products leads to loss of
+market share for Plaintiff's products.” 446 F. Supp. 2d at 669; Reiff Decl. at ¶¶ 23, 30-31 (sales
+lost to competitor harm market position).
+
+injunction; “Each sale of a Bridgeport duplex connector likely deprives Arlington of market
+share, revenue, and brand recognition. . . . Although the parties may not be the only competitors,
+they are direct competitors, a factor of substantial weight in the irreparable injury analysis.”),
+modified in part on other grounds, 2011 WL 4916397, at *4–6 (M.D. Pa. Oct. 17, 2011).
+5
+
+A number of other courts have reached similar conclusions. See, e.g., Butamax
+Advanced Biofuels LLC v. Gevo, Inc., 868 F. Supp. 2d 359, 374-75 (D. Del. 2012) aff’d and
+remanded sub nom. Butamax Advanced Biofuels LLC v. Gevo, Inc., 486 F. App’x 883 (Fed. Cir.
+2012) (concluding that irreparable harm would exist if defendants were infringing, “since the
+parties are direct competitors in an emergent market,” and noting that “as the first entrant into the
+marketplace, defendant would have advantages that include working with the best facilities and
+potential customers and being perceived as an innovator in the field.”); Baker Hughes Inc. v.
+Nalco Co., 676 F. Supp. 2d 547, 554 (S.D. Tex. 2009) aff’d, 374 F. App’x 979 (Fed. Cir. 2010)
+(granting preliminary injunction where new market “consists of a small number of potential
+clients,” and “the parties are in direct competition for this business”); Power-One, Inc. v. Artesyn
+Technologies, Inc., CIV. A. 2:05-CV-463, 2008 WL 1746636, at *1 n.1 (E.D. Tex. Apr. 11,
+2008) aff’d, 599 F.3d 1343 (Fed. Cir. 2010) (granting permanent injunction; irreparable harm
+where patentee and infringer were direct competitors, infringing product “froze the market,” and
+the plaintiff “only recently created” the market at issue, “making the harm particularly acute”);
+Hybritech, 849 F.2d at 1456 (fact that patent helped patentee establish market position in field of
+new technology, in which the technology changed rapidly, weighed in favor of finding
+irreparable harm).
+
+-17-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 18 of 32 PageID# 160
+
+Moreover, Hill-Rom is losing market share at a critical stage of the market’s
+development, and it will not have the same opportunity to capture that market share once the
+market matures. Reiff Decl. at ¶¶ 25-29. GE’s continued infringement will give it unearned
+advantages, including working with some of the best facilities and potential customers, such as
+HCA. McMullin Decl. at ¶¶ 32, 35 (HCA has installed GE’s infringing product); Reiff Decl. at ¶
+31 (“Winning or losing the HCA business will have long-term implications for Hill-Rom’s
+market position.”). Furthermore, the parties are direct competitors in a new market that currently
+consists of few potential clients, with one dominant potential customer, HCA. McMullin Decl.
+at ¶ 27 (“Presently, one of the most significant and prized customers in the market for RTLSbased hand hygiene systems is Hospital Corporation of America (‘HCA’), which operates
+approximately 165 hospitals and 115 freestanding surgery centers throughout the country.”).
+Without a preliminary injunction, “the market position Hill-Rom expected to achieve by
+marketing its patented technology is likely to suffer long-term impairment.” Reiff Decl. at ¶ 37.
+Further deepening the incalculable loss to Hill-Rom’s market share if GE is not enjoined
+is the fact that the RTLS-based hand hygiene systems at issue require a high initial investment by
+the user, have a long life-cycle, and are costly to replace once installed. McMullin Decl. at ¶¶
+22-24, 26; Reiff Decl. at ¶¶ 27-29. Thus, each time GE sells an infringing product, Hill-Rom
+loses a corresponding share of the market for at least the life span of the product (and potentially
+permanently, due to the difficulty of displacing an incumbent supplier). See Reiff Decl. at ¶ 28.
+Lost market share is particularly damaging when the product at issue is expensive and
+infrequently replaced. See Morris & Assocs., Inc. v. Cooling & Applied Tech., Inc., 5:09-CV-23BR, 2010 WL 4484640, at *9 (E.D.N.C. July 30, 2010) (irreparable harm where alleged infringer
+competed with patentee, and product at issue was “large, custom, expensive, and designed to last
+
+-18-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 19 of 32 PageID# 161
+
+a significant lifetime of production;” concluding that preliminary injunction was warranted).
+“[O]nce a [customer] purchases one of these systems, it is unlikely they will reenter the market
+place for a significant number of years,” meaning that “each sale of equipment is the likely
+formation of a long-lasting business relationship.”6 Id.
+Here, the harm is particularly acute because some of the Hill-Rom patents in suit will
+expire in 2020. Reiff Decl. at ¶ 36. The window of opportunity for Hill-Rom to realize the value
+of its patents is now. If GE displaces Hill-Rom for a full product cycle, the harm to Hill-Rom
+will be truly irreparable, because Hill-Rom will no longer have patent protection when the
+customer is next in the market for a new RTLS-based hand hygiene system. Id. Thus, the
+benefits that flow from making the first sale to a customer are particularly critical to Hill-Rom
+here. See Morris & Assocs., 2010 WL 4484640, at *9.
+Hill-Rom has demonstrated lost market share by submitting evidence of GE’s actual and
+threatened sales of infringing RTLS-based hand hygiene systems to one of the largest customers
+in the market, HCA. McMullin Decl. at ¶¶ 32, 35 (HCA has installed GE’s infringing product);
+6
+
+Even in markets that are not in their infancy and do not involve long-lasting, expensive
+products, lost market share strongly supports a finding of irreparable harm. See i4i Ltd. P’ship v.
+Microsoft Corp., 598 F.3d 831, 861-62 (Fed. Cir. 2010) aff’d, 131 S. Ct. 2238, 180 L. Ed. 2d 131
+(U.S. 2011) (irreparable harm where competitor’s infringement caused loss of market share and
+forced patentee to change its business strategy; affirming permanent injunction); Purdue Pharma
+L.P. v. Boehringer Ingelheim GMBH, 237 F.3d 1359, 1367–68 (Fed. Cir. 2001) (noting that
+patentee’s evidence of expected price erosion and loss of market position provided adequate
+evidence of irreparable harm; affirming preliminary injunction); Polymer Technologies, Inc. v.
+Bridwell, 103 F.3d 970, 975-76 (Fed. Cir. 1996) (vacating denial of preliminary injunction,
+finding that “[c]ompetitors change the marketplace. Years after infringement has begun, it may
+be impossible to restore a patentee’s (or an exclusive licensee’s) exclusive position by an award
+of damages and a permanent injunction.”); Canon, 263 F. App’x at 62 (affirming preliminary
+injunction: “As the trial court found, competition from Defendants will likely result in substantial
+price erosion of Canon’s patented product as well as loss of Canon’s market share. Due to the
+difficulty (if not impossibility) of determining the damages resulting from price erosion and loss
+of market share, an award of money damages would not be sufficient.”).
+
+-19-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 20 of 32 PageID# 162
+
+Reiff Decl. at ¶ 30 (“[W]here the patent-holder and the infringer are head-to-head competitors
+for key contracts, the losing firm’s potential sales generally flow to the contract winner.”). HillRom and GE are the only companies from which HCA is considering purchasing RTLS-based
+hand hygiene systems. McMullin Decl. at ¶ 29. Thus, each sale to HCA of an infringing GE
+system directly deprives Hill-Rom of a sale.
+Even in circumstances where there are multiple competitors, evidence of lost sales
+supports a finding of irreparable harm. See Robert Bosch LLC v. Pylon Mfg. Corp., 659 F.3d
+1142, 1154 (Fed. Cir. 2011) (reversing denial of permanent injunction). In Robert Bosch, the
+defendant argued that the patentee’s lost market share was due to other competitors. Id. The
+court rejected that argument, pointing out that the defendant “secured the Wal-Mart account,
+which alone accounts for a substantial portion of the entire market.” Id. The patentee adequately
+proved lost market share by showing that “it previously secured the Wal-Mart account,” which
+was “circumstantial evidence that it would reclaim Wal-Mart’s business were Pylon enjoined.”
+Id. This case has at least the factual support present in the Robert Bosch case: both Hill-Rom
+and GE have placed RTLS-based hand hygiene systems at HCA. Both are credible suppliers,
+and Hill-Rom has been informed that HCA intends to purchase its hand hygiene systems from
+either Hill-Rom or GE. McMullin Decl. at ¶ 29. Thus, Hill-Rom has shown irreparable harm.
+B.
+
+Without a Preliminary Injunction, Hill-Rom Will Lose the Opportunity to
+Form Long-Term Customer Relationships and Will Lose the Attendant
+Benefits of Those Relationships.
+
+At issue here are not only initial sales of the hand hygiene systems, but also long-term
+harm to Hill-Rom resulting from the early entrant advantage. In finding irreparable harm, the
+TiVo court relied on the fact that “DVR customers . . . tend to remain customers of the company
+from which they obtain their first DVR.” 446 F. Supp. 2d at 670. Therefore, the court held that
+“the impact of Defendants’ continued infringement is shaping the market to Plaintiff’s
+-20-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 21 of 32 PageID# 163
+
+disadvantage and results in long-term customer loss.”
+
+Id.
+
+The harm resulting from the
+
+defendants’ shaping the market was “particularly key where, as is the case here, Plaintiff’s
+primary focus is on growing a customer base specifically around the product with which
+Defendants’ infringing product competes.” Id. For those reasons, the court held that “the full
+impact of Defendants’ infringement cannot be remedied by monetary damages.” Id.
+The Morris & Associates court also recognized that because the relevant products were
+expensive and long-lasting, each sale would likely result in “a long-lasting business
+relationship.” 2010 WL 4484640, at *9. See also Ticor Title Ins. Co. v. Cohen, 173 F.3d 63, 69
+(2d Cir. 1999) (finding irreparable harm because “it would be very difficult to calculate
+monetary damages that would successfully redress the loss of a relationship with a client that
+would produce an indeterminate amount of business in years to come” and affirming permanent
+injunction).
+In the market for hand hygiene systems, each sale is likely to lead to a lasting customer
+relationship. Reiff Decl. at ¶ 29; McMullin Decl. at ¶ 25. The customer will rely on its supplier
+for advice and technical support over the years, strengthening the customer bond. Reiff Decl. at
+¶ 29. This relationship will give the incumbent an inherent advantage over competitors when
+seeking to make future sales. Reiff Decl. at ¶ 29; McMullin Decl. at ¶¶ 24-26. In addition to the
+strengthened relationship, a customer may prefer to stick with the same supplier in the future
+because it is accustomed to using a particular system. Reiff Decl. at ¶¶ 28-29; McMullin Decl. at
+¶ 24. For all of these reasons, Hill-Rom faces real and irreparable injury from lost customer
+relationships if GE’s infringement is permitted to continue during the course of this litigation.
+
+-21-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 22 of 32 PageID# 164
+
+C.
+
+In Addition to Lost Market Share, Hill-Rom Stands to Suffer Price Erosion
+and Lose Significant Ancillary Sales in the Absence of a Preliminary
+Injunction.
+
+GE’s infringement is likely to result in Hill-Rom losing substantial sales of related
+products that it would have made absent GE’s infringement. McMullin Decl. at ¶¶ 44-46; Reiff
+Decl. at ¶¶ 33-34. Sales of Hill-Rom’s RTLS-based hand hygiene systems are likely to lead to
+additional sales in several ways. First, Hill-Rom’s and GE’s hand hygiene systems operate
+through each firm’s RTLS used for tracking and monitoring additional products beyond hand
+hygiene. Hill-Rom anticipates significant additional sales of its RTLS products if it successfully
+sells its related hand hygiene compliance system. McMullin Decl. at ¶¶ 20, 46. Second, HillRom anticipates that each installation of its RTLS-based hand hygiene system will result in
+significant consulting revenue and long-term maintenance revenue. Id. at ¶ 45. Third, each sale
+of an RTLS-based hand hygiene system is likely to generate indirect sales of products that tie
+into the RTLS system, such as Hill-Rom’s NurseCall, WatchChild, and hospital beds. Id. at ¶
+46. Not only is the volume of such lost sales likely to be significant, but the amount of lost
+associated sales is difficult to estimate, making money damages particularly inadequate. Reiff
+Decl. at ¶ 33. These types of lost sales contribute to the irreparable harm Hill-Rom faces, and
+warrant a preliminary injunction. See Baker Hughes, 676 F. Supp. 2d at 554 (irreparable harm
+where infringement harmed patentee’s “ability to engage in the sale of functionally related
+products”).
+GE’s sale of infringing products may also result in price erosion. “Direct competition
+between a patent-holder and an infringer or infringers can lead to a reduction in prices.” Reiff
+Decl. at ¶ 30 n.25. As a result, not only does the patentee lose sales, but its sales likely would
+have occurred at higher prices. Id. This constitutes irreparable harm and warrants a preliminary
+
+-22-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 23 of 32 PageID# 165
+
+injunction. See Sanofi-Synthelabo v. Apotex, Inc., 470 F.3d 1368, 1382 (Fed. Cir. 2006) (price
+erosion was a basis for finding irreparable harm; affirming preliminary injunction).
+D.
+
+Without a Preliminary Injunction, Hill-Rom Will Suffer Damage to Its
+Reputation and Good Will.
+
+In addition to the tangible loss of revenue from sales and long-term market placement
+described above, GE’s sales of infringing products also threaten Hill-Rom’s reputation as an
+established supplier and innovator. “During the growth stage of a product, it is particularly
+crucial to be able to distinguish oneself from competitors,” including by “building the brand,
+expanding the customer base, and establishing one’s reputation and leadership in the market.”
+Celsis In Vitro, 664 F.3d at 931. When a competitor sells infringing products in the market,
+customers may not recognize the true innovator. See id.; see also Bushnell, Inc. v. Brunton Co.,
+673 F. Supp. 2d 1241, 1263 (D. Kan. 2009) (irreparable harm shown where infringement
+damaged plaintiff’s “reputation as an innovator and producer of competitively priced quality
+products;” preliminary injunction granted); Wald v. Mudhopper Oilfield Servs., Inc., CIV-041693-C, 2006 WL 2128851, at *5 (W.D. Okla. July 27, 2006) (plaintiffs demonstrated
+irreparable harm by showing “that they lost market share and the opportunity to maintain their
+own polymer stick . . . as the industry standard and that their reputation for innovation was
+damaged as a result” (internal quotation marks omitted; permanent injunction granted).
+In addition, customers often develop brand loyalty, and an infringer’s sales may hinder a
+patentee’s ability to develop customer good will. QBAS Co., Ltd. v. C Walters Intercoastal
+Corp., 2010 WL 7785955, at *12–13 (C.D. Cal. 2010) (where “customer is likely to stick with a
+brand that the customer knows and trusts, . . . Plaintiffs’ inability to develop a consistent and
+loyal customer base due to Defendants’ competing product also shows irreparable harm;”
+preliminary injunction granted); see also Reiff Decl. at ¶ 28 (“once the customer chooses a
+
+-23-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 24 of 32 PageID# 166
+
+particular brand for its hand hygiene system, it then makes a long-term commitment to that brand
+by developing the infrastructure . . . and training associated with the brand”).
+By selling competing products based on Hill-Rom’s groundbreaking inventions, GE’s
+ongoing infringement is damaging Hill-Rom’s reputation as an innovator. Reiff Decl. at ¶ 32
+(“the loss of early sales to GE Healthcare harms Hill-Rom’s reputation as an innovator,
+undercutting Hill-Rom’s ability to distinguish itself from competitors”). Moreover, each of GE’s
+infringing sales deprives Hill-Rom of the ability to cultivate a long-term customer relationship.
+See id. at ¶ 29. Because GE’s threatened infringement also will impair Hill-Rom’s reputation
+and status as innovator in the field, it is additional irreparable harm that must be prevented with a
+preliminary injunction.
+E.
+
+Absent a Preliminary Injunction, a Permanent Injunction or Damages
+Award Will Not Fully Compensate Hill-Rom for GE’s Infringement.
+
+In response to a request for a preliminary injunction, the Court is right to ask “Why
+now?” The answer: without immediate relief, Hill-Rom will be forced to wait until the end of
+this litigation, which likely will not arrive until sometime in 2015. But by then, a “significant
+portion of the potential customer base” – and HCA in particular – may “be committed to GE
+Healthcare’s hand hygiene and associated RTLS products.”
+
+Reiff Decl. at ¶ 35; see also
+
+McMullin Decl. at ¶ 24. An injunction at that point is unlikely to restore Hill-Rom to the market
+position it would have occupied absent GE’s infringement.
+
+Id.
+
+Money damages at the
+
+conclusion of litigation also will be inadequate to restore Hill-Rom’s lost market position.
+Estimated lost profits “[a]t best . . . would likely capture the direct lost volume and possible price
+erosion,” but would not necessarily account for lost indirect sales and business opportunities that
+Hill-Rom would have enjoyed absent harm to its market position. Reiff Decl. at ¶ 38. Damages
+cannot restore Hill-Rom’s market position. See id. In contrast, a preliminary injunction will
+
+-24-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 25 of 32 PageID# 167
+
+prevent both the financial losses and the harm to market position. Id. at ¶ 39. Because money
+damages would not adequately remedy the harm that Hill-Rom will suffer, a preliminary
+injunction is warranted. Canon, Inc., 263 F. App’x at 62.
+Because GE’s conduct will lead to irreparable harm, Hill-Rom is entitled to a preliminary
+injunction to maintain the status quo during the pendency of this action. See P.N.A. Constr.
+Techs., Inc. v. McTech Group, Inc., 414 F. Supp. 2d 1228, 1244 (N.D. Ga. 2006) (“A principal
+purpose of preliminary injunctive relief is to maintain the status quo.”). “Status quo” does not
+mean, however, that an infringer is permitted to continue infringing until the litigation is
+resolved.
+
+Atlas Powder Co. v. Ireco Chems., 773 F.2d 1230, 1231 (Fed. Cir. 1985)
+
+(“[Defendant] would have us maintain the status quo by allowing it to continue the alleged
+infringements at the rate they occurred when the suit was filed, even though the assessment of
+likelihood of success has shown that such acts would probably be held unlawful. Such a
+proposition is its own refutation and no other is necessary.”).
+
+Permitting the infringer to
+
+continue the wrong “is in no realistic sense maintaining the status quo.” Id. at 1231-32.
+The status quo to be preserved here is Hill-Rom’s exclusive right to make, have made,
+import, use, sell, or offer for sale hand hygiene systems covered by its presumptively valid
+patents.
+
+For the reasons described above, Hill-Rom will be irreparably harmed if GE is
+
+permitted to continue selling its infringing AgileTrac systems while this matter is being litigated.
+Accordingly, GE should be preliminarily enjoined from making further illegal sales of its
+AgileTrac products. See id.
+III.
+
+THE BALANCE OF HARDSHIPS FAVORS HILL-ROM.
+The balance of hardships tips decidedly in favor of granting a preliminary injunction. In
+
+evaluating the balance of hardships, a “court must balance the harm that will occur to the moving
+party from the denial of the preliminary injunction with the harm that the non-moving party will
+-25-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 26 of 32 PageID# 168
+
+incur if the injunction is granted.” Hybritech, 849 F.2d at 1457. Any non-compensable harm
+that may be suffered by GE due to a wrongful preliminary injunction is clearly outweighed by
+the significant harm that Hill-Rom will endure in the absence of a preliminary injunction.
+If the Court does not enter a preliminary injunction, the consequences for Hill-Rom will
+be severe. Hill-Rom is attempting to capture market share in a new market, but has been placed
+at a disadvantage by GE’s infringing conduct and will lose substantial further ground if that
+infringement is not stopped immediately. With each sale of GE’s infringing product, Hill-Rom
+suffers a loss of market share, customer relationship, and reputation, which irreparably harms
+Hill-Rom as it attempts to gain a foothold in this emergent market. Reiff Decl. at ¶¶ 29-32. HillRom is already aware of at least one sale it has lost in the hand hygiene system market due to
+GE’s sales of infringing products to HCA. McMullin Decl. at ¶ 37. Additional sales will only
+lengthen the improper head-start that GE has taken, further diminishing Hill-Rom’s likely longterm market share. See Reiff Decl. at ¶¶ 38-39. Because the turnover for the systems at issue is
+so infrequent, and the customer relationship so important, the harm caused by every sale of GE’s
+infringing product is particularly acute. Id. at ¶¶ 22-23, 36.
+In contrast, GE will not be meaningfully harmed by the entry of a preliminary injunction
+enjoining its sales of the AgileTrac product. GE sells many other products, so any loss of sales it
+experiences due to a preliminary injunction will not significantly harm it. See Acumed LLC v.
+Stryker Corp., 551 F.3d 1323, 1329-30 (Fed. Cir. 2008) (balance of hardships favored plaintiff
+where, inter alia, infringing product represented “only a small portion” of defendant’s sales). In
+2013, the RTLS-based hand hygiene market involved sales of approximately $5 million.
+McMullin Decl. at ¶ 16. GE amasses $146 billion per year in annual revenue from a diverse
+range of products and services. See General Electric Co., Annual Report (Form 10-K) at 3, 28
+
+-26-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 27 of 32 PageID# 169
+
+(Feb. 27, 2014). Even if GE captured the entire market in 2013 and lost those sales as a result of
+the requested preliminary injunction, the lost revenue would represent a negligible 0.0034% of
+GE’s 2013 revenue. See id. at 3.
+In any event, GE cannot be heard to complain of hardship, because any hardship it may
+suffer would result from its own decision to market a product infringing Hill-Rom’s patents. See
+Pfizer, Inc. v. Teva Pharm., USA, Inc., 429 F.3d 1364, 1382 (Fed. Cir. 2005) (“Simply put, an
+alleged infringer’s loss of market share and customer relationships, without more, does not rise
+to the level necessary to overcome the loss of exclusivity experienced by a patent owner due to
+infringing conduct.”). An infringer’s self-inflicted hardship from the calculated risk taken in
+selling an infringing product deserves no weight in the balance of the hardships. See SanofiSynthelabo, 470 F.3d at 1383 (rejecting infringer’s hardship claim where “harms were almost
+entirely preventable” and were the result of its own calculated risk to launch its product
+prejudgment); see also Augat, Inc. v. John Mezzalingua Assocs., Inc., 642 F. Supp. 506, 509
+(N.D.N.Y. 1986) (“To the extent the preliminary injunction poses a hardship to defendant
+because it has become excessively dependent on sales of its coaxial connector this poses no bar
+to the issuance of an injunction where it appears that these sales infringe plaintiff’s patent
+rights.”). Indeed, even where a preliminary injunction would put the infringer out of business—
+which is far from the case here—that fact “does not control the balance of hardships factor.”
+Aria Diagnostics, Inc. v. Sequenom, Inc., 726 F.3d 1296, 1305 (Fed. Cir. 2013).
+IV.
+
+THE PUBLIC INTEREST FAVORS A PRELIMINARY INJUNCTION.
+The public interest favors granting a preliminary injunction in this case. Generally, it is
+
+in the public interest to enforce patents to encourage others to invent and utilize the patent
+system. Sanofi-Synthelabo, 470 F.3d at 1383 (The Federal Circuit has “long acknowledged the
+importance of the patent system in encouraging innovation. Indeed, the encouragement of
+-27-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 28 of 32 PageID# 170
+
+investment-based risk is the fundamental purpose of the patent grant, and is based directly on the
+right to exclude.”). Hill-Rom properly sought and was granted multiple patents for its hand
+hygiene systems and methods. It is entitled to the Court’s protection of those patents. The
+public interest will be served by issuing a preliminary injunction, because “[t]here is a public
+interest in enforcing the protections secured by valid patents.” Techtronic Indus. Co., Ltd. v.
+Chevron Holdings Ltd., 395 F. Supp. 2d 720, 737 (N.D. Ill. 2005) (citing Hybritech, 849 F.2d at
+1458). Furthermore, the Federal Circuit has consistently held that absent any other relevant
+concerns, the public is best served by enforcing patents that are likely valid and infringed. See,
+e.g., Sandoz, 544 F.3d at 1362; see also Augat, Inc. v. John Mezzalingua Assocs., Inc., 642 F.
+Supp. 506, 509 (N.D.N.Y. 1986) (“The public interest in a patent case is strongly weighted
+toward protecting the rights of patent holders.”).
+There are additional reasons why the public interest favors granting a preliminary
+injunction here.
+
+Specifically, there is a strong public interest in encouraging the sort of
+
+investment Hill-Rom has made in innovative health care systems and products. In a similar case,
+the court held that there is a particular public interest in “provid[ing] incentive to the innovative
+drug companies to continue costly development efforts.” Sanofi-Synthelabo, 470 F.3d at 138384. So too does the public benefit from providing incentive for companies such as Hill-Rom to
+continue investing in products such as its hand hygiene system, which addresses HAIs, a serious
+and difficult health problem in America’s hospitals. McMullin Decl. at ¶ 8. According to the
+Center for Disease Control and Prevention, there were approximately 722,000 HAIs reported in
+U.S. acute care hospitals in 2011, resulting in approximately 75,000 deaths. Id. at ¶ 2. Proper
+hand hygiene is one of the most effective means of decreasing the number of HAIs, and Hill-
+
+-28-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 29 of 32 PageID# 171
+
+Rom’s patented RTLS-based hand hygiene system is designed specifically to reduce HAIs. Id. at
+¶¶ 2-3, 8.
+Hill-Rom spent many years developing its innovative, RTLS-based hand hygiene system
+as a way of ensuring compliance with hand hygiene best practices and combating HAI.
+McMullin Decl. at ¶¶ 8, 10.
+
+Hill-Rom sought and obtained patent protection for its
+
+groundbreaking inventions in this arena.
+
+GE has misappropriated that technology and is
+
+currently profiting from it, enjoying the fruits of Hill-Rom’s labor without having made the
+investment. Enforcing the patent rights of health care innovators such as Hill-Rom is critical to
+protecting the important public interest in health care innovation. See Sanofi-Synthelabo, 470
+F.3d at 1383-84; Celsis In Vitro, Inc., 664 F.3d at 932 (the incentive to invest in drug research
+and development “would be adversely affected by taking market benefits away from the patentee
+and giving them to the accused infringer”). Moreover, the public interest will not be harmed by
+enjoining GE’s infringing product.
+
+Hill-Rom’s RTLS-based hand hygiene product is
+
+commercially available, meaning that an injunction will not deprive any hospital or other
+customer of the opportunity to adopt an RTLS-based hand hygiene system. See Celsis in Vitro,
+664 F.3d at 932 (“both [the infringer] and [the patentee] sell the same products and are in direct
+competition,” so “the public can obtain the products from [the patentee]”). For these reasons, a
+preliminary injunction is in the public interest.
+CONCLUSION
+Hill-Rom invested many years and significant expense developing its innovative hand
+hygiene compliance system, which squarely addresses one of the most pressing public health
+problems: healthcare-associated infections. Hill-Rom now faces the threat of irreparable harm
+resulting from GE’s sale of infringing systems in direct competition with Hill-Rom. Hill-Rom
+not only faces lost sales in the near-term, but GE’s infringement also threatens to permanently
+-29-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 30 of 32 PageID# 172
+
+diminish Hill-Rom’s market position. Hill-Rom is likely to show infringement because each of
+the claim elements is found in GE’s infringing products. The balance of the hardships favors
+Hill-Rom as well. GE enjoys $146 billion in annual revenue and will not be harmed by a
+preliminary injunction in this action. Finally, the public interest calls for a preliminary injunction
+in order to protect the patent system and encourage innovation and investment in critical
+healthcare areas such as hand hygiene. Accordingly, Hill-Rom respectfully requests that the
+Court grant its motion and enter an order preliminarily enjoining GE from marketing or selling
+its infringing products.
+Dated: May 8, 2014
+
+Respectfully submitted,
+
+/s/ Stephen E. Noona
+Stephen E. Noona
+Virginia State Bar No. 25367
+Lauren Tallent Rogers
+Virginia State Bar No. 82711
+KAUFMAN & CANOLES, P.C.
+150 West Main Street, Suite 2100
+Norfolk, Virginia 23510
+Telephone: 757-624-3000
+Facsimile: 757-624-3169
+senoona@kaufcan.com
+ltrogers@kaufcan.com
+J. Michael Showalter
+Virginia State Bar No. 72272
+Stacie R. Hartman (pro hac vice to be filed)
+A. Taylor Corbitt (pro hac vice to be filed)
+SCHIFF HARDIN LLP
+233 S. Wacker Drive, Suite 6600
+Chicago, IL 60606
+Telephone: 312-258-5500
+Facsimile: 312-258-5600
+shartman@schiffhardin.com
+Stephen M. Haskins (pro hac vice to be filed)
+SCHIFF HARDIN, LLP
+One Market
+
+-30-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 31 of 32 PageID# 173
+
+Spear Street Tower, Thirty-Second Floor
+San Francisco, CA 94105
+Telephone: 415-901-8700
+Facsimile: 415-901-8701
+shankins@schifflardin.com
+Samuel D. Almon (pro hac vice to be filed)
+SCHIFF HARDIN, LLP
+One Atlantic Center, Suite 2300
+1201 West Peachtree Street
+Atlanta, GA 30309
+Telephone: 404-437-7000
+Facsimile: 404-437-7100
+salmon@schiffhardin.com
+Attorneys for Plaintiffs Hill-Rom Company, Inc.,
+Hill-Rom Services, Inc. and Hill-Rom
+Manufacturing, Inc.
+
+-31-
+
+Case 2:14-cv-00187-RGD-LRL Document 9 Filed 05/08/14 Page 32 of 32 PageID# 174
+
+CERTIFICATE OF SERVICE
+I hereby certify that on May 8, 2014, I will electronically file the foregoing with the Clerk
+of the Court using the CM/ECF system, and will forward copies of the foregoing pleading by
+private process server to the following:
+General Electric Company
+c/o CT Corporation System
+4701 Cox Road, Suite 285
+Glen Allen, VA 23060
+
+/s/ Stephen E. Noona
+Stephen E. Noona
+Virginia State Bar No. 25367
+KAUFMAN & CANOLES, P.C.
+150 West Main Street, Suite 2100
+Norfolk, Virginia 23510
+Telephone: 757-624-3000
+Facsimile: 757-624-3169
+senoona@kaufcan.com
+
+13160871v1
+
+-32-
+
+

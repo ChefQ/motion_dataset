@@ -1,0 +1,681 @@
+Case 4:13-cv-02906 Document 18 Filed in TXSD on 12/26/13 Page 1 of 20
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF TEXAS
+HOUSTON DIVISION
+EXXON MOBIL CORPORATION,
+Plaintiff,
+v.
+FX NETWORKS, LLC, TWENTIETH
+CENTURY FOX FILM
+CORPORATION, TWENTY-FIRST
+CENTURY FOX, INC., and FXX
+NETWORK, LLC,
+Defendants.
+
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+
+Civil Action No. 4:13-cv-02906
+
+DEFENDANTS’ RULE 12(B)(6) MOTION TO DISMISS
+COUNT V OF PLAINTIFF’S AMENDED COMPLAINT
+AND MEMORANDUM IN SUPPORT
+KILPATRICK TOWNSEND
+& STOCKTON LLP
+Miles J. Alexander (pro hac vice pending)
+malexander@kilpatricktownsend.com
+William H. Brewster (pro hac vice pending)
+bbrewster@kilpatricktownsend.com
+R. Charles Henn Jr. (pro hac vice pending)
+chenn@kilpatricktownsend.com
+Sabina A. Vayner (pro hac vice pending)
+svayner@kilpatricktownsend.com
+1100 Peachtree Street, Suite 2800
+Atlanta, Georgia 30309-4528
+Telephone: (404) 815-6500
+Facsimile: (404) 815-6555
+Larry McFarland (pro hac vice pending)
+lmcfarland@kilpatricktownsend.com
+9720 Wilshire Boulevard PH
+Beverly Hills, California 90212-2018
+Telephone: (310) 777-3750
+Facsimile: (310) 388-5917
+
+ANDREWS KURTH LLP
+James Edward Maloney
+Texas Bar No. 12881500
+(Fed. Bar No. 01419)
+jamesmaloney@andrewskurth.com
+Paul L. Mitchell
+Texas Bar No. 14217920
+(Fed. Bar. No. 07495)
+paulmitchell@andrewskurth.com
+Brian C. Pidcock
+Texas Bar No. 24074895
+(Fed. Bar No. 1654553)
+brianpidcock@andrewskurth.com
+600 Travis, Suite 4200
+Houston, Texas 77002
+Telephone: (713) 220-3995
+Facsimile: (713) 238-7246
+
+Attorneys for Defendants FX Networks, LLC, Twentieth Century Fox Film
+Corporation, Twenty-First Century Fox, Inc., and FXX Network, LLC
+HOU:3387181.1
+
+Case 4:13-cv-02906 Document 18 Filed in TXSD on 12/26/13 Page 2 of 20
+
+TABLE OF CONTENTS
+I.
+
+INTRODUCTION ...........................................................................................1
+
+II.
+
+FACTS AND PROCEDURAL HISTORY .....................................................1
+
+III.
+
+ARGUMENT AND CITATION OF AUTHORITIES ...................................4
+
+IV.
+
+A.
+
+Rule 12(b)(6) Standard ..........................................................................4
+
+B.
+
+Exxon Fails to State a Claim for Dilution Under Texas State
+Law ........................................................................................................ 4
+1.
+
+The Registration of the FXX Mark Is In Standard
+Character Form, and Therefore Covers Stylized
+Variations of the FXX Mark ....................................................... 4
+
+2.
+
+Section 43(c)(6) of the Federal Lanham Act Bars
+Exxon’s State Law Dilution Claim .............................................6
+
+3.
+
+No Exceptions to the Statutory Bar Apply .................................9
+
+CONCLUSION..............................................................................................12
+
+i
+HOU:3387181.1
+
+Case 4:13-cv-02906 Document 18 Filed in TXSD on 12/26/13 Page 3 of 20
+
+TABLE OF AUTHORITIES
+Page(s)
+CASES
+Bell Atl. Corp. v. Twombly,
+550 U.S. 544 (2007) .............................................................................................. 4
+Cinel v. Connick,
+15 F.3d 1338 (5th Cir. 1994) ................................................................................ 2
+Citigroup Inc. v. Capital City Bank Grp., Inc.,
+637 F.3d 1344 (Fed. Cir. 2011) ............................................................................ 5
+Coca Cola Co. v Gemini Rising, Inc.,
+346 F. Supp. 1183 (E.D.N.Y. 1972) ................................................................... 10
+Duluth News-Tribune v. Mesabi Publ’g Co.,
+84 F.3d 1093 (8th Cir. 1996) ................................................................................ 2
+Funk v. Stryker Corp.,
+631 F.3d 777 (5th Cir. 2011) ................................................................................ 2
+In re Data Packaging Corp.,
+453 F.2d 1300 (C.C.P.A. 1972) ............................................................................ 5
+In re K-T Zoe Furniture,
+16 F.3d 390 (Fed. Cir. 1994) ................................................................................ 9
+In re Star Belly Stitcher, Inc.,
+107 U.S.P.Q.2d 2059 (T.T.A.B. 2013) ................................................................. 5
+In re Strategic Partners, Inc.,
+102 U.S.P.Q.2d 1397 (T.T.A.B. 2012) ................................................................. 5
+In re Watkins Glen Int’l, Inc.,
+227 U.S.P.Q. 727 (T.T.A.B. 1985) ....................................................................... 9
+Kaempe v. Myers,
+367 F.3d 958 (D.C. Cir. 2004) .............................................................................. 2
+Kopp v. Klein,
+722 F.3d 327 (5th Cir. 2013) ................................................................................ 4
+ii
+HOU:3387181.1
+
+Case 4:13-cv-02906 Document 18 Filed in TXSD on 12/26/13 Page 4 of 20
+
+Nationwide Bi-Weekly Admin., Inc. v. Belo Corp.,
+512 F.3d 137 (5th Cir. 2007) ................................................................................ 4
+Pharmacia Corp. v. Alcon Labs, Inc.,
+201 F. Supp. 2d 335 (D.N.J. 2002) ....................................................................... 6
+Westchester Media Co. LP v. PRL USA Holdings, Inc.,
+103 F. Supp. 2d 935 (S.D. Tex. 1999), aff’d in part, rev’d in part on
+other grounds, 214 F.3d 658 (5th Cir. 2000).................................................... 6, 7
+STATUTES, RULES, AND REGULATIONS
+15 U.S.C. § 1125(c)(6) ........................................................................................... 1, 6
+37 C.F.R. § 2.52(a)(1) ................................................................................................ 4
+54 PA. CONS. STAT. ANN. § 1124 (West 2013) .......................................................... 8
+765 ILL. COMP. STAT. ANN. 1036/65 (2003) .......................................................... 7, 8
+ALA. CODE § 8-12-17 (2010) ................................................................................. 7, 8
+ALASKA STAT. §45.50.180 (Michie 2002) ................................................................. 7
+ARIZ. REV. STAT. ANN. §44-1448.01 (West 2013) .................................................... 7
+ARK. CODE ANN. § 4-71-213 (2002) .......................................................................... 7
+CAL. BUS. & PROF. CODE § 14247 (West 2008) ........................................................ 7
+CONN. GEN. STAT. ANN § 35-11i(c) (West 2013) ...................................................... 7
+DEL. CODE ANN. tit. 6, § 3313 (2002)........................................................................ 7
+Fed. R. Civ. P. 12(b)(6)......................................................................................1, 2, 4
+Fed. R. Evid. 201 ....................................................................................................... 2
+FLA. STAT. ANN. § 495.151 (West 2013) ............................................................... 7, 8
+GA. CODE ANN. § 10-1-451 (2003) ........................................................................ 7, 8
+HAW. REV. STAT. ANN. § 482-32 (Michie 2003) ....................................................... 7
+IDAHO CODE § 48-513 (Michie 2002) ........................................................................ 7
+iii
+HOU:3387181.1
+
+Case 4:13-cv-02906 Document 18 Filed in TXSD on 12/26/13 Page 5 of 20
+
+IN. CODE § 24-2-1-13.5 (West 2006) ......................................................................... 7
+IOWA CODE ANN. § 548.113 (West 2003).................................................................. 7
+KAN. STAT. ANN. § 81-214 (2002) ............................................................................. 7
+LA. REV. STAT. ANN. § 51:223.1 (West 2003) ........................................................... 7
+MASS. GEN. LAWS. ANN. ch. 110H, § 13 (West 2013) .............................................. 7
+ME. REV. STAT. ANN. tit. 10, § 1530 (West 2003) ..................................................... 7
+MINN. STAT. ANN. § 333.285 (West 2003) ................................................................ 7
+MISS. CODE. ANN. § 75-25-25 (2009) .................................................................... 7, 8
+MO. ANN. STAT. § 417.061(1) (West 2002) ............................................................... 7
+MONT. CODE ANN. § 30-13-334 (2003) ..................................................................... 7
+NEB. REV. STAT. ANN. § 87-140 (Michie 2002) ........................................................ 7
+NEV. REV. STAT. § 600.435 (West 2007) ............................................................... 7, 8
+N.H. REV. STAT. ANN. § 350-A:12 (2003) ................................................................. 7
+N.J. STAT. ANN. 56:3- 13.20 (WEST 2003) ................................................................. 7
+N.M. STAT. ANN. § 57-3B-15 (Michie 2002) ............................................................ 7
+N.Y. GEN. BUS. LAW § 360-l (2003) ...................................................................... 7, 8
+OR. REV. STAT. § 647.107 (2001) .............................................................................. 8
+R.I. GEN. LAWS § 6-2-12 (1992) ................................................................................ 8
+S.C. CODE ANN. § 39-15-1165 (2002) ....................................................................... 8
+TENN. CODE ANN. § 47-25-513 (2003) ...................................................................... 8
+TEX. BUS. & COM. CODE ANN. § 16.103 (Vernon 2012) .................................1, 8, 12
+UT. CODE ANN. § 70-3a-403 (2002) .......................................................................... 8
+W. VA. CODE ANN. § 47-2-13 (Michie 2003) ............................................................ 8
+iv
+HOU:3387181.1
+
+Case 4:13-cv-02906 Document 18 Filed in TXSD on 12/26/13 Page 6 of 20
+
+WASH. REV. CODE ANN. § 19.77.160 (2003) ............................................................. 8
+WYO. STAT. ANN. § 40-1-115 (Michie 2002) ............................................................ 8
+LEGISLATIVE HISTORY
+H.R. REP. NO. 104-374 (1995), as reprinted in 1996 U.S.C.C.A.N. 1029................ 7
+OTHER AUTHORITIES
+J. Thomas McCarthy, MCCARTHY ON TRADEMARKS & UNFAIR COMPETITION
+(4th ed. 2013) .................................................................................................. 6, 10
+T.M.E.P. §§ 807.03-807.04........................................................................................ 5
+
+v
+HOU:3387181.1
+
+Case 4:13-cv-02906 Document 18 Filed in TXSD on 12/26/13 Page 7 of 20
+
+Pursuant to Federal Rule of Civil Procedure 12(b)(6), Defendants1 submit
+this Motion to Dismiss Count V (“Dilution Under Texas Law”) of the Amended
+Complaint filed by Plaintiff Exxon Mobil Corporation (“Exxon” or “Plaintiff”)
+(Dkt. No. 15), and in support of that motion argue as follows:
+I.
+INTRODUCTION
+FXX Network owns a federal trademark registration of the FXX trademark
+in “standard character” form.
+
+It is black-letter law that a standard-character
+
+registration covers stylized variations of the mark. Pursuant to Section 43(c)(6) of
+the federal Lanham Act, ownership of a federal registration is “a complete bar” to
+state law-based dilution claims. See 15 U.S.C. § 1125(c)(6). Thus, Count V of
+Exxon’s Complaint, which purports to state a claim under the Texas state antidilution statute, TEX. BUS. & COM. CODE ANN. § 16.103, is barred, and should be
+dismissed as a matter of law.
+II.
+FACTS AND PROCEDURAL HISTORY
+The FX cable network—launched nearly 20 years ago—reaches almost 100
+million U.S. homes, offering original and syndicated programming. To capitalize
+
+1
+
+The named defendants, FX Networks, LLC, Twentieth Century Fox Film Corporation,
+Twenty-First Century Fox, Inc., and FXX Network, LLC, are referred to collectively as
+“FXX Network” or “Defendants.” The owner of the federal trademark registration and
+applications identified below is Twentieth Century Fox Film Corporation, which for
+simplicity also is referred to as “FXX Network” in this brief.
+
+1
+HOU:3387181.1
+
+Case 4:13-cv-02906 Document 18 Filed in TXSD on 12/26/13 Page 8 of 20
+
+on the goodwill associated with the well-known FX name, two sister networks
+were introduced in 2013: FXX and FXM. Dkt. No. 15, ¶¶ 22-24. The FXM
+channel focuses on movies, while the FXX channel focuses on comedy, action and
+sports programming.
+On January 9, 2013, FXX Network filed a trademark application to register
+the FXX mark for “television transmission and broadcasting services” (the “FXX
+Mark”). This application covers the FXX Mark in standard character form (with
+no stylization, font or logo element).
+
+See Declaration of Sabina A. Vayner
+
+(“Vayner Decl.”) ¶ 2, Ex. A.2
+The U.S. Patent and Trademark Office (“USPTO”) reviewed the application
+for the FXX Mark and, after searching existing trademark registrations, concluded
+that the FXX Mark did not conflict with any previously-registered marks and
+
+2
+
+It is well-settled that, “[i]n deciding a 12(b)(6) motion to dismiss, a court may
+permissibly refer to matters of public record” without converting the motion to dismiss
+into one for summary judgment. Cinel v. Connick, 15 F.3d 1338, 1343 n.6 (5th Cir.
+1994); see also Funk v. Stryker Corp., 631 F.3d 777, 782-83 (5th Cir. 2011). Records of
+the USPTO are public records and are therefore subject to judicial notice. See, e.g.,
+Kaempe v. Myers, 367 F.3d 958, 965 (D.C. Cir. 2004) (“The documents recorded by the
+PTO . . . are public records subject to judicial notice on a motion to dismiss.”); Duluth
+News-Tribune v. Mesabi Publ’g Co., 84 F.3d 1093, 1096 n.2 (8th Cir. 1996) (“We take
+judicial notice of plaintiff’s recent registration of the trademark ‘Duluth NewsTribune.’”). FXX Network requests that the Court, pursuant to Federal Rule of Evidence
+201, take judicial notice of the Exhibits to the Vayner Declaration, which are from the
+USPTO and Trademark Trial and Appeal Board (“TTAB”) online databases. Fed. R.
+Evid. 201.
+
+2
+HOU:3387181.1
+
+Case 4:13-cv-02906 Document 18 Filed in TXSD on 12/26/13 Page 9 of 20
+
+otherwise was entitled to registration. As a result, on April 17, 2013, the USPTO
+approved the FXX Mark for publication. See id.
+The USPTO published the FXX Mark for opposition on May 7, 2013;
+Exxon took no action to oppose the application within the statutorily-mandated
+period.
+
+FXX Network received a “Notice of
+
+See id. ¶¶ 2-3, Exs. A-B.
+
+Allowance,” and thereafter filed a “Statement of Use” for the FXX Mark, which
+the USPTO accepted on November 7, 2013 (see id. ¶ 2, Ex. A), and a federal
+registration of the FXX Mark (Reg. No. 4449045) issued on December 10, 2013.
+See id. ¶ 4, Ex. C.
+On October 2, 2013, Exxon—claiming expansive rights in a stylized,
+interlocking “XX” mark—filed a seven-count complaint against Defendants,
+alleging (1) federal trademark infringement; (2) federal unfair competition; (3)
+federal trademark dilution; (4) common law unfair competition; (5) state trademark
+dilution; and (6) unjust enrichment.3 See Dkt. No. 1. Exxon thereafter filed a
+substantially identical Amended Complaint on December 12, 2013 (which added
+Defendant FXX Network, LLC as a party and updated the procedural posture of a
+proceeding before the TTAB, but made no other changes). See Dkt. No. 15.
+
+3
+
+Exxon also included a Count requesting that the Court block applications to register a
+stylized FXX. See Dkt. No. 15, ¶¶ 64-68. But Exxon’s original and Amended
+Complaints do not challenge the registration of the FXX Mark in standard character form.
+
+3
+HOU:3387181.1
+
+Case 4:13-cv-02906 Document 18 Filed in TXSD on 12/26/13 Page 10 of 20
+
+Because FXX Network owns a federal registration of the FXX Mark in
+standard character form, and this form covers all stylized variations of the FXX
+Mark, Exxon’s Texas state law dilution claim is statutorily barred and should be
+dismissed.
+III.
+ARGUMENT AND CITATION OF AUTHORITIES
+A.
+
+Rule 12(b)(6) Standard
+“Dismissal under Rule 12(b)(6) is appropriate when the plaintiff has failed to
+
+allege ‘enough facts to state a claim to relief that is plausible on its face’ and fails
+to ‘raise a right to relief above the speculative level.’” Nationwide Bi-Weekly
+Admin., Inc. v. Belo Corp., 512 F.3d 137, 140 (5th Cir. 2007) (quoting Bell Atl.
+Corp. v. Twombly, 550 U.S. 544 (2007)). To survive such a motion, the “‘[f]actual
+allegations must be enough to raise a right to relief above the speculative level on
+the assumption that all the allegations in the complaint are true.’” Kopp v. Klein,
+722 F.3d 327, 333 (5th Cir. 2013) (quoting Twombly, 550 U.S. at 555).
+B.
+
+Exxon Fails to State a Claim for Dilution Under Texas State Law
+1.
+
+The Registration of the FXX Mark Is In Standard Character
+Form, and Therefore Covers Stylized Variations of the FXX
+Mark
+
+Federal trademark registrations may be issued for either (1) a “standard
+character” mark, or (2) for a “special form” mark (reflecting font, style, color, etc.).
+See 37 C.F.R. § 2.52(a)(1) (for “standard character” mark applications, the
+4
+HOU:3387181.1
+
+Case 4:13-cv-02906 Document 18 Filed in TXSD on 12/26/13 Page 11 of 20
+
+application must include “a statement that the mark is in standard characters and no
+claim is made to any particular font style, size, or color.”); TMEP §§ 807.03807.04.4 The registration of the FXX Mark is in standard character form. See
+Vayner Decl. ¶ 4, Ex. C.
+It is axiomatic that, “[i]f [a] registrant . . . obtains a standard character mark
+without claim to any particular font style, size or color, the registrant is entitled to
+depictions of the standard character mark regardless of font style, size, or color.”
+Citigroup Inc. v. Capital City Bank Grp., Inc., 637 F.3d 1344, 1353 (Fed. Cir.
+2011); see In re Data Packaging Corp., 453 F.2d 1300, 1302 (C.C.P.A. 1972) (“It
+seems to be well established that a single registration of a word mark may cover all
+of its different appearances, potential as well as actual.”); In re Star Belly Stitcher,
+Inc., 107 U.S.P.Q.2d 2059, 2063 (T.T.A.B. 2013) (“Because applicant’s proposed
+mark is presented in standard characters, . . . applicant is not limited to any
+particular depiction of the mark.”); In re Strategic Partners, Inc., 102 U.S.P.Q.2d
+1397, 1399 (T.T.A.B. 2012) (“Applicant’s registered mark in standard character
+form entitles it to depict the mark regardless of font style, size, or color.”).
+The federal registration of the FXX Mark in standard character form
+therefore necessarily encompasses all versions, including the stylized “FXX” that
+
+4
+
+As requested in Section 6 of Judge Hittner’s Standing Order, copies of all cited
+authorities unavailable on Westlaw or Lexis are attached as Exhibit 1 to this motion.
+
+5
+HOU:3387181.1
+
+Case 4:13-cv-02906 Document 18 Filed in TXSD on 12/26/13 Page 12 of 20
+
+is the subject of Exxon’s Texas state law dilution claim. See Dkt. No. 15, ¶¶ 3639, 58-60; see also 3 J. Thomas McCarthy, MCCARTHY
+
+ON
+
+TRADEMARKS &
+
+UNFAIR COMPETITION § 19:58 (4th ed. 2013) (“MCCARTHY”) (agreeing with
+Federal Circuit and TTAB precedent, noting that “when a mark is presented in
+typed or standard character format, the mark must be considered as appearing in
+any format in which the mark could be depicted.”).
+2.
+
+Section 43(c)(6) of the Federal Lanham Act Bars Exxon’s State
+Law Dilution Claim
+
+Pursuant to Section 43(c)(6) of the Lanham Act, ownership of a valid federal
+trademark registration on the Principal Register is “a complete bar” to state lawbased dilution claims. See 15 U.S.C. § 1125(c)(6); see also Westchester Media Co.
+LP v. PRL USA Holdings, Inc., 103 F. Supp. 2d 935, 977 (S.D. Tex. 1999), aff’d in
+part, rev’d in part on other grounds, 214 F.3d 658 (5th Cir. 2000); Pharmacia
+Corp. v. Alcon Labs, Inc., 201 F. Supp. 2d 335, 386 (D.N.J. 2002).
+The only case within the Fifth Circuit containing substantive discussion of
+the statutory bar comes from this Court in Westchester Media.5 Because “the
+purpose of the federal statute appear[ed] clear” and it could not “ignore the plain
+language of the Act,” the Court barred a Texas state-law dilution claim on the basis
+of a federal registration. In so doing, the court explained:
+5
+
+The statutory bar now in Section 43(c)(6) was contained in Section 43(c)(3) when
+Westchester Media was decided; the amendment occurred in 2006 pursuant to the
+Trademark Dilution Revision Act (“TDRA”).
+
+6
+HOU:3387181.1
+
+Case 4:13-cv-02906 Document 18 Filed in TXSD on 12/26/13 Page 13 of 20
+
+If a party asserts a dilution claim against one who owns a federally
+registered mark, it must proceed under the federal dilution statute.
+Allowing state law dilution claims to proceed against owners of
+federally registered marks would interfere with federal law and
+discourage the federal registration of marks, contrary to the purpose of
+the Lanham Act.
+Westchester Media, 103 F. Supp. 2d at 977; see also id. at 976.
+By including Section 43(c)(6) in the TDRA, Congress sought to provide “a
+further incentive for the federal registration of marks,” and to “protect registered
+marks . . . from interference by state, or territorial legislation.” H.R. REP. NO. 104374, at 3, 7 (1995), as reprinted in 1996 U.S.C.C.A.N. 1029, 1030, 1034. The
+Section 43(c)(6) bar is particularly sensible in light of the very inconsistent
+standards of liability under state dilution law. Nearly 40 states have dilution
+statutes, and they vary greatly.6 Some require that a trademark be “famous” to
+
+6
+
+See, e.g., Alabama, ALA. CODE § 8-12-17 (2010); Alaska, ALASKA STAT. §45.50.180
+(Michie 2002); Arizona, ARIZ. REV. STAT. ANN. §44-1448.01 (West 2013); Arkansas,
+ARK. CODE ANN. § 4-71-213 (2002); California, CAL. BUS. & PROF. CODE § 14247 (West
+2008); Connecticut, CONN. GEN. STAT. ANN § 35-11i(c) (West 2013); Delaware, DEL.
+CODE ANN. tit. 6, § 3313 (2002); Florida, FLA. STAT. ANN. § 495.151 (West 2013);
+Georgia, GA. CODE ANN. § 10-1-451 (2003); Hawaii, HAW. REV. STAT. ANN. § 482-32
+(Michie 2003); Idaho, IDAHO CODE § 48-513 (Michie 2002); Illinois, 765 ILL. COMP.
+STAT. ANN. 1036/65 (2003); Indiana, IN. CODE § 24-2-1-13.5 (West 2006); Iowa, IOWA
+CODE ANN. § 548.113 (West 2003); Kansas, KAN. STAT. ANN. § 81-214 (2002);
+Louisiana, LA. REV. STAT. ANN. § 51:223.1 (West 2003); Maine, ME. REV. STAT. ANN.
+tit. 10, § 1530 (West 2003); Massachusetts, MASS. GEN. LAWS. ANN. ch. 110H, § 13
+(West 2013); Minnesota, MINN. STAT. ANN. § 333.285 (West 2003); Mississippi, MISS.
+CODE. ANN. § 75-25-25 (2009); Missouri, MO. ANN. STAT. § 417.061(1) (West 2002);
+Montana, MONT. CODE ANN. § 30-13-334 (2003); Nebraska, NEB. REV. STAT. ANN.
+§ 87-140 (Michie 2002); Nevada, NEV. REV. STAT. § 600.435 (West 2007); New
+Hampshire, N.H. REV. STAT. ANN. § 350-A:12 (2003); New Jersey, N.J. Stat. Ann. 56:313.20 (West 2003); New Mexico, N.M. STAT. ANN. § 57-3B-15 (Michie 2002); New York,
+
+7
+HOU:3387181.1
+
+Case 4:13-cv-02906 Document 18 Filed in TXSD on 12/26/13 Page 14 of 20
+
+qualify for protection; others do not. Compare FLA. STAT. ANN. § 495.151 (West
+2013) (“The owner of a mark that is famous in this state”) and MISS. CODE. ANN.
+§ 75-25-25 (2009) (same) with N.Y. GEN. BUS. LAW § 360-l (2003) (requiring only
+that mark be “distinctive”) and GA. CODE ANN. § 10-1-451 (2003) (same). Some
+require “actual dilution,” and others require only a likelihood of dilution. Compare
+765 ILL. COMP. STAT. ANN. 1036/65 (2003) (“causes dilution”) and WASH. REV.
+CODE ANN. § 19.77.160 (2003) (same) with ALA. CODE § 8-12-17 (2010) (“is
+likely to cause dilution of the famous mark”). Some states even allow damages in
+addition to injunctive relief upon a finding of willfulness. See, e.g., ALA. CODE
+§ 8-12-17 (2010); NEV. REV. STAT. § 600.435 (West 2007); 54 PA. CONS. STAT.
+ANN. § 1124 (West 2013).
+Section 43(c)(6) expressly forecloses a state law dilution claim against a
+defendant who owns a federal trademark registration; instead, a plaintiff is limited
+to federal or state trademark infringement or unfair competition claims, or a federal
+dilution claim. While they ultimately will prove to be without merit, Exxon asserts
+
+N.Y. GEN. BUS. LAW § 360-l (2003); Oregon, OR. REV. STAT. § 647.107 (2001);
+Pennsylvania, 54 PA. CONS. STAT. ANN. § 1124 (West 2013); Rhode Island, R.I. GEN. LAWS
+§ 6-2-12 (1992); South Carolina, S.C. CODE ANN. § 39-15-1165 (2002); Tennessee,
+TENN. CODE ANN. § 47-25-513 (2003); Texas, TEX. BUS. & COM. CODE ANN. § 16.103
+(Vernon 2012); Utah, UT. CODE ANN. § 70-3a-403 (2002); Washington, WASH. REV.
+CODE ANN. § 19.77.160 (2003); West Virginia, W. VA. CODE ANN. § 47-2-13 (Michie
+2003); and Wyoming, WYO. STAT. ANN. § 40-1-115 (Michie 2002).
+
+8
+HOU:3387181.1
+
+Case 4:13-cv-02906 Document 18 Filed in TXSD on 12/26/13 Page 15 of 20
+
+those claims in five other counts, and it should be limited to those as this case
+proceeds.
+3.
+
+No Exceptions to the Statutory Bar Apply
+
+FXX Network has two pending applications to register the FXX Mark in
+“special form,” namely the following “FXX Logo”:
+
+See Vayner Decl. ¶¶ 5-6, Exs. D-E. Exxon has filed a consolidated proceeding
+with the Trademark Trial and Appeal Board to oppose these two applications, and
+its Amended Complaint requests that this Court prevent those registrations from
+issuing. See id. ¶ 7, Ex. F. However, the stylized FXX Logo applications are not
+relevant to this motion. The registration of the standard character FXX Mark
+acts as a bar to a state law dilution claim for any stylized version of that mark.
+A “special form” registration, although more narrow than a “standard
+character” one, may be sought for various reasons, including (1) to make
+descriptive or ornamental matter registerable;7 (2) to increase differentiation from a
+
+7
+
+In re K-T Zoe Furniture, 16 F.3d 390, 394 (Fed. Cir. 1994) (“[T]he words and the
+stylized script of ‘the sofa & chair company’ [are] separable elements, and [] only the
+script design of the words was shown to have acquired secondary meaning.”); In re
+Watkins Glen Int’l, Inc., 227 U.S.P.Q. 727, 729 (T.T.A.B. 1985) (“While the design
+somewhat simulates a checkered flag which is a common symbol . . . , the design sought
+to be registered, in our view, is highly stylized and unique.”).
+
+9
+HOU:3387181.1
+
+Case 4:13-cv-02906 Document 18 Filed in TXSD on 12/26/13 Page 16 of 20
+
+third-party mark;8 or (3) for additional protection against a mark with a confusingly
+similar script. By way of illustration of this last point, the oldest registrations
+owned by The Coca-Cola Company for “beverages and syrups” are the following:
+
+COCA-COLA
+Reg. No. 238145
+
+Reg. No. 238146
+
+Although the “standard character” registration encompasses the stylized form (so
+that Coca-Cola could, for example, use a “®” on the latter even if only the former
+was registered), Coca-Cola also registered the stylized version of its mark because
+it (rightly) anticipated something like the below, which does not use the words but
+instead trades on the stylization:
+
+See Coca Cola Co. v Gemini Rising, Inc., 346 F. Supp. 1183, 1190 (E.D.N.Y.
+1972) (“high probability of confusion”).
+Here, Exxon expressly chose not to oppose (and does not now challenge)
+the standard character FXX Mark registration, and therefore its opposition to
+
+8
+
+4 MCCARTHY § 23:33 (“It has been observed that as a generalization, highly stylized,
+highly contrasting letter design logos tend to fall on the no likelihood of confusion side of
+the line whereas rather clear portrayals of a letter tend to result in a finding of a
+likelihood of confusion.”).
+
+10
+HOU:3387181.1
+
+Case 4:13-cv-02906 Document 18 Filed in TXSD on 12/26/13 Page 17 of 20
+
+the more narrow FXX Logo applications is of no moment for purposes of this
+motion. Exxon’s strategic decision not to oppose the standard character FXX
+Mark should be no surprise, as Exxon previously admitted that:
+[m]any firms used two “X’s” as part of their brand names: connoting
+“Extra Strength” (deodorants), “Extra fine grade” (flour), “Extra
+Hard” (knives), “Extra Power” (explosives). In fact two X’s side by
+side are used so commonly to mean “Extra ____” as to be almost nondistinctive grade designations, certainly not entitled to a wide scope of
+protection.
+Vayner Decl. ¶ 8, Ex. G (quoting Response to Office Action, at 4). Indeed, Exxon
+has a long history of coexistence with a plethora of standard character mark
+registrations containing an “XX” element, including the following:
+
+T.J. MAXX (Reg. No. 1637243)
+
+NEXXUS (Reg. No. 2444553)
+
+CAP-XX (Reg. No. 2683994)
+
+SPECTRA MAXX (Reg. No. 4166759)
+
+11
+HOU:3387181.1
+
+Case 4:13-cv-02906 Document 18 Filed in TXSD on 12/26/13 Page 18 of 20
+
+FERRARI FXX (Reg. No. 3204168)
+
+DOS EQUIS XX (Reg. No. 1671837)
+
+See Vayner Decl. ¶ 9, Ex. H. In fact, more than fifty federal registrations exist
+containing the “XX” letters in standard character form. See id.
+IV.
+CONCLUSION
+Exxon cannot state a claim under the Texas dilution statute because the
+federal registration of the FXX Mark bars any state law dilution claim. Dismissal
+of Exxon’s state law dilution claim not only is required, but will streamline the
+litigation by obviating the need to conduct Texas-specific written discovery,
+document production, surveys, and expert reports in addition to the other discovery
+already required by the case.9 FXX Network respectfully requests that the Court
+grant its motion to dismiss Count V of Exxon’s Complaint.
+
+9
+
+The Texas state law dilution statute, TEX. BUS. & COM. CODE ANN. § 16.103, includes
+several factors for “determining whether a mark is famous,” and most are tailored to
+activity (e.g., sales, advertising, recognition, etc.) specific to “within the state.” See id. §
+16.103(b).
+
+12
+HOU:3387181.1
+
+Case 4:13-cv-02906 Document 18 Filed in TXSD on 12/26/13 Page 19 of 20
+
+Respectfully submitted this 26th day of December, 2013,
+
+s/ James E. Maloney
+James Edward Maloney
+Tex. Bar No. 12881500
+(Fed. Bar No. 01419)
+ANDREWS KURTH LLP
+600 Travis, Suite 4200
+Houston, Texas 77002
+Telephone: (713) 220-3995
+Facsimile: (713) 238-7246
+Attorney-in-charge for Defendants
+OF COUNSEL:
+Paul L. Mitchell
+Tex. Bar No. 14217920
+(Fed. Bar. No. 07495)
+Brian C. Pidcock
+Tex. Bar No. 24074895
+(Fed. Bar No. 1654553)
+ANDREWS KURTH LLP
+600 Travis, Suite 4200
+Houston, Texas 77002
+Telephone: (713) 220-3995
+Facsimile: (713) 238-7246
+
+William H. Brewster (pro hac vice pending)
+Miles J. Alexander (pro hac vice pending)
+R. Charles Henn Jr. (pro hac vice pending)
+Sabina A. Vayner (pro hac vice pending)
+KILPATRICK TOWNSEND
+& STOCKTON LLP
+1100 Peachtree Street, Suite 2800
+Atlanta, Georgia 30309-4528
+Telephone: (404) 815-6500
+Facsimile: (404) 815-6555
+Larry McFarland (pro hac vice pending)
+KILPATRICK TOWNSEND
+& STOCKTON LLP
+9720 Wilshire Boulevard PH
+Beverly Hills, California 90212-2018
+Telephone: (310) 777-3750
+Facsimile: (310) 388-5917
+Attorneys for Defendants
+
+13
+HOU:3387181.1
+
+Case 4:13-cv-02906 Document 18 Filed in TXSD on 12/26/13 Page 20 of 20
+
+CERTIFICATE OF SERVICE
+The undersigned certifies that a true and correct copy of the foregoing
+document was filed electronically using the CM/ECF system on December 26,
+2013, which will automatically notify and effect service on the following attorneys
+of record, who are deemed to have consented to electronic service via the Court’s
+CM/ECF system, per LR 5.3:
+s/ James E. Maloney
+James Edward Maloney,
+Attorney for Defendants
+
+14
+HOU:3387181.1
+
+

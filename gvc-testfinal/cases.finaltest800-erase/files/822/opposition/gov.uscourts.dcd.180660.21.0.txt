@@ -1,0 +1,1767 @@
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 1 of 58
+
+IN THE UNITED STATES DISTRICT COURT FOR
+THE DISTRICT OF COLUMBIA
+)
+)
+STANDING ROCK SIOUX TRIBE,
+)
+)
+Plaintiff,
+)
+)
+v.
+)
+Case No. 1:16-cv-01534 (JEB)
+)
+UNITED STATES ARMY CORPS OF
+)
+ENGINEERS,
+)
+)
+Defendant.
+)
+)
+UNITED STATES ARMY CORPS OF ENGINEERS’ OPPOSITION TO
+PLAINTIFF’S MOTION FOR PRELIMINARY INJUNCTION
+
+i
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 2 of 58
+
+TABLE OF CONTENTS
+TABLE OF AUTHORITIES ......................................................................................................... iv
+LIST OF EXHIBITS ...................................................................................................................... xi
+LIST OF ACRONYMS ................................................................................................................ xii
+INTRODUCTION ...........................................................................................................................1
+BACKGROUND .............................................................................................................................2
+I.
+
+STATUTORY AND REGULATORY BACKGROUND ...................................................2
+A.
+
+National Historic Preservation Act............................................................................2
+
+B.
+
+The Clean Water Act .................................................................................................6
+
+C.
+
+Rivers and Harbors Act .............................................................................................7
+
+D.
+
+Nationwide Permit 12 and Conditions Regarding Historic Preservation ..................7
+1. Nationwide Permitting Process ...........................................................................8
+2. Conditions Regarding Historic Preservation ....................................................11
+
+3. Nationwide Permit 12 .......................................................................................12
+II.
+
+FACTUAL BACKGROUND ............................................................................................13
+
+STANDARD OF REVIEW ...........................................................................................................18
+ARGUMENT .................................................................................................................................20
+I.
+
+PLAINTIFF HAS NOT ESTABLISHED THAT IT IS LIKELY TO PREVAIL ON
+THE MERITS OF ITS CLAIM THAT THE CORPS VIOLATED THE
+NATIONAL HISTORIC PRESERVATION ACT ...........................................................20
+A.
+
+Plaintiff Is Unlikely to Prevail on Its Claim That Nationwide Permit 12
+Violates the NHPA Because the Corps Reasonably Consulted with
+Federally Recognized Tribes .................................................................................20
+
+B.
+
+Nationwide Permit 12 and Its General Conditions Reasonably Fulfill the
+Corps’ Duties Under Section 106 of the NHPA .....................................................24
+
+ii
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 3 of 58
+
+C.
+
+The Corps Fully Complied with NHPA Section 106 with Respect to the
+Pre-construction Notices and Verifications at Issue. .............................................29
+
+D.
+
+The Corps’ Section 106 Review in This Case Was Reasonable ............................34
+
+II.
+
+PLAINTIFF HAS NOT SHOWN IMMEDIATE IRREPARABLE INJURY ..................38
+
+III.
+
+THE BALANCE OF EQUITIES TIPS IN FAVOR OF THE CORPS, AND
+ISSUANCE OF AN INJUNCTION WOULD HARM THE PUBLIC INTEREST..........42
+
+CONCLUSION ..............................................................................................................................44
+CERTIFICATE OF SERVICE ......................................................................................................46
+
+iii
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 4 of 58
+
+TABLE OF AUTHORITIES
+CASES
+Apache Survival Coal. v. United States,
+21 F.3d 895 (9th Cir. 1994) ............................................................................................... 35, 38
+City of Tacoma v. FERC,
+460 F.3d 53 (D.C. Cir. 2006) ..................................................................................................... 3
+Colo. Wild Horse & Burro Coal., Inc. v. Jewell,
+130 F. Supp. 3d 205 (D.D.C. 2015) ......................................................................................... 42
+Colo. River Indian Tribes v. Marsh,
+605 F. Supp. 1425 (C.D. Cal. 1985) ........................................................................................ 33
+Columbia Hosp. for Women Found., Inc. v. Bank of Tokyo-Mitsubishi, Ltd.,
+15 F. Supp. 2d 1 (D.D.C. 1997) ............................................................................................... 19
+Comm. to Save Cleveland’s Huletts v. U.S. Army Corps of Eng’rs,
+163 F. Supp. 2d 776 (N.D. Ohio 2001) .................................................................................... 33
+Crutchfield v. Cnty. Of Hanover, Va.,
+325 F.3d 211 (4th Cir. 2003) ................................................................................................... 26
+CTIA - The Wireless Ass'n v. FCC,
+466 F.3d 105 (D.C. Cir. 2006) ................................................................................................... 3
+Davis v. Latschar,
+202 F.3d 359 (D.C. Cir. 2000) ................................................................................................... 3
+Dorfmann v. Boozer,
+414 F.2d 1168 (D.C. Cir. 1969) ............................................................................................... 19
+*Duncan’s Point Lot Owners Ass’n v. FERC,
+552 F.3d 371 (D.C. Cir. 2008) .................................................................................................. 30
+Elec. Privacy Info. Ctr. v. Dep’t of Justice,
+15 F. Supp. 3d 32 (D.D.C. 2014) .............................................................................................. 18
+Friends of the Earth v. Hintz,
+800 F.2d 822 (9th Cir.1986) .................................................................................................... 26
+
+* Denotes cases chiefly relied upon.
+iv
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 5 of 58
+
+Gonzales v. Oregon,
+546 U.S. 243 (2006) ................................................................................................................. 32
+Harrison v. U.S. Dep’t of the Army,
+No. 3:08-CV-105-H, 2009 WL 3347109 (W.D. Ky. Oct. 14, 2009) ............................ 26, 30, 42
+Karst Envtl. Educ. & Prot., Inc. v. EPA,
+475 F.3d 1291 (D.C. Cir. 2007) ........................................................................................... 3, 31
+Konarski v. Donovan,
+763 F. Supp. 2d 128 (D.D.C. 2011) ......................................................................................... 18
+Lujan v. Defenders of Wildlife,
+504 U.S. 555 (1992) ................................................................................................................. 39
+Macht v. Skinner,
+916 F.2d 13 (D.C.Cir.1990) ..................................................................................................... 31
+Mazurek v. Armstrong,
+520 U.S. 968 (1997) ................................................................................................................. 42
+McGehee v. U.S. Army Corps of Eng’rs,
+No. 3:11-C-160-H, 2011 WL 2009969 (W.D. Ky. May 23, 2011) ......................................... 32
+*McGehee v. U.S. Army Corps of Eng’rs,
+No. 3:11-C-160-H, 2011 WL 3101773 (W.D. Ky. July 19, 2011) .................................... 30, 34
+Monsanto v. Geertson Seed Farms,
+561 U.S. 139 (2010) ................................................................................................................. 19
+Munaf v. Geren,
+553 U.S. 674 (2008) ................................................................................................................. 18
+Narragansett Indian Tribe v. Warwick Sewer Auth.,
+334 F.3d 161 (1st Cir. 2003) .................................................................................................... 35
+New Hanover Twp. v. U.S. Army Corps of Eng’rs,
+992 F.2d 470 (3d Cir. 1993)..................................................................................................... 10
+Nken v. Holder,
+556 U.S. 418 (2009) ................................................................................................................. 42
+Ohio Valley Envtl. Coal. v. Bulen,
+429 F.3d 493 (4th Cir. 2005) ..................................................................................................... 8
+
+v
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 6 of 58
+
+Ohio Valley Envtl. Coal. v. Hobet Mining, LLC,
+723 F. Supp. 2d 886 (S.D. W. Va. 2010) ................................................................................. 19
+Pueblo of Sandia v. United States,
+50 F.3d 856 (10th Cir. 1995) ................................................................................................... 35
+Quechan Tribe of the Ft. Yuma Indian Reservation v. U.S. DOI,
+927 F. Supp. 2d 921 (S.D. Cal. 2013) ................................................................................ 35, 38
+Quechan Tribe of the Ft. Yuma Reservation v. U.S. DOI,
+755 F. Supp. 2d 1104 (S. D. Cal. 2010) .................................................................................... 35
+Save Our Sonoran, Inc. v. Flowers,
+227 F. Supp. 2d 1111 (D. Ariz. 2002) ..................................................................................... 19
+Sheridan Kalorama Historical Ass’n v. Christopher,
+49 F.3d 750 (D.C. Cir. 1995) ......................................................................................... 3, 23, 30
+Sherley v. Sebelius,
+644 F.3d 388 (D.C. Cir. 2011) ................................................................................................. 18
+*Sierra Club v. U.S. Army Corps of Eng’rs,
+990 F. Supp. 3d 9 (D.D.C. 2013) .............................................................................................. 44
+*Sierra Club v. U.S. Army Corps of Eng’rs,
+803 F.3d 31 (D.C. Cir. 2015) ............................................................................................ 23, 31
+Sierra Club, Inc. v. Bostick,
+2012 WL 3230552 (D.D.C. Aug. 5, 2012) .............................................................................. 38
+Sierra Club, Inc. v. Bostick,
+787 F.3d 1043 (10th Cir. 2015) ............................................................................................... 31
+Sugerloaf Citizens Ass’n v. FERC,
+959 F.2d 508 (4th Cir 1992) .................................................................................................... 31
+Summit Lake Paiute Tribe of Nev. v. U.S. Bureau of Land Mgmt.,
+496 Fed. Appx. 712 (9th Cir. 2012) ........................................................................................... 4
+Wash. Toxics Coal. v. U.S. DOI,
+457 F. Supp. 2d 1158 (W.D. Wash. 2006)............................................................................... 25
+Winnebago Tribe of Nebraska v. Ray,
+621 F.2d 269 (8th Cir. 1980) ................................................................................................... 32
+
+vi
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 7 of 58
+
+*Winter v. Nat. Res. Def. Council, Inc.,
+555 U.S. 7 (2008) ......................................................................................................... 18, 38, 39
+Wis. Gas Co. v. FERC,
+758 F.2d 669 (D.C. Cir. 1985) ........................................................................................... 39, 41
+STATUTES
+16 U.S.C. § 470f ............................................................................................................................. 3
+33 U.S.C. § 403 ............................................................................................................................... 7
+33 U.S.C. § 408 ....................................................................................................................... 1, 7, 8
+33 U.S.C. § 1251(a) ........................................................................................................................ 6
+33 U.S.C. § 1311(a) ........................................................................................................................ 6
+33 U.S.C. § 1344 ............................................................................................................................. 7
+33 U.S.C. § 1344(a) ........................................................................................................................ 6
+33 U.S.C. § 1344(b)(1) ................................................................................................................... 8
+33 U.S.C. § 1344(e) ................................................................................................................ 6, 8, 9
+33 U.S.C. § 1344(e)(1).................................................................................................................... 6
+33 U.S.C. § 1344(e)(2).................................................................................................................... 8
+33 U.S.C. § 1362(7) ........................................................................................................................ 6
+42 U.S.C. § 4332(C) ....................................................................................................................... 8
+54 U.S.C. § 300320 ................................................................................................................. 30, 33
+54 U.S.C. § 304101 ......................................................................................................................... 4
+54 U.S.C. § 304108 ......................................................................................................................... 4
+54 U.S.C. § 306108 (2016) ............................................................................................................. 3
+Pub. L. No. 113-287, § 7, 128 Stat. 3272 (2014) ............................................................................ 3
+
+vii
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 8 of 58
+
+CODE OF FEDERAL REGULATIONS
+33 C.F.R. § 208.10(a)(5) ................................................................................................................. 7
+33 C.F.R. § 322.3(a)........................................................................................................................ 7
+33 C.F.R. pt. 323 ............................................................................................................................. 6
+33 C.F.R. § 328.3(a)........................................................................................................................ 6
+33 CFR pt. 325 ....................................................................................................................... passim
+33 CFR pt. 329 .............................................................................................................................. 32
+33 C.F.R. § 329.4 ............................................................................................................................ 7
+33 C.F.R. § 330.1(b) ................................................................................................................... 6, 9
+33 C.F.R. § 330.1(d) ................................................................................................................. 9, 10
+33 C.F.R. § 330.1(e)(1) ................................................................................................................. 10
+33 C.F.R. § 330.1(e)(2) ................................................................................................................. 10
+33 C.F.R. § 330.1(e)(3) ................................................................................................................. 10
+33 C.F.R. § 330.2(b) ....................................................................................................................... 6
+33 C.F.R. § 330.2(c).................................................................................................................... 10
+33 C.F.R. § 330.4(e)...................................................................................................................... 10
+33 C.F.R. § 330.4(e)(1) ................................................................................................................... 9
+33 C.F.R. § 330.4(g) ..................................................................................................................... 27
+33 C.F.R. § 330.4(g)(4)................................................................................................................. 27
+33 C.F.R. § 330.5(a)(2) ................................................................................................................... 9
+33 C.F.R. § 330.5(b)(2)(ii) ............................................................................................................ 11
+33 C.F.R. § 330.5(c)(1) ................................................................................................................... 9
+33 C.F.R. § 330.5(c)(1)(i) ............................................................................................................... 9
+
+viii
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 9 of 58
+
+33 C.F.R. § 330.6(a)...................................................................................................................... 10
+33 C.F.R. § 330.6(a)(3)(i) ............................................................................................................. 10
+33 C.F.R. § 800.16(y) ................................................................................................................... 32
+36 C.F.R. pt. 800 ....................................................................................................................... 4, 32
+36 C.F.R. § 800.2(a)(3) ................................................................................................................. 26
+36 C.F.R. § 800.2(c)(2)(ii)(A) ........................................................................................................ 4
+36 C.F.R. § 800.2(c)(2)(ii)(B)....................................................................................................... 34
+36 C.F.R. § 800.4(b)(1)................................................................................................................... 4
+36 C.F.R. § 800.4(d)(1)(ii) .............................................................................................................. 5
+36 C.F.R. § 800.4(d)(1)(iv) ............................................................................................................. 5
+36 C.F.R. § 800.5(b) ....................................................................................................................... 5
+36 C.F.R. § 800.5(c)...................................................................................................................... 33
+36 C.F.R. § 800.5(c)(3) ................................................................................................................... 5
+36 C.F.R. § 800.5(c)(3)(ii)(B)......................................................................................................... 5
+36 C.F.R. § 800.5(d)(1)-(2)............................................................................................................. 5
+36 C.F.R. § 800.8(b) ..................................................................................................................... 24
+36 C.F.R. § 800.13 ........................................................................................................................ 24
+40 C.F.R. pt. 230 ............................................................................................................................. 9
+40 C.F.R. § 1508.10 ........................................................................................................................ 8
+FEDERAL REGISTERS
+36 Fed. Reg. 800.5(c) .................................................................................................................... 33
+76 Fed. Reg. 9174 (Feb. 16, 2011) ............................................................................... 9, 10, 11, 13
+77 Fed. Reg. 10,184 (Feb. 21, 2012) .......................................... 8, 9, 11, 12, 13, 21, 22, 24, 25, 27
+ix
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 10 of 58
+
+LEGISLATIVE HISTORY
+H.R. Conf. Rep. No. 95-830 (1977), reprinted in 1977 U.S.C.C.A.N. 4424 .................................. 6
+
+x
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 11 of 58
+
+EXHIBIT LIST
+
+Exhibit
+Number
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+17
+18
+19
+20
+
+Description
+Interim Guidance for Implementing Appendix C of 33 CFR part 325 with
+the revised ACHP Regulations at 36 CFR part 800
+Supplement to the Decision Document for Nationwide Permit 12 for
+Illinois District
+2012 Nationwide Permit Regional Conditions for North Dakota
+2012 Nationwide Permit Regional Conditions for South Dakota
+2012 Nationwide Permit Regional Conditions for Iowa
+2012 Nationwide Permit Regional Conditions for Illinois
+Memorandum for Record for South Dakota Verifications, July 25, 2016
+Tribal Distribution List
+Tribal Consultation Spreadsheet
+Memorandum for Record for Iowa Verifications, July 25, 2016
+Memorandum for Record for North Dakota Verifications, July 25, 2016
+Letter from Col. R. Ruch, Corps, to Chairman C. Murphy, SRST (Feb. 16,
+2011)
+Tribal Information Fact Sheet, Omaha District (Mar. 7, 2012)
+Letter from Col. R. Ruch, Corps, to Chairman J. Brings Plenty, CRST
+(Nov. 9, 2012) (Ex. 14)
+Advisory Council on Historic Preservation Mem. re: Corps of Engineers
+Permits and 106 Compliance (Aug. 21, 1979)
+Environmental Assessment Dakota Access Pipeline Project Crossings of
+Flowage Easements and Federal Lands, App. F – Unanticipated
+Discoveries Plan Cultural Resources, Human Remains, Paleontological
+Resources & Contaminated Media, July 2016
+Declaration of Joel Ames
+Declaration of Martha Chieply and accompanying Exhibits 1 - 16
+Declaration of Richard Harnois and accompanying Exhibits 1 - 5
+Declaration of Jonathan Shelman
+
+xi
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 12 of 58
+
+LIST OF ACRONYMS
+
+ACHP
+
+Advisory Council on Historic Preservation
+
+CRST
+
+Cheyenne River Sioux Tribe
+
+NEPA
+
+National Environmental Policy Act
+
+NHPA
+
+National Historic Preservation Act
+
+NWP
+
+Nationwide Permit
+
+RHA
+
+Rivers and Harbors Act
+
+SRST
+
+Standing Rock Sioux Tribe
+
+xii
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 13 of 58
+
+INTRODUCTION
+Plaintiff Standing Rock Sioux Tribe seeks to stop the construction of a 1,168-mile-long
+pipeline that is 97% outside the jurisdiction of Defendant United States Army Corps of
+Engineers (“Corps”). The Corps’ role was limited to processing three categories of requests
+submitted by Intervenor Dakota Access, LLC (“Dakota Access”) for: (1) individual verifications
+that activities at more than 200 locations satisfied the terms and conditions of Nationwide Permit
+12, which authorizes activities required for the construction of utility lines in federally regulated
+waters; (2) a real estate easement to lay pipeline beneath a Corps-owned lake and consent to
+cross Corps flowage easements at two additional locations; and (3) permissions to cross or lay
+pipeline in seven locations used by the Corps for navigation or flood control under the Rivers
+and Harbors Act, 33 U.S.C. § 408.1 Plaintiff asks this Court to order the Corps to withdraw
+Nationwide Permit 12, as applied to the pipeline, as well as the 200+ individual verifications
+along the pipeline. But in several ways Plaintiff has failed to meet the heightened preliminary
+injunction standard applicable to its request for affirmative injunctive relief.
+First, Plaintiff is unlikely to prevail on the merits of its challenges to the Corps’
+consultation under Section 106 of the National Historic Preservation Act. The Corps engaged in
+a multi-phase consultation process with federally recognized tribes, including Plaintiff, regarding
+the Corps’ establishment of a framework for its Nationwide Permits that reasonably requires the
+
+1
+
+Plaintiff’s request for a preliminary injunction appears to cover only the first of these
+Corps actions—the issuance of verifications pursuant to Nationwide Permit 12 to discharge into
+federally regulated waters—as well as the overall application of Nationwide Permit 12 to the
+pipeline in question. See Pl.’s Mem. in Supp. of Mot. for Prelim. Inj. 1 (ECF 6) (hereinafter
+“Pl.’s Br.”); Proposed Order (ECF 6-68). Regardless, the Corps’ consultation process that is the
+focus of Plaintiff’s claims was reasonable and met the statutory and regulatory requirements for
+all three kinds of authorizations for portions of the pipeline.
+1
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 14 of 58
+
+evaluation of historic and cultural resources. And in its site-specific review of portions of this
+pipeline within the Corps’ jurisdiction, the Corps followed a robust tribal consultation process.
+In addition, Plaintiff has not demonstrated that it will suffer an immediate, irreparable
+injury. Plaintiff has not pointed to specific sites of significance at locations under the Corps’
+jurisdiction and instead argues that there are bound to be cultural and historical sites somewhere
+across the entire 1,168 miles of pipeline. But even if previously unknown sites of potential
+significance were discovered during construction, Plaintiff has not shown that the sites would be
+immediately and irreparably harmed where Dakota Access is subject to requirements to consult
+with tribes and take avoidance measures upon discovery.
+Finally, the balance of equities and public interest weigh against an injunction, because
+Plaintiff did not avail itself of the opportunity to engage in the National Historic Preservation Act
+consultation process designed to protect the very interests that Plaintiff now claims will be
+harmed absent an injunction.2
+BACKGROUND
+I.
+
+STATUTORY AND REGULATORY BACKGROUND
+A.
+
+National Historic Preservation Act
+
+Section 106 of the National Historic Preservation Act (“NHPA”) requires federal
+agencies to consider the potential effects of federal agency actions on historic properties. 54
+
+2
+
+This Opposition does not respond to Cheyenne River Sioux Tribe’s Motion for Joinder,
+which purports to join Plaintiff’s Motion and present additional factual declarations and
+arguments for the Court’s consideration. ECF 19. The Corps does not oppose the Tribe’s
+joinder. But the lateness of the filing prevents the Corps from adequately responding to the new
+information presented. Thus, the Court should not consider the Tribe’s materials at the hearing
+on August 24. Should the Court be inclined to consider the materials, we request the opportunity
+to present a supplemental brief after the hearing, before the Court rules.
+2
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 15 of 58
+
+U.S.C. § 306108 (2016).3 “[T]he text of § 106 still applies by its terms only to federally funded
+or federally licensed undertakings. Thus however broadly the Congress or the ACHP define
+‘undertaking,’ § 106 applies only to: 1) ‘any Federal agency having … jurisdiction over a
+proposed Federal or federally assisted undertaking’; and 2) ‘any Federal … agency having
+authority to license any undertaking.’” Sheridan Kalorama Historical Ass’n v. Christopher, 49
+F.3d 750, 755 (D.C. Cir. 1995) (citing 16 U.S.C. § 470f). The NHPA requires that, before
+funding or licensing a “[f]ederal or federally assisted undertaking,” federal agencies must (1)
+“take into account the effect of the undertaking on any district, site, building, structure, or object
+that is included in or eligible for inclusion in the National Register,” and (2) “afford the Advisory
+Council on Historic Preservation . . . a reasonable opportunity to comment with regard to such
+undertaking.” Karst Envtl. Educ. & Prot., Inc. v. EPA, 475 F.3d 1291, 1294 (D.C. Cir. 2007)
+(internal quotation marks and citation omitted). “[T]he Act does ‘not require [a federal agency]
+to engage in any particular preservation activities; rather, Section 106 only requires that the
+[agency] consult the [State Historic Preservation Office] and the [Advisory Council on Historic
+Preservation] and consider the impacts of its undertaking. CTIA - The Wireless Ass’n v. FCC,
+466 F.3d 105, 107 (D.C. Cir. 2006) (quoting Davis v. Latschar, 202 F.3d 359, 370 (D.C. Cir.
+2000)). The NHPA requires agencies “to consider the effect of their actions on certain historic
+or culturally significant sites and properties (expressly including those of Indian tribes) and to
+seek ways to mitigate those effects.” City of Tacoma v. FERC, 460 F.3d 53, 69 (D.C. Cir. 2006)
+(emphasis added).
+
+3
+
+The NHPA has recently been repealed and recodified at Title 54 of the U.S. Code,
+“except with respect to rights and duties that matured, penalties that were incurred, or
+proceedings that were begun before the date of enactment of th[e recodification].” Pub. L. No.
+113-287, § 7, 128 Stat. 3272, 3272–73 (2014). Because these proceedings began after December
+19, 2014, this brief will refer to the revised codification.
+3
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 16 of 58
+
+The Advisory Council on Historic Preservation (“Advisory Council”) administers the
+NHPA, see 54 U.S.C. §§ 304101, 304108, and has promulgated regulations to govern federal
+agency compliance with Section 106, codified at 36 C.F.R. Pt. 800. The Corps promulgated
+regulations further governing its compliance with Section 106. 33 C.F.R. Pt. 325, App. C.
+Under both sets of regulations the Corps must “make reasonable and good faith effort” to
+identify historic properties within the undertaking’s area of potential effects. See 36 C.F.R. §
+800.4(b)(1). The Advisory Council’s regulations identify several different methods an agency
+may use to satisfy this requirement, “which may include background research, consultation, oral
+history interviews, sample field investigation, and field survey,” Id., but the good faith standard
+does not require the agency to use all of those techniques. Summit Lake Paiute Tribe of Nev. v.
+U.S. Bureau of Land Mgmt., 496 Fed. Appx. 712 (9th Cir. 2012).
+The agency also must “consult with any Indian tribe or Native Hawaiian organization that
+attaches religious and cultural significance to historic properties that may be affected by an
+undertaking,” 36 C.F.R. § 800.2(c)(2)(ii), and must “provide[] the Indian tribe . . . a reasonable
+opportunity to identify its concerns about historic properties, advise on the identification and
+evaluation of historic properties, including those of traditional religious and cultural importance,
+articulate its views on the undertaking’s effects on such properties, and participate in the
+resolution of adverse effects.” Id. § 800.2(c)(2)(ii)(A). The Corps’ Appendix C regulations are
+designed to promote such consultation. See 33 C.F.R. Pt. 325, App. C ¶ 3 (requiring initial
+review of district files, the National Register, and other sources “to determine if there are any
+designated historic properties”); ¶ 5 (requiring further investigation when, among other things,
+“response to public notice indicates the existence of a potentially eligible property”); ¶ 6
+(establishing guidelines for applying the National Register criteria to make eligibility
+
+4
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 17 of 58
+
+determinations and for resolving disputes regarding those determinations); ¶ 7 (assessing
+whether proposed actions would have no effect, no adverse effect, or an adverse effect on a
+designated historical property). The Corps supplemented its Appendix C Regulations with
+interim guidance that also governs its consultation with federally recognized Indian tribes on
+activities authorized by nationwide permits. Interim Guidance for Implementing Appendix C of
+33 CFR part 325 with the revised ACHP Regulations at 36 CFR part 800 ¶ n (“2005 NHPA
+Guidance”) (Ex. 1).4
+The Section 106 process also requires agencies to take steps to resolve certain
+disagreements with State and Tribal Historic Preservation Offices. See 36 C.F.R. §§
+800.4(d)(1)(ii), 800.5(b); 2005 NHPA Guidance; 33 C.F.R. Pt. 325, App. C ¶ 7 (assessing
+whether proposed actions would have no effect, no adverse effect, or an adverse effect on a
+historical property). And in the case of disagreement between an agency and a historic
+preservation officer regarding an effects determination, Section 106 provides for consultation
+with the Advisory Council. 36 C.F.R. §§ 800.4(d)(1)(iv), 800.5(c)(3), (d)(1)-(2); 33 C.F.R. Pt.
+325, App. C ¶¶ 7-9. Ultimately, the Advisory Council’s regulations vest an agency with the
+authority to affirm its initial finding that historic properties will not be affected by an
+undertaking. 36 C.F.R. § 800.5(c)(3)(ii)(B) (“If the final decision of the agency is to affirm the
+initial finding of no adverse effect, once the summary of the decision has been sent to the
+Council, the SHPO/THPO, and the consulting parties, the agency official’s responsibilities under
+section 106 are fulfilled.”).
+
+4
+
+As set forth in Exhibit 1, Interim Guidance was issued on April 25, 2005, and reaffirmed
+on January 31, 2007, and January 6, 2009.
+5
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 18 of 58
+
+B.
+
+The Clean Water Act
+
+The Clean Water Act is designed to “restor[e] and main[tain] [the] chemical, physical and
+biological integrity of [the] Nation’s waters.” 33 U.S.C. § 1251(a). The Act therefore prohibits
+the discharge of any “pollutant,” including dredged or fill material, into “navigable waters”
+without a permit. See id. §§ 1311(a), 1344(a). “[N]avigable waters” means “the waters of the
+United States,” which include, by regulation, certain tributaries and wetlands. Id. § 1362(7); 33
+C.F.R. § 328.3(a). Under Section 404, the Corps authorizes discharges of dredged or fill
+material into waters of the United States through individual and general permits. 33 U.S.C. §
+1344(a), (e). Individual permits require a resource-intensive, case-by-case review, including
+extensive site-specific documentation, public comment, and a formal determination on the
+permit. Id. § 1344(a); see 33 C.F.R. Pts. 323, 325 (policies and procedures for permit issuance).
+Concerned that requiring individual permits for routine activities would impose
+unnecessary delay and administrative burdens on the public and the Corps, Congress in 1977
+authorized the Corps to issue general permits for categories of activities. 33 U.S.C. § 1344(e);
+see H.R. Conf. Rep. No. 95-830 (1977), reprinted in 1977 U.S.C.C.A.N. 4424. Clean Water Act
+Section 404(e) authorizes general permits “for any category of activities involving discharges of
+dredged or fill material if the Secretary determines that the activities in such category are similar
+in nature, will cause only minimal adverse environmental effects when performed separately, and
+will have only minimal cumulative adverse effect on the environment.” 33 U.S.C. § 1344(e)(1).
+Any such permit shall “set forth the requirements and standards which shall apply to any activity
+authorized by such general permit.” Id. Nationwide permits are general permits, 33 C.F.R. §
+330.2(b), and, consistent with Congress’s goal, “regulate with little, if any, delay or paperwork
+certain activities having minimal impacts.” Id. § 330.1(b).
+
+6
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 19 of 58
+
+C.
+
+Rivers and Harbors Act
+
+Section 10 of the Rivers and Harbors Act of 1899 (“RHA”) forbids certain activities
+within the “navigable water of the United States” without permission of the Corps. 33 U.S.C. §
+403; see also 33 C.F.R. § 322.3(a) (permits required under Section 10 for “structures and/or work
+in or affecting navigable waters of the United States”). For purposes of Section 10, Corps
+regulations define navigable waters as “those waters that are subject to the ebb and flow of the
+tide and/or are presently used, or have been used in the past, or may be susceptible for use to
+transport interstate or foreign commerce.” 33 C.F.R. § 329.4. The Nationwide Permit program
+addressing Clean Water Act Section 404 also authorizes RHA Section 10 activities.
+Section 14 of the RHA also prohibits any person from injuring, obstructing, or impairing
+the usefulness of a structure built by the United States for the improvement of navigable waters
+or flood prevention. 33 U.S.C. § 408. The Corps’ regulations prohibit construction within the
+right-of-way for flood protection facilities without a prior determination by the Corps that the
+construction “will not adversely affect the functioning of the protective facilities.” 33 C.F.R. §
+208.10(a)(5). After the Corps makes this determination, it issues a permission to the applicant.
+D.
+
+Nationwide Permit 12 and Conditions Regarding Historic Preservation
+
+As noted above, the Corps can authorize certain activities in waters of the United States
+under Section 404 of the Clean Water Act, 33 U.S.C. § 1344, and/or Section 10 of the RHA, 33
+U.S.C. § 403, through a nationwide permit. In this case, Plaintiff challenges more than 200
+verifications that the Corps issued for portions of the Pipeline under Nationwide Permit 12,
+which authorizes certain activities relating to utility lines in waters of the United States. See
+
+7
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 20 of 58
+
+Reissuance of Nationwide Permits, 77 Fed. Reg. 10,184 (Feb. 21, 2012). Plaintiff specifically
+contests the adequacy of the Corps’ tribal consultation for these verifications. Pl.’s Br. 3.5
+1.
+
+Nationwide Permitting Process
+
+By way of background, the Corps manages nationwide permit activities in three stages.
+First Stage: Headquarters Nationwide Permit Issuance. In issuing nationwide
+permits, which are effective for five years, 33 U.S.C. § 1344(e)(2), the Corps conducts a
+predictive environmental analysis at the national level to determine whether the individual and
+cumulative adverse environmental impacts of the activities authorized by each nationwide permit
+are no more than “minimal” as required under Clean Water Act Section 404(e)(1). Id. § 1344(e).
+At this stage, analysis of potential adverse effects consists of “reasoned predictions.” Ohio
+Valley Envtl. Coal. v. Bulen, 429 F.3d 493, 501 (4th Cir. 2005). The Corps prepares appropriate
+documentation to satisfy the National Environmental Policy Act (“NEPA”), 42 U.S.C. §
+4332(C),6 and imposes guidelines governing compliance with Section 106 of the NHPA. 77 Fed.
+Reg. at 10,226, 10,250; 40 C.F.R. § 1508.10. The Corps applies guidelines developed by the
+Environmental Protection Agency pursuant to Section 404(b)(1) of the Clean Water Act, 33
+U.S.C. § 1344(b)(1), to evaluate potential impacts on the aquatic ecosystem of the proposed
+
+5
+
+While Plaintiff seeks to enjoin only the Corps’ verification of those pre-construction
+notification sites under Nationwide Permit 12 authorizing discharges into federally regulated
+waters, Pl.’s Br. 1, the Corps also reviewed activities that fall within its jurisdiction under
+authorities other than Section 404 of the Clean Water Act, such as verifications under Section 10
+of the RHA. In addition, the Corps has jurisdiction under 33 U.S.C. § 408 to authorize
+alterations or occupations that will not impair or obstruct federal flood control or navigation
+projects. The Corps also has jurisdiction over activities that cross lands owned by the Corps.
+Prior to issuing a § 408 permission or an easement over Corps-owned lands, the Corps also
+conducts a review under Section 106 of the NHPA. See Omaha District Envtl. Assessment (ECF
+6-51). This Section 106 review, while procedurally distinct, may overlap with and augment
+Section 106 review under a Nationwide Permit. See id. at 75-80.
+6
+NEPA generally requires federal agencies to evaluate potential environmental impacts
+from their actions and make informed decisions.
+8
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 21 of 58
+
+discharge. See 40 C.F.R. Pt. 230. (“404(b)(1) Guidelines”). The Corps further imposes
+additional terms through “General Conditions” that are applicable to all nationwide permits. 77
+Fed. Reg. at 10,282-90.
+Before issuing or reissuing a nationwide permit, Clean Water Act Section 404(e) and the
+Corps’ regulations require “an opportunity for public notice and comment.” 33 C.F.R. §
+330.1(b); id. § 330.5(a)(2); 33 U.S.C. § 1344(e). The Corps memorializes its 404(b)(1), NEPA,
+and other environmental analyses in a decision document for each nationwide permit.
+Second Stage: Division Engineer Review. AThe Division Engineer has “discretionary
+authority to modify, suspend, or revoke NWP authorizations for any specific geographic area,
+class of activities, or class of waters within his division . . . by issuing a public notice or
+notifying the individuals involved.” 33 C.F.R. § 330.5(c)(1). He may exercise this authority
+“whenever he determines sufficient concerns for the environment under the section 404(b)(1)
+Guidelines or any other factor of the public interest so requires, or if he otherwise determines
+that the NWP would result in more than minimal adverse environmental effects either
+individually or cumulatively.” Id. § 330.4(e)(1); see id. § 330.1(d). Following public comment,
+the Division Engineers prepare supplemental decision documents and may impose regional
+conditions to ensure that nationwide permit activities have only minimal adverse effects and are
+in the public interest. Proposal to Reissue and Modify Nationwide Permits, 76 Fed. Reg. 9174,
+9177 (Feb. 16, 2011); 33 C.F.R. §§ 330.5(c)(1)(i), 330.1(d).
+Third Stage: Project-Specific Review by District Engineers. If a proposed activity
+meets the terms and conditions of a nationwide permit, including any applicable regional
+conditions, a potential discharger can assume the activity is authorized by the nationwide permit
+and “may simply operate under the nationwide permit without informing the Corps in advance
+
+9
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 22 of 58
+
+unless the nationwide permit in question requires advance approval . . .” New Hanover Twp. v.
+U.S. Army Corps of Eng’rs, 992 F.2d 470, 471 (3d Cir. 1993); see 33 C.F.R. § 330.2(c). “This
+assumption is subject to the [District Engineer’s] authority to determine if any activity complies
+with the terms and conditions of an NWP.” 33 C.F.R. § 330.2(c). Although some nationwide
+permits are self-executing, others require potential dischargers to submit a pre-construction
+notification seeking verification from the Corps that their proposed activity complies with and is
+authorized by the nationwide permit. Id. § 330.6(a); see id. § 330.1(e)(1); Nationwide Permit 12
+Decision Document, at 2-3 (ECF 6-4). Pre-construction notification can be required due to any
+number of terms and conditions associated with the nationwide permit. When the Corps receives
+a pre-construction notification, the District Engineer evaluates the proposed activities to ensure
+compliance with all terms and conditions of the nationwide permit, including compliance with
+the NHPA.
+The District Engineer reviews the notification “and may add activity-specific conditions,”
+such as compensatory mitigation requirements, “to ensure that the activity complies with the
+terms and conditions of the NWP” and that adverse impacts are no more than minimal. 33
+C.F.R. §§ 330.1(e)(2), (3), 330.6(a)(3)(i); see 76 Fed. Reg. at 9175, 9178-79. If the District
+Engineer determines that “the adverse effects are more than minimal,” he “will notify the
+prospective permittee that an individual permit is required” unless the permittee proposes
+mitigation measures “to reduce the adverse impacts to minimal.” 33 C.F.R. § 330.1(e)(3).
+Following verification, the District Engineer retains discretion to suspend, modify, or revoke the
+verification based on later arising “concerns for the aquatic environment under the [404(b)(1)]
+Guidelines or for any factor of the public interest.” Id. §§ 330.1(d), 330.4(e).
+
+10
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 23 of 58
+
+2.
+
+Conditions Regarding Historic Preservation
+
+As noted above, the Corps imposes general conditions on all nationwide permits. Two of
+particular relevance in this case are Nationwide General Conditions 20 and 21. General
+Condition 20 “requires ‘non-federal permittees [to] submit pre-construction notification . . .
+[where an] activity [authorized by NWP 12] may have the potential to cause effects to historic
+properties” listed on, eligible for listing on, or potentially eligible for listing on the National
+Register of Historic Places. 77 Fed. Reg. at 10,284. “Where the non-Federal applicant has
+identified historic properties on which the activity may have the potential to cause effects and so
+notified the Corps, the non-Federal applicant shall not begin the activity until notified by the
+district engineer either that the activity has no potential to cause effects or that consultation under
+Section 106 of the NHPA has been completed.” Id. The scope of General Condition 20 extends
+to consideration of “visual or noise effects to historic properties outside of the project area that
+have to be evaluated through the [Corps’] section 106 consultation process.” Id. at 10,250.
+Thus, in the third stage of the nationwide permitting process described above, the District
+Engineer is responsible for evaluating whether the proposed activity may impact historic
+properties under Section 106 of the NHPA. Id. at 10,284.
+General Condition 21 imposes an additional, ongoing requirement that, if previously
+unknown artifacts or remains are discovered during the permitted activities, permittees must
+“notify the district engineer . . . and to the maximum extent practicable, avoid construction
+activities that may affect the remains and artifacts” until “Federal, Tribal and state coordination”
+is completed. Id. at 10,284.
+The Corps also imposes Regional Conditions on its nationwide permits on a state-by-state
+basis. 76 Fed. Reg. at 9175; 33 C.F.R. § 330.5(b)(2)(ii). Here, the Corps issued notices of its
+
+11
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 24 of 58
+
+intent to issue Regional Conditions and gave the public an opportunity to submit comments.
+Supplement to the Decision Document for Nationwide Permit 12 for Illinois District at 1 (Ex. 2).
+The Corps engaged in Government-to-Government consultation with Federally Recognized
+Indian Tribes prior to imposing these Regional Conditions. Id. at 4-5. The districts whose
+verifications are at issue in this case relied on Regional Conditions specific to the states in which
+they operate. 2012 Nationwide Permit Regional Conditions for North Dakota (Ex. 3),7 South
+Dakota (Ex. 4), Iowa (Ex. 5), and Illinois (Ex. 6). These Regional Conditions restrict the scope
+of Nationwide Permits and expand the types of activities requiring pre-construction notice.
+3.
+
+Nationwide Permit 12
+
+Nationwide Permit 12 authorizes “[a]ctivities required for the construction, maintenance,
+repair, and removal of utility lines and associated facilities in waters of the United States,
+provided the activity does not result in the loss of greater than 1/2-acre of waters of the United
+States for each single and complete project.” 77 Fed. Reg. at 10,271. A “utility line” is “any
+pipe or pipeline for the transportation of any gaseous, liquid, liquescent, or slurry substance, for
+any purpose, and any cable, line, or wire for the transmission for any purpose of electrical
+energy, telephone, and telegraph messages, and radio and television communication.” Id. at
+10,271-72. Work that falls within the limitations of Nationwide Permit 12 can begin without any
+further contact with the Corps, unless any of several criteria are met. Historic and cultural
+properties present one such exception: “In cases where the district engineer determines that the
+activity may affect properties listed, or eligible for listing, in the National Register of Historic
+
+7
+
+North Dakota’s Regional Conditions require (1) pre-construction notification “prior to
+initiating any regulated activity in the Missouri River, including Lake Sakakawea and Lake
+Oahe” and (2) permittees to notify the Corps of “the location of any borrow site that will be used
+in conjunction with the construction of the authorized activity so that the Corps may evaluate the
+site for potential impacts to . . . historic properties.” Ex. 3 at 1-2.
+12
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 25 of 58
+
+Places, the activity is not authorized, until the requirements of Section 106 of the National
+Historic Preservation Act (NHPA) have been satisfied.” Id. at 10,284.
+On February 16, 2011, the Corps released for public comment a draft Decision Document
+containing the NEPA and Clean Water Act analysis supporting its proposal to reissue (among
+others) Nationwide Permit 12. See 76 Fed. Reg. at 9175. On February 21, 2012, after reviewing
+public comments, the Corps published a final rule reissuing several nationwide permits,
+including Nationwide Permit 12, and issuing two new ones. 77 Fed. Reg. at 10,184. The Corps
+also prepared a Decision Document for Nationwide Permit 12 after evaluating public comments
+on the proposal. Nationwide Permit 12 Decision Document (ECF 6-4). That Decision
+Document contained a section addressing Nationwide Permit 12’s compliance with applicable
+laws, including the NHPA. Id. at 3-4. As set forth in that Decision Document, “[m]any NWPs
+have pre-construction notification requirements that trigger case-by-case review of certain
+activities. Two NWPs general conditions require case-by-case review of all activities that may
+adversely affect Federally-listed endangered or threatened species or historic properties (i.e.,
+general conditions 18 and 20).” Id. at 4. See also, id. at 29, § 5.1(f).
+II.
+
+FACTUAL BACKGROUND
+The Dakota Access Pipeline (“Pipeline”) will connect the Bakken and Three Forks
+
+production region of North Dakota to Patoka, Illinois. Chieply Decl. ¶ 4. The pipeline, which
+will be approximately 1,168 miles long, crosses through three Corps Districts: Omaha, Rock
+Island, and St. Louis. July 25, 2016 Letter and Mem. from Sec’y Darcy, Assistant Sec’y of the
+Army for Civil Works, to J. Fowler, ACHP, Mem. at 2-6 (ECF 6-53) (“July 25, 2016 Sec’y
+Darcy Letter and Mem.”). “Approximately 3% of the total pipeline is subject to the Corps
+jurisdiction.” Id. at 1.
+
+13
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 26 of 58
+
+On December 29, 2014, Dakota Access submitted its first, incomplete pre-construction
+notice package to the Corps. E.g., Mem. for Record for S.D. Verifications (July 25, 2016) (Ex.
+7). Dakota Access submitted additional documentation over the next few months, completing its
+final table of pre-construction notifications for South Dakota on August 31, 2015. Id. at 2.
+Omaha District’s8 Regulatory Project Manager examined the pre-construction notices to
+ensure that the proposed activities would comply with the terms and conditions of Nationwide
+Permit 12, including the General Conditions and the Regional Conditions applicable to North
+and South Dakota. Id. at 13. Omaha District confirmed that the applicant had accurately
+identified water crossings in its pre-construction notifications and had, in fact, been overinclusive in identifying the crossings subject to pre-construction notification. Id. at 1-2. Within
+South Dakota, Dakota Access originally submitted 16 wetland and stream crossings as preconstruction notifications. Id. at 1. Upon review, the Corps determined that 6 of those sites did
+not require pre-construction notification. Id. The Corps’ Rock Island and St. Louis districts
+engaged in similar processes. Rock Island District reviewed 108 pre-construction notifications –
+63 in Iowa and 45 in Illinois. July 25, 2016 Sec’y Darcy Letter and Mem., Mem. at 4. And St.
+Louis District reviewed 86 pre-construction notifications in Illinois. Id. at 5.
+On February 9, 2015, the Corps’ Omaha District notified Dakota Access that “they
+couldn’t begin any work relative to their submitted PCNs until the Corps completed its
+responsibilities in accordance with Section 106 of the National Historic Preservation Act.”
+Mem. for Record for S.D. Verifications at 1 (Ex. 7). In addition, the Corps notified Dakota
+
+8
+
+Because of the extensive administrative record and the fact that the District includes the
+area where Plaintiff’s reservation and Lake Oahe are located, only the facts pertaining to the
+Omaha District will be summarized. But the Omaha District’s review and consultation efforts
+are representative of the kind of review process the Rock Island and St. Louis Districts
+undertook.
+14
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 27 of 58
+
+Access that it was “initiating the solicitation of Tribal input necessary for the Corps to make
+effect determinations on the permit areas.” Id. On July 30, 2015, Dakota Access added another
+pre-construction notification site, bringing the number of such sites in South Dakota to 11. Id. at
+2.
+Dakota Access retained archaeologists and historians to survey the entire pipeline.
+Dakota Access Survey for Williams and Dunn Counties, North Dakota (ECF 6-57). These
+surveys contained substantial detail about sites such as cairns and stone circles, id. at 83, and
+pictures of sites. Id. at 3. Movant-Intervenor Cheyenne River Sioux Tribe described these
+surveys, which Dakota Access provided to consulting tribes as “massive” “Class III Cultural
+Resource Reports.” Letter from S. Vance, CRST, to M. Van Ness, Corps (July 6, 2016) (ECF
+11-4). The Corps scheduled several meetings regarding these reports. Chieply Decl. ¶¶ 17-18,
+21-22. The January 22 and February 18-19 meetings were attended by Colonel Henderson, the
+Corps’ Omaha District Commander, and Plaintiff’s Tribal Historic Preservation Officer. Id.
+Omaha District diligently consulted under the NHPA with State Historic Preservation
+Officers, as well as 63 Federally Recognized Indian Tribes. Harnois Decl. ¶¶ 6, 11, 13, 16, 17,
+26; Tribal Distribution List (Ex. 8). This consultation process included meetings between the
+Corps and Plaintiff on November 6, 2014, January 22, 2016; January 25, 2016; February 26,
+2016; March 3, 2016; March 7, 2016; March 22, 2016; April 29, 2016, May 14, 2016. Tribal
+Consultation Spreadsheet (Ex. 9) (listing several hundred instances of consultation with federally
+recognized tribes); Harnois Decl. ¶¶ 27-28; Ames Decl. ¶¶ 7, 20, 27-28, 33, 36. Many of these
+meetings were attended by Omaha District’s Commanding Officer. Id.9 And on March 3, 2016,
+
+9
+
+The Corps also aggressively sought to consult with Movant-Intervenor Cheyenne River.
+See Ames Decl. ¶¶ 16-17.
+15
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 28 of 58
+
+the Principal Deputy Assistant Secretary of the Army for Civil Works met with Plaintiff. Ames
+Decl. ¶¶ 7, 20, 27-28, 33, 36; Harnois Decl. ¶¶ 27-28; Tribal Consultation Spreadsheet (Ex. 9).
+On March 8 and March 22, 2016, pursuant to an agreement between Colonel Henderson and
+Chairman Archambault, Corps and Standing Rock archaeologists and Standing Rock’s Tribal
+Historic Preservation Officer, among others, surveyed the Lake Oahe pre-construction
+notification site. Harnois Decl. ¶¶ 29, 32. The Corps incorporated information Plaintiff provided
+into its Section 106 analysis for that site. Id. ¶¶ 32-33 (noting that another pipeline passes
+through the area of the Lake Oahe crossing).10
+Moreover, the Corps attempted to meet with Plaintiff on additional occasions about
+additional sites. Plaintiff initially scheduled, and then withdrew from, a site visit of the proposed
+Lake Oahe crossing on September 28, 2015. Harnois Decl. ¶¶ 23-26. The Corps also “invit[ed]
+tribes to participate in tribal surveys at Preconstruction Notification (PCN) permit areas
+associated with the proposed Dakota Access Pipeline.” Letter from J. Eagle, SRST, to Col.
+Henderson, USACE (May 17, 2016) (ECF 6-44). Plaintiff “respectfully decline[d] this offer to
+participate” in surveys at all but one pre-construction notification site. Id. Wheretribes
+participated in consultation, that consultation led in several cases to rerouting pipeline segments
+that were within the Corps’ jurisdiction. Mem. for Record for S.D. Verifications at 7 (July 25,
+2016) (Ex. 7). (“[a]t PCNs 3&4, the pipeline was rerouted to avoid potential historic
+properties.”); Mem. for Record for Iowa Verifications, Attach. C, Mar. 14, 2016 entry (Ex. 10).
+(“MVR receives letter from Osage informing them that they concur that rerouting of pipeline at
+Mississippi crossing will avoid [sites and] result in ‘No Adverse Effect.’”).
+
+10
+
+The Corps notes that the pipeline was routed next to “existing pipelines to the extent
+possible to minimize potential impacts.” Omaha District Envtl. Assessment at 7 (ECF 6-51).
+16
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 29 of 58
+
+The Corps determined that other permitted portions of the pipeline would have no effect
+on historical and cultural properties and notified state and tribal historic preservation officers.
+July 25, 2016 Sec’y Darcy Letter and Mem., Mem. at 4. Some state and tribal historic
+preservation officers either agreed with the “no effect” determination or did not respond to the
+Corps. Id. at 3-6. Other state and tribal historic preservation officers disagreed with these
+determinations because they deemed the Corps definition of “undertaking” to be too narrow. Id.
+at 3.
+The Advisory Council joined the Section 106 process in February 2016. Chieply Decl. ¶
+27. On June 2, 2016, the Advisory Council provided its final letter to the Corps setting forth its
+advice and recognizing that “the final decision regarding the effects on historic properties is the
+responsibility of the Corps.” Letter from J. Fowler, ACHP, to Sec’y Darcy (June 2, 2016) (also
+recognizing “varying jurisdiction and authority over components of the DAPL pipeline”) (ECF
+6-41).
+On July 25, 2016, the Corps concluded the Section 106 process by responding to the
+Advisory Council with a letter and memorandum setting forth the basis for the Corps’ affirmance
+of its determinations regarding the effects upon sites within the Corps’ jurisdiction that were not
+addressed by rerouting the pipeline or other mitigation. July 25, 2016 Sec’y Darcy Letter and
+Mem., Mem. at 3. With respect to the two locations where the pipeline is subject to the Corps’
+jurisdiction because it will cross a federal flowage easement and Corps-owned property, the
+Corps issued an Environmental Assessment and Mitigated Finding of No Significant Impact
+(July 25, 2016) (ECF 6-52). This document noted that after consultation with Plaintiff regarding
+the easement under Lake Oahe, the Corps selected the “proposed pipeline route and installation
+method . . . to minimize impacts to sensitive resources.” Id at 5. Specifically, “[t]he alignment
+
+17
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 30 of 58
+
+of the pipeline was selected because it will be co-located within existing utility corridors and be
+installed on federal real property interests using the HDD method[,]” thereby “avoid[ing]
+impacts to formerly undisturbed areas and surface resources.” Id. at 6. The Corps also required
+Dakota Access to “offer Tribal Monitoring for all PCN areas” during construction. Letter from
+M. Chieply, Corps, to J. Mahmoud, Dakota Access, at 2 (ECF 6-48) and attached tribal
+monitoring plan; Mem. for Record for North Dakota Verifications at 5 (July 25, 2016) (Ex. 11).
+STANDARD OF REVIEW
+The grant of a preliminary injunction is an “‘extraordinary and drastic remedy.’” Munaf
+v. Geren, 553 U.S. 674, 689 (2008) (citation omitted). “As an extraordinary remedy, courts
+should grant such relief sparingly.” Konarski v. Donovan, 763 F. Supp. 2d 128, 133 (D.D.C.
+2011). A party seeking a preliminary injunction must demonstrate four elements: (1) a
+substantial likelihood of success on the merits; (2) that he would suffer irreparable injury if the
+injunction were not granted; (3) that the balance of the equities tips in his favor; and (4) that the
+public interest would be furthered by the injunction. Winter v. Nat. Res. Def. Council, Inc., 555
+U.S. 7, 20 (2008); Sherley v. Sebelius, 644 F.3d 388, 392 (D.C. Cir. 2011).
+In its Motion, Plaintiff asks this Court to enjoin the Corps to withdraw Nationwide Permit
+12 as applied to the Pipeline and to withdraw the Nationwide Permit 12 verifications the Corps
+previously issued concerning discharges into federally regulated waters at approximately 200
+locations. See Pl.’s Proposed Order Granting Mot. for Prelim. Inj. (ECF No. 6-68). Because
+Plaintiff asks the Court to order the Corps to take affirmative steps to withdraw previously issued
+authorizations, Plaintiff is subject to an even higher standard than if it were seeking a preliminary
+injunction designed to maintain the status quo. Electronic Privacy Info. Ctr. v. Dep’t of Justice,
+15 F. Supp. 3d 32, 39 (D.D.C. 2014) (“[W]here an injunction is mandatory—that is, where its
+
+18
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 31 of 58
+
+terms would alter, rather than preserve, the status quo by commanding some positive act—the
+moving party must meet a higher standard than in the ordinary case by showing clearly that he or
+she is entitled to relief or that extreme or very serious damage will result from the denial of the
+injunction.”) (internal quotation marks and citation omitted). The D.C. Circuit has emphasized
+that “[t]he power to issue a preliminary injunction, especially a mandatory one, should be
+‘sparingly exercised.’” Dorfmann v. Boozer, 414 F.2d 1168, 1173 (D.C. Cir. 1969) (citation
+omitted); see also Columbia Hosp. for Women Found., Inc. v. Bank of Tokyo-Mitsubishi, Ltd., 15
+F. Supp. 2d 1, 4 (D.D.C. 1997), aff’d, 159 F.3d 636 (D.C. Cir. 1998) (courts must be “extremely
+cautious” about granting preliminary relief that goes beyond maintaining the status quo).
+Plaintiff surprisingly argues that this Court should apply a lesser standard on the theory
+that the relief it seeks is “not the same as an injunction.” Pl.’s Br. at 19 (“An injunction-like
+standard does not apply to vacatur or suspension of an agency decision.”). In support, Plaintiff
+relies on Monsanto Co. v. Geertson Seed Farms, 561 U.S. 139, 165-66 (2010), in which the
+Supreme Court held that a permanent injunction preventing the planting of genetically
+engineered alfalfa nationwide was an unnecessarily broad remedy where partial or complete
+vacatur of the agency action in question would have sufficed. But the Court’s holding was
+focused on the appropriate scope of relief, not a standard of review. Plaintiff also relies on two
+cases for the proposition that courts have suspended Clean Water Act section 404 permits
+pending a final decision on the merits where vacatur is the ultimate relief. Pl.’s Br. 19 (citing
+Ohio Valley Envtl. Coal., Inc. v. Hobet Mining, LLC, 723 F. Supp. 2d 886 (S.D. W. Va. 2010)11
+and Save Our Sonoran, Inc. v. Flowers, 227 F. Supp. 2d 1111 (D. Ariz. 2002)). Plaintiff’s
+
+11
+
+Plaintiff mistakenly cites the Ohio Valley Environmental Coalition case as against the
+Corps. Pl.’s Br. 19. The Corps was not a party to the case cited.
+19
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 32 of 58
+
+reliance on these cases is also inapposite. In Ohio Valley, the court granted summary judgment
+on the merits of a citizen suit against a mining company for violating its State-issued Clean
+Water Act permit (under section 402, not 404 as Plaintiff alleges), among other claims. 723 F.
+Supp. 2d at 895. It did not address the standard for a preliminary injunction. And Save Our
+Sonoran was a pre-Winter case that did not apply the four-prong standard for preliminary
+injunction. Moreover, Plaintiff is not seeking temporary suspension of any Corps authorizations
+but rather for the Corps to withdraw them completely. Thus, the heightened standard for
+mandatory injunctions applies.
+ARGUMENT
+I.
+
+PLAINTIFF HAS NOT ESTABLISHED THAT IT IS LIKELY TO PREVAIL ON
+THE MERITS OF ITS CLAIM THAT THE CORPS VIOLATED THE
+NATIONAL HISTORIC PRESERVATION ACT.
+Plaintiff’s effort to satisfy the requirement that it establish the likelihood of its success on
+
+the merits focuses primarily on the allegation that the Corps failed to comply with its NHPA
+consultation duties. Plaintiff’s arguments on this score inevitably fail, because – both in the
+context of the Nationwide Permit 12, and in the context of its site-specific verifications – the
+Corps’ efforts to involve and consult with affected Tribes, including Plaintiff, were exemplary.
+A.
+
+Plaintiff Is Unlikely to Prevail on Its Claim That Nationwide Permit 12
+Violates the NHPA Because the Corps Reasonably Consulted with Federally
+Recognized Tribes.
+
+In promulgating nationwide permits, the Corps reasonably focuses its Section 106
+analysis on the portions of projects that are within the Corps’ jurisdiction. That permitting
+process provides for comments or consultation at two separate stages. First, the Corps sought
+public comments on its 2012 Nationwide Permits and General Condition 20 – which imposes
+conditions on the permit to protect historic sites. Second, the nationwide permits, General
+
+20
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 33 of 58
+
+Condition 20, and the Corps’ regulations require site-specific Section 106 analysis to be
+conducted once areas where the nationwide permit might be used are identified. Together, this
+structure fully complies with the Corps’ responsibilities under Section 106.
+As discussed above, general permits, including Nationwide Permit 12, are promulgated
+pursuant to Federal Register notice. 77 Fed. Reg. at 10,184. The public, including Plaintiff,
+therefore had an opportunity to comment on Nationwide Permit 12 prior to its issuance. See id.
+That notice and comment procedure reasonably imposed broad general conditions to protect
+historic properties. Because general permits cover the entire nation, the Corps did not engage in
+site-specific consultation at the first stage in its general permit process for Nationwide Permit 12
+– the issuance of the general permit.
+The Corps reasonably addressed the NHPA by engaging in a notice and comment process
+that permitted the public, including Plaintiff, to comment on general conditions attached to the
+permit. General Condition 20 applies to historic properties. It requires “non-federal permittees
+[to] submit pre-construction notification . . . [where] activity [authorized by NWP 12] may have
+the potential to cause effects to historic properties” listed on, eligible for listing on, or potentially
+eligible for listing on the National Register of Historic Places. 77 Fed. Reg. at 12,084. “Where
+the non-Federal applicant has identified historic properties on which the activity may have the
+potential to cause effects and so notified the Corps, the non-Federal applicant shall not begin the
+activity until notified by the district engineer either that the activity has no potential to cause
+effects or that consultation under Section 106 of the NHPA has been completed.” Id. As the
+Corps stated in response to comments, this restriction ensures that “activities that . . . have the
+potential to cause effects to historic properties are not authorized [by Nationwide Permit 12] until
+the required consultations are completed.” Id. at 10,258. Similarly, General Condition 21
+
+21
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 34 of 58
+
+protects previously unknown remains and artifacts by requiring users of Nationwide Permit 12 to
+“notify the district engineer . . . and to the maximum extent practicable, avoid construction
+activities that may affect the remains and artifacts” until “Federal, Tribal and state coordination”
+is completed. Id. at 10,284. The Corps consulted with Plaintiff prior to imposing these broad
+general conditions protecting historic properties on its Nationwide Permits. Letter from Col. R.
+Ruch, Corps, to Chairman C. Murphy, SRST (Feb. 16, 2011) (Ex. 12). The Corps’ provision of
+this general opportunity to consult was reasonable, particularly when viewed in conjunction with
+the subsequent site-specific consultation provided for by Nationwide Permit 12.
+The Corps provided Plaintiff with another opportunity to consult regarding the adoption
+of regional conditions in its Nationwide Permits. The Corps issued notices of its intent to issue
+Regional Conditions restricting the scope of Nationwide Permits and expanding the types of
+activities requiring pre-construction notification. The Corps engaged in Government-toGovernment consultation with Federally Recognized Indian Tribes prior to imposing these
+Regional Conditions. See, e.g., Supplement to the Decision Document for Nationwide Permit 12
+for Illinois District at 1 (Ex. 2). Notably, the Omaha District consulted with Plaintiff regarding
+the issuance of its Regional Conditions. Tribal Information Fact Sheet, Omaha District (Mar. 7,
+2012) (Ex. 13); Letter from Col. R. Ruch, Corps, to Chairman J. Brings Plenty, CRST (Nov. 9,
+2012) (Ex. 14). Plaintiff suggests no additional steps that the Corps could reasonably have taken
+to consult with Plaintiff regarding historical and cultural properties prior to the identification of
+specific projects.
+Nationwide permits reasonably defer any site-specific consultation to the third phase of
+the nationwide permitting process. During that phase, district engineers engage in appropriate
+and effective site-specific consultation, including with Indian tribes. 33 C.F.R. Pt. 325,
+
+22
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 35 of 58
+
+Appendix C and 2005 NHPA Guidance (Ex. 1). Plaintiff’s citation to several cases, including
+Sheridan Kalorama Historical Ass’n, 49 F.3d at 755, are inapposite, Pl.’s Br. 21-22, and do not
+suggest that the Corps is required to complete its entire Section 106 review prior to issuing a
+Nationwide Permit. To the contrary, the Corps may defer assessment of certain potential impacts
+until after it issues a nationwide permit. Sierra Club v. U.S. Army Corps of Eng’rs, 803 F.3d 31,
+46 (D.C. Cir. 2015) (upholding Corps’ deferral under the Endangered Species Act of “any
+consideration of species impacts and authorization of species take until the verification stage, in
+the context of specific projects”). The Corps was similarly reasonable in bifurcating its NHPA
+compliance into: (1) consultation regarding Nationwide Permit 12’s general conditions; and (2)
+site-specific consultation once potentially impacted sites are identified. The court’s analysis
+need proceed no further.
+Plaintiff’s arguments that the Corps failed to adequately consult regarding its issuance of
+Nationwide Permit 12 actually illustrate the reasonableness of the Corps’ consultation.
+Plaintiff’s suggestion, Pl.’s Br. 21, 24, that the Corps should have engaged in Section 106
+consultation to “consider the impacts of NWP 12 on historic or culturally significant properties,
+or otherwise engage in the § 106 consultation process, prior to issuance of NWP 12 in 2012” is
+without merit. Plaintiff’s almost comically understated concession that it would be
+“challenging” to engage in such consultation on every property listed or eligible to be listed on
+the National Register – throughout all fifty states and the District of Columbia – in order to
+reauthorize nationwide permits every five years aptly illustrates that such consultation is not
+viable.
+Plaintiff’s proposed alternative – that the Corps enter into programmatic agreements as
+part of the process for reissuing its nationwide permits – is no more realistic under Plaintiff’s
+
+23
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 36 of 58
+
+interpretation of such agreements. Pl.’s Br. 22. The Corps has in fact entered into programmatic
+agreements with numerous tribes, including Cheyenne River Sioux Tribe, and the Advisory
+Council. Programmatic Agreement for the Operation and Management of the Missouri River
+Main Stem System for Compliance with the HPA (ECF 6-10). But Plaintiff contends that this
+programmatic agreement “is inapplicable to the pipeline” despite the fact that Plaintiff’s primary
+concern appears to be the pipeline crossing under the Missouri River. Pl.’s Br. 10. Plaintiff does
+not, and cannot, suggest how the Corps could anticipate what programmatic agreements will be
+applicable in the five years following its reissuance of a Nationwide Permit and negotiate those
+agreements if the Missouri River programmatic agreement is not applicable here. Regardless,
+the Corps is under no duty to enter a programmatic agreement. See 36 C.F.R. § 800.13.
+Moreover, the Advisory Council’s regulations explicitly allow agencies to promulgate
+categorical exclusions and then subsequently complete any necessary Section 106 analysis – a
+process akin to the Section 106 analysis provided by the Corps’ Nationwide Permits. Id. §
+800.8(b). The Corps’ promulgation of General Condition 20 and subsequent site-specific NHPA
+analysis is therefore more than sufficient to address all NHPA issues that can reasonably be
+addressed at the time Nationwide Permits are issued.
+B.
+
+Nationwide Permit 12 and Its General Conditions Fully Complied With and
+Reasonably Fulfill The Corps’ Duties Under Section 106 of the NHPA.
+
+The Corps’ Nationwide Permits reasonably require compliance with Section 106 of the
+NHPA. Contrary to Plaintiff’s claims, Pl.’s Br. 23-26, the Corps is ultimately responsible for
+determining compliance with the requirements of Section 106 of the National Historic
+Preservation Act. 77 Fed. Reg. at 10,250 (affirming in response to comments on Nationwide
+Permit 12 that it has ultimate responsibility “for determining compliance with the requirements
+of Section 106 of the National Historic Preservation Act”). Corps regulations and General
+24
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 37 of 58
+
+Condition 20 require the Corps to consider whether a proposed project under the Nationwide
+Permits may affect historic properties.
+Nationwide Permit 12’s general conditions ensure compliance with the NHPA in two
+primary ways. First, non-federal permittees must submit pre-construction notifications to the
+Corps for certain activities authorized by Nationwide Permit 12 regardless of whether those
+activities may affect historic properties. See id. at 10,272. Where the Corps receives such preconstruction notification and determines the activity has the potential to, or is uncertain if the
+activity has the potential to, impact historic properties of religious or cultural significance to
+tribes, the Corps initiates tribal consultation. 2005 NHPA Guidance (Ex. 1). Plaintiff appears to
+concede that pre-construction notifications trigger Section 106 review, instead focusing on the
+set of activities permitted by Nationwide Permit 12 for which they contend “the proponent
+determines for itself that its own project will not affect historic properties.” Pl.’s Br. 24. But the
+Corps’ Nationwide Permits subject all sites containing historic resources to pre-construction
+notice.
+Contrary to Plaintiff’s assertions, Nationwide Permit General Condition 20 reasonably
+requires non-federal permittees to “submit a pre-construction notification . . . if the authorized
+activity may have the potential to” cause effects to any historic properties listed on, determined
+to be eligible for listing on, or potentially eligible for listing on the National Register. 77 Fed.
+Reg. at 10,284.12 The Corps’ use of information provided by project proponents to determine
+which sites require pre-construction notice based upon the potential presence of historical
+
+12
+
+Plaintiff’s citation to Washington Toxics Coalition v. U.S. Department of Interior is
+inapposite because the Corps does not wholly delegate the responsibility for Section 106
+compliance to any permittee. 457 F. Supp. 2d 1158, 1179 (W.D. Wash. 2006) (finding that
+action agencies may not unilaterally make Endangered Species Act determinations requiring
+consultation with the United States Fish and Wildlife Service).
+25
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 38 of 58
+
+resources is reasonable. Indeed, it is expressly allowed by the ACHP’s implementing
+regulations. 36 C.F.R. § 800.2(a)(3) provides that an agency “may use the services of applicants,
+consultants, or designees to prepare information, analyses and recommendations” so long as the
+agency ensures that the study “meets applicable standards and guidelines.” The Corps’
+archaeologist reviewed Dakota Access’s “cultural survey information and . . . concluded there
+was No Effect to historical properties” from unreported PCN crossings. Chieply Decl. ¶ 38.
+Courts have regularly upheld the practice of requiring permit applicants to supply studies
+and documentation for review by the agency both under the NHPA and in the analogous context
+of NEPA and the Clean Water Act. In Harrison v. U.S. Department of the Army, the court
+approved the NHPA analysis where “Utility Defendants hired private consultants to determine
+the impact of the proposed federal undertaking.” No. 3:08-CV-105-H, 2009 WL 3347109, at *2
+(W.D. Ky. Oct. 14, 2009). In Crutchfield v. County of Hanover, Virginia, the court rejected a
+similar argument related to the Corps’ use of studies provided by the applicant in verifying
+activity under a nationwide permit. 325 F.3d 211 (4th Cir. 2003). The court noted that “to
+require the Corps to do such independent studies rather than reasonably relying on extensive
+studies given to them by applicants ‘would place unreasonable and unsuitable responsibilities on
+the Corps,’ which receives thousands of permit applications per year.” Id. at 223-24 (citing
+Friends of the Earth v. Hintz, 800 F.2d 822, 835-36 (9th Cir. 1986) (applying reasoning to
+uphold NEPA analysis). Like the ACHP’s Section 106 regulations, the NEPA regulations do not
+require an agency to gather its own information. See Hintz, 800 F.2d at 834-35. Hintz found that
+the Corps fully complied with NEPA where it had accepted a report from an applicant and had
+“exhaustively studied that information prior to making its decision.” Id. at 835.
+
+26
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 39 of 58
+
+To the extent that Plaintiff suggests that project proponents might be insufficiently
+motivated to comply with General Condition 20(c)’s requirement to submit pre-construction
+notifications to the district engineer, the Corps structured its regulations to require sufficient
+exploration of historic properties.13 Nationwide permittees risk violating the Clean Water Act
+and/or Rivers and Harbors Act if they proceed with a project under Nationwide Permit 12
+without adequately investigating NHPA issues and making the required pre-construction
+notification, where necessary. See General Condition 20, 77 Fed. Reg. at 10,284; 33 C.F.R.
+§ 330.4(g). In short, the Corps’ use of information provided by the applicant is reasonable,
+particularly when coupled with its efforts to consult with tribes regarding the reports produced by
+the applicant.
+This case illustrates that General Condition 20 produces the type of study and
+consultation that Plaintiff claims to seek. Pursuant to General Condition 20, Dakota Access
+engaged multiple archaeological firms that extensively surveyed for historic properties. See
+Dakota Access Survey for Williams & Dunn Counties, N.D. (ECF 6-57). These surveys
+contained substantial detail about sites such as cairns and stone circles, id. at 83, and pictures of
+sites, id. at 3. These reports provided Plaintiff with sufficient information to engage in
+consultation. See Letter from S. Vance, CRST, to M. Van Ness, Corps (July 6, 2016) (ECF 114) (describing “Class III Cultural Resource Reports” provided by Dakota Access as “massive”
+and stating that he did not attend a December 2015 meeting because he lacked sufficient time to
+review the reports prior to the meeting); Decl. of T. Mentz, Sr. ¶ 29 (ECF 16) (commenting on
+treatment of stone features in the reports); Decl. of J. Eagle, Sr. ¶ 19 (ECF 6-2). Even if Dakota
+
+13
+
+The Corps, among other things, encourages consultation with State and Tribal Historic
+Preservation Officers. General Condition 20, 77 Fed. Reg. at 12,084; 33 C.F.R. § 330.4(g)(4).
+27
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 40 of 58
+
+Access’s surveys were too massive to be reviewed in 19 days, the Corps provided many more
+opportunities for consultation regarding the portions of the surveys within Corps jurisdiction.
+The Corps engaged in a robust consultation process following Dakota Access’s
+transmission of its survey results. See Tribal Consultation Spreadsheet (noting 389 instances of
+tribal meetings and communications) (Ex. 9). As discussed above, the Corps’ consultation
+process with Plaintiff involved at least nine meetings, some of which were site visits, and many
+of which were attended by the Commanding Officer of the Omaha District and one of which was
+attended by Id. The quantity and quality of these consultations renders Plaintiff’s claim that the
+Corps failed to consult in a “reasonable and good faith manner,” Pl.’s Br. 31, without merit.
+Where tribes provided the Corps with information, the Section 106 process led to
+rerouting the pipeline “at PCNs 3&4 . . . to avoid potential historic properties.” Mem. for Record
+for S.D. Verifications at 7 (Ex. 7). Plaintiff is correct that a map of the James River is
+illustrative. Pl.’s Br. at 36. But that map illustrates that the Corps’ consultation process works,
+as it depicts only a proposed pipeline route. Chieply Decl. ¶¶ 24-25. That route was surveyed,
+historic properties were identified, and the Corps “directed Dakota Access to realign the pipeline
+away from Tribal identified cultural resources.” Id. Simply put, the Corps provided tribes with a
+reasonable opportunity to “advise on the identification and evaluation of historic properties.”
+Pl.’s Br. 24. Plaintiff is simply incorrect that tribes “are not provided any opportunity, let alone a
+reasonable one, to identify their concerns or assist in the identification of historic sites.” Id. at
+26. Rather, the Corps’ promulgation of Nationwide Permit 12, General Condition 20, and the
+Corps’ Appendix C regulations and 2005 NHPA Guidance reasonably fulfilled the Corps’ duties
+under the NHPA.
+
+28
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 41 of 58
+
+C.
+
+The Corps Fully Complied with NHPA Section 106 with Respect to the Preconstruction Notices and Verifications at Issue.
+
+Plaintiff’s primary objection to the Corps’ NHPA compliance in this case is that the
+Corps limited the scope of its analysis to the areas over which it has jurisdiction. The analysis
+required by NHPA is an assessment of the effects of “federal” undertakings, which in the
+reissuance of Nationwide Permit 12 is the authorization of (1) minimal discharges of dredged or
+fill material into waters of the United States or (2) work in navigable waters of the United States
+that will result in minimal adverse effects from activities associated with utility lines.
+Nationwide Permit 12 Decision Document (ECF 6-4). The Corps’ published regulations make
+clear that such activities, which are regulated under Section 404 of the Clean Water Act or
+Section 10 of the Rivers and Harbors Act, comprise only the portion of an entire right-of-way for
+a pipeline that crosses jurisdictional waters. The NHPA analysis should therefore address “the
+portion of the right-of-way, approaching the crossing, [that] would not occur in its given
+configuration ‘but for’ the authorized activity.” 33 C.F.R. Pt. 325, App. C ¶ 1(g)(1), (4). See
+also id. ¶ 5(f) (“The Corps is not responsible for identifying or assessing potentially eligible
+properties outside the permit area, but will consider the effects of undertakings on any known
+historic properties that may occur outside the permit area.”). The Corps’ regulations define the
+three elements of its test for determining the portions of a utility line that meet this test, and
+apply the test to determine that, while the “‘but for’ test is not met by the entire project right-ofway . . . “[t]ypically . . . some portion of the right-of-way, approaching the crossing would not
+occur in its given configuration ‘but for’ the authorized activity,” thus defining the scope of the
+permit area. 33 C.F.R. Pt. 325, App. C, ¶ 1(g)(4).
+The Corps’ limited definition of undertakings is consistent with D.C. Circuit precedent.
+Section 106 of the National Historic Preservation Act requires federal agencies to take into
+29
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 42 of 58
+
+account the effects of federal “undertakings.” It defines “undertaking” as “a project, activity, or
+program funded in whole or in part under the direct or indirect jurisdiction of a Federal agency,
+including . . . those requiring a Federal permit, license, or approval.” 54 U.S.C. § 300320(3).
+“[T]he text of § 106 still applies by its terms only to federally funded or federally licensed
+undertakings.” Sheridan Kalorama Historical Ass’n, 49 F.3d at 755. As the D.C. Circuit noted,
+regardless of how broadly “Congress or the ACHP define ‘undertaking’, § 106 applies only to: 1)
+‘any Federal agency having . . . jurisdiction over a proposed Federal or federally assisted
+undertaking’ and 2) ‘any Federal . . . agency having authority to license any undertaking.’” Id.
+(citation omitted).
+The focus is on the extent of the agency’s jurisdiction over activities at issue. Duncan’s
+Point Lot Owners Ass’n v. FERC, 522 F.3d 371, 377 (D.C. Cir. 2008). The Corps’ jurisdiction
+for the “undertaking” is limited to specific crossings over waters of the United States, not the
+entire pipeline. The Corps’ regulations reasonably interpret the statutory definition of
+“undertaking” to determine that the undertakings at issue were 202 discrete verifications rather
+than the entire 1,168-mile pipeline. See 33 C.F.R. Pt. 325 App. C; Harrison, 2009 WL 3347109,
+at *7 (holding that the NHPA “undertaking” was the 10.9 mile portion of a transmission line for
+which the Corps granted an easement rather than the entire 41.9 mile length of the transmission
+line); McGehee v. U.S. Army Corps of Eng'rs, No. 3:11-CV-160-H, 2011 WL 3101773, at *2
+(W.D. Ky. July 19, 2011) (“the issuance of federal permits or federal funding for limited portions
+of a project, does not make the entire project a federal undertaking for purposes of the NHPA.”).
+While the Corps’ Appendix C supports this limitation, this Circuit has rejected efforts to expand
+the area of Section 106 analysis beyond the actions authorized by an agency’s granting of a
+license. Duncan’s Point Lot Owners Ass’n, 552 F.3d at 377. The D.C. Circuit there focused on
+
+30
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 43 of 58
+
+plaintiff’s failure to “offer any basis upon which FERC would have jurisdiction under the NHPA
+over activities not authorized under the license.” Id. Plaintiff here can provide no basis for the
+Corps having jurisdiction over private activities taken on private lands that constitute 97%
+percent of the pipeline. The discrete Corps undertakings at issue here are similarly confined to
+the Corps’ jurisdiction over water crossings and easements accounting for approximately 3% of
+the pipeline. These limited undertakings do not vest the Corps with jurisdiction over the entire
+1,168-mile-long pipeline, portions of which are far removed from the Corps’ jurisdiction. See
+Sierra Club, 803 F.3d at 52-55 (relying, in part, on Corps’ Appendix B regulations). The Corps
+reasonably limited its NHPA analysis to the areas over which it has jurisdiction.
+Plaintiff’s position that the “undertaking” and “area of potential effects” at issue is the
+entire pipeline is similarly inconsistent with case law interpreting the analogous NEPA. It is
+well-established that “federal undertakings” under the NHPA are similar to “major federal
+actions” under the National Environmental Policy Act. See, e.g., Karst Envtl. Educ. & Prot.,
+Inc., 475 F.3d at 1294-95 (“Because of the operational similarity between NEPA and NHPA,
+both of which impose procedural obligations on federal agencies after a certain threshold of
+federal involvement, courts treat major federal actions under NEPA similarly to federal
+undertakings under NHPA.”) (internal quotation marks and citation omitted); Sugerloaf Citizens
+Ass’n v. FERC, 959 F.2d 508, 515 (4th Cir. 1992) (“The standard for triggering NHPA
+requirements is similar to that for the triggering of NEPA requirements.”). Significantly, the
+Corps need not assess the environmental impacts of an entire pipeline under NEPA when it only
+permits a small portion of the pipeline. Sierra Club, 803 F.3d at 54 n.10 (“[A]gencies were not
+required to perform a pipeline-wide NEPA review.”) (emphasis in original); Sierra Club, Inc. v.
+Bostick, 787 F.3d 1043, 1055 (10th Cir. 2015). See also, Macht v. Skinner, 916 F.2d 13, 19
+
+31
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 44 of 58
+
+(D.C. Cir. 1990) (no federal action under NEPA where the only federal involvement is issuance
+of a permit covering 3.58 acres of the 22.5–mile project); Winnebago Tribe of Neb. v. Ray, 621
+F.2d 269, 272-73 (8th Cir. 1980) (permit allowing transmission line to cross the Missouri River
+did not require Corps to consider the effect of entire 67–mile project). Historical sites are
+inherently localized and site-specific, whereas environmental impacts sometimes reach farther
+beyond the area of direct impact. Any differences in the nature of historical and environmental
+impacts therefore militates in favor of, if anything, defining an undertaking or action more
+narrowly under NHPA than NEPA. Put another way, the Corps’ focus on the portions of a
+project that it regulates is even more compellingly justified with respect to the NHPA analysis.
+Plaintiff’s reliance on the Advisory Council’s letters for support is equally unavailing.
+The Advisory Council’s letters largely criticize the Corps’ definition of undertaking – suggesting
+that the Corps should have conducted a Section 106 analysis of the entire 1,168-mile-long
+pipeline. Letter from J. Fowler, ACHP, to Sec’y Darcy (June 2, 2016) (ECF 6-41). But while
+the Advisory Council administers the NHPA and has promulgated regulations that generally
+govern federal agency compliance with Section 106, codified at 36 C.F.R. Pt. 800, it is far from
+clear that there is a conflict between the Corps’ and Advisory Council’s regulations. See
+McGehee v. U.S. Army Corps of Eng’rs, No. 3:11-CV-160-H, 2011 WL 2009969, at *16-17
+(W.D. Ky. May 23, 2011) (“such conflict is not inevitable nor present here. Of course the Corps
+defines ‘permit area’ differently than the definition of “area of potential effects,” . . . but both
+sets of regulations recognize that effects of an undertaking outside the footprint of a project
+should be considered.”).14 Second, the Advisory Council’s regulations recognize that agencies
+
+14
+
+The Advisory Council’s regulatory definition of “undertaking” merely restates the
+statute. Gonzales v. Oregon, 546 U.S. 243, 257 (2006) (“existence of a parroting regulation does
+not change the fact that the question here is not the meaning of the regulation but the meaning of
+32
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 45 of 58
+
+may ultimately disagree with the Advisory Council’s recommendations and affirm their initial
+finding that historic properties will not be adversely affected. 36 C.F.R.§ 800.5(c). Finally, the
+Advisory Council’s final letter relating to the pipeline recognized that the Advisory Council
+could not substitute its judgment for the Corps, as “the final decision regarding the effects on
+historic properties is the responsibility of the Corps.” Letter from J. Fowler, ACHP, to Sec’y
+Darcy (June 2, 2016) (also recognizing “varying jurisdiction and authority over components of
+the DAPL pipeline”) (ECF 6-41).
+Plaintiff cites no case establishing that the Corps’ jurisdiction over a fraction of a 1,168mile-long project is sufficient to require NHPA analysis over the entire 1,168-mile-corridor.
+Colo. River Indian Tribes v. Marsh addressed a discrete residential development and recognized
+that if the Corps’ Appendix C regulations were commensurate with the NHPA and the Advisory
+Council regulations “any agency decision in accordance therewith would be given due weight
+and deference.” 605 F. Supp. 1425, 1437 (C.D. Cal. 1985). And Committee to Save Cleveland’s
+Huletts v. U.S. Army Corps of Engineers focused on the Corps’ failure to allow the state historic
+preservation officer 15 days to comment on a proposed permit for dredging a port area. 163 F.
+Supp. 2d 776 (N.D. Ohio 2001). Neither case involved the type of long, linear utility line or road
+projects that have been repeatedly held to be largely outside of federal jurisdiction. See
+
+the statute”); compare 54 U.S.C. § 300320 and 36 C.F.R. § 800.16(y). Defendant also notes that
+the Advisory Council’s comments on the 2017 nationwide permit reissuance has no bearing on
+the 2012 Nationwide Permit at issue here. To the extent such comments on other nationwide
+permit issuances are relevant, Defendant notes that the Advisory Council developed and
+approved the precursors to the Corps’ current Appendix C. See Advisory Council on Historic
+Preservation Mem. re: Corps of Engineers Permits and 106 Compliance (Aug. 21, 1979) (Ex.
+15). Those precursor regulations limited the “permit area” to “that area made up of the ‘waters
+of the United States’ (as defined by 33 C.F.R. Pt. 329) which will be physically affected by the
+activity to be permitted and any uplands directly affected as a result of permitting the activity
+located within the ‘waters of the United States.’” Id.
+33
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 46 of 58
+
+McGehee, 2011 WL 3101773, at *3-4 (distinguishing Comm. to Save Cleveland’s Huletts). In
+short, Plaintiff is unlikely to be able to establish that the Corps’ Section 106 analysis must cover
+the entire 1,168 mile-length of a pipeline when the Corps has jurisdiction over only 3% of that
+pipeline.
+D.
+
+The Corps’ Section 106 Review in This Case Was Reasonable.
+
+Plaintiff’s challenge to the sufficiency of the Corps’ Section 106 consultation process at
+202 specific sites fails because the Corps engaged in a robust consultation process that fully
+complies with Section 106. The Corps’ process was designed to identify historic and cultural
+resources within the area of potential effects of those 202 sites. The Corps repeatedly engaged
+Plaintiff’s chairman and Tribal Historic Preservation Officer, sought information from Plaintiff,
+and led to rerouting the pipeline and other avoidance measures where relevant information was
+provided. Despite the Corps’ repeated efforts to engage Plaintiff, Plaintiff did not fully
+participate in the Section 106 process. The Corps therefore proceeded with Section 106
+consultation regarding the 202 sites by actively encouraging consultation and using the
+information provided by consulting parties to eliminate the impact of permitted activities on
+historic properties. The Corps does not dispute that the NHPA required the Corps to engage in
+reasonable and good faith effort to consult with Plaintiff. Pl.’s Br. 31; 36 C.F.R. §
+800.2(c)(2)(ii)(B). As discussed below, the Corps’ many meetings with Plaintiff and other
+efforts to engage Plaintiff and other tribes in the Section 106 process fully discharged that
+responsibility.
+Tribes cannot use the Section 106 process as a sword when they have declined to provide
+an agency with information that the Tribe claims is necessary to fully comply with Section 106.
+For example, the First Circuit found that an agency complied with the NHPA where it “provided
+
+34
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 47 of 58
+
+the Tribe with reports on [a private archaeological firm’s] findings, engaged it in other contact
+about the project, and solicited its comments.” Narragansett Indian Tribe v. Warwick Sewer
+Auth., 334 F.3d 161, 169 (1st Cir. 2003) (also relying upon consulting with State Historic
+Preservation Officer). And in Apache Survival Coalition v. United States the Ninth Circuit
+approved an agency’s Section 106 review where the Tribe did not avail itself of opportunity to
+provide information it claimed was necessary. 21 F.3d 895, 908 (9th Cir. 1994) (“[M]ost
+importantly, the Coalition’s primary contention, that the Forest Service has failed completely to
+consider the religious significance of Mount Graham . . . could have been remedied had the Tribe
+not removed itself from the NHPA process.”). Similarly, Plaintiff cannot insist that it is the only
+party with sufficient knowledge to identify cultural sites and then decline to participate in the
+Corps’ efforts to consult with Plaintiff.
+Plaintiff’s reliance on two cases finding that agencies violated the NHPA is misplaced
+because the Corps’ consultation efforts here far outstrip the efforts described in those two cases.
+In Pueblo of Sandia v. United States, the agency (1) engaged with the Pueblo only by requesting
+information and (2) withheld information from the Pueblo. 50 F.3d 856, 860 (10th Cir. 1995).
+Plaintiff’s reliance on Quechan Tribe of the Fort Yuma Reservation v. U.S. DOI, 755 F. Supp. 2d
+1104 (S.D. Cal. 2010) (“Quechan I”) is similarly misplaced. In that case, the Court found that an
+agency failed to comply with the NHPA when its invitation to consult “amounted to little more
+than a general request for the Tribe to gather its own information about all sites within the area
+and disclose it at public meetings.” Id. at 1118. This case is far more akin to Quechan Tribe of
+the Fort Yuma Indian Reservation v. U.S. DOI, 927 F. Supp. 2d 921 (S.D. Cal. 2013) (Quechan
+II). Quechan II held that the government complied with the NHPA where it “made numerous
+attempts . . . to engage in government to government consultation.” Id. at 933. The Court found
+
+35
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 48 of 58
+
+it significant that Quechan delayed in accepting the government’s request for consultation
+meetings and failed to show that “they were excluded from access to the ‘direct impact’ survey
+areas.” Id. at 925, 933.
+The Corps “initiated consultation as information became available regarding” the request
+to verify that Nationwide Permit 12 applied to each of the 202 pre-construction notification sites.
+July 25, 2016 Sec’y Darcy Letter and Mem., Mem. at 1. The Corps began its Section 106
+consultation and coordination with Tribal representatives and State Historic Preservation
+Officers in September 2014. Harnois Decl. ¶ 6. The Corps held “four dedicated consultation
+meetings” with Tribes and additional “individual consultation efforts for every Tribe accepting”
+its request to consult. Mem. at 2 (ECF 6-52); Letter from M. Chieply, Corps, to S. Vance, CRST
+(Feb. 17, 2015) (ECF 11-2). The Corps sought and received comments from Tribal
+representatives and State Historic Preservation Officers and considered all of the information it
+received from that consultation. Mem. at 1 (ECF 6-52). As discussed above, that consultation
+process caused the pipeline to be rerouted.15 See Tribal Consultation Spreadsheet (Ex. 9).
+Finally, the Corps added “a special condition . . . to the permit verification” requiring “DAPL to
+offer Tribal monitoring during the construction process at PCN areas.” Mem. for Record for N.
+D. Verifications at 4 (Ex. 11). Dakota Access implemented this special condition. Email from
+S. Vance, CRST, to H. Frazier, CRST (Aug. 3, 2016) (ECF 11-6).
+
+15
+
+As these mitigation measures make clear, Plaintiff is simply incorrect, Pl.’s Br. 33, that
+the Corps’ Section 106 process in this case engaged Plaintiff too late in the planning process.
+Plaintiff is likewise incorrect, Pl.’s Br. 34, that “DAPL propos[ing] mitigation measures to avoid
+adverse effects,” before consulting with Plaintiff was improper. Plaintiff could and should have
+raised any concerns regarding these proposals at one of the many meetings between the Corps
+and Plaintiff.
+36
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 49 of 58
+
+Plaintiff’s criticism of the Corps’ Section 106 analysis therefore suffers from several fatal
+factual flaws. Plaintiff suggests that the Corps’ NHPA analysis is flawed because “the cultural
+knowledge to determine the existence and significance of sites only lay with the Tribe.” Pl.’s Br.
+33. But the Corps sought, obtained, and considered “information supplied directly by the
+SRST.” Mem. at 4 (ECF 6-52). And contrary to Plaintiff’s suggestion that it was excluded from
+surveys, Pl.’s Br. 32, the Corps explicitly invited Plaintiff to survey direct impact areas. Plaintiff
+Standing Rock acknowledges that the Corps “invit[ed] tribes to participate in tribal surveys at
+Preconstruction Notification (PCN) permit areas associated with the proposed Dakota Access
+Pipeline.” Letter from J. Eagle, SRST, to Col. Henderson, USACE (May 17, 2016) (ECF 6-44).
+The tribe “respectfully decline[d] this offer to participate” because they deemed the offer
+inadequate. Id. (not explaining basis for deeming offer inadequate). The Corps therefore
+reasonably discharged its duty to consult with Plaintiff regarding the 202 sites requiring preconstruction notice verification.
+Similarly, Dakota Access provided “massive” “Class III Cultural Resource Reports.”
+Letter from S. Vance to M. Van Ness (July 6, 2016) (ECF 11-4). These reports covered the
+“entire route” of the pipeline. Pl.’s Br. 32. Plaintiff had months to review these reports and
+provide comments at the seven meetings between January 22, 2016 and April 29, 2016. Tribal
+Consultation Spreadsheet (Ex. 9). Plaintiff declined to provide comments on these reports other
+than to demand a complete resurvey of the entire pipeline route. The Corps provided Plaintiff
+with a reasonable opportunity to evaluate properties within the Corps’ jurisdiction, articulate its
+concerns regarding those properties, and resolve those concerns. This process demonstrably led
+to successful mitigation and rerouting of this very pipeline. And the Corps’ requirement that
+Dakota Access allow tribal representatives to monitor all construction activities subject to pre-
+
+37
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 50 of 58
+
+construction notification offers additional assurance against historical resources suffering
+adverse effects. The Corps’ entire Section 106 review cannot be undone because Plaintiff did
+not provide the very information repeatedly sought by the Corps. See Quechan II, 927 F. Supp.
+2d at 933; Apache Survival Coal., 21 F.3d at 908. Plaintiff is therefore unlikely to prevail on the
+merits of its claim that the Corps’ Section 106 process was flawed with respect to the portions of
+the pipeline within the Corps’ jurisdiction.
+II.
+
+PLAINTIFF HAS NOT SHOWN IMMEDIATE IRREPARABLE INJURY.
+Because Plaintiff’s claims are not likely to succeed, the Court may end its inquiry. See
+
+Winter, 555 U.S. at 22; Sierra Club, Inc. v. Bostick, No. Civ-12-742-R, 2012 WL 3230552, at *8
+(W.D. Okla. Aug. 5, 2012), aff’d, 539 Fed. Appx. 885 (10th Cir. 2013) (denying preliminary
+injunction in challenge to proposed Keystone XL pipeline project after “conclud[ing] that
+Plaintiffs failed to establish a substantial likelihood of success on the merits”). But even if this
+Court were to proceed to the second element required for a preliminary injunction, Plaintiff has
+failed to show that it will suffer immediate irreparable injury.
+As an initial matter, it is important to reiterate that the Corps has jurisdiction over a mere
+3% of the 1,168-mile Pipeline. July 25, 2016 Sec’y Darcy Letter and Mem., Mem. at 1
+Regardless of whether this Court grants a preliminary injunction, construction can continue on
+the vast majority of the Pipeline, because Plaintiff has not sued or sought any injunction against
+Dakota Access. Any allegations of injury to cultural and historical resources on lands over
+which the Corps has no jurisdiction, e.g., Pl.’s Br. 36, should not influence the Court’s decision
+here, because the requested preliminary injunction would not redress injury to those locations.
+Rather, the Court’s inquiry must be focused on whether Plaintiff has sufficiently identified an
+
+38
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 51 of 58
+
+immediate, irreparable injury as to the limited aspects of the Pipeline that are the subject of this
+case. Plaintiff has not satisfied this burden. 16
+First, Plaintiff has not shown with any specificity which cultural and historical sites at
+project areas subject to the Corps’ jurisdiction are likely to be injured. Plaintiff argues that it is
+not required to “show with precision each and every site that is certain to be destroyed.” Pl.’s
+Br. 37 n.17. Instead, Plaintiff points to general information that its ancestors, the Great Sioux
+Nation, traversed the area along the route of the Pipeline and that this “area” has significance.17
+Pl.’s Br. 35. Plaintiff essentially argues that there are bound to be cultural and historical sites
+across the entire 1,168 miles of pipeline, and concedes that these are currently unidentified,
+unevaluated, and unknown sites. Id. at 36-37. But the theoretical possibility of harm to
+unknown sites does not satisfy the irreparable injury prong. As the Supreme Court has held,
+“[i]ssuing a preliminary injunction based only on a possibility of irreparable harm is inconsistent
+with our characterization of injunctive relief as an extraordinary remedy that may only be
+awarded upon a clear showing that the plaintiff is entitled to such relief.” Winter, 555 U.S. at 22
+(citation omitted); see also Wis. Gas Co. v. FERC, 758 F.2d 669, 674 (D.C. Cir. 1985) (“[T]he
+injury must be both certain and great; it must be actual and not theoretical.”). Most of the sites
+that Plaintiff does point to, e.g., Pl.’s Br. 36 (referencing sites found by the Corps’ and Dakota
+Access’s archaeological consultants), are located on land outside the Corps’ jurisdiction, are not
+eligible for protection under the NHPA, or are no longer within the path of the Pipeline due to re-
+
+16
+
+For the same reasons, Plaintiff also has not established that it has standing to challenge
+the various Corps authorizations across the entire 1,168-mile Pipeline. See Lujan v. Defenders of
+Wildlife, 504 U.S. 555, 560-61 (1992).
+17
+Evidence submitted by Movant-Intervenor Cheyenne River Sioux Tribe indicates that the
+aboriginal territory of the Great Sioux did not include what is now Iowa and Illinois. Decl. of H.
+Frazier ¶ 11 (ECF 11-7).
+39
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 52 of 58
+
+routing in response to tribal concerns. Chieply Decl. ¶¶ 24-25. Plaintiff does not explain how a
+preliminary injunction would prevent injury to such sites. And Plaintiff has had ample
+opportunity—almost two years—to identify and evaluate sites of potential significance in the
+areas of the Pipeline that are within the Corps’ jurisdictions. If, as Plaintiff claims, non-tribal
+consultants “lack the training, cultural sensitivity, or legal authorization to make determinations
+about cultural significance of Tribal resources,” Pl.’s Br. 36, then Plaintiff should have applied
+its members’ expertise and knowledge to actually aid the Corps in its investigation.
+Second, Plaintiff has not demonstrated that sites of importance to the Tribe (known or
+unknown) are likely to be irreparably injured as a result of the Corps’ authorizations. The only
+portion of the Pipeline under Corps jurisdiction in close proximity to Plaintiff’s reservation
+involves horizontal drilling under Lake Oahe. Plaintiff has not indicated how it will be
+irreparably harmed by this activity. The pipeline itself will run 90 feet under the bottom of Lake
+(a mitigation measure in response to tribal concerns) alongside an existing pipeline. Harnois
+Decl. ¶ 32. And the Corps determined that drilling on the small portions of Corps land adjacent
+to the Lake would not cause structural impacts. Omaha District Envtl. Assessment at 78-79
+(ECF 6-51). Moreover, even if unknown artifacts are discovered during the course of
+construction, at any areas under Corps jurisdiction, Dakota Access is required to take steps to
+ensure they are not harmed. Under General Condition 21 to the Nationwide Permit, for example,
+upon discovering any previously unknown historical, cultural, or archaeological remains or
+artifacts, the company must “immediately notify” the Corps and “to the maximum extent
+practicable, avoid construction activities that may affect the remains and artifacts” until the
+Corps completes a federal, state, and tribal consultation. Nationwide Permit 12 Fact Sheet (ECF
+6-47). In addition, at the Lake Oahe and Lake Sakakawea crossings, Dakota Access is bound by
+
+40
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 53 of 58
+
+an Unanticipated Discovery Plan, which provides for mitigation in the event of a discovery, such
+as signs, fences, and other protections. Omaha District Envtl. Assessment App. F (Ex. 16);
+Shelman Decl. ¶ 8. Plaintiff suggests that the mere presence of signs, fences, and construction
+activity can be an “adverse effect” to nearby cultural resources and landscapes. Pl.’s Br. 38. But
+any such adverse effects are not irreparable, as required to obtain a preliminary injunction; signs
+and fences can be removed, disturbed ground can be restored, and the construction activity will
+end once the Pipeline is built.
+Third, Plaintiff has not shown that any alleged injury is imminent, i.e., will take place
+prior to this Court’s ruling on the merits. See Wis. Gas Co., 758 F.2d at 674 (“[T]he party
+seeking injunctive relief must show that ‘[t]he injury complained of [is] of such imminence that
+there is a ‘clear and present’ need for equitable relief to prevent irreparable harm.”) (alterations
+in original) (citation omitted). With respect to construction activities, there are mitigation
+measures in place to prevent damage to any undiscovered sites. As noted above, Dakota Access
+is subject to nationwide permit General Condition 21 at the 202 pre-construction notifications as
+well as the Unanticipated Discovery Plan, which require the immediate stop of work upon
+discovery of any potential site of significance to be followed by consultation with tribes and
+appropriate mitigation measures to avoid damage to the site. Omaha District Envtl. Assessment
+App. F (Ex. 16); Shelman Decl. ¶ 8. To the extent Plaintiff is concerned about damage to
+cultural resources from oil spills or leaks, Pl.’s Br. 8-9, the Pipeline may be under construction,
+but will not be operational imminently, let alone degraded or in a state of disrepair.
+In sum, Plaintiff has not shown that the preliminary injunction would cause imminent,
+irreparable injury.
+
+41
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 54 of 58
+
+III.
+
+THE BALANCE OF EQUITIES TIPS IN FAVOR OF THE CORPS, AND
+ISSUANCE OF AN INJUNCTION WOULD HARM THE PUBLIC INTEREST.
+The public interest and balancing of the equities prongs are not just a summary of the
+
+other prongs; they are separate from and additional to the other prongs. Mazurek v. Armstrong,
+520 U.S. 968, 972 (1997) (stating that plaintiffs must carry the burden or persuasion as to each
+element “by a clear showing”) (emphasis and citation omitted). Where the federal government is
+a party, the equities and public interest inquiries tend to merge. See Colo. Wild Horse & Burro
+Coal., Inc. v. Jewell, 130 F. Supp. 3d 205, 220-21 (D.D.C. 2015) (citing Nken v. Holder, 556
+U.S. 418, 435 (2009)). Considering all of the environmental, economic, and social benefits from
+the nationwide permit program and from this project, the public interest and balancing of the
+equities weigh against a preliminary injunction.
+The balance of equities and public interest weigh against an injunction where Plaintiff did
+not avail itself of the opportunity to engage in the NHPA consultation process designed to
+protect the very interests that Plaintiff now claims will be harmed absent an injunction. The
+NHPA is specifically designed to protect the public’s interest in protection of historical sites and
+tribal culture by requiring agencies to consult with tribes to identify sites of significance
+potentially affected by federal actions.18 As explained above and in the attached Declarations of
+Joel Ames and Richard Harnois, the Corps attempted to obtain Plaintiff’s input on the locations
+of potential sites over a two-year consultation process, but Plaintiff repeatedly obstructed the
+
+18
+
+To the extent Plaintiff’s broader complaint concerns the 97% of the Pipeline outside the
+Corps’ jurisdiction, public interest also would not be served by holding the Corps accountable
+for NHPA review of such lands. See Harrison, 2009 WL 3347109, at *20-21 (“To hold the
+federal government responsible for reviewing private projects where the extent of its control was
+to allow utility lines to cross its land, would create federal control over private projects which
+NHPA does not envision. To do so could create an incentive for the government to refuse such
+requests, thus unnecessarily increasing costs and decreasing efficiency for private projects.”).
+42
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 55 of 58
+
+process by failing to respond to calls and emails, cancelling meetings, and refusing to
+acknowledge the authority of anyone to consult except the President or Secretary of Interior.
+Plaintiff also had ample opportunity to voice concerns about the nature of the consultation
+process during the public comment periods for the reissuance of Nationwide Permit 12 and the
+Environmental Assessment for Lake Oahe. In addition to the general public notice and
+comment, the Corps sent specific notices to Plaintiff and other tribes seeking input. E.g.,
+Shelman Decl. ¶ 8.
+Granting the equitable remedy of a preliminary injunction now, after both the Corps and
+Dakota Access have invested significant time and resources and accommodated timely raised
+tribal concerns, would only reward Plaintiff’s unwillingness to engage meaningfully in the
+consultation process. And it would not serve the public interest to encourage parties in the future
+to decline to consult and comment and then bring last-minute challenges as construction is
+underway—utilizing judicial resources in the process—rather than taking the proper steps to
+engage in the planning stages when their concerns can be addressed without resorting to such a
+drastic step as an injunction.
+The balance of equities also weigh against an injunction in light of the public interests
+that Nationwide Permit 12 serves. As this Court explained:
+[T]he public has an interest in regulatory efficiency with respect to projects that fall
+within the rubric of the general permitting system that the Clean Water Act
+expressly authorizes. This system is carefully designed and administered to
+minimize the costs of approving projects that the Corps has already determined will
+not adversely impact the environment. The general permitting system also has the
+added benefit of incentivizing project sponsors to conform their construction
+activities to existing general permits, thereby further reducing the administrative
+burden while at the same time decreasing the potential negative environmental
+consequences of those projects.
+
+43
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 56 of 58
+
+Sierra Club v. U.S. Army Corps of Eng’rs, 990 F. Supp. 3d 9, 43 (D.D.C. 2013) (holding that the
+balance of harms and public interest factors weighed against a preliminary injunction in a
+challenge to a proposed 589-mile pipeline from Illinois to Oklahoma where Nationwide Permit
+12 provided both resource savings and benefits to the environment).
+CONCLUSION
+The Court should deny Plaintiff’s Motion for Preliminary Injunction.
+
+Dated: August 18, 2016
+
+Respectfully submitted,
+JOHN C. CRUDEN
+Acting Assistant Attorney General
+Environment & Natural Resources Division
+By:
+
+/s/ Matthew Marinelli
+
+.
+
+MATTHEW MARINELLI, IL Bar 6277967
+U.S. Department of Justice
+Natural Resources Section
+P.O. Box 7611
+Benjamin Franklin Station
+Washington, DC 20044
+Phone: (202) 305-0293
+Fax: (202) 353-2021
+matthew.marinelli@usdoj.gov
+ERICA M. ZILIOLI, D.C. Bar 488073
+U.S. Department of Justice
+Environmental Defense Section
+P.O. Box 7611
+Washington, DC 20044
+Phone: (202) 514-6390
+Fax: (202) 514-8865
+Erica.Zilioli@usdoj.gov
+Attorneys for the United States Army Corps
+of Engineers
+
+44
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 57 of 58
+
+OF COUNSEL:
+MILTON BOYD
+MELANIE CASNER
+U.S. Army Corps of Engineers
+Office of Chief Counsel
+Washington, DC
+
+45
+
+Case 1:16-cv-01534-JEB Document 21 Filed 08/18/16 Page 58 of 58
+
+CERTIFICATE OF SERVICE
+I hereby certify that, on the 18th day of August, 2016, a copy of the foregoing was filed
+through the Court’s CM/ECF management system and electronically served on counsel of
+record.
+
+/s/ Matthew Marinelli
+Matthew Marinelli
+
+46
+
+.
+
+

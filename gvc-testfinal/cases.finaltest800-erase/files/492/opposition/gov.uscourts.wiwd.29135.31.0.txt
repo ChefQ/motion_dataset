@@ -1,0 +1,836 @@
+Case: 3:10-cv-00699-bbc Document #: 31 Filed: 01/11/11 Page 1 of 21
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE WESTERN DISTRICT OF WISCONSIN
+
+MOTOROLA MOBILITY, INC., and
+GENERAL INSTRUMENT
+CORPORATION,
+Plaintiffs,
+v.
+MICROSOFT CORPORATION,
+Defendant.
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+Civil Action No. 10-cv-699
+District Judge William M. Conley
+Magistrate Judge Stephen L. Crocker
+
+PLAINTIFFS’ OPPOSITION TO DEFENDANT’S MOTION
+TO DISMISS, STAY OR, IN THE ALTERNATIVE, TRANSFER VENUE
+
+Case: 3:10-cv-00699-bbc Document #: 31 Filed: 01/11/11 Page 2 of 21
+
+TABLE OF CONTENTS
+I.
+
+INTRODUCTION
+
+1
+
+II.
+
+BRIEF STATEMENT OF RELEVANT FACTS
+
+2
+
+III.
+
+ARGUMENT
+
+4
+
+A.
+
+Motorola’s Choice of Forum Should Control
+
+4
+
+1.
+
+The convenience factors
+
+5
+
+2.
+
+The interest of justice
+
+7
+
+B.
+C.
+IV.
+
+Motorola’s Claims Are Not Properly Viewed As
+Compulsory Counterclaims
+
+10
+
+Dismissal, Stay and Transfer Are Unnecessary and
+Inappropriate Remedies
+
+15
+
+CONCLUSION
+
+16
+
+ii
+
+Case: 3:10-cv-00699-bbc Document #: 31 Filed: 01/11/11 Page 3 of 21
+
+TABLE OF AUTHORITIES
+Statutes
+28 U.S.C. § 1404
+
+passim
+
+Rules
+Fed. R. Civ. P. 13(a)
+
+10
+
+Judicial Decisions
+Adams v. Newell Rubbermaid Inc.,
+No. 07-cv-313-S, 2007 WL 5613420 (W.D. Wis. Aug. 21, 2007)
+Artvale, Inc. v. Rugby Fabrics Corp.,
+232 F. Supp. 814 (S.D.N.Y. 1964)
+
+6
+14
+
+Coffey v. Van Dorn Iron Works,
+796 F.2d 217 (7th Cir. 1986)
+
+4, 7
+
+E2Interactive, Inc. v. Blackhawk Network, Inc.,
+No. 09-cv-629, 2010 WL 3937911 (W.D. Wis. Oct. 6, 2010)
+
+5, 8, 10
+
+ESS Tech., Inc. v. PC-Tel, Inc.,
+No. C-99-20292RMW, 2001 WL 1891713 (N.D. Cal. Nov. 28, 2001)
+
+13
+
+Fit Express, Inc. v. Circuit-Total Fitness,
+No. 07-cv-62, 2008 WL 4450290 (N.D. Miss. Sept. 29, 2008)
+
+14
+
+Guesthouse Int’l, LLC v. Shoney’s N. Am. Corp.,
+No. M2008-02567-COA-R3-CV,
+2010 WL 987119 (Tenn. Ct. App. June 24, 2009)
+
+13
+
+Gulf Oil Corp. v. Gilbert,
+330 U.S. 501 (1947)
+
+15
+
+Illumina, Inc. v. Affymetrix, Inc.,
+No. 09-cv-277, 2009 WL 3062786 (W.D. Wis. Sept. 21, 2009)
+
+5, 6, 8
+
+Martino v. McDonald’s Sys., Inc.,
+598 F.2d 1079 (7th Cir. 1979)
+
+15
+
+Nasalok Coating Corp. v. Nylok Corp.,
+522 F.3d 1320 (Fed. Cir. 2008)
+
+11
+
+iii
+
+Case: 3:10-cv-00699-bbc Document #: 31 Filed: 01/11/11 Page 4 of 21
+
+Phillips Petroleum Co. v. U.S. Steel Corp.,
+566 F. Supp. 1093 (D. Del. 1983)
+
+14
+
+In re Recombinant DNA Tech. Pat. & Contract Litig.,
+874 F. Supp. 904, 922 (S.D. Ind. 1994)
+
+14
+
+Research Automation, Inc. v. Schrader-Bridgeport Int’l, Inc.,
+626 F.3d 973 (7th Cir. 2010)
+Sunbeam Prods., Inc. v. Homedics, Inc.,
+587 F. Supp. 2d 1055 (W.D. Wis. 2008)
+
+5, 7, 15, 16
+5, 8
+
+Tempco Electric Heater Corp. v. Omega Eng’g, Inc.,
+819 F.2d 746 (7th Cir. 1987)
+
+15
+
+Uniroyal Engineered Prods., LLC v. Omnova Solutions Inc.,
+No. 08-cv-586, 2009 WL 736700 (W.D. Wis. Mar. 18, 2009)
+
+16
+
+Treatises
+28 Am. Jur. 2d Estoppel and Waiver § 197 (July 2010)
+
+13
+
+Other Proceedings
+AlmondNet, Inc. v. Microsoft Corp., No. 10-cv-298 (W.D. Wis.)
+
+7
+
+Freyburger LLC v. Microsoft Corp., No. 09-cv-104 (W.D. Wis.)
+
+7
+
+Hyperphrase Techs., LLC v. Microsoft Corp., No. 02-cv-647 (W.D. Wis.)
+
+7
+
+Microsoft Corp. v. Aurora Computer Servs., No. 01-cv-681 (W.D. Wis.)
+
+7
+
+Microsoft Corp. v. Beltz Techs., No. 00-cv-126 (W.D. Wis.)
+
+7
+
+Microsoft Corp. v. Motorola, Inc., No. 10-cv-1823 (W.D. Wash.)
+
+passim
+
+Motorola Mobility, Inc. v. Microsoft Corp., No. 10-cv-700 (W.D. Wis.)
+
+1
+
+Nokia Corp. v. Apple, Inc., No. 10-cv-249 (W.D. Wis.)
+
+9
+
+Yavitz LLC v. Microsoft Corp., No. 10-cv-146 (W.D. Wis.)
+
+7
+
+iv
+
+Case: 3:10-cv-00699-bbc Document #: 31 Filed: 01/11/11 Page 5 of 21
+
+Plaintiffs Motorola Mobility, Inc., and General Instrument Corporation (collectively,
+“Motorola”) oppose defendant Microsoft’s motion to dismiss, stay or, in the alternative, transfer
+venue [D.I. 20]. Motorola’s patent infringement action, No. 10-cv-699, should proceed in this
+District.1
+I.
+
+INTRODUCTION
+Motorola has selected the Western District of Wisconsin as its forum of choice in which
+
+to pursue certain claims of patent infringement against Microsoft. This selection should not be
+disturbed unless the transfer factors of 28 U.S.C. § 1404, as interpreted and applied by this Court
+and the Seventh Circuit, make Washington “clearly more convenient.” They do not. This
+District is substantially more likely than the Western District of Washington to promote judicial
+efficiency by means of a speedy resolution of the dispute presented, and this District is as
+convenient -- or more so -- to the non-party witnesses whose appearances are likely to be
+necessary.
+Nonetheless, Microsoft asks that this Court dismiss, stay or, in the alternative, transfer
+venue. In doing so, Microsoft argues that a transfer analysis should be performed only in the
+alternative and, instead, urges the Court to treat Motorola’s patent infringement claims as
+compulsory counterclaims to a breach of contract action brought by Microsoft against Motorola,
+Inc. and Motorola Mobility, Inc. -- but not Plaintiff General Instrument Corporation -- in the
+United States District Court for the Western District of Washington, No. 10-cv-1823 (“the
+Washington action”). Microsoft’s argument is without merit.
+
+1
+
+Filed concurrently herewith is Motorola’s opposition to a similar motion filed by Microsoft in
+Civil Action No. 10-cv-700. Although the two opposition briefs are largely the same, Motorola notes that
+there are several important differences that merit the Court’s attention. For example, the lawsuits involve
+different patents, naming additional inventors, owned by additional entities, asserted against different
+products. The significance of these differences is addressed throughout.
+
+1
+
+Case: 3:10-cv-00699-bbc Document #: 31 Filed: 01/11/11 Page 6 of 21
+
+Whether Microsoft’s Washington action is even proper is in doubt -- Motorola has moved
+to dismiss all of Microsoft’s claims.2 And even if Microsoft’s claims are not dismissed by the
+Washington Court, no claim in the Washington action arises out of the same transaction or
+occurrence as the patent infringement claims brought by Motorola in this District. Instead, each
+claim in the Washington action relates to the impact of various letters of assurance, provided by
+Motorola, Inc. to non-party standard setting organizations, on Motorola, Inc. and Motorola
+Mobility, Inc.’s efforts to license their standards-essential patent portfolios. These are contract,
+not patent infringement, issues. And General Instrument Corporation, the assignee-of-record and
+owner of all right, title and interest in the patents in suit here, is neither a named defendant nor
+even mentioned in the Washington action.
+Even if the Court were to entertain Microsoft’s argument that the present lawsuit includes
+compulsory counterclaims to the Washington action, Motorola’s choice of forum should control,
+according to the applicable Seventh Circuit section 1404(a) transfer analysis. In particular, under
+settled Seventh Circuit precedent, Motorola’s patent infringement action seeking coercive relief
+should be given priority over Microsoft’s anticipatory action.
+Accordingly, Microsoft’s motion should be denied. This lawsuit should be permitted to
+proceed in this District.
+II.
+
+BRIEF STATEMENT OF RELEVANT FACTS
+On November 10, 2010, Motorola filed its Complaint in the present action [D.I. 1]. In
+
+that Complaint, Motorola alleges that Microsoft has infringed and continues to infringe claims of
+U.S. Patent Nos. 7,310,374 (“the ’374 patent”); 7,310,375 (“the ’375 patent”); and 7,310,376
+
+2
+
+See Motorola, Inc. and Motorola Mobility, Inc.’s Motion to Dismiss, Microsoft Corp. v.
+Motorola, Inc. and Motorola Mobility, Inc., No. 10-cv-1823 (W.D. Wash. Dec. 15, 2010) (supporting
+memorandum attached hereto as Exhibit A to the Declaration of Paul M. Schoenhard (“Decl.”)).
+
+2
+
+Case: 3:10-cv-00699-bbc Document #: 31 Filed: 01/11/11 Page 7 of 21
+
+(“the ’376 patent”) (collectively, the “patents in suit”), each of which is duly assigned to Plaintiff
+General Instrument Corporation. As further detailed in Motorola’s First Amended Complaint,
+filed concurrently herewith, Motorola’s claims of infringement arise from Microsoft’s
+manufacture, use, instruction to use, offer for sale, and/or sale of the Windows 7 operating
+system and Internet Explorer 9 browser software.
+Each of the patents in suit lists four inventors: Limin Wang, Rajeev Gandhi, Krit
+Panusopone, and Ajay Luthra. Of these, Messrs. Wang, Panusopone and Luthra continue to
+work for General Instrument Corporation and are thus under Motorola’s control. Mr. Gandhi is a
+former employee, residing near Pittsburgh, Pennsylvania. See Decl. ¶¶ 3,4.
+Four attorneys are known to have been involved in the prosecution of the patents in suit:
+Robert P. Marley, Kin-Wah Tong, Steven L. Nichols, and Lawrence T. Cullen. Of these, Mr.
+Cullen currently works for Motorola Mobility, Inc. and is thus under Motorola’s control.
+Messrs. Marley, Tong and Nichols no longer work for Motorola and are believed to reside in
+Pennsylvania, New Jersey and Utah, respectively. See Decl. ¶¶ 5-8.
+Motorola is not currently aware of any non-party from whom evidence will be required to
+establish Microsoft’s infringement. On information and belief, witnesses sufficient to provide
+evidence of Microsoft’s infringement remain employed by, and thus under the control of,
+Microsoft.
+On December 20, 2010, Microsoft filed this motion to dismiss, stay or, in the alternative,
+transfer venue. [D.I. 20.] In support of its motion, Microsoft argues that Motorola’s claims in
+this District should be viewed as compulsory counterclaims to a separate complaint filed by
+Microsoft on November 9, in the United States District Court for the Western District of
+
+3
+
+Case: 3:10-cv-00699-bbc Document #: 31 Filed: 01/11/11 Page 8 of 21
+
+Washington against non-party Motorola, Inc. and Plaintiff Motorola Mobility, Inc., but not
+against Plaintiff General Instrument Corporation.
+In the Washington action, Microsoft purports to plead four causes of action: (1) breach of
+contract; (2) promissory estoppel; (3) waiver; and (4) declaratory judgment that Motorola’s
+offers do not comply with its obligations. Notably, Microsoft did not request a declaratory
+judgment of invalidity and/or non-infringement of any of the patents in suit here. Nor did
+Microsoft assert any right or privilege to practice the inventions of the patents in suit or
+otherwise seek any relief that would prevent Motorola from asserting its rights. Rather, all
+claims pleaded in the Washington action -- to the extent they are cognizable -- arise out of two
+letters sent by Motorola, Inc. to Microsoft, each offering to negotiate a license on reasonable and
+non-discriminatory terms to a large portfolio of patents owned by Motorola, Inc. and/or its
+subsidiaries and affiliates that are or may be essential to practice one or more industry standards.
+III.
+
+ARGUMENT
+A.
+
+Motorola’s Choice of Forum Should Control
+
+Section 1404 of Title 28 provides in relevant part: “For the convenience of parties and
+witnesses, in the interest of justice, a district court may transfer any civil action to any other
+district or division where it might have been brought.” 28 U.S.C. § 1404(a). Section 1404 does
+not, however, stand for the proposition that transfer of venue should be a routine matter. Rather,
+the Court must consider all circumstances of the case, using the three statutory factors as place
+holders in its analysis. See Coffey v. Van Dorn Iron Works, 796 F.2d 217, 219 (7th Cir. 1986).
+Microsoft bears the burden of proving that its choice of forum is “clearly more convenient” than
+the Western District of Wisconsin. See id. at 219-20.
+
+4
+
+Case: 3:10-cv-00699-bbc Document #: 31 Filed: 01/11/11 Page 9 of 21
+
+Here, the Western District of Washington is not a “clearly more convenient” forum, and
+the interest of justice rests with proceeding in this District. Motorola’s choice of the Western
+District of Wisconsin should control.
+1.
+
+The convenience factors
+
+The first two statutory considerations in a transfer analysis relate to the convenience of
+the parties and witnesses.3
+
+“With respect to the convenience evaluation, courts generally
+
+consider the availability of and access to witnesses, and each party’s access to and distance from
+resources in each forum. Other related factors include the location of material events and the
+relative ease of access to sources of proof.” Research Automation, Inc. v. Schrader-Bridgeport
+Int’l, Inc., 626 F.3d 973, 978 (7th Cir. 2010) (citations omitted).
+Although the convenience evaluation once took center stage, advances in travel and
+technology have minimized its value, especially in cases, as here, involving large, sophisticated,
+multi-national corporations.
+
+Specifically, the Court may assume that witnesses within the
+
+control of the party calling them will appear voluntarily, and that technology has obviated the
+concern over the location of documents and sources of proofs.
+
+See E2Interactive, Inc. v.
+
+Blackhawk Network, Inc., No. 09-cv-629, 2010 WL 3937911, at *3 (W.D. Wis. Oct. 6, 2010);
+Sunbeam Prods., Inc. v. Homedics, Inc., 587 F. Supp. 2d 1055, 1057 (W.D. Wis. 2008)
+(“[D]ocuments easily can be transported between the two districts and their presence in [another
+location] does not make it clearly more convenient”). “In patent lawsuits, where experts and
+lawyers end up playing the starring roles, mention of ‘witnesses’ and ‘records’ in a given district
+carries minimal weight.” Illumina, Inc. v. Affymetrix, Inc., No. 09-cv-277, 2009 WL 3062786, at
+*3 (W.D. Wis. Sept. 21, 2009).
+
+3
+
+These considerations correspond to factors 3, 4, 5, and 6 listed on page 8 of Microsoft’s brief.
+
+5
+
+Case: 3:10-cv-00699-bbc Document #: 31 Filed: 01/11/11 Page 10 of 21
+
+Microsoft asserts that the Western District of Washington is a more convenient location
+for party witnesses.
+
+In support, Microsoft discusses the proximity of Motorola’s Illinois
+
+facilities to O’Hare airport, the number of flights each day between O’Hare and the Seattle
+airport, and the inconvenience to any Microsoft witnesses located in Seattle of having to travel to
+this Court. As this Court has noted, however, the location of party witnesses is not a heavily
+weighted factor because “witnesses within the control of the party calling them, such as
+employees, will appear voluntarily.” Adams v. Newell Rubbermaid Inc., No. 07-cv-313-S,
+2007 WL 5613420, at *3 (W.D. Wis. Aug. 21, 2007) (citation omitted). Moreover, Microsoft’s
+assertions that on balance Seattle is more convenient than Wisconsin for party witnesses is
+simply not correct. Motorola Mobility is headquartered in Libertyville, Illinois, and General
+Instrument is located in both Pennsylvania and in San Diego. The District of Washington is not
+clearly more convenient for party witnesses in those locations than this District -- any witness
+from these facilities will need to travel a significant distance to Seattle.
+
+Thus, Microsoft’s
+
+choice of Seattle merely shifts the burden of inconvenience as between the parties -- it does not
+make Seattle “clearly more convenient” for all.
+The location of non-party witnesses remains an important, but not dispositive, factor. See
+Illumina, 2009 WL 3062786, at *4. But in this case, Motorola is not aware of any non-party
+witness residing within the geographic bounds of either this District’s or the Western District of
+Washington’s subpoena power. And the Western District of Washington is not “clearly more
+convenient” than this District for the potential non-party witnesses that reside in Utah
+(prosecuting attorney), Pennsylvania (inventor and prosecuting attorney) and New Jersey
+(prosecuting attorney). If anything, this District is more convenient for the majority.
+
+6
+
+Case: 3:10-cv-00699-bbc Document #: 31 Filed: 01/11/11 Page 11 of 21
+
+Finally, Microsoft has repeatedly embraced this District as a plaintiff. See Microsoft
+Corp. v. Beltz Techs., No. 00-cv-126 (W.D. Wis.); Microsoft Corp. v. Aurora Computer Servs.,
+No. 01-cv-681 (W.D. Wis.). And Microsoft has repeatedly accepted venue in this District as a
+defendant. See AlmondNet, Inc. v. Microsoft Corp., No. 10-cv-298 (W.D. Wis.); Yavitz LLC v.
+Microsoft Corp., No. 10-cv-146 (W.D. Wis.); Freyburger LLC v. Microsoft Corp., No. 09-cv104 (W.D. Wis.); Hyperphrase Techs., LLC v. Microsoft Corp., No. 02-cv-647 (W.D. Wis.).
+Indeed, insofar as Motorola could determine, Microsoft has not requested transfer or otherwise
+contested venue in any patent lawsuit in this District naming Microsoft as a defendant in the past
+decade, even though only Hyperphrase involved a Wisconsin-based plaintiff and inventors
+resident in Wisconsin. Microsoft should not now be heard to claim that the Western District of
+Wisconsin is inconvenient.
+2.
+
+The interest of justice
+
+The primary consideration for this Court should be the “interest of justice.”4 “Factors
+traditionally considered in an ‘interest of justice’ analysis relate to the efficient administration of
+the court system.” Coffey, 796 F.2d at 221; see also Research Automation, 626 F.3d at 978. For
+example, the Court’s evaluation may include consideration of docket congestion and likely speed
+to trial in each forum, each court’s relative familiarity with the relevant law and technology, and
+whether judicial resources could be saved by consolidating multiple cases in the same forum.
+See id.
+The “interest of justice” component is critical to a Section 1404 analysis and “may be
+determinative in a particular case, even if the convenience of the parties and witnesses might call
+for a different result.” Coffey, 796 F.2d at 220; see also Research Automation, 626 F.3d at 978.
+This District has often found that, even where convenience considerations “tilt” in favor of the
+4
+
+This consideration corresponds to factors 7, 8, 9, and 10 on page 8 of Microsoft’s brief.
+
+7
+
+Case: 3:10-cv-00699-bbc Document #: 31 Filed: 01/11/11 Page 12 of 21
+
+target transfer district, public and private interests in, for example, a speedy trial justify denying
+the transfer. See Sunbeam Prods., 587 F. Supp. 2d at 1056 (“In terms of balancing the interest of
+justice with the convenience of the parties, the scale tips in favor of denying transfer because the
+importance of a speedy resolution to protect plaintiff’s patent rights outweighs the convenience
+to defendant of litigating in its home district.”). This factor is of particular import in patent
+cases, “because delay might frustrate a patent holder’s right and the value of its patent.”
+E2Interactive, 2010 WL 3937911, at *4.
+Here, Motorola has selected the Western District of Wisconsin both because of its speed
+and familiarity with (and frequent adjudication of) patent law issues. Whereas patent cases are
+frequently tried in an average of eleven to fifteen months in this District (see Decl. Exh. B), the
+few patent cases that have been tried in the Western District of Washington have reached trial
+after, on average, more than thirty months (see Decl. Exh. C).5 Indeed, there can be no debate
+that this District is speedier and more experienced in the resolution of patent matters than the
+proposed transferee district. Speed is particularly of the essence here, because, among other
+things, one of the accused products has only recently been introduced (Windows 7), and another
+is in the process of being introduced (Internet Explorer 9), into this District. See Illumina,
+2009 WL 3062786, at *5. Moreover, there are no facts here that would militate against this
+factor, such as an earlier-filed lawsuit, involving claims of invalidity or non-infringement of the
+same patents, pending in the district to which the moving party seeks to transfer this case.
+Accordingly, the interest of justice strongly militates against transfer. See Sunbeam
+Prods., 587 F. Supp. 2d at 1058 (“[T]he fact remains that this is a relatively speedy federal court,
+
+5
+
+The time-to-trial statistics cited by Microsoft in footnote 9 of its brief are not limited to patent
+cases, but instead are for all civil cases.
+
+8
+
+Case: 3:10-cv-00699-bbc Document #: 31 Filed: 01/11/11 Page 13 of 21
+
+particularly with regard to patent lawsuits. The relative speed with which an action may be
+resolved is an important consideration when selecting a venue.”).
+Microsoft argues nonetheless that the interest of justice favors adjudication in the
+Western District of Washington, because its Washington breach of contract action is pending
+there, presenting the possibility of overlap or consolidation (assuming the claims are viewed as
+related). This argument fails. Given the pendency of Motorola’s motion to dismiss all claims in
+the Washington action, Microsoft’s argument is too tenuous to merit consideration.
+Moreover, even if the Washington action is not dismissed, the claims at issue there and
+the claims pending in this lawsuit do not present anywhere near the degree of overlap that was
+considered by this Court in Nokia Corp. v. Apple, Inc. Unlike the situation here, in Nokia, the
+defendant asked this Court to transfer the plaintiff’s claims to another venue in which the
+plaintiff had brought other claims against the same defendant, involving common questions of
+law and fact. See Decl. Exh. D at 2-3 (Order, Nokia Corp. v. Apple, Inc., No. 10-cv-249 (W.D.
+Wis. Jan. 5, 2011)). The present lawsuit and Microsoft’s Washington action do not have such a
+relationship.
+First, unlike in Nokia, Motorola filed no “related” claim in Washington. Instead, the
+Washington action was filed by Microsoft and is grounded in breach of contract and other
+contractual claims, seeking a determination of a “FRAND” (fair, reasonable and
+nondiscriminatory) royalty rate for use of standards essential patents.
+
+It does not seek a
+
+determination of patent validity and infringement by specific Microsoft products, as here. This
+action seeks a determination that three specific patents have been infringed by particular
+Microsoft products, along with a routine (i.e., not FRAND) damages calculation. Microsoft
+
+9
+
+Case: 3:10-cv-00699-bbc Document #: 31 Filed: 01/11/11 Page 14 of 21
+
+could have sought in the Washington action a declaration of non-infringement or invalidity of the
+three specific patents at issue here. It did not and, therefore, Nokia is inapposite.
+Microsoft further argues that the interest of justice favors adjudication in the Western
+District of Washington, because, among other things, “Microsoft is a large and prominent
+employer in the Puget Sound (Seattle area) region.” [D.I. 20 at 13.] Microsoft thus appears to
+argue that this lawsuit should be tried in a forum it believes to be biased in its favor. This
+unvarnished appeal to local bias does not reflect the interest of justice. Microsoft goes on to
+assert that “Washington has substantial interest in policing conduct directed at its residents.” But
+the present lawsuit relates to the conduct of Microsoft, not conduct directed at Microsoft.
+*
+
+*
+
+*
+
+Here, Microsoft “has not clearly shown that the inconveniences it will experience by
+trying this case in Madison outweigh [Motorola’s] legitimate interest in resolving this patent
+dispute more quickly in this court.” E2Interactive, 2010 WL 3937911, at *5. Put another way,
+Washington is not “clearly more convenient” than this District.
+
+Motorola’s choice of the
+
+Western District of Wisconsin should control.
+B.
+
+Motorola’s Claims Are Not Properly Viewed As Compulsory Counterclaims
+
+In an effort to sidestep a principled transfer analysis, Microsoft urges this Court to view
+Motorola’s patent infringement claims as compulsory counterclaims in Microsoft’s breach of
+contract action against Motorola, Inc. and Motorola Mobility, Inc. in the Western District of
+Washington. This argument is both unpersuasive and logically flawed.
+A counterclaim is compulsory when it “arises out of the same transaction or occurrence
+that is the subject matter of the opposing party’s claim.” Fed. R. Civ. P. 13(a). The Federal
+Circuit utilizes three tests to determine whether the “transaction or occurrence” test is met:
+
+10
+
+Case: 3:10-cv-00699-bbc Document #: 31 Filed: 01/11/11 Page 15 of 21
+
+“(1) whether the legal and factual issues raised by the claim and counterclaim are largely the
+same; (2) whether substantially the same evidence supports or refutes both the claim and the
+counterclaim; and (3) whether there is a logical relationship between the claim and the
+counterclaim.” Nasalok Coating Corp. v. Nylok Corp., 522 F.3d 1320, 1325 (Fed. Cir. 2008).
+Here, the claims presented in the instant lawsuit and those presented in the Washington action do
+not raise “largely” the same legal or factual issues; do not rely upon “substantially” the same
+evidence; and bear only a tangential relationship to one another. The instant claims are not
+compulsory counterclaims.
+First, General Instrument Corporation is the assignee-of-record of, and owns the entire
+right, title and interest to, each of the patents in suit here. Microsoft’s Washington action,
+however, is not directed at, nor does it name as a defendant, Plaintiff General Instrument
+Corporation.
+
+Accordingly, Microsoft is hard-pressed to argue that General Instrument
+
+Corporation should be obligated to assert its patent rights as compulsory counterclaims in a
+separate lawsuit to which it is neither a party, nor even an essential third party.6
+Second, Motorola’s patent infringement claims in this action bear little relation to the
+contract claims asserted by Microsoft in the Washington action. The mere fact that the patents
+asserted in this case are among the many patents that Motorola identified in its H.264 licensing
+letter does not make the claims of this patent infringement action “logically related” to those of
+the Seattle breach of contract action. Nor does it make the Washington and Wisconsin actions
+“inextricably intertwined.”
+
+6
+
+Microsoft should not be heard to argue that its omission of General Instrument Corporation from
+the Washington action may be cured by the filing of an amended complaint. Even if Microsoft were to so
+amend, General Instrument’s claims here would be senior to any claims Microsoft could bring against it
+in Washington.
+
+11
+
+Case: 3:10-cv-00699-bbc Document #: 31 Filed: 01/11/11 Page 16 of 21
+
+Looking to the substance of the two lawsuits’ claims, Microsoft’s argument that the
+claims are “logically related” proves to be insubstantial. The Washington action includes four
+contractual and non-patent “claims”: (1) breach of contract; (2) promissory estoppel; (3) waiver;
+and (4) a request for a declaratory judgment that the royalty rates initially offered by Motorola
+Mobility, Inc. are not fair, reasonable and non-discriminatory.
+
+None of the “claims” in
+
+Washington arises under the patent laws.7 Nor do the claims in the Washington action depend
+on validity or infringement of the three specific patents asserted in this action. Indeed, Microsoft
+has admitted as much in its Washington Complaint:
+Motorola’s breach of its commitments does not depend on whether any Motorola
+patents which Motorola has identified in relation to standards are, in fact,
+“essential” to practicing those standards, whether those standards can be practiced
+in ways that do not infringe the identified Motorola patents or whether Microsoft
+has infringed any valid Motorola patents.
+Decl. Exh. E ¶ 8. Thus, Microsoft agreed -- indeed, proclaimed -- that none of the contractual
+“claims” in Washington is “largely the same” as the central issues in Wisconsin -- Microsoft’s
+manufacture, use, sale, or offer for sale of its Windows 7 operating system and Internet
+Explorer 9 browser software products, how the products work, and whether the products infringe
+valid claims of the patents asserted here.
+Microsoft could have raised these issues in Washington by including a declaratory
+judgment claim of non-infringement and/or patent invalidity, as declaratory judgment plaintiffs
+customarily do in patent cases. But it chose not to do so, because that plainly is not what the
+Washington complaint is about.
+
+And absent such a patent invalidity or non-infringement
+
+declaratory judgment claim in Washington, Motorola’s claims in this case are not logically
+
+7
+
+Notably, in its Complaint in the Washington action, Microsoft does not plead federal question
+jurisdiction under 28 U.S.C. § 1338(a). See Decl. Exh. E ¶ 19 (Complaint, Microsoft Corporation v.
+Motorola, Inc. and Motorola Mobility, Inc., No. 10-cv-1823 (W.D. Wash. Nov. 9, 2010)).
+
+12
+
+Case: 3:10-cv-00699-bbc Document #: 31 Filed: 01/11/11 Page 17 of 21
+
+related or inextricably intertwined with Microsoft’s claims in Washington and cannot be
+compulsory counterclaims.
+Contrary to Microsoft’s assertions, the claims it did actually bring in Washington are not
+“largely the same” as the claims here. None of Microsoft’s claims would require the Washington
+court to determine the quantum of damages available in an action for patent infringement.8
+Indeed, Microsoft’s third “claim,” waiver, although it may be available in some cases as an
+affirmative defense, is not even a legal claim.9 Nor has Microsoft cast its “waiver” claim as a
+request for a declaratory judgment that the defense is available.
+At most, Microsoft can argue that its Washington action implicates the quantum of
+royalties that Motorola, Inc. and Motorola Mobility, Inc. may seek in licenses to their standards
+essential patents. But even so, Microsoft’s claims are directed to FRAND licensing terms for all
+patents in Motorola’s H.264 portfolio -- not the patent infringement damages that may be owed
+by Microsoft for its past infringement of three specific patents, or to the availability of injunctive
+relief in this lawsuit for patent infringement. And the fact that that there may be overlap in some
+evidence and overlap in some issues does not make a claim a compulsory counterclaim. At
+most, it makes a claim a permissive counterclaim.
+Microsoft directs this Court’s attention to several decisions in other districts in which
+breach-of-contract and patent infringement claims were found to be related. Unlike the claims in
+
+8
+
+Although some courts have suggested in dicta that the Georgia-Pacific analysis often used for
+determining reasonable royalty patent damages might be useful in determinations of FRAND licensing
+terms, see, e.g., ESS Tech., Inc. v. PC-Tel, Inc., No. C-99-20292RMW, 2001 WL 1891713, at *3-6 (N.D.
+Cal. Nov. 28, 2001), Motorola is not aware of any court that has yet attempted such an analysis. And
+even if the Washington court elected to conduct such an analysis, its inquiry would necessarily relate to
+Motorola’s entire standards-essential patent portfolios.
+9
+
+See Guesthouse Int’l, LLC v. Shoney’s N. Am. Corp., No. M2008-02567-COA-R3-CV,
+2010 WL 987119, at *31 (Tenn. Ct. App. June 24, 2009); 28 Am. Jur. 2d Estoppel and Waiver § 197
+(July 2010) (“Waiver is not a cause of action because it cannot create liability in and of itself, and waiver
+cannot be asserted in a complaint as an offensive weapon.”).
+
+13
+
+Case: 3:10-cv-00699-bbc Document #: 31 Filed: 01/11/11 Page 18 of 21
+
+the Washington action, however, in each of those cases the contract claims directly impacted
+whether infringement could be found. See Fit Express, Inc. v. Circuit-Total Fitness, No. 07-cv62, 2008 WL 4450290 (N.D. Miss. Sept. 29, 2008); Artvale, Inc. v. Rugby Fabrics Corp.,
+232 F. Supp. 814
+
+(S.D.N.Y.
+
+1964);
+
+Phillips
+
+Petroleum
+
+Co.
+
+v.
+
+U.S.
+
+Steel
+
+Corp.,
+
+566 F. Supp. 1093 (D. Del. 1983). For example, the contract claims at issue in Fit Express
+related to the ownership of the asserted patent rights, such that their resolution was necessary to
+establish ownership of any claim of infringement. The contract claims in Artvale were held to be
+compulsory because the issue of infringement depended on the defendant’s rights under a
+contract. And the contract claims in Phillips were held to be compulsory because they related to
+the defendant’s specific licensing rights under a prior settlement agreement. The contract claims
+at issue in the Washington action, however, relate to an alleged breach of Motorola’s obligations
+to a standard setting organization and seek determination of a FRAND rate, regardless of
+whether Microsoft has infringed any of the patents in suit here. And where, as here, patent
+infringement claims are not inextricably intertwined with contract-styled claims, the claims
+should not be viewed as part of the same transaction or occurrence. See, e.g., In re Recombinant
+DNA Tech. Pat. & Contract Litig., 874 F. Supp. 904, 922 (S.D. Ind. 1994) (holding a claim
+based on a settlement agreement not to be a compulsory counterclaim to a patent infringement
+claim).
+Third, to view Motorola’s patent infringement claims as compulsory counterclaims in the
+Washington action would require Motorola to raise or waive all possible patent infringement
+claims based on all patents that are or may be essential to the two sets of industry standards at
+issue, or face preclusion. Hundreds of patents could be implicated. This Court should not force
+
+14
+
+Case: 3:10-cv-00699-bbc Document #: 31 Filed: 01/11/11 Page 19 of 21
+
+so absurd a result. See Martino v. McDonald’s Sys., Inc., 598 F.2d 1079, 1082 (7th Cir. 1979)
+(explaining that Rule 13(a) is designed to promote judicial economy).
+Finally, Motorola has filed a motion to dismiss all claims of the Washington action under
+Rule 12(b)(6), Fed. R. Civ. P. Motorola respectfully submits that, at a minimum, this Court
+should not rule on the present motion that Motorola’s claims here are compulsory counterclaims
+until after the Court in Washington rules on Motorola’s motion to dismiss Microsoft’s claims
+there.
+C.
+
+Dismissal, Stay and Transfer Are Unnecessary and Inappropriate Remedies
+
+Even if this Court were to view Motorola’s claims as related to Microsoft’s claims in the
+Washington action, they should nonetheless proceed in this Court. It is neither necessary nor
+appropriate to dismiss, stay or transfer Motorola’s claims.
+Based on the Supreme Court’s instruction that “the plaintiff’s choice of forum should
+rarely be disturbed,” the first-to-file rule ordinarily provides that the first suit filed in a series of
+related suits will typically be given priority over the later-filed suits. Research Automation, Inc.
+v. Schrader-Bridgeport Int’l, Inc., 626 F.3d 973, 979 (7th Cir. 2010) (citing Gulf Oil Corp. v.
+Gilbert, 330 U.S. 501, 508 (1947)). The Seventh Circuit, however, has “never laid down an
+inflexible rule that the prior filing controls.” Research Automation, 626 F.3d at 980 (internal
+quotation marks omitted).
+
+On the contrary, the Seventh Circuit has stated explicitly that
+
+“[w]here a case is filed first should weigh no more heavily in the district court’s analysis than the
+plaintiff’s choice of forum in a section 1404(a) transfer analysis.” Id. at 982; see also Tempco
+Electric Heater Corp. v. Omega Eng’g, Inc., 819 F.2d 746, 749-50 (7th Cir. 1987) (finding that
+the “mere fact” that a plaintiff filed its action first “does not give it a ‘right’ to choose a forum”).
+In particular, under Seventh Circuit law, considerations including whether the second-filed
+
+15
+
+Case: 3:10-cv-00699-bbc Document #: 31 Filed: 01/11/11 Page 20 of 21
+
+action seeks coercive relief and whether the first-filed action was filed in anticipation of an
+impending suit by the opposing party weigh against application of the first-filed rule. See
+Research Automation, 626 F.3d at 980.
+Even if this Court were to find that Motorola’s and Microsoft’s claims are related and
+that Motorola’s claims are compulsory counterclaims, Motorola’s patent infringement action
+should be given priority as a coercive action under Seventh Circuit precedent, over Microsoft’s
+action seeking, among other things, multiple different forms of declaratory relief relating to its
+breach of contract claim. Furthermore, Microsoft’s action, filed in response to a communication
+from Motorola offering to license a portfolio of standards-essential patents that includes the three
+patents now asserted here in Wisconsin, should be viewed as at most an “anticipatory” action
+under Seventh Circuit law. These factors, in addition to the transfer factors discussed above,
+weigh heavily against application of the first-filed rule here. See also Uniroyal Engineered
+Prods., LLC v. Omnova Solutions Inc., No. 08-cv-586, 2009 WL 736700, at *1 (W.D. Wis. Mar.
+18, 2009) (stating that when two patent actions “are filed within days of each other, it is more
+appropriate to consider the convenience factors of 28 U.S.C. § 1404(a) rather than applying the
+rigid rule that the first-filed action trumps the later-filed action”).
+IV.
+
+CONCLUSION
+For the foregoing reasons, Motorola respectfully requests that the Court deny Microsoft’s
+
+motion. This lawsuit’s affirmative claims for patent infringement should be permitted to proceed
+to a speedy resolution.
+
+16
+
+Case: 3:10-cv-00699-bbc Document #: 31 Filed: 01/11/11 Page 21 of 21
+
+Dated this 11th day of January, 2011
+
+/s/ Rebecca Frihart Kennedy
+Scott W. Hansen
+WI State Bar ID No. 1017206
+shansen@reinhartlaw.com
+Lynn M. Stathas
+WI State Bar ID No. 1003695
+lstathas@reinhartlaw.com
+Rebecca Frihart Kennedy
+WI State Bar ID No. 1047201
+rkennedy@reinhartlaw.com
+Reinhart Boerner Van Deuren s.c.
+1000 North Water Street, Suite 1700
+Milwaukee, WI 53202
+Telephone: 414-298-1000
+Facsimile: 414-298-8097
+Attorneys for Plaintiffs Motorola Mobility, Inc.
+and General Instrument Corporation
+
+Of Counsel:
+Jesse J. Jenner
+Steven Pepe
+Ropes & Gray LLP
+1211 Avenue of the Americas
+New York, NY 10036
+Telephone: 212-596-9000
+Norman H. Beamer
+Mark D. Rowland
+Gabrielle E. Higgins
+Ropes & Gray LLP
+1900 University Avenue, 6th Floor
+East Palo Alto, CA 94303
+Telephone: 650-617-4000
+
+17
+
+

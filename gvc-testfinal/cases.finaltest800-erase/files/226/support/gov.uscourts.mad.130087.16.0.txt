@@ -1,0 +1,438 @@
+Case 4:10-cv-40124-FDS Document 16
+
+Filed 09/01/10 Page 1 of 14
+
+UNITED STATES DISTRICT COURT
+DISTRICT OF MASSACHUSETTS
+
+SIEMENS HEALTHCARE
+DIAGNOSTICS, INC.,
+Plaintiff,
+v.
+ENZO LIFE SCIENCES, INC.,
+Defendant.
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+Case No.: 4:10-cv-40124-TSH
+
+MEMORANDUM IN SUPPORT OF DEFENDANT’S MOTION TO DISMISS
+
+Case 4:10-cv-40124-FDS Document 16
+
+Filed 09/01/10 Page 2 of 14
+
+TABLE OF CONTENTS
+Page
+INTRODUCTION .......................................................................................................................... 1
+BACKGROUND ............................................................................................................................ 2
+ARGUMENT .................................................................................................................................. 4
+I.
+
+II.
+
+There Is No Case Or Controversy Because The Siemens ’246 Patent Has Expired
+................................................................................................................................. 4
+A.
+
+The Court does not have subject-matter jurisdiction over a Section 146
+action involving an expired patent .............................................................. 5
+
+B.
+
+Siemens has not suffered any injury in fact ................................................ 7
+
+C.
+
+The Court cannot provide any meaningful relief to Siemens ..................... 7
+
+Certain Of Siemens’s Claims Should Be Dismissed For Failure To State A Claim
+Upon Which Relief Can Be Granted ...................................................................... 8
+
+CONCLUSION ............................................................................................................................. 11
+
+-i-
+
+Case 4:10-cv-40124-FDS Document 16
+
+Filed 09/01/10 Page 3 of 14
+
+Defendant Enzo Life Sciences, Inc. (“Enzo”) respectfully submits this brief in support of
+its motion to dismiss the Complaint (D.I. 1) under Fed. R. Civ. P. 12(b)(1) and 12(b)(6) for lack
+of subject-matter jurisdiction and failure to state a claim upon which relief can be granted.
+
+INTRODUCTION
+This case is a civil action under 35 U.S.C. § 146 to review a decision rendered by the
+Patent and Trademark Office (“PTO”) Board of Patent Appeals and Interferences (“BPAI”) in
+Interference 105,489 (“the ’489 interference”). The ’489 interference was declared between
+Enzo’s U.S. Patent Application 08/479,995 (“the Enzo ’995 application”) and Siemens’s U.S.
+Patent 5,124,246 (“the Siemens ’246 patent”), originally assigned to Bayer Healthcare and later
+acquired by plaintiff Siemens Healthcare Diagnostics, Inc. (“Siemens”).
+The Complaint should be dismissed for two independent reasons. First, because the
+Siemens ’246 patent has expired, there is no meaningful relief that can be granted to Siemens
+within the limits of this quasi-appellate proceeding under Section 146. Accordingly, there is no
+cognizable case or controversy.
+Second, Siemens’s claims attacking the patentability of Enzo’s claims or the
+enforceability of any patent that might in the future issue to Enzo should be dismissed for failure
+to state a claim upon which relief can be granted because there is no decision of the BPAI on
+those matters to review in this case. Specifically, because the BPAI entered judgment in Enzo’s
+favor after Siemens did not contest Enzo’s priority of invention over Siemens, the BPAI did not
+(and had no reason to) separately adjudicate Siemens’s attack on the patentability of Enzo’s
+claims on nonpriority grounds. Under the BPAI’s rules, that tribunal is vested with discretion to
+dispose of interferences in the most expeditious manner. When the BPAI is able to enter
+judgment against one party on a dispositive issue that is amenable to a relatively straightforward
+
+-1-
+
+Case 4:10-cv-40124-FDS Document 16
+
+Filed 09/01/10 Page 4 of 14
+
+proceeding, the BPAI properly declines to reach other issues that are rendered moot. This is
+because the purpose of an interference is to determine priority of invention, not to decide all
+issues that may be identified by the parties. Siemens’s Complaint does not state a claim with
+respect to issues that the BPAI did not reach because there is no decision of the BPAI on such
+grounds to review. Siemens’s inability to obtain what is essentially an advisory opinion
+concerning a patent that might issue to Enzo does not, however, deprive it of the ability to obtain
+an adjudication of these issues (the patentability of Enzo’s claims) at some point in the future if
+they become ripe. Specifically, if Enzo’s application issues as a patent and if Enzo asserts that
+patent against Siemens, then Siemens will be able to raise invalidity as an affirmative defense in
+that future case. It simply cannot obtain an advance decision on them in this Section 146 case, in
+which the Court is called upon only to review the issues that the BPAI actually adjudicated.
+
+BACKGROUND
+In the United States, only one patent is permitted for a given patentable invention. The
+patent that is allowed to issue goes to the earliest inventor of the claimed invention. Thus, the
+United States is referred to as a “first-to-invent” jurisdiction, unlike some other countries that
+operate on a “first-to-file” basis.
+When the PTO finds that two different patent applications (or an application and an
+issued patent) claim the same invention, an interference may be declared to determine the earliest
+inventor. 35 U.S.C. § 135. The BPAI, an adjudicatory body in the PTO, identifies a “count” that
+corresponds to the commonly claimed subject matter, 37 C.F.R. § 41.203, and then determines
+which applicant is the first inventor of that subject matter. The first inventor is said to have
+“priority” of invention.
+
+-2-
+
+Case 4:10-cv-40124-FDS Document 16
+
+Filed 09/01/10 Page 5 of 14
+
+The BPAI may hear issues other than priority when necessary to resolve an interference
+in the most efficient manner. If one party’s claim is unpatentable for some reason other than
+priority, for example, if it lacks appropriate written description under 35 U.S.C. § 112, the BPAI
+may enter judgment against a party on those grounds and terminate the interference. The BPAI’s
+discretionary authority to decide such other issues is codified in 35 U.S.C. § 135(a) (the BPAI
+“shall determine questions of priority of the invention and may determine questions of
+patentability”) (emphasis added).
+In the interference here, Siemens did not seek judgment on priority. (Exhibit A at 2.)
+Because the Enzo ’995 application had a priority date in 1983 and the Siemens ’246 patent had a
+priority date in 1987, Siemens’s failure to contest priority meant that Enzo would win the
+interference unless Siemens prevailed on other grounds. Siemens filed three motions on such
+issues.
+First, Siemens argued that Enzo’s claims were presented too late under 35 U.S.C. §
+135(b)(1), which provides that a claim may not be made in an application for the same (or
+substantially the same) subject matter as a claim of an issued patent more than one year after
+such patent issued. Siemens lost this motion, with the BPAI finding that Enzo had presented an
+appropriate claim in a timely manner. (Exhibit B at 2–10.)
+Second, Siemens argued that if Enzo’s claims were barred under Section 135(b)(1), then
+no interference in fact would exist. This motion was contingent on Siemens winning its first
+motion. Because the BPAI denied the first motion, this motion was also denied. (Exhibit B at
+10.)
+Third, Siemens argued that the involved claims of the Enzo ’995 application were
+unenforceable due to prosecution laches because, according to Siemens, Enzo unduly delayed
+
+-3-
+
+Case 4:10-cv-40124-FDS Document 16
+
+Filed 09/01/10 Page 6 of 14
+
+prosecuting the application before the PTO. The BPAI declined to exercise its discretion to
+decide this motion because it found that the evidence of prejudice was ambiguous and the PTO
+never issued the required warning to Enzo that its prosecution strategy may result in forfeiture.
+(Id. at p. 31.)
+The BPAI further decided, in its discretion, not to authorize either side to file motions
+attacking patentability. (Exhibit C at 3.)
+Having denied the two Siemens motions deemed relevant to the priority determination,
+the BPAI entered judgment in favor of Enzo as the first to invent the claimed invention. (Exhibit
+A.)
+
+ARGUMENT
+I.
+
+There Is No Case Or Controversy Because The Siemens ’246 Patent Has Expired
+“Article III of the Constitution confines the federal courts to adjudicating actual ‘cases’
+
+and ‘controversies.’” Allen v. Wright, 468 U.S. 737, 750 (1984). Because the Siemens ’246
+patent expired before Siemens filed this case, there is no case or controversy. Accordingly, this
+case does not present a case or controversy required by Article III of the Constitution.
+The case-or-controversy doctrine encompasses the mootness doctrine, which demands
+that a case present a live case or controversy at all times during the pendency of the case:
+Article III of the Constitution requires that there be a live case or
+controversy at the time that a federal court decides the case; it is
+not enough that there may have been a live case or controversy
+when the case was decided by the court whose judgment we are
+reviewing.
+Burke v. Barnes, 479 U.S. 361, 363 (1987); see City News & Novelty, Inc. v. City of Waukesha,
+531 U.S. 278, 283 (2001). When the issues presented in a case are no longer live or the parties
+
+-4-
+
+Case 4:10-cv-40124-FDS Document 16
+
+Filed 09/01/10 Page 7 of 14
+
+lack a legally cognizable interest in the outcome, the case becomes moot. Diffenderfer v.
+Gomez-Colon, 587 F.3d 445, 450 (1st Cir. 2009).
+The case-or-controversy doctrine also requires that a plaintiff have standing to bring a
+suit. Allen, 468 U.S. at 750. In order to have standing, “[a] plaintiff must allege personal injury
+fairly traceable to the defendant’s allegedly unlawful conduct and likely to be redressed by the
+requested relief.” Id. To establish standing, a plaintiff must show, inter alia, that they have
+suffered an injury in fact and that the injury is redressable by a court. Lujan v. Defenders of
+Wildlife, 504 U.S. 555, 560 (1992). Siemens bears the burden of establishing standing. Id. at
+561.
+A court does not have subject-matter jurisdiction over a case absent an actual case or
+controversy. United States v. Rene E., 583 F.3d 8, 19 (1st Cir. 2009). Accordingly, the Court
+lacks subject-matter jurisdiction over the present case for three independent reasons. First, an
+expired patent cannot be the subject of a Section 146 action. Second, Siemens did not suffer any
+injury in fact when the BPAI canceled the Siemens ’246 patent. Third, a court cannot provide
+any meaningful relief to Siemens when the Siemens ’246 patent has already expired.
+A.
+
+The Court does not have subject-matter jurisdiction over a Section 146
+action involving an expired patent
+
+A federal court does not have subject-matter jurisdiction to hear a Section 146 action that
+involves an expired patent. See 3V, Inc. v. CIBA Specialty Chem. Corp., 587 F. Supp. 2d 641,
+646–47 (D. Del. 2008). For example, in 3V, the BPAI initiated an interference proceeding
+between an issued patent owned by 3V and a pending patent application owned by CIBA. Id. at
+642. The BPAI issued a final decision that was partially adverse to both of the parties, including
+a decision that CIBA held priority of invention. Id. In response to the BPAI’s decision, 3V
+initiated a civil action pursuant to Section 146 challenging the BPAI’s decision. Id.
+
+-5-
+
+Case 4:10-cv-40124-FDS Document 16
+
+Filed 09/01/10 Page 8 of 14
+
+During the course of the Section 146 action, 3V filed a statutory disclaimer pursuant to
+35 U.S.C. § 253 disclaiming all of the claims in the issued patent and dedicating the entire right,
+title, and interest in the patent to the public. Id. at 643. Accordingly, the court held that because
+3V’s patent was disclaimed there were no longer interfering patents to support an action under
+Section 146. Id. at 646–47.
+An analogy to actions brought under 35 U.S.C. § 291 further supports the lack of subjectmatter jurisdiction of this case. Section 291 allows for an interference between two issued
+patents to be conducted in a federal court. Importantly, an expired patent cannot be the subject
+of a Section 291 action. Alberta Telcomms. Research Ctr. v. Rambus, Inc., No. C-06-02595
+RMW, 2006 U.S. Dist. LEXIS 81093, at *5–10 (N.D. Cal. Oct. 24, 2006) (holding that a court
+does not have subject-matter jurisdiction over an action under Section 291 when one of the
+patents has expired); see Albert v. Kevex Corp., 729 F.2d 757, 761 (Fed. Cir. 1984) (holding that
+an issued patent disclaimed under Section 253 cannot be the subject of a Section 291 action).
+In Alberta, Alberta filed a Section 291 action alleging that one of Alberta’s patents
+interfered with an already expired Rambus patent. Alberta, 2006 U.S. Dist. LEXIS 81093, at *5.
+In holding that an expired patent did not support subject matter jurisdiction for a Section 291
+action, the court held that “the owner of an expired patent cannot maintain suit since the claims
+of an expired patent are no longer of any force or effect and cannot be interference [sic] with
+those with those of any other patent.” Id. at *8.
+Moreover, Section 135, which authorizes interference proceedings before the BPAI, also
+does not permit an expired patent to be the subject of an interference proceeding:
+Whenever an application is made for a patent which, in the opinion
+of the Director, would interfere with any pending application, or
+with any unexpired patent, an interference may be declared . . . .
+
+-6-
+
+Case 4:10-cv-40124-FDS Document 16
+
+Filed 09/01/10 Page 9 of 14
+
+§ 135 (emphasis added); see Petrie v. Welsh, 21 U.S.P.Q.2d 2012 (B.P.A.I. 1991) (holding that
+the BPAI lacks subject-matter jurisdiction over an interference between an expired patent and a
+pending patent application); see also Waterman v. Birbaum, 53 U.S.P.Q.2d 2024 (B.P.A.I. 2000)
+(holding that the BPAI lacks subject-matter jurisdiction over an interference between an
+abandoned patent and a pending patent application).
+Similarly, in the present case, the Siemens ’246 patent expired before the present Section
+146 case was filed. Therefore, there is no case or controversy, and the Court lacks subject-matter
+jurisdiction.
+B.
+
+Siemens has not suffered any injury in fact
+
+The BPAI’s decision to cancel the claims of the Siemens ’246 patent has not caused
+Siemens an injury in fact because the Siemens ’246 patent had already expired after enjoying its
+full statutory term. Therefore, Siemens does not have standing to bring this case.
+The BPAI’s decision to not cancel the involved claims of the Enzo ’995 application also
+did not result in any injury to Siemens. Enzo’s ’995 application still resides as a pending patent
+application at the PTO undergoing ex parte prosecution. It has not yet, and may not ever, issue
+as a patent. As Enzo has not and cannot at this time enforce its patent claims against Siemens,
+Siemens has suffered no cognizable injury.
+C.
+
+The Court cannot provide any meaningful relief to Siemens
+
+In its prayer for relief, Siemens has requested that the Court reverse the decision of the
+BPAI. (Complaint p. 10.) Specifically, Siemens requests an order that the involved claims of
+the Siemens ’246 patent are not canceled, that the involved claims of the Enzo ’995 application
+are unpatentable, and that the Enzo ’995 application is unenforceable due to prosecution laches.
+(Id.) The Court is not able to provide relief to Siemens on any of these issues.
+
+-7-
+
+Case 4:10-cv-40124-FDS Document 16
+
+Filed 09/01/10 Page 10 of 14
+
+The Court is unable to revive the Siemens ’246 patent because it has already expired by
+its own statutory term. And the Court is unable to hold that the involved claims of the Enzo ’995
+application are unpatentable or that the Enzo ’995 application is unenforceable for prosecution
+laches because a third party, such as Siemens has no standing to challenge the validity of a
+pending patent application in district court. Animal Legal Defense Fund v. Quigg, 932 F.2d 920,
+930 (Fed. Cir. 1991). A challenge to the validity or enforceability of Enzo’s patent claims is an
+affirmative defense available to Siemens if and only if Enzo’s patent issues and Enzo decides to
+assert the patent against Siemens.
+II.
+
+Certain Of Siemens’s Claims Should Be Dismissed For Failure To State A Claim
+Upon Which Relief Can Be Granted
+Siemens’s claim that the involved claims of the Enzo ’995 application are anticipated or
+
+render obvious by the prior art under Sections 102 and 103 (Complaint ¶ 27), and Siemens’s
+claim that that certain of the involved claims of the Enzo ’995 application are multiple dependent
+claims that depend on other multiple dependent claims in violation of Section 112 ¶ 5 (id. at ¶
+28), should be dismissed because they were not addressed by the BPAI in the Section 135
+interference.
+The Federal Circuit has limited the issues that may be considered in a Section 146 action
+to those that were raised in the underlying interference proceeding:
+In order for an issue to have been raised adequately so that it
+qualifies for consideration in a § 146 proceeding, the issue should
+have been raised as specified in the PTO’s interference rules, for
+example, through preliminary motions, motions to correct
+inventorship, miscellaneous motions, belated motions delayed for
+good cause, or opposition to these motions.
+Conservolite, Inc. v. Widmayer, 21 F.3d 1098, 1102 (Fed. Cir. 1994); see In re Watts, 354 F.3d
+1362, 1367–68 (Fed. Cir. 2004) (“We have frequently declined to hear arguments that the
+applicant failed to present to the board.”). Siemens was not authorized to file its unpatentability
+-8-
+
+Case 4:10-cv-40124-FDS Document 16
+
+Filed 09/01/10 Page 11 of 14
+
+motion in the interference. (Exhibit C at 3.) Accordingly, those issues were not addressed by the
+BPAI, and they are inappropriate for review here.
+The Federal Circuit has held that consideration of such issues not raised in the
+interference would be an abuse of discretion by the district court. In Conservolite, the plaintiff
+filed a Section 146 action to contest an adverse decision of the BPAI in an interference. 21 F.3d
+at 1100. At the district court, Conservolite raised the issue of “same patentable invention” in
+order establish that the interfering patents were not directed to the same invention, and therefore,
+no interference in fact existed. Id. at 1101. However, this issue was not addressed by the BPAI.
+Id. The Federal Circuit held that because the issue was not raised during the interference the
+court could not review it during the Section 146 action. Id. at 1102.
+The Federal Circuit reasoned that “the parties to an interference must make a complete
+presentation of the issues at the Board level so that the interference is efficient and not wasteful
+of administrative and judicial resources.” Id. at 1102.
+Similarly, in the present case, Siemens’s claims concerning invalidity and improper
+dependency were not addressed by the BPAI because the BPAI decided in its discretion not to
+reach them, holding that they were not necessary to resolve the interference and would distract
+the true issue of priority:
+Each party wishes to file a motion attacking the patentability of the
+other’s claims over prior art. Given the unusual number of claims,
+this exercise appears to be a significant distraction from the
+priority determination. Consequently, after further consideration,
+neither motion on patentability is authorized. . . . .
+Bayer [now Siemens] notes a multiple dependency problem in
+some of Enzo’s claims. Resolving the problem is not necessary to
+determine priority. Consequently, no motion is authorized.
+(Exhibit C at 3.) It observed that these issues were better addressed through other PTO
+mechanisms, such as by reexamination or in prosecution of the Enzo ’995 application:
+-9-
+
+Case 4:10-cv-40124-FDS Document 16
+
+Filed 09/01/10 Page 12 of 14
+
+This decision is without prejudice to either party seeking
+appropriate remedies through reexamination (in the case of Bayer’s
+patent or any resulting Enzo patent), reissue (Bayer for its own
+patent), or further prosecution or protest (in the case of Enzo’s
+application).
+. . . . If Enzo’s claims survive this interference, Enzo should
+resolve the [multiple dependency] problem before the examiner.
+(Id.)
+These issues are not ripe for a Section 146 review because they were not addressed by the
+BPAI. This Court will not have any existing record to review and will be required to made de
+novo findings of fact. The purpose of a Section 146 case is not to make such de novo findings,
+rather it is to review the decisions of the BPAI. See Conservolite, 21 F.3d at 1101–02 (“While
+Section 146 provides that the administrative record developed at the PTO may be admitted
+‘without prejudice to the right of the parties to take further testimony,’ the right to offer new
+evidence is not unlimited.”). Moreover, as noted by the BPAI, anticipation, obviousness, and
+multiple dependent claim violations are better addressed before a patent examiner. This is all the
+more important because the Enzo’995 application has not issued, and therefore, issues of
+patentability should be resolved in the PTO where they can be corrected, if necessary, before
+issuance.
+
+- 10 -
+
+Case 4:10-cv-40124-FDS Document 16
+
+Filed 09/01/10 Page 13 of 14
+
+CONCLUSION
+For the foregoing reasons, Enzo respectfully requests that the Court grant its motion and
+dismiss the Complaint under Fed. R. Civ. P. 12(b)(1) and 12(b)(6) for lack of subject-matter
+jurisdiction and failure to state a claim upon which relief can be granted.
+
+Respectfully submitted,
+ENZO LIFE SCIENCES, INC.
+By its attorneys,
+
+/s/ Douglas R. Tillberg
+
+Dated: September 1, 2010
+
+___________
+
+Thomas F. Maffei (BBO 313220)
+Douglas R. Tillberg (BBO 661573)
+GRIESINGER, TIGHE & MAFFEI, LLP
+176 Federal Street
+Boston, Massachusetts 02110-2214
+Tel: (617) 542-9900
+Fax: (617) 542-0900
+Of Counsel:
+Richard L. DeLucia
+Elizabeth A. Gardner (admitted pro hac vice)
+Charles A. Weiss
+KENYON & KENYON LLP
+One Broadway
+New York, New York 10004-1007
+Tel: (212) 425-7200
+Fax: (212) 425-5288
+
+Certificate Of Service
+I hereby certify that this document filed through the ECF system, will be sent electronically to the
+registered participants as identified on the Notice of Electronic Filing (NEF) and paper copies will be sent
+to those indicated as non registered participants on September 1, 2010.
+/s/ Douglas R. Tillberg
+
+- 11 -
+
+Case 4:10-cv-40124-FDS Document 16
+
+- 12 -
+
+Filed 09/01/10 Page 14 of 14
+
+

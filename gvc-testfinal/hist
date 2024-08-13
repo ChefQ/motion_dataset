@@ -1,0 +1,500 @@
+  101  git commit -m " "
+  102  git push
+  103  ls -laS .
+  104  cd
+  105  git clone https://github.com/ChefQ/predict_motion.git
+  106  cd predict_motion/
+  107  git status
+  108  git add *
+  109  git commit -m "adding ignore file"
+  110  git push
+  111  cp -r ../motion_prediction-copy/dataset/ .
+  112  ls
+  113  cp -r ../motion_prediction-copy/per_motion_prediction/ .
+  114  cp -r ../motion_prediction-copy/pipes .
+  115  cp -r ../motion_prediction-copy/predictions .
+  116  cp -r ../motion_prediction-copy/summaries .
+  117  cp -r ../motion_prediction-copy/experiments.ipynb .
+  118  cp -r ../motion_prediction-copy/get* .
+  119  cp -r ../motion_prediction-copy/folder2scv.py .
+  120  cp -r ../motion_prediction-copy/Hypo-testing.py .
+  121  cp -r ../motion_prediction-copy/p-script.py .
+  122  cp -r ../motion_prediction-copy/script.eval .
+  123  cp -r ../motion_prediction-copy/summerization.ipynb .
+  124  cp -r ../motion_prediction-copy/testset.zip .
+  125  ls
+  126  mkdir models
+  127  git add *
+  128  git commit -m "transferred relevant files from motion_prediction"
+  129  git push
+  130  ./smi
+  131  /usr/bin/python3 /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  132  /usr/bin/python3 /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  133  /usr/bin/python3 /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  134  /usr/bin/python3 /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  135  /usr/bin/python3 /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  136  cd predict_motion/
+  137  mkdir test_data ; python3 getTest.py -input ./summaries/summarized_paired_testset.csv -output ./test_data
+  138  mkdir test_data ; python3 getTest.py -input ./summaries/summarized_paired_testset.csv -output ./test_data/summaries_paired_test
+  139  mkdir test_data ; python3 getTest.py -input ./summaries/summarized_paired_testset.csv -output ./test_data/summaries_paired_test
+  140  python3 getTest.py -input ./summaries/summarized_paired_testset.csv -output ./test_data/summaries_paired_test
+  141  python3 getTest.py -input ./summaries/summarized_testset.csv -output ./test_data/summaries_test
+  142  python3 p-script.py --data testfiles/paired_test.csv --combine --feature sentence_embeddings
+  143  python3 p-script.py --data test_data/summaries_paired_test.csv --combine --feature sentence_embeddings
+  144  python3 p-script.py --data test_data/summaries_paired_test.csv --combine --feature sentence_embeddings
+  145  python3 p-script.py --data test_data/summaries_paired_test.csv --combine --feature sentence_embeddings
+  146  python3 p-script.py --data test_data/summaries_paired_test.csv --combine --feature tfidf
+  147  python3 p-script.py --data test_data/summaries_test.csv --model_name LLM
+  148  python3 p-script.py --data test_data/summaries_test.csv --model_name SGD --feature tfidf
+  149  python3 p-script.py --data test_data/summaries_test.csv --model_name SGD --feature sentence_embeddings
+  150  python3 p-script.py --data test_data/summaries_test.csv --model_name LinearSVC --feature sentence_embeddings
+  151  python3 p-script.py --data test_data/summaries_test.csv --model_name LinearSVC --feature tfidf
+  152  python3 p-script.py --data test_data/summaries_test.csv --model_name  --feature tfidf
+  153  python3 p-script.py --data test_data/summaries_test.csv --model_name Logistic --feature sentence_embeddings
+  154  python3 p-script.py --data test_data/summaries_test.csv --model_name KNN --feature sentence_embeddings
+  155  python3 p-script.py --data test_data/summaries_test.csv --model_name KNN --feature tfidf
+  156  python3 p-script.py --data test_data/summaries_test.csv --model_name RFT --feature tfidf
+  157  python3 p-script.py --data test_data/summaries_test.csv --model_name RFT --feature sentence_embeddings
+  158  cd dataset/
+  159  Python3 ../folder2scv.py --folder_path ../testset/ --csv_type "both"
+  160  python3 ../folder2scv.py --folder_path ../testset/ --csv_type "both"
+  161  ls
+  162  pwd
+  163  ls
+  164  python3 ../folder2scv.py --folder_path ../testset/ --csv_type "both"
+  165  /usr/bin/python3 /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  166  cd predict_motion/
+  167  python3 ../folder2scv.py --folder_path ../testset/ --csv_type "both"
+  168  cd dataset/
+  169  ls
+  170  python3 ../folder2scv.py --folder_path ../testset/ --csv_type "both"
+  171  cd ..
+  172  p-script.py --data testfiles/testset_test.csv --model_name LLM
+  173  python3 p-script.py --data testfiles/testset_test.csv --model_name LLM
+  174  python3 p-script.py --data testfiles/testset.csv --model_name LLM
+  175  python3 p-script.py --data testfiles/testset.csv --model_name LLM
+  176  python3 p-script.py --data testfiles/testset.csv --model_name LLM
+  177  python3 p-script.py --data testfiles/testset.csv --model_name LLM
+  178  python3 p-script.py --data testfiles/testset.csv --model_name LLM
+  179  python3 p-script.py --data testfiles/paired_testset.csv --combine --feature sentence_embeddings
+  180  python3 p-script.py --data testfiles/paired_testset.csv --combine --feature tfidf
+  181  python3 p-script.py --data testfiles/testset.csv --model_name SGD --feature tfidf
+  182  python3 p-script.py --data testfiles/testset.csv --model_name RFT --feature tfidf
+  183  python3 p-script.py --data testfiles/testset.csv --model_name Logistic --feature tfidf
+  184  python3 p-script.py --data testfiles/testset.csv --model_name LinearSVC --feature tfidf
+  185  python3 p-script.py --data testfiles/testset.csv --model_name KNN --feature tfidf
+  186  python3 p-script.py --data testfiles/testset.csv --model_name KNN --feature sentence_embeddings
+  187  python3 p-script.py --data testfiles/testset.csv --model_name LinearSVC --feature sentence_embeddings
+  188  python3 p-script.py --data testfiles/testset.csv --model_name Logistic --feature sentence_embeddings
+  189  python3 p-script.py --data testfiles/testset.csv --model_name RFT --feature sentence_embeddings
+  190  python3 p-script.py --data testfiles/testset.csv --model_name SGD --feature sentence_embeddings
+  191  cd predictions/
+  192  ../script.eval * > ../dressrehearsal
+  193  /usr/bin/python3 /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  194  /usr/bin/python3 /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  195  /usr/bin/python3 /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  196  .smi
+  197  ./smi
+  198  /usr/bin/python3 /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  199  /usr/bin/python3 /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  200  /usr/bin/python3 /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  201  .smi
+  202  ./smi
+  203  cd predict_motion/
+  204  unzip new_dataset.zip .
+  205  pwd
+  206  cd dataset/
+  207  ls
+  208  python3 ../folder2scv.py --folder_path ../new_destset/ --csv_type "both"
+  209  ls
+  210  python3 ../folder2scv.py --folder_path ../new_detaset/ --csv_type "both"
+  211  python3 ../folder2scv.py --folder_path ../new_detaset/ --csv_type "both"
+  212  python3 ../folder2scv.py --folder_path ../new_dataset/ --csv_type "both"
+  213  python3 ../folder2scv.py --folder_path ../new_dataset/ --csv_type "both"
+  214  ls | grep new
+  215  ls | grep new
+  216  pwd
+  217  cd predict_motion/
+  218  git add *
+  219  git commit -m "periodic commit"
+  220  git push
+  221  cd predict_motion/models/
+  222  rm *
+  223  ls
+  224  cd LLM-bert-
+  225  LS
+  226  ls
+  227  cd LLM-bert-opposition-test/
+  228  ls
+  229  cd ..
+  230  rm -rf *
+  231  /usr/bin/python3 /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  232  cd predict_motion/predictions/
+  233  rm *
+  234  cd ..
+  235  python3 getTest.py  -input ./testfiles/testset.csv -output test_data/testset
+  236  python3 getTest.py  -input ./testfiles/paired_testset.csv -output test_data/paired_testset
+  237  cd dataset/
+  238  rm *
+  239  python3 ../folder2scv.py --folder_path ../new_dataset/ --csv_type "both"
+  240  python3 ../folder2scv.py --folder_path ../new_dataset/ --csv_type "both" --summarize
+  241  cd ../test_data/
+  242  cd ..
+  243  python3 getTest.py  -input ./testfiles/summarized_paired_testset.csv -output test_data/summarized_paired_testset
+  244  python3 getTest.py  -input ./dataset/summarized_paired_testset.csv -output test_data/summarized_paired_testset
+  245  python3 getTest.py  -input ./dataset/summarized_testset.csv -output test_data/summarized_testset
+  246  cd predictions/
+  247  rm *
+  248  cd ..
+  249  git add *
+  250  git commit -m "routine committing, about to work on tfidf conversation script"
+  251  rm models/*Gs*
+  252  ls
+  253  /usr/bin/python3.6 /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  254  ls
+  255  ls -dl predict*/*dictions
+  256  tar cf ~/stuff.tar predict_motion/*ions
+  257  ls -l ~/stuff.tar
+  258  mv ~/stuff.tar /tmp
+  259  exit
+  260  ls
+  261  cd
+  262  cd 
+  263  pwd
+  264  ls -tl | head
+  265  cd pred*ion
+  266  ls
+  267  cd predictions
+  268  ls -tl
+  269  cd ..
+  270  ls -tl
+  271  echo *ion
+  272  cd per*
+  273  ls
+  274  cd ..
+  275  ls -tl
+  276  ls -tdl *ion
+  277  ls -tdl predic*
+  278  cd predictions
+  279  ls
+  280  cd ..
+  281  cd ..
+  282  find . -name predictions
+  283  cd pre*ion
+  284  cd *ions
+  285  ls
+  286  cd *ions
+  287  ls
+  288  ls
+  289  cd predictions
+  290  ls
+  291  cd ..
+  292  cd summaries-predictions
+  293  ls
+  294  head *csv
+  295  cd ..
+  296  ls -tdl *ions
+  297  ls normal-predictions
+  298  ls normal-predictions | wc
+  299  head normal-predictions/*
+  300  ls
+  301  head sum*/*csv
+  302  ls
+  303  ls -tl | more
+  304  exit
+  305  cd
+  306  ls -tl
+  307  find . -name '*predict*csv'
+  308  more ./predict_motion/summaries-predictions/DeepSet-sentence_embeddings-supppredictions.csv
+  309  exit
+  310  /usr/bin/python3 /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  311  /usr/bin/python3 /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  312  ls
+  313  cd tmp
+  314  cd ..
+  315  ls
+  316  cd lost+found/
+  317  cd tmp
+  318  cd
+  319  cd tmp
+  320  ls
+  321  /usr/bin/python3.6 /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  322  cd
+  323  ls
+  324  ls -tl |head
+  325  cd pre*ion
+  326  ls -tl | head
+  327  cd normal-eval
+  328  ls
+  329  ls -tl
+  330  find . -name '*csv
+  331  find . -name '*csv'
+  332  find . -name '*csv' | more
+  333  find . -name '*.csv' | more
+  334  find . -name 'testset.csv' | more
+  335  find . -name 'testset.csv' -ls
+  336  cd *pt/testset.csv
+  337  cd *pt
+  338  more testset.csv
+  339  ~gvcormac/bin/decomma < testset.csv
+  340  ~gvcormac/decomma < testset.csv
+  341  head testset.csv
+  342  scp gvcormac@angus.cs.uwaterloo.ca:bin/decomma /tmp
+  343  /tmp/decomma < testset.csv
+  344  /tmp/decomma < testset.csv | head -1
+  345  /tmp/decomma < testset.csv | cut -d,-f2
+  346  /tmp/decomma < testset.csv | cut -d, -f2
+  347  /tmp/decomma < testset.csv | head -1
+  348  /tmp/decomma < testset.csv | head -3 | more
+  349  clear
+  350  /tmp/decomma < testset.csv | head -3 | more
+  351  /tmp/decomma < testset.csv | cut -d, -f3 | more
+  352  /tmp/decomma < testset.csv | cut -d, -f3 | sort | uniq -c
+  353  ls
+  354  find . -name '*csv'
+  355  find . -name '*csv' -exec grep TBD {} \;
+  356  ls
+  357  cd ..
+  358  grep -r -l TBD .
+  359  cd testfiles
+  360  grep TBD testset.csv
+  361  decomma < testset.csv | head -1
+  362  /tmp/decomma < testset.csv | head -1
+  363  /tmp/decomma < testset.csv | cut -d, -f3 | more
+  364  /tmp/decomma < testset.csv | cut -d, -f3 | sort| uniq -c
+  365  cd ..
+  366  grep -r -l TBD .
+  367  cd testfiles
+  368  ls -tl *csv
+  369  wc *csv
+  370  decomma < testset.csv | head -1
+  371  /tmp/decomma < testset.csv | head -1
+  372  ls -tl *csv
+  373  cd ..
+  374  ls
+  375  find . -name '*csv'
+  376  more ./unerasedTestset/files/906/csv
+  377  find . -name '*.csv'
+  378  exit
+  379  cd
+  380  ls -tl | head
+  381  cd pre*ion
+  382  find . -name '*.csv'
+  383  find . -name '*.csv' -ls
+  384  find . -name '*.csv' -ls | more
+  385  ls -tl | more
+  386  cd ..
+  387  find . -name '*gvc*'
+  388  cd mo*ion
+  389  ls -tdl gvc8
+  390  ls -tdl gvc*
+  391  cd gvc
+  392  ls
+  393  cd dataset
+  394  ls
+  395  wc testset.csv
+  396  /tmp/decomma < testset.csv | wc
+  397  cd ../..
+  398  find . -name testset.csv
+  399  /tmp/decomma < dataset/testset.csv | wc
+  400  /tmp/decomma < dataset/testset.csv | cut -d, -f3
+  401  /tmp/decomma < dataset/testset.csv | cut -d, -f3 | sort | uniq -c
+  402  cd ..
+  403  find . -name 'testset.csv'
+  404  find . -name 'testset.csv' -ls
+  405  decomma < ./predict_motion/normal-test_data/testset.csv
+  406  decomma < ./predict_motion/normal-test_data/testset.csv
+  407  /tmp/decomma < ./predict_motion/normal-test_data/testset.csv
+  408  c
+  409  cd
+  410  find . -name testset.csv
+  411  /tmp/decomma < ./predict_motion/normal-test_data/testset.csv
+  412  /tmp/decomma < ./predict_motion/normal-test_data/testset.csv | cut -d, -f3
+  413  /tmp/decomma < ./predict_motion/normal-test_data/testset.csv | cut -d, -f3 | wc
+  414  pwd
+  415  find . -name testset.csv
+  416  locate testset.csv
+  417  cd /scratchB/oqcardoso/predict_motion/unerasedTestset
+  418  ls
+  419  more testset.csv
+  420  ls
+  421  /tmp/decomma < testset.csv | more
+  422  /tmp/decomma < testset.csv | head -1
+  423  /tmp/decomma < testset.csv | cut -d, -f4
+  424  /tmp/decomma < testset.csv | cut -d, -f4 | sort | uniq -c
+  425  cd
+  426  pwd
+  427  cd pre*tion
+  428  ls
+  429  cd testset_TBD
+  430  ls
+  431  /tmp/decomma < testset.csv | head -1
+  432  ls
+  433  scp testset.csv gvcormac@angus.cs.uwaterloo.ca:
+  434  ls -l
+  435  locate unerased.csv
+  436  ls -tl
+  437  /usr/bin/python3.6 /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  438  ls
+  439  cd predict_motion/
+  440  cp -r normal-predictions/ ./copy-normal-predictions
+  441  cp -r summaries-predictions/ ./copy-summaries-predictions
+  442  ./script.eval  ./summaries-predictions/* > summaries-eval
+  443  ./script.eval  ./normal-predictions/* > normal-eval
+  444  pwd
+  445  ls | grep testset
+  446  cd unerasedTestset
+  447  python3 ../folder2scv.py --folder_path ./ --csv_type "both" 
+  448  ls
+  449  python3 ../folder2scv.py --folder_path ./ --csv_type "both" --summarize
+  450  python3 ../folder2scv.py --folder_path ./ --csv_type "both" 
+  451  pwd
+  452  cd ../testset_TBD/
+  453  python3 ../folder2scv.py --folder_path ./ --csv_type "both" 
+  454  pwd
+  455  cd ..
+  456  ls | grep testset
+  457  cd testfiles/
+  458  pwd
+  459  cd ..
+  460  cd dataset/
+  461  python3 ../folder2scv.py --folder_path ../unerasedTestset/ --csv_type "both" 
+  462  ls
+  463  cd ..
+  464  ./smi
+  465  cd
+  466  ./smi
+  467  ./smi
+  468  ./smi
+  469  /usr/bin/python3 /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  470  /usr/bin/python3 /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  471  ./smi
+  472  kill 5524
+  473  kill 927
+  474  cd predict_motion/dataset/
+  475  ls
+  476  python3 ../folder2scv.py --folder_path ../unerasedTestset/ --csv_type "both" 
+  477  ls
+  478  python3 ../folder2scv.py --folder_path ../unerasedTestset/ --csv_type "both"
+  479  clear
+  480  ls
+  481  python3 ../folder2scv.py --folder_path ../unerasedTestset/ --csv_type "both" 
+  482  ls
+  483  cd ../test_data/
+  484  python3 getTest.py  -input ../dataset/testset.csv -output ../test_data/testset
+  485  python3 ../getTest.py  -input ../dataset/testset.csv -output ../test_data/testset
+  486  ls
+  487  python3 ../getTest.py  -input ../dataset/paired_testset.csv -output ../test_data/paired_testset
+  488  ls
+  489  ./smi
+  490  /usr/bin/python3 /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  491  cd
+  492  ls
+  493  cd */gvc
+  494  echo */gvc
+  495  cd mo*n/gvc
+  496  ls
+  497  ls -tl experiments
+  498  history | grep ipy
+  499  exit
+  500  cd
+  501  ls
+  502  cd gvc-test
+  503  ls
+  504  cp ../mod*n/exper*nb .
+  505  cp ../mo*n/exper*nb .
+  506  ls
+  507  man nbconvert
+  508  jupyter-nbconvert --to=python experiments.ipynb
+  509  ls -tl
+  510  more experiments.py
+  511  more experiments.py
+  512  history > hist
+  513  ls
+  514  ls -tl
+  515  cd unsummarized
+  516  ls
+  517  mkdir models pipes predictions dataset
+  518  mv *csv dataset
+  519  python3 ./experiments.py
+  520  python3 ../experiments.py
+  521  grep PAIRED_PATH ex*py
+  522  ls
+  523  grep PAIRED_PATH ../ex*py
+  524  ls
+  525  vi *ip*
+  526  vi ../*ip*
+  527  ls -tl ..
+  528  vi ../exp*ipynb
+  529  vi ../*copy*
+  530  vi ../experiments.py
+  531  cd ..
+  532  ls
+  533  vi *ipynb
+  534  ls
+  535  diff *ipynb
+  536  ls -tl | head
+  537  grep PATH *ipynb
+  538  vi experiments.ipynb
+  539  jupyter-nbconvert --to=python experiments.ipynb
+  540  ls -tl | head
+  541  cd uns*
+  542  ls
+  543  mv dataset/*csv .
+  544  python3 ../experiments.py
+  545  ls -tl | head
+  546  grep TBD *csv
+  547  grep TBD *pair*csv
+  548  head *pair*csv
+  549  /tmp/decomma
+  550  /tmp/decomma < *pair*csv
+  551  /tmp/decomma < *pair*csv | head -1
+  552  /tmp/decomma < *pair*csv | cut -d, -f6
+  553  /tmp/decomma < *pair*csv | cut -d, -f6 | sort | uniq -c
+  554  wc *csv
+  555  ls -tl
+  556  ls -tl *csv
+  557  /tmp/decomma < *pair*csv | cut -d, -f6 | sort | uniq -c
+  558  /tmp/decomma < testset.csv | head
+  559  /tmp/decomma < testset.csv | head -1
+  560  /tmp/decomma < testset.csv | head -1
+  561  /tmp/decomma < testset.csv | cut -d, -f6
+  562  /tmp/decomma < testset.csv | cut -d, -f6
+  563  /tmp/decomma < testset.csv | cut -d, -f6 | sort -u | wc
+  564  ls -tl *csv
+  565  wc pai*csv
+  566  /tmp/decomma < testset.csv | sort -k6,6 -u
+  567  /tmp/decomma < testset.csv | sort -k6,6 -u | cut -d, -f4
+  568  /tmp/decomma < testset.csv | sort -k6,6 -u | cut -d, -f3
+  569  /tmp/decomma < testset.csv | sort -k6,6 -u | cut -d, -f3 | sort |uniq
+  570  /tmp/decomma < testset.csv | sort -k6,6 -u | cut -d, -f3 | sort |uniq -c
+  571  /tmp/decomma < testset.csv | sort -k6,6 -u | wc
+  572  /tmp/decomma < testset.csv | cut -d, -f6 | sort -u | wc
+  573  /tmp/decomma < testset.csv | sort -k6,6 -u -t, | cut -d, -f3 | sort |uniq -c
+  574  history | grep pair
+  575  /tmp/decomma < *pair*csv | cut -d, -f6 | sort | uniq -c
+  576  /tmp/decomma < testset.csv | sort -k6,6 -u -t, | cut -d, -f3 | sort |uniq -c
+  577  /tmp/decomma < *pair*csv | head -1
+  578  more *pair*csv
+  579  wc -l *pair*csv
+  580  ls -tl | head
+  581  ls models
+  582  cp ../m*n/predict-motion.ipynb .
+  583  cp ../m*n/per*/predict-motion.ipynb .
+  584  find ../m*n/
+  585  cp ../../m*n/per*/predict-motion.ipynb ..
+  586  cd ..
+  587  ls
+  588  vi pre*b
+  589  ls
+  590  cd un*
+  591  ls
+  592  mkdir permotion
+  593  ls
+  594  mv pai*csv dataset
+  595  cd per*
+  596  ls -tl ..
+  597  ls -tl ../..
+  598  cp ../../pred*ion.ipynb .
+  599  history > ../../hist
+  600  history > ../../hist

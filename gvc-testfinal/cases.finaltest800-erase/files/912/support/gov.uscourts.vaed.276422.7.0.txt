@@ -1,0 +1,929 @@
+Case 3:12-cv-00097-REP Document 7
+
+Filed 05/03/12 Page 1 of 26 PageID# 39
+
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF VIRGINIA
+Richmond Division
+TYRONE HENDERSON,
+Plaintiff,
+v.
+
+Civil Action No. 3:12cv97 (REP)
+
+CORELOGIC, INC., et al.
+Defendants.
+DEFENDANTS’ MEMORANDUM IN SUPPORT OF THEIR
+MOTION TO DISMISS
+Defendants, CoreLogic, Inc. and CoreLogic National Background Data, LLC f/k/a
+National Background Data, LLC (“NBD”, and when combined with CoreLogic, Inc., collectively
+referred to as “CoreLogic,”), by counsel, and pursuant to Fed. R. Civ. P. 12(b)(6), submit the
+following memorandum in support of their Motion to Dismiss Count I of Plaintiff’s Complaint.
+INTRODUCTION
+The Fair Credit Reporting Act (“FCRA”) authorizes the sale of public record information
+by one “consumer reporting agency” (“CRA”) to another type of CRA known as “reseller,”
+which, in turn, can supply the information to “users,” such as employers considering a job
+application by a “consumer.” Hence, the FCRA contemplates and allows a chain of sale of data,
+from one CRA to another, before the ultimate sale to a user. During this process, the FCRA, in §
+1681k(a), imposes a duty to send a notice to the consumer on the CRA that ultimately supplies
+public record information to an end user (i.e., prospective employer) that could have an adverse
+impact on a job applicant.
+
+Case 3:12-cv-00097-REP Document 7
+
+Filed 05/03/12 Page 2 of 26 PageID# 40
+
+In this case, Plaintiff has alleged that CoreLogic, a CRA, sold public record information
+concerning Plaintiff to another CRA, Verifications, Inc., a “reseller.” The data was then supplied
+by Verifications, Inc. to its customer, Interstate Brands Corporation, which used the information
+in making an employment decision about Plaintiff.
+Based on these facts, Plaintiff makes an unprecedented claim against CoreLogic; namely,
+that when one CRA sells the information to another CRA, which then resells the public record
+information to a user, that 15 U.S.C. § 1681k(a)(1) requires both of the CRAs to send the notice
+to the consumer, even though it is only the reseller that supplies any information to the user.
+More specifically, Plaintiff claims that when Verifications, Inc. sold data to Interstate Brands,
+both CoreLogic and Verifications were required under § 1681k(a)(1) to send entirely duplicate
+notices to Plaintiff.
+Plaintiff’s claim against CoreLogic is unprecedented for a reason: the plain language of
+15 U.S.C. § 1681k(a) imposes no duty on a CRA which sells information to another CRA to send
+a redundant § 1681k(a) notice. Section 1681k(a)(1)’s notification requirements are triggered
+only when consumer information is provided by a consumer reporting agency for “employment
+purposes” to the “user” of that data. See id. The sale at issue here meets neither such criterion
+for liability.
+Furthermore, even if the Court were to conclude that CoreLogic did somehow technically
+violate § 1681k(a)(1), Plaintiff has failed to allege that any such violation was “willful” as a
+matter of law, as he cannot show that CoreLogic’s conduct was “objectively unreasonable” – the
+test for willfulness established by the United States Supreme Court for FCRA cases in Safeco
+Insurance Co. of America v. Burr, 551 U.S. 47, 69 (2007). Thus, Plaintiff’s conclusory – and
+factually barred - assertion that CoreLogic “willfully” violated § 1681k(a)(1) under Count I must
+
+2
+
+Case 3:12-cv-00097-REP Document 7
+
+Filed 05/03/12 Page 3 of 26 PageID# 41
+
+be rejected and any claim of “willfulness” under that claim dismissed with prejudice. And, with
+no plausible claim of willfulness alleged, and no claim of “actual damages” having been asserted
+by Plaintiff under Count I, Plaintiff lacks standing to pursue the violation asserted under Count I.
+STATEMENT OF ALLEGATIONS
+The allegations of the Complaint, as related to the contentions of this Motion to Dismiss,
+are as follows. Plaintiff alleges that CoreLogic, Inc. is the parent company of NBD. (Compl., ¶
+9).1 CoreLogic, Inc. and NBD are “wholesale” data providers to “the background screening
+industry” that “sell criminal and employment-purposed background checks solely on a wholesale
+basis.” Id. at ¶¶ 10, 12. CoreLogic, Inc. and NBD “disburse consumer reports to third parties
+under contract” for compensation. Id. at ¶ 16.
+Plaintiff alleges that in August and September 2009, he applied for a job with Interstate
+Brands Corporation (“Interstate”). Id. at ¶ 21. On November 5, 2009, Interstate engaged the
+third-party consumer reporting agency and “reseller” Verifications, Inc. (“Verifications”) to
+conduct a background check on Plaintiff. Id. at ¶ 22. “Immediately thereafter,” Verifications
+ordered a background report from CoreLogic, which was subsequently provided to Verifications.
+Id. at ¶ 23. The background report that was furnished by CoreLogic to Verifications regarding
+Plaintiff allegedly contained a record of a criminal conviction from Pennsylvania. Id. at ¶ 26.
+Plaintiff alleges that this conviction was not attributable to him, but rather to an unrelated
+consumer with a similar name. Id. at 27.
+1
+
+“It is a general principle of corporate law deeply ingrained in our economic and legal systems that a
+parent corporation (so-called because of control through ownership of another corporation’s stock) is not
+liable for the acts of its subsidiaries.” United States v. Bestfoods, 524 U.S. 51, 61 (1998). Plaintiff
+disregards this time-honored principle by simply lumping together CoreLogic, Inc. and NBD in his
+factual allegations. Indeed, the facts alleged in the Complaint against CoreLogic, Inc. do not even come
+close to satisfying the rigorous standards set forth by the Supreme Court in Twombly and Iqbal to
+plausibly establish how CoreLogic, Inc. violated the FCRA as to Plaintiff. The evidence will show that
+CoreLogic, Inc. has been improperly named as a Defendant. CoreLogic reserves its rights to move for the
+dismissal of CoreLogic, Inc. as a Defendant on this basis at the appropriate procedural juncture.
+
+3
+
+Case 3:12-cv-00097-REP Document 7
+
+Filed 05/03/12 Page 4 of 26 PageID# 42
+
+Plaintiff alleges that, “[as] soon as Verifications received the CoreLogic report, it placed
+same within an online consumer report regarding the Plaintiff [that was] provided to
+[Interstate].”
+
+Id. at ¶ 28.
+
+Plaintiff further alleges that “[w]hile [the] report [provided by
+
+Verifications to Interstate] did not contain the details of the Pennsylvania convictions, it did
+report that the Plaintiff’s history has come back with these ‘Hits’ in a search of his national
+criminal background.” Id. Plaintiff contends that, as a result of the consumer report provided to
+Interstate by Verifications, Interstate withdrew its offer of employment to him. Id. at ¶ 29.
+There is no allegation that CoreLogic ever had any direct or indirect communications with
+Interstate. See id. Rather, the Complaint makes clear that CoreLogic, as a “wholesaler” of
+information, provided information only to Verifications, which acted as a “reseller” of that data
+to Interstate. Id. at ¶ 20.
+Plaintiff alleges that he never received a letter or any other communication from
+CoreLogic at the time that the CoreLogic report was sent to Verifications in late 2009. Id. at ¶
+33. Plaintiff further alleges that he also never received any communication from Verifications at
+the time that his report was furnished by Verifications directly to Interstate.2 Id. at ¶ 34.
+On the basis of these allegations, Plaintiff asserts three claims against CoreLogic. Count
+I of the Complaint, which is the subject of this motion, alleges that CoreLogic failed to “timely
+provide the required FCRA notices to the Plaintiff” in violation of 15 U.S.C. § 1681k(a)(1) of the
+FCRA. Id. at ¶ 55. Section 1681k(a) provides, in pertinent part:
+A consumer reporting agency which furnishes a consumer report for
+employment purposes and which for that purpose compiles and reports items of
+information on consumers which are matters of public record and are likely to
+have an adverse effect upon a consumer’s ability to obtain employment shall—
+2
+
+Plaintiff has also filed related actions against Verifications and Interstate, which assert overlapping
+claims under the FCRA with respect to the claim pled in this action, as well as other FCRA claims. See
+3:11cv514 (action against Verifications); 3:11cv507 (action against Interstate).
+
+4
+
+Case 3:12-cv-00097-REP Document 7
+
+Filed 05/03/12 Page 5 of 26 PageID# 43
+
+(1) at the time such public record information is reported to the user of
+such consumer report, notify the consumer of the fact that public record
+information is being reported by the consumer reporting agency, together
+with the name and address of the person to whom such information is
+being reported; or
+(2) maintain strict procedures designed to insure that whenever public
+record information which is likely to have an adverse effect on a
+consumer’s ability to obtain employment is reported it is complete and up
+to date.
+Id. (emphases added). Plaintiff asserts this claim on the basis of a putative nationwide class of
+consumers relative to whom CoreLogic allegedly did not place in the mail “a written notice that
+[CoreLogic was] furnishing the subject report and containing the name of the person that was to
+receive the report.” Id. at ¶ 47. Without any accompanying factual support, Plaintiff alleges that
+this violation of § 1681k(a) by CoreLogic was “willful,” thereby entitling him to “statutory and
+punitive damages.” Id. at ¶ 56.
+STANDARD OF REVIEW
+When considering a motion to dismiss, the Court should accept as true all well-pleaded
+factual allegations and should view the complaint in a light most favorable to the plaintiff. See
+De Sole v. United States, 947 F.2d 1169, 1171 (4th Cir. 1991). Even under Fed. R. Civ. P. 8(a),
+however, the Court need not accept as true the legal conclusions, unwarranted inferences,
+unreasonable conclusions, or arguments asserted in the complaint. See Eastern Shore Mkts., Inc.
+v. J.D. Assocs. Ltd. P’Ship, 213 F.3d, 175, 180 (4th Cir. 2000); Edwards v. City of Goldsboro,
+178 F.3d 231, 244 (4th Cir. 1999). Furthermore, a “pleading that offers ‘legal conclusions’ or ‘a
+formulaic recitation of the elements of a cause of action will not do.’” Bell Atlantic Corp. v.
+Twombly, 550 U.S. 544, 555 (2007).
+“To survive a motion to dismiss, a complaint must contain sufficient factual matter,
+accepted as true, to ‘state a claim to relief that is plausible on its face.’” Iqbal, 129 S. Ct. at 1949
+
+5
+
+Case 3:12-cv-00097-REP Document 7
+
+Filed 05/03/12 Page 6 of 26 PageID# 44
+
+(quoting Twombly, 550 U.S. at 570); see also Fed. R. Civ. P. 8(a)(2) (pleading must contain a
+“short and plain statement of the claim showing that the pleader is entitled to relief”). A claim is
+“factually plausible” when the claimant pleads “factual content that allows the court to draw the
+reasonable inference that the defendant is liable for the misconduct alleged.” Iqbal, 129 S. Ct. at
+1949. “[A] court considering a motion to dismiss can choose to begin by identifying pleadings
+that, because they are no more than conclusions, are not entitled to the assumption of truth.” Id.
+at 1950. If any factual allegations remain, the Court then should review them to determine if a
+plaintiff has stated a plausible claim for relief. Id.
+Furthermore, “[p]ursuant to Rule 12(b)(1), a claim may be dismissed for lack of subject
+matter jurisdiction.” Wollman v. Geren, 603 F. Supp. 2d 879, 883 (E.D. Va. 2009). CoreLogic
+contends that Plaintiff lacks standing to bring his claim under Count I. “Because standing is an
+element of subject matter jurisdiction, a defendant’s motion to dismiss for lack of standing
+should be treated under Rule 12(b)(1).” McInnes v. Lord Balt. Emple. Ret. Income Acct. Plan,
+2011 U.S. Dist. LEXIS 130512, at *4 (D. Md. Nov. 10, 2011). In such a situation, “the burden
+of proving subject matter jurisdiction falls on the plaintiff.” Wollman, 603 F. Supp. 2d at 883.
+ARGUMENT
+For any potential liability to attach under § 1681k(a)(1), the sale of consumer information
+at issue must be both to the “user” of that information and for “employment purposes.” The sale
+of data from CoreLogic to Verifications meets neither of these conjunctive requirements for a
+viable claim under that provision of the FCRA. Thus, for the reasons set forth in detail below,
+Count I must be dismissed.
+Moreover, given the compelling textual argument in favor of dismissal of Count I, as well
+as the lack of any contrary authority in favor of Plaintiff’s misguided position, even if liability
+
+6
+
+Case 3:12-cv-00097-REP Document 7
+
+Filed 05/03/12 Page 7 of 26 PageID# 45
+
+were possible under Count I, no violation of § 1681k(a)(1) can be deemed to have been “willful”
+as a matter of law, and any such claim must also be dismissed. Additionally, the lack of any
+“willful” violation, along with Plaintiff’s failure to allege any “actual damages” arising out of
+Count I, means that Plaintiff has no standing to assert the claims alleged.
+I.
+
+PLAINTIFF HAS FAILED TO STATE A CLAIM UNDER COUNT I, AS
+CORELOGIC NEVER PROVIDED A CONSUMER REPORT “FOR
+EMPLOYMENT PURPOSES” TO A “USER.”
+
+Plaintiff’s claim under Count I is based on § 1681k(a)(1), which imposes a duty on CRAs
+to send a notice to the consumer if the information is furnished “for employment purposes” to a
+“user” and that information is likely to have “adverse impact” on the consumer’s “ability to
+obtain employment.” 15 U.S.C. § 1681k(a)(1). Specifically, § 1681k(a)(1) requires, “at the time
+such public record information is reported to the user of such consumer report,” that the CRA
+reporting such information for employment purposes “notify the consumer of the fact that public
+record information is being reported by the consumer reporting agency[.]” Id. (emphasis added).
+In this case, CoreLogic provided information to Verifications, another CRA that Plaintiff
+acknowledges was a “reseller” of information, and which provided the data to Interstate. See
+Compl., ¶ 22. Thus, to hold CoreLogic liable under § 1681k(a)(1), Plaintiff must establish that
+CoreLogic was furnishing information to a “user” for “employment purposes.” Plaintiff cannot
+make either such showing, which would be at odds with the plain language of the FCRA, Federal
+Trade Commission interpretation of the FCRA, persuasive authority, and the carefully-delineated
+duties of users and CRAs under the FCRA. Thus, Plaintiff’s claim in Count I must be dismissed.
+A.
+
+Verifications is not a “user” under the FCRA, and therefore CoreLogic was
+not furnishing information to a “user.”
+
+While the FCRA uses the term “user” repeatedly, there is no express definition of that
+term in the FCRA. Context, however, affirms the plain meaning of the term and indicates that a
+
+7
+
+Case 3:12-cv-00097-REP Document 7
+
+Filed 05/03/12 Page 8 of 26 PageID# 46
+
+“user” for purposes of § 1681k is the person who actually uses the data in making a credit,
+employment, or insurance decision affecting the consumer. Verifications falls outside of this
+meaning of the term “user,” and therefore CoreLogic did not furnish a consumer report to a
+“user” for the purposes of creating potential liability under § 1681k(a)(1).
+1.
+
+The provisions of the FCRA.
+
+As a threshold matter, there is no express requirement in the FCRA, whether in §
+1681k(a)(1) or elsewhere, requiring a CRA selling data to a reseller to provide notice to the
+consumer under that provision. Plaintiff thus seeks to read into the statute a requirement that has
+no firm basis in its text. This result should be avoided. See, e.g., Dugdale v. Nationwide Mut.
+Fire Ins. Co., No. 4:05cv138, 2006 U.S. Dist. LEXIS 17471, at *12 (E.D. Va. Feb. 14, 2006)
+(“[T]his court declines to read into the statute words that are not there.”).
+The other provisions of the FCRA also bear out this conclusion in numerous provisions.
+For example, 15 U.S.C. § 1681b(b)(1) of the FCRA requires that “users” certify to the CRA from
+which a report for employment purposes is obtained, that the user has provided certain
+disclosures to the consumer, and that “the consumer has authorized in writing . . . the
+procurement of the report by that person.” Id. In short, that section contemplates direct contact
+between the user and the consumer, such as a potential employer/employee relationship, where
+consent may be obtained from the consumer. As the Complaint makes clear, only Interstate had
+any direct contact with Plaintiff. (Compl., ¶ 9). Thus, Verifications, as a “reseller,” had no such
+contact with Plaintiff such that its provision of these required assurances under the FCRA to
+CoreLogic would have even been possible. (See Compl., ¶ 34).
+Likewise, 15 U.S.C. § 1681m imposes requirements on “users taking adverse actions on
+basis of information contained in consumer reports.” Id. Again, this section contemplates a
+
+8
+
+Case 3:12-cv-00097-REP Document 7
+
+Filed 05/03/12 Page 9 of 26 PageID# 47
+
+direct link between the consumer and the user of the information, the latter of which is in a
+position to take adverse action – including employment decisions – against the consumer.
+Verifications was not in a position to take any action – adverse or otherwise – against Plaintiff,
+neither has Plaintiff alleged that Verifications has taken such action. Thus, it was not a “user.”
+Notably, Plaintiff does not allege any direct contact between CoreLogic and Interstate,3
+and the lack of any direct contact between CoreLogic and Interstate underscores the illogical,
+practical implications of imposing potential liability on CoreLogic under § 1681k(a)(1).
+CoreLogic would be in no position to actually assess whether any of the information it provided
+to Verifications would ultimately be reported to Interstate, and it would therefore be unable to
+determine whether any such information would have an “adverse impact” on Plaintiff’s “ability
+to obtain employment.” There is no allegation that CoreLogic was privy to any restrictions
+imposed by Interstate (such as any direction to include or exclude certain records from the
+report), such that CoreLogic would know whether the information it provided would ultimately
+be transmitted to Interstate, and not just filtered out by Verifications. And, given the widelydivergent state laws regarding whether certain information can even be reported to a prospective
+employer in that state, see, e.g., California Civil Code § 1786.16(a) (limiting the provision of
+certain background data to information generated within seven years preceding the request),
+CoreLogic would not know whether the information that it provided to Verifications would have
+an “adverse impact” on Plaintiff’s employment prospects.
+Returning to the text of the FCRA, the same result is compelled by the language of §
+1681c(1)(h)(1)(B), which provides: “No prospective user of a consumer report or of a credit
+score generated using the information in the file of a consumer that includes an extended fraud
+alert in accordance with this section may establish a new credit plan or extension of credit . . . . ”
+3
+
+In fact, Plaintiff alleges that NBD does not sell directly to the client. (Compl., ¶ 12).
+
+9
+
+Case 3:12-cv-00097-REP Document 7
+
+Filed 05/03/12 Page 10 of 26 PageID# 48
+
+Id. Again, the language of the FCRA contemplates that the “user” be in a position to take some
+form of action against the consumer. See id.; see also 15 U.S.C. § 1681h(e) (“no consumer may
+bring any action or proceeding in the nature of defamation . . . based on information disclosed by
+a user of a consumer report to or for a consumer against whom the user has taken adverse
+action.”) (emphasis added). Plaintiff’s Complaint makes no allegation that Verifications took an
+adverse action against Plaintiff, presumably because Verifications, as a reseller of data, was not
+in such a position.
+Furthermore, the terms “consumer reporting agency” and “user” have distinct meanings
+and responsibilities under the FCRA. Prior to the provision’s amendment in 1996, 15 U.S.C. §
+1681n provided that civil liability could be imposed on “[a]ny consumer reporting agency or
+user of information which willfully fails to comply with any requirement imposed under this
+title.” Id. (emphasis added). This disjunctive provision was later amended into its current form
+to also subject “furnishers” of consumer information to civil liability through the use of the
+more-inclusive term “person.” See, e.g., Ayers v. Equifax Info. Servs., No. 3:03cv551, 2003 U.S.
+Dist. LEXIS 23271, at *11 (E.D. Va. Dec. 16, 2003) (“Prior to amendment in 1996, sections
+1681n and 1681o permitted suit against a consumer reporting agency or a user of information,
+but not against a furnisher. After the statute was amended, ‘any person’ could be sued . . . .
+[S]ince credit reporting agencies and users were already liable to consumers, Congress intended,
+by the amendment language ‘any person,’ to enlarge the statute to include furnishers.”).
+Nonetheless, the clear statutory distinction between “users” and “credit reporting agencies”
+previously specified in § 1681n underscores that Plaintiffs’ conflation of these terms under §
+1681k(a)(1) is improper and contrary to what Congress intended.
+
+See also Boatner v.
+
+Choicepoint Workplace Solutions, Inc., 2010 U.S. Dist. LEXIS 44264, at *7 (D. Or. May 6,
+
+10
+
+Case 3:12-cv-00097-REP Document 7
+
+Filed 05/03/12 Page 11 of 26 PageID# 49
+
+2010) (“[T]he FCRA imposes different responsibilities based on whether a party is a user . . . or
+CRA” and a user’s duty is largely independent of the duties of the CRA. This statutory scheme,
+which allocates independent obligations among the many parties involved in the consumer credit
+reporting process, shows no legislative intent to hold . . . CRAs liable for the actions of users.”).
+2.
+
+Persuasive judicial authority confirms the result required by the FCRA.
+
+Consistent with the provisions detailed above, the courts interpreting the definition of
+“user” under the FCRA, including those within the Fourth Circuit, make plain that a “user” of
+information is the entity that has the authority to take some action affecting the consumer’s
+interests. For instance, in Lema v. Citibank, N.A., 935 F. Supp. 695 (D. Md. 1996), the court
+considered an allegation that the “defendants reported information obtained through their
+transactions with plaintiff to a consumer reporting agency.” Id. at 698. Because there was no
+allegation that the defendants themselves took any adverse action against the plaintiff, the court
+held that the defendants are “not users of information for purposes of the FCRA.” Id.; compare
+Austin v. Bankamerica Service Corp., 419 F. Supp. 730, 731, 733 (N.D. Ga. 1974) (a defendant
+who denied the plaintiff credit on the basis of information obtained in a consumer report was a
+“user” for purposes of the FCRA).
+Similarly, in Alvarez Melendez v. Citibank, 705 F. Supp. 67 (D.P.R. 1988), the court held
+that a defendant who merely furnished information to third parties regarding plaintiff’s credit
+history “was not a user of consumer reports for the purpose of establishing civil liability under
+the FCRA.” Id. at 69. The same result was reached in Jones v. Smith-McKinney Co., No. 04-cv80, 2004 U.S. Dist. LEXIS 29761 (E.D. Ky. Nov. 18, 2004), where the court held as follows:
+“Plaintiff has not alleged that McClish denied credit or increased rates as a result of information
+contained in a consumer report. Based upon these facts, the plaintiff has not alleged facts which
+
+11
+
+Case 3:12-cv-00097-REP Document 7
+
+Filed 05/03/12 Page 12 of 26 PageID# 50
+
+establish liability [as a user] under the FCRA.” Id. at *23-24. And, in sharp contrast, no court
+has ever embraced the interpretation of the FCRA advanced by Plaintiff under Count I.
+Plaintiff has not alleged that Verifications took, or was in any position to take, any direct
+action against Plaintiff due to the information that was contained in his consumer report. Thus,
+under the above authority, Verifications was not a “user” under the FCRA. Count I must be
+dismissed.
+3.
+
+Federal Trade Commission guidance also demonstrates that Verifications
+was not a “user” of consumer information.
+
+The conclusion demanded by both the text of the FCRA and persuasive authority is
+buttressed by the interpretative guidance provided by the Federal Trade Commission (“FTC”).
+In interpreting the FCRA,4 the FTC has confirmed that a CRA must notify the consumer only
+when such information “is provided to an employer or potential employer,” indicating that “user”
+refers to the employer that ultimately uses the information to make its employment decision. See
+Federal Trade Commission, “40 Years of Experience with the Fair Credit Reporting Act, an FTC
+Staff
+
+Report
+
+with
+
+Summary
+
+Interpretations,”
+
+at
+
+81
+
+(July
+
+2011),
+
+available
+
+at
+
+http://www.ftc.gov/os/2011/07/110720fcrareport.pdf (hereinafter, “FTC, 40 Years of Experience,
+at __”), attached as Exhibit A. Consistent with this view, the FTC requires that CRAs that
+provide reports for employment purposes must notify consumers under § 1681k(a)(1), “even if
+they are merely resellers of consumer reports obtained from other CRAs.” Id. at 81. This
+requirement ensures that any CRA – whether it is a reseller or not – that provides a consumer
+report to a user of that information must comply with § 1681k, and thus guarantees that one CRA
+
+4
+
+The FTC’s interpretation of its regulations is “controlling unless plainly erroneous or inconsistent with
+the regulation[s] or there is any other reason to doubt that they reflected the [FTC’s] fair and considered
+judgment.” Pliva, Inc. v. Mensing, 131 S. Ct. 2567, 2575 (2011).
+
+12
+
+Case 3:12-cv-00097-REP Document 7
+
+Filed 05/03/12 Page 13 of 26 PageID# 51
+
+will always have a duty to send the required notice.5 No similar requirement is imposed on the
+CRAs who provide such reports to a reseller, and with good reason – such a notice would be
+completely redundant of the notices that already must indisputably be sent by the CRA dealing
+directly with the user.
+In short, Verifications was reseller, not a user, under the FCRA, and therefore CoreLogic
+had no duty under § 1681k(a) to provide notice to the Plaintiff, as CoreLogic was not furnishing
+information to a “user.” Therefore, Count I must be dismissed.
+B.
+
+CoreLogic did not provide information for an “employment purpose.”
+
+Another reason why the FCRA does not impose the notice requirement on CRAs
+supplying reports to resellers is because such reports are not provided to the reseller for an
+“employment purpose,” as is required to trigger § 1681k(a). As the FTC explains, “[a] CRA
+may furnish a consumer report to another CRA, so that the second CRA can sell such reports to
+subscribers with a permissible purpose.” FTC, 40 Years of Experience, at 41. Thus, the FTC
+does not look to whether the second CRA itself has permissible purpose, but whether the second
+CRA is ultimately providing reports to end users with a permissible purpose.6 The fact that the
+FTC treats CRA-to-CRA sales in this manner demonstrates that the FTC recognizes that such
+transactions are not for “employment purposes,” which would itself be a permissible purpose
+under the FCRA. 15 U.S.C. § 1681b(a)(3)(b).
+
+5
+
+Indeed, in a related action, Plaintiff has pled an identical claim under § 1681k(a)(1) against
+Verifications. See 3:11cv514 (Dkt. No. 20, Count I), attached as Exhibit B.
+6
+
+The FCRA does require that consumer reports to users only issue for certain permissible purposes. 15
+U.S.C. § 1681b(a). Thus, the FTC explains that the CRA providing information to another CRA “must
+comply with FCRA requirements to implement reasonable policies and procedures to limit the
+distribution of consumer reports to those with permissible purposes.” Id. at 41. Thus, even though the
+CRA-to-CRA exchange itself does not fall under any permissible purpose under 15 U.S.C. § 1681b(a),
+that transaction is nonetheless permissible as long as the supplying CRA ensures that the subsequent user
+of the consumer report is operating under a permissible purpose.
+
+13
+
+Case 3:12-cv-00097-REP Document 7
+
+Filed 05/03/12 Page 14 of 26 PageID# 52
+
+Other provisions of the FCRA also counsel strongly in favor of the proposition that the
+sale by a CRA to a reseller is not for an employment purpose. For example, as described above,
+a user that seeks to obtain a consumer report for “employment purposes” must certify to the CRA
+that it has made the required disclosures to the consumer and obtained the consumer’s consent.
+See 15 U.S.C. § 1681b(b)(1). Therefore, if, unlike the FTC’s interpretation, the reseller’s
+acquisition of the data from the wholesaler CRA was considered an employment purpose, then
+the reseller also would need to make disclosures to and obtain consent from the consumer –
+purely redundant steps that would already have been taken by the employer.
+In fact, Plaintiff’s strained reading of § 1681k(a)(1) builds in several redundant steps to
+the consumer reporting process under that provision that are not contemplated by the express
+terms of the FCRA or FTC regulations and guidelines. To wit, under Plaintiffs’ theory, each
+time that a user sought a consumer report for an employment purpose, every CRA that had ever
+touched the information contained in that report – from the moment that information had been
+retrieved from the public record – would have to obtain consent from the consumer and ensure
+that certain disclosures had been provided to the consumer. Assuming all of these CRAs had
+successfully accomplished that purported duty, each of them would then have to send an
+identical notice under § 1681k to the consumer, notwithstanding the fact that the information in
+each report could vary. Indeed, there is no conceptual limit to the number of redundant notices
+that would be required under the interpretation of the FCRA advanced by Plaintiff in Count I.
+This result should be avoided. See, e.g., Flint v. California, 594 F. Supp. 443, 447-48 (E.D. Cal.
+1984) (declining to interpret 42 U.S.C. § 2000e-5(f)(1) to require notice of right to sue from both
+the Equal Employment Opportunity Commission and the United States Attorney General,
+because such a reading would require “redundant notices” and “the words of the statute and
+
+14
+
+Case 3:12-cv-00097-REP Document 7
+
+Filed 05/03/12 Page 15 of 26 PageID# 53
+
+common sense suggest another and better reading of the statute”); United States v. Carroll, 105
+F.3d 740, 744 (1st Cir. 1997) (“[S]tatutes should be construed in a commonsense manner,
+honoring plain meaning, and avoiding absurd or counterintuitive results.”)
+Not only would this extremely redundant conception of FCRA notice, disclosure, and
+consent requirements bring the entire process of consumer reporting to a crawl, but as noted
+above, such redundancies are at odds with the specialized and contrasting duties of the various
+constituents of the credit reporting process. Plaintiff’s position would render all CRAs “users”
+and destroy the carefully-compartmentalized statutory treatment of CRAs under the FCRA.
+Plaintiff’s claim under § 1681k(a)(1) must be dismissed.
+II.
+
+THERE WAS NO WILLFUL VIOLATION OF § 1681K(A)(1).
+
+The FCRA provides that civil liability can only be imposed against a defendant in two
+circumstances. The first avenue for liability is found in 15 U.S.C. § 1681n – “Civil liability for
+willful noncompliance.” That provision states that “[a]ny person who willfully fails to comply”
+with the FCRA is subject to actual or statutory damages, and potentially punitive damages. Id.
+The second avenue for relief is provided in 15 U.S.C § 1681o – “Civil liability for negligent
+noncompliance.” According to that provision, “[a]ny person who is negligent in failing to
+comply” with the FCRA may be subject to actual damages only. Id. Importantly, these are the
+only two avenues through which a defendant may be found civilly liable for an FCRA violation.
+Here, Plaintiff has not alleged that he suffered any actual damages as a result of the
+alleged violation of § 1681k(a)(1), and only asserts a claim for a “willful” violation. In light of
+the foregoing statutory arguments, and as interpreted by the authority below, regardless of the
+Court’s determination of whether CoreLogic committed any technical violation of § 1681k(a)(1),
+any such violation was not “willful” as a matter of law.
+
+15
+
+Case 3:12-cv-00097-REP Document 7
+
+A.
+
+Filed 05/03/12 Page 16 of 26 PageID# 54
+
+In the wake of Safeco, the Complaint fails to plausibly allege that CoreLogic
+willfully violated § 1681k(a)(1).
+
+Although Plaintiff makes conclusory allegations of willfulness throughout the Complaint,
+he fails to plausibly allege willfulness with respect to Count I. Recently, the Supreme Court
+established a very high and objective threshold on what a plaintiff must show in order to prevail
+on a willfulness claim under the FCRA – a burden Plaintiff has failed to meet. See Safeco
+Insurance Co. of America v. Burr, 551 U.S. 47 (2007).
+In Safeco, the Supreme Court considered whether the defendant insurance companies
+willfully violated the FCRA by not providing adverse action notices to applicants whose
+insurance premium rates were higher than those offered to other applicants with the best possible
+credit scores. Id. at 65. The FCRA requires insurance companies to provide adverse action
+notices to applicants whose charge for insurance was “increased” based in whole, or in part, on
+consumer report information. Id.; see also 15 U.S.C. §§ 1681m(a), 1681a(k)(1)(B)(i). Because
+the word “increased,” as used in the FCRA’s definition of “adverse action” for insurance
+purposes, was undefined, the Court interpreted the term to mean that an applicant receives a
+higher insurance premium rate based, in whole or in part, on the applicant’s consumer report.
+Safeco, 551 U.S. at 68. For one of the defendant insurers, Safeco, the Court explained that if
+Safeco had used the applicants’ consumer reports to charge a higher premium rate, Safeco would
+have taken adverse action, and it would have been an FCRA violation for Safeco to have failed
+to provide the affected applicants with an adverse action notice. Id.
+The Court then considered the standard for whether a defendant “willfully” violates the
+FCRA, including whether “willfulness” also includes “recklessness.” Id. at 52. While it held
+that the former encompassed the latter, the Court also concluded that this willfulness standard is
+not met “unless the action is not only a violation [of the FCRA] under a reasonable reading of the
+
+16
+
+Case 3:12-cv-00097-REP Document 7
+
+Filed 05/03/12 Page 17 of 26 PageID# 55
+
+statute’s terms, but shows that the company ran a risk of violating the law substantially greater
+than the risk associated with a reading that was merely careless.” Id. at 69. In order to overcome
+this hurdle, it is the plaintiff’s burden to prove that a defendant’s attempts to comply with the
+FCRA were “objectively unreasonable.” Id. Consequently, the “a violation does not cross the
+willfulness threshold just because a defendant’s interpretation is erroneous; it must instead be
+‘objectively unreasonable.’” Long v. Tommy Hilfiger U.S.A., Inc., 2012 U.S. App. LEXIS 1269,
+at *12 (3d Cir. Jan. 24, 2012) (citing Safeco, 551 U.S. at 69); see also Singleton v. Domino’s
+Pizza, LLC, 2012 U.S. Dist. LEXIS 8626, at *33-34 (D. Md. Jan. 25, 2012) (“[U]nless the
+defendant’s interpretation of the statute is objectively unreasonable, a plaintiff will be unable to
+show that the defendant willfully violated the FCRA.”).
+In other words, to prevail on an FCRA claim of willfulness, the plaintiff must allege that
+the defendant’s conduct created an “unjustifiably high risk” of violating the statute. Safeco, 551
+U.S. at 70. To this end, in Safeco, the Court discussed two factors that are pertinent in analyzing
+whether a company’s interpretation of the FCRA is “objectively unreasonable.” First, the Court
+considered the clarity of the statutory text with respect to the challenged conduct. Specifically,
+the Court held that if a company’s reading of the FCRA “has a foundation in the statutory text,”
+e.g., if the relevant statutory provision is “less-than-pellucid,” that fact favors a finding that the
+company acted reasonably and not willfully. Id. at 69-70; see also WEBSTER’S THIRD NEW
+INTERNATIONAL DICTIONARY, 978 (2002) (defining “pellucid” as: “extremely easy to understand;
+readily intelligible or comprehensible; completely lacking in ambiguity or turgidity.”)
+Second, the Court evaluated the amount of relevant judicial or agency guidance available
+to the company to aid its efforts to interpret the relevant FCRA provision. In particular, the
+Court stressed that it was “not a case in which the business subject to the Act had the benefit of
+
+17
+
+Case 3:12-cv-00097-REP Document 7
+
+Filed 05/03/12 Page 18 of 26 PageID# 56
+
+guidance from the courts of appeals or the Federal Trade Commission (FTC) that might have
+warned it away from the view it took. Before these cases, no court of appeals had spoken on the
+issue, and no authoritative guidance has yet come from the FTC.” Id. at 70. This “dearth of
+guidance,” along with the FCRA’s “less-than-pellucid statutory text,” persuaded the Safeco
+Court to conclude that “Safeco’s reading [of the FCRA] was not objectively unreasonable, and
+so falls well short of raising the ‘unjustifiably high risk’ of violating the statute necessary for
+reckless liability.” Id. (emphasis added).
+The Safeco Court summed up its guidance on the FCRA willfulness issue as follows:
+“Where, as here, the statutory text and relevant court and agency guidance allow for more than
+one reasonable interpretation, it would defy history and current thinking to treat a defendant who
+merely adopts one such interpretation as a knowing or reckless violator. Congress could not
+have intended such a result for those who followed an interpretation that could reasonably have
+found support in the courts, whatever their subjective intent may have been.” Id. at 70 n.20.
+And, under such circumstances, the Court held that there was “no need for [the Ninth Circuit] to
+remand the case for factual development” because evidence concerning the “subjective bad
+faith” of the defendant was irrelevant when “the statutory text and relevant court and agency
+guidance allow for more than one reasonable interpretation.” Id.; see also Levine v. World Fin.
+Network Nat’l Bank, 554 F.3d 1314, 1319 (11th Cir. 2009) (“What matters under Safeco is the
+text of the Act and authoritative interpretations of that text.”) (citations omitted).7
+
+7
+
+In this sense, the inquiry under Safeco is highly-akin to the analysis of whether a state official is subject
+to qualified immunity from an asserted violation of constitutional rights under 42 U.S.C. § 1983. See,
+e.g., Wiley v. Doory, 14 F.3d 993, 995 (4th Cir. 1994) (“Qualified immunity shields a governmental
+official from liability for civil monetary damages if the officer’s conduct does not violate clearly
+established statutory or constitutional rights of which a reasonable person would have known.”). In that
+context, it is settled that the issue of immunity can be decided on a motion to dismiss so that the court is
+not burdened with a costly and wasteful litigation process. See Hunter v. Bryant, 502 U.S. 224 (1991).
+Likewise, the inquiry is one of “objective legal reasonableness,” which is a question of law for the court
+
+18
+
+Case 3:12-cv-00097-REP Document 7
+
+B.
+
+Filed 05/03/12 Page 19 of 26 PageID# 57
+
+The application of Safeco to the allegations pled under Count I.
+
+When conducting an analysis parallel to the one conducted by the Court in Safeco, it is
+evident that Plaintiff cannot carry his burden to demonstrate that any violation by CoreLogic
+under Count I was “objectively unreasonable” and/or involved an “unjustifiably high risk” of
+violating the FCRA. See, e.g., Fuges v. Southwest Fin. Servs., 2011 U.S. Dist. LEXIS 134779, at
+*17-18 (E.D. Pa. Nov. 21, 2011).
+In the present case, like in Safeco, the term “user” of consumer information is not defined
+anywhere in the FCRA. See 15 U.S.C. § 1681a. Also, like in Safeco, no judicial decisions, let
+alone any decisions from any binding “court of appeals, id. at 70, have considered the issue of
+whether a consumer reporting agency that is independently contracted to provide consumer data
+to a reseller of that data is providing data to a “user” of that information such that the notification
+requirements of § 1681k(a)(1) are then triggered. Both of these facts counsel strongly against a
+finding of willfulness. See, e.g., Goode v. LexisNexis Risk & Info. Analytics Grp., 2012 U.S.
+Dist. LEXIS 39863, at *27-28 (E.D. Pa. Mar. 23, 2012) (finding no willful violation, “especially
+given that no court of appeals had spoken on the issue”) (citing Safeco). Indeed, this “dearth of
+guidance,” Safeco, 551 at 70, is also confirmed by the “FTC, 40 Years of Experience” report,
+which summarizes literally hundreds of cases, formal agency interpretations, and FTC opinion
+letters. Nothing in the 110-page report comes close to suggesting anything that “might have
+warned [CoreLogic] away from” the overly-rigid and hyper-technical stance of the FCRA
+advanced in Count I of the Complaint. Safeco, 551 U.S. at 70. Furthermore, for the reasons set
+
+to decide. Anderson v. Creighton, 483 U.S. 635, 638 (1987); see also Brown v. Mitchell, 327 F. Supp. 2d
+615, 649 (E.D. Va. 2004) (“clearly established” means that, in light of preexisting law, “the unlawfulness
+of the official’s conduct was reasonably and objectively apparent”). And, a defense of qualified
+immunity may not be rebutted by evidence regarding a defendant’s intent. See Harlow v. Fitzgerald, 457
+U.S. 800, 812 (1982). All of these stringent principles similarly counsel in favor of the dismissal of
+Plaintiff’s FCRA claim here.
+
+19
+
+Case 3:12-cv-00097-REP Document 7
+
+Filed 05/03/12 Page 20 of 26 PageID# 58
+
+forth in section I, supra, CoreLogic’s interpretation of the term “user” in § 1681k(a)(1) has a
+strong (if not compelling) foundation in the statutory text.
+Fundamentally, none of the objective indicia that the Court in Safeco used to determine
+whether a willful violation of the FCRA is plausible are present here based on the “pellucid” text
+of the FCRA. Based on these facts, and as set forth by the Court in Safeco, in no way can
+CoreLogic’s alleged actions amount to an “objectively unreasonable” interpretation of §
+1681k(a)(1). Therefore, the allegations of “willfulness” under Count I must be dismissed with
+prejudice. See, e.g., Fuges, 2011 U.S. Dist. LEXIS 134779, at *17-18 (“Here, given the FCRA’s
+lack of clarity regarding whether the Act even covers companies such as Defendant Southwest
+Financial Services, as well as the stunning paucity of guidance on the pertinent issues, no
+reasonable jury could conclude that Southwest acted objectively unreasonably in determining
+that the FCRA does not apply to its activities, in particular to its current owner reports such as
+the one at issue in this matter.”); Simonoff v. Kaplan, Inc., 2010 U.S. Dist. LEXIS 125414, *26
+(S.D.N.Y. Nov. 29, 2010) (granting a motion to dismiss due to a lack of willfulness because the
+defendant’s interpretation of the FCRA was not objectively unreasonable, in part, because it “did
+not have guidance from the courts of appeals nor from the FTC that might have discouraged it
+from interpreting the statute as it did”).
+C.
+
+The judicial finding of a lack of any “willful” violation of § 1681k(a)(1) is
+appropriate at this juncture.
+
+Although Plaintiff may attempt to argue that dismissal of Counts I for a failure to plead
+willfulness is premature at the 12(b)(6) stage, numerous authorities have reached the opposite
+conclusion. While, in certain legal contexts, “the question of willfulness is an issue of fact for
+the jury, . . . those cases usually involve questions of fact as to what the defendant knew at the
+time of the alleged violation. That is not an issue in this case.” Goode, 2012 U.S. Dist. LEXIS
+
+20
+
+Case 3:12-cv-00097-REP Document 7
+
+Filed 05/03/12 Page 21 of 26 PageID# 59
+
+39863, at 28 n.10. As established by Safeco, the question of willfulness in the context of the
+FCRA violation alleged here “turns on whether the law was clear at the time of the alleged
+violation.” Id. Thus, the issue is timely at the motion to dismiss stage. Id. (dismissing claim of
+a willful violation of § 1681k(a)(1) on defendant’s motion to dismiss).
+For example, in Long v. Tommy Hilfiger U.S.A., Inc., the plaintiff filed an action against
+the defendant alleging that the defendant’s printing of a partially-redacted expiration date on his
+on his receipt (i.e., “EXPIRY:04/##”) willfully violated the FCRA prohibition against publishing
+the expiration date at the point of sale. 2012 U.S. App. LEXIS 1269, at *2. On the defendants’
+motion to dismiss, the district court concluded that “(1) printing the month of expiration,
+standing alone, did not constitute the printing of an ‘expiration date’ under the statute, and (2) in
+any event, [plaintiff] could not recover because the alleged violation was not ‘willful.’” Id. The
+Third Circuit affirmed the district court’s dismissal of the plaintiff’s willfulness claims on a
+motion to dismiss. In doing so, the court stated that “[i]n light of Safeco, we conclude that
+Hilfiger’s interpretation of the statute is not ‘objectively unreasonable’ and, thus, that Long has
+not stated a claim for a willful violation of FACTA.” 2012 U.S. App. LEXIS 1269 at *13.
+Similarly, in Shlahtichman v. 1-800 Contacts, Inc., 615 F.3d 794 (7th Cir. 2010), the
+Seventh Circuit affirmed the dismissal of a willfulness claim under under Rule 12(b)(6), holding:
+We note finally that even if we have construed the statute too narrowly, dismissal
+of [plaintiff’s] complaint was nevertheless appropriate because [defendant] did
+not willfully violate the statute. [Plaintiff] has alleged no actual injury . . . and has
+instead sought the statutory damages that are authorized for willful violations of
+the truncation requirement . . . . To date, there has been no contrary opinion from
+a court of appeals or federal agency suggesting that the company’s understanding
+of the statute is wrong; and even if its construction of the statute turns out to be
+mistaken, it is objectively reasonable nonetheless for all of the reasons we have
+discussed. Consequently, if [defendant] did violate the statute by including the
+expiration date of [plaintiff’s] credit card in the receipt it emailed to him, it did
+not do so knowingly or recklessly.
+
+21
+
+Case 3:12-cv-00097-REP Document 7
+
+Filed 05/03/12 Page 22 of 26 PageID# 60
+
+Id. at 803-04; see also Simonoff, 2010 U.S. Dist. LEXIS 125414, *26 (granting a motion to
+dismiss FCRA claim due to a lack of willfulness); Goode, 2012 U.S. Dist. LEXIS 39863, at *36
+(“Plaintiffs have failed to plead sufficient facts to demonstrate that such violation was willful”).
+As shown by the cases above, Count I of the Complaint should be dismissed at this stage
+of the litigation because Plaintiff has failed to plausibly allege that CoreLogic willfully violated
+the FCRA, and any such claim under Count I must be dismissed with prejudice.
+D.
+
+Plaintiff’s conclusory allegations of willfulness are legally insufficient.
+
+Although academic in light of the foregoing, Plaintiffs’ claim for a “willful” violation of
+the FCRA fails for yet another reason. As noted above, in the Complaint, without any factual
+support, Plaintiff alleges that the alleged violation of § 1681k(a)(1) by CoreLogic was “willful.”
+(Compl., ¶ 56). “To survive a motion to dismiss under Twombly, a complaint alleging gross
+negligence and/or punitive damages must contain facts sufficient to show that the applicable
+standards for recovery are plausibly met.” Stotesbury v. Pirate Duck Adventure, LLC, No. 3:11cv-18, 2011 U.S. Dist. LEXIS 98130, at *10-11 (D.V.I. Aug. 30, 2011). Plaintiff’s claim for
+punitive damages here, which is bereft of any facts, woefully fails to even attempt to satisfy this
+burden. Hence, the alleged willful violation of § 1681k(a)(1) must be dismissed. See, e g., Odor
+v. Wal-Mart Stores East, No. 10-287, 2011 U.S. Dist. LEXIS 82571, at *5 (E.D. Ky. July 7,
+2011) (dismissing claim for punitive damages because the “Plaintiff fail[ed] to provide any facts
+to state a plausible claim that Defendant acted with any level of malice or ill will”).
+III.
+
+THE COURT MAY PROPERLY DISMISS COUNT I FOR FAILURE TO
+PLEAD ACTUAL DAMAGES NECESSARY FOR A CLAIM OF
+NEGLIGENT VIOLATION OF § 1681K(A)(1).
+
+With no plausible claim of willful misconduct present, Count I must also be dismissed for
+an additional reason.
+
+Under Count I, Plaintiff seeks only punitive and statutory damages.
+
+22
+
+Case 3:12-cv-00097-REP Document 7
+
+Filed 05/03/12 Page 23 of 26 PageID# 61
+
+(Compl., ¶ 56). While a claim for actual damages is alleged under other counts of the Complaint
+(i.e., Count III), no such demand is made under Count I.
+Without an allegation of actual damages, Plaintiff cannot succeed as a matter of law on a
+claim of a negligent violation of § 1681k(a)(1), even if one were attempted to be asserted upon
+amendment. See Banga v. NCUA, 2009 U.S. Dist. LEXIS 93449, at *6 n.5 (N.D. Cal. Oct. 6,
+2009) (“Although FCRA also provides for a cause of action based on a negligent violation, such
+cause of action requires a showing of actual damages.”); Pintos v. Pac. Creditors Ass’n, 2011
+U.S. Dist. LEXIS 41630, at *7 (N.D. Cal. Apr. 13, 2011) (“[F]or negligent violations, a
+consumer may recover only actual damages and reasonable attorneys’ fees.”). Given the fact
+that actual damages are a necessary element of a claim for negligent violation of the FCRA,
+Plaintiff cannot prevail as a matter of law on any claims of negligence.8 Since Plaintiff is left
+without any claim for a willful violation of the FCRA, as well as any claim for actual damages
+that could plausibly support a claim for a negligent violation of Count I, that Count must be
+dismissed with prejudice.
+IV.
+
+PLAINTIFF’S FAILURE TO ALLEGE AN ACTUAL INJURY-IN-FACT
+DEPRIVES THE COURT OF ARTICLE III JURISDICTION OVER
+COUNT I.
+
+In this same vein, although Plaintiff cannot recover on Counts I because he has failed to
+plausibly allege a willful violation of the FCRA or the actual damages necessary to support a
+finding of negligence, Plaintiff’s Complaint must also be dismissed because of a more basic
+deficiency. Namely, Plaintiff’s failure to allege an injury-in-fact strips the Court of subject
+matter jurisdiction over Count I.
+
+8
+
+Given the entirely technical nature of the claim in Count I, it would be surprising indeed if Plaintiff
+could, consistent with the strictures of Fed. R. Civ. P. 11, make any claim of actual harm. In any event,
+the phrase “actual damages,” or anything of a similar import, appears nowhere in Count I.
+
+23
+
+Case 3:12-cv-00097-REP Document 7
+
+Filed 05/03/12 Page 24 of 26 PageID# 62
+
+Article III of the United States Constitution provides that “judicial power” extends only
+to “cases” and “controversies.” U.S. Const. Art. III, § 2. The Supreme Court enforces this
+requirement by requiring that litigants have “standing to invoke the authority of a federal court.”
+DaimlerChrysler Corp. v. Cuno, 547 U.S. 332, 342 (2006). To have standing, a plaintiff must
+allege a “personal injury fairly traceable to the defendant’s allegedly unlawful conduct and likely
+to be redressed by the requested relief.” Id. Here, Plaintiff’s Complaint has failed to allege a
+“personal injury,” otherwise known as an “injury-in-fact” for the violation pled under Count I.
+In order for an injury-in-fact to satisfy the Article III standing requirements, it must be
+“concrete in both a qualitative and temporal sense.” Whitmore v. Arkansas, 495 U.S. 149, 155
+(1990). That is to say, the injury must be “distinct and palpable” and not “conjectural” or
+“hypothetical.” Id. Importantly, a litigant does not develop an injury-in-fact purely because
+Congress authorizes a plaintiff to bring a suit based on a statutory violation. Raines v. Byrd, 521
+U.S. 811, 820 n.3 (1997) (“Congress cannot erase Article III’s standing requirements by
+statutorily granting the right to sue to a plaintiff who would not otherwise have standing.”). “For
+‘although Congress may expand the definition of what constitutes an injury, essentially by
+expanding the list of rights people enjoy, it may not eliminate the constitutional case or
+controversy requirement.’” Morant v. Vaughn, No. 2:08cv155, 2009 U.S. Dist. LEXIS 129417,
+at *10-11 (E.D. Va. Jan. 8, 2009). “The ‘proper analysis of standing focuses on whether plaintiff
+suffered an actual injury, not on whether a statute was violated.’” Id. at *11.9
+
+9
+
+Although the Supreme Court stated in Warth v. Seldin, 422 U.S. 490, 500 (1975), that “[t]he actual or
+threatened injury required by Art. III may exist solely by virtue of “statutes creating legal rights, the
+invasion of which creates standing,” subsequent cases have shown that Article III standing is not solely a
+statutory question. As clarified by the Supreme Court in Lujan, the statement in Warth refers to
+“Congress’ elevating to the status of legally cognizable injuries concrete, de facto injuries that were
+previously inadequate in law,” not the creation of de facto injuries out of thin air. See Lujan v. Defenders
+of Wildlife, 504 U.S. 555, 578 (1992) (emphasis in original). For Article III standing, there must exist
+some injury-in-fact, separate and apart from the injury ordained by Congress.
+
+24
+
+Case 3:12-cv-00097-REP Document 7
+
+Filed 05/03/12 Page 25 of 26 PageID# 63
+
+Here, as discussed above, Plaintiff has failed to allege an actual injury under Count I.
+Plaintiff has pled no actual damages in his Complaint under Count I, nor has he pled a manner in
+which he was injured by the alleged violation of § 1681k(a)(1). While the FCRA may grant
+plaintiffs the right to recover statutory damages, it cannot supplant the Constitution’s
+requirement of an injury-in-fact. Since Plaintiff has failed to allege a distinct and palpable injury
+aside from the violation of the statute itself, he has failed to present a case or controversy
+sufficient to invoke Article III jurisdiction. Therefore, Count I must be dismissed.
+CONCLUSION
+WHEREFORE, Defendants, CoreLogic, Inc. and CoreLogic National Background Data,
+LLC f/k/a National Background Data, LLC, respectfully request that the Court enter an Order:
+(1) dismissing Count I of the Complaint with prejudice; and (2) granting CoreLogic any other
+relief the Court deems appropriate.
+CORELOGIC, INC. and CORELOGIC
+NATIONAL BACKGROUND DATA, LLC f/k/a
+NATIONAL BACKGROUND DATA, LLC
+
+By:/s/ Timothy J. St. George_________________
+Of Counsel
+Alan D. Wingfield (VSB No. 27489)
+David N. Anthony (VSB No. 31696)
+Timothy J. St. George (VSB No. 77349)
+TROUTMAN SANDERS LLP
+1001 Haxall Point
+Richmond, Virginia 23219
+Telephone: (804) 697-1200
+Facsimile: (804) 698-1339
+alan.wingfield@troutmansanders.com
+david.anthony@troutmansanders.com
+tim.stgeorge@troutmansanders.com
+Counsel for Defendants
+
+25
+
+Case 3:12-cv-00097-REP Document 7
+
+Filed 05/03/12 Page 26 of 26 PageID# 64
+
+CERTIFICATE OF SERVICE
+I hereby certify that on the 3rd day of May 2012, I filed a true and correct copy of the
+foregoing on the Court’s Electronic Case Filing System, which will send a notice of electronic
+filing to:
+Leonard A. Bennett, Esq.
+Susan M. Rotkis, Esq.
+CONSUMER LITIGATION ASSOCIATES, P.C.
+763 J. Clyde Morris Blvd, Suite 1A
+Newport News, VA 23601
+Telephone: (757) 930-3660
+Facsimile: (757) 930-3662
+Email: lenbennett@cox.net
+Dale W. Pittman, Esq.
+THE LAW OFFICE OF DALE W. PITTMAN, P.C.
+The Eliza Spotswood House
+112-A West Tabb St.
+Petersburg, VA 23803
+Telephone: (804) 861-6000
+Facsimile: (804) 861-3362
+dale@pittmanlawoffice.com
+Counsel for Plaintiff
+
+/s/Timothy J. St. George
+Timothy J. St. George (VSB Bar No. 77349)
+TROUTMAN SANDERS LLP
+1001 Haxall Point
+Richmond, Virginia 23219
+Telephone: (804) 697-1254
+Facsimile: (804) 698-6013
+tim.stgeorge@troutmansanders.com
+
+26
+2154138v1
+
+

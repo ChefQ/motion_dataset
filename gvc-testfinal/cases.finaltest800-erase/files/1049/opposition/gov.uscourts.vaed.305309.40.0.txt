@@ -1,0 +1,1062 @@
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 1 of 32 PageID# 437
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF VIRGINIA
+NORFOLK DIVISION
+HILL-ROM COMPANY, INC.,
+HILL-ROM SERVICES, INC., and
+HILL-ROM MANUFACTURING, INC.,
+Plaintiffs,
+v.
+GENERAL ELECTRIC COMPANY,
+Defendant.
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+Case No. 2:14-CV-187-RGD-LRL
+
+DEFENDANT GENERAL ELECTRIC COMPANY’S OPPOSITION
+TO HILL-ROM’S MOTION FOR PRELIMINARY INJUNCTION
+I.
+
+INTRODUCTION & BACKGROUND
+Hill-Rom’s request for a preliminary injunction—a drastic and extraordinary form of
+
+relief that rarely should issue—is doomed on every front.1
+First, Hill-Rom cannot show a likelihood of success on the merits of its patent
+infringement claims. To overcome the prior art in order to get the patents issued, Hill-Rom told
+the U.S. Patent Office that systems that function like GE’s Hand Hygiene System are not
+covered by the asserted patent claims. In fact, virtually all of Hill-Rom’s infringement theories
+raised in its motion were either specifically disclaimed, or else depend upon functionality that
+1
+
+As explained in GE’s pending motion to dismiss for lack of subject matter jurisdiction (ECF
+36, 37), Hill-Rom Company, Inc. and Hill-Rom Manufacturing, Inc. also lack standing to bring
+this case. Moreover, because the allegations in the complaint do not distinguish between the
+Plaintiffs, it is impossible to determine which allegations are attributable to Hill-Rom Services,
+Inc., the only plaintiff that may plausibly have standing. Plaintiffs’ failure to adequately plead
+standing is alone enough to defeat plaintiffs’ preliminary injunction motion. See, e.g., Bushnell,
+Inc. v. Brunton Co., 659 F. Supp. 2d 1150, 1166 (D. Kan. 2009) (denying preliminary injunction
+due to plaintiffs’ lack of standing); Okpalobi v. Foster, 244 F.3d 405 (5th Cir. 2001) (reversing
+grant of preliminary injunction because plaintiffs lacked standing). GE’s use of “Hill-Rom” is
+solely for convenience and is not a concession that Plaintiffs have standing to bring this case.
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 2 of 32 PageID# 438
+
+Hill-Rom’s own expert acknowledged does not exist in GE’s system. Hill-Rom therefore is not
+likely to succeed on its infringement claims. Moreover, in the event that Hill-Rom’s
+infringement theories are accepted, as a consequence, the asserted claims would be invalid as
+having already been disclosed in the prior art.
+Hill-Rom also cannot prove irreparable injury. Although Hill-Rom now claims urgency
+in this matter, it waited over a year to bring suit. GE began marketing its Hand Hygiene System
+in 2009, and by 2012, GE had already installed hundreds of hand-washing monitoring stations in
+the Summerville facility identified in Hill-Rom’s motion. GE also distributed information sheets
+there throughout the 2012 time period. Hill-Rom thus knew or should have known about GE’s
+system at least because Hill-Rom sells its own products at that same facility. Tellingly, HillRom admits that it knew about GE’s system at least as early as “the Spring of 2013,” but offers
+no explanation for waiting until May 2014 to bring this matter of supposed “immediate and
+irreparable harm” to the Court’s attention. Hill-Rom’s delay is fatal to its motion.2
+Hill-Rom also offers no credible evidence of any actual lost sales, market share,
+goodwill, price erosion, nor any evidence that GE’s customers would buy hand-washing systems
+from Hill-Rom but for GE’s alleged infringement. Instead, Hill-Rom’s supporting declarations
+are replete with speculation and inadmissible hearsay. See, e.g., McMullin Decl. at ¶ 29 (“I have
+been informed by HCA . . .”), ¶ 31 (“representatives of HCA have stated . . .”), ¶ 36 (“my
+discussions with HCA’s leadership team . . .”), ¶ 37 (“the healthcare facility was told by HCA
+management . . .”), ¶ 41 (“I am informed and believe that. . .”); Wildman Decl. at ¶ 8 (“I spoke
+with hospital personnel . . .”), ¶ 10 (“I was informed that . . .”), ¶ 26 (“I was informed by hospital
+2
+
+See, e.g., High Tech Med. Instrumentation, Inc. v. New Image Indus., Inc., 49 F.3d 1551, 1557
+(Fed. Cir. 1995) (“17 months is a substantial period of delay that militates against the issuance of
+a preliminary injunction by demonstrating that there is no apparent urgency to the request for
+injunctive relief.”).
+
+2
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 3 of 32 PageID# 439
+
+staff . . .”). And there is good reason for Hill-Rom’s utter lack of evidence to support its
+motion—of the nearly 6,000 hospitals in the United States, GE’s Hand Hygiene System is
+presently installed in only five of them. Of further significant importance are the facts that there
+are more than a dozen competitors in the market, GE’s total revenues for the accused system is
+less than $400,000, and GE presently has no orders to install any further systems. Thus, HillRom clearly has not been irreparably harmed by anything GE has done. Moreover, to the extent
+GE succeeds in installing any additional systems in the short period before trial, Hill-Rom can
+easily be compensated with money damages, which is the antithesis of irreparable injury.
+Finally, the balance of the hardships and the public interest weigh against an injunction.
+Hill-Rom waited nearly a decade after the earliest asserted patent issued before entering the
+relevant market, and Hill-Rom’s success does not depend in any way upon the outcome of this
+case. In fact, Hill-Rom has reported more than $1.6B in annual revenues, with only $5M (less
+than 0.3 percent) in hand-washing monitoring system sales. Moreover, hand-washing monitoring
+systems save lives, so preliminarily enjoining such sales would be against the public interest.
+For all of these reasons, Hill-Rom’s request for a preliminary injunction should be denied.
+II.
+
+THE RELEVANT TECHNOLOGY & GE’S AGILETRAC™ HAND HYGIENE SYSTEM
+The technology at issue relates to monitoring a person’s hand-washing in a healthcare
+
+facility. Hill-Rom’s patents disclose specific implementations for monitoring compliance with
+hand-washing policies, requiring the system to track healthcare workers’ movement among
+“zones” as they come into contact with potentially contaminated people or equipment, in order to
+determine if the person may have become contaminated. To minimize the hardware and
+software required for this system, Hill-Rom’s patents further claim a sensor that can aggregate
+all of the pertinent data bits into a single package of information for analysis by a master station.
+
+3
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 4 of 32 PageID# 440
+
+GE’s accused AgileTrac™ Hand Hygiene System, although elegant in its operation, does
+not contain these features. GE implemented its hand hygiene product as an “add-on” to GE’s
+non-accused, existing Real-Time Location System (RTLS) infrastructure product, which has
+been used for years to keep track of equipment like hospital beds and wheelchairs.3 The “addon” consists of a sensor mounted to hand-washing soap dispensers, and a software program.
+This system does not track movement of people among zones, nor does it monitor contact
+between people or equipment or combine the relevant data bits into a single package of
+information for a master station. And GE’s system certainly does not determine if a person is
+contaminated, as Hill-Rom’s patents describe.
+Instead, GE’s system uses ordinary infrared and radio frequency sensors to keep track of
+a person’s location in a hospital, in much the same way that a hospital can track its beds and
+wheelchairs. The soap dispensers use a separate sensor to send a signal when the dispenser
+handle is actuated. Once per day, in the middle of the night, a software program compares the
+dispenser data with the location data to attempt to correlate hand-washing events with location
+change events. The software then generates a report showing average hand-washing compliance
+over time. As demonstrated below and in the supporting declaration of GE’s expert, Dr. Gill
+Tsouri, GE’s system does not read on the asserted claims.
+III.
+
+LEGAL STANDARDS
+A preliminary injunction is a “drastic and extraordinary remedy that is not to be routinely
+
+granted.” Nat’l Steel Car, Ltd. v. Canadian Pac. Ry., Ltd., 357 F.3d 1319, 1324 (Fed. Cir. 2004);
+see also Pennington v. PNC Mortgage, 2010 WL 8741958 at *2 (E.D. Va. Aug. 11, 2010)
+(Doumar, J.) (“[I]njunctive relief [is] an extraordinary remedy that may only be awarded upon a
+3
+
+GE’s system is described in detail in the accompanying declarations of Robert Wallace and
+Francis Dirksmeier.
+
+4
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 5 of 32 PageID# 441
+
+clear showing that the plaintiff is entitled to such relief.”) (denying motion for lack of standing)
+(internal citations omitted); PRE Holding, Inc. v. Monaghan Med. Corp., 2009 WL 3874171 at
+*1 (E.D. Va. Nov. 17, 2009) (denying preliminary injunction); H. Jay Spiegel & Associates, P.C.
+v. Spiegel, 652 F. Supp. 2d 630, 634 (E.D. Va. 2008) (denying preliminary injunction). In order
+to receive a preliminary injunction, a plaintiff “must establish that he is likely to succeed on the
+merits, that he is likely to suffer irreparable harm in the absence of preliminary relief, that the
+balance of equities tips in his favor, and that an injunction is in the public interest.” Apple Inc. v.
+Samsung Elecs. Co., 695 F.3d 1370, 1373-74 (Fed. Cir. 2012) (quoting Winter v. Natural Res.
+Def. Council, Inc., 555 U.S. 7, 20 (2008)). If a “clear showing” of entitlement with respect to
+any of the four factors is missing, a motion for a preliminary injunction must be denied. Because
+the determination of likelihood of success is a matter of substantive patent law, district courts
+weighing preliminary injunctions apply Federal Circuit precedent. See Revision Military, Inc. v.
+Balboa Mfg. Co., 700 F.3d 524, 525 (Fed. Cir. 2012).
+A preliminary injunction cannot issue unless a patentee establishes that it is likely to
+succeed “on all disputed liability issues at trial.” New England Braiding Co. v. A.W. Chesterton
+Co., 970 F.2d 878, 882 (Fed. Cir. 1992). No such showing is made where the defendant raises a
+“substantial question” as to either the validity of the asserted patents or the merits of the
+plaintiff’s infringement case. See Oakley Inc. v. Sunglass Hut Int’l., 316 F.3d 1331, 1340 (Fed.
+Cir. 2003) (“the injunction should not issue if the party opposing the injunction raises ‘a
+substantial question’ concerning infringement or validity”). The plaintiff bears the burden of
+proving that any defense the defendant raises “lacks substantial merit.” Id.; see also New Eng.
+Braiding Co., 970 F.2d at 883. In order to raise a substantial question of validity, a defendant
+need not “make out a case of actual invalidity.” See Amazon.com, Inc. v. BarnesandNoble.com,
+
+5
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 6 of 32 PageID# 442
+
+Inc., 239 F.3d 1343 at 1359 (Fed. Cir. 2001). Satisfaction of the “substantial question”
+requirement merely requires a showing that the patents are vulnerable to an invalidity challenge
+at trial. See id. (“Vulnerability is the issue at the preliminary injunction stage, while validity is
+the issue at trial.”).
+IV.
+
+DISCUSSION
+A.
+
+Hill-Rom Is Not Likely to Succeed on the Merits
+1.
+
+GE’s Hand Hygiene System Does Not Infringe Any of the Asserted Claims
+
+GE’s system—which essentially is an add-on to its existing, non-accused RTLS
+architecture—works like the prior art systems that Hill-Rom repeatedly distinguished as different
+from its claimed invention during the prosecution of each of the asserted patents. See Dirksmeier
+Decl. at ¶¶ 10, 25. Unsurprisingly, then, Hill-Rom’s brief offers nothing but bare parroting of the
+claim language without any explanation of how GE’s system allegedly infringes the asserted
+claims. See, e.g., Hill-Rom’s PI Brief (“PI Brief”) at 10-13. Moreover, Hill-Rom’s declaration
+from Mr. Wildman is replete with hearsay that does not inform how GE’s Hand Hygiene System
+functions in any way that is actually relevant to the asserted claims. See, e.g., Wildman Decl. at
+¶¶ 8, 10, 26. And Hill-Rom’s expert, Dr. Felder, attempts to read the asserted patents on GE’s
+system in a way that Hill-Rom disclaimed in the prosecution history. Dr. Felder and Mr.
+Wildman both inaccurately describe GE’s system and otherwise acknowledge various missing
+elements in their own analysis. Thus, Hill-Rom’s brief and supporting evidence fall far short of
+demonstrating a likelihood of success on the merits.
+In contrast, GE’s evidence—the declarations of GE Global Product Manager Rob
+Wallace and hand-hygiene monitoring expert Dr. Gill Tsouri—confirm that GE’s system does
+not infringe any of the asserted claims. Dr. Tsouri even visited the very same Summerville
+facility that Dr. Felder and Mr. Wildman visited to confirm that his opinions are correct. Even
+
+6
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 7 of 32 PageID# 443
+
+though, as noted below, simply raising substantial questions concerning infringement is enough
+to defeat this motion, the question here is not even close. Among other things, GE’s system does
+not include numerous elements that the asserted claims require, including: (1) tracking
+movement of people among zones to assess contamination; (2) tracking contact between people
+and other people or equipment; and (3) aggregating signal data into a single packet of
+information. Hill-Rom’s motion should therefore be denied.
+a.
+
+Legal Overview
+
+To determine infringement, the Court must first construe the patent claims and then
+compare the properly construed claims to the accused device. Carroll Touch, Inc. v. Electro
+Mech. Sys., Inc., 15 F.3d 1573, 1576 (Fed. Cir. 1993). Infringement can be found only if each
+and every claim limitation is present in the accused product. General Elec. Co. v. Nintendo Co.,
+179 F.3d 1350, 1359 (Fed. Cir. 1999). At this preliminary stage, the existence of a “substantial
+question” as to whether the accused product contains every element of the properly construed
+claims requires denial of Hill-Rom’s motion. See Oakley, 316 F.3d at 1339. Hill-Rom has not—
+and cannot—establish infringement, let alone make the requisite clear showing of infringement
+given that the accused devices do not practice numerous limitations of each asserted claim.
+b.
+
+The ’818 Patent
+1)
+
+Independent Claim 1
+
+Hill-Rom alleges that GE’s Hand Hygiene System infringes independent claims 1, 37,
+and 43, and dependent claims 2, 3, 6, 12-15,44, 45, 47, 48, 52, and 56 of the ‘818 Patent.
+Independent claim 1 requires among other things a method “which tracks movement of a person
+through a facility.” But GE’s system does not track movement and instead only records the
+present location of a person. Tsouri Decl. at ¶¶ 46, 66-72, 75; Wallace Decl. at ¶ 20. Hill-Rom’s
+expert, Dr. Felder, opines that recording a person’s present location is tracking movement. Yet
+
+7
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 8 of 32 PageID# 444
+
+his opinion is directly contrary to what Hill-Rom told the Patent Office, emphasizing that using
+sensors to track the current location of a person is not tracking movement. Bosco Decl., Exhibit
+A (‘818 File History (“FH”) at 179. Hill-Rom thus surrendered this claim scope and cannot now
+argue that GE’s system tracks movement. Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki
+Co., 535 U.S. 722, 723 (2002).
+Claim 1 also requires determining if a person “washed her hands since her most recent
+exposure to a contamination zone other than her current exposure to the patient contact zone.”
+GE’s system undisputedly does not use the “zone manager” feature of the RTLS software and
+thus does not meet this limitation either. Tsouri Decl. at ¶¶ 46-47, 73-78; Wallace Decl. at ¶¶
+20-21; Wildman Decl. at ¶ 29 (“I did not observe the zone manager in connection with my visit
+to study the hand hygiene system . . . .”). Indeed, GE’s system does not determine if a person
+has been exposed to a contamination zone or a patient contact zone, and it certainly does not
+determine if a person washed her hands since moving from one such zone to another. Tsouri
+Decl. at ¶ 46-47, 73-78; Wallace Decl. at ¶¶ 20-21. Perhaps realizing after his visit to Sunnyvale
+that GE’s system does not use the “zone manager” feature, Dr. Felder opines generally that the
+“contamination zone” in GE’s system is the hallway. Felder Decl. at ¶ 24. But the patent
+specification clearly says otherwise: “[A] hallway, is not a contamination zone.” 12:18-21.
+In GE’s system, hand-washing is required every time a worker enters a patient room—
+this is true regardless of the worker’s previous location, regardless of whether the room is
+occupied or empty, and regardless of whether the person is actually contaminated. Tsouri Decl.
+at ¶ 46-47, 73-78; Wallace Decl. at ¶¶ 20-21. This functionality is precisely what Hill-Rom
+surrendered to overcome a rejection of claim 1: “[The prior art] Applonie [reference] fails to
+teach determining that the person has been exposed to a contamination zone. Applonie makes
+
+8
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 9 of 32 PageID# 445
+
+any person that wants to enter the [room] wash his/her hands. There is no determination that
+the person is actually contaminated or any suggestion that any area of Applonie is a
+contamination zone.” Bosco Decl., Exhibit A (‘818 FH) at 180 (emphasis added). Thus, HillRom cannot now argue that claim 1 reads on GE’s system. Festo Corp., 535 U.S. at 723.
+Because GE’s Hand Hygiene System does not infringe independent claim 1, it likewise does not
+infringe any of the claims depending from claim 1.4 See Tsouri Decl. at ¶¶ 82-103.
+2)
+
+Independent Claim 37
+
+Independent claim 37 requires among other things a method for “determining whether a
+person who has been contaminated due to exposure to a contamination zone has left the
+contamination zone.” But GE’s system does not determine if a person has been contaminated,
+has been exposed to a contamination zone, or has left a contamination zone. Tsouri Decl. at ¶
+104-111; Wallace Decl. at ¶ 20-21. Instead, as stated above, hand-washing is required every
+time a person enters a room with a monitored dispenser. Tsouri Decl. at ¶¶ 46-47, 104-111;
+Wallace Decl. at ¶ 20-21. As with claim 1, Hill-Rom told the Patent Office concerning claim 37
+that there must be a step of “determining whether a person who has been contaminated due to
+exposure to a contamination zone has left the contamination zone.” Bosco Decl., Exhibit A
+(‘818 FH) at 182 (emphasis added). Hill-Rom argued that a system that “just requires everyone
+to wash” “does not disclose a contamination zone.” Id. Like the prior art, GE’s system “just
+requires everyone to wash” and thus does not meet this claim limitation. Festo Corp., 535 U.S.
+at 723.
+Claim 37 also requires “determining whether the person has washed her hands within a
+trigger time since leaving the contamination zone.” (emphasis added). But as discussed above,
+4
+
+GE’s system does not infringe the asserted claims for numerous additional reasons, as set forth
+in Dr. Tsouri’s declaration. Tsouri Decl. at ¶¶ 64-137.
+
+9
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 10 of 32 PageID# 446
+
+GE’s system does not monitor for movement among zones. Moreover, Dr. Felder only identifies
+a determination in GE’s system of a person entering a patient room. Felder Decl. at ¶ 35. Dr.
+Felder thus necessarily believes that entering a room is equivalent to leaving a room. But this
+issue also arose during prosecution before the Patent Office, where Hill-Rom argued that these
+two are not the same. In distinguishing the Cohen prior art, Hill-Rom asserted: “The badge of
+Cohen is activated as being contaminated as soon as the badge enters a monitored area. . . .
+Claim 28 [which issued as claim 37] clearly requires that the handwashing is performed after
+leaving the contamination zone.” Bosco Decl., Exhibit A (‘818 FH) at 183 (emphasis added);
+Tsouri Decl. at ¶¶ 109-110. Thus, as with the other limitations, Hill-Rom surrendered the very
+scope that Dr. Felder attempts to recapture, and GE’s system therefore does not infringe claim
+37. See Tsouri Decl. at ¶¶ 104-111.
+3)
+
+Independent Claim 43
+
+Independent claim 43 discloses a first set of sensors to “track movement of a person
+through a facility.” Again, GE’s system does not track movement of people. Tsouri Decl. at ¶¶
+46, 114-115; Wallace Decl. at ¶ 20. Moreover, to overcome a rejection of this claim, Hill-Rom
+told the Patent Office that “[a] plurality of first sensors . . . would not be in communication with
+each [sic] or have any way of noting movement of a person between a plurality of locations.
+Therefore, any information gathered by the proposed plurality of first sensors 5 would not track
+movement, but rather would be presence information.” Bosco Decl., Exhibit A (‘818 FH) at
+188 (emphasis added); Tsouri Decl. at ¶ 115. Hill-Rom thus surrendered claim scope that would
+otherwise cover sensors—such as those found in GE’s system—that track the present location of
+a person rather than movement. Claim 43 also discloses a second set of sensors that
+communicate with a master station, but in GE’s system, the second set of sensors communicates
+with a reader, not a master station. Tsouri Decl. at ¶ 116; Wallace Decl. at ¶¶ 12-17. The reader
+
+10
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 11 of 32 PageID# 447
+
+and master station are different components, and Hill-Rom has not alleged that they are
+equivalent.
+Lastly, claim 43—like claims 1 and 37—also require the “zone” system that GE’s system
+does not use. Tsouri Decl. at ¶¶ 117-122; Wallace Decl. at ¶¶ 20-21. Hill-Rom again argued
+during prosecution to overcome a rejection of this claim that a system using sensors that do not
+know the difference between a patient contact zone and some other area is not covered by claim
+43. Tsouri Decl. at ¶ 119. GE’s sensors do not detect or distinguish a patient contact zone from
+any other zone and thus GE’s system does not infringe this claim. Tsouri Decl. at ¶¶ 117-122;
+Wallace Decl. at ¶¶ 20-21.5
+c.
+
+The ’470 Patent
+
+Hill-Rom alleges that GE’s Hand Hygiene System infringes independent claim 15 and
+dependent claims 16 and 19 of the ‘470 Patent. Claim 15 discloses a computer program that can
+“access a predetermined hygiene policy” setting out the requirements for hand-washing. But
+GE’s system is not programmed to access a predetermined policy by, for example, allowing
+software to access a database with information reflecting various hand-washing requirements.
+Tsouri Decl. at ¶¶ 177-178; Wallace Decl. at ¶ 28. Even Dr. Felder acknowledged in his
+declaration that GE’s system is pre-programmed with a time limit for washing hands, and he
+otherwise does not identify any functionality in GE’s system that reflects any ability for it to
+‘access a policy.’ Felder Decl. at ¶ 55. In this regard, Mr. Wildman misstates the GE system’s
+functionality when he suggests that a facility can change the timing protocol; as Mr. Wallace
+explained, this simply is not possible. Wildman Decl. at ¶ 33; Wallace Decl. at ¶ 28.
+
+5
+
+Because GE’s Hand Hygiene System does not infringe independent claim 43, it likewise does
+not infringe any of the dependent claims. GE’s system does not infringe the asserted claims for
+numerous additional reasons, as set forth in Dr. Tsouri’s declaration. Tsouri Decl. at ¶ 112-137.
+
+11
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 12 of 32 PageID# 448
+
+Claim 15 also requires monitoring contact between two items. See Claim 15 (disclosing
+“an instance of contact between a first item and a second item . . . to detect compliance or noncompliance with the hygiene policy”). This limitation is wholly lacking from GE’s system—
+simply put, GE’s system does not monitor contact between two items. Tsouri Decl. at ¶¶ 180188; Wallace Decl. at ¶¶ 20, 25. In this regard, Dr. Felder’s analysis strains credibility when he
+opines that the first “item” is a person and the second “item” is the soap dispenser. See Felder
+Decl. at ¶¶ 56, 59. This argument is nonsensical because if the “second item” is the soap
+dispenser, then the person would have to wash her hands after touching the soap dispenser. In
+other words, the person would need to wash her hands immediately after washing her hands—a
+never-ending loop of hand-washing. Tsouri Decl. at ¶¶ 180-188. Not surprisingly, the claims,
+specification, and prosecution history refute this tortured position by confirming that the “second
+item” is not the soap dispenser. Id.
+Hill-Rom in fact emphasized during the prosecution history—in order to overcome a
+rejection of this claim—that the “second item” is equipment that can be moved around the
+hospital: “Cohen’s [prior art] system is designed to communicate with a human user and not to
+monitor movable inanimate objects such as hospital equipment. Cohen does not disclose or
+suggest the possibility of adapting the disclosed system to track hygiene related to movable
+inanimate objects, such as hospital equipment.” Bosco Decl., Exhibit B (‘470 FH) at 66; Tsouri
+Decl. at ¶ 186. Thus, the soap dispenser is not the “second item,” and GE’s system otherwise
+does not monitor contact between two items. Tsouri Decl. at ¶ 180-188; Wallace Decl. at ¶¶ 20,
+
+12
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 13 of 32 PageID# 449
+
+25. At least for these reasons, the GE Hand Hygiene System does not infringe claim 15 of the
+‘470 Patent.6
+d.
+
+The ’544 Patent
+
+Hill-Rom alleges that GE’s Hand Hygiene System infringes independent claim 1 and
+dependent claims 5, 13, and 14 of the ‘544 Patent. Claim 1 requires a sensor that can detect the
+presence of a person in a hand-washing area. Dr. Felder identifies GE’s reader as the claimed
+“sensor,” but GE’s reader does not detect the presence of people, whether in a hand-washing area
+or otherwise. Tsouri Decl. at ¶¶ 212-220. Instead, GE’s system works as follows: Signposts in
+hospital rooms continuously broadcast a periodic signal that is received by personnel badges, and
+the badges are equipped with receivers that detect the infrared light from the signposts. Tsouri
+Decl. at ¶¶ 32-36, 212-220; Wallace Decl. at ¶¶ 5-11. Tellingly, to overcome a rejection of claim
+1 by the Patent Office, Hill-Rom argued that systems like GE’s are not covered by claim 1:
+“[T]he EMU 140 continuously broadcasts a periodic signal into the monitored area so that when
+a badge 150 enters the EMU 140’s broadcast area, the badge 150 receives the signals from the
+EMU 140. Therefore, [the prior art] Cohen teaches that the badge 150 detects itself as being in a
+monitored area, rather than a sensor detecting a badge in a monitored area.” Bosco Decl.,
+Exhibit C (‘544 FH) at 73 (emphasis in original) Tsouri Decl. at ¶¶ 216-219. Thus, once again,
+Hill-Rom told the Patent Office that its patent was different than systems that worked like GE’s
+system and narrowed the scope of claim 1 to exclude the very way that GE’s system functions.
+Id.
+
+6
+
+Because GE’s system does not infringe independent claim 15, it likewise does not infringe any
+of the dependent claims. GE’s system does not infringe the asserted claims for numerous
+additional reasons, as set forth in Dr. Tsouri’s declaration. Tsouri Decl. at ¶¶ 176-196.
+
+13
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 14 of 32 PageID# 450
+
+Claim 1 also requires the hand-washing monitoring device to “generate a compliance
+signal indicative of whether the person has or has not” washed her hands. GE’s system,
+however, does not generate a signal if a person does not wash her hands. Tsouri Decl. at ¶ 222;
+Wallace Decl. at ¶ 23. Thus, GE’s system does not infringe claim 1 for this additional reason.
+Finally, claim 1 discloses a “combined signal” that is sent to the “master station,” the
+combined signal containing the identification number of the personnel badge and information
+indicating that the hand-washing device was used. The alleged benefit of the “combined signal”
+is that the invention uses only one sensor to detect a person and to monitor hand-washing, not
+two separate sensors as in the prior art: “[T]he presently claimed invention only requires one
+sensor unit (e.g. 108) to implement both of these features. . . . Cohen only discloses and teaches
+embodiments in which two monitoring units (130 and 140) are used. . . . There, it is explained
+that Cohen’s monitor 140 detects the presence of the user by periodically broadcasting a signal
+that is received by the badge 150, while another monitor, the monitor 130, determines whether
+the user wearing the badge has performed the desired action.” Bosco Decl., Exhibit C (‘544 FH)
+at 47-48 (emphasis in original) Tsouri Decl. at ¶ 217.
+Hill-Rom further explained during prosecution that the signal combines bits of data
+indicating hand-washing status with other bits of data indicating the identity of the caregiver, and
+that these bits are combined into a single packet of data that is transmitted to the master station.
+Bosco Decl., Exhibit C (‘544 FH) at 72; Tsouri Decl. at ¶¶ 225-226. Hill-Rom then amended
+claim 1 to require a “combined signal,” in order to emphasize that the system “combines a
+compliance signal and an identification signal and can be generated by a single sensor.” Bosco
+Decl., Exhibit C (‘544 FH) at 26. But GE’s system does not have any such combined signal.
+Tsouri Decl. at ¶¶ 49, 224-229; Wallace Decl. at ¶ 24. Instead, GE’s system functions like the
+
+14
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 15 of 32 PageID# 451
+
+prior art Cohen reference, sending separate signals from the hand-washing device and signals
+from the badge. Id. These signals are not combined into a single packet of data, and instead, the
+GE RTLS software must run a program against the separate data streams to determine
+compliance. Tsouri Decl. at ¶¶ 42-45, 49, 224-229; Wallace Decl. at ¶ 18-19, 24. At least for
+these reasons, the GE Hand Hygiene System does not infringe claim 1 of the ‘544 Patent.7
+In sum, GE’s Hand Hygiene System does not infringe any of the asserted patent claims.
+At a minimum, there is a “substantial question” as to whether GE’s product contains every
+element of the asserted claims. Because Hill-Rom cannot show a reasonable likelihood of
+success on the merits, its motion should be denied.
+2.
+
+GE Does Not Induce or Contribute to Any Infringement
+
+Because there is no direct infringement of any of the asserted claims, GE also does not
+indirectly infringe the asserted patents under 35 U.S.C. § 271(b)-(c). See Limelight Networks,
+Inc. v. Akamai Tech., Inc., ___ U.S. ___, slip. op. at 5 (June 2, 2014). With respect to induced
+infringement, there is no evidence that GE specifically intended for its customers to infringe the
+asserted patents. Hill-Rom alleges no facts to support its allegation that GE “actively and
+knowingly aid[ed] and abet[ted] another’s direct infringement,” so its arguments must be
+rejected. See PI Brief at 13-14; DSU Med. Corp. v. JMS Co., Ltd., 471 F.3d 1293, 1306 (Fed.
+Cir. 2006) (en banc in relevant part). As to contributory infringement, the components of GE’s
+system have substantial non-infringing uses. In fact, the majority of the components in GE’s
+system have been in use since the 1990s—prior to when the applications leading to the asserted
+patents were even filed—for purposes that have nothing to do with the asserted patents. See
+
+7
+
+Because GE’s system does not infringe independent claim 1, it likewise does not infringe any
+of the dependent claims. GE’s system does not infringe the asserted claims for numerous
+additional reasons, as set forth in Dr. Tsouri’s declaration. Tsouri Decl. at ¶¶ 207-236.
+
+15
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 16 of 32 PageID# 452
+
+Dirksmeier Decl. at ¶ 5. Indeed, the accused system uses RTLS technology to manage assets
+such as hospital beds and wheelchairs, and these components were installed long before the
+asserted patents even issued. Id.; see In Re Bill of Lading Transmission and Processing System
+Patent Litigation, 681 F.3d 1323 at 1337-38 (Fed. Cir. 2012) (“For purposes of contributory
+infringement, the inquiry focuses on whether the accused products can be used for purposes
+other than infringement.”).
+3.
+
+The Hill-Rom Patents Are Vulnerable To Invalidity Challenges
+a.
+
+Legal Overview
+
+A patented invention is anticipated if “all of the elements and limitations of the claim are
+described in a single prior art reference.” Hakim v. Cannon Avent Group, Plc, 479 F.3d 1313,
+1319 (Fed. Cir. 2007). Disclosure in an anticipatory prior art reference can be either express or
+inherent, and inherent disclosure can exist even if those of ordinary skill in the art at the time
+were not cognizant of the disclosure. See Abbott Labs. v. Baxter Pharma. Prods., Inc., 471 F.3d
+1363 (Fed. Cir., 2006) (“Inherent anticipation does not require that a person of ordinary skill in
+the art at the time would have recognized the inherent disclosure.”) (internal citation and
+quotation omitted). A reference anticipates a claim, moreover, if one of ordinary skill in the art
+could use the disclosure to practice the invention without undue experimentation. Adv. Display
+Sys., Inc. v. Kent State Univ., 212 F.3d 1272, 1282 (Fed. Cir. 2000)
+A claim is invalid as obvious under 35 U.S.C. § 103 in several circumstances, including
+(1) if all elements were present in the prior art, and a person of ordinary skill would have reason
+to combine the prior art to reach the claimed invention, and (2) a person of ordinary skill in the
+art would have reason to modify a particular piece or pieces of prior art to arrive at the claimed
+invention. See KSR Int’l Co. v. Teleflex Inc., 550 U.S. 398, 427 (2007). Under the “expansive
+and flexible approach” the Supreme Court has mandated for combining and modifying prior art
+
+16
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 17 of 32 PageID# 453
+
+references to determine whether a claim is invalid as obvious, the Court has noted that when a
+patent “‘simply arranges old elements with each performing the same function it had been known
+to perform’ and yields no more than one would expect from such an arrangement, the
+combination is obvious.” Id. at 417 (citation omitted).
+b.
+
+Under Hill-Rom’s Infringement Theory, the Asserted Claims Are
+Invalid as Anticipated or Rendered Obvious by the Prior Art
+
+If the asserted claims of the Hill-Rom patents are read broadly enough to cover GE’s
+Hand Hygiene System, then those claims are anticipated or rendered obvious by several prior art
+hand hygiene systems. One such system is disclosed in U.K. Patent Application GB 2,324,397 A
+to Michael Goodier and Ivan Moore (“Goodier”). Bosco Decl., Exhibit D.8 Like GE’s system,
+Goodier discloses a hand-hygiene system that requires employees to wash their hands within a
+certain period of time after entering a room. Id. at 3, 6. In Goodier, one sensor is placed at the
+entrance to the room, and another sensor is placed at a hand-washing station within the room. Id.
+at 1-2, 4-5; Figs. 1 & 2. When an employee enters the room, the sensor at the entrance reads that
+employee’s personal identification badge, and passes a corresponding signal to a central
+processor. Id. at 5. If the sensor at the hand-washing station detects the employee’s badge and
+the occurrence of hand washing, that sensor sends a corresponding signal to the central
+processor. Id. The central processor keeps a record of all employee entries into the restricted
+area and whether a hand washing has occurred on each entry. Id. at 4, 6-7.9
+
+8
+
+Goodier qualifies as prior art under at least 35 U.S.C. § 102(b), because it was published more
+than one year before the earliest possible application date of the asserted patents.
+
+9
+
+The disclosure in Goodier is broad enough to cover hand hygiene in both the food preparation
+and healthcare industries. See Tsouri Decl. ¶ 140.
+
+17
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 18 of 32 PageID# 454
+
+As explained by GE’s expert, Dr. Tsouri, under Hill-Rom’s theory of infringement
+against GE’s system, Goodier anticipates or renders obvious all of the asserted claims.10 Tsouri
+Decl. ¶¶ 138-171, 197-205, 237-246. With respect to the ‘818 patent, Goodier receives location
+information and hand-washing information, determines whether a person who has entered a
+room has washed her hands within a preset period of time, and updates compliance information
+for that person. Id. ¶¶ 138-171. With respect to the ‘544 patent, Goodier discloses a system that
+includes a sensor at a hand-washing device, identification badges, a hand-washing monitoring
+device, a network, and a master station. Id. ¶¶ 237-246. And with respect to the ‘470 patent,
+Goodier discloses software in a central processor that receives information identifying an
+employee from an identification badge, receives information about the location of the employee
+from the badge, receives information about the employee’s use of the hand-washing station,
+determines whether the employee complied with a hygiene policy, and generates a report. Id. ¶¶
+197-205. Accordingly, if Hill-Rom’s asserted claims are read broadly enough to cover GE’s
+Hand Hygiene System, then there is at least a substantial question as to the validity of those
+claims, and that substantial question precludes issuance of a preliminary injunction. See Helifix
+Ltd. v. Blok-Lok, Ltd., 208 F.3d 1339, 1351 (Fed. Cir. 2000) (“If the alleged infringer raises a
+substantial question concerning validity, i.e., asserts an invalidity defense that the patentee
+cannot prove ‘lacks substantial merit,’ the preliminary injunction should not issue.”).11
+10
+
+Because Goodier was not considered by the Patent Office during prosecution of any of the
+asserted patents, it will be easier at trial for GE to sustain its burden of proving that the asserted
+claims are invalid. See Microsoft Corp. v. i4i Ltd. P’ship, 131 S. Ct. 2238, 2251 (2011) (“[I]f the
+PTO did not have all material facts before it, its considered judgment may lose significant force[,
+a]nd, concomitantly, the challenger’s burden to persuade the jury of its invalidity defense by
+clear and convincing evidence may be easier to sustain.”).
+11
+
+Certain asserted claims are also vulnerable to invalidity challenges under 35 U.S.C. § 101,
+because they are directed to the unpatentable abstract idea of monitoring whether a person has
+washed her hands. See Alice Corp. Pty. Ltd. v. CLS Bank Int’l, 2014 U.S. LEXIS 4303 (2014)
+
+18
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 19 of 32 PageID# 455
+
+c.
+
+The Asserted Claims of the ‘470 Patent Are Furthermore Invalid as
+Indefinite
+
+Hill-Rom is further unlikely to succeed on the merits regarding the ‘470 Patent because
+claim 15 and the claims depending therefrom are indefinite. See Tsouri Decl. at ¶ 206. A patent
+claim is invalid as indefinite under 35 U.S.C. §112, ¶2 if, when “read in light of the specification
+delineating the patent, and the prosecution history, [it] fail[s] to inform, with reasonable
+certainty, those skilled in the art about the scope of the invention.” Nautilus, Inc. v. Biosig
+Instruments, Inc., 572 U.S. ___, slip. op. at 1, 134 S. Ct. 2120 (June 2, 2014). Here, claim 15
+identifies five separate “items”: “an item” that is cleaned, “an item” that is identified, “an item”
+that is tracked, and “a first item” and “a second item” that are in contact with each other. Tsouri
+Decl. at ¶ 206. On its face, the claim does not define whether any of these “items” are in any way
+related to each other. Id. It is impossible to tell, for example, if the “item” that is cleaned is the
+“first item,” the “second item,” or a different “item” altogether. Id. The same applies to any of
+the other identified “an item” limitations. Id. Hill-Rom’s infringement theory points out the
+problem. Hill-Rom argues that “an item” that is cleaned, “an item” that is identified, and “an
+item” that is tracked are all referring to “a first item,” despite the fact that the claim does not so
+provide. The claims are so vague that there is no reason why one, two, or three of the “an item”
+limitations could not refer to “a second item” or some other “item” or separate “items.” As a
+consequence, one of ordinary skill in the art is unable to determine the scope of claim 15, or any
+of the claims that depend therefrom, with reasonable certainty. See Regents of the Univ. of Minn.
+v. AGA Med. Corp., 2011 U.S. Dist. LEXIS 144194, *43-46 (D. Minn. Dec. 14, 2011) (“[T]he
+Court must identify what the phrase modifies, and that is an impossible task. Needless to say, if
+
+(finding claims directed to abstract idea unpatentable); Mayo Collaborative Servs. v. Prometheus
+Labs., Inc., 132 S. Ct. 1289, 1293 (2012) (finding that “abstract ideas are not patentable”).
+
+19
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 20 of 32 PageID# 456
+
+the Court cannot identify the thing that [the invention operates upon], neither can a potential
+infringer.”). Thus, Hill-Rom is unlikely to succeed on the merits for this additional reason.
+B.
+
+Hill-Rom Has Not Shown Irreparable Harm
+
+Even if Hill-Rom had shown a likelihood of success on the merits—which it has not—
+Hill-Rom would still not be entitled to any injunctive relief at least for the following reasons: (1)
+Hill-Rom delayed in bringing suit; (2) GE’s continued sale of its Hand Hygiene System during
+the pendency of this litigation would have little impact, if any, on Hill-Rom’s current or future
+business; (3) Hill-Rom’s reputation and goodwill are not dependent upon sales of hand-hygiene
+systems; (4) sales of hand-hygiene systems do not drive sales of other products; and (5) any
+losses Hill-Rom may sustain during the pendency of this litigation are easily quantifiable. See
+generally J. Malackowski Decl., submitted herewith.
+“[T]he irreparable harm inquiry seeks to measure harms that no damages payment,
+however great, could address.” Celsis In Vitro, Inc. v. CellzDirect, Inc., 664 F.3d 922, 930 (Fed.
+Cir. 2012). Demonstrating irreparable harm requires a “clear showing that [plaintiff] is at risk of
+irreparable harm, which entails showing a likelihood of substantial and immediate irreparable
+injury.” Apple, 695 F.3d at 1374 (quotations omitted) (emphasis added); Direx Israel, Ltd. v.
+Breakthrough Med. Corp., 952 F.2d 802, 812 (4th Cir. 1991) (“Moreover, the required
+‘irreparable harm’ must be ‘neither remote nor speculative, but actual and imminent.’”). No
+presumption of irreparable harm arises even if a plaintiff proves likelihood of success on the
+merits. See Automated Merchandising Sys., Inc. v. Crane Co., 357 F. App’x 297, 301 (Fed. Cir.
+2009) (describing the presumption of irreparable harm as “discarded” in the wake of the
+Supreme Court’s eBay decision). As demonstrated below and in the supporting expert
+declaration of James Malackowski, Hill-Rom has not shown any irreparable harm.
+
+20
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 21 of 32 PageID# 457
+
+1.
+
+Hill-Rom’s Delay in Seeking a Preliminary Injunction is Fatal to Its Claim
+of Irreparable Harm
+
+As an initial matter, Hill-Rom is not entitled to a preliminary injunction because it
+substantially delayed in bringing its motion. Indeed, a patentee’s delay in seeking injunctive
+relief belies the notion that it would suffer irreparable harm absent an injunction. See T.J. Smith
+& Nephew Ltd. v. Consolidated Medical Equipment, Inc., 821 F.2d 646, 648 (Fed. Cir. 1987)
+(delay is “incompatible” with irreparable harm”); see also Apple Inc. v. Samsung Electronics
+Co., Ltd., 678 F.3d 1314 at 1325 (Fed. Cir. 2012) (delay suggests that “the patentee is not
+irreparably harmed by the infringement”); Nutrition 21 v. U.S., 930 F.2d 867, 872 (Fed. Cir.
+1991) (delay suggests a lack of irreparable harm).
+Specifically, Hill-Rom claims to have brought its motion based on its discovery of GE’s
+Hand Hygiene System at the Summerville, South Carolina, facility. See PI Brief at 5. While
+Hill-Rom does not disclose precisely when it learned of GE’s system at Summerville, GE has
+been marketing its Hand Hygiene System since 2009, and by November 2012, GE had already
+installed approximately 270 sidecars (and 181 staff badges) in the Summerville facility.
+Dirksmeier Decl. at ¶ 8, 13. GE also openly distributed its information sheets at Summerville
+throughout the 2012 time period. Dirksmeier Decl. at ¶¶ 17-18. Moreover, GE’s Hand Hygiene
+System is not discreet—the most open and obvious evidence of the installation is the sidecar,
+which is approximately 8” by 5”, and is located next to each soap or alcohol dispenser.
+Dirksmeier Decl. at ¶ 12. The system also uses staff badges, which beep every time they receive
+a signal from a dispenser. Id. GE’s system was also described in the press in numerous
+outlets—including Reuters and the Charleston Regional Business Journal—starting at least in
+April 2013. Dirksmeier Decl. at ¶ 19. Finally, the Summerville facility buys products from Hill-
+
+21
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 22 of 32 PageID# 458
+
+Rom, including at least Hill-Rom’s hospital beds and Nurse Call system. Dirksmeier Decl. at ¶
+14. Thus, Hill-Rom has known about or should have known about GE’s system for years.
+If Hill-Rom’s alleged irreparable harm is as urgent as it claims, then Hill-Rom should
+have filed its injunction request years ago, and certainly no later than a year ago when it claims
+to have learned that GE had entered this market. See McMullin Decl. at ¶ 34 (“In approximately
+the Spring of 2013, Hill-Rom learned that GE was entering the nascent market for RTLS-based
+hand hygiene systems . . . .”). Indeed, even if Hill-Rom somehow did not know about GE’s
+entrance into the market in 2009, its installation in Summerville in 2012, or the press reports in
+early 2013, Hill-Rom undisputedly had actual knowledge of GE’s system by “the Spring of
+2013.” But Hill-Rom offers no explanation for its delay in seeking a preliminary injunction.
+Courts have found that delays of as little as two months are fatal to a preliminary injunction
+request. See Novozymes A/S v. Danisco A/S, 2010 WL 3783682, at *4 (W.D. Wis. 2010)
+(finding that the patentee’s two month delay in seeking a preliminary injunction further showed
+it would not suffer irreparable harm in having to wait for a full trial as the court had a fast
+docket, and therefore the full trial would be set a mere few months later); see also High Tech
+Medical Instrumentation, Inc. v. New Image Indus., Inc., 49 F.3d 1551, 1557 (Fed.Cir.1995)
+(“[a]bsent a good explanation, ... 17 months is a substantial period of delay that militates against
+the issuance of a preliminary injunction by demonstrating that there is no apparent urgency to the
+request for injunctive relief.”); Capital Machine Co., Inc. v. Miller Veneers, Inc., 2010 WL
+3000769, at *1 (S.D. Ind. 2010) (denying patentee’s motion for a preliminary injunction without
+even considering the likelihood of success on the merits because the court found that the patentee
+could not show irreparable harm where it, inter alia, waited for over a year after filing the suit to
+
+22
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 23 of 32 PageID# 459
+
+move for a preliminary injunction). Here, Hill-Rom’s delay in bringing suit fatally undermines
+its allegations of urgency.
+Moreover, the earliest of Hill-Rom’s patents issued over ten years ago in 2004; Hill
+Rom’s insistence that “[t]he window of opportunity for Hill-Rom to realize the value of its
+patents is now” is thus difficult to reconcile with its delay in bringing suit and even longer delay
+in entering the relevant market. PI Brief at 19 (emphasis in original). Hill-Rom’s motion should
+thus be denied for these reasons.
+2.
+
+Hill-Rom’s Lost Sales and Market Share Arguments Are Purely
+Speculative
+
+Next, Hill-Rom presents no evidence of actual past or future lost sales or contracts.
+Instead, Hill-Rom only speculates over the potential for an unknown number of lost sales in
+unknown locations at unknown times to unknown customers. But speculative opportunity loss
+and the “loss” of potential, unknown, future market share is not a ground for injunctive relief.
+See, e.g., Automated Merchandising Systems, Inc., 357 F. App’x at 301 (reversing district court
+finding of irreparable harm since the evidence showed only a “speculative loss” of sales and
+market share); see also Nutrition 21, 930 F.2d at 871 (“[N]either the difficulty of calculating
+losses in market share, nor speculation that such losses might occur, amount to proof of special
+circumstances justifying the extraordinary relief of an injunction prior to trial.”).
+The sole support for Hill-Rom’s claim of any lost sales is the following statement from
+Hill-Rom’s fact witness, Mr. McMullin: “Hill-Rom . . . is aware of at least one instance in which
+it initially made a sale, but the sale was then cancelled when the healthcare facility was told by
+HCA management that it was required to use GE’s AgileTrac system.” McMullin Decl. at ¶ 37.
+But this statement—aside from being rank, inadmissible hearsay—is factually misleading at least
+because (1) HCA’s facilities have no obligation to use GE’s system, and (2) Hill-Rom admits
+
+23
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 24 of 32 PageID# 460
+
+that it has enjoyed its own “success promoting its RTLS-based hand hygiene system within some
+segments of HCA.” See Dirksmeier Decl. at ¶ 20 (explaining that HCA’s contract with GE does
+not obligate HCA to purchase any of its Hand Hygiene Systems); McMullin Decl. at ¶ 31
+(acknowledging Hill-Rom’s success with HCA). Even if Mr. McMullin’s statement was true
+and admissible, it would be vastly insufficient to warrant relief as extraordinary as a preliminary
+injunction. See, e.g., Automated Merchandising, 357 F. App’x at 300-301 (“lost sales standing
+alone are insufficient to prove irreparable harm” (internal quotations omitted)).
+Moreover, the type of evidence that Hill-Rom offered—declarations replete with
+speculation and hearsay—is precisely what this District rejected in Dynamic Manufacturing. See
+Dynamic Mfg. Inc. v. Craze, 1998 WL 241201 at *4 (E.D. Va. Feb. 23, 1998) (denying
+preliminary injunction where plaintiff’s only evidence of harm—lost sales—was one witness’s
+anecdotal testimony of a customer choosing between products, which was deemed “speculative
+at best”). Other courts have also repeatedly rejected such speculation in denying preliminary
+injunction motions. See Mike’s Train House, Inc. v. Broadway Ltd. Imports, LLC, 708 F. Supp.
+2d 527, 533 (D. Md. 2010) (denying motion where plaintiff’s evidence—an affidavit asserting
+lost investments, “lo[ss] of existing customers and potential customers,” and market share
+erosion—were insufficient to prove irreparable harm); MicroAire Surgical Instruments, LLC v.
+Arthrex, Inc., 726 F. Supp. 2d 604, 639 (W.D. Va. 2010) (“Therefore, there clearly must be more
+than the potential for lost sales as a result of a competitor product entering the market to establish
+irreparable harm.”) (denying preliminary injunction where plaintiff speculated over potential lost
+sales); Automated Merchandising Sys., Inc., 357 Fed. Appx. at 300-01 (noting that the affidavit
+by plaintiff’s president only identified the loss of one customer, which is insufficient loss of
+market share to warrant an injunction); Illinois Tool Works, Inc. v. Grip–Pak, Inc., 906 F.2d 679
+
+24
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 25 of 32 PageID# 461
+
+(Fed. Cir. 1990) (finding potential lost sales insufficient to show irreparable harm and nothing
+that to find otherwise “would require a finding of irreparable harm to every
+manufacture/patentee, regardless of circumstances.”).
+Hill-Rom cannot prove any lost sales or market share because there are virtually no sales
+to lose. For instance, there are currently almost six thousand hospitals in the United States, but
+GE has installed its AgileTrac™ software system in only fifty-three total hospitals. Dirksmeier
+Decl. at ¶¶ 9, 30. Out of those 53 hospitals, only five have installed GE’s Hand Hygiene System.
+Id. GE presently has no sales orders for its Hand Hygiene System in any HCA hospitals.
+Dirksmeier Decl. at ¶ 30. Hill-Rom also specifically argues that it is concerned about being
+disadvantaged over GE’s relationship with HCA, but there are only 165 HCA hospitals, a small
+percentage (less than 3%) of the total market. Dirksmeier Decl. at ¶¶ 9, 30. Hill-Rom’s concern
+is also belied by the fact that Hill-Rom has in fact made a hand hygiene system sale at an HCA
+hospital. McMullin Decl. at ¶¶ 32-33; see also id. at ¶ 42 (“HCA and Hill-Rom have had
+ongoing discussions regarding expansion of usage . . . .”), ¶ 43 (“Hill-Rom believes that [it] . . .
+could increase substantially its annual sales to HCA.”). Hill-Rom can thus hardly be heard to
+complain that it will be unable to secure a contract with HCA due to GE’s alleged infringement
+when Hill-Rom has already secured a contract with HCA and has positive expectations of
+substantial future sales.
+Next, although Hill-Rom claims that the hand hygiene market is a multi-million dollar
+business, in reality, GE’s limited sales of its Hand Hygiene System has netted total revenues of
+only $357,412.66. Dirksmeier Decl. at ¶¶ 23, 31. Outside of GE and Hill-Rom, at least fifteen
+other companies are currently competing in the hand hygiene monitoring market. Dirksmeier
+Decl. at ¶ 21; Malackowski Decl. at ¶ 12. Although there is no evidence that Hill-Rom—rather
+
+25
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 26 of 32 PageID# 462
+
+than its fifteen competitors—would have sold its hand-hygiene system to GE’s five customers
+but for GE’s presence in the market, even assuming that Hill-Rom would have made those sales,
+Hill-Rom’s lost profits could be no more than $357,412.66.
+Hill-Rom’s allegations concerning lost ancillary sales are also purely speculative and
+unsupported by the evidence. In fact, GE’s hand hygiene product has never driven any sales of
+any RTLS-enabled installations. Compare Dirksmeier Decl. at ¶ 25 (“The hand hygiene product
+has never driven any GEHC RTLS-enabled installations.”) with McMullin Decl. at ¶ 20 (“HillRom anticipates that it will make significant additional sales of its RTLS and other proprietary
+information technology solutions and product portfolio if it is able to sell its RTLS-based hand
+hygiene system.”); see also Malackowski Decl. at ¶¶ 22-25. The discrepancy in this evidence
+alone is sufficient to raise a substantial question as to Hill-Rom’s allegations.
+Finally, even if Hill-Rom’s declarations were probative, they prove nothing about
+whether Hill-Rom will lose any future sales to GE. Indeed, since Hill-Rom has not chosen to
+enter this market in any significant form, it has no market share to lose, nor does it have any
+sales data from which the Court could reasonably infer some baseline level of consumer demand
+for its products. Hill-Rom therefore cannot present any credible evidence that, absent an
+injunction, it would make any sales at all, much less that some reasonably ascertainable portion
+of these hypothetical sales would be lost to GE. In this regard, Hill-Rom’s expert, Dr. Reiff, is
+simply wrong that “the patent-holder and the [alleged] infringer are head-to-head competitors for
+key contracts.” Decl. at ¶ 30. Indeed, given Hill-Rom’s minimal market share and the fifteen
+other participants in addition to GE in the hand-hygiene market, Hill-Rom’s allegation that it can
+ascribe any asserted diversion of customers to GE with any degree of certainty is fanciful.
+Malackowski Decl. at ¶¶ 11-13; see Abbott Labs. v. Andrx Pharm., Inc., 452 F.3d 1331, 1348
+
+26
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 27 of 32 PageID# 463
+
+(Fed. Cir. 2006) (noting that the Court “do[es] not doubt that generic competition will impact
+Abbott’s sales . . . but that alone does not establish that Abbott’s harm will be irreparable.”).
+3.
+
+Hill-Rom’s Price Erosion and Loss of Reputation and Goodwill
+Arguments Are Likewise Unsupported by the Evidence
+
+Nor does Hill-Rom provide any evidence to support its speculative claim of irreparable
+harm in the form of price erosion and loss of goodwill. See Malackowski Decl. at ¶¶ 26-29.
+Because Hill-Rom sat on its invention for over a decade, Hill-Rom has no customer goodwill to
+lose, nor does it have an established pricing structure that GE’s sales could conceivably erode.
+Such purely speculative injury is not the basis for an irreparable harm finding. Automated
+Merchandising Sys., Inc., 357 Fed. Appx. at 300-01 (vacating preliminary injunction and finding
+that plaintiff’s price erosion theory was supported only by conclusory statement that it was
+possible). Moreover, to protect Hill-Rom’s alleged reputation and goodwill and prevent any
+alleged price erosion, Hill-Rom would need to seek injunctive relief against its fifteen other
+competitors, which Hill-Rom has not done. Thus, Hill-Rom’s reputation and price erosion
+arguments are without merit.
+4.
+
+Hill-Rom’s Infrastructure Investment and Switching Cost Arguments Are
+Overstated
+
+Hill-Rom also vastly overstates the infrastructure and switching costs for the accused
+technology. See PI Brief at 18; McMullin Decl. at ¶ 26. Hand-hygiene systems are merely addon products to existing RTLS infrastructures, and the hygiene system can be switched to another
+infrastructure with an adapter. See Dirksmeier Decl. at ¶¶ 5-7, 10, 11. Moreover, the reasons for
+the slowness in hospitals acquiring hand-hygiene solutions is not due to infrastructure costs, but
+rather due to the highly competitive nature of the market. Dirksmeier Decl. at ¶ 26;
+Malackowski Decl. at ¶¶ 17-21. As noted above, there are presently seventeen competitors
+vying to supply hand-hygiene systems.
+
+27
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 28 of 32 PageID# 464
+
+5.
+
+Monetary Damages Will Sufficiently Compensate Hill-Rom for Any
+Alleged Infringement
+
+Hill-Rom’s allegation that monetary damages will be insufficient to compensate HillRom for any alleged harm is wholly without merit. First, “there is no presumption that money
+damages will be inadequate in connection with a motion for an injunction pendente lite. Some
+evidence and reasoned analysis for that inadequacy should be proffered.” Nutrition 21, 930 F.2d
+at 871–72 (emphasis in original) (vacating grant of a preliminary injunction where only evidence
+was speculation as to the loss of market share). In fact, the Federal Circuit has stated that lost
+sales alone are presumed compensable through damages. Automated Merchandising Sys., Inc.,
+357 Fed. Appx. at 301 (vacating preliminary injunction: “Lost sales (without more) are presumed
+to be compensable through damages, so they do not require injunctive relief.”).
+Any alleged harm that Hill-Rom has suffered is easily quantifiable with monetary
+damages. Malackowski Decl. at ¶¶ 30-36; see Pergo, Inc. v. Faus Grp., Inc., 401 F. Supp. 2d
+515, 527-29 (E.D.N.C. 2005) (denying preliminary injunction where even assuming even that
+evidence of lost sales was sufficiently shown, this harm could be easily calculated and thus was
+not irreparable). Here, most of GE’s revenue is generated from the initial sale of the system
+installation, a license fee for the software, and the various hardware components. Dirksmeier
+Decl. at ¶ 24. Subsequent revenue streams include a yearly fee for maintenance and support
+services for the hardware and software. Id. All of these amounts are readily quantifiable, and
+Hill-Rom’s lost profits cannot be more than GE’s $357,412.66 in revenue. Id. at ¶¶ 23-24. GE
+has no future sales that Hill-Rom could have otherwise made, and Hill-Rom has already secured
+a sales relationship with HCA. Thus, Hill-Rom has not and will not sustain any damages that
+cannot be quantified.
+
+28
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 29 of 32 PageID# 465
+
+6.
+
+The Only Hill-Rom Parties That Could Suffer Irreparable Harm Have No
+Standing to Assert the Patents
+
+Finally, Hill-Rom’s complaint alleges that Hill-Rom Services (HRS) has all property
+rights to the asserted patents, and that Hill-Rom Manufacturing (HRM) and Hill-Rom Company
+(HRC) are the parties that manufacture and distribute the systems that use the asserted patents.
+Complaint at ¶¶ 10, 12, 14. Thus, HRS, as a mere patent-holding entity, cannot possibly be
+suffering irreparable harm because it does not make or distribute any competing products. And
+HRM and HRC—as manufacturers and distributers—have no standing to seek injunctive relief
+because they do not own the asserted patents. WiAV Solutions LLC v. Motorola, Inc., 631 F.3d
+1257, 1264 (Fed. Cir. 2010); Sicom Sys., Ltd. v. Agilent Technologies, Inc., 427 F.3d 971, 976
+(Fed. Cir. 2005). Because the only party with possible standing in this case—HRS—cannot
+possibly be suffering any harm, Hill-Rom’s motion should be denied for this additional reason.
+C.
+
+The Balance of Hardships Does Not Weigh in Hill-Rom’s Favor
+
+The balance of the hardships does not weigh in Hill-Rom’s favor, which is another,
+independent basis to deny Hill-Rom’s request. See Winter, 555 U.S. at 24. First, Hill-Rom
+argues that GE is a large company that sells many products; but this factor weighs in GE’s favor
+because it shows GE’s ability to satisfy any judgment. See Dynamic Mfg. Inc. v. Craze, 1998 WL
+241201 at *13 (E.D. Va. Feb. 23, 1998) (denying preliminary injunction in part because
+defendant would be able to pay any damages). Moreover, Hill-Rom itself is a large company
+that sells many products, so this factor is neutral at best. See, e.g., PI Brief at 22 (identifying
+Hill-Rom’s other product lines, including NurseCall, WatchChild, and hospital beds);
+Malackowski Decl. at ¶ 14. Indeed, Hill-Rom’s sales of its competing hand-washing monitoring
+product are only 0.3% of its overall revenues. Id. Finally, aside from its failure to identify any
+actual lost sales, Hill-Rom does not allege that absent a preliminary injunction, Hill-Rom will
+
+29
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 30 of 32 PageID# 466
+
+have to change any of its business plans, layoff its employees, discontinue any products, or
+otherwise do anything but carry out its business as usual. Thus, Hill-Rom provides no evidence
+of any actual harm that outweighs disrupting GE’s business while this litigation is pending.
+D.
+
+The Public Interest Does Not Support Granting a Preliminary Injunction
+
+Finally, the public interest does not support an injunction. First, the public has a strong
+interest in having a wide choice of products. See Nano-Second Tech. Co. v. Dynaflex Int’l, 2011
+U.S. Dist. LEXIS 111836 at *13 (C.D. Cal. Sept. 28, 2011) (The “public interest in continued
+market competition for these products disfavors a preliminary injunction.”); Wachovia Sec., LLC
+v. Gates, WL 1803612 at *3 (E.D. Va. Apr. 21, 2008) (denying preliminary injunction as against
+the public interest where the injunction would prevent customers from engaging in the free
+market of relevant products and services). Second, GE’s product saves lives. This District has
+found that with important healthcare services, entering an injunction “would clearly be against
+the interests of public health and safety.” Hampton Univ. v. Accred. Council For Pharm. Edu.,
+611 F. Supp. 2d 557, 569-72 (E.D. Va. 2009) (denying a preliminary injunction even though
+most factors weighed in its favor due to the “weighty public interests at stake” where the “case
+involves medical professionals . . . who are responsible for preparing and dispensing life-saving
+(and, in some cases of error, life-threatening) medications in hospitals”). Here, Hill-Rom alleges
+that as many as 75,000 people die annually from healthcare-associated infections and that handhygiene compliance “translates to human lives saved.” PI Brief at 2-4. The public interest thus
+cannot be served by an injunction on life-saving products.
+V.
+
+CONCLUSION
+Hill-Rom has not shown that it is entitled to a preliminary injunction. GE has raised
+
+substantial questions of non-infringement and invalidity, and Hill-Rom failed to put forth
+sufficient evidence of irreparable harm. For these reasons, Hill-Rom’s motion should be denied.
+
+30
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 31 of 32 PageID# 467
+
+Dated: June 23, 2014
+Respectfully submitted,
+
+By:/s/ Robert M. Tata
+Robert M. Tata (VSB #30101)
+Wendy C. McGraw (VSB #37880)
+HUNTON & WILLIAMS LLP
+500 E. Main Street, Suite 1000
+Norfolk, VA 23510
+(757) 640-5300
+(757) 625-7720 fax
+btata@hunton.com
+wmcgraw@hunton.com
+David J. Lender (pro hac vice)
+WEIL, GOTSHAL & MANGES LLP
+767 Fifth Avenue
+New York, NY 10152
+(212) 310-8000
+(202) 833-3035 fax
+david.lender@weil.com
+Brian E. Ferguson (pro hac vice)
+Robert T. Vlasis, III (pro hac vice)
+WEIL, GOTSHAL & MANGES LLP
+1300 Eye Street, N.W., Suite 900
+Washington, DC 20005
+(202) 682-7000
+(202) 867-0940 fax
+brian.ferguson@weil.com
+robert.vlasis@weil.com
+Attorneys for General Electric Company
+
+Case 2:14-cv-00187-RGD-LRL Document 40 Filed 06/23/14 Page 32 of 32 PageID# 468
+
+CERTIFICATE OF SERVICE
+I hereby certify that on June 23, 2014, I will electronically file the foregoing with the Clerk of
+Court using the CM/ECF system, which will then send a notification of such filing (NEF) to the
+following:
+Stephen E. Noona, Esq.
+Lauren Tallent Rogers, Esq.
+KAUFMAN & CANOLES, P.C.
+150 West Main Street, Suite 2100
+Norfolk, VA 23510
+senoona@kaufcan.com
+ltrogers@kaufcan.com
+
+J. Michael Showalter, Esq.
+SCHIFF HARDIN LLP
+233 S. Wacker Drive, Suite 6600
+Chicago, IL 60606
+mshowalter@schiffhardin.com
+
+Stacie R. Hartman, Esq. (pro hac vice)
+A. Taylor Corbitt, Esq. (pro hac vice)
+SCHIFF HARDIN LLP
+233 S. Wacker Drive, Suite 6600
+Chicago, IL 60606
+shartman@schiffhardin.com
+tcorbitt@schiffhardin.com
+
+Stephen M. Haskins, Esq. (pro hac vice)
+SCHIFF HARDIN, LLP
+One Market
+Spear Street Tower, Thirty-Second Floor
+San Francisco, CA 94105
+shankins@schifflardin.com
+
+Samuel D. Almon, Esq. (pro hac vice)
+SCHIFF HARDIN, LLP
+One Atlantic Center, Suite 2300
+1201 West Peachtree Street
+Atlanta, GA 30309
+salmon@schiffhardin.com
+Attorneys for Plaintiffs Hill-Rom Company, Inc.
+Hill-Rom Services, Inc. and Hill-Rom Manufacturing, Inc.
+/s/ Robert M. Tata
+Robert M. Tata (VSB #30101)
+HUNTON & WILLIAMS LLP
+500 E. Main Street, Suite 1000
+Norfolk, VA 23510
+(757) 640-5300
+(757) 625-7720 fax
+btata@hunton.com
+Attorney for General Electric Company
+
+

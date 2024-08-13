@@ -1,0 +1,972 @@
+HYPERPHRASE TECHNOLOGIES, LLC v. GOOGLE INC.
+
+Doc. 152
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE WESTERN DISTRICT OF WISCONSIN
+HYPERPHRASE TECHNOLOGIES,
+LLC, and HYPERPHRASE INC.,
+Plaintiffs,
+v.
+GOOGLE INC.,
+Defendant.
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+Civil Action No. 06-C-0199-BBC
+
+HYPERPHRASE’S BRIEF IN OPPOSITION
+TO GOOGLE’S “MOTION TO FIND THIS CASE EXCEPTIONAL
+AND TO AWARD POST-REMAND ATTORNEYS’ FEES AND EXPENSES”
+
+Dockets.Justia.com
+
+TABLE OF CONTENTS
+Page
+I.
+
+INTRODUCTION .................................................................................................. 1
+
+II.
+
+THE FEDERAL CIRCUIT’S DECISION
+AND SUBSEQUENT EVENTS IN THIS COURT .............................................. 2
+A.
+
+The Federal Circuit Decided Only One Issue Of Claim Construction ....... 2
+
+B.
+
+The Federal Circuit Did Not Decide The
+Fact Issues Of Infringement Of The ‘889 And ‘321 Patents ...................... 3
+
+C.
+
+After Remand, Google Asserted A Four-Year-Old
+“License” Defense And Eight Claim Interpretation Issues ........................ 3
+
+D.
+
+This Court Found Non-Infringement Based
+On Five New Claim Construction Holdings .............................................. 6
+
+E.
+
+This Court Did Not Rule On Any Issues
+Relating To Invalidity, Prior Art, Willful Infringement
+Or The Viability Of Google’s Newly-Asserted “License” Defense ........... 7
+
+III.
+
+TITLE 35 U.S.C. § 285 REQUIRES
+“CLEAR AND CONVINCING” PROOF, NOT SPECULATION ....................... 8
+
+IV.
+
+GOOGLE’S OWN ACTIONS BELIE ITS
+HINDSIGHT ARGUMENT THAT “NON-INFRINGEMENT
+WAS CLEAR” AFTER THE FEDERAL CIRCUIT’S DECISION ...................... 9
+
+V.
+
+GOOGLE’S ALLEGATIONS OF
+“OBFUSCATION AND DELAY” ARE UNFOUNDED ................................... 12
+A.
+
+HyperPhrase Opposed Google’s “License” Defense (Google Br. 5-6) .... 13
+
+B.
+
+HyperPhrase Disputed Google’s
+Proposed “Findings Of Fact” (Google Br. 6-8) ....................................... 14
+
+C.
+
+HyperPhrase Allegedly “Rewrote”
+The Definition Of “Data Reference” (Google Br. 8-11) .......................... 15
+
+D.
+
+HyperPhrase’s Infringement Expert Supposedly
+Offered “Multiple Opinions” (Google Br. 11-12) .................................... 16
+ii
+
+E.
+
+HyperPhrase “Continued To Pursue Its
+Willful Infringement Allegation” (Google Br. 12-13) ............................. 17
+
+F.
+
+Google’s Accusations Do Not Add Up To An “Exceptional Case” ........ 17
+
+VI.
+
+THE CASES GOOGLE CITES DO NOT SUPPORT ITS POSITION .............. 19
+
+VII.
+
+CONCLUSION .................................................................................................... 22
+
+iii
+
+TABLE OF AUTHORITIES
+Page(s)
+FEDERAL CASES
+American Standard, Inc. v. York Int’l Corp.,
+244 F.Supp.2d 990 (W.D. Wis. 2002) ............................................................................. 21
+Ardisam, Inc. v. Ameristep, Inc.,
+2005 U.S. Dist. LEXIS 26865 (W.D. Wis. Nov. 3, 2005) ............................................... 16
+Becton Dickinson & Co. v. Syntron Bioresearch, Inc.,
+1998 U.S. Dist. LEXIS 22082 (S.D. Cal. Dec. 19, 1998) .......................................... 15, 16
+Brooks Furniture Manufacturing Inc. v. Dutalier International, Inc.,
+393 F.3d 1378 (Fed. Cir. 2005) .................................................................................... 8, 18
+Computer Docking Station Corp. v. Dell, Inc.,
+519 F.3d 1366 (Fed. Cir. 2008) .................................................................................... 8, 18
+Computer Docking Station Corp. v. Dell, Inc.,
+547 F. Supp. 2d 948 (W.D. Wis. 2007) ..................................................................... 11, 18
+Cybor Corp. v. FAS Technologies, Inc.,
+138 F.3d 1448 (Fed. Cir. 1998) ........................................................................................ 11
+Depuy Spine, Inc. v. Medtronic Sofamor Danek, Inc.,
+534 F. Supp. 2d 224 (D. Mass. 2008) .............................................................................. 20
+Epcon Gas Systems, Inc. v. Bauer Compressors,
+279 F.3d 1022 (Fed. Cir. 2002) ........................................................................................ 20
+HyperPhrase Technologies, LLC v. Google, Inc.,
+260 Fed. Appx. 274 (Fed. Cir. 2007) ........................................................... 2, 3, 4, 6, 9, 20
+Frank's Casing Crew & Rental Tools, Inc. v. Weatherford International, Inc.,
+389 F.3d 1370 (Fed. Cir. 2004) ........................................................................................ 18
+Johns Hopkins University v. Cellpro, Inc.,
+152 F.3d 1342 (Fed. Cir. 1998) ........................................................................................ 15
+Medtronic Navigation, Inc. v. BrainLAB Medizinische Computersystems GmbH,
+2008 U.S. Dist. LEXIS 82934 (D. Colo. Sept. 30, 2008) ................................................ 19
+
+iv
+
+Rohm & Haas Co. v. Crystal Chemical Co.,
+736 F.2d 688 (Fed. Cir. 1984) .......................................................................................... 18
+In re Seagate Technologies, LLC,
+497 F.3d 1360 (Fed. Cir. 2007) .................................................................................... 7, 17
+Stephens v. Technology International,
+393 F.3d 1269 (Fed. Cir. 2004) .......................................................................................... 8
+Taurus IP, LLC v. Daimlerchrysler Corp.,
+559 F. Supp. 2d 947 (W.D. Wis. 2008) ........................................................................... 20
+Third Wave Technologies, Inc. v. Stratagene Corp.,
+405 F. Supp. 2d 991 (W.D. Wis. 2005) ........................................................................... 21
+Vehicle IP, LLC v. General Motors Corp.,
+2008 U.S. Dist. LEXIS 43426 (W.D. Wis. June 2, 2008) ................................... 11, 12, 19
+FEDERAL STATUTES
+35 U.S.C. § 285 ................................................................................................ 8, 11, 12, 13
+MISCELLANEOUS
+“Empirical Analysis of the Federal Circuit’s Claim Construction Trends,”
+16 Berkeley Technology LJ. 1075 (2001) ........................................................................ 11
+
+v
+
+I.
+
+INTRODUCTION
+Virtually ignoring the December 26, 2007 holding of the Federal Circuit that
+
+disputed issues of fact remained for decision, Google begins by adopting the slang of a
+Las Vegas casino to unleash a torrent of invective, complaining that HyperPhrase
+“doubled down” instead of “cutting its losses” (Google Br. 1).
+
+Google accuses
+
+HyperPhrase of “ignor[ing] the facts and law and charg[ing] ahead fully understanding
+the insurmountable hurdles it faced” and “multiplying the burdens on both Google and
+the Court” (Google Br. 1) At the same time, according to Google, HyperPhrase was
+“engag[ing] in a pattern of obfuscation and delay” (Id.). Despite the December 26, 2007
+decision of the Federal Circuit finding that material issues of fact existed concerning
+infringement under the Federal Circuit’s claim construction, according to Google, “noninfringement was clear” (Google Br. 11).
+
+HyperPhrase’s “true desire [according to
+
+Google] was to ‘get to the jury at all costs’ by unduly, unnecessarily, and unreasonably
+complicating the record and issues that the Court had to address on summary judgment”
+(Br. 13).
+Google’s attorney argument falls far short of clear and convincing evidence that
+HyperPhrase’s infringement claims under the ‘889 and ‘321 patents were “objectively
+baseless,” or that HyperPhrase somehow “engaged in a pattern of obfuscation and delay”
+while simultaneously “charg[ing] fully ahead” – a neat trick in itself. As shown below,
+Google’s assertion that “non-infringement was clear” despite the Federal Circuit’s
+rejection of Google’s proffered claim interpretation is belied by Google’s own actions
+following the Federal Circuit’s decision.
+
+And Google’s litany of complaints about
+
+alleged vexatious litigation conduct are premised not on what this Court actually held in
+1
+
+its 31-page summary judgment decision on September 30, 2008 (Document 141, Exhibit
+1), but rather on Google’s ideas of what this Court should have decided – rulings this
+Court never made.
+II.
+
+THE FEDERAL CIRCUIT’S DECISION
+AND SUBSEQUENT EVENTS IN THIS COURT
+Google denigrates the Federal Circuit’s December 26, 2007 decision which began
+
+this new round of litigation as “far from a victory for HyperPhrase” (Google Br. 2).
+Indeed, to read HyperPhrase’s brief, one would think that the Federal Circuit’s decision
+was a triumph for Google, after which nothing remained for HyperPhrase but to “cut its
+losses,” in Google’s phrase, and give up. That is not so.
+A.
+
+The Federal Circuit Decided Only One Issue Of Claim Construction
+
+In fact, the Federal Circuit considered only one claim term definition.
+HyperPhrase Technologies, LLC v. Google, Inc., 260 Fed. Appx. 274, 278, 2007 U.S.
+App. LEXIS 29796, *10 (Fed. Cir. 2007) (unpublished). After extensive analysis, the
+Federal Circuit rejected Google’s proffered claim interpretation (which was the same as
+this Court’s initial interpretation). 260 Fed. Appx. at 280, 2007 U.S. App. LEXIS 29796
+at *15. The Federal Circuit went on to devise its own claim interpretation, different from
+those suggested by either party. Id. Turning to the issue of infringement, the Federal
+Circuit held that “the district court erred in its infringement analysis by finding that
+AutoLink does not use data references ...” 260 Fed. Appx. at 281, 2007 U.S. App.
+LEXIS 29796 at *17. “Since tokens may refer to multiple possible records but still be
+‘data references’ under the correct claim construction, [the district court’s] error is not
+harmless.” 260 Fed. Appx. at 281, 2007 U.S. App. LEXIS 29796 at *18.
+2
+
+B.
+
+The Federal Circuit Did Not Decide The
+Fact Issues Of Infringement Of The ‘889 And ‘321 Patents
+
+Turning to the issue of infringement, the Federal Circuit next rejected Google’s
+non-infringement argument that its tokens could not be “data references,” holding instead
+that AutoLink “tokens are ‘data references’ within the meaning of the asserted claims.”
+260 Fed. Appx. at 281, 2007 U.S. App. LEXIS 29796 at *19 (emphasis in original). The
+Federal Circuit then remanded the case to this Court with the following instruction:
+[T]he issue of whether AutoLink infringes the asserted claims of the ‘889
+and ‘321 patents must be remanded to the district court. It is unclear from
+the record on appeal whether AutoLink meets all of the remaining
+elements of any of the asserted claims of these patents because the “data
+reference” limitation was the only limitation that the district court
+discussed in its infringement analysis and the only limitation discussed in
+detail in the parties’ briefing on appeal. We thus cannot determine if
+AutoLink does not infringe because it does not meet other limitations of
+the claims. Therefore, we must remand so the district court can evaluate
+whether AutoLink infringes the asserted claims of the ‘889 and ‘321
+patents under the correct claim construction of “data reference.”
+260 Fed. Appx. at 281, 2007 U.S. App. LEXIS 29796 at *19 (emphasis added).
+C.
+
+After Remand, Google Asserted A Four-Year-Old
+“License” Defense And Eight Claim Interpretation Issues
+
+Faced with the Federal Circuit’s ruling that “tokens are ‘data references’ within
+the meaning of the asserted claims” and evidently alarmed by the Federal Circuit’s
+rejection of its non-infringement argument based on the alleged absence of “data
+references,” after remand Google first moved this Court to amend its answer and
+counterclaims to add a “license” defense based on a license granted more than four years
+earlier by Google to Microsoft. Although not asserted until Google’s February 27, 2008
+motion to amend its answer and counterclaims (Document 98), this defense was nothing
+new to Google’s counsel. In fact, Google’s own attorneys in this case, Frank
+3
+
+Scherkenbach and Kurt Glitzenstein of Fish & Richardson, were the attorneys who
+negotiated the license on behalf of Microsoft (Exhibit 2 – letters, December 18 and 29,
+2003). HyperPhrase opposed the motion, arguing that the belated appearance of such a
+new defense would be prejudicial. This Court held: “Plaintiffs’ argument [opposing
+amendment] would be compelling were it not for the fact that the trial date has been
+continued until March 16, 2009” (3/25/08 Order, p. 2, Document 118, Exhibit 3)
+(emphasis added). Thus, Google’s license defense was rescued from being untimely only
+by this Court’s rescheduling of discovery and trial.
+Apparently not sure that its “license” defense would be permitted in this case, at
+the end of February 2008 (a month before this Court permitted addition of the “license”
+defense on March 25, 2008), Google filed a motion for summary judgment of noninfringement, supported by a 42 page long opening brief, a 34 page long reply brief, and
+932 pages of declarations and other materials, including a list of 199 allegedly
+“uncontested” facts (Documents 100, 102, 103, 106, 107, 108, 136, 137 and 138).
+Google’s non-infringement motion did not argue that the Federal Circuit’s definition of
+“data reference” required a holding of non-infringement. Indeed, the Federal Circuit had
+already rejected that argument of Google when it held that “tokens are ‘data references’
+within the meaning of the asserted claims.” 260 Fed. Appx. at 281, 2007 U.S. App.
+LEXIS 29796 at *19 (emphasis in original).
+
+Instead, Google proffered eight claim
+
+construction arguments in its February 29, 2008 motion for summary judgment of noninfringement. Those arguments were as follows:
+(1)
+
+“standardized format for addressing” requires “a computer system with a number
+of records, on a number of databases, and a standard way to format the addresses
+4
+
+of those records in the databases” (Google’s non-infringement brief, pp. 8-10,
+Document 103).
+(2)
+
+the “address” being “the address of the referenced record” (Id. pp. 11-12).
+
+(3)
+
+“modifying said references to said second data record to create an address”
+requires “that the first data record be modified to create the address of the second,
+referenced record” (Google’s reply non-infringement brief, pp. 10-12, Document
+136).
+
+(4)
+
+“first data record” refers to “one of the plurality of data records stored in the
+plurality of databases” and not “some other data record” (Google’s noninfringement brief, pp. 12-15, Document 103).
+
+(5)
+
+“modifier reference” means “a word or phrase that further specifies a specific
+record or record segment” (Id. pp. 16-17).
+
+(6)
+
+the term “when” is a limitation that “requires real-time processing and precludes
+user intervention” (Id. pp. 18-25).
+
+(7)
+
+“subject matter tag pair” means “two matching tags, each identifying a specific
+subject matter”(Id. pp. 25-27).
+
+(8)
+
+“specifying reference” means “a combination of a first DR, a second DR, and a
+MR, or it is a combination of a DR, a first MR, and second MR” (Id. pp. 27-29).
+
+Critically, Google had not presented any of these eight proposed claim interpretations to
+the Federal Circuit in the appeal, even though it had proposed some variations of these
+interpretations before the appeal. The December 21, 2006 summary judgment opinion of
+this Court (Document 64) which led to the appeal did not decide any of the eight
+
+5
+
+proposed interpretations, but instead was premised on the definition of “data reference,”
+leading to the holding the Federal Circuit vacated on appeal.1.
+D.
+
+This Court Found Non-Infringement Based
+On Five New Claim Construction Holdings
+
+Following the appeal, this Court on September 30, 2008 found non-infringement
+based on five new claim construction holdings defining the following claim terms:
+(1)
+
+“standardized format for addressing” (9/30/08 Order, pp. 13-16, Document 141,
+Exhibit 1).
+
+(2)
+
+“means for modifying said reference to said second data record to create an
+address” (Id. pp. 16-18).
+
+(3)
+
+“said address being operable to retrieve said second data record” (Id. pp. 18-22).
+
+(4)
+
+“modifier reference” (Id. pp. 23-27)
+
+(5)
+
+“seemingly general SR is modified by other record information which renders the
+SR relatively specific” (Id. pp. 27-30).
+
+These holdings were based on variants of Google’s claim interpretation arguments
+(though this Court did not accept all of Google’s arguments wholesale. See, e.g., 9/30/08
+Order, p. 27, Document 141, Exhibit 1: “The first premise of [Google’s] argument is
+erroneous.”).
+
+1
+
+The Federal Circuit held: “We here only review the district court’s
+construction of the term ‘data reference.’ The parties do not raise on appeal any other
+claim construction issue ...” 260 Fed. Appx. at 279, 2007 U.S. App. LEXIS 29796 at
+*10.
+6
+
+E.
+
+This Court Did Not Rule On Any Issues
+Relating To Invalidity, Prior Art, Willful Infringement
+Or The Viability Of Google’s Newly-Asserted “License” Defense
+
+Having held that Google’s AutoLink does not infringe the ‘889 and ‘321 patents
+because of the absence of the five specific claim elements listed directly above (9/30/08
+Order, pp. 13-30, Document 141, Exhibit 1), this Court did not rule on any of the
+following motions and arguments made by Google:
+(1)
+
+Google’s invalidity contentions and its arguments about prior art.
+
+(2)
+
+Google’s argument that it is protected by HyperPhrase’s license to Microsoft.
+
+(3)
+
+Google’s assertion that “a license would have reduced HyperPhrase’s damages
+claims by at least 90%” (Google Br. p. 5 n.2).
+
+(4)
+
+HyperPhrase’s argument that Google’s “license” argument is outside the mandate
+from the Federal Circuit.2
+
+(5)
+
+Google’s argument that there could be no “willful infringement” because of the
+decision in In re Seagate Technologies, LLC, 497 F.3d 1360 (Fed. Cir. 2007).3
+
+Although Google’s attorney fee brief treats the foregoing issues as though this Court had
+decided them adversely to HyperPhrase, that is not so.
+
+2
+
+This Court’s March 25, 2008 Order permitting Google to amend its
+answer to add a “license” defense deals only with HyperPhrase’s argument that belated
+addition of that defense would be prejudicial (3/25/08 Order, Document 118, Exhibit 3).
+It says nothing whatever about the scope of the Federal Circuit’s mandate. This Court’s
+only ruling concerning the scope of the mandate was that Google’s non-infringement
+arguments were within the scope of the mandate (9/30/08 Opinion, p. 11, Document 141,
+Exhibit 1).
+3
+
+Since this Court ruled there is no infringement based on the five new
+claim term definitions in this Court’s September 30, 2008 Order, as matters now stand
+there can be no “willful” infringement regardless of In re Seagate.
+7
+
+III.
+
+TITLE 35 U.S.C. § 285 REQUIRES
+“CLEAR AND CONVINCING” PROOF, NOT SPECULATION
+Under 35 U.S.C. § 285 (the only statutory basis for attorney fees asserted by
+
+Google), “exceptional” means something that is so far different than the norm that it
+evidences bad faith or willful, wanton and reckless misconduct. “There is a presumption
+that the assertion of infringement of a duly granted patent is made in good faith. Thus,
+the underlying improper conduct and the characterization of the case as exceptional must
+be established by clear and convincing evidence.” Brooks Furniture Mfg. Inc. v. Dutalier
+International, Inc., 393 F.3d 1378, 1382 (Fed. Cir. 2005) (citations omitted). And “an
+exceptional case finding is not to be based on speculation or conjecture but upon clear
+and convincing evidence.” Stephens v. Tech International, 393 F.3d 1269, 1276 (Fed.
+Cir. 2004) (emphasis added; reversing district court’s “exceptional case” holding).
+“When the accused infringer prevails in the underlying action, factors relevant to
+the inquiry include the closeness of the question, pre-filing investigation and discussions
+with the defendant, and litigation behavior.” Computer Docking Station Corp. v. Dell,
+Inc., 519 F.3d 1366, 1379 (Fed. Cir. 2008).
+
+Here, Google does not challenge the
+
+adequacy of HyperPhrase’s prefiling investigation – indeed, it could not, inasmuch as
+this Court denied Google’s initial attempt to obtain attorney fees under 35 U.S.C. §285
+(Order, 2/15/07, Document No. 80, Exhibit 4).
+
+Instead, Google complains about
+
+“litigation behavior” – but its gripes are predicated, for the most part, on speculation
+about what it wishes this Court had decided, rather than what this Court actually did.
+And Google’s assertion that “non-infringement was clear” (Google Br. 11) is squarely
+contradicted by Google’s own actions.
+8
+
+IV.
+
+GOOGLE’S OWN ACTIONS BELIE ITS
+HINDSIGHT ARGUMENT THAT “NON-INFRINGEMENT
+WAS CLEAR” AFTER THE FEDERAL CIRCUIT’S DECISION
+Google now insists that after the Federal Circuit’s decision, “non-infringement
+
+was clear” because “HyperPhrase had no good faith infringement position” (Google Br.
+1). But, any such conclusion is belied by Google’s own actions.
+After the decision of the Federal Circuit rejecting Google’s proffered
+interpretation of the claim term “data reference” and remanding the case “so the district
+court can evaluate whether AutoLink infringes the asserted claims of the ‘889 and ‘321
+patents under the correct claim construction of ‘data reference’” (260 Fed. Appx. 274,
+281, 2007 U.S. App. LEXIS 29796, *19), Google asserted for the first time a “license”
+defense its counsel had known about for four years. Google also filed a summary
+judgment brief including almost a thousand pages of materials that relied on eight claim
+interpretation arguments on which no court had yet ruled (see Section II-C, above).
+Along with that summary judgment brief, Google also filed another elaborate summary
+judgment motion attacking the validity of the asserted claims of the ‘889 and ‘321
+patents reflecting what Google now boasts were “scores of prior art references” (Google
+Br. 1).
+
+(“Scores of references” hardly expresses what Google actually did; in fact,
+
+Google cited a total of 2,610 prior art references in its August 9, 2006 interrogatory
+response alone.)
+
+Google also argued on summary judgment that, if there was
+
+infringement, it was excused by a license granted years ago by HyperPhrase to Microsoft.
+If “non-infringement was clear” after the Federal Circuit’s decision, as Google
+now argues (Google Br. 11), there would have been no need for the Federal Circuit to
+remand the case for a decision on infringement at all. Google would not have needed to
+9
+
+proffer for the first time a “license” defense its counsel had known about for years. Nor
+would there have been any need for Google to press eight claim construction arguments
+relating to various other claim terms after the Federal Circuit’s decision.
+
+Google’s
+
+motion for summary judgment of invalidity, which invoked a selection of what it now
+calls “scores of prior art references” (actually 2,610 such references), and which involved
+1,014 pages of argument and supporting materials, would have been equally unnecessary.
+The only reasonable conclusion is that Google itself was far from certain, after the
+Federal Circuit’s rejection of Google’s proffered interpretation of the ‘889 and ‘321
+patent claims, that “non-infringement was clear,” as it now insists.
+Maybe non-infringement is now clear, after this Court’s September 30, 2008 31page summary judgment decision finding non-infringement on the basis of new
+interpretations of five other terms of the patent claims (Document 141, Exhibit 1).
+Surely it was not clear before then; if non-infringement was a foregone conclusion there
+would have been no need for this Court to write a 31-page Opinion interpreting not just
+one, but five claim terms for the first time on September 30, 2008, and then applying
+those definitions to find non-infringement.
+Google’s own actions testify far more clearly than the words of its attorney fee
+motion that non-infringement was very far from “clear” to Google before that summary
+judgment decision. How could non-infringement have been “clear,” to use Google’s
+word, before this Court’s decision interpreting for the first time five additional claim
+terms?
+The fact is that claim interpretation is notoriously difficult and unpredictable:
+even judges of the Federal Circuit frequently disagree on the proper interpretation of
+10
+
+patent claims.
+
+As a result, in patent infringement cases disposed of on summary
+
+judgment, the rate of reversal of district court claim interpretations is high. During the
+period between January 1, 1998 through April 30, 2000, “the Federal Circuit has changed
+the lower court’s claim construction in 51% of summary judgment cases involving an
+express review of claim construction.” Christian Chu, “Empirical Analysis of the Federal
+Circuit’s Claim Construction Trends,” 16 Berkeley Technology L.J. 1075, 1112, 1131-33
+(2001); see also, Cybor Corp. v. FAS Technologies, Inc., 138 F.3d 1448, 1475-76 (Fed.
+Cir. 1998) (“[O]ne study shows that the plenary standard of review has produced
+reversal, in whole or in part, of almost 40% of all claim constructions since Markman I.
+... [T]his reversal rate, hovering near 50%, is the worst possible.”) (Rader, J., dissenting;
+emphasis added). To award attorney fees based on assertion of an erroneous claim
+construction subsequently rejected by a district court would be unjust in light of the
+unpredictability of the interpretation process, because it would be an improper exercise of
+hindsight in the face of substantial uncertainty.
+As this Court held recently in denying a motion under 35 U.S.C. § 285 for
+attorney fees:
+In hindsight, plaintiff’s contention that laptop computers could infringe
+the claims of the ‘645 patent seems more the product of wishful thinking
+than a fully considered decision. However, hindsight is not the vantage
+point from which to evaluate the legitimacy of a particular litigation
+strategy. Although it seems plain now that the ‘645 patent does not cover
+the accused laptop devices in light of plaintiff’s representations in the
+patent itself and its statements to the patent office during the application
+process, it did not seem self-evident at the beginning of the claim
+construction analysis.
+Computer Docking Station Corp. v. Dell, Inc., 547 F.Supp.2d 948, 953 (W.D. Wis. 2007)
+(emphasis added), aff’d, 519 F.3d 1366 (Fed. Cir. 2008). See also, Vehicle IP, LLC v.
+11
+
+General Motors Corp., 2008 U.S. Dist. LEXIS 43426, *9-*10 (W.D. Wis. June 2, 2008)
+(“Defendants’ exceptional case contention is based entirely on the hindsight adoption of
+this court’ s construction of the ‘743 patent. More than this is required to prove by clear
+and convincing evidence that plaintiff pursued this litigation in bad faith.”).
+
+This
+
+principle is even more apparent in this case, where the Federal Circuit had just changed
+the only claim construction definition it reviewed, substituting its own definition for the
+definition this Court initially established.
+V.
+
+GOOGLE’S ALLEGATIONS OF
+“OBFUSCATION AND DELAY” ARE UNFOUNDED
+Conspicuously absent from Google’s fuming about “obfuscation and delay”
+
+(Google Br. 1) is any discussion or even acknowledgment of the actual bases on which
+this Court entered summary judgment of non-infringement. On September 30, 2008, this
+Court’s 31-page summary judgment Opinion and Order (Document No. 141, Exhibit 1)
+dismissed HyperPhrase’s complaint for infringement of the ‘889 and ‘321 patents. Most
+of that Opinion – which Google did not attach to its brief seeking attorney fees – was
+devoted to a series of five new legal rulings on clam construction (discussed in Section
+II-D, above), which were made in response to eight claim interpretation arguments never
+before decided by any court (see Section II-C, above).
+
+Google made these eight
+
+arguments to this Court because they dealt with issues the Federal Circuit did not resolve
+in its December 26, 2007 decision.
+Not one of Google’s eight claim construction arguments – variants of which
+formed the basis for this Court’s September 30, 2008 summary judgment ruling –
+features in its motion asking this Court to find that this case was “exceptional” under 35
+12
+
+U.S.C. § 285. Instead, Google now insists that it is entitled to “approximately $500,000”
+in attorney fees (Google Br. 14) based on arguments that do not even reflect this Court’s
+summary judgment decision.
+A.
+
+HyperPhrase Opposed Google’s “License” Defense (Google Br. 5-6)
+
+Although Google attacks HyperPhrase for refusing to agree to the addition of this
+defense more than four years after Google’s attorneys knew of the license, Google
+ignores this Court’s statement that “Plaintiffs’ argument [opposing amendment] would
+be compelling were it not for the fact that the trial date has been continued until March
+16, 2009” (3/25/08 Order, p. 2, Document 118, Exhibit 3) (emphasis added). Thus,
+Google’s license defense was rescued from being untimely only by the court’s
+rescheduling of discovery and trial.
+Moreover, the legal viability of Google’s “license” defense was never decided.
+After granting Google leave to assert that defense the Court never ruled on Google’s
+summary judgment arguments about its alleged “license” in view of the noninfringement decision (see Document 124, Order postponing discovery and briefing
+concerning “license” until “the day after the court issues its summary judgment decision
+on invalidity and non-infringement,” Exhibit 5). Tellingly, Google itself stipulated that
+“as HyperPhrase’s motion notes, there is no need for the Court to reach the license issue
+if it finds the two remaining patents either invalid or not infringed.” (Google’s 4/7/08
+response to HyperPhrase’s motion for a new schedule for summary judgment on
+Google’s license defense, Document 123, p. 1, Exhibit 6). Thus, no determination has
+been made as to whether any part of Google’s activities was “licensed” and certainly no
+ruling on Google’s assertion (which it presents as though it were settled fact) that the
+13
+
+license would have reduced damages by 90% (Google Br. p. 5 n.2) Google’s argument
+that the case is “exceptional” because of its “license” defense is based not on any theory
+on which Google prevailed, but rather upon one which was never decided. That is far
+from “clear and convincing” evidence that this case is exceptional.
+B.
+
+HyperPhrase Disputed Google’s
+Proposed “Findings Of Fact” (Google Br. 6-8)
+
+Google professes outrage that HyperPhrase dared to contest “nearly all” of
+Google’s proposed facts and even had the temerity to present “399 of its own findings”
+(Google Br. 7). But, for all its invective, Google cites only one single, solitary proposed
+“additional finding of fact” (proposed fact no. 171) which, according to Google, was
+objectionable because it supposedly “offered multiple constructions of ‘data reference’
+after the Federal Circuit had explicitly construed the term” (Google Br. 7). But, “data
+reference” was not one of the eight arguments Google proffered in its February 29, 2008
+opening brief seeking summary judgment of non-infringement (See Section II-C, above).
+And this Court’s decision does not turn on the definition of “data reference” anyway, but
+rather on five other, new claim interpretation holdings (see Section II-D, above). Finally,
+Google’s assertion that HyperPhrase’s brief did not cite any additional proposed facts
+(Br. 7) is disingenuous: HyperPhrase’s summary judgment response cited extensively
+and directly to the factual evidence underlying those findings (through citations to the
+Niro, Thompson and de la Huerga declarations and to specific documents) – just as
+Google’s summary judgment brief did.
+
+14
+
+C.
+
+HyperPhrase Allegedly “Rewrote”
+The Definition Of “Data Reference” (Google Br. 8-11)
+
+Google next accuses HyperPhrase of “muddying the waters on the key ‘data
+reference’ claim term” (Google Br. 8). Far from being a “key claim term,” however,
+“data reference” is not even among the five claim terms addressed in this Court’s
+summary judgment decision (see Section II-D, above). Google’s assertion that it does
+not infringe because it supposedly uses a “separate, hidden DOM” or “hidden text”
+(Google Br. 9 n.4, 11) was not accepted by this Court; the summary judgment decision
+says nothing whatever about “hidden DOM” or “hidden text.”
+
+Google’s argument
+
+magically transmutes “we should have won on this issue” to “we did win on this issue.”
+What HyperPhrase did with respect to “data reference” was simply to suggest
+applications of the Federal Circuit’s definition to aspects of the infringement dispute in
+this case – applications which turned out not to matter, because the Court entered
+summary judgment of non-infringement based on other limitations of the patent claims.
+There was nothing improper about HyperPhrase’s suggestions. Changes in a party’s
+infringement contentions following a claim construction ruling are nothing out of the
+ordinary. See, e.g., Becton Dickinson & Co. v. Syntron Bioresearch, Inc., 1998 U.S.
+Dist. LEXIS 22082, *46 (S.D. Cal. Dec. 19, 1998):
+This court notes that there is nothing improper in Becton
+Dickinson’s choice to amend the infringement contentions subsequent
+to the order construing the patent claims, issued on August 11, 1998.
+Becton Dickinson cites Johns Hopkins University v. Cellpro, Inc., 152
+F.3d 1342, 1357 (Fed. Cir. 1998) as standing for the proposition that after
+a court has construed the claims in a patent case, the “rules of the game”
+change, thereby allowing for amendment of the arguments in the case. In
+Cellpro, the Federal Circuit held that claims that were not argued, or
+relevant, prior to claim construction may well become relevant after the
+patent claims have been construed. See id. at 1357. After a jury verdict
+15
+
+had been rendered for the defendant in Cellpro, the judge construed the
+terms of the patent claims and granted a motion for a new trial. The
+Federal Circuit ruled that the District Court’s decision to preclude a new
+argument at the second trial was error because it did not allow defendant
+to respond to the changes in the case brought about by the claim
+construction. See id. Further, the Federal Circuit held that even a pre-trial
+order did not control what issues could be later argued, or had been
+waived by the parties, where the claim construction made new arguments
+relevant. See id.
+Becton Dickinson, 1998 U.S. Dist. LEXIS 22082, at *45-*46.
+The clincher is that Google did the same thing it now berates HyperPhrase for
+doing: Google proposed eight definitions in support of its summary judgment motion
+following the Federal Circuit’s December 26, 2007 decision.
+D.
+
+HyperPhrase’s Infringement Expert Supposedly
+Offered “Multiple Opinions” (Google Br. 11-12)
+
+Google berates HyperPhrase’s expert Dr. Thompson for offering “new theories”
+of infringement (Google Br. 11). But, “[l]ike changes in claim construction, changes in
+infringement analysis are standard features of patent litigation.”
+
+Ardisam, Inc. v.
+
+Ameristep, Inc., 2005 U.S. Dist. LEXIS 26865, *6 (W.D. Wis. Nov. 3, 2005). Such
+changes do not support an “exceptional case” finding. Id. at *6-*7.
+According to Google, even though “non-infringement was clear” (at least in
+Google’s view), there was inconsistency between Dr. Thompson’s infringement analysis
+and Mr. de la Huerga’s invalidity analysis on the subject of AutoLink’s alleged
+“operat[ion] on the hidden DOM codes” (Google Br. 11-12). Again, however, Google’s
+argument reflects not what this Court actually did in granting summary judgment, but
+rather what Google thinks it should have done. This Court never reached any issues
+relating to validity (9/30/08 summary judgment order, p. 30 Document No. 141, Exhibit
+16
+
+1). There was no ruling about any claim interpretation relating to prior art. Nor was
+there ever any ruling about “hidden DOM” or “hidden text” as it might relate to either
+infringement or validity.
+E.
+
+HyperPhrase “Continued To Pursue Its
+Willful Infringement Allegation” (Google Br. 12-13)
+
+Google’s final argument is yet another variant on “we think we should have won,
+therefore we did win.” Google berates HyperPhrase for “steadfastly maintain[ing] its
+untenable willful infringement allegation after remand” (Google Br. 12). Citing In re
+Seagate Technology, Inc., 497 F.3d 1360 (Fed. Cir. 2007), Google asserts that “[t]here is
+no way HyperPhrase could meet that standard here” (Id.). Google does not even try to
+explain why that is so; and this Court never decided the “willfulness” issue, because it
+found non-infringement. Again, Google seeks an “exceptional case” finding based on an
+issue on which it did not even prevail.
+F.
+
+Google’s Accusations Do Not Add Up To An “Exceptional Case”
+
+In short, Google prevailed on the merits on just one issue: non-infringement. And
+it did so by suggesting eight claim construction arguments (see Section II-C, above),
+which it never presented to the Federal Circuit and which remained uncertain until this
+Court’s September 30, 2008 summary judgment decision (Document 141, Exhibit 1).
+The ‘889 and ‘321 patents are not infringed by AutoLink under this Court’s decision, but
+those claims remain valid notwithstanding Google’s attack on them. Nor is there any
+finding that Google’s actions are covered by any license.
+Google’s request for a finding that this case is “exceptional,” therefore, is only
+peripherally related to this Court’s actual findings, which are that five specific claim
+17
+
+elements defined for the first time by this Court in its September 30, 2008 Opinion are
+not present in AutoLink (see Section II-D, above). For the most part, Google’s argument
+is that it should have prevailed on other issues which this Court did not decide (see
+Section II-E, above), and that it is therefore entitled to half a million dollars in attorney
+fees. But, as this Court has held,
+the Federal Circuit has made it plain that the term “exceptional” means
+just that. It does not apply to miscalculation about the chances of
+prevailing or run-of-the-mill litigation problems. See Rohm & Haas, 736
+F.2d at 690-91 (Congress did not intend award of attorney fees to be
+ordinary consequence in patent suits).
+Computer Docking Station Corp. v. Dell, Inc., 547 F.Supp.2d at 954, aff’d, 519 F.3d
+1366 (Fed. Cir. 2008).
+Moreover, when Google’s inflammatory rhetoric has been stripped away, little or
+nothing more than a finding of non-infringement remains, and that finding is based on the
+construction of five claim terms by this Court on September 30, 2008. Such a holding is
+not sufficient to support a finding of “exceptional circumstances,” still less an award of
+attorney fees following such a finding. “Infringement is often difficult to determine, and
+a patentee’s ultimately incorrect view of how a court will find does not of itself establish
+bad faith.”
+
+Brooks Furniture, 393 F.3d at 1384 (vacating district court’s award of
+
+attorney fees and “exceptional case” finding); Frank’s Casing Crew & Rental Tools, Inc.
+v. Weatherford International, Inc., 389 F.3d 1370, 1379 (Fed. Cir. 2004) (no fee award
+even though patent owner “persist[ed] in offering arguments dismissed by the district
+court’s ... Markman Order”).
+
+18
+
+These principles are particularly important here, because this Court’s summary
+judgment decision dealt primarily with claim construction, a notoriously unpredictable
+topic, as this Court has held in terms equally applicable here:
+The resolution of this case turned on the court’s construction of
+claim terms in the ‘743 patent. Although the construction entitled
+defendants to prevail, and I continue to believe that the construction was
+correct, the constructions were not the only plausible ones. Plaintiff’s
+expert disagreed with the court’s construction and provided reasoning for
+his own plausible construction. Although I found plaintiff’s expert’s
+construction unpersuasive, I do not believe it was objectively baseless.
+Furthermore, construction of the term “notification region” was
+disputed throughout this lawsuit. Construction of the term required
+combining the claim language and specification as well as interpreting the
+prosecution history of the ‘743 patent. If the court of appeals were to find
+that this court erred in its construction of a “notification region,” plaintiff
+may yet prevail on its infringement claim.
+Defendants’ exceptional case contention is based entirely on the
+hindsight adoption of this court’s construction of the ‘743 patent. More
+than this is required to prove by clear and convincing evidence that
+plaintiff pursued this litigation in bad faith.
+Vehicle IP, LLC, 2008 U.S. Dist. LEXIS 43426, at *9-*10.
+VI.
+
+THE CASES GOOGLE CITES DO NOT SUPPORT ITS POSITION
+Google places primary reliance on a recent decision from the District of Colorado
+
+in Medtronic Navigation, Inc. v. BrainLAB Medizinische Computersystems GmbH, 2008
+U.S. Dist. LEXIS 82934 (D. Colo. Sept. 30, 2008).
+
+Fees were imposed in
+
+Medtronic because the patent owner’s counsel made arguments to the jury at trial which
+allegedly caused the jury to disregard the district court’s claim construction and
+“blatantly present[ed] the jury with a product to product comparison contrary to
+established law and the Court’s cautionary instructions.” Id. at *18-*19. Here, there was
+no jury and no “product to product comparison.” Aside from not being controlling
+
+19
+
+authority here, this decision is inapposite. Moreover, it is now on appeal to the Federal
+Circuit (Appeal No. 2009-1058) and therefore can hardly be regarded as settled, even in
+the Tenth Circuit.
+Google’s characterization of Depuy Spine, Inc. v. Medtronic Sofamor Danek,
+Inc., 534 F.Supp.2d 224 (D. Mass. 2008) is also misguided.
+
+Under Depuy Spine,
+
+sanctions were imposed on the defendant after defendant’s counsel made arguments to
+the jury at trial encouraging the jury to adopt an interpretation of the patent claims that
+was contrary to the construction mandated by the Federal Circuit. Again, there was no
+jury here nor any similar fear of one party seeking to improperly influence the jury or
+“take advantage of the technical and legal complexities inherent in this case.” Id. at 227.
+Google also makes much of Taurus IP, LLC v. Daimlerchrysler Corp., 559
+F.Supp.2d. 947 (W.D. Wis. 2008).
+
+But in that case, the patent owner’s prefiling
+
+investigation was deficient (id. at 967) whereas here, Google makes no such claim (nor
+could it, inasmuch as the Federal Circuit has already held that as of 2007, genuinely
+disputed issues of material fact precluded entry of summary judgment. See Section II-B,
+above, quoting HyperPhrase, 260 Fed. Appx. at 281, 2007 U.S. App. LEXIS 29796 at
+*19. In Taurus, there was also witness tampering, and the plaintiff set up a company in
+Wisconsin purely for “jurisdictional reasons.” 559 F.Supp.2d at 968. Again, Google
+makes no such accusations here.
+Moreover, the Epcon case relied on by Google is likewise inapposite. Epcon Gas
+Systems, Inc. v. Bauer Compressors, 279 F.3d 1022 (Fed. Cir. 2002). In Epcon, the
+Federal Circuit affirmed the district court’s decision denying the defendant’s motion to
+declare the case exceptional under § 285 when defendant’s argument were based almost
+20
+
+entirely on allegations that the patent licensee failed to perform an adequate prefiling
+investigation. Again, Google has made no such argument. Like Epcon, this Court should
+use its discretion to deny Google’s motion.
+The other cases Google cites are no more helpful to its position. In Third Wave
+Technologies, Inc. v. Stratagene Corp., 405 F.Supp.2d 991 (W.D. Wis. 2005), the court
+assessed attorney fees against an infringer (not against a patent owner), finding that the
+infringer had disobeyed court orders requiring production of documents, violated a
+protective order by disclosing confidential materials, proffered a “meritless challenge to
+plaintiff’s ownership of the patents in issue,” and submitted an exhibit list that showed
+disregard for civility and courtesy. Id. at 1017. No such charges are made by Google
+here.
+Furthermore, Google’s reliance on American Standard, Inc. v. York Int’l Corp. is
+not persuasive. 244 F. Supp. 2d 990 (W.D. Wis. 2002). This Court declared American
+Standard an exceptional case based on a jury verdict finding both non-infringement and
+invalidity, evasive discovery tactics on the part of the plaintiffs as well as a finding that
+plaintiffs failed to conduct an adequate prefiling investigation. Id. at 997. HyperPhrase
+submits that the present case is entirely factually distinct. There was no jury trial. There
+was no finding of invalidity here. The claims of the ‘889 and ‘321 patents, though not
+infringed, remain valid. There are no allegations of evasive discovery tactics on the part
+of HyperPhrase that would support Google’s argument that this is an exceptional case.
+Further, there are no allegations, let alone any finding by this court, that HyperPhrase
+failed to conduct an adequate prefiling investigation. On these facts, there is no basis to
+grant Google’s motion to find this case exceptional under § 285.
+21
+
+VII.
+
+CONCLUSION
+Google’s motion for attorney fees should be denied. Google has failed to prove
+
+by clear and convincing evidence that this case was “exceptional” – indeed, its arguments
+rest primarily on impermissible hindsight. And Google has offered no reasons why this
+Court should exercise its discretion to award fees even if this were an “exceptional” case.
+
+Respectfully submitted,
+
+/s/ Raymond P. Niro
+Raymond P. Niro
+NIRO, SCAVONE, HALLER & NIRO
+181 West Madison Street, Suite 4600
+Chicago, Illinois 60602
+(312) 236-0733
+Fax: (312) 236-3137
+
+Kim Grimmer
+Jennifer L. Amundsen
+SOLHEIM BILLING & GRIMMER, SC
+U.S. Bank Plaza, Suite 301
+One South Pinckney Street
+Madison, Wisconsin 53701-1644
+(608) 282-1200
+Fax: (608) 282-1218
+
+Attorneys for HyperPhrase
+Technologies, LLC and HyperPhrase, Inc.
+
+22
+
+CERTIFICATE OF SERVICE
+I hereby certify that a true copy of the foregoing HYPERPHRASE’S BRIEF IN
+OPPOSITION TO GOOGLE’S “MOTION TO FIND THIS CASE
+EXCEPTIONAL AND TO AWARD POST-REMAND ATTORNEYS’ FEES AND
+EXPENSES” was served and filed with the Clerk of the Court using CM/ECF system
+who will provide notice to the counsel listed below:
+Frank E. Scherkenbach
+Kurt L. Glitzenstein
+FISH & RICHARDSON P.C.
+225 Franklin Street
+Boston, Massachusetts 02110-2804
+(858) 678-5070
+Fax: (858) 678-5099
+scherkenbach@fr.com
+glitzenstein@fr.com
+
+James A. Friedman
+James D. Peterson
+GODFREY & KAHN, S.C.
+One East Main Street, Suite 500
+P.O. Box 2719
+Madison, Wisconsin 53701-2719
+(608) 257-3911
+Fax: (608) 257-0609
+jfriedma@gklaw.com
+jpeterson@gklaw.com
+
+Michael J. Kane
+William R. Woodford
+FISH & RICHARDSON P.C.
+3300 Dain Rauscher Plaza
+60 South Sixth Street
+Minneapolis, Minnesota 55402
+(612) 335-5070
+Fax: (612) 288-9696
+kane@fr.com
+woodford@fr.com
+Jason W. Wolff
+FISH & RICHARDSON P.C.
+12390 El Camino Real
+San Diego, California 92130
+(858) 678-5070
+Fax: (858) 678-5099
+wolff@fr.com
+Attorneys for Google, Inc.
+on this 13th day of February, 2009.
+
+/s/Raymond P. Niro
+
+

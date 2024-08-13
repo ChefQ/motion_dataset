@@ -1,0 +1,1108 @@
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 1 of 29
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF TEXAS
+HOUSTON DIVISION
+TWIN CITY FIRE INSURANCE CO.
+Plaintiff,
+v.
+OCEANEERING INTERNATIONAL,
+INC., et al.,
+Defendants.
+
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+
+C.A. No. 4:16-cv-666
+
+DEFENDANTS’ RESPONSE IN OPPOSITION TO
+PLAINTIFF’S MOTION FOR SUMMARY JUDGMENT
+Defendants Oceaneering International, Inc. (“Oceaneering”), John R. Huff, T. Jay
+Collins, Jerold J. DesRoche, D. Michael Hughes, Harris J. Pappas, Paul B. Murphy, Jr., David S.
+Hooker and M. Kevin McEvoy (collectively, the “Oceaneering Directors”) (together with
+Oceaneering, the “Oceaneering Defendants”) respond to Plaintiff’s Motion for Summary
+Judgment.
+Respectfully submitted,
+REED SMITH LLP
+/s/ J. James Cooper
+J. James Cooper
+T.X. I.D. No. 04780010
+REED SMITH LLP
+811 Main Street, Suite 1700
+Houston, Texas 77002
+Telephone: 713.469.3800
+Facsimile: 713.469.3899
+jcooper@reedsmith.com
+Lead Attorney for Defendants Oceaneering
+International, Inc., John R. Huff, T. Jay Collins,
+Jerold J. Desroche, D. Michael Hughes, Harris J.
+Pappas, Paul B. Murphy, Jr., David S. Hooker, and
+M. Kevin McEvoy
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 2 of 29
+
+OF COUNSEL:
+REED SMITH LLP
+Caitlin R. Garber (pro hac vice granted)
+Pa. I.D. No. 311321
+cgarber@reedsmith.com
+Kateri Tremblay (pro hac vice granted)
+Pa. I.D. No. 320466
+ktremblay@reedsmith.com
+
+CERTIFICATE OF SERVICE
+I hereby certify that on this 8th day of July, 2016, a true and correct copy of the above
+Defendants’ Response in Opposition to Plaintiff’s Motion for Summary Judgment has been
+served on all counsel of record via the CM/ECF system.
+/s/ J. James Cooper
+J. James Cooper
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 3 of 29
+
+TABLE OF CONTENTS
+Page
+I.
+
+INTRODUCTION ...............................................................................................................1
+
+II.
+
+INCORPORATING THE OCEANEERING DEFENDANTS MOTION FOR
+JUDGMENT ON THE PLEADINGS AND SUPPORTING MEMORANDUM ...............2
+
+III.
+
+DISPUTED FACTS .............................................................................................................2
+
+IV.
+
+ARGUMENT .......................................................................................................................3
+
+V.
+
+A.
+
+Controlling Precedent Requires Twin City, Not The Oceaneering
+Defendants, To Prove That Coverage Is Excluded ..................................................3
+
+B.
+
+Twin City Fails To Explain Why Texas Public Policy Bars Coverage For
+A Settlement Absent Findings Or Admissions Of Wrongdoing ..............................6
+1.
+
+Twin City Does Not Offer A Compelling Response To Burks ...................7
+
+2.
+
+Texas Does Not Have A Well-Defined Public Policy Precluding
+Coverage For The Settlement Of A Claim Seeking Disgorgement ...........10
+
+C.
+
+Twin City’s Interpretation Of The “Uninsurable Provision” Virtually
+Eliminates Coverage For Shareholder Derivative Actions And Renders An
+Historically Significant Section Of The Policy Meaningless ................................12
+
+D.
+
+Twin City’s Non-Texas Cases Do Not Negate Coverage For The
+Settlement Of Claims Seeking Disgorgement Damages .......................................15
+1.
+
+Level 3 Is Unreliable Precedent .................................................................15
+
+2.
+
+Twin City’s Non-Texas Cases Do Not Support Its Public Policy
+Argument ...................................................................................................17
+
+E.
+
+Allegations Of Wrongful Conduct Establish Nothing ...........................................19
+
+F.
+
+The Policy Specifically Covers Allegations Of Personal Profit Unless
+There Is A Final And Nonappealable Adjudication Of Misconduct .....................20
+
+CONCLUSION ..................................................................................................................21
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 4 of 29
+
+TABLE OF AUTHORITIES
+Page(s)
+Cases
+Alaska Elec. Pension Fund v. Brown,
+941 A.2d 1011 (Del. 2007) ................................................................................................19, 20
+Andover Newton Theological School, Inc. v. Continental Cas. Co.,
+964 F.2d 1237 (1st Cir. 1992) ....................................................................................................4
+Aon Corp. v. Certain Underwriters at Lloyd’s of London,
+No. 06-16852, 2010 WL 8510173 (Ill. Civ. Ct. Ch. Div. Dec. 3, 2010) .................................18
+Balandran v. Safeco Ins. Co. of America,
+972 S.W.2d 738 (Tex. 1998)....................................................................................................21
+Bank of the West v. Super. Ct.,
+833 P.2d 545 (Cal. 1992) .........................................................................................................18
+Big 5 Corporation v. Gulf Underwriters Insurance Company,
+No. CV 02-3320WJR(SHX), 2003 WL 22127029 (C.D. Cal. July 14, 2003) ........................18
+Burks v. XL Specialty Ins. Co.,
+No. 14-14-00740-CV, 2015 WL 6949610 (Tex. App.—Houston [14th Dist.]
+Nov. 10, 2015, no writ) .................................................................................................... passim
+Carter–Wallace, Inc. v. Admiral Ins. Co.,
+712 A.2d 1116 (N.J. 1998).........................................................................................................5
+Cent. Dauphin Sch. Dist. v. Am. Cas. Co.,
+426 A.2d 94 (Pa. 1981) ............................................................................................................17
+Cohen v. Lovitt & Touche, Inc.,
+308 P.3d 1196 (Ariz. Ct. App. 2013) .......................................................................................16
+Cox Operating, L.L.C. v. St. Paul Surplus Lines Ins. Co.,
+795 F.3d 496 (5th Cir. 2015) .....................................................................................................4
+Daily Income Fund v. Fox,
+464 U.S. 523 (1984) ........................................................................................................... 12-13
+Fidelity Bank v. Chartis Specialty Ins. Co.,
+No. 1:12-CV-4259-RWS, 2013 WL 4039414 (N.D. Ga. Aug. 7, 2013) .................................18
+Gallup, Inc. v. Greenwich Ins. Co.,
+No. CV N14C-02-136FWW, 2015 WL 1201518 (Del. Super. Feb. 25, 2015) .............9, 15, 19
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 5 of 29
+
+Gastar Exploration Ltd. v. U.S. Specialty Ins. Co.,
+No. 14-12-00118-CV, 2013 WL 3693603 (Tex. App.—Houston [14th Dist.]
+July 16, 2013, no pet.) ................................................................................................................5
+Genzyme Corp. v. Federal Ins. Co.,
+622 F.3d 62 (1st Cir. 2010) ........................................................................................................6
+Greene v. Farmers Ins. Exchange,
+446 S.W.3d 761 (Tex. 2014)......................................................................................................5
+Hurst v. American Racing Equipment, Inc.,
+981 S.W.2d 458 (Tex. App.—Texarkana 1998, no pet.) .........................................................19
+Ill. Union Ins. Co. v. Midwood Lumber & Millwork, Inc.,
+No. 13-CV-2466 ARR JO, 2014 WL 639420 (E.D.N.Y. Feb. 18, 2014) ..................................5
+J.P. Morgan Securities Inc. v. Vigilant Ins. Co.,
+992 N.E.2d 1076 (N.Y. 2013) ..................................................................................................17
+John M. O’Quinn P.C. v. National Union Fire Ins. Co.,
+33 F. Supp. 3d at 766 (S.D. Tex. 2014) ...................................................................................13
+Kramer v. W. Pac. Indus. Inc.,
+546 A.2d 348 (Del. 1988) ....................................................................................................1, 11
+La Union Del Pueblo Entero v. FEMA,
+608 F.3d 217 (5th Cir. 2010) ...................................................................................................16
+Landry v. State of Ala.,
+579 F. 2d 353 (5th Cir. 1978) ..................................................................................................16
+Lawrence v. CDB Serv., Inc.,
+44 S.W.3d 544 (Tex. 2001)........................................................................................................6
+Level 3 Communications, Inc. v. Federal Ins. Co.,
+272 F.3d 908 (7th Cir. 2001) .............................................................................................15, 16
+Mountainside Holdings, LLC v. American Dynasty Surplus Lines Ins. Co.,
+No. 2003-127, 2014 WL 3055881 (Pa. Com. Pl. June 30, 2014) ............................................18
+Munich Reinsurance Am., Inc. v. Tower Ins. Co. of New York,
+2012 WL 2917576 (D.N.J. July 17, 2012).................................................................................5
+Mustang Tractor & Equipment Co. v. Liberty Mut. Ins. Co.,
+No. H-91-2523, 1993 WL 566032 (S.D. Tex. Oct. 8, 1993) ...................................................11
+O’Connor v. Proprietors Ins. Co.,
+696 P.2d 282 (Colo. 1985) .......................................................................................................13
+
+-2-
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 6 of 29
+
+Pendergest-Holt v. Certain Underwriters at Lloyd’s of London,
+600 F.3d 562 (5th Cir. 2010) ...................................................................................................14
+In re Poly-America, L.P.,
+262 S.W.3d 337 (Tex. 2008)......................................................................................................5
+Republic Western Ins. Co. v. Spierer, Woodward, Willens, Denis and Furstman,
+68 F.3d 347 (9th Cir. 1995) .....................................................................................................17
+Southcentral Employment Corp. v. Birmingham Fire Ins. Co. of Pennsylvania,
+926 A.2d 977 (Pa. Super. Ct. 2007) .........................................................................................17
+Tamimi Global Co. Ldt. v. Kellogg Brown & Root LLC,
+No. H-11-0585, 2011 WL 1157634 (S.D. Tex. Mar. 24, 2011) ................................................5
+Texas Farmers Ins. Co. v. Murphy,
+996 S.W.2d 873 (Tex. 1999)......................................................................................................6
+In re TransTexas Gas Corp.,
+597 F.3d 298 (5th Cir. 2010) ...............................................................................................7, 11
+Trinity Universal Ins. Co. v. Cowan,
+945 S.W.2d 819 (Tex. 1997)....................................................................................................13
+Trosclair v. Chevron U.S.A., Inc.,
+161 F. Supp. 2d 739 (S.D. Tex. 2001) .....................................................................................19
+U.S. Bank Nat. Ass’n v. Indian Harbor Ins.,
+68 F. Supp. 3d 1044 (D. Minn. 2014) ......................................................................................15
+U.S. Bank Nat’l Ass’n v. Indian Harbor Ins. Co.,
+2014 WL 3012969 (D. Minn. July 3, 2014) ..............................................................................9
+U.S. Fid. & Guar. Co v. Fendi Adele S.R.L.,
+-- F.3d --, 2016 WL 2865578 (2d Cir. May 17, 2016).............................................................17
+Vigilant Ins. Co. v. Credit Suisse First Boston Corp.,
+782 N.Y.S.2d 19 (1st Dep’t 2004) ...........................................................................................17
+Virginia Mason Medical Center v. Exec. Risk Indem. Inc.,
+No. C07-0636MJP, 2007 WL 3473683 (W.D. Wash. Nov. 14, 2007) ....................................19
+W.R. Grace & Co. v. Local Union 759, Intern. Union of Rubber Workers,
+461 U.S. 757 (1983) ...................................................................................................................6
+William Beaumont Hosp. v. Fed. Ins. Co.,
+2013 WL 992552 (E.D. Mich. Mar. 13, 2013) ........................................................................13
+
+-3-
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 7 of 29
+
+Other Authorities
+Gillian McPhee, 1 CORPORATE GOVERNANCE: LAW AND PRACTICE §
+5.04 (Amy L. Goodman and Steven M. Haas eds., 2013) .......................................................14
+Hartford Financial Services Group Website,
+https://www.thehartford.com/commercial-insurance-agents/coveragesdirectors-officers ......................................................................................................................13
+International Risk Management Institute, Corporate D&O Liability Coverage
+Analysis – Exclusions...............................................................................................................14
+Merriam-Webster Online Dictionary,
+http://www.merriamwebster.com/dictionary/remuneration .......................................................1
+William E. Knepper et al., 2-25 LIABILITY OF CORPORATE OFFICERS AND
+DIRECTORS § 25.10, 1 (Matthew Bender ed., 8th ed. 2013) ................................................13
+
+-4-
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 8 of 29
+
+I.
+
+INTRODUCTION
+As expected, Twin City glosses over the most glaring problem with its argument: how
+
+can it justify charging the Oceaneering Defendants a premium for a policy that expressly covers
+shareholder derivative actions1 and settlements of claims for return of compensation,2 and then
+credibly ask this Court to write those provisions out of the insurance contract through a catch-all
+public policy exclusion in the definition of “Damages.” It can’t. Twin City’s position cannot be
+reconciled with the express language in its policy, established rules of contract interpretation,
+Texas public policy favoring settlements and the sanctity of contractual obligations, and no
+guidance from the Texas Supreme Court or the Texas Legislature that insuring a settlement of a
+claim seeking disgorgement is against public policy or otherwise generally ‘uninsurable under
+the law’ of Texas.
+Importantly, the Texas cases relied upon by Twin City do not weigh an “uninsurable
+under the law” limitation to coverage against enhancements to coverage like those provided in
+Twin City’s policy (i.e., coverage for shareholder derivative actions and restoration of coverage
+for settlements of disgorgement allegations). Nor do any of those cases provide the necessary
+underpinning for Twin City’s position—that there is, in fact, a Texas public policy against
+insuring the settlement of claims seeking disgorgement. And that’s not just the Oceaneering
+Defendant’s understanding of Texas law. A panel of three Texas appellate judges recently
+addressed those same cases and reached the same conclusion. See Burks v. XL Specialty Ins.
+1
+
+The very nature of a shareholder derivative action is that any damages recovered inure directly to the
+corporation. See Kramer v. W. Pac. Indus., Inc., 546 A.2d 348, 351 (Del. 1988) (“any damages recovered
+in [derivative] suit are paid to the corporation”). See also Policy at §§ II(F); V(C)(2).
+
+2
+
+The Hartford Policy uses the term “remuneration” in the Personal Profits exclusion which means
+compensation received for services or employment. See Merriam-Webster Online Dictionary,
+http://www.merriamwebster.com/dictionary/remuneration (“an amount of money paid to someone for the
+work that person has done.”). See also Policy at § Endorsement No. 10 at § VI(D)(1).
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 9 of 29
+
+Co., No. 14-14-00740-CV, 2015 WL 6949610, at *9 (Tex. App.—Houston [14th Dist.] Nov. 10,
+2015, no writ) (“. . . no Texas court has held that insuring a settlement of a claim seeking
+restitution or disgorgement is against public policy or otherwise generally ‘uninsurable under the
+law’ of Texas; nor has the Legislature enacted any legislation on point.”). Nor has Twin City’s
+argument fared well in other courts around the country. Save for Judge Posner’s opinion in
+Level 3, the vast majority of courts have rejected the same public policy arguments advanced by
+Twin City here.
+For these reasons, the Oceaneering Defendants respectfully request that Twin City’s
+Motion be denied in its entirety.
+II.
+
+INCORPORATING THE OCEANEERING DEFENDANTS MOTION FOR
+JUDGMENT ON THE PLEADINGS AND SUPPORTING MEMORANDUM
+The issues addressed in Twin City’s motion for summary judgment were the subject of
+
+cross-motions for judgment as a matter of law filed by the parties on June 8, 2016. Therefore, to
+the extent possible, the Oceaneering Defendants will not repeat here arguments that were already
+addressed in their opening brief. See Dkt No. 26. The Oceaneering Defendants incorporate their
+Motion For Judgment On The Pleadings and Supporting Memorandum (hereinafter referred to as
+the “Opening Brief” and cited as “Def. Br.”) into this Response to Twin City’s motion for
+summary judgment. All defined terms in the Opening Brief have the same meaning in this
+Response.
+III.
+
+DISPUTED FACTS
+Twin City devotes 15 pages of its opening brief to a discussion of the factual background
+
+of this case. In large part, Twin City attempts to give this Court the impression that the claims in
+the underlying Derivative Action have merit. They do not. The Oceaneering Directors have
+disputed, and continue to dispute, all of the allegations asserted against them in the Derivative
+
+-2-
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 10 of 29
+
+Action.3 See Oceaneering Directors’ Motion to Dismiss filed on September 5, 2014 in the
+Derivative Action (attached as Exhibit A). Notwithstanding this general misimpression, here are
+just a few “factual” allegations made by Twin City that do not accurately reflect the record:
+
+IV.
+
+
+
+Twin City claims that “the Non-Employee Directors offered, in the counter-offer,
+to return some portion of their compensation in order to settle any and all claims
+of liability against them.” Pl. Br. at p. 15. That is not the case. Instead, the
+Oceaneering Directors’ counter-offer noted the numerous factual and
+methodological errors in the Plaintiff’s demand and proffered an amount certain
+to resolve all claims of liability and alleged breaches of fiduciary duty without
+admitting liability and without any reference to any compensation received. See
+Twin City’s Sealed Exhibit B-3 at OII_0000011.
+
+
+
+Twin City inflates the average total compensation received by the Non-Employee
+Directors by performing its own math and inappropriately averaging the nonemployee directors compensation from 2011-2013 with the Chairman of the
+Board (Huff) compensation that was awarded under the ex-CEO’s service
+agreement with the company. Compare Pl. Br. at p. 6 (claiming “the average total
+compensation received by the Non-Employee Directors was $1,161,655.80 in
+2011, $908,956.83 in 2012 and $1,099,960.50 in 2013”) with Derivative Action
+Complaint at ¶ 30 (alleging average compensation was $754,932 in 2011,
+$549,386 in 2012, and $603,067 in 2013).
+
+
+
+Twin City cites Oceaneering’s most recent proxy that identifies the Oceaneering
+Directors’ compensation for 2015 and then states, without citation, that “all but
+one of the Directors is now much closer to the Peer Group.” Pl. Br. at p. 8.
+Nothing in the April 8, 2016 Proxy Statement for Oceaneering identifies the
+compensation of non-employee directors at Oceaneering’s Peer Group.
+
+ARGUMENT
+A.
+
+Controlling Precedent Requires Twin City,
+Defendants, To Prove That Coverage Is Excluded
+
+Not
+
+The
+
+Oceaneering
+
+Twin City places the burden of proof in this case on the wrong shoulders. In Texas, an
+insurer has the burden of proof on any exception to coverage, and the location of that exception
+
+3
+
+The fact that the Oceaneering Directors do not choose to address each and every allegation made in the
+Derivative Action in this coverage case should not be construed as a waiver or admission of liability.
+
+-3-
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 11 of 29
+
+does not move the burden back to the insured.4
+Here, the definition of “Damages” begins with a broad grant of coverage:
+(C) "Damages" means amounts, other than Defense Costs, which
+the Insured Persons or, with respect to Insuring Agreement (C), the
+Entity, are legally obligated to pay solely as a result of any Claim
+insured by this Policy, including:
+(1)
+
+settlements, judgments, and costs awarded pursuant
+to judgments and appeals; . . .
+
+That broad definition is then followed by a “taking away” of coverage for certain categories of
+damages:
+Damages shall not include:
+...
+(4)
+
+amounts for matters uninsurable pursuant to
+applicable law; . . .
+
+See Policy at § II(C). There can be no doubt that the Uninsurable Provision constitutes an
+exclusion from coverage, such that Twin City bears the burden of proving its application.
+Texas law also makes clear that the location of the exclusion is immaterial; that the
+elimination of certain types of “Damages” situated within the “Definitions” section of the Policy
+rather than within the “Exclusions” section does not alter Twin City’s burden of proof. See Cox
+Operating, L.L.C. v. St. Paul Surplus Lines Ins. Co., 795 F.3d 496, 501-02 (5th Cir. 2015)
+(noting that courts should not focus on a provision’s “location in the policy”).5 As such, the
+
+4
+
+Article 554.002 of the Texas Insurance Code provides that the insurer “has the burden of proof as to any
+avoidance or affirmative defense” and that “[l]anguage of exclusion in the contract or an exception to
+coverage claimed by the insurer or health maintenance organization constitutes an avoidance or an
+affirmative defense.”
+
+5
+
+See also Andover Newton Theological School, Inc. v. Continental Cas. Co., 964 F.2d 1237, 1243 (1st
+Cir. 1992) (noting “[i]f an insurer were able to distribute provisions limiting liability throughout a policy,
+with the expectation that its shouldering of the burden of proof would be limited to the single section
+entitled, ‘Exclusions,’ this would create considerable incentive to obfuscation and subterfuge”); Ill. Union
+
+-4-
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 12 of 29
+
+burden rests on Twin City to demonstrate applicability of the Uninsurable Provision. See Gastar
+Exploration Ltd. v. U.S. Specialty Ins. Co., 412 S.W. 3d 577, 583-84 (Tex. App.—Houston [14th
+Dist.] 2013, no pet.) (holding that any language that reduces the scope of coverage is limiting
+language that should be treated as an exclusion); Greene v. Farmers Ins. Exchange, 446 S.W.3d
+761, 766 (Tex. 2014) (noting that if a clause were to limit liability or carve out a particular type
+of loss, that clause would function as an exclusion).
+Furthermore, as previously noted in the Oceaneering Defendants’ Opening Brief, because
+Twin City bases its argument on public policy, it must shoulder the burden of proving that public
+policy invalidates coverage for any settlement. Def. Br. at p. 9. See also Tamimi Global Co.
+Ltd. v. Kellogg Brown & Root LLC, No. H-11-0585, 2011 WL 1157634, at *3 (S.D. Tex. Mar.
+24, 2011) (noting that a party must satisfy “its burden to show that public policy considerations
+should cause this Court to refuse to enforce [an] otherwise valid [agreement]”); In re PolyAmerica, L.P., 262 S.W.3d 337, 348 (Tex. 2008) (noting that under Texas law, the burden of
+proving that a contract is void under public policy falls on the party opposing the contract).
+In contrast, the Oceaneering Defendants simply bear the burden of showing that the
+Derivative Action Claim triggers coverage and that any settlement would fall within the general
+definition of Damages—both of which they have accomplished here. See Pl. Br. at p. 13
+(acknowledging that “coverage for this matter is triggered under [the] Insuring Agreements”);
+Policy at § II(C) (defining Damages to include “settlements”).
+
+Ins. Co. v. Midwood Lumber & Millwork, Inc., No. 13-CV-2466 ARR JO, 2014 WL 639420, at *10
+(E.D.N.Y. Feb. 18, 2014) (“[I]t is the effect of a provision rather than its denomination that prevails for
+purposes of determining whether it is an exclusion.”); Carter–Wallace, Inc. v. Admiral Ins. Co., 712 A.2d
+1116, 1126–27 (N.J. 1998) (stating that “[e]xclusions do not shed their essential character when they are
+moved from one section of a policy and are crafted as part of that policy's grant of coverage”); Munich
+Reinsurance Am., Inc. v. Tower Ins. Co. of New York, No. 09-cv-2598, 2012 WL 2917576, at *4 (D.N.J.
+July 17, 2012) (“where the language behaves like an exclusion of the coverage grant by the very operation
+of its terms, the insurer should bear the burden of proving the phrase’s application”).
+
+-5-
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 13 of 29
+
+B.
+
+Twin City Fails To Explain Why Texas Public Policy Bars Coverage For A
+Settlement Absent Findings Or Admissions Of Wrongdoing
+
+The Oceaneering Defendants explain in their Opening Brief why the very limited public
+policy exception precluding insurance coverage for disgorgement damages does not apply in this
+case: namely, there have been no findings or admissions that the Oceaneering Directors engaged
+in any wrongdoing or obtained remuneration for which they are not legally entitled. All that is
+present here are disputed allegations. Twin City has failed to explain why public policy bars
+coverage for a settlement under those circumstances.
+An insurer may refuse to pay an otherwise covered claim based on “public policy”
+consideration only if such public policy is “well defined and dominant” and easily ascertained by
+reference to statutes and legal precedents. W.R. Grace & Co. v. Local Union 759, Intern. Union
+of Rubber Workers, 461 U.S. 757, 766 (1983) (citing Muschany v. United States, 324 U.S. 49, 66
+(1945)).
+
+In addition, an insurer cannot resort to “amorphous public policy limitations on
+
+insurance policies” in an effort to evade coverage otherwise contemplated by its policy.
+Genzyme Corp. v. Federal Ins. Co., 622 F.3d 62, 69 (1st Cir. 2010). See, e.g., Lawrence v. CDB
+Serv., Inc., 44 S.W.3d 544, 553 (Tex. 2001) (“Public policy … is a term of vague and uncertain
+meaning” and “[c]ourts must exercise judicial restraint in deciding whether to hold arm’s length
+contracts void on public policy grounds”); Texas Farmers Ins. Co. v. Murphy, 996 S.W.2d 873,
+878 (Tex. 1999) (rejecting insurer’s general public policy defense to fulfilling its coverage
+obligation and noting that the insurer “focus[ed] on conflicting public policy considerations
+without first evaluating the contract language”).
+Twin City points to “leading” insurance treatises to support the premise that “it is a
+black-letter concept of insurance law that insurance does not include the restoration of an illgotten gain.” Pl. Br. at p. 22 (quotations and citations omitted) (emphasis added). Although
+
+-6-
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 14 of 29
+
+those “leading” treatises do not suggest that the mere allegations of wrongdoing, and the
+settlement of those disputed allegations, raise the same concerns, Twin City nonetheless makes
+that leap. A few pages later in its brief, Twin City claims (without supporting Texas case law)
+that “no wrongdoing need be established” and “whether there is any wrongdoing by the insured
+is entirely irrelevant to the issue of whether the remedy is uninsurable disgorgement.” Id. at pp.
+25-26. Texas case law does not support this position. Compare Burks v. XL Specialty Ins. Co.,
+No. 14-14-00740-CV, 2015 WL 6949610, at *9 (Tex. App.—Houston [14th Dist.] Nov. 10,
+2015, no writ) (settlement of a claim for disgorgement damages is not uninsurable under Texas
+law), with In re TransTexas Gas Corp., 597 F.3d 298 (5th Cir. 2010) (judgment ordering
+payment of disgorgement damages not a covered loss).
+1.
+
+Twin City Does Not Offer A Compelling Response To Burks
+
+Twin City has failed to explain why Burks does not control the outcome of this case.
+Indeed, Twin City appears to follow some aspects of the Burks opinion (by acknowledging its
+duty to advance defense costs for the Derivative Action) but ignoring others (in refusing to
+provide indemnity for any settlement of the Derivative Action).6
+The inconsistencies in Twin City’s argument are apparent from the start. Twin City
+claims that “all Burks really held” was “that the payment of defense expenses was not
+disgorgement.” Pl. Br. at p. 27 n.12. Twin City then later asserts that the Burks “court did not
+reach any definitive holding.” Id. at p. 28. Indeed, by reading Twin City’s description of Burks,
+one would have no idea that there are two distinct sections of the court’s opinion—one
+
+6
+
+Stated otherwise, Twin City concedes that defense costs are covered damages based upon the
+allegations alleged in the underlying complaint, but makes a distinction for indemnity payments for those
+same allegations. See Pl. Br. at p. 14 (“while the cost of defending an action may be covered based on the
+allegations of the complaint, that does not mean the costs of resolving that action (in whole or part) will
+necessarily be within the coverage”). Such a distinction is unsound.
+
+-7-
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 15 of 29
+
+addressing advancement of defense costs and the other discussing indemnification of a
+settlement.
+Because Twin City has not accurately described the court’s holdings, an in-depth review
+of the court’s opinion is required. In Burks, the plan agent for a company in a Chapter 11
+bankruptcy proceeding filed suit against the company’s CFO, Burks, for return of certain
+payments.7 Burks sought coverage for that suit under a directors and officers insurance policy
+issued by XL Specialty Insurance Company. After XL denied Burks’ request for coverage,
+Burks settled with the plan agent and filed suit against XL.
+XL filed a motion for summary judgment on two grounds relevant to Twin City’s
+argument. XL first claimed it had no duty to advance defense expenses “because there was no
+possibility of coverage for the plan agent’s claim, which sought disgorgement and was therefore
+not covered by the policy’s definition of ‘loss.’” Burks, 2015 WL 6949610, at *1. Additionally,
+XL argued that it had no duty to indemnify Burks on the grounds that disgorgement was not
+covered by its policy. The Fourteenth Court of Appeals addressed each of those arguments in
+turn.
+The court first addressed XL’s defense costs argument. According to XL, there was no
+possibility of coverage for the plan agent’s claims, and therefore no duty to advance defense
+costs, because disgorgement of ill-gotten gains are uninsurable under Texas law. Id. The court
+rejected this argument, holding that XL failed to establish as a matter of law that it owed no duty
+to advance defense expenses even if the plan agent’s requested remedy of disgorgement was not
+insurable. Id. at *8. Here the court observed that neither party had “cited any Texas authority
+holding that insurance for disgorgement is against public policy” but that Burks had “conceded”
+7
+
+The company had transferred certain non-base salary compensation, salary compensation and stock to
+Burks.
+
+-8-
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 16 of 29
+
+before both the trial and appellate courts that “disgorgement for ill-gotten gains generally is
+‘uninsurable under the law’ of Texas.” Id. at *6 n.5. Based on this concession, the court went on
+to state that “[g]iven the strong policy in Texas favoring the right of parties to contract and the
+lack of any Texas authority holding that insuring against disgorgement is against public policy,
+we render no opinion on the matter.
+
+We assume without deciding that disgorgement is
+
+‘uninsurable’ in Texas.” Id. This footnote appears only in the court’s opinion on XL’s duty to
+advance defense costs and clearly confirms that, contrary to Twin City’s position, neither the
+court nor the parties identified any authority holding that insurance for disgorgement is against
+public policy.
+The court found additional support for its holding in the language of the XL policy. It
+noted that “under the unambiguous terms of the policy [the Personal Profit exclusion], XL
+agreed to advance defense expenses until it is ‘finally determined’ the loss is not covered.” Id. at
+*7. Based on this express restoration of coverage in the policy, XL could not refuse to advance
+defense costs based solely on the “uninsurable under the law” provision in the definition of
+“loss.” Id. at *8.
+The Burks opinion does not stop there. The court proceeded to discuss XL’s duty to
+indemnify Burks for the settlement even if payment could be attributable to uninsurable
+disgorgement.
+
+Citing In re TransTexas for the proposition that a “judgment ordering the
+
+repayment of a fraudulent transfer under the Bankruptcy Code may indicate that an insured has
+paid restitution or disgorgement” (emphasis in the original), the court observed that “the mere
+fact of settlement does not indicate admission of the allegations in a complaint.”8 Burks, 2015
+
+8
+
+The Burks court cited favorably to the opinion in U.S. Bank Nat’l Ass’n v. Indian Harbor Ins. Co., No.
+12-cv-3175, 2014 WL 3012969 (D. Minn. July 3, 2014). Twin City describes the U.S. Bank opinion as
+“much criticized” (Pl. Br. at p. 28 n.13); however, only two opinions have cited the U.S. Bank decision
+and both agreed with its holding. See Burks, 2015 WL 6949610, at *9; Gallup, Inc. v. Greenwich Ins.
+
+-9-
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 17 of 29
+
+WL 6949610, at *8. Further, the court indicated that it would “not automatically presume that
+the settlement constitutes restitution because it resolved claims alleging ill-gotten gains and
+seeking disgorgement of those gains.” Id.9
+Finally, the Burks court distinguished the “only Texas authority” relied on by XL—the
+Nortex decision—as addressing a “vastly different” policy and facts and “not persuasive when
+interpreting the policy” at issue. Id. at *9.
+2.
+
+Texas Does Not Have A Well-Defined Public Policy Precluding
+Coverage For The Settlement Of A Claim Seeking Disgorgement
+
+For Twin City to establish that Texas public policy invalidates coverage for any
+settlement of the Derivative Action, it must show that the Texas legislature or courts have
+formulated such a public policy. It fails to make this showing. Instead, Twin City primarily
+relies on an out-of-state decision (Level 3) and three Texas cases (In re TransTexas, O’Quinn,
+and Nortex) in making its argument, but those cases do not establish clear Texas public policy
+prohibiting insurance coverage for the settlement of disgorgement allegations. The Oceaneering
+Defendants address and distinguish all three of the Texas cases in its Opening Brief. See Def.
+Br. at pp. 19-23.
+In its motion, Twin City misleadingly splices a discussion of the out-of-state Level 3 case
+with its synopsis of In re TransTexas, presumably to suggest that the Fifth Circuit found that
+settlements of disgorgement claims are uninsurable as a matter of public policy. It did not. To
+the extent that the TransTexas panel made any determination about Texas public policy, its
+
+Co., No. CV N14C-02-136FWW, 2015 WL 1201518, at *10 (Del. Super. Feb. 25, 2015), reargument
+denied, No. CV N14C-02-136FWW, 2015 WL 1331524 (Del. Super. Mar. 20, 2015).
+9
+
+Although the actual settlement agreement was not in the record, the court noted that there was no
+admission of wrongdoing in the stipulation of dismissal and that Burks had maintained that he was legally
+entitled to the compensation owed to him under the agreements with his employer. Id.
+
+- 10 -
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 18 of 29
+
+decision was predicated on a prior bankruptcy court judgment finding that the insured had
+engaged in fraudulent activities. In re TransTexas Gas Corp., 597 F.3d at 303.
+Twin City also cites to Mustang Tractor & Equipment Co. v. Liberty Mut. Ins. Co., No.
+H-91-2523, 1993 WL 566032 (S.D. Tex. Oct. 8, 1993), aff’d, 76 F.3d 89 (5th Cir. 1996), in its
+public policy section, but fails to provide any discussion of how this case is relevant to the issues
+before this Court. Pl. Br. at p. 23. This omission is revealing. The Mustang Tractor opinion
+never discussed any public policy issues, let alone any purported public policy prohibiting
+insurance for allegations of disgorgement in a shareholder derivative action. Instead, in the
+context of analyzing a general liability policy that did not define “damages,” the court found that
+equitable claims for rescission and restitution did not qualify as “damages” under the policy at
+issue. In reaching its conclusion, the court relied upon the very canons of construction the
+Oceaneering Defendants urge this Court to employ here. See Mustang Tractor, 1993 WL
+566032, at *8 (“. . . insurance policies are to be construed so that none of the policy’s terms are
+rendered meaningless.”); Def. Br. at pp. 12-15.
+Unlike the policy in Mustang Tractor, Twin City’s Policy clearly provides coverage for
+the settlement of claims that may be considered restitutionary in nature. See Policy at §§ I(A);
+II(C) (defining “Damages” to include “settlements”); II(F) (defining “Derivative Actions” to
+mean “any civil proceeding against an Insured Person for a Wrongful Act of such Insured Person
+made on behalf of, or in the name or in the right of, an Entity by a securities holder of such
+Entity in his or her capacity as such”).
+
+See also Kramer, 546 A.2d at 351 (purpose of
+
+shareholder derivative action against directors is to seek restitution from the directors and
+provide payment to the insured company). Because Mustang Tractor does not address, let alone
+
+- 11 -
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 19 of 29
+
+clearly establish, a public policy prohibiting insurance coverage for allegations of disgorgement,
+it cannot save Twin City’s public policy argument.
+C.
+
+Twin City’s Interpretation Of The “Uninsurable Provision” Virtually
+Eliminates Coverage For Shareholder Derivative Actions And Renders An
+Historically Significant Section Of The Policy Meaningless
+
+Apart from its failed effort to establish a clear public policy against insuring a settlement
+of claims seeking disgorgement damages, Twin City’s interpretation of its Uninsurable Provision
+would create illusory coverage for shareholder derivative actions and nullify bargain-for
+provisions in the Policy.
+
+Interpreting an insurance policy in that manner would violate
+
+established rules of Texas contract law.
+As previously stated, the Oceaneering Policy expressly covers shareholder derivative
+claims alleged against the Oceaneering Directors. See Policy at §§ II(F) (defining “Derivative
+Actions” to mean “any civil proceeding against an Insured Person for a Wrongful Act of such
+Insured Person made on behalf of, or in the name or in the right of, an Entity by a securities
+holder of such Entity in his or her capacity as such”); V(C)(2) (restoring coverage for a “Claim”
+brought or maintained by or on behalf of Oceaneering if a “Derivative Action” is brought or
+maintained without the solicitation, assistance, or active participation of any Director and/or
+Officer).
+
+Settlements of the damages typically sought in those actions are also expressly
+
+preserved in the Policy. Id. at § Endorsement No. 10 at § VI(D)(1). That coverage was provided
+to the Oceaneering Directors in consideration for the payment of premium to Twin City. See
+Preamble to the Policy, p. 1 of 13 (“In consideration of, and subject to, the payment of the
+premium, the Insurer and the Insureds agree as follows:”).
+If, as Twin City contends, Texas public policy prohibits insurance coverage for claims
+seeking the payment of disgorgement damages from an insured director to the insured company,
+then coverage for shareholder derivative actions would be rendered virtually illusory. See Daily
+- 12 -
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 20 of 29
+
+Income Fund v. Fox, 464 U.S. 523, 528 (1984) (describing a derivative action as an “equitable
+device” that allows a stockholder “to step into the corporation’s shoes and to seek in its right the
+restitution he could not demand on his own”). As The Hartford Financial Services Group
+concedes on its own website, “[c]ourts are overflowing with shareholders making damaging
+claims against directors and officers.”10 This Court should not adopt an interpretation of the
+Policy that would “render insurance coverage illusory for many of the things for which insureds
+commonly purchase insurance.” Trinity Universal Ins. Co. v. Cowan, 945 S.W.2d 819, 828
+(Tex. 1997). See also O'Connor v. Proprietors Ins. Co., 696 P.2d 282, 285 (Colo. 1985) (in
+describing an illusory policy provision, the court stated that “such a clause would in effect allow
+the insurer to receive premiums when realistically it is not incurring any risk of liability.”);
+William Beaumont Hosp. v. Fed. Ins. Co., 2013 WL 992552, at *11 (E.D. Mich. Mar. 13, 2013),
+aff’d, 552 F. App’x 494 (6th Cir. 2014) (“This illusory sleight-of-hand view of policy ‘coverage,’
+with one clause taking away what another promises to provide, is truly a position that only an
+insurer (and its lawyer) could embrace.”).
+Twin City also ignores the historical importance of the “final adjudication” language in
+the Personal Profit exclusion, and the additional consideration paid for that coverage.
+Historically, the personal profit exclusion was triggered by mere allegations of unlawful gain,
+whether those allegations were substantiated or not.11
+
+These broad exclusions were not
+
+commercially attractive to policyholders. Accordingly, the insurance industry designed and
+10
+
+See https://www.thehartford.com/commercial-insurance-agents/coverages-directors-officers (“Public
+Companies” tab). Twin City Fire Insurance Company is a subsidiary of Hartford Fire Insurance
+Company.
+11
+
+See, e.g., John M. O’Quinn P.C. v. National Union Fire Ins. Co., 33 F. Supp. 3d 756, 766 (S.D. Tex.
+2014); William E. Knepper et al., 2-25 LIABILITY OF CORPORATE OFFICERS AND DIRECTORS §
+25.10, 1 (Matthew Bender ed., 8th ed. 2013) (“Historically, [ill-gotten gains exclusions] did not require a
+final adjudication in the underlying D&O litigation”).
+
+- 13 -
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 21 of 29
+
+marketed a new version of the provision (with higher premiums), under which claims involving
+unlawful gains could only be excluded where there was a showing that a policyholder had “in
+fact” received that financial advantage. See e.g., Pendergest-Holt v. Certain Underwriters at
+Lloyd’s of London, 600 F.3d 562, 567 (5th Cir. 2010). However, “in fact” exclusions still
+included a great deal of uncertainty, since a finding that a policyholder did “in fact” receive illgotten gains merely required a showing of something more than sheer allegations of those gains.
+Id. at 573 (“In bargaining for ‘in fact’ language, then, the insurer reserves the right to litigate the
+coverage question outside of the underlying action for which insurance coverage is sought.”).
+This uncertainty led to the creation of “final adjudication” exclusions, which were
+marketed and sold as an exclusion that would only apply if an alleged unlawful gain was proven
+in a “final adjudication” in the underlying action.12 Policyholders and insurers alike (including
+Twin City) have treated this “final adjudication” language as an enhancement that provides
+certainty and precludes insurers from denying coverage for anything less than a final
+adjudication of wrongdoing by the insured.
+
+See International Risk Management Institute,
+
+Corporate D&O Liability Coverage Analysis – Exclusions (“‘final adjudication’ wording is more
+favorable to the insured, compared to ‘in fact’ wording . . . ‘in fact’ wording is rarely found in
+D&O policies that have been issued within the past 10 years”); Def. Br. at p. 11.
+Twin City invites this Court to adopt an interpretation of the “Uninsurable Provision” that
+virtually eliminates coverage for shareholder derivative actions, an important protection for
+which Oceaneering paid its premium, and renders an historically significant section of the policy
+meaningless. This Court should decline that invitation.
+12
+
+See Gillian McPhee, 1 CORPORATE GOVERNANCE: LAW AND PRACTICE § 5.04 (Amy L.
+Goodman and Steven M. Haas eds., 2013) (“This [final adjudication] language is designed to prevent an
+insurer from litigating the existence of an insured’s fraudulent or criminal act in a separate coverage
+action and attempting to establish, regardless of the outcome in the underlying litigation, that the
+insured’s misconduct precludes coverage under the policy . . .”).
+
+- 14 -
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 22 of 29
+
+D.
+
+Twin City’s Non-Texas Cases Do Not Negate Coverage For The Settlement
+Of Claims Seeking Disgorgement Damages
+
+With nothing in the actual insurance contract to support its denial of coverage, Twin City
+resorts to inapplicable, non-Texas cases to support its position that “the return of money is a
+restitutionary remedy and cannot be an insurable loss.” Pl. Br. at p. 23. However, these cases
+are distinguishable on at least three separate bases: (1) none of the cases included enhancements
+requiring a “final and nonappealable adjudication” in the underlying action like the Twin City
+Policy does here; (2) those cases did not apply the cannons of contract construction required
+under Texas law; and (3) the majority of cases cited by Twin City had established – by court
+order, admission or otherwise – that the policyholder obtained ill-gotten gains.
+1.
+
+Level 3 Is Unreliable Precedent
+
+Twin City’s “uninsurability” argument relies heavily on Level 3 Communications, Inc. v.
+Federal Ins. Co., 272 F.3d 908 (7th Cir. 2001), and its progeny. Twin City asks this Court to
+extend the reasoning in those cases to the very different facts presented here. However, the
+recent trend in cases where insurers proffer a “disgorgement” defense based on vague public
+policy grounds is to limit the reach of that defense rather than expand it. Indeed, numerous
+jurisdictions have expressly declined to adopt the reasoning espoused in Level 3. See, e.g.,
+Burks, 2015 WL 6949610, at *10;13 Gallup, Inc. v. Greenwich Ins. Co., No. CV N14C-02136FWW, 2015 WL 1201518, at *8 (Del. Super. Feb. 25, 2015), reargument denied, No. CV
+N14C-02-136FWW, 2015 WL 1331524 (Del. Super. Mar. 20, 2015); U.S. Bank Nat. Ass'n v.
+Indian Harbor Ins. Co., 68 F. Supp. 3d 1044, 1053 (D. Minn. 2014), appeal dismissed, No. 15-
+
+13
+
+Once again Twin City misconstrues the Burks opinion, claiming that Burks did not reject Level 3. This
+is plainly not the case. Id. at *10 (noting that “the sweeping Level 3 decision has never been cited as
+authority by a Texas court” and declining to follow Level 3 where settlement contained no admission of
+wrongdoing and insured maintained that he was legally entitled to compensation).
+
+- 15 -
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 23 of 29
+
+1691 (8th Cir. Mar. 22, 2016); Cohen v. Lovitt & Touche, Inc., 308 P.3d 1196, 1200 (Ariz. Ct.
+App. 2013).
+This should come as no surprise given the controversial underpinnings of the Level 3
+decision. Level 3’s primary shortcoming is that it rests on an inappropriate finding of fact by an
+appellate court that a large settlement in a securities suit represented the disgorgement of profit
+obtained through fraud. This finding was made by Judge Posner at the appellate level, rather
+than by the trial court, which actually found that the settlement was a covered Loss. Level 3, 272
+F.3d at 909. Unlike here, in Level 3, the insured decided to settle “after the trial had begun and
+much of the expense of defending the suit had therefore already been incurred” and it was
+“seeing the handwriting on the wall.” Id. at 911-12. Resting on its opinion that the $12 million
+settlement payment was “not an inconsiderable amount,” the court observed that “Level 3 has
+made no attempt to show that the fraud suit was groundless and the settlement merely an effort to
+avoid the expense of defending a nuisance suit.” Id. at 911-12.
+The Level 3 court offered no explanation as to why the policyholder should be required to
+make such a showing. A defendant may offer to settle a case at higher than “nuisance” value for
+a variety of reasons, including potential publicity concerns, distraction to its business, and the
+general risks that are attendant with virtually any lawsuit. Moreover, the “fact finding” made by
+the Level 3 appellate court is contrary to the procedural rules adopted in this Circuit. See La
+Union Del Pueblo Entero v. FEMA, 608 F.3d 217, 225 (5th Cir. 2010) (deciding to “avoid
+improper appellate fact finding”); Landry v. State of Ala., 579 F. 2d 353, 356 (5th Cir. 1978)
+(declining to “engage in appellate fact finding”).
+
+- 16 -
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 24 of 29
+
+2.
+
+Twin City’s Non-Texas Cases Do Not Support Its Public Policy
+Argument
+
+With respect to the other non-binding, out-of jurisdiction cases upon which Twin City
+relies, a careful review reveals that those cases depend upon a prior determination or admission
+of wrongdoing or are not even based upon public policy considerations. Therefore, each of the
+cases is distinguishable.14
+Indeed, five of the cases cited involved a prior judicial determination that the insured
+obtained an unlawful gain:
+
+
+Cent. Dauphin Sch. Dist. v. Am. Cas. Co., 426 A.2d 94, 96 (Pa. 1981) (applying
+Pennsylvania law) – no insurance coverage available for court-ordered restitution
+where there was a prior judicial determination that the school district policyholder
+collected an illegal tax.
+
+
+
+Republic Western Ins. Co. v. Spierer, Woodward, Willens, Denis and Furstman,
+68 F.3d 347, 351-52 (9th Cir. 1995) (applying California law) – coverage
+unavailable where court entered final judgment ordering insured to return legal
+fees improperly obtained back to its client.
+
+
+
+Vigilant Ins. Co. v. Credit Suisse First Boston Corp., 782 N.Y.S.2d 19, 20 (1st
+Dep’t 2004) (applying New York law) – no insurance coverage available where
+prior court order held that insured improperly obtained money and final
+judgement entered ordering disgorgement of same.
+
+
+
+Southcentral Employment Corp. v. Birmingham Fire Ins. Co. of Pennsylvania,
+926 A.2d 977, 979 (Pa. Super. Ct. 2007) (applying Pennsylvania law) – coverage
+unavailable where the Pennsylvania Department of Labor & Industry issued a
+final determination that the insured unlawfully expended government funds.
+
+
+
+U.S. Fid. & Guar. Co v. Fendi Adele S.R.L., -- F.3d --, 2016 WL 2865578, at *2
+(2d Cir. May 17, 2016) (applying New York law) – no insurance coverage
+
+14
+
+That is, except for the case that actually supports the Oceaneering Defendants, not Twin City’s,
+position. In J.P. Morgan Securities Inc. v. Vigilant Ins. Co., 992 N.E.2d 1076, 1082 (N.Y. 2013), the
+court held that the insurer was not entitled to dismissal of the insured’s claim for coverage for a $160
+million disgorgement payment that it made to the SEC in a settlement. The court determined that the
+settlement did not amount to a concession that the “disgorgement payment was predicated on moneys that
+[the insured] itself improperly earned as a result of its securities violations.” Therefore, the court held
+that “we are unable to say, as a matter of law, that this public policy exception clearly bars [the insured’s]
+coverage claims.” Id. at 1082.
+
+- 17 -
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 25 of 29
+
+available for prior judicial determinations holding that the insured improperly
+profited from the sale of counterfeit goods.
+Four cases were decided based upon the fact that the claims fell outside the insurance
+policy’s contractual language and, thus, were not solely grounded on public policy concerns:
+
+
+Bank of the West v. Super. Ct., 833 P.2d 545 (Cal. 1992) (applying California law)
+– holding complaint against bank under Unfair Business Practices Act did not
+seek “damages” for “unfair competition” within the meaning of the CGL policy.
+
+
+
+Big 5 Corporation v. Gulf Underwriters Ins. Co., No. CV 02-3320WJR(SHX),
+2003 WL 22127029, *2 (C.D. Cal. July 14, 2003) (applying California law) –
+finding no coverage under the policy for an action against the insured for unpaid
+overtime wages because the “the policy specifically excludes indemnification for
+the wages of former employees in an ‘Employment Claim’ [and therefore] there is
+no ‘loss.’”
+
+
+
+Fidelity Bank v. Chartis Specialty Ins. Co., No. 1:12-CV-4259-RWS, 2013 WL
+4039414, at *4 (N.D. Ga. Aug. 7, 2013) (applying Georgia law) – finding that the
+insured was not entitled to coverage for an underlying settlement of overdraft fee
+litigation due to application of exclusion for disputes involving fees and
+commissions.
+
+
+
+Mountainside Holdings, LLC v. American Dynasty Surplus Lines Ins. Co., No.
+2003-127, 2014 WL 3055881 (Pa. Com. Pl. June 30, 2014), aff’d without decision
+on any public policy issues, 2014 WL 10047052 (Pa. Super. Ct. June 25, 2015)
+(applying Pennsylvania law) – no insurance coverage available for settlement of
+False Claims Act allegations because losses could not be attributed to insureds
+and thus did not exceed self-insured retention.
+
+And one case involved an admission by the policyholder that it engaged in wrongdoing:
+
+
+Aon Corp. v. Certain Underwriters at Lloyd’s of London, No. 06-16852, 2010
+WL 8510173 (Ill. Civ. Ct. Ch. Div. Dec. 3, 2010) (applying Illinois law) –
+denying coverage where the insured had attached a statement acknowledging its
+wrongdoing to its settlement agreement with Attorneys General.
+
+Moreover, none of the cases cited by Twin City apply the important rules of contract
+interpretation that guide this Court’s decision. In particular, Twin City’s out-of-state cases fail to
+reconcile the Uninsurable Provision with express coverage for shareholder derivative actions and
+the “final nonappealable” coverage enhancement found in Twin City’s Policy. See Def. Br. at
+
+- 18 -
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 26 of 29
+
+pp. 12-15 (discussing the importance of Texas rules of contract interpretation). If the rules of
+contract construction—such as giving effect to all policy provisions—did not influence the
+decisions of those out-of-state opinions, then they are of little value to this Court.
+E.
+
+Allegations Of Wrongful Conduct Establish Nothing
+
+Twin City improperly relies on public policy arguments dependent upon an insured’s
+proven or admitted misconduct. In doing so, Twin City glosses over the absence of any findings
+or admissions that the Oceaneering Directors actually engaged in any misconduct, hoping this
+Court will presume liability from the proposed settlement. See Pl. Br. at p. 29 (Twin City argues
+that the allegations of the Derivative Action “do not support any suggestion that the derivative
+action is ‘groundless’”).
+Such a presumption would be impermissible, as it is a firmly-established principle of
+Texas law that settlements do not give rise to an inference of wrongdoing or liability. See, e.g.,
+Nat’l Union, 939 S.W.2d at 141 (allegations against insured must be construed in favor of
+coverage); Trosclair v. Chevron U.S.A., Inc., 161 F. Supp. 2d 739, 744 (S.D. Tex. 2001)
+(acknowledging that a settlement did not adjudicate fault); Hurst v. American Racing Equipment,
+Inc., 981 S.W.2d 458, 462 (Tex. App.—Texarkana 1998, no pet.) (noting that because a claim
+had already been settled, “there was no judicial finding of liability”).15 Twin City fails to – and
+cannot – explain why it should be exempt from this established principle of law.
+Twin City also cites Alaska Elec. Pension Fund v. Brown, 941 A.2d 1011 (Del. 2007), for
+the proposition that Oceaneering’s “decision to cut [the Non-Employee Directors’] compensation
+15
+
+See also Virginia Mason Medical Center v. Exec. Risk Indem. Inc., No. C07-0636MJP, 2007 WL
+3473683, at *5 (W.D. Wash. Nov. 14, 2007), aff’d, 331 Fed. App’x 473 (9th Cir. 2009) (noting that
+courts generally do not permit insurers to “rely on allegations in the [underlying complaint] as objective
+verification for the illegality of [their insured’s] conduct”); Gallup, 2015 WL 1201518 at *10 (finding
+that, where the insurer “merely relies on the allegations set forth in the [underlying] Complaint to
+establish that the settlement is for restitution…[t]he Court cannot determine that the Settlement is for
+restitution as a matter of law based upon that assertion alone”).
+
+- 19 -
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 27 of 29
+
+by an average of $400,000 per year is legally presumed to have been caused by and be the effect
+of the Chancery Action.” Pl. Br. at p. 8. The Brown decision does not support a presumption of
+liability on the part of the Oceaneering Directors. The court in Brown only analyzed a feeshifting rule, known as the corporate benefit doctrine, which holds that “a litigant who confers a
+common monetary benefit upon an ascertainable stockholder class is entitled to an award of
+counsel fees and expenses for its efforts in creating the benefit.” 941 A.2d at 1015. Thus, the
+purpose of Brown and cases following the corporate benefit doctrine are simply to assess the
+appropriateness of a fee award in derivative or class action suits. Those cases do not have any
+relevance to the issues before this Court.
+Here, the allegations against the Oceaneering Directors in the Delaware lawsuit remain
+unproven accusations that are vigorously disputed by all of the insureds. The Oceaneering
+Directors continue to defend themselves in the Derivative Action, arguing that the challenged
+transactions were made under a stockholder-approved plan and that the compensation granted is
+commensurate with the Oceaneering Directors’ wealth of experience and Oceaneering’s record
+earnings over the time period in question. Exhibit A, Underlying Motion to Dismiss at p. 19, 28.
+In fact, over the time period at issue, Oceaneering’s stockholders realized a total gain of
+119.77%— more than ten times the average return (11.19%) over that same three-year period for
+Oceaneering’s peer companies.
+
+Id. at 7.
+
+The Oceaneering Directors have consistently
+
+maintained their legal entitlement to their remuneration. Id.
+F.
+
+The Policy Specifically Covers Allegations Of Personal Profit Unless There Is
+A Final And Nonappealable Adjudication Of Misconduct
+
+In an attempt to escape their coverage obligations, Twin City pretends that the final
+adjudication enhancement to the Personal Profit Exclusion does not exist. This is particularly
+surprising since Twin City has been aware of the Oceaneering Defendants’ coverage position
+
+- 20 -
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 28 of 29
+
+since at least December 2015. Pl. Br. at pp. 16-17. Twin City’s only explanation: because it is
+not relying on the Personal Profit Exclusion, it is “entirely irrelevant.” Id. at 16. As the
+Oceaneering Defendants explained in their Opening Brief, this singular focus on only the
+Uninsurable Provision of the Policy is directly contrary to well-established canons of
+construction that require the policy to be read as a whole and that effect be given to all of its
+parts. See Def. Br. at 12; Balandran v. Safeco Ins. Co. of America, 972 S.W.2d 738, 741 (Tex.
+1998) (“Our primary goal . . . is to give effect to the written expression of the parties’ intent . . .
+We must read all parts of the contract together . . . striving to give meaning to every sentence,
+clause, and word to avoid rendering any portion inoperative.”).
+Further, Twin City has misstated the Oceaneering Defendants’ argument. Twin City
+states that the “Directors claim that in order to prove the settlement of the [Derivative] Action is
+uninsurable disgorgement, Twin City must prove that the Directors did something wrong.” Pl.
+Br. at p. 25 (emphasis added).
+
+This is not the Oceaneering Defendants’ position.
+
+The
+
+Oceaneering Defendants are not claiming that Twin City must prove any wrongdoing by the
+Directors. To the contrary, Twin City’s Policy specifically delineates who may make any such a
+determination. By the very terms of the Personal Profit Exclusion, only a factfinder in the
+underlying action can make that determination. Unlike Twin City, the Oceaneering Defendants
+do not ask this Court to rewrite the Policy.
+V.
+
+CONCLUSION
+This Court should not allow Twin City to use its “Uninsurable Provision” and purported
+
+Texas public policy to render meaningless important enhancements to the Oceaneering
+Defendants’ Policy. Accordingly, the Oceaneering Defendants respectfully request that the
+Court deny Twin City’s Motion in its entirety.
+
+- 21 -
+
+Case 4:16-cv-00666 Document 30 Filed in TXSD on 07/08/16 Page 29 of 29
+
+Respectfully submitted,
+
+REED SMITH LLP
+By: /s/ J. James Cooper
+J. James Cooper
+T.X. I.D. No. 04780010
+REED SMITH LLP
+811 Main Street
+Suite 1700
+Houston, Texas 77002
+Telephone: 713.469.3800
+Facsimile: 713.469.3899
+jcooper@reedsmith.com
+Attorney in Charge for Defendants
+Oceaneering International, Inc., John R. Huff,
+T. Jay Collins, Jerold J. Desroche, D. Michael
+Hughes, Harris J. Pappas, Paul B. Murphy,
+Jr., David S. Hooker, and M. Kevin McEvoy
+OF COUNSEL:
+REED SMITH LLP
+Caitlin R. Garber (pro hac vice granted)
+Pa. I.D. No. 311321
+cgarber@reedsmith.com
+Kateri Tremblay (pro hac vice granted)
+Pa. I.D. No. 320466
+ktremblay@reedsmith.com
+
+- 22 -
+
+

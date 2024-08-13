@@ -1,0 +1,566 @@
+Case 2:10-cv-01425-KSH -PS Document 24
+
+Filed 05/28/10 Page 1 of 17 PageID: 116
+
+Lee G. Dunst
+GIBSON, DUNN & CRUTCHER LLP
+200 Park Avenue
+New York, N.Y. 10166
+Telephone: (212) 351-4000
+Facsimile: (212) 351-4035
+William J. Kilberg, P.C.
+Paul Blankenstein
+J. Nicci Adams
+GIBSON, DUNN & CRUTCHER LLP
+1050 Connecticut Avenue N.W.
+Washington, D.C. 20036
+Telephone: (202) 955-8500
+Facsimile: (202) 467-0539
+Attorneys for Defendant Capital Research and Management Company
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF NEW JERSEY
+____________________________________
+CLEO VAN DOREN,
+)
+)
+Plaintiff,
+)
+)
+v.
+)
+)
+CAPITAL RESEARCH AND
+)
+MANAGEMENT COMPANY
+)
+d/b/a AMERICAN FUNDS,
+)
+TRADER JOE’S COMPANY,
+)
+)
+Defendants.
+)
+____________________________________)
+
+Civil Action No. 2:10-cv-01425
+
+MEMORANDUM OF LAW IN SUPPORT OF
+DEFENDANT CAPITAL RESEARCH AND MANAGEMENT COMPANY’S
+MOTION TO DISMISS
+
+Case 2:10-cv-01425-KSH -PS Document 24
+
+Filed 05/28/10 Page 2 of 17 PageID: 117
+
+TABLE OF CONTENTS
+Page
+INTRODUCTION ......................................................................................................................... 1
+BACKGROUND ........................................................................................................................... 2
+The Parties ......................................................................................................................... 2
+The Allegations.................................................................................................................. 3
+STANDARD OF REVIEW ........................................................................................................... 4
+ARGUMENT................................................................................................................................. 5
+I.
+
+CRMC Is Not The Plan Itself Nor The Plan Administrator, And Therefore Is Not The
+Proper Defendant For A Claim For Benefits Under ERISA § 502(a)(1)(B). .................... 5
+
+II.
+
+Any Claim Under ERISA § 502(a)(2) Must Be Dismissed Because The Complaint Makes
+Clear That CRMC Is Not A Plan Fiduciary....................................................................... 7
+
+CONCLUSION............................................................................................................................ 11
+
+i
+
+Case 2:10-cv-01425-KSH -PS Document 24
+
+Filed 05/28/10 Page 3 of 17 PageID: 118
+
+TABLE OF AUTHORITIES
+Page(s)
+Cases
+Ashcroft v. Iqbal,
+129 S. Ct. 1937 (2009)........................................................................................................ 4, 5, 6
+Bell Atl. Corp. v. Twombly,
+550 U.S. 544 (2007).............................................................................................................. 4, 10
+Briglia v. Horizon Healthcare Servs., Inc.,
+No. 03-6033, 2005 WL 1140687 (D.N.J. May 13, 2005)........................................................... 7
+Confer v. Custom Eng’g Co.,
+952 F.2d 34 (3d Cir. 1991).................................................................................................... 9, 11
+Curcuo v. John Hancock Mut. Life Ins. Co.,
+33 F.3d 226 (3d Cir. 1994).......................................................................................................... 9
+Evans v. Employee Ben. Plan,
+No. 03-4915, 2007 WL 2212607 (D.N.J. July 30, 2007) ........................................................... 6
+Garcia v. N.J. State Prison,
+No. 05-3159, 2007 WL 2669332 (D.N.J. Sept. 6, 2007) ............................................................ 7
+Graden v. Conexant Sys. Inc.,
+496 F.3d 291 (3d Cir. 2007)........................................................................................................ 5
+Great-West Life & Annuity Ins. Co. v. Knudson,
+534 U.S. 204 (2002).................................................................................................................... 8
+Hahnemann Univ. Hosp. v. All Shore, Inc.,
+514 F.3d 300 (3d Cir. 2008).................................................................................................... 5, 6
+In re Burlington Coat Factory Sec. Litig.,
+114 F.3d 1410 (3d Cir.1997)....................................................................................................... 2
+In re Mushroon Transp. Co., Inc.,
+382 F.3d 325 (3d Cir. 2004)........................................................................................................ 9
+Jersey City Incinerator Auth. v. BP Inc.,
+No. 10-56, 2010 WL 778259 (D.N.J. Mar. 8, 2010) .................................................................. 2
+
+ii
+
+Case 2:10-cv-01425-KSH -PS Document 24
+
+Filed 05/28/10 Page 4 of 17 PageID: 119
+
+LaRue v. DeWolff, Boberg & Assocs., Inc.,
+552 U.S. 248 (2008).................................................................................................................... 8
+Mertens v. Hewitt Assocs.,
+508 U.S. 248 (1993).................................................................................................................... 8
+Morse v. Lower Merion School Dist.,
+132 F.3d 902 (3d Cir. 1997)........................................................................................................ 4
+Pegram v. Herdrich,
+530 U.S. 211 (2000).................................................................................................................... 8
+Shaw v. Delta Air Lines, Inc.,
+463 U.S. 85 (1983)...................................................................................................................... 7
+Sprewell v. Golden State Warriors,
+266 F.3d 979 (9th Cir. 2001) ...................................................................................................... 7
+United States v. Mead Corp.,
+533 U.S. 218 (2001).................................................................................................................... 9
+Varity Corp. v. Howe,
+516 U.S. 489 (1996).................................................................................................................... 8
+Ward v. Avaya, Inc.,
+487 F. Supp. 2d 467 (D.N.J. 2007) ............................................................................................. 2
+Statutes and Regulations
+ERISA § 3(16)(A), 29 U.S.C. § 1002(16)(A)................................................................................. 6
+ERISA § 3(21)(A), 29 U.S.C. § 1002(21)(A)............................................................................. 1, 9
+ERISA § 502(a)(1)(B), 29 U.S.C. § 1132(a)(1)(B) ............................................................... passim
+ERISA § 502(a)(2), 29 U.S.C. § 1132(a)(2) .......................................................................... passim
+ERISA § 502(d)(2), 29 U.S.C. § 1132(d)(2)................................................................................... 6
+ERISA § 514(a), 29 U.S.C. § 1144(a) ............................................................................................ 8
+29 C.F.R. § 2509.75-8 (1992) ....................................................................................................... 10
+
+iii
+
+Case 2:10-cv-01425-KSH -PS Document 24
+
+Filed 05/28/10 Page 5 of 17 PageID: 120
+
+INTRODUCTION
+Plaintiff is the former spouse of Timothy Dougherty, a participant in the 401(k) plan
+sponsored by his former employer, Trader Joe’s Company (“Trader Joe’s”). She asserts that the
+various defendants “acted negligently and in breach of their fiduciary duties” under the
+Employee Retirement Income Security Act (“ERISA”) by distributing without notice to her the
+entire value of her then-husband’s 401(k) account. Plaintiff maintains that, as a consequence,
+she lost fifty percent of the value of that account.
+Plaintiff has brought suit under ERISA § 502(a)(1)(B), 29 U.S.C. § 1132(a)(1)(B), which
+allows suits by beneficiaries “to recover benefits” due them under the plan. She also seeks
+damages, presumably for the alleged breach of fiduciary duty by defendants, although the
+Amended Complaint (“Complaint”) does not cite the provision of ERISA—§ 502(a)(2), 29
+U.S.C. § 1132(a)(2)—that authorizes damages suits for breach of fiduciary duty. In any event,
+Capital Research and Management Company (“CRMC”) is not a proper defendant under either
+the claim for benefits or the claim for damages for breach of fiduciary duty.
+First, as controlling Third Circuit authority makes clear, a claim for benefits under
+ERISA § 502(a)(1)(B) lies only against the plan itself, or the administrator of the plan in its
+official capacity. CRMC is plainly not Trader Joe’s 401(k) Plan and the Complaint does not
+allege that the Plan document names CRMC as the Plan Administrator. Indeed, the defendant
+Plan Committee is the named Plan Administrator.
+Second, to qualify as a fiduciary under ERISA, a party must either have control of the
+assets of the plan, or exercise discretionary authority or control over the management of the plan
+or over disposition of its assets. ERISA § 3(21)(A), 29 U.S.C. § 1002(21)(A). Plaintiff fails to
+allege facts that would plausibly suggest that CRMC held the assets of the Plan, or exercised the
+
+1
+
+Case 2:10-cv-01425-KSH -PS Document 24
+
+Filed 05/28/10 Page 6 of 17 PageID: 121
+
+sort of discretion that would make it an ERISA fiduciary. In fact, the specific allegations in the
+Complaint make clear that CRMC’s duties and responsibilities are ministerial in nature and fall
+far short of the discretionary authority over Plan matters necessary to make it a fiduciary.
+BACKGROUND
+The Parties
+According to the Amended Complaint (“Complaint”), plaintiff in this case, Cleo Van
+Doren, is a former spousal beneficiary in the Trader Joe’s Retirement Plan, as amended January
+1, 2007 (the “Plan”). Complaint ¶ 2. At the time of the allegedly wrongful actions, plaintiff was
+married to Timothy Dougherty, who was employed by Trader Joe’s Company (“Trader Joe’s”)
+and was a participant in its 401(k) Plan. Complaint ¶ 7, 9.
+The defendants in this case are Trader Joe’s, the Plan Committee, and Capital Research
+and Management Company (“CRMC”). Trader Joe’s is the sponsor of the Plan at issue. The
+Plan Committee is the designated administrator of the Plan, and consists of persons appointed by
+the Trader Joe’s Board of Directors.1 The Plan Committee is tasked with, inter alia, making
+determinations of claims for benefits under the Plan. 2007 Plan § 13.1.
+
+1
+
+Trader Joe’s Company Retirement Plan, as amended 2007 (“2007 Plan”) §§ 11.1, 11.2
+(relevant sections attached hereto as Exhibit A).
+As the 2007 Plan document and the Administrative Services Agreement between Trader
+Joe’s and CRMC are referenced in and attached to plaintiff’s Complaint, they may both be
+considered on a motion to dismiss without converting the motion into one for summary
+judgment. See In re Burlington Coat Factory Sec. Litig., 114 F.3d 1410, 1426 (3d Cir. 1997) (a
+document that is integral to or explicitly relied on in a complaint may be considered without
+converting a motion to dismiss into a motion for summary judgment); Ward v. Avaya, Inc., 487
+F. Supp. 2d 467, 471 n.4 (D.N.J. 2007); Jersey City Incinerator Auth. v. BP Inc., No. 10-56,
+2010 WL 778259, at *2 (D.N.J. Mar. 8, 2010).
+
+2
+
+Case 2:10-cv-01425-KSH -PS Document 24
+
+Filed 05/28/10 Page 7 of 17 PageID: 122
+
+CRMC is a third party that has an agreement with Trader Joe’s to provide certain services
+to the Plan.2 The Agreement calls for CRMC to provide to the Plan “recordkeeping and
+administrative services” (Complaint ¶ 4), including
+preparation of certified copy of the trust statement[;] processing participant
+withdrawals at the employer’s direction, including applicable federal withholding
+and mandatory state withholding[;] preparation of Form 1099R, and withholding
+tax remittance and reporting[;] preparation and maintenance of participant loan
+documents and processing of loan distribution[;] processing name, address and
+other indicative data changes submitted by the employer[;] maintenance of
+amounts eligible for participant loans and/or hardship withdrawals[; and]
+maintaining beneficiary information.
+Complaint ¶ 5.
+The Allegations
+Plaintiff alleges that, on and about May 29, 2008, her then-husband was the holder of an
+account in the Plan, which contained $173,980 in available funds. Complaint ¶ 2. According to
+plaintiff, at this time, the account was being “serviced and/or administered” by CRMC, and
+CRMC, Trader Joe’s, and the Plan Committee were all fiduciaries of the Plan.
+Complaint ¶¶ 3, 6. Plaintiff asserts that on May 29, 2008, defendants, “independently or in
+concert,” distributed the entire value of the account to Timothy Dougherty after he made a
+request for withdrawal. Complaint ¶ 7. She alleges that CRMC “prepared and provided the
+withdrawal forms to Timothy Dougherty,” and that the form contained detailed instructions
+providing that, “if the participant is married, the distribution must be by Qualified Joint Survivor
+Annuity” unless notarized spousal consent is presented. Complaint ¶ 8. The distribution was
+made to Mr. Dougherty in its entirety, with no Qualified Joint Survivor Annuity, based on Mr.
+
+2
+
+Recordkeeping and Administrative Services Agreement between Trader Joe’s and CRMC
+(“Agreement”) (attached hereto as Exhibit B).
+
+3
+
+Case 2:10-cv-01425-KSH -PS Document 24
+
+Filed 05/28/10 Page 8 of 17 PageID: 123
+
+Dougherty’s false statement on the withdrawal form that he was unmarried. Complaint ¶ 7.
+Sometime after the distribution of the funds, plaintiff and Mr. Dougherty were divorced.
+Complaint ¶¶ 7, 13.
+Plaintiff purports to bring a claim for benefits under ERISA § 502(a)(1)(B), 29 U.S.C.
+§ 1132(a)(1)(B), for “the value of her 50% joint and survivor annuity and/or her equitable
+distribution share of the account value.” Complaint ¶¶ 1, 14. She claims that distributing the
+entirety of Mr. Dougherty’s account to him, without notice to her, was “negligence and breach of
+fiduciary obligations on the part of defendants” because the defendants should have been aware
+that Mr. Dougherty had previously indicated that he was married. Complaint ¶ ¶ 7, 12-13. For
+this alleged violation, plaintiff requests “damages incurred; civil penalties provided for under the
+applicable act; attorney[’]s fees, costs of suit and interest.” Complaint, p. 4.
+STANDARD OF REVIEW
+To survive a motion to dismiss, a complaint must “contain sufficient factual matter,
+accepted as true, to ‘state a claim to relief that is plausible on its face.’” Ashcroft v. Iqbal, 129
+S. Ct. 1937, 1949 (2009) (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570 (2007)). A
+complaint that advances “labels and conclusions,” or tenders “naked assertion[s]” devoid of
+“further factual enhancement” will not suffice. Twombly, 550 U.S at 555, 557. In other words,
+plaintiffs must do more than allege “an unadorned, the-defendant-unlawfully-harmed-me
+accusation.” Iqbal, 129 S. Ct. at 1949.
+In this regard, a plaintiff cannot meet his or her pleading burden with “unsupported
+conclusions,” “unwarranted inferences,” “unwarranted deductions,” “footless conclusions of
+law,” and “sweeping legal conclusions cast in the form of actual allegations.” Morse v. Lower
+Merion School Dist., 132 F.3d 902, 907 n.8 (3d Cir. 1997). “Threadbare recitals of the elements
+
+4
+
+Case 2:10-cv-01425-KSH -PS Document 24
+
+Filed 05/28/10 Page 9 of 17 PageID: 124
+
+of a cause of action, supported by mere conclusory statements, do not suffice.” Iqbal, 129 S. Ct.
+at 1949. And if “the well-pleaded facts do not permit the court to infer more than the mere
+possibility of misconduct, the complaint has alleged—but it has not shown—that the pleader is
+entitled to relief.” Id. at 1950. In determining whether this plausibility standard has been met,
+the court should “draw on its judicial experience and common sense.” Id.
+ARGUMENT
+Defendant CRMC is not a proper defendant on either plaintiff’s claim for benefits, or on
+her claim for damages for breach of fiduciary duty. As to the claim for benefits, the only two
+possible defendants under ERISA § 502(a)(1)(B) would be the Plan itself or the Plan
+Administrator. CRMC plainly is not Trader Joe’s 401(k) Plan itself and plaintiff does not allege
+that it is the Plan Administrator. As to the claim for breach of fiduciary duty, such a claim is
+only proper against CRMC if it is in fact a Plan fiduciary. But plaintiff fails to allege that CRMC
+exercised the requisite discretion over the Plan’s management or assets to make it a fiduciary.
+And what she does allege regarding CRMC establishes that CRMC only exercised the sort of
+ministerial, non-discretionary responsibility that, under Third Circuit precedent and Department
+of Labor guidance, put it far outside any understanding of what constitutes an ERISA fiduciary.
+I.
+
+CRMC Is Not The Plan Itself Nor The Plan Administrator, And Therefore Is Not
+The Proper Defendant For A Claim For Benefits Under ERISA § 502(a)(1)(B).
+Plaintiff asserts that this actions is “brought under, inter alia, 29 U.S.C. § 1132(a)(1)(B).”
+
+Complaint ¶ 1. That statutory provision, ERISA § 502(a)(1)(B), creates a cause of action for a
+plan participant or beneficiary to bring a claim “to recover benefits due to him under the terms of
+his plan, to enforce his rights under the terms of the plan, or to clarify his rights to future benefits
+under the terms of the plan.” A claim under ERISA § 502(a)(1)(B) may, however, only be
+brought against “the plan itself (or plan administrators in their official capacities only).” Graden
+
+5
+
+Case 2:10-cv-01425-KSH -PS Document 24
+
+Filed 05/28/10 Page 10 of 17 PageID: 125
+
+v. Conexant Sys. Inc., 496 F.3d 291, 301 (3d Cir. 2007). See Hahnemann Univ. Hosp. v. All
+Shore, Inc., 514 F.3d 300, 308 (3d Cir. 2008); Evans v. Employee Ben. Plan, No. 03-4915, 2007
+WL 2212607, at *11-12 (D.N.J. July 30, 2007). The Third Circuit has made clear that the only
+reason a plan administrator is a proper defendant in a claim for benefits is that, “if entitlement to
+benefits is established, the court can direct the plan administrator to pay them from the assets of
+the plan, much as a trustee may be compelled to satisfy a trust obligation from trust assets.”3
+Hahnemann, 514 F.3d at 309.
+CRMC, of course, is not the Plan itself. Furthermore, the Complaint wholly fails to
+allege facts that, if proved, would plausibly show that CRMC is the Plan Administrator.
+Although the Complaint alleges that the account of plaintiff’s now ex-husband “was being
+serviced and/or administered by Defendant Trader Joe’s and/or by defendant Plan Committee,
+and/or by defendant Capital Research and Management Company” (Complaint ¶ 3), that
+conclusory allegation, lumping all defendants together as “administrators” of the Plan, does not
+provide the factual content sufficient to satisfy plaintiff’s pleading burden.
+First, the term “administrator” has a specific definition under ERISA—“the person
+specifically so designated by the terms of the . . . plan” or, “if an administrator is not so
+designated, the plan sponsor.” ERISA § 3(16)(A), 29 U.S.C. § 1002(16)(A). Nowhere does
+plaintiff allege that CRMC is designated as the administrator under the Plan document. Nor does
+she allege that CRMC had any authority to grant or deny benefit claims. Under Iqbal, such
+
+3
+
+Since the payment of benefits is an obligation of the Plan, any judgment against the Plan
+cannot be enforced against another party unless that party is independently liable in his or her
+individual capacity. ERISA § 502(d)(2), 29 U.S.C. § 1132(d)(2).
+
+6
+
+Case 2:10-cv-01425-KSH -PS Document 24
+
+Filed 05/28/10 Page 11 of 17 PageID: 126
+
+allegations are necessary to support a claim that CRMC is the Plan administrator as defined in
+ERISA. 129 S. Ct. at 1951-52.
+Second, even if plaintiff had asserted that CRMC was the Plan Administrator, the Court
+would not be obliged to accept any such allegation, as it is contradicted by the Plan document.
+See Garcia v. N.J. State Prison, No. 05-3159, 2007 WL 2669332, at *1 (D.N.J. Sept. 6, 2007)
+(citing Sprewell v. Golden State Warriors, 266 F.3d 979, 988 (9th Cir. 2001)). The Plan
+document explicitly names as Plan Administrator “a Committee, appointed by the Board,
+consisting of not less than two persons.” 2007 Plan § 11.1. The Plan document further provides
+that the “Plan Administrator shall have complete control of the administration of the Plan” (2007
+Plan § 11.2), and that claims for benefits due under the Plan are to be directed to “the
+Committee,” which is responsible for making benefits determinations. 2007 Plan § 13.1. The
+Committee named in the Plan document is the defendant Plan Committee.
+ERISA § 502(a)(1)(B) is, at base, a claim for a wrongful denial of benefits. See Briglia v.
+Horizon Healthcare Servs., Inc., No. 03-6033, 2005 WL 1140687, at *4 (D.N.J. May 13, 2005).
+But because CRMC is not alleged to have any authority to grant or deny benefits, it is not a
+proper defendant in a claim for benefits under ERISA § 502(a)(1)(B).
+II.
+
+Any Claim Under ERISA § 502(a)(2) Must Be Dismissed Because The Complaint
+Makes Clear That CRMC Is Not A Plan Fiduciary.
+Although plaintiff specifically invokes only ERISA § 502(a)(1)(B) as the basis of her
+
+claims, she later alleges that defendants “breached their fiduciary duties in distributing the
+entirety of Timothy Dougherty’s account to him.”4 Complaint ¶ 12. But claims for breach of
+
+4
+
+Plaintiff alleges that as fiduciaries defendants were required to “use that degree of skill
+and care commensurate with the duties and obligation imposed by State and Federal law.”
+[Footnote continued on next page]
+7
+
+Case 2:10-cv-01425-KSH -PS Document 24
+
+Filed 05/28/10 Page 12 of 17 PageID: 127
+
+fiduciary duty are brought under ERISA § 502(a)(2), not § 502(a)(1)(B).
+
+See ERISA
+
+§ 502(a)(2), 29 U.S.C. § 1132(a)(2) (a participant or beneficiary may bring a claim for
+appropriate relief for violations ERISA § 409, the fiduciary duty provision); LaRue v. DeWolff,
+Boberg & Assocs., Inc., 552 U.S. 248, 253-55 (2008).5
+Plaintiffs’ failure to cite the proper section of ERISA is the least of her failings in this
+regard, however. The Complaint lacks any factual allegations that would plausibly show that
+CRMC exercised the sort of authority with respect to the Plan that would make it an ERISA
+fiduciary. In fact, the specific allegations in the Complaint that describe CRMC’s role establish
+that it is not a fiduciary.
+To state a claim for breach of fiduciary duty, the plaintiff must, of course, allege facts
+that plausibly show that the defendant is a fiduciary of the ERISA plan at issue. It is not enough
+to allege that the acts of a service provider “adversely affected a plan beneficiary’s interest”; the
+plaintiff must allege that the provider was “acting as a fiduciary (that is, was performing a
+fiduciary function) when taking the action subject to complaint.” Pegram v. Herdrich, 530 U.S.
+[Footnote continued from previous page]
+Complaint ¶ 6. With limited exceptions, however, ERSIA preempts any state law that purports
+to regulate the conduct of an ERISA fiduciary. ERISA § 514(a), 29 U.S.C. § 1144(a); Shaw v.
+Delta Air Lines, Inc., 463 U.S. 85, 98 (1983) (ERISA preempts, inter alia, state laws dealing
+with the subject matters covered by ERSIA, including fiduciary responsibility).
+5
+
+In some circumstances, a claim for breach of fiduciary duty may be asserted under
+ERISA § 502(a)(3). See Varity Corp. v. Howe, 516 U.S. 489, 507-515 (1996). Such claims can
+potentially be asserted against parties in interest, such as non-fiduciary third-party service
+providers, like CRMC. Remedies under that subsection, however, are extremely limited—only
+traditional equitable remedies, such as injunctions or restitution are available. See Great-West
+Life & Annuity Ins. Co. v. Knudson, 534 U.S. 204, 211-21 (2002); Mertens v. Hewitt Assocs., 508
+U.S. 248, 258 n.8 (1993). Such remedies were not requested in the Complaint here, and, in any
+event, could not appropriately be sought against CRMC in this case as plaintiff does not allege
+that CRMC holds any monies that rightfully belong to her. Great-West, 534 U.S. at 213
+(restitution as an equitable remedy under ERISA § 502(a)(3) is only available against a
+defendant who actually holds the specific allegedly ill-begotten funds).
+
+8
+
+Case 2:10-cv-01425-KSH -PS Document 24
+
+Filed 05/28/10 Page 13 of 17 PageID: 128
+
+211, 226 (2000). ERISA’s definition of who is a fiduciary is precise, and specifies the conduct
+that would qualify a party as a fiduciary:
+[A] person is a fiduciary with respect to a plan to the extent (i) he exercises any
+discretionary authority or discretionary control respecting management of such
+plan or exercises any authority or control respecting management or disposition of
+its assets, (ii) he renders investment advice for a fee or other compensation, direct
+or indirect, with respect to any moneys or other property of such plan, or has any
+authority or responsibility to do so, or (iii) he has any discretionary authority or
+discretionary responsibility in the administration of such plan.
+ERISA § 3(21)(A), 29 U.S.C. § 1002(21)(A). As the Third Circuit recognizes, “the linchpin of
+fiduciary status under ERISA is discretion.” Curcuo v. John Hancock Mut. Life Ins. Co., 33 F.3d
+226, 233 (3d Cir. 1994). Mechanical, administrative responsibilities are insufficient to create
+ERISA fiduciary status. See In re Mushroon Transp. Co., Inc., 382 F.3d 325, 347 (3d Cir. 2004).
+“[P]ersons who perform purely ministerial tasks, such as claims processing and calculation,
+cannot be fiduciaries because they do not have discretionary roles.” Confer v. Custom Eng’g
+Co., 952 F.2d 34, 39 (3d Cir. 1991).
+The Department of Labor (“DOL”), whose views on the matter are entitled to deference
+(see United States v. Mead Corp., 533 U.S. 218, 228 (2001)), has provided guidance stating that
+parties engaged in non-discretionary, ministerial responsibilities are not ERISA fiduciaries.
+According to the DOL, persons who “perform the following administrative functions for an
+employee benefit plan, within a framework of policies, interpretations, rules, practices and
+procedures made by other persons,” are not fiduciaries with respect to the plan:
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+
+Application of rules determining eligibility for participation or benefits;
+Calculation of services and compensation credits for benefits;
+Preparation of employee communications material;
+Maintenance of participants’ service and employment records;
+Preparation of reports required by government agencies;
+Calculation of benefits;
+Orientation of new participants and advising participants of their rights
+and options under the plan;
+
+9
+
+Case 2:10-cv-01425-KSH -PS Document 24
+
+(8)
+(9)
+(10)
+(11)
+
+Filed 05/28/10 Page 14 of 17 PageID: 129
+
+Collection of contributions and application of contributions as provided in
+the plan;
+Preparation of reports concerning participants’ benefits;
+Processing of claims; and
+Making recommendations to others for decisions with respect to plan
+administration.
+
+29 C.F.R. § 2509.75-8 (1992) (D-2).
+Although plaintiff asserts that CRMC and the other defendants are ERISA fiduciaries
+because they exercise discretionary authority and control over the Plan, (Complaint ¶ 6), such
+conclusory assertions that merely track the statutory definition of a fiduciary are insufficient to
+satisfy plaintiff’s pleading obligations. Twombly, 550 U.S. at 555 (a complaint must contain
+factual allegations; bare legal conclusions do not suffice).
+
+Plaintiff’s specific allegations
+
+regarding CRMC’s role establish quite the opposite. According to plaintiff, CRMC is a fiduciary
+of the Plan because, under the Agreement with Trader Joe’s, it is involved in
+preparation of certified copy of the trust statement[;] processing participant
+withdrawals at the employer’s direction, including applicable federal withholding
+and mandatory state withholding[;] preparation of Form 1099R, and withholding
+tax remittance and reporting[;] preparation and maintenance of participant loan
+documents and processing of loan distribution[;] processing name, address and
+other indicative data changes submitted by the employer[;] maintenance of
+amounts eligible for participant loans and/or hardship withdrawals[; and]
+maintaining beneficiary information.
+Complaint ¶ 5 (emphasis added). Those responsibilities are entirely ministerial and fit precisely
+under the DOL’s guidance as non-fiduciary activities. See 29 C.F.R. § 2509.75-8 (1992) (D-2).
+Indeed, the single allegation in the Complaint specific to CRMC’s role in the underlying
+transaction—that it provided Mr. Dougherty with the necessary forms for seeking distribution of
+the assets in his 401(k) account—underscores the ministerial nature of CRMC’s duties.
+Furthermore, the Agreement between Trader Joe’s and CRMC shows that neither party
+expected that CRMC would have any fiduciary responsibilities. The Agreement explicitly states
+that Trader Joe’s “is solely responsible for . . . the Plan’s operations . . . and the administration of
+10
+
+Case 2:10-cv-01425-KSH -PS Document 24
+
+Filed 05/28/10 Page 15 of 17 PageID: 130
+
+the Plan” (Agreement p. 2, part IV), and that “[n]othing in the Agreement will be deemed to
+impose any obligation on [CRMC] to monitor, control, or in any way exercise any powers or
+discretion in the administration of the Plan.” Agreement, p. 3, part V (emphasis added). It
+further provides that “[n]either [CRMC] nor any of its agents . . . shall have or be given any
+authority, control or responsibility that would render it, or otherwise cause it to be deemed to be,
+a ‘fiduciary’ of the Plan or to ‘handle’ or be in possession or control of ‘Plan assets.’” Id. Nor
+does CRMC have any obligations or duties relating to “[i]nterpreting Plan provisions [or
+d]etermining eligibility or vesting.” Id.
+In circumstances similar to those here, where a third-party service provider “had no
+discretion to deny or allow” claims, but rather “had an obligation to follow the written plan
+instrument and to follow instructions of the administrator,” the Third Circuit found that the
+service provider was not a fiduciary for purposes of ERISA. Confer, 952 F.2d at 39. Here, as
+there, “[plaintiff’s] assertion that [CRMC] could have allowed and paid [her] claim has no basis
+in the [P]lan document, in [CRMC’s] contract with [Trader Joe’s], or anywhere else.” Id. As
+such, plaintiff’s claims against CRMC for breach of fiduciary duty must be dismissed.
+CONCLUSION
+For all of the foregoing reasons, CRMC respectfully requests that the Court dismiss all
+claims asserted against it.
+Respectfully Submitted,
+Dated: May 28, 2010
+
+_/s/ Lee G. Dunst_________________
+Lee G. Dunst
+GIBSON, DUNN & CRUTCHER LLP
+200 Park Avenue
+New York, N.Y. 10166
+Telephone: (212) 351-4000
+Facsimile: (212) 351-4035
+William J. Kilberg, P.C.
+11
+
+Case 2:10-cv-01425-KSH -PS Document 24
+
+Filed 05/28/10 Page 16 of 17 PageID: 131
+
+Paul Blankenstein
+J. Nicci Adams
+GIBSON, DUNN & CRUTCHER LLP
+1050 Connecticut Avenue N.W.
+Washington, D.C. 20036
+Telephone: (202) 955-8500
+Facsimile: (202) 467-0539
+Attorneys for Defendant Capital Research and
+Management Company
+
+12
+
+Case 2:10-cv-01425-KSH -PS Document 24
+
+Filed 05/28/10 Page 17 of 17 PageID: 132
+
+

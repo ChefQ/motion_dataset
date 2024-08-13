@@ -1,0 +1,3039 @@
+Case 3:07-cv-02845-WHA
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+
+Document 203
+
+Filed 07/17/2008
+
+Page 1 of 28
+
+THOMAS I. ROSS (admitted pro hac vice)
+KEVIN M. FLOWERS (admitted pro hac vice)
+JEFFREY H. DEAN (admitted pro hac vice)
+JOHN R. LABBE (admitted pro hac vice)
+CULLEN N. PENDLETON (admitted pro hac vice)
+MARK H. IZRAELEWICZ (admitted pro hac vice)
+MARSHALL, GERSTEIN & BORUN LLP
+6300 Sears Tower
+233 South Wacker Drive
+Chicago, Illinois 60606-6357
+(312) 474-6300 (telephone)
+(312) 474-0448 (facsimile)
+E-Mail: tross@marshallip.com
+E-Mail: kflowers@marshallip.com
+E-Mail: jdean@marshallip.com
+E-Mail: jlabbe@marshallip.com
+E-Mail: cpendleton@marshallip.com
+E-Mail: mizraelewicz@marshallip.com
+Counsel for Defendants
+ILLUMINA, INC., SOLEXA, INC.,
+and STEPHEN C. MACEVICZ
+
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+
+UNITED STATES DISTRICT COURT
+NORTHERN DISTRICT OF CALIFORNIA
+SAN FRANCISCO DIVISION
+)
+)
+APPLERA CORPORATION—APPLIED
+BIOSYSTEMS GROUP, a Delaware corpora- )
+)
+tion,
+)
+)
+Plaintiff/Counterdefendant,
+)
+)
+- vs. )
+)
+ILLUMINA, INC., a Delaware corporation,
+SOLEXA, INC., a Delaware corporation, and )
+)
+STEPHEN C. MACEVICZ, an individual,
+)
+)
+Defendants/Counterclaimants.
+)
+)
+
+Case No. 07-CV-02845 WHA
+Honorable William H. Alsup
+
+SOLEXA’S NOTICE OF MOTION AND
+MOTION FOR PARTIAL SUMMARY
+JUDGMENT OF INFRINGEMENT
+
+Date: August 21, 2008
+Time: 8:00 a.m.
+Place: Courtroom 9, 19th Floor
+
+27
+28
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT; CASE NO:
+07-CV-02845 WHA
+
+Case 3:07-cv-02845-WHA
+
+1
+
+Document 203
+
+Filed 07/17/2008
+
+Page 2 of 28
+
+TABLE OF CONTENTS
+
+2
+
+I.
+
+Notice of Motion and Motion ................................................................................... 1
+
+3
+
+II.
+
+Concise Statement of Relief Sought......................................................................... 1
+
+4
+
+III.
+
+Memorandum of Points and Authorities .................................................................. 1
+
+5
+
+A.
+
+Introduction ................................................................................................... 1
+
+6
+
+B.
+
+Legal Standards ............................................................................................. 2
+
+7
+
+C.
+
+Solexa is entitled to summary judgment that AB’s one-base and twobase encoding probes infringe claim 1 of the ‘119 patent ............................ 3
+
+8
+9
+10
+11
+
+D.
+
+12
+13
+14
+15
+
+E.
+
+16
+17
+18
+19
+
+F.
+
+1.
+
+Claim construction ............................................................................. 3
+
+2.
+
+AB’s one-base and two-base encoding probes satisfy all
+limitations of claim 1 of the ‘119 patent ............................................ 5
+
+Solexa is entitled to summary judgment that the one-base encoding
+SOLiD System infringes claim 1 of the ‘341 patent ................................... 13
+1.
+
+Claim construction ........................................................................... 13
+
+2.
+
+The one-base encoding format of the SOLiD System satisfies
+all limitations of claim 1 of the ‘341 patent ..................................... 17
+
+Solexa is entitled to summary judgment that the one-base encoding
+SOLiD System infringes claim 1 of the ‘597 patent ................................... 23
+1.
+
+Claim construction ........................................................................... 23
+
+2.
+
+The one-base encoding format of the SOLiD System satisfies
+all limitations of claim 1 of the ‘597 patent ..................................... 23
+
+CONCLUSION ........................................................................................... 24
+
+20
+21
+22
+23
+24
+25
+26
+27
+28
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF INFRINGEMENT; CASE NO:
+07-CV-02845 WHA
+
+i
+
+Case 3:07-cv-02845-WHA
+
+1
+
+Document 203
+
+Filed 07/17/2008
+
+Page 3 of 28
+
+TABLE OF AUTHORITIES
+
+2
+
+Cases
+
+3
+
+Anderson v. Liberty Lobby, Inc.
+477 U.S. 242 (1986) ............................................................................................................ 2
+
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+
+AquaTex Industries, Inc. v. Techniche Solutions
+419 F.3d 1374 (Fed. Cir. 2005)........................................................................................... 2
+Ball & Socket Fastener Co. v. Kraetzer
+150 U.S. 111 (1893) ............................................................................................................ 2
+Decisioning.com, Inc. v. Federated Dept. Stores, Inc.
+527 F.3d 1300 (Fed. Cir. 2008)......................................................................................... 15
+Exigent Tech., lnc. v. Atrana Solutions Inc.
+442 F.3d 1301 (Fed. Cir. 2006)........................................................................................... 2
+Graver Tank & Mfg. Co. v. Linde Air Products Co.
+339 U.S. 605 (1950) .......................................................................................................... 11
+Invitrogen Corp. v. Biocrest Mfg., L. P.
+424 F.3d 1374 (Fed. Cir. 2005)........................................................................................... 2
+Johnson Worldwide Associates, Inc. v. Zebco Corp.
+175 F.3d 985 (Fed. Cir. 1999)............................................................................................. 2
+Lee v. Dayton-Hudson Corp.
+838 F.2d 1186 (Fed. Cir. 1988).......................................................................................... 2
+Phillips v. AWH Corp.
+415 F.3d 1303 (Fed. Cir. 2005)......................................................................................... 15
+Texas Instruments, Inc. v. U.S. Int'l Trade Comm'n
+805 F.2d 1558 (Fed. Cir. 1986)......................................................................................... 15
+Rules
+Fed. R. Civ. P. 56 ............................................................................................................................ 1
+
+22
+23
+24
+25
+26
+27
+28
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF
+INFRINGEMENT; CASE NO: 07-CV-02845 WHA
+
+Case 3:07-cv-02845-WHA
+
+1
+
+I.
+
+Filed 07/17/2008
+
+Page 4 of 28
+
+NOTICE OF MOTION AND MOTION
+TO APPLERA CORPORATION—APPLIED BIOSYSTEMS GROUP (“AB”) AND
+
+2
+3
+
+Document 203
+
+ITS ATTORNEYS OF RECORD:
+PLEASE TAKE NOTICE that at 8 a.m. on August 21, 2008, in the Courtroom of the
+
+4
+5
+
+Honorable William H. Alsup, located at 450 Golden Gate Avenue, San Francisco, California, De-
+
+6
+
+fendant Solexa, Inc. (“Solexa”), by and through its counsel, will move under Fed. R. Civ. P. 56
+
+7
+
+and Local Rule 56.1 for partial summary judgment regarding AB’s infringement of claim 1 of
+
+8
+
+U.S. Pat. No. 5,969,119 (“the ‘119 patent”), claim 1 of U.S. Pat. No. 5,750,341 (“the ‘341 pat-
+
+9
+
+ent”), and claim 1 of U.S. Pat. No. 5,306,597 (“the ‘597 patent”).
+
+10
+
+II.
+
+CONCISE STATEMENT OF RELIEF SOUGHT
+Solexa respectfully requests that the Court grant summary judgment of infringement with
+
+11
+12
+
+respect to claim 1 of the ‘119 patent, claim 1 of the ‘341 patent, and claim 1 of the ‘597 patent for
+
+13
+
+the reasons set forth in the following memorandum and in the supporting declaration of Cullen N.
+
+14
+
+Pendleton and attached exhibits, submitted herewith.
+
+15
+
+III.
+
+MEMORANDUM OF POINTS AND AUTHORITIES
+
+16
+
+A.
+
+17
+
+AB has made, used, sold, and/or offered for sale various oligonucleotide probes that sat-
+
+Introduction
+
+18
+
+isfy all properly construed limitations of claim 1 of the ‘119 patent, either literally or under the
+
+19
+
+doctrine of equivalents. Specifically, the so-called “one-base encoding” and “two-base encoding”
+
+20
+
+oligonucleotide probes that AB and/or its predecessor, Agencourt Personal Genomics, has used,
+
+21
+
+sold, and/or offered for sale literally satisfy all but one of the structural limitations recited in
+
+22
+
+claim 1 of the ‘119 patent. The remaining structural limitation, which concerns the chemical
+
+23
+
+group that links the set of j nucleotides or analogs at the 3′ end of the probe with the set of k nu-
+
+24
+
+cleotides or analogs at the 5′ end of the probe, is satisfied under the doctrine of equivalents. Spe-
+
+25
+
+cifically, because AB’s one-base and two-base encoding probes contain a phosphorothiolate1
+
+26
+
+linkage group that performs the same function in same way to achieve the same result as the
+
+27
+28
+
+1
+
+See Figure 3 – Phosphorothiolate Structure, below.
+
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF
+INFRINGEMENT; CASE NO: 07-CV-02845 WHA
+
+1
+
+Case 3:07-cv-02845-WHA
+
+Document 203
+
+Filed 07/17/2008
+
+Page 5 of 28
+
+1
+
+phosphoramidate2 linkage recited in claim 1 of the ‘119 patent, the AB probes satisfy this limita-
+
+2
+
+tion under the doctrine of equivalents.
+
+3
+
+AB has made and used a “one-base encoding” version of its SOLiD System that satisfies
+
+4
+
+all properly construed limitations of claim 1 of both the ‘341 and ‘597 patents, either literally or
+
+5
+
+under the doctrine of equivalents.
+
+6
+
+B.
+
+7
+
+As with any civil action, summary judgment is appropriate in a patent infringement case.3
+
+8
+
+Summary judgment is appropriate where, as here, there is no genuine issue as to any material fact
+
+9
+
+and the moving party is entitled to judgment as a matter of law.4
+
+10
+
+Legal Standards
+
+To prevail on this motion, Solexa need only establish infringement by a preponderance of
+
+11
+
+the evidence.5 Patent infringement occurs under one of two legal theories: (1) literal infringe-
+
+12
+
+ment6 or (2) infringement under the doctrine of equivalents.7 Although the Court must view the
+
+13
+
+evidence in a light most favorable to the nonmoving party and draw reasonable inferences in that
+
+14
+
+party’s favor, the nonmoving party must do more than simply present some evidence as to an is-
+
+15
+
+sue it asserts is in dispute.8 Instead, the nonmoving party must come forward with evidence which
+
+16
+
+would be sufficient to require submission of the disputed material fact to the jury. Id.
+
+17
+
+It is well established that in a motion for summary judgment of patent infringement, ex-
+
+18
+
+pert testimony may be used to resolve the question of infringement.9 As is clear from the undis-
+
+19
+20
+21
+22
+23
+
+2
+
+See Figure 1 – Phosphoramidate Structure, below.
+
+3
+
+Johnson Worldwide Associates, Inc. v. Zebco Corp., 175 F.3d 985, 987 (Fed. Cir. 1999) (affirming summary judgment of infringement).
+4
+
+Fed. R. Civ. P. 56(c); AquaTex Industries, Inc. v. Techniche Solutions, 419 F.3d 1374, 1379
+(Fed. Cir. 2005).
+5
+
+Lee v. Dayton-Hudson Corp., 838 F.2d 1186, 1187 (Fed. Cir. 1988).
+
+6
+
+Ball & Socket Fastener Co. v. Kraetzer, 150 U.S. 111, 117 (1893).
+
+25
+
+7
+
+Graver Tank & Mfg. Co. v Linde Air Prods. Co., 339 U.S. 605, 607-08 (1950).
+
+26
+
+8
+
+24
+
+27
+28
+
+Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248-50 (1986); Exigent Tech., lnc. v. Atrana
+Solutions Inc., 442 F.3d 1301, 1307-09 (Fed. Cir. 2006).
+9
+
+Invitrogen Corp. v. Biocrest Mfg., L. P., 424 F.3d 1374, 1383 (Fed. Cir. 2005)(affirming
+summary judgment of patent infringement based on the accused infringer's admissions and test
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF
+INFRINGEMENT; CASE NO: 07-CV-02845 WHA
+
+2
+
+Case 3:07-cv-02845-WHA
+
+Document 203
+
+Filed 07/17/2008
+
+Page 6 of 28
+
+1
+
+puted evidence before the Court, including the admissions of AB’s Rule 30(b)(6) witness, Dr.
+
+2
+
+Costa, as discussed below, there are no genuine issues of material fact precluding summary
+
+3
+
+judgment with regard to AB's infringement.
+
+4
+
+C.
+
+5
+
+Solexa is entitled to summary judgment that AB’s one-base and two-base encoding probes infringe claim 1 of the ‘119 patent
+1.
+
+6
+
+Claim construction
+
+Claim 1 of the ‘119 patent recites:
+
+7
+
+An oligonucleotide probe of the formula:
+
+8
+
+HO–(3') (B)j (5')–OP (=O) (O–) NH–(B)k-Bt*
+
+9
+
+13
+
+wherein:
+B is a nucleotide or an analog thereof,
+j is in the range of from 1 to 12;
+k is in the range of from 1 to 12, such that the sum of j
+and k is less than or equal to 12;
+Bt* is a labeled, non-extendable chain-terminating moiety.
+
+14
+
+Although the Court has not construed any terms of claim 1 of the ‘119 patent, there can be
+
+15
+
+little genuine dispute as to their meaning. Most of the claim terms are expressly defined either by
+
+16
+
+the claim itself or by the claim language in combination with the specification. For example, the
+
+17
+
+letters j and k stand for the number of nucleotides or analogs thereof in each of two sets, Bj and
+
+18
+
+Bk, respectively, with the sum of j and k totaling between 2 and 12.
+
+10
+11
+12
+
+19
+
+The remaining terms are defined by the specification or explained in the prosecution his-
+
+20
+
+tory. For example, the term “oligonucleotide” is expressly defined in the patent specification to
+
+21
+
+include “linear oligomers of nucleosides or analogs thereof, including deoxyribonucleosides, ri-
+
+22
+
+bonucleosides, and the like. Usually oligonucleotides range in size from a few monomeric units,
+
+23
+
+e.g., 3-4, to several hundreds of monomeric units.”10 The term “nucleoside” is defined to include
+
+24
+25
+26
+27
+28
+
+results offered through an expert affidavit).
+10
+
+Exhibit 1 (U.S. Pat. No. 5,750,341) to Declaration of Cullen N. Pendleton in Support of
+Solexa’s Motion for Partial Summary Judgment of Infringement (hereinafter “Pendleton Decl.”)
+at Col. 4, lines 4-8. Because the patents-in-suit share an essentially identical specification, all references to the “specification” are to the ‘341 patent, unless otherwise indicated.
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF
+INFRINGEMENT; CASE NO: 07-CV-02845 WHA
+
+3
+
+Case 3:07-cv-02845-WHA
+
+Document 203
+
+Filed 07/17/2008
+
+Page 7 of 28
+
+1
+
+“the natural nucleosides, including 2′-deoxy and 2′-hydroxyl forms . . . .”11 The specification also
+
+2
+
+states that “‘[a]nalogs’ in reference to nucleosides includes synthetic nucleosides having modified
+
+3
+
+base moieties and/or modified sugar moieties . . . . Such analogs include synthetic nucleosides
+
+4
+
+designed to enhance binding properties, reduce degeneracy, increase specificity, and the like.”12
+
+5
+
+The meaning of the term “labeled, non-extendable chain-terminating moiety,” indicated
+
+6
+
+by the notation Bt* in claim 1, would likewise have been readily apparent to one having ordinary
+
+7
+
+skill in the art at the time of the original application was filed. The term “labeled” would have
+
+8
+
+been understood to mean “associated with a moiety capable of generating a detectable signal,”13
+
+9
+
+in accordance with customary usage and the statements in the specification teaching that, for ex-
+
+10
+
+ample, “[t]he probes of the invention can be labeled in a variety of ways, including the direct or
+
+11
+
+indirect attachment of fluorescent moieties, colorimetric moieties, and the like” and “[p]referably,
+
+12
+
+the probes are labeled with one or more fluorescent dyes . . . .”14 A “non-extendable chain-
+
+13
+
+terminating moiety” would have been understood to mean “a moiety that cannot be extended by
+
+14
+
+ligation or polymerization.”15
+
+15
+
+The term “–OP (=O) (O–) NH–” likewise requires no special construction. This term is
+
+16
+
+standard notation for the chemical structure of a phosphoramidate, which can also be drawn as
+
+17
+
+shown in Figure 1.
+
+18
+19
+20
+21
+22
+
+11
+
+Id. at Col. 4, lines 15-18.
+
+12
+
+Id. at Col. 4, lines 18-24.
+
+13
+
+23
+24
+25
+26
+27
+28
+
+As construed by Illumina in the Joint Claim Construction and Prehearing Statement
+(Docket No. 78) at 10 and 18.
+14
+
+Exhibit 1 at Col. 7, lines 17-42; see also Figs. 1-4 and accompanying text; Col. 3, lines 710; Col. 5, lines 10-12; Col. 8, line. 52; Col. 8, lines. 22-31; Col. 11, lines 35-39; and Col. 18,
+lines 1-16.
+15
+
+Exhibit 2 to Pendleton Decl. (May 12, 1998 Amendment to Application Ser. No.
+08/875,446) at 5 (“Finally, the phrase ‘labeled chain terminating moiety’ has been amended in
+claims 18 and 19 to --labeled, non-extendable chain terminating moiety-- to recite that the moiety
+is not extendable by DNA polymerase.”).
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF
+INFRINGEMENT; CASE NO: 07-CV-02845 WHA
+
+4
+
+Case 3:07-cv-02845-WHA
+
+Document 203
+
+Filed 07/17/2008
+
+Page 8 of 28
+
+1
+2
+3
+4
+5
+6
+7
+
+Figure 1 – Phosphoramidate Structure
+
+8
+
+In Figure 1, O represents oxygen, P represents phosphorus, N represents nitrogen, H represents
+
+9
+
+hydrogen, and the long lines represent either single or double covalent bonds between the atoms.
+
+10
+2.
+11
+
+AB’s one-base and two-base encoding probes satisfy all limitations of
+claim 1 of the ‘119 patent
+
+There is no factual dispute as to the chemical structure of AB’s one-base and two-base en-
+
+12
+13
+
+coding probes. The generic chemical structure of one type of one-base encoding probe made and
+
+14
+
+used by AB is shown in Figure 2:16
+
+15
+16
+17
+18
+19
+20
+21
+22
+23
+
+Figure 2 – Generic Chemical Structure of AB’s one-base encoding probes
+
+According to Dr. Gina Costa, AB’s 30(b)(6) designee, the structures in Figure 2 represent sets of
+“one-base encoding” probes that were made and used by Agencourt Personal Genomics
+(“APG”),17 the company that originally developed the SOLiD System and was acquired by AB in
+2006. In Figure 2, “N” stands for a nucleotide position that is degenerate, meaning that it can be
+
+24
+25
+
+16
+
+26
+
+17
+
+27
+28
+
+See Exhibit 3 to Pendleton Decl. at AB00137634.
+
+Exhibit 4 to Pendleton Decl. (Transcript of 30(b)(6) Deposition of Applera CorporationApplied Biosystems Group Designee Gina Costa (May 20, 2008)) at 61:7-63:22. AB has also
+made and used probes with the “Y” interrogation nucleotide at the 3′ terminus, instead of the fifth
+position, and an otherwise identical structure. Id. at 144:7-145:20.
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF
+INFRINGEMENT; CASE NO: 07-CV-02845 WHA
+
+5
+
+Case 3:07-cv-02845-WHA
+
+Document 203
+
+Filed 07/17/2008
+
+Page 9 of 28
+
+1
+
+deoxyadenosine (“A”), deoxycytidine (“C”), deoxythymidine (“T), or deoxyguanosine (“G”).18
+
+2
+
+The 3′ terminal N has an OH group, although it is not expressly shown.19 The “Y” at the fifth po-
+
+3
+
+sition from the 3′ end is an “interrogation” nucleotide, meaning that this position that is fixed in
+
+4
+
+each of the four sets of probes: one set will have an A at the fifth position, while the others will
+
+5
+
+have G, C, and T, respectively.20 Each “Z” stands for a “universal base,”21 specifically the nucleo-
+
+6
+
+tide analog inosine.22 The inosine at the 5′ terminal of the probe is attached to a fluorescent label,
+
+7
+
+and has an OH group.23 The five nucleotides labeled NNNNY at the 3′ end of the probes are
+
+8
+
+linked to the three nucleotide analogs ZZZ-label at the 5′ end through a phosphorothiolate bond,
+
+9
+
+indicated by the letter s. As shown in Figure 3, a phosphorothiolate bond is identical in structure
+
+10
+
+to a phosphoramidate bond apart from the substitution of a sulfur atom for the nitrogen and hy-
+
+11
+
+drogen atoms.
+
+12
+13
+14
+15
+16
+17
+18
+Figure 3 - Phosphorothiolate Structure
+
+19
+20
+21
+22
+23
+24
+
+18
+
+Id. at 61:24-62:11. Each of the four probe sets thus contains individual probes that collectively encompass each of the 44 = 256 possible combinations of the four nucleotides. In other
+words, each probe set will contain probes with the sequences AAAA, AAAC, AAAT . . . GGGC,
+GGGT, and GGGG at their 3′ end.
+19
+
+Id. at 64:8-10.
+
+20
+
+Id. at 66:15-68:19; 69:14-20.
+
+25
+21
+
+26
+27
+28
+
+Unlike a regular nucleotide, which only hydrogen bonds with its complement (A with T; G
+with C), a universal base is capable of hydrogen bonding with any nucleotide or analog.
+22
+
+Exhibit 4 at 64:15-20.
+
+23
+
+Id. at 64:11-14.
+
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF
+INFRINGEMENT; CASE NO: 07-CV-02845 WHA
+
+6
+
+Case 3:07-cv-02845-WHA
+
+1
+2
+
+Document 203
+
+Filed 07/17/2008
+
+Page 10 of 28
+
+The generic chemical structure of the two-base encoding probes made and used by AB is
+shown in Figure 4:24
+
+3
+4
+5
+6
+7
+
+Figure 4 – Generic Chemical Structure of AB’s two-base encoding probes
+
+8
+
+The structures in Figure 4 represent the two types of two-base encoding probes made, used, sold,
+
+9
+
+and offered for sale by AB: 1,2-encoded and 4,5-encoded probes. Just as for the one-base encod-
+
+10
+
+ing probes, there is no factual dispute as to the chemical structure of AB’s two-base encoding
+
+11
+
+probes. Two-base encoding probes are identical in all respects to the one-base encoding probes,25
+
+12
+
+except that they are divided into different groups for labeling: they are the same length, have the
+
+13
+
+same number and identity of nucleotides or analogs in the 3′ and 5′ end of the probes, are linked
+
+14
+
+by the same phosphorothiolate linkage, have the same OH groups at both the 3′ and 5′ ends, and
+
+15
+
+are labeled at the 5′ end with a fluorescent dye.26 As above, N stands for a degenerate nucleotide
+
+16
+
+position in a set of probes. X and Y stand for the fixed interrogation positions. The letter s is the
+
+17
+
+phosphorothiolate linkage between the 3′ and 5′ end of the probes. The letter I stands for the uni-
+
+18
+
+versal base analog, inosine, and “Dye” stands for the fluorescent dye at the 5′ end of the probes.
+
+19
+
+A 1,2-encoded probe has its interrogation positions at the first and second positions from the 3′
+
+20
+
+end of the probe (left side), while a 4,5-encoded probe has its interrogation positions at the fourth
+
+21
+
+and fifth positions from the 3′ end.
+
+22
+23
+24
+25
+26
+27
+28
+
+24
+
+See Exhibit 5 to Pendleton Decl. at AB00121774.
+
+25
+
+Exhibit 4 at 77:11-78:13; 82:10-84:2.
+
+26
+
+More detailed structures of 1,2- and 4,5-encoded probes are found in Exhibit 5 at
+AB00121773 and AB00121768, respectively. The nucleotide sequence of each 1,2- and 4,5encoded probe is listed in Exhibit 6 to Pendleton Decl. at AB00134506 & AB00134513-514,
+though they incorrectly show the dye attached to the wrong end of the probes. These probes are
+made according to AB’s instructions and used by it.
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF
+INFRINGEMENT; CASE NO: 07-CV-02845 WHA
+
+7
+
+Case 3:07-cv-02845-WHA
+
+1
+
+Document 203
+
+Filed 07/17/2008
+
+Page 11 of 28
+
+There is no factual dispute that AB made and used one-base encoding probes having the
+
+2
+
+structure shown in Figure 2. Dr. Costa admitted that AB’s predecessor, Agencourt, had these
+
+3
+
+probes made and used them.27 There is also no factual dispute that AB makes, uses, sells, and of-
+
+4
+
+fers for sale two-base encoding probes having the generic structures shown in Figure 4.28
+
+5
+
+There is no factual dispute that the one-base and two-base encoding AB probes shown in
+
+6
+
+Figures 2 and 3 literally satisfy all but one limitation of claim 1 of the ‘119 patent. The 3′ terminal
+
+7
+
+N position for each probe in the set has an OH group, as recited in the claim. The first five bases
+
+8
+
+at the 3′ end, whether NNNNY or NNNXY or XYNNN, satisfy the Bj limitation recited in the
+
+9
+
+claim because N, X, and Y are “nucleotides” and j = 5. The sixth and seventh positions from the
+
+10
+
+3′ end, inosines in both types of probes, satisfy the Bk limitation recited in the claim because
+
+11
+
+inosine is a “nucleotide analog,” k=2, and the sum of j + k is less than 12. Finally, the Bt* limita-
+
+12
+
+tion of a “labeled, non-extendable chain-terminating moiety” recited in the claim is satisfied by
+
+13
+
+the 5′ terminal inosine in both types of AB probes because it is a fluorescently labeled nucleotide
+
+14
+
+analog with an OH group, and is thus cannot be extended by ligation or polymerization.
+
+15
+
+The AB probes differ from the structure recited in claim 1 of the ‘119 patent only in that
+
+16
+
+the 3′ and 5′ portions of the probe are linked by a phosphorothiolate linkage in the AB probes,
+
+17
+
+while the claim recites a phosphoramidate linkage. There is no genuine issue of material fact that
+
+18
+
+substitution of a phosphorothiolate linkage for the claimed phosphoramidate linkage is an insub-
+
+19
+
+stantial difference, and thus infringing under the doctrine of equivalents.
+
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+27
+
+Exhibit 4 at 62:17-63:9 and 156:2-157:12. Dr. Costa also admitted that AB made and used
+one-base encoding probes with the interrogation position at the 3′ end, rather than the fifth position from the 3′ end, but that were otherwise identical in structure to the probes shown in Figure
+2. Id. at 144:7-145:20. See also Exhibit 7 to Pendleton Decl. at AB00136589 (inventory entries
+for “1-base first position” and “1-base fifth position” oligonucleotides).
+28
+
+Exhibit 4 at 74:13-16; 79:3-16; 82:22-84:2; 146:7-17. See also, e.g., Exhibit 7 at
+AB00136589 (inventory entries for “2-base first, second position” and “2-base fourth, fifth position” oligonucleotides). Specifically, AB has sold 1,2-encoded probes as “Probe Mix 2” and
+“Probe Mix A” (in, e.g., Cat. Nos. 4392466, 4392147, 4401151, and 4400412) and 4,5-encoded
+probes as “Probe Mix 1” (in, e.g., Cat Nos. 4392456, 4392147). See Exhibit 8 to Pendleton Decl.
+at AB00000701, -727, -803, -875 & -905; Exhibit 9 to Pendleton Decl. at AB00007877; and Exhibit 10 to Pendleton Decl. at AB00008317-8318.
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF
+INFRINGEMENT; CASE NO: 07-CV-02845 WHA
+
+8
+
+Case 3:07-cv-02845-WHA
+
+1
+
+Document 203
+
+Filed 07/17/2008
+
+Page 12 of 28
+
+Although AB offers arguments concerning the chemical reactivities and properties of sul-
+
+2
+
+fur and nitrogen, and the linkage groups containing them, none of AB’s arguments raise any
+
+3
+
+genuine issue of material fact that would preclude summary judgment in favor of Solexa. With
+
+4
+
+regard to the properties of nitrogen and sulfur, AB argues that they have different properties when
+
+5
+
+in elemental form under standard state conditions, have unique positions on the periodic table of
+
+6
+
+the elements, and form different numbers of bonds with hydrogen. With regard to the claimed and
+
+7
+
+substituted linkages containing nitrogen and sulfur, AB argues that the phosphorothiolate and
+
+8
+
+phosphoramidate linkages are substantially different because of alleged differences in the chemi-
+
+9
+
+cal conditions used to cleave them when incorporated into DNA as part of a method of sequenc-
+
+10
+
+ing.29 As explained below, none of AB’s arguments establish a genuine issue of material fact pre-
+
+11
+
+cluding summary judgment of infringement.
+
+12
+
+None of the alleged differences between nitrogen and sulfur are material to whether the
+
+13
+
+AB probes infringe claim 1 of the ‘119 patent under the doctrine of equivalents. First, whether or
+
+14
+
+not nitrogen and sulfur have different elemental forms under standard state conditions is irrele-
+
+15
+
+vant because neither element is present in elemental form when incorporated into the claimed or
+
+16
+
+accused probes, as Dr. Metzker admitted at his deposition.30 To the contrary, both sulfur and ni-
+
+17
+
+trogen exist in the same form when incorporated into cleavable linkages in oligonucleotide
+
+18
+
+probes: either a solid (if the probes are dried) or a solution (if the probes are dissolved).31
+
+19
+
+Second, AB’s argument that nitrogen and sulfur occupy different positions on the periodic
+
+20
+
+table merely restates that they are different elements,32 but does not establish that the differences
+
+21
+
+between them are material in the context of the claimed inventions.
+
+22
+23
+
+Finally, the difference between the number of hydrogen atoms bound to sulfur and nitrogen when incorporated into the linkage groups is immaterial because a hydrogen atom does not
+
+24
+29
+
+25
+
+Exhibit 11 to Pendleton Decl.(Rebuttal Expert Report of Michael L. Metzker, Ph.D.) at 22.
+
+30
+
+26
+27
+28
+
+Exhibit 12 to Pendleton Decl. (Deposition of Michael Metzker, Ph.D. (June 24, 2008)) at
+91:20-24.
+31
+
+Id. at 92:7-15.
+
+32
+
+Id. at 92:17-22.
+
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF
+INFRINGEMENT; CASE NO: 07-CV-02845 WHA
+
+9
+
+Case 3:07-cv-02845-WHA
+
+Document 203
+
+Filed 07/17/2008
+
+Page 13 of 28
+
+1
+
+participate in the linkage, as is apparent from the structures shown in Figures 2 and 3, supra. To
+
+2
+
+the contrary, in the context of the function of the linkage group recited in claim 1, nitrogen and
+
+3
+
+sulfur perform identical functions: each holds the two parts of the probe together by forming a
+
+4
+
+covalent bond between the sugar moieties of adjacent nucleotides, specifically with the 3′ carbon
+
+5
+
+atom on one sugar and a phosphorus atom attached to an adjacent sugar, as Dr. Metzker admitted
+
+6
+
+during his deposition.33
+
+7
+
+AB’s argument regarding alleged differences between the cleavage conditions for the
+
+8
+
+claimed and substituted linkage groups likewise fails to raise a genuine issue of material fact pre-
+
+9
+
+cluding summary judgment of infringement. Even granting, arguendo, that the substituted linkage
+
+10
+
+is cleaved differently than the claimed linkage, that fact is not material to the Court’s inquiry on
+
+11
+
+summary judgment because claim 1 of the ‘119 patent is directed to a composition of matter, not
+
+12
+
+a method or process claim. Simply put, claim 1 is infringed when an oligonucleotide with the
+
+13
+
+claimed structure is made, sold, or offered for sale, even if it is never used in a sequencing reac-
+
+14
+
+tion or in any other way. More specifically, because claim 1 does not recite any limitations re-
+
+15
+
+quiring that the claimed probes be incorporated into DNA, used in a method of sequencing,
+
+16
+
+cleaved, or cleaved in any particular way,34 these issues are irrelevant to infringement. AB cannot
+
+17
+
+create a genuine issue of material fact by pointing to facts that are, based on the claim language,
+
+18
+
+immaterial.
+
+19
+
+Moreover, the patent specification teaches that differences in the methods of cleavage of
+
+20
+
+chemically scissile groups, such as phosphoramidate and phosphorothiolate, are irrelevant to their
+
+21
+
+function in the claimed inventions. The specification teaches that the phosphoramidate linkage is
+
+22
+
+“an example of a general class of internucleosidic linkages referred to herein as ‘chemically scis-
+
+23
+
+sile internucleosidic linkages.’”35 In light of the specification’s further teaching that “internucleo-
+
+24
+
+sidic linkages . . . may be cleaved by treated them with characteristic chemical or physical condi-
+
+25
+26
+
+33
+
+Id. at 93:8-25.
+
+27
+
+34
+
+Id. at 95:15-96:15.
+
+35
+
+Exhibit 1 at Col. 10, lines 10-13.
+
+28
+
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF
+INFRINGEMENT; CASE NO: 07-CV-02845 WHA
+
+10
+
+Case 3:07-cv-02845-WHA
+
+Document 203
+
+Filed 07/17/2008
+
+Page 14 of 28
+
+1
+
+tions, such as an oxidizing environment, a reducing environment, light of a characteristic wave-
+
+2
+
+length (for photolabile linkages), or the like,”36 one of ordinary skill in the art would appreciate
+
+3
+
+that the various chemically scissile bonds were useful in the invention simply because they are
+
+4
+
+cleavable, not because they were cleavable in a specific way. Tellingly, AB does not dispute that
+
+5
+
+both the phosphoramidate and the phosphorothiolate linkages were known to be chemically scis-
+
+6
+
+sile internucleosidic linkages by those of ordinary skill in the art at the time of the patent applica-
+
+7
+
+tion.37 One of ordinary skill would understand from the specification that substitution of one
+
+8
+
+known type of chemically scissile bond for another is an insubstantial difference in the context of
+
+9
+
+the composition recited in claim 1 of the ‘119 patent. It is immaterial whether such substitution
+
+10
+
+would result in differences in the DNA molecules into which the probes are incorporated or dif-
+
+11
+
+ferences in the cleavage conditions used in a method of DNA sequencing, because claim 1 of the
+
+12
+
+‘119 patent makes no mention of such use.
+
+13
+
+Alternatively, because the linkage used in the AB probes satisfies the recited limitation
+
+14
+
+because it performs substantially the same function in substantially the same way to achieve sub-
+
+15
+
+stantially the same result, AB’s probes infringe claim 1 of the ‘119 patent under the doctrine of
+
+16
+
+equivalents.
+
+17
+
+These facts are analogous to the Supreme Court’s analysis in Graver Tank & Mfg. Co. v.
+
+18
+
+Linde Air Products Co., 339 U.S. 605 (1950). In Graver Tank, the Court considered the applica-
+
+19
+
+tion of the doctrine of equivalents to an accused chemical composition for use in welding that dif-
+
+20
+
+fered from the patented welding material by the substitution of one chemical element.38 The Court
+
+21
+
+noted that the question before the Court was whether substitution of one element (magnesium) for
+
+22
+
+another (calcium) “is a change of such substance as to make the doctrine of equivalents inappli-
+
+23
+
+cable; or conversely, whether under the circumstances the change was so insubstantial that the
+
+24
+25
+26
+
+36
+
+Id. at lines 13-17.
+
+27
+
+37
+
+Exhibit 11 at 21 & 23.
+
+28
+
+38
+
+Graver Tank, 339 U.S. at 610.
+
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF
+INFRINGEMENT; CASE NO: 07-CV-02845 WHA
+
+11
+
+Case 3:07-cv-02845-WHA
+
+Document 203
+
+Filed 07/17/2008
+
+Page 15 of 28
+
+1
+
+trial court's invocation of the doctrine of equivalents was justified.”39 The Court also described
+
+2
+
+some of the considerations that go into applying the doctrine of equivalents:
+
+3
+
+9
+
+What constitutes equivalency must be determined against the context of the patent,
+the prior art, and the particular circumstances of the case. Equivalence, in the patent law, is not the prisoner of a formula and is not an absolute to be considered in a
+vacuum. It does not require complete identity for every purpose and in every respect. In determining equivalents, things equal to the same thing may not be equal
+to each other and, by the same token, things for most purposes different may
+sometimes be equivalents. Consideration must be given to the purpose for which
+an ingredient is used in a patent, the qualities it has when combined with the other
+ingredients, and the function which it is intended to perform. An important factor
+is whether persons reasonably skilled in the art would have known of the interchangeability of an ingredient not contained in the patent with one that was.40
+
+10
+
+Considering those factors, the Court viewed the difference between the chemical element claimed
+
+11
+
+in the patent and the substitute element to be “colorable only,” and concluded that the trial court's
+
+12
+
+judgment of infringement under the doctrine of equivalents was proper.41
+
+4
+5
+6
+7
+8
+
+The parties agree42 that the function or purpose of both the phosphoramidate and phos-
+
+13
+14
+
+phorothiolate linkages is to join two segments of nucleotides with a chemically scissile bond, just
+
+15
+
+as described in the patent.43 Furthermore, as discussed above, there is also no factual dispute that
+
+16
+
+both linkages perform this function in substantially the same way: namely, by substituting a dif-
+
+17
+
+ferent chemically reactive atom or moiety in place of the normal oxygen atom in the phosphodi-
+
+18
+
+ester backbone of the probe.44 Finally, there is no factual dispute that the both linkages achieve
+
+19
+
+39
+
+Id.
+
+20
+
+40
+
+Id. at 609.
+
+41
+
+Id. at 612.
+
+21
+
+42
+
+22
+23
+
+Exhibit 12 at 178:1-3 (“It’s my understanding that [the phosphoramidate linker’s] purpose
+is a cleavable linker for this – the sequencing by ligation method.”); Exhibit 4 at 71:4-8 (agreeing
+that the purpose of the phosphorothiolate group is to link the nucleotides at the 3′ end of the probe
+with the nucleotide analogs and label at the 5′ end of the probe.)
+
+24
+
+43
+
+25
+
+44
+
+26
+27
+28
+
+Exhibit 1 at Fig. 2 and Col. 9, lines 9-57 and Col. 16, line 50-Col. 18, line 17.
+
+In the phosphoramidate, an amine group (nitrogen bound to hydrogen) is substituted for the
+normal oxygen atom, while in the phosphorothiolate group, a sulfur atom is substituted. Compare Figure 1 and Figure 3, supra. AB’s expert, Dr. Metzker, agrees that nitrogen and sulfur link
+the portions of the probe together in the same way. See supra at n.33; see also Exhibit 4 at 70:1019 (explaining that the “bridging oxygen” in the normal phosphodiester backbone is changed to a
+sulfur atom in a phosphorothiolate bond).
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF
+INFRINGEMENT; CASE NO: 07-CV-02845 WHA
+
+12
+
+Case 3:07-cv-02845-WHA
+
+Document 203
+
+Filed 07/17/2008
+
+Page 16 of 28
+
+1
+
+substantially the same result – providing a cleavable linkage that can be cleaved to produce a 5′
+
+2
+
+phosphate group.45 The specific manner or conditions used to cleave the linkage, and indeed
+
+3
+
+whether the linkage is cleaved at all, is also immaterial to the function/way/result analysis be-
+
+4
+
+cause claim 1 of the ‘119 patent contains only structural limitations, not limitations requiring any
+
+5
+
+particular use, including cleavage. This Court should conclude, as the Supreme Court did in
+
+6
+
+Graver Tank, that substitution of a phosphorothiolate group for the claimed phosphoramidate
+
+7
+
+group is an insubstantial difference in light of the undisputed facts.
+
+8
+
+D.
+
+9
+
+Solexa is entitled to summary judgment that the one-base encoding SOLiD
+System infringes claim 1 of the ‘341 patent
+1.
+
+10
+
+Claim construction
+
+Claim 1 of the ‘341 patent recites:
+
+11
+
+A method for determining a sequence of nucleotides in a target polynucleotide,
+the method comprising the steps of:
+
+12
+13
+
+(a) providing a probe-target duplex comprising an initializing oligonucleotide
+probe hybridized to a target polynucleotide, said probe having an extendable
+probe terminus;
+
+14
+15
+
+(b) ligating an extension oligonucleotide probe to said extendable probe terminus,
+to form an extended duplex containing an extended oligonucleotide probe;
+
+16
+17
+
+(c) identifying, in the extended duplex, at least one nucleotide in the target
+polynucleotide that is either (1) complementary to the just-ligated extension probe
+or (2) the nucleotide residue in the target polynucleotide which is immediately
+downstream of the extended oligonucleotide probe;
+
+18
+19
+20
+
+(d) generating an extendable probe terminus on the extended probe, if an extendable probe terminus is not already present, such that the terminus generated is different from the terminus to which the last extension probe was ligated; and
+
+21
+22
+
+(e) repeating steps (b), (c) and (d) until a sequence of nucleotides in the target
+polynucleotide is determined.
+
+23
+24
+25
+26
+27
+28
+
+45
+
+Exhibit 1 at Col. 9, lines 34-35 (“[T]he extendable end [is] regenerated by treating the phosphoramidate linkage with acid . . . .”) and Col. 10, lines 10-33 (describing scissile linkages and
+their conversion into an “extendable” end). See also Exhibit 4 at 84:11-86:8; 95:20-96:6; 98:6-11;
+and 107:3-7 (admitting that the phosphorothiolate linkage in both one-base encoding and twobase encoding probes is cleaved to generate an extendable 5′ phosphate end group).
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF
+INFRINGEMENT; CASE NO: 07-CV-02845 WHA
+
+13
+
+Case 3:07-cv-02845-WHA
+
+Document 203
+
+Filed 07/17/2008
+
+Page 17 of 28
+
+1
+
+The parties met and conferred and presented six claim terms from the ‘341 patent46 to the Court
+
+2
+
+for construction. The Court issued its claim construction order on February 21, 2008.47 The six
+
+3
+
+terms were construed as follows:
+Claim Term
+
+4
+5
+
+The Court’s Construction
+
+“initializing oligonucleotide probe”
+
+“the oligonucleotide to which the first extension oligonucleotide probe is first ligated”
+
+“ligating an extension oligonucleotide
+probe to said extendable probe terminus”
+
+“forming a covalent bond between an extension oligonucleotide probe and the extendable probe terminus of either an initializing oligonucleotide or an
+extended oligonucleotide probe while hybridized to
+a target polynucleotide.”
+
+“extended oligonucleotide probe”
+
+“an initializing oligonucleotide probe effectively
+extended by one or more nucleotides”
+
+“identifying”
+
+“within each cycle determining the identity of a base
+in the target polynucleotide.”
+
+“just-ligated extension probe”
+
+“the extension oligonucleotide probe ligated to either the initializing oligonucleotide probe or an extended oligonucleotide probe in the present cycle of
+the method.”
+
+“repeating steps (b), (c), and (d) until a
+sequence of nucleotides in the target
+polynucleotide is determined.”
+
+Not construed; takes its plain and ordinary meaning.
+
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+The only remaining term that requires construction is the term “target polynucleotide.” The
+Court’s comments regarding a “drafting error” in claim 1 of the ‘341 patent indicates formal construction is necessary. Solexa proposes that “target polynucleotide” be construed to mean “a
+polynucleotide that contains the nucleotide sequence information to be obtained.”48 Under
+Solexa’s proposed construction, the “target polynucleotide” need only contain the nucleotide sequence information to be obtained, but may also contain other sequences, including regions of
+
+26
+
+46
+
+The term “identifying” also appears in claim 1 of the ‘597 patent.
+
+27
+
+47
+
+Docket No. 133.
+
+48
+
+Joint Claim Construction and Prehearing Statement (Docket No. 78) at 6 & 12.
+
+28
+
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF
+INFRINGEMENT; CASE NO: 07-CV-02845 WHA
+
+14
+
+Case 3:07-cv-02845-WHA
+
+Document 203
+
+Filed 07/17/2008
+
+Page 18 of 28
+
+1
+
+known sequence to which initializing oligonucleotides may be hybridized and sequences from
+
+2
+
+which no sequence information will be obtained. The “target polynucleotide” may also be of en-
+
+3
+
+tirely known, entirely unknown, or a mixture of known and unknown sequences. Only this con-
+
+4
+
+struction is consistent with the teaching of the specification and the plain and ordinary meaning of
+
+5
+
+this term to those of ordinary skill in the art when the patent was filed.
+
+6
+
+Importantly, when construing “target polynucleotide,” the specification’s description of a
+
+7
+
+preferred embodiment in which “a target polynucleotide is conjugated to a binding region to form
+
+8
+
+a template”49 should not be treated as limiting the scope of the term “target polynucleotide,” be-
+
+9
+
+cause doing so would improperly import limitations from the specification into the claims, ignore
+
+10
+
+other teachings of the specification, and contradict other statements in the Court’s claim construc-
+
+11
+
+tion order.
+
+12
+
+First, descriptions of preferred embodiments should not normally be used to limit the
+
+13
+
+scope of claim terms.50 This principle is hornbook law. The passage from the specification dis-
+
+14
+
+cussed above expressly describes a preferred embodiment. The passage does not provide an ex-
+
+15
+
+press or implied definition that requires the target polynucleotide to be distinct from the template
+
+16
+
+or binding region. Nor is there any definition requiring that the target polynucleotide not include
+
+17
+
+any known sequences. Indeed, as discussed in Solexa’s Reply Brief on Claim Construction,51 the
+
+18
+
+text following the quoted passage expressly disclaims limiting the invention to the particular fea-
+
+19
+
+tures of the embodiment (such as a template formed from a separate target polynucleotide and
+
+20
+21
+22
+49
+
+23
+24
+25
+26
+27
+28
+
+Exhibit 1, Col. 8, lines 8-10.
+
+50
+
+See Decisioning.com, Inc. v. Federated Dept. Stores, Inc., 527 F.3d 1300, 1314 (Fed. Cir.
+2008)(The “description of a preferred embodiment, in the absence of a clear intention to limit
+claim scope, is an insufficient basis on which to narrow the claims.”); Phillips v. AWH Corp., 415
+F.3d 1303, 1323 (Fed. Cir. 2005)(en banc)(cautioning against importing limitations from the
+specification into the claims); Texas Instruments, Inc. v. U.S. Int'l Trade Comm'n, 805 F.2d 1558,
+1563 (Fed. Cir. 1986)(“This court has cautioned against limiting the claimed invention to preferred embodiments or specific examples in the specification.”).
+51
+
+Docket No. 100 at 8-10.
+
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF
+INFRINGEMENT; CASE NO: 07-CV-02845 WHA
+
+15
+
+Case 3:07-cv-02845-WHA
+
+Document 203
+
+Filed 07/17/2008
+
+Page 19 of 28
+
+1
+
+binding region).52 “Target polynucleotide” should be construed as proposed by Solexa, rather
+
+2
+
+than in the limited sense suggested by the description of the preferred embodiment.
+
+3
+
+Second, construing “target polynucleotide” to exclude the presence of other DNA se-
+
+4
+
+quences, such as known regions of DNA usable as binding regions or DNA sequences from
+
+5
+
+which no sequence information will be obtained, would ignore other teachings in the specifica-
+
+6
+
+tion. The specification expressly teaches that target polynucleotides can be generated by tech-
+
+7
+
+niques such as PCR and standard cloning techniques. These methods would be understood by one
+
+8
+
+of ordinary skill in the art to require the use of DNA sequences other than the DNA to be se-
+
+9
+
+quenced, including cloning vectors, PCR primers, and other sequences, and to leave those DNA
+
+10
+
+sequences attached to the DNA to be sequenced. For example, PCR primers used to amplify tar-
+
+11
+
+get DNA are necessarily incorporated into the amplified DNA, and portions of cloning vectors
+
+12
+
+may commonly remain associated with amplified DNA following cloning. Use of these tech-
+
+13
+
+niques and descriptions of the sequences thereby incorporated into the target polynucleotides are
+
+14
+
+extensively described in the specification.53
+
+15
+
+Finally, construing “target polynucleotide” to exclude known regions of DNA would con-
+
+16
+
+tradict other statements in the Claim construction order. As the Court recognized, a target polynu-
+
+17
+
+cleotide is “clearly not always a fully-known sequence.”54 The Court also rejected AB’s attempt
+
+18
+
+to limit “‘target polynucleotide’ as necessarily containing a fully-unknown sequence,” noting that,
+
+19
+
+based on the teaching of the specification, “[a]t times, the sequence may very well be a partially-
+
+20
+
+known sequence that the user desires to be further sequenced.”55 Besides being fully unknown, or
+
+21
+
+partially known, a sequence may also be fully known, as in both of the Examples given in the
+
+22
+23
+24
+25
+26
+27
+28
+
+52
+
+Exhibit 1, Col. 8, lines 44-46.
+
+53
+
+Exhibit 1 at Col. 3, lines 53-60; Col. 4, lines 4-25; Col. 8, lines 19-44 (describing preparation of “target polynucleotides” by a variety of methods, including PCR and conventional cloning
+vectors, which would incorporate additional DNA sequences into the DNA to be sequenced); and
+Examples 1 & 2 (Col. 14, line 40 to Col. 15, line 27; Col. 16, lines 50-60; and Col. 18, lines 1017) (describing PCR amplification of a target polynucleotide and specific additional sequences
+incorporated into it).
+54
+
+Docket No. 133 at 9.
+
+55
+
+Id. at 16-17.
+
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF
+INFRINGEMENT; CASE NO: 07-CV-02845 WHA
+
+16
+
+Case 3:07-cv-02845-WHA
+
+Document 203
+
+Filed 07/17/2008
+
+Page 20 of 28
+
+1
+
+specification, which teach that the nucleotide sequence of the already-fully known vector pUC19
+
+2
+
+would be “identified” and “determined” using the claimed methods.56 In conclusion, the Court
+
+3
+
+should adopt Solexa’s proposed construction of “target polynucleotide.”
+
+4
+
+2.
+
+5
+
+There is no genuine issue of material fact concerning the steps performed or the reagents
+
+6
+7
+8
+9
+10
+11
+
+used in the one-base encoding format of the SOLiD System, nor is there any genuine issue of material fact precluding summary judgment that the one-base encoding format of the SOLiD System
+satisfies each limitation of claim 1 of the ‘341 patent, either literally or under the doctrine of
+equivalents. The following analysis compares each of the properly construed limitations of the
+claim to the steps in the method practiced by the accused device.
+AB’s one-base encoding SOLiD System method satisfies all limitations of step (a) of
+
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+The one-base encoding format of the SOLiD System satisfies all limitations of claim 1 of the ‘341 patent
+
+claim 1 either literally or under the doctrine of equivalents. Step (a) recites “providing a probetarget duplex comprising an initializing oligonucleotide probe hybridized to a target polynucleotide, said probe having an extendable probe terminus.” The AB method obtains sequence information from a piece of DNA attached to a microscopic bead.57 The DNA attached to the bead is a
+“target polynucleotide” because it is “a polynucleotide that contains the nucleotide sequence information to be obtained,” along with other sequences, including a known “adapter sequence,”
+which is used in PCR amplification of the target DNA and is immediately adjacent to the DNA to
+be sequenced. The universal sequencing primer is an “initializing oligonucleotide probe” because
+it is the “the oligonucleotide to which the first extension oligonucleotide probe is first ligated,” as
+explained below. The AB method provides a “probe-target duplex comprising an initializing oligonucleotide probe hybridized to a target polynucleotide” because it provides a duplex formed
+between a universal sequencing primer and the adapter sequence portion of the target polynucleo56
+
+Exhibit 1 at Col. 14, line 41 to Col. 18, line 17. In particular, see Col. 16, lines 44-45 (“The
+cycles are carried out until all the nucleotides of the test sequence are identified.”) and Col. 18,
+lines 16-17 (“The process continues until the sequence of the [pUC19] target polynucleotide is
+determined.”).
+57
+
+Exhibit 4 at 42:19-43:6.
+
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF
+INFRINGEMENT; CASE NO: 07-CV-02845 WHA
+
+17
+
+Case 3:07-cv-02845-WHA
+
+Document 203
+
+Filed 07/17/2008
+
+Page 21 of 28
+
+1
+
+tide.58 Finally, the AB method satisfies the limitation “said probe having an extendable probe
+
+2
+
+terminus” because the universal sequencing primer has a 5′ phosphate group,59 which is extend-
+
+3
+
+able by ligation.60 Alternatively, if the Court construes the term “target polynucleotide” to ex-
+
+4
+
+clude the adapter sequence, then the limitation is satisfied under the doctrine of equivalents, be-
+
+5
+
+cause one of ordinary skill in the art would understand that hybridizing the initializing oligonu-
+
+6
+
+cleotide to known DNA sequences attached immediately adjacent to the DNA to be sequenced is
+
+7
+
+an insubstantial difference because the initializing oligonucleotide could still be extended by liga-
+
+8
+
+tion to obtain information about the adjacent sequences.61
+
+9
+
+AB’s method literally satisfies all limitations of step (b) of claim 1. Following formation
+
+10
+
+of the probe-target duplex, a pool of one-base encoding oligonucleotide probes with the structure
+
+11
+
+described above is added. These one-base encoding probes satisfy the “extension oligonucleotide
+
+12
+
+probes” limitation recited in step (b). In the first ligation round, one of these probes is ligated to
+
+13
+
+the extendable end of the universal sequencing primer by DNA ligase.62 In subsequent rounds of
+
+14
+
+the method, the labeled ligation probes hybridize adjacent to extended oligonucleotide probe
+
+15
+
+formed in the previous round.63 The AB method satisfies the limitation “ligating an extension oli-
+
+16
+17
+
+58
+
+Id. at 89:4-8 (discussing Exhibit 3 at AB00137636).
+
+18
+
+59
+
+Id. at 88:15-21 (discussing Exhibit 3 at AB00137636).
+
+19
+
+60
+
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Exhibit 1 at, e.g., Fig. 3B (showing 5′ phosphate group on the initializing oligonucleotide
+probe) and accompanying text at Col. 11, lines 1-14 (describing a 5′ monophosphate as an “extendable end.”).
+61
+
+Under the function/way/result test, the outcome is the same. The adapter sequence performs
+the same function (providing a place for an initializing oligonucleotide to hybridize) in the same
+way (by having sequences complementary to the initializing oligonucleotide) to achieve the same
+result (providing an initial registration point for subsequent extension of the initializing oligonucleotide).
+62
+
+Exhibit 4 at 89:13-22 and 90:8-20 (discussing Exhibit 3 at AB00137636-637). Because the
+probes are degenerate at their 3′ ends, the pool encompasses all 45 = 1,024 possible five base sequences of the four nucleotides A, T, C, and G (i.e., AAAAA, AAAAT . . . GGGGC, GGGGG).
+This means that one of the probes will be complementary to the five bases in the target DNA immediately adjacent to the hybridized universal sequencing primer. The complementary probe hybridizes and is ligated to the end of the universal sequencing primer.
+63
+
+Id. at 97:21-24 (discussing Exhibit 3 at AB00137640-641).
+
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF
+INFRINGEMENT; CASE NO: 07-CV-02845 WHA
+
+18
+
+Case 3:07-cv-02845-WHA
+
+Document 203
+
+Filed 07/17/2008
+
+Page 22 of 28
+
+1
+
+gonucleotide probe to said extendable probe terminus, to form an extended duplex containing an
+
+2
+
+extended oligonucleotide probe” because, following hybridization of the labeled ligation probe,
+
+3
+
+DNA ligase forms a covalent bond between the labeled extension probe and the extendable 5′
+
+4
+
+phosphate of either the universal sequencing primer (in the first round of ligations)64 or a previ-
+
+5
+
+ously extended primer (for all subsequent rounds) while both are hybridized to the DNA attached
+
+6
+
+to the bead. The labeled ligation probe ligated in each round is the “just-ligated extension probe,”
+
+7
+
+as construed by the Court, because it is “the extension oligonucleotide probe ligated to either the
+
+8
+
+initializing oligonucleotide probe or an extended oligonucleotide probe in the present cycle of the
+
+9
+
+method.” The ligation step extends the universal sequencing primer (or a previously extended
+
+10
+
+primer), thus forming an “extended oligonucleotide probe,” which was construed by the Court to
+
+11
+
+mean “initializing oligonucleotide probe effectively extended by one or more nucleotides,” and
+
+12
+
+also forms an extended duplex region along the target polynucleotide.65
+
+13
+
+AB’s method satisfies all limitations of step (c) of claim 1 either literally or under the doc-
+
+14
+
+trine of equivalents. Following the ligation step and prior to the cleavage step, the SOLiD System
+
+15
+
+obtains and records a color image of the beads containing the DNA being sequenced.66 This step
+
+16
+
+literally satisfies the limitation “identifying, in the extended duplex, at least one nucleotide in the
+
+17
+
+target polynucleotide that is . . . complementary to the just-ligated extension probe” because a
+
+18
+
+color signal in a one-base encoding system directly determines the identity of the nucleotide at the
+
+19
+
+interrogation position of the ligated, labeled probe, and thus the base in the target polynucleotide
+
+20
+
+that is complementary to the just-ligated extension probe at that position.67 The color signal ob-
+
+21
+22
+23
+24
+25
+26
+27
+28
+
+64
+
+Id. at 90:8-20 (discussing Exhibit 3 at AB00137637-638).
+
+65
+
+Exhibit 3 at AB00137637 and -641.
+
+66
+
+The fluorescent dye attached to the ligated probes is excited with white light and gives off
+fluorescent light in characteristic wavelengths. The SOLiD System takes color images of the
+beads with a camera and records the images to a hard drive prior to the cleavage step. Exhibit 4 at
+56:2-57:18 and 90:14-92:11.
+67
+
+Id. at 92:12-18 (“Q: So in the 1-base encoding system, the color that’s given off identifies a
+base in the template because there’s a one-to-one correspondence between the nucleotide at the
+interrogation position and the label on the 5′ end, right? A: Yes.”) (discussing Exhibit 3 at
+AB00137638).
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF
+INFRINGEMENT; CASE NO: 07-CV-02845 WHA
+
+19
+
+Case 3:07-cv-02845-WHA
+
+Document 203
+
+Filed 07/17/2008
+
+Page 23 of 28
+
+1
+
+tained in subsequent ligation rounds likewise directly identifies a nucleotide in the target polynu-
+
+2
+
+cleotide,68 as does the color signal obtained in ligation rounds initiated using different universal
+
+3
+
+sequencing primers.69
+
+4
+
+Numerous AB documents confirm that the color signal generated in the one-base encod-
+
+5
+
+ing SOLiD System method identifies a nucleotide in the target polynucleotide. For example, an
+
+6
+
+animation of the one-base encoding AB method entitled “aga.swf”70 was obtained by Solexa, al-
+
+7
+
+though it was not produced by AB during discovery. “Step 4 – Imaging & Basecalling” in this
+
+8
+
+animation shows that the color signal produced during the visualization step identifies a base in
+
+9
+
+the target polynucleotide.
+
+10
+11
+
+AB scientists were aware that the one-base encoding method satisfied the “identifying”
+limitation of step (c) of claim 1 of the ‘341 patent.71
+
+12
+
+Other AB scientists also described the one-base encoding SOLiD System as identifying a
+
+13
+
+base using the color signal produced by the dyes attached to the probes. For example, in a techni-
+
+14
+
+cal brief, AB scientists describing the importance of the color images obtained one-base encoding
+
+15
+
+method stated that:
+
+16
+
+In the resulting picture, you see each productive bead as a spot of particular
+color: one bead over here says, “I’m an A!”; one nearby says, “I’ve got a C”;
+and so on. Any unproductive beads that happened to survive the enrichment
+process either stay dark or show an indeterminate signal that can be discounted.
+
+17
+18
+19
+68
+
+20
+21
+
+Id. at 98:1-5 (“Q: And you see a signal from the fluorescent dye on this probe that’s just
+been ligated, which identifies the nucleotide at position 10 as a T; is that correct? A: Correct.”)
+(discussing Exhibit 3 at AB00137641).
+69
+
+22
+23
+24
+
+Id. at 101:2-7 (“Q: Next slide 26, again, there’s a visualization step where white light is
+shown [sic – shone] on the fluorescent dye, it gives off a characteristics wavelength, identifying a
+base at the fourth position [as] T? A: Correct.”) and 101:24-102:5 (“Q: So you get sequence information, you identify the bases, the positions 1 to 25 using five sequencing primers, [N], N-1,
+N-2, N-3, N-4, and five cycles each on those primers with the exact same pool of oligonucleotide
+probes? A: Correct.”) (discussing Exhibit 3 at AB00137646 and -648, respectively).
+
+25
+
+70
+
+26
+
+Decl.
+
+The “aga.swf” animation is attached hereto, in native format, as Exhibit 13 to the Pendleton
+
+71
+
+27
+28
+
+In particular, there is an admission in a document that will be the subject of a forthcoming
+motion to compel that directly bears on infringement of claim 1 of the ‘341 patent. If the motion
+to compel is granted, that document will serve as Exhibit 14 to the Pendleton Decl.
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF
+INFRINGEMENT; CASE NO: 07-CV-02845 WHA
+
+20
+
+Case 3:07-cv-02845-WHA
+
+1
+
+3
+
+5
+
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+
+base encoding SOLiD System method.73
+If the Court concludes that obtaining and recording the color image does not literally satisfy the “identifying” limitation in step (c), the AB method should be found to satisfy the claim
+limitation under the doctrine of equivalents. The color images obtained and recorded during the
+one-base encoding AB method contain all the information necessary and sufficient to determine
+the identity of a base in the target polynucleotide. The function of the color image recorded by the
+SOLiD System is to identify a base in the target polynucleotide that is complementary to the justligated extension probe. The way in which this is done is by analyzing the color images obtained
+in light of known parameters, like the color encoding scheme used. For example, if A is encoded
+with a blue dye, the AB method determines that a blue signal represents an A in the target sequence. The result of this analysis is the determination of the identity of a base without any data
+generated outside to the cycle: indeed, the AB system gathers no information other than the color
+images from which it determines nucleotide sequences in the one-base encoding format. The timing of when the identity of a nucleotide is recorded as a letter rather than a color does not change
+the function, way, or result: because the one-base encoding system has a one-to-one correspondence between color and nucleotide identity, recording the identity of a base as “blue” or “A” is
+simply a matter of nomenclature, not a substantial difference precluding summary judgment of
+infringement.
+AB’s method literally satisfies all limitations of step (d) of claim 1. After the imaging
+
+23
+24
+25
+26
+
+Page 24 of 28
+
+Dr. Costa admitted at her deposition that this document accurately described the steps of the one-
+
+6
+7
+
+Filed 07/17/2008
+
+That first image, like the colored starts in an astronomical photograph, or like the
+members of the card section in a football stadium, gives you a starting point. You
+know what the first base in the sequence of each of those randomly chopped
+DNA fragments is. Hurray!”72
+
+2
+
+4
+
+Document 203
+
+step, the phosphorothiolate linkage in the ligated probe is chemically cleaved, producing a new
+phosphate group on the end of the extended oligonucleotide probe.74 This step satisfies the limita72
+
+Exhibit 15 to Pendleton Decl. at AB00245400 (emphasis added).
+
+27
+
+73
+
+Exhibit 4 at 130:3-132:13.
+
+28
+
+74
+
+Exhibit 4 at 95:20-23 (discussing Exhibit 3 at AB00137639); see also Exhibit 15 at
+
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF
+INFRINGEMENT; CASE NO: 07-CV-02845 WHA
+
+21
+
+Case 3:07-cv-02845-WHA
+
+Document 203
+
+Filed 07/17/2008
+
+Page 25 of 28
+
+1
+
+tion “generating an extendable probe terminus on the extended probe, if an extendable probe ter-
+
+2
+
+minus is not already present, such that the terminus generated is different from the terminus to
+
+3
+
+which the last extension probe was ligated” because the cleavage step generates a 5′ phosphate on
+
+4
+
+the extended probe, if one is not already present, which is in a different location than the 5′ phos-
+
+5
+
+phate to which the just-ligated extension probe ligated.75 Subsequent cleavage steps likewise pro-
+
+6
+
+duce extendable probe termini that are in a different position than the terminus to which the just-
+
+7
+
+ligated extension oligonucleotide was ligated.76
+
+8
+
+AB’s “SOLiD System method” satisfies all limitations of step (e) of claim 1 either liter-
+
+9
+
+ally or under the doctrine of equivalents. After the cleavage step, the pool of one-base encoding
+
+10
+
+oligonucleotide probes is again added and the steps are repeated.77 This step satisfies the limita-
+
+11
+
+tion “repeating steps (b), (c) and (d) until a sequence of nucleotides in the target polynucleotide is
+
+12
+
+determined” because the previously described steps of hybridization of a labeled, one-base encod-
+
+13
+
+ing ligation probe, ligation of the probe to the extendable probe terminus of the extended probe,
+
+14
+
+identification of a nucleotide in the target polynucleotide that is complementary to the just-ligated
+
+15
+
+extension probe, and generation of an extendable terminus in a new location on the extended
+
+16
+
+probe are repeated.78 If the Court concludes that the AB method does not literally satisfy the
+
+17
+
+“identifying” limitation of step (c), and therefore does not literally satisfy step (e), however, the
+
+18
+19
+20
+21
+22
+23
+
+AB00245400.
+75
+
+Compare the position of 5′ phosphate group on the universal sequencing primer in Exhibit 3
+at AB00137636 with the position of 5′ phosphate group on the extended primer in Exhibit 3 at
+AB00137639.
+76
+
+Compare the position of 5′ phosphate group on the extended universal sequencing primer in
+Exhibit 3 at AB00137639 with the position of 5′ phosphate group on the twice-extended primer in
+Exhibit 3 at AB00137642; see also Exhibit 4 at 98:6-11.
+
+24
+
+77
+
+25
+
+78
+
+26
+27
+28
+
+Exhibit 4 at 98:12-99:12 (discussing Exhibit 3 at AB00137643).
+
+Furthermore, AB’s one-base encoding SOLiD System method uses additional universal sequencing primers that hybridize to different positions of the P1 adapter. These primers are used in
+the same sequence of steps to obtain sequence information beginning from a different starting position. Exhibit 4 at 100:9-102:5 (discussing Exhibit 3 at AB00137645-648). Use of the one-base
+encoding SOLiD System with these primers likewise independently satisfies all limitations of
+claim 1 of the ‘341 and ‘597 patents for all the reasons given above.
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF
+INFRINGEMENT; CASE NO: 07-CV-02845 WHA
+
+22
+
+Case 3:07-cv-02845-WHA
+
+Document 203
+
+Filed 07/17/2008
+
+Page 26 of 28
+
+1
+
+AB method should be found to infringe under the doctrine of equivalents, according to the analy-
+
+2
+
+sis provided above for step (c).
+
+3
+4
+5
+6
+7
+
+E.
+
+Solexa is entitled to summary judgment that the one-base encoding SOLiD
+System infringes claim 1 of the ‘597 patent
+1.
+
+Claim construction
+
+Claim 1 of the ‘597 patent recites:
+A method for identifying a sequence of nucleotides in a polynucleotide, the
+method comprising the steps of:
+
+8
+9
+10
+
+(a) extending an initializing oligonucleotide along the polynucleotide by ligating
+an oligonucleotide probe thereto to form an extended duplex;
+(b) identifying one or more nucleotides of the polynucleotide; and
+
+11
+(c) repeating steps (a) and (b) until the sequence of nucleotides is determined.
+12
+13
+14
+15
+
+The Court’s construction of “initializing oligonucleotide probe” in claim 1 of the ‘341 patent has
+been applied to the term “initializing oligonucleotide” in step (a) of claim 1 of the ‘597 patent.
+The Court’s construction of “identifying” has also been applied. All other terms either require no
+specific construction or have been previously construed above.
+
+16
+17
+18
+
+2.
+
+The one-base encoding format of the SOLiD System satisfies all limitations of claim 1 of the ‘597 patent
+
+The detailed description of the steps of the one-base encoding format SOLiD System
+
+19
+
+method given above, and the documents, testimony, and other evidence supporting it are incorpo-
+
+20
+
+rated herein in their entirety.
+
+21
+
+AB’s method literally satisfies all limitations of step (a) of the ‘597 patent. As discussed
+
+22
+
+above, the AB method satisfies this limitation because a universal sequencing primer is extended
+
+23
+
+along the target polynucleotide by ligation of a one-base encoding oligonucleotide probe.
+
+24
+
+AB’s method satisfies all limitations of step (b) of the ‘597 patent, either literally or under
+
+25
+
+the doctrine of equivalents, as described in detail above concerning step (c) of claim 1 of the ‘341
+
+26
+
+patent. Briefly, the “identifying” limitation is literally satisfied by the one-base encoding format
+
+27
+
+AB method because the color image determines the identity of a base in the polynucleotide. Al-
+
+28
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF
+INFRINGEMENT; CASE NO: 07-CV-02845 WHA
+
+23
+
+Case 3:07-cv-02845-WHA
+
+Document 203
+
+Filed 07/17/2008
+
+Page 27 of 28
+
+1
+
+ternatively, the color image satisfies this limitation under the doctrine of equivalents for the rea-
+
+2
+
+sons discussed above.
+
+3
+
+AB’s method satisfies all limitations of step (c) of the ‘597 patent, either literally or under
+
+4
+
+the doctrine of equivalents. As discussed above, the AB method involves repeated cycles of ex-
+
+5
+
+tension of initializing oligonucleotides by ligation of labeled oligonucleotide probes and identifi-
+
+6
+
+cation of nucleotides in the target polynucleotide within each round. The limitations of step (c)
+
+7
+
+are satisfied because multiple universal sequencing primers are initially extended along the target
+
+8
+
+polynucleotide by ligation of a labeled one-base encoding probe, followed by identification of a
+
+9
+
+nucleotide in the target polynucleotide, as discussed above.
+
+10
+
+F.
+
+11
+
+For all the reasons given above, Solexa respectfully moves the Court to grant summary
+
+12
+
+judgment of infringement of claim 1 of the ‘119 patent against AB with regard to the one-base
+
+13
+
+and two-base encoding labeled ligation probes identified above. Solexa also respectfully moves
+
+14
+
+the Court to grant summary judgment of infringement of claim 1 of both the ‘341 and ‘597 pat-
+
+15
+
+ents against AB with regard to the one-base encoding format of the SOLiD System.
+
+CONCLUSION
+
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF
+INFRINGEMENT; CASE NO: 07-CV-02845 WHA
+
+24
+
+Case 3:07-cv-02845-WHA
+
+1
+
+Document 203
+
+Filed 07/17/2008
+
+Page 28 of 28
+
+DATED: July 17, 2008
+
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+KEVIN M. FLOWERS (admitted pro hac vice)
+THOMAS I. ROSS (admitted pro hac vice)
+JEFFREY H. DEAN (admitted pro hac vice)
+JOHN R. LABBE (admitted pro hac vice)
+CULLEN N. PENDLETON (admitted pro hac vice)
+MARK H. IZRAELEWICZ (admitted pro hac vice)
+MARSHALL, GERSTEIN & BORUN LLP
+6300 Sears Tower
+233 South Wacker Drive
+Chicago, Illinois 60606-6357
+(312) 474-6300 (telephone)
+(312) 474-0448 (facsimile)
+E-Mail: kflowers@marshallip.com
+E-Mail: tross@marshallip.com
+E-Mail: jdean@marshallip.com
+E-Mail: jlabbe@marshallip.com
+E-Mail: cpendleton@marshallip.com
+E-Mail: mizraelewicz@marshallip.com
+Counsel for Defendants
+ILLUMINA, INC., SOLEXA, INC.,
+and STEPHEN C. MACEVICZ
+
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+SOLEXA’S NOTICE OF MOTION AND MOTION FOR PARTIAL SUMMARY JUDGMENT OF
+INFRINGEMENT; CASE NO: 07-CV-02845 WHA
+
+25
+
+

@@ -1,0 +1,351 @@
+Case 1:07-cv-11189-BSJ-DCF Document7 Filed 02/04/2008 Page 1 of 14
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+coe een xX
+MARYANN ROBINSON,
+> 07-CV-11189 (BSJ)
+Plaintiff, > ELECTRONICALLY FILED
+-against- :
+DEUTSCHE BANK TRUST :
+COMPANY AMERICAS, :
+Defendant. :
+oe ee eee eee _-- wownenneeX
+
+ 
+
+DEFENDANT DEUTSCHE BANK TRUST
+COMPANY AMERICA'S MEMORANDUM OF LAW IN
+SUPPORT OF ITS MOTION TO DISMISS THE COMPLAINT
+
+Kenneth J. Turnbull
+
+Morgan, Lewis & Bockius LLP
+101 Park Avenue
+
+New York, New York 10178
+(212) 309-6000
+
+Attorneys for Defendant
+Deutsche Bank Trust Company Americas
+Case 1:07-cv-11189-BSJ-DCF Document7 Filed 02/04/2008 Page 2 of 14
+
+TABLE OF CONTENTS
+
+Page
+PRELIMINARY STATEMENT .......cccceeccccceseseeceeeeeeeeceeeeecneeenreeseecnresiesesessesessenseseessecseesseseeenees 1
+STATEMENT OF FACTS ooo... ccceccecceeceececceeceeneeenreeneesnseseescrecisesneeseesneeensceesseseseseieeereneseraseesnens 2
+A. Robinson's Background and Expertise... cece cee cece ces ersesseeseeeeneesseseetseneees 2
+B. The Interview Process At Deutsche Bank 00000... eee ccc cece eens see eesseeeeeneeenees 3
+C. Negotiations oc. cccececeeceseeeneeneteeesscnsessecseessceseseecsscesecaseesnsessesseeseeasesesasseenseeeeeengen 3
+D. The Written Agreement and Merger Clause o.oo... cccccecceeeseteseeeseeeeesensesseeneens 4
+ARGUMENT oo... cccccccccccscntececeeeeeeeeeeeen et ee ence eect g tenet gn EEEEEE EEE DE SEE EEE SE EE gE EEE EASE OEE EUSEIDEGAGUELAA AAA EEEEEEEEAEGAAAEEEESS 4
+1. STANDARD OF REVIEW ....cceccecceccescescececeseeeeeneeeeeeeeteeesaeseesssesenesesanssesecsesessassessseasenteas 4
+I. ROBINSON'S CLAIM FOR FRAUDULENT INDUCEMENT FAILS
+BECAUSE SHE CANNOT ESTABLISH THAT SHE REASONABLY RELIED
+UPON THE ALLEGED ORAL MISREPRESENTATIONS ......ccccccesecseteteteeteeneesens 5
+A. Elements of a Fraudulent Inducement Claim... eee eeeceeneeeneerneeenseeneeeneees 5
+B. Robinson Is A Sophisticated Party Who Could Not Be Said To Have
+Reasonably Relied On The Oral Representations 0.0.00... ccc eee ce ereeesereeseseees 6
+C. The Existence Of The Merger Clause Further Undermines Robinson's
+Alleged Reasonable Reliance oo... ieee cece cere tes ceneeneeeneeeneeeeeeseeesisesseenesegens 8
+CONCLUSION ......ccccccccccccsccsscesseessceseesesececseseeeceeseeeeaeeeeesnreseeeenreseeensesssensesressissecssessecnersessiee 10
+Case 1:07-cv-11189-BSJ-DCF Document7 Filed 02/04/2008 Page 3 of 14
+
+TABLE OF AUTHORITIES
+
+CASES
+
+Alter v. Borgoricin, No. 97 CIV. 0662(MBM),
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1997 WL 691332 (S.D.N.Y. Nov. 6, 1997). 0.0... cece cence ener nen nee page 7
+ATSI Commce'n, Inc. v. Shaar Fund Ltd.,
+
+493 F.3d 87 (2d Cir. 2007).......... ccc c ccd be ceeee pevuubbeveeeeteeeese eee eeeeeeeeeneneeneeeed page 5
+Bell Atl. Corp. v. Twombly,
+
+127 S.Ct. 1955 (2007)... cece cece cen er nn ener E enn nen er neers page 5
+Brass v. American Film Techs.., Inc,
+
+987 F.2d 142 (2d Cir. 1993)... cece eee nee eee n ener nner eters ens page 3
+Cortec Indus., Inc. v. Sum Holding L.P.,
+
+949 F.2d 42 (2d Cir. 1991)... cee erence renner eres page 3
+Emergent Capital nv. Memt., LLC v. Stonepath Group, Inc.,
+
+343 F.3d 189 (2d Cir. 2003)... ccc eee eee nt rennet reer page 6
+Feitshans v. Kahn, No. 06 Civ. 2125(SAS),
+
+2006 WL 2714706 (S.D.N.Y. Sept. 21, 2006) ...... 0. ccc cece eee tte tee tees page 3
+Junk v. Aon Corp, No. 07 Civ. 4640(LMM)(GWG),
+
+2007 WL 4292034 (S.D.N.Y. Dec. 3, 2007)... 0... cece cece eee eee erences page 6, 7, 8
+Wurtsbaugh v. Banc of America Sec. LLC, No. 05 CIV. 6220(DLC),
+
+2006 WL 1683416 (S.D.N.Y. June 20, 2006).......... 0c cece n en eeeens page 5, 6, 8
+
+STATUTES
+
+Fed. R. Civ. P. 12(D)(0).. 20. ccc eee ner nnn e ener t nents page 1, 3,4
+
+il
+Case 1:07-cv-11189-BSJ-DCF Document7 Filed 02/04/2008 Page 4 of 14
+
+PRELIMINARY STATEMENT
+
+Defendant Deutsche Bank Trust Company Americas ("Deutsche Bank" or "the Bank"')
+respectfully submits this memorandum of law pursuant to Rule 12(b)(6) of the Federal Rules of
+Civil Procedure in support of its motion to dismiss the Complaint filed by Plaintiff Maryann
+Robinson ("Robinson"). In her Complaint, Robinson asserts a single claim for fraudulent
+inducement, alleging that the Bank fraudulently induced her to leave her previous employer and
+enter into employment with Deutsche Bank by making misrepresentations and omissions of facts
+concerning its loan approval and credit process. As described below, this claim fails because
+Robinson's purported reliance on these alleged facts was not, as a matter of law, reasonable.
+
+Where an agreement between the parties has been formalized in writing, New York
+courts are typically reluctant to consider a plaintiff's reliance on oral representations reasonable.
+This is particularly so where, as here, the plaintiff is a sophisticated party. This reluctance is
+further increased where, as here, the plaintiff has entered into an agreement containing a merger
+clause that reflects the parties' intention to make the agreement comprehensive and controlling.
+
+Robinson is a highly sophisticated plaintiff with almost twenty years of experience as a
+private banker. Before joining Deutsche Bank, she worked as an executive for such renowned
+financial institutions as Citibank, Union Bank of Switzerland, and HSBC. (Complaint
+("Compl.") 4 8, 9.) In addition to her own sophistication, Robinson was represented throughout
+the hiring process and negotiation of her agreement by Outten & Golden, LLP, a highly
+sophisticated employment law firm. Even with such knowledge, experience and expertise in the
+negotiations, her employment agreement does not contain any provisions addressing the oral
+promises and representations allegedly made by Deutsche Bank during her interview process.
+
+Moreover, the final agreement between Robinson and Deutsche Bank contained a merger
+clause stating that, "this Agreement constitutes the entire agreement between you and Deutsche
+
+Bank, including its agents or employees and supercedes all other representations, warranties,
+Case 1:07-cv-11189-BSJ-DCF Document7 Filed 02/04/2008 Page 5 of 14
+
+agreements, and understandings, oral or otherwise, with respect to matters contained in this
+Agreement." This clause makes clear that the parties' intended for the agreement to constitute
+the entire terms of Robinson's employment, and that no other representations should be relied
+upon.
+
+In light of the foregoing, Robinson cannot establish that she reasonably relied on any oral
+representations made by the Bank. Therefore, the Court should grant the Bank's motion to
+dismiss for failure to state a claim upon which relief can be granted and dismiss the Complaint in
+
+its entirety.
+STATEMENT OF FACTS!
+
+A. Robinson's Background and Expertise
+
+Robinson graduated magna cum laude from Saint Mary's College-Notre Dame in 1982
+with a B.B.A. in Finance and Accounting. (Compl. 0x00A7 7.) She received a Masters of Management
+from Northwestern University in 1986. (Id.) Having worked in the banking industry since 1982,
+she has almost twenty years of experience as a private banker and has worked for various
+financial institutions such as Citibank, N.A. and Union Bank of Switerland. (Compl. { 8.) In
+fact, Robinson previously worked for Deutsche Bank's Private Wealth Management Division
+from February 21, 1995 to July 7, 1997.
+
+Prior to returning to Deutsche Bank in July 2007, Robinson worked for HSBC Bank USA
+for almost ten years, most recently as Senior Vice President in their Domestic Private Banking
+Group. (Compl. { 9.) In this position she provided financial services to high net worth
+individuals with an average net worth of $50 million and their affiliates. (Id.) In 2006, this
+client base generated substantial revenue for HSBC. (Id.) In addition, in this role, Robinson
+
+supervised three bankers and other financial professionals. (Id.)
+
+ 
+
+Deutsche Bank denies Robinson's allegations in the Complaint, including her assertions that (1) Deutsche
+
+Bank made material representations or omitted material facts, and (2) that such misrepresentations or omissions
+were knowingly false. However, for purposes of this motion only, Deutsche Bank accepts the allegations in the
+Complaint as true.
+Case 1:07-cv-11189-BSJ-DCF Document7 Filed 02/04/2008 Page 6 of 14
+
+B. The Interview Process At Deutsche Bank
+
+In early 2006, Deutsche Bank approached Robinson about hiring her to work in its
+Private Wealth Management Division ("PWM") as a private banker. (Compl. { 10.) Robinson,
+however, was reluctant to leave her position at HSBC, where she had worked for ten years.
+(Compl. { 13.) Additionally, she was concerned that Deutsche Bank was not in a position to
+adequately serve her clients' needs. (Id.) Therefore, she determined that any discussion about
+joining the Bank was premature and turned down the Bank's offer of employment. (1d.)
+
+In February 2007, after a recruiter from Lockwood Gibbs Associates ("LGA") contacted
+Robinson to reiterate that the Bank was still interested in hiring her, Robinson agreed to
+interview with Deutsche Bank at that time. (Compl. 0x00A7 14.) Robinson interviewed with
+numerous members of Deutsche Bank's senior management, including Thomas Bowers
+("Bowers"), head of U.S. PWM, and Kyle Delaney ("Delaney"), head of the Eastern Region of
+the U.S. Private Bank. (Compl. { 15.) During these interviews, Robinson described the profile
+of her clients in extensive detail, including the fact that they were wealthy entrepreneurs with
+various business interests and investment needs. (Compl. { 16.) In an effort to determine that
+the Bank could service her clients, Robinson asked specific questions about the Bank's mortgage
+program and lending processes. (Compl. {| 20, 21.) She also met with Elizabeth Engel,
+Managing Director, Head of PWM Lending, with whom she discussed the Bank's credit
+approval process. (Compl. {| 20.)
+
+C. Negotiations
+Robinson retained Outten & Golden LLP, an employment law firm, to assist her in
+
+negotiating the terms of her employment with Deutsche Bank.' Specifically, Robinson and the
+
+ 
+
+4
+
+* When considering a motion to dismiss under Rule 12(b)(6), a court may refer to "documents attached to the
+complaint as an exhibit or incorporated in it by reference, to matters of which judicial notice may be taken, or to
+documents either in plaintiffs' possession or of which plaintiffs had knowledge and relied on in bringing suit." Brass
+vy. American Film Techs., Inc., 987 F.2d 142, 150 (2d Cir. 1993) (citing Cortec Indus., Inc. v. Sum Holding L.P.,
+
+949 F.2d 42, 47-48 (2d Cir. 1991)). Indeed, "[w]hile consideration of a motion to dismiss under Rule 12(b)(6) 1s
+generally limited to consideration of the complaint itself, consideration of materials outside the complaint is not
+
+entirely foreclosed." Feitshans v. Kahn, 2006 WL 2714706, at *3 (S.D.N.Y. Sept. 21, 2006). This is particularly so
+
+ 
+Case 1:07-cv-11189-BSJ-DCF Document7 Filed 02/04/2008 Page 7 of 14
+
+Bank negotiated over Robinson's replacement award and its vesting period, Company
+indemnification, and her non-solicitation period. (See Drago Decl. Ex. A.) After extensive
+negotiations, Robinson and the Bank came to an agreement regarding the terms of her
+employment.
+D. The Written Agreement and Merger Clause
+
+On April 3, 2007, Deutsche Bank sent Robinson a written offer letter (the "Agreement")
+setting forth the terms of her employment, including her total compensation and benefits, as a
+private banker and Managing Director in PWM. (Compl. 0x00A7 22.) Notably, the Agreement did not
+include language regarding the Bank's lending and credit approval process. Included within the
+Agreement was a merger clause which states, "This Agreement constitutes the entire agreement
+between you and Deutsche Bank, including any of its agents or employees and supercedes all
+other representations, warranties, agreements, and understandings, oral or otherwise, with respect
+to the matters contained in this Agreement." (See Drago Decl. Ex. B.) After an extensive
+interview process and negotiations, Robinson accepted Deutsche Bank's offer of employment.
+(Compl. { 23.) She signed the Agreement on April 18, 2007 and began working for Deutsche
+Bank as a private banker and Managing Director in PWM on July 9, 2007. (Compl. {{ 23, 27.)
+
+On November 5, 2007, Robinson tendered her resignation to the Bank. (Compl. { 40.)
+
+Her complaint followed.
+ARGUMENT
+
+I. STANDARD OF REVIEW
+Rule 12(b)(6) of the Federal Rules of Civil Procedure mandates dismissal of a complaint
+if there is a "`failure to state a claim upon which relief can be granted." Fed. R. Civ. P. 12(b)(6).
+
+While a court deciding a motion to dismiss must assume that "all the allegations on the
+
+ 
+
+where "the court has determined that there are no disputes as to the authenticity, accuracy and relevance of such
+materials." Id, Here, Robinson obviously had knowledge of, and could not dispute, that she was represented by
+Outten & Golden LLP during her hiring negotiations with the Bank. Therefore, it is proper for the Court to consider
+this representation in deciding the Bank's motion to dismiss.
+Case 1:07-cv-11189-BSJ-DCF Document7 Filed 02/04/2008 Page 8 of 14
+
+complaint are true," Bell Atl. Corp. v. Twombly, 127 S.Ct. 1955, 1965 (2007), the complaint
+must contain "more than labels and conclusions, and a formulaic recitation of a cause of action's
+elements." Id. at 1959. To establish a legally cognizable claim, plaintiff must allege "enough
+facts to state a claim to relief that is plausible on its face." Id. at 1974. See also ATS] Commce'n,
+
+ne. v. Shaar Fund Ltd., 493 F.3d 87, 99 (2d Cir. 2007). As described below, Robinson has
+
+I
+
+failed to plead, and indeed cannot establish, facts necessary to support her claim for fraudulent
+
+inducement. Accordingly, her claim should be dismissed.
+
+Il. ROBINSON'S CLAIM FOR FRAUDULENT INDUCEMENT FAILS BECAUSE
+SHE CANNOT ESTABLISH THAT SHE REASONABLY RELIED UPON THE
+ALLEGED ORAL MISREPRESENTATIONS
+
+A. Elements of a Fraudulent Inducement Claim
+
+Under New York law, to sustain a claim for fraudulent inducement a plaintiff must
+successfully prove "(1) a knowingly false representation of a material fact and (2) detrimental
+reliance thereon." Wurtsbaugh v. Banc of America Sec. LLC, 2006 WL 1683416, at *6
+(S.D.N.Y. June 20, 2006) (internal citation omitted). The false representation of a material fact
+"can be either a misrepresentation or the material omission of a fact." Id. Critically, "/rjeliance
+means `reasonable' reliance." Id. (emphasis added).
+
+Here, Robinson's attempt to establish a claim for fraudulent inducement fails because
+she cannot prove that her reliance upon the alleged oral representations made by Deutsche Bank
+was reasonable. Robinson is a sophisticated party who knowingly entered into a written
+Agreement, which included a merger clause, with Deutsche Bank. As such, she cannot now
+
+claim that she was misled or that she reasonably relied on any oral statements or omissions
+
+allegedly made by the Bank during her job interviews.
+Case 1:07-cv-11189-BSJ-DCF Document7 Filed 02/04/2008 Page Qof 14
+
+B. Robinson Is A Sophisticated Party Who Could Not Be Said To Have
+Reasonably Relied On The Oral Representations
+
+A claim of fraud may be dismissed on the pleadings where "a plaintiff will not be
+able to establish that reliance on the alleged representation was reasonable." Wurtsbaugh, 2006
+WL 1683416, at *6. In assessing whether or not the plaintiffs reliance was reasonable, courts
+consider the entire context of the transaction, "including factors such as its complexity and
+magnitude, the sophistication of the parties, and the content of any agreements between them."
+Emergent Capital Inv. Mgmt., LLC v. Stonepath Group, Inc., 343 F.3d 189, 195 (2d Cir. 2003).
+
+In New York, courts are reluctant to find a plaintiffs reliance on oral
+communications to be reasonable when the parties' have documented their deal in a written
+agreement. "This reluctance stems from the view that `a party will not be heard to complain that
+he has been defrauded when it is his own evident lack of due care which is responsible for his
+predicament."" Junk v. Aon Corp., 2007 WL 4292034, at *7 (S.D.N.Y. Dec. 3, 2007) (quoting
+Emergent Capital, 343 F.3d at 195).
+
+Here, as discussed above, Robinson has a B.B.A. in Finance and Accounting from
+Saint Mary's College-Notre Dame and a Masters in Management from Northwestern University.
+(Compl. 7.) She has been a member of the banking industry for twenty-six years and, as such,
+is familiar with its practices and customs. (Compl. { 8.) Moreover, Robinson has almost twenty
+years experience as a private banker, and has worked for various financial institutions such as
+Citibank, Union Bank of Switzerland and HSBC. (Compl. {0x00A7 8, 9.) In fact, Robinson previously
+worked for Deutsche Bank's Private Wealth Management Division from February 21, 1995 to
+July 7, 1997. Prior to returning to Deutsche Bank in July 2007, Robinson rose to the position of
+Senior Vice President of HSBC in the Domestic Private Banking Group, where she was
+
+responsible for providing financial services to high net worth individuals with an average net
+Case 1:07-cv-11189-BSJ-DCF Document7 Filed 02/04/2008 Page 10 of 14
+
+worth of $50 million. Her client base generated substantial revenue for HSBC in 2006. (Compl.
+49.)
+
+This is not the resume of a naive individual who could not appreciate the terms of her
+written Agreement or understand the need to insert appropriate language in the Agreement
+addressing terms that were important to her. Rather, Robinson is a sophisticated, experienced,
+educated business woman who had every opportunity to, and was capable of, incorporating the
+alleged oral representations made to her into the Agreement. See Alter v. Borgoricin, 1997 WL
+691332, at *9 (S.D.N.Y. Nov. 6, 1997) (fraudulent inducement claim based on oral promises
+fails where it was within the plaintiff's power to incorporate those promises into the Employment
+Agreement and where plaintiffs failure to do so reflects either his own inconvenient candor or
+his lack of foresight, but not fraud). If Robinson was so concerned about the Bank's lending and
+credit approval process, and its ability to deliver on her clients' needs, she should have included
+language to that effect in her Agreement. She did not. Therefore, she should not now be "heard
+to complain that [s]he has been defrauded when it is [her] own evident lack of due care which is
+responsible for [her] predicament." Junk, 2007 WL 4292034, at *7.
+
+Additionally, as if Robinson's notable accolades and career achievements were not
+enough to render her a "sophisticated" party within the meaning of the law, she was also
+represented during her hiring negotiations with the Bank by Wendi Lazar of Outten & Golden,
+LLP, a prestigious employment law firm. Attorneys are typically considered sophisticated
+parties within the eyes of the court. See Junk, 2007 WL 4292034, at 7. Therefore, both an
+experienced business woman like Robinson and her lawyer would clearly be capable of
+understanding the need to incorporate any promises deemed critical into her Agreement and
+
+clearly are "sophisticated parties" within the meaning of the law.
+

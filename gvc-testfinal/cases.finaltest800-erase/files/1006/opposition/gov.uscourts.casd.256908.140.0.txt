@@ -1,0 +1,1775 @@
+Case 3:07-cv-02000-H-CAB
+
+Document 140
+
+Filed 12/14/2007
+
+Page 1 of 26
+
+1 David A. Hahn (SBN 125784)
+HAHN & ADEMA
+2 501 West Broadway, Suite 1600
+San Diego, California 92101-3595
+3 Telephone: (619) 235-2100
+Facsimile: (619) 235-2101
+4
+Attorney for Plaintiffs Lucent Technologies Inc.
+5 and Multimedia Patent Trust
+(Additional counsel listed on the last page)
+6
+7
+8
+
+UNITED STATES DISTRICT COURT
+
+9
+
+SOUTHERN DISTRICT OF CALIFORNIA
+
+10 LUCENT TECHNOLOGIES INC. and
+MULTIMEDIA PATENT TRUST,
+11
+Plaintiff,
+12
+v.
+13 GATEWAY, INC., GATEWAY COUNTRY
+STORES LLC, GATEWAY COMPANIES,
+14 INC., GATEWAY MANUFACTURING LLC
+and COWABUNGA ENTERPRISES, INC.,
+15
+Defendants,
+16
+and
+17 MICROSOFT CORPORATION,
+18
+
+Intervener.
+
+19 MICROSOFT CORPORATION,
+20
+v.
+
+21
+22
+
+Plaintiff,
+
+Case No. 07-CV-2000-H (CAB)
+consisting of matters severed from
+consolidated cases:
+Case No. 02-CV-2060 B (CAB)
+Case No. 03-CV-0699 B (CAB)
+Case No. 03-CV-1108 B (CAB)
+MULTIMEDIA PATENT TRUST’S
+OPPOSITION TO DELL’S MOTION
+FOR SUMMARY JUDGMENT
+CONCERNING ALLEGED
+INVALIDITY OF U.S. PATENT NO.
+4,383,272
+Date:
+Time:
+Courtroom:
+Judge:
+
+January 7, 2008
+10:30 A.M.
+13
+Hon. Marilyn L. Huff
+
+LUCENT TECHNOLOGIES INC.,
+Defendant.
+
+23
+
+LUCENT TECHNOLOGIES INC. and
+24 MULTIMEDIA PATENT TRUST,
+25
+v.
+
+26
+27
+28
+
+Plaintiff,
+
+DELL INC.,
+Defendant.
+MULTIMEDIA PATENT TRUST'S OPPOSITION TO DELL’S SUMMARY
+JUDGMENT MOTION RE U.S. PATENT NO. 4,383,272
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+3
+
+I.
+
+INTRODUCTION..............................................................................................................1
+
+II.
+
+TECHNICAL BACKGROUND .......................................................................................3
+
+5
+6
+III.
+
+8
+9
+10
+
+Page 2 of 26
+
+TABLE OF AUTHORITIES ....................................................................................................... ii
+
+4
+
+7
+
+Filed 12/14/2007
+
+TABLE OF CONTENTS
+
+1
+2
+
+Document 140
+
+IV.
+
+11
+
+A.
+
+Video Coding ...........................................................................................................3
+
+B.
+
+The Netravali ‘272 Patent ........................................................................................4
+
+C.
+
+The Gabor & Hill Reference....................................................................................6
+
+LEGAL STANDARDS ......................................................................................................7
+A.
+
+Summary Judgment .................................................................................................7
+
+B.
+
+Obviousness .............................................................................................................8
+
+ARGUMENT......................................................................................................................9
+A.
+
+12
+
+Dell Cannot Meet Its Burden Of Establishing Obviousness By Clear And
+Convincing Evidence Based On Undisputed Facts .................................................9
+
+13
+
+1.
+
+“determining by interpolation the intensities of pels” ...............................10
+
+14
+
+2.
+
+“related locations”......................................................................................17
+
+15 V.
+
+CONCLUSION ................................................................................................................21
+
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+MULTIMEDIA PATENT TRUST'S OPPOSITION TO DELL’S SUMMARY
+JUDGMENT MOTION RE U.S. PATENT NO. 4,383,272
+
+i
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Filed 12/14/2007
+
+Page 3 of 26
+
+TABLE OF AUTHORITIES
+
+1
+2
+
+Document 140
+
+CASES
+
+3
+
+Anderson v. Liberty Lobby, Inc.,
+477 U.S. 242 (1986)...................................................................................................................8
+4
+5 Bruckelmyer v. Ground Heaters, Inc.,
+453 F.3d 1352 (Fed. Cir. 2006)................................................................................................19
+6
+Caterpillar Inc. v. Deere & Co.,
+7
+224 F.3d 1374 (Fed. Cir. 2000)..................................................................................................7
+8
+Celotex Corp. v. Catrett,
+477 U.S. 317 (1986)...............................................................................................................7, 9
+9
+10 Crown Operations Int’l, Ltd. v. Solutia Inc..
+289 F.3d 1367 (Fed. Cir. 2002)..................................................................................................8
+11
+Demaco Corp. v. F. Von Langsdorff Licensing Ltd.,
+12
+851 F.2d 1387 (Fed. Cir. 1988)................................................................................................20
+13
+
+Ecolochem, Inc. v. S. Cal. Edison Co.,
+227 F.3d 1361 (Fed. Cir. 2000)................................................................................................18
+14
+15 Eli Lilly and Co. v. Barr Labs., Inc.,
+251 F.3d 955 (Fed. Cir. 2001)....................................................................................................8
+16
+Forest Labs., Inc. v. Ivax Pharms., Inc.,
+17
+501 F.3d 1263 (Fed. Cir. 2007)..................................................................................................8
+18 Graham v. John Deere Co.,
+383 U.S. 1 (1966).......................................................................................................................8
+19
+20 In re Kahn,
+441 F.3d 977 (Fed. Cir. 2006)....................................................................................................9
+21
+KSR Int’l. Co. v. Teleflex Inc.,
+22
+--- U.S. ---, 127 S.Ct. 1727 (2007).............................................................................8, 9, 10, 14
+23 National Steel Car, Ltd. v. Canadian Pac. Ry., Ltd.,
+357 F.3d 1319 (Fed. Cir. 2004)................................................................................................18
+24
+25 Pfizer, Inc. v. Apotex, Inc.,
+480 F.3d 1348 (Fed. Cir. 2007)..................................................................................................8
+26
+PharmaStem Therapeutics, Inc. v. ViaCell, Inc.,
+27
+491 F.3d 1342 (Fed. Cir. 2007)................................................................................9, 10, 15, 20
+28
+MULTIMEDIA PATENT TRUST'S OPPOSITION TO DELL’S SUMMARY
+JUDGMENT MOTION RE U.S. PATENT NO. 4,383,272
+
+ii
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 140
+
+Filed 12/14/2007
+
+Page 4 of 26
+
+Ruiz v. A.B. Chance Co.,
+234 F.3d 654 (Fed. Cir. 2000)..................................................................................................20
+
+2
+
+Schumer v. Lab. Computer Sys., Inc.,
+308 F.3d 1304 (Fed. Cir. 2002)..................................................................................................8
+3
+4 Takeda Chem. Indus., Ltd. v. Alphapharm Pty., Ltd.,
+492 F.3d 1350 (Fed. Cir. 2007)............................................................................................9, 10
+5
+United States v. Boyce,
+6
+148 F. Supp. 2d 1069 (S.D. Cal. 2001)......................................................................................7
+7
+8
+9
+10
+11
+
+STATUTES
+35 U.S.C. § 102..............................................................................................................................18
+35 U.S.C. § 103(a) ...........................................................................................................................8
+Fed. R. Civ. P. 56(c) ........................................................................................................................7
+
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+MULTIMEDIA PATENT TRUST'S OPPOSITION TO DELL’S SUMMARY
+JUDGMENT MOTION RE U.S. PATENT NO. 4,383,272
+
+iii
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 140
+
+Filed 12/14/2007
+
+Page 5 of 26
+
+1 I.
+
+INTRODUCTION
+
+2
+
+Dell’s motion for summary judgment that Claim 13 of the Netravali ‘272 patent is invalid as
+
+3 obvious in light of the Gabor & Hill reference fails because Dell has not fulfilled its summary
+4 judgment obligation to present proof that, left unrebutted, would support a finding of obviousness by
+5 clear and convincing evidence. Rather than demonstrating the required prima facie case of
+6 obviousness, Dell incorporates by reference the conclusory (and therefore deficient) opinions of its
+7 technical expert, Edward Delp, and then launches into a misguided discussion of MPT’s alleged
+8 failure to raise a genuine issue of material fact. But Dell’s unsupported attorney arguments —
+9 riddled with mischaracterizations of the prior art and the testimony of MPT’s technical expert, Bernd
+10 Girod — cannot suffice to overcome the presumption of patent validity. Because Dell has not made
+11 a prima facie challenge to validity, its motion for summary judgment fails even in the absence of
+12 rebuttal proof.
+13
+
+Dell’s contention that the Gabor & Hill reference renders obvious all of the elements of
+
+14 Claim 13 relies upon a false interpretation of the term “pel” that is built on misquotations of MPT’s
+15 expert and that is not supported by the patents, the prior art, or any testimony save for the conclusory
+16 remarks of Dell’s own expert. Contrary to Dell’s argument, Professor Girod has not opined that
+17 Claim 13 is limited to a digital implementation. Rather, Professor Girod has explained that the
+18 concept of a “pel” in the context of the Netravali ‘272 patent requires sampling of the video signal in
+19 the temporal, vertical, and horizontal dimensions. Indeed, this Court has already ruled that a
+20 genuine factual dispute exists for trial as to whether the Gabor & Hill reference discloses a system
+21 that uses pels in the context of the Netravali ‘272 patent. As a result, that issue must be resolved in
+22 MPT’s favor here.
+23
+
+Moreover, even if Dell could meet its initial burden on summary judgment, Dell’s allegations
+
+24 of obviousness are readily rebutted by evidence demonstrating the existence of genuine factual
+25 disputes for trial. Professor Girod has assessed the scope and content of the prior art, the differences
+26 between the prior art and the claimed invention, and the level of ordinary skill in the art, and has
+27 opined that Claim 13 is nonobvious. He explains, for example, that the Gabor & Hill reference lacks
+28 crucial requirements of Claim 13 — namely, pel-based processing and interpolation based on related
+MULTIMEDIA PATENT TRUST'S OPPOSITION TO DELL’S SUMMARY
+JUDGMENT MOTION RE U.S. PATENT NO. 4,383,272
+
+1
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 140
+
+Filed 12/14/2007
+
+Page 6 of 26
+
+1 locations — and that a person of ordinary skill in the art at the time of the Netravali ‘272 invention
+2 would see no reason to adapt the obsolete Gabor & Hill prior art system to arrive at the invention of
+3 Claim 13.
+4
+
+For example, Professor Girod rebuts Dell’s argument that it would have been obvious to a
+
+5 person of skill in the art to modify the Gabor & Hill system to include the missing pel-based
+6 processing because a person of ordinary skill in the art in the 1980s would have been implementing
+7 a system in the digital domain. As Professor Girod explains, the obsolete mechanical-optical
+8 apparatus of the Gabor & Hill system, which would have been state of the art in the 1960s, does not
+9 lend itself to any meaningful digital implementation. Thus, and contrary to Dell’s argument, a
+10 person of skill in the art, surrounded by the many effective video coding techniques available in the
+11 relevant time-frame, would not have been prompted to implement the outmoded Gabor & Hill
+12 system in a digital format.
+13
+
+Dell also argues that it would have been obvious to modify Gabor & Hill to include the
+
+14 missing interpolation based on related locations because a single individual — Dr. Jaswant Jain —
+15 allegedly arrived at the invention of Claim 13 independently. But Dell’s argument turns on a
+16 misunderstanding (or misstatement) of the law. The law does not render an invention per se invalid
+17 simply because another individual arrived at the invention around the same time. Furthermore, the
+18 fact that one other individual — a person of greater than ordinary skill in the art — purportedly
+19 conceived of the Netravali ‘272 patent invention around the same time as the named inventors
+20 cannot substitute for the requisite proof that the invention would have been obvious to a hypothetical
+21 person of ordinary skill.
+22
+
+Finally, Professor Girod’s opinion that Claim 13 of the Netravali ‘272 patent is nonobvious is
+
+23 supported by other objective evidence, including the failure of others to arrive at the invention, the
+24 commercial success of the invention, and the licensing of the invention by others. In sum, because
+25 Dell has not presented a prima facie case of obviousness, and because more than sufficient proof
+26 exists to support a finding of nonobviousness, Dell’s summary judgment motion should be denied.
+27
+28
+MULTIMEDIA PATENT TRUST'S OPPOSITION TO DELL’S SUMMARY
+JUDGMENT MOTION RE U.S. PATENT NO. 4,383,272
+
+2
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 140
+
+Filed 12/14/2007
+
+Page 7 of 26
+
+1 II.
+
+TECHNICAL BACKGROUND
+
+2
+
+A.
+
+3
+
+Digital video signals, such as those stored on a DVD, contain information defining many
+
+Video Coding
+
+4 separate pictures, or frames, that produce the illusion of motion when viewed in rapid succession.
+5 (Declaration of Bernd Girod in Support of Multimedia Patent Trust’s Oppositions to Dell’s Video
+6 Coding Summary Judgment Motions (hereinafter “Girod Opp. Decl.”) at ¶ 6.) The digital
+7 representation of a video signal is fundamentally different from an analog representation of a video
+8 signal. In an analog signal representation, the brightness and color of an image is represented by
+9 some aspect of an electrical waveform, typically the amplitude of a voltage, which varies
+10 continuously. (Id. at ¶ 7.) The brightness and color distribution on the target of a video camera is
+11 sampled along the time axis and in the vertical direction, but along a scan line it is continuous — not
+12 sampled — in both the horizontal direction and amplitude. (Id.) A digital signal, on the other hand,
+13 must be discrete in both the horizontal and vertical space dimensions and the time dimension, as well
+14 as in amplitude, so that it can be represented by a stream of binary numbers. The resulting
+15 individual samples along a scan line are referred to as picture elements, often abbreviated pels or
+16 pixels. Digital video signals define pixels, while analog video signals do not. (Id.)
+17
+
+The amount of information needed to represent digitally each frame of a video signal in its
+
+18 entirety is too great for economical storage and transmission. (Id. at ¶ 8.) For most transmission or
+19 storage applications, it is therefore important to reduce the amount of information required to
+20 represent video signals in digital form. (Id.) Techniques developed to achieve such reduction are
+21 commonly called “video compression” or “video coding” techniques. (Id.)
+22
+
+Video compression techniques generally exploit what is known in the art as “statistical
+
+23 redundancy.” (Id. at ¶ 11.) Statistical redundancy refers to the empirical fact that much of the
+24 information both within and between frames of a video sequence is repetitive, or “redundant.” (Id.)
+25 Video compression techniques take advantage of that redundancy to store or transmit the video
+26 signal efficiently; that is, with as few bits as possible. (Id.)
+27
+28
+
+For example, nearby frames in a video sequence are often very similar. In fact, when viewed
+side-by-side, they may appear almost indistinguishable. This is because nearby frames typically
+MULTIMEDIA PATENT TRUST'S OPPOSITION TO DELL’S SUMMARY
+JUDGMENT MOTION RE U.S. PATENT NO. 4,383,272
+
+3
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 140
+
+Filed 12/14/2007
+
+Page 8 of 26
+
+1 show the same objects at slightly shifted positions in the image. (Id. at ¶ 16.) Video compression
+2 techniques that exploit this redundancy between frames are called “interframe compression”
+3 techniques. (Id.) Substantial data compression can be achieved by exploiting the frame-to-frame
+4 similarities in a video sequence using interframe coding techniques. (Id.)
+5
+
+Modern video compression systems use an interframe compression technique called “motion-
+
+6 compensated prediction” to exploit the similarities between nearby video frames. (Id. at ¶ 17.) The
+7 idea of motion-compensated prediction is to apply an estimate of the displacement that objects have
+8 undergone from one frame to the next. (Id.) The displacement estimate itself is derived through a
+9 separate process called “motion estimation.” (Id.) If the displacement estimate is accurate, then
+10 pixel information in a current frame can be predicted accurately by applying the displacement
+11 estimate to a previous frame. (Id.)
+12
+
+Following in the footsteps of the Netravali ‘272 patent inventors, many modern video
+
+13 compression systems also use an interframe compression technique called “motion-compensated
+14 interpolation” to exploit the similarities between nearby video frames. (Id. at ¶ 20.) As the name
+15 suggests, motion compensated interpolation predicts pixel information in a current frame by
+16 averaging pixel information obtained from preceding and subsequent frames. (Id.) The pixel
+17 information used in the averaging process is obtained using motion compensated prediction as
+18 described above. (Id.) In the case of motion compensated interpolation, however, two displacement
+19 estimates are used — one based on a previous frame, and another based on a subsequent frame — to
+20 generate forward and backward predictions. (Id.) The two predictions are then averaged. (Id.)
+21
+
+B.
+
+22
+
+Generally speaking, the Netravali ‘272 patent describes digital video compression methods
+
+The Netravali ‘272 Patent
+
+23 and circuits that combine motion compensation with interframe interpolation.1 (Girod Opp. Decl. at
+24
+claims that interframe interpolation or “recovering a non-transmitted picture from both
+previous and succeeding versions” was the point of novelty of the Netravali ‘272 patent invention.
+26 (Dell. Br. at 5.) The “Background of the Invention” section of the Netravali ‘272 patent, however,
+expressly notes that interframe interpolation was known in the art. (Ex. 15, ‘272 Patent at 1:18-27.)
+27 Indeed, Dell’s own technical expert witness, Dr. Delp, concedes that the specification of the
+(Continued…)
+28
+25
+
+1Dell
+
+MULTIMEDIA PATENT TRUST'S OPPOSITION TO DELL’S SUMMARY
+JUDGMENT MOTION RE U.S. PATENT NO. 4,383,272
+
+4
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 140
+
+Filed 12/14/2007
+
+Page 9 of 26
+
+1 ¶¶ 22-23.) The methods and circuits disclosed in the Netravali ‘272 patent reconstruct the intensities
+2 of pels in a picture using interframe interpolation. (Id. at. ¶ 23.) The locations of the pels used for
+3 interpolation (“reference pels”) correspond to locations at which the same object is expected to be in
+4 preceding and succeeding versions of the picture. (Id.)
+5
+
+The asserted claim of the Netravali ‘272 patent, Claim 13, describes a method of estimating
+
+6 pel intensities through motion compensated interframe interpolation:
+7
+
+10
+
+A method of estimating the intensities of elements (pels) in a picture in
+accordance with information defining intensities of pels in preceding
+and succeeding versions of the picture including the step of
+determining by interpolation intensities of pels in said picture in
+accordance with intensities of pels in related locations in said
+preceding and succeeding versions,
+
+11
+
+characterized in that
+
+12
+
+said determining step includes selecting of said related locations as a
+function of the displacement of objects in said picture.
+
+8
+9
+
+13 (Ex. 15, ‘272 Patent.)2 The Court has already construed the language of Claim 13. (Ex. 16, ‘272
+14 Superceding Markman Order.) For example, the Court construed the term “pels” to mean “picture
+15 elements, also referred to as pixels.” (Id.) Furthermore, the Court construed “related locations” to
+16 mean “locations at which the same object is expected to be.” (Id.)
+17
+18
+19
+20 Netravali ‘272 patent discloses that interframe interpolation was known in the art. (November 29,
+2007, Delp Deposition at p. 147.) Because simple interframe interpolation — as opposed to the
+21 motion-compensated interframe interpolation of the Netravali ‘272 patent — was presented to the
+Patent Office as prior art, it cannot be the “patentable distinction” envisioned by the Patent Office.
+22 Rather, the portion of the prosecution history cited by Dell merely shows that the inventors
+23 distinguished two specific prior art references on the grounds that they disclosed motion
+compensated prediction, but not interframe interpolation. (Dell Br. at 5.) The inventors did not
+24 contend that the art as a whole failed to disclose interframe interpolation, nor did they suggest that
+their invention was interframe interpolation in the absence of motion compensation.
+25
+2 All citations to exhibits refer to the Declaration of Jennifer J. Schmidt in Support of Multimedia
+26 Patent Trust’s Oppositions to Dell’s Video Coding Summary Judgment Motions, filed concurrently
+herewith.
+27
+28
+MULTIMEDIA PATENT TRUST'S OPPOSITION TO DELL’S SUMMARY
+JUDGMENT MOTION RE U.S. PATENT NO. 4,383,272
+
+5
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+C.
+
+Document 140
+
+Filed 12/14/2007
+
+Page 10 of 26
+
+The Gabor & Hill Reference
+
+The article “Television Band Compression By Contour Interpolation,” by Denis Gabor and
+Peter C. J. Hill (“the Gabor & Hill reference”) was published in 1961. (Ex. 17, Gabor & Hill
+Reference.) The Gabor & Hill reference does not describe digital video compression at all. Rather,
+the Gabor & Hill reference describes an experimental system for reducing the width of the frequency
+band required for transmission of analog television signals. (Girod Opp. Decl. at ¶ 37.) The authors
+suggest omitting television fields or frames in regular intervals and then reinserting them at the
+receiver by interpolation from transmitted fields or frames. They further describe a method of
+“contour interpolation,” which controls the combination of two analog signals derived by horizontal
+scanning of two separate lines of stored fields or frames:
+In the method of contour interpolation the two [scanning] spots run
+with equal speed v until one of them reaches an edge, i.e. a position
+where the intensity changes at more than a certain predetermined rate.
+Here it stops, while the other spot, which has not yet reached the
+contour, moves on with a speed 2v, so that the interpolated spot,
+midway between the two, moves on with constant velocity v. This
+continues until the second spot has also reached the contour, after
+which the retarded spot gradually catches up with the other until both
+move again with the same speed v. . . . [T]he interpolated intensity I
+is formed as the arithmetical mean of the two intensities, but weighted
+with the velocities . . .
+
+11
+12
+13
+14
+15
+16
+
+17 (Ex. 17, Gabor & Hill Reference at MSLT_0001230.) The “contour interpolation” technique
+18 produces an analog signal corresponding to the intensity of the line being interpolated. (Girod Opp.
+19 Decl. at ¶ 37.)
+20
+
+As such, the Gabor & Hill system interpolates lines — rather than pixels, pels, or picture
+
+21 elements — because it is an analog system that does not sample video signals in the horizontal
+22 dimension. (Id. at ¶ 38, 40.) Instead, the Gabor & Hill system samples the video signal in the
+23 temporal dimension (dividing it into frames or fields) and the vertical dimension (dividing it into
+24 horizontal lines). (Id.) Unlike the Netravali ‘272 patent, the Gabor & Hill system does not sample
+25 the video signal in the horizontal dimension to form discrete pels. (Id.)
+26
+
+Line interpolation in the Gabor & Hill system proceeds as follows. Reference frames or
+
+27 fields used as the inputs for interpolation are stored as visible images on separate cathode ray tubes.
+28
+
+(Id. at ¶¶ 37, 40; see also Ex. 17, Gabor & Hill Reference.) Photo-mechanical devices called
+MULTIMEDIA PATENT TRUST'S OPPOSITION TO DELL’S SUMMARY
+JUDGMENT MOTION RE U.S. PATENT NO. 4,383,272
+
+6
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 140
+
+Filed 12/14/2007
+
+Page 11 of 26
+
+1 “scanners” then use electron beams to separately but simultaneously scan a horizontal line in each
+2 reference frame. (Id.) The scanners output a continuous waveform signal for each horizontal “scan
+3 line,” which fluctuates depending on the intensity of the line being scanned. (Id.) The waveform
+4 signals for corresponding horizontal lines in each reference frame are then combined using analog
+5 circuitry to generate a single waveform output signal. (Id.) This output signal represents the
+6 “interpolated” horizontal line. (Id.)
+7
+
+The Gabor & Hill system of line interpolation differs markedly from the systems described in
+
+8 the Netravali ‘272 patent. First, as described above, the Gabor & Hill system performs no
+9 operations — such as interpolation or selection — using pels, because it does not sample intensity
+10 information in the horizontal dimension to yield discrete intensity values for discrete pels. Second,
+11 to the extent that the Gabor & Hill system performs any kind of interpolation, that interpolation is
+12 not motion compensated. Rather, the Gabor & Hill system merely varies the weighting of waveform
+13 inputs into its analog “interpolation” as a function of abrupt changes in the intensity signals along the
+14 horizontal scan lines. (Girod Opp. Decl. at ¶ 43.) This technique, called “contour interpolation,”
+15 fails to account for the displacement of objects between frames or fields. (Id.)
+16 III.
+
+LEGAL STANDARDS
+
+17
+
+A.
+
+18
+
+Summary judgment is appropriate only where “the pleadings, depositions, answers to
+
+Summary Judgment
+
+19 interrogatories, and admissions on file, together with the affidavits, if any, show that there is no
+20 genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of
+21 law.” Fed. R. Civ. P. 56(c); see also Celotex Corp. v. Catrett, 477 U.S. 317, 322-23 (1986). Where,
+22 as here, “the moving party bears the burden of proof at trial, it cannot obtain summary judgment
+23 unless it presents evidence so compelling that no rational jury would fail to award judgment for the
+24 moving party.” United States v. Boyce, 148 F. Supp. 2d 1069, 1080 (S.D. Cal. 2001). Furthermore,
+25 “[w]hen ruling on a motion for summary judgment, all of the nonmovant’s evidence is to be
+26 credited, and all justifiable inferences are to be drawn in the nonmovant’s favor.” Caterpillar Inc. v.
+27 Deere & Co., 224 F.3d 1374, 1379 (Fed. Cir. 2000).
+28
+MULTIMEDIA PATENT TRUST'S OPPOSITION TO DELL’S SUMMARY
+JUDGMENT MOTION RE U.S. PATENT NO. 4,383,272
+
+7
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 140
+
+Filed 12/14/2007
+
+Page 12 of 26
+
+A summary judgment determination must also be guided by the appropriate burden of proof.
+
+2 If the Court determines that a reasonable jury applying the proper burden of proof — in this case
+3 clear-and-convincing evidence — could find for the non-movant, then there exists a genuine issue of
+4 material fact that precludes granting of summary judgment. See Anderson v. Liberty Lobby, Inc.,
+5 477 U.S. 242, 254-555 (1986).
+6
+
+B.
+
+7
+
+Because every patent is presumed valid, accused infringers face a “high burden of showing
+
+Obviousness
+
+8 invalidity on summary judgment.” Schumer v. Lab. Computer Sys., Inc., 308 F.3d 1304, 1315 (Fed.
+9 Cir. 2002). “[A] party seeking to invalidate a patent at summary judgment must submit clear and
+10 convincing evidence of invalidity so that no reasonable jury could find otherwise.” Eli Lilly and Co.
+11 v. Barr Labs., Inc., 251 F.3d 955, 962 (Fed. Cir. 2001) (emphasis added). If evidence is presented
+12 establishing a prima facie case of invalidity, the opponent of invalidity must come forward with
+13 evidence to counter the prima facie challenge to the presumption of validity, but “the ultimate
+14 burden of proving invalidity remains with the challenger throughout the litigation.” Pfizer, Inc. v.
+15 Apotex, Inc., 480 F.3d 1348, 1360 (Fed. Cir. 2007).
+16
+
+A claimed invention can be found obvious only “if the differences between the subject matter
+
+17 sought to be patented and the prior art are such that the subject matter as a whole would have been
+18
+19
+
+obvious at the time the invention was made to a person having ordinary skill in the art.” 35 U.S.C. §
+103(a). Obviousness is ultimately a question of law based on underlying determinations of fact.
+
+20
+21
+22
+
+Forest Labs., Inc. v. Ivax Pharms., Inc., 501 F.3d 1263, 1269 (Fed. Cir. 2007). The underlying
+factual issues to be considered in an obviousness analysis include “four general types, all of which
+
+23 must be considered by the trier of fact: (1) the scope and content of the prior art; (2) the level of
+24 ordinary skill in the art; (3) the differences between the claimed invention and the prior art; and (4)
+25 any objective indicia of nonobviousness.” Crown Operations Int’l, Ltd. v. Solutia Inc.. 289 F.3d
+26
+27
+28
+
+1367, 1376 (Fed. Cir. 2002). Earlier this year, the United States Supreme Court reaffirmed the
+primacy of those factors in determining whether a patent is invalid for obviousness. See KSR Int’l.
+MULTIMEDIA PATENT TRUST'S OPPOSITION TO DELL’S SUMMARY
+JUDGMENT MOTION RE U.S. PATENT NO. 4,383,272
+
+8
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 140
+
+Filed 12/14/2007
+
+Page 13 of 26
+
+Co. v. Teleflex Inc., --- U.S. ---, 127 S.Ct. 1727, 1734 (2007) (citing Graham v. John Deere Co., 383
+
+2 U.S. 1, 17-18 (1966)).
+“[R]ejections on obviousness grounds cannot be sustained by mere conclusory statements;
+
+3
+
+4 instead, there must be some articulated reasoning with some rational underpinning to support the
+5
+6
+
+legal conclusion of obviousness.” KSR, 127 S. Ct. at 1741 (quoting In re Kahn, 441 F.3d 977, 988
+(Fed. Cir. 2006)). Thus, “the burden falls on the patent challenger to show by clear and convincing
+
+7
+8
+9
+
+evidence that a person of ordinary skill in the art would have had reason to attempt to make the
+composition or device, or carry out the claimed process, and would have had a reasonable
+
+10 expectation of success in doing so.” PharmaStem Therapeutics, Inc. v. ViaCell, Inc., 491 F.3d 1342,
+11 1360 (Fed. Cir. 2007) (citing, inter alia, KSR, 127 S. Ct. at 1740).
+12
+13
+14
+15
+16
+
+In that regard, the Supreme Court has “acknowledged the importance of identifying ‘a reason
+that would have prompted a person of ordinary skill in the relevant field to combine the elements in
+the way the claimed new invention does’ in an obviousness determination.” Takeda Chem. Indus.,
+Ltd. v. Alphapharm Pty., Ltd., 492 F.3d 1350, 1356-57 (Fed. Cir. 2007) (quoting KSR, 127 S. Ct. at
+
+17 1731). Accordingly, “[a] patent composed of several elements is not proved obvious merely by
+18 demonstrating that each element was, independently, known in the prior art.” KSR, 127 S. Ct. at
+19 1731. For example, “combining elements that work together ‘in an unexpected and fruitful manner’
+20 would not have been obvious.” PharmaStem, 491 F.3d at 1360 (quoting KSR, 127 S. Ct. at 1740).
+21
+22
+23
+
+Moreover, “when the prior art teaches away from combining certain known elements, discovery of a
+successful means of combining them is more likely to be nonobvious.” KSR, 127 S.Ct at 1740.
+
+24 IV.
+
+ARGUMENT
+
+25
+
+A.
+
+26
+
+Dell Cannot Meet Its Burden Of Establishing Obviousness
+By Clear And Convincing Evidence Based On Undisputed Facts
+
+27
+
+Because Dell cannot prevail on its obviousness defense without resolving numerous genuine
+
+28
+
+factual disputes, Dell’s motion for summary judgment fails. Celotex Corp. v. Catrett, 477 U.S. 317,
+MULTIMEDIA PATENT TRUST'S OPPOSITION TO DELL’S SUMMARY
+JUDGMENT MOTION RE U.S. PATENT NO. 4,383,272
+
+9
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 140
+
+Filed 12/14/2007
+
+Page 14 of 26
+
+322-23 (1986). In its motion papers, Dell completely ignores the burden it must overcome to
+
+2 establish that Claim 13 of the Netravali ‘272 patent is invalid as obvious on summary judgment.
+3 Rather than presenting “some articulated reasoning with some rational underpinning to support the
+4 legal conclusion of obviousness,” KSR, 127 S. Ct. at 1741, Dell proceeds as though its mere
+5
+6
+
+identification of an allegedly invalidating prior art reference places the onus on MPT to disprove
+obviousness. On the contrary, Dell must present clear and convincing proof that a person of
+
+7
+8
+9
+
+ordinary skill in the relevant field would have been prompted to combine the elements of the
+invention, arranged as in the claim, and would have had a reasonable expectation of success in doing
+
+10 so. See PharmaStem Therapeutics, Inc. v. ViaCell, Inc., 491 F.3d 1342, 1360 (Fed. Cir. 2007);
+11 Takeda Chem. Indus., Ltd. v. Alphapharm Pty., Ltd., 492 F.3d 1350, 1356-57 (Fed. Cir. 2007).
+12
+13
+14
+15
+16
+
+This Dell cannot do. In support of its obviousness motion, Dell merely repackages the
+misguided arguments that Dell made in moving for summary judgment of invalidity by anticipation
+— a motion that this Court denied because of existing issues of triable fact. Dell seeks to bolster
+those arguments by cross-referencing the report of its expert, Edward Delp. (See Dell Br. at 10.)
+
+17 But Dr. Delp’s report at best presents conclusory assertions concerning the teachings of the Gabor &
+18 Hill reference that are flatly contradicted by MPT’s video compression expert, not to mention the
+19 Gabor & Hill reference itself. (Compare Ex. 11, Sept. 14, 2007, Delp Report at 11-14 (¶¶ 29-41)
+20 with Girod Opp. Decl. at ¶¶ 36-48.) Indeed, Dell largely bases its obviousness argument on
+21
+22
+23
+24
+25
+26
+27
+28
+
+mischaracterizations of Professor Girod’s expert opinions regarding two limitations of Claim 13,
+specifically “determining by interpolation intensities of pels” and “related locations.”
+1.
+
+“determining by interpolation the intensities of pels”
+a.
+
+The Gabor & Hill Reference Does Not Disclose “Determining
+By Interpolation Intensities Of Pels In Said Picture In
+Accordance With Intensities Of Pels In Related Locations.”
+
+Dell cannot demonstrate that the Gabor & Hill reference renders obvious Claim 13 of the
+Netravali ‘272 patent because the Gabor & Hill reference fails to disclose “determining by
+MULTIMEDIA PATENT TRUST'S OPPOSITION TO DELL’S SUMMARY
+Case No. 07-CV-2000-H (CAB)
+10
+JUDGMENT MOTION RE U.S. PATENT NO. 4,383,272
+
+Case 3:07-cv-02000-H-CAB
+
+Document 140
+
+Filed 12/14/2007
+
+Page 15 of 26
+
+1 interpolation intensities of pels in said picture in accordance with intensities of pels in related
+2 locations,” and a person of ordinary skill in the art would not have seen reason to adapt the Gabor &
+3 Hill reference to include that missing step. Both the express language of Claim 13 and the
+4 specification of the Netravali ‘272 patent dictate that the process step of “determining by
+5 interpolation” be performed on a video signal that has been sampled not only temporally to yield
+6 frames or fields, but also vertically and horizontally to yield a finite array of discrete “pels” with
+7 defined “intensities.” (Girod Opp. Decl. at ¶¶ 39-41.)
+8
+
+In the Gabor & Hill system, however, video signals are not sampled in the horizontal
+
+9 dimension before processing. (Id. at ¶ 38.) Furthermore, a person of skill in the art would have no
+10 reason to adapt the analog Gabor & Hill system to implement motion compensated interpolation on
+11 temporally, vertically, and horizontally sampled analog signals. (Ex. 13, Nov. 20, 2007, Girod Dep.
+12 Tr. at 96-97.) Because a person of skill in the art would not be prompted to combine the step of
+13 “determining . . . the intensities of pels” based on “intensities of pels in related locations” with the
+14 Gabor & Hill system, Dell’s motion for summary judgment of obviousness should be denied.
+15
+
+Indeed, this Court has already determined that a triable issue of fact exists as to whether the
+
+16 Gabor & Hill reference discloses “pels”:
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+MPT’s expert opines that a person of ordinary skill in the art would
+find that Gabor & Hill did not disclose a system that uses pels in [the
+context of the Netravali ‘272 patent], but instead discloses a system
+that uses only scan line signals (sampled in only one dimension).
+While Dell disagrees with this position, MPT has raised issues of fact
+that preclude summary judgment.
+(Ex. 18, July 27, 2007 Order Denying-In-Part Dell’s Motion for Summary Judgment on U.S. Patent
+No. 4,383,272 at 6 (emphasis added).) Accordingly, that issue of fact must be resolved in MPT’s
+favor on this motion: that is, the Gabor & Hill reference must be presumed to lack any disclosure of
+“determining . . . the intensities of pels.” Dell cannot avoid that presumption simply by rehashing
+the identical argument already considered — and rejected — by this Court.
+Nor would revisiting the evidence yield a different result. Dell’s argument that Claim 13 is
+not limited to digital implementations continues to rest on Dell’s faulty understanding — or
+deliberate mischaracterization — of Professor Girod’s expert opinion. Contrary to Dell’s motion
+MULTIMEDIA PATENT TRUST'S OPPOSITION TO DELL’S SUMMARY
+JUDGMENT MOTION RE U.S. PATENT NO. 4,383,272
+
+11
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 140
+
+Filed 12/14/2007
+
+Page 16 of 26
+
+1 papers, Professor Girod has not opined that Claim 13 is limited to a digital implementation. Rather,
+2 Professor Girod has explained that in order for the concept of a “pel” to be understood in the context
+3 of the Netravali ‘272 Patent, the video signal must be sampled temporally, vertically, and
+4 horizontally. (Girod Opp Decl. at ¶¶ 39, 41.)
+5
+
+The plain language of Claim 13 itself establishes that “pels” have defined intensities and
+
+6 locations. (Ex. 15, ‘272 Patent at 11:17-27 (referring to “intensities of pels” and “pels in related
+7 locations”).) The specification, in turn, consistently uses the term “pel” or “picture element” to
+8 describe discrete components of the video signal that are sampled in the temporal, vertical, and
+9 horizontal dimensions. For example, the specification discusses the calculation of “element
+10 differences” by subtracting the intensity values of pels in adjacent horizontal locations:
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+In the horizontal picture direction, the rate of change can be
+determined from ‘element differences’ ED(x,t), i.e., the intensity
+differences between successive picture elements on a single scan line
+evaluated at the location x in the field occurring at time t.
+(Id. at 4:48-52.) The specification likewise confirms that each pel also has a defined intensity value.
+(See, e.g., id. at 3:55-59 (“To illustrate, if the position of a presently processed pel 250 in field 203 is
+denoted by vector x, then the location of the ‘corresponding’ displaced pel 260 in field 201 is given
+by x-K1D and the intensity at that location is written I(x-K1D,t-K1τ).”) (emphasis added).) Indeed,
+the specification leaves no doubt that “pels” have defined locations and intensities, because it
+describes the use of random access memories to store pel intensity values, as well as their
+subsequent recovery using the addresses for specific pels. (See id. at 6:5-13.)
+Without both properties — a defined location and intensity value — it would not be possible
+to determine the intensity of a pel by interpolating the intensities of pels in related locations, as
+recited in Claim 13. (Girod Opp. Decl. at ¶¶ 38-40.) Accordingly, a person of ordinary skill in the
+art reading Claim 13 in light of the specification would understand that the phrase “determining by
+interpolation intensities of pels in said picture in accordance with intensities of pels in related
+locations” requires processing of intensity information for pels sampled in the temporal, vertical, and
+horizontal dimensions. (Id. at ¶ 39.)
+
+28
+MULTIMEDIA PATENT TRUST'S OPPOSITION TO DELL’S SUMMARY
+JUDGMENT MOTION RE U.S. PATENT NO. 4,383,272
+
+12
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 140
+
+Filed 12/14/2007
+
+Page 17 of 26
+
+Extrinsic evidence likewise confirms that the Netravali ‘272 patent’s use of the term “pels”
+
+2 comports with the customary understanding of that term in the video compression field. For
+3 example, contemporaneous statements by a named inventor of the Netravali ‘272 patent confirm his
+4 understanding that processing of “pels” requires sampling a video signal in the horizontal dimension.
+5 (Ex. 19, Patent No. 4,281,344 at 3:29-34 (“The input signal can be a video signal obtained by
+6 scanning each frame of a picture to be processed along a plurality of scan lines, and sampling the
+7 scanner output at a desired rate so that each sample represents the intensity of a corresponding
+8 element (pel) in the picture.”) (emphasis added); Ex. 20, Patent No. 4,237,484 at 2:51-55 (“The
+9 video signal on line 101 is sampled at [an] appropriate (Nyquist) rate by closing switch 102 under
+10 control of a sampling clock 103. Each sample thus represents the intensity value at a particular
+11 picture element (pel) location in the picture being encoded.”) (emphases added).)
+12
+
+As a result, Professor Girod’s statement that the term “pel” has been used in the context of
+
+13 analog signals does not mean that a “picture element” is just an area of a picture. (See Dell Br. at
+14 11.) Dell ignores Professor Girod’s deposition testimony explaining that the use of the term “pel” in
+15 the context of analog television technology is distinct from the use of “pel” in digital video:
+16
+17
+18
+19
+20
+21
+22
+
+In digital video, there is — there’s been a different meaning of PEL,
+and that meaning is usually referred to when somebody uses pixel, and
+that’s in fact the meaning that we have to look for in the context of the
+Netravali patent.
+(Ex. 13, Nov. 20, 2007, Girod Dep. Tr. at 94.) Therefore, “pels” in the context of the Netravali
+Patent are discrete components of the video signal that are sampled in the temporal, vertical, and
+horizontal dimensions. (Girod Opp. Decl. at ¶ 39. )
+Dell’s failure to understand Professor Girod’s opinion renders irrelevant Dell’s insistence
+
+23 that Claim 13 is not limited to digital implementations. Even if Claim 13 could be understood to
+24 encompass analog systems, the Gabor & Hill reference still would not disclose all of the elements of
+25 the claim because it does not disclose the horizontal sampling of a video signal to form pels. (See
+26 Girod Opp. Decl. at ¶ 40.) Rather, the Gabor & Hill reference merely samples the video signal in the
+27 temporal dimension to define fields, and then in the vertical dimension to define lines. To the extent
+28 that the Gabor & Hill reference describes interframe interpolation at all, that interpolation proceeds
+MULTIMEDIA PATENT TRUST'S OPPOSITION TO DELL’S SUMMARY
+JUDGMENT MOTION RE U.S. PATENT NO. 4,383,272
+
+13
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 140
+
+Filed 12/14/2007
+
+Page 18 of 26
+
+1 by combining analog waveform representations of entire lines. (See id.) The Gabor & Hill reference
+2 therefore interpolates lines, not pels. In short, because the Gabor & Hill system does not partition
+3 the video signal horizontally into discrete pels, the Gabor & Hill reference does not “determin[e] by
+4 interpolation the intensities of pels” based on “intensities of pels in related locations.” (See id.)
+5
+
+b.
+
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+
+Dell argues that it would have been an obvious advance over the prior art to implement the
+Gabor & Hill system in the digital domain. But Dell fails to explain or prove how a person of
+ordinary skill in the art would have been led to modify the Gabor & Hill system in that way. Indeed,
+Dell’s only support for its argument that “powerful reasons” existed for using a digital
+implementation of Gabor & Hill is that Dr. Netravali mentions the Gabor & Hill reference in his
+Picture Coding publication.3 Dell then attempts — unsuccessfully — to align the facts considered
+by the Supreme Court in KSR with the invention and prior art in question here. But Dell’s reasoning
+is fatally flawed in that, contrary to Dell’s assertions, the inclusion of the Gabor & Hill system in the
+Picture Coding reference does not suggest that the Gabor & Hill teachings are pertinent to a digital
+implementation. (Dell Br. at 12.)
+
+18
+19
+20
+21
+22
+
+Dell Presents No Proof That It Would Have Been
+Obvious To Modify The Teachings of Gabor & Hill To
+Arrive at the Invention of Claim 13 By “Determining
+By Interpolation The Intensities Of Pels.”
+
+Rather — as Dell admits — the Picture Coding reference merely discloses that complex
+manipulations of video signals are more easily processed in the digital domain. Such generic praise
+for digital video coding techniques is not equivalent to a reason to digitize obsolete coding methods.
+(Girod. Opp. Decl. at ¶ 42.) Quite unlike the factual situation presented in KSR — where the
+
+23
+Dell does not ague that Picture Coding is invalidating prior art, but rather only that it evidences a
+motivation to implement Gabor & Hill in the digital domain. (Dell Br. at 12). As set forth herein,
+25 however, a person of ordinary skill in the art would not have had any motivation to implement the
+Gabor & Hill system in the digital domain. (See also Girod Opp. Decl. at ¶42.)
+26
+24
+
+3
+
+27
+28
+MULTIMEDIA PATENT TRUST'S OPPOSITION TO DELL’S SUMMARY
+JUDGMENT MOTION RE U.S. PATENT NO. 4,383,272
+
+14
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 140
+
+Filed 12/14/2007
+
+Page 19 of 26
+
+1 Supreme Court held that a person of skill in the art would recognize the benefits of applying a new
+2 technique to improve similar devices, see KSR, 127 S.Ct. at 1743 — no evidence exists to support
+3 Dell’s view that a person of skill in the art would recognize that digitizing the Gabor & Hill contour
+4 interpolation system would improve the video coding method in the same way that newer coding
+5 methods were improved by digital implementations. (Girod. Opp. Decl. at ¶ 42.) Thus, even if
+6 unrebutted, Dell’s unsubstantiated attorney argument hardly constitutes clear and convincing
+7 evidence sufficient to support a finding of obviousness.
+8
+
+c.
+
+9
+10
+11
+12
+
+Ample Evidence Establishes a Genuine Dispute Concerning
+Whether A Person of Ordinary Skill in the Art Would
+Have Been Led to Adapt The System Disclosed
+In The Gabor & Hill Reference To Arrive At The
+Process of Claim 13 Of The Netravali ‘272 Patent.
+
+Apart from Dell’s failure of proof, ample evidence exists on which a reasonable jury could
+
+13 find that a person of ordinary skill in the art at the time of the Netravali ‘272 invention would not
+14 have had a reason to attempt to adapt the Gabor & Hill reference to carry out the process of Claim 13
+15 — either with temporally, horizontally, and vertically sampled analog or digital signals. Nor would
+16 such a person have had a reasonable expectation of success in doing so. PharmaStem Therapeutics,
+17 Inc. v. ViaCell, Inc., 491 F.3d 1342, 1360 (Fed. Cir. 2007). Accordingly, summary judgment should
+18 be denied.
+19
+
+Professor Girod has opined that a person of ordinary skill in the art would have had no
+
+20 motivation to adapt the analog Gabor & Hill system to implement motion compensated interpolation
+21 on temporally, vertically, and horizontally sampled analog signals. (Ex. 13, Nov. 20, 2007, Girod
+22 Dep. Tr. at 96-97.) Nor would a person of skill in the art, as Dell argues, be motivated to apply the
+23 Gabor & Hill system in the digital domain. Professor Girod testified that at the time of the Netravali
+24 ‘272 invention, the Gabor & Hill system was obsolete, reflecting the state of the art in the 1960s. (Id.
+25 at 98.) As shown in Fig. 1 below, the system described in the Gabor & Hill reference is a
+26 complicated mechanical-optical device using a picture transformer that scans picture lines using film
+27 drums that are rotated through the use of a spindle and pegs. (Ex. 17, Gabor & Hill Reference at
+28
+
+MSLT_0001230 - MSLT_0001233.) A person of skill in the art would not have been prompted to
+MULTIMEDIA PATENT TRUST'S OPPOSITION TO DELL’S SUMMARY
+JUDGMENT MOTION RE U.S. PATENT NO. 4,383,272
+
+15
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 140
+
+Filed 12/14/2007
+
+Page 20 of 26
+
+1 redesign this dated system in the digital domain. (Girod Opp. Decl. at ¶ 42.) In fact, Professor
+2 Girod has opined that it would not even be possible to simulate the Gabor & Hill system in the
+3 digital domain in any meaningful way. (Ex. 13, Nov. 20, 2007, Girod Dep. Tr. at 98.)
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+Figure 1
+
+18
+19
+20
+21
+22
+23
+
+In short, ample evidence exists to support a finding that no person of ordinary skill in the art
+would have seen reason to adapt the Gabor & Hill system — either with horizontally sampled analog
+signals or digital signals — to “determin[e] by interpolation the intensities of pels” based on
+“intensities of pels in related locations.” (See Girod Opp. Decl. at ¶ 42.) Dell’s motion for summary
+judgment should therefore be denied.
+
+24
+25
+26
+27
+28
+MULTIMEDIA PATENT TRUST'S OPPOSITION TO DELL’S SUMMARY
+JUDGMENT MOTION RE U.S. PATENT NO. 4,383,272
+
+16
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+2.
+
+1
+
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+
+Filed 12/14/2007
+
+Page 21 of 26
+
+“related locations”
+a.
+
+2
+
+Document 140
+
+The Gabor & Hill Reference Does Not Disclose
+“Determining By Interpolation Intensities Of Pels In Said
+Picture In Accordance With Intensities Of Pels In Related
+Locations.”
+
+Even if a person of ordinary skill in the art were motivated to combine interpolation of pel
+intensities with the Gabor & Hill system, which such a person would not be, the Gabor & Hill
+reference still would not render obvious Claim 13 of the Netravali ‘272 patent because it does not
+disclose interpolating intensities of pels “in related locations.”4 (Girod Opp. Decl. at ¶¶ 40, 43.)
+Rather, the Gabor & Hill reference discloses signal interpolation only along the same scan line in
+two versions of the picture, and only reacts to predefined intensity changes — or “contours”— in the
+horizontal direction. (Girod Opp. Decl. at ¶ 43.) As Professor Girod explains, the locations where
+the same object is expected to be in two versions of a picture cannot be represented by considering
+only the threshold intensity gradient in the horizontal direction. (Id.) The Gabor & Hill reference
+therefore fails to disclose interpolating the intensities of pels “in related locations.” (Id.)
+In fact, this Court already considered — and rejected — Dell’s argument that Gabor & Hill
+discloses the intensities of pels “in related locations” because of triable issues of fact. Specifically,
+this Court noted that:
+MPT also argues that the Gabor & Hill Paper does not disclose
+“selecting related locations” as required by claim 13, because
+selecting where an object is expected to be cannot be accomplished
+solely by sampling as set forth in the Gabor & Hill Paper, which
+cannot detect purely vertical movement of objects at all. . . .
+Moreover, MPT’s expert opines that a person of ordinary skill in the
+art would find that Gabor & Hill did not disclose a system that uses
+pels in this same context, but instead discloses a system that uses only
+scan line signals (sampled in only one dimension). While Dell
+disagrees with this position, MPT has raised issues of fact that
+preclude summary judgment.
+
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+This Court has interpreted the phrase “related locations” to mean “locations at which the same
+object is expected to be.” (Ex. 16, ‘272 Patent Superceding Markman Order at 3.)
+
+4
+
+28
+MULTIMEDIA PATENT TRUST'S OPPOSITION TO DELL’S SUMMARY
+JUDGMENT MOTION RE U.S. PATENT NO. 4,383,272
+
+17
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 140
+
+Filed 12/14/2007
+
+Page 22 of 26
+
+1 (Ex. 18, July 27, 2007 Order Denying-In-Part Dell’s Motion for Summary Judgment on U.S. Patent
+2 No. 4,383,272 at 6 (emphasis added).) Accordingly, that issue of fact must be resolved in MPT’s
+3 favor on this motion: that is, the Gabor & Hill reference must be presumed to lack any disclosure of
+4 interpolation based on pels “in related locations.”
+5
+
+b.
+
+6
+7
+8
+
+Dell Presents No Proof That It Would Have Been
+Obvious To Modify The Teachings of Gabor & Hill To
+Arrive at the Invention of Claim 13 By Interpolating
+The Intensities Of Pels In “Related Locations.”
+
+Dell argues that it would have been an obvious advance over the prior art to implement the
+
+9 Gabor & Hill system to include a determination of where an object is expected to be in past and
+10 future frames. (Dell Br. at 13.) But Dell fails to explain or prove how a person of ordinary skill in
+11 the art would have been motivated to modify the Gabor & Hill system in that way. Indeed, Dell’s
+12 argument reduces to a single contention — that the invention of Claim 13 must be obvious because
+13 Dr. Jaswant Jain allegedly arrived at it independently. (Dell Br. at 15.) At bottom, Dell asks this
+14 Court to adopt an unprecedented per se rule rendering obvious any patent claim for which there is
+15 evidence of a non-prior art near simultaneous invention. But no authority exists for such a sweeping
+16 proposition.5 In fact, the Federal Circuit has confirmed that the fact of a near simultaneous invention
+17 is merely one factor to be considered in weighing secondary considerations of nonobviousness; and
+18 as such, near simultaneous invention “may or may not be an indication of obviousness when
+19 considered in light of all the circumstances.” Ecolochem, Inc. v. S. Cal. Edison Co., 227 F.3d 1361,
+20 1379 (Fed. Cir. 2000).
+21
+22
+
+Furthermore, Dell’s argument not only lacks foundation in the law, it also renders irrelevant
+the categories of prior art set forth in 35 U.S.C. § 102 because if Dell’s argument were correct, any
+
+23
+24
+
+Dell relies on National Steel Car, Ltd. v. Canadian Pac. Ry., Ltd., 357 F.3d 1319 (Fed. Cir. 2004)
+25 to support its view that the Jain Thesis establishes a motivation to combine regardless of whether it
+qualifies as prior art. But Dell’s interpretation of National Steel Car is unsupported; the Federal
+26 Circuit merely held that a reference that does not qualify as prior art may still be considered in
+determining the knowledge of a person having skill in the art. Id. at 1338.
+27
+5
+
+28
+MULTIMEDIA PATENT TRUST'S OPPOSITION TO DELL’S SUMMARY
+JUDGMENT MOTION RE U.S. PATENT NO. 4,383,272
+
+18
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 140
+
+Filed 12/14/2007
+
+Page 23 of 26
+
+1 reference that discloses all of the limitations of a claim would not need to meet the § 102 prior art
+2 requirements in order to render the claim invalid as a matter of law. For example, if Dell’s view
+3 were adopted, then the large body of precedent in the § 102(b) anticipation context addressing the
+4 printed publication status of allegedly anticipatory references — see, e.g., Bruckelmyer v. Ground
+5 Heaters, Inc., 453 F.3d 1352 (Fed. Cir. 2006) — would be moot because any such references would
+6 invalidate under § 103 regardless of the actual date the references were made accessible to the
+7 public. In addition, Dell’s reading of the law renders pointless interference practice under § 102(g),
+8 as the disputed inventions in any interference proceeding would be per se obvious in light of each
+9 other. This Court should not adopt such an implausible interpretation of the obviousness standard.
+10
+
+Nor, as Dell suggests, can the fact that one other individual purportedly conceived of the
+
+11 Netravali ‘272 patent invention around the same time be considered a substitute for the requisite
+12 proof that the invention would have been obvious for a hypothetical person of ordinary skill. First,
+13 the supposed simultaneous inventor here — Dr. Jaswant Jain — was not a person of ordinary skill
+14 in the art (i.e., a person with a Bachelor of Science degree in electrical engineering and 2 years of
+15 practical experience). (Girod Opp. Decl. ¶ 21.) Rather, he held a master’s degree, had worked in the
+16 field for over 7 years, and had essentially completed his Ph.D. studies (with a perfect 4.0 grade point
+17 average). (Ex. 22, Jan. 6, 2006 Jain Dep. Tr. at 13-19; 23-24.) Therefore, Dr. Jain’s publications
+18 cannot be viewed as evidence of what a person of ordinary skill hypothetically would have been
+19 motivated to do. Moreover, Dell fails to identify what — if anything — actually prompted Dr. Jain’s
+20 alleged combination of motion compensation with interframe interpolation, let alone establish that
+21 others in the art would have been led to the same result.
+22
+Accordingly, even if unrebutted, Dell’s obviousness positions lack clear and convincing
+23 evidence sufficient to support a finding of invalidity. Dell’s motions for summary judgment should
+24 therefore be denied.
+25
+26
+27
+28
+MULTIMEDIA PATENT TRUST'S OPPOSITION TO DELL’S SUMMARY
+JUDGMENT MOTION RE U.S. PATENT NO. 4,383,272
+
+19
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+c.
+
+1
+2
+3
+4
+
+Document 140
+
+Filed 12/14/2007
+
+Page 24 of 26
+
+Ample Evidence Establishes a Genuine Dispute Concerning
+Whether A Person of Ordinary Skill in the Art Would
+Have Been Motivated to Adapt The System Disclosed
+In The Gabor & Hill Reference To Arrive At The
+Process of Claim 13 Of The Netravali ‘272 Patent.
+
+Ample evidence exists on which a reasonable jury could find that no person of ordinary skill
+
+5 in the art at the time of the Netravali ‘272 invention would have had a reason to attempt to adapt the
+6 Gabor & Hill reference to determine by interpolation where an object is expected to be. Nor would
+7 such a person have had a reasonable expectation of success in so doing. Accordingly, summary
+8 judgment should be denied even if this Court concludes — erroneously — that Dell’s summary
+9 judgment papers present prima facie proof of obviousness. See PharmaStem Therapeutics, Inc.,
+10 F.3d at 1360.
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+
+Assuming that some use of motion estimation was known in the prior art to determine where
+an object is “expected to be” — which Dell has not established — Professor Girod explains why no
+reason existed for a person of ordinary skill in the art to combine that particular technique with
+interframe interpolation. (Girod Opp. Decl. at ¶¶ 44-47.) Many effective video compression
+technologies were available in the field during the relevant time-frame, and the performance of a
+given combination of technologies could not be readily predicted. (Id. at ¶ 45.) As a result, the
+potential combinations of known, beneficial compression technologies far exceeded what could
+reasonably be considered a finite set of potential solutions. (Id.) Nor were the benefits achieved by
+the particular video compression method described in the Netravali ‘272 patent predictable, since
+extended experimentation was required to assess the performance of a system combining any
+specific set of coding technologies. (Id. at ¶ 46.) As such, Dell’s obviousness argument is an
+exercise in pure hindsight, piecing together the elements of Claim 13 from diverse sources using the
+patent itself as a guide. (Id.)
+
+24
+25
+26
+27
+28
+
+Furthermore, Dell completely ignores ample objective evidence that the invention of Claim
+13 is nonobvious, including evidence of the commercial success of the invention and licensing of the
+invention by others. (Girod Opp. Decl. at ¶¶ 49-51.) Evidence of such “secondary considerations”
+must be considered when evaluating obviousness. Ruiz v. A.B. Chance Co., 234 F.3d 654, 667 (Fed.
+MULTIMEDIA PATENT TRUST'S OPPOSITION TO DELL’S SUMMARY
+JUDGMENT MOTION RE U.S. PATENT NO. 4,383,272
+
+20
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 140
+
+Filed 12/14/2007
+
+Page 25 of 26
+
+1 Cir. 2000) (“Our precedents clearly hold that secondary considerations, when present, must be
+2 considered in determining obviousness.”); Demaco Corp. v. F. Von Langsdorff Licensing Ltd., 851
+3 F.2d 1387, 1391 (Fed. Cir. 1988) (“Indeed, evidence of secondary considerations may often be the
+4 most probative and cogent evidence in the record.”).
+5
+
+Here, several secondary considerations demonstrate that the invention of Claim 13 is
+
+6 nonobvious, thereby raising genuine issues of material fact that preclude summary judgment. First,
+7 products that use the claimed invention have been highly successful in the marketplace. (Girod Opp.
+8 Decl. at ¶ 49.) The claimed invention is used in numerous video coding standards, including MPEG9 1, MPEG-2, VC-1, and others. (Id.) The invention of Claim 13 has contributed to the success of
+10 these products by reducing the bandwidth needed to transmit, or by reducing the quantity of storage
+11 needed to store, high-quality video bitstreams. (Id.) In fact, Professor Girod has explained that other
+12 video coding technologies that do not use the claimed inventions have not been as commercially
+13 successful. (Id.)
+14
+
+Second, licenses showing industry respect for the claimed invention also support the
+
+15 conclusion that Claims 13 is nonobvious and therefore raise a genuine factual dispute. (Id. at 50.)
+16 Lucent’s licensing agreements that specifically identify the Netravali ‘272 patent, and Lucent’s
+17 licensing negotiation documents which refer to the Netravali ‘272 patent, indicate that the Netravali
+18 ‘272 patent has been a focal point of negotiations for broader licenses with third parties. (Id.)
+19
+
+Third, statements of acclaim by others for the claimed inventions support the finding that the
+
+20 invention of Claims 13 was nonobvious. (Id. at 51.) For example, Arun Netravali and John Robbins
+21 received the 1996 Thomas Alva Edison Patent Award for outstanding research and development for
+22 the invention disclosed in the Netravali ‘272 patent. (Ex. 21, 1996 Thomas Alva Edison Patent
+23 Award [ROBB 000001].) Because a host of disputed issues of fact therefore remain for trial, Dell’s
+24 motion for summary judgment that Claim 13 of the Netravali ‘272 patent is invalid for obviousness
+25 should be denied.
+26 V.
+
+CONCLUSION
+
+27
+
+For all the foregoing reasons, Multimedia Patent Trust respectfully requests that the Court
+
+28
+
+deny Dell’s motions for summary judgment concerning the Netravali ‘272 patent.
+MULTIMEDIA PATENT TRUST'S OPPOSITION TO DELL’S SUMMARY
+JUDGMENT MOTION RE U.S. PATENT NO. 4,383,272
+
+21
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 140
+
+Filed 12/14/2007
+
+Page 26 of 26
+
+1
+2 Dated: December 14, 2007
+3
+
+By:
+
+4
+5
+6
+7
+
+s/David A. Hahn
+David A. Hahn (SBN 125784)
+HAHN & ADEMA
+501 West Broadway, Suite 1730
+San Diego, California 92101-3595
+Telephone: (619) 235-2100
+Facsimile: (619) 235-2101
+John M. Desmarais (admitted pro hac vice)
+Robert A. Appleby (admitted pro hac vice)
+Michael P. Stadnick (admitted pro hac vice)
+Jordan N. Malz (admitted pro hac vice)
+KIRKLAND & ELLIS LLP
+153 East 53rd Street
+New York, New York 10022
+Telephone: (212) 446-4800
+Facsimile: (212) 446-4900
+
+8
+9
+10
+11
+12
+
+Attorneys for Lucent Technologies Inc.
+and Multimedia Patent Trust
+
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+MULTIMEDIA PATENT TRUST'S OPPOSITION TO DELL’S SUMMARY
+JUDGMENT MOTION RE U.S. PATENT NO. 4,383,272
+
+22
+
+Case No. 07-CV-2000-H (CAB)
+
+

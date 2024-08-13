@@ -1,0 +1,395 @@
+Case 2:13-cv-03914-JS-ARL Document 14 Filed 10/11/13 Page 1 of 14 PageID #: 33
+
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF NEW YORK
+BRADLEY TANKIEWICZ,
+
+:
+:
+Plaintiff,
+:
+:
+v.
+:
+:
+UNITED SERVICE WORKERS UNION :
+LOCAL 74 and PINELAWN CEMETARY :
+Defendants.
+:
+
+CIVIL ACTION NO.
+13-CV-3914(JS)(ARL)
+
+OCTOBER 11, 2013
+
+DEFENDANT PINELAWN CEMETERY’S MEMORANDUM OF LAW
+IN SUPPORT OF ITS MOTION TO DISMISS
+
+DUANE MORRIS LLP
+Eve I. Klein, Esq.
+Eric W. Ruden, Esq.
+1540 Broadway
+New York, NY 10036
+Tel. (212) 692-1000
+
+ATTORNEYS FOR THE DEFENDANT
+PINELAWN CEMETERY
+
+Case 2:13-cv-03914-JS-ARL Document 14 Filed 10/11/13 Page 2 of 14 PageID #: 34
+
+TABLE OF CONTENTS
+Page
+PRELIMINARY STATEMENT .................................................................................................... 1
+FACTS ............................................................................................................................................ 2
+ARGUMENT .................................................................................................................................. 3
+I.
+
+LEGAL STANDARDS ...................................................................................................... 3
+
+II.
+
+PLAINTIFF FAILS TO ALLEGE A CLAIM FOR BREACH OF THE DUTY OF FAIR
+REPRESENTATION .......................................................................................................... 4
+
+III.
+
+BECAUSE PLAINTIFF HAS NO VIABLE CLAIM AGAINST THE UNION,
+PLAINTIFF’S CLAIM AGAINST PINELAWN MUST FAIL......................................... 6
+
+IV.
+
+IF THE COURT DISMISSES PLAINTIFF’S FEDERAL LAW CLAIMS, THE COURT
+SHOULD DECLINE TO EXERCISE SUPPLEMENTAL JURISDICTION OVER
+PLAINTIFF’S REMAINING STATE LAW CLAIMS ..................................................... 7
+
+CONCLUSION ............................................................................................................................... 8
+
+i
+
+Case 2:13-cv-03914-JS-ARL Document 14 Filed 10/11/13 Page 3 of 14 PageID #: 35
+
+TABLE OF AUTHORITIES
+Cases
+Arnold v. 1199 SEIU,
+420 Fed. Appx. 48 (2d Cir. 2011) ..............................................................................................6
+Ashcroft v. Iqbal,
+556 U.S. 662 (2009) ............................................................................................................... 3-5
+Astra Media Grp., LLC v. Clear Channel Taxi Media, LLC,
+414 Fed. Appx. 334 (2d Cir. 2011) ............................................................................................7
+Bell Atlantic Corp. v. Twombly,
+550 U.S. 544 (2007) ............................................................................................................... 3-4
+Ciliberti v. IBEW Local 3,
+2012 U.S. Dist. LEXIS 95406 (E.D.N.Y. Jul. 10, 2012) ...........................................................8
+DelCostello v. Int’l Brotherhood of Teamsters,
+462 U.S. 151 (1983), aff’d, 762 F.2d 1219 (4th Cir. 1985) .......................................................6
+Gear v. Dep’t of Educ.,
+2010 U.S. Dist. LEXIS 137153 (S.D.N.Y. Dec. 21, 2010),
+aff’d, 472 Fed. Appx. 67 (2d Cir. 2012) ...................................................................................8
+Hayden v. Paterson,
+594 F.3d 150, 161 (2d Cir. 2010)........................................................................................... 3-4
+Landon v. Ithaca College,
+2013 U.S. Dist. LEXIS 74400 (N.D.N.Y. May 28, 2013) .........................................................6
+Pension Benefit Guar. Corp. v. Morgan Stanley Inv. Mgmt.,
+712 F.3d 705 (2d Cir. 2013).......................................................................................................7
+Saluja v. Local 1199 United Healthcare Workers East,
+363 Fed. Appx. 91 (2d Cir. 2010) ..............................................................................................6
+Sampson v. Dist. Council of N.Y. City,
+2012 U.S. Dist. LEXIS 141822 (S.D.N.Y. Sep. 27, 2012) ........................................................8
+Semper v. N.Y. Methodist Hosp.¸
+2010 U.S. Dist. LEXIS 142398 (E.D.N.Y. Mar. 30, 2010) .......................................................5
+Swayne v. Mount Joy Wire Corp.,
+2012 U.S. Dist. LEXIS 46236 (E.D. Pa. Mar. 29, 2012) ...........................................................6
+
+ii
+
+Case 2:13-cv-03914-JS-ARL Document 14 Filed 10/11/13 Page 4 of 14 PageID #: 36
+
+UPS v. Mitchell,
+451 U.S.56 (1981) ......................................................................................................................6
+White v. White Rose Food,
+237 F.3d 174 (2d Cir. 2001)...................................................................................................4, 6
+Yeftich v. Navistar, Inc.,
+2013 U.S. App. LEXIS 12239 (7th Cir. Jun. 18, 2013) .............................................................6
+Statutes
+28 U.S.C. § 1367(a) .........................................................................................................................7
+28 U.S.C. § 1367(c) .........................................................................................................................7
+29 U.S.C. §185 .................................................................................................................................1
+Other Authorities
+Fed. R. Civ. P. 12(b)(6)............................................................................................................1, 4, 8
+
+iii
+
+Case 2:13-cv-03914-JS-ARL Document 14 Filed 10/11/13 Page 5 of 14 PageID #: 37
+
+Defendant, Pinelawn Cemetery (“Pinelawn” ) 1, by and through its counsel, Duane
+Morris LLP, respectfully submits this memorandum of law in support of its motion to dismiss
+the complaint (the “Complaint”), filed by Plaintiff Bradley Tankiewicz’s (“Plaintiff”), dated
+July 12, 2013, in its entirety pursuant to Rule 12(b)(6) for failing to sufficiently allege a claim
+upon which relief can be granted.
+PRELIMINARY STATEMENT
+Plaintiff’s Complaint alleges a hybrid claim pursuant to Section 301 of the Labor
+Management Relations Act (“LMRA”), 29 U.S.C. §185, against Pinelawn Cemetery (“Pinelawn”
+or the “Company”) and Plaintiff’s collective bargaining representative, United Service Workers
+Union Local 74 (the “Union”). The Complaint alleges that Pinelawn breached the collective
+bargaining agreement (“CBA”) between it and the Union when it terminated Plaintiff 2 and
+alleges the Union breached its duty of fair representation to Plaintiff by not processing Plaintiff’s
+grievance against Pinelawn regarding his termination of employment. Plaintiff additionally
+alleges claims against Pinelawn under the New York State Human Rights Law (“NYSHRL”) for
+failure to reasonably accommodate, discriminatory termination based on disability, and
+discriminatory termination based on perceived disability. Because Plaintiff fails to properly
+allege a claim for breach of duty of fair representation against the Union under the LMRA,
+Plaintiff’s claim against Pinelawn for breach of the CBA must fail and the Court should decline
+supplemental jurisdiction over Plaintiff’s state NYSHRL claims.
+It is well established that a plaintiff alleging a Section 301 claim against the employer for
+breach of a collective bargaining agreement must also be able to demonstrate that the union
+1
+2
+
+Pinelawn’s name is incorrectly spelled in the Complaint.
+
+The Complaint incorrectly states that the Union terminated Plaintiff’s employment. Complaint
+¶ 86.
+
+Case 2:13-cv-03914-JS-ARL Document 14 Filed 10/11/13 Page 6 of 14 PageID #: 38
+
+breached its duty of fair representation. In Plaintiff’s Complaint, Plaintiff fails to sufficiently
+plead any facts to the effect that the Union’s decision to not proceed with Plaintiff’s grievance
+was arbitrary, discriminatory, or in bad faith, and therefore that it breached its duty of fair
+representation in declining to pursue Plaintiff’s grievance. Because Plaintiff has failed to
+sufficiently plead a claim against the Union, Plaintiff’s claim against Pinelawn for breach of the
+CBA must also fail. With no remaining federal claims against the Defendants, the Court should
+decline supplemental jurisdiction at this early stage of the proceedings and dismiss this Action.
+FACTS
+Plaintiff was employed by Pinelawn from on or about May 2005 to March 23, 2013 as a
+Driver/Maintenance Worker. Complaint ¶ 20. Plaintiff’s job responsibilities regularly included
+“arduous physical labor” in connection with servicing funerals, carrying caskets to graves,
+setting bronzes, tamping graves, and maintaining the grounds. Complaint ¶¶ 29, 43, 47.
+During Plaintiff’s employment, Plaintiff was an extremely poor worker and was
+disciplined on multiple occasions, including more than 60 written performance write-ups.
+Complaint ¶ 46. Plaintiff admits he was issued a three-day suspension on or about December
+2012, for being in a dump area to dump top soil earlier than he was supposed to be. Complaint ¶
+57. Plaintiff filed a grievance with the Union, the Union grieved Plaintiff’s suspension and the
+Union participated in a grievance meeting; the suspension was upheld. Complaint ¶¶ 58, 73, 74.
+On or about November 2012, one of Pinelawn’s bulldozers was set ablaze and destroyed,
+causing substantial financial damage to Pinelawn. Complaint ¶ 52. Pinelawn immediately
+notified the police and filed a report. Complaint ¶ 52. Pinelawn hired a private investigation
+firm, launched an internal investigation and offered a $10,000 reward for information leading to
+the arrest and conviction of the parties responsible for the arson. Complaint ¶¶ 53, 54.
+
+2
+
+Case 2:13-cv-03914-JS-ARL Document 14 Filed 10/11/13 Page 7 of 14 PageID #: 39
+
+The investigation revealed that Plaintiff had advance knowledge that Pinelawn’s
+bulldozer was going to be intentionally torched and failed to warn Pinelawn or disclose this
+information to any law enforcement authority, which finding Pinelawn communicated to
+Plaintiff. Complaint ¶¶ 55, 66. During Pinelawn’s investigation, Plaintiff disclaimed any
+knowledge or involvement concerning the arson. 3 Complaint ¶ 55. Based on this serious
+misconduct, Pinelawn terminated Plaintiff on March 23, 2013 and expressly informed him of the
+basis for his termination. Complaint ¶ 66.
+Plaintiff alleges that he filed a formal grievance with the Union on or about April 2013
+regarding his termination. Complaint ¶ 72. The Union decided not to proceed with Plaintiff’s
+grievance. Complaint ¶ 76.
+ARGUMENT
+I.
+
+LEGAL STANDARDS
+“To survive a motion to dismiss, a complaint must contain sufficient factual matter,
+
+accepted as true, to ‘state a claim to relief that is plausible on its face.’ ” Ashcroft v. Iqbal, 556
+U.S. 662, 678 (2009) (quoting Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 555 (2007)). “The
+plausibility standard is not akin to a ‘probability requirement,’ but it asks for more than a sheer
+possibility that a defendant has acted unlawfully.” Iqbal, 556 U.S. at 678. “[A] plaintiff’s
+obligation to provide the ‘grounds’ of his ‘entitle[ment] to relief’ requires more than labels and
+conclusions, and a formulaic recitation of the elements of a cause of action will not do.”
+Twombly, 550 U.S. at 555.
+Applying the Iqbal and Twombly doctrine, the Second Circuit in Hayden v. Paterson, 594
+F.3d 150, 161 (2d Cir. 2010), articulated a “two-pronged approach” that district courts in this
+3
+
+Importantly, Plaintiff never alleges in the Complaint that he did not actually have knowledge or
+involvement concerning the arson.
+3
+
+Case 2:13-cv-03914-JS-ARL Document 14 Filed 10/11/13 Page 8 of 14 PageID #: 40
+
+Circuit must conduct when evaluating the sufficiency of a complaint. First, the “court can
+choose to begin by identifying pleadings, that because they are no more than conclusions, are not
+entitled to the assumption of truth.” Id. Second, the court “should determine whether the wellpleaded factual allegations, assumed to be true, plausibly give rise to an entitlement to relief.”
+Id. “[W]here the well-pleaded facts do not permit the court to infer more than the mere
+possibility of misconduct, the complaint has alleged—but it has not ‘shown’—that the pleader is
+entitled to relief.” Iqbal, 556 U.S. at 679.
+II.
+
+PLAINTIFF FAILS TO ALLEGE A CLAIM FOR BREACH OF THE DUTY OF
+FAIR REPRESENTATION
+“A claim for breach of the duty of fair representation consists of two elements.” White v.
+
+White Rose Food, 237 F.3d 174, 179 (2d Cir. 2001). “First, a union breaches the duty of fair
+representation when its conduct toward a member of the bargaining unit is arbitrary,
+discriminatory, or in bad faith.” Id. Second, if a plaintiffs establishes the first element of the
+claim, he must then also prove “a causal connection between the union’s wrongful conduct and
+[his] injuries.” Id. “A union’s actions are arbitrary only if, in light of the factual and legal
+landscape at the time of the union’s actions, the union’s behavior is so far outside a wide range
+of reasonableness as to be irrational.” Id. “This wide range of reasonableness gives the union
+room to make discretionary decisions and choices, even if those judgments are ultimate wrong.”
+Id. “A showing of bad faith requires a showing of fraudulent, deceitful, or dishonest action.” Id.
+In Twombly, the United States Supreme Court explained that “[w]hile a complaint
+attacked by a Rule 12(b)(6) motion to dismiss does not need detailed factual allegations…a
+plaintiff’s obligation to provide the ‘grounds’ of his ‘entitle[ment] to relief’ requires more than
+labels and conclusions, and a formulaic recitation of the elements of a cause of action will not
+do.” 550 U.S. at 555. The Court expanded on this in Iqbal stating that a complaint must offer
+4
+
+Case 2:13-cv-03914-JS-ARL Document 14 Filed 10/11/13 Page 9 of 14 PageID #: 41
+
+more than “a sheer possibility that a defendant has acted unlawfully.” 556 U.S. at 678. Here,
+Plaintiff has failed to provide anything other than a formulaic recitation of the elements of a
+Section 301 breach of duty of fair representation claim.
+Plaintiff fails sufficiently to plead facts that demonstrate a plausible entitlement to relief
+for breach of duty of fair representation. “Where a plaintiff has not alleged any facts to support
+her claims of breach of duty of good faith, the claim must be dismissed.” Semper v. N.Y.
+Methodist Hosp.¸ 2010 U.S. Dist. LEXIS 142398, at *40 (E.D.N.Y. Mar. 30, 2010).
+In the Complaint, Plaintiff alleges only in conclusory fashion that “Local 74’s conduct
+toward Plaintiff is arbitrary, discriminatory and/or with malice and in bad faith.” Complaint ¶
+77. Plaintiff additionally alleges that he “had a meritorious grievance, Defendant Local 74 was
+aware of Plaintiff’s grievance, and the union has acted arbitrarily in failing to process the
+grievance.” Complaint ¶ 78. These conclusory allegations are insufficient to support Plaintiff’s
+claim as “threadbare recitals of the elements of a cause of action, supported by mere conclusory
+statements, do not suffice.” Semper, at *10. “Even where a plaintiff alleges ‘arbitrary and bad
+faith conduct’ on the part of the union, conclusory allegations are insufficient to defeat a motion
+to dismiss.” Id. at *41. Like in Semper, “Plaintiff fails to make any claim regarding the manner
+in which or reasons behind the Union’s failure to process [his] grievance.” Id.
+Plaintiff’s lack of factual allegations to support his claim of breach of duty of fair
+representation evidences that Plaintiff’s claim is really a disagreement with the Union for not
+proceeding with what the Union determined was a meritless grievance. The fact that the Union
+proceeded with Plaintiff’s grievance of his December 2012 suspension bolsters the fact that the
+Union fairly represented him and did not act arbitrarily or in bad faith. Plaintiff’s disagreement
+with the Union’s decision to not proceed with his subsequent grievance cannot support a breach
+
+5
+
+Case 2:13-cv-03914-JS-ARL Document 14 Filed 10/11/13 Page 10 of 14 PageID #: 42
+
+of duty of fair representation claim because of the “wide range of reasonableness” given to the
+Union to make decisions. See White Rose Foods, 237 F.3d at 179. Given Pinelawn’s stated and
+quite serious reason for terminating Plaintiff, i.e., his advance knowledge of an act of arson to its
+bulldozer, there is no basis to believe, nor has any been alleged, that the Union’s decision to
+decline to grieve Plaintiff’s discharge was based on arbitrary or discriminatory reasons. Thus the
+Court should dismiss Plaintiff’s claim against the Union for breach of its duty of fair
+representation.
+III.
+
+BECAUSE PLAINTIFF HAS NO VIABLE CLAIM AGAINST THE UNION,
+PLAINTIFF’S CLAIM AGAINST PINELAWN MUST FAIL
+For claims against the employer for breach of a collective bargaining agreement, “[i]t is
+
+not enough…for an employee…to prove that he was discharged in violation of the collective
+bargaining agreement.” UPS v. Mitchell, 451 U.S. 56, 62 (1981) Claims against the employer
+for breach of a collective bargaining agreement and against the union for breach of its duty of
+fair representation are “inextricably interdependent.” DelCostello v. Int’l Bhd. of Teamsters, 462
+U.S. 151, 164 (1983), aff’d, 762 F.2d 1219 (4th Cir. 1985). “An employee may sue either his
+employer or the Union, or both, in a hybrid Section 301/fair representation claim, but to prevail,
+the employee must not only show that his discharge was contrary to the contract, but must also
+carry the burden of demonstrating breach of duty by the Union.” Saluja v. Local 1199 United
+Healthcare Workers East, 363 Fed. Appx. 91, 93 (2d Cir. 2010).
+Courts have routinely dismissed Section 301 claims against the employer where the
+plaintiff insufficiently alleged a claim for breach of the duty of fair representation against the
+union. See e.g., Arnold v. 1199 SEIU, 420 Fed. Appx. 48 (2d Cir. 2011); Landon v. Ithaca
+College, 2013 U.S. Dist. LEXIS 74400 (N.D.N.Y. May 28, 2013); Yeftich v. Navistar, Inc., 2013
+U.S. App. LEXIS 12239 (7th Cir. Jun. 18, 2013); Swayne v. Mount Joy Wire Corp., 2012 U.S.
+6
+
+Case 2:13-cv-03914-JS-ARL Document 14 Filed 10/11/13 Page 11 of 14 PageID #: 43
+
+Dist. LEXIS 46236 (E.D. Pa. Mar. 29, 2012). Here, Plaintiff’s claim against Pinelawn for breach
+of the CBA must fail because Plaintiff has insufficiently alleged a claim against the Union for
+breach of its duty of fair representation, as argued above.
+IV.
+
+IF THE COURT DISMISSES PLAINTIFF’S FEDERAL LAW CLAIMS, THE
+COURT SHOULD DECLINE TO EXERCISE SUPPLEMENTAL JURISDICTION
+OVER PLAINTIFF’S REMAINING STATE LAW CLAIMS
+Pursuant to 28 U.S.C. § 1367(a), “in any civil action of which the district courts have
+
+original jurisdiction, the district courts shall have supplemental jurisdiction over all other claims
+that are so related to claims in the action within such original jurisdiction that they form part of
+the same case or controversy…” However, 28 U.S.C. § 1367(c) provides that “[t]he district
+courts may decline to exercise supplemental jurisdiction over a claim under subsection (a)
+if…the district court has dismissed all claims over which it has original jurisdiction…”
+The Second Circuit has held that “in the usual case in which all federal-law claims are
+eliminated before trial, the balance of factors to be considered under the pendent jurisdiction
+doctrine – judicial economy, convenience, fairness, and comity – will point toward declining to
+exercise jurisdiction over the remaining state-law claims.” Pension Benefit Guar. Corp. v.
+Morgan Stanley Inv. Mgmt., 712 F.3d 705, 727 (2d Cir. 2013). Courts have generally held that
+“where all the federal claims have been dismissed at a relatively early stage, the district court
+should decline to exercise supplemental jurisdiction over pendent state-law claims.” Astra
+Media Grp., LLC v. Clear Channel Taxi Media, LLC, 414 Fed. Appx. 334, 337 (2d Cir. 2011).
+Here, judicial economy, convenience and fairness to the parties weigh in favor of the
+Court declining to exercise supplemental jurisdiction over Plaintiff’s’ New York State Human
+
+7
+
+Case 2:13-cv-03914-JS-ARL Document 14 Filed 10/11/13 Page 12 of 14 PageID #: 44
+
+Rights Law claims in the event the Court dismisses Plaintiff’s’ federal law claims.4 The case is
+still in the pleading stage, and discovery has not commenced. Furthermore, the issues raised by
+Plaintiffs’ state law claims are not routine factual questions or simple principles of state law.
+Courts in this Circuit have readily declined to exercise supplemental jurisdiction over plaintiff’s
+state claims where plaintiff’s LMRA claims were dismissed. See Gear v. Dep’t of Educ., 2010
+U.S. Dist. LEXIS 137153, at *16 (S.D.N.Y. Dec. 21, 2010), aff’d, 472 Fed. Appx. 67 (2d Cir.
+2012) (declining supplemental jurisdiction over plaintiff’s New York State Human Rights Law
+and New York City Human Rights Law claims after dismissing plaintiff’s LMRA claims);
+Sampson v. Dist. Council of N.Y. City, 2012 U.S. Dist. LEXIS 141822, at *21 (S.D.N.Y. Sep. 27,
+2012); Ciliberti v. IBEW Local 3, 2012 U.S. Dist. LEXIS 95406, at *39 (E.D.N.Y. Jul. 10, 2012).
+This Court should follow the well-established precedent and decline to exercise supplemental
+jurisdiction over Plaintiff’s state-law claims if the Court dismisses Plaintiff’s LMRA claims.
+CONCLUSION
+For the reasons set forth above, Defendant respectfully requests that this Court: (1)
+pursuant to Fed. R. Civ. P. 12(b)(6), dismiss Plaintiff’s First Cause of Action for failure to state a
+claim upon which relief can be granted; (2) decline supplemental jurisdiction of Plaintiff’s
+Second, Third, and Fourth Causes of Action; and (3) grant Defendant such other relief as this
+Court may deem just and proper.
+
+4
+
+Plaintiff alleges that he is disabled due to on-the-job injuries and that Pinelawn refused to
+accommodate him and discriminated against him on this basis in violation of the New York State
+Human Rights Law. Although this claim is beyond the scope of this motion, it should be noted
+that it is meritless. Plaintiff admits in his Complaint that he was out of work for 11 months and
+was reinstated to work upon full clearance from his doctor since, as Plaintiff acknowledges, his
+job involved arduous physical labor.
+
+8
+
+Case 2:13-cv-03914-JS-ARL Document 14 Filed 10/11/13 Page 13 of 14 PageID #: 45
+
+DUANE MORRIS LLP
+By
+
+/s/ Eve I. Klein
+Eve I. Klein, Esq.
+Eric W. Ruden, Esq.
+1540 Broadway
+New York, NY 10036
+Tel. (212) 692-1000
+Fax. (212) 214-0650
+eiklein@duanemorris.com
+eruden@duanemorris.com
+Attorneys for Defendant Pinelawn Cemetery
+
+9
+
+Case 2:13-cv-03914-JS-ARL Document 14 Filed 10/11/13 Page 14 of 14 PageID #: 46
+
+CERTIFICATION
+I hereby certify that on this 11th day of October, 2013, a copy of the above document
+was filed electronically and served by mail on anyone unable to accept electronic filing. Notice
+of this filing will be sent by e-mail to all parties by operation of the Court’s electronic filing
+system or by mail on anyone unable to accept electronic filing. A complete, duplicate copy of
+this document has been forwarded directly to Judge Seybert.
+
+/s/ Eric W. Ruden
+Eric W. Ruden, Esq.
+
+

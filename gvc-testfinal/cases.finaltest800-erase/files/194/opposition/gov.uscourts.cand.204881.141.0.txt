@@ -1,0 +1,1440 @@
+Apple Inc. v. Psystar Corporation
+
+Doc. 141
+
+Case3:08-cv-03251-WHA Document141
+
+1
+2
+3
+4
+5
+6
+
+CAMARA & SIBLEY LLP
+K.A.D. CAMARA (admitted pro hac vice)
+2339 University Boulevard
+Houston, Texas 77005
+Telephone: 713-893-7973
+Fax: 713-583-1131
+camara@camarasibley.com
+Attorney for Defendant/Counterclaimant
+PSYSTAR CORPORATION
+
+7
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF CALIFORNIA
+SAN FRANCISCO DIVISION
+
+8
+9
+
+APPLE INC., a California corporation,
+
+10
+
+Plaintiff,
+
+11
+
+v.
+
+12
+
+PSYSTAR CORPORATION,
+
+13
+14
+
+Filed09/18/09 Page1 of 17
+
+Defendants.
+AND RELATED COUNTERCLAIMS
+
+CASE NO. CV-08-03251-WHA
+PSYSTAR CORPORATION’S
+RESPONSE IN OPPOSITION TO
+APPLE INC.’S MOTION TO
+DISMISS OR ENJOIN
+PROSECUTION OF THE
+RECENTLY-FILED FLORIDA
+ACTION AND TO RE-OPEN
+DISCOVERY FOR LIMITED
+PURPOSES
+
+15
+16
+17
+18
+19
+20
+21
+
+PSYSTAR’S RESPONSE IN OPPOSITION TO APPLE’S MOTION TO DISMISS OR
+ENJOIN PROSECUTION OF THE RECENTLY-FILED FLORIDA ACTION AND TO REOPEN DISCOVERY FOR LIMITED PURPOSES
+The case at bar involves Apple’s challenge to the legality of Psystar computer systems that
+run Apple’s Mac OS X Leopard. Fact discovery in this case has been completed: Apple has deposed
+the senior employees of Psystar, inspected Psystar products, and inspected the Psystar manufacturing
+
+22
+23
+24
+
+facility in which Psystar assembles computer systems running Leopard; similarly, Psystar has
+deposed the senior engineers at Apple responsible for the design and implementation of the
+
+25
+
+technological protection measures in Leopard that Apple alleges Psystar circumvented. Summary-
+
+26
+
+judgment briefing is due in several weeks, expert depositions are proceeding next week, and trial is
+
+27
+
+scheduled for January 10. Psystar opposes any continuance of the trial date necessary to allow
+
+28
+
+PSYSTAR CORPORATION’S RESPONSE IN OPPOSITION TO APPLE INC.’S MOTION TO
+DISMISS OR ENJOIN PROSECUTION OF THE RECENTLY-FILED FLORIDA ACTION AND TO
+RE-OPEN DISCOVERY FOR LIMITED PURPOSES (CV 08-03251 WHA)
+
+1
+
+Dockets.Justia.com
+
+Case3:08-cv-03251-WHA Document141
+
+Filed09/18/09 Page2 of 17
+
+1
+
+Apple to remedy its strategic decision to litigate only Leopard in this action, a strategic decision that
+
+2
+
+it now regrets. It is Psystar that is prejudiced by a further delay in the trial date since it is Psystar’s
+
+3
+4
+5
+6
+
+business that is being harmed by the shroud of legal doubt that Apple has created by this action.
+Apple controlled the schedule for the release of Snow Leopard. Apple elected not to take
+steps to add Snow Leopard to this case by seeking a late pleadings amendment. Apple elected not to
+
+7
+
+raise the issue of Snow Leopard’s impending release and its effect on the time needed for discovery
+
+8
+
+at the post-stay status conference, by motion to extend the time for discovery, or at a status
+
+9
+
+conference requested for that purpose. By contrast, the release of Snow Leopard was a surprise
+
+10
+11
+
+event for Psystar. Psystar did not know when Snow Leopard would be released until Apple’s public
+announcement of a release date.
+
+And Psystar developed its new technology — selective
+
+12
+13
+14
+
+virtualization — in the days preceding and the week following the release of Snow Leopard. It is
+simply incorrect to suggest that Psystar withheld any information or code during the discovery
+
+15
+
+period that might have induced Apple to seek a pleadings amendment sooner. And it would have
+
+16
+
+taken no great oracular capacity to predict that upon the release of Snow Leopard, Psystar would
+
+17
+
+have taken steps to get Snow Leopard running on Psystar systems. Psystar has never been opaque
+
+18
+19
+20
+21
+
+about its intention to continue on in its business.
+Apple had its opportunity to bring Snow Leopard into this case and chose not to. Apple
+chose not to conduct discovery into Snow Leopard and stonewalled when Psystar asked questions at
+
+22
+
+depositions about Snow Leopard. Apple assumed that its new technological protection measures
+
+23
+
+would prevent Psystar from running Snow Leopard on Psystar computers. Placing its faith in its
+
+24
+
+security engineers —
+
+25
+
+Apple decided not to seek leave to amend its complaint or disclosures when Snow Leopard was
+
+26
+27
+28
+
+—
+
+released or when a date certain was set for that release. Instead, Apple did nothing.
+As a result, the Florida action is the first-filed case relating to Snow Leopard. Apple is free
+PSYSTAR CORPORATION’S RESPONSE IN OPPOSITION TO APPLE INC.’S MOTION TO
+DISMISS OR ENJOIN PROSECUTION OF THE RECENTLY-FILED FLORIDA ACTION AND TO
+RE-OPEN DISCOVERY FOR LIMITED PURPOSES (CV 08-03251 WHA)
+
+2
+
+Case3:08-cv-03251-WHA Document141
+
+Filed09/18/09 Page3 of 17
+
+1
+
+to move for transfer and consolidation of the Florida action to this Court — but it must do so in
+
+2
+
+Florida. Apple has not done so yet. Apple is also free to file motions in the Florida action seeking to
+
+3
+4
+5
+6
+
+give preclusive effect to this Court’s earlier rulings on Psystar’s antitrust counterclaims, to this
+Court’s forthcoming rulings on motions for summary judgment, and to the eventual jury verdict.
+While Psystar does not believe that there would be any substantial preclusion between this action
+
+7
+
+and the Florida action, preclusion doctrines are the proper way for a defendant in multiple actions to
+
+8
+
+avoid unnecessary re-litigation of issues or inconsistent results. What is improper is to ask this Court
+
+9
+
+to intrude on and, indeed, preempt the judgment of Judge Hoeveler of the United States District
+
+10
+11
+
+Court for the Southern District of Florida. Judge Hoeveler and his Court are quite capable of hearing
+and ruling on the various arguments that Apple has improperly advanced here.
+
+12
+13
+14
+
+I.
+
+This Case Does Not Cover Snow Leopard
+A.
+
+Complaint and copyright registrations
+
+15
+
+Apple’s amended complaint accuses Psystar of running Mac OS X Leopard on non-Apple
+
+16
+
+computers, circumventing the technological protection measures that protect Mac OS X Leopard,
+
+17
+
+and breaching the license agreement that accompanies Mac OS X Leopard. The amended complaint
+
+18
+19
+20
+21
+
+nowhere mentions Snow Leopard. There is no way it could have mentioned Snow Leopard, since
+Snow Leopard was released only several weeks ago, well after the amended complaint was filed.
+The amended complaint cannot have encompassed Snow Leopard because — put simply and starkly
+
+22
+
+— neither Snow Leopard nor the Psystar computers that run Snow Leopard existed when it was
+
+23
+
+filed. See Reiffin v. Microsoft Corp., 270 F. Supp. 2d 1132, 1162 (N.D. Cal. 2003) (pleadings
+
+24
+
+amendment was procedure by which to add claims for new products released after filing of the
+
+25
+
+original complaint).
+
+26
+27
+28
+
+Apple’s amended complaint further cannot be construed to extend to Snow Leopard because
+Apple had not registered any copyright in Snow Leopard before filing the complaint and, in fact, has
+PSYSTAR CORPORATION’S RESPONSE IN OPPOSITION TO APPLE INC.’S MOTION TO
+DISMISS OR ENJOIN PROSECUTION OF THE RECENTLY-FILED FLORIDA ACTION AND TO
+RE-OPEN DISCOVERY FOR LIMITED PURPOSES (CV 08-03251 WHA)
+
+3
+
+Case3:08-cv-03251-WHA Document141
+
+Filed09/18/09 Page4 of 17
+
+1
+
+not registered its copyright in Snow Leopard as of a search conducted on September 14. See
+
+2
+
+Amended Complaint at ¶ 26 (listing copyright registrations); Ex. F (Affidavit of Jane Dryer re:
+
+3
+4
+5
+6
+
+search at copyright office). Copyright registration is a prerequisite to any action for infringement.
+17 U.S.C. § 411(a) (“no civil action for infringement of the copyright in any United States work shall
+be instituted until preregistration or registration of the copyright claim has been made in accordance
+
+7
+
+with this title”); Kodadek v. MTV Networks, Inc., 152 F.3d 1209, 1211 (9th Cir. 1998). When a
+
+8
+
+plaintiff files an infringement action based on an unregistered copyright, the appropriate remedy is
+
+9
+
+dismissal of the action. See Jefferson Airplane v. Berkeley Systems Inc., 886 F. Supp. 713, 714–17
+
+10
+11
+
+(N.D. Cal. 1994).
+
+At a minimum, the plaintiff must file an amended complaint alleging the
+
+registration, see Zito v. Steeplechase Films, Inc., 267 F. Supp. 2d 1022, 1025 (N.D. Cal. 2003) —
+
+12
+13
+14
+
+something that Apple has not even sought to do and that it should not be permitted to do at this late
+hour.
+
+15
+
+B.
+
+16
+
+Throughout written discovery in this case, Apple has refused to answer questions, give
+
+17
+
+admissions, or produce documents relating to versions of Mac OS X other than Mac OS X Leopard.
+
+18
+19
+20
+
+Discovery responses
+
+For example, in response to a definition in interrogatories of “Mac OS” that included “all versions of
+Mac OS including, without limitation, Mac OS X, Mac OS 9, and Mac OS 8,”
+
+21
+22
+23
+24
+25
+26
+27
+28
+
+PSYSTAR CORPORATION’S RESPONSE IN OPPOSITION TO APPLE INC.’S MOTION TO
+DISMISS OR ENJOIN PROSECUTION OF THE RECENTLY-FILED FLORIDA ACTION AND TO
+RE-OPEN DISCOVERY FOR LIMITED PURPOSES (CV 08-03251 WHA)
+
+4
+
+Case3:08-cv-03251-WHA Document141
+
+Filed09/18/09 Page5 of 17
+
+1
+2
+3
+4
+5
+6
+
+To this day, Apple has not
+supplemented this response, even though it now contends that not only Leopard but also Snow
+Leopard are within this action. In fact, Apple has not amended any of its answers to written
+
+7
+
+discovery so that they apply to Mac OS X Snow Leopard. And Apple has not produced documents
+
+8
+
+related to Snow Leopard. This is because all parties understood that Mac OS X Snow Leopard was
+
+9
+
+not included in this case. And, again, to this day, Apple has made no motion to amend the pleadings
+
+10
+11
+
+to include Mac OS X Snow Leopard or the new Psystar products that allegedly infringe Snow
+Leopard. Any such amendment would, of course, be improper under the very principles described
+
+12
+13
+14
+15
+
+by Apple in its Florida Motion, since the first-filed case that addresses Snow Leopard is the case
+currently pending in Florida.
+C.
+
+Stonewalling in depositions
+
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+PSYSTAR CORPORATION’S RESPONSE IN OPPOSITION TO APPLE INC.’S MOTION TO
+DISMISS OR ENJOIN PROSECUTION OF THE RECENTLY-FILED FLORIDA ACTION AND TO
+RE-OPEN DISCOVERY FOR LIMITED PURPOSES (CV 08-03251 WHA)
+
+5
+
+Case3:08-cv-03251-WHA Document141
+
+Filed09/18/09 Page6 of 17
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+PSYSTAR CORPORATION’S RESPONSE IN OPPOSITION TO APPLE INC.’S MOTION TO
+DISMISS OR ENJOIN PROSECUTION OF THE RECENTLY-FILED FLORIDA ACTION AND TO
+RE-OPEN DISCOVERY FOR LIMITED PURPOSES (CV 08-03251 WHA)
+
+6
+
+Case3:08-cv-03251-WHA Document141
+
+Filed09/18/09 Page7 of 17
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+After stonewalling in the depositions
+
+17
+18
+
+, Apple cannot claim that Snow Leopard has always been covered by this action. Snow
+
+19
+
+Leopard is a new Apple product and the Psystar computers that run Snow Leopard are new Psystar
+
+20
+
+products. If Apple wanted to amend its pleadings to include Snow Leopard and Psystar products
+
+21
+22
+23
+24
+
+running Snow Leopard, it should have moved to do so. Certainly Apple knew far better than Psystar
+when Snow Leopard was going to be released. Any such motion should be denied now, however,
+because it would necessarily upset the trial schedule in this case to the prejudice of Psystar and
+
+25
+
+because the first-filed action addressing Snow Leopard is the case in Florida.
+
+26
+
+II.
+
+27
+28
+
+The Florida Case Deals With A Different Apple Product, A Different Apple License, A
+New Psystar Technology (Selective Virtualization), New Psystar Devices, and A
+Different Relevant Market
+
+PSYSTAR CORPORATION’S RESPONSE IN OPPOSITION TO APPLE INC.’S MOTION TO
+DISMISS OR ENJOIN PROSECUTION OF THE RECENTLY-FILED FLORIDA ACTION AND TO
+RE-OPEN DISCOVERY FOR LIMITED PURPOSES (CV 08-03251 WHA)
+
+7
+
+Case3:08-cv-03251-WHA Document141
+
+Filed09/18/09 Page8 of 17
+
+1
+
+Neither the parties nor the federal courts will waste effort by having issues related to Snow
+
+2
+
+Leopard litigated in the Florida action while this case proceeds expeditiously to a trial at which the
+
+3
+4
+5
+6
+
+legality of Psystar’s past conduct regarding Leopard will be finally determined. This is because the
+evidence and legal issues surrounding Snow Leopard are radically different from those surrounding
+Leopard. Apple attempts to obviate these differences by skimming the surface of the legal issues in
+
+7
+
+the two cases.
+
+8
+
+infringement and circumvention of technological protection mechanisms, both involve first-sale and
+
+9
+
+§ 117 arguments by Psystar — differences in the evidence and facts make analysis of these legal
+
+10
+11
+
+Although they are superficially similar — both involve claims for copyright
+
+issues entirely different in the two cases. And as to the differences in Psystar’s products, Apple, of
+course, cannot know how different they are since Apple has not yet taken any discovery on Psystar
+
+12
+13
+14
+
+systems that run Snow Leopard or on Psystar’s new selective virtualization technology for running
+Snow Leopard.
+
+15
+
+A.
+
+16
+
+The Florida case involves Apple’s Snow Leopard product. Snow Leopard is different from
+
+17
+
+Leopard in many respects. But, in particular, the technological protection mechanisms that Apple
+
+18
+
+Snow Leopard v. Leopard
+
+contends that Psystar circumvented
+
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+No discovery has been taken in this case on either side on the technical protection
+PSYSTAR CORPORATION’S RESPONSE IN OPPOSITION TO APPLE INC.’S MOTION TO
+DISMISS OR ENJOIN PROSECUTION OF THE RECENTLY-FILED FLORIDA ACTION AND TO
+RE-OPEN DISCOVERY FOR LIMITED PURPOSES (CV 08-03251 WHA)
+
+8
+
+Case3:08-cv-03251-WHA Document141
+
+1
+
+mechanisms in Snow Leopard.
+
+2
+
+mechanisms are at all similar
+
+Filed09/18/09 Page9 of 17
+
+The only evidence that Apple offers that these protection
+
+3
+4
+
+The nature of the technological protection measures in
+
+5
+6
+
+Snow Leopard is an entirely new topic that has not been explored in discovery in this case, in large
+
+7
+
+part due to Apple’s stonewalling. Discovery should not be reopened now simply because Apple has
+
+8
+
+changed its mind about whether it wishes to include Snow Leopard in this cause of action. At
+
+9
+
+minimum, Apple should be required to seek leave to amend its complaint — and if Apple did so,
+
+10
+11
+
+such leave, because there is already a pending Snow Leopard action in Florida, should be denied.
+B.
+
+Snow Leopard License v. Leopard License
+
+12
+13
+14
+
+Snow Leopard has a different “software license agreement” than Leopard. The different
+agreements create legal differences not only for Apple’s breach-of-contract claims, but also for
+
+15
+
+Apple’s copyright-infringement and DMCA anti-circumvention claims. The Snow Leopard license,
+
+16
+
+see Ex. D, differs from the Leopard license, see Ex. E, in several relevant respects.
+
+17
+18
+19
+20
+21
+
+Ownership of the copy sold. One important legal issue is whether Apple sells copies of Mac
+OS X or merely licenses the use of Mac OS X. As a matter of copyright law, this depends on
+whether Apple ever sells a copy of the Mac OS X software, where copy is statutorily defined as the
+physical object containing that software. Psystar contends that Apple does sell such copies in the
+
+22
+
+form of the physical DVD containing Mac OS X. Apple contends that it does not sell copies, but
+
+23
+
+merely licenses them. In the Leopard license, Apple expressly states that “[y]ou own the media on
+
+24
+
+which the Apple Software is recorded,” while, in the Snow Leopard license, this line has been
+
+25
+
+removed. This distinction may make a crucial legal difference in the cases because it is the sale of a
+
+26
+27
+28
+
+copy that triggers the § 117 (right to take steps to run software on your computer) and § 109 (firstsale doctrine) rights on which Psystar and its customers rely.
+PSYSTAR CORPORATION’S RESPONSE IN OPPOSITION TO APPLE INC.’S MOTION TO
+DISMISS OR ENJOIN PROSECUTION OF THE RECENTLY-FILED FLORIDA ACTION AND TO
+RE-OPEN DISCOVERY FOR LIMITED PURPOSES (CV 08-03251 WHA)
+
+9
+
+Case3:08-cv-03251-WHA Document141
+
+Filed09/18/09 Page10 of 17
+
+1
+
+Enforceability of the license agreement. The Snow Leopard license agreement, unlike the
+
+2
+
+Leopard agreement, states that returns of the software are governed by Apple’s online return policy,
+
+3
+4
+5
+6
+
+and not by the return policies of individual retailers like Amazon or Best Buy. Apple’s return policy,
+unlike that of many other retailers, permits the return of software after it has been opened. Thus, a
+customer who buys a copy of Snow Leopard has a chance, under the Snow Leopard license, to open
+
+7
+
+the copy, run the software, read the license, reject it, and return the software to Apple. But a
+
+8
+
+customer who buys a copy of Leopard from a retailer who does not accept returns of opened
+
+9
+
+software has no such opportunity. This lack of an opportunity to return the software may affect the
+
+10
+11
+
+enforceability of the license agreement.
+Decryption and reverse engineering.
+
+The Snow Leopard license agreement, unlike the
+
+12
+13
+14
+
+Leopard agreement, contains an express prohibition on decompiling, decrypting, reverse
+engineering, disassembling, or attempting to derive the source code of Mac OS X. This clause will
+
+15
+
+be available to Apple with respect to Psystar computers that run Snow Leopard, but not with respect
+
+16
+
+to computers that run Leopard. And it raises entirely new issues to be briefed on summary judgment
+
+17
+
+about the enforceability of such a clause in the face of the Digital Millennium Copyright Act’s
+
+18
+19
+20
+21
+
+express grant of a right to owners of copies of software programs to reverse engineer them for
+purposes of interoperability. See 17 U.S.C. § 1201(f).
+Choice of law. The Snow Leopard license agreement contains a survivorship clause that says
+
+22
+
+that the choice-of-law provisions of that agreement survive its termination on account of an end
+
+23
+
+user’s breach of its terms. The Leopard license agreement contains no such survivorship clause.
+
+24
+
+Thus, if a Mac OS X license terminates because the end user has breached it (say, on Apple’s view,
+
+25
+
+by running Mac OS X on non-Apple hardware), then the Snow Leopard license provides that the
+
+26
+27
+28
+
+choice-of-law provision selecting California law survives while the Leopard license provides no such
+thing. This may affect — and certainly requires different summary-judgment briefing on — the law
+PSYSTAR CORPORATION’S RESPONSE IN OPPOSITION TO APPLE INC.’S MOTION TO
+DISMISS OR ENJOIN PROSECUTION OF THE RECENTLY-FILED FLORIDA ACTION AND TO
+RE-OPEN DISCOVERY FOR LIMITED PURPOSES (CV 08-03251 WHA)
+
+10
+
+Case3:08-cv-03251-WHA Document141
+
+1
+2
+3
+4
+5
+6
+
+Filed09/18/09 Page11 of 17
+
+that applies to some or all of Apple’s state-law claims.
+In short, the differences between the license agreement that applies to Snow Leopard and the
+agreement that applies to Leopard make this case and the Florida case quite different legally.
+C.
+
+Virtualization v. Hook Function
+
+The method by which Psystar computers run Mac OS X is completely different for Snow
+
+7
+
+Leopard than it was for Leopard. For Leopard, Psystar computers invoked a particular Apple
+
+8
+
+function
+
+9
+
+properly. This was accomplished through the Psystar-written kernel extension OpenCojones.kext.
+
+10
+11
+
+to cause Mac OS X to
+
+function
+
+For Snow Leopard, Psystar uses new code to instead virtualize (that is, simulate) parts of the system
+management chip (SMC) to “convince” Mac OS X that it is running on Apple hardware.
+
+12
+13
+14
+
+Virtualization like this is the backbone of a large part of the modern computing industry; indeed, it is
+how Apple’s Macintosh computers are able to run Windows and Windows applications. See, e.g.,
+
+15
+
+http://www.vmware.com/techonology/virtualization.html (description of virtualization from the
+
+16
+
+leading company in the field, VMware).
+
+17
+
+technology in the Florida case is entirely different from the Psystar technology at issue here.
+
+18
+19
+20
+21
+
+D.
+
+As this brief description makes clear, the Psystar
+
+New Psystar Devices
+
+One of the issues to be litigated in the Florida case is the legality of Psystar’s “dongles” (an
+industry term in wide use). Psystar’s dongles are USB sticks containing virtualization software that
+
+22
+
+allow end users to run Mac OS X on computers of their choice, not just computers purchased from
+
+23
+
+Psystar. The end user would buy a dongle from Psystar and a copy of Mac OS X from Apple or a
+
+24
+
+reseller like Amazon or Best Buy and would then be able to run that copy of Mac OS X on their
+
+25
+
+personal non-Apple computer. Psystar has worked out a design for a dongle that it intends to test,
+
+26
+27
+28
+
+manufacture, and sell in the near future, possibly depending on the progress made in the Florida
+action. The dongle, of course, would be an entirely new product that is different in kind from the
+PSYSTAR CORPORATION’S RESPONSE IN OPPOSITION TO APPLE INC.’S MOTION TO
+DISMISS OR ENJOIN PROSECUTION OF THE RECENTLY-FILED FLORIDA ACTION AND TO
+RE-OPEN DISCOVERY FOR LIMITED PURPOSES (CV 08-03251 WHA)
+
+11
+
+Case3:08-cv-03251-WHA Document141
+
+1
+
+Psystar computer systems at issue in this action.
+
+2
+
+III.
+
+3
+4
+
+Filed09/18/09 Page12 of 17
+
+Preclusion Doctrines Raised By Motion In Florida Are The Appropriate Way For
+Apple To Assert Its Objections To The Antitrust Claims In The Florida Case
+A surprisingly large part of Apple’s present motion is devoted not to the copyright, anti-
+
+5
+
+circumvention, trademark infringement, or breach-of-contract claims that Apple asserts in this case,
+
+6
+
+but to the antitrust claims that Psystar has asserted in Florida. Apple contends that these antitrust
+
+7
+
+claims are barred by this Court’s prior dismissal of the antitrust counterclaims that Psystar asserted
+
+8
+9
+10
+11
+
+earlier in this case and that Psystar’s new antitrust claims are, in any event, compulsory
+counterclaims that Psystar was required to bring in this Court. Neither contention is correct. But,
+more importantly, both contentions can and should be raised by Apple, if at all, by motion in the
+
+12
+
+Florida court: to the extent this Court’s prior order raises issue or claim preclusion issues relevant to
+
+13
+
+the new antitrust claims, Apple can move to dismiss or for summary judgment in Florida; to the
+
+14
+
+extent the new antitrust claims are in fact compulsory counterclaims, Apple can move to dismiss in
+
+15
+
+Florida. There is no cause for this Court to intervene in matters that should be decided by Judge
+
+16
+17
+18
+19
+
+Hoeveler and the United States District Court for the Southern District of Florida.
+Both claims of preclusion — preclusion because of the prior dismissal in this case and
+preclusion under the compulsory-counterclaim rule — fail for the same reason: the antitrust claims
+
+20
+
+that Psystar is asserting in the Florida case relate to Apple’s conduct surrounding Snow Leopard and
+
+21
+
+therefore did not exist at the time the antitrust counterclaims in this case were filed or dismissed.
+
+22
+
+Rule 13, likewise, makes compulsory counterclaims only those counterclaims “that—at the time of
+
+23
+24
+
+its service—the pleader has against an opposing party.” Counterclaims that arise after service of the
+answer are, by definition, not compulsory. See, e.g., Dillard v. Security Pacific Brokers, Inc., 835
+
+25
+26
+27
+28
+
+F.2d 607, 609 (5th Cir. 1988); Pike v. Greeman, 266 F.3d 78, 92 n.17 (2d Cir. 2001). Likewise,
+“[R]es judicata does not bar claims that did not exist at the time of the prior litigation.” Meekins v.
+PSYSTAR CORPORATION’S RESPONSE IN OPPOSITION TO APPLE INC.’S MOTION TO
+DISMISS OR ENJOIN PROSECUTION OF THE RECENTLY-FILED FLORIDA ACTION AND TO
+RE-OPEN DISCOVERY FOR LIMITED PURPOSES (CV 08-03251 WHA)
+
+12
+
+Case3:08-cv-03251-WHA Document141
+
+Filed09/18/09 Page13 of 17
+
+1
+
+United Transportation Union, 946 F.2d 1054, 1058 (4th Cir. 1991); see also National Resources
+
+2
+
+Defense Council v. U.S. E.P.A., 437 F. Supp. 2d 1137, 1155 (C.D. Cal. 2006) (“Claim preclusion
+
+3
+4
+5
+6
+
+does not bar litigants from bringing claims based on conduct that occurred after the settlement of a
+prior suit.”).
+As the Supreme Court explained in an antitrust case, this is so even though “both suits
+
+7
+
+involved essentially the same course of wrongful conduct.” Lawlor v. National Screen Service
+
+8
+
+Corp., 349 U.S. 322, 327 (1955). Even in such a case, a prior judgment “precludes recovery on
+
+9
+
+claims arising prior to its entry, it cannot be given the effect of extinguishing claims which did not
+
+10
+11
+
+even then exist and which could not possibly have been sued upon in the previous case.” Id. at 328.
+The Ninth Circuit, too, has held that a later-arising cause of action cannot be barred by a prior
+
+12
+13
+14
+
+judgment even if the later-arising action involves the same basic course of conduct. “A claim arising
+after the date of an earlier judgment is not barred, even if it arises out of a continuing course of
+
+15
+
+conduct that provided the basis for the earlier claim.” Frank v. United Airlines, Inc., 216 F.3d 845,
+
+16
+
+851 (9th Cir. 2000). Apple’s notion that the antitrust claims in the Florida action are somehow
+
+17
+
+precluded by this Court’s dismissal of the anyway very different antitrust counterclaims filed here is
+
+18
+19
+20
+21
+
+simply without legal foundation.
+It is also worth noting that, at a factual level, the antitrust claims in Florida are quite different
+from the antitrust claims that were asserted in this case. The Florida claims assert that Apple has
+
+22
+
+made attempts to monopolize a different market: the market for “premium computers,” defined as
+
+23
+
+computers priced at more than $1,000. Psystar plans to amend the Florida complaint shortly to assert
+
+24
+
+further market definitions, including one defining the market in personal computers running UNIX-
+
+25
+
+based operating systems. Windows is not a UNIX-based operating system. And, although there are
+
+26
+27
+28
+
+several other UNIX-based operating systems in the market, including the various flavors of Linux, it
+turns out that this, too, is a market in which Apple has, and has taken anticompetitive acts to obtain
+PSYSTAR CORPORATION’S RESPONSE IN OPPOSITION TO APPLE INC.’S MOTION TO
+DISMISS OR ENJOIN PROSECUTION OF THE RECENTLY-FILED FLORIDA ACTION AND TO
+RE-OPEN DISCOVERY FOR LIMITED PURPOSES (CV 08-03251 WHA)
+
+13
+
+Case3:08-cv-03251-WHA Document141
+
+Filed09/18/09 Page14 of 17
+
+1
+
+and maintain, an effective monopoly. But these are issues for the Florida Court.
+
+2
+
+IV.
+
+3
+4
+5
+6
+7
+
+Conclusion
+It is within this Court’s power to enjoin prosecution of a suit in a different federal forum. But
+
+this should be done only when the second suit involves the same claims, the same facts, and the same
+parties to such a degree that, in this Court’s discretion, it would be a waste of the federal judiciary’s
+resources to have the cases proceed in parallel. An injunction barring Psystar from prosecuting the
+
+8
+
+Florida case would be appropriate if that case were simply a mirror image of this case, raising the
+
+9
+
+same legal questions on the same evidence. But the Florida case is nothing like that. The Florida
+
+10
+
+case concerns a new Apple product, Snow Leopard; a new series of Psystar products, including both
+
+11
+12
+
+computers running Snow Leopard and dongles permitting end users to run their own copies of Snow
+Leopard on their own non-Psystar computers; a new virtualization technology developed by Psystar;
+
+13
+14
+15
+16
+
+a new license for Snow Leopard with at least four major differences from the Leopard license
+affecting everything from choice of law to the enforceability of the license to whether the first-sale
+doctrine and § 117 apply; and entirely new market definitions for the antitrust claims.
+
+17
+
+Moreover, as to Snow Leopard, the first-to-file rule, properly applied, leads to the conclusion
+
+18
+
+that it is the Florida court in which all Snow Leopard-related disputes should be centered. Apple
+
+19
+20
+21
+22
+
+actively refused to engage in discovery on Snow Leopard in this case, both in its responses to written
+discovery and at depositions. Instead, Apple took the position that Snow Leopard was not part of
+this case because it had not yet been released. Cf. MedImmune, Inc. v. Genentech, Inc., 535 F. Supp.
+
+23
+
+2d 1000, 1009 (C.D. Cal. 2008) (“The Plaintiff has not demonstrated that NuMax is in fact part of
+
+24
+
+the actual controversy in this case.
+
+25
+
+exclusively to Synagis and has never amended its pleading to reference NuMax. Furthermore,
+
+26
+
+Genentech states that MedImmune until very recently has refused to provide any discovery related to
+
+27
+28
+
+Indeed, MedImmune has always directed its pleadings
+
+NuMax.”). Having taken this position, Apple cannot now object to the filing of a new case in
+PSYSTAR CORPORATION’S RESPONSE IN OPPOSITION TO APPLE INC.’S MOTION TO
+DISMISS OR ENJOIN PROSECUTION OF THE RECENTLY-FILED FLORIDA ACTION AND TO
+RE-OPEN DISCOVERY FOR LIMITED PURPOSES (CV 08-03251 WHA)
+
+14
+
+Case3:08-cv-03251-WHA Document141
+
+1
+2
+3
+4
+5
+6
+
+Filed09/18/09 Page15 of 17
+
+Florida centered on the very questions it sought to avoid here.
+If it turns out that there are any overlapping factual or legal issues, both Apple and Psystar
+can address those issues in Florida by seeking agreement or orders limiting discovery in that case to
+issues not fully explored here and by filing motions to dismiss or for summary judgment when
+preclusion doctrines warrant doing so. Ordinary steps like these that will adequately protect against
+
+7
+
+a waste of federal judicial resources make the extraordinary step of an injunction against the
+
+8
+
+prosecution of an action in a co-ordinate United States District Court entirely unnecessary.
+
+9
+
+Moreover, enjoining the Florida action would be prejudicial to Psystar because it would necessitate
+
+10
+11
+
+reopening discovery in this case and, as this Court stated at the September 4 hearing, continuing the
+trial date beyond January. This case, and the legal doubt it creates about Psystar’s business, is an
+
+12
+13
+14
+
+extraordinary burden on Psystar.
+
+Having gotten through discovery on all issues surrounding
+
+Leopard, Psystar wishes to get on with trial and achieve some final resolution of the legality of its
+
+15
+
+activities to date. Apple should not be permitted to delay this day of reckoning by its last-minute
+
+16
+
+attempt to add Snow Leopard into this case.
+
+17
+
+Psystar respectfully requests that Apple’s motion be denied in full.
+
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+PSYSTAR CORPORATION’S RESPONSE IN OPPOSITION TO APPLE INC.’S MOTION TO
+DISMISS OR ENJOIN PROSECUTION OF THE RECENTLY-FILED FLORIDA ACTION AND TO
+RE-OPEN DISCOVERY FOR LIMITED PURPOSES (CV 08-03251 WHA)
+
+15
+
+Case3:08-cv-03251-WHA Document141
+
+1
+2
+
+Dated: September 18, 2009
+
+Filed09/18/09 Page16 of 17
+
+Respectfully submitted,
+CAMARA & SIBLEY LLP
+
+3
+4
+5
+6
+7
+
+By:
+
+/s/ K.A.D. Camara____________________________
+K.A.D. Camara
+
+Attorney for Defendant / Counterclaimant
+Psystar Corporation
+
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+PSYSTAR CORPORATION’S RESPONSE IN OPPOSITION TO APPLE INC.’S MOTION TO
+DISMISS OR ENJOIN PROSECUTION OF THE RECENTLY-FILED FLORIDA ACTION AND TO
+RE-OPEN DISCOVERY FOR LIMITED PURPOSES (CV 08-03251 WHA)
+
+16
+
+Case3:08-cv-03251-WHA Document141
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+
+Filed09/18/09 Page17 of 17
+
+CERTIFICATE OF SERVICE
+I, Michael Wilson, declare I am employed in the City of Houston and County of Harris, Texas
+in the office of Camara & Sibley. I am over the age of eighteen and not a party to this action. My
+business address is Camara & Sibley, 2339 University Boulevard, Houston, Texas 77005.
+I served the following document(s):
+PSYSTAR CORPORATION’S RESPONSE IN OPPOSITION TO APPLE INC.’S MOTION
+TO DISMISS OR ENJOIN PROSECUTION OF THE RECENTLY-FILED FLORIDA
+ACTION AND TO RE-OPEN DISCOVERY FOR LIMITED PURPOSES
+Case No. CV 08-03251 WHA
+on the interested parties in this action by placing a true and correct copy thereof, on the above date,
+enclosed in a sealed envelope, following the ordinary business practice of Camara & Sibley LLP. I
+sent the document(s) to the following:
+James G. Gilliland, Jr.
+TOWNSEND AND TOWNSEND AND CREW LLP
+Two Embarcadero Center, 8th Floor
+San Francisco, California 94111
+Telephone: (415) 576-0200
+Facsimile: (415) 576-0300
+
+email: jggilliland@townsend.com
+
+[By First Class Mail] I am readily familiar with my employer's practice for collecting
+and processing documents for mailing with the United States Postal Service. On the date listed herein,
+following ordinary business practice, I served the within document(s) at my place of business, by
+placing a true copy thereof, enclosed in a sealed envelope, with postage thereon fully prepaid, for
+collection and mailing with the United States Postal Service where it would be deposited with the
+United States Postal Service that same day in the ordinary course of business.
+[By Overnight Courier] I caused each envelope to be delivered by a commercial carrier
+service for overnight delivery to the offices of the addressee(s).
+[By Hand] I directed each envelope to the party(ies) so designated on the service list to
+be delivered by courier this date.
+[By Facsimile Transmission] I caused said document to be sent by facsimile
+transmission to the fax number indicated for the party(ies) listed above.
+[By Electronic Transmission] I caused said document to be sent by electronic
+transmission to the e-mail address indicated for the party(ies) listed above via the court's ECF
+notification system.
+I declare under penalty of perjury under the laws of the United States of America that the
+foregoing is true and correct, and that this declaration was executed on September 18, 2009 at
+Houston, Texas.
+/s/ Michael Wilson
+Michael Wilson
+
+27
+28
+
+PSYSTAR CORPORATION’S RESPONSE IN OPPOSITION TO APPLE INC.’S MOTION TO
+DISMISS OR ENJOIN PROSECUTION OF THE RECENTLY-FILED FLORIDA ACTION AND TO
+RE-OPEN DISCOVERY FOR LIMITED PURPOSES (CV 08-03251 WHA)
+
+17
+
+

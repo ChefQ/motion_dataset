@@ -1,0 +1,1531 @@
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 1 of 37
+
+UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF OKLAHOMA
+UNITED FOOD AND COMMERCIAL
+WORKERS UNION, et al., Individually
+and On Behalf of All Others Similarly
+Situated,
+Plaintiffs,
+vs.
+CHESAPEAKE ENERGY
+CORPORATION, et al.,
+Defendants.
+
+480420_1
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+No. 5:09-cv-01114-D
+CLASS ACTION
+PLAINTIFF’S OPPOSITION TO THE
+MOTION TO DISMISS FILED BY
+CHESAPEAKE ENERGY AND THE
+INDIVIDUAL DEFENDANTS
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 2 of 37
+
+TABLE OF CONTENTS
+Page
+I.
+
+Introduction and Summary of Argument
+
+1
+
+II.
+
+Argument
+
+4
+
+A.
+
+Legal Standard on a Motion to Dismiss
+
+4
+
+B.
+
+The Complaint States a Claim for Violations of §11 of the Securities
+Act
+
+5
+
+1.
+
+Legal Standard to Plead a §11 Claim
+
+5
+
+2.
+
+Requirements Under Item 303 of Regulation S-K
+
+6
+
+3.
+
+Defendants Failed to Disclose Material Facts Concerning
+McClendon’s Financial Condition
+
+9
+
+a.
+
+McClendon’s Massive Holdings Called for Diligence
+
+9
+
+b.
+
+McClendon’s Lack of Liquidity Was a Material Fact
+
+12
+
+4.
+
+Defendants Failed to Adequately Disclose the Extent of
+Chesapeake’s Knockout Hedges
+a.
+
+b.
+c.
+5.
+
+b.
+C.
+
+Defendants Did Not Disclose Current and Available
+Material Information Regarding Chesapeake’s
+Knockout Hedges
+
+13
+
+Adequate Disclosures of the Knockout Hedges Did
+Not Require Speculation
+
+14
+
+The Increased Volume and Value of Chesapeake’s
+Knockout Hedges Was Material
+
+16
+
+Defendants Failed to Disclose Chesapeake’s Material
+Exposure to Lehman Brothers
+a.
+
+13
+
+16
+
+Lehman’s Financial Condition Required Disclosure
+that Lehman Was a Counterparty
+
+16
+
+Chesapeake’s Exposure to Lehman Was Material
+
+18
+
+Defendants’ Arguments Concerning Loss Causation Should Not Be
+Considered, but if They Are, They Should Be Rejected
+-i-
+
+20
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 3 of 37
+
+Page
+
+D.
+III.
+
+1.
+
+Plaintiff Is Not Required to Plead or Prove Loss Causation
+
+20
+
+2.
+
+Defendants Do Not (And Cannot) Conclusively Demonstrate
+Lack of Loss Causation
+
+22
+
+Defendants Were “Sellers” Under §12(a)(2)
+
+Conclusion
+
+24
+25
+
+- ii -
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 4 of 37
+
+TABLE OF AUTHORITIES
+Page
+CASES
+Ackerman v. Oryx Commc’ns, Inc.,
+810 F.2d 336 (2d Cir. 1987) ................................................................................... 22
+Ashcroft v. Iqbal,
+_ U.S. _, 129 S. Ct. 1937 (2009) .............................................................................. 5
+Basic Inc. v. Levinson,
+485 U.S. 224 (1988) ............................................................................................... 19
+Bastian v. Petren Res. Corp.,
+892 F.2d 680 (7th Cir. 1990) ............................................................................ 22, 23
+Beam ex rel. Martha Stewart Living Omnimedia, Inc. v. Stewart,
+833 A.2d 961 (Del. Ch. 2003) ................................................................................ 10
+Bell Atl. Corp. v. Twombly,
+550 U.S. 544 (2007) ................................................................................................. 4
+Belodoff v. Netlist, Inc.,
+No. SACV 07-00677 DOC (MLGx), 2009 WL 2777320
+(C.D. Cal. Sept. 1, 2009) .................................................................................... 4, 21
+Capri v. Murphy,
+856 F.2d 473 (2d Cir. 1988) ................................................................................... 24
+City of Phila. v. Fleming Cos.,
+264 F.3d 1245 (10th Cir. 2001) .............................................................................. 19
+Consol. Gold Fields, PLC v. Anglo Am. Corp.,
+713 F. Supp. 1457 (S.D.N.Y. 1989) ....................................................................... 11
+Davidco Investors, LLC v. Anchor Glass Container Corp.,
+No. 8:04CV2561T-24EAJ, 2006 WL 547989
+(M.D. Fla. Mar. 6, 2006) ........................................................................................ 21
+Dura Pharms., Inc. v. Broudo,
+544 U.S. 336 (2005) ............................................................................................... 21
+ECA & Local 134 IBEW Joint Pension Trust of Chi. v. JP Morgan Chase Co.,
+553 F.3d 187 (2d Cir. 2009) ............................................................................. 18, 19
+- iii -
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 5 of 37
+
+Page
+Freeland v. Iridium World Commcn’s, Ltd.,
+233 F.R.D. 40 (D.D.C. 2006) ........................................................................... 21, 22
+Ganino v. Citizens Utils. Co.,
+228 F.3d 154 (2d Cir. 2000) ................................................................................... 19
+Glassman v. Computervision Corp.,
+90 F.3d 617 (1st Cir. 1996) .................................................................................... 19
+Herman & MacLean v. Huddleston,
+459 U.S. 375 (1983) ............................................................................................. 5, 6
+In re Am. Bank Note Holographics Sec. Litig.,
+93 F. Supp. 2d 424 (S.D.N.Y. 2000) ................................................................ 24, 25
+In re Britannia Bulk Holdings Inc. Sec. Litig.,
+No. 08 Civ. 9554 (DLC), 2009 WL 3353045
+(S.D.N.Y. Oct. 19, 2009)........................................................................................ 23
+In re Charles Schwab Corp. Sec. Litig.,
+257 F.R.D. 534 (N.D. Cal. 2009) ........................................................................... 23
+In re Cybershop.com Sec. Litig.,
+189 F. Supp. 2d 214 (D.N.J. 2002)......................................................................... 24
+In re Dell Inc., Sec. Litig.,
+591 F. Supp. 2d 877 (W.D. Tex. 2008) .................................................................. 23
+In re Donald J. Trump Casino Sec. Litig.,
+793 F. Supp. 543 (D.N.J. 1992).............................................................................. 10
+In re Flag Telecom Holdings, Ltd. Sec. Litig.,
+352 F. Supp. 2d 429 (S.D.N.Y. 2005) .................................................................... 25
+In re Global Crossing, Ltd. Sec. Litig.,
+471 F. Supp. 2d 338 (S.D.N.Y. 2006) .................................................................... 21
+In re Home Health Corp. of Am. Inc.,
+No. CIV. A. 98-834, 1999 WL 79057
+(E.D. Pa. Jan. 29, 1999).......................................................................................... 19
+In re Indep. Energy Holdings PLC Sec. Litig.,
+154 F. Supp. 2d 741 (S.D.N.Y. 2001) .................................................................... 25
+- iv -
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 6 of 37
+
+Page
+In re Initial Pub. Offering Sec. Litig.
+241 F. Supp. 2d 281 (S.D.N.Y. 2003) ...................................................................... 6
+In re Initial Pub. Offering Sec. Litig.,
+358 F. Supp. 2d 189 (S.D.N.Y. 2004) ...................................................................... 7
+In re Kidder Peabody Sec. Litig.,
+10 F. Supp. 2d 398 (S.D.N.Y. 1998) ...................................................................... 19
+In re Merrill Lynch & Co. Research Reports Sec. Litig.,
+272 F. Supp. 2d 243 (S.D.N.Y. 2003) .............................................................. 17, 23
+In re Proxima Corp. Sec. Litig.,
+No. 93-1139-IEG (LSP), 1994 U.S. Dist. LEXIS 21443
+(S.D. Cal. May 4, 1994) ......................................................................................... 25
+In re VeriSign, Inc., Derivative Litig.,
+531 F. Supp. 2d 1173 (N.D. Cal. 2007).................................................................. 24
+In re Wash. Mut.,
+259 F.R.D. 490 (W.D. Wash. 2009)....................................................................... 22
+In re Williams Sec. Litig.,
+339 F. Supp. 2d 1242 (N.D. Okla. 2003) ............................................................... 11
+In re WorldCom, Inc. Sec. Litig.,
+294 F. Supp. 2d 392 (S.D.N.Y. 2003) .................................................................... 22
+In re WRT Energy Sec. Litig.,
+No. 96 Civ. 3610 (JFK), 2005 U.S. Dist. LEXIS 31280
+(S.D.N.Y. Dec. 1, 2005) ......................................................................................... 21
+Isquith ex rel. Isquith v. Middle S. Utils.,
+847 F.2d 186 (5th Cir. 1988) .................................................................................... 6
+J&R Mktg. v. GMC,
+549 F.3d 384 (6th Cir. 2008) .................................................................................... 7
+Landmen Partners Inc. v. Blackstone Group, L.P.,
+No. 08-CV-3601 (HB), 2009 WL 3029002
+(S.D.N.Y. Sept. 22, 2009) ................................................................................ 11, 19
+
+-v-
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 7 of 37
+
+Page
+Lentell v. Merrill Lynch & Co.,
+396 F.3d 161 (2d Cir. 2005) ............................................................................. 21, 23
+Masters v. GlaxoSmithKline,
+271 F. App’x 46 (2d Cir. 2008).............................................................................. 24
+Olkey v. Hyperion 1999 Term Trust,
+98 F.3d 2 (2d Cir. 1996) ......................................................................................... 14
+Parnes v. Gateway 2000,
+122 F.3d 539 (8th Cir. 1997) .................................................................................. 19
+Pinter v. Dahl,
+486 U.S. 622 (1988) ............................................................................................... 24
+Robbins v. Okla. ex rel. Dep’t of Human Servs.,
+519 F.3d 1242 (10th Cir. 2008) ................................................................................ 4
+Rubin v. MF Global, Ltd.,
+634 F. Supp. 2d 459 (S.D.N.Y. 2009) ...................................................................... 4
+Scheuer v. Rhodes,
+416 U.S. 232 (1974) ................................................................................................. 4
+Schwartz v. Celestial Seasonings,
+124 F.3d 1246 (10th Cir. 1997) ................................................................................ 5
+Shaw v. Digital Equip. Corp.,
+82 F.3d 1194 (1st Cir. 1996) ................................................................................ 6, 8
+Steckman v. Hart Brewing,
+143 F.3d 1293 (9th Cir. 1998) ........................................................................ 6, 8, 19
+Weiss v. Amkor Tech, Inc.,
+527 F. Supp. 2d 938 (D. Ariz. 2007) ...................................................................... 13
+Yuan v. Bayard Drilling Techs., Inc.,
+96 F. Supp. 2d 1259 (W.D. Okla. 1999) .................................................................. 6
+
+- vi -
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 8 of 37
+
+Page
+STATUTES, RULES AND REGULATIONS
+15 U.S.C.
+§77k(a)...................................................................................................................... 5
+§78j(b) ........................................................................................................ 13, 21, 22
+17 C.F.R.
+§229.303(a)............................................................................................................... 8
+§229.303(a)(3)(ii) ..................................................................................................... 7
+§240.10b-5.............................................................................................................. 21
+Federal Rules of Civil Procedure
+Rule 8(a) ................................................................................................................... 6
+Rule 12(b)(6) ............................................................................................................ 4
+Rule 15(a) ............................................................................................................... 25
+SECONDARY AUTHORITIES
+Commission Statement About Management’s Discussion and Analysis of
+Financial Condition and Results of Operations (Jan. 25, 2002)
+67 Fed. Reg. 3746-02, 3747 ..................................................................................... 8
+Disclosure in Management’s Discussions and Analysis About Off-Balance
+Sheet Arrangements and Aggregate Contractual Obligations
+(Jan. 28, 2003) SEC Release No. 67, 2003 .............................................................. 8
+Management’s Discussion and Analysis of Financial Condition and Results of
+Operations; Certain Investment Company Disclosures (May 18, 1989)
+SEC Release No. 6835 ......................................................................................... 7, 8
+
+- vii -
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 9 of 37
+
+Plaintiff hereby respectfully submits its Opposition to the Motion to Dismiss
+(“Motion”) the Amended Complaint (the “Complaint”) filed by Defendant Chesapeake
+Energy and the Individual Defendants (collectively, “defendants”).
+I.
+
+Introduction and Summary of Argument
+This is a federal securities class action on behalf of purchasers of the common stock
+
+of Chesapeake Energy (“Chesapeake” or the “Company”) in the Company’s July 2008
+secondary public stock offering (the “Offering”).
+
+The Complaint alleges that the
+
+Registration Statement omits material facts and facts necessary to make the statements made
+therein not misleading, in violation of the Securities Act of 1933 (the “Securities Act”).
+Defendants assert this case is a “clumsy attempt to exploit the catastrophic economic
+and financial crisis of 2008 with the 20/20 vision of hindsight.” Defs’ Mem. at 2.
+Notwithstanding this bombastic statement, defendants knew there was a financial crisis
+occurring when they made the Offering. To avoid this obvious truth, defendants’ Motion is
+composed of generalized and misguided assertions that the Complaint fails to allege facts
+supporting a plausible claim. Furthermore, the Complaint makes significant allegations
+defendants concededly ignore.
+In a three-day period, Chesapeake’s stock price plummeted from over $26 to
+approximately $16 per share as a result of CEO and co-founder McClendon pouring his
+stock into the market due to margin calls. See infra §II.B.3. Defendants admit they knew
+McClendon held 29 million shares of Chesapeake stock in margin accounts and that
+McClendon’s ability to satisfy margin calls was omitted from the Registration Statement.
+According to defendants, however, they were not required to investigate beyond widely
+-1480420_1
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 10 of 37
+
+known public information. They were. McClendon’s inability to satisfy margin calls
+(especially in a recently volatile natural gas market) was material. Defendants’ suggestion it
+was not is belied by the fact that Chesapeake’s stock price plummeted when this risk
+materialized and that Chesapeake itself attempted to stem the rapid decline of its stock price
+by issuing a press release concerning McClendon’s margin calls.
+Defendants also contend full disclosure was made regarding Chesapeake’s contracts
+featuring knockout hedges, but rely on data that was three months old and obsolete by the
+time of the Offering. By the end of June 2008 (just before the Offering), the volume and fair
+value of Chesapeake’s knockout hedges had dramatically changed. Defendants were aware
+of these changes yet failed to provide updated information in the Registration Statement. See
+infra §II.B.4.a. The volume and fair market value of Chesapeake’s hedges is a material fact,
+as evidenced by (among other things) the Company’s prior disclosures of the information.
+Defendants ignore the recent significant changes in the volume and fair value of the hedges
+at the time of the Offering and assert they “could not have anticipated” the decline of natural
+gas prices. Defs’ Mem. at 15. But the natural gas prices triggering these knockout hedges
+were in the same range as prices only months prior. See infra §II.B.4.b.
+Defendants further dispute that they were under a duty to disclose that Lehman
+Brothers (“Lehman”) was a counterparty to a number of Chesapeake’s hedging contracts
+notwithstanding the financial institution was on the verge of bankruptcy at the time of the
+Offering. See infra §II.B.5. Defendants acknowledge that Lehman’s demise was public
+information, but fail to account for the fact that they failed to disclose Chesapeake’s
+significant ties to Lehman, leaving investors without the opportunity to adequately consider
+-2480420_1
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 11 of 37
+
+the facts surrounding their investment in Chesapeake. See infra §II.B.5.a.
+Defendants also present this Court with factual arguments concerning materiality and
+loss causation, both of which are inappropriate for resolution on a motion to dismiss. See
+infra §II.B.3.b; II.B.4.c; II.B.5.b; II.C. Despite these efforts, defendants cannot escape the
+significant decline suffered by Chesapeake’s stock price and the subsequent flat line that
+continued thereafter. See infra §II.C.2. This decline was specific to Chesapeake and the
+direct result of the risks defendants failed to disclose in the Offering. See infra §II.C.2.
+
+Indeed, competitors of Chesapeake who did not suffer from the Company’s undisclosed
+problems fared much better than Chesapeake after the Offering.
+Defendants further seek to avoid liability by ignoring the Complaint’s allegations that
+they solicited in the Offering, and thus, are “sellers” for purposes of §12(a)(2). See infra
+§II.D. Finally, throughout their Motion, defendants rely on factual contentions, inapplicable
+-3480420_1
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 12 of 37
+
+case law, and internally inconsistent assertions. Not only is this reliance inappropriate, but it
+fails to support defendants’ arguments. Accordingly, for all the reasons stated herein
+defendants’ Motion fails as well.
+II.
+
+Argument
+A.
+
+Legal Standard on a Motion to Dismiss
+
+In reviewing a motion to dismiss, the court must presume that the allegations of the
+amended complaint are true, read the amended complaint as a whole, and give plaintiff the
+benefit of every favorable inference that can be drawn from its allegations. Scheuer v.
+Rhodes, 416 U.S. 232, 236 (1974). Furthermore, a complaint “attacked by a Rule 12(b)(6)
+motion to dismiss does not need detailed factual allegations,” but rather must simply provide
+the grounds of entitlement to relief and raise a right to relief above the speculative level. Bell
+Atl. Corp. v. Twombly, 550 U.S. 544, 555 (2007). Interpreting Twombly, the Tenth Circuit
+has held that “[t]he allegations must be enough that, if assumed to be true, the plaintiff
+plausibly . . . has a claim for relief.” Robbins v. Okla. ex rel. Dep’t of Human Servs., 519
+F.3d 1242, 1247 (10th Cir. 2008).
+Defendants attempt to write off the entire Complaint as “retrospective pleading” in
+order to avoid liability for their negligent failure to investigate and disclose material facts
+available at the time of the Offering.1 Defs’ Mem. at 9-11. As is discussed in detail below,
+
+1
+
+Defendants cite Rubin v. MF Global, Ltd., 634 F. Supp. 2d 459 (S.D.N.Y. 2009), and
+Belodoff v. Netlist, Inc., No. SACV 07-00677 DOC (MLGx), 2009 WL 2777320 (C.D. Cal.
+Sept. 1, 2009), but these cases are inapplicable. In Rubin, there were no allegations that the
+defendants could have been aware of the undisclosed risks through a diligent investigation.
+634 F. Supp. 2d at 473-74. In Belodoff, the court found that the alleged omission was in fact
+-4480420_1
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 13 of 37
+
+each of defendants’ omissions were significant at the time of the Offering and required
+investigation and disclosure. These allegations provide “factual content that allows the court
+to draw the reasonable inference that the defendant[s] [are] liable for the misconduct
+alleged.” Ashcroft v. Iqbal, _ U.S. _, 129 S. Ct. 1937, 1949 (2009).
+B.
+
+The Complaint States a Claim for Violations of §11 of the
+Securities Act
+1.
+
+Legal Standard to Plead a §11 Claim
+
+The issuer of a security, as well as any person who signed the registration statement
+and/or served as a director of the issuer, is subject to liability under §11 if the registration
+statement as of its effective date omitted to state a required material fact or a material fact
+necessary to make the statements therein not misleading. 15 U.S.C. §77k(a); Schwartz v.
+Celestial Seasonings, 124 F.3d 1246, 1251 (10th Cir. 1997).
+Defendants’ attempt to elevate the standard for pleading a §11 claim is indicative of
+the high standard of liability required of defendants here. Under §11, “a plaintiff who
+‘purchased a security issued pursuant to a registration statement . . . need only show a
+material misstatement or omission to establish [a] prima facie case.’” Schwartz, 124 F.3d at
+1251 (quoting Herman & MacLean v. Huddleston, 459 U.S. 375, 382 (1983)).2 Section 11
+“was designed to assure compliance with the disclosure provisions” of the Securities Act by
+“imposing a stringent standard of liability on the parties who play a direct role in a registered
+
+disclosed. 2009 WL 2777320, at *9. Here, plaintiff has properly alleged that defendants
+failed to disclose material risks that they were either aware of or could have discovered
+through investigation at the time of the Offering.
+2
+
+Here, as elsewhere, unless noted otherwise, citations are omitted and emphasis added.
+-5-
+
+480420_1
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 14 of 37
+
+offering.” Huddleston, 459 U.S. at 381-82 (footnote omitted). The intention is “that issuers,
+under pain of civil liability, [will] not cut corners in preparing registration statements and
+that they disclose all material information required by the applicable statutes and
+regulations.” Shaw v. Digital Equip. Corp., 82 F.3d 1194, 1204 (1st Cir. 1996) (citing
+Huddleston, 459 U.S. at 381-82). Because “‘the principal goal of the Securities Act is
+disclosure, close questions will generally be resolved in favor of inclusion of information.’”
+Isquith ex rel. Isquith v. Middle S. Utils., 847 F.2d 186, 201-02 (5th Cir. 1988).
+Furthermore, a §11 claim is subject only to the notice pleading standards of Rule 8(a),
+and a short and plain statement of the claim will suffice. See Yuan v. Bayard Drilling Techs.,
+Inc., 96 F. Supp. 2d 1259, 1266-66 (W.D. Okla. 1999); In re Initial Pub. Offering Sec. Litig.
+(“IPO”), 241 F. Supp. 2d 281, 342 (S.D.N.Y. 2003) (noting that a simply pled §11 claim will
+satisfy Rule 8(a), “just as the half-page model complaints in the Appendix to the Federal
+Rules of Civil Procedure satisfy the pleading requirements of the Federal Rules”).
+2.
+
+Requirements Under Item 303 of Regulation S-K
+
+Chesapeake filed a Form S-3 registration statement in connection with the Offering,
+which is a streamlined registration statement that only “certain well-capitalized and widely
+followed issuers” may use. See Shaw, 82 F.3d at 1205. Although Form S-3 permits an
+issuer to incorporate by reference prior periodic filings (such as Forms 10-K and 10-Q), it
+also requires an issuer to disclose “‘any and all material changes . . . which have not been
+described in a report’” included in a prior filing. Id. Failure to comply with Item 303 creates
+liability under §11. See Steckman v. Hart Brewing, 143 F.3d 1293, 1296 (9th Cir. 1998)
+(holding that §11 imposes liability if a registrant “‘omits to state a material fact required to
+-6480420_1
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 15 of 37
+
+be stated’” in the registration statement and that “any omission of facts ‘required to be
+stated’” under Item 303 will produce liability); J&R Mktg. v. GMC, 549 F.3d 384, 390-91
+(6th Cir. 2008) (finding that Item 303 provides a duty to disclose under §11); In re Initial
+Pub. Offering Sec. Litig., 358 F. Supp. 2d 189, 211 (S.D.N.Y. 2004) (“An omission of fact
+‘required to be stated’ under Item 303 will generally produce liability under section 11.”).
+Defendants failed to follow this requirement as they did not disclose current facts that were
+available to them at the time of the Offering.
+Item 303 requires an issuer to “[d]escribe any known trends or uncertainties that have
+had or that the registrant reasonably expects will have a material favorable or unfavorable
+impact on net sales or revenues or income from continuing operations.” 17 C.F.R.
+§229.303(a)(3)(ii). In 1989, the SEC issued an interpretive release on Item 303 and the
+disclosure required under the regulation. See Management’s Discussion and Analysis of
+Financial Condition and Results of Operations; Certain Investment Company Disclosures,
+SEC Release No. 6835, 1989 WL 1092885, at *1 (May 18, 1989) (hereinafter referred to as
+“1989 Interpretive Release”). In the 1989 Interpretive Release, the SEC stated that:
+Required disclosure is based on currently known trends, events and
+uncertainties that are reasonably expected to have material effects, such as:
+A reduction in the registrant’s product prices; erosion in the registrant’s
+market share; changes in insurance coverage; or the likely non-renewal of a
+material contract.
+*
+
+*
+
+*
+
+A disclosure duty exists where a trend, demand, commitment, event or
+uncertainty is both presently known to management and reasonably likely to
+have material effects on the registrant’s financial condition or results of
+operation.
+Id. at *4 (emphasis in original). Defendants repeatedly argue that they could not anticipate
+-7480420_1
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 16 of 37
+
+the undisclosed risks that materialized and caused Chesapeake’s stock price to crater and flat
+line.
+
+This argument must fail, however, due to the fact that the undisclosed risks
+
+materialized only a few months after the Offering. The disclosures required by Item 303 are
+intended to provide investors with the information necessary to make informed investment
+decisions. See, e.g., id. at *17 (noting that “[t]he MD&A requirements are intentionally
+flexible and general”).3 Indeed,
+[t]he primary purpose of the “material changes” disclosure requirement of
+Item 11(a) . . . is to ensure that the prospectus provides investors with an
+update of the information required to be disclosed in the incorporated
+Exchange Act filings, including the information provided in those filings
+concerning “known trends and uncertainties” with respect to “net sales or
+revenues or income from continuing operations.”
+See Shaw, 82 F.3d at 1205 (citing Item 303(a)(3)(ii)) (emphasis in original); see also
+Steckman, 143 F. 3d at 1296.
+
+3
+
+See also 17 C.F.R. §229.303(a) (requiring disclosure of “such other information” as
+necessary to provide an understanding of corporate conditions); Disclosure in Management’s
+Discussions and Analysis About Off-Balance Sheet Arrangements and Aggregate
+Contractual Obligations, SEC Release No. 67, 2003 WL 175446, at *2 (Jan. 28, 2003)
+(providing that “[t]he disclosure in MD&A is of paramount importance in . . . providing
+investors with the disclosure necessary to evaluate a company and to make informed
+investment decisions”); Commission Statement About Management’s Discussion and
+Analysis of Financial Condition and Results of Operations, 67 Fed. Reg. 3746-02, 3747
+(Jan. 25, 2002) (observing that Item 303 “identifies a basic and overriding requirement of
+MD&A” in requiring the disclosure of “‘such other information,’” while noting the
+importance of providing investors with “an accurate understanding” of a company).
+-8-
+
+480420_1
+
+Case 5:09-cv-01114-D
+
+3.
+
+Document 58
+
+Filed 02/04/2010
+
+Page 17 of 37
+
+Defendants Failed to Disclose Material Facts Concerning
+McClendon’s Financial Condition
+a.
+
+McClendon’s Massive Holdings Called for
+Diligence
+
+Throughout their Motion, defendants assert they could not possibly have disclosed
+material facts concerning CEO and co-founder McClendon’s financial condition,
+notwithstanding his massive holdings in the Company. See Defs’ Mem. at 11 (“nothing
+more of substance that could have been disclosed”) (emphasis in original); id. at 12
+(“impossible to predict . . . whether Mr. McClendon would be able to generate sufficient
+cash”). According to defendants, his financial condition was “unanticipated” (id. at 3),
+“unforeseeable” (id. at 4), and it would have been “impossible to craft disclosures” of his
+financial condition because it would have required “clairvoyance.” Id. at 5. Nonsense. It
+would have taken minutes for defendants to conduct diligence beyond public facts in order to
+disclose McClendon’s liquidity or other factors relevant to his ability to meet margin calls.
+Indeed, defendants suggest they weren’t required to do any such diligence whatsoever
+even though McClendon, the Company’s CEO and largest individual shareholder, admittedly
+had huge holdings in Chesapeake (29 million shares) and was significantly increasing those
+holdings. See Defs’ Mem. at 12 (“$57 million worth of additional shares”). What
+defendants say is the margined holdings of McClendon’s they disclosed from public data (id.
+at 11 (citing RJN Ex. F. at 29)) and McClendon’s increased purchases made it “clear”
+McClendon in fact had adequate “financial resources.” Id. at 12. In other words, it is
+defendants’ position they were free to give the impression McClendon was able to satisfy
+significant margin calls when in fact he was not. This clearly is not the law.
+-9480420_1
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 18 of 37
+
+McClendon’s massive holdings called for diligence to which investors were entitled
+and his purchase of additional $57 million worth of shares in the Offering only made his
+financial condition more deserving of investigation and disclosure. Instead, defendants did
+not lift a finger and thereby ignored that McClendon did not have liquidity to meet margin
+calls.
+Chesapeake’s answer to this assertion: “No Duty.” Id. at 11. Defendants contend
+they were under “no obligation” to “investigate and disclose” any financial information
+regarding McClendon. Id. This is precisely the opposite of the obligations federal securities
+laws impose. Therefore, it is no wonder that defendants do not (they cannot) cite any
+authority to support their contention. Instead, at page 11 of their Motion, defendants cite
+Beam ex rel. Martha Stewart Living Omnimedia, Inc. v. Stewart, 833 A.2d 961, 971 (Del.
+Ch. 2003), a case arising out of Martha Stewart’s insider trading scandal, based on alleged
+failure to “monitor” under Delaware law. Beam had nothing to do with the federal securities
+laws, and contrary to what defendants suggest, plaintiff here does not allege breach of
+fiduciary duty for failure to “monitor.” See Defs’ Mem. at 11 (“no obligation to monitor”).
+And in In re Donald J. Trump Casino Sec. Litig., 793 F. Supp. 543, 564-65 (D.N.J. 1992),
+plaintiffs alleged failure to disclose Donald Trump’s financial condition when it did not
+matter, because Trump’s capital contribution obligation was $75 million. The prospectus
+disclosed he “could make good on this obligation,” and Trump “in fact did so.” Id. at 564.
+Trump in fact supports plaintiff’s allegation by demonstrating personal financial condition
+can be material and should be disclosed, for in Trump, Mr. Trump’s personal net worth was
+disclosed.
+- 10 480420_1
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 19 of 37
+
+Defendants go so far as to assert that even if they did investigate any disclosure
+regarding McClendon’s finances, the disclosure which they would control would “result in a
+‘flood of unnecessary detail.’” Defs’ Mem. at 12. Defendants are wrong. It is ridiculous to
+suggest that a simple disclosure of risk as would be required here would be misleading or
+confusing.4
+Defendants, who concede that “natural gas prices and Chesapeake’s stock price had
+moved in tandem,” (Defs’ Mem. at 2), also assert it was unreasonable to require them to
+“make predictions about future stock price declines and Mr. McClendon’s likely ability to
+satisfy margin calls.” Id. at 12 (“clairvoyant speculation”). But disclosing facts regarding
+McClendon’s then-existing financial condition, such as his liquidity, did not require specific
+predictions. Furthermore, it is outrageous for defendants to suggest they did not understand
+natural gas prices (after a significant volatile rise) might come down, and Chesapeake’s stock
+price would too. Indeed, at the time Chesapeake’s stock price caused margin calls on
+McClendon’s account, natural gas prices had declined to levels at which they were
+
+4
+
+Defendants’ reliance on In re Williams Sec. Litig., 339 F. Supp. 2d 1242, 1263 (N.D.
+Okla. 2003), Consol. Gold Fields, PLC v. Anglo Am. Corp., 713 F. Supp. 1457, 1470
+(S.D.N.Y. 1989), and Landmen Partners Inc. v. Blackstone Group, L.P., No. 08-CV-3601
+(HB), 2009 WL 3029002 (S.D.N.Y. Sept. 22, 2009), is misplaced. In Williams, the
+plaintiffs’ allegations were not speculative as they asserted how the omitted facts were
+material at the time of the offerings. 339 F. Supp. 2d at 1263-64. Plaintiff has done exactly
+that here. In Consol. Gold Fields, the court found each of the omitted facts were available to
+investors, even if not set forth in the exact fashion that plaintiffs desired. 713 F. Supp. at
+1471-74. Defendants here did not disclose any information regarding McClendon’s financial
+status. Finally, in Landmen Partners, the alleged omissions were not deemed speculative,
+but instead would have provided investors with an abundance of useless information. 2009
+WL 3029002, at *6. Information concerning McClendon’s financial inability to meet margin
+calls would not have proved useless to investors.
+- 11 -
+
+480420_1
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 20 of 37
+
+frequently trading only months before. See infra at 15. Defendants also decry that CEO
+McClendon purchased one million shares in the Offering, suggesting he was an innocent
+victim. With all respect, investors should not be held accountable for McClendon’s
+irresponsible decision to leverage his finances to the hilt without adequate liquidity, all to the
+effect of causing Chesapeake’s stock to implode when natural gas prices reached levels they
+were at only months before and McClendon could not meet margin calls.
+b.
+
+McClendon’s Lack of Liquidity Was a Material
+Fact
+
+As a last ditch effort, defendants argue that the omissions regarding McClendon’s
+financial condition were immaterial because there was no adverse reaction in response to a
+press release they made on October 10, 2008. Defs’ Mem. at 12-13. But, the risk associated
+with McClendon’s margined stock had already materialized over the three days prior to the
+October 10 Press Release. That risk – the seizure and sale of McClendon’s margined stock –
+caused Chesapeake’s stock to materially decline from $28.55 to $16.31 on extremely heavy
+trading volume. ¶¶36, 37.5 In fact, Chesapeake issued its press release to stem the decline in
+its stock price caused by McClendon’s margin calls. Ex. A to the Declaration of Francis A.
+DiGiacco in Support of Plaintiff’s Opposition to Defendants’ Motion to Dismiss (“DiGiacco
+Decl.”) (“confidence in Chesapeake remains undiminished”). That Chesapeake’s stock price
+briefly slightly increased (and thereafter went back down) after the press release on October
+10, 2008, does not negate the damage caused by McClendon’s margin sales or the continued
+
+5
+
+Unless noted otherwise, all “¶” references are to the Amended Complaint.
+- 12 -
+
+480420_1
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 21 of 37
+
+decline in the Company’s stock price thereafter.6 Furthermore, defendants do not (and
+cannot) impute general market buoyancy was a cause of the momentary increase in
+Chesapeake’s stock price, for Chesapeake’s market sector and the S&P 500 increased at the
+same time Chesapeake’s stock price momentarily increased.
+4.
+
+Defendants Failed to Adequately Disclose the Extent of
+Chesapeake’s Knockout Hedges
+a.
+
+Defendants Did Not Disclose Current and Available
+Material Information Regarding Chesapeake’s
+Knockout Hedges
+
+Calling it an “egregious oversight,” defendants mischaracterize the Complaint as
+alleging defendants did not disclose Chesapeake’s contracts containing knockout hedges.
+Defs’ Mem. at 13. This is not a matter of whether or not it was known that Chesapeake had
+knockout hedges. Defendants’ oversimplification of the allegations ignores the significance
+of current information then available to defendants concerning these knockout hedges.
+Defendants assert the May 2008 Form 10-Q “provides . . . some of the key disclosures.”
+Defs’ Mem. at 14. But the information provided in this document was only current as of
+March 31, 2008. Defs’ RJN Ex. K at 36. The Offering was July 9, 2008 – more than three
+months later – and by that time, the volume and fair value of Chesapeake’s knockout hedges
+6
+
+At page 13 of their Motion, defendants cite Weiss v. Amkor Tech, Inc., 527 F. Supp.
+2d 938 (D. Ariz. 2007) in purported support of their contention the press release was a
+“corrective disclosure.” First, this confuses securities fraud claims brought under §10(b)
+with plaintiff’s §11 claim, which does not require a showing of loss causation. See infra
+§II.C.1. Second, despite the short-lived increase after the October 10 Press Release (which
+was not a “corrective disclosure”), Chesapeake’s stock price never recovered from the hit it
+suffered. The stock remained within range of, and far below, the price after the sale of
+McClendon’s margined stock ($16.31), and never again traded anywhere near the price it
+was at prior to the sale ($28.55). See supra §II.B.3.b.
+- 13 480420_1
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 22 of 37
+
+had changed drastically.
+Defendants were required to update information previously disclosed through public
+filings, like the May 2008 Form 10-Q. Defendants did not. Evident in Chesapeake’s August
+2008 Form 10-Q, which reported information as of June 30, 2008 – a little over a week
+before the Offering – the volume of Chesapeake’s knockout swaps had increased by several
+thousand in every quarter from what was disclosed in the May 2008 Form 10-Q. DiGiacco
+Decl., Ex. B. Additionally, the fair value of these knockout swaps had dropped by as much
+as $200 million in many of the quarters reported. Id. The fact that this information was
+available to defendants as of June 30, 2008 (before the Offering) tends to demonstrate that
+defendants’ investigation was inadequate. This information was materially different than
+what had been previously reported and incorporated into the Registration Statement.
+Defendants do not dispute that they omitted this information, nor do they deny that they
+were required to investigate the knockout hedges.7
+b.
+
+Adequate Disclosures of the Knockout Hedges Did
+Not Require Speculation
+
+Defendants incorrectly contend that in order to properly disclose the impact of
+knockout hedges, they would have had to “speculate” about future natural gas prices. Defs’
+Mem. at 14-15. First, as previously discussed, defendants only had to disclose the increase
+in volume and decrease in fair value of the knockout hedges they were aware of as of the
+
+7
+
+Defendants cite to Olkey v. Hyperion 1999 Term Trust, 98 F.3d 2, 9 (2d Cir. 1996),
+which is inapplicable here. The actual disclosures in the Registration Statement do not
+contradict the allegations of the Complaint as they did not disclose the volume or fair value
+of Chesapeake’s knockout hedges at the time of the Offering.
+- 14 -
+
+480420_1
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 23 of 37
+
+time of the Offering. Yet, defendants failed to do so. Second, the drop in natural gas prices
+that impacted these knockout hedges was directly in line with what natural gas prices had
+been only six months prior to the Offering. As illustrated by the graph below, for months
+natural gas prices hovered around $9.00 per thousand cubic feet of natural gas equivalent
+(“mcfe”), even dropping as low as $8.73 per mcfe on January 23, 2008. At the beginning of
+October 2008, when a number of hedges were knocked out, the price of natural gas was just
+below $9.00 per mcfe. This is hardly the exceptional price defendants claim they could not
+have predicted, especially when natural gas was at a similar price only months before.
+Moreover, natural gas prices had been declining at the time of the offering, not “rising”
+(Defs’ Mem. at 14) as defendants suggest.
+
+- 15 480420_1
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 24 of 37
+
+It is incredible for defendants to suggest they were ignorant of natural gas prices.
+Chesapeake’s offering was on the heels of the largest 5-day drop in natural gas prices in over
+a year, from $12.88 to $12.17.
+c.
+
+The Increased Volume and Value of Chesapeake’s
+Knockout Hedges Was Material
+
+Defendants further contend that Chesapeake’s exposure to knockout hedges was
+immaterial. Defs’ Mem. at 15. This contention, however, is undercut by the fact that
+Chesapeake discloses information regarding these hedges in its SEC filings. Defendants
+deemed this information material for inclusion in its public filings, but now argue that it is
+immaterial for the Offering. Moreover, during the last half of 2008, when a number of
+Chesapeake’s hedges were knocked out (See Ex. L attached to Defs’ Mem), Chesapeake’s
+stock price declined severely and never recovered. Apparently, the market found it
+significant that Chesapeake’s hedges were being knocked out, exposing the Company to
+further risk of declining natural gas prices.
+5.
+
+Defendants Failed to Disclose Chesapeake’s Material
+Exposure to Lehman Brothers
+a.
+
+Lehman’s Financial Condition Required Disclosure
+that Lehman Was a Counterparty
+
+Defendants state “unique clairvoyance” was required to “have known Lehman would
+go bankrupt” only two months after the Offering. Lehman’s deteriorating condition required
+disclosure they were a counterparty. Defs’ Mem. at 16.
+If defendants were merely required to disclose Lehman’s status as a counterparty only
+after Lehman’s bankruptcy it would defeat the purpose of the Securities Act. As stated in the
+Complaint, at the beginning of 2008, fears began to surround Lehman when it reported a
+- 16 480420_1
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 25 of 37
+
+preliminary loss projection for the second quarter of 2008 and its stock plummeted 61%.
+¶40. Lehman then set a record net loss of $2.8 billion for the second quarter of 2008 as well
+as negative revenues of $668 million stemming from a $4.1 billion write-down of
+investments, many of which were tied to subprime mortgage-backed securities. ¶41.
+Defendants attempt to write these facts off as a “retrospective depiction” of Lehman’s
+fall, but by July 4, 2008, Lehman’s stock price was down 65.8% since the beginning of the
+year and growing concern surrounded Lehman’s ability to survive additional losses. ¶44.
+Amidst the news that financial institutions like Lehman would have to recover on their own,
+defendants were acutely aware of the significance Lehman’s demise would pose to
+Chesapeake. ¶¶46-48. Unfortunately for investors, this knowledge of Chesapeake’s
+relationship with Lehman was unique to defendants. Although defendants concede that the
+information regarding the end of Lehman was “prominently featured throughout the market,”
+their argument that this relieves them from liability is misguided.8 Defs’ Mem. at 16.
+Investors were never made aware of the fact that Lehman was a counterparty for many of
+Chesapeake’s hedging contracts because defendants failed to disclose it.
+Defendants rely on the general optimistic statements of Lehman’s CEO and a credit
+rating agency to argue that Lehman’s trend towards financial ruin was not cognizable. Defs’
+Mem. at 17. These arguments are inappropriate at this stage of the litigation as they are
+
+8
+
+Defendants inappropriately rely on In re Merrill Lynch & Co. Research Reports Sec.
+Litig., 272 F. Supp. 2d 243 (S.D.N.Y. 2003). In that case, the information that defendants
+failed to disclose was already public, thus relieving them of liability. Id. at 249-50. Here,
+the fact that Lehman was a counterparty to many of Chesapeake’s hedging contracts was not
+public information even though Lehman’s financial crisis was.
+- 17 -
+
+480420_1
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 26 of 37
+
+based on newspaper articles containing facts not discussed or relied upon in the Complaint.
+Moreover, these arguments are unpersuasive because (among other reasons) Chesapeake
+investors were not afforded the opportunity to weigh Lehman’s future.
+Defendants also contend Chesapeake’s selection of Lehman as lead underwriter (and
+“book-runner”) somehow dismisses their duty to disclose that Lehman was a counter party to
+many of Chesapeake’s hedging contracts. Defs’ Mem. at 17-18. First, as alleged in the
+Complaint, Chesapeake selected five joint book-running managers: Lehman, ABN AMRO,
+Banc of America Securities LLC, UBS Investment Bank, and Wells Fargo Securities. ¶¶1821.
+
+Second, Chesapeake’s selection of Lehman as an underwriter does not render
+
+inconsequential the negative information concerning Lehman’s financial performance just
+before the Offering.
+Defendants ask the Court to weigh facts in asserting at the time of the Offering it
+seemed Chesapeake would have benefited from the release of its hedging transactions with
+Lehman. Defs’ Mem. at 18. As defendants concede, the purpose of hedging contracts is to
+neutralize market risk, i.e., a drop in natural gas prices. Defs’ Mem. at 18 n.11. Only a few
+months after the Offering, that risk occurred as natural gas prices dropped to the same price
+they had been at less than a year before. See supra at 15. As Lehman defaulted on the
+hedging contracts due to bankruptcy, Chesapeake was exposed to greater risk. Due to
+defendants’ failure to disclose Chesapeake’s relationship with Lehman, investors were
+unable to consider and evaluate this risk at the time of the Offering.
+b.
+
+Chesapeake’s Exposure to Lehman Was Material
+
+Defendants claim that Lehman’s demise was “wholly unforeseeable,” and thus,
+- 18 480420_1
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 27 of 37
+
+immaterial. Defs’ Mem. at 18. Again defendants rely on legal principles only applicable in
+securities fraud cases in presenting their argument. Id. (citing City of Phila. v. Fleming Cos.,
+264 F.3d 1245, 1265 (10th Cir. 2001)). Aside from the black-letter law that materiality is a
+fact-specific inquiry, defendants fail to meet their exceptional burden at the pleading stage
+that the alleged omission was “‘“so obviously unimportant to a reasonable investor that
+reasonable minds could not differ on the question of [its] importance.”’” ECA & Local 134
+IBEW Joint Pension Trust of Chi. v. JP Morgan Chase Co., 553 F.3d 187, 197 (2d Cir. 2009)
+(citing Basic Inc. v. Levinson, 485 U.S. 224, 240 (1988), and Ganino v. Citizens Utils. Co.,
+228 F.3d 154, 162 (2d Cir. 2000)).
+Seeking to avoid this heavy burden, defendants urge this Court to adopt a bright-line
+rule for materiality. Defs’ Mem. at 19. Such a rule has been rejected by a number of other
+courts reasoning that the proper approach is to consider a plaintiff’s allegations in context
+along with qualitative factors.9 Ganino, 228 F.3d at 162 (citing Parnes v. Gateway 2000,
+122 F.3d 539 (8th Cir. 1997), and Glassman v. Computervision Corp., 90 F.3d 617 (1st Cir.
+1996)); see also In re Home Health Corp. of Am. Inc., No. CIV. A. 98-834, 1999 WL 79057,
+at *6-*7 (E.D. Pa. Jan. 29, 1999) (finding that qualitative factors rendered de minimus loss
+significant); In re Kidder Peabody Sec. Litig., 10 F. Supp. 2d 398, 410 (S.D.N.Y. 1998)
+
+9
+
+Even Landmen Partners, 2009 WL 3029002, at *5, which defendants cite (Defs’
+Mem. at 19), acknowledges the importance of considering the context of misstatements and
+omissions and engages in a review of qualitative factors before reaching its conclusion.
+Moreover, defendants misread Steckman, 143 F.3d 1293, that a 3% difference is immaterial
+as a matter of law. Defs’ Mem. at 19. The court in Steckman reasoned that a 3% difference
+in accounts receivable was insufficient to show that defendants were aware of a downward
+trend in sales – not materiality. 143 F.3d at 1298.
+- 19 480420_1
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 28 of 37
+
+(same).
+Moreover, a significant portion of Chesapeake’s liquidity is concentrated in derivative
+instruments like those to which Lehman was a counterparty. DiGiacco Decl., Ex. B at 12.
+Although these derivative instruments hedge Chesapeake’s exposure to natural gas and oil
+prices, they also increase Chesapeake’s exposure to credit risk from its counterparties. Id.
+This risk materialized when Lehman filed for bankruptcy. As indications of Lehman’s
+financial disaster surfaced in early 2008, the risk to Chesapeake was significant. Without the
+protection provided by its hedging agreement with Lehman, Chesapeake was increasingly
+vulnerable to changes in natural gas and oil prices. This increased risk to an obviously
+significant aspect of Chesapeake’s business was material and required disclosure.
+Defendants selectively compare the potential loss of $50 million on Chesapeake’s
+hedging contract with Lehman with Chesapeake’s revenues and assets. Defs’ Mem. at 19.
+However, the more appropriate comparison is to the total fair value of derivative
+instruments, like the contract with Lehman. Such a comparison shows that a loss of $50
+million represents almost 5% of the fair value of Chesapeake’s short-term derivative
+instruments and over 19% of the fair value of its long-term derivative instruments. This
+quantitative significance in addition to the qualitative significance of Chesapeake’s hedging
+agreements makes the information regarding Lehman material.
+C.
+
+Defendants’ Arguments Concerning Loss Causation Should Not
+Be Considered, but if They Are, They Should Be Rejected
+1.
+
+Plaintiff Is Not Required to Plead or Prove Loss
+Causation
+
+Defendants concede that “the statutes at issue here do not require plaintiffs to plead
+- 20 480420_1
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 29 of 37
+
+or prove loss causation.” Defs’ Mem. at 20. This concession should be the end of their
+argument. Nonetheless, defendants assert an absence of loss causation – an affirmative
+defense for which they carry the burden despite their claim that it “makes no difference in
+this case.”10 Id. at 20-24. This argument is inappropriate for resolution here.
+Defendants primarily rely on Dura Pharms., Inc. v. Broudo, 544 U.S. 336 (2005)
+(Defs’ Mem. at 19), but damages and loss are presumed under §§11 and 12, therefore Dura,
+is not instructive. See, e.g., Freeland v. Iridium World Commcn’s, Ltd., 233 F.R.D. 40, 4647 (D.D.C. 2006); In re WRT Energy Sec. Litig., No. 96 Civ. 3610 (JFK), 2005 U.S. Dist.
+LEXIS 31280, at *3-*4 (S.D.N.Y. Dec. 1, 2005). The court in WRT Energy explained:
+Dura is just not controlling here. The case arose under Rule 10b-5 and
+Section 10(b) of the Securities Exchange Act of 1934, under which the
+plaintiff has the burden of pleading loss causation. The issue was whether an
+allegation of an inflated purchase price on the date of purchase, in and of
+itself, was sufficient to meet that burden. Defendants cite no case extending
+Dura to cases brought under Section 11 of the 1933 Act, where the plaintiff
+need not plead loss causation as part of its prima facie claim.
+2005 U.S. Dist. LEXIS 31280, at *3-*4. An investor’s “failure to show loss causation is not
+fatal to §§11 and 12 claims because he does not bear the burden of proof on loss causation
+
+10
+
+Defendants cite a number of cases for the proposition that plaintiff’s claims should be
+dismissed for lack of loss causation. Defs’ Mem. at 20. However, a majority of the cases
+cited are inapplicable or hold in favor of the plaintiff. Lentell v. Merrill Lynch & Co., 396
+F.3d 161, 173 (2d Cir. 2005) (claims brought under §10(b), which require plaintiff to plead
+loss causation); Belodoff v. Netlist, Inc., No. SACV 07-00677 DOC (MLGx), 2009 WL
+1293690, at *12 (C.D. Cal. Apr. 17, 2009) (court does not reach issue of loss causation); In
+re Global Crossing, Ltd. Sec. Litig., 471 F. Supp. 2d 338, 347-48 (S.D.N.Y. 2006) (court
+finds no absence of loss causation); Davidco Investors, LLC v. Anchor Glass Container
+Corp., No. 8:04CV2561T-24EAJ, 2006 WL 547989, at *25 (M.D. Fla. Mar. 6, 2006)
+(plaintiffs could not establish loss causation because they sold shares prior to disclosure).
+- 21 480420_1
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 30 of 37
+
+vis-à-vis those claims.” Freeland, 233 F.R.D. at 47.
+2.
+
+Defendants Do Not (And Cannot) Conclusively
+Demonstrate Lack of Loss Causation
+
+Even if defendants’ position were proper at this time, their vague factual arguments
+are woefully insufficient to meet the heavy burden imposed by their premature affirmative
+defense. See Ackerman v. Oryx Commc’ns, Inc., 810 F.2d 336, 341 (2d Cir. 1987); see also
+In re WorldCom, Inc. Sec. Litig., 294 F. Supp. 2d 392, 408 (S.D.N.Y. 2003). For example,
+defendants make the assertion that the state of the financial markets and natural gas prices
+require this Court to find that “[n]one of the stock price decline . . . had anything to do with
+anything that was said or not said in the Registration Statement.” Defs’ Mem. at 21. This
+hyperbolic statement is patently false and illustrates defendants’ desire to use the current
+state of the economy as a cover for their potential §11 liability. It is well established the
+global recession began in 2007. And the effects of the credit crisis on financial markets had
+already began in early 2008, well before the Offering. And the Offering was on the heels of
+the largest 5-day decline in natural gas prices in at least the past year.
+Furthermore, plaintiff is not required to show that defendants’ conduct is the only
+cause of the stock decline in order to plead its claim. In re Wash. Mut., 259 F.R.D. 490, 508
+(W.D. Wash. 2009) (court held that although the housing market downturn may have
+affected stock prices, it did not foreclose the possibility that the alleged misconduct had an
+impact as well). Defendants mistakenly rely on Bastian v. Petren Res. Corp., 892 F.2d 680,
+685 (7th Cir. 1990), for the proposition that the occurrence of an “economic calamity” is an
+automatic free pass for violations of the securities laws. First, Bastian dealt exclusively with
+a §10(b) claim, which requires a plaintiff to plead loss causation. Id. at 682. Second, the
+- 22 480420_1
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 31 of 37
+
+court specifically discussed the possibility that defendants may be held liable for losses due
+to their own misconduct even in the midst of a down economy. Id. at 684. That is the case
+here.
+Defendants further claim that a lack of loss causation is illustrated by stock price
+movement before and after the October 10 Press Release. Defs’ Mem. at 22-24. But
+defendants ignore the fact materialization of the risk they failed to disclose had already
+caused Chesapeake’s stock price to drop before the press release. See supra §II.B.3.b; In re
+Charles Schwab Corp. Sec. Litig., 257 F.R.D. 534, 547 (N.D. Cal. 2009) (loss causation
+exists where concealed or omitted risk materializes and diminishes the market value of the
+security) (citing Lentell, 396 F.3d at 173, 177). The 70% decline in the Company’s stock
+price immediately before the press release was directly attributable to McClendon’s inability
+to meet margin calls – the risk that defendants failed to disclose.11 Furthermore, plaintiff
+clearly asserts that the omitted facts were revealed to the market throughout late 2008 and
+early 2009. ¶55. (Undisclosed risks were “laid out in a single press release” and were “fully
+
+11
+
+Defendants’ claim that price drops prior to disclosures may not be held against
+defendants does not apply here. Defs’ Mem at 22. Although “[i]t is generally the case that
+declines in the value of shares prior to the public disclosure of previously omitted
+information may not be charged to the defendant . . . this is not necessarily the case in
+situations, for example, where the negative undisclosed information leaks into the
+marketplace.” Levine, 508 F. Supp. 2d at 273-74. Here, not only did the undisclosed
+information leak into the market prior to disclosure, but the actual risk that defendants failed
+to disclose occurred. Defendants’ reliance on Merrill Lynch, 272 F. Supp. 2d at 254, In re
+Britannia Bulk Holdings Inc. Sec. Litig., No. 08 Civ. 9554 (DLC), 2009 WL 3353045, at *14
+(S.D.N.Y. Oct. 19, 2009), and In re Dell Inc., Sec. Litig., 591 F. Supp. 2d 877, 906 (W.D.
+Tex. 2008), is unpersuasive as these cases did not involve the occurrence of a negative event
+prior to the disclosure of that event.
+- 23 -
+
+480420_1
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 32 of 37
+
+digested” by the market in a single day.) The consequences of the risks defendants failed to
+disclose affected Chesapeake’s stock price for months. This is evident in the fact that the
+stock continued to trade at a depressed level, never recovering from its initial decline.12
+D.
+
+Defendants Were “Sellers” Under §12(a)(2)
+
+Defendants contend that plaintiff does not allege facts to support that Chesapeake and
+the individual defendants were “sellers” under §12(a)(2). Defs’ Mem. at 25. Defendants
+seem to ignore the allegations of their substantial participation in all stages of the Offering.
+Under §12(a)(2), the term seller is “not limited to those who pass title,” but also includes the
+person who successfully solicits the purchase motivated “at least in part by a desire to serve
+his own financial interests or those of the securities owners.” Pinter v. Dahl, 486 U.S. 622,
+643, 647 (1988); Capri v. Murphy, 856 F.2d 473, 478 (2d Cir. 1988). As such, “solicitation”
+for purposes of this section includes both in-person solicitation and substantial involvement
+in the offering process. Capri, 856 F.2d at 478; In re Am. Bank Note Holographics Sec.
+Litig., 93 F. Supp. 2d 424, 439 (S.D.N.Y. 2000).
+As detailed in the Complaint, defendants were involved in all stages of the Offering,
+including hiring the underwriters, planning the Offering, and attending multi-city road shows
+
+12
+
+Defendants cite without any discussion In re VeriSign, Inc., Derivative Litig., 531 F.
+Supp. 2d 1173, 1208 (N.D. Cal. 2007), Masters v. GlaxoSmithKline, 271 F. App’x 46, 51 (2d
+Cir. 2008), and In re Cybershop.com Sec. Litig., 189 F. Supp. 2d 214, 233 (D.N.J. 2002).
+These cases do not support defendants’ argument. Not one of the cases involves claims
+arising under §11. Further, in VeriSign, the plaintiff did not allege any disclosure of the
+concealed information (options backdating). 531 F. Supp. 2d at 1208. Similarly in Masters,
+the plaintiff failed to allege any disclosures resulting in stock price drops. 271 F. App’x at
+51.
+- 24 480420_1
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 33 of 37
+
+during which they would meet with potential investors and present highly favorable
+information about Chesapeake. ¶¶22, 23, 24. Moreover, each of the individual defendants
+signed the Registration Statement. ¶¶7-16. Defendants do not dispute any of these
+allegations (nor can they).
+Given the foregoing, it is plain that the Complaint sufficiently pleads defendants
+“solicited” the purchase of securities in the Offering. See, e.g., Am. Bank Note, 93 F. Supp.
+2d at 439; In re Flag Telecom Holdings, Ltd. Sec. Litig., 352 F. Supp. 2d 429, 454 (S.D.N.Y.
+2005); In re Proxima Corp. Sec. Litig., No. 93-1139-IEG (LSP), 1994 U.S. Dist. LEXIS
+21443, at *5 (S.D. Cal. May 4, 1994); In re Indep. Energy Holdings PLC Sec. Litig., 154 F.
+Supp. 2d 741, 761-62 (S.D.N.Y. 2001). Defendants are “sellers” under §12(a)(2).
+III.
+
+Conclusion
+For all the reasons stated herein, the Motion lacks merit and should be denied. In the
+
+event that the Court finds that any of the Counts of the Complaint fail to state a claim,
+plaintiff requests and should be granted leave to file an amended complaint pursuant to
+Federal Rule of Civil Procedure 15(a). As the Rule indicates, a “court should freely give
+leave [to amend] when justice so requires.” Fed. R. Civ. P. 15(a).
+DATED: February 4, 2010
+
+Respectfully submitted,
+COUGHLIN STOIA GELLER
+RUDMAN & ROBBINS LLP
+JAMES I. JACONETTE
+FRANCIS A. DiGIACCO
+s/ JAMES I. JACONETTE
+JAMES I. JACONETTE
+
+- 25 480420_1
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 34 of 37
+
+655 West Broadway, Suite 1900
+San Diego, CA 92101
+Telephone: 619/231-1058
+619/231-7423 (fax)
+COUGHLIN STOIA GELLER
+RUDMAN & ROBBINS LLP
+SAMUEL H. RUDMAN
+DAVID A. ROSENFELD
+58 South Service Road, Suite 200
+Melville, NY 11747
+Telephone: 631/367-7100
+631/367-1173 (fax)
+COUGHLIN STOIA GELLER
+RUDMAN & ROBBINS LLP
+RANDI D. BANDMAN
+52 Duane Street, 7th Floor
+New York, NY 10007
+Telephone: 212/693-1058
+212/693-7423 (fax)
+LYTLE, SOULÉ & CURLEE, P.C.
+MICHAEL C. FELTY
+MICHAEL A. BETTS
+119 North Robinson, Suite 1200
+Oklahoma City, OK 73102
+Telephone: 405/235-7471
+405/232-3852 (fax)
+Lead Counsel for Plaintiffs
+SCHWARZWALD McNAIR & FUSCO LLP
+EBEN O. McNAIR IV
+616 Penton Media Building
+1300 East Ninth Street
+Cleveland, OH 44114-1503
+Telephone: 216/566-1600
+216/566-1814 (fax)
+Additional Counsel for Plaintiff
+
+- 26 480420_1
+
+Case 5:09-cv-01114-D
+
+Document 58
+
+Filed 02/04/2010
+
+Page 35 of 37
+
+CERTIFICATE OF SERVICE
+I hereby certify that on February 4, 2010, I electronically filed the foregoing with the
+Clerk of the Court using the CM/ECF system which will send notification of such filing to
+the e-mail addresses denoted on the attached Electronic Mail Notice List, and I hereby certify
+that I have mailed the foregoing document or paper via the United States Postal Service to
+the non-CM/ECF participants indicated on the attached Manual Notice List.
+I certify under penalty of perjury under the laws of the United States of America that
+the foregoing is true and correct. Executed on February 4, 2010.
+s/ JAMES I. JACONETTE
+JAMES I. JACONETTE
+COUGHLIN STOIA GELLER
+RUDMAN & ROBBINS LLP
+655 West Broadway, Suite 1900
+San Diego, CA 92101-3301
+Telephone: 619/231-1058
+619/231-7423 (fax)
+E-mail:
+jamesj@csgrr.com
+
+480420_1
+
+CM/ECF LIVE - U.S. District Court:okwd
+Case 5:09-cv-01114-D Document 58
+
+Filed 02/04/2010
+
+Page 1 of 2
+Page 36 of 37
+
+Mailing Information for a Case 5:09-cv-01114-D
+Electronic Mail Notice List
+The following are those who are currently on the list to receive e-mail notices for this case.
+
+
+Hissan Ahsan Bajwa
+hissanbajwa@paulhastings.com
+
+
+
+Lily I Becker
+lbecker@orrick.com,rrivera@orrick.com,gjohnson@orrick.com
+
+
+
+Michael A Betts
+betts@lytlesoule.com,mjones@lytlesoule.com
+
+
+
+Francis A DiGiacco
+fdigiacco@csgrr.com
+
+
+
+Michael C Felty
+felty@lytlesoule.com,weis@lytlesoule.com
+
+
+
+E Joseph Giometti
+jgiometti@orrick.com
+
+
+
+Daniel Bruce Goldman
+dangoldman@paulhastings.com
+
+
+
+James I Jaconette
+jamesj@csgrr.com,karenc@csgrr.com,e_file_sd@csgrr.com
+
+
+
+David S Keenan
+dkeenan@orrick.com
+
+
+
+Drew Neville , Jr
+dneville@hartzoglaw.com,gbrown@hartzoglaw.com
+
+
+
+Reagan Therese Roth
+reaganroth@paulhastings.com
+
+
+
+M Todd Scott
+tscott@orrick.com,elee@orrick.com
+
+
+
+Robert P Varian
+rvarian@orrick.com,bclarke@orrick.com
+
+
+
+James R Webb
+jim.webb@mcafeetaft.com,karen.hill@mcafeetaft.com
+
+https://ecf.okwd.uscourts.gov/cgi-bin/MailList.pl?254684982128533-L_426_0-1
+
+2/4/2010
+
+CM/ECF LIVE - U.S. District Court:okwd
+Case 5:09-cv-01114-D Document 58
+
+
+
+Filed 02/04/2010
+
+Page 2 of 2
+Page 37 of 37
+
+Ryan S Wilson
+RWilson@hartzoglaw.com,swatts@hartzoglaw.com
+
+Manual Notice List
+The following is the list of attorneys who are not on the list to receive e-mail notices for this case (who
+therefore require manual noticing). You may wish to use your mouse to select and copy this list into
+your word processing program in order to create notices or labels for these recipients.
+Randi Dawn Bandman
+,
+Mary Katherine Blasy
+,
+Jack Gerald Fruchter
+,
+Christopher J Keller
+,
+Mark Peter Kindall
+,
+David Avi Rosenfeld
+,
+Samuel Howard Rudman
+,
+Barry G Sher
+,
+
+https://ecf.okwd.uscourts.gov/cgi-bin/MailList.pl?254684982128533-L_426_0-1
+
+2/4/2010
+
+

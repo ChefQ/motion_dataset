@@ -1,0 +1,345 @@
+Case 1:07-cv-09876-DLG Document6 ~~ Filed 12/07/2007 Page 1 of 23
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+wee ee ee ee eee ee ee ee ee ee eee x
+NOVOSHIP (UK) LIMITED, CALLY
+SHIPHOLDINGS, INC., VITAL SHIPPING
+CORPORATIONS, and DAINFORD
+
+NAVIGATION INC.,
+
+Plaintiffs, : Case No. 07 Civ. 9876 (DLC)
+Vv.
+
+WILMER RUPERTI, SEA PIONEER SHIPPING
+CORPORATION, and PMI TRADING, INC.,
+JOHN DOE (fictitious) and JOHN DOE INC.
+(fictitious),
+
+Defendants.
+a xX
+
+MEMORANDUM OF LAW IN SUPPORT OF DEFENDANTS
+WILMER RUPERTI, SEA PIONEER SHIPPING CORPORATION,
+AND PMI TRADING INC.'S MOTION TO VACATE EX PARTE ORDER FOR
+PROCESS OF MARITIME ATTACHMENT AND GARNISHMENT,
+TO PRECLUDE FURTHER MARITIME ATTACHMENTS AND
+TO DISMISS THIS ACTION WITH PREJUDICE FOR LACK OF JURISDICTION
+
+NY 71129146v4
+12/07/07 02:47PM
+Case 1:07-cv-09876-DLG Document6 Filed 12/07/2007 Page 2 of 23
+
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORITIES oo... ccc cece cece eee en EERE EEE ere E EEG ii
+L. INTRODUCTION... ccc ceccccccrccncnneeceee cece neeeeeeeeeeeeeeeeeeeeeneeeeeeneceeeeEEEEEESEEES EA EEE EEE DEDEDE EE EET DEDEDE EEO 2
+IL. STATEMENT OF FACTS ou. .ccccccccccscesetcceseeresecesesseeseessssesssssecsessseaesnecseesesneeerenesseenasenenssneeneaesens 3
+TIT. ARGUMENT .uuieeccccccccccsccsccscesccseesceseeseesecsecsecsecseenessersesseenecsesssessaseesssesecaeenessessesnsssesesessenseeneeas 5
+A. Standard of REViCW........ccccccccccccseccsceccsseceeneeescneeeeneeeesnessesesseeasesseeseesaeseeneeesaeeseseeesnaeereeeee 5
+B. Plaintiffs Bear the Burden of Proof Under Supplemental Admiralty Rules B and E.......... 6
+C. Plaintiffs Do Not State Valid Prima Facie Maritime Claim in the Complaint ................... 7
+i. The location test is not met, as the alleged tortious conduct occurred on land................ 8
+ii. The connection test is not met, as the alleged business torts bear no significant
+relationship to traditional maritime activity. 00... ee ccc sseescereeteteeeneseeneseeeesneenes 13
+D. Because Admiralty Jurisdiction Does Not Exist, Personal Jurisdiction Cannot be
+Exercised over Defendants, and Thus This Court Must Dismiss this Case
+With Prejudice. ......ceecccccccsceeseeeeeneeeecesesneeseceeecnsessecssessesseecsesssesseessasesesseesseesaeeneseseseeneees 15
+E. Inthe Alternative, the Attachment Amount is Excessive and Frivolous and Must Be
+Reduced. oo... eeeeeccccceeseeetneecesneeeensesesneeeseaeeesseeessaeeseeeeeseeesesesensauseesescesseessessesesaeesennesennesenegs 16
+TV. CONCLUSION ...cecccccccceesseseeseeneeseeseeecsecececaeenecsecsecseeseeseseseseeeseneeesecsesscseseseeseseeseeesasnaeegs 17
+Case 1:07-cv-09876-DLG Document6 Filed 12/07/2007 Page3 of 23
+
+TABLE OF AUTHORITIES
+CASES
+
+Adventures Unlimited, Inc. v. Chrisman,
+208 F. Supp. 2d 871 (E.D. Tenn. 2002)... cesses essesereesseseseseenensenenseneasarensssesetsenensnsencnstesenens 14
+AquaStoli Shipping Ltd. v. Gardner Smith Pty, Ltd.,
+
+A60 F.3d 434 (2d. Cir. 2006) ese cecscseeseseseseeteneeeeeseeressersnenesenesassenerenrerenenenensnetensesseces 6,7
+Bottiglieri Di Na Vigazione Spa v Tradeline LLC,
+
+No. 06 Civ. 3705 (LAK), 2007 WL 404657 (S.D.N.Y. Feb. 6, 2007) .....:sseseseeeeseeteees 7
+Carbotrade, S.P.A. v. Bureau Veritas,
+
+99 F.3d 86 (2d Cir, 1996) ....ececsscseesecsseesesenenseeneesenenesseneraesesersesesseneressenesrsnsereasnsesteness 17
+Centauri Shipping Ltd. v. Western Bulk Carriers KS,
+
+No. 07-CV-4761 (RJS) (HBP), 2007 WL 3378254 (S.D.N.Y. Nov. 5, 2007).....:sscsecees 7
+E. Asiatic Co. v. Indomar, Lid.,
+
+422 F. Supp. 1335 (S-.D.N.Y. 1976) ..cccccccccssssesesesesseeeeeeeseeneneeesstseseseneeesssesssnenenensereesnenens 15
+Executive Jet Aviation, Inc. v. City of Cleveland,
+
+409 U.S. 249 (1972) cccccccccccccceccececeeseesssseessessesecsscsenacesseeecnecserecneeaeeqenstsereeecerseseessenes 13, 14
+Hellenic Lines Ltd. v. Rhoditis,
+
+398 U.S. 306 (1970) .occcccccccsecseesecseeeeessesscesessessseeesesesessecsessessesseeesieeeenseesssnesseseeeeeeess 17
+JK. International, Party, Ltd. v. Agriko S.A.S.,
+
+No. 06-CV-13259 (KMK), 2007 WL 485435 (S.D.N.Y. Feb. 13, 2007) .... seers 6
+Jerome B. Grubart, Inc. vy. Great Lakes Dredge and Dock Co.,
+
+513 U.S. $27 (1995) vcceccccccsecseseeseeneereesessesssenesseesessessessessesseseesseensensereessesseneseseneeeny passim
+Kuehne & Nagle (AG & CO) v. Geosource, Inc.,
+
+874 F.2d 283 (Sth Cir, 1989) eee eecseesscesssesesseceecseeereenseseesseestessieesrerssesseseeeeeses passim
+Lauritzen v. Larsen,
+
+345 U.S. S71 (1953) cecccccccccsceeeccecctesseeeesesesscsesscsessesseescsecsesesseeeeseesersseesareceersnsessesaenessesgeys 17
+In re Madison Coal & Supply Co., Inc.,
+
+321 F. Supp. 2d 809 (S.D. W.Va. 2003)... ceccccccseeseeseeseeneeetisterseeeeerieneteseneseenees 8, 12, 14
+Maritima Petroleo E Engenharia Ltda. v. Ocean Rig 1 AS,
+
+78 F. Supp. 2d 162 (S.D.N.Y. 1999) .oceececscccscesecsesseneeseeeeseesenessecseneenerserecneeeeeees 7,11, 12
+McGuire v. City of New York,
+
+192 F. Supp. 866 (S.D.N.Y. 1961) .occcecsscseseseseerenecseseneeeneteeenersceeeereeetsesnesseeresneeees 6,9
+
+i
+
+NY 711291464
+
+12/07/07 02:47PM
+Case 1:07-cv-09876-DLG Document6 _ Filed 12/07/2007 Page 4of 23
+
+Miles v. Apex Marine Corp.,
+
+AOR US. 19 (1991). cece cece cee ee ee een EE EEE EEE EEE CEE CEE EEE EE EEE ET EES 15
+OGI Oceangate Transportation Co. Ltd. v. RP Logistics Pvt. Ltd.,
+
+No. 06 Civ. 9441 (RWS), 2007 WL 2900225 (S.D.N.Y. Oct. 4, 2007).....-ccsesereeen 6,7
+Ramirez v. Butler,
+
+319 F. Supp. 2d 1034 (N.D. Cal. 2004)... eeseeesseseeseeneneseenenerenseeteneeensneeseenans 5, 14, 15
+Rollin v. Kimberly Clark Tissue Co.,
+
+DLL F.R.D. 670 cccccccccecccsscesecssccssccsceseseceeneceecesecsseessenscaseseeeseseeenseenesenseaeeseessereeeneeeneny 14, 15
+Romero y. International Terminal Operating Co.,
+
+358 U.S. 354 (1959) wocccccececescneseesesssssssssenesecenseeeseeneeeesssrsnseneseersessnenaneneneensnssesesesneeeesnens 15
+Ronda Ship Mgmt. Inc. vy. Doha Asian Games Organizing Comm.,
+
+511 F. Supp. 2d 399 (S.D.N.Y. 2007) w.csceeeeseseeseesesseseseeeseseeeeeeneasanenenenenseseeesenens 4,16, 17
+Shipping Financial Service Corp. v. Drakos,
+
+140 F.3d 129 (2d. Cir. 1998) occ ceeccceeeesesesesestenenersesesssessssesssensnenenesessenenanenereneseseseeneee neg 5
+Sisson v. Ruby,
+
+AQT U.S. 358 (1990) wiececcccccteesecesesessssesesesesesesenenenenereeasasesssnscseseseneeenensneneeenerensensens sen ngas 8, 13
+Smith v. Mitlof,
+
+198 F. Supp. 2d 492 (S.D.N.Y. 2002) ...ceeeeeeeeseseneestsseessereneneeasetenenenenerseseneeteseseenens 5,12
+T & O Shipping Ltd. v. Source Link Co.,
+
+No. 06-CV-7724 (KMK), 2006 WL 3513638 (S.D.N.Y. Dec. 5, 2006)... 6
+Winter Storm Shipping, Ltd. v. TPI,
+
+310 F.3d 263 (2d Cir, 2002) oe eieeccsscscsseecssteneescteneeeesenensenesesseresssneressenenseaseerssnnessesesgsns 15
+
+STATUTES
+QB U.S.C. 0x00A7 133) cccccccceeecstseseseseesssssssessseseeeeensesseeseneiseaneserssseseneeseseeseseneneseenenenerssenessensesses 2,15
+QB US.C. 0x00A7 1332(a) cccccccccsceceseseenessssescsssesesesesesscseseseneneeeeseaeaesesenerscsesenesesenseseneneenenenessenensreneseees 15
+QB U.S.C. 0x00A7 1333 cicccccccceseseeseeseeeesescsssscsessssseseeseceeseesecsensasenrerssacsesusesnsssseneneneseseseenenenentsges 2, 15, 16
+RULES
+Fed. R. Civ. P. 12(D)(1) cccccccecececcecsseneesesensescseceesesersssenensenenenesienesserasscseesssnenassesesessenesceneeeregnsernseatss 2
+Fed. R. Civ. P. 12(6)(2) ccccccccceeeceseeeessesesesesseseseessseneeeesesenseneneeneneseseessesesesessenassesasesseneneseeeeraseesensenty 2
+Fed. R. Civ. P. 12(D)(6) c.ecececccssesecesessscesseesesesessseenecesseseaeaeeneeceessesesesenessssssenesensesesenseneeeeenaenensneneys 2
+ill
+
+NY 71129146v4
+
+12/07/07 02:47PM
+Case 1:07-cv-09876-DLCG Document6 _ Filed 12/07/2007 Page5 of 23
+
+Fed. R. Civ. P., Supp. Admiralty R. Bocce cccccseceeeteeeeteneeeeseeriessenessessenesesnenrenenasnernenseneraenns 2
+Fed. R. Civ. P., Supp. Admiralty R. E(6) ..cccccccceesesesetsereeneeessnensesesscsenessesessssenensenerenaeneenteey 16
+Fed. R. Civ. P., Supp. Admiralty R. E(2)(a)...ccccccceceeseeestenererseseneseesenessenensesenenseneneeneneneeererecigy 4
+Fed. R. Civ. P., Supp. Admiralty R. E(4)(f) cccccececeseeeeeesenerenerersesesesseeeseseseseenenenenaeacsenessenensess 6
+Fed. R. Civ. P., Supp. Admiralty R. E(8) ....ccccccseceteseeereresestsersessesesseneesessenesenneneenereeeenestey 2,15
+NY 711291464 v
+
+12/07/07 02:47PM
+Case 1:07-cv-09876-DLC Document6 Filed 12/07/2007 Page 6 of 23
+
+Defendants Wilmer Ruperti ("Ruperti"), Sea Pioneer Shipping Corporation ("Sea
+Pioneer") and PMI Trading, Inc. ("PMI") (collectively, "Defendants") make a restricted
+appearance pursuant to Fed. R. Civ. P., Supp. Admiralty R. E. (8), and respectfully submit this
+Memorandum of Law in support of their Motion to: (a) vacate the Court's November 7, 2007 Ex
+Parte Order directing clerk to issue process of maritime attachment and garnishment (the
+"November 7 Order") obtained and served by plaintiffs Novoship (UK) Limited ("Novoship"),
+Cally Shipholdings, Inc. ("Cally"), Vital Shipping Corporation ("Vital") and Dainford
+Navigation, Inc. ("Dainford") (collectively, "Plaintiffs"); (b) vacate the process of maritime
+attachment and garnishment (the "PMAG") issued pursuant to the November 7 Order; (c)
+preclude any further process under the November 7 Order; (d) dismiss this action in its entirety
+with prejudice for lack of jurisdiction; and (e) grant such other and further relief as this
+Honorable Court may deem just and proper ("Motion"). Defendants make the instant Motion
+pursuant to Supplemental Admiralty Rules B and E, and Fed. R. Civ. P. 12(b)(1), (2) and (6).
+For the reasons stated herein, Defendants respectfully request that their Motion be granted.
+
+I. INTRODUCTION
+
+This Motion concerns the November 7 Order and PMAG issued by the Clerk of this
+Court in the amount of $17,149,420 based on the allegations contained in the verified complaint
+("Complaint"). In that Complaint, Plaintiffs assert that "[t]his is an admiralty and maritime
+claim within the meaning of Rule 9(h) of the Federal Rules of Civil Procedure in that it involves
+claims for fraud arising out of maritime charter party contracts relating to vessels used in
+maritime commerce." (Complaint 0x00A7 1). Plaintiffs further claim that there is subject matter
+jurisdiction for this action pursuant to 28 U.S.C. 0x00A7 1333 - admiralty jurisdiction - and 28 U.S.C.
+
+0x00A7 1331 - federal question jurisdiction. (/d.).
+
+NY 71129146v4
+12/07/07 02:47PM
+Case 1:07-cv-09876-DLG Document6 Filed 12/07/2007 Page 7 of 23
+
+As more fully set forth below, Plaintiffs' allegations, even if taken as true, fail to state a
+prima facie admiralty claim against any of the Defendants. Under numerous Circuit and District
+court cases, this Court lacks subject matter jurisdiction over the claims in this case, and the
+November 7 Order, and all process thereunder, must be vacated and this action dismissed.
+Moreover, because the sole basis for personal jurisdiction over the Defendants is the wrongful
+attachment of their property, specifically, electronic fund transfers ("EFTs") passing through this
+district, this Court lacks personal jurisdiction over any of the Defendants. Thus, Defendants
+respectfully submit that the November 7 Order and all process resulting therefrom should be
+vacated, and this matter should be dismissed with prejudice.'
+
+Il. STATEMENT OF FACTS
+
+Plaintiffs' claims in this matter are predicated on a remarkable and improbable
+interpretation of certain e-mails allegedly sent between the owners of three vessels and the
+charterers of those vessels, some of which Plaintiffs claim are missing from Novoship's
+computers. More particularly, Plaintiffs imply, but do not explicitly allege, that Vladimir
+Mikhaylyuk, Novoship's General Manager and Director, deleted or destroyed certain emails to
+conceal the identity of the charterer in the charter party agreements for the vessels from his
+employer. (Complaint J) 9, 23, 31). Plaintiffs further allege that Mr. Mikhaylyuk
+misrepresented the identity of the charterer in reports he issued to others at Novoship, and that
+Defendant Sea Pioneer made three payments to an account at the Bank of Nevis owned by Pulley
+Shipping, which Plaintiffs characterize as bribes and or secret commissions paid to Mr.
+
+Mikhaylyuk. (Complaint 0x00A70x00A7 21, 22, 32, 33, 43, 48). Plaintiffs claim that the purpose of this
+
+ 
+
+' In the alternative, and as discussed more fully below, should the Court decide otherwise, Defendants respectfully
+
+submit that the amount of the attachment should be reduced.
+
+3
+
+NY 71129146v4
+12/07/07 02:47PM
+Case 1:07-cv-09876-DLG Document6 _ Filed 12/07/2007 Page 8 of 23
+
+conduct was to allow Defendants to profit from sub-chartering agreements without Plaintiffs'
+knowledge. (Complaint 0x00A7 15).
+
+On the basis of these factual allegations, Plaintiffs assert that Mr. Mikhaylyuk breached
+fiduciary duties owed to Novoship, and that Defendants assisted in such breaches as a part of a
+conspiracy with Mr. Mikhaylyuk. (Complaint fff 49, 50). Plaintiffs further state that they have
+instituted an action in the High Court of Justice, Queen's Bench Division, Commercial Court in
+London, England based on these allegations, although Plaintiffs do not furnish a copy of the
+alleged action commenced by them against Defendants in London, nor do they identify in the
+Complaint the precise causes of action they claim to be pursuing in the London court or assert
+the substantive law they claim to invoke. (Complaint 0x00A7 51). Plaintiffs claim to bring the instant
+action in the Southern District of New York "to obtain jurisdiction over Defendants for
+enforcement purposes." (Complaint {ff 51, 52).
+
+The questionable merits of Plaintiffs' factual allegations are not before the Court in the
+instant Motion. Rather, the issue before the Court is whether Plaintiffs can demonstrate that,
+based on those allegations, they possess a valid prima facie admiralty claim against Defendants,
+whose assets they have already begun to attach, such that this Court may exercise jurisdiction
+
+over both the claims and the parties hereto."
+
+ 
+
+> Plaintiffs do not allege that the action instituted in London's High Court was brought as a maritime claim under
+that court's admiralty jurisdiction.
+
+> The merits inquiry at this juncture is limited to the determination of whether the claim as presented and supported
+by Plaintiffs is prima facie valid. In the admiralty context, the prima facie standard requires a court to look only to
+the complaint to determine whether the plaintiff has a valid admiralty claim against the defendant. Ronda Ship
+Memt. Inc. v. Doha Asian Games Organizing Comm., 511 F. Supp. 2d 399, 403-404 (S.D.N.Y. 2007). As such, the
+prima facie standard in the maritime attachment context is "a pleading requirement, not an evidentiary standard, and
+differs from the use of that phrase in other contexts." Jd. at 404. It is, however, a more stringent standard than that
+applied under the Federal Rules of Civil Procedure, in that Supplemental Rule E(2)(a) requires that a complaint
+"state the circumstances from which the claim arises with such particularity that the defendant . . . will be able,
+without moving for a more definite statement, to commence an investigation and frame a responsive pleading." Fed.
+R. Civ. P., Supp. R. E. (2)(a); Ronda, 511 F. Supp. 2d at 404. Plaintiffs have not met the prima facie standard here.
+
+4
+
+NY 71129146v4
+12/07/07 02:47PM
+Case 1:07-cv-09876-DLCG Document6 - Filed 12/07/2007 Page9Qof 23
+
+Plaintiffs cannot satisfy that burden. Plaintiffs' claims, as discussed further infra, do not
+constitute maritime torts and, consequently, do not support the exercise of admiralty jurisdiction
+by this Court even if all of the allegations in the Complaint are accepted as true. Moreover, the
+justification for the sizable amount that Plaintiffs have sought to attach, $17,149,420, is wholly
+unclear and thus, at minimum, the attachment amount requires adjustment. Defendants
+respectfully submit that vacatur should be granted and this case dismissed.
+
+Wl. ARGUMENT
+
+A. Standard of Review
+
+On a motion to dismiss, the Court must ordinarily accept as true all of the well-pleaded
+facts in a complaint, and consider those facts in the light most favorable to plaintiffs. See, e.g.,
+Smith v. Mitlof, 198 F. Supp. 2d 492, 497-498 (S.D.N.Y. 2002) (citations omitted). However,
+"fcjJonclusory allegations or legal conclusions masquerading as factual conclusions will not
+suffice to prevent a motion to dismiss." Jd. at 498 (internal quotation and citations omitted).
+Allegations that are so conclusory that they fail to give notice of even the basic events and
+circumstances of which the plaintiff complains are insufficient as a matter of law. Id.
+
+Moreover, when the question to be considered is one involving the jurisdiction of a
+federal court, "jurisdiction must be shown affirmatively, and that showing is not made by
+drawing from the pleadings inferences favorable to the party asserting it." /d. (citing Shipping
+Fin. Serv. Corp. v. Drakos, 140 F.3d 129, 131 (2d. Cir. 1998)). Thus, in evaluating whether
+admiralty jurisdiction applies, "[n]o presumptive truthfulness attaches to plaintiffs allegations,
+and the existence of disputed material facts will not preclude the trial court from evaluating for
+itself the merits of jurisdictional claims." Ramirez v. Butler, 319 F. Supp. 2d 1034, 1037 (N.D.
+
+Cal. 2004) (internal quotation and citation omitted).
+
+NY 71129146v4
+12/07/07 02:47PM
+Case 1:07-cv-09876-DLC Document6- Filed 12/07/2007 Page 10 of 23
+
+B. Plaintiffs Bear the Burden of Proof Under
+Supplemental Admiralty Rules B and E
+
+Maritime attachment is designed to allow parties in admiralty cases to secure jurisdiction
+over an absent party and to obtain security for a potential judgment where the absent party's
+assets are transitory. See, e.g., AquaStoli Shipping Ltd. v. Gardner Smith Pty, Ltd., 460 F.3d 434,
+435, 437 (2d. Cir. 2006). Maritime attachment, however, requires a showing that the claims at
+issue in the case fall within the purview of admiralty jurisdiction, and thus the Court must
+evaluate the validity of Plaintiffs' claims under admiralty law in determining whether maritime
+attachment is appropriate. See, e.g., OGI Oceangate Transporation Co. Ltd. v. RP Logistics Pvt.
+Lid., No. 06 Civ. 9441 (RWS), 2007 WL 2900225, at *2 (S.D.N.Y. October 4, 2007), McGuire
+v. City of New York, 192 F. Supp. 866, 870 (S.D.N.Y. 1961) ("Not every tort committed on
+admiralty waters may be redressed in the admiralty courts."). Admiralty Rule E(4)(f), moreover,
+provides that whenever "property is arrested or attached, any person claiming an interest in it
+shall be entitled to a prompt hearing at which the plaintiff shall be required to show why the
+arrest or attachment should not be vacated or other relief granted consistent with these rules."
+Fed. R. Civ. P., Supp. R. E(4)(f).
+
+As explained by the Second Circuit in AquaStoli, the Admiralty Rules "clearly place[] the
+burden on the plaintiff to show that an attachment was properly ordered and complied with the
+requirements of Rules B and E." 460 F.3d at 445 n.5; see also T & O Shipping Ltd. v. Source
+Link Co., No. 06-CV-7724 (KMK), 2006 WL 3513638, at * 2 (S.D.N.Y. Dec. 5, 2006); JK.
+International, Party, Ltd. v. Agriko S.A.S., No. 06-CV-13259 (KMK), 2007 WL 485435 at *2
+(S.D.N.Y. February 13, 2007). In order to maintain the process of maritime attachment and
+garnishment under Rule B, Plaintiffs must demonstrate: (a) that they have a valid prima facie
+
+admiralty claim against each of the Defendants whose property they seek to attach; (b) that the
+
+6
+
+NY 71129146v4
+12/07/07 02:47PM
+

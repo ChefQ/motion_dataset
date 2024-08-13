@@ -1,0 +1,923 @@
+Case 1:09-cv-10215-NG Document 40
+
+Filed 10/25/10 Page 1 of 24
+
+UNITED STATES DISTRICT COURT
+DISTRICT OF MASSACHUSETTS
+
+NOROTOS, INC.,
+Plaintiff,
+Case No. 1:09-CV-10215-NG
+vs.
+Hon. Nancy Gertner
+
+OPS-CORE, INC.,
+Defendant.
+AND RELATED COUNTERCLAIM.
+
+PLAINTIFF'S MEMORANDUM OF POINTS AND AUTHORITIES
+IN SUPPORT OF ITS MOTION FOR PARTIAL SUMMARY ADJUDICATION
+OF INFRINGEMENT OF U.S. PATENT NO. 6,751,810
+
+Case 1:09-cv-10215-NG Document 40
+
+Filed 10/25/10 Page 2 of 24
+
+TABLE OF CONTENTS
+Page
+I.
+
+INTRODUCTION ............................................................................................................... 1
+
+II.
+
+STATEMENT OF FACTS .................................................................................................. 1
+
+III.
+
+STATUS OF THE CASE .................................................................................................... 3
+
+IV.
+
+PERTINENT LEGAL STANDARDS................................................................................. 3
+
+V.
+
+A.
+
+Pertinent Legal Standards Re Summary Adjudication ............................................ 3
+
+B.
+
+Pertinent Legal Standards re Direct Infringement ................................................... 4
+
+ARGUMENT....................................................................................................................... 4
+A.
+
+Ops-Core's VAS SHROUD and Accompanying Mounting Mechanism
+Directly Infringe Claim 22 of the '810 Patent.......................................................... 4
+1.
+
+2.
+VI.
+
+The Meaning and Scope of Claim 22 .......................................................... 4
+a)
+
+"Shroud Plate".................................................................................. 6
+
+b)
+
+"Shell" .............................................................................................. 6
+
+c)
+
+"Insert" ............................................................................................. 7
+
+d)
+
+"A Lock and a Release Mechanism" ............................................... 7
+
+e)
+
+"Smooth"........................................................................................ 10
+
+f)
+
+"Lock Plate" ................................................................................... 10
+
+The VAS SHROUD and Mounting Mechanism Meet the
+Limitations of Claim 22 ............................................................................. 10
+
+CONCLUSION.................................................................................................................. 20
+
+-i-
+
+Case 1:09-cv-10215-NG Document 40
+
+Filed 10/25/10 Page 3 of 24
+
+TABLE OF AUTHORITIES
+Page(s)
+CASES
+Anderson v. Liberty Lobby, Inc.,
+477 U.S. 242 (1986).......................................................................................................3, 4
+Astrazeneca AB, Aktiebolaget Hassle, KBI-E, Inc., KBI, Inc., and Astrazeneca LP v.
+Mutual Pharm. Co.,
+384 F.3d 1333 (Fed. Cir. 2004)..........................................................................................8
+Celotex Corp. v. Catrett,
+477 U.S. 317 (1986), cert denied, 484 U.S. 1066 (1988) .................................................3
+Freeman v. Gerber Products Co.,
+357 F. Supp. 2d 1290 (D. Kan. 2005)................................................................................8
+Freni Brembo S.p.A. v. Alco Components, Ltd.,
+No. 04, C 5217, 2005 U.S. Dist. LEXIS 11714 (N.D. Ill. May 31, 2005).........................8
+Graco Children's Products, Inc. v. Regalo International LLC,
+No. 97-6885, 2000 U.S. Dist. LEXIS 11133 (E.D. Pa. Aug. 8, 2000) ..............................8
+Laitram Corp. v. Rexnord, Inc.,
+939 F.2d 1533 (Fed. Cir. 1991)..........................................................................................4
+Lampi Corp. v. American Power Products, Inc.,
+228 F.3d 1365 (Fed. Cir. 2000)..........................................................................................7
+Liebel-Flarsheim Co. v. Medrad, Inc.,
+358 F.3d 898 (Fed. Cir. 2004)............................................................................................7
+Markman v. Westview Instruments,
+517 U.S. 370 (1996)...........................................................................................................4
+Markman v. Westview Instruments, Inc.,
+52 F.3d 967 (Fed. Cir. 1995)..............................................................................................8
+Smithkline Diagnostics, Inc. v. Helena Laboratoriess Corp.,
+859 F.2d 878 (Fed. Cir. 1988), aff'd 926 F.2d 1161 (Fed. Cir. 1991) ...............................4
+Southwall Technologies, Inc. v. Cardinal IG Co.,
+54 F.3d 1570 (Fed. Cir. 1995) cert. denied, 516 U.S. 987 (1995).....................................4
+Texas Digital System, Inc. v. Telegenix, Inc.,
+308 F.3d 1193 (Fed. Cir. 2002)..........................................................................................8
+-ii-
+
+Case 1:09-cv-10215-NG Document 40
+
+Filed 10/25/10 Page 4 of 24
+
+TABLE OF AUTHORITIES (Cont.)
+Page(s)
+CASES
+Vitronics Corp. v. Conceptronic, Inc.,
+90 F.3d 1576 (Fed. Cir. 1996)............................................................................................6
+
+STATUTES
+Fed. R. Civ. P. 56.......................................................................................................................3, 4
+
+-iii-
+
+Case 1:09-cv-10215-NG Document 40
+
+I.
+
+Filed 10/25/10 Page 5 of 24
+
+INTRODUCTION
+Plaintiff, Norotos, Inc. ("Norotos") seeks partial summary adjudication that Claim 22 of
+
+U.S. Patent No. 6,751,810 ("the '810 Patent") is literally infringed by the offer for sale,
+distribution, and use by Defendant Ops-Core, Inc. ("Ops-Core") of a shroud plate for headgear
+which is used solely with a mounting mechanism for night vision devices ("Mounting
+Mechanism").
+
+Ops-Core designates the accused product as the VAS SHROUD.
+
+More
+
+specifically, Ops-Core has directly infringed the '810 Patent by its use of the VAS SHROUD in
+combination with a Mounting Mechanism.
+There are no disputed issues of material fact. The structure and operation of the accused
+VAS SHROUD and its intended Mounting Mechanism are known. The invention claimed in the
+patent-in-suit is neither complex nor confusing. As shown below, the meaning of the terms of
+Claim 22 which may need to be construed is clear from the '810 Patent and its file history. A
+simple comparison of the construed claim with the accused VAS SHROUD and Mounting
+Mechanism shows that each element of Claim 22 is literally present. Accordingly, summary
+adjudication of literal infringement is warranted.
+II.
+
+STATEMENT OF FACTS1
+In about 2002, Jonathan R. Prendergast of Norotos developed an improved shroud plate
+
+to act as an interface between a helmet or other headgear and a helmet mount for a night vision
+device. Prendergast Decl., ¶ 3. Unlike previous helmet attachment mechanisms, this shroud
+plate was designed to have no unnecessary edges on which another object, such as a shroud line
+of a parachute or a dangling tree branch in heavy foliage, could catch, thereby greatly improving
+the safety of the wearer. Id., ¶ 4. A patent application directed to Mr. Prendergast's invention
+was filed on March 13, 2003 which matured into U.S. Pat. No. 6,751,810 which issued on June
+22, 2004.
+The first version of the invention offered by Norotos had a lock and a release mechanism
+1
+
+The facts in this Memorandum are attested to in the Declarations of Jonathan R. Prendergast
+("Prendergast Decl."), Ronald Soto ("Soto Decl."), Thomas J. Daly ("Daly Decl."), or Norberto
+R. Chavez ("Chavez Decl.").
+-1-
+
+Case 1:09-cv-10215-NG Document 40
+
+Filed 10/25/10 Page 6 of 24
+
+incorporated into the shell of the shroud plate. Prendergast Decl., ¶ 5. These would then interact
+with a lock plate on the mount for the night vision device to hold the mount in place. Id., ¶ 5.
+Later, because of a desire to make the merits of the invention available for preexisting mounts
+which had a lock and a release mechanism incorporated into the lock plate, Norotos introduced
+an embodiment of the invention having an insert able to interact with the lock and release
+mechanism in a lock plate. Id., ¶ 7. It was this later version of the invention that was copied by
+Ops-Core.
+In August 2008, Norotos became aware of VAS SHROUD being offered for sale in OpsCore's 2008 catalog and on-line at Ops-Core's website. Norotos evaluated the VAS SHROUD
+and on October 30, 2008, Ronald Soto ("Soto"), President of Norotos, sent a letter to Ops-Core
+expressing his concern about its sale of a product containing "substantially the same features as
+are claimed in Norotos's patents." See Soto Decl., ¶ 4.
+David Rogers ("Rogers"), Vice President of Ops-Core, responded to Soto in a letter dated
+November 1, 2008. Rogers asserted that the VAS SHROUD did not infringe because it did not
+contain a "lock" or "release mechanism."
+
+However, Rogers admitted that Ops-Core had
+
+purchased several mounts which would have contained lock and release mechanisms and
+provided them to customers along with its VAS SHROUD. Id., ¶ 5. Rogers also indicated that
+Ops-Core was planning to expand its sales of the VAS SHROUD product. Soto Decl., ¶ 5,
+Exh. A.
+A further exchange of letters by the parties, followed by an exchange of letters by counsel
+for the parties, did not lead to a resolution. Ops-Core continued to assert that it did not infringe
+because the "lock" and "release mechanism" recited in the Norotos patent claims "are located on
+an external component rather than on the shroud plate." See Daly Decl., ¶ 4. Norotos then
+initiated the present suit. Shortly thereafter, requests for reexamination of the patentability of
+Norotos's patents were filed on behalf of Ops-Core. Despite its earlier position, those requests
+for reexamination asserted that a prior art mounting mechanism having the lock and release
+mechanism located on an external component and then used in conjunction with a keeper
+-2-
+
+Case 1:09-cv-10215-NG Document 40
+
+Filed 10/25/10 Page 7 of 24
+
+attached to the helmet anticipated the claims in Norotos's patents. Daly Decl., ¶ 6, Exh. F. The
+Patent Office agreed that the claims extended to lock and release mechanisms in a separate
+component, but found the claims patentable in view of other distinctions. Daly Decl., ¶ 13.
+Norotos now proceeds with its reexamined claims, claims whose patentability has been
+confirmed.
+III.
+
+STATUS OF THE CASE
+On February 12, 2009, Norotos commenced this action alleging, inter alia, that Ops-Core
+
+infringed the '810 Patent2 by virtue of its use, offer for sale, and sale of the VAS SHROUD by
+contributing to the infringement of the patent by others, and by inducing others to infringe the
+'810 Patent. On June 11, 2009, Ops-Core filed its Answer to the Complaint.
+On June 10, 2009, Ops-Core filed an ex parte request for reexamination of the '810 Patent
+with the United States Patent and Trademark Office ("PTO"). On June 29, 2009, Ops-Core filed
+a Motion to Stay this action until final resolution of the reexamination proceeding, which Motion
+was granted on October 6, 2009. Subsequently, in anticipation of the issue of the reexamination
+certificate, the Court lifted the stay of this action. On August 10, 2010, the PTO issued a reexamination certificate, thereby terminating the re-examination proceeding.
+
+A copy of the
+
+reexamined '810 Patent is attached as Exhibit N to the Daly Decl. submitted herewith.
+IV.
+
+PERTINENT LEGAL STANDARDS
+A.
+
+Pertinent Legal Standards Re Summary Adjudication
+
+Fed. R. Civ. P. 56(c) provides for summary judgment if there is no genuine issue as to
+any material fact and the moving party is entitled to a judgment as a matter of law. A moving
+party meets the requirement of Rule 56 by showing that no genuine issue of material fact
+remains. Celotex Corp. v. Catrett, 477 U.S. 317, 325 (1986), cert denied, 484 U.S. 1066 (1988).
+Once a movant has met this requirement, the burden shifts to the party resisting the motion, who
+must "set forth specific facts showing that there is a genuine issue for trial." Anderson v. Liberty
+
+2
+
+Norotos also asserted infringement of United States Patent No. 6,938,276. However, OpsCore's infringement of that patent is not the subject of this motion.
+-3-
+
+Case 1:09-cv-10215-NG Document 40
+
+Filed 10/25/10 Page 8 of 24
+
+Lobby, Inc., 477 U.S. 242, 256 (1986). It is not enough for the party opposing a properly
+supported motion for summary judgment to "rest upon mere allegation[s] or denials of his
+pleading[s]." Id. Genuine factual issues must exist that "can be resolved only by a finder of fact
+because they may reasonably be resolved in favor of either party." Anderson, 477 U.S. at 250.
+Summary judgment as to material facts which are not genuinely at issue, including liability, is
+appropriate even if summary judgment is not rendered on the whole action. Fed. R. Civ. P.
+56(d)(1), (2).
+B.
+
+Pertinent Legal Standards re Direct Infringement
+
+To infringe a patent claim, the accused product must meet every limitation of that claim.
+Laitram Corp. v. Rexnord, Inc., 939 F.2d 1533, 1535 (Fed. Cir. 1991). The analysis typically
+requires two separate steps. First the claims are construed in order to establish their meaning and
+scope. Markman v. Westview Instruments, 517 U.S. 370, 384 (1996). Then the claims are
+compared to the accused product to see if the product meets every limitation of at least one
+claim. Smithkline Diagnostics, Inc. v. Helena Labs. Corp., 859 F.2d 878, 889 (Fed. Cir. 1988),
+aff'd. 926 F.2d 1161 (Fed. Cir. 1991).
+V.
+
+ARGUMENT
+A.
+
+Ops-Core's VAS SHROUD and Accompanying Mounting Mechanism
+Directly Infringe Claim 22 of the '810 Patent.
+
+Ops-Core's VAS SHROUD and Mounting Mechanism directly infringe Claim 22 of the
+'810 Patent because the accused product includes each limitation of Claim 22.
+1.
+
+The Meaning and Scope of Claim 22
+
+Interpretation of Claim 22 of the '810 Patent is a "question of pure law . . . amenable to
+summary judgment." Southwall Technologies, Inc. v. Cardinal IG Co., 54 F.3d 1570, 1575 (Fed.
+Cir. 1995) cert. denied, 516 U.S. 987 (1995). Norotos identifies below the claim terms that
+should be construed in Claim 22 of the '810 Patent to assist in the infringement analysis. The
+claim terms are identified in bold and italics in the table below and are presented along with the
+proposed meaning and scope of the relevant claim term. Reasons for the proposed constructions
+-4-
+
+Case 1:09-cv-10215-NG Document 40
+
+Filed 10/25/10 Page 9 of 24
+
+are given below the table.
+'810 Patent Claim 22
+
+Proposed Construction
+
+A shroud plate for headgear comprising
+
+An attachment mechanism that allows a
+headgear, such as a helmet, and a mount to
+interact in such a way as to support a night
+vision device.
+
+a shell
+
+An outer component or part of the shroud
+plate.
+
+an insert
+
+An inner component or part of the shroud
+plate.
+
+a lock and a release mechanism,
+
+A device comprising one or more components
+used to secure a mount to the shroud plate.
+
+wherein the shell extends around at The plain meaning of the claim terms here
+least a portion of the insert and has an external require no construction.
+surface that faces away from the headgear
+when the shroud plate is attached to the
+headgear, a back surface that faces toward the
+headgear when the shroud plate is attached to
+the headgear and a periphery;
+wherein the external surface is Has no projections on which a shroud line may
+smooth with rounded edges and corners at the catch.
+periphery,
+
+such
+
+that
+
+the
+
+shell
+
+has
+
+no
+
+projections on which a shroud line may catch
+and is shaped to match the contour of the
+headgear;
+wherein the insert is adapted to A device used in conjunction with a lock to
+
+-5-
+
+Case 1:09-cv-10215-NG Document 40
+
+Filed 10/25/10 Page 10 of 24
+
+'810 Patent Claim 22
+
+Proposed Construction
+
+receive a lock plate;
+
+secure a mount to the shroud plate.
+
+wherein the lock is adapted to The plain meaning of the claim terms here
+secure the lock plate to the insert; and
+
+require no construction.
+
+wherein the release mechanism The plain meaning of the claim terms here
+allows for removal of the lock plate from the require no construction.
+insert.
+"It is well-settled that, in interpreting an asserted claim, the court should look first to the
+intrinsic evidence of record, i.e., the patent itself, including the claims, the specification and, if in
+evidence, the prosecution history." Vitronics Corp. v. Conceptronic, Inc., 90 F.3d 1576, 1582
+(Fed. Cir. 1996). Plaintiff presents below support within the patent itself and the prosecution
+history for the meaning and scope of the identified claim terms.
+a)
+
+"Shroud Plate"
+
+The meaning and scope of "shroud plate" find ample support in the specification in the
+context of a helmet, one type of headgear. Embodiments of the invention relate to "helmet
+attachment mechanisms . . ., and more particularly to a shroud plate which may act as an
+interface between a helmet and the helmet mount for a night vision device." ('810 Patent at col.
+1, lines 7-9.) "[T]he shroud plate may also be attached to the helmet in any manner sufficient to
+secure a helmet attachment mechanism to the helmet and support the accompanying helmet
+mount and night vision device." ('810 Patent at col. 2, lines 46-49.) Further, "[a] night vision
+device may be attached to a helmet through a helmet attachment mechanism which acts as an
+interface between a helmet mount and the helmet." ('810 Patent at col. 1, lines 29-31.)
+b)
+
+"Shell"
+
+The meaning and scope of "shell" are consistent with and supported by the specification.
+Figures 1, 2, and 3 in the specification show that the shell is an outer component or part of the
+shroud plate.
+
+-6-
+
+Case 1:09-cv-10215-NG Document 40
+
+c)
+
+Filed 10/25/10 Page 11 of 24
+
+"Insert"
+
+The specification fully supports the meaning and scope of "insert." The insert is shown
+in the figures as an inner component or part of the shroud plate. Figures 2 and 3 also illustrate
+how the shell (13) may relate to the space for the insert (16).
+d)
+
+"A Lock and a Release Mechanism"
+
+The specification supports the meaning and scope of "a lock and a release mechanism."
+To secure or remove the mount to the shroud plate, "the insert is adapted to receive a lock plate,
+the lock is adapted to secure the lock plate to the insert, and the release mechanism allows for
+removal of the lock plate from the insert." ('810 Patent at col. 2, lines 6-9.) The specification
+does not limit "a lock and release mechanism" to one integrated with the shroud plate, but states,
+instead, that "alternate arrangements of the lock and release button are possible." ('810 Patent at
+col. 4, lines 52-53.) Nothing in the specification requires a lock and a release mechanism to be a
+unitary part of and not a separate part of the shroud plate. Nothing in the specification requires a
+lock and release mechanism be integral with a unitary body of the shroud.
+The doctrine of claim differentiation supports a claim interpretation wherein the lock and
+release mechanism are not an integral part of the shroud plate.3 Claim 13 depends on claim 22
+and limits the shell and insert to a single component. Specifically, claim 13 states: "A shroud
+plate according to claim 22 wherein the shell and the insert comprise one piece." To differentiate
+claim 22 from dependent claim 13, claim 22 should be interpreted as being broader than the shell
+and insert being a single component.4 Thus, the shell and insert may be separate components.
+Further, Claim 22 uses the same introductory clause for the shell and the insert as it does for the
+lock and release mechanism — that is, "A shroud plate for headgear comprising a shell, an insert,
+a lock and a release mechanism." Accordingly, claim 22 should be interpreted as allowing for
+3
+
+See Liebel-Flarsheim Co. v. Medrad, Inc., 358 F.3d 898, 910 (Fed. Cir. 2004). [Holding that
+"The proper interpretation of the 'housing having two-half shells' limitation is a 'housing having
+at least two equal or corresponding parts . . .'" ["[T]he presence of a dependent claim that adds a
+particular limitation raises a presumption that the limitation in question is not found in the
+independent claim."]
+4
+See Lampi Corp. v. American Power Products, Inc., 228 F.3d 1365, 1376 (Fed. Cir. 2000).
+-7-
+
+Case 1:09-cv-10215-NG Document 40
+
+Filed 10/25/10 Page 12 of 24
+
+the lock and release mechanism to be separate components from the other recited components —
+that is, the lock and release mechanism may be separate components from the shell and the
+insert.
+Allowing for the lock and the release mechanism to be separate components is consistent
+with case law. A device will not be limited to a single unitary body unless the patentee explicitly
+disavows a multi-component device. See Freni Brembo S.p.A. v. Alco Components, Ltd., No. 04
+C 5217, 2005 U.S. Dist. LEXIS 11714, at * (N.D. Ill. May 31, 2005) ("Nothing in the ordinary
+meaning of the term, the context, or the specification precludes the 'single piece' from being
+either a monolithic piece or an assembled piece.") See also: Graco Children's Prods., Inc. v.
+Regalo Int'l LLC, No. 97-6885, 2000 U.S. Dist. LEXIS 11133, at *14 (E.D. Pa. Aug. 8, 2000)
+(holding that a "unitary central hub member" claim term can cover an assemblage of a number of
+pieces put together such that they act as a single unit (finding the claim term "unitary central hub
+member" to include multiple components acting as one).)
+In construing a claim term, "a court will give a claim term the full range of its ordinary
+meaning as understood by persons skilled in the relevant art." Texas Digital Sys., Inc. v.
+Telegenix, Inc., 308 F.3d 1193, 1202 (Fed. Cir. 2002) (citation omitted). "The court may also
+consult extrinsic evidence, but only for the purpose of allowing the court to gain an
+understanding of the claim terminology." Freeman v. Gerber Prods. Co., 357 F. Supp. 2d 1290,
+1294 (D. Kan. 2005) (citing Markman v. Westview Instruments, Inc., 52 F.3d 967, 986 (Fed. Cir.
+1995); Astrazeneca AB, Aktiebolaget Hassle, KBI-E, Inc., KBI, Inc., and Astrazeneca LP v.
+Mutual Pharm. Co., 384 F.3d. 1333, 1337 (Fed. Cir. 2004)). As shown in the prior art cited by
+Ops-Core to the Patent Office during reexamination, a person of ordinary skill in the art would
+not believe that the lock and release mechanism would necessarily be integral to the shroud plate.
+Rather, a person of ordinary skill in the art would understand the ordinary meaning of the claim
+term to include a lock and release mechanism that are a separate part of the shroud plate because
+such a structure is demonstrated with respect to a mount shown in Figures 2-22 and 2-23
+contained in the printed publication entitled "Operator's Manual Night Vision Goggles AN/PVS-8-
+
+Case 1:09-cv-10215-NG Document 40
+
+Filed 10/25/10 Page 13 of 24
+
+7B (NSN 5855-01-228-0937) (EIC:IPS) and AN/PVS-7D (NSN 5855-01-422-5413)
+(EIC:N/A)"5 and submitted to the Patent Office by Ops-Core in the Request for Reexamination.
+In that reference, the lock is a latch that is used to secure the lock plate to the insert as shown by
+the curved arrow directing the user to rotate the mount downward until the latch is engaged by
+the helmet mounted bracket. (Figure 2-23; 2-56, ¶ 11.)
+
+This figure illustrates that a person of ordinary skill in the art in 2003 when the
+application that matured into the '810 Patent was filed would understand based on the 1997
+reference that the ordinary meaning of "lock" would not require the lock be a unitary part of the
+shroud plate. Similarly, the figure illustrating the separate release mechanism in the 1997
+reference indicates that a person of ordinary skill in the art in 2003 would understand the
+ordinary meaning of a release mechanism would not preclude a release mechanism being a
+separate part from the shroud plate. (Fig. 2-22; 2-56 ¶ 11.) Additionally, Ops-Core argued (see
+Request for Reexamination at p. 3) and the examiner accepted (see Office Action mailed
+03/08/2010 at pp. 2-3), that separate lock and release mechanisms were pertinent to the claims
+for the present invention.
+Nothing in the prosecution history limits the invention from containing separate
+components not integral to the shroud plate including a lock and a release mechanism.
+
+5
+
+Published by the United States Departments of the Army, the Navy, and the Air Force and
+Headquarters, Marine Corps on December 1, 1997.
+-9-
+
+Case 1:09-cv-10215-NG Document 40
+
+e)
+
+Filed 10/25/10 Page 14 of 24
+
+"Smooth"
+
+The proposed meaning of smooth is consistent with and supported by both the
+specification and the reason for allowance by the Patent Office. The specification states that the
+"top surface of the shell may be smooth." ('810 Patent at col. 3, line 2.) "[H]aving a smooth
+surface with rounded edges and corners on the shell ensures that there are no unnecessary edges
+on which another object, such as a shroud line of a parachute or a dangling tree branch in heavy
+foliage, may catch."
+
+('810 Patent at col. 3, lines 4-8.)
+
+The Patent Office agreed during
+
+reexamination that "the shell has no projections on which a shroud line may catch," thereby
+distinguishing the invention from the prior art . See Daly Decl., Exh. M at p. 2.
+f)
+
+"Lock Plate"
+
+The specification supports the meaning and scope of "lock plate." "[T]he insert is
+adapted to receive a lock plate, the lock is adapted to secure the lock plate to the insert" allowing
+the lock plate to work in conjunction with the lock to secure a mount to the shroud plate. ('810
+Patent at col. 2, line 6-7; see also '810 Patent at col. 3, lines 17-19 ("The insert is designed as a
+bay for a lock plate or adapter plate . . . and functions as the interface between a helmet mount
+and a helmet.").) Further, "a durable lock plate ensures a sturdy interface between a helmet
+mount and a helmet." ('810 Patent at col. 3, lines 24-26.)
+2.
+
+The VAS SHROUD and Mounting Mechanism Meet the Limitations
+of Claim 22
+
+No dispute exists regarding the structure of Ops-Core's VAS SHROUD and that of the
+Mounting Mechanism. As demonstrated in the infringement chart below, summary judgment of
+infringement is appropriate.
+Ops-Core's VAS SHROUD
+
+Claim 22
+A shroud plate for headgear
+
+The Ops-Core VAS SHROUD packaging (shown below)
+
+comprising
+
+shows the VAS SHROUD is an attachment mechanism
+that attaches to a helmet to provide an interface between
+the helmet and a helmet mount used as support for
+-10-
+
+Case 1:09-cv-10215-NG Document 40
+
+Claim 22
+
+Filed 10/25/10 Page 15 of 24
+
+Ops-Core's VAS SHROUD
+"attaching any Night Vision Devices."
+
+Shroud
+
+(See Chavez Decl., ¶ 5.)
+Comment: Ops-Core advertises and displays the VAS SHROUD at trade shows with night vision
+devices and helmet mounts attached as seen here. In addition to directly infringing,
+the display actively shows purchasers how to directly infringe.
+
+-11-
+
+Case 1:09-cv-10215-NG Document 40
+
+Claim 22
+
+Filed 10/25/10 Page 16 of 24
+
+Ops-Core's VAS SHROUD
+
+(See Prendergast Decl.,¶ 10.)
+a shell
+
+The Ops-Core VAS SHROUD contains an outer
+component or part of the shroud plate, as seen on the
+packaging and the product itself.
+Shell
+
+Insert
+
+Shroud
+Plate
+(See Prendergast Decl.,¶ 11.)
+an insert
+
+The VAS SHROUD contains an inner recessed portion.
+
+a lock and a release
+
+The lock and release device of Ops-Core's VAS SHROUD
+
+mechanism,
+
+system is attached to and secures the NVD Adaptor helmet
+
+-12-
+
+Case 1:09-cv-10215-NG Document 40
+
+Claim 22
+
+Filed 10/25/10 Page 17 of 24
+
+Ops-Core's VAS SHROUD
+mount to the shroud plate as seen in the images and
+installation instructions below.
+
+Release Mechanism
+Lock Mechanism
+(See Prendergast Decl.,¶11.)
+
+Lock Mechanism
+& Reference
+
+Release Mechanism
+& Reference
+
+(See Chavez Decl.,¶ 5.)
+The installation instruction indicates that Ops-Core refers
+to its lock as an anchor for the NVD Adapter.
+wherein the shell extends
+
+The shell of the VAS SHROUD extends around at least a
+
+around at least a portion of the insert portion of its insert.
+and has an external surface that
+
+-13-
+
+Case 1:09-cv-10215-NG Document 40
+
+Claim 22
+
+Filed 10/25/10 Page 18 of 24
+
+Ops-Core's VAS SHROUD
+
+faces away from the headgear when
+
+Shell
+
+the shroud plate is attached to the
+headgear, a back surface that faces
+toward the headgear when the
+shroud plate is attached to the
+headgear and a periphery;
+NVD Adapter
+Helmet Mount
+
+Insert
+
+NVD Adapter
+Helmet Mount
+
+Insert
+
+(See Prendergast Decl.,¶ 11.)
+Insert
+
+(See Chavez Decl.,¶ 5.)
+
+-14-
+
+NVD Adapter
+Helmet Mount
+
+Case 1:09-cv-10215-NG Document 40
+
+Claim 22
+
+Filed 10/25/10 Page 19 of 24
+
+Ops-Core's VAS SHROUD
+
+Comment: The installation illustration above shows that when the VAS SHROUD plate is
+attached to the headgear, i.e. a helmet, the external surface of the shell faces away
+from the helmet while the back surface is directed towards the helmet. Finally, the
+VAS SHROUD contains a periphery. (See below.)
+Periphery of
+VAS Shroud
+
+(See Prendergast Decl.,¶ 11.)
+wherein the external surface is
+
+The packaging for Ops-Core's VAS SHROUD indicates
+
+smooth with rounded edges and
+
+that the shroud is "snag free for HALO, HAHO and static
+
+corners at the periphery, such that
+
+line" as seen here.6
+
+the shell has no projections on
+which a shroud line may catch and is (See Chavez Decl.,¶ 5.)
+shaped to match the contour of the
+headgear;
+
+6
+
+"HALO" refers to High Altitude Low Opening parachute jumps, "HAHO" refers to High
+Altitude High Opening parachute jumps, and "static line" refers to parachute jumps using a static
+line to open the parachute.
+-15-
+
+Case 1:09-cv-10215-NG Document 40
+
+Claim 22
+
+Filed 10/25/10 Page 20 of 24
+
+Ops-Core's VAS SHROUD
+
+(See Prendergast Decl.,¶ 11.)
+Comment: A visual inspection of the external surfaces of the shell reveals that it has no
+projections on which a shroud line may catch - that is the VAS SHROUD's shell
+contains the very point of novelty relied upon by the Patent Office in allowing Claim
+22 in the reexamination procedure.
+Shroud
+
+(See Chavez Decl.,¶ 5.)
+The VAS SHROUD packaging and instructions show it is
+shaped to match the contour of a helmet.
+
+-16-
+
+Case 1:09-cv-10215-NG Document 40
+
+Claim 22
+
+Filed 10/25/10 Page 21 of 24
+
+Ops-Core's VAS SHROUD
+Contoured Shroud
+
+(See Chavez Decl.,¶ 5.)
+The VAS SHROUD also makes use of rounded edges and
+corners at the periphery as seen below.
+
+Rounded Edges
+at the Periphery
+
+Rounded
+Corners on
+Periphery of
+External
+Surface of
+Shell
+
+(See Prendergast Decl.,¶ 11.)
+wherein the insert is
+adapted to receive a lock plate;
+
+The VAS SHROUD packaging illustrations show the insert
+is adapted to receive the lock plate located on the bottom
+surface of the NVD Adapter.
+-17-
+
+Case 1:09-cv-10215-NG Document 40
+
+Claim 22
+
+Filed 10/25/10 Page 22 of 24
+
+Ops-Core's VAS SHROUD
+Insert
+Lock Plate on
+NVD Adapter
+Helmet Mount
+
+(See Chavez Decl.,¶ 5.)
+The packaging instructions also indicate the insert is
+adapted to receive the lock plate on the NVD Adapter.
+
+(See Chavez Decl.,¶ 5.)
+The next series of images show how the insert of the VAS
+SHROUD is adapted to receive the lock plate.
+
+Lock Plate on
+NVD Adapter
+Helmet Mount
+
+Top of
+Lock Plate
+
+(See Prendergast Decl.,¶ 11.)
+-18-
+
+Case 1:09-cv-10215-NG Document 40
+
+Claim 22
+
+Filed 10/25/10 Page 23 of 24
+
+Ops-Core's VAS SHROUD
+wherein the lock is
+
+The bottom surface of the NVD Adapter includes a lock
+
+adapted to secure the lock plate to
+
+plate which the anchor lock for the VAS SHROUD is
+
+the insert; and
+
+shaped to secure to the insert as pictured here when the
+lock is engaged.
+Insert
+Engaged
+Lock
+
+(See Prendergast Decl.,¶ 11.)
+wherein the release
+
+Pressing the release mechanism disengages the anchor lock
+
+mechanism allows for removal of
+
+allowing removal of the lock plate from the insert. This
+
+the lock plate from the insert.
+
+image here shows the anchor lock retracted just prior to
+removing the lock plate from the insert of the VAS
+SHROUD.
+
+Disengaged
+Anchor Lock
+
+Insert
+
+Lock
+Plate
+
+(See Prendergast Decl.,¶ 11.)
+
+-19-
+
+Case 1:09-cv-10215-NG Document 40
+
+Filed 10/25/10 Page 24 of 24
+
+The VAS SHROUD meets every claim limitation of Claim 22 resulting in literal
+infringement of the '810 Patent by Ops-Core.
+VI.
+
+CONCLUSION.
+For the foregoing reasons, summary judgment should be entered that Ops-Core has
+
+infringed the '810 Patent.
+Respectfully submitted,
+
+DATED: October 25, 2010
+
+By /s/ Edward R. Schwartz
+Edward R. Schwartz
+BBO #448050
+CHRISTIE, PARKER & HALE, LLP
+350 West Colorado Blvd., Suite 500
+Post Office Box 7068
+Pasadena, California 91109-7068
+Phn: (626) 795-9900
+Fax: 626-577-8800
+e-mail: ers@cph.com
+Attorneys for Plaintiff/Counterdefendant,
+Norotos, Inc.
+
+CERTIFICATE OF SERVICE
+I hereby certify that this document filed through the ECF system will be sent electronically to the
+registered participants as identified on the Notice of Electronic Filing (NEF) and paper copies
+will be sent to those indicated as non-registered participants on October 25, 2010.
+
+/s/ Edward R. Schwartz
+Edward R. Schwartz
+SES PAS904605.6-*-10/25/10 12:20 PM
+
+-20-
+
+

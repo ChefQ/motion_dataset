@@ -1,0 +1,1439 @@
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 1 of 40 PageID #: 1747
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF DELAWARE
+DAVID JACOBS and GARY HINDES, on
+behalf of themselves and all others similarly
+situated, and derivatively on behalf of the
+Federal National Mortgage Association and
+Federal Home Loan Mortgage Corporation,
+Plaintiffs,
+v.
+THE FEDERAL HOUSING FINANCE
+AGENCY, in its capacity as Conservator of
+the Federal National Mortgage Association
+and the Federal Home Loan Mortgage
+Corporation, and THE UNITED STATES
+DEPARTMENT OF THE TREASURY,
+Defendants,
+and
+THE FEDERAL NATIONAL MORTGAGE
+ASSOCIATION and THE FEDERAL HOME
+LOAN MORTGAGE CORPORATION,
+Nominal Defendants.
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+C.A. No. 15-708
+
+OPENING BRIEF IN SUPPORT OF MOTION TO DISMISS FIRST AMENDED
+COMPLAINT BY DEFENDANTS FHFA, FANNIE MAE, AND FREDDIE MAC
+Robert J. Stearn, Jr. (No. 2915)
+Robert C. Maddox (No. 5356)
+Richards, Layton & Finger, P.A.
+920 North King Street
+Wilmington, DE 19801
+(302) 651-7700
+stearn@rlf.com
+maddox@rlf.com
+Attorneys for Defendants Federal Housing
+Finance Agency, Federal National Mortgage
+Association, and Federal Home Loan
+Mortgage Corporation
+
+Howard N. Cayne (admitted pro hac vice)
+Asim Varma (admitted pro hac vice)
+David B. Bergman (admitted pro hac vice)
+Arnold & Porter Kaye Scholer LLP
+601 Massachusetts Avenue
+Washington, DC 20001
+(202) 942-5000
+Howard.Cayne@apks.com
+Asim.Varma@apks.com
+David.Bergman@apks.com
+Attorneys for Defendant Federal Housing
+Finance Agency
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 2 of 40 PageID #: 1748
+
+Michael Joseph Ciatti
+(admitted pro hac vice)
+Graciela Maria Rodriguez
+(admitted pro hac vice)
+King & Spalding LLP
+1700 Pennsylvania Avenue N.W.
+Washington, DC 20006
+(202) 626-5508
+(202) 626-3737
+mciatti@kslaw.com
+gmrodriguez@kslaw.com
+Attorneys for Defendant Federal Home Loan
+Mortgage Corporation
+Dated: April 17, 2017
+
+Jeffrey W. Kilduff
+Michael Walsh
+O’Melveny & Meyers LLP
+1625 Eye Street, N.W.
+Washington, DC 20006
+(202) 383-5300
+jkilduff@omm.com
+mwalsh@omm.com
+Attorneys for Defendant Federal National
+Mortgage Association
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 3 of 40 PageID #: 1749
+
+TABLE OF CONTENTS
+Page
+NATURE AND STAGE OF THE PROCEEDINGS ......................................................................1
+INTRODUCTION AND SUMMARY OF ARGUMENT ..............................................................2
+STATEMENT OF FACTS ..............................................................................................................5
+I.
+
+Fannie Mae, Freddie Mac, and the Appointment of FHFA as Conservator ........................5
+
+II.
+
+The PSPAs Between Treasury and the Enterprises .............................................................7
+
+III.
+
+The Third Amendment to the PSPAs...................................................................................8
+
+STANDARD OF REVIEW .............................................................................................................9
+ARGUMENT .................................................................................................................................10
+I.
+
+II.
+
+Section 4617(f) Bars Plaintiffs’ Claims Seeking Equitable and Declaratory
+Relief ..................................................................................................................................10
+A.
+
+The Third Amendment Was an Exercise of the Conservator’s Broad
+Statutory Powers ....................................................................................................13
+
+B.
+
+Section 4617(f) Applies Notwithstanding Plaintiffs’ Allegation that the
+Third Amendment Violates State Law ..................................................................16
+
+C.
+
+Section 4617(f) Applies Notwithstanding Plaintiffs’ Allegations that the
+Conservator Did a Bad Job or Acted With an Improper Motive ...........................18
+
+HERA Bars Shareholder Claims During Conservatorship ................................................20
+A.
+
+The Conservator Succeeds, at a Minimum, to Shareholders’ Ability to
+Pursue Derivative Claims During Conservatorship ...............................................20
+
+B.
+
+Plaintiffs’ Claims Are Derivative, Not Direct .......................................................21
+
+C.
+
+There Is No “Conflict of Interest” Exception to HERA ........................................22
+
+III.
+
+Plaintiffs’ Claims are Barred by the Doctrine of Issue Preclusion ....................................24
+
+IV.
+
+Counts I and II Fail to State a Claim That the Treasury Stock Certificates, As
+Amended by the Third Amendment, Violate Delaware or Virginia Statutes ....................24
+A.
+
+Federal Law, Not State Law, Governs the Conservator’s Ability to
+Agree to the Third Amendment and the Resulting Treasury Stock
+Certificates .............................................................................................................25
+-i-
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 4 of 40 PageID #: 1750
+
+B.
+
+The Third Amendment Complies With the Delaware and Virginia
+Statutes Upon Which Plaintiffs Rely .....................................................................28
+
+CONCLUSION ..............................................................................................................................30
+
+- ii -
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 5 of 40 PageID #: 1751
+
+TABLE OF AUTHORITIES
+Page(s)
+CASES
+Allis–Chalmers Corp. v. Lueck,
+471 U.S. 202 (1985) .................................................................................................................27
+Bank of Am. Nat’l Ass’n v. Colonial Bank,
+604 F.3d 1239 (11th Cir. 2010) ...............................................................................................12
+Barnett Bank of Marion Cty., N.A. v. Nelson,
+517 U.S. 25 (1996) ...................................................................................................................27
+Cont'l W. Ins. Co. v. FHFA,
+83 F. Supp. 3d 828 (S.D. Iowa 2015) ......................................................................2, 15, 19, 21
+Courtney v. Halleran,
+485 F.3d 942, 949 (7th Cir. 2007) ..........................................................................................15
+Cty. of Sonoma v. FHFA,
+710 F.3d 987 (9th Cir. 2013) .......................................................................................10, 12, 19
+Davis v. Devine,
+736 F.2d 1108 (6th Cir. 1984) .................................................................................................16
+Delaware Cty., Pa. v. FHFA,
+747 F.3d 215 (3d Cir. 2014).....................................................................................................22
+Delta Savs. Bank v. United States,
+265 F.3d 1017 (9th Cir. 2001) ...........................................................................................23, 24
+DiFelice v. Aetna U.S. Healthcare,
+346 F.3d 442 (3d Cir. 2003).......................................................................................................7
+Dittmer Props., L.P. v. F.D.I.C.,
+708 F.3d 1011 (8th Cir. 2013) .................................................................................................12
+Edwards v. Deloitte & Touche, LLP,
+No. 16-21221-CIV, 2017 WL 1291994 (S.D. Fla. Jan. 18, 2017)...........................................22
+El Paso Pipeline GP Co., L.L.C. v. Brinckerhoff,
+152 A.3d 1248 (Del. 2016) ........................................................................................................4
+Elliott Assocs., L.P. v. Avatex Corp.,
+715 A.2d 843 (Del. 1998) ........................................................................................................29
+
+iii
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 6 of 40 PageID #: 1752
+
+Esther Sadowsky Testamentary Trust v. Syron,
+639 F. Supp. 2d 347 (S.D.N.Y. 2009)......................................................................................20
+Fasano v. Fed. Reserve Bank of N.Y.,
+457 F.3d 274 (3d Cir. 2006).....................................................................................................27
+F.D.I.C. v. Bank of Boulder,
+911 F.2d 1466 (10th Cir. 1990) ...............................................................................................27
+FHFA v. City of Chicago,
+962 F. Supp. 2d 1044 (N.D. Ill. 2013) .....................................................................................13
+First Hartford Corp. Pension Plan & Trust v. United States,
+194 F.3d 1279 (Fed. Cir. 1999)..........................................................................................23, 24
+Freeman v. F.D.I.C.,
+56 F.3d 1394 (D.C. Cir. 1995) .................................................................................................11
+Furgatch v. Resolution Trust Corp.,
+Civ. No. 93-20304 SW, 1993 WL 149084 (N.D. Cal. Apr. 30, 1993) ....................................12
+Gail C. Sweeney Estate Marital Trust v. U.S. Treasury Dep’t,
+68 F. Supp. 3d 116, 125-26 (D.D.C. 2014)........................................................................11, 21
+Gosnell v. F.D.I.C.,
+No. 90-1266L, 1991 WL 533637 (W.D.N.Y. Feb. 4, 1991)....................................................14
+Gross v. Bell Sav. Bank PaSA,
+974 F.2d 403 (3d Cir. 1992)...................................................................................12, 17, 18, 19
+Hindes v. F.D.I.C.,
+137 F.3d 148 (3d Cir. 1998).....................................................................................................11
+In re Fed. Home Loan Mortg. Corp. Derivative Litig.,
+643 F. Supp. 2d 790 (E.D. Va. 2009) ......................................................................................21
+In re Fed. Nat’l Mortg. Ass’n Sec., Derivative, ERISA Litig.,
+629 F. Supp. 2d 1 (D.D.C. 2009) .............................................................................................21
+In re Landmark Land Co. of Carolina,
+No. 96-1404, 1997 WL 159479 (4th Cir. Apr. 7, 1997) ..........................................................17
+In re Landmark Land Co. of Okla., Inc.,
+973 F.2d 283 (4th Cir. 1992) ...................................................................................................13
+In re Schering Plough Corp. Intron/Temodar Consumer Class Action,
+678 F.3d 235 (3d Cir. 2012).................................................................................................9, 10
+
+- iv -
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 7 of 40 PageID #: 1753
+
+Kain v. Angle,
+69 S.E. 355 (Va. 1910).............................................................................................................29
+Kellmer v. Raines,
+674 F.3d 848 (D.C. Cir. 2012) ...........................................................................................20, 21
+Kuriakose v. Fed. Home Loan Mortg. Corp.,
+674 F. Supp. 2d 483 (S.D.N.Y. 2009)......................................................................................11
+Leon Cty. v. FHFA,
+700 F.3d 1273 (11th Cir. 2012) ...............................................................................................11
+Massachusetts v. FHFA,
+54 F. Supp. 3d 94, 101-02 (D. Mass. 2014) .............................................................................11
+MBIA Ins. Corp. v. F.D.I.C.,
+708 F.3d 234 (D.C. Cir. 2013) .................................................................................................13
+N. Haven Bd. of Educ. v. Bell,
+456 U.S. 512 (1982) .................................................................................................................16
+Nat’l Trust for Historic Pres. in U.S. v. F.D.I.C.,
+21 F.3d 469 (D.C. Cir. 1994) ...................................................................................................11
+Nat’l Trust for Historic Pres. v. F.D.I.C.,
+995 F.2d 238 (D.C. Cir. 1993) ...........................................................................................17, 19
+Pagliara v. Fed. Home Loan Mortg. Corp.,
+203 F. Supp. 3d 678, 689 (E.D. Va. 2016) ..................................................................20, 22, 23
+Perry Capital v. Mnuchin,
+848 F. 3d 1072 (D.C. Cir. 2017) ...................................................................................... passim
+Roberts v. FHFA,
+--- F. Supp. 3d ----, 2017 WL 1049841 (N.D. Ill. Mar. 20, 2017) ...........................2, 13, 15, 19
+Robinson v. FHFA,
+--- F. Supp. 3d. ----, 2016 WL 4726555 (E.D. Ky. Sept. 9, 2016).................................2, 10, 15
+Rosa v. Resolution Trust Corp.,
+938 F.2d 383 (3d Cir. 1991).........................................................................................16, 17, 18
+RPM Invs., Inc. v. Resolution Trust Corp.,
+75 F.3d 618 (11th Cir. 1996) ...................................................................................................17
+Saxton v. FHFA,
+--- F. Supp. 3d ----, 2017 WL 1148279 (N.D. Iowa Mar. 27, 2017) .................2, 15, 19, 22, 24
+
+-v-
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 8 of 40 PageID #: 1754
+
+Shintom Co., Ltd. v. Audiovox Corp.,
+No. Civ. A. 693-N, 2005 WL 1138740 (Del. Ch. May 4, 2005) .............................................30
+Shintom Co. v. Audiovox Corp.,
+888 A.2d 225 (Del. 2005) ..................................................................................................28, 29
+Surrick v. Killion,
+449 F.3d 520 (3d Cir. 2006).....................................................................................................27
+Town of Babylon v. FHFA,
+699 F.3d 221 (2d Cir. 2012)...............................................................................................11, 12
+United Liberty Life Ins. Co. v. Ryan,
+985 F.2d 1320, 1323, 1328-29 (6th Cir. 1993) .......................................................................15
+Volges v. Resolution Trust Corp.,
+32 F.3d 50 (2d Cir. 1994) ............................................................................................15, 17, 18
+Ward v. Resolution Trust Corp.,
+996 F.2d 99 (5th Cir. 1993) ...............................................................................................12, 17
+Waterview Mgmt. Co. v. FDIC,
+105 F.3d 696, 700-02 (D.C. Cir. 1997) ...................................................................................15
+STATUTES
+12 U.S.C.
+§ 1451 et seq. ...........................................................................................................................25
+§ 1452(b)(1) .............................................................................................................................25
+§ 1455(f)...................................................................................................................................25
+§ 1455(l)(1) ............................................................................................................................6, 7
+§ 1716 et seq. ...........................................................................................................................25
+§ 1718(a) ..................................................................................................................................25
+§ 1718(c)(1) .............................................................................................................................25
+§ 1719(g)(1)(A) ..........................................................................................................................6
+§ 1719(g)(1)(C) ......................................................................................................................7, 8
+§ 1821(d)(2)(G)(i) ....................................................................................................................15
+§ 1821(j) ...........................................................................................................11, 16, 17, 18, 19
+§ 4617(a)(2) .........................................................................................................................5, 15
+§ 4617(a)(4)(A) ..........................................................................................................................8
+§ 4617(b)(2) .............................................................................................................................14
+§ 4617(b)(2)(A) ....................................................................................................4, 6, 20, 22, 23
+§ 4617(b)(2)(B) ..............................................................................................................6, 14, 15
+§ 4617(b)(2)(D)(ii) ...................................................................................................................15
+§ 4617(b)(2)(G) ....................................................................................................................6, 14
+§ 4617(b)(2)(J)(ii) ..........................................................................................................6, 14, 21
+§ 4617(f)........................................................................................................................... passim
+- vi -
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 9 of 40 PageID #: 1755
+
+Consolidated Appropriations Act, 2016, Pub. L. No. 114-113, § 702, Tit. VII,
+Div. O, 129 Stat. 2242 (2015) ..................................................................................................16
+8 Del. Code § 151(c) ....................................................................................................16, 28, 29, 30
+Housing and Economic Recovery Act of 2008, Pub. L. 110-289, 122 Stat. 2654
+(July 30, 2008), codified at 12 U.S.C. § 4511 et seq .............................................................2, 5
+Va. Code
+§ 13.1-638 ..........................................................................................................................16, 29
+§ 13.1-638(A) ...........................................................................................................................28
+§ 13.1-638(C) ...........................................................................................................................29
+§ 13.1-638(D) ...........................................................................................................................30
+§ 13.1-638(F) ...........................................................................................................................28
+OTHER AUTHORITIES
+12 C.F.R. § 1710.10 .................................................................................................................25, 26
+67 Fed. Reg. 38361 (Jun. 4, 2002) .................................................................................................26
+BLACK’S LAW DICTIONARY (9th ed. 2009) ......................................................................................7
+
+- vii -
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 10 of 40 PageID #: 1756
+
+NATURE AND STAGE OF THE PROCEEDINGS
+Plaintiffs David Jacobs and Gary Hindes commenced this action on August 17, 2015, by
+filing their putative Class Action and Derivative Complaint. D.I. 1. On November 13, 2015,
+Defendants filed two motions to dismiss—one by the Federal Housing Finance Agency (“FHFA”
+or the “Conservator”), Federal National Mortgage Association (“Fannie Mae”), and Federal
+Home Loan Mortgage Association (“Freddie Mac”) (D.I. 17), and one by the United States
+Department of the Treasury (“Treasury”) (D.I. 19).
+In March 2016, the Court stayed this case pending a ruling by the United States Judicial
+Panel on Multidistrict Litigation concerning related litigation. D.I. 44. The Court lifted the stay
+a few months later, in July. D.I. 47. The Court subsequently denied (D.I. 50) Plaintiffs’
+Application for Certification to the Delaware and Virginia Supreme Courts (D.I. 24) in
+September 2016.
+In February 2017, the Court entered an order (D.I. 61) granting Plaintiffs’ Motion for
+Leave to Amend (D.I. 48) and denying as moot Defendants’ motions to dismiss the original
+complaint (D.I. 17; D.I. 19). Plaintiffs filed their First Amended Complaint in March 2017 (D.I.
+62), and the Court subsequently approved the parties’ Stipulation to Modify Briefing Schedule
+and to Extend Page Limits for the motions to dismiss the amended complaint (D.I. 64).
+All Defendants now move to dismiss the First Amended Complaint. This is the opening
+brief of defendants FHFA, Fannie Mae, and Freddie Mac in support of their motion to dismiss.
+FHFA, Fannie Mae, and Freddie Mac also adopt and incorporate the arguments made by the
+Department of the Treasury in its opening brief.
+
+1
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 11 of 40 PageID #: 1757
+
+INTRODUCTION AND SUMMARY OF ARGUMENT
+This action is one in a series of suits brought by shareholders of Fannie Mae and Freddie
+Mac (together, the “Enterprises” or “GSEs”), all of which seek to challenge the so-called “Third
+Amendment” to the Senior Preferred Stock Purchase Agreements (“PSPAs”) between Treasury
+and FHFA in its capacity as Conservator of the Enterprises. To date, six federal courts have
+addressed claims that the Third Amendment is invalid and all six courts (including the D.C.
+Circuit) have dismissed those claims as barred by federal law—namely, the Housing and
+Economic Recovery Act of 2008 (“HERA”). Pub. L. No. 110-289, 122 Stat. 2654 (2008),
+codified at 12 U.S.C. § 4511 et seq.1 Here, Plaintiffs’ First Amended Complaint (“FAC”) alleges
+that the Third Amendment is invalid under the state laws of Delaware and Virginia because it
+purportedly fails to comply with certain alleged state statutory requirements pertaining to the
+issuance of preferred stock. FAC ¶¶ 79-94. On this basis, Plaintiffs ask the Court to declare the
+Third Amendment void and enter an order vacating it. But the same dispositive provisions of
+federal law that required dismissal in each of the prior six suits apply equally here,
+notwithstanding the alleged violations of state law asserted by Plaintiffs. Indeed, because
+Plaintiffs expressly plead each of their claims as derivative, certain of those prior decisions (also
+addressing derivative claims) have a binding, preclusive effect that bars Plaintiffs’ attempt to relitigate the same dispositive issues here.
+Through this litigation, Plaintiffs ask the Court to re-write the PSPAs, which are the
+essential funding agreements between the Treasury and the Conservator. Pursuant to the PSPAs,
+1
+
+See Perry Capital v. Mnuchin, 848 F. 3d 1072, 1080 (D.C. Cir. 2017) (affirming in pertinent
+part Perry Capital v. Lew, 70 F. Supp. 3d 208, 246 (D.D.C. 2014)); Saxton v. FHFA, --- F. Supp.
+3d ----, 2017 WL 1148279, at *10 (N.D. Iowa Mar. 27, 2017); Roberts v. FHFA, --- F. Supp. 3d ---, 2017 WL 1049841, at *2 (N.D. Ill. Mar. 20, 2017); Robinson v. FHFA, --- F. Supp. 3d. ----,
+2016 WL 4726555, at *5-8 (E.D. Ky. Sept. 9, 2016); Cont'l W. Ins. Co. v. FHFA, 83 F. Supp. 3d
+828, 840 n.6 (S.D. Iowa 2015).
+2
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 12 of 40 PageID #: 1758
+
+Treasury invested $189.5 billion into the Enterprises and remains contractually committed to
+invest up to $258.1 billion more, if necessary to prevent the mandatory placement of the
+Enterprises into statutory receivership and liquidation. In return, Treasury received senior
+preferred stock in the Enterprises that featured (a) a liquidation preference that increased dollarfor-dollar with the amount that Treasury invested, (b) a fixed dividend based on the amount that
+Treasury invested, and (c) a periodic commitment fee based on the market value of the Treasury
+commitment. The Third Amendment changed the dividend structure from a fixed dividend to a
+variable dividend based on the Enterprises’ net worth, and relieved the Enterprises of their
+obligation to pay periodic commitment fees. Here, Plaintiffs seek to maintain those aspects of
+the agreements they like—i.e., the unprecedented, continuing, and massive financial support
+from Treasury—and discard the parts they do not like—i.e., the variable dividend of the Third
+Amendment. But HERA bars Plaintiffs’ efforts to reward themselves at the expense of federal
+taxpayers, who risked—and continue to risk—hundreds of billions of dollars.
+There are at least four independent bases for dismissal—each purely legal.
+1.
+
+The Court lacks jurisdiction over Plaintiffs’ claims seeking equitable and
+
+declaratory relief—including rescission of the Third Amendment—because “no court may take
+any action to restrain or affect the exercise of powers or functions of the [FHFA] as a
+conservator.” 12 U.S.C. § 4617(f). Congress gave the Conservator broad statutory powers to
+operate the Enterprises and take actions on their behalf, all in a manner the Conservator alone
+determines is in the best interests of the Enterprises or FHFA. Section 4617(f) of HERA, in turn,
+protects the Conservator’s exercise of these powers by barring efforts—like Plaintiffs’ here—to
+second-guess the Conservator’s operational judgments through litigation. Significantly, this bar
+on judicial review applies irrespective of alleged violations of state law. So long as the
+
+3
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 13 of 40 PageID #: 1759
+
+Conservator acted pursuant to its broad statutory powers—e.g., by amending a funding
+agreement on behalf of the Enterprises—courts may not “restrain or affect” that action.
+2.
+
+HERA bars shareholder derivative claims while the Enterprises are in
+
+conservatorship. HERA provides that FHFA, upon its appointment as Conservator,
+“immediately succeed[ed]” to “all rights” of the Enterprises and their shareholders. 12 U.S.C.
+§ 4617(b)(2)(A). This Succession Provision applies at least to all derivative claims that
+shareholders like Plaintiffs may seek to assert on behalf of the Enterprises. Further, the
+Succession Provision contains no exception for purported “conflicts of interest,” and every court
+to have addressed this issue under HERA has refused to judicially-enact such an exception. That
+Plaintiffs attempt to label their claims “direct and derivative” is of no legal consequence. Their
+claims are plainly—and exclusively—derivative, as set forth in Treasury’s brief. Indeed, the
+Delaware Supreme Court recently reaffirmed that there is only one type of claim that can
+conceivably be both direct and derivative, and claims of that type can arise only in a narrow set
+of circumstances not present here. See El Paso Pipeline GP Co., L.L.C. v. Brinckerhoff, 152
+A.3d 1248, 1262-4 (Del. 2016).
+3.
+
+For the reasons stated in Treasury’s brief, the doctrine of issue preclusion
+
+prohibits Plaintiffs from re-litigating the application of Section 4617(f) and HERA’s Succession
+Clause as bars to their claims. Those issues already have been litigated and resolved—multiple
+times—against other shareholder plaintiffs asserting expressly derivative claims challenging the
+Third Amendment. Because the Enterprises are the real parties in interest in any derivative
+action, issue preclusion bars Plaintiffs’ attempt to convince this Court to adopt the arguments
+that other courts specifically rejected in prior derivative litigation over the Third Amendment.
+
+4
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 14 of 40 PageID #: 1760
+
+4.
+
+Even if the Court were not barred by both controlling federal law and issue
+
+preclusion from considering the merits of Counts I and II, both counts fail as a matter of law
+because the Third Amendment does not violate governing federal law, nor would it violate
+Delaware or Virginia law even if either state’s law were found to override the express and
+controlling provisions of federal law.
+STATEMENT OF FACTS
+I.
+
+Fannie Mae, Freddie Mac, and the Appointment of FHFA as Conservator
+Fannie Mae and Freddie Mac are government-sponsored enterprises, chartered by
+
+Congress, that provide liquidity to the mortgage market by purchasing residential loans from
+banks and other lenders, thereby facilitating lenders’ ability to make additional loans. FAC ¶ 30.
+The Enterprises own or guarantee trillions of dollars of residential mortgages and mortgagebacked securities, and have played a key role in housing finance and the U.S. economy.
+Beginning in 2006, the Enterprises suffered substantial losses in their mortgage portfolios
+and guarantees as a result of the global financial crisis and nationwide housing decline. FAC
+¶ 33. Indeed, “[i]n 2007–2008, the national economy went into a severe recession due in
+significant part to a dramatic decline in the housing market,” which pushed the Enterprises “to
+the brink of collapse. Congress concluded that resuscitating Fannie Mae and Freddie Mac was
+vital for the Nation’s economic health, and to that end passed the Housing and Economic
+Recovery Act of 2008 [“HERA”].” Perry Capital, 848 F.3d at 1079 (citation omitted); see also
+FAC ¶¶ 33-34. Congress passed HERA in July 2008, thereby creating FHFA as an independent
+federal agency to supervise and regulate the Enterprises, as well as the Federal Home Loan
+Banks. See Pub. L. No. 110-289, 122 Stat. 2654 (2008), codified at 12 U.S.C. § 4511 et seq.
+Through HERA, Congress granted the Director of FHFA the discretionary authority to
+place Fannie Mae and Freddie Mac in conservatorship “for the purpose of reorganizing,
+5
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 15 of 40 PageID #: 1761
+
+rehabilitating, or winding up the affairs of a regulated entity.” 12 U.S.C. § 4617(a)(2). In
+September 2008, the Director exercised this discretion and FHFA became conservator of Fannie
+Mae and Freddie Mac. FAC ¶ 35. HERA provides that, upon its appointment as conservator,
+FHFA “immediately succeed[s] to . . . all rights, titles, powers, and privileges of the regulated
+entity, and of any stockholder, officer, or director of such regulated entity with respect to the
+regulated entity and the assets of the regulated entity.” 12 U.S.C. § 4617(b)(2)(A)(i) (emphasis
+added). The statute accords the Conservator broad powers to “operate” and “conduct all
+business” of the Enterprises. Id. § 4617(b)(2)(B)(i). FHFA thus has express, plenary authority
+as Conservator to:
+
+
+“conduct all business of the [Enterprises],” id. § 4617(b)(2)(B)(i);
+
+
+
+“perform all functions of the [Enterprises] in the name of the [Enterprises] which are
+consistent with the appointment as conservator,” id. § 4617(b)(2)(B)(iii);
+
+
+
+“preserve and conserve the assets and property of the [Enterprises],” id.
+§ 4617(b)(2)(B)(iv);
+
+
+
+“take over the assets of and operate the [Enterprises] with all the powers of the
+shareholders, the directors, and the officers,” id. § 4617(b)(2)(B)(i);
+
+
+
+“transfer or sell any asset or liability of the [Enterprises] . . . without any approval,
+assignment, or consent with respect to such transfer or sale,” id. § 4617(b)(2)(G); and
+
+
+
+“take any [authorized action], which the [FHFA] determines is in the best interests of the
+[Enterprises] or the [FHFA],” id. § 4617(b)(2)(J)(ii).
+Reinforcing and facilitating the exercise of the Conservator’s broad operational authority,
+
+Congress barred any judicial review of the Conservator’s actions. Indeed, “no court may take
+any action to restrain or affect the exercise of powers or functions of the Agency as a
+conservator.” Id. § 4617(f).
+
+6
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 16 of 40 PageID #: 1762
+
+II.
+
+The PSPAs Between Treasury and the Enterprises
+In September 2008, Treasury used its statutory authority (12 U.S.C.
+
+§ 1719(g)(1)(A)(Fannie Mae); id. § 1455(l)(1)(A) (Freddie Mac)) to purchase securities issued
+by the Enterprises by entering into the PSPAs with each Enterprise, through FHFA as
+Conservator. See FAC ¶ 36; Amended and Restated Senior Preferred Stock Purchase Agreement
+(September 26, 2008) (attached with amendments as Exhibit A) (“PSPAs”); see also Certificate
+of Designation of Terms of Variable Liquidation Preference Senior Preferred Stock, Series 20082 (September 7, 2008) (“Treasury Stock Certificate”) (attached as Exhibit B).2 Under the
+PSPAs, Treasury committed to advance funds to each Enterprise for each quarter in which that
+Enterprise’s liabilities exceeded its assets, so as to maintain the positive net worth of that
+Enterprise. PSPAs § 2.2.
+Treasury’s statutory authority to provide funding to the GSEs required that the
+investment “protect the taxpayer.” 12 U.S.C. §§ 1455(l)(1)(C), 1719(g)(1)(C). In exchange for
+the continuing funding commitment that Treasury provided to the GSEs, the PSPAs gave
+Treasury a comprehensive and integrated bundle of rights, entitlements, and financial
+commitments, including the following:
+
+
+Senior Preferred Liquidation Preference,3 which is valued at $1 billion from each
+GSE, and is increased dollar-for-dollar as either Fannie Mae or Freddie Mac
+draws on its PSPA funding. FAC ¶ 36; PSPAs § 3.3. Currently, Treasury has a
+
+2
+
+Because the PSPAs and Treasury Stock Certificates are “integral” to the First Amended
+Complaint, and thereby incorporated into it, the Court may consider these documents in
+resolving this motion to dismiss. See DiFelice v. Aetna U.S. Healthcare, 346 F.3d 442, 444 n.2
+(3d Cir. 2003). Exhibit A includes both the Fannie Mae PSPA (with amendments) and the
+Freddie Mac PSPA (with amendments). Likewise, Exhibit B includes both the Fannie Mae and
+Freddie Mac Treasury Stock Certificates (as they existed before the Third Amendment).
+Because the two PSPAs and two Treasury Stock Certificates are materially identical, their
+provisions are cited herein as “PSPAs § ___” and “Treasury Stock Certificate § ___.”
+3
+A liquidation preference is “[a] preferred shareholder’s right, once the corporation is
+liquidated, to receive a specified distribution before common shareholders receive anything.”
+Liquidation preference, BLACK’S LAW DICTIONARY (9th ed. 2009).
+7
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 17 of 40 PageID #: 1763
+
+combined liquidation preference of approximately $189.4 billion for the two
+GSEs. FAC ¶ 48. (This reflects approximately $187.4 billion in draws, plus the
+initial $2 billion in liquidation preference. See id.)
+
+
+Dividends, paid on a quarterly basis and calculated based on the total amount of
+the liquidation preference. See FAC ¶ 36. Prior to the Third Amendment, the
+Enterprises paid dividends at an annual rate of ten percent of their respective
+liquidation preferences ($19 billion per year). Treasury Stock Certificate § 2. If
+the Enterprises failed to pay the dividend in cash, then the dividend would accrue
+at a rate of 12% and be added to Treasury’s outstanding liquidation preference.
+Id. § 2(c).
+
+
+
+Periodic Commitment Fees, to be paid on a quarterly basis beginning on March
+31, 2010. PSPAs §§ 3.1, 3.2. The periodic commitment fee “is intended to fully
+compensate [Treasury] for the support provided by the ongoing Commitment
+following December 31, 2009.” PSPAs § 3.2. The amount of the fee was to be
+“determined with reference to the market value of the Commitment as then in
+effect,” as mutually agreed between Treasury and the GSEs, in consultation with
+the Chairman of the Federal Reserve. The PSPAs permitted Treasury, in its sole
+discretion, to waive the fee for up to one year at a time based on conditions in the
+mortgage market. Id. Treasury and FHFA initially delayed implementation of the
+fee, and Treasury then waived the periodic commitment fee in 2011 and 2012.4
+
+
+
+Warrants to purchase 79.9% of each Enterprise’s common stock. FAC ¶¶ 8-9, 36;
+PSPAs § 3.1.
+The PSPAs were amended twice in 2009—first to raise the funding commitment for each
+
+GSE from $100 billion to $200 billion, and then, in the Second Amendment, to raise the
+commitment according to a formula that would become capped at the end of 2012. See Ex. A at
+30 (First Amendment to PSPAs, dated May 6, 2009); id. at 40 (Second Amendment to PSPAs,
+dated Dec. 24, 2009).
+III.
+
+The Third Amendment to the PSPAs
+As of August 8, 2012, Fannie Mae had drawn approximately $116.1 billion, and Freddie
+
+Mac had drawn approximately $71.3 billion, from Treasury. FAC ¶ 48. Under the terms of the
+4
+
+See Fannie Mae, Annual Report (Form 10-K), at 28 (Apr. 2, 2013), http://goo.gl/VbY34k;
+Freddie Mac, Annual Report (Form 10-K), at 180 (Feb. 28, 2013), http://goo.gl/iMsMY7;
+Freddie Mac, Annual Report (Form 10-K), at 9 (Mar. 9, 2012), http://goo.gl/XfKr2e.
+8
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 18 of 40 PageID #: 1764
+
+PSPAs, these draws were necessary to maintain the positive net worth of each company and
+avoid mandatory statutory receivership. See 12 U.S.C. § 4617(a)(4)(A).
+On August 17, 2012, Treasury and FHFA, acting as Conservator for the Enterprises,
+entered into the Third Amendment to the PSPAs. FAC ¶ 15; Ex. A at 52 (Third Amendment to
+PSPAs, dated Aug. 12, 2012).5 The Third Amendment eliminated the payment of a fixed
+dividend and suspended the periodic commitment fee. Id. ¶¶ 42; Ex. A at 53-55. Instead, the
+Enterprises now owe a quarterly variable dividend—referred to in the First Amended Complaint
+as a “Net Worth Sweep”—based on the Enterprises’ earnings, after accounting for prescribed
+capital reserves. Ex. A at 55 § 3. If an Enterprise’s net worth is negative in a quarter, no
+dividend is due. Id. The Third Amendment thus exchanged future payments in an uncertain
+amount (a variable dividend equal to profits earned) for relief from future obligations (fixed
+dividends and periodic commitment fee). The Enterprises’ annual earnings historically averaged
+less than $19 billion, the amount owed under the pre-Third Amendment fixed dividend.6
+STANDARD OF REVIEW
+Defendants move to dismiss all claims pursuant to Rule 12(b)(1) and Rule 12(b)(6) of the
+Federal Rules of Civil Procedure. Where, as here, a Rule 12(b)(1) motion is limited to a facial
+attack on the pleadings, it is subject to the same standard as a motion brought under Rule
+12(b)(6). In re Schering Plough Corp. Intron/Temodar Consumer Class Action, 678 F.3d 235,
+5
+
+The Treasury Stock Certificates, which were originally executed on September 7, 2008
+(Ex. B), were amended on September 27, 2012, to implement the changes agreed to in the Third
+Amendment to the PSPAs, including the net-worth dividend. See Amended and Restated
+Certificate of Designation of Terms of Variable Liquidation Preference Senior Preferred Stock,
+Series 2008-2, § 2 (attached as Exhibit C) (“Amended Treasury Stock Certificate”).
+6
+See Fannie Mae, Quarterly Report (Form 10-Q) (Aug. 8, 2012) at 4 (“The amount of this
+dividend payment exceeds our reported annual net income for every year since our inception.”)
+http://goo.gl/bGLVXz; Freddie Mac, Quarterly Report (Form 10-Q) (Aug. 7. 2012) at 8 (“our
+annual cash dividend obligation to Treasury on the senior preferred stock of $7.2 billion
+exceed[s] our annual historical earnings in all but one period.”) http://goo.gl/2dbgey.
+9
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 19 of 40 PageID #: 1765
+
+243 (3d Cir. 2012). Under Rule 12(b)(1) and 12(b)(6), the plaintiff “must assert facts that
+affirmatively and plausibly suggest that the pleader has the right he claims (here, [including] the
+right to jurisdiction), rather than facts that are merely consistent with such a right,” and the court
+may disregard allegations that “are no more than conclusions” and therefore “not entitled to the
+assumption of truth.” Id. at 243-44 (citations and internal quotation marks omitted).
+ARGUMENT
+I.
+
+Section 4617(f) Bars Plaintiffs’ Claims Seeking Equitable and Declaratory Relief
+To enable the Conservator to carry out its functions, Congress expressly prohibited the
+
+courts from taking action to second-guess the Conservator’s conduct, mandating that “no court
+may take any action to restrain or affect the exercise of powers or functions of the Agency as a
+conservator.” 12 U.S.C. § 4617(f). As the D.C. Circuit recently explained in affirming the
+dismissal of other shareholder claims challenging the Third Amendment, “Section 4617(f)’s . . .
+plain statutory text” prohibits any “interference—through judicial injunctions, declaratory
+judgments, or other equitable relief—with FHFA’s statutorily permitted actions as conservator.”
+Perry Capital, 848 F. 3d at 1087. Courts consistently apply Section 4617(f) to bar all claims
+seeking relief that would “restrain or affect” the exercise of the powers of FHFA as Conservator
+of the GSEs. See, e.g., id. (“The plain statutory text draws a sharp line in the sand against
+litigative interference—through judicial injunctions, declaratory judgments, or other equitable
+relief—with FHFA's statutorily permitted actions as conservator or receiver.”); Robinson, 2016
+WL 4726555 at *8 (“[S]o long as FHFA is exercising judgment under one of its enumerated
+powers . . . this court may not enjoin that act . . . .”) (internal quotation marks and citation
+omitted); Cty. of Sonoma v. FHFA, 710 F.3d 987, 993 (9th Cir. 2013) (“Because . . . FHFA acted
+within its powers as conservator, neither we nor the district court have jurisdiction over
+
+10
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 20 of 40 PageID #: 1766
+
+Plaintiffs’-Appellees’ [APA and state law] claims”); Leon Cty. v. FHFA, 700 F.3d 1273, 1278-79
+(11th Cir. 2012) (affirming dismissal of APA claims based on operation of Section 4617(f)).7
+These decisions under HERA are consistent with the substantial body of case law
+interpreting the materially identical provision governing Federal Deposit Insurance Corporation
+(“FDIC”) conservatorships and receiverships, 12 U.S.C. § 1821(j).8 Section 1821(j) “effect[s] a
+sweeping ouster of courts’ power to grant equitable remedies,” and applies “regardless of the
+claimant’s likelihood of success on the merits of his underlying claims.” Freeman v. F.D.I.C.,
+56 F.3d 1394, 1399 (D.C. Cir. 1995). As the Third Circuit has recognized, this provision is
+intended “to permit the FDIC to perform its duties as conservator or receiver promptly and
+effectively without judicial interference.” Hindes v. F.D.I.C., 137 F.3d 148, 160 (3d Cir. 1998).9
+Indeed, “given the breadth of the statutory language . . . the statute would appear to bar a court
+from acting in virtually all circumstances.” Nat’l Trust for Historic Pres. in U.S. v. F.D.I.C., 21
+F.3d 469, 472 (D.C. Cir. 1994) (Wald, J., concurring).
+Because Section 4617(f) “precludes injunctive and declaratory relief which would
+restrain or affect the powers of the [conservator or receiver],” Hindes, 137 F.3d at 166, it bars
+nearly all of the relief Plaintiffs seek here—including Plaintiffs’ requests for (i) “equitable and
+injunctive relief . . . including rescission of the Net Worth Sweep and restitution of the monies
+
+7
+
+See also, e.g., Town of Babylon v. FHFA, 699 F.3d 221, 228 (2d Cir. 2012); Massachusetts
+v. FHFA, 54 F. Supp. 3d 94, 101-02 (D. Mass. 2014); Gail C. Sweeney Estate Marital Trust v.
+U.S. Treasury Dep’t, 68 F. Supp. 3d 116, 125-26 (D.D.C. 2014).
+8
+Section 1821(j) provides that “no court may take any action . . . to restrain or affect the
+exercise of powers or functions of the [FDIC] as a conservator or a receiver.” 12 U.S.C.
+§ 1821(j). “In analyzing the limits of the Court’s authority under § 4617(f), the Court may turn
+to precedent relating to [Section 1821(j)].” Kuriakose v. Fed. Home Loan Mortg. Corp., 674
+F. Supp. 2d 483, 493 (S.D.N.Y. 2009) (collecting cases).
+9
+Gary Hindes, a Plaintiff in this case, was one of the plaintiff-appellants in Hindes.
+11
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 21 of 40 PageID #: 1767
+
+paid by the Companies to Treasury pursuant thereto,” (ii) declarations that the Net Worth Sweep
+is void and unenforceable, and (iii) other declaratory relief. FAC, Prayer for Relief C-F, H.
+The analysis required to determine whether Section 4617(f) bars judicial review is
+straightforward and “quite narrow.” Bank of Am. Nat’l Ass’n v. Colonial Bank, 604 F.3d 1239,
+1243 (11th Cir. 2010) (discussing 12 U.S.C. § 1821(j)). The court “must first determine whether
+the challenged action is within the [Conservator]’s power or function” under HERA. Dittmer
+Props., L.P. v. F.D.I.C., 708 F.3d 1011, 1017 (8th Cir. 2013) (citing Bank of Am., 604 F.3d at
+1243). If so, the Conservator “is protected from all court action that would ‘restrain or affect’
+the exercise of those powers or functions.” Bank of Am., 604 F.3d at 1243.10 Indeed, “injunctive
+relief will be denied even where the [conservator or receiver] acts in violation of other statutory
+schemes,” so long as it is carrying out a statutory power or function of its own. Gross v. Bell
+Sav. Bank PaSA, 974 F.2d 403, 407 (3d Cir. 1992); see also Ward v. Resolution Trust Corp., 996
+F.2d 99, 103 (5th Cir. 1993) (holding allegations that conservator or receiver acted “improperly
+or unlawfully” cannot overcome Section 1821(j) so long as conservator or receiver “did not
+engage in an activity outside its statutory powers”).
+By definition, conservators are appointed only in the most difficult circumstances, where
+hard business and operational choices must be made every day. Inevitably, shareholders will
+disagree with some of these decisions, as Plaintiffs do here. But if conservators can be hauled
+into court and put through the rigors of protracted litigation every time a shareholder questions a
+
+10
+
+See also Cty. of Sonoma, 710 F.3d at 992 (“If the [challenged action] falls within FHFA’s
+conservator powers, it is insulated from review and th[e] case must be dismissed.”); Town of
+Babylon, 699 F.3d at 228 (“A conclusion that the challenged acts were directed to an institution
+in conservatorship and within the powers given to the conservator ends the [Section 4617(f)]
+inquiry.”); Furgatch v. Resolution Trust Corp., Civ. No. 93-20304 SW, 1993 WL 149084, at *2
+(N.D. Cal. Apr. 30, 1993) (“[T]he only relevant question . . . is whether the conservator or
+receiver is carrying out a statutory function or power. If so, no injunction may issue.”).
+12
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 22 of 40 PageID #: 1768
+
+conservator’s decision, conservators will spend an inordinate amount of time litigating past
+decisions at the expense of time that should be devoted to ongoing conservatorship operations.
+Statutes such as Section 4617(f) embody Congress’s policy judgment that enabling conservators
+to focus on the work Congress empowered and directed them to do without the distraction of
+litigation is more important than vesting the courts with jurisdiction to hear and adjudicate all
+claims of all claimants at all times. As the district court in Perry Capital observed (and as
+affirmed by the D.C. Circuit): “Requiring the Court to evaluate the merits of FHFA’s decisionmaking each time it considers HERA’s jurisdictional bar would render the anti-injunction
+provision hollow, disregarding Congress’ express intention to divest the Court of jurisdiction to
+restrain FHFA’s ‘exercise of [its] powers or functions’ under HERA—i.e., how FHFA employs
+its powers or functions.” Perry Capital, 70 F. Supp. 3d at 226 (quoting 12 U.S.C. § 4617(f)).
+A.
+
+The Third Amendment Was an Exercise of the Conservator’s Broad
+Statutory Powers
+
+HERA “endows FHFA with extraordinarily broad flexibility to carry out its role as
+conservator.” Perry Capital, 848 F.3d at 1087. Indeed, HERA grants the Conservator “broad
+powers to operate Fannie and Freddie,” to “assume complete control” over the Enterprises in
+conservatorship, and to exercise “exclusive authority over [their] business operations.” FHFA v.
+City of Chicago, 962 F. Supp. 2d 1044, 1060 (N.D. Ill. 2013); see also Roberts, 2017 WL
+1049841, at *2 (describing conservator powers as “expansive”). FHFA’s powers under HERA
+are at least as great as those given to conservators and receivers under FIRREA, which courts
+have also described as “extraordinary,” MBIA Ins. Corp. v. F.D.I.C., 708 F.3d 234, 236 (D.C.
+Cir. 2013), and “exceptionally broad.” In re Landmark Land Co. of Okla., Inc., 973 F.2d 283,
+288 (4th Cir. 1992).
+
+13
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 23 of 40 PageID #: 1769
+
+Specifically, Congress empowered the Conservator to (among other things) “operate” the
+GSEs, “carry on [their] business,” “contract” on their behalf, and “transfer or sell any [GSE]
+asset or liability . . . without any approval, assignment, or consent.” 12 U.S.C. § 4617(b)(2).
+Moreover, the statute “endows FHFA with extraordinarily broad flexibility to carry out its role”
+as FHFA sees fit, Perry Capital, 848 F.3d at 1088, authorizing the Conservator to exercise all of
+its powers in the manner the Conservator “determines is in the best interests of the [Enterprises]
+or the Agency.” 12 U.S.C. § 4617(b)(2)(J)(ii) (emphasis added).
+By executing the PSPAs and the Third Amendment, the Conservator did precisely that; it
+exercised its power to “operate the [GSEs]” and to “conduct all business of the [GSEs]” in the
+manner the Conservator “determines is in the [GSEs’ or FHFA’s] best interests.”
+12 U.S.C. § 4617(b)(2)(B)(i), (J)(ii). The PSPAs are funding agreements that provide the
+Enterprises with a capital backstop of hundreds of billions of dollars. Just as securing essential
+funding is a quintessential act for the conservator of a financial institution—which authority
+Plaintiff does not dispute or challenge—so too is agreeing to amend the PSPAs in a manner the
+Conservator believes, in its judgment, is in the best interests of the GSEs or FHFA. See 12
+U.S.C. § 4617 (b)(2)(J)(ii).
+Further, Plaintiffs describe the Third Amendment as transferring Enterprise assets to
+Treasury, see FAC ¶¶ 54, 83, and thus concede any issue of Conservator authority. HERA
+authorizes the Conservator to “transfer or sell any asset” of the GSEs “without any approval,
+assignment, or consent,” 12 U.S.C. § 4617(b)(2)(G), in the manner “[FHFA] determines is in the
+best interests of the [GSEs] or [FHFA],” id. § 4617(b)(2)(J)(ii). This transfer provision “does not
+provide any limitation”; indeed, “[i]t is hard to imagine more sweeping language.” Gosnell v.
+
+14
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 24 of 40 PageID #: 1770
+
+F.D.I.C., No. 90-1266L, 1991 WL 533637, at *6 (W.D.N.Y. Feb. 4, 1991), aff’d, 938 F.2d 372
+(2d Cir. 1991) (interpreting materially identical 12 U.S.C. § 1821(d)(2)(G)(i)).
+
+11
+
+As the D.C. Circuit held in addressing this exact issue, “FHFA’s execution of the Third
+Amendment falls squarely within its statutory authority to ‘[o]perate the [Companies,]’ 12
+U.S.C. § 4617(b)(2)(B), to ‘reorganiz[e]’ their affairs, id. § 4617(a)(2), and to ‘take such action
+as may be . . . appropriate to carry on the[ir] business,’ id. § 4617(b)(2)(D)(ii).” Perry Capital,
+848 F.3d at 1088. The D.C. Circuit added that “[r]enegotiating dividend agreements, managing
+heavy debt and other financial obligations, and ensuring ongoing access to vital yet hard-tocome-by capital are quintessential conservatorship tasks designed to keep the Companies
+operational.” Id. Because the Conservator’s “management of Fannie’s and Freddie’s assets,
+debt load, and contractual dividend obligations during their ongoing business operation sits at the
+core of FHFA’s conservatorship function,” actions “to enjoin FHFA from implementing [the
+Third Amendment],” “to declare the Third Amendment invalid,” or “to vacate the Third
+Amendment” seek relief “squarely within Section 4617(f)’s plain textual compass” and are
+barred. Id. at 1087-88.
+The D.C. Circuit is not alone in reaching this conclusion: every other court to have
+addressed the issue likewise has found that the “FHFA’s powers as conservator . . . plainly allow
+for the actions contemplated by the Third Amendment.” Saxton, 2017 WL 1148279, at *10. See
+also Roberts, 2017 WL 1049841, at *8 (“All told, the Plaintiffs have not sufficiently alleged that
+11
+
+See also Courtney v. Halleran, 485 F.3d 942, 949 (7th Cir. 2007) (holding receiver’s
+transfer of assets protected by Section 1821(j)); Volges v. Resolution Trust Corp., 32 F.3d 50, 53
+(2d Cir. 1994) (holding receiver’s transfer of assets, allegedly in breach of a contract, was
+authorized by Section 1821(d)(2)(G)(i) and thus Section 1821(j) barred injunction, “regardless of
+[plaintiff]’s ultimate chance of success on his contract claim”); Waterview Mgmt. Co. v. FDIC,
+105 F.3d 696, 700-02 (D.C. Cir. 1997) (similar); United Liberty Life Ins. Co. v. Ryan, 985 F.2d
+1320, 1323, 1328-29 (6th Cir. 1993) (holding Section 1821(j) barred claims seeking rescission of
+a transaction in which the receiver “transferred substantially all” of the institution’s assets).
+15
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 25 of 40 PageID #: 1771
+
+FHFA acted outside the bounds of its statutory authority” when executing the Third
+Amendment); Robinson, 2016 WL 4726555, at *5-8 (holding FHFA acted within its powers and
+functions when executing the Third Amendment); Cont’l W. Ins. Co., 83 F. Supp. 3d at 840 n.6
+(S.D. Iowa 2015) (same).
+This case is no different: Plaintiffs challenge precisely the same transaction and seek
+precisely the same types of relief as was sought—and rejected—in Perry Capital and the other
+actions. Because the Conservator acted squarely within its statutory powers in executing the
+Third Amendment, Section 4617(f) likewise bars Plaintiffs’ claims here.12
+B.
+
+Section 4617(f) Applies Notwithstanding Plaintiffs’ Allegation that the Third
+Amendment Violates State Law
+
+Plaintiffs cannot avoid 4617(f)’s preclusive effect by alleging the Conservator violated
+some other law—such as state statutes concerning the issuance of preferred stock—in executing
+the Third Amendment. See FAC ¶¶ 79-94 (relying on 8 Del. Code § 151(c) or Va. Code § 13.1638). In interpreting the materially-identical Section 1821(j), the Third Circuit has repeatedly
+held that, so long as a conservator or receiver is carrying out one of its statutorily-defined powers
+or functions, courts are prohibited from enjoining that conduct, even if the conservator or
+receiver allegedly violated state law, federal law, or its own regulations in the process.
+12
+
+Congress’s enactment of the Consolidated Appropriations Act, 2016 (the “Act”) on
+December 18, 2015, see Pub. L. No. 114-113, § 702, Tit. VII, Div. O, 129 Stat. 2242 (2015), also
+confirms that the Conservator had the statutory authority to execute the Third Amendment. The
+Act bars Treasury from selling or disposing of its preferred shares in the GSEs before January 1,
+2018, but it otherwise leaves in place Treasury’s rights under the PSPAs—including the Third
+Amendment, which is expressly referenced in the “Definitions” section. Pub. L. No. 114-113,
+§ 702(a). Congress’s decision to circumscribe Treasury’s authority in one area but to leave intact
+other provisions of the PSPAs demonstrates that Congress believes that the Conservator and
+Treasury had the statutory authority to enter the Third Amendment. See N. Haven Bd. of Educ.
+v. Bell, 456 U.S. 512, 535 (1982) (“[w]here an agency’s statutory construction has been fully
+brought to the attention of the public and the Congress, and the latter has not sought to alter that
+interpretation although it has amended the statute in other respects, then presumably the
+legislative intent has been correctly discerned.” (internal quotation marks and citation omitted));
+Davis v. Devine, 736 F.2d 1108, 1113 (6th Cir. 1984) (similar).
+16
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 26 of 40 PageID #: 1772
+
+For example, in Rosa v. Resolution Trust Corp., the plaintiffs attempted to enjoin the
+RTC as conservator and receiver based on its alleged violation of ERISA. 938 F.2d 383 (3d Cir.
+1991). The plaintiffs in Rosa argued that “while RTC as conservator and receiver is authorized
+to run the affairs of a troubled institution . . . it is only authorized to run them in a legal manner.”
+Id. at 397. The Third Circuit squarely rejected this argument: “[w]e find no such limitation in
+the language of § 1821(j),” the analogous jurisdiction-withdrawal provision under FIRREA. Id.
+The court instead held the powers of the conservator and receiver were “defined by” their
+governing statute, FIRREA, without any exception or limitation for compliance with other laws.
+Id. at 398. The Third Circuit concluded that the RTC’s actions fit within its “quite broad”
+statutory powers as conservator and receiver, and thus Section 1821(j) barred plaintiffs’ demands
+for equitable relief. Id. The court “naturally express[ed] no opinion as to the alleged
+wrongfulness of RTC’s conduct.” Id. at 400; see also Gross, 974 F.2d at 407 (reaffirming Rosa
+and observing that “where the [conservator or receiver] performs functions assigned it under the
+statute, injunctive relief will be denied even where [it] acts in violation of other statutory
+schemes” (emphasis added)).
+Since Rosa and Gross, many other courts—including the Fourth, Fifth, Eleventh, and
+D.C. Circuits—also have embraced the same principle, holding that compliance with other laws,
+including state laws, cannot constrain the powers and functions of a conservator or receiver. See,
+e.g., Volges, 32 F.3d at 52 (“The fact that the [conservator’s or receiver’s conduct] might violate
+[plaintiff]’s state law contract rights does not alter the calculus [under Section 1821(j)]”).13 To
+
+13
+
+See also In re Landmark Land Co. of Carolina, No. 96-1404, 1997 WL 159479, at *4 (4th
+Cir. Apr. 7, 1997) (“The mere fact that an action of the FDIC [as conservator or receiver] may
+violate state contract law . . . does not entitle a federal court to enjoin the FDIC . . . .”); RPM
+Invs., Inc. v. Resolution Trust Corp., 75 F.3d 618, 621 (11th Cir. 1996) (“Even claims seeking to
+enjoin the [as conservator or receiver] from taking allegedly unlawful actions are subject to the
+[Footnote continues on following page]
+
+17
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 27 of 40 PageID #: 1773
+
+hold otherwise would effectively negate the power of statutes like Sections 4617(f) and 1821(j),
+as every claim against a conservator or receiver necessarily allege some type of unlawful
+conduct, which—under Plaintiffs’ view—would remove the protections of the statute. See Rosa,
+938 F.2d at 397 (observing that a limitation on Section 1821(j) for compliance with other laws
+“would undermine the purpose of the statute, namely, to permit [the] conservator or receiver to
+function without judicial interference”); Volges, 32 F.3d at 52-53 (“If every party to an executory
+contract entered into by the [conservator or receiver] could obtain injunctive relief to prevent an
+alleged breach, the anti-injunction mandate would be severely restricted, if not meaningless.”).
+By executing the Third Amendment, the Conservator acted squarely within its statutory
+powers and functions. Thus, Section 4617(f) bars Plaintiffs’ claims seeking equitable and
+declaratory relief, notwithstanding Plaintiffs’ misguided allegations that the Third Amendment
+was incompatible with state law.
+C.
+
+Section 4617(f) Applies Notwithstanding Plaintiffs’ Allegations that the
+Conservator Did a Bad Job or Acted With an Improper Motive
+
+Plaintiffs allege that FHFA’s decision to enter into the Third Amendment was the product
+of “self-dealing,” done at Treasury’s direction, purportedly designed to “capitalize on the
+Companies’ strong recovery (and ensure that their stockholders could not capitalize on it),” and
+lacked adequate consideration, thereby harming the Enterprises and their shareholders. See, e.g.,
+FAC ¶¶ 15, 42, 46-49, 73. But Plaintiffs cannot avoid Section 4617(f)’s bar on judicial review
+[Footnote continued from previous page]
+
+jurisdictional bar of 1821(j)”); Ward, 996 F.2d at 103 (rejecting illegality limit on receiver’s
+powers and observing the plaintiff “fails (or refuses) to recognize the difference between the
+exercise of a function or power that is clearly outside the statutory authority of the RTC on the
+one hand [and thus not protected by Section 1821(j)], and improperly or even unlawfully
+exercising a function or power that is clearly authorized by statute on the other [and thus
+protected by Section 1821(j)]”); Nat’l Trust for Historic Pres. v. F.D.I.C., 995 F.2d 238, 240
+(D.C. Cir. 1993) (“We do not think it possible, in light of the strong language of § 1821(j), to
+interpret the FDIC’s ‘powers’ and ‘authorities’ to include the limitation that those powers be
+subject to—and hence enjoinable for non-compliance with—any and all other federal laws.”).
+18
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 28 of 40 PageID #: 1774
+
+by allegations that the Conservator did a bad job or acted based on an improper motive. So long
+as Conservator action is not “clearly outside its statutory powers” and functions, see Gross, 974
+F.2d at 407, Section 4617(f) applies and “immuniz[es]” the Conservator from all “outside
+second-guessing,” see Nat’l Trust, 995 F.2d at 240-41. Put simply, the application of Section
+4617(f) “does not hinge on [the court’s] view of the proper exercise of otherwise-legitimate
+powers.” Gross, 974 F.2d at 408 (applying Section 1821(j)); see also Cty. of Sonoma, 710 F.3d
+at 993 (“[I]t is not our place to substitute our judgment for FHFA’s” as Conservator).
+Accordingly, courts have uniformly rejected shareholder attempts to challenge the merits
+of or motives behind the Third Amendment. As the D.C. Circuit held in Perry Capital, “Section
+4617(f) prohibits us from wielding our equitable relief to second-guess either the dividendallocating terms that FHFA negotiated on behalf of the Companies, or FHFA’s business
+judgment that the Third Amendment better balances the interests of all parties involved,
+including the taxpaying public, than earlier approaches had.” 848 F.3d at 1095. Indeed,
+“[n]othing in [HERA] confines FHFA’s conservatorship judgments to those measures that are
+driven by financial necessity. And for purposes of applying Section 4617(f)’s strict limitation on
+judicial relief, allegations of motive are neither here nor there, as the dissenting opinion agrees
+(at 20).” Id. at 1093; see also Saxton, 2017 WL 1148279 at *10 (“Whatever Plaintiffs’ views of
+the wisdom of the Third Amendment, FHFA’s adherence to its statutory role as conservator does
+not turn on the wisdom of its decision-making.”); Roberts, 2017 WL 1049841 at *6 (Section
+4617(f) “makes no exception for instances when FHFA supposedly had an improper motive but
+acted within its authority”); Cont’l W. Ins. Co., 83 F.Supp.3d at 840 n.6 (Section 4617(f)
+prohibits “wad[ing] into the merits or motives of FHFA and Treasury’s actions”).
+
+19
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 29 of 40 PageID #: 1775
+
+II.
+
+HERA Bars Shareholder Claims During Conservatorship
+Plaintiffs’ claims fail for an additional, independently dispositive reason: HERA bars
+
+prosecution of all shareholder claims during conservatorship, including claims seeking money
+damages or equitable relief. Congress provided that when FHFA is appointed Conservator, it
+succeeded to “all rights” of the Enterprises’ stockholders, including Plaintiffs. 12 U.S.C.
+§ 4617(b)(2)(A). Here, Plaintiffs purport to assert “rights . . . of [a] stockholder”—all of their
+claims (styled as “direct and derivative”) relate to shareholder interests—but the Conservator
+now holds “all” such rights, leaving Plaintiffs with no interest to assert and no enforceable claim.
+A.
+
+The Conservator Succeeds, at a Minimum, to Shareholders’ Ability to
+Pursue Derivative Claims During Conservatorship
+
+Congress could not have been more clear: upon its appointment, the Conservator
+“immediately succeed[ed] to . . . all rights, titles, powers, and privileges of the [GSEs], and of
+any stockholder, officer, or director of [the GSEs] with respect to the [GSEs] and the assets of
+the [GSEs].” 12 U.S.C. § 4617(b)(2)(A)(i) (emphases added). HERA’s broad, unequivocal
+language “evidences Congress’s intent to transfer as much power as possible to the FHFA when
+acting as [the Enterprises’] conservator.” Pagliara v. Fed. Home Loan Mortg. Corp., 203 F.
+Supp. 3d 678, 689 (E.D. Va. 2016); see also Kellmer v. Raines, 674 F.3d 848, 851 (D.C. Cir.
+2012) (observing Congress sought to ensure “that nothing was missed” and to “transfer[]
+everything it could to the [Conservator]”) (citation omitted). Accordingly, “[t]he shareholders’
+rights are now the FHFA’s.” Esther Sadowsky Testamentary Trust v. Syron, 639 F. Supp. 2d
+347, 351 (S.D.N.Y. 2009).
+Courts uniformly have held that the provision of HERA transferring shareholder rights to
+the Conservator bars Enterprise stockholders from asserting at least shareholder derivative
+claims during the conservatorships. For example, in Kellmer, the D.C. Circuit affirmed the
+20
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 30 of 40 PageID #: 1776
+
+district court’s substitution of the Conservator in place of the plaintiffs—shareholders of Fannie
+Mae—who had asserted a variety of shareholder derivative claims. The Court held:
+[T]o resolve this issue, we need only heed Professor Frankfurter’s
+timeless advice: “‘(1) Read the statute; (2) read the statute; (3) read
+the statute!’” HERA provides that FHFA “shall, as conservator or
+receiver, and by operation of law, immediately succeed to . . . all
+rights, titles, powers, and privileges . . . of any stockholder.” 12
+U.S.C. § 4617(b)(2)(A).
+This language plainly transfers
+shareholders’ ability to bring derivative suits—a “right[ ], title[ ],
+power[ ], [or] privilege[ ]”—to FHFA.
+Kellmer, 674 F.3d at 850 (emphasis added) (internal citation omitted). “HERA’s plain language
+[thus] bars shareholder derivative suits, without exception.” Perry Capital, 70 F. Supp. 3d at
+232, aff’d 848 F.3d at 1104; see also Cont’l W., 83 F. Supp. 3d at 840 n.6 (“HERA grants all
+shareholder rights, including the right to bring a derivative suit, to FHFA.”).
+The transfer of all rights to the Conservator also works to effectuate other key provisions
+of HERA, including that the Conservator exclusively “determines [what] is in the best interests”
+of the GSEs, 12 U.S.C. § 4617(b)(2)(J)(ii), and that no court may “restrain” or “affect” the
+Conservator’s exercise of its statutory power, id. § 4617(f). Together, these provisions vest total
+control over the GSEs in the Conservator, not the shareholders, and thus bar Plaintiff’s claims.14
+B.
+
+Plaintiffs’ Claims Are Derivative, Not Direct
+
+As explained in Treasury’s motion to dismiss, Plaintiffs’ claims are purely derivative
+(i.e., brought on behalf of and to redress injuries to the Enterprises)—not “direct and derivative,”
+14
+
+Indeed, numerous courts have held that Section 4617(f) itself displaces shareholder
+plaintiffs’ attempts to pursue derivative claims. See Sweeney, 68 F. Supp. 3d at 126 (concluding
+shareholder “plaintiff’s lawsuit would ‘affect’ and ‘interfere’ with the Conservator’s exercise of
+its powers”); In re Fed. Home Loan Mortg. Corp. Derivative Litig., 643 F. Supp. 2d 790, 799
+(E.D. Va. 2009) (“find[ing] that allowing the [shareholder] plaintiffs to remain in this action
+would violate § 4617(f)”); In re Fed. Nat’l Mortg. Ass’n Sec., Derivative, ERISA Litig., 629 F.
+Supp. 2d 1, 4 n.4 (D.D.C. 2009) (“allowing [shareholder] plaintiffs to continue to pursue
+derivative claims independent of FHFA would require this Court to take action that would
+‘restrain or affect’ FHFA’s discretion, which HERA explicitly prohibits”), aff’d sub nom.
+Kellmer, 674 F.3d 848.
+21
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 31 of 40 PageID #: 1777
+
+as Plaintiffs have attempted to label them in the First Amended Complaint. See FAC at Counts I
+through IV. The FHFA Defendants adopt and incorporate by reference Treasury’s argument that
+Plaintiffs’ claims are purely derivative. See Treasury Mot. to Dismiss at Sec. II. Plaintiffs’
+claims thus fall within the well-settled rule that HERA bars all shareholder derivative claims
+during conservatorship. Moreover, whether Plaintiffs’ claims are characterized as derivative,
+direct, or “direct and derivative” is irrelevant because the Conservator succeeds to “all”
+shareholder rights and, when interpreting HERA, “all” means “all.” See Delaware Cty., Pa. v.
+FHFA, 747 F.3d 215, 223 (3d Cir. 2014) (interpreting HERA’s “phrase ‘all taxation’ to mean
+precisely what it says”); Pagliara, 203 F. Supp. 3d at 686 (observing HERA’s succession
+provision “is extremely broad” and “means what it plainly says”).15
+C.
+
+There Is No “Conflict of Interest” Exception to HERA
+
+In an effort to evade the clear statutory language transferring “all” shareholder rights to
+the Conservator, Plaintiffs allege they are “entitled to pursue the derivative claims alleged herein
+as a result of FHFA’s manifest conflict of interest.” FAC ¶ 74; see also id. ¶ 76. But there is no
+such “conflict of interest” exception in HERA, and every court that has addressed this issue
+under HERA—including the D.C. Circuit—has soundly rejected the creation of any such
+exception. See Perry Capital, 848 F.3d at 1106 (finding such an exception would be “contrary”
+to “the plain statutory text” and holding that “the Succession Clause does not permit shareholders
+to bring derivative suits on behalf of the Companies even where the FHFA will not bring a
+15
+
+The FHFA Defendants respectfully disagree with the D.C. Circuit’s holding in Perry
+Capital that HERA does not bar direct shareholder claims. See 848 F.3d at 1104-05. To read a
+“direct claims” exception into HERA would render part of the statute meaningless because the
+Conservator already can pursue claims on behalf of the Enterprises by its succession to “all”
+rights of the Enterprises themselves. Further, the purportedly direct shareholder claims at issue
+in Perry Capital were undoubtedly brought “with respect to the [Enterprises] and the[ir] assets,”
+and thus fit well within HERA’s Succession provision. 12 U.S.C. § 4617(b)(2)(A)(i). In all
+events, because Plaintiffs’ claims in this case are purely derivative, the Court need not reach this
+issue of whether the Conservator also succeeds to direct shareholder claims.
+22
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 32 of 40 PageID #: 1778
+
+derivative suit due to a conflict of interest”); Saxton, 2017 WL 1148279, at *12 (“The court finds
+no ambiguity in the provision’s meaning and, therefore, refuses to judicially alter the provision to
+allow for an unstated conflict-of-interest exception.”); Edwards v. Deloitte & Touche, LLP, No.
+16-21221-CIV, 2017 WL 1291994, at *7 (S.D. Fla. Jan. 18, 2017) (“Looking at the plain
+wording of HERA’s succession clause, there is no exception to the bar on derivative suits.”);
+Pagliara, 203 F. Supp. 3d at 691 n. 20 (“All courts known to have considered that [conflict of
+interest] argument in the context of HERA have found the argument unavailing.”).
+While two cases have applied a conflict-of-interest exception under FIRREA’s analogous
+succession provision for FDIC receiverships, those cases have been roundly criticized and
+limited to their specific facts. See First Hartford Corp. Pension Plan & Trust v. United States,
+194 F.3d 1279, 1295-96 (Fed. Cir. 1999); Delta Savs. Bank v. United States, 265 F.3d 1017,
+1021-24 (9th Cir. 2001). Indeed, the D.C. Circuit in Perry Capital squarely rejected these
+decisions as poorly reasoned outliers, holding that neither decision supports the conclusion that
+Congress intended to create a conflict-of-interest exception. 848 F.3d at 1105-06. The court
+explained that these cases improperly relied on the historic rationale for shareholder derivative
+actions while disregarding the plain statutory language of FIRREA (and HERA). Id. The court
+recognized it would “make[] little sense” to base an exception to HERA’s rule against derivative
+suits “on the purpose of the derivative suit mechanism” (i.e., to permit shareholders to assert the
+interests of the corporation where managers or directors have a conflict of interest that prevents
+them from doing so), particularly in view of “the plain statutory text to the contrary.” Id. at
+1106. Indeed, “the existence of a rule against shareholder derivative suits, § 4617(b)(2)(A)(i),
+indicates that courts cannot use the rationale for why derivative suits are available to
+
+23
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 33 of 40 PageID #: 1779
+
+shareholders as a legal tool . . . to carve out an exception to that prohibition. . . . Such an
+exception would swallow the rule.” Perry Capital, 70 F. Supp. 3d at 231.16
+III.
+
+Plaintiffs’ Claims are Barred by the Doctrine of Issue Preclusion
+Plaintiffs’ claims also fail because Plaintiffs are bound by the final judgments in Perry
+
+Capital and Saxton, in which other shareholder derivative plaintiffs sued FHFA and Treasury
+challenging the Third Amendment. In Saxton, the court held the shareholder’s APA claims were
+derivative, not direct, and that Section 4617(f) bars those claims. 2017 WL 1148279 at *10.
+And in both Perry Capital and Saxton, the courts dismissed expressly derivative claims on the
+ground that HERA’s Succession Provision bars shareholder derivative claims during
+conservatorship, irrespective of any alleged conflict of interest. Id. at *12; Perry Capital, 848
+F.3d at 1105-06. Because the Enterprises were the real parties in interest in these derivative
+suits, the Perry Capital and Saxton decisions have binding, issue-preclusive effect here. The
+FHFA Defendants adopt and incorporate by reference Treasury’s argument that Plaintiffs’ claims
+are barred by the doctrine of issue preclusion. See Treasury Mot. to Dismiss at Sec. V.
+IV.
+
+Counts I and II Fail to State a Claim That the Treasury Stock Certificates, As
+Amended by the Third Amendment, Violate Delaware or Virginia Statutes
+In Counts I and II, Plaintiffs allege that the net-worth dividend contained in the Treasury
+
+Stock Certificates (as amended by the Third Amendment) is invalid under Delaware and Virginia
+law, and thus should be voided. FAC ¶¶ 79-94. Assuming arguendo that this Court has
+jurisdiction to consider Plaintiffs’ claims--and it does not--Counts I and II fail for two additional
+
+16
+
+Even assuming arguendo that First Hartford and Delta Savings were not wrongly decided,
+their limited holdings should not be expanded to conservatorships. First Hartford and Delta
+Savings involved receiverships, and their flawed rationale “makes still less sense in the
+conservatorship context.” Perry Capital, 70 F. Supp. 3d at 231 n.30. The decisions themselves
+emphasized the “very narrow range of circumstances” in which the purported conflict-of-interest
+exception applies. First Hartford, 194 F.3d at 1295; see also Delta Savs., 265 F.3d at 1023.
+24
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 34 of 40 PageID #: 1780
+
+reasons. First, pursuant to the express terms of the Enterprises’ charters and the Treasury Stock
+Certificates, federal law—not state law—governs the Conservator’s authority to agree to the
+Third Amendment, and federal law permits the Third Amendment. Second, even if state law
+governs, the net worth dividend does not violate the state law statutes upon which Plaintiffs rely.
+A.
+
+Federal Law, Not State Law, Governs the Conservator’s Ability to Agree to
+the Third Amendment and the Resulting Treasury Stock Certificates
+
+The Enterprises are creatures of federal law—not state law—notwithstanding Plaintiffs’
+attempts to impose upon the Enterprises purported requirements of Delaware and Virginia law.
+Congress itself issued the federal charters creating the Enterprises, and those charters do not
+incorporate any state law. See 12 U.S.C. § 1716 et seq.; id. § 1451 et seq.
+In fact, the Enterprises’ federal statutory charters expressly address the precise issues at
+stake in this litigation: the terms for issuance of stock and payment of dividends by the
+Enterprises. In particular, the statutory charters authorize the Enterprises (and thus the
+Conservator) to: (1) issue preferred stock “on such terms and conditions as the board of directors
+shall prescribe,” 12 U.S.C. § 1718(a); id. § 1455(f); and (2) make dividend payments to
+Enterprise stockholders in the manner “as may be declared by the board of directors.” Id.
+§ 1718(c)(1); id. § 1452(b)(1). Accordingly, the Enterprises’ boards of directors (and thus the
+Conservator) have broad, unqualified authority under federal law to issue preferred stock and
+dividends in the manner the Enterprises’ boards (and the Conservator) see fit. This necessarily
+includes the Third Amendment to the Treasury Preferred Stock and the payment of dividends on
+that stock. Additionally, under HERA, the Conservator has broad powers to conduct all business
+of the Enterprises and their boards—and also to exercise all rights and powers of the Enterprises’
+shareholders—which likewise include the power to execute the Third Amendment and issue
+dividends thereunder. See supra Sec. I.
+25
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 35 of 40 PageID #: 1781
+
+In their complaint, Plaintiffs point to a federal regulation, 12 C.F.R. § 1710.10, issued in
+2002 by the Office of Federal Housing Enterprise Oversight (“OFHEO”), FHFA’s predecessor
+agency, to argue that state law applies here. See FAC ¶¶ 2, 32. But that regulation provides first
+and foremost that the Enterprises “shall comply with [their] applicable chartering acts and other
+Federal law, rules, and regulations.” 12 C.F.R. § 1710.10(a). The regulation simply directs the
+Enterprises to follow Delaware law (or the law of the jurisdiction in which the principal office of
+the Enterprise sits) only with respect to issues not already addressed in the Enterprises’ federal
+charters. See 67 Fed. Reg. 38361 (Jun. 4, 2002). Indeed, in issuing the regulation, OFHEO
+specifically observed that:
+The chartering acts contain several provisions related to matters of
+corporate governance[, including] common and preferred stock.
+The chartering acts, however, are silent with respect to other
+corporate governance provisions that are commonly addressed for
+state-chartered corporations under State law.
+Id. at 38362 (emphasis added); see also id. at 38364 (observing state law is not “incorporated
+wholesale by the election of [state] law by an Enterprise”). Additionally, the regulation makes
+clear that state law applies only “[t]o the extent not inconsistent with” the Enterprises’ charters
+and other federal law. 12 C.F.R. § 1710.10(b).17
+Here, the charters are not “silent” regarding the terms for issuance of stock and payment
+of dividends by the Enterprises—they address those topics directly. Accordingly, no state law
+applies. Through Counts I and II, Plaintiffs contend that Delaware and Virginia law supply
+
+17
+
+The Treasury Stock Certificates likewise provide that federal law governs those certificates.
+See Ex. C § 10(e) (Amended Treasury Stock Certificate) (providing that the rights and
+obligations under the stock “shall be construed in accordance with and governed by the laws of
+the United States”). While those certificates also provide that the laws of Delaware (for Fannie
+Mae) and Virginia (for Freddie Mac) “shall serve as the federal rule of decision,” the certificates
+state that state law shall not apply “where such law is inconsistent with the Company’s enabling
+legislation, its public purposes or any provision of this Certificate.” Id.
+26
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 36 of 40 PageID #: 1782
+
+more stringent requirements for the issuance of preferred stock than do the charters. While
+Plaintiffs are wrong in their interpretation of Delaware and Virginia law, see infra Sec. IV(B),
+any state law requirements that would conflict with HERA or the Enterprises’ federal statutory
+charters, including imposing limits on the discretion of the Enterprises’ boards or the
+Conservator to issue stock “on such terms and conditions” as they see fit, are preempted.
+Conflict preemption applies even where “federal and state law [are] not . . . contradictory
+on their faces . . . . It is sufficient that the state law ‘impose[s] . . . additional conditions’ not
+contemplated by Congress.” Surrick v. Killion, 449 F.3d 520, 532 (3d Cir. 2006) (second
+alteration in original) (citation omitted). Conflict preemption applies where state law “would
+frustrate the federal scheme.” Allis–Chalmers Corp. v. Lueck, 471 U.S. 202, 209 (1985); see
+also Barnett Bank of Marion Cty., N.A. v. Nelson, 517 U.S. 25, 32 (1996) (holding conflict
+preemption applies where federal statute provides banks broad authority to engage in an activity
+that state law prohibits). For example, in Fasano v. Fed. Reserve Bank of N.Y., the Third Circuit
+held that a federal statute permitting Federal Reserve Banks to “dismiss [employees] at pleasure”
+preempted state statutes that “indisputably impose substantive and procedural burdens well
+beyond those imposed by federal law, and thereby frustrate Congressional intent to provide the
+Federal Reserve Banks with relatively unfettered employment discretion.” 457 F.3d 274, 283
+(3d Cir. 2006); see also F.D.I.C. v. Bank of Boulder, 911 F.2d 1466, 1472-73 (10th Cir. 1990)
+(federal law permitting FDIC to purchase assets preempted state law limiting such purchases).
+The same is true here: Congress provided the Enterprises with broad, unqualified discretion to
+issue preferred stock and dividends, thus preempting state statutes that would otherwise limit or
+impose conditions on that discretion.
+
+27
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 37 of 40 PageID #: 1783
+
+Finally, the plain language of the Treasury Stock Certificates clearly states that, even
+when there is no federal law on point, neither Delaware law nor Virginia law apply “where such
+law is inconsistent with . . . any provision of this Certificate.” Ex. C § 10(e) (Amended Treasury
+Stock Certificate) (emphasis added). The Certificates expressly provide for the variable dividend
+structure called for by the Third Amendment. Id. § 2. Thus, by the plain terms of the
+Certificates, no state law can negate it.
+B.
+
+The Third Amendment Complies With the Delaware and Virginia Statutes
+Upon Which Plaintiffs Rely
+
+Even if Plaintiffs were correct that the Court should apply state law—and they are not—
+Plaintiffs fail to state a claim in Counts I and II because the net-worth dividend instituted through
+the Third Amendment is valid under the Delaware General Corporation Law (“DGCL”) and the
+Virginia Stock Corporation Act (“VSCA”).
+The DGCL and the VSCA are broad, enabling statutes that permit corporations to issue
+preferred stock with contractually-defined dividend rights. The DGCL “provides great
+flexibility” and “considerable latitude in creating classes of stock,” and permits corporations to
+issue preferred stock that is “entitled to certain preference over other stock.” Shintom Co. v.
+Audiovox Corp., 888 A.2d 225, 227-228 (Del. 2005). Section 151(c) of the DGCL simply states
+that, if a preferred stock provides for dividends, then the holders of that stock “shall be entitled to
+receive dividends at such rates . . . as shall be stated in” the corporate documents authorizing the
+issuance of the stock, such as the certificates of incorporation or applicable board resolutions.
+See Shintom, 888 A.2d at 229. Similarly, the VSCA provides flexibility and does not purport to
+exhaustively describe the possible preferences, rights, and limitations of classes of stock, so long
+as they are stated in the authorizing documents. Va. Code § 13.1-638(A), (F). The VSCA
+broadly provides that a corporation may authorize classes or series of shares that “[h]ave
+28
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 38 of 40 PageID #: 1784
+
+preference over any other class or series of shares with respect to distributions. . . .” Id. § 13.1638(C); see also Kain v. Angle, 69 S.E. 355, 357 (Va. 1910).
+Here, Plaintiffs argue that the Treasury Stock Certificates, as amended by the Third
+Amendment, fail to comply with 8 Del. Code 151(c) and Va. Code § 13.1-638(C) because the net
+worth dividend is not set at a “rate” that is “payable in preference to” other classes of stock. See
+FAC ¶¶ 54, 79-94. Plaintiffs are wrong. Section 13.1-638 of the VSCA allows corporations to
+issue preferred shares that “[e]ntitle the holders” to dividends “calculated in any manner.” See
+Va. Code § 13.1-638(C) (emphasis added). Indeed, the VSCA does not even include language
+that preferred stock dividends must be paid “at such rates,” and only provides that corporations
+may issue shares that “[h]ave preference over any other class or series of shares with respect to
+distributions. . . . ” Va. Code § 13.1-638(C). Likewise, “[t]he Delaware statutory scheme does
+not . . . require any particular form of preference. It allows private parties,”—i.e., the
+Enterprises (as the issuing corporations) and Treasury (as the purchaser of the preferred stock)—
+“to contract for preferences between themselves.” Shintom, 888 A.2d at 230 (emphasis added).
+The only requirement imposed by Section 151 is that the dividend rates be stated in the
+authorizing documents—here, the Treasury Stock Certificates. See id. at 229; see also Elliott
+Assocs., L.P. v. Avatex Corp., 715 A.2d 843, 852 (Del. 1998) (“Any rights, preferences and
+limitations of preferred stock that distinguish that stock from common stock must be expressly
+and clearly stated, as provided by statute.”) (citing 8 Del. Code § 151(a)).
+The Third Amendment fully complies with these statutes: the Treasury Stock Certificates,
+as amended, clearly state that Treasury’s preferred stock ranks senior to all other outstanding
+classes of stock as to dividends, and that the net-worth dividend is calculated every quarter based
+on the Enterprises’ quarterly performances. There is no requirement under Delaware or Virginia
+
+29
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 39 of 40 PageID #: 1785
+
+law that the rate used to calculate a dividend be a percentage (although 100% is both a
+percentage and a rate), and Plaintiffs’ proposed interpretation to the contrary is unprecedented
+and reads into the DGCL and the VSCA restrictive requirements that are contrary to their broad,
+enabling statutory schemes. See Shintom Co., Ltd. v. Audiovox Corp., No. Civ. A. 693-N, 2005
+WL 1138740, at *2 (Del. Ch. May 4, 2005), aff’d 888 A.2d 225 (“Choosing to set dividend rates
+at zero is as much an act of setting rates as choosing a substantive rate.”).18 Moreover, section
+151(a) of the DGCL provides that “[a]ny of the . . . preferences, [and] rights [of preferred shares]
+may be made dependent upon facts ascertainable outside the certificate of incorporation or of any
+amendment thereto . . . . The term ‘facts’ . . . includes . . . the occurrence of any event, including
+a determination or action by any person or body, including the corporation.” 8 Del. C. § 151(a);
+see also Va. Code § 13.1-638(D) (“Any of the terms of shares may be made dependent upon
+facts objectively ascertainable outside the articles of incorporation . . .”). Thus, it is permissible
+for a preferred dividend rate to be tied to an interest rate that changes over time (such as LIBOR)
+or the performance of the corporation (such as its net income for the quarter).
+CONCLUSION
+For the foregoing reasons and those in Treasury’s brief, FHFA, Fannie Mae, and Freddie
+Mac respectfully request that the Court dismiss with prejudice all claims asserted against them.
+
+18
+
+The Court should reject Plaintiffs’ claim that the Third Amendment dividend structure is not
+a legitimate preferred stock because “Treasury’s participation in corporate earnings growth is
+unlimited.” FAC ¶ 83; see also id. ¶ 53. This claim is analogous to the claim that the Third
+Amendment converted the Senior Preferred Stock into common stock, which the district court in
+Perry Capital correctly rejected with force that applies here as well: “[t]he characteristics of
+preferred stock ‘that distinguish that stock from common stock’—e.g., senior-most dividend and
+liquidation rights—remain ‘expressly and clearly stated’ under the Third Amendment.” 70 F.
+Supp. 3d at 238 n.44. The D.C. Circuit did not reach this issue on appeal because it held that
+Section 4617(f) barred the claims that Treasury violated HERA’s sunset provision with respect
+to the purchase of new stocks. See Perry Capital, 848 F.3d at 1096-97.
+30
+
+Case 1:15-cv-00708-GMS Document 68 Filed 04/17/17 Page 40 of 40 PageID #: 1786
+
+Dated: April 17, 2017
+Wilmington, DE
+/s/ Robert C. Maddox
+Robert J. Stearn, Jr. (No. 2915)
+Robert C. Maddox (No. 5356)
+Richards, Layton & Finger, P.A.
+920 North King Street
+Wilmington, DE 19801
+(302) 651-7700
+stearn@rlf.com
+maddox@rlf.com
+Attorneys for Defendants Federal Housing
+Finance Agency, Federal National Mortgage
+Association, and Federal Home Loan
+Mortgage Corporation
+Michael Joseph Ciatti
+(admitted pro hac vice)
+Graciela Maria Rodriguez
+(admitted pro hac vice)
+King & Spalding LLP
+1700 Pennsylvania Avenue N.W.
+Washington, DC 20006
+(202) 626-5508
+(202) 626-3737
+mciatti@kslaw.com
+gmrodriguez@kslaw.com
+
+Howard N. Cayne (admitted pro hac vice)
+Asim Varma (admitted pro hac vice)
+David B. Bergman (admitted pro hac vice)
+Arnold & Porter Kaye Scholer LLP
+601 Massachusetts Avenue
+Washington, DC 20001
+(202) 942-5000
+Howard.Cayne@apks.com
+Asim.Varma@apks.com
+David.Bergman@apks.com
+Attorneys for Defendant Federal Housing
+Finance Agency
+Jeffrey W. Kilduff
+Michael Walsh
+O’Melveny & Meyers LLP
+1625 Eye Street, N.W.
+Washington, DC 20006
+(202) 383-5300
+jkilduff@omm.com
+mwalsh@omm.com
+Attorneys for Defendant Federal National
+Mortgage Association
+
+Attorneys for Defendant Federal Home Loan
+Mortgage Corporation
+
+31
+
+

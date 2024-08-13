@@ -1,0 +1,2435 @@
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 1 of 67
+
+Robert S. Clark (4015)
+Daniel E. Barnett (8579)
+PARR BROWN GEE & LOVELESS
+101 South 200 East, Suite 700
+Salt Lake City, UT 84111
+Tel: (801) 532.7840
+Fax: (801) 532.7750
+rclark@parrbrown.com
+JAMES G. KREISSMAN (pro hac vice)
+ALEXIS COLL-VERY (pro hac vice)
+SIMPSON THACHER & BARTLETT LLP
+2475 Hanover Street
+Palo Alto, California 94304
+Tel: (650) 251-5000
+Fax: (650) 251-5002
+jkreissman@stblaw.com
+acoll-very@stblaw.com
+Attorneys for Defendants Nu Skin Enterprises, Inc.,
+M. Truman Hunt, and Ritch N. Wood
+IN THE UNITED STATES DISTRICT COURT
+DISTRICT OF UTAH, CENTRAL DIVISION
+IN RE NU SKIN ENTERPRISES, INC.
+SECURITIES LITIGATION
+
+Master File No. 2:14-cv-00033-DB
+DEFENDANTS’ MOTION TO
+DISMISS AND SUPPORTING
+MEMORANDUM
+
+This document relates to ALL ACTIONS.
+Judge Hon. Dee Benson
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 2 of 67
+
+TABLE OF CONTENTS
+Page
+INTRODUCTION .......................................................................................................................... 1
+STATEMENT OF RELIEF SOUGHT AND GROUNDS FOR MOTION ................................... 2
+BACKGROUND ............................................................................................................................ 4
+STATEMENT OF FACTS ........................................................................................................... 14
+I.
+
+Nu Skin’s Business and Compensation Model in China Differs from Its
+Global Model ........................................................................................................ 14
+A.
+
+Nature of Nu Skin’s Relationship With Its Sales Personnel ..................... 15
+
+B.
+
+Compensation of Nu Skin Sales Personnel ............................................... 16
+
+C.
+
+Risk of Regulatory Action Based on Sales and Compensation
+Practices .................................................................................................... 19
+
+II.
+
+Publication of the Citron Report in August 2012 ................................................. 21
+
+III.
+
+Publication of Substantially Identical Allegations by People’s Daily in
+January 2014 ......................................................................................................... 23
+
+IV.
+
+The Response to the People’s Daily Articles ....................................................... 24
+
+V.
+
+Allegations in the Amended Complaint ................................................................ 26
+
+PROCEDURAL HISTORY.......................................................................................................... 27
+LEGAL STANDARD ................................................................................................................... 27
+ARGUMENT ................................................................................................................................ 28
+I.
+
+Plaintiffs Fail Adequately to Plead Falsity. .......................................................... 28
+A.
+
+B.
+
+Plaintiffs Fail to Allege a False Statement or Omission of Material
+Fact ............................................................................................................ 28
+1.
+
+Nu Skin’s Compensation of Its Sales Employees Based on
+Group Productivity Has Long Been Publicly Disclosed and
+Was Not Found to Violate Chinese Law. ..................................... 30
+
+2.
+
+Plaintiffs Allege No Specific Facts Showing the Use of
+Group Productivity in Setting Compensation of Direct
+Sellers............................................................................................ 32
+
+3.
+
+Plaintiffs Fail to Allege That The Marketing Efforts of
+Sales Employees Conducted Outside of Fixed Retail Stores
+Constitute Unlicensed Direct Selling. ........................................... 33
+
+The Amended Complaint Engages in Impermissible “Puzzle
+Pleading” ................................................................................................... 35
+
+ii
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 3 of 67
+
+II.
+
+III.
+
+Plaintiffs Fail to Meet Their Heavy Burden of Pleading Facts Giving Rise
+to a Strong Inference of Scienter. ......................................................................... 36
+A.
+
+The “Core Operations” Theory Does Not Support a Finding of
+Scienter ..................................................................................................... 39
+
+B.
+
+Defendants’ Stock Sales Do Not Raise a Strong Inference of
+Scienter. .................................................................................................... 42
+Defendants’ Trades Were Made Pursuant to Rule 10b5-1
+Plans. ............................................................................................. 42
+
+2.
+
+Defendants’ Sales Were Routine and Consistent With
+Historical Trading Patterns. .......................................................... 43
+
+C.
+
+Defendants’ Compensation is Irrelevant to the Scienter
+Determination ........................................................................................... 47
+
+D.
+
+Plaintiffs’ “Confidential Witnesses” and Purported Nu Skin
+Documents Do Not Support Any Finding of Scienter .............................. 48
+
+The Amended Complaint Fails Adequately to Allege Loss Causation ................ 52
+A.
+
+IV.
+
+1.
+
+The People’s Daily Articles Cannot Constitute Corrective
+Disclosures for Two Independently Sufficient Reasons. .......................... 53
+1.
+
+Repackaging Publicly Available Information Does Not
+Establish Loss Causation. ............................................................. 53
+
+2.
+
+Media Allegations That a Risk of Fraudulent Conduct
+Exists Do Not Constitute a Corrective Disclosure ........................ 55
+
+B.
+
+Announcement of a Government Investigation Cannot Constitute a
+Corrective Disclosure................................................................................ 57
+
+C.
+
+Nu Skin China’s 8-K Was Not a Corrective Disclosure Because It
+Did Not Reveal Any Violation of Chinese Law ....................................... 57
+
+Plaintiffs’ Control Person Claim Falls With Their Substantive § 10(b)
+Claim ..................................................................................................................... 58
+
+CONCLUSION ................................................................................................................. 59
+
+iii
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 4 of 67
+
+TABLE OF AUTHORITIES
+Cases
+Alizadeh v. Tellabs, Inc.,
+No. 13 C 537, 2014 WL 2726676 (N.D. Ill. June 16, 2014) ................................. 36-37, 42
+Anderson v. First Sec. Corp.,
+249 F. Supp. 2d 1256 (D. Utah 2002) ............................................................................... 37
+Arena Land & Inv. Co., Inc. v. Petty,
+906 F. Supp. 1470 (D. Utah 1994) .................................................................................... 29
+Bach v. Amedisys, Inc.,
+10–395–BAJ–CN, 2012 WL 6947008 (W.D. La. Mar. 15, 2013) .............................. 55-57
+Board of Trustees of City of Ft. Lauderdale Gen. Employees’ Ret. Sys. v. Mechel OAO,
+811 F. Supp. 2d 853 (S.D.N.Y. 2011).................................................................... 38-39, 41
+Bricklayers of W. Penn. Pension Plan v. Hecla Min. Co.,
+No. 2:12–cv–00042–BLW, 2013 WL 5423875 (D. Id. Sept. 26, 2013) ........................... 40
+City of Austin Police Ret. Sys. v. ITT Educ. Serv., Inc.,
+388 F. Supp. 2d 932 (S.D. Ind. 2005) ............................................................................... 32
+City of Philadelphia v. Fleming Companies, Inc.,
+264 F.3d 1245 (10th Cir. 2001) .................................................................................. 37, 48
+Constr. Laborers Pension Trust of Greater St. Louis v. Neurocrine Bioscis., Inc.,
+No. 07CV1111–IEG–RBB, 2008 WL 2053733 (S.D. Cal. May 13, 2008)...................... 44
+Constr. Workers Pension Fund v. Navistar Int’l Corp.,
+No. 13 C 2111, 2014 WL 3610877 (N.D. Ill. July 22, 2014) ........................................... 36
+Dura Pharm., Inc. v. Broudo,
+544 U.S. 336 (2005) ............................................................................................... 27, 52-53
+Durham v. Whitney Info. Network, Inc.,
+06-CV-00687, 2009 WL 3783375 (M.D. Fla. Nov. 10, 2009) ......................................... 57
+Elam v. Neidorff,
+544 F.3d 921 (8th Cir. 2008) ............................................................................................ 42
+Garden City Employees’ Ret. Sys. v. Anixter Int’l, Inc.,
+09-CV-5641, 2012 WL 1068761 (N.D. Ill. Mar. 29, 2012) ........................................ 42-43
+Grossman v. Novell, Inc.,
+909 F. Supp. 845 (D. Utah 1995) ...................................................................................... 48
+iv
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 5 of 67
+
+Grossman v. Novell, Inc.,
+120 F.3d 1112 (10th Cir. 1997) ................................................................................... 28-30
+Higginbotham v. Baxter Int’l, Inc.,
+495 F.3d 753 (7th Cir. 2007) ............................................................................................ 49
+Hubbard v. BankAtl. Bancorp, Inc.,
+503 F. App’x 677 (11th Cir. 2012) ................................................................................... 49
+In re Alamosa Holdings, Inc.,
+382 F. Supp. 2d 832 (N.D. Tex. 2005) ........................................................................ 35-36
+In re Almost Family, Inc. Sec. Litig.,
+No. 3:10-cv-00520, 2012 WL 443461 (W.D. Ky. Feb. 10, 2012) .................................... 57
+In re Am. Apparel, Inc. S’holder Litig.,
+No. CV 10–06352, 2013 WL 174119 (C.D. Cal. Jan. 16, 2013) ...................................... 51
+In re BankAtl. Bancorp, Inc. Sec. Litig.,
+851 F. Supp. 2d 1299, 1313-14 (S.D. Fla. 2011) .............................................................. 49
+In re Cisco Sys. Inc. Sec. Litig.,
+No. C 11–1568 SBA, 2013 WL 1402788 (N.D. Cal. Mar. 29, 2013) .............................. 50
+In re Citigroup Inc. Sec. Litig.,
+753 F. Supp. 2d 206 (S.D.N.Y. 2010)............................................................................... 51
+In re Dell, Inc. Sec. Litig.,
+591 F. Supp. 2d 877 (W.D. Tex. 2008)....................................................................... 44, 48
+In re FX Energy, Inc. Sec. Litig.,
+2:07-CV-874 CW, 2009 WL 1812828......................................................................... 48-49
+In re Gold Res. Corp. Sec. Litig.,
+957 F. Supp. 2d 1284 (D. Colo. 2013) .................................................................. 28, 40, 41
+In re Level 3 Commc’ns, Inc. Sec. Litig.,
+No. 09–cv–00200, 2010 WL 5129524 (D. Colo. Dec. 10, 2010) ................................ 35-36
+In re Level 3 Commun’s, Inc. Secs. Litig.,
+667 F.3d 1331 (10th Cir. 2012) ............................................................ 35, 42-43, 47-48, 59
+In re Maxim Integrated Products, Inc. Sec. Litig.,
+639 F. Supp. 2d 1038 (N.D. Cal. 2009) ............................................................................ 56
+In re NVE Corp. Sec. Litig.,
+551 F. Supp. 2d 871 (D. Minn. 2007) ............................................................................... 47
+
+v
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 6 of 67
+
+In re Open Joint Stock Co. “Vimpel-Communc’ns” Sec. Litig.,
+No. 04 Civ. 9742, 2006 WL 647981 (S.D.N.Y. Mar. 14, 2006) ...................................... 38
+In re Travelzoo Inc. Sec. Litig.,
+11 Civ. 5531 GBD, 2013 WL 1287342 (S.D.N.Y. Mar. 29, 2013) .................................. 44
+In re Zagg Sec. Litig.,
+2:12-CV-852, 2014 WL 505152 (D. Utah Feb. 7, 2014).................................................. 37
+Janbay v. Canadian Solar, Inc.,
+10 CIV. 4430, 2012 WL 1080306 (S.D.N.Y. Mar. 30, 2012) .......................................... 56
+Kapur v. USANA Health Scis., Inc.,
+2:07–CV–177, 2008 WL 2901705 (D. Utah July 23, 2008)...................... 28, 31, 37, 49-51
+Leventhal v. Tow,
+48 F. Supp. 2d 104 (D. Conn. 1999) ................................................................................. 52
+Local 295/Local 851 IBT Employer Grp. Pension Trust & Welfare Fund v.
+Fifth Third Bancorp.,731 F. Supp. 2d 689 (S.D. Ohio 2010) ........................................... 51
+Metzler Inv. GMBH v. Corinthian Colleges, Inc.,
+540 F.3d 1049 (9th Cir. 2008) .......................................................................................... 56
+Meyer v. Greene,
+710 F.3d 1189 (11th Cir. 2013) ............................................................................. 53-55, 57
+Percoco v. Deckers Outdoor Corp.,
+Civ. No. 12–1001–SLR, 2013 WL 3584370 (D. Del. 2013) ............................................ 40
+Prissert v. EMCORE Corp.,
+894 F. Supp. 2d 1361 (D.N.M. 2012) ............................................................................... 40
+Ronconi v. Larkin,
+253 F.3d 423 (9th Cir. 2001) ............................................................................................ 47
+S. Ferry LP, # 2 v. Killinger,
+542 F.3d 776 (9th Cir. 2008) ............................................................................................ 40
+Slater v. A.G. Edwards & Sons, Inc.,
+719 F.3d 1190 (10th Cir. 2013) ............................................................................. 28, 30-31
+Szymborski v. Ormat Techs., Inc.,
+776 F. Supp. 2d 1191 (D. Nev. 2011) ............................................................................... 51
+Teachers’ Ret. Sys. of La. v. Hunter,
+477 F.3d 162 (4th Cir. 2007) ................................................................................. 44, 54-55
+
+vi
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 7 of 67
+
+Tyler v. Liz Claiborne, Inc.,
+814 F. Supp. 2d 323 (S.D.N.Y. 2011).......................................................................... 40-41
+Weinstein v. McClendon,
+2014 WL 3057190, --- F.3d ---- (10th Cir. July 8, 2014) ........................................... 27, 37
+Wolfe v. Aspenbio Pharma, Inc.,
+No. 11–cv–00165, 2012 WL 4040344 (D. Colo. Sept. 13, 2012) .................................... 48
+Yates v. Mun. Mortg. & Equity, LLC,
+744 F.3d 874 (4th Cir. 2014) ................................................................................ 41, 43, 47
+Zucco Partners, LLC v. Digimarc Corp.,
+552 F.3d 981 (9th Cir. 2009) ...................................................................................... 33, 51
+Rules
+17 C.F.R. § 240.10b-5.................................................................................................... 2, 27, 42-43
+Fed. R. Civ. P. 8 .................................................................................................................... 2, 3, 35
+Fed. R. Civ. P. 9 .............................................................................................................................. 2
+Fed. R. Civ. P. 12 ............................................................................................................................ 2
+Other Authorities
+15 U.S.C. § 78u-4 ..................................................................................................................... 2, 27
+15 U.S.C. § 78u-5 ......................................................................................................................... 35
+
+vii
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 8 of 67
+
+INTRODUCTION
+Beginning on January 15, 2014, the People’s Daily, the official newspaper of the
+Chinese government, published a series of negative articles about Provo-based direct marketer
+Nu Skin Enterprises, Inc. (“Nu Skin” or the “Company”), primarily accusing Nu Skin’s Chinese
+business (“Nu Skin China”) of operating an illegal pyramid scheme and violating China’s strict
+prohibition on the payment of multi-level compensation (i.e., paying commissions to Nu Skin
+China sales personnel based not only on their own sales but also on sales made by others in the
+organization). Within days of the publication of the first of these articles, the first securities
+fraud class action lawsuits were brought against Nu Skin and its senior executives. In those
+initial complaints, plaintiffs appeared to presume that the Chinese government would find Nu
+Skin in violation of these laws, subject it to draconian sanctions, and possibly shut down its
+operations in China. Plaintiffs thus claimed that Nu Skin was liable for securities fraud because
+it failed to warn its investors that it was violating these Chinese laws and would suffer such
+dramatic consequences in the future.
+However, things did not turn out the way Plaintiffs’ counsel had foreseen. The
+Chinese authorities completed their investigation in late March 2014, and did not find Nu Skin
+liable for violating either the anti-pyramid scheme laws or the multi-level commission laws. Nu
+Skin was neither subjected to significant penalties nor required to alter its business model.
+Instead, the Chinese authorities fined it approximately $500,000 for violations unrelated to these
+pyramid and multi-level compensation issues. Nu Skin’s stock rallied dramatically in response.
+In light of these developments, one might have expected Plaintiffs to voluntarily
+dismiss their claims, or at least to modify their approach to this litigation. They have done
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 9 of 67
+
+neither. Instead, Plaintiffs continue to claim that Nu Skin committed securities fraud by failing
+to inform investors that it was violating the same Chinese laws that it was not found to have
+violated in the recently concluded government investigations. The Amended Complaint
+therefore fails to state a claim and should be dismissed for the reasons set forth below.
+STATEMENT OF RELIEF SOUGHT AND GROUNDS FOR MOTION
+Pursuant to Rules 12(b)(6), 9(b), and 8 of the Federal Rules of Civil Procedure
+and the Private Securities Litigation Reform Act of 1995 (“PSLRA”), 15 U.S.C. § 78u-4(a), et
+seq., Defendants Nu Skin Enterprises, Inc.; M. Truman Hunt (“Hunt”); and Ritch N. Wood
+(“Wood” and, collectively, “Defendants”) hereby respectfully move for an order dismissing the
+Amended Complaint, with prejudice, for failure to state a claim upon which relief may be
+granted. As set forth below, the Amended Complaint fails to state a claim under Section 10(b) of
+the Securities Exchange Act of 1934 (the “Exchange Act”), Rule 10b-5 promulgated thereunder
+(“Rule 10b-5”), or Section 20(a) of the Exchange Act, for the following reasons.
+First, the Amended Complaint fails to plead an actionable false or misleading
+statement. Given the fact that Chinese regulators recently completed their investigation of Nu
+Skin China and did not find it in violation of China’s anti-pyramid selling or multi-level
+commission laws, Plaintiffs have no valid basis to claim that Nu Skin misled investors by not
+informing them that it was violating those same laws. Moreover, the specific facts about its
+compensation model that Plaintiffs accuse Nu Skin of keeping from the market were actually
+disclosed in the Company’s public filings long before the People’s Daily articles were published.
+Accordingly, the alleged omissions cannot be material as a matter of law.
+
+-2-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 10 of 67
+
+The Amended Complaint should also be dismissed for failure to satisfy Rule 8 of
+the Federal Rules of Civil Procedure, because it fails to identify the specific statements alleged to
+be false or misleading and explain why each statement is actionable. The Amended Complaint
+instead quotes large blocks from lengthy Nu Skin public statements and then offers a laundry list
+of reasons why these groups of statements are false and misleading, leaving the Court to divine
+which statements are purportedly false and why. Such “puzzle pleading” is impermissible.
+Next, the Amended Complaint fails to meet its heavy burden of pleading
+particularized facts that give rise to a strong inference of scienter. Rather than alleging
+particularized facts, Plaintiffs attempt to establish scienter through boilerplate allegations that
+China is an important part of Nu Skin’s business and that Nu Skin’s senior executives sold stock
+and were well compensated during the three-year-long proposed class period. Such pleading has
+been repeatedly rejected by courts in similar circumstances. The Amended Complaint also tries
+to rely on conclusory hearsay statements from low-level confidential witnesses who do not even
+claim to have communicated with anyone in Nu Skin management, a tactic that courts routinely
+reject as a basis for pleading scienter.
+Finally, the Amended Complaint should be dismissed because it fails to
+adequately plead loss causation. To plead loss causation, Plaintiffs must allege an actionable
+corrective disclosure (e.g., an admission by Nu Skin or a finding by a government body that a
+prior Nu Skin statement was false or misleading). No such corrective disclosure occurred here.
+Instead, Plaintiffs rely on a repackaging of previously alleged facts, the announcement of a
+government investigation, and media speculation about potential violations of law. Established
+precedent demonstrates that none of these allegations is sufficient to establish loss causation.
+
+-3-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 11 of 67
+
+BACKGROUND
+Nu Skin is a leading maker of premium-quality anti-aging personal care products
+and nutritional supplements, which it sells in over 50 countries around the world. This product
+suite covers a broad array of health and beauty applications. For example, Nu Skin’s ageLOC
+products use an innovative scientific approach to address the signs and sources of aging. Exhibit
+(“Ex.”) A (2011 10-K) at 3. 1 Similarly, the Company’s LifePak product is a nutritional
+supplement designed to improve overall health and diet. Id. at 5-6. Dozens of other Nu Skin
+products include everything from weight management systems, to supplements that target
+specific nutritional needs, to highly nutritious meals called “VitaMeal.” Id. at 6.
+Nu Skin’s Success and Growth
+Since its founding in 1984, Nu Skin has enjoyed dramatic growth. In 2013 alone,
+Nu Skin reported a record $3.2 billion in revenue, with year-over-year growth of nearly 50%.
+Ex. C (2013 10-K) at 1. Its growth in China has been especially strong in recent years. Nu Skin
+saw 67% growth in Mainland China from 2010 to 2011, 74% from 2011 to 2012, and 292% from
+2012 to 2013, with revenues increasing from $91.4 million to over $1 billion during that time.
+Ex. A (2011 10-K) at 56; Ex. B (2012 10-K) at 50; Ex. C (2013 10-K) at 56. During the same
+span, the number of Sales Employees in Mainland China increased from fewer than 2000
+employees to roughly 12,000. Ex. L (2010 10-K) at 21; Ex. A (2011 10-K) at 21; Ex B (2012
+10-K) at 17; Ex. C (2013 10-K) at 17.
+
+1
+
+Nu Skin attaches hereto certain exhibits relied upon and/or referred to in the Amended
+Complaint. For convenience, Nu Skin will refer to these documents as “Ex. __” herein.
+
+-4-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 12 of 67
+
+Contrary to Plaintiffs’ suggestion, Nu Skin’s growth has not been confined to
+China. For example, in 2013, Nu Skin experienced 11% growth in North Asia, 48% growth in
+Greater China (excluding Mainland China), 15% in South Asia/the Pacific, 30% in the Americas,
+and 7% in Europe, the Middle East, and Africa (“EMEA”). Ex. C (2013 10-K) at 56-58. Nu
+Skin had also reported significant growth in most of these markets over the past several years.
+See Ex. B (2012 10-K) at 50-51 (2012 growth of 6% in North Asia, 40% in South Asia/the
+Pacific, 15% in the Americas, and 14% in EMEA); Ex. A (2011 10-K) at 55-57 (2011 growth of
+9% in North Asia, 29% in South Asia/the Pacific, and 8% in Europe).
+Nu Skin’s Global Business and Compensation Model
+In most countries, Nu Skin operates through a direct selling model. Pursuant to
+its global business model, Nu Skin sales personnel—who are independent distributors, not Nu
+Skin employees—sell Nu Skin products to customers outside of traditional retail stores. In so
+doing, Nu Skin’s distributors may contact friends and relatives, engage in door-to-door sales, or
+pursue other means of selling Nu Skin’s products.
+Nu Skin’s independent distributors are compensated pursuant to Nu Skin’s global
+compensation plan. Under that plan, distributors earn commissions not only on their own sales,
+but also on the sales of distributors that they bring into the sales organization and subsequently
+train and lead. Nu Skin permits this “multi-level” compensation for up to six generations of
+distributors. Accordingly, a Nu Skin distributor who leads a large sales organization (sometimes
+referred to as “Sales Leaders”) can earn substantial sums. For example, a Sales Leader can earn
+a 5-20% commission on sales to his or her own network of consumers, 5% on every sale made
+by the individuals that the Sales Leader has recruited into the organization and trained, an
+
+-5-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 13 of 67
+
+additional 5% commission on sales made by salespersons recruited by the Sales Leader’s
+recruits, and so on, up to six levels deep into the organization. 2
+Nu Skin’s Business and Compensation Model in China Differs from the Global Model
+Nu Skin’s business and compensation model in China is distinctly different from
+its global model due to China’s unique regulatory requirements. In 1998, China imposed a ban
+on direct selling, which was not lifted until 2005. Thus, Nu Skin did not conduct direct sales in
+China at that time, but instead operated a limited number of retail stores selling products under a
+legacy brand. In 2003, Nu Skin expanded its retail network and began selling Nu Skin-branded
+products.
+In 2005, China passed legislation allowing direct selling, but under limited
+circumstances and with strict licensing, regulatory, and other requirements. Among other things,
+in order to engage in direct selling, Nu Skin must obtain a direct selling license for the
+geographic territory in question (e.g., province, city, etc.), and each individual that wishes to
+engage in direct selling must complete an examination administered by Nu Skin and obtain a
+direct selling card from the Company. Nu Skin promptly started applying for direct selling
+2
+
+Nu Skin describes its global distributor/Sales Leader compensation model as follows:
+Our Sales Leaders can receive “multi-level” compensation under our global sales
+compensation plan for product sales to their consumer groups as well as the sales made
+through the network of Sales Leaders they have developed and trained. Our distributors
+are not required to recruit or sponsor other distributors, and we do not pay any
+commissions for recruiting or sponsoring other distributors. While all of our distributors
+can sponsor other distributors at any time, our Sales Leaders and those in qualification to
+become Sales Leaders are the distributors who generally are actively sponsoring other
+distributors. Pursuant to our global sales compensation plan, we pay consolidated
+monthly commissions in a Sales Leader’s home country, in local currency, for product
+sales in the Sales Leader’s own consumer group and for product sales in the Sales
+Leader’s organization of Sales Leaders across all geographic markets. Ex. B (2012 10-K)
+at 11.
+-6-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 14 of 67
+
+licenses and now possesses such licenses for a significant portion of the country. Also in 2005,
+China formalized an “anti-pyramid” law that, among other things, imposes a ban on paying sales
+personnel in China the types of multi-level commissions that Nu Skin pays in most other
+countries.
+In light of the Chinese regulatory scheme, Nu Skin now operates in China
+pursuant to a “hybrid” model that includes both “Direct Sellers” and “Sales Employees.” Direct
+Sellers are persons who pass an exam administered by Nu Skin and obtain authorization from Nu
+Skin to engage in direct selling in a particular territory. They are not Nu Skin employees, but
+instead are akin to independent contractors. Nu Skin’s Direct Sellers in China can sell Nu Skin’s
+products anywhere in their authorized territory. Nu Skin compensates these Direct Sellers
+through sales commissions. However, unlike under its global model, Nu Skin’s Direct Sellers in
+China only earn commissions on their own personal sales, and not on the sales of any other
+individuals. Nu Skin has relatively few Direct Sellers in China.
+The other part of Nu Skin’s hybrid model in China is comprised of Sales
+Employees—individuals who are employed by Nu Skin and are not Direct Sellers. Because
+these Sales Employees have not met the requirements to become Direct Sellers, they can only
+sell Nu Skin products at Nu Skin retail locations. However, these Sales Employees are free to
+engage with potential customers in the field to promote and market Nu Skin’s products, solicit
+new business, and drive customers to the retail stores located throughout China. The great
+majority of Nu Skin’s sales force in China is comprised of Sales Employees.
+To comply with China’s laws barring multi-level commissions, Nu Skin
+compensates its Sales Employees in China in two ways. First, like Nu Skin’s Direct Sellers in
+
+-7-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 15 of 67
+
+China, its Sales Employees receive sales commissions on personal sales to their customers. In
+addition, Nu Skin pays a monthly salary to its Sales Employees in China that is adjusted on a
+quarterly basis. This salary is based on various factors, including their compliance with
+Company policy and applicable laws and regulations, their individual sales productivity, the
+effectiveness of their leadership, training, and supervision of other Sales Employees, and their
+ability to attract and maintain customers and promote the Nu Skin brand. In evaluating the
+effectiveness of a Sale Employee’s ability to lead, train, and supervise a sales team, Nu Skin
+takes into consideration not only the employee’s own sales productivity, but also the sales
+productivity of the group of salespeople developed and supervised by that Sales Employee,
+which is a factor commonly used by organizations to evaluate the performance of sales managers
+in a sales organization.
+Nu Skin is far from the only direct selling company doing business in China
+today. To the contrary, most of the major direct selling organizations in the world (e.g., Amway
+and Mary Kay) do a substantial amount of business in China, with the revenues of many of these
+organizations significantly exceeding Nu Skin’s China-based revenue. All of these companies
+are subject to the same direct selling and anti-pyramid regulations. Moreover, while the details
+vary, a great many of these businesses employ a model similar to Nu Skin’s, under which they
+pay commissions only on direct sales, but also compensate their sales personnel in other ways for
+developing and supervising other successful sales personnel.
+Nu Skin Disclosed the Nature of its Business in China and Warned Investors of Potential Risks
+While Nu Skin is proud of its achievements and excited about its future in China,
+and while it believes that it complies with Chinese laws and regulations, Nu Skin has
+
+-8-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 16 of 67
+
+nevertheless gone to great pains to educate its investors about its business and compensation
+model in China, and to caution investors about the risks and uncertainties inherent in operating
+there. First, in each of Nu Skin’s quarterly and annual reports, it explains that its business in
+China operates under a model that differs from its global model. See, e.g., Ex. B (2012 10-K) at
+11 (“Because of restrictions on direct selling and multi-level commissions in China, our sales
+employees, contractual sales promoters and direct sellers do not participate in our global sales
+compensation plan, but are instead compensated according to a separate compensation model
+established for that market.”). Nu Skin also tells its investors that, in establishing the salary level
+for Sales Employees in China, it uses “the sales productivity of a sales leader and the sales
+promoters and employees he/she leads and supervises,” as well as various other factors. Ex. A
+(2011 10-K) at 26.
+Moreover, while Nu Skin believes its business and compensation models in China
+comply with Chinese law, because interpretation of Chinese law is uncertain and subject to
+change, Nu Skin has warned its investors in every quarterly and annual disclosure going back for
+years that its business in China was subject to significant regulatory risk and that it was possible
+the government would find its conduct (or the conduct of individual salespeople) unlawful and
+impose serious sanctions. For example, Nu Skin disclosed in each filing, “The regulatory
+environment in China remains complex.” Ex. A (2011 10-K) at 17. Nu Skin also noted, “Our
+operations in China have attracted significant regulatory and media scrutiny since we expanded
+our operations there in January 2003.” Id. Nu Skin further explained that these regulations are
+“subject to discretionary interpretation,” and “[i]nterpretations of what constitutes permissible
+activities by regulators can vary from province to province and can change from time to time
+
+-9-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 17 of 67
+
+because of the lack of clarity in the rules regarding direct selling activities and differences in
+customs and practices in each location.” Id.
+Furthermore, Nu Skin has consistently explained that, while it “structured [its]
+business model in China based on . . . [(1) its] interpretation of applicable regulations,”
+(2) “guidance . . . from government officials,” (3) its “understanding of the practices of other
+international direct selling companies operating in China,” and (4) its “understanding as to how
+regulators are enforcing the regulations,” the nature of China’s political system “gives regulatory
+agencies at both the local and central levels of government broad discretion to interpret and
+enforce regulations in a fashion that promotes social order.” Id. at 26. As a result, Nu Skin
+noted, “we face a risk that regulators may change the way in which they currently interpret and
+enforce the direct selling regulations,” which could result in significant sanctions, including
+preventing Nu Skin from continuing to operate its hybrid model in China. Id. Nu Skin
+explained specifically, “If our business practices are found to be in violation of applicable
+regulations as they may be interpreted or enforced in the future, in particular our use of the sales
+productivity of a sales leader and the sales promoters and employees he/she leads and supervises
+in setting his/her quarterly compensation level, then we could be forced to change our business
+model and/or sanctioned, either of which could significantly harm our business.” Id.
+Finally, Nu Skin has also made it very clear that it had been expanding rapidly in
+China and, particularly in light of the influx of large numbers of new sales personnel in recent
+years, there was a substantial risk that the conduct of individual salespeople could be found to
+violate Chinese law. Ex. A (2011 10-K) at 26-27. For example, Nu Skin noted that “[w]e have
+experienced rapid growth in China, which could strain our ability to effectively manage our
+
+-10-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 18 of 67
+
+operations.” Id. at 27. The Company also emphasized that “[i]nsufficient management of such
+growth could result in . . . inappropriate claims or promotions by our sales force[] and
+governmental inquiries and investigations, all of which could harm our revenue and ability to
+generate sustained growth and result in unanticipated expenses.” Id.
+Nu Skin added that “[t]he most significant area of risk for such activities relates to
+improper product claims and claims regarding the business opportunity of being a distributor.”
+Ex. A (2011 10-K) at 23. Nu Skin further noted that it “experience[s] problems with distributors
+from time to time,” and, because of the dramatic growth in the number of salespeople, Nu Skin
+disclosed an “increase[d] . . . risk [product] materials could contain problematic product or
+marketing claims in violation of our policies and applicable regulations,” potentially resulting in
+“fines or other legal action if our distributors violate applicable laws and regulations.” Id.
+Moreover, because of distributor uncertainty regarding Nu Skin’s China model, Nu Skin warned
+investors that “confusion can result as to how those working in China should promote the
+business in China,” which can “lead to governmental reviews and investigations of our
+operations in China,” with regulators enjoying “broad latitude to conduct investigations.” Id. at
+26. Nu Skin concluded, “[w]e anticipate that our business will continue to attract significant
+governmental scrutiny” as its sales force continues to expand rapidly. Id.
+The People’s Daily Allegations
+In January 2014, some of the concerns that Nu Skin had been sharing with its
+investors for years came to fruition. The People’s Daily, the Chinese government’s official
+newspaper—which can reflect the policy positions of the government—published a series of
+articles alleging that Nu Skin China had violated Chinese law by, inter alia, operating a pyramid
+
+-11-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 19 of 67
+
+scheme, paying multi-level commissions to sales personnel, making false and unsupported
+product claims, and making false claims of celebrity and government endorsements of Nu Skin’s
+products. The Chinese government announced an investigation into these allegations within
+hours of their publication. Nu Skin’s stock dropped sharply following these events, suggesting
+investors were deeply concerned that the Chinese government would impose harsh sanctions.
+The Chinese Government’s Findings
+However, to paraphrase Mark Twain, rumors of Nu Skin’s demise were greatly
+exaggerated. Although Nu Skin’s stock price plummeted, the People’s Daily’s central
+allegations never resulted in any government sanction, fine, or action. Following a roughly twomonth investigation that involved extensive interviews, document collections, and intense
+scrutiny of all aspects of Nu Skin China’s business, the government did not find that Nu Skin
+was operating a pyramid scheme, that its compensation practices were unlawful, that it was
+paying multi-level commissions, that its employees’ contacts with customers outside the stores
+constituted illegal direct selling, or that the overwhelming majority of the other allegations made
+against Nu Skin China had merit. Instead, the government issued only a fine of approximately
+$540,000 against Nu Skin China, and that fine was based on two violations of Chinese
+regulations that have nothing to do with Plaintiffs’ complaint here. 3
+
+3
+
+Nu Skin was fined approximately $16,000 for the manner in which it described certain
+technical aspects related to the science behind its anti-aging products. Nu Skin was also fined
+approximately $524,000 based on sales by some of its licensed Direct Sellers of certain Nu Skin
+products that were licensed for sale in Nu Skin’s retail stores, but not licensed for sale by Direct
+Sellers. Additionally, the Chinese government imposed approximately $260,000 in fines on six
+Nu Skin Sales Employees for certain unspecified inappropriate promotional activities.
+
+-12-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 20 of 67
+
+But Plaintiffs paid the government’s actual findings no heed. Instead, the
+Amended Complaint continues to tout in vitriolic terms the exact facts that the Chinese
+government itself has implicitly rejected. This is not surprising. Lead Plaintiff State-Boston
+Retirement System (“State-Boston”) is a government pension plan located in Boston,
+Massachusetts that has commenced approximately twenty securities fraud and other class actions
+in state and federal courts over the past decade, most alleging causes of action similar to those
+asserted here. And, in most of those cases, State-Boston has been represented by Labaton
+Sucharow LLP, its law firm here. Ex. D (list of actions drawn from publicly available
+databases). This serial plaintiff, whose claims have been rejected as inadequate on their face by
+multiple courts in nearly a half dozen cases, 4 was apparently undeterred by the Chinese
+government’s own conclusions and thus brings this action, regardless of its lack of merit.
+The Aftermath of the People’s Daily Allegations
+Despite the absence of significant government sanctions, Nu Skin’s business in
+China has suffered during 2014. Once the People’s Daily made its allegations and the Chinese
+government began its investigation, thousands of Nu Skin’s Sales Employees in China left the
+Company. In addition, to show the Chinese government it was a responsible corporate citizen,
+Nu Skin voluntarily put a temporary hold on hiring new Sales Employees and Direct Sellers, and
+also temporarily stopped conducting promotional meetings. As a result, Sales Employees and
+Direct Sellers who left the Company were not immediately replaced, and Nu Skin’s financial
+4
+
+All but three of the eighteen cases set out in Exhibit D hereto were either dismissed on
+the merits, have a motion to dismiss pending or forthcoming, or were settled or voluntarily
+dismissed prior to a motion to dismiss. See id. In one of the three exceptions, State-Boston lost
+a motion for judgment as a matter of law following trial, and its counsel here was sanctioned for
+conduct relating to the firm’s use of confidential witnesses (see infra § II.D n.31).
+
+-13-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 21 of 67
+
+performance in China suffered accordingly. While Nu Skin believes its business in China has
+stabilized, it will take time to dissipate the harm to its business resulting from the actions taken in
+response to the People’s Daily allegations.
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+In sum, Nu Skin has warned its investors for years about the risk and uncertainty
+inherent in the Chinese regulatory landscape. When that risk appeared likely to materialize, its
+stock price declined. The stock price then recovered significantly when the Chinese authorities
+did not find that Nu Skin’s business model or compensation system violated Chinese law. The
+Amended Complaint, however, turns a blind eye to this sequence of events. Instead, Plaintiffs
+ask this Court to interpret China’s laws and find violations of those laws where China’s own
+regulators did not. The Court should decline this invitation and dismiss the Amended Complaint
+with prejudice.
+STATEMENT OF FACTS 5
+I.
+
+Nu Skin’s Business and Compensation Model In China Differs From Its Global
+Model
+As set forth above, and as Nu Skin has long disclosed, its business and
+
+compensation models in China differ significantly from its global model. The models differ in
+two principal respects.
+
+5
+
+Except where otherwise noted, Defendants refer to allegations set out in the Amended
+Complaint (the “Am. Compl.”).
+
+-14-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 22 of 67
+
+A.
+
+Nature of Nu Skin’s Relationship With Its Sales Personnel
+1.
+
+In most markets, Nu Skin sells its products exclusively through
+
+independent distributors who purchase inventory from Nu Skin and sell the product to their
+customers. These distributors operate entirely through direct selling. Ex. A (2011 10-K) at 1.
+2.
+
+By contrast, in China, Nu Skin operates under a hybrid model under which
+
+it utilizes both Sales Employees 6 and Direct Sellers. Ex. B (2012 10-K) at 8. 7 Nu Skin has
+explained to its investors that its Sales Employees in China do not engage in direct selling:
+[W]e currently are unable to operate under our global direct selling
+business model in China as a result of regulatory restrictions on direct
+selling activities in this market. Consequently, we have developed a
+hybrid business model that utilizes retail stores with an employed sales
+force and contractual sales promoters to sell products through fixed
+locations, which we supplement with a direct sales opportunity in those
+locations where we have obtained a direct sales license.
+Ex. A (2011 10-K) at 10 (emphasis added). In other words, Nu Skin China has made clear that
+its model is a hybrid one incorporating aspects of direct sales and retail sales.
+
+6
+
+In addition to its part-time and full-time Sales Employees, Nu Skin also utilizes the
+services of “contractual sales promoters” and “independent marketers” in China. All of these
+individuals are compensated in a similar manner (and a manner different from Nu Skin’s Direct
+Sellers). Therefore, for purposes of this motion, Defendants will refer to full-time employees,
+part-time employees, independent marketers, and contractual sales promoters as “Sales
+Employees,” unless otherwise noted.
+
+7
+
+As Nu Skin has repeatedly disclosed, it “currently ha[s] very few direct sellers in
+Mainland China,” see, e.g., Ex. C (2013 10-K) at 8, and the Company therefore operates
+“mostly” through the Sales Employees described above. Am. Compl. ¶ 200. For example, the
+Company disclosed in is 2012 annual report that it had 12,707 Sales Employees, working out of
+roughly 40 retail stores. See Am. Compl. ¶ 56; Ex. B (2012 10-K) at 8, 17. Similarly, in 2013,
+the Company reported it had 11,320 Sales Employees in Mainland China. Ex. C (2013 10-K) at
+17.
+
+-15-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 23 of 67
+
+3.
+
+While Nu Skin China’s Sales Employees cannot sell outside of its retail
+
+locations, 8 the Company explains that they can (and are expected to) solicit potential customers
+outside of retail stores in order to drive traffic to those stores:
+We rely on our sales force to market and sell products at the various retail
+locations supported by only minimal advertising and traditional
+promotional efforts. Our sales force may also refer individuals to join our
+sales force as sales employees, contractual sales promoters or direct
+sellers. Our retail model in China is largely based upon our ability to
+attract customers to our retail stores through our sales force, to educate
+them about our products through frequent training meetings, and to obtain
+repeat purchases.
+Id.
+4.
+
+Nu Skin’s relatively few Direct Sellers in China are not Sales Employees.
+
+Instead, as noted above, their role is similar to that of Nu Skin’s independent distributors in other
+parts of the world; they purchase inventory from Nu Skin and then resell these products directly
+to their customers. Ex. C (2013 10-K) at 8. Moreover, Nu Skin’s Direct Sellers are not required
+to conduct their sale transactions through Nu Skin’s retail stores, but instead may consummate
+sales of Nu Skin’s products anywhere in their authorized direct selling territory. See id.
+B.
+
+Compensation of Nu Skin Sales Personnel
+5.
+
+Under Nu Skin’s global model, its independent distributors are only paid
+
+commissions, not salaries. As discussed above, these distributors earn commissions both on the
+sales that they personally make and on the sales of any distributors that they introduce to Nu
+Skin and bring into their sales organizations. There is no discretion applied in determining the
+level of compensation, as the level of compensation is fixed by specific formula and terms. Ex.
+
+8
+
+See, e.g., Ex. A (2011 10-K) at 10.
+
+-16-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 24 of 67
+
+B (2012 10-K) at 11.
+6.
+
+In China, however, neither Nu Skin’s Direct Sellers nor its Sales
+
+Employees receive commissions on sales made by others. Instead, Nu Skin pays commissions in
+China to both its Direct Sellers and its Sales Employees based only on their personal sales. Ex.
+B (2012 10-K) at 8. Nu Skin’s Direct Sellers in China receive only commissions, and those
+commissions are capped at 30% of their sales volume. Am. Compl. ¶¶ 73, 150. Nu Skin Sales
+Employees in China receive commissions on their personal sales and also receive salaries. Ex. C
+(2013 10-K) at 8.
+7.
+
+The salaries of Nu Skin Sales Employees in China are paid monthly, but
+
+are set on a quarterly basis at the discretion of the Company, based on its evaluation of their
+performance. These salaries vary from quarter to quarter and are based on a number of different
+objective and subjective performance factors, including sales productivity, leadership, training,
+and compliance with the law and Company policy. See, e.g., Am. Compl. ¶ 144. As Nu Skin
+has repeatedly disclosed, one of the various factors relating to training and leadership that
+impacts a Nu Skin employee’s salary in China is the performance of the team that the employee
+leads and supervises. See, e.g., id. In other words, an employee’s salary can increase or decrease
+based in part on the sales performance of the sales organization that he or she develops and
+supervises. This element of Sales Employee compensation (which is not a commission) has been
+disclosed to investors dozens of times over the past several years and is a common factor used by
+other sales organizations in reviewing performance and setting compensation. For example, Nu
+Skin has stated:
+a.
+
+“our current method of compensating our employed sales representatives and
+contractual sales promoters [in China] includ[es] our use of the sales productivity
+-17-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 25 of 67
+
+of an individual and the group of individuals whom he or she trains and
+supervises as one of the factors in establishing salary and compensation.” Ex. E
+(2009 Q1 10-Q) at 23.
+b.
+
+in China we “use . . . the sales productivity of a sales leader and the sales
+promoters and employees he/she leads and supervises in setting his/her quarterly
+compensation level.” Ex. A (2011 10-K) at 26.
+
+c.
+
+In 2012, Defendant Ritch Wood, Nu Skin’s Chief Financial Officer, stated at an
+investor conference that Nu Skin China paid Sales Employees salaries that
+comprised 40% of the total aggregate sales compensation in China and were
+based in part on “the productivity of both the employee and his/her sales team.”
+Am. Compl. ¶ 150. 9
+8.
+
+Analysts also understood this portion of Nu Skin’s compensation model in
+
+China and reported on it. For example, on August 8, 2012, Canaccord issued an analyst report
+noting that “Nu Skin utilizes an employed work force in China for the vast majority of its sales
+reps with a salary that is reset quarterly, commission rates dependent upon individual sales
+volume, and organizational volume driving salary rates.” Am. Compl. ¶ 145. Similarly, on
+August 20, 2012, Canaccord issued a second analyst report reiterating that Nu Skin China
+“maintains an employed sales force where salaries are paid for group success.” Id. ¶ 151.
+9.
+
+The “hybrid model” described above was developed in response to
+
+9
+
+Accord Ex. F (2009 Q2 10-Q) at 26; Ex. G (2009 Q3 10-Q) at 23; Ex. H (2009 10-K) at
+29; Ex. I (2010 Q1 10-Q) at 23; Ex. J (2010 Q2 10-Q) at 23; Ex. K (2010 Q3 10-Q) at 22; Ex. L
+(2010 10-K) at 30; Ex. M (2011 Q1 10-Q) at 21; Ex. N (2011 Q2 10-Q) at 21; Ex. O (2011 Q3
+10-Q) at 23; Ex. A (2011 10-K) at 26 (“If our business practices are found to be in violation of
+applicable regulations as they may be interpreted or enforced in the future, in particular our use
+of the sales productivity of a sales leader and the sales promoters and employees he/she leads and
+supervises in setting his/her quarterly compensation level, then we could be forced to change our
+business model and/or sanctioned, either of which could significantly harm our business.”); Ex. P
+(2012 Q1 10-Q) at 22; Ex. Q (2012 Q2 10-Q) at 24; Ex. R (2012 Q3 10-Q) at 23; Ex. B (2012
+10-K) at 21; Ex. S (2013 Q1 10-Q) at 21; Ex. T (2013 Q2 10-Q) at 21; Ex. U (2013 Q3 10-Q) at
+23.
+
+-18-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 26 of 67
+
+regulations on the direct selling industry that were promulgated in China in 2005. See, e.g., Am.
+Compl. ¶ 64. As explained by the Company:
+Because of restrictions on direct selling and multi-level commissions in
+Mainland China, we have implemented a business model for that market
+that is different from the business model we use in our other markets . . . .
+Our sales employees, contractual sales promoters, direct sellers and
+independent marketers in Mainland China do not participate in our global
+sales compensation plan, but are instead compensated according to a
+separate compensation model established for Mainland China. Sales
+employees, contractual sales promoters, direct sellers and independent
+marketers all earn commissions on their product sales at established
+commission rates. Sales employees also receive a salary, which is
+reviewed and adjusted on a quarterly basis.
+Ex. C (2013 10-K) at 8.
+C.
+
+Risk of Regulatory Action Based on Sales and Compensation Practices
+10.
+
+As noted above, Nu Skin has also long recognized and disclosed to the
+
+public that China’s anti-pyramid and direct selling regulations were vague and subject to
+uncertainty, and that regulators at both the local and state level had broad discretion in
+interpreting these laws. For example, in 2009, the Company stated that “[t]he direct selling
+regulations in China are restrictive and there continues to be some confusion and uncertainty as
+to the meaning of the regulations and the specific types of restrictions and requirements imposed
+under them,” and that “[i]t is also difficult to predict how regulators will interpret and enforce
+these regulations.” Ex. E (2009 Q1 10-Q) at 23.
+11.
+
+And Nu Skin warned that, in such a regulatory environment, its China
+
+compensation model might invite regulatory scrutiny and enforcement actions. For example, in
+its Q1 2009 10-Q, issued two years before the class period began here, Nu Skin disclosed:
+In particular, our business would be harmed by any determination [by the
+government in China] that our current method of compensating our
+-19-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 27 of 67
+
+employed sales representatives and contractual sales promoters, including
+our use of the sales productivity of an individual and the group of
+individuals whom he or she trains and supervises as one of the factors in
+establishing salary and compensation, violates the restriction on multilevel compensation under the rules.
+Ex. E (2009 Q1 10-Q) at 23. Nu Skin included a substantially similar or identical disclosure in
+every 10-Q and 10-K from that time to the present. See supra n.9.
+12.
+
+More generally, Nu Skin has also warned investors that, in light of the
+
+unpredictable regulatory environment in China, there was substantial risk that the Company’s
+activities, including its fundamental business model, might be challenged by the government.
+For example, its Q1 2009 10-Q stated that “[o]ur operations in China are subject to significant
+regulatory scrutiny, and we have experienced challenges in the past, including interruption of
+sales activities at certain stores and fines being paid in some cases.” Ex. E (2009 Q1 10-Q) at 23.
+The disclosure went on to explain that, “[e]ven though we have now obtained a direct selling
+license, government regulators continue to scrutinize our activities and the activities of our
+employed sales representatives, contractual sales promoters and direct sellers to monitor our
+compliance with applicable regulations as we integrate direct selling into our business model.”
+Id.
+13.
+
+The 10-Q concluded:
+
+“Any determination that our operations or activities, or the activities of our
+employed sales representatives, contractual sales promoters or direct
+sellers, are not in compliance with applicable regulations, could result in
+the imposition of substantial fines, extended interruptions of business,
+termination of necessary licenses and permits, including our direct selling
+licenses, or restrictions on our ability to open new stores or obtain
+approvals for service centers or expand into new locations, all of which
+could harm our business . . . . The direct selling regulations in China are
+restrictive and there continues to be some confusion and uncertainty as to
+the meaning of the regulations and the specific types of restrictions and
+
+-20-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 28 of 67
+
+requirements imposed under them. It is also difficult to predict how
+regulators will interpret and enforce these regulations.”
+Id. Each 10-Q and 10-K since then has included substantially similar or identical cautionary
+language. 10
+14.
+
+Nu Skin’s disclosures have also noted that Nu Skin China had been the
+
+subject of investigations and regulatory scrutiny in the past, had paid fines on multiple instances
+in prior years, and could face “more significant sanctions,” Ex. A (2011 10-K) at 26, including
+potentially being “forced to change our business model,” id., or “extended interruptions of
+business, termination of necessary licenses and permits, including our direct selling licenses, or
+restrictions on our ability to open new stores or obtain approvals for service centers or expand
+into new locations, all of which could harm our business.” Ex. I (2010 Q1 10-Q) at 23.
+II.
+
+Publication of the Citron Report in August 2012
+15.
+
+On August 7, 2012, and in a supplemental report published on August 16,
+
+2012, well-known short-seller Citron Research published a report (the “Citron Report”) that was
+substantially identical in material respects to the People’s Daily articles and to the allegations set
+out in the Amended Complaint. Plaintiffs do not dispute this fact and, indeed, refer to the Citron
+Report as a “partial corrective disclosure.” Am. Compl. ¶¶ 141-42, 149, 286(a).
+16.
+
+The Citron Report made the same allegations as those subsequently made
+
+in the People’s Daily articles which lie at the crux of this litigation. For example, Citron alleged
+10
+
+Accord Ex. F (2009 Q2 10-Q) at 26; Ex. G (2009 Q3 10-Q) at 23; Ex. H (2009 10-K) at
+28-29; Ex. I (2010 Q1 10-Q) at 23; Ex. J (2010 Q2 10-Q) at 23; Ex. K (2010 Q3 10-Q) at 22; Ex.
+L (2010 10-K) at 29-30; Ex. M (2011 Q1 10-Q) at 21; Ex. N (2011 Q2 10-Q) at 21; Ex. O (2011
+Q3 10-Q) at 23; Ex. A (2011 10-K) at 26; Ex. P (2012 Q1 10-Q) at 22; Ex. Q (2012 Q2 10-Q) at
+24; Ex. R (2012 Q3 10-Q) at 23-24; Ex. B (2012 10-K) at 21; Ex. S (2013 Q1 10-Q) at 21; Ex. T
+(2013 Q2 10-Q) at 21; Ex. U (2013 Q3 10-Q) at 23.
+
+-21-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 29 of 67
+
+that Nu Skin China had “support[ed] the creation of a multi-level pyramid compensation
+scheme,” and “is in fact operating as an MLM” (Ex. V (August 7, 2012 report) at 3), and “is
+composed of many pyramids,” featuring employees with as many as “2,000 full-time downlines”
+and providing that “every new distributor has 6 uplines who will help train the new distributors,”
+with “every one of your uplines . . . mak[ing a] 5% commission from your sales.” Ex. W
+(August 16, 2012 report) at 2. The Citron Report also cited undercover witnesses and documents
+purportedly demonstrating these pyramid selling and MLM activities. Ex. V (August 7, 2012
+report) at 4-5. Citron additionally alleged, just as Plaintiffs do here, that Nu Skin China needed
+to use a sophisticated computer system in order to calculate compensation in China based on
+downline performance. Id. at 6.
+17.
+
+Similarly, just like Plaintiffs here, Citron alleged violations of the PRC’s
+
+direct selling laws, contending that Nu Skin China had “violate[d] laws regulating direct selling,”
+Ex. V (August 7, 2012 Citron Report) at 3, and engaged in “a blatant violation of direct selling
+principles.” Id. at 4; see Am. Compl. ¶¶ 141-42.
+18.
+
+Finally, Citron made miscellaneous allegations that Nu Skin China had
+
+“promise[d] unlimited riches for . . . new recruit[s] to join the pyramid” (Ex. V (August 7, 2012
+Citron Report) at 5), engaged in “[b]rainwashing and chanting slogans” (id. at 8), and “requir[ed]
+purchases in order to participate in sales commissions or salary” (id. at 3), as well as making
+claims regarding its ageLOC product based on “pseudo-scien[ce]” and falsely claiming
+endorsements from a major scientist. Ex. W (August 16, 2012 Citron Report) at 3, 5, 11-14, 17.
+Citron concluded by noting the likelihood of severe government sanctions due to this alleged
+misconduct. (Ex. V (August 7, 2012 Citron Report) at 10.)
+
+-22-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 30 of 67
+
+19.
+
+Following the issuance of the Citron Report, Nu Skin reiterated the fact
+
+that Nu Skin China relied on group productivity as one of the various factors it considers in
+establishing the salaries of its Sales Employees, Am. Compl. ¶ 144 (quoting August 7, 2012 8K), and analysts then discussed whether Nu Skin China’s practices violated the law. For
+example, Andrew Left of Citron appeared on television and debated a Deutsche Bank analyst,
+with Left asserting, “‘If you look at my diagrams on my website, you can see reps drawing out
+pyramids when recruiting,’” adding that “‘they most definitely run an MLM in China,’”
+including “‘get[ting] paid for recruiting sellers down the pyramid, which constitutes an MLM
+scheme.’” Id. ¶ 147.
+III.
+
+Publication of Substantially Identical Allegations by People’s Daily in January 2014
+20.
+
+Approximately 18 months after publication of the Citron Report, the
+
+People’s Daily made substantially identical allegations in two articles published on January 15
+and 16, 2014. The state-controlled newspaper reported that Nu Skin China was “suspected of”
+operating a pyramid scheme and providing multi-level compensation, Am. Compl., Ex. E at 12,
+and engaging in direct selling of products that were not licensed for direct selling. Id. at 8; see
+also id., Ex. F at 9. More specifically, the People’s Daily asserted: (i) Nu Skin China’s
+“personnel is in pyramid or ladder-shaped structure” (Am. Compl., Ex. E at 12); (ii) “[a]ccording
+to national relevant laws, such bonus system and personnel composition are suspected of
+pyramid schemes” (id.); (iii) salespeople “may gain commissions at 5% of the sales of their
+‘subordinate’” (id., Ex. F at 9); and (iv) Nu Skin China required new salespeople “to purchase
+Nu Skin products for 500” RMB as part of a pyramid scheme. Id. at 10.
+
+-23-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 31 of 67
+
+21.
+
+The paper also reported that Nu Skin salespersons promoted Nu Skin as a
+
+“get rich quick” scheme—join Nu Skin if “you want to earn 1 million yuan in half a year” (Am.
+Compl., Ex. E at 9)—and that the Company “was suspected of mind control, so called
+‘brainwashing.’” Id. at 12.
+22.
+
+The Company’s closing stock price on January 14, 2014 was $136.47.
+
+Following publication of the first People’s Daily article on January 15, the Company’s stock
+price fell 15.5% to $115.23. Am. Compl. ¶ 286(b), (e).
+IV.
+
+The Response to the People’s Daily Articles
+23.
+
+On January 16, the Chinese government announced an investigation into
+
+the accusations made by the People’s Daily. Id. ¶¶ 214-15. Following that announcement, Nu
+Skin’s stock fell another 26.4%, to $84.80. Id. ¶ 286(c).
+24.
+
+On January 21, 2014, Nu Skin filed an 8-K acknowledging instances in
+
+which some of its salespeople failed adequately to follow and enforce Nu Skin’s policies and
+regulations (not Chinese laws or regulations) and announcing additional training of its
+employees. Id. ¶ 219. Nu Skin also stated it was voluntarily suspending business promotional
+meetings and its acceptance of new Direct Sellers and Sales Employees until the government’s
+investigation was complete. Id. ¶¶ 219, 221. Nu Skin’s announcement did not acknowledge
+Company wrongdoing—to the contrary, it emphasized Nu Skin China’s intention to improve the
+education of its salespeople regarding how to accurately describe the Company’s fully compliant
+China business model. Id. ¶ 219. Nu Skin’s stock fell just 2.62% following the issuance of the
+8-K. Id. ¶ 220.
+
+-24-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 32 of 67
+
+25.
+
+On March 24, 2014, Nu Skin announced the conclusion of all material
+
+investigations in China. Id. ¶¶ 230-34. 11 Similarly, the Chinese government announced the
+results of the investigation on its website. See id. ¶¶ 230-33. 12 The investigations resulted in a
+fine of about $540,000, based on findings that: (1) certain products licensed only for sale in the
+Company’s retail locations had been sold by some of the Company’s Direct Sellers, and (2) Nu
+Skin China lacked adequate scientific support for certain product claims. See, e.g., Am. Compl.
+¶¶ 230, 287-89. At the same time, six Beijing Sales Employees were fined $241,000,
+collectively, for improper promotional activities. Am. Compl. ¶ 231. Nu Skin also agreed to
+improve the education and supervision of its Direct Sellers and Sales Employees and to close
+certain promotional workshops being run by certain Sales Employees in Beijing. Am. Compl.
+¶ 232.
+26.
+
+The Chinese government investigation was most notable for what it did
+
+not conclude. It did not find that Nu Skin was a pyramid scheme, engaged in unlawful MLM
+activities, violated the direct selling regulations because its Sales Employees engaged in
+promotional activities outside the stores, or needed to change its business or compensation
+model. Id. ¶¶ 230-32. Not surprisingly, the government’s decision was greeted as “very good
+news,” and Nu Skin’s stock rebounded nearly 20% upon the announcement that the Chinese
+
+11
+
+The Amended Complaint vaguely alleges the existence of “at least one investigation by
+Chinese authorities” of Nu Skin as of June 2014, Am. Compl. ¶¶ 17, 234 (emphasis in original),
+but does not even suggest that this investigation is connected to Plaintiffs’ allegations here in any
+way.
+12
+
+Accord, e.g., Ex. X (http://www.nytimes.com/2014/03/25/business/china-fines-nu-skinover-sales-tactics-and-product-claims.html?_r=0).
+
+-25-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 33 of 67
+
+government’s investigations were concluded in this manner. Id. ¶ 289 (citing analyst report);
+Ex. Y (http://buzz.money.cnn. com/2014/03/24/nu-skin-china-herbalife/).
+V.
+
+Allegations in the Amended Complaint
+27.
+
+Notwithstanding the fact that the government did not adopt the People’s
+
+Daily’s fundamental allegations, which echoed the allegations made by Citron, the Amended
+Complaint largely repackages them here. The Amended Complaint asserts that Nu Skin made
+false statements and omissions regarding its financial performance in China and its China
+business model and operations, Am. Compl. ¶¶ 83-210, because it failed to disclose that it was
+violating China’s anti-pyramid and direct selling laws, in three principal ways.
+28.
+
+First, the Amended Complaint asserts that Nu Skin paid “sales
+
+representatives [i.e., Sales Employees] in Mainland China on the basis not only of their own
+sales but also of the sales productivity of the sales people [they] recruited.” Id. ¶ 65 (emphasis
+added). The complaint cites various purported confidential witnesses and two alleged Company
+documents in support of this allegation. See id. ¶¶ 65-78.
+29.
+
+Second and relatedly, Plaintiffs allege that Nu Skin China’s Direct Sellers
+
+were compensated based in part on “sales productivity” of their sales team, even though there is
+an absolute bar on compensating Direct Sellers in China for anything other than their personal
+sales. Id. ¶¶ 65-66. Plaintiffs again rely on the same smattering of confidential witnesses and
+two documents to support this claim. See id. ¶¶ 65-78.
+30.
+
+Third, Plaintiffs allege that, because Nu Skin China Sales Employees did
+
+not possess direct selling licenses, their practice of promoting and marketing Nu Skin products
+with potential customers outside of Nu Skin’s retail stores violated Chinese direct selling
+
+-26-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 34 of 67
+
+regulations, even though the products in question were actually purchased at Nu Skin’s retail
+stores. See, e.g., id. ¶ 78.
+PROCEDURAL HISTORY
+On April 7, 2014, the plaintiffs filed a stipulated motion to consolidate the cases,
+appoint a lead plaintiff, and appoint lead counsel. On June 30, 2014, pursuant to a stipulated
+briefing schedule—and months after the Chinese government issued its findings—Plaintiffs filed
+the Amended Complaint.
+LEGAL STANDARD
+To state a claim under Section 10(b) of the Exchange Act and Rule 10b-5, a
+securities fraud complaint must plead six elements: (1) a material false or misleading statement;
+(2) made with scienter; (3) in connection with the purchase or sale of a security; (4) reliance on
+the statement; (5) economic loss; and (6) a causal connection between the material
+misrepresentation or omission and the loss, commonly referred to as “loss causation.” See Dura
+Pharm., Inc. v. Broudo, 544 U.S. 336, 341-42 (2005).
+In addition, the PSLRA requires plaintiffs to “specify each statement alleged to
+have been misleading, the reason or reasons why the statement is misleading, and, if an
+allegation regarding the statement or omission is made on information and belief, the complaint
+shall state with particularity all facts on which that belief is formed.” 15 U.S.C. § 78u-4(b)(1);
+Weinstein v. McClendon, 2014 WL 3057190, --- F.3d ----, at *2 (10th Cir. July 8, 2014) (same).
+A complaint must also “state with particularity facts giving rise to a strong inference that the
+defendant acted with the required state of mind.” 15 U.S.C. § 78u-4(b)(2)(A); Weinstein, 2014
+WL 3057190, --- F.3d ----, at *3.
+
+-27-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 35 of 67
+
+ARGUMENT
+I.
+
+Plaintiffs Fail Adequately to Plead Falsity.
+A.
+
+Plaintiffs Fail to Allege a False Statement or Omission of Material Fact.
+The Amended Complaint should be dismissed first and foremost because
+
+Plaintiffs have not alleged an actionable misstatement or omission. To plead falsity, Plaintiffs
+must allege both a false statement or omission of fact and that the statement or omission was
+material. See, e.g., In re Gold Res. Corp. Sec. Litig., 957 F. Supp. 2d 1284, 1292 (D. Colo.
+2013). But it is hornbook law that “[m]ateriality . . . depends on the information that already
+exists in the market” and that, “unless the statement significantly altered the total mix of
+information available, it will not be considered material.’” Slater v. A.G. Edwards & Sons, Inc.,
+719 F.3d 1190, 1197 (10th Cir. 2013) (quoting Grossman v. Novell, Inc., 120 F.3d 1112, 1119
+(10th Cir. 1997)); see Kapur v. USANA Health Scis., Inc., 2:07–CV–177, 2008 WL 2901705, at
+*9 (D. Utah July 23, 2008).
+The Amended Complaint alleges that (i) Nu Skin’s quarterly and annual earnings
+releases and related documents containing statements about Nu Skin’s growth and financial
+performance in China; 13 and (ii) certain Nu Skin statements about the nature of its business and
+compensation model in China 14 were false and/or misleading, because Nu Skin failed to disclose
+
+13
+
+See Am. Compl. ¶¶ 83-90, 93-96, 98-100, 102-05, 107-08, 110-18, 120-28, 130-36, 139,
+153, 155-60, 162-63, 165, 167-70, 174, 176-82, 185, 187-91, 193-94, 196-201, 203-04, 206, 208.
+14
+
+See id. ¶¶ 89, 99, 108, 118, 126, 128, 139, 144-45, 147, 150-51, 153, 159, 165, 169, 172,
+200 (describing Nu Skin’s hybrid model in China and explaining how its Sales Employees and
+Direct Sellers are compensated).
+
+-28-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 36 of 67
+
+that it was violating various Chinese laws and regulations. 15
+Thus, Plaintiffs must allege facts demonstrating that Nu Skin violated Chinese
+law. Plaintiffs cannot rely on mere boilerplate allegations that Nu Skin China was a “pyramid
+scheme” or engaged in illegal multi-level marketing, see, e.g., Am. Compl. ¶¶ 5-9, 57-59, 64-65,
+82, 92, 152, because such allegations lack the requisite particularity to be actionable under the
+law of this Circuit. See, e.g., Grossman, 120 F.3d at 1124 (“Mere conclusory allegations of
+falsity are insufficient.”); Arena Land & Inv. Co., Inc. v. Petty, 906 F. Supp. 1470, 1482 (D. Utah
+1994), aff’d, 69 F.3d 547 (10th Cir. 1995) (rejecting “conclusory allegations” of fraudulent
+scheme).
+Instead, the Court may examine only non-conclusory, factual allegations of
+alleged illegal behavior that have been pleaded with specificity. Although the Amended
+Complaint is far from a model of clarity, it appears that Plaintiffs’ factual allegations related to
+the alleged violations of Chinese law are as follows:
+1.
+
+Nu Skin violated Chinese law by compensating its Sales
+Employees in China not only for their personal sales, but also
+based on the sales of others within their individual sales
+organizations, see, e.g., Am. Compl. ¶ 65;
+
+2.
+
+Nu Skin violated Chinese law by compensating its Direct Sellers in
+China based not only on their personal sales, but also on the sales
+of others, see, e.g., id.; and
+
+15
+
+The Amended Complaint also includes what appear to be Plaintiffs’ general critiques of
+the direct selling and multi-level marketing industries. See Am. Compl. ¶¶ 40-45. These
+gratuitous remarks are not linked to any statement by any defendant and thus cannot give rise to
+an action for securities fraud.
+
+-29-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 37 of 67
+
+3.
+
+Nu Skin Sales Employees violated Chinese direct selling
+regulations because they solicited the purchase of Nu Skin
+products outside of Nu Skin retail stores without direct selling
+licenses. See, e.g., id. ¶ 78.
+
+When examined in turn, none of these allegations is sufficient to plead falsity.
+1.
+
+Nu Skin’s Compensation of Its Sales Employees Based on Group
+Productivity Has Long Been Publicly Disclosed and Was Not Found
+to Violate Chinese Law.
+
+Plaintiffs’ first substantive basis for claiming falsity is that Nu Skin China
+violated Chinese law with respect to the compensation of its Sales Employees, by creating “sales
+‘teams,’” Am. Compl. ¶ 10, paying “compensation based on group or team sales volume,” id.
+¶ 73, and employing a system in which “one’s income depended upon the sales revenue
+generated by the representatives and others on his team.” Id. ¶ 69. These allegations fail for two
+principal reasons. First, as discussed above, Nu Skin has repeatedly disclosed the very practices
+that Plaintiffs accuse it of concealing. Second, these facts are publicly known, and Chinese
+regulators have not found them to violate Chinese law.
+Previous public disclosures render any subsequent statements regarding, or
+omissions of, that information immaterial as a matter of law. See, e.g., Slater, 719 F.3d at 1197;
+Grossman, 120 F.3d at 1119. For example, in Slater, plaintiff alleged, inter alia, that a company
+had failed to disclose its exposure to the deterioration of mortgage-backed loans in a stock
+offering document. See 719 F.3d at 1199-1200. The Tenth Circuit rejected the argument,
+finding no material omission because the company’s prior 10-Qs, issued prior to the stock
+offering, informed investors that defendant held billions of dollars of such assets. Id. at 1200-01.
+The court also made clear that the prior disclosures need not be identical to the alleged
+
+-30-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 38 of 67
+
+omissions, but rather that “the only information that was needed . . . was that [defendant] actually
+had direct exposure to that market; more detailed information was not necessary or required.”
+Id. at 1201.
+Here, Nu Skin has disclosed for years that the salaries of its Sales Employees are
+based on various factors relating to their duties, including, among others, “the sales productivity
+of an individual and the group of individuals whom he or she trains and supervises.”
+Statement of Facts ¶ 7 (emphasis added). As set forth in detail above, Nu Skin disclosed its use
+of group productivity in setting salaries for Sales Employees in China in every quarterly and
+annual report during the purported class period, in public statements rebutting the Citron Report,
+and in other statements to investors and analysts. See id. Defendant Wood also made a number
+of public statements regarding the matter. Id. Moreover, Nu Skin affirmatively disclosed the
+risk of future enforcement based specifically on this element of its compensation model in China.
+Id. (“our business would be harmed by any determination that our current method of
+compensating our employed sales representatives . . . including our use of the sales productivity
+of an individual and the group of individuals whom he or she trains and supervises . . . violates
+the restriction on multi-level compensation”). Because Plaintiffs cannot allege falsity where the
+allegedly omitted facts were disclosed, claims based on this omission theory should be
+dismissed. See Slater, 719 F.3d at 1197; Kapur, 2008 WL 2901705, at *9. 16
+
+16
+
+To the extent that Plaintiffs contend Nu Skin China compensated Sales Employees not
+only based on group productivity, but through a direct 5% commission on downline sales, those
+allegations rest entirely on the conclusory, hearsay statements of a handful of confidential
+witnesses who never even allege that they themselves provided or received downline
+commissions. Because such allegations lack sufficient indicia of reliability, they are not
+actionable. See infra § II.D.
+
+-31-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 39 of 67
+
+Furthermore, as set forth above, following a months-long investigation into
+numerous aspects of Nu Skin’s business in China, including its compensation practices, the
+Chinese government issued detailed findings that included no finding of pyramid selling, the
+payment of multi-level commissions, or any other illegal compensation practices. Statement of
+Facts ¶¶ 25-26. Nu Skin cannot be held liable for failing to disclose the illegality of its
+compensation practices when those practices have been publicly disclosed by Nu Skin, were
+further brought to the attention of investors and Chinese regulators by short sellers, market
+analysts, and the People’s Daily, were investigated, and were never found to be illegal. 17
+2.
+
+Plaintiffs Allege No Specific Facts Showing the Use of Group
+Productivity in Setting Compensation of Direct Sellers.
+
+Plaintiffs next contend that Nu Skin China compensated its Direct Sellers based
+on group productivity. Nu Skin agrees that it cannot compensate its Direct Sellers in China in
+this manner. However, Plaintiffs have not pled falsity for this allegation for the simple reason
+that Plaintiffs fail to allege any specific facts that support this claim, relying instead on
+boilerplate assertions. See, e.g., Am. Compl. ¶ 59 (“Notwithstanding China’s rules against
+paying multi-level compensation, Defendants promised to not only allow multi-level
+compensation to its Executive Distributors hailing from outside of Mainland China but to all of
+the direct sellers recruited by those living in Mainland China.”).
+Plaintiffs’ confidential witnesses do not support a claim that Nu Skin paid its
+Direct Sellers based on group productivity. First, none of the confidential witnesses is alleged to
+17
+
+If Plaintiffs are suggesting that the existence of an investigation requires the court to infer
+illegal conduct, the subsequent termination of those investigations without findings supporting
+Plaintiffs’ allegations “effectively negat[es]” any such inference. See, e.g., City of Austin Police
+Ret. Sys. v. ITT Educ. Serv., Inc., 388 F. Supp. 2d 932, 941-42 (S.D. Ind. 2005).
+
+-32-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 40 of 67
+
+have been a Direct Seller. Second, none of Plaintiffs’ confidential witnesses ever specifically
+references Direct Seller compensation or claims that Direct Sellers are paid based on group
+productivity. Finally, none of the confidential witnesses claims to be in a position to know how
+Direct Sellers (as opposed to its Sales Employees) were compensated in China. 18
+Similarly, the documents cited in the Amended Complaint do not support falsity.
+The only document cited that addresses this issue clearly states that “Direct Sellers will not get
+paid in any form on the sales volume of other Direct Sellers and Sales Employees.” Id. ¶ 73
+(emphasis in original). The other two documents referenced by Plaintiffs make no statement
+about compensation to Direct Sellers by Nu Skin China. See id., Exs. C-D. 19
+3.
+
+Plaintiffs Fail to Allege That The Marketing Efforts of Sales
+Employees Conducted Outside of Fixed Retail Stores Constitute
+Unlicensed Direct Selling.
+
+Finally, Plaintiffs assert that Nu Skin’s public statements were false and
+misleading because Nu Skin violated Chinese law by allowing its many thousands of Sales
+Employees (who admittedly do not have direct selling licenses) to market Nu Skin’s products to
+customers outside of Nu Skin’s fixed retail stores and then “take their customers to the retail
+18
+
+See Am. Compl. ¶¶ 60, 67-78 (citing two U.S. “Independent Distributors,” a “Sales
+Manager” (i.e., a Sales Employee), multiple “Sales Representatives,” an “Analyst,” a “Sales
+Support Representative,” and a “Marketing Specialist,” none of whom had any involvement in
+direct selling or overseeing the compensation of Direct Sellers, and none of whom discusses
+compensation of Direct Sellers). As discussed below, statements from confidential witnesses
+who had no involvement in, or knowledge of, compensation of Direct Sellers in China are
+entitled to minimal weight, at best. See, e.g., Zucco Partners, LLC v. Digimarc Corp., 552 F.3d
+981, 995-96 (9th Cir. 2009) (declining to credit witnesses who “were simply not positioned to
+know the information alleged”).
+19
+
+Moreover, Plaintiffs are again asking this Court to do that which Chinese regulators have
+not: find that Nu Skin’s compensation of its Direct Sellers violates China’s anti-pyramid
+regulations. See Statement of Facts ¶¶ 25-26.
+
+-33-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 41 of 67
+
+stores to complete the sales transaction.” Am. Compl. ¶ 78. But Nu Skin has never claimed that
+its China Sales Employees limit their marketing efforts to its retail stores. To the contrary, Nu
+Skin has consistently disclosed that its Sales Employees in China sell products “through”—not
+“at”—“fixed locations.” Id. ¶ 64 (citing 2011 10-K); Statement of Facts ¶ 3. Nu Skin has even
+touted the fact that marketing by its Sales Employees comprises a major part of its business
+strategy in China:
+We rely on our sales force to market and sell products at the various retail
+locations supported by only minimal advertising and traditional promotional
+efforts . . . . Our retail model in China is largely based upon our ability to attract
+customers to our retail stores through our sales force [and] to educate them
+about our products through frequent training meetings . . . .
+Statement of Facts ¶ 3 (quoting Ex. A, 2011 10-K at 10) (emphasis added). Given the fact that
+Nu Skin’s business is based primarily on face-to-face interactions with customers, investors
+unquestionably understood that Sales Employees speak with customers in the field, attract them
+to retail stores, and complete transactions inside those stores. 20 Moreover, the government did
+not find this practice to violate Chinese law during its recent in-depth investigation. 21
+
+20
+
+Indeed, Plaintiffs’ own allegations show that it would be absurd to suggest all of Nu Skin
+China’s tens of thousands of Sales Employees operated solely within retail stores at all times. As
+explained above, Nu Skin China had roughly 12,000 Sales Employees for just 40 stores, an
+average of three hundred employee for every store. See Statement of Facts ¶ 2 n.7. In
+combination with Nu Skin’s disclosures that its Sales Employees interacted with customers in
+the field, but that sales transactions occurred in retail stores, these figures alone render Plaintiffs’
+suggestion that Nu Skin did not disclose that its Sales Employees in China promoted and
+marketed its products outside of its retail locations utterly implausible.
+21
+
+Finally, Plaintiffs appear to contend that Nu Skin’s statements that it believed it was
+complying with applicable Chinese laws were false and misleading. See, e.g., Am. Compl. ¶ 99.
+However, these statements were forward-looking expressions of belief about how China’s
+government would interpret the applicable regulations, accompanied by meaningful cautionary
+language. See, e.g., id. (“Although management believes that the Company is in compliance . . .
+no assurance can be given that the Company’s compliance with applicable statutes, laws, rules
+-34-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 42 of 67
+
+B.
+
+The Amended Complaint Engages in Impermissible “Puzzle Pleading.”
+Even if Plaintiffs had adequately pled a false statement or omission of material
+
+fact, however, the Amended Complaint should still be dismissed for impermissible “puzzle
+pleading.” Federal Rule of Civil Procedure 8(a) requires a complaint to contain “a short and
+plain statement of the claim showing that the pleader is entitled to relief.” As courts in this
+circuit have noted, “excerpt[ing] long passages including numerous statements” and then setting
+forth a series of reasons why these statements are false, without sufficiently identifying the
+aspects of the statements alleged to be false and/or misleading or the reasons that each such
+statement is allegedly actionable, constitutes impermissible puzzle pleading. In re Level 3
+Commc’ns, Inc. Sec. Litig., No. 09–cv–00200, 2010 WL 5129524, at *9 (D. Colo. Dec. 10,
+2010), aff’d, In re Level 3 Commc’ns, Inc. Secs. Litig., 667 F.3d 1331 (10th Cir. 2012)). 22
+
+and regulations will not be challenged by foreign authorities . . . .”). These statements are
+protected by the PSLRA safe harbor and cannot form the basis for liability. See § 78u–
+5(c)(1)(A)–(B). Moreover, in light of the recently completed Chinese investigation, these
+statements have not been shown to be materially false.
+22
+
+For example, in Level 3 Commc’ns, plaintiffs included a series of long block quotes—
+with portions bolded and italicized for emphasis—followed by paragraphs setting forth multiple
+reasons why the group of statements cited were allegedly false and/or misleading. See, e.g., Ex.
+Z (No. 1:09–cv–00200, Dkt. No. 100 (Amended Complaint)) ¶¶ 54-70 (false statements
+regarding company’s integration of an acquisition); id. ¶¶ 71-77 (false statements relating to
+progression of merger and expertise in relevant field). While certain alleged bases for falsity
+clearly corresponded to certain statements, the court nonetheless found that this “puzzle
+pleading” was an improper means of pleading a claim, holding that this approach “leaves the
+court to the task of teasing out which specific statements are at issue” overall. Level 3, 2010 WL
+5129524, at *9. Similarly, in In re Alamosa Holdings, Inc., 382 F. Supp. 2d 832, 857-58 (N.D.
+Tex. 2005), a consolidated case involving the firm serving as Lead Counsel in this action (as well
+as other plaintiffs and counsel), plaintiffs again excerpted a series of long block quotes, with
+portions emphasized, and with each set of statements again followed by bullet points containing
+a half dozen reasons for falsity. See, e.g., Ex. AA (Case No. 5:03-cv-289, Dkt. No. 30
+(Complaint)) ¶¶ 77-86. Even though it was apparent that plaintiffs in that case—as here—
+contended that the statements were misleading because the company’s performance was based
+-35-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 43 of 67
+
+The Amended Complaint here presents a classic case of puzzle pleading. Over
+roughly sixty pages, Plaintiffs list literally dozens of different statements and omissions that they
+then link to a laundry list of alleged reasons for falsity in only the vaguest of terms. 23 Because
+Plaintiffs’ approach leaves it to this Court, and Defendants, to speculate as to which of the
+various rationales for alleged falsity are applicable to which statements, Plaintiffs’ amended
+claims should be dismissed as impermissible puzzle pleading. See, e.g., Level 3, 2010 WL
+5129524, at *9, *12; Alamosa, 382 F. Supp. 2d at 857-58.
+II.
+
+Plaintiffs Fail to Meet Their Heavy Burden of Pleading Facts Giving Rise to a
+Strong Inference of Scienter.
+Plaintiffs’ Amended Complaint also fails for the separate reason that they have
+
+failed to plead facts giving rise to a strong inference of scienter. As this Court recently held:
+With regard to the element of scienter, the PSLRA requires that plaintiffs alleging
+securities fraud must “state with particularity facts giving rise to a strong inference that
+on illegal conduct, the court dismissed, finding that, “[h]owever easy the puzzle, assembling
+puzzles is not the duty of the Court . . . . The Court will not waste its resources attempting to
+construe which statements are actionable and why each is actionable.” In re Alamosa, 382 F.
+Supp. 2d at 857-58; accord, e.g., Alizadeh v. Tellabs, Inc., No. 13 C 537, 2014 WL 2726676, at
+*5 (N.D. Ill. June 16, 2014) (dismissing puzzle pleading complaint “because it requires the Court
+and the defendant to piece together exactly which statements Plaintiffs are challenging and what
+allegations contradict those statements”); Constr. Workers Pension Fund v. Navistar Int’l Corp.,
+No. 13 C 2111, 2014 WL 3610877, at *5-*6 (N.D. Ill. July 22, 2014) (dismissing complaint
+where “[m]any of the Consolidated Amended Complaint’s paragraphs include block quotes, with
+liberal use of bold and italics, leaving Defendants and the Court to speculate which statements or
+parts of statements [plaintiff] alleges are inaccurate . . . . [A]fter quoting [the relevant statements]
+at length, [plaintiff] merely sets out . . . that these statements were false and misleading for a
+laundry list of reasons . . . .”).
+23
+
+See, e.g., Am. Compl. ¶ 92 (“The statements identified in ¶¶ 83-86, 88 . . . 89 regarding
+Nu Skin’s business growth in Mainland China were false and materially misleading because the
+following facts were known by Defendants but concealed from the investing public . . . .”); id.
+¶ 101 (“The statements identified in ¶¶ 93-96, 99 regarding Nu Skin’s business in Mainland
+China were false and materially misleading for the reasons set forth in ¶ 92.”).
+
+-36-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 44 of 67
+
+the defendants acted with the required state of mind” . . . . A complaint will survive[]
+only if a reasonable person would deem the inference of scienter cogent and at least as
+compelling as any opposing inference one could draw from the facts alleged.’”
+Tellabs, 551 U.S. at 324 . . . .
+The requisite “scienter” for a § 10(b) claim is “a mental state embracing intent to
+deceive, manipulate, or defraud.” Tellabs, 551 U.S. at 319. Proof of recklessness
+is sufficient to establish a § 10(b) claim. In this context, a defendant acts
+recklessly when his or her conduct amounts to an extreme departure from the
+standards of ordinary care, and presents a danger of misleading buyers or sellers
+which is either known to the defendant or is so obvious that the defendant must
+have been aware of the danger. City of Philadelphia v. Fleming Companies, Inc.
+264 F.3d 1245, 1260 (10th Cir. 2001). In the context of a claim based on nondisclosure of material facts, a plaintiff must show that the defendant 1) knew of
+the material fact; and 2) knew that failure to reveal the fact likely would mislead
+investors. Id. at 1261.
+In re Zagg Sec. Litig., 2:12-CV-852, 2014 WL 505152, at *5 (D. Utah Feb. 7, 2014) (emphasis
+added) (citations omitted) (Benson, J.). “The pleading rule for scienter is ‘stringent,’” Kapur,
+2008 WL 2901705, at *11 (citations omitted), and scienter allegations based merely on motive
+and opportunity—such as those on which Plaintiffs rely almost exclusively here—“are typically
+not sufficient in themselves to establish a strong inference of scienter.” See id. (quoting Fleming,
+264 F.3d at 1262).
+Because the standard for pleading scienter is so high, conclusory and boilerplate
+scienter allegations cannot suffice. See, e.g., Weinstein, 2014 WL 3057190, --- F.3d ----, at *3
+(rejecting pleading with “little . . . to support the conclusory allegation that these allegedly
+misleading omissions and statements were motivated by the intent to defraud or by a reckless
+disregard”); Anderson v. First Sec. Corp., 249 F. Supp. 2d 1256, 1266(D. Utah 2002) (dismissing
+where “Plaintiffs’ scienter allegations [we]re conclusory and ha[d] no supporting facts that any
+corporate officer directed the decision . . . or knew anything about it”).
+
+-37-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 45 of 67
+
+Here, Plaintiffs seek to hold Defendants accountable for alleged violations of law
+that the Chinese government, following its investigation, failed to substantiate. Indeed, Plaintiffs
+never allege scienter based on purported management awareness of the actual conduct that the
+Chinese government found in violation of its regulations (i.e., lack of adequate scientific support
+for certain product claims and direct sale of certain products only authorized for sale in retail
+stores). On this basis alone, the Amended Complaint fails.
+Additionally, the nature of the allegations in question (i.e., failure to disclose a
+violation of foreign law) strongly militates against a finding of scienter. For example, in Board
+of Trustees of City of Ft. Lauderdale Gen. Employees’ Ret. Sys. v. Mechel OAO, 811 F. Supp. 2d
+853, 870 (S.D.N.Y. 2011), plaintiffs alleged that defendant’s disclosures were misleading
+because the company failed to disclose that its results were enhanced by its violation of Russia’s
+anti-monopoly laws. Plaintiffs did not allege facts showing that the company’s senior
+management knew its activities were illegal, id., and defendant had disclosed in its public filings
+that the relevant anti-monopoly provisions were “‘vague in certain parts and subject to varying
+interpretations.’” See id. at 876. The court held that plaintiff failed to plead scienter, given that
+“the far more compelling inference is that Defendants simply failed to anticipate [the relevant
+agency’s] evolving interpretation of a facially vague statute of recent vintage with limited
+judicial and regulatory precedent or guidance.” Id. at 882. 24 Here, where Nu Skin’s public
+24
+
+Accord, e.g., In re Open Joint Co. “Vimpel-Communc’ns” Sec. Litig., No. 04 Civ. 9742,
+2006 WL 647981, at *7-*8 (S.D.N.Y. Mar. 14, 2006) (rejecting scienter claim based on finding
+of tax evasion by Russian government, where “Russian tax laws present[ed] an uncertain
+terrain,” and defendant had disclosed that “‘Russia’s federal and local tax laws and regulations
+are subject to frequent change, varying interpretations and inconsistent enforcement’” and that
+“‘uncertainty related to Russian tax laws exposes [the Company] to significant fines and
+penalties and to enforcement measures’”) (quotation marks and alterations in original).
+-38-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 46 of 67
+
+disclosures similarly warned investors of the fluid and unpredictable regulatory environment, and
+where, unlike in Mechel, Nu Skin has not been found to have committed the violations Plaintiffs
+claim should have been disclosed, any inference of scienter is clearly outweighed by the far more
+likely inference that Nu Skin and its management did not believe the company to be operating in
+violation of Chinese anti-pyramid and multi-level compensation laws.
+Moreover, the Amended Complaint lacks any specific facts suggesting that Nu
+Skin’s management (including the individual defendants) was aware of or involved in any form
+of alleged misconduct. Plaintiffs have failed to come forward with any documents or other
+communications with management regarding these issues, or with any other facts suggesting
+management knowledge of the alleged illegal activity. Instead, Plaintiffs assert four bases for
+scienter: (1) the Company’s China operations are a core aspect of its business; (2) stock sales
+made by individual defendants Hunt and Wood during the class period; (3) Hunt and Wood’s
+overall compensation; and (4) statements and documents provided by confidential witnesses.
+Each of these allegations is clearly inadequate under well-established case law in this Circuit. 25
+A.
+
+The “Core Operations” Theory Does Not Support a Finding of Scienter.
+Plaintiffs first allege that, “[g]iven the exponentially growing size of Nu Skin’s
+
+Chinese market, its critical importance to the growth of Nu Skin’s overall business, and its
+potential to become the Company’s revenue life-blood, the illegal practices implemented by
+Defendants for deployment in China could not have occurred without the Individual Defendants’
+
+25
+
+Plaintiffs also cite meetings that Hunt and Wood participated in with senior Chinese
+government officials and their knowledge of applicable Chinese laws. Am. Compl. ¶¶ 79-82.
+However, at most, these allegations show only that Hunt and Wood were aware of the existence
+of the relevant laws—not that they were aware of the alleged violation of those laws.
+
+-39-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 47 of 67
+
+knowledge and approval.” Am. Compl. ¶ 248. This request that the Court simply assume the
+existence of scienter fails as a matter of law.
+First, courts routinely hold that the “core operations” theory provides minimal
+support for a finding of scienter. See, e.g., Bricklayers of W. Penn. Pension Plan v. Hecla Min.
+Co., No. 2:12–cv–00042–BLW, 2013 WL 5423875, at *4 (D. Id. Sept. 26, 2013) (noting this
+theory “rarely succeeds” absent other evidence of scienter); Percoco v. Deckers Outdoor Corp.,
+Civ. No. 12–1001–SLR, 2013 WL 3584370, at *5 (D. Del. 2013) (“Only in rare instances can
+core operations alone allow inferences of scienter . . . .”). Indeed, it is only in the ‘“rare
+circumstance’” where “the nature of the relevant facts . . . is ‘of such prominence that it would
+be “absurd” to suggest that management was without knowledge of the matter’” that courts find
+the theory at all persuasive. Prissert v. EMCORE Corp., 894 F. Supp. 2d 1361, 1364, 1372-73
+(D.N.M. 2012) (quoting S. Ferry LP, # 2 v. Killinger, 542 F.3d 776, 786 (9th Cir. 2008)).
+For example, in In re Gold Resource, plaintiffs alleged that defendants made
+material misstatements about the company’s growth and production in its Mexican operations.
+See, 957 F. Supp. 2d at 1287-88, 1299-1300. In that case, the company employed just seven
+U.S. employees and more than three hundred in Mexico. Id. at 1287. Plaintiffs proffered as
+evidence of scienter the fact that “the errors were related to core operations.” Id. at 1300. The
+court rejected that argument, noting the mere fact that defendant was a “small-sized company”
+could not constitute independent evidence of scienter, particularly where “‘the relevant personnel
+are separated by nearly 2,000 miles and international borders.’” Id. at 1301. The court
+concluded that plaintiffs could not just rely on the proportion of defendant’s business located in
+the relevant area to presume scienter. Id. at 1301-02; accord, e.g., Tyler v. Liz Claiborne, Inc.,
+
+-40-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 48 of 67
+
+814 F. Supp. 2d 323, 343 (S.D.N.Y. 2011) (noting that “the operation in question [must]
+constitute nearly all of a company’s business”).
+Here, the alleged legal violations occurred at one Nu Skin subsidiary located
+across the globe that comprised roughly 12% of Nu Skin’s total revenue in 2012 and 32% in
+2013. See Ex. B (2012 10-K) at 7; Ex. C (2013 10-K) at 48. Given that Nu Skin generated more
+than $2 billion in revenue in 2012 and over $3 billion in 2013, see Ex. B (2012 10-K) at 6; Ex. C
+(2013 10-K) at 1, with business units throughout the world that each generate hundreds of
+millions of dollars in revenue, Nu Skin China falls far short of comprising “nearly all of [Nu
+Skin’s] business.” Tyler, 814 F. Supp. 2d at 343; see In re Gold, 957 F. Supp. 2d at 1300-01.
+Moreover, even if China constituted an overwhelming percentage of Nu Skin’s
+business during the class period (which it did not), the failure to predict how a regulator will
+interpret uncertain and complex foreign laws cannot support a finding of scienter under a core
+operations theory. See, e.g., Yates v. Mun. Mortg. & Equity, LLC, 744 F.3d 874, 889 (4th Cir.
+2014) (rejecting core operations theory where errors were “not especially obvious” and
+concerned complex accounting issue facing just one portion of one of defendant’s funds).
+Mechel, discussed supra, provides another analogous example. In that case, the court held that,
+even if it considered the relevant business unit to be a core operation, that did not mean that
+plaintiff could plead scienter based on the mere fact that this business unit was ultimately found
+to be violating Russian anti-monopoly law. Indeed, the Mechel court held that to interpret the
+core operations doctrine to imply scienter whenever any issue arose in a core business would
+impose “no cognizable limit” on the doctrine, which would “eviscerate the cogent and
+compelling inference of scienter required by Tellabs.” Id. at 873.
+
+-41-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 49 of 67
+
+B.
+
+Defendants’ Stock Sales Do Not Raise a Strong Inference of Scienter.
+The second basis for scienter proffered by Plaintiffs is that Hunt and Wood sold
+
+$40 million of stock, in trades alleged to be “suspiciously-timed and out of line with their prior
+trading practices,” and that, “[w]hile a large percentage . . . were made pursuant to 10b5-1
+plans,” the circumstances were “sufficiently suspicious to overwhelm any inference that they
+were made in good faith.” Am. Compl. ¶¶ 249-50, 260. None of these facts supports an
+inference of scienter.
+1.
+
+Defendants’ Trades Were Made Pursuant to Rule 10b5-1 Plans.
+
+First, it cannot be disputed here that 10 of the 11 trades relied on by Plaintiffs
+were made pursuant to Rule 10b5-1 plans. Ex. BB (Form 4s summary). 26 It is well established
+in this and other circuits that trades made pursuant to 10b-5 plans generally do not provide strong
+evidence of scienter. See, e.g., Elam v. Neidorff, 544 F.3d 921, 928 (8th Cir. 2008) (“Stock sales
+pursuant to Rule 10b-5 trading plans can raise an inference that the sales were prescheduled and
+not suspicious.”); Garden City Employees’ Ret. Sys. v. Anixter Int’l, Inc., 09-CV-5641, 2012 WL
+1068761, at *13 (N.D. Ill. Mar. 29, 2012) (“Defendants’ stock sales were made pursuant to a
+10b–5 trading plan, adopted before the sale, which negates an inference of scienter”).
+For example, in Level 3, plaintiffs asserted as a basis for scienter that “certain
+defendants engaged in sales of their personal holdings of Level 3 stock and that these defendants
+had not traded any Level 3 shares in the prior two years.” 667 F. 3d at 1346. Despite this
+
+26
+
+The single non-10b5-1 plan sale during the class period was Hunt’s sale of 50,000 shares
+(7% of his overall holdings during the class period) on February 13, 2013 at $42/share. See id.
+As set forth in detail below, Nu Skin’s stock price increased by approximately 350% following
+this sale and prior to the end of the purported class period.
+
+-42-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 50 of 67
+
+marked change in trading habits, the Tenth Circuit rejected plaintiffs’ contention, noting that “the
+sales were made pursuant to ‘automatic transactions’ set up prior to the class period to pay
+withholding taxes that became due” and that Defendants retained substantial holdings after the
+sales. Id. The court concluded that “[t]hese considerations rebut any inference of scienter we
+might otherwise draw regarding these sales.” Id. at 1346-47. 27
+Here, it is undisputed that all but one of the trades at issue were preapproved, and
+Plaintiffs proffer no facts calling into question the timing, mechanism, or structure of
+Defendants’ Rule 10b5-1 trading patterns. Plaintiffs’ suggestion that automatic trades outside
+the control of the individual defendants, over a period of three years, were somehow inherently
+“suspicious” is simply inconsistent with the law of this circuit. Level 3, 667 F. 3d at 1346.
+2.
+
+Defendants’ Sales Were Routine and Consistent With Historical
+Trading Patterns.
+
+Even if these trades had not been preapproved, however, Plaintiffs’ own
+allegations show that there is nothing suspicious about Defendants’ sales during the class period.
+The trades occurred over an inordinately long period of time, were consistent with historical
+trading patterns, and largely occurred well before the stock peaked.
+Courts have repeatedly noted that multi-year class periods such as the purported
+class period in this case, involving a small number of trades that are made in line with historical
+practices, do not support a finding of scienter. See Yates, 744 F.3d at 891 (noting that plaintiffs’
+
+27
+
+Similarly, in Yates, plaintiffs alleged defendants sold substantially more shares during the
+class period than the control period. 744 F.3d at 891. In declining to find scienter on this basis,
+the court noted that “[t]he fact that [defendants] traded . . . under non-discretionary Rule 10b5–1
+plans further weakens any inference of fraudulent purpose.” Id. Indeed, even though one
+defendant had created his plan after the start of the class period, allegations showing nothing
+more than prearranged trades still “mitigate[d] any inference of improper motive.” Id.
+-43-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 51 of 67
+
+“inordinately long [class] period of 44 months . . . makes it difficult to infer intent from the mere
+fact of a stock sale, as it is not unusual for insiders to trade at some point during their tenure with
+a company.”); Teachers’ Ret. Sys. of La. v. Hunter, 477 F.3d 162, 185 (4th Cir. 2007) (rejecting
+claim that even large stock sales made in “exceedingly long” 46-month period were suspicious);
+In re Dell, Inc. Sec. Litig., 591 F. Supp. 2d 877, 897 (W.D. Tex. 2008) (sales of “large number of
+shares” not probative of scienter where period four years long, with trading consistent over time).
+As Plaintiffs concede, Defendants collectively made fewer than a dozen trades
+during the three-year class period (four by Defendant Hunt and seven by Defendant Wood). Am.
+Compl. ¶ 253. Moreover, all of these trades were consistent with Defendants’ trading history.
+Indeed, viewed as a percentage of Defendants’ holdings, Hunt and Wood actually sold fewer
+shares during the class period than during the three-year control period proposed by Plaintiffs
+themselves. Id. ¶ 251; see Ex. BB (Form 4s summary) (Hunt sold 57.70% of his shares owned
+during class period, compared to 63.82% of his shares during control period, while Wood sold
+89.11% of his shares owned during class period, compared to 92.21% during control period).
+The consistency of Hunt’s and Wood’s trading patterns strongly undercuts any inference—let
+alone a strong inference—of scienter. See, e.g., Constr. Laborers Pension Trust of Greater St.
+Louis v. Neurocrine Bioscis., Inc., No. 07CV1111, 2008 WL 2053733, at *7 (S.D. Cal. May 13,
+2008) (rejecting scienter allegation where each individual defendant “sold less . . . stock during
+the class period than in” either of the preceding two years); In re Travelzoo Inc. Sec. Litig., 11
+Civ. 5531 GBD, 2013 WL 1287342, at *10 and n.9 (S.D.N.Y. Mar. 29, 2013) (sale of even 95%
+of holdings not suspicious, where defendant sold 50% of holdings before class period).
+Finally, the sales in question occurred at times that were far from suspicious. Nu
+
+-44-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 52 of 67
+
+Skin’s share price more than tripled during the class period. However, all but one of the
+individual defendants’ sales occurred at times when Nu Skin’s share price was at the low end of
+its range during the class period, and far closer in price to the prevailing price during the control
+period than during the class period. For example, Hunt’s sales ranged from $40-$42 per share,
+with the last sale occurring in February 2013, before the stock price subsequently peaked at $140
+in early 2014. Ex. BB (Form 4s summary); Ex. CC (stock price chart). Similarly, except for one
+trade, Wood’s sales topped out at $59.75, less than half of the stock’s high, and, even after a lone
+trade by Wood at $125.39 in December 2013, he still retained nearly 37,000 shares, worth many
+millions of dollars. See id.
+The below chart summarizes Hunt and Wood’s trades in comparison to the stock
+price movement before and during the class period:
+
+-45-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 53 of 67
+
+Date
+
+Event
+
+Shares Sold
+
+Stock Price
+
+November 10, 2009 28
+March 2, 2010
+March 8, 2010
+March 8, 2010
+April 14, 2010
+April 22, 2010
+April 29, 2011
+May 3, 2011
+
+Wood Trade
+Hunt Trade
+Wood Trade
+Hunt Trade
+Hunt Trade
+Wood Trade
+Wood Trade
+End of Control Period
+
+11,682
+500
+43,125
+104,500
+250,000
+10,874
+81,250
+N/A
+
+$26.50
+$28.45
+$29.75
+$29.27
+$30.68
+$32.75
+$32.00
+$32.96
+
+May 4, 2011
+
+Wood Trade/Beginning
+of Class Period
+Wood Trade
+Hunt Trade
+Hunt Trade
+Hunt Trade
+Wood Trade
+Wood Trade
+Wood Trade
+Wood Trade
+Hunt Trade
+Wood Trade
+Stock Price Peak During
+Class Period (Intra-Day)
+
+81,250
+
+$34.75
+
+40,000
+40,278
+29,400
+280,322
+67,500
+22,500
+22,500
+17,500
+50,000
+105,000
+N/A
+
+$38.75
+$40.00
+$40.12
+$40.24
+$50.77
+$54.75
+$57.52
+$59.75
+$42.00
+$125.39
+$140.50
+
+May 31, 2011
+July 15, 2011
+July 18, 2011
+July 19, 2011
+Nov. 7, 2011
+Feb. 28, 2012
+March 1, 2012
+March 13, 2012
+Feb. 13, 2013
+Dec. 2, 2013
+Jan. 13, 2014
+
+Defendants also attach hereto as Exhibit CC a graph similarly depicting the fact that the vast
+majority of the trades at issue occurred near the start of the class period, and at a time when the
+stock price was much closer to the control period than it was to its ultimate peak in early 2014.
+It defies credulity to suggest that Hunt and Wood traded on insider knowledge
+when they sold shares over several years, largely prior to the subsequent dramatic increase in
+share price, and in a manner not significantly different from their trading history. See, e.g., In re
+FX Energy, Inc. Sec. Litig., 2:07-CV-874, 2009 WL 1812828, at *10 (D. Utah June 25, 2009)
+
+28
+
+The Amended Complaint appears to list this trade twice. Am. Compl. ¶ 253.
+
+-46-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 54 of 67
+
+(rejecting scienter where “there [wa]s no allegation that the sales were . . . calculated to
+maximize the personal benefit from undisclosed inside information”); In re NVE Corp. Sec.
+Litig., 551 F. Supp. 2d 871, 889 (D. Minn. 2007) (no scienter where defendant “sold long before
+the stock price peaked; and he sold his stock for less than half of the peak price”), aff’d, 527 F.3d
+749 (8th Cir. 2008); Ronconi v. Larkin, 253 F.3d 423, 435 (9th Cir. 2001) (no scienter where
+insiders sold “at share prices between $52 7/8 and $56 1/4,” before the stock rose to $73). 29
+C.
+
+Defendants’ Compensation is Irrelevant to the Scienter Determination.
+Plaintiffs’ third scienter allegation is that “[t]he Individual Defendants’
+
+compensation structure at Nu Skin emphasizes incentive-based payoffs,” including a base salary,
+bonus, stock awards, options awards, cash awards, and other compensation, and that “[t]he
+Individual Defendants knew that disclosing the true nature of Nu Skin’s MLM business in China
+would have led to serious regulatory problems, distributor attrition, lost sales and reduced stock
+prices immediately, thus impairing their incentive compensation component where they made
+most of their money.” Am. Compl. ¶¶ 268, 271.
+Courts in this Circuit and across the country have repeatedly rejected the
+suggestion that management compensation can give rise to a strong inference of scienter, holding
+that these types of incentives are always present. For example, in Level 3, plaintiff argued that
+incentive-based stock options supported a finding of scienter. The Tenth Circuit rebuffed that
+contention, finding that “[t]his type of incentive-based compensation . . . is common among
+executives at publicly traded companies and does not ordinarily indicate scienter.” 667 F.3d at
+
+29
+
+Plaintiffs also allege no suspicious trading by management or directors other than Hunt
+and Wood, further undercutting any suggestion of scienter. See Yates, 744 F.3d at 890.
+
+-47-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 55 of 67
+
+1346. Similarly, in City of Philadelphia, plaintiffs attempted to show scienter by, inter alia,
+alleging a motive “to ‘protect and enhance their executive positions and the substantial
+compensation and prestige they obtained thereby;’ and . . . to enhance the value of their own . . .
+stock.” 264 F.3d at 1256. The Tenth Circuit again declined to adopt that argument, finding that
+“motives . . . that Defendants desired to protect their own positions with the company and the
+value of their own . . . stock [] are also insufficient, as again they are motives shared by all
+company executives.” Id. at 1269. 30
+Here, as in each of these cases, Plaintiffs allege nothing more than that Hunt and
+Wood received substantial salaries, bonuses, and stock- and cash-based compensation during the
+class period. These facts fail to give rise to an inference of scienter as a matter of law.
+D.
+
+Plaintiffs’ “Confidential Witnesses” and Purported Nu Skin Documents Do
+Not Support Any Finding of Scienter.
+Finally, Plaintiffs’ use of confidential witness statements and two purported (but
+
+not authenticated) Company documents fail to give rise an inference of scienter, both because the
+sources are unreliable and because the information in them is irrelevant to Plaintiffs’ allegations.
+At the outset, it is important to note that courts in this Circuit are generally
+suspicious of confidential witnesses. For example, in FX Energy, plaintiffs alleged that
+optimistic predictions made by an energy company concerning two of its drilling projects were
+30
+
+Numerous courts are in accord. See, e.g., Grossman v. Novell, 909 F. Supp. 845, 851 (D.
+Utah 1995) (“[Plaintiff’s] argument that the individual defendants wanted to keep their jobs and
+maintain their stature in the community is legally insufficient to establish motive to commit
+fraud. Those desires are nearly universal in our society.”); Wolfe v. Aspenbio Pharma, Inc., No.
+11–cv–00165, 2012 WL 4040344, at *9 n.20 (D. Colo. Sept. 13, 2012) (“The allegedly ‘very
+high’ salaries of the other individual defendants are not sufficient to support the required
+inference of scienter.”); In re Dell, 591 F. Supp. 2d at 897-98 (salary, short-term bonuses, and
+long-term bonuses merited little weight in scienter analysis and were not “surprising or
+suspicious”).
+-48-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 56 of 67
+
+false, because defendants omitted evidence that the data was unreliable and other information
+contradicting these optimistic assessments. 2009 WL 1812828, at *1-*4. One of plaintiffs’
+bases for pleading scienter was a confidential witness, “who allegedly informed Defendants that
+[the wells in question] were bad prospects.” Id. at *10. Judge Waddoups first noted that this
+witness might “‘have axes to grind’ . . . be ‘lying[,]’ or maybe ‘[doesn’t] even exist.’” Id. at 10
+(quoting Higginbotham v. Baxter Int’l, Inc., 495 F.3d 753, 757 (7th Cir. 2007)). The court then
+explained that it was “reasonable to apply a steep ‘discount’ to Plaintiffs’ unnamed source,”
+particularly where “the complaint d[id] not make clear to whom the witness spoke, when the
+conversations occurred, or what was said in response to the witness.” Id. 31
+Courts in this and other Circuits give scant weight to confidential witness
+statements where (i) the complaint fails to demonstrate the personal knowledge of those
+witnesses; (ii) the statements are conclusory or rely on hearsay or speculation; and/or (iii) the
+statements were not demonstrably made to Company management. For example, in Kapur,
+defendant, a multi-level marketing company, was accused of operating a pyramid scheme. 2008
+WL 2901705, at *1-*2. Plaintiffs relied on confidential witnesses who made statements about
+the company’s product quality and its sales and recruiting tactics. Id. at *2-*3. The complaint
+described each witness by title and role, including a “senior-level finance manager” who claimed
+
+31
+
+These concerns about confidential witnesses’ reliability are more than hypothetical. See
+In re BankAtl. Bancorp, Inc. Sec. Litig., 851 F. Supp. 2d 1299, 1313-14 (S.D. Fla. 2011), aff’d
+sub nom. Hubbard v. BankAtl. Bancorp, Inc., 503 F. App’x 677 (11th Cir. 2012) (sanctioning
+lead counsel in this case under Rule 11 for failing to make a reasonable inquiry into one specific
+confidential witness statement that the court ultimately determined lacked sufficient evidentiary
+support, which “a reasonable inquiry by counsel would have revealed”). During discovery in
+that case, other confidential witnesses relied on by the same firm also contradicted statements
+attributed to them in the pleadings. See generally id. at 1310-12.
+
+-49-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 57 of 67
+
+certain documents were regularly sent to and discussed with senior management. Id. at *3.
+Judge Kimball refused to rely on these confidential witnesses to show either falsity or scienter.
+For example, the court refused to credit a confidential witness statement that he or she had heard
+from other employees that consumers were not happy with the products, finding that “sole
+reliance on a conclusory statement, notably based on hearsay, of a confidential witness is
+insufficient to satisfy the PSLRA particularity requirement.” Id. at *16. Further, even the
+confidential witness statement indicating that management regularly received and discussed
+certain reports fell short, absent evidence that these reports actually revealed the alleged pyramid
+scheme. Id. at *17.
+Here, as in those decisions, the statements of Plaintiffs’ confidential witnesses do
+not meet the heightened pleading burden under the PSLRA. First, all ten of Plaintiffs’
+confidential witnesses are low-level employees, not members of management. Plaintiffs do not
+allege that any of the confidential witnesses ever spoke with or provided documents to
+management, or had any personal knowledge whatsoever of corporate policy or practice within
+Nu Skin China. Am. Compl. ¶¶ 67-78. For this reason alone, even crediting everything these
+witnesses said as true, their statements have no probative value in showing management’s state
+of mind and are therefore irrelevant to the Court’s scienter inquiry. See, e.g., In re Cisco Sys.
+Inc. Sec. Litig., No. C 11–1568 SBA, 2013 WL 1402788, at *11 (N.D. Cal. Mar. 29, 2013)
+(“Plaintiffs rely on confidential witness statements to show . . . that Defendants were aware that
+Cisco was facing a litany of issues . . . . Yet, there are no facts alleging that any of the
+confidential witnesses had direct contact with either [defendant CEO or CFO] . . . .
+Consequently, the statements of the confidential witnesses are insufficient to establish a strong
+
+-50-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 58 of 67
+
+inference of scienter.”); In re Am. Apparel, Inc. S’holder Litig., No. CV 10–06352, 2013 WL
+174119, *18 (C.D. Cal. Jan. 16, 2013) (rejecting confidential witness statements where plaintiffs
+did “not link the [alleged conduct] to those higher up in the company”); In re Citigroup Inc. Sec.
+Litig., 753 F. Supp. 2d 206, 245 (S.D.N.Y. 2010) (“Fatal to plaintiffs’ claims, however, is that
+they do not allege with specificity that any of the confidential witnesses relied upon in the
+Complaint presented information to the individual defendants.”). 32
+The confidential witness allegations also rely entirely on conclusory or hearsay
+assertions that fail to establish their own first-hand knowledge. For example, while several
+confidential witnesses allege that Nu Skin China sales personnel received commissions based on
+the sales of others, no confidential witness actually alleges that he or she ever paid or received
+such a commission. See Am. Compl. ¶¶ 67-71. Moreover, most of these statements come from
+low-level employees who worked for Nu Skin for very brief time periods (i.e., four months to a
+year), with no facts showing any of these witnesses had personal knowledge of broader policies
+or practices across Nu Skin China. The allegations therefore lack sufficient indicia of reliability,
+a separate and independent reason that they do not support a finding of scienter. See, e.g.,
+Kapur, 2008 WL 2901705, at *16 (“sole reliance on a conclusory statement, notably based on
+hearsay, of a confidential witness is insufficient to satisfy the PSLRA particularity
+requirement”); Zucco, 552 F. 3d at 996 (rejecting statements from witnesses who were “simply
+32
+
+Accord, e.g., Szymborski v. Ormat Techs., Inc., 776 F. Supp. 2d 1191, 1201 (D. Nev.
+2011) (statements by confidential witnesses who were not alleged to have had contact with
+management did not raise strong inference of scienter); Local 295/Local 851 IBT Employer Grp.
+Pension Trust & Welfare Fund v. Fifth Third Bancorp., 731 F. Supp. 2d 689, 721 (S.D. Ohio
+2010) (finding that confidential witness statement fails to establish scienter where “there are no
+facts alleged from which it can be inferred that the confidential witness had sufficient contact
+with any of the Defendants to impute their knowledge of misconduct to the Defendants”).
+
+-51-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 59 of 67
+
+not positioned to know the information alleged,” “report[ed] only unreliable hearsay,” or
+“allege[d] conclusory assertions of scienter”). 33
+Finally, the two documents upon which Plaintiffs rely lack any: (i) authenticating
+information; (ii) indicia that they were ever shared with Nu Skin management; (iii) indicia that
+they are official Nu Skin documents or reflect Company policy; (iv) author or recipient
+information; or (v) specific allegations regarding what they are or how they were used, other than
+the naked assertion that they were “shared with potential recruits in China in early 2013.” Am.
+Compl. ¶¶ 72 and n.22. Such vague and unauthenticated documents cannot support a finding of
+scienter. See, e.g., Leventhal v. Tow, 48 F. Supp. 2d 104, 113 (D. Conn. 1999) (rejecting reliance
+on internal memoranda that, inter alia, failed to establish any authors and recipients).
+In sum, Plaintiffs’ confidential witness and documentary “evidence” of scienter is
+unreliable and unconnected to Nu Skin management in Provo, Utah—halfway around the world
+from China. This evidence does not support a strong inference of scienter.
+III.
+
+The Amended Complaint Fails Adequately to Allege Loss Causation.
+Finally, the Amended Complaint fails to plead facts demonstrating loss
+
+causation—i.e., that the alleged misrepresentations or omissions caused the alleged loss. Dura,
+33
+
+Other aspects of the statements are similarly deficient. See Am. Compl. ¶ 60
+(“Independent Distributor” in San Francisco “is personally aware of the fact that a few of his
+fellow independent distributors did expand their downlines into China,” but fails to explain basis
+for awareness, which is likely hearsay); id. ¶ 67 (bald statement that “Nu Skin’s compensation
+was similar to a pyramid,” with no explanation of its basis); id. ¶ 67 n.19 (assertion by
+salesperson that no one he knew had direct selling licenses, with no explanation of who those
+individuals were and no claim that any of them were held out as Direct Sellers rather than Sales
+Employees); id. ¶¶ 68-71 (general statements about Nu Skin China’s compensation system, with
+no facts showing personal knowledge); id. ¶ 75 (confidential witness stating that fellow
+employees “let him know that there were downlines being set up in China” with no additional
+details); id. ¶¶ 76-77 (conclusory or hearsay statements about creation of downlines in China).
+
+-52-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 60 of 67
+
+544 U.S. at 342. In pleading loss causation, Plaintiffs must allege a specific “causal connection
+between the material misrepresentation and the loss.” Id. Plaintiffs must do more than simply
+allege that the stock price was previously inflated as a result of a misrepresentation, because the
+securities laws are not meant to “provide investors with broad insurance against market losses.”
+Id. at 345.
+Here, Plaintiffs point to three disclosures occurring between January 15-21, 2014
+as the bases for loss causation: (1) the People’s Daily articles on January 15-16, Am. Compl.
+¶ 286(b)-(c); (2) the announcement of Chinese government investigations of Nu Skin on January
+16,” id. ¶ 286(c); and (3) Nu Skin’s January 21 8-K filing. Id. ¶ 286(d). Each of these
+allegations fails under well-established law.
+A.
+
+The People’s Daily Articles Cannot Constitute Corrective Disclosures for
+Two Independently Sufficient Reasons.
+1.
+
+Repackaging Publicly Available Information Does Not Establish Loss
+Causation.
+
+It is well-settled that publicly known information that has been repackaged in a
+negative media or short-seller report cannot constitute an actionable corrective disclosure. For
+example, in Meyer v. Greene, 710 F.3d 1189 (11th Cir. 2013), influential investor David Einhorn
+made a negative presentation about a company, leading to a stock drop of “20% on unusually
+high volume.” Id. at 1193. The court rejected the notion that this presentation constituted a
+corrective disclosure and dismissed the case for lack of loss causation. Id. at 1200. The Court
+explained that a restatement of publicly known facts could not constitute loss causation:
+[The] material portions of the Einhorn Presentation were gleaned entirely
+from public filings and other publicly available information . . . . Because
+a corrective disclosure obviously must disclose new information, the fact
+that the sources used in the Einhorn Presentation were already public is
+-53-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 61 of 67
+
+fatal . . . . [T]he mere repackaging of already-public information by an
+analyst or short-seller is simply insufficient to constitute a corrective
+disclosure . . . . [T]he decline in the value of [the company’s] shares in the
+wake of the Einhorn Presentation was not due to the fact that the
+presentation was revelatory of any fraud, but was instead due to changed
+investor expectations after an investor who wielded great clout in the
+industry voiced a negative opinion about the Company.
+Id. at 1198-00 (emphasis in original); accord, e.g., Hunter, 477 F.3d at 186-87 (lawsuit by
+former CEO could not support loss causation claim where “complaint disclose[d] nothing new,”
+and decline likely occurred because allegations were repackaged by influential figure).
+Here, Nu Skin’s stock price fell in January 2014 because an influential
+newspaper, which Plaintiffs describe as the “mouthpiece for the PRC,” made the allegations, not
+because the articles contained new, previously undisclosed information. Indeed, as shown
+below, the People’s Daily articles merely repeat the 2012 Citron Report in all relevant respects
+(Statement of Facts ¶¶ 16-21):
+Substantive Allegation
+
+Citron Allegations
+
+People’s Daily Allegations
+
+Operation of a Pyramid
+Scheme
+
+“What Nu Skin Actually Does:
+Pyramid Selling”; Nu Skin China
+“support[ed] the creation of a
+multi-level pyramid
+compensation scheme.”
+
+Nu Skin China’s “personnel is
+in pyramid or ladder-shaped
+structure . . . . According to
+national relevant laws, [Nu
+Skin China’s] bonus system
+and personnel composition are
+suspected of pyramid
+schemes.”
+
+MLM Activities
+
+Nu Skin China “is in fact
+operating as an MLM,” and
+“every new distributor has 6
+uplines who help train the new
+distributors,” with “every one of
+your uplines . . . mak[ing a] 5%
+commission from your sales.”
+
+“‘Superiors’ may gain
+commissions at 5% of the sales
+of their ‘subordinate’; the main
+source of the senior direct
+distributor’s income is the
+commissions on his
+‘subordinate’s’ sales.”
+
+-54-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 62 of 67
+
+Product Buy-In
+
+Nu Skin China “requir[ed]
+purchases in order to participate
+in sales commissions or salary.”
+
+Nu Skin China required new
+recruits “to purchase Nu Skin
+products of 500 Yuan” in order
+to become a salesperson.
+
+False Product Claims
+
+Nu Skin China made claims
+regarding its ageLOC product
+based on “pseudo-scien[ce]” and
+falsely claimed endorsements
+from a major scientist.
+
+Nu Skin China made claims
+about its ageLOC product that
+were “totally made up” and
+falsely claiming endorsements
+from two major scientists.
+
+Unrealistic Promises of
+Wealth to New Recruits
+
+Nu Skin China “promise[d]
+unlimited riches for . . . new
+recruit[s] to join the pyramid.”
+
+Nu Skin China asked a reporter
+if “you want to earn one million
+Yuan in half a year.”
+
+“Brainwashing”
+
+Nu Skin China “engaged in
+“[b]rainwashing and chanting
+slogans.”
+
+Nu Skin China implement[ed]
+“mind control, so called
+‘brainwashing.’”
+
+As demonstrated above, the People’s Daily’s simple repackaging of facts or allegations already
+disclosed by Citron (or facts disclosed by Nu Skin itself) cannot be a corrective disclosure. See
+Meyer, 710 F.3d at 1198-00; Hunter, 477 F.3d at 186-87. Plaintiffs therefore cannot plead loss
+causation based on Paragraph 286(b) of the Amended Complaint.
+2.
+
+Media Allegations That a Risk of Fraudulent Conduct Exists Do
+Not Constitute a Corrective Disclosure.
+
+Plaintiffs’ claim also fails because media reports suggesting a company may be
+engaging in misconduct are not corrective disclosures. For example, in Bach v. Amedisys, Inc.,
+10–395–BAJ–CN, 2012 WL 6947008 (W.D. La. Mar. 15, 2013), the court held that neither a
+Citron Research report nor a Wall Street Journal article, each of which suggested that the
+defendant had manipulated data in order to inflate Medicare billings, could constitute a
+corrective disclosure. Id. at *4, *9-*10. The court found the Citron Research report contained
+“no new disclosure of fraud or improper behavior . . . but only an opinion that the possibility of
+
+-55-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 63 of 67
+
+fraud exists and the issue should be investigated further.” Id. at *9. The court then concluded
+that, “[t]o allow a securities fraud action to proceed on the basis of media speculation of fraud,
+such as is alleged to have been presented by the Citron[] report[,] would require the Court to
+expand securities law to insure investors against media allegations of possible risks.” Id. at *10.
+The court similarly held that the Wall Street Journal article, which also included certain
+additional allegations, could not constitute a corrective disclosure. Id.
+Other courts have similarly found that even a growing chorus of media and
+analyst reports speculating about misconduct does not constitute a corrective disclosure. See,
+e.g., In re Maxim Integrated Products, Inc. Sec. Litig., 639 F. Supp. 2d 1038, 1045-46 (N.D. Cal.
+2009) (finding articles regarding possible backdating insufficient and noting that “plaintiff must
+identify disclosures revealing more than a ‘“risk” or “potential” for widespread fraudulent
+conduct’”) (quoting Metzler Inv. GMBH v. Corinthian Colleges, Inc., 540 F.3d 1049, 1063–64
+(9th Cir. 2008)); Janbay v. Canadian Solar, Inc., 10 CIV. 4430, 2012 WL 1080306, at *16
+(S.D.N.Y. Mar. 30, 2012) (“[T]he raising of questions and speculation by analysts and
+commentators does not reveal any ‘truth’ about an alleged fraud . . . .”).
+Here, the People’s Daily articles did not reveal facts proving widespread
+misconduct at Nu Skin China, but rather suspected misconduct based on scattered witness
+statements and documents. Am. Compl., Ex. E at 12 (“According to national relevant laws, such
+bonus system and personnel composition are suspected of pyramid schemes.”); id., Ex. F at 9
+(“The reporter discovers in the investigation that some parts of Nu Skin’s business model and
+hierarchical structure are suspected of violation of national laws.”); id. at 10 (Nu Skin China
+“suspected of ‘brainwashing’”) (all emphasis added). And the investigation prompted by those
+
+-56-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 64 of 67
+
+articles failed to substantiate those suspicions in all relevant respects. Because these speculative
+allegations thus identify nothing more than a “risk” that the Chinese government would find
+widespread illegality, these allegations cannot support the loss causation claimed in Paragraph
+286(b) of the Amended Complaint. Bach, 2012 WL 6947008, at *9-*10.
+B.
+
+Announcement of a Government Investigation Cannot Constitute a
+Corrective Disclosure.
+Plaintiffs similarly cannot rely on the January 16 announcement of Chinese
+
+government investigations to establish loss causation. Well-established case law holds that
+disclosure of a government inquiry cannot be a corrective disclosure. See, e.g., Durham v.
+Whitney Info. Network, Inc., 06-CV-00687, 2009 WL 3783375, at *20-*21 (M.D. Fla. Nov. 10,
+2009) (announcement of SEC investigation not a corrective disclosure); In re Almost Family,
+Inc. Sec. Litig., No. 3:10-cv-00520, 2012 WL 443461, at *13 (W.D. Ky. Feb. 10, 2012)
+(“Numerous federal district courts have held that a disclosure of an investigation, absent an
+actual revelation of fraud, is not a corrective disclosure.”). While “stock prices may fall upon the
+announcement of an SEC investigation . . . that is because the investigation can be seen to
+portend an added risk of future corrective action,” not because “the investigations, in and of
+themselves, reveal to the market that a company’s previous statements were false or fraudulent.”
+Meyer, 710 F.3d at 1201. Accordingly, Plaintiffs cannot rely on the January 16 announcement of
+Chinese government investigations as a basis for pleading loss causation.
+C.
+
+Nu Skin China’s 8-K Was Not a Corrective Disclosure Because It Did Not
+Reveal Any Violation of Chinese Law.
+Finally, Plaintiffs cannot rely on Nu Skin’s January 21 8-K as evidence of loss
+
+causation, because, contrary to Plaintiffs’ claim, that disclosure does not admit that Nu Skin
+
+-57-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 65 of 67
+
+violated China’s regulations on direct selling. See Am. Compl. ¶ 219. 34 Instead, Nu Skin’s 8-K
+merely stated, “during our recent rapid growth, there were instances where some of our sales
+people failed to adequately follow and enforce our policies and regulations.” See id. (emphasis
+added). Because Plaintiffs’ claims here depend on a finding that Nu Skin violated Chinese law,
+not the Company’s policies and regulations, the 8-K was not a corrective disclosure and cannot
+establish loss causation. Moreover, Nu Skin’s stock price fell just 2.6% following issuance of
+the 8-K, Am. Compl. ¶ 220, further undercutting any notion of loss causation based on that
+release.
+***
+In sum, loss causation requires a corrective disclosure. Here, where Nu Skin has
+not admitted to violating either China’s anti-pyramid or its multi-level commission laws, and
+where the Chinese government has investigated Nu Skin and has found no such violations, there
+can be no such disclosure. Plaintiffs’ attempt to rely on media speculation, the announcement of
+an investigation, and the Company’s statements about compliance with its own policies (not
+compliance with law) cannot substitute for an actual corrective disclosure. Accordingly, the
+Amended Complaint should be dismissed for failure to allege loss causation.
+IV.
+
+Plaintiffs’ Control Person Claim Falls With Their Substantive § 10(b) Claim.
+For the reasons set out above, Plaintiffs’ claim under § 10(b) of the Securities Act
+
+fails as a matter of law. “Because plaintiff[s’] complaint does not allege a primary violation of
+
+34
+
+As set out above, while Nu Skin’s 8-K announced voluntary measures such as
+temporarily suspending sales meetings in response to the investigation, those measures were not
+based on any finding or acknowledgement of wrongdoing by the Company and may not be used
+to infer illegal conduct.
+
+-58-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 66 of 67
+
+the securities laws, [their] Section 20(a) claim also fails.” Level 3, 667 F.3d at 1347.
+CONCLUSION
+For the reasons set forth above, Defendants respectfully submit that the Amended
+Complaint should be dismissed with prejudice.
+Dated this 29th day of August, 2014.
+PARR BROWN GEE & LOVELESS
+/s/ Roberts S. Clark
+Robert S. Clark
+Daniel E. Barnett
+SIMPSON THACHER & BARTLETT LLP
+James G. Kreissman (pro hac vice)
+Alexis Coll-Very (pro hac vice)
+Attorneys for Defendants Nu Skin
+Enterprises, Inc., M. Truman Hunt, and
+Ritch N. Wood
+
+-59-
+
+Case 2:14-cv-00033-JNP-BCW Document 53 Filed 08/29/14 Page 67 of 67
+
+CERTIFICATE OF SERVICE
+I hereby certify that I caused the foregoing to be filed via the Court’s CM/ECF system, which
+caused the foregoing to be served on all counsel of record by electronic mail.
+
+/s/ Daniel E. Barnett
+
+-60-
+
+

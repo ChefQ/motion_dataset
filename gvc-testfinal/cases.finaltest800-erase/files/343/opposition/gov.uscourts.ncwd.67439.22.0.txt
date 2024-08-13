@@ -1,0 +1,944 @@
+UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF NORTH CAROLINA
+CHARLOTTE DIVISION
+CIVIL ACTION NO. 3:12-cv-00336
+____________________________________
+STEVE COOKSEY,
+)
+)
+Plaintiff,
+)
+)
+v.
+)
+)
+MICHELLE FUTRELL, et al.,
+)
+)
+Defendants.
+)
+____________________________________ )
+
+_______________________________________________________________
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS
+_______________________________________________________________
+
+Jeff Rowes*
+Paul M. Sherman*
+INSTITUTE FOR JUSTICE
+901 North Glebe Road, Suite 900
+Arlington, VA 22203
+Telephone: (703) 682-9320
+Fax: (703) 682-9321
+E-mail: jrowes@ij.org; psherman@ij.org
+*Admitted Pro Hac Vice
+Attorneys for Plaintiff
+Robert W. Shaw (N.C. State Bar No. 32923)
+WILLIAMS MULLEN
+P.O. Box 1000
+Raleigh, NC 27602
+Telephone: (919) 981-4310
+Fax: (919) 981-4300
+E-mail: rshaw@williamsmullen.com
+Local Counsel for Plaintiff
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 1 of 34
+
+TABLE OF CONTENTS
+Page(s)
+INTRODUCTION..........................................................................................................................1
+STATEMENT OF FACTS ............................................................................................................1
+A. Standing ..................................................................................................................2
+B. The Merits...............................................................................................................3
+ARGUMENT IN RESPONSE ......................................................................................................4
+I. PLAINTIFF COOKSEY HAS STANDING. .............................................................5
+A. Plaintiff Cooksey Has Alleged Objectively Reasonable Chilling. ......................5
+B. Kemler Is Inapposite. .............................................................................................8
+II. PLAINTIFF COOKSEY’S CLAIMS ARE RIPE. ...................................................9
+A. Plaintiff Cooksey Satisfies the Two-Part Test for Ripeness. ..............................9
+B. International Academy Is Inapposite. .................................................................11
+III. PLAINTIFF COOKSEY HAS STATED VALID CLAIMS UNDER THE FIRST
+AMENDMENT. .........................................................................................................13
+A. The U.S. Supreme Court’s Post-Bowman Authority Establishes That North
+Carolina’s Law Is a Content-Based Restriction on Speech and Is Subject to
+First Amendment Scrutiny..................................................................................14
+1. Two years ago, long after Bowman, the Supreme Court held that advice is
+protected speech and restrictions on advice implicate the First
+Amendment. ...................................................................................................14
+2. The Board’s regulation of Plaintiff Cooksey’s speech is content-based. ..16
+3. Content-based speech restrictions are subject to meaningful judicial
+scrutiny unless they fall into a historically unprotected category, which is
+a factual inquiry. ............................................................................................18
+B. By Its Own Terms, Bowman Applies to Professional-Client Relationships,
+and Plaintiff Has Alleged Sufficient Facts That His Speech Occurs in
+Contexts That Do Not Give Rise to Such Relationships. ..................................20
+
+ii
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 2 of 34
+
+Page(s)
+IV. EVEN UNDER RATIONAL-BASIS SCRUTINY, PLAINTIFF HAS ALLEGED
+FACTS SUFFICIENT TO SHOW THAT THE LAW’S STATUTORY
+EXEMPTIONS ARE UNCONSTITUTIONALLY ARBITRARY. ......................23
+Conclusion ....................................................................................................................................25
+
+iii
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 3 of 34
+
+TABLE OF AUTHORITIES
+Page(s)
+CASES
+Accountant’s Society of Virginia v. Bowman, 860 F.2d 602 (4th Cir. 1988)....................... (passim)
+Allegheny Pittsburgh Coal Co. v. Cnty. Comm’n, 488 U.S. 336 (1989) .......................................24
+Arch Mineral Corp. v. Babbit, 104 F.3d 660 (4th Cir. 1997) ........................................................13
+Bd. of Trs. v. Fox, 492 U.S. 469 (1989) .........................................................................................14
+Benham v. City of Charlotte, 635 F.3d 129 (4th Cir. 2011) ............................................................5
+Blankenship v. Manchin, 471 F.3d 523 (4th Cir. 2006)...............................................................6, 7
+Brown v. Entm’t Merchants Ass’n, 131 S. Ct. 2729 (2011)...........................................................19
+Care Comm. v. Arneson, 638 F.3d 621 (8th Cir. 2011) ...................................................................7
+Carey v. Brown, 447 U.S. 455 (1980) ...........................................................................................17
+Cent. Hudson Gas & Elec. Corp. v. Public Serv. Comm’n, 447 U.S. 557 (1980) .........................18
+Chappelle v. Greater Baton Rouge Airport Dist., 431 U.S. 159 (1977)........................................24
+Ciba-Geigy Corp. v. EPA, 801 F.2d 430 (D.C. Cir. 1986) ........................................................9, 10
+Citizens United v. FEC, 130 S. Ct. 876 (2010) ..............................................................................12
+City of Cleburne v. Cleburne Living Ctr., 473 U.S. 432 (1985) ....................................................24
+Constantine v. Rectors & Visitors of George Mason Univ., 411 F.3d 474 (4th Cir. 2005) .............5
+Craigmiles v. Giles, 312 F.3d 220 (6th Cir. 2002) ..................................................................24, 25
+Edenfield v. Fane, 507 U.S. 761 (1993) ........................................................................................16
+Educational Servs. v. Md. State Bd. for Higher Educ., 710 F.2d 170 (4th Cir. 1983) ..................11
+Georgia Outdoor Adver., Inc. v. Waynesville, 833 F.2d 43 (4th Cir. 1987) ..................................23
+Greater Balt. Ctr. For Pregnancy Concerns v. Mayor & City Council, Nos. 11-1111, 2012 U.S.
+App. LEXIS 13157 (4th Cir. June 27, 2012) .................................................................................21
+
+iv
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 4 of 34
+
+Page(s)
+Greater Houston Small Taxicab Co. Owners Ass’n v. City of Hous.,
+660 F.3d 235 (5th Cir. 2011) .........................................................................................................24
+Holder v. Humanitarian Law Project, 130 S. Ct. 2705 (2010) ............................................. passim
+Hooper v. Bernalillo Cnty. Assessor, 472 U.S. 612 (1985) ...........................................................24
+Int’l Acad. of Oral Med. and Toxicology v. N.C. State Bd. of Dental Exam’rs, 451 F. Supp. 2d
+746 (E.D.N.C. 2006) ..................................................................................................................9, 11
+Kemler v. Poston, 108 F. Supp. 2d 529 (E.D. Va. 2000) .............................................................8, 9
+Lawrence v. Texas, 539 U.S. 558 (2003) .......................................................................................24
+Lumbermens Mut. Cas. Ins. Co. v. First Ins. Servs., 417 Fed. Appx. 247 (4th Cir. 2011) ............21
+Majors v. Abell, 317 F.3d 719 (7th Cir. 2003).................................................................................7
+Mayer v. City of Chicago, 404 U.S. 189 (1971) ............................................................................24
+Metro. Life Ins., Co. v. Ward, 470 U.S. 869 (1985).......................................................................24
+Metro-media, Inc. v. City of San Diego, 453 U.S. 490 (1981) ......................................................23
+Merrifield v. Lockyer, 547 F.3d 978 (9th Cir. 2008) .....................................................................24
+Miller v. Brown, 462 F.3d 312 (4th Cir. 2006) ........................................................................10, 11
+Nat’l Park Hospitality Ass’n v. Dep’t of Interior, 538 U.S. 803 (2003) ........................................10
+Newsom v. Albermarle Cnty. Sch. Bd., 354 F.3d 249 (4th Cir. 2003) ...........................................11
+Ohralik v. Ohio State Bar Ass’n, 436 U.S. 447 (1978) ..................................................................16
+Quinn v. Millsap, 491 U.S. 95 (1989) ............................................................................................24
+Patsy v. Bd. of Regents, 457 U.S. 496 (1982) ................................................................................11
+Richmond, Fredericksburg & Potomac R.R. Co. v. United States,
+945 F.2d 765 (4th Cir. 1991) ...........................................................................................................1
+Riley v. Nat’l Fed’n of the Blind, 487 U.S. 781 (1988) .................................................................15
+Romer v. Evans, 517 U.S. 620 (1996)............................................................................................25
+v
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 5 of 34
+
+Page(s)
+Sackett v. EPA, 132 S. Ct. 1367 (2012) .........................................................................................10
+S.C. Citizens for Life, Inc. v. Krawcheck, 301 F. App’x 218 (4th Cir. 2008) ................................10
+Simon & Schuster, Inc. v. Members of the N.Y. State Crime Victims Bd.,
+502 U.S. 105 (1991) .......................................................................................................................17
+Sorrell v. IMS Health Inc., 131 S. Ct. 2653 (2011) .......................................................................19
+Steffel v. Thompson, 415 U.S. 452 (1974) .......................................................................................5
+Talbot v. Lucy Corr Nursing Home, 118 F.3d 215 (4th Cir. 1997) ..............................................11
+Turner v. Fouche, 396 U.S. 346 (1970) .........................................................................................24
+United States v. O’Brien, 391 U.S. 367 (1968) .................................................................15, 16, 17
+United States v. Playboy Entm’t Grp., Inc., 529 U.S. 803 (U.S. 2000) ...................................18, 20
+United States v. Stevens, 130 S. Ct. 1577 (2010) .....................................................................18, 19
+U.S. Dep’t of Agric. V. Moreno, 413 U.S. 528 (1973).............................................................24, 25
+Va. Soc’y for Human Life, Inc. v. FEC, 263 F.3d 379 (4th Cir. 2001) ......................................7, 10
+Ward v. Rock Against Racism, 491 U.S. 781 (1989) ...............................................................17, 18
+Williams v. Vermont, 472 U.S. 14 (1985) .....................................................................................24,
+Zobel v. Williams, 457 U.S. 55 (1982) ...........................................................................................25
+RULES AND STATUTES
+42 U.S.C. § 1983 ............................................................................................................................11
+N.C. Admin. Code § 17.0116 ......................................................................................................8, 9
+N.C. Gen. Stat. § 90-270.48 ...........................................................................................................21
+N.C. Gen. Stat. § 90-356 ..................................................................................................................2
+N.C. Gen. Stat. § 90-365(5) .............................................................................................................8
+vi
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 6 of 34
+
+Page(s)
+N.C. Gen. Stat. § 90-367 ..................................................................................................................8
+N.C. Gen. Stat. § 90-368(6) .......................................................................................................4, 23
+OTHER AUTHORITIES
+Robert Kry, The “Watchman for Truth”: Professional Licensing and the First Amendment, 23
+Seattle U. L. Rev. 885 (2000) ........................................................................................................19
+
+vii
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 7 of 34
+
+INTRODUCTION
+This Court appears to have preliminarily agreed with the Board that once the government
+subjects a topic to occupational licensing, the First Amendment ceases to protect advice on that
+topic under any circumstances. Cooksey v. Futrell, No. 3:12cv336, Order on Preliminary Injunction, Slip Op. at 5 (W.D.N.C. Aug. 8, 2012) (“PI Order”). Even free advice between friends and
+peers on a regulated topic—advice that millions of people share every day in person and
+online—is purportedly outside the First Amendment and may be censored subject only to rational-basis review. Yet it is inconceivable that advice on any topic the government chooses to regulate—no matter between whom and no matter the context—is wholly unprotected, and even less
+conceivable that the panel in Accountant’s Society of Virginia v. Bowman, 860 F.2d 602 (4th Cir.
+1988), intended that result when it held the First Amendment inapplicable to expert advice rendered by accountants to their paying clients. Even if this Court were to ignore the enormous body
+of law that calls Bowman into question, this case cannot be dismissed as though it were about
+occupational conduct such as performing heart transplants without a license and not about ordinary advice that laypeople exchange every day. The motion to dismiss should be denied.
+STATEMENT OF FACTS1
+The Court is generally familiar with the facts. Below, Plaintiff briefly discusses the factual allegations that pertain directly to what Plaintiff respectfully maintains is the Court’s erroneous analysis of standing and First Amendment law.
+
+1
+
+The Board cites factual material outside the Complaint in its standing argument. Defs.’ Mem.
+of Law in Supp. of Mot. to Dismiss (“MTD Br.”) at 10. To the extent the Court examines
+evidence outside the pleadings, it may do so only for the purposes of standing, and doing so does
+not convert the Board’s motion to dismiss into a motion for summary judgment. Richmond,
+Fredericksburg & Potomac R.R. Co. v. United States, 945 F.2d 765, 768 (4th Cir. 1991).
+Plaintiff Cooksey does not consent to this Rule 12 proceeding being converted into one for
+summary judgment.
+1
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 8 of 34
+
+A. Standing
+Plaintiff Cooksey alleges: (1) he was subject to official investigation; (2) Defendants on
+the Complaints Committee of the North Carolina Board of Dietetics/Nutrition and the Board’s
+Executive Director informed him that his dietary advice was illegal; (3) he stopped giving advice
+because he had been told directly that his speech was illegal; and (4) the Board threatened to
+continue monitoring his speech. Compl. ¶¶ 60–89, 98–105. Plaintiff Cooksey alleges that he
+would not have stopped speaking but for the conclusion of the Board—which has the authority to
+enforce the Dietetics/Nutrition Practice Act against him—that his speech was illegal. Id. ¶¶ 102–
+103. Finally, Plaintiff alleges that he would resume speaking were it legal to do so. Id. ¶ 104.
+More specifically, around January 12, 2012, pursuant to its express statutory authority,
+the Board opened an investigation into Plaintiff Cooksey on the basis of a complaint lodged by
+someone who heard Plaintiff Cooksey discuss diet at a church seminar. Id. ¶ 63; N.C. Gen. Stat.
+§ 90-356 (“The Board shall . . . [c]onduct investigations . . . to enforce this Article”). As part of
+that official investigation, the Executive Director and various Defendants who compose the
+Board’s Complaint Committee examined Plaintiff Cooksey’s online writings. Compl. ¶¶ 71–89.
+The Executive Director and those Defendants produced the red-pen review, id. at Ex. 1, which
+included unequivocal legal conclusions about specific statements by Plaintiff Cooksey:
+
+
+
+
+
+
+
+“you need a license to provide this service,” id. at 1;
+“Here you are giving this person advice based on what she has said to you. . . .
+Counseling/advising requires a license,” id.;
+“Assessing and advising—requires a license,” id.at 2;
+“you guided her (for her friend) to your meal plan—indirectly you conducted an
+assessment and provided advice/nutritional counseling,” id.;
+“Advising,” id. at 3;
+“You should not be addressing diabetic’s [sic] specific questions. You are no
+longer just providing information when you do this, you are assessing and counseling, both of which require a license,” id. at 5;
+2
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 9 of 34
+
+
+
+
+
+
+“When helping her with this issue you were assessing and advising—these activities require a license,” id. at 6;
+“Again, what does this communicate to the public? Assessing,” id. at 7;
+“You are now providing diabetic counseling, which requires a license,” id. at 11;
+“you cannot work one-on-one with individuals.” Id. at 14.
+
+The Executive Director and various Defendants also drew giant X’s through various sections of Plaintiff Cooksey’s website. Id. at 14–15. Based on the conclusions of the Executive Director and various Defendants, Plaintiff Cooksey stopped expressing opinions in the form of dietary advice. Compl. ¶¶ 68–69, 98–105.
+The Board’s official investigation of Plaintiff Cooksey ended with an April 19, 2012 letter to Plaintiff Cooksey on Board letterhead from the Executive Director—copied to the Board’s
+counsel—stating that, because Plaintiff Cooksey has “remained in substantial compliance with
+the requirements of Article 25, Chapter 90 of the North Carolina General Statutes,” the “Board is
+closing this complaint.” Cooksey Supp. Decl. Ex. A (emphasis added); see also Compl. ¶ 105. In
+other words, the Board did not find Plaintiff Cooksey to have been in compliance from the outset, but rather found that he came into compliance as a result of the self-censorship that followed
+the red-pen review. The letter stating the official position of the Board closed with a warning that
+“the Board reserves the right to continue to monitor this situation.” Cooksey Supp. Decl. Ex. A
+(emphasis added). Because the Board has informed him that he is personally subject to ongoing
+monitoring, Plaintiff Cooksey continues to refrain from expressing opinions in the form of dietary advice, but he would resume speaking were it legal to do so. Compl. ¶¶ 101–104.
+B. The Merits
+Plaintiff alleges that he provided advice in three contexts: (1) in a free Dear Abby-style
+advice column; (2) for free to family, friends, and readers in private communications; and (3) as
+part of a life-coaching service. Id. ¶¶ 39–59. Sometimes he communicates with a reader for free
+3
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 10 of 34
+
+in the form of advice only once or twice. Id. ¶ 33. Sometimes he has an ongoing unpaid relationship. Id. Only in his life-coaching business is he compensated for dietary advice. Id. ¶ 58.
+The Act contains a blanket exemption for advice dispensed in connection with the marketing and distribution of food and nutritional supplements. Id. ¶ 95 (citing N.C. Gen. Stat. § 90368(6)). Thus, Plaintiff Cooksey could offer the same advice that the Board declared illegal in
+the red-pen review if he simply began selling Paleolithic food like steak and avocado.
+ARGUMENT IN RESPONSE
+The Board has moved to dismiss, alleging that this Court lacks jurisdiction and that Plaintiff Cooksey’s claims are foreclosed by circuit precedent. Based on the Court’s preliminaryinjunction ruling, it appears that the Court tentatively agrees. Respectfully, the Court is in error.
+First, the Court suggests that Plaintiff Cooksey lacks an injury-in-fact because he ceased
+speaking in response to the Board’s unambiguous conclusions in the red-pen review—part of a
+formal Board investigation—that his speech was illegal. Stopping speaking in response to a formal government investigation is the very definition of having one’s speech “chilled,” and that is
+a First Amendment injury. Relatedly, the Court errs in stating that the claim is unripe because the
+Board did not take a final action against Plaintiff Cooksey. Under the First Amendment, citizens
+do not have to provoke punishment to litigate their claims, and Plaintiff Cooksey’s selfcensorship is not only a hardship, but something that every court recognizes as irreparable harm.
+On the merits, even if this Court believes that this Circuit’s ruling in Bowman is relevant,
+it cannot possibly control the entire case. As this Court acknowledged, Bowman involved finding
+“a personal nexus between professional and client.” PI Order at 5. Someone who writes a free
+online column on diet based on personal experience is not a “professional” under Bowman. Nor
+is someone who seeks free advice in such a column the “client” of anyone. This is at least a fac4
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 11 of 34
+
+tual question. Further, even if rational-basis review applies to Plaintiff Cooksey’s claims, it is
+arbitrary for the statute to allow him to offer dietary advice only if he also sells Paleolithic food
+such as steak and avocados. Plaintiff Cooksey is entitled to discovery to test the rationality of
+this statutory distinction. Thus, the motion to dismiss should be denied.
+I. PLAINTIFF COOKSEY HAS STANDING.
+This Court appears to believe that Plaintiff Cooksey did not suffer an injury because he
+voluntarily stopped speaking in response to Defendants’ actions. PI Order at 4. But “selfcensorship” in response to credible threats is the injury of chilling. Benham v. City of Charlotte,
+635 F.3d 129, 135 (4th Cir. 2011). Chilling creates a cognizable injury where the self-censorship
+is objectively reasonable, meaning that the challenged government action would “deter ‘a person
+of ordinary firmness’” from speaking. Constantine v. Rectors & Visitors of George Mason Univ.,
+411 F.3d 474, 500 (4th Cir. 2005). Thus, for Plaintiff Cooksey to establish standing, the allegations of the Complaint must show that it was objectively reasonable for him to feel chilled by the
+Board’s actions. As explained below, Plaintiff Cooksey has easily met this standard.
+A. Plaintiff Cooksey Has Alleged Objectively Reasonable Chilling.
+Plaintiff Cooksey did not stop speaking voluntarily; his silence has been coerced by monitoring and the credible threat of sanctions. It is well established that speakers are not required to
+continue speaking and provoke actual punishment to have standing under the First Amendment.
+Steffel v. Thompson, 415 U.S. 452, 459 (1974). Rather, as noted above, the relevant question is
+whether, under the totality of the facts, it was objectively reasonable for Plaintiff Cooksey to feel
+that he had to self-censor. Here, the four salient facts are: (1) Plaintiff Cooksey was investigated
+for what he said about diet; (2) Plaintiff Cooksey was told by Defendants and the Board’s Execu-
+
+5
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 12 of 34
+
+tive Director that his statements were illegal; (3) he stopped speaking; and (4) the Board threatened continued monitoring to ensure that he remained silent.
+Plaintiff Cooksey’s standing might be in doubt if the Board had sent a final letter saying
+that the investigation turned up nothing and that he could speak freely without being subject to
+monitoring. Instead, the Board sent him a threatening letter intended to convey that he had
+crossed a statutory line and that the Board was prepared to ensure that he did not cross it again.
+Government boards send this sort of legalistic correspondence under the guidance of their legal
+counsel to secure citizen compliance, and citizens who receive such letters reasonably feel compelled to comply, as Plaintiff Cooksey did. Compl. ¶¶ 101–104. Indeed, the Board’s brief in this
+matter confirms its position that Plaintiff Cooksey’s speech was illegal. MTD Br. at 12.
+It is not normal in America for people to be investigated by the government for things
+they have said or written, or for them to be informed that their speech and writings are illegal and
+that the government will monitor their speech and writings to ensure compliant silence. When
+reasonable Americans are subject to such investigations and threatened with such monitoring,
+they stop speaking. That cessation of speech is a cognizable injury.
+The proposition that the government cannot subject someone to monitoring to control
+their speech is so well established that a much more ambiguous threat result in the reversal of a
+dismissal in Blankenship v. Manchin, 471 F.3d 523 (4th Cir. 2006), in which the Fourth Circuit
+held that the government official involved was not even entitled to qualified immunity. In Blankenship, the governor of West Virginia had taken a position that a prominent businessman opposed. Id. at 525. In response to media questions at a press conference, the Governor made offthe-cuff remarks that the businessman, by injecting himself into the debate, perhaps made himself the subject of closer scrutiny. Id. at 525–26. The businessman sued on the ground that his
+6
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 13 of 34
+
+speech had been chilled by the threat of investigation. Id. at 526–27. The Governor moved to
+dismiss on the ground that an inchoate statement about investigating the businessman did not
+constitute a threat that would deter a reasonable person from speaking. Id. at 527. The Fourth
+Circuit disagreed, holding not only that the press-conference remarks alone created a chilling effect, id. at 528–29, but also that subsequent scrutiny chilled too, id. at 529–30. Thus, the Fourth
+Circuit found chilling on two grounds: a threat of scrutiny and scrutiny itself.
+Here, although the order of events is reversed, the same two elements are present: Plaintiff Cooksey was scrutinized and threatened with monitoring. This threat is highly credible because the Board already investigated Plaintiff Cooksey and it is easy to monitor his online activity, as Exhibit 2 to the Board’s motion to dismiss demonstrates.2 If it is objectively reasonable for
+a prominent businessman with enormous resources to feel chilled by an official’s off-the-cuff
+statement, it must also be objectively reasonable for Plaintiff Cooksey, an ordinary person with
+no particular resources, to feel chilled by a three-month investigation, an extensive red-line
+markup of his writings, and a formal threat of continued monitoring. Blankenship, 471 F.3d at
+530.3 Thus, Plaintiff Cooksey has standing.
+
+2
+
+The Board’s citation to this single example of Plaintiff Cooksey pointing someone towards his
+meal plan following the Board’s investigation is plainly insufficient at the motion-to-dismiss
+stage to demonstrate that his speech has not been chilled. See Blankenship, 471 F.3d at 532–33
+(rejecting motion to dismiss even though plaintiff had continued speaking because “[a] chilling
+effect need not result in a total freeze of the targeted party’s speech”).
+3
+
+See also Va. Soc’y for Human Life, Inc. v. FEC, 263 F.3d 379, 386–89 (4th Cir. 2001) (finding
+standing based on chill even though defendant agency had adopted a policy of not enforcing the
+challenged regulation in the Fourth Circuit); 281 Care Comm. v. Arneson, 638 F.3d 621, 630 (8th
+Cir. 2011) (finding standing where “plaintiffs’ speech has triggered threats and the filing of one
+complaint under [the challenged law]” even though “no complaints against the plaintiffs ever
+reached the criminal stage and no criminal prosecution was ever threatened”); Majors v. Abell,
+317 F.3d 719, 721 (7th Cir. 2003) (holding that standing exists “if [a statute] arguably covers [a
+plaintiff’s speech], and so may deter constitutionally protected expression” (emphases added)).
+7
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 14 of 34
+
+B. Kemler Is Inapposite.
+Although this Court did not raise Kemler v. Poston, 108 F. Supp. 2d 529 (E.D. Va. 2000),
+in its preliminary-injunction ruling, the Board relies on it in error. It is easily distinguishable. In
+Kemler, two Virginia judges requested an advisory opinion from the Judicial Ethics Advisory
+Committee on the propriety of voting in a political primary. Id. at 531.4 The Committee opined
+that such a vote would constitute partisan political activity and hence violate judicial ethics. Id. at
+533. The plaintiff judges then sued the Committee members on the ground that the advisory
+opinion chilled them from primary voting. Id. The plaintiff judges also sued members of the Judicial Inquiry Review Commission, which investigates judicial-ethics violations. Id.
+The court ruled that the plaintiff judges lacked an injury-in-fact because none of the defendants—whether members of the Committee or the Review Commission—had the authority to
+enforce judicial ethics. Id. at 538. At most, the Committee could render advisory opinions and
+the Review Commission could investigate public complaints and refer meritorious ones to the
+Virginia Supreme Court. Id. at 532. Furthermore, it was pure speculation that a complaint would
+ever find its way to the Virginia Supreme Court because: (1) the judges would have to vote in a
+primary; (2) someone in the general public would have to find out; (3) someone would have to
+complain; (4) the Review Commission would have to agree with the Committee’s advisory opinion that voting is unethical; and (5) the Review Commission would have to investigate the complaint and, if it were meritorious, refer it to the Supreme Court. Id. at 538.
+Plaintiff Cooksey’s circumstances could not be more different. First, unlike the Committee and Review Commission in Kemler, the State Board has the authority to conduct disciplinary
+proceedings against Plaintiff Cooksey. N.C. Gen. Stat. §§ 90-365(5), -367; 21 N.C. Admin. Code
+4
+
+It bears noting that, unlike this case, the judges in Kemler initiated the entire controversy by
+seeking the advisory opinion in the first place.
+8
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 15 of 34
+
+§ 17.0116. Second, unlike the contingencies that had to occur in Kemler for a complaint to be
+lodged, a complaint has already been lodged in this case, and the public nature of Plaintiff
+Cooksey’s online activity makes it unlikely to escape continued attention. Third, whereas no entity with enforcement authority took a position in Kemler about primary voting, the Board unequivocally told Plaintiff Cooksey that his speech was illegal. Compl. Ex. 1. Fourth, unlike the
+defendants in Kemler, which never investigated the plaintiff judges, the Board did investigate
+Plaintiff Cooksey and closed its investigation only because it had been effective at silencing
+him.5 Finally, unlike the defendants in Kemler, the Board has threatened Plaintiff Cooksey with
+future monitoring—and the implicit threat of sanctions—if he resumes speaking in a manner that
+the Board deems illegal. Thus, Kemler is easily distinguishable, and Plaintiff Cooksey’s selfcensorship is more than sufficient for standing.
+II. PLAINTIFF COOKSEY’S CLAIMS ARE RIPE.
+This Court expressed doubts in its preliminary-injunction ruling about the ripeness of
+Plaintiff Cooksey’s claims. PI Order at 4. Respectfully, just as Plaintiff Cooksey plainly has
+standing, so too are his claims plainly ripe. Plaintiff Cooksey satisfies the two-part ripeness test,
+and the primary precedent upon which this Court and the Board rely, International Academy of
+Oral Medicine and Toxicology v. North Carolina State Board of Dental Examiners, 451 F. Supp.
+2d 746 (E.D.N.C. 2006), is readily distinguished.
+A. Plaintiff Cooksey Satisfies the Two-Part Test for Ripeness.
+Ripeness is a practical, not formalistic, inquiry ensuring that federal courts do not exercise jurisdiction over speculative controversies. See, e.g., Ciba-Geigy Corp. v. EPA, 801 F.2d
+
+5
+
+The Board’s claim that it was statutorily required to investigate the complaint against Plaintiff
+Cooksey, MTD Br. at 8 n.1, is irrelevant; the Board did not merely investigate Plaintiff Cooksey,
+it instructed him on what he legally may not say.
+9
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 16 of 34
+
+430, 434 (D.C. Cir. 1986) (describing ripeness inquiry as turning on “practical common sense”
+rather than “nice legal distinctions.”). But neither the courts nor aggrieved citizens are required
+to tolerate strategic behavior by the government in which it forces citizen compliance in the real
+world but then pleads in court that the controversy is unripe because of some yet-unexhausted
+bureaucratic procedure. Cf. Sackett v. EPA, 132 S. Ct. 1367, 1373 (2012) (concluding that describing government compliance order as merely “a step in the deliberative process” did not exempt action from judicial review). Instead, the ripeness inquiry asks two questions: (1) is the
+controversy sufficiently mature that it is fit for judicial determination; and (2) would the parties
+suffer hardship were the court to delay adjudication? Nat’l Park Hospitality Ass’n v. Dep’t of Interior, 538 U.S. 803, 808 (2003). Plaintiff Cooksey satisfies both prongs.
+Regarding maturity, the Board argues that providing personal advice about diet is categorically illegal for all but state-licensed dietitians. The Board does not distinguish between paid
+and unpaid advice, between advice among friends or strangers, or between advice offered in a
+free Dear Abby-style column and advice rendered in a professional, private context where the
+listener might reasonably expect to be surrendering personal judgment to the speaker. Because
+there is apparently no factual context in which the Board believes that Plaintiff Cooksey’s individualized advice would be legal, there are no uncertainties about the Board’s position and there
+is a mature legal controversy. Miller v. Brown, 462 F.3d 312, 319 (4th Cir. 2006) (“A case is fit
+for judicial decision when the issues are purely legal and when the action in controversy is final
+and not dependent on future uncertainties.”); Va. Soc’y for Human Life, Inc, 263 F.3d at 390;
+S.C. Citizens for Life, Inc. v. Krawcheck, 301 F. App’x 218, 221 (4th Cir. 2008).
+Plaintiff Cooksey just as easily satisfies the hardship prong. This Court suggests that
+Plaintiff Cooksey did not suffer a hardship because he ceased speaking. PI Order at 5. But ceas10
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 17 of 34
+
+ing speaking involuntarily is a hardship: chilling. Plaintiff Cooksey wants to speak but will not
+for fear of consequences. Compl. ¶¶ 65, 68–69, 101–104. This loss of his First Amendment
+rights is an irreparable harm. Newsom v. Albermarle Cnty. Sch. Bd., 354 F.3d 249, 261 (4th Cir.
+2003). The Board identifies no actual hardship it will experience, stating only that Plaintiff
+Cooksey should have exhausted administrative remedies. MTD Br. at 8–9. Thus, Plaintiff
+Cooksey has a compelling hardship argument and the Board has no counterargument.6
+B. International Academy Is Inapposite.
+The Board’s belief that a claim is not ripe unless there is a formal administrative determination is also rooted in the Board’s failure to understand the other case on which it heavily relies,
+International Academy of Oral Medicine and Toxicology v. North Carolina State Board of Dental Examiners, 451 F. Supp. 2d 746 (E.D.N.C. 2006). International Academy is a case in which
+the plaintiffs suffered no injury at all, and the court addressed that defect in terms of ripeness. 7
+In International Academy, the court found no injury because the government literally had
+not done anything to the plaintiffs. A low-level employee wrote a “Do’s and Don’ts” article for
+the dental board’s newsletter, which described advertising metal-free dentistry as a “Don’t.” Id.
+
+6
+
+This Court suggested that Plaintiff Cooksey should perhaps have protested more before
+becoming compliantly silent and bringing suit. PI Order at 4–5. This appears to be a variant of
+the Board’s argument, confined to a footnote, MTD Br. at 9 n.2, that Plaintiff Cooksey was
+required to exhaust administrative remedies. Respectfully, this is wrong. It is blackletter law that
+there is no exhaustion requirement under § 1983. See Patsy v. Bd. Of Regents, 457 U.S. 496
+(1982); Talbot v. Lucy Corr Nursing Home, 118 F.3d 215, 218 (4th Cir. 1997) (citing Patsy for
+the rule that “a plaintiff bringing a suit pursuant to 42 U.S.C. § 1983 does not have to exhaust
+state administrative remedies before filing suit in federal court” as the general rule from);
+Educational Servs. v. Md. State Bd. for Higher Educ., 710 F.2d 170, 177 (4th Cir. 1983)
+(“Exhaustion of administrative remedies, of course, is not a prerequisite to the maintenance of a
+§ 1983 action.”). The unpublished opinion upon which the Board relies simply misstates the law.
+7
+
+As a practical matter, courts recognize that there is often little difference between standing and
+ripeness. Miller v. Brown, 462 F.3d 312, 319 (4th Cir. 2006) (“Analyzing ripeness is similar to
+determining whether a party has standing.”).
+11
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 18 of 34
+
+at 749. The dental plaintiffs sued on the ground that this “Don’t” purportedly chilled their desire
+to advertise metal-free dentistry. Id. at 748. The court dismissed the suit on ripeness grounds,
+ruling that there was no indication that the “Don’t” described in the newsletter could be imputed
+to the dental board. Id. at 750. Given the uncertainty over the dental board’s position, the court
+suggested that the plaintiff dentists could have initiated a state administrative proceeding for securing a formal declaratory ruling from the dental board. Id. at 753.
+The Board mistakenly concludes that a declaratory ruling is a necessary condition for
+ripeness, when all International Academy suggested was that such a ruling may be sufficient.8
+Further, such a ruling would have little relevance to this case because Plaintiff Cooksey’s claims
+are ripe for all of the reasons that the claims in International Academy were not. There, the plaintiffs had not yet engaged in any of the allegedly prohibited advertising; here, Plaintiff Cooksey
+has published extensively. There, the plaintiffs were not investigated for advertising; here, Plaintiff Cooksey was investigated for his speech. There, the “Do’s and Don’ts” list was written by a
+low-level employee for a general audience; here, the red-pen review was written by Defendants
+and the Executive Director in direct response to Plaintiff Cooksey’s speech. There, the dental
+board never found that the plaintiffs did not comply with the statute; here, the Board found that
+Plaintiff Cooksey brought himself into compliance only after the red-pen review. There, the
+plaintiffs were not subject to monitoring and the dental board actually disavowed any interest in
+taking action against the plaintiffs for truthfully advertising metal-free dentistry, id. at 750–51;
+here, the State Board has said that it will monitor Plaintiff Cooksey.
+
+8
+
+The Supreme Court has expressed serious concern about requiring speakers to seek declaratory
+rulings from government agencies even when the government has not taken direct action against
+them. See Citizens United v. FEC, 130 S. Ct. 876, 895–96 (2010) (comparing the advisoryopinion process to “licensing laws implemented in 16th- and 17th-century England, laws and
+governmental practices of the sort that the First Amendment was drawn to prohibit.”).
+12
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 19 of 34
+
+Far more analogous to Plaintiff Cooksey’s allegations is Arch Mineral Corp. v. Babbit, in
+which the Department of Interior’s Office of Surface Mining Reclamation and Enforcement
+(“OSM”) told Arch Mineral Corporation via correspondence that it was presumed statutorily responsible for remediation at a mine that it had purchased. 104 F.3d 660, 663 (4th Cir. 1997). After Arch filed suit, the OSM asserted that the claims were not ripe because the OSM might reach
+a different conclusion in official administrative proceedings. Id. at 666. The Fourth Circuit recognized that “[f]or all practical purposes . . . the decision has been made,” id, and found the controversy ripe, id. at 669. Similarly, the Board has for all practical purposes concluded after its
+three-month investigation that Plaintiff Cooksey’s personal advice on diet is illegal (a position it
+presses before this Court). Thus, his claims are ripe.
+III. PLAINTIFF COOKSEY HAS STATED VALID CLAIMS UNDER THE FIRST
+AMENDMENT.
+In its preliminary-injunction ruling, this Court concluded that, under Accountant’s Society
+of Virginia. v. Bowman, 860 F.2d 602 (4th Cir. 1988), advice loses all First Amendment protection when the government subjects the topic of that advice to occupational licensure. PI Order at
+5–6. It does not matter whether the advice is for free or compensated. It does not matter whether
+the advice is one-time or ongoing. It does not matter whether the advice is published or in private. It does not matter whether the advice is between friends or strangers. According to the
+Board, advice is the constitutional equivalent of criminal incitement or child pornography.
+Respectfully, that position cannot be reconciled with the enormous body of post-Bowman
+Supreme Court authority, not the least of which is Holder v. Humanitarian Law Project, 130 S.
+Ct. 2705 (2010). In Holder, the Supreme Court expressly held that “advice . . . derived from scientific, technical or other specialized knowledge” is protected speech. 130 S. Ct. at 2723–24
+(2010). Specifically, the Court held that the First Amendment applied to expert legal advice. Id.
+13
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 20 of 34
+
+Not only is it impossible to reconcile this Court’s view of Bowman with subsequent precedent such as Holder, it is also impossible to reconcile this Court’s view with Bowman itself. As
+this Court recognized, the applicability of Bowman as an exception to the First Amendment depends on a factual finding of a “personal nexus between professional and client.” PI Order at 5.
+A person like Plaintiff Cooksey is not acting as a professional when he gives free dietary advice
+in an online advice column, and the person asking the question certainly is not a client. If Bowman is still good law at all, at minimum, the First Amendment covers free dietary advice and
+Plaintiff Cooksey has thus stated free-speech claims based on his uncompensated advice.
+A. The U.S. Supreme Court’s Post-Bowman Authority Establishes That North Carolina’s Law Is a Content-Based Restriction on Speech and Is Subject to First Amendment Scrutiny.
+Before addressing the limited applicability, if any, of Bowman to this case, it is useful to
+review how far the U.S. Supreme Court’s First Amendment jurisprudence has evolved in the 24
+years since Bowman was decided. The Supreme Court has not been idle. To the extent the holdings set forth in the sections below conflict with Bowman, they are, of course, controlling on this
+Court, and Bowman must be read narrowly to accommodate them.
+1. Two years ago, long after Bowman, the Supreme Court held that advice is protected speech and restrictions on advice implicate the First Amendment.
+Advice—including even expert advice—is a form of speech protected by the First
+Amendment. Holder, 130 S. Ct. 2723–24 (holding the First Amendment applicable to restrictions
+on advice derived from scientific, technical or other specialized knowledge.); see also Bd. of Trs.
+v. Fox, 492 U.S. 469, 482 (1989) (stating that occupational speech as diverse as “tutoring, legal
+advice, and medical consultation” is protected speech). The gravamen of the Board’s First
+Amendment argument, however, is that under Bowman advice is actually conduct falling outside
+the First Amendment, hence only rational-basis review applies. This Court appears to agree.
+14
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 21 of 34
+
+The Supreme Court rejected this argument in Holder. In that case, the State Department
+forbade the plaintiffs from providing legal advice to designated terrorist groups on how those
+groups could address their grievances nonviolently. The Government argued that expert legal
+advice is a form of conduct, not speech. Id. at 2723–24.9 The Supreme Court rejected this argument on the commonsense ground that “plaintiffs want to speak to the [terrorist groups], and
+whether they may do so [under the statute] depends on what they say.” Id. Under the statute,
+“plaintiffs’ speech is not barred if it imparts only general or unspecialized knowledge.” Id. at
+2724. But if “plaintiffs’ speech to those groups imparts a ‘specific skill’ or communicates advice
+derived from ‘specialized knowledge’ . . . then it is barred.” Id. The Supreme Court held both
+that advice based on specialized knowledge is a form of protected speech, and that restricting the
+communication of individualized advice, while exempting the communication of generalized
+knowledge, is content-based regulation of speech triggering strict scrutiny. Id. at 2723–24.
+It is irrelevant that Holder involved anti-terrorism laws rather than occupational-licensing
+laws. Three years after Justice White failed to command a majority for his concurrence in Lowe
+v. SEC, 472 U.S. 181 (1985), upon which Bowman is based, the Supreme Court rejected the
+proposition that occupational licensure is “devoid of all First Amendment implication” or “subject only to rationality review.” Riley v. Nat’l Fed’n of the Blind, 487 U.S. 781, 801 n.13 (1988).
+In contrast to the Board’s and this Court’s broad reading of Bowman—which, contrary to
+Riley, would subject occupational speech “only to rationality review”—the Supreme Court has
+closely scrutinized restrictions on certain utterances subject to occupational licensure. In Ohralik
+
+9
+
+Notably, the State Department did not make the argument that the Board makes: that the
+supposed speech/conduct distinction removes all First Amendment scrutiny. Rather, the State
+Department argued only that the restrictions should be subject to intermediate scrutiny under
+United States v. O’Brien, 391 U.S. 367 (1968). See Holder, 130 S. Ct. at 2723–24. The Supreme
+Court found intermediate scrutiny inappropriate and instead applied strict scrutiny. Id. at 2724.
+15
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 22 of 34
+
+v. Ohio State Bar Association—which is cited in Lowe, Bowman, and this Court’s preliminaryinjunction order—the Supreme Court considered whether in-person legal solicitation was the
+equivalent of general advertising (and thus protected by the First Amendment) or merely part of
+a business transaction. 436 U.S. 447, 455–57 (1978). The Supreme Court did not declare that the
+speech at issue was unprotected simply because it was speech on a topic covered by law licensing. Rather, after concluding that the speech was primarily a business transaction, the Court expressly noted that this fact “does not remove the speech from the protection of the First Amendment,” but merely “lowers the level of appropriate judicial scrutiny.” Id. at 457. The Court then
+carefully reviewed the history of restrictions on legal solicitation and evidence of the dangers of
+direct selling before holding that in-person legal solicitation could permissibly be banned. Id. at
+460–67. Notably, the Court later refused to extend this holding to solicitation by accountants
+when the factual record did not support doing so. See Edenfield v. Fane, 507 U.S. 761, 771–73
+(1993). Thus, there is no basis in Supreme Court precedent (or, as discussed below, in Bowman)
+for the proposition that one-on-one speech is categorically outside the First Amendment.
+2. The Board’s regulation of Plaintiff Cooksey’s speech is content-based.
+The Board argues that its restrictions on Plaintiff Cooksey’s speech are content-neutral,
+and thus exempt from the First Amendment, because the Board is not hostile to the Paleolithic
+diet Plaintiff Cooksey advocates. See MTD Br. at 18. But this argument has two obvious defects.
+First, even content-neutral restrictions that only incidentally burden speech warrant intermediate
+scrutiny, not rational-basis scrutiny. See O’Brien, 391 U.S. at 376–77. Second, the Board confuses content-based regulations with viewpoint-based regulations. The latter, however, is merely a
+
+16
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 23 of 34
+
+subset of the former, and the First Amendment condemns both.10 If the rule were otherwise,
+Holder could not have come out as it did; the law in that case proscribed advice categorically
+rather than by viewpoint, yet the Court found the law to be content-based. 130 S. Ct. at 2723.
+The Board relies on Ward v. Rock Against Racism, 491 U.S. 781 (1989), but Ward—a
+classic “reasonable time, place, and manner” case—is not to the contrary. In Ward, a group held
+annual concerts at a bandshell in New York City’s Central Park. Id. at 784–85. Due to noise
+complaints, the City adopted time, place, and manner regulations for bandshell users. Id. at 785–
+87. The Supreme Court held that the regulations were content-neutral because they regulated
+volume, not content, and applied equally to all. Id. at 792–93.
+Ward makes clear why the regulation of Plaintiff Cooksey’s speech is content-based and
+subject to meaningful scrutiny.11 Unlike Ward, North Carolina’s regulation of Plaintiff
+Cooksey’s speech is not a restriction on when, where, or how he may give individualized advice,
+but rather a restriction on the subjects upon which he may give advice. Subject-matter restrictions necessarily turn on the content of speech—a restriction on who could write books
+about diet would be content-based even if it were indifferent to the nature of the dietary advice
+given. See Simon & Schuster, Inc. v. Members of the N.Y. State Crime Victims Bd., 502 U.S. 105,
+10
+
+See, e.g., Carey v. Brown, 447 U.S. 455, 462 n.6 (1980) (“It is, of course, no answer to assert
+that the Illinois statute does not discriminate on the basis of the speaker’s viewpoint, but only on
+the basis of the subject matter of his message. ‘The First Amendment’s hostility to content-based
+regulation extends not only to restrictions on particular viewpoints, but also to prohibition of
+public discussion of an entire topic.’”).
+11
+
+As in Holder, the Court in Ward did not declare that the speech at issue warranted no First
+Amendment protection, or that the plaintiff’s claim was subject only to rational-basis review.
+Rather, that Court held that the regulations would be reviewed with intermediate scrutiny rather
+than strict scrutiny. Id. at 791. This is consistent with the Court’s long-established precedent
+holding that even content-neutral regulations that impose only an incidental burden on speech
+are subject to First Amendment scrutiny, albeit under a less-rigorous standard of review. See
+O’Brien, 391 U.S. at 376–77. Thus, Ward cannot possibly stand for the Board’s position that
+Plaintiff’s speech is subject to no First Amendment scrutiny.
+17
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 24 of 34
+
+116 (1991) (holding law regulating profits of true-crime books to be content-based). Furthermore, the Board is afraid that Plaintiff Cooksey will persuade someone to eat something that, in
+the Board’s judgment, is unhealthy. Indeed, the Board characterizes Plaintiff Cooksey’s audience
+as “a uniquely vulnerable population that suffers from the chronic and life-threatening disease of
+diabetes[.]” MTD Br. at 12. It is this hostility towards, and mistrust of, the communicative effect
+of Plaintiff Cooksey’s advice that distinguishes the content-based restrictions here from the time,
+place, and manner restrictions in Ward.12 Thus, Plaintiff Cooksey has properly alleged that the
+restrictions on his speech are content-based.
+3. Content-based speech restrictions are subject to meaningful judicial scrutiny unless they fall into a historically unprotected category, which is a factual inquiry.
+Traditionally, “a content-based speech restriction . . . can stand only if it satisfies strict
+scrutiny.” 13 United States v. Playboy Entm’t Grp., Inc., 529 U.S. 803, 813 (U.S. 2000). This is
+true whether the government has banned the speech entirely, or merely burdened it. Sorrell v.
+12
+
+As one commentator aptly described the government’s interest in such cases:
+When a professional does no more than render advice to a client, the government’s interest in protecting the public from fraudulent or incompetent practice is
+quite obviously directed at the expressive component of the professional’s practice rather than the nonexpressive component (if such a component even exists).
+
+Robert Kry, The “Watchman for Truth”: Professional Licensing and the First Amendment, 23
+Seattle U. L. Rev. 885, 893 (2000).
+13
+
+The Board suggests that following the Supreme Court’s precedent would cause occupational
+licensing to unravel, including medical and law licensure. But this implausible concerns illustrate
+why discovery is necessary. It may be that medical and legal licensing—in contrast to dietitian
+licensing—are so venerable that they constitute an exception to the First Amendment. See United
+States v. Stevens, 130 S. Ct. 1577, 1586 (2010). Or it may be that speech subject to occupational
+licensing receives only intermediate scrutiny analogous to the Supreme Court’s standard for
+addressing content-based regulation of commercial speech. See, e.g., Cent. Hudson Gas & Elec.
+Corp. v. Public Serv. Comm’n, 447 U.S. 557, 566 (1980). All that can be conclusively inferred
+from Supreme Court precedent is that the level of scrutiny for restrictions on advice is
+substantial. Whatever the appropriate level of scrutiny, and whatever historical exceptions there
+may be for traditional professions, none of this can be determined at the motion-to-dismiss stage.
+18
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 25 of 34
+
+IMS Health Inc., 131 S. Ct. 2653, 2664 (2011) (“Government’s content-based burdens must satisfy the same rigorous scrutiny as its content-based bans.” (quotation marks omitted)). This
+standard also applies regardless of the strength of the government’s interest; the government is
+not permitted to argue that the need for regulating some category of speech is so great that the
+First Amendment’s strictures are inapplcable. Not even the clearly compelling interest in national security creates such an exception. See Holder, 130 S. Ct. at 2727 (“[C]oncerns of national
+security and foreign relations do not warrant abdication of the judicial role. We do not defer to
+the Government’s reading of the First Amendment, even when such interests are at stake.”); Stevens, 130 S. Ct. at 1585 (“The First Amendment’s guarantee of free speech does not extend only
+to categories of speech that survive an ad hoc balancing of relative social costs and benefits.”).
+Rather, the only exception that the Supreme Court makes to these principles is when a category
+of speech—like defamation, obscenity, criminal incitement, or child pornography—falls entirely
+outside the First Amendment. And that, effectively, is what the Board argues: that expert advice—however it is defined by the state—falls outside the scope of the First Amendment.
+Speech may only be cast outside the protection of the First Amendment if the government
+can demonstrate that the category of speech has been considered historically unprotected. Stevens, 130 S. Ct. at 1585–86. Further, the Supreme Court has made clear that determining whether
+speech falls outside the protection of the First Amendment is a fact-intensive inquiry. In Brown
+v. Entertainment Merchants Association, 131 S. Ct. 2729 (2011), the Court relied on Stevens to
+invalidate a ban on the sale of violent video games to children. In doing so, the Court confirmed
+that federal courts must look narrowly at the specific type of speech in a given case to determine
+whether it falls into an exception to the First Amendment. Id. at 2735–38.
+
+19
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 26 of 34
+
+Neither the allegations of the Complaint nor any caselaw support holding that dietary
+speech has historically been unprotected. North Carolina did not ban dietary advice by laypeople
+until 1991, a fact that would preclude this Court from concluding that dietary advice is an historical exception to the First Amendment. See Compl. ¶ 90. Further, because this is a First Amendment case, the burden of demonstrating that speech like Plaintiff Cooksey’s has historically been
+unprotected must rest with the government, see Playboy Entm’t Grp., Inc., 529 U.S. at 816–17,
+and thus cannot be met at the motion-to-dismiss stage.
+*
+
+*
+
+*
+
+As set forth above, Plaintiff has plainly stated claims under the First Amendment. The
+Complaint alleged that the Board regulated his speech on the basis of content in three distinct
+contexts: (1) free advice in a Dear Abby-style column; (2) free advice to family, friends, and
+strangers via telephone and email; and (3) compensated advice as part of a life-coaching service.
+Because content-specific speech regulations are at issue, the Board has an affirmative evidentiary
+duty to justify its censorship under some form of First Amendment scrutiny.14 See Id. at 816–
+817. Thus, the motion to dismiss should be denied.
+B. By Its Own Terms, Bowman Applies to Professional-Client Relationships, and Plaintiff Has Alleged Sufficient Facts That His Speech Occurs in Contexts That Do Not
+Give Rise to Such Relationships.
+As this brief has thus far made clear, this Court and the Board, relying on Accountant’s
+Society of Virginia v. Bowman, 860 F.2d 602 (4th Cir. 1988), appear to agree that the First
+
+14
+
+Again, the level of scrutiny may be strict or intermediate, depending on the advice at issue and
+the underlying facts developed in discovery. This is an underdeveloped area of the law. But the
+level of scrutiny is not rational basis.
+20
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 27 of 34
+
+Amendment does not apply to any individualized advice about diet under any circumstances.15
+Respectfully, this is not a correct reading of Bowman. If Bowman states an exception to the First
+Amendment, it is a narrow one. As this Court recognized in its ruling denying Plaintiff
+Cooksey’s motion for preliminary injunction, “the key” inquiry under Bowman is whether there
+exists “a personal nexus between professional and client.” PI Order at 5 (emphasis added). But
+Plaintiff Cooksey offers individualized advice in a number of contexts in which no reasonable
+person could believe that a professional-client relationship exists, just as no reasonable person
+believes that a professional-client relationship exists when an individual writes to Dear Abby for
+advice that might, in other contexts, be regulable as the practice of marriage and family therapy.
+See N.C. Gen. Stat. § 90-270.48 (banning unlicensed practice of marriage and family therapy).
+Determining which contexts give rise to a professional-client relationship is necessarily a
+fact-based inquiry. Cf. Lumbermens Mut. Cas. Ins. Co. v. First Ins. Servs., 417 Fed. Appx. 247,
+250 (4th Cir. 2011) (noting that the existence of a fiduciary relationship is generally a question of
+fact). This is evident from Bowman itself, which looked closely at the facts to determine, in that
+case, that professional-client relationships were all that was regulated. For example, the Fourth
+Circuit in Bowman found it highly relevant that the prohibition at issue in that case applied only
+to those who were compensated for their speech. See 860 F.2d at 604 (concluding that non-CPAs
+were engaged in “professional” because accountants “exercise their professional judgment in
+
+15
+
+The Board argument that Bowman’s holding was recently reaffirmed in Greater Baltimore
+Center for Pregnancy Concerns v. Mayor & City Council, Nos. 11-1111, 11-1885, 2012 U.S.
+App. LEXIS 13157 (4th Cir. June 27, 2012), lacks merit. Greater Baltimore mentions Bowman
+in dicta in a single footnote in which the court explained, first, that the U.S. Supreme Court has
+never recognized a First Amendment exception for so-called “professional speech,” a point on
+which Plaintiff agrees. The footnote goes on to mention the holding of Bowman, but to state that
+Bowman is inapplicable to the case under consideration. Id. at *26 n.3.
+21
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 28 of 34
+
+making individualized assessments of each client’s financial situation, for which they are compensated by the client” (emphasis added)); Id. at 604–05 (noting that accountant’s reports were
+“prepared and circulated for the pecuniary benefit of the client, who has paid the accountant to
+prepare it”). But even pay is surely not dispositive. See Riley, 487 U.S. at 801 (“It is well settled
+that a speaker’s rights are not lost merely because compensation is received; a speaker is no less
+a speaker because he or she is paid to speak.”).
+Of equal relevance is the difference between the representations made by non-CPA accountants in Bowman and the representations made by Plaintiff Cooksey. Bowman involved restrictions on the representations that non-CPAs were permitted to make regarding the quality of
+their work; non-CPAs were, for example, prohibited from declaring that their work was consistent with generally accepted accounting standards. Non-CPAs were also prohibited from describing their work with certain statutorily defined terms like “audit report,” “attestation,” or
+“examination.” Both of these restrictions were designed to ensure that the public was not misled
+into believing that the non-CPA’s advice met certain standards of quality that were reasonably
+implied by the use of those terms. The Board seems to make a similar argument with regard to
+the North Carolina proscription on dietary “assessing” and “counseling.” But there is a crucial
+distinction: Plaintiff Cooksey does not, and has not, held out his advice as “assessing” or “counseling.” Moreover, Plaintiff Cooksey has alleged that there is “no actual evidence that the people
+with whom Plaintiff Cooksey corresponded in his advice column, or any other person, mistook
+Plaintiff Cooksey for a North Carolina-licensed dietitian or any other sort of licensed professional.” Compl. ¶¶ 111, 121. Thus, whether there is a concern that the public will mistake Plaintiff
+Cooksey’s advice as coming from a licensed dietitian—an outcome that seems extremely unlikely given that Plaintiff Cooksey expressly disclaims that he is a dietitian, Compl. ¶ 27—is a ques22
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 29 of 34
+
+tion that should be answered on the basis of a fully developed factual record. It cannot be answered by mere citation to Bowman at the motion-to-dismiss stage.
+IV. EVEN UNDER RATIONAL-BASIS SCRUTINY, PLAINTIFF HAS ALLEGED
+FACTS SUFFICIENT TO SHOW THAT THE LAW’S STATUTORY EXEMPTIONS
+ARE UNCONSTITUTIONALLY ARBITRARY.
+Even if this Court concludes that Bowman applies to all of Plaintiff Cookey’s speech in
+all contexts, Plaintiff has alleged sufficient facts that, if true, would entitle him to relief under
+rational-basis scrutiny. North Carolina’s dietitian-licensing law exempts retailers of food and nutritional supplements. N.C. Gen. Stat. § 90-368(6), (9). In other words, although the Board asserts a strong interest in banning even Plaintiff Cooksey’s wholly uncompensated dietary advice,
+that interest apparently vanishes when a retailer of food or dietary supplements gives identical
+dietary advice. Thus, Plaintiff Cooksey cannot presently say “you, John Doe, should eat more
+steak and avocado to reduce your blood sugar and lose weight,” but he could make exactly that
+same statement if he were to sell steak and avocados.
+That is, prima facie, an arbitrary and irrational distinction. It is not conceivable, even under the lenient standard of rational-basis review, that salesmen with direct pecuniary interests in
+the sale of specific food or nutritional supplements have a stronger incentive to give unbiased
+advice than does Plaintiff Cooksey when he gives uncompensated advice to friends and family,
+uncompensated advice through his Dear Abby-style column, or even compensated advice to his
+life-coaching clients.16 There is no plausible explanation for this statutory distinction other than
+
+16
+
+Indeed, because the Act exempts from regulation dietary information relayed in the course of
+making a retail sale of food or dietary supplements, it appears to favor commercial over noncommercial speech, which is, in and of itself, fatal under the First Amendment. See, e.g., Metromedia, Inc. v. City of San Diego, 453 U.S. 490, 513 (1981) (plurality) (“[T]he city may not conclude that the communication of commercial information concerning goods and services connected with a particular site is of greater value than the communication of noncommercial messages”); accord Georgia Outdoor Adver., Inc. v. Waynesville, 833 F.2d 43, 45 (4th Cir. 1987)
+23
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 30 of 34
+
+the obvious one: food and nutritional supplement retailers feared being subject to the Board’s
+regulatory authority and the Legislature arbitrarily exempted these special-interest groups. The
+Supreme Court, and the Fifth, Sixth, and Ninth Circuits have recognized that economic regulations are unconstitutionally irrational when they do nothing to protect the public and simply reflect the jockeying of special interests trying to gain strategic financial advantage over the public
+and each other. Metro. Life Ins., Co. v. Ward, 470 U.S. 869, 878, 882 (1985); Greater Houston
+Small Taxicab Co. Owners Ass’n v. City of Houston, 660 F.3d 235, 240 (5th Cir. 2011); Merrifield v. Lockyer, 547 F.3d 978, 992 n.15 (9th Cir. 2008); Craigmiles v. Giles, 312 F.3d 220, 228–
+29 (6th Cir. 2002).
+The presumption of constitutionality that attends regulations subject to rational-basis review is not irrebutable and facts matter. The Supreme Court invalidates arbitrary distinctions that
+are flatly illogical,17 or supported only by an illegitimate government interest.18 The irrationality
+
+(“Metromedia held the San Diego ordinance invalid because it preferred commercial to noncommercial speech”).
+17
+
+Quinn v. Millsap, 491 U.S. 95, 108 (1989) (ability to grasp politics not logically
+connected to land ownership); Allegheny Pittsburgh Coal Co. v. County Comm’n, 488 U.S. 336,
+345 (1989) (disparities in tax rates so enormous as to be illogical); City of Cleburne v. Cleburne
+Living Ctr., 473 U.S. 432, 449–50 (1985) (home being too big not logical basis for permit denial
+when identical homes routinely granted permits); Williams v. Vermont, 472 U.S. 14, 24–25
+(1985) (encouraging Vermont residents to make in-state car purchases not logical basis for tax on
+car that Vermont resident purchased out-of-state before becoming Vermont resident); Chappelle
+v. Greater Baton Rouge Airport Dist., 431 U.S. 159 (1977) (ability to grasp politics not logically
+connected to land ownership); U.S. Dep’t of Agric. v. Moreno, 413 U.S. 528, 534 (1973)
+(stimulating the agricultural economy not logically connected to whether people in a household
+are related or unrelated); Mayer v. City of Chicago, 404 U.S. 189, 196 (1971) (if inability to pay
+is no basis to deny transcript to felony defendant, then inability to pay no logical basis for
+denying transcript to misdemeanent); Turner v. Fouche, 396 U.S. 346, 363–64 (1970) (no
+rational interest underlying property-ownership requirement for political office).
+
+18
+
+See Lawrence v. Texas, 539 U.S. 558, 578 (2003) (no legitimate interest in criminalizing
+consensual adult homosexual acts); Romer v. Evans, 517 U.S. 620, 634-35 (1996) (no legitimate
+interest in anti-gay animus); Hooper v. Bernalillo Cnty. Assessor, 472 U.S. 612, 623 (1985) (no
+24
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 31 of 34
+
+of regulatory schemes is frequently apparent only after discovery and a trial has given the plaintiff the opportunity to refute every plausible basis for a challenged law. Craigmiles, for example,
+struck down an arbitrary occupational-licensing statute only after trial revealed that no asserted
+rationale for the challenged law had a trace of plausibility. 312 F.3d at 228. Thus, even if rational-basis review applies to some or even all of Plaintiff Cooksey’s speech, he is entitled to discovery to examine the glaring irrationality in North Carolina’s dietetic licensing statute and dismissal of his claims would be inappropriate.
+Conclusion
+Plaintiff Cooksey has standing, his claims are ripe, and he has validly alleged novel questions of First Amendment law that should be decided on a fully developed factual record. The
+Board’s motion to dismiss should be denied.
+Dated: August 10, 2012.
+Respectfully submitted,
+/s/ Jeff Rowes
+Jeff Rowes*
+Paul M. Sherman*
+INSTITUTE FOR JUSTICE
+901 North Glebe Road, Suite 900
+Arlington, VA 22203
+Telephone: (703) 682-9320
+Fax: (703) 682-9321
+E-mail: jrowes@ij.org; psherman@ij.org
+*Admitted Pro Hac Vice
+
+Robert W. Shaw (N.C. State Bar No. 32923)
+WILLIAMS MULLEN
+P.O. Box 1000
+Raleigh, NC 27602
+Telephone: (919) 981-4310
+Fax: (919) 981-4300
+E-mail: rshaw@williamsmullen.com
+Local Counsel for Plaintiff
+
+Attorneys for Plaintiff
+
+legitimate interest in dividing bona fide state residents into different classes); Zobel v. Williams,
+457 U.S. 55, 64 (1982) (no legitimate interest in creating permanent classes of bona fide
+residents); Moreno, 413 U.S. at 534 (no legitimate interest in anti-hippie animus); id. at 535 &
+n.7 (“traditional morality” rationale constitutionally dubious).
+25
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 32 of 34
+
+CERTIFICATE OF SERVICE
+I HEREBY CERTIFY that on this 10th day of August, 2012, a true and correct copy of
+the foregoing PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS was
+electronically filed with the Clerk of the Court using the CM/ECF system, which will serve notification of such filing on the following Defendants:
+
+Michelle Futrell
+Chair of the North Carolina Board of Dietetics/Nutrition
+1000 Centre Green Way, Suite 200
+Cary, NC 27513
+(919) 228-6391
+Brenda Burgin Ross
+Vice Chair of the North Carolina Board of Dietetics/Nutrition
+1000 Centre Green Way, Suite 200
+Cary, NC 27513
+(919) 228-6391
+Richard W. Holden, Sr.
+Treasurer of the North Carolina Board of Dietetics/Nutrition
+1000 Centre Green Way, Suite 200
+Cary, NC 27513
+(919) 228-6391
+Kathleen Sodoma
+Secretary of the North Carolina Board of Dietetics/Nutrition
+1000 Centre Green Way, Suite 200
+Cary, NC 27513
+(919) 228-6391
+Christie Nicholson
+Member of North Carolina Board of Dietetics/Nutrition
+1000 Centre Green Way, Suite 200
+Cary, NC 27513
+(919) 228-6391
+
+26
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 33 of 34
+
+Phyllis Hilliard
+Member of North Carolina Board of Dietetics/Nutrition
+1000 Centre Green Way, Suite 200
+Cary, NC 27513
+(919) 228-6391
+Cathleen E. Ostrowski
+Member of North Carolina Board of Dietetics/Nutrition
+1000 Centre Green Way, Suite 200
+Cary, NC 27513
+(919) 228-6391
+
+/s/ Jeff Rowes
+Jeff Rowes*
+Paul M. Sherman*
+INSTITUTE FOR JUSTICE
+901 North Glebe Road, Suite 900
+Arlington, VA 22203
+Telephone: (703) 682-9320
+Fax: (703) 682-9321
+E-mail: jrowes@ij.org; psherman@ij.org
+*Admitted Pro Hac Vice
+Attorneys for Plaintiff
+Robert W. Shaw (N.C. State Bar No. 32923)
+WILLIAMS MULLEN
+P.O. Box 1000
+Raleigh, NC 27602
+Telephone: (919) 981-4310
+Fax: (919) 981-4300
+E-mail: rshaw@williamsmullen.com
+Local Counsel for Plaintiff
+
+27
+
+Case 3:12-cv-00336-MOC-DSC Document 22 Filed 08/10/12 Page 34 of 34
+
+

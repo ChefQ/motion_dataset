@@ -1,0 +1,684 @@
+Case 1:09-cv-07557-GBD-JLC Document 250
+
+UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF NEW YORK
+_____________________________________
+)
+BANK OF MONTREAL
+)
+)
+Plaintiff,
+)
+)
+v.
+)
+)
+OPTIONABLE, INC., MF GLOBAL INC.,
+)
+KEVIN P. CASSIDY, EDWARD J.
+)
+O’CONNOR, MARK A. NORDLICHT.,
+)
+RYAN B. WOODGATE, SCOTT CONNOR
+)
+and JOSEPH D. SAAB,
+)
+)
+Defendants.
+)
+_____________________________________ )
+
+Filed 11/27/13 Page 1 of 17
+
+09 – CIV – 7557 (GBD)(JLC)
+ECF Filed
+
+DEFENDANT KEVIN P. CASSIDY’S
+MEMORANDUM OF LAW
+IN OPPOSITION TO PLAINTIFF’S MOTION
+TO DISMISS ITS COMPLAINT WITHOUT PREJUDICE
+
+LAWRENCE R. GELBER
+ATTORNEY AT LAW
+THE VANDERBILT PLAZA
+34 PLAZA STREET – SUITE 1107
+BROOKLYN, NEW YORK 11238
+www.GelberLaw.net
+Phone: (718) 638 2383 Fax: (718) 857 9339
+GelberLaw@aol.com Cell: (917) 992 3596
+
+Case 1:09-cv-07557-GBD-JLC Document 250
+
+Filed 11/27/13 Page 2 of 17
+
+TABLE OF CONTENTS
+Section
+
+Page No.
+
+Table of Contents…………………………………………………….….……..….……i
+Table of Authorities …………………………………………………………...…….....ii
+INTRODUCTION…………………..………………………………………..………….1
+BACKGROUND …………………………………………………………..…………. 2
+SIGNIFICANT BACKGROUND EVENTS TO BMO’S 2007 BLOW-UP…………..……..……4
+THE EVENTS THAT CAUSED BMO’S TRADING LOSSES……………………………..… 5
+BMO LAUNCHES ITS BLAME SHIFTING STRATEGY ………………………………….. 7
+ARGUMENT ………………………………………………………………………….. 11
+CONCLUSION ………………………………………………………………………..14
+
+i
+
+Case 1:09-cv-07557-GBD-JLC Document 250
+
+Filed 11/27/13 Page 3 of 17
+
+TABLE OF AUTHORITIES
+
+CASE
+
+Page No.
+
+Bridgeport Music, Inc. v. Universal-MCA Music Publishing, Inc.,
+583 F. 3d 948 (6th Cir. 2009)....………………………….…………………...…….11
+Camilli v. Grimes, 436 F. 3d 120 (2d Cir. 2006)…………………………………...11
+Cone v. West Virginia Pulp & Paper Co.,
+330 U.S. 212, 217, 67 S.Ct. 752, 91 L.Ed. 849 (1947)……………………………11
+D'Alto v. Dahon California, Inc., 100 F.3d 281, 283 (2d Cir.1996)……………….12
+Jones v. SEC, 298 U.S. 1, 19, 56 S.Ct. 654, 80 L.Ed. 1015 (1936)……………..11
+In re Sizzler Restaurants Intern. Inc., 262 BR 811 (Br. C.D. Cal. 2001)………...13
+LeBlang Motors, Ltd. v. Suburu of Am., Inc.,
+148 F.3d 680, 685 (7th Cir. 1998)…………………………………………….……..11
+McCants v. Ford Motor Co., 781 F.2d 855, 856 (11th Cir. 1986)...……………...11
+Phillips USA, Inc. v. Allflex USA, Inc., 77 F.3d 354, 358 (10th Cir. 1996)...…....14
+Zagano v. Fordham University, 900 F.2d 12, 14 (2d Cir.1990)…………………..11, 12
+
+STATUTES
+
+RULES REGULATIONS TREATISES
+
+Federal Rules of Civil Procedure Rule Rule 41(a)(2)………………..……..…..…11
+
+ii
+
+Case 1:09-cv-07557-GBD-JLC Document 250
+
+Filed 11/27/13 Page 4 of 17
+
+INTRODUCTION
+Defendant Kevin P. Cassidy (Cassidy) opposes Plaintiff Bank of Montreal’s
+(BMO) “without prejudice” motion to dismiss its claims against him. The claims should
+be dismissed, but with prejudice, because: (1) BMO cannot prove that, notwithstanding
+his guilty plea (discussed infra), Cassidy or anyone else other than BMO itself caused
+BMO any losses, and (2) BMO brought this lawsuit1 not because it believed Cassidy
+caused its losses, but because suing Cassidy was part of a well-engineered,
+professionally designed and ultimately malicious effort to shift the blame in order to
+protect BMO and its CEO, William Downe (Downe). Because Cassidy did not cause
+BMO any loss (and no contrary evidence exists), BMO’s repeated reference to
+Cassidy’s plea deal with the Department of Justice (DOJ) is a red herring in BMO’s
+argument here.
+BMO, after being advised by Magistrate Judge Cott that it would most likely have
+to produce Downe for deposition in January, 2014 (Gelber Dec. Ex. S), and on the
+weekend before it was required to produce three witnesses for deposition, chose to fold
+its tent and go home. The reasons it propounds for its departure are patently absurd
+and to permit BMO to now withdraw without prejudice would interfere with Cassidy’s
+right to bring, if evaluation and further research permit, a claim for malicious prosecution
+as well as for other frauds just recently uncovered.
+BMO’s transparently flimsy rationale for dropping its $680 million case is that
+Cassidy cannot afford to pay the $8.6 million imposed as restitution if sustained on the
+
+1
+
+A copy of the Complaint is annexed as Exhibit A to the Declaration of Lawrence R. Gelber
+(Gelber Dec.) sworn to November 27, 2013.
+
+Case 1:09-cv-07557-GBD-JLC Document 250
+
+Filed 11/27/13 Page 5 of 17
+
+pending appeal.2 Neither the Department of Justice (DOJ) nor BMO has been able to
+demonstrate that Cassidy caused any losses to BMO3. The evidence adduced thus far
+reveals that BMO targeted Cassidy and others (Gelber Dec. Ex. M) in order to conceal
+BMO’s own deeply ingrained incompetencies (Gelber Dec. Ex. G) to protect itself from
+regulators, prosecutors and shareholder wrath, and to defraud its insurance carrier and
+ultimately this Court.
+BACKGROUND
+BMO blamed its chief natural gas (NG) derivatives trader, David Lee (Lee), for
+“large losses caused by Lee’s trading strategies”. (Compl. ¶1). BMO says Lee’s
+“exchange of options for options” (EOO) trading strategy (Compl. ¶ 82) “caused BMO to
+lose hundreds of millions of dollars.” (Compl. ¶ 87). Though Cassidy had no input into
+Lee’s supposed EOO strategy, and no contrary evidence, after 4 years of discovery,
+exists, BMO sued Cassidy not Lee.
+BMO alleged Lee falsely entered EOO trades into BMO’s books (Compl. ¶ 86),
+under the supervision of BMO employee Robert Moore (Moore), who (i) knew about
+Lee’s EOO trades, (ii) knew that Lee was falsely depicting them as profitable (iii) told
+Lee to stop and (iv) failed to report Lee to Moore’s superiors. (Compl. ¶¶ 93-95).
+Though Cassidy had no access to BMO’s books, BMO sued Cassidy not Moore.
+On or around May 23, 2007, BMO filed a Form 6K with the SEC. reporting a
+“previously announced $680 million dollar” year to date “Commodities Trading” loss.
+
+A copy of Cassidy’s “Brief for Defendant-Appellant” dated November 7, 2013, is annexed as
+Exhibit B to the Gelber Dec.
+2
+
+3
+
+Indeed, the restitution is not premised on any losses supposedly caused to BMO but rather on
+the amount of money BMO paid in brokerage commissions and bonuses to its own employee.
+
+2
+
+Case 1:09-cv-07557-GBD-JLC Document 250
+
+Filed 11/27/13 Page 6 of 17
+
+BMO’s commodities trading loss was the foreseeable culmination of years of
+defective valuation procedures, poor risk controls and inadequate supervisory systems.
+After BMO disclosed, in its 2001 annual report, a $51 million NG trading loss4 to its
+shareholders, it retained a major accounting firm (Price Waterhouse) that advised BMO
+it had serious defects in its systems. BMO ignored the advice. So, in 2003 BMO was
+sued by AEP Energy Services, Inc. (AEP)5, in connection with a $94 million dollar
+valuation discrepancy. BMO’s defective valuation procedures, which included applying
+wrong formulae, also regularly caused valuation issues with counterparties, such as
+HETCO, with whom BMO had a $5 million valuation discrepancy.6
+By early 2007, with no effective controls in place, BMO had amassed an “utterly
+gigantic” 7 mostly proprietary position of over 7.6 million NG derivatives contracts.8
+In late 2006 or early 2007, as its problems started to rise to the surface, BMO
+engaged Deloitte & Touche (Deloitte), to analyze BMO’s systems. In April, 2007,
+Deloitte rendered a non-public report: “BMO Capital Markets Commodity Risk
+Measurement, Valuation & Control Infrastructure Assessment” (the Deloitte Report)
+
+4
+
+BMO blamed the loss on its then trader Joseph Adevai. The SEC, in 2008 and again in 2012,
+alleged that BMO had fired Adevai for mismarking his book (i.e., assigning incorrect values to
+BMO’s NG portfolio); first at ¶16 of its complaint in SEC v. Lee et al. 08 Civ. 9961
+(GBD)(S.D.N.Y.) and again at ¶22 of its amended complaint filed August 14, 2012.
+5
+
+AEP Energy Services, et ano. v. Bank of Montreal 03 Civ. 00335 (JLG-NMK) (S.D. Ohio). A
+copy of the first amended complaint in the AEP case is annexed as Exhibit C to the Gelber
+Dec.
+6
+
+A copy of the email chain reflecting the HETCO valuation dispute is annexed as Exhibit D to
+the Gelber Dec.
+7
+
+A copy of the transcript of a telephone conversation between BMO employees Murray
+McIntosh and Pat Cronin as dated April 11, 2007 is annexed as Exhibit E to the Gelber Dec.
+8
+
+A copy of the first page of the draft memo from Penny Somerville to Murray McIntosh dated
+January 2007 reflecting 7,613,906 total NG contracts is annexed as Exhibit F to the Gelber Dec.
+
+3
+
+Case 1:09-cv-07557-GBD-JLC Document 250
+
+Filed 11/27/13 Page 7 of 17
+
+detailing BMO’s 40 (forty) or so deviations (six of which Deloitte deemed severe) from
+standard industry practice in the conduct, operation and valuation of BMO’s high-risk
+NG derivatives trading efforts9.
+The Deloitte Report nowhere criticized Optionable, notwithstanding the false
+stories to that effect leaked by BMO to the press. It did, however, severely critique
+BMO, noting among BMO’s deviations from industry standards: BMO’s failure to (i)
+comparatively validate recorded telephone orders with actual trade confirmations; (ii)
+use automated procedures, to upload official price data sources and instead rely on its
+Front Office to manually update pricing spreadsheets; (iii) provide sufficient
+independence to Market Risk to ensure the integrity of gathered data; (iv) include critical
+portfolio attributes such as position by book, commodity and instrument in the
+management reporting package; (v) use more than one external source of data10; (vi)
+use an adequate valuation equation or formula; (vii) account for seasonality in its
+valuations; (viii) meet prevailing industry practices for risk model testing by using a six
+non-consecutive day approach when standard minimum industry practice called for a
+thirty consecutive business day approach; among some thirty or so other deficiencies.
+SIGNIFICANT BACKGROUND EVENTS TO BMO’S 2007 BLOW-UP
+In June / July 2006, the MotherRock LP (MotherRock) hedge fund formed by
+former NYMEX executives lost some $230 million dollars trading NG derivatives. Then,
+in September 2006, in the wake of MotherRock, Amaranth Advisors LLC (Amaranth), a
+BMO client, lost a record $6.5 billion dollars trading NG derivatives.
+
+9
+
+A copy of the Deloitte Report is annexed as Exhibit G to the Gelber Dec.
+
+10
+
+This despite Cassidy’s advice to BMO to use multiple sources, as discussed, infra.
+
+4
+
+Case 1:09-cv-07557-GBD-JLC Document 250
+
+Filed 11/27/13 Page 8 of 17
+
+BMO was thus on sharp notice of the severe risks of not rectifying its defective
+systems. Nevertheless, in January, 2007, Bill Downe declined to change BMO’s
+“method for determining market” even though BMO’s Chief Risk Officer, Bob
+McGlashen, emailed Downe on January 26, 2007 to report a possible $50 million11
+“adjustment” in “Bob Moore’s book, predominantly Natural Gas.”
+In fact, instead of reducing risk, BMO, with zero input from Cassidy or
+Optionable, voluntarily chose to increase risk multifold, jumping into the breach created
+by the Mother Rock / Amaranth debacles, acquiring an unprecedented position in NG
+options, some 7.6 million open contracts12, upon information and belief the single
+largest position in global trading history, dwarfing the number of contracts that had
+contributed to the demise of Amaranth.
+THE EVENTS THAT CAUSED BMO’S TRADING LOSSES
+BMO allowed its NG derivatives portfolio to grow so large that, starting in the fall
+of 2006, BMO was losing over $1 million every single day (some days approaching $2
+million), month in and month out, due only to the passage of time; its money was
+figuratively “evaporating”; literally disappearing. BMO positioned itself to automatically
+lose $2-$3 million every 36 hours or so. The automatic loss of value in an options book
+11
+
+Email dated January 29, 2007 annexed as Exhibit H to Gelber Dec.
+
+.
+12
+
+In a New York Times report in early 2011, Warren Buffett defended Berkshire Hathaway’s use
+of derivatives, when the company had about 250 derivative contracts. “I want to know every
+contract…but I can’t do it with 23,000 that a bunch of traders are putting on.” He noted that
+when Berkshire bought General Re in 1998, General Re had 23,000 derivative contracts. “I
+could have hired 15 of the smartest people, you know, math majors, Ph.D.’s. I could have given
+them carte blanche to devise any reporting system that would enable me to get my mind around
+what exposure that I had, and it wouldn’t have worked,” he said to the government panel. “Can
+you imagine 23,000 contracts with 900 institutions all over the world with probably 200 of them
+names I can’t pronounce?” Berkshire decided to unwind the derivative deals, incurring some
+$400 million in losses. Warren Buffet could not handle 23 thousand derivatives contracts, but
+Downe and BMO believed BMO could handle 7.6 million of them.
+
+5
+
+Case 1:09-cv-07557-GBD-JLC Document 250
+
+Filed 11/27/13 Page 9 of 17
+
+is called “theta loss: or “theta erosion”. Just as water in a pot over a fire evaporates due
+to heat, the value of options in a portfolio decreases due to the passage of time. To
+carry the analogy forward, instead of turning off the heat, BMO put more water into the
+pot. “The time decay was in the range of $1-1.5MM per day over the last quarter. The
+business was unable to offset this cost of theta due to lower client flow and lower
+volatility. (A quick calculation of approximately USD1mm/day for the quarter is
+USD90mm of theta expense and explains a large portion of our trading losses.)”13
+The “utterly gigantic” (Gelber Dec. Ex. E) volume of BMO’s open contracts,
+combined with (i) BMO’s multiple deviations from industry standards as detailed in the
+Deloitte Report (Gelber Dec. Ex. G); (ii) million-dollar-a-day theta erosion (Gelber Dec.
+Ex. I), and (iii) BMO’s failure to heed Cassidy’s advice (detailed below), among
+other factors within BMO’s exclusive control, predictably resulted in BMO’s second
+major loss in seven years.
+Downe himself said the 2007 loss would have not occurred had BMO had proper
+risk controls in place. Specifically, on or around May 5, 2007, Downe wrote: “The reason
+the book is illiquid, as opposed to the market being illiquid, is it has a lot of thinly traded
+positions. It happens to be a fact and you couldn’t lose this much money by taking
+one gigantic bet if you had risk controls in place”.14 (Emphasis added). But BMO did
+not have such controls. Cassidy not telling BMO that the accurate month-end sample
+
+13
+
+A copy of the Draft Commodities Brief, written by Penny Somerville on or around April 21,
+2007, is annexed as Exhibit I to the Gelber Dec.
+14
+
+Email dated May 5, 2007 from William Downe to Andy Plews is annexed as Exhibit J to the
+Gelber Dec.
+
+6
+
+Case 1:09-cv-07557-GBD-JLC Document 250
+
+Filed 11/27/13 Page 10 of 17
+
+quotes Optionable was testing in the market originated with Lee was irrelevant to BMO’s
+losses.
+Moreover, BMO knew, without needing to be told by Cassidy, that the quotes
+originated with Lee. ”Some of Optionable quotes come from BMO….”15 And even more
+pointedly: “The current practice of collecting quotes from other broker’s is not
+independent as we go through the trader to obtain them.”16 (Emphasis added).
+After BMO announced its loss, the Canadian press questioned the competence
+and risk management capabilities of BMO and particularly Downe.
+For example, on May 18, 2007, Canadian Banks & Insurance wrote:
+This is not life-threatening for a bank that earned $2.7-billion in profit last
+year, but its credibility is on life support. The crisis exposes a
+disconnect between its reputation as the safe, cautious bank among
+Canada’s Big Five and internal practices. And it happened in the
+division Mr. Downe used to head, capital markets. Given the size of
+the losses, some believe they build up over many months. “The absolute
+size of the estimated commodity trading losses far exceeds the bank’s
+average market value exposure to commodities risk, is disproportionate to
+its total trading revenues, and does not reflect BMO’s stated strategy of
+being a low-risk bank,” credit rating agency Standard & Poor’s said in a
+note. [Emphasis provided].
+
+Evidently fearful of the truth being exposed by the press, BMO hired Dan Klores
+Communications LLC (DKC), a public relations firm, to implement a “strategy of
+assigning blame to Optionable” using “off the record tactics”17 to manipulate Canadian
+newspapers, such as the Financial Post and the Globe and Mail, to issue false leaks to
+
+15
+
+Handwritten notes of Penny Somerville dated February 2, 2007, are annexed as Exhibit K to
+the Gelber Dec.
+16
+
+A copy of the email from Murray McIntosh to Eric Tripp April 5, 2007 is annexed as Exhibit L
+to the Gelber Dec.
+17
+
+The Memorandum dated May 18, 2007 from DKC is annexed as Exhibit M to the Gelber Dec.
+
+7
+
+Case 1:09-cv-07557-GBD-JLC Document 250
+
+Filed 11/27/13 Page 11 of 17
+
+the press and make false allegations, to perpetrate a cover-up of BMO’s exclusive
+responsibility for the claimed 2007 losses and scapegoat Optionable and Cassidy. For
+example:
+a.
+
+BMO falsely leaked that the Deloitte Report was critical of
+Optionable, when it was not; it was critical only of BMO;
+
+b.
+
+BMO falsely said that the “reliability” of quotes from Optionable was
+in question, when the quotes were unquestionably reliable;
+
+c.
+
+BMO falsely asserted that a “multiple contributor” source of monthly
+quotes – Totem – showed vastly inconsistent quotes from those
+provided by Optionable, even though, according to an from the
+Director of Totem Commodities Tom Charlesworth to Murray
+McIntosh at BMO18 there was no material difference when an
+“apples to apples” comparison was made;
+
+d.
+
+BMO falsely and maliciously leaked that Cassidy discouraged BMO
+from checking sources other than Optionable for month-end data
+points when the well-documented opposite was true – Cassidy told
+BMO manager Murray McIntosh (McIntosh) to use additional
+sources19 and not rely exclusively on Optionable. Cassidy’s advice
+was known and acknowledged by BMO’s risk officer, Penny
+Somerville.20
+
+The “story” concocted by BMO was: (i) BMO sought end of the month market
+data about a miniscule portion of its NG book (ii) BMO wanted these end of month data
+to be “independent” of data provided by Lee, as supervised by Moore, (iii) BMO lost its
+shirt because Cassidy did not tell BMO that the data Optionable circulated in the market
+was not independent as it originated with BMO through Lee, and (iv) Cassidy prevented
+BMO’s compliance department, risk management department, accounting department
+18
+
+A copy of the Totem email to BMO dated February 9, 2007 is annexed as Exhibit N to the
+Gelber Dec.
+19
+
+See page 11 of Murray McIntosh’s “302”, annexed as Exhibit O to the Gelber Dec.
+
+20
+
+Email from Somerville to herself dated January 31, 2007, annexed as Exhibit P to the Gelber
+Dec.
+
+8
+
+Case 1:09-cv-07557-GBD-JLC Document 250
+
+Filed 11/27/13 Page 12 of 17
+
+and its various oversight teams from doing their jobs by discouraging BMO from getting
+data from sources other than Optionable.
+BMO’s story was and remains preposterous because:
+(i)
+
+BMO had daily access to actual market data from NYMEX beyond
+the reach of Optionable and, though obligated by GAAP to use
+daily NYYMEX data, did not;
+
+(ii)
+
+BMO risk department personnel always knew that the month-end
+data provided by Optionable could not be and was not independent.
+In fact, Jeff Wang in BMO’s market risk department emailed Murray
+McIntosh on December 7, 2006, observing: “about segregating
+BMO quotes from the non-BMO quotes [t]here is no direct way to
+do it”21; (Emphasis provided).
+
+(iii)
+
+BMO knew (a) that “some of Optionable quotes come from BMO”
+(Gelber Dec. Ex. K) and (b) that the quotes were also “not
+independent as we go through the trader to obtain them”
+(Gelber Dec. Ex. L); and
+
+(iv)
+
+Cassidy directly and unequivocally told BMO to use additional
+sources for month-end data. (Gelber Dec. Exhibit P)
+
+In fact the accurate data provided by Optionable to BMO, alerted BMO to over
+$225 million in discrepancies on BMO’s books relative to BMO’s own faulty valuations22,
+as follows:.
+Month
+
+Lee’s Overvaluation As
+Indicated by Optionable’s Quotes
+
+September
+October
+November
+December
+January
+February
+March
+
+$23,571,496
+$12,197,079
+$30,468,147
+$17,561,005
+$32,378,758
+$29,102,654
+$83,835,810
+
+TOTAL
+
+$229,100,000
+
+21
+
+A copy of this email is annexed as Exhibit Q to the Gelber Dec.
+
+22
+
+As fully discussed in the Appellate Brief, Gelber Dec. Ex. B.
+
+9
+
+Case 1:09-cv-07557-GBD-JLC Document 250
+
+Filed 11/27/13 Page 13 of 17
+
+BMO’s fictional account began to unravel and the DOJ, despite its vast
+investigative power, was unable to identify any evidence that Cassidy ever provided
+false or inaccurate data to BMO, or that Cassidy caused BMO to lose any money.
+Accordingly, the DOJ repeatedly, over the course of three years, reduced the BMO-fed
+false accusations, superseding a six-count indictment with two different four-count
+indictments, which eliminated the false accusations about transmitting inaccurate
+quotes to BMO23, until it minimized its charges against Cassidy on the eve of trial and
+settled with Cassidy in exchange for a plea to a single count information charging
+conspiracy with Lee to commit wire fraud.
+Cassidy’s allocution also reflected the accuracy of the information transmitted:
+In the fall of 2006, I arranged for my company Optionable to develop a
+service called RealMarks, which was designed to provide market quotes
+concerning natural gas option contracts. From September 2006 to April
+2007, this service provided market quotes to the risk management
+department of Bank of Montreal. While I believed that the RealMarks
+quotes provided to BMO were legitimate, most of the quotes that
+RealMarks provided to Bank of Montreal's risk management department
+originated with Bank of Montreal's own trader David Lee. I agreed with Lee
+that on month end days he would provide Optionable with the quotes,
+Optionable would make an effort to show the quotes to other traders in the
+market, and then at the end of the day, Optionable would send quotes to
+Bank of Montreal's risk management department. Although I understood
+that BMO's risk management department wanted quotes that were not
+contributed to RealMarks by Lee and felt it was an important factor, I did
+not tell the risk management department that many of the quotes had
+originated with Lee. I knew this was wrong at the time.
+THE COURT: Does the government agree that that is a sufficient
+allocution?
+MS. BERMAN: Yes, your Honor, we agree.
+
+23
+
+Even the CFTC acknowledged that “We are not alleging nor do we believe we have to allege
+that what Lee was providing them was inaccurate.” Portion of transcript of oral argument held
+October 22, 2009, is annexed as Exhibit R to the Gelber Dec.
+
+10
+
+Case 1:09-cv-07557-GBD-JLC Document 250
+
+Filed 11/27/13 Page 14 of 17
+
+The tragic irony of this case is that Cassidy pleaded guilty to failing to tell BMO
+what it already knew. But the reality of the matter, based on uncontroverted
+documentary evidence, is that BMO was fully responsible for its own losses and that it
+engineered an insidious campaign to destroy lives and businesses in order to protect
+itself and William Downe.
+In sum, none of BMO’s allegations in the complaint are supported by the
+evidence, all of which fairly well points to a maliciously prosecute Cassidy for the
+nefarious purpose of hiding its own embarrassing incompetencies.
+
+ARGUMENT
+“A Rule 41(a)(2) dismissal may be conditioned on whatever terms the district
+court deems necessary to offset the prejudice the defendant may suffer from a
+dismissal without prejudice.” Bridgeport Music, Inc. v. Universal-MCA Music Publishing,
+Inc., 583 F. 3d 948 (6th Cir. 2009). See also, LeBlang Motors, Ltd. v. Suburu of Am.,
+Inc., 148 F.3d 680, 685 (7th Cir. 1998); McCants v. Ford Motor Co., 781 F.2d 855, 856
+(11th Cir. 1986).
+BMO relies on Camilli v. Grimes, 436 F. 3d 120 (2d Cir. 2006), which observes:
+“This Court reviews a decision to dismiss without prejudice pursuant to
+Fed. R.Civ.P. 41(a)(2) for abuse of discretion. See Zagano v. Fordham
+University, 900 F.2d 12, 14 (2d Cir.1990). Two lines of authority have
+developed with respect to the circumstances under which a dismissal
+without prejudice might be improper. One line indicates that such a
+dismissal would be improper if "the defendant would suffer some plain
+legal prejudice other than the mere prospect of a second lawsuit." Cone v.
+West Virginia Pulp & Paper Co., 330 U.S. 212, 217, 67 S.Ct. 752, 91 L.Ed.
+849 (1947); see Jones v. SEC, 298 U.S. 1, 19, 56 S.Ct. 654, 80 L.Ed.
+1015 (1936). Another line indicates that the test for dismissal without
+prejudice involves consideration of various factors, known as the Zagano
+factors, including (1) the plaintiff's diligence in bringing the motion, (2) any
+
+11
+
+Case 1:09-cv-07557-GBD-JLC Document 250
+
+Filed 11/27/13 Page 15 of 17
+
+undue vexatiousness on the plaintiff's part, (3) the extent to which the suit
+has progressed, including the defendant's efforts and expense in
+preparation for trial, (4) the duplicative expense of relitigation, and (5) the
+adequacy of the plaintiff's explanation for the need to dismiss. See D'Alto
+v. Dahon California, Inc., 100 F.3d 281, 283 (2d Cir.1996); Zagano, 900
+F.2d at 14.”
+
+BMO here argues the five so-called Zagano factors, set forth above.
+First, BMO argues it brought this motion “promptly” after settling with the other
+defendants. BMO actually filed this motion before it settled with the other defendants,
+but did so after four years of litigation, which itself was not commenced until two years
+after others filed various suits and claims arising out of BMO’s supposed harm. In fact,
+by the time BMO sued, the statute of limitations had run on any possible federal
+securities fraud claims.
+Second, BMO argues it had no ill motive in bringing the lawsuit. This argument is
+premised on a falsehood, as the documents annexed to the accompanying Gelber Dec.
+readily demonstrate. Notwithstanding Cassidy’s guilty plea, BMO never suffered losses
+from any act or omission of Cassidy, and nobody, certainly not the DOJ (Gelber Dec.
+Ex. B) has been able to show that the conduct to which Cassidy allocuted caused BMO
+any loss.
+BMO’s losses were caused by (i) ignoring Cassidy’s advice to get month-end
+data from more than one source, (ii) by deviating in approximately 40 ways from
+industry standards, (Gelber Dec, Ex. G) (iii) by refusing to consider changes to its
+methodologies, even when facing a $50 million loss, (Gelber Dec. Ex. H) and (iv) by
+putting on such a large position that it was losing over $1 million dollars every day
+simply by time deterioration (Gelber Dec. Ex. I). There is no evidence to the contrary.
+
+12
+
+Case 1:09-cv-07557-GBD-JLC Document 250
+
+Filed 11/27/13 Page 16 of 17
+
+Third. Cassidy noticed the deposition of Downe, and BMO opposed it, resulting in
+a conference before Magistrate Judge Cott in which he indicated that BMO would likely
+have to produce Downe in January.24 On the weekend before BMO was to produce
+three other witnesses for depositions by the defendants, BMO, not wanting the truth to
+emerge, “promptly” pushed for settlements, not yet executed, and made this motion.
+Cassidy was preparing to move to amend his second affirmative defense – in
+pari delicto – in order to outline for the court BMO’s misconduct.25 Cassidy to the best
+of his hobbled ability has acted as aggressively as he could in connection with this
+litigation and would clearly be prejudiced by a “without prejudice” dismissal.
+Fourth, there would not likely be duplicative costs, but it would be more
+expensive to gear up for a second litigation.
+Fifth, while Cassidy has no economic ability to bear any judgment against him,
+assuming he would lose, it was equally true at the beginning of this case that he was
+not able to economically bear a judgment of $680 million. Right now, BMO is entitled to
+nothing. The restitution imposed against Cassidy is under appeal. (Gelber Dec. Ex. B).
+BMO’s actions were malicious and it brought this case for multiple improper
+purposes, as detailed above. Cassidy has the right to sue for malicious prosecution.
+That right is impaired by a “without prejudice” dismissal. Under such circumstances, the
+Court would be within its discretion to direct dismissal with prejudice. In re Sizzler
+Restaurants Intern. Inc., 262 BR 811 (Br. C.D. Cal. 2001).
+
+24
+
+Transcript of proceedings before Magistrate Cott on October 30, 2013 annexed as Exhibit S
+to the Gelber Dec.
+25
+
+The draft of the proposed amendment to Cassidy’s second affirmative defense – in pari
+delicto - is annexed as Exhibit T to the Gelber Dec.
+
+13
+
+Case 1:09-cv-07557-GBD-JLC Document 250
+
+Filed 11/27/13 Page 17 of 17
+
+Because BMO’s claim here is a claim for money damages, and because BMO
+cannot prove that Cassidy caused it any losses, BMO also could lose on the merits here
+at trial. And clearly, an attempt to avoid an adverse decision on the merits may also
+constitute legal prejudice. See, Phillips USA, Inc. v. Allflex USA, Inc., 77 F.3d 354, 358
+(10th Cir. 1996).
+Accordingly, the claims should be dismissed with prejudice as to Cassidy.
+CONCLUSION
+BMO’s claims should be dismissed with prejudice and the court should award
+such other and further relief as it deems just and equitable.
+Dated:
+
+Brooklyn, New York
+November 27, 2013
+
+Respectfully submitted,
+
+Lawrence R. Gelber
+Lawrence R. Gelber
+Attorney at Law
+The Vanderbilt Plaza
+34 Plaza Street, Suite 1107
+Brooklyn, NY 11238
+T:
+718-638-2383
+F:
+718-857-9339
+GelberLaw@aol.com
+Attorney for Defendant Kevin P. Cassidy
+
+14
+
+

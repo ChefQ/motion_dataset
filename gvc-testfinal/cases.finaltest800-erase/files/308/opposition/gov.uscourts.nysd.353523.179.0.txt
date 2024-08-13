@@ -1,0 +1,795 @@
+Case 1:09-cv-08811-JSR Document 179
+
+Filed 01/05/11 Page 1 of 24
+
+John M. Dowd (admitted pro hac vice)
+Terence J. Lynam (admitted pro hac vice)
+William E. White (admitted pro hac vice)
+Akin Gump Strauss Hauer & Feld LLP
+1333 New Hampshire Ave, NW
+Washington, DC 20036
+(202)887-4000
+Robert H. Hotz, Jr. (RH-4456)
+Akin Gump Strauss Hauer & Feld LLP
+One Bryant Park
+New York, NY 10036
+(212)872-1000
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+SECURITIES AND EXCHANGE COMMISSION
+Plaintiff,
+v.
+GALLEON MANAGEMENT, LP, et al.
+Defendants.
+
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+
+No. 09-CV-8811-JSR
+ECF CASE
+
+DEFENDANT RAJARATNAM’S MEMORANDUM OF LAW IN SUPPORT OF ITS
+OPPOSITION TO PLAINTIFF’S RENEWED MOTION TO COMPEL PRODUCTION
+OF RELEVANT, LEGALLY OBTAINED
+WIRETAPPED COMMUNICATIONS
+
+Case 1:09-cv-08811-JSR Document 179
+
+Filed 01/05/11 Page 2 of 24
+
+TABLE OF CONTENTS
+
+I.
+
+INTRODUCTION..............................................................................................................1
+
+II.
+
+ARGUMENT ......................................................................................................................4
+A.
+
+III.
+
+Relevancy Determinations Need Not Be Made At This Time ............................4
+1.
+
+The Impending Criminal Trial Will Greatly Assist This Court’s
+Review of the Wiretapped Communications ...........................................4
+
+2.
+
+The SEC Would Suffer No Significant Prejudice ...................................6
+
+B.
+
+The Privacy Interests at Stake Continue to Outweigh the SEC’s Right
+of Access ..................................................................................................................7
+
+C.
+
+The SEC Request for Wiretapped Communications is Overbroad and
+Seeks Irrelevant Materials to Which it is Not Entitled.....................................10
+
+D.
+
+The SEC is Not Entitled to apply a Double-Standard Regarding the
+Scope of Discovery ...............................................................................................13
+
+CONCLUSION ................................................................................................................17
+
+i
+
+Case 1:09-cv-08811-JSR Document 179
+
+Filed 01/05/11 Page 3 of 24
+
+TABLE OF AUTHORITIES
+Page(s)
+CASES
+Fleming v. United States,
+547 F.2d 872, 875 (5th Cir. 1977)……..……………………………………………..…..14
+Griffin v. United States,
+588 F.2d 521, 526 (5th Cir. 1979)……..………………………………………….……...14
+Guan Ming Lin v. Benihana Nat’l Corp.,
+No. 10 Civ 1335, 2010 WL 4007282 *3(S.D.N.Y. Oct. 5, 2010)……..……………..…..13
+In re IBM Corp. Sec. Litig.,
+163 F.3d 102, 111 (2d Cir. 1998)………………………………………………………...16
+In re New York Times,
+828 F.2d 110, 116 (2d Cir. 1987)…………………………………………………….7, 8, 9
+Resolution Trust Corp. v. Grant Thornton,
+41 F.3d 1539, 1548 (D.C. Cir. 1994)……………………………………………..……...15
+Seattle Times Co. v. Rhinehart,
+467 U.S. 20, 35 (1984)……………………………………………………………..……..9
+SEC v. Dorozhko,
+606 F. Supp.2d 321, 327 (S.D.N.Y. 2008)……………………………………………….15
+SEC v. Management Dynamics, Inc.,
+515 F.2d 801, 808 (2d Cir. 1975)………………………………………………………..15
+SEC v. Rajaratnam,
+622 F.3d 159, 181, 182, 184, 185, 186, 187 (2d Cir. 2010) ………….……….…....passim
+Segan v. Dreyfus Corp.,
+513 F.2d 695, 696 (2d Cir. 1975)……………………………………………………13, 16
+Spatafore v. United States,
+752 F.2d 415, 416-17 (9th Cir. 1985)………………………………………………...…..14
+United States v. Procter & Gamble,
+356 U.S. 677, 681 (1958)………………………………………………………………...16
+United States v. Rural Elec. Convenience Cooperative Co.,
+922 F.2d 429. 440 (7th Cir. 1991)………………………………………………………..15
+ii
+
+Case 1:09-cv-08811-JSR Document 179
+
+Filed 01/05/11 Page 4 of 24
+
+Weinstein v. Erenhaus,
+119 F.R.D. 355, 357 (S.D.N.Y. 1988)……………………………………………………11
+
+OTHER AUTHORITIES
+Fed. R. Civ. P. 26(b)(1)…………………………………………………………………………..13
+
+iii
+
+Case 1:09-cv-08811-JSR Document 179
+
+I.
+
+Filed 01/05/11 Page 5 of 24
+
+INTRODUCTION
+Defendant Raj Rajaratnam respectfully submits this opposition to the Securities and
+
+Exchange Commission’s renewed motion to compel production of wiretapped communications.
+Mr. Rajaratnam’s criminal trial is scheduled to commence on February 28, 2011 – only five
+weeks after the hearing date of this motion.1 The trial is expected to last at least two months. In
+the criminal case, the Government has accused Mr. Rajaratnam of insider trading or conspiracy
+to commit insider trading in 33 stocks. During the course of the criminal trial, Mr. Rajaratnam
+anticipates that the Government will seek to utilize a substantial number of wiretapped
+communications relevant to this civil case as part of its case in chief. Moreover, Mr. Rajaratnam
+may also seek to utilize relevant wiretapped communications during cross examination in the
+Government’s case or otherwise.
+Thus, the relevance and context of many (if not most) of the intercepted communications
+at issue in the SEC civil case will be litigated and tested before Judge Holwell in the criminal
+case in a matter of weeks. As a result, Mr. Rajaratnam reiterates his request that the wiretapped
+communications not be produced until the criminal case has concluded.
+Such an adjournment or stay was contemplated by the Second Circuit in its decision
+granting Mr. Rajaratnam’s request for mandamus relief. The Second Circuit stated:
+
+1
+
+On November 24, 2010, the Honorable Richard J. Holwell granted Mr. Rajaratnam’s
+motion to sever the criminal cases of Mr. Rajaratnam and Defendant Danielle Chiesi. By order
+dated December 9, 2010, Judge Holwell set the Rajaratnam criminal trial to commence on
+February 28, 2011 followed immediately by the Chiesi criminal trial which will commence on
+April 25, 2011.
+1
+
+Case 1:09-cv-08811-JSR Document 179
+
+Filed 01/05/11 Page 6 of 24
+
+Were the civil trial adjourned, the most relevant wiretapped
+communications . . . might well be publicly disclosed at the
+criminal trial, and the SEC would then be able to use these
+materials in a civil proceeding without implicating any weighty
+privacy rights. Such an adjournment would have the added benefit
+of making the district court’s job of balancing any relevant
+interests significantly easier.
+SEC v. Rajaratnam, 622 F.3d 159, 186 (2d Cir. 2010).
+The relief envisioned by the Second Circuit is appropriate here. First and foremost, the
+relevance and privacy questions at issue in the SEC’s renewed motion (and discussed below) will
+be more fully developed shortly in the criminal case. As a result, and as suggested by the Second
+Circuit, this Court’s task in weighing privacy interests and considering relevancy will be made
+substantially easier with this full record (including sworn testimony from many of the
+participants in those communications) once that record has been developed in the criminal case.
+Second, the SEC will suffer no significant prejudice in waiting until Mr. Rajaratnam’s
+criminal trial since it will commence in five weeks. The SEC will gain access to the wiretapped
+materials as they are admitted into evidence and placed on the public record (obviating the need
+for any determination by this Court). Mr. Rajaratnam will also undertake to produce relevant but
+non-admitted wiretapped communications to the SEC no later the conclusion of the criminal trial
+without the need for judicial intervention. 2 Moreover, to the extent that there remains a dispute
+as to whether certain communications should be produced, this Court will have the benefit of a
+fully developed record in the criminal case in order to reach its relevance and privacy
+determinations. Finally, only five of the ten stocks charged in the SEC’s Second Amended
+2
+
+The parties dispute which communications are relevant to this action. As set forth
+below, Mr. Rajaratnam believes that the SEC’s formulation of relevance is overbroad, contradicts
+their representations to the Second Circuit, and contradicts their conduct in this case. Mr.
+Rajaratnam maintains that wiretapped communications are relevant if they concern the stocks
+charged by the SEC in its Amended Complaint. Those intercepted communications total
+approximately 240 conversations.
+2
+
+Case 1:09-cv-08811-JSR Document 179
+
+Filed 01/05/11 Page 7 of 24
+
+Complaint have relevant wiretapped communications. The conversations related to those stocks
+number approximately 240. The SEC will have ample time to review those conversations during
+the course of, and at the conclusion of, the criminal trial.
+Under these circumstances, the Court should refrain from ordering the production of
+relevant wiretapped communications until the conclusion of the criminal trial.
+To the extent that the Court reaches the merits of the SEC’s motion, the privacy interests
+involved continue to outweigh whatever right of access the SEC might have. Contrary to the
+SEC’s position, Judge Holwell’s denial of Mr. Rajaratnam’s motion to suppress does not
+eliminate the privacy concerns that permeate the Second Circuit’s opinion in this matter. As that
+court recognized, Mr. Rajaratnam continues to have a privacy interest in the intercepted
+communications, particularly here, where they are not yet and may never be part of the public
+record. Also at stake are the privacy interests of innocent third parties who are not before the
+Court, as well as Mr. Rajaratnam’s constitutional right to a fair trial in the criminal case. The
+Second Circuit has repeatedly instructed that district courts must be vigilant in protecting these
+rights.
+Moreover, the SEC’s definition of relevant is severely overbroad. The SEC’s sevencategory request of “relevant” information is really a thinly disguised request for virtually all of
+the intercepted communications. Such a request far exceeds what is permissible even under the
+basic rules of discovery, let alone a request for wiretapped communications, which requires that
+the Court conduct a balancing of the interests at stake. The SEC ignores this fact, and also
+ignores that Judge Holwell’s denial of Mr. Rajaratnam’s motion to suppress addressed only the
+arguments regarding suppression, and made no relevancy determinations as to any of the
+intercepted communications. There is nothing alleged in this case that has not also been alleged
+
+3
+
+Case 1:09-cv-08811-JSR Document 179
+
+Filed 01/05/11 Page 8 of 24
+
+in the criminal case. Thus, the SEC has no legitimate claim to broader discovery than that which
+is received into evidence in the criminal case, particularly here, where its request seeks irrelevant
+communications and unnecessarily implicates privacy interests that outweigh any purported right
+to the communications. The request also contradicts the SEC’s own representation to the Second
+Circuit regarding what it deems relevant and the position that it has previously taken on issues of
+relevance pertaining to the discovery requests of other parties. The SEC’s request is nothing
+other than investigation disguised as discovery, despite Your Honor’s recognition at the very first
+status conference in this case that the time for investigation was over, and that the SEC brought a
+lawsuit because it was prepared to go forward. It is now obvious that the SEC’s assurance at that
+time that it was prepared to go forward was an empty assurance, but that is a basis for denying its
+request, not granting it.
+For these reasons, the SEC’s motion should be denied at least until the conclusion of the
+criminal trial.
+II.
+
+ARGUMENT
+A. Relevancy Determinations Need Not Be Made At This Time
+1. The Impending Criminal Trial Will Greatly Assist This Court’s Review of the
+Wiretapped Communications
+The SEC’s motion and its request for immediate production of the wiretapped
+
+communications place the Court in a difficult position. In its opinion, the Second Circuit
+charged the Court with determining which wiretapped communications are relevant to this
+lawsuit and balancing competing privacy interests. Rajaratnam, 622 F.3d at 184. Yet absent
+factual discovery or a comprehensive review of the thousands of wiretapped communications,
+the Court is left largely to rely on the parties’ papers to reach its conclusions. If this civil case
+were being conducted alone and in isolation, the Court may have to follow such a path.
+4
+
+Case 1:09-cv-08811-JSR Document 179
+
+Filed 01/05/11 Page 9 of 24
+
+But in its opinion, the Second Circuit offered an alternative:
+Were the civil trial adjourned, the most relevant wiretapped
+communications . . . might well be publicly disclosed at the
+criminal trial, and the SEC would then be able to use these
+materials in a civil proceeding without implicating any weighty
+privacy rights. Such an adjournment would have the added benefit
+of making the district court’s job of balancing any relevant
+interests significantly easier.
+Rajaratnam, 622 F.3d at 186.
+Mr. Rajaratnam’s criminal trial is set to commence on February 28, 2011, just five weeks
+from the date of the hearing on this motion. As set forth above, in the criminal case, the
+Government has charged Mr. Rajaratnam with insider trading or conspiracy to commit insider
+trading in 33 stocks. By contrast, the SEC’s Amended Complaint charged Mr. Rajaratnam with
+insider trading in ten stocks, only five of which have wiretapped communications. Each of the
+five stocks charged in this case that have relevant wiretapped communications are also charged
+in the criminal case. In other words, there is a complete overlap between the stocks charged in
+this case that have wiretapped communications and the criminal case.
+Mr. Rajaratnam anticipates that the Government will seek to utilize the relevant
+wiretapped communications related to those five stocks in its case in chief. Mr. Rajaratnam may
+also utilize relevant wiretapped communications related to those five stocks as part of his cross
+examination of witnesses in the Government’s case or otherwise.
+The process of those conversations being offered into evidence will directly impact the
+determinations that this Court is required to make in a number of ways. First, to the extent that
+wiretapped communications are admitted into evidence and placed on the public record, the
+conversations would be available to the SEC without the need for any judicial determination.
+Second, to the extent that relevant wiretapped communications are not placed into evidence, Mr.
+Rajaratnam undertakes to produce those to the SEC no later than the conclusion of the criminal
+5
+
+Case 1:09-cv-08811-JSR Document 179
+
+Filed 01/05/11 Page 10 of 24
+
+trial. Mr. Rajaratnam believes that these two actions will likely result in the production of all of
+the relevant wiretapped communications to the SEC. To the extent that there remains a dispute
+over certain specific conversations, this Court will then have the advantage of the context and
+factual discovery that will occur on the record in the criminal case. Many of the participants in
+these calls will testify at the criminal trial and the Court will be in a better position to reach
+determinations of relevance and privacy with this information in hand.
+This approach would preserve judicial resources, the defendants’ resources, and the
+public resources that the SEC is expending in its premature attempt to obtain the intercepted
+communications.
+2. The SEC Would Suffer No Significant Prejudice
+Mr. Rajaratnam’s criminal trial will commence in just five weeks from the date of the
+hearing on this motion. The SEC simply will not suffer significant prejudice in waiting until the
+criminal trial for the wiretapped communications. There is little doubt that the SEC will be
+closely following the criminal trial. As wiretapped conversations are admitted into evidence and
+placed on the public record, they will be available to the SEC. The SEC would then have those
+communications before the conclusion of the criminal trial, indeed in many cases before the
+conclusion of the Government’s case. Additionally, Mr. Rajaratnam will undertake to produce
+the remaining relevant wiretapped communications to the SEC no later than the conclusion of the
+criminal case. The number of relevant wiretapped communications is not voluminous, totaling
+approximately 240 conversations.3 The SEC will suffer no prejudice in receiving the bulk of
+
+3
+
+The two wiretaps relevant to the allegations made in the SEC’s Second Amended
+Complaint are the wiretaps placed on Mr. Rajaratnam’s cellular phone from March 10, 2008
+through December 6, 2008 and telephone lines belonging to Danielle Chiesi, which were
+intercepted between August 14, 2008 and October 11, 2008. While a total of 6,479 telephone
+conversations were intercepted by these wiretaps, approximately 240 intercepted
+6
+
+Case 1:09-cv-08811-JSR Document 179
+
+Filed 01/05/11 Page 11 of 24
+
+these communications during the criminal trial and the remainder no later than the end of the
+criminal trial.
+B. The Privacy Interests at Stake Continue to Outweigh the SEC’s Right of Access
+As the Second Circuit instructed, even if this Court makes relevancy determinations, it
+cannot order production before balancing the SEC’s right of access against the privacy interests
+at issue. Rajaratnam, 622 F.3d at 181, 182 (privacy interests at issue dictate that SEC’s right of
+access is “not absolute”). At this point in the proceedings, the privacy interests at stake continue
+to outweigh the SEC’s right of access.
+As an initial matter, Judge Holwell’s finding that the communications at issue were
+lawfully intercepted does not, as the SEC suggests, “eliminate” the privacy concerns that
+underlie the Second Circuit’s opinion in this matter. See Pl.’s Mem. of Law in Support of Its
+Renewed Motion to Compel Production of Relevant, Legally Obtained Wiretapped
+Communications (“Br.”) at 11. To the contrary, nowhere does the Second Circuit state that such
+concerns, including concerns for Mr. Rajaratnam’s privacy, would be eliminated if Judge
+Holwell denied Mr. Rajaratnam’s motion to suppress. Instead, the Second Circuit made clear
+that “the evident desire of Congress to limit disclosures of the fruits of even lawful wiretapping[]
+must be weighed carefully before discovery is ordered.” 622 F.3d at 185 (emphasis added). That
+observation is entirely consistent with that court’s prior jurisprudence, which recognizes that
+privacy interests remain even after denial of a motion to suppress. See In re New York Times,
+828 F.2d 110, 116 (2d Cir. 1987) (commending district court that denied motion to suppress for
+its continuing concern with protecting Title III privacy rights of defendants and others). Here,
+
+communications relate to only five of the ten stock allegations that the SEC made with respect to
+Mr. Rajaratnam – Akamai, AMD, Clearwire, eBay, and PeopleSupport. The other five stocks
+identified by the SEC do not have relevant wiretapped communications.
+7
+
+Case 1:09-cv-08811-JSR Document 179
+
+Filed 01/05/11 Page 12 of 24
+
+the SEC’s request encompasses communications having nothing to do with the charged conduct.
+The SEC cannot plausibly claim that Mr. Rajaratnam has no cognizable privacy interest in such
+irrelevant communications.
+As the Second Circuit further noted in New York Times, the “job of protecting such
+[privacy] interests rests heavily upon the shoulders of the trial judge, since all the parties who
+may be harmed by disclosure are typically not before the court.” Id. That language is equally
+applicable here. The SEC has demanded that Mr. Rajaratnam produce each and every
+communication concerning a public company or its stock, as well as communications “between,
+among or concerning any sources of information about public companies” and concerning “any
+trades made, directed, discussed or recommended by any of said defendants or their affiliates.”
+Br. at 12. By their inclusion of undefined and potentially limitless terms such as “sources of
+public information” or “affiliates,” these requests most likely encompass communications with
+innocent third parties who have not been charged with any wrongdoing and are not before the
+Court. It is those parties for whom the Second Circuit expressed the utmost concern. See
+Rajaratnam, 622 F.3d at 187 (noting that disclosure of such irrelevant conversations would
+infringe privacy rights of “hundreds of individuals . . . without furthering any legitimate
+countervailing interest”).
+Furthermore, the SEC fails to acknowledge that any intercepted communications
+produced to it will also have to be produced to any other defendant who requests them. No
+protective order can fully guarantee that there will be no further disclosure. Now, on the eve of
+Mr. Rajaratnam’s criminal trial, his constitutional right to a fair trial merits maximum protection.
+See In re New York Times, 828 F.2d at 116 (discussing the importance of considering defendant’s
+fair trial rights prior to ordering disclosure of Title III materials).
+
+8
+
+Case 1:09-cv-08811-JSR Document 179
+
+Filed 01/05/11 Page 13 of 24
+
+Nor have privacy concerns been eliminated because there has been, as the SEC asserts, “a
+substantial public disclosure in criminal charging documents of key intercepted conversations by
+defendants” and “these intercepted conversations have received widespread publication in the
+national and international media.” Br. at 21. In other words, the SEC’s response to the many
+unlawful and grievous violations of Mr. Rajaratnam’s privacy rights and those of others is to
+compound those violations with further violations, such as the SEC’s extensive quotation of Title
+III materials in its brief. Br. at 15-17. Allowing further infringement of privacy interests is not
+the procedure endorsed by the Second Circuit in New York Times, 828 F.2d at 116, where the
+court recognized that defendants’ privacy interests merited protection even after much of the
+Title III material at issue had been publicized.
+Finally, the SEC asserts, without any support, that privacy concerns are “diminished”
+here because “most” of the communications sought are business-related, rather than personal.
+The Federal Rules make no distinction between various forms of communications, and thus
+district courts must be vigilant in protecting litigants and third parties from discovery that
+implicates their privacy rights, no matter what type of information is at issue. See Seattle Times
+Co. v. Rhinehart, 467 U.S. 20, 35 (1984) (declaring that the “Rules do not distinguish between
+public and private information” and that district courts are charged with protecting anyone whose
+privacy interests may be implicated by overly broad discovery requests).
+It is clear that the privacy interests at stake continue to outweigh (at least until the
+criminal trial) whatever right of access the SEC may have to the requested communications. At
+stake are: (1) Mr. Rajaratnam’s constitutional right to a fair trial in the criminal case; (2) his
+privacy interest in communications that are not yet and may never be part of the public record;
+and (3) the privacy rights of innocent third parties who are not before the Court. As a result, Mr.
+
+9
+
+Case 1:09-cv-08811-JSR Document 179
+
+Filed 01/05/11 Page 14 of 24
+
+Rajaratnam requests that the Court deny the SEC’s motion at least until the conclusion of the
+criminal trial.
+C. The SEC Request for Wiretapped Communications is Overbroad and Seeks
+Irrelevant Materials to Which it is Not Entitled
+If the Court reaches the merits of the SEC’s motion, its request is significantly overbroad.
+In this very case, the Second Circuit declared, that “the SEC does not have a right of access to
+irrelevant conversations, even if lawfully intercepted because [Mr. Rajaratnam’s] possession of
+these conversations would not benefit [him] in preparing for the civil trial.” SEC v. Rajaratnam,
+622 F.3d at 187 (emphasis added). Ignoring that common-sense instruction, the SEC’s motion to
+compel seeks precisely that to which it has no right and which it claimed it would not seek—
+irrelevant conversations. Before the Second Circuit, the SEC represented that its request would
+“exclude all non-relevant communications, including obviously all communications with third
+parties involving matters unrelated to the charged civil and criminal conduct.” See Brief of
+Appellee, SEC v. Rajaratnam, No. 10-464 (2d Cir. May 24, 2010) at 8 (emphasis added). Later
+in the same brief, the SEC refined its definition of relevance, asserting that it “does not seek
+materials that are not relevant to its claims.” Id. at 55. Now that Mr. Rajaratnam’s motion to
+suppress has been denied by Judge Holwell, the SEC has made a startling about-face from that
+position.
+While the SEC purports to divide relevant materials into seven categories,4 it is more
+accurate to describe them as falling within two exceedingly broad categories: (1) any
+4
+
+According to the SEC, “relevant” communications will include “by and large” all
+communications:
+(1) concerning the companies and stocks alleged in the pleadings
+to have been subject to insider trading; (2) between, among or
+concerning any sources of information about public companies for
+any of the defendants named in the pleadings; (3) concerning any
+10
+
+Case 1:09-cv-08811-JSR Document 179
+
+Filed 01/05/11 Page 15 of 24
+
+communications relating to Mr. Rajaratnam’s business, and (2) any communications concerning
+any investigation of any of the defendants or “concerning insider trading generally.” Br. at 12.
+There is no conceivable relevance to any materials that might fall within the second of the two
+categories, and virtually no limit to the breadth of materials that might fall within the first
+category. The SEC is essentially attempting to expand the issues in this litigation, despite the
+fact that one of the purposes of discovery is to narrow, not expand the issues. Weinstein v.
+Erenhaus, 119 F.R.D. 355, 357 (S.D.N.Y. 1988).
+Nowhere is the unreasonableness of the SEC’s request more apparent than in (1) its fifth
+category, which asks for communications regarding any trades made by or on behalf of any
+defendants or their “affiliates,” a term it does not define, and (2) its sixth category, defined as “all
+communications . . . concerning any public company or its stock.” Br. at 12. Perhaps these
+might be reasonable requests if Mr. Rajaratnam were a doctor who occasionally dabbled in the
+stock market, but he is not. He is the manager of a hedge fund whose business was to trade in
+the stock of public companies, and to do so at a high volume across a broad spectrum of public
+companies. The trades at issue in this case comprise but a minuscule fraction of all the trades
+Galleon executed during the period the wiretaps were in place. Mr. Rajaratnam has not been
+charged with wrongdoing in connection with every one of Galleon’s stock trades during that
+
+relationships between and among any of said defendants and
+between and among any of said defendants and any of their
+sources of information about public companies; (4) concerning any
+trading strategies and practices of any of said defendants; (5)
+concerning any trades made, directed, discussed or recommended
+by, or on behalf of, any of said defendants or their affiliates; (6)
+concerning any public company or its stock; and (7) concerning
+any federal, state or local criminal, regulatory or other
+investigations or inquiries concerning any of the defendants or
+concerning insider trading generally.
+Br. at 12.
+11
+
+Case 1:09-cv-08811-JSR Document 179
+
+Filed 01/05/11 Page 16 of 24
+
+period, and the SEC cannot and does not provide any substantive basis for seeking what amounts
+to all of Mr. Rajaratnam’s business-related communications. Possession of the many irrelevant
+materials falling within the SEC’s request will not benefit any party in preparing for the trial in
+this case, and need not be produced. Rajaratnam, 622 F.3d at 187.
+Moreover, the breadth of the SEC’s requests could conceivably encompass
+communications relating to conduct alleged in the criminal case but not alleged in this
+proceeding. To the extent the SEC’s request seeks such communications, it must be denied.
+Denial of Mr. Rajaratnam’s motion to suppress is not tantamount to a determination that all of
+the intercepted communications are relevant in the criminal case, let alone this one. While the
+two cases were virtually identical when first brought, the criminal case has since expanded
+greatly. Thus, much of what may be relevant in the criminal case is not relevant in this case, and
+the SEC can have no claim to discovery beyond that which Judge Holwell eventually receives
+into evidence regarding the specific stocks named in the Second Amended Complaint. That the
+SEC wishes that its case had expanded along with the criminal case is of no consequence—it
+must live with the Complaint it filed, not the Complaint it wishes it had filed. In any event, the
+additional criminal charges against Mr. Rajaratnam pertain to attempted insider trading and
+conspiracy to attempt to engage in insider trading. Even if the SEC had not rushed to file its
+Complaint when it did, it could not have brought similar charges here, as there exist no similar
+civil causes of action. There can be no question that the SEC is not entitled to discovery
+regarding claims it did not bring and could not bring.
+The only conceivable reason for seeking the broad swath of materials sought by the SEC
+is to obtain evidence to bring new claims against Mr. Rajaratnam. That the SEC cannot do, and
+not only because the deadline to amend the complaint has long since passed, but because
+
+12
+
+Case 1:09-cv-08811-JSR Document 179
+
+Filed 01/05/11 Page 17 of 24
+
+“information relating to potential claims . . . is not within the typical scope of discovery” absent
+a showing of good cause. Guan Ming Lin v. Benihana Nat’l Corp., No. 10 Civ 1335, 2010 WL
+4007282 at *3 (S.D.N.Y. Oct. 5, 2010) (emphasis in original), citing Fed. R. Civ. P. 26(b)(1)
+advisory committee’s note. Your Honor recognized that discovery is not a means of investigating
+additional claims at the very first status conference in this matter, where the SEC attempted to
+assert that its investigation was ongoing, and Your Honor responded, “I thought you brought a
+lawsuit because you were prepared to go forward with your lawsuit.” The SEC then assured the
+Court that it was prepared to go forward with its lawsuit. See Transcript of Conference at 4-5,
+Nov. 4, 2009, attached hereto as Exhibit A. It is now obvious that the SEC was not prepared to
+go forward, but it cannot use an overbroad discovery request to force Mr. Rajaratnam to heal its
+self-inflicted wound, especially here, where the Commission has made no attempt to show good
+cause entitling it to the discovery it seeks. It has simply declared, without any basis, that all of
+the recordings it seeks are relevant. That is not any cause at all, let alone good cause. See also
+Segan v. Dreyfus Corp., 513 F.2d 695, 696 (2d Cir. 1975) (stating district court “properly denied”
+plaintiff’s discovery motion made prior to his filing of a more definite statement, and which
+sought “virtually the entire business history of defendants,” even though complaint alleged only
+one fraudulent transaction). Likewise here, where the SEC has alleged specific acts of insider
+trading against Mr. Rajaratnam, it is not entitled to all of his business-related communications.
+D. The SEC is Not Entitled to apply a Double-Standard Regarding the Scope of
+Discovery
+The SEC’s request for wiretapped communications demonstrates a desire to
+inappropriately broaden the scope of discovery, rather than create the “level playing field” it
+
+13
+
+Case 1:09-cv-08811-JSR Document 179
+
+Filed 01/05/11 Page 18 of 24
+
+claims to seek.5 Br. at 14. With respect to the discovery requests propounded by Mr. Rajaratnam
+and the other defendants, the SEC has insisted upon limiting the scope of the requests to the four
+corners of the Complaint. For example, when Mr. Rajaratnam sought forensic images of key
+witness Roomy Khan’s computers, which were in the SEC’s possession, the Commission
+objected and wrote to this Court to say it had “agreed to produce materials from those images
+that are relevant to this action” and that it had already produced more than 17,000 emails
+resulting from the SEC’s search for relevant materials in those computers. See 2/9/10 Ltr. from V.
+Szczepanik to Hon. J. Rakoff, attached hereto as Exhibit B. In a footnote, the SEC listed the
+search terms it had crafted to retrieve those “relevant” materials – each and every one of which
+pertained to the specific conduct alleged in its Complaint. Id. Likewise, when Galleon
+propounded interrogatories to the SEC seeking information about public companies such as
+Avaya, Inc., Axcan Pharma, Inc., 3Com, and Schering-Plough, among others, the SEC objected
+on the ground that those interrogatories sought non-relevant information, i.e., “information
+concerning allegations not contained in the Amended Complaint.” See SEC’s Responses and
+Objections to Defendants’ Interrogatories at 17-22 (Dec. 16, 2009), attached hereto as Exhibit C.
+
+5
+
+In support of its “level playing field” argument, the SEC cites three cases in which
+wiretaps were used in civil tax proceedings over a quarter century ago. See Fleming v. United
+States, 547 F.2d 872 (5th Cir. 1977); Griffin v. United States, 588 F.2d 521 (5th Cir. 1979);
+Spatafore v. United States, 752 F.2d 415 (9th Cir. 1985). Each of those cases involves the use of
+wiretap information by civil tax authorities after they had become part of the public record in
+criminal proceedings. See Fleming, 547 F.2d at 875 (“We hold only that evidence derived from
+communications lawfully intercepted as part of a bona fide criminal investigation that results in
+the taxpayer’s conviction may properly be admitted in a civil tax proceeding, at least when the
+evidence is already part of the public record of the prior criminal prosecution.”); Griffin, 588
+F.2d at 526 (identical to Fleming); Spatafore, 752 F.2d at 416-17 (wiretaps were “already part of
+the record in the criminal case”). Moreover, there is nothing in any of those cases indicating that
+the district court conducted a pre-disclosure balancing of the privacy rights of the persons whose
+communications were intercepted against the federal agency’s right of access. There can be no
+question that this Court has been instructed to balance those rights here. See Rajaratnam, 622
+F.3d at 187 n.29.
+14
+
+Case 1:09-cv-08811-JSR Document 179
+
+Filed 01/05/11 Page 19 of 24
+
+Mr. Rajaratnam agrees that the scope of discovery should not include “information concerning
+allegations not contained in the [Second] Amended Complaint.”
+In an implicit acknowledgement of the overbreadth of its request, the SEC suggests that it
+is entitled to a broader scope of discovery than private plaintiffs because of the “compelling
+public interest” in seeing that the SEC enforces “ the nation’s securities laws and protecting the
+integrity of its markets.” Br. at 18. The cases the SEC cites in support of its purported right to
+overbroad discovery are unavailing. United States v. Rural Elec. Convenience Cooperative Co.,
+922 F.2d 429, 440 (7th Cir. 1991) which the SEC cites for the proposition that the “government’s
+interest is in large part presumed to be the public’s interest,” has nothing to do with the scope of
+discovery, but with whether the district court could, at an intervening federal agency’s request,
+enjoin two state court proceedings. Nor does the Commission find any support in SEC v.
+Dorozhko, 606 F. Supp.2d 321, 327 (S.D.N.Y. 2008), vacated on other grounds, 574 F.2d 42 (2d
+Cir. 2008), which sets forth the unremarkable proposition that the SEC bears a lesser burden than
+a private litigant to secure a preliminary injunction. What the SEC fails to acknowledge is that in
+the case Dorozhko cites in support of that proposition, the Second Circuit explains that the
+Commission bears a lesser burden because “SEC suits for injunctions are creatures of statute”
+whereas a private action is “rooted wholly in the equity jurisdiction of the federal court.” SEC v.
+Management Dynamics, Inc., 515 F.2d 801, 808 (2d Cir. 1975) (internal quotations omitted).
+By contrast, no statute entitles the SEC to discovery broader than that which is available
+to Mr. Rajaratnam or any other defendant. The Commission is bound by the same Federal Rules
+of Civil Procedure applicable to every other litigant, and courts have held that a government
+agency is not entitled to discovery “well outside the bounds of disclosure required” by the
+Federal Rules. Resolution Trust Corp. v. Grant Thornton, 41 F.3d 1539, 1548 (D.C. Cir. 1994).
+
+15
+
+Case 1:09-cv-08811-JSR Document 179
+
+Filed 01/05/11 Page 20 of 24
+
+That mandate first came from the United States Supreme Court, which long ago made it clear
+that “[t]he Government as a litigant is . . . subject to the rules of discovery.” United States v.
+Procter & Gamble, 356 U.S. 677, 681 (1958). Thus, there is no justification for the overbreadth
+of the SEC’s request, and this Court may exercise its discretion to limit the Commission’s
+requests to materials relevant to this case. See In re IBM Corp. Sec. Litig., 163 F.3d 102, 111 (2d
+Cir. 1998) (holding that District Court properly exercised its discretion in limiting scope of
+plaintiffs’ discovery requests); Segan, 513 F.2d at 696 (district court properly limited plaintiff’s
+discovery requests to information relating to the specific conduct alleged in the complaint).
+
+16
+
+Case 1:09-cv-08811-JSR Document 179
+
+III.
+
+Filed 01/05/11 Page 21 of 24
+
+CONCLUSION
+For the foregoing reasons, the SEC’s Renewed Motion to Compel Production of Relevant,
+
+Legally Obtained Wiretapped Communications should be denied.6
+
+Dated: January 5, 2011
+By:
+
+/s/ William E. White_______________
+John M. Dowd (admitted pro hac vice)
+Terence J. Lynam (admitted pro hac vice)
+William E. White (admitted pro hac vice)
+Akin Gump Strauss Hauer & Feld LLP
+1333 New Hampshire Ave, NW
+Washington, DC 20036
+(202)887-4000
+
+Robert H. Hotz, Jr. (RH-4456)
+Akin Gump Strauss Hauer & Feld LLP
+One Bryant Park
+New York, NY 10036
+(212)872-1000
+Attorneys for Raj Rajaratnam
+
+6
+
+If the Court were to order the production of relevant wiretapped communications
+before the end of the criminal trial, Mr. Rajaratnam requests that the Court also issue a protective
+order to prevent the dissemination and disclosure of those communications. We would request
+that such a protective order explicitly prohibit the SEC from sharing (in whole or part) relevant
+wiretapped communications with anyone outside of the SEC at least through the conclusion of
+the criminal trial. As the Court may be aware, this case has generated significant media coverage.
+That coverage has included information about the case that has been frequently sourced
+anonymously to government sources close to the investigation. While Mr. Rajaratnam has no
+reason to believe that the SEC staff assigned to this litigation provided information to the media,
+a blanket prohibition against sharing the information with third parties would help ensure that Mr.
+Rajaratnam’s Sixth Amendment rights are preserved.
+17
+
+Case 1:09-cv-08811-JSR Document 179
+
+Filed 01/05/11 Page 22 of 24
+
+CERTIFICATE OF SERVICE
+I hereby certify that on January 5, 2011, the foregoing document and accompanying
+Memorandum of Law was filed with the Clerk of the Court and served via ECF and email upon
+counsel to the following parties and participants:
+Valerie A. Szczepanik
+Securities and Exchange Commission
+New York Regional Office
+3 world Financial Center, Suite 400
+New York, New York 10281-1022
+Adam S. Hakki
+Shearman & Sterling LLP
+599 Lexington Ave.
+New York, NY 10022
+Norman A. Bloch
+Thomson Hine LLP
+335 Madison Avenue, 12th floor
+New York, NY 10017-4611
+Robert G. Morvillo
+Morvillo, Abramowitz, Grand, Iason, Anello & Bohrer, P.C.
+565 Fifth Avenue
+New York, NY 10017
+Alan R. Kaufman
+Kelley Drye & Warren LLP
+101 Park Avenue
+New York, NY 10178
+Ted Altman
+DLA Piper LLP
+1251 Avenue of the Americas, 27th Floor
+New York, NY 10020
+Kenneth I. Schacter
+Bingham McCutchen LLP
+399 Park Avenue
+New York, NY 10022
+
+1
+
+Case 1:09-cv-08811-JSR Document 179
+
+Steven R. Glaser
+Skadden, Arps, Slate, Meagher & Flom LLP
+Four Times Square
+New York, NY 10036
+David Wikstrom
+26 Broadway, 19th Floor
+New York, New York 10004
+Francisco J. Navarro
+Kobre & Kim LLP
+800 3rd Ave.
+New York, NY
+Jeffrey L. Bornstein
+K&L Gates LLP
+Four Embarcadero Center, lih Floor
+San Francisco, CA 94111
+Harlan J. Protass, Esq.
+Law Offices of Harlan J. Protass, PLLC
+305 Madison Avenue
+Suite 1301
+New York, NY 10165
+Cynthia M. Monaco
+Anderson Kill & Olick, P.C.
+1251 Avenue of the Americas
+New York, New York 10020
+Roland G. Riopelle, Esq.
+Sercarz & Riopelle, LLP
+152 W. 57th Street, Suite 24C
+New York, NY 10019
+Frederick L. Sosinsky
+45 Broadway, 30th Floor
+New York, NY 10006-3007
+Kenneth Breen
+Paul, Hastings, Janofsky & Walker LLP
+75 East 55th Street
+New York, NY 10022
+
+2
+
+Filed 01/05/11 Page 23 of 24
+
+Case 1:09-cv-08811-JSR Document 179
+
+Filed 01/05/11 Page 24 of 24
+
+Adler Bernard
+Dornbush Schaeffer Strongin & Venaglia, LLP
+747 Third Avenue, 11th Floor
+New York, NY 10017
+
+/s/ William E. White_______________
+John M. Dowd (admitted pro hac vice)
+Terence J. Lynam (admitted pro hac vice)
+William E. White (admitted pro hac vice)
+Akin Gump Strauss Hauer & Feld LLP
+1333 New Hampshire Ave, NW
+Washington, DC 20036
+(202)887-4000
+Robert H. Hotz, Jr. (RH-4456)
+Akin Gump Strauss Hauer & Feld LLP
+One Bryant Park
+New York, NY 10036
+(212)872-1000
+Attorneys for Raj Rajaratnam
+
+3
+
+

@@ -1,0 +1,1191 @@
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 1 of 33
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF MASSACHUSETTS
+___________________________________
+)
+RAMIZA DURMIC, DONALD
+)
+TREANNIE, JEAN LICATA, AND
+)
+ARSENIA RODRIGUES, on behalf of
+)
+themselves and all others similarly situated, )
+)
+PLAINTIFFS,
+)
+)
+v.
+)
+Civil Action No. 10-cv-10380-RGS
+)
+J.P. MORGAN CHASE BANK, NA,
+)
+Leave to File Granted on July 12, 2010
+)
+DEFENDANT.
+)
+____________________________________)
+MEMORANDUM IN SUPPORT OF MOTION OF DEFENDANT JPMORGAN
+CHASE BANK, N.A. TO DISMISS PLAINTIFFS’ FIRST AMENDED CLASS ACTION
+COMPLAINT PURSUANT TO FED. R. CIV. P. 12(b)(6)
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORITIES ......................................................................................................... iii
+INTRODUCTION .......................................................................................................................... 1
+BACKGROUND ............................................................................................................................ 3
+A.
+
+The U.S. Treasury’s Home Affordable Modification Program. ............................. 3
+
+B.
+
+Prior Litigation to “Enforce” HAMP...................................................................... 5
+
+C.
+
+Plaintiffs’ Complaint............................................................................................... 7
+
+LEGAL STANDARD..................................................................................................................... 9
+ARGUMENT................................................................................................................................ 10
+I.
+
+PLAINTIFFS DO NOT STATE A CLAIM FOR BREACH OF
+CONTRACT (COUNT I). ................................................................................................ 10
+A.
+
+Plaintiffs’ Breach of Contract Claim Fails for Lack of
+Consideration. ....................................................................................................... 10
+
+B.
+
+Plaintiffs Allege No Legally Cognizable Damages Either. .................................. 13
+
+C.
+
+Any Purported Promise to Provide a Loan Modification Lacked
+Material Terms and Would Be, at Most, an Unenforceable
+Agreement to Agree.............................................................................................. 16
+
+i
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 2 of 33
+
+II.
+
+PLAINTIFFS DO NOT STATE A CLAIM FOR BREACH OF THE
+IMPLIED COVENANT OF GOOD FAITH AND FAIR DEALING
+(COUNT II). ..................................................................................................................... 18
+
+III.
+
+PLAINTIFFS DO NOT STATE A CLAIM FOR PROMISSORY
+ESTOPPEL (COUNT III) EITHER.................................................................................. 19
+
+IV.
+
+PLAINTIFFS’ CHAPTER 93A CLAIM (COUNT IV) FAILS AS A
+MATTER OF LAW AS WELL........................................................................................ 21
+
+V.
+
+A.
+
+Plaintiffs Have Not Satisfied the Jurisdictional Requirement of
+Sending a Valid Demand Letter............................................................................ 21
+
+B.
+
+In Any Event, Plaintiffs’ Chapter 93A Claim Fails as a Matter of
+Law Because It Is Derivative of Plaintiffs’ Breach of Contract
+Claim..................................................................................................................... 23
+
+THREE OF THE NAMED PLAINTIFFS DO NOT ALLEGE THAT
+THEY HAVE BEEN DENIED PERMANENT MODIFICATIONS, AND
+THUS DO NOT STATE ANY CLAIMS......................................................................... 24
+
+CONCLUSION............................................................................................................................. 25
+
+ii
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 3 of 33
+
+TABLE OF AUTHORITIES
+Page(s)
+CASES
+Aleem v. Bank of Am., N.A.,
+No. 09-cv-01812, 2010 U.S. Dist. LEXIS 11944 (C.D. Cal. Feb. 9, 2010) ..............................6
+Ashcroft v. Iqbal,
+129 S. Ct. 1937 (2009)...............................................................................................................9
+Ball v. Wal-Mart, Inc.,
+102 F. Supp. 2d 44 (D. Mass. 2000) ........................................................................................21
+Bell Atl. Corp. v. Twombly,
+550 U.S. 544 (2007).............................................................................................................9, 14
+Benito v. Indymac Mortg. Servs.,
+No. 2:09-CV-001218, 2010 U.S. Dist. LEXIS 51259 (D. Nev. May 21, 2010)........................7
+Blackstone Realty LLC v. FDIC,
+244 F.3d 193 (1st Cir. 2001)......................................................................................................9
+Bosque v. Wells Fargo Bank, N.A.,
+No. 4:10-cv-10311-FDS (D. Mass., filed Feb. 23, 2010) ..........................................................7
+Burtzos v. Countrywide Home Loans,
+No. 09-cv-2027W, 2010 U.S. Dist. LEXIS 53509 (S.D. Cal. June 1, 2010).............................7
+Canney v. New England Tel. & Tel. Co.,
+228 N.E.2d 723 (Mass. 1967) ..................................................................................................10
+Cataldo v. Zuckerman,
+482 N.E.2d 849 (Mass. App. Ct. 1985) ...................................................................................18
+Cavanaugh v. United States,
+640 F. Supp. 437 (D. Mass. 1986) ...........................................................................................20
+Christensen v. Kingston Sch. Comm.,
+360 F. Supp. 2d 212 (D. Mass. 2005) ......................................................................................19
+City of Revere v. Boston/Logan Airport Assocs., LLC.,
+443 F. Supp. 2d 121 (D. Mass. 2006) ......................................................................................13
+Clorox Co. v. Procter & Gamble Commercial Co.,
+228 F.3d 24 (1st Cir. 2000)......................................................................................................10
+Cohoon v. Citizens Bank,
+No. 00-2774, 2000 Mass. Super. LEXIS 604 (Mass. Super. Ct. Nov. 11, 2000) ....................13
+
+iii
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 4 of 33
+
+Contrast Kattar v. Demoulas,
+739 N.E.2d 246 (Mass. 2000) ..................................................................................................13
+Dixon v. Shamrock Fin. Corp.,
+482 F. Supp. 2d 172 (D. Mass. 2007) ........................................................................................9
+Emerson v. Deming,
+23 N.E.2d 1016 (Mass. 1939) ..................................................................................................11
+Escobedo v. Countrywide Home Loans, Inc.,
+No. 09-cv-1557, 2009 U.S. Dist. LEXIS 117017 (S.D. Cal. Dec. 15, 2009) ............................7
+Famm Steel, Inc. v. Sovereign Bank,
+571 F.3d 93 (1st Cir. 2009)......................................................................................................19
+Ferris v. Federal Home Loan Mortg. Corp.,
+905 F. Supp. 23 (D. Mass. 1995) .............................................................................................19
+First Colonial Bank for Sav. v. Webster,
+No. 92-6679B, 1993 Mass. Super. LEXIS 87 (Mass. Super. Ct. Oct. 12, 1993).....................12
+Fitzgerald v. Hutchins,
+983 A.2d 382 (Me. 2009).........................................................................................................18
+Fontneau v. Town of Sandwich,
+251 F. Supp. 2d 994 (D. Mass. 2003) ......................................................................................20
+Gabovitch v. Mercury Records,
+No. 93-2384, 1998 Mass. Super. LEXIS 459 (Mass. Super. Ct. Aug. 26, 1998) ....................20
+Gaitan v. Mortg. Elec. Registration Sys.,
+No. 09-cv-1009, 2009 U.S. Dist. LEXIS 97117 (C.D. Cal. Oct. 5, 2009).................................6
+Gonzalez v. First Franklin Loan Servs.,
+No. 09-cv-099941, 2010 U.S. Dist. LEXIS 1657 (E.D. Cal. Jan. 11, 2010) .............................6
+Graphic Arts Finishers, Inc. v. Boston Redevelopment Auth.,
+255 N.E.2d 793 (Mass. 1970) ..................................................................................................11
+Hall v. Horizon House Microwave, Inc.,
+506 N.E.2d 178 (Mass. App. Ct. 1987) ...................................................................................20
+In re Lloyd, Carr & Co.,
+617 F.2d 882 (1st Cir. 1980)..............................................................................................11, 13
+In re WellNx Mktg. & Sales Practices Litig.,
+673 F. Supp. 2d 43 (D. Mass. 2009) ........................................................................................15
+
+iv
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 5 of 33
+
+John Hancock Mut. Life Ins. Co. v. Banerji,
+858 N.E.2d 277 (Mass. 2006) ..................................................................................................15
+Johnson v. BAC Home Loans Servicing, LP,
+No. 1:10-cv-10316-RWZ (D. Mass., filed Feb. 23, 2010).........................................................7
+Jordan-Milton Machinery, Inc. v. F/V Teresa Marie, II,
+978 F.2d 32 (1st Cir. 1992)................................................................................................17, 18
+Kaufman v. Lennox,
+164 N.E. 450 (Mass. 1929) ......................................................................................................10
+Kiely v. Raytheon Co.,
+105 F.3d 734 (1st Cir. 1997)........................................................................................14, 15, 16
+LaChance v. BayBank Norfolk,
+No. 92-1088, 1994 Mass. Super. LEXIS 82 (Mass. Super. Ct. Nov. 2, 1994) ........................17
+Lambert v. Fleet Nat’l Bank,
+865 N.E.2d 1091 (Mass. 2007) ................................................................................................17
+Lucey v. Hero Int’l Corp.,
+281 N.E.2d 266 (Mass. 1972) ..................................................................................................17
+Maldonado v. Fontanes,
+568 F.3d 263 (1st Cir. 2009)......................................................................................................9
+Marine Midland Bank v. Herriott,
+412 N.E.2d 908 (1980).............................................................................................................17
+Marks v. Bank of Am, N.A.,
+No. 03:10-cv-08039-PHX-JAT, 2010 U.S. Dist. LEXIS 61489
+(D. Ariz. June 22, 2010).....................................................................................................1, 6, 7
+Mass. Eye & Ear Infirmary v. QLT Phototherapeutics, Inc.,
+412 F.3d 215 (1st Cir. 2005)....................................................................................................18
+McMahon v. Digital Equip. Corp.,
+944 F. Supp. 70 (D. Mass. 1996) .............................................................................................21
+Moore v. La-Z-Boy, Inc.,
+639 F. Supp. 2d 136 (D. Mass. 2009) ......................................................................................20
+Neuhoff v. Marvin Lumber & Cedar Co.,
+370 F.3d 197 (1st Cir. 2004)....................................................................................................10
+O’Connor v. Merrimack Mut. Fire Ins. Co.,
+897 N.E.2d 593 (Mass. App. Ct. 2008) ...................................................................................18
+
+v
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 6 of 33
+
+Park Drive Towing, Inc. v. City of Revere,
+809 N.E.2d 1045 (Mass. 2004) ................................................................................................23
+Pimental v. Wachovia Mortg. Corp.,
+411 F. Supp. 2d 32 (D. Mass. 2006) ........................................................................................23
+Premier Capital, Inc. v. Dolan,
+No. 97-3923, 1998 Mass. Super. LEXIS 545 (Mass. Super. Ct. Sept. 15, 1998),
+aff’d, 754 N.E.2d 1083, 2001 WL 1014541 (Mass. App. Ct. Sept. 5, 2001)...........................13
+Redgrave v. Boston Symphony Orchestra, Inc.,
+855 F.2d 888 (1st Cir. 1988) (en banc)....................................................................................14
+Reyes v. IndyMac Mortgage Servs., FSB,
+No. 1:10-cv-10389-RWZ (D. Mass., filed Mar. 4, 2010)..........................................................7
+Richards v. Arteva Specialties S.A.R.L.,
+850 N.E.2d 1068 (Mass. App. Ct. 2006) .................................................................................22
+Rosenfield v. U.S. Trust Co.,
+195 N.E. 323 (1935).................................................................................................................16
+Schultz v. R.I. Hosp. Trust Nat’l Bank, N.A.,
+94 F.3d 721 (1st Cir. 1996)......................................................................................................19
+Shawmut Bank, N.A. v. Wayman,
+606 N.E.2d 925 (Mass. App. Ct. 1993) ...................................................................................19
+Simmons v. Countrywide Home Loans, Inc.,
+No. 09cv1245, 2010 U.S. Dist. LEXIS 65031 (S.D. Cal. June 29, 2010) .................................7
+Simon v. Bank of Am., N.A.,
+No. 10-cv-00300-GMN-LRL, 2010 U.S. Dist. LEXIS 63480
+(D. Nev. June 23, 2010) .............................................................................................................6
+Slaney v. Westwood Auto, Inc.,
+322 N.E.2d 768 (Mass. 1975) ..................................................................................................22
+Sloan v. Burrows,
+258 N.E.2d 303 (Mass. 1970) ..................................................................................................11
+Villa v. Wells Fargo Bank, N.A.,
+No. 10-cv-81, 2010 U.S. Dist. LEXIS 23741 (S.D. Cal. Mar. 15, 2010) ..........................1, 6, 7
+Williams v. Geithner,
+No. 09-1959, 2009 U.S. Dist. LEXIS 104096 (D. Minn. Nov. 9, 2009) .......................1, 3, 4, 6
+
+vi
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 7 of 33
+
+Zendejas v. GMAC Wholesale Mortg. Corp.,
+No. 10-cv-0184, 2010 U.S. Dist. LEXIS 59793 (E.D. Cal. June 15, 2010) ..............................7
+
+STATUTES & RULES
+12 U.S.C.
+§ 5219(a)(1) ...............................................................................................................................3
+Fed. R. Civ. P.
+12(b)(6) ......................................................................................................................................9
+M.G.L. c.
+93A § 9(3) ..........................................................................................................................21, 22
+106 § 3-413 ..............................................................................................................................12
+
+vii
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 8 of 33
+
+INTRODUCTION
+Plaintiffs are homeowners who took out home mortgage loans from third-party lenders,
+but whose loans are now serviced by JPMorgan Chase Bank, N.A. (“Chase”). The complaint
+here is the latest in a series of failed efforts to craft some viable cause of action for borrowers to
+sue their mortgage servicers for failing to permanently modify their loans under the federal
+government’s Home Affordable Modification Program (“HAMP”). Absent from the First
+Amended Complaint (“FAC”) is any claim pled under HAMP. This omission is no accident.
+Federal courts have uniformly held that there is no private right of action for borrowers to sue
+under HAMP. Federal courts have also uniformly rejected the alternative claims pled by
+borrowers under the Due Process Clause or by alleging third-party beneficiary status under the
+contracts in which loan servicers agree with the government to participate in HAMP. See, e.g.,
+Williams v. Geithner, No. 09-1959, 2009 U.S. Dist. LEXIS 104096 (D. Minn. Nov. 9, 2009)
+(borrowers have no cognizable property interest in loan modifications); Villa v. Wells Fargo
+Bank, N.A., No. 10-cv-81, 2010 U.S. Dist. LEXIS 23741 (S.D. Cal. Mar. 15, 2010) (borrowers
+lack third-party standing to sue under government contracts); Marks v. Bank of Am,, N.A.,
+No. 03:10-cv-08039-PHX-JAT, 2010 U.S. Dist. LEXIS 61489 (D. Ariz. June 22, 2010) (same).
+Facing these very real legal hurdles, plaintiffs here advance a new, though equally faulty,
+contract theory. They acknowledge that HAMP modifications are governed by the statute and a
+succession of guidelines issued by the Department of the Treasury, which has had primary
+administrative responsibility for the program. And, plaintiffs concede that HAMP is supposed to
+involve a two-step process, the first of which is called a Trial Period Plan (“TPP”). Borrowers
+were allowed to proceed with a TPP if the income and debt information obtained from them
+orally indicated that they may be eligible for a modification. During the TPP, the borrowers
+
+978609-1
+
+1
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 9 of 33
+
+were obligated to make reduced monthly mortgage payments and to submit documentation about
+their income and debts necessary to determine whether they were eligible for permanent loan
+modifications under HAMP. Those ultimate eligibility requirements included whether, on the
+basis of verified information, the borrowers could afford to make the modified payments and,
+separately, whether the modification made more economic sense than pursuing foreclosure.
+Eligibility is critical to HAMP and reflective of the fact that the program was born of the
+financial crisis which saw many lenders fail and the fact that taxpayer dollars would be made
+available where loans were permanently modified.
+Plaintiffs’ current theory, however, is that so long as plaintiffs met the step one
+requirements — they made the trial payments and submitted the requested documentation —
+Chase and all HAMP servicers were obligated to permanently modify their loans. This theory,
+which relies on a single phrase in a form TPP document, stands the HAMP program on its head.
+If ever accepted, it would eviscerate the core eligibility determination on which the program was
+founded. Indeed, tellingly, none of the plaintiffs alleges that he or she was, in fact, qualified for
+a permanent loan modification.
+But even more immediately, plaintiffs’ complaint fails to state the most basic elements of
+the common-law theories on which they rely. Their contract claim articulates no viable theory of
+consideration supporting the TPPs as independent contracts; this is not surprising given that the
+TPPs allowed plaintiffs to stay in their homes while paying less than their existing mortgage
+contracts required. Similarly, plaintiffs also fail to identify any cognizable legal harm that they
+suffered by entering into the TPP. Moreover, even if the TPPs had promised to offer a
+permanent modification of plaintiffs’ loans someday on unspecified terms, such an agreement
+would be, as a matter of law, an unenforceable “agreement to agree,” lacking essential material
+
+978609-1
+
+2
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 10 of 33
+
+terms such as interest rate, monthly payment amount, and loan term. Plaintiffs’ claims for
+violation of the implied covenant of good faith and fair dealing, promissory estoppel, and
+Chapter 93A violation are entirely derivative of their contract theory, and so equally flawed.
+The FAC does not articulate any legally viable claims and Chase’s motion to dismiss
+should be granted.
+BACKGROUND
+A.
+
+The U.S. Treasury’s Home Affordable Modification Program.
+
+In February 2009, the U.S. Department of the Treasury announced the Making Home
+Affordable Program, of which HAMP is a part. HAMP aims “to financially assist three to four
+million homeowners who have defaulted on their mortgages or who are in imminent risk of
+default by reducing monthly payments to sustainable levels.” Williams, 2009 U.S. Dist. LEXIS
+104096, at *6. Although HAMP’s purpose is to assist at-risk homeowners, it does not aim to
+prevent all foreclosures—only “avoidable” foreclosures. See, e.g., 12 U.S.C. § 5219(a)(1)
+(Emergency Economic Stabilization Act of 2008 (“EESA”)) (authorizing the Secretary of the
+Treasury to “facilitate loan modifications to prevent avoidable foreclosures”). HAMP does this
+by offering financial incentives for borrowers, servicers, and investors to enter into loan
+modifications where such modifications make economic sense for all parties. (See FAC Ex. 2.)
+Pursuant to authority delegated under the EESA, Treasury promulgated a series of
+HAMP guidelines, which established a process for comparing the net present value (“NPV”) of a
+HAMP modified loan to the NPV of an unmodified loan (i.e., a loan that will likely proceed to
+foreclosure). (See FAC Ex. 2, at pp. 4-5.) The guidelines specify threshold criteria to identify
+borrowers who may be eligible for loan modifications. (Id. at p. 2.) The guidelines go on to
+enumerate a sequence of steps for servicers to apply to the loans of potentially eligible
+borrowers—known as the “Standard Modification Waterfall”—to evaluate a hypothetical loan
+978609-1
+
+3
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 11 of 33
+
+modification that would lower the borrower’s payment to no greater than 31% of the borrower’s
+gross monthly income. (Id. at p. 8.) The Standard Modification Waterfall includes: reduction of
+the interest rate in increments of .125% (to no less than 2%), extension of the term of the loan,
+and principal forbearance. (Id. at pp. 9-10.) A potential modification can easily fail at the
+waterfall stage—a borrower’s income, for example, may be insufficient to bring the required
+payment down to the threshold of 31% of monthly income.
+The purpose of applying the Standard Modification Waterfall is to fashion a hypothetical
+modified loan that the servicer can use to conduct the NPV test, a “test that compares the NPV
+result for a modification to the NPV result for no modification.” (Id. at p. 4.) “The NPV is
+essentially an accounting calculation to determine whether it is more profitable to modify the
+loan or allow the loan to go into foreclosure.” Williams, 2009 U.S. Dist. LEXIS 104096, at *8-9
+n.3. If the loan appears to qualify for a modification after application of all of the HAMP
+criteria, the loan may then be placed into a TPP. Id., at *9-10; (FAC Ex. 3, at p. 1)
+For loans owned by Government-Sponsored Entities (“GSEs”), namely Fannie Mae and
+Freddie Mac, the HAMP guidelines went into immediate effect, as they were automatically
+incorporated into the GSEs’ agreements with their loan servicers. For non-GSE-owned loans,
+participation in HAMP is voluntary. Servicers may choose to enter into contracts with the
+government—Servicer Participation Agreements (“SPAs”)—to participate in HAMP. (See FAC
+Ex. 2 at p. 1.) The FAC alleges that Chase entered into a SPA on July 31, 2009. (FAC ¶ 35.)
+Since HAMP’s inception, Treasury has been continually refining the program. On April
+6, 2009, Treasury issued its first Supplemental Directive. It has since issued fourteen additional
+Supplemental Directives, the most recent of which was issued on June 3, 2010.
+Prior to June 1, 2010, servicers had the option of evaluating applicants for TPPs based
+
+978609-1
+
+4
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 12 of 33
+
+solely upon the applicants’ verbal representations concerning eligibility. This procedure allowed
+servicers to provide potentially eligible borrowers with payment relief quickly, by furnishing
+TPPs prior to receiving supporting documentation. After the borrower executed and returned the
+TPP, and provided the documentation necessary to verify his or her financial eligibility, the
+servicer would then finally evaluate the borrower for eligibility for a permanent modification
+(i.e., confirm that the NPV test continued to produce a positive result, that the pre-modification
+monthly payment ratio exceeded 31% of income, and that the modification produced a monthly
+payment ratio of no more than 31%). (FAC Ex. 2 at pp. 5-6.) The guidelines mandated that,
+where a TPP was extended based on verbal representations, the servicer “must” use the verified
+documentation to confirm eligibility before extending a permanent modification. (Id. at pp. 4-5.)
+Although reliance on the applicant’s initial, verbal representations allowed servicers to
+expedite the TPP process, it also resulted in some borrowers, who were originally extended
+TPPs, being ultimately found ineligible for permanent modifications, once their information was
+later verified. On January 28, 2010, Treasury issued Supplemental Directive 10-01, which
+effected a “significant program change,” and directed servicers to require “full verification of
+borrower eligibility prior to offering a trial period plan.” 1 Borrowers must now submit an
+“initial package” of documentation, including a Request for Modification and Affidavit Form,
+IRS Form 4056-T or 4056T-EZ, and evidence of income, before a TPP may be extended. Id.
+B.
+
+Prior Litigation to “Enforce” HAMP.
+
+This suit is part of a recent wave of actions claiming an entitlement to loan modifications
+under HAMP. The U.S. Treasury, however, has designated Freddie Mac as its exclusive agent in
+ensuring compliance with HAMP, and the program provides for extensive monitoring and
+1
+
+Supplemental Directive 10-01 went into effect on June 1, 2010, long after each of the
+named plaintiffs applied for his or her modification. (FAC ¶¶ 50, 74, 93, 109.)
+
+978609-1
+
+5
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 13 of 33
+
+compliance procedures. (FAC Ex. 2 at p. 25.) Accordingly, every federal court to have
+addressed the issue has uniformly held that there is no private right of action to enforce HAMP.
+Nowhere in the HAMP Guidelines, nor in the EESA, does it
+expressly provide for a private right of action. Rather
+Congressional intent expressly indicates that compliance authority
+was delegated solely to Freddie Mac. By delegating compliance
+authority to one entity, Freddie Mac, Congress intended that a
+private cause of action was not permitted.
+Marks, 2010 U.S. Dist. LEXIS 61489, at *16; see also Simon v. Bank of Am., N.A., No. 10-cv00300-GMN-LRL, 2010 U.S. Dist. LEXIS 63480, at *26-27 (D. Nev. June 23, 2010) (holding
+that “the Home Affordable Modification Program does not provide borrowers with a private
+cause of action against lenders” and dismissing claim); Aleem v. Bank of Am., N.A., No. 09-cv01812, 2010 U.S. Dist. LEXIS 11944, at *8-11 (C.D. Cal. Feb. 9, 2010) (same); Gaitan v. Mortg.
+Elec. Registration Sys., No. 09-cv-1009, 2009 U.S. Dist. LEXIS 97117, at *38 (C.D. Cal. Oct. 5,
+2009) (same). Nor is there a right of action under the EESA, HAMP’s authorizing statute. See,
+e.g., Gonzalez v. First Franklin Loan Servs., No. 09-cv-099941, 2010 U.S. Dist. LEXIS 1657, at
+*50 (E.D. Cal. Jan. 11, 2010) (no private right of action under EESA). 2
+In an attempt to circumvent the lack of a private right of action, various borrowers
+brought suits seeking to achieve the same result by asserting Due Process theories and breach of
+contract claims as purported third-party beneficiaries of the SPAs. The federal courts, again,
+have uniformly rejected these attempts to end-run HAMP’s lack of a right of action. See, e.g.,
+Williams, 2009 U.S. Dist. LEXIS 104096, at *21-22 (rejecting Due Process claim, and holding
+that there is no cognizable property interest in loan modifications); Escobedo v. Countrywide
+2
+
+The lack of a private right of action to enforce HAMP is no oversight. HAMP is a
+voluntary program. See Williams, 2009 U.S. Dist. LEXIS 104096, at *22. Few banks would
+agree to participate in HAMP if, by doing so, they exposed themselves to lawsuits by the
+millions of borrowers who have sought or will seek HAMP modifications. See Villa, 2010 U.S.
+Dist. LEXIS 23741, at *7 n.1 (noting that the “the breadth and indefiniteness of a class of
+[would-be] beneficiaries” in holding that borrowers lacked standing to bring contract claims).
+
+978609-1
+
+6
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 14 of 33
+
+Home Loans, Inc., No. 09-cv-1557, 2009 U.S. Dist. LEXIS 117017, at *4-7 (S.D. Cal. Dec. 15,
+2009) (rejecting plaintiffs’ breach of contract claim and holding that borrowers are not intended
+beneficiaries under the SPAs); Villa, 2010 U.S. Dist. LEXIS 23741, at *6-7 (same); Benito v.
+Indymac Mortg. Servs., No. 2:09-CV-001218, 2010 U.S. Dist. LEXIS 51259, at *20-21 (D. Nev.
+May 21, 2010) (same); Burtzos v. Countrywide Home Loans, No. 09-cv-2027W, 2010 U.S. Dist.
+LEXIS 53509, at *5-6 (S.D. Cal. June 1, 2010) (same); Zendejas v. GMAC Wholesale Mortg.
+Corp., No. 10-cv-0184, 2010 U.S. Dist. LEXIS 59793, at *7-9 (E.D. Cal. June 15, 2010) (same);
+Marks, 2010 U.S. Dist. LEXIS 61489, at *16 (same); Simmons v. Countrywide Home Loans,
+Inc., No. 09cv1245, 2010 U.S. Dist. LEXIS 65031, at *15 (S.D. Cal. June 29, 2010) (same).
+C.
+
+Plaintiffs’ Complaint.
+
+Plaintiffs’ complaint represents the most recent wave of actions, including several others
+filed by the same plaintiffs’ counsel, seeking to circumvent HAMP’s lack of a private right of
+action. See Bosque v. Wells Fargo Bank, N.A., No. 4:10-cv-10311-FDS (D. Mass., filed Feb. 23,
+2010); Johnson v. BAC Home Loans Servicing, LP, No. 1:10-cv-10316-RWZ (D. Mass., filed
+Feb. 23, 2010); Reyes v. IndyMac Mortgage Servs., FSB, No. 1:10-cv-10389-RWZ (D. Mass.,
+filed Mar. 4, 2010). This time, plaintiffs’ theories are centered on the notion that the extension
+of a TPP creates an contractual entitlement to a permanent loan modification. Based on this
+theory, the FAC asserts claims on behalf of a putative Massachusetts class for breach of contract
+(Count I), breach of the implied covenant of good faith and fair dealing (Count II), promissory
+estoppel (Count III), and violation of Massachusetts G.L. c. 93A (Count IV). (FAC ¶ 127.)
+Plaintiffs’ core theory is that, so long as they submitted three TPP payments and sent in
+the requested documentation, they were entitled to permanent loan modifications, regardless of
+the content of their documentation and regardless of whether they in fact qualified for such
+modifications. (FAC ¶ 41.) Indeed, none of the plaintiffs alleges that he or she would qualify
+978609-1
+
+7
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 15 of 33
+
+for a permanent loan modification under HAMP. In an attempt to support their dubious
+proposition, plaintiffs latch on to the following sentence in the TPP:
+If I am in compliance with this Loan Trial Period and my
+representations in Section 1 continue to be true in all material
+respects, then the Lender will provide me with a Loan
+Modification Agreement, as set forth in Section 3.
+(FAC ¶ 52.) Section 1 attests to the borrower’s hardship and imminent default, and promises to
+provide “documentation for all income” of the borrower. (FAC Ex. 8 at p. 9.)
+In the very next paragraph, however, the TPPs state that the borrower’s documentation
+must be sent “to permit verification of all of my income . . . to determine whether I qualify for
+the offer [of a permanent loan modification] described in this Plan (the ‘Offer’).” (FAC Ex. 8 at
+p. 9 (emphasis added).) The TPPs highlight the possibility that the borrower may “not qualify
+for the Offer” and require the lender to provide written notice in the event that the borrower does
+not so qualify. (Id.) In addition, the TPPs emphasize that “the Plan is not a modification of the
+Loan documents and that the Loan documents will not be modified unless and until . . . I meet all
+of the conditions required for modification.” (Id. at ¶ 2.G (emphasis added).) “[A]ll terms and
+provisions of the Loan documents remain in full force and effect; nothing in this Plan shall be
+understood or construed to be a satisfaction or release in whole or in part of the obligations
+contained in the Loan Documents. The Lender and I will be bound by, and will comply with, all
+of the terms and provisions of the Loan Documents.” (Id. ¶ 4.)
+The cover letter accompanying the TPPs also makes it clear that the borrower may not
+ultimately qualify for a permanent modification: “We have enclosed a customized Home
+Affordable Modification Trial Period Plan (‘Trial Period Plan’). If you qualify under the federal
+government’s Home Affordable Modification program and comply with the terms of the Trial
+Period Plan, we will modify your mortgage loan . . . .” (FAC Ex. 7 at p. 3 (emphasis added).)
+
+978609-1
+
+8
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 16 of 33
+
+The letter emphasizes that the TPP payments are only an “estimate of what your payment would
+be IF we are able to modify your loan under the terms of the program.” (Id. (emphasis in
+original).) The letter expressly highlights the possibility that “[y]ou may not qualify for this loan
+modification program.” (Id.) The Frequently Asked Questions section reiterates the point,
+addressing questions such as “How long will it take to process my modification request and
+determine if I qualify for the program?” and “What do you do with my first trial period payment
+if I do not qualify for the program?” (Id. at p. 7 (emphasis added).) The documents upon which
+plaintiffs base their claims undercut the legal theories they assert, and the FAC should be
+dismissed for failure to state a claim.
+LEGAL STANDARD
+A motion to dismiss under Fed. R. Civ. P. 12(b)(6) tests the legal sufficiency of a
+complaint. Dixon v. Shamrock Fin. Corp., 482 F. Supp. 2d 172, 174 (D. Mass. 2007). Although
+the court must accept as true well-pleaded factual allegations, the court should “not accept as true
+legal conclusions from the complaint or naked assertion[s] devoid of further factual
+enhancement.” Maldonado v. Fontanes, 568 F.3d 263, 266 (1st Cir. 2009) (citation omitted).
+Rather, the complaint must allege “factual content that allows the court to draw the reasonable
+inference that the defendant is liable for the misconduct alleged,” Ashcroft v. Iqbal, 129 S. Ct.
+1937, 1949 (2009), and “to raise a right to relief above the speculative level.” Bell Atl. Corp. v.
+Twombly, 550 U.S. 544, 555 (2007).
+Where the complaint attaches exhibits, those exhibits are part of the allegations of the
+complaint for purposes of a motion to dismiss. Blackstone Realty LLC v. FDIC, 244 F.3d 193,
+195 n.1 (1st Cir. 2001) (citing Fed. R. Civ. P. 10(c)). If the complaint’s allegations conflict with
+the exhibits, the exhibits control. Clorox Co. v. Procter & Gamble Commercial Co., 228 F.3d
+
+978609-1
+
+9
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 17 of 33
+
+24, 32 (1st Cir. 2000) (citation omitted) (“It is a well-settled rule that when a written instrument
+contradicts allegations in the complaint to which it is attached, the exhibit trumps the
+allegations.”).
+ARGUMENT
+I.
+
+PLAINTIFFS DO NOT STATE A CLAIM FOR BREACH OF CONTRACT
+(COUNT I).
+
+In an attempted end-run around HAMP’s lack of a private right of action, plaintiffs
+advance a “breach of contract” claim based on their TPPs. Putting aside the fact that the TPPs
+cannot reasonably be read to promise borrowers permanent loan modifications regardless of
+whether they would ultimately qualify for such modifications, the breach of contract theory fails
+because plaintiffs cannot satisfy its basic elements. Breach of contract requires (1) an offer and
+acceptance, (2) with all essential contractual terms specified in reasonable detail and certainty;
+(3) consideration; (4) breach; and (5) damages. Canney v. New England Tel. & Tel. Co.,
+228 N.E.2d 723, 727 (Mass. 1967); Kaufman v. Lennox, 164 N.E. 450, 450-51 (Mass. 1929).
+Plaintiffs do not allege valid consideration, legally cognizable damages, or an agreement
+containing all of the essential terms for a permanent loan modification.
+A.
+
+Plaintiffs’ Breach of Contract Claim Fails for Lack of Consideration.
+
+Plaintiffs do not allege any legally cognizable form of consideration supporting the
+purported “agreement” on which their claim is based. “A contract must have consideration to be
+enforceable and in order for a contract to have valid consideration, the contract must be a
+bargained-for exchange in which there is a legal detriment of the promisee or a corresponding
+benefit to the promisor.” Neuhoff v. Marvin Lumber & Cedar Co., 370 F.3d 197, 201 (1st Cir.
+2004) (internal citation and quotation marks omitted). Legal detriment entails “giving up
+something immediately prior thereto the promisee was privileged to retain, or doing or refraining
+
+978609-1
+
+10
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 18 of 33
+
+from doing something which he was then privileged not to do, or not to refrain from doing.”
+Graphic Arts Finishers, Inc. v. Boston Redevelopment Auth., 255 N.E.2d 793, 795 (Mass. 1970)
+(quoting Williston, Williston on Contracts § 102A (3d ed. 1957)) (internal quotation marks
+omitted). A corresponding benefit is “receiving as the exchange for his promise of some
+performance or forbearance which the promisor was not previously entitled to receive.” Id.
+Plaintiffs argue that they provided valid consideration by making payments under their
+TPPs. (FAC ¶ 142.) Plaintiffs suggest that this constitutes a legal detriment because they gave
+up the ability to pursue other means to save their homes. (Id.) Plaintiffs further suggest that
+Chase received a legal benefit because it “received payments it might otherwise not have.” (Id.)
+Plaintiffs’ argument, however, fails for the simple reason that plaintiffs already had a
+legal obligation to make payments on their existing mortgage loans. (FAC ¶¶ 45-50, 69-74, 8994, 105-112 (alleging existence of plaintiffs’ mortgage loans).) Their TPP payments were less
+than the monthly payments that plaintiffs were already obligated to make, and the TPP payments
+were applied to paying down these pre-existing obligations. (FAC ¶ 51 (Durmic), ¶¶ 105 & 112
+(Rodrigues), Ex. 2, at pp. 8-10 (describing the Standard Modification Waterfall).)
+It is a “well-settled rule . . . that performance of a pre-existing legal duty that is neither
+doubtful nor subject to honest and reasonable dispute is not valid consideration where the duty is
+owed to the promisor.” In re Lloyd, Carr & Co., 617 F.2d 882, 890 (1st Cir. 1980) (applying
+Massachusetts law). As such, a debtor’s partial payment on an amount that is indisputably due is
+not consideration for the creditor’s promise to discharge the remainder of the debt. Emerson v.
+Deming, 23 N.E.2d 1016, 1018 (Mass. 1939); see also Sloan v. Burrows, 258 N.E.2d 303, 305
+(Mass. 1970) (“Since the duty to pay this amount already existed under the agreement, the rule
+
+978609-1
+
+11
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 19 of 33
+
+that performance of an existing legal duty or contractual obligation is not sufficient consideration
+for a new promise by the obligee applies.”).
+Plaintiffs had a pre-existing legal obligation to make payments as required by their loan
+agreements. First Colonial Bank for Sav. v. Webster, No. 92-6679B, 1993 Mass. Super. LEXIS
+87, at *5 (Mass. Super. Ct. Oct. 12, 1993) (“The maker of a promissory note is obligated to pay
+the note in accordance with its terms.” (citing M.G.L. c. 106 § 3-413)). Participation in the TPPs
+did not relieve plaintiffs of their obligations to repay their loans, as the TPPs emphasized:
+[A]ll terms and provisions of the Loan Documents remain in full
+force and effect; nothing in this Plan shall be understood or
+construed to be a satisfaction or release in whole or in part of the
+obligations contained in the Loan Documents. The Lender and I
+will be bound by, and will comply with, all of the terms and
+provisions of the Loan Documents.
+(FAC Ex. 8 at p. 11 ¶ 4.D (Durmic) Ex. 9 at p. 4 ¶ 4.D (the Treannies)k Ex. 10 at p. 4 ¶ 4.D
+(Licata), Ex. 12 at p. 4 ¶ 4.D (Rodrigues).)
+Moreover, all payments made under the TPPs were to be held and ultimately applied to
+the borrower’s existing loan obligations, in the event that a permanent modification was not
+ultimately extended. (FAC Ex. 8 at p. 10 ¶ 2.D, F; Ex. 9 at p. 3 ¶ 2.D, F; Ex. 10 at p. 3 ¶ 2.D, F;
+Ex. 12 at p. 3 ¶ 2.D, F.) The TPP payments did not provide Chase with windfall revenues, nor
+did they result in the borrowers making additional outlays. The money went precisely where it
+was already obligated to go —to paying down the borrowers’ existing loan balances. The TPPs
+entailed only one substantive change in plaintiffs’ obligations: they allowed plaintiffs to make
+lower monthly payments on their mortgage loans, while remaining in possession of their homes.
+(FAC at ¶¶ 51, 105, 112.)
+These reduced payments cannot constitute consideration for permanent modifications.
+Massachusetts courts have repeatedly held that consideration is lacking where a mortgagor
+
+978609-1
+
+12
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 20 of 33
+
+attempts to pay a discounted amount in satisfaction of an existing debt. See, e.g., Premier
+Capital, Inc. v. Dolan, No. 97-3923, 1998 Mass. Super. LEXIS 545, at *8-9 (Mass. Super. Ct.
+Sept. 15, 1998) (borrower’s payment of a lesser amount than due on his mortgage loan was not
+consideration for lender’s promise to settle the debt), aff’d, 754 N.E.2d 1083, 2001 WL 1014541,
+at *1 (Mass. App. Ct. Sept. 5, 2001); Cohoon v. Citizens Bank, No. 00-2774, 2000 Mass. Super.
+LEXIS 604, at *7 (Mass. Super. Ct. Nov. 11, 2000) (borrower’s offer of a “discounted payoff”
+on a mortgage loan was “inadequate consideration to create a valid contract”).
+Apart from the making of reduced monthly payments, plaintiffs point to no other
+detriment to them or benefit to Chase flowing from the TPPs that could plausibly be deemed
+consideration —e.g., agreeing to pay higher interest rates or waiving rights that they would
+otherwise have should they file for bankruptcy. Contrast Kattar v. Demoulas, 739 N.E.2d 246,
+254-55 (Mass. 2000). Plaintiffs’ argument that Chase received money under the TPPs that it
+might otherwise not have received is precisely the type of argument that the pre-existing
+obligation rule is meant to defeat. See Lloyd, Carr & Co., 617 F.2d at 890 (“The policy
+underlying [the pre-existing obligation] rule is to discourage parties under such a duty from using
+the threat of nonperformance to extort greater compensation for doing only that which they were
+already obligated to do.”). Plaintiffs’ contract claim fails as a matter of law.
+B.
+
+Plaintiffs Allege No Legally Cognizable Damages Either.
+
+Even if plaintiffs had alleged consideration, the breach of contract claim would still fail
+because plaintiffs allege no cognizable damages. See City of Revere v. Boston/Logan Airport
+Assocs., LLC., 443 F. Supp. 2d 121, 126-27 (D. Mass. 2006) (rejecting the breach of contract
+claim in the absence of legally cognizable damages). Plaintiffs saved money by participating in
+TPPs —they were permitted to make lower-than-normal monthly payments on their mortgage
+loans and still remain in their homes. (See Section I.A, supra.) Unable to identify any direct
+978609-1
+
+13
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 21 of 33
+
+monetary loss, plaintiffs point to three other forms of purported damages, none of which are
+legally cognizable.
+Plaintiffs’ first alleged harm is that, by making TPP payments, plaintiffs for-went other
+remedies that they might have pursued to save their homes, such as restructuring their debts
+under the bankruptcy code, or other strategies to deal with their default, such as selling their
+homes. (FAC ¶ 147.) As a matter of law, the assertion of foregoing unspecified “other”
+remedies or strategies that plaintiffs “might have pursued” is too speculative to survive a motion
+to dismiss. See Kiely v. Raytheon Co., 105 F.3d 734, 738 (1st Cir. 1997) (finding plaintiff’s
+allegation of harm in that he refrained from pursuing other defense tactics because of the
+existence of a mutual-defense agreement “too speculative to be legally cognizable and
+redressable”); Twombly, 550 U.S. at 555 (to survive a motion to dismiss, a complaint’s factual
+allegations “must be enough to raise a right to relief above the speculative level”).
+More fundamentally, plaintiffs point to no causal connection between this alleged harm
+and their participation in the TPPs. Redgrave v. Boston Symphony Orchestra, Inc., 855 F.2d 888,
+898 (1st Cir. 1988) (en banc) (under Massachusetts law, alleged damages must be proximately
+caused by the alleged breach and not by other, independent factors). Nothing in the TPPs, or in
+the alleged promise of permanent modifications, prevented plaintiffs from pursuing the other
+remedies that they list as examples —declaring bankruptcy or selling their homes —or from
+taking any other lawful measures to alleviate their debt obligations. Plaintiffs could have
+pursued these remedies whether or not they participated in the TPPs. They are free to do so now.
+If anything, participation in the TPPs afforded plaintiffs greater opportunity to save their homes
+and to deal with their defaults by enabling plaintiffs to save more money every month to put
+toward other remedies and, at the same time, remain in their homes.
+
+978609-1
+
+14
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 22 of 33
+
+Plaintiffs’ second alleged harm —that, “[o]n information and belief, some putative class
+members have suffered additional harm in the form of foreclosure activity against their homes”
+(FAC ¶ 147) —is also not cognizable. None of the named plaintiffs alleges that they had their
+homes foreclosed. In evaluating plaintiffs’ claims, it is irrelevant whether some other,
+unidentified members of the putative class, which has not been certified, suffered alleged injury.
+“[N]amed plaintiffs who represent a class must allege and show that they personally have been
+injured, not that injury has been suffered by other, unidentified members of the class to which
+they belong and which they purport to represent.” In re WellNx Mktg. & Sales Practices Litig.,
+673 F. Supp. 2d 43, 54-55 (D. Mass. 2009) (citation omitted). Furthermore, plaintiffs do not
+even claim that the alleged foreclosure activity against some putative class members had
+anything to do with participation in TPPs or failure to obtain permanent modifications. Thus,
+plaintiffs fail to allege the requisite causal link between the harm and the breach.
+Plaintiffs’ last alleged harm —that they “have been living in a state of stressful anxiety
+because of the limbo in which the Defendant has placed them” (FAC ¶ 147) —is also not
+cognizable damage. “[D]amages for mental suffering are generally not recoverable in an action
+for breach of contract.” John Hancock Mut. Life Ins. Co. v. Banerji, 858 N.E.2d 277, 288 (Mass.
+2006) (concluding that a disability insurer’s attempt to erroneously rescind policy benefits did
+not entitle the insured to damages for emotional distress under a breach of contract claim).
+Moreover, even if emotional distress damages were cognizable, plaintiffs’ distress is allegedly
+based on the “harms” described above, which are not cognizable as damages. Where “harms” do
+not result in cognizable damages, the emotional distress resulting from those “harms” is not
+cognizable either. See Kiely, 105 F.3d at 739 (Plaintiff’s “claim that he suffered emotional harm
+
+978609-1
+
+15
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 23 of 33
+
+as a result of the first four types of harm is not legally cognizable because the four events
+underlying the emotional harm are not cognizable.”).
+C.
+
+Any Purported Promise to Provide a Loan Modification Lacked
+Material Terms and Would Be, at Most, an Unenforceable Agreement
+to Agree.
+
+Even if plaintiffs could somehow overcome their failure to state the basic elements of
+consideration and damages, plaintiffs would still not have pled the existence of an enforceable
+contract. Although plaintiffs assert that the TPP “promises a HAMP modification” to any
+borrower who makes three monthly payments and submits the requested documentation
+(regardless of its content) (FAC ¶¶ 40-41), they nowhere allege that there was agreement on the
+key terms for a permanent modification, such as the principal amount, the monthly payment
+amount, the applicable interest rate(s), the loan term, or the amount of escrow payments owed, if
+any. The TPPs contained no such terms. (See FAC Exs. 8-10, 12.)
+Indeed, the TPP expressly specified that the monthly payment amount for any permanent
+modification remained undetermined. (See id. ¶ 3 (“Lender will determine the new payment
+amount” only after the trial period ends) (emphasis added).) The cover letter accompanying the
+TPP further stated: “At this time, we are not able to calculate precisely the Past Due Arrearage
+Amount or the amount of the modified loan payment that will be due . . . .” (FAC Ex. 7, at p. 1.)
+The Treasury guidelines note that “the monthly payment due under the [modified] Agreement
+may differ from the payment due under the Trial Period Plan.” (FAC Ex. 2, at p. 18.)
+Any purported promise to agree to a future loan modification on unspecified terms would
+be flatly unenforceable as a matter of law. “An agreement to reach an agreement is a
+contradiction in terms and imposes no obligation on the parties thereto.” Rosenfield v. U.S. Trust
+Co., 195 N.E. 323, 326 (1935). To be enforceable, “[a]ll the essential terms . . . must be definite
+and certain so that the intention of the parties may be discovered, the nature and extent of their
+978609-1
+
+16
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 24 of 33
+
+obligations ascertained, and their rights determined.” Lucey v. Hero Int’l Corp., 281 N.E.2d 266,
+269 (Mass. 1972) (citation omitted). “The court cannot make for the parties a contract which
+they did not make for themselves.” Id. (citation omitted).
+Massachusetts courts have specifically held that loan agreements are not enforceable
+where they lack key terms such as interest rate, loan term, and monthly payment amount, as the
+purported agreements do here. In Marine Midland Bank v. Herriott, 412 N.E.2d 908 (1980), the
+court affirmed dismissal of a contract claim due to lack of an enforceable loan agreement,
+holding that “[s]ignificant provisions of the understanding about a new loan, as described by
+[plaintiff], remained open, e.g., the term of the loan, how it would be secured, the manner and
+timing of disbursements, events of default, and the manner and timing of interest payments.” Id.
+at 909. Similarly, in LaChance v. BayBank Norfolk, No. 92-1088, 1994 Mass. Super. LEXIS 82
+(Mass. Super. Ct. Nov. 2, 1994), the court held that the loan “alleged to have been made by the
+defendant is unenforceable because its essential terms are incomplete and vague.” Id., at *24.
+The court emphasized that “neither [of the plaintiffs] alleges that the parties specifically agreed,
+during the critical conversation, upon how the loan would be secured, the manner and timing of
+disbursements and interest payments, the parties’ obligations in the event of a default, or that the
+loan would be a nonrecourse revolving one.” Id., at *24-25; see also Lambert v. Fleet Nat’l
+Bank, 865 N.E.2d 1091, 1096 (Mass. 2007) (where the parties had only a “general expectation
+that the bank would renew the [plaintiff’s mortgage loan]” despite plaintiff’s default, no
+enforceable contract existed because “conspicuously absent was any discussion of specifically . .
+. how much of a default on the loan the bank was required to overlook”).
+The First Circuit has agreed. In Jordan-Milton Machinery, Inc. v. F/V Teresa Marie, II,
+978 F.2d 32 (1st Cir. 1992), the court considered whether the parties had an enforceable contract
+
+978609-1
+
+17
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 25 of 33
+
+to finance the purchase of an engine. The defendant purportedly said that another lender,
+Caterpillar Financial Services, was offering an 8.25% interest rate with estimated monthly
+payments of $3,000 to $4,000. The defendant then allegedly stated, “We can do this deal.” Id. at
+35. The First Circuit held that, as a matter of law, “this agreement would be unenforceable as
+being too vague and uncertain to constitute an enforceable contract.” Id. “There was not any
+agreement as to the term of the loan (i.e., when repayment was to begin and end); there was no
+agreement as to the amount to be repaid each month; nor was there an agreement as to the rate of
+interest to be charged by a lender other than Caterpillar Financial Services. These omitted terms
+are material to a determination of whether an agreement for financing existed. Absent these key
+terms, there was not a valid enforceable agreement to provide financing.” Id. 3 The same logic
+requires the dismissal of plaintiffs’ breach of contract claim here.
+II.
+
+PLAINTIFFS DO NOT STATE A CLAIM FOR BREACH OF THE
+IMPLIED COVENANT OF GOOD FAITH AND FAIR DEALING
+(COUNT II).
+
+Plaintiffs do not state a claim for breach of the implied duty of good faith and fair dealing
+because they have not alleged a valid contract. “[T]he implied covenant of good faith and fair
+dealing governs conduct of parties after they have entered into a contract; without a contract,
+there is no covenant to be breached.” Mass. Eye & Ear Infirmary v. QLT Phototherapeutics,
+Inc., 412 F.3d 215, 230 (1st Cir. 2005) (applying Massachusetts law); see also O’Connor v.
+Merrimack Mut. Fire Ins. Co., 897 N.E.2d 593, 600 (Mass. App. Ct. 2008) (“failure to
+demonstrate the existence of an enforceable contract . . . is fatal to [plaintiff’s] contention that
+[defendant] violated that contract’s implied covenant of good faith and fair dealing”).
+
+3
+
+Although Jordan-Milton applied Maine rather than Massachusetts law, Maine employs
+the same test as Massachusetts on this issue. Compare Fitzgerald v. Hutchins, 983 A.2d 382,
+388 (Me. 2009), with Cataldo v. Zuckerman, 482 N.E.2d 849, 854 (Mass. App. Ct. 1985).
+
+978609-1
+
+18
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 26 of 33
+
+Moreover, even if plaintiffs had pled the existence of a valid contract, plaintiffs have not
+alleged any conduct “to deprive a party of the fruits of labor already substantially earned or
+unfair leveraging of the contract terms to secure undue economic advantage.” Christensen v.
+Kingston Sch. Comm., 360 F. Supp. 2d 212, 226 (D. Mass. 2005). In the lender-borrower
+context, the lender must have “purposefully injure[d] their right to obtain the benefit of the
+contract.” Famm Steel, Inc. v. Sovereign Bank, 571 F.3d 93, 100 (1st Cir. 2009) (quoting
+Shawmut Bank, N.A. v. Wayman, 606 N.E.2d 925, 928 (Mass. App. Ct. 1993)).
+The FAC makes no such allegation. The FAC merely alleges that Chase breached the
+implied covenant by failing to “follow through,” failing to “supervise” employees, and making
+“inaccurate” calculations or requests for documents. (FAC ¶ 152.) But, even if true, none of
+those allegations support the conclusion that Chase acted with the purpose of injuring plaintiffs
+or with the “dishonest purpose or conscious wrongdoing necessary for a finding of bad faith or
+unfair dealing.” Schultz v. R.I. Hosp. Trust Nat’l Bank, N.A., 94 F.3d 721, 730 (1st Cir. 1996)
+(applying Massachusetts law). At most, plaintiffs claim that Chase “financially benefits” from
+the foregoing omissions by “not hiring sufficient staff.” (FAC ¶ 154.) But, that claim is nothing
+more than the assertion that Chase, like virtually any other business, could have provided faster
+service by hiring more employees. That does not state a claim for breach of the implied
+covenant. See Ferris v. Federal Home Loan Mortg. Corp., 905 F. Supp. 23, 28 (D. Mass. 1995)
+(“[M]erely providing bad service does not constitute acting in bad faith.”); Wayman, 606 N.E.2d
+at 928 (finding no breach of the implied covenant as a matter of law, regardless of the fact that
+the bank “could certainly have been more diligent in its monitoring and its lending decisions”).
+III.
+
+PLAINTIFFS DO NOT STATE A CLAIM FOR PROMISSORY
+ESTOPPEL (COUNT III) EITHER.
+
+Perhaps recognizing that lack of consideration presents an insurmountable bar to their
+
+978609-1
+
+19
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 27 of 33
+
+breach of contract claim, plaintiffs fall back on asserting promissory estoppel. However, the
+other flaws in plaintiffs’ contract theory also foreclose their promissory estoppel claim.
+Plaintiffs do not allege a key element of promissory estoppel: detrimental reliance. “An
+element of promissory estoppel is that the party invoking it must have reasonably relied on the
+alleged promise to his detriment.” Hall v. Horizon House Microwave, Inc., 506 N.E.2d 178, 184
+(Mass. App. Ct. 1987). Here, in contrast, plaintiffs benefited by being permitted to make
+reduced mortgage payments, while remaining in their homes. (See Section I.A, supra.)
+Plaintiffs suffered no legal detriment —that is, they have given up nothing that they were
+previously entitled to retain —through their participation in the TPP. (Id.) See Cavanaugh v.
+United States, 640 F. Supp. 437, 440 (D. Mass. 1986) (applying the same definition of “legal
+detriment” in the context of promissory estoppel as in the context of consideration).
+Furthermore, the purported “promise” on which plaintiffs base their claim is, at best, an
+unenforceable agreement to agree. “In order to establish the existence of an enforceable
+promise, the plaintiff must show that the defendants’ promise included enough essential terms so
+that a contract including them would be capable of being enforced.” Moore v. La-Z-Boy, Inc.,
+639 F. Supp. 2d 136, 142 (D. Mass. 2009). Here, any purported promise of a permanent loan
+modification would lack, as a matter of law, the material terms required for an enforceable loan,
+such as interest rate, loan duration, and method of repayment. (See Section I.C, supra.) That
+fatal flaw does not vanish merely because plaintiffs assert their claim as one for promissory
+estoppel rather than one for breach of contract. See Fontneau v. Town of Sandwich, 251 F. Supp.
+2d 994, 1003 (D. Mass. 2003) (lack of “such material terms as duration and price” in the alleged
+promise “is as fatal to [plaintiff’s] promissory estoppel claim as it is to his contract claim”);
+Gabovitch v. Mercury Records, No. 93-2384, 1998 Mass. Super. LEXIS 459, at *9 (Mass. Super.
+
+978609-1
+
+20
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 28 of 33
+
+Ct. Aug. 26, 1998) (rejecting promissory estoppel claim because promise was a mere “agreement
+to agree” lacking essential terms). The promissory estoppel claim must be dismissed.
+IV.
+
+PLAINTIFFS’ CHAPTER 93A CLAIM (COUNT IV) FAILS AS A
+MATTER OF LAW AS WELL.
+A.
+
+Plaintiffs Have Not Satisfied the Jurisdictional Requirement of
+Sending a Valid Demand Letter.
+
+The Chapter 93A claim fails as a matter of law because none of the plaintiffs who assert
+this claim satisfied the jurisdictional prerequisite of sending a Chapter 93A demand letter before
+commencing suit. M.G.L. c. 93A § 9(3); see also Ball v. Wal-Mart, Inc., 102 F. Supp. 2d 44, 54
+(D. Mass. 2000) (demand letter is an “absolute prerequisite to an action asserted under G.L. c.
+93A, § 9”); McMahon v. Digital Equip. Corp., 944 F. Supp. 70, 77 (D. Mass. 1996) (failure to
+send a demand letter “is fatal on a motion to dismiss”).
+On March 4, 2010, after initiating this action, plaintiff Ramiza Durmic and two other
+persons who are no longer parties to this action, Aziz Isaak and Nadia Mohamed, sent a Chapter
+93A demand letter to Chase. (FAC Ex. 13 at p. 2.) That letter did not identify any other person
+by name or by the factual circumstances surrounding his or her claims. (Id.) Chase made offers
+of permanent modifications to all three petitioners, including Ms. Durmic. Ms. Durmic has
+conditionally accepted the offer (FAC ¶ 67), and does not bring a Chapter 93A claim. Mr. Isaak
+and Ms. Mohamed have accepted their offers too and have been dropped from the FAC.
+(Compare Compl. with FAC.) However, on June 10, 2010, an amended complaint was filed
+naming four new plaintiffs: the Treannies, Ms. Licata, and Ms. Rodrigues, each of whom now
+asserts a Chapter 93A claim against Chase. (FAC ¶¶ 163-64.) These four new plaintiffs, none of
+whom were mentioned in the March 4 letter either by name or by a description of their factual
+circumstances, now purport to rely upon the March 4 letter to satisfy the statutory prerequisite.
+
+978609-1
+
+21
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 29 of 33
+
+The new plaintiffs’ attempt to rely on the March 4 letter contravenes Chapter 93A’s
+express requirement that the demand letter “identify[] the claimant and reasonably describe[] the
+unfair or deceptive act or practice relied upon and the injury suffered.” M.G.L. c. 93A § 9(3).
+The FAC argues that the March 4 letter was sent not only on behalf of the persons actually
+named therein —Durmic, Isaak, and Mohamed —but also on behalf of “a group of similarly
+situated individuals,” and that the Treannies, Licata and Rodrigues happen to be part of that
+group. (FAC ¶ 169.) But that does not satisfy Chapter 93A’s statutory requirements that the
+demand letter identify each claimant and describe his or her injury. “[I]n judging the sufficiency
+of such a precertification demand letter, [Massachusetts courts] look solely to the description of
+the individual claimant’s own injury, and the central issue in this case becomes whether the
+demand letter sufficiently described the injury suffered by the plaintiff herself.” Richards v.
+Arteva Specialties S.A.R.L., 850 N.E.2d 1068, 1075 (Mass. App. Ct. 2006) (emphasis added).
+To adopt plaintiffs’ position would not only violate Chapter 93A’s express language, but
+it would also undercut the two purposes of the demand letter requirement: (i) to encourage
+negotiation and settlement, and (ii) to limit damages by capping recoverable damages at the
+amount of the defendant’s reasonable tender. Slaney v. Westwood Auto, Inc., 322 N.E.2d 768,
+779 (Mass. 1975). Chase could not have engaged in settlement negotiations with the Treannies,
+Ms. Licata, or Ms. Rodrigues, or tendered reasonable offers to them, on the basis of the March 4
+letter because the letter gave Chase no notice of their identities and provided no details of their
+alleged injuries or the damages they sought. See Richards, 850 N.E.2d at 1075. To hold
+otherwise would permit plaintiffs’ counsel to circumvent Chapter 93A’s demand letter
+requirement by planning in advance to hold certain plaintiffs in the wings to leap into the suit
+after others have accepted Chapter 93A offers and decided to settle their claims.
+
+978609-1
+
+22
+
+Case 1:10-cv-10380-RGS Document 12
+
+B.
+
+Filed 07/12/10 Page 30 of 33
+
+In Any Event, Plaintiffs’ Chapter 93A Claim Fails as a Matter of Law
+Because It Is Derivative of Plaintiffs’ Breach of Contract Claim.
+
+Even if the new plaintiffs had met the statutory demand letter requirement, their Chapter
+93A claim would still fail as wholly derivative of their contract claim. See Park Drive Towing,
+Inc. v. City of Revere, 809 N.E.2d 1045, 1050 (Mass. 2004) (where Chapter 93A claim was
+“derivative of [plaintiff’s] breach of contract claim,” the Chapter 93A claim “must fail” “[i]n
+light of our conclusion that no contract existed between the parties”); Pimental v. Wachovia
+Mortg. Corp., 411 F. Supp. 2d 32, 40 (D. Mass. 2006) (“Since [plaintiff] has failed to allege
+sustainable breach of contract or negligence claims, and the Chapter 93A claim is based upon the
+previous two claims, there is no basis for finding [defendant] liable under Chapter 93A.”).
+Here, all of the alleged bases of the Chapter 93A claim either fail as a matter of law or are
+derivative of plaintiffs’ breach of contract claim:
+•
+
+Although plaintiffs point to “wrongful foreclosures” (FAC ¶ 166), plaintiffs do not
+allege that any of their homes were foreclosed. Rather, the FAC alleges only, on
+information and belief, that some putative class members suffered foreclosures. That is
+legally insufficient. (See Section I.B, supra).
+
+•
+
+Plaintiffs point to “increased fees and other costs to avoid or attempt to avoid
+foreclosure.” (FAC ¶ 166.) Again, none of the plaintiffs asserting Chapter 93A claims
+alleges that Chase attempted to foreclose on his or her property.
+
+•
+
+The heart of plaintiffs’ Chapter 93A claim is their alleged entitlement to receive a
+permanent loan modification under HAMP pursuant to the TPPs. (FAC ¶ 166 (alleging
+“less favorable loan modifications,” “loss of savings in fruitless attempts to secure loan
+modifications,” and “loss of opportunities to pursue other refinancing or loss mitigation
+strategies”.) Those allegations are wholly derivative of plaintiffs’ contract claim.
+
+978609-1
+
+23
+
+Case 1:10-cv-10380-RGS Document 12
+
+•
+
+Filed 07/12/10 Page 31 of 33
+
+Finally, plaintiffs refer to “significant stress and emotional distress.” (FAC ¶ 166.) The
+only factual allegation supporting this claim is the alleged stress caused by not knowing if
+their reduced mortgage payments were temporary or permanent. (FAC ¶ 147.) Because
+that allegation is grounded in a claimed entitlement to receive a permanent loan
+modification, it too is derivative of plaintiffs’ breach of contract claim.
+
+Plaintiffs cannot save their contract claim by trying to reframe it as a Chapter 93A claim.
+V.
+
+THREE OF THE NAMED PLAINTIFFS DO NOT ALLEGE THAT THEY
+HAVE BEEN DENIED PERMANENT MODIFICATIONS, AND THUS DO
+NOT STATE ANY CLAIMS.
+
+Even if plaintiffs could overcome the legal hurdles that bar each of their claims as a
+matter of law, three of the named plaintiffs face yet another problem: they do not allege that
+they were, in fact, denied permanent modifications. Each of plaintiffs’ claims rests upon a
+purported refusal by Chase to offer a permanent loan modification. (FAC ¶ 127 (defining the
+putative class as those who “complied with their obligations under a written TPP Agreement, but
+have not received a permanent HAMP modification”); see also ¶¶ 145, 152.g, 158, 166.)
+The allegations of the FAC, however, establish that named plaintiff Ramiza Durmic has,
+in fact, received an offer of permanent modification. The FAC admits that “Chase made an offer
+of a permanent modification to Ms. Durmic, the terms of which have been conditionally accepted
+subject to a request for an accounting and receipt of documentation.” (FAC ¶ 67.) Similarly,
+Donald and Heather Treannie do not allege that Chase denied them a permanent modification.
+They allege only that their TPP “has not resulted in any determination.” (FAC ¶ 87.)
+The FAC hints that the Treannies and Ms. Durmic may attempt to resuscitate their claims
+by arguing that the TPPs somehow guarantee a permanent loan modification before the end of
+the Trial Period. (FAC ¶ 87.) The allegations of the FAC, however, do not identify any
+language in the TPPs to that effect. There is no such language. (See FAC Exs. 8, 9.) Indeed, the
+978609-1
+
+24
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 32 of 33
+
+TPPs state the opposite: that no permanent modification can be provided until after the Trial
+Period ends. “I understand that the Plan is not a modification of the Loan Documents and that
+the Loan Documents will not be modified unless and until . . . the Modification Effective Date
+has passed.” (FAC Ex. 8 at p. 11 ¶ 2.G; FAC Ex. 9 at p. 4 ¶ 2.G.) “Modification Effective Date”
+is defined as the end of the Trial Period. (FAC Ex. 8 at p. 10 ¶ 2; FAC Ex. 9 at p. 3 ¶ 2.)
+In sum, even if plaintiffs could allege the basic elements of Counts I through IV of the
+FAC, the claims of the Treannies and Ms. Durmic should still be dismissed, because those
+plaintiffs do not allege that Chase has refused their requests for permanent loan modifications.
+CONCLUSION
+For the foregoing reasons, the FAC should be dismissed.
+Dated: July 12, 2010
+
+Respectfully submitted,
+JPMorgan Chase Bank, N.A.,
+By its attorneys,
+
+/s/ Donn A. Randall
+Donn A. Randall, BBO# 631590
+Matthew A. Kane, BBO# 666981
+Bulkley, Richardson and Gelinas, LLP
+98 North Washington St.,Suite 500
+PO Box 9750
+Boston, MA 02114-0016
+Telephone: (617) 368-2520
+Facsimile: (617) 368-2525
+drandall@bulkley.com
+mkane@bulkley.com
+OF COUNSEL:
+Michael J. Agoglia (CA SBN 154810)
+Wendy M. Garbers (CA SBN 213208)
+MORRISON & FOERSTER LLP
+425 Market Street
+San Francisco, California 94105-2482
+Telephone: (415) 268-7000
+Facsimile: (415) 268-7522
+magoglia@mofo.com
+wgarbers@mofo.com
+
+978609-1
+
+25
+
+Case 1:10-cv-10380-RGS Document 12
+
+Filed 07/12/10 Page 33 of 33
+
+CERTIFICATE OF SERVICE
+I, Matthew A. Kane, hereby certify that a true copy of the foregoing document was
+served upon all counsel of record via this Court’s CM/ECF system or, if not registered on this
+Court’s CM/ECF system, then via first class mail, postage prepaid, on July 12, 2010.
+/s/ Matthew A. Kane
+Matthew A. Kane
+
+978609-1
+
+26
+
+

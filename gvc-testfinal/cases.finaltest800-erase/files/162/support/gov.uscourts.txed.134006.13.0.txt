@@ -1,0 +1,750 @@
+Case 6:11-cv-00660-LED Document 13
+
+Filed 02/27/12 Page 1 of 19 PageID #: 1110
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF TEXAS
+TYLER DIVISION
+PersonalWeb Technologies LLC,
+Plaintiff,
+v.
+EMC Corporation and VMware, Inc.,
+Defendants.
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+Civil Action No. 6:11-cv-660 (LED)
+
+JURY TRIAL REQUESTED
+ORAL ARGUMENT REQUESTED
+
+DEFENDANTS’ MOTION TO TRANSFER VENUE TO THE NORTHERN DISTRICT
+OF CALIFORNIA OR, IN THE ALTERNATIVE,
+TO THE CENTRAL DISTRICT OF CALIFORNIA
+
+ACTIVEUS 92731592v4
+
+Case 6:11-cv-00660-LED Document 13
+
+Filed 02/27/12 Page 2 of 19 PageID #: 1111
+
+I.
+
+INTRODUCTION ...............................................................................................................1
+
+II.
+
+FACTUAL BACKGROUND ..............................................................................................4
+A.
+PersonalWeb’s Ties to California ............................................................................4
+B.
+The Patents’ and Inventors’ Ties to California ........................................................5
+C.
+VMware’s and EMC’s Ties to California ................................................................6
+D.
+The Bulk of Relevant Documents Are in California ...............................................7
+E.
+The Bulk of Relevant Witnesses Are in California .................................................8
+
+III.
+
+Either California District Is A More Convenient Forum .....................................................9
+A.
+Legal Standard .........................................................................................................9
+B.
+Brilliant’s and PersonalWeb’s Strategic Efforts To Create Ties To This District
+Should Not Be Accorded Any Weight...................................................................10
+C.
+The Private Interest Factors Favor Transfer to California .....................................10
+1.
+The Relevant Evidence Is In California .....................................................11
+2.
+California Will Be More Convenient for Willing Witnesses.....................11
+3.
+Unwilling Witnesses Will Be Subject To Compulsory Process in
+California ...................................................................................................12
+4.
+Judicial Economy Favors Transfer to California .......................................13
+D.
+The Public Interest Factors Favor Transfer to California Or Are Neutral .............14
+1.
+California Has a Strong Local Interest in Deciding This Case ..................14
+2.
+California Courts Are Less Congested ......................................................15
+
+IV.
+
+CONCLUSION ..................................................................................................................15
+
+ACTIVEUS 92731592v4
+
+Case 6:11-cv-00660-LED Document 13
+
+I.
+
+Filed 02/27/12 Page 3 of 19 PageID #: 1112
+
+INTRODUCTION
+Pursuant to 28 U.S.C. § 1404(a), defendants EMC Corporation (“EMC”) and VMware,
+
+Inc. (“VMware”) move to transfer this patent infringement action to the Northern District of
+California or, in the alternative, to the Central District of California.
+The intellectual property interests asserted in this case have been owned and controlled,
+for more than nine years, by three California-based companies: Brilliant Digital Entertainment,
+Inc. (“Brilliant”) and its subsidiaries Altnet, Inc. (“Altnet”) and Kinetech, Inc. (“Kinetech”) –
+the original assignee of the patents.1 These companies are run by California residents, and have
+asserted the patents in California courts at least three times. Indeed, the patents are so tied to
+California that, in one of these cases, Brilliant’s Chief Executive Officer declared in a court
+filing opposing a motion to transfer that it would impose “substantial hardship and burden” to
+litigate the patents outside of California. See Ex. 1, 2007 Bermeister Decl., ¶ 5.2
+On July 6, 2011, Brilliant issued a press release announcing the issuance of three of the
+patents asserted in this case and its intention to enforce the entire portfolio against the storage
+and cloud computing industries. See Ex. 2, 7/6/11 Brilliant Press Release. Two months later,
+Brilliant and PersonalWeb Technologies LLC (“PersonalWeb”) announced the completion of
+“an asset contribution” through which Brilliant received majority ownership of PersonalWeb,
+and PersonalWeb received Brilliant’s and its subsidiaries’ interests in the patents. See Ex. 3,
+9/28/11 PW Press Release. PersonalWeb had been formed the prior year by a group of
+California companies and residents. Less than three months after receiving Brilliant’s interests
+in the patents, PersonalWeb filed this lawsuit against EMC and VMware.
+1
+As set forth in EMC’s and VMware’s Motion to Dismiss for Lack of Subject Matter Jurisdiction, filed
+simultaneous with this motion, the public records on file with the Patent and Trademark Office indicate that
+PersonalWeb owns only a portion of the patents that it has asserted in this case.
+2
+Unless otherwise noted, all exhibits referenced in this memorandum are appended to the Declaration of Cortney C.
+Hoecherl in Support of Defendants’ Motion to Transfer Venue to the Northern District of California or, in the
+Alternative, to the Central District of California (“Hoecherl Decl.”).
+
+-1ACTIVEUS 92731592v4
+
+Case 6:11-cv-00660-LED Document 13
+
+Filed 02/27/12 Page 4 of 19 PageID #: 1113
+
+As the Federal Circuit has confirmed in a series of recent decisions, a party’s strategic
+efforts to create ties to a jurisdiction are entitled to no weight in evaluating the appropriate
+venue. “The Supreme Court has long urged courts to ensure that the purposes of jurisdictional
+and venue laws are not frustrated by a party's attempt at manipulation.” In re Microsoft Corp.,
+630 F.3d 1361, 1364 (Fed. Cir. 2011); see also id. (courts should not “honor connections to a
+preferred forum made in anticipation of litigation and for the likely purpose of making that
+forum appear convenient”).
+Even where a plaintiff has legitimate ties to a judicial district, a recent presence and a
+small number of employees in a given district cannot outweigh substantial ties to another venue.
+See, e.g., EON Corp. IP Holdings, LLC v. Sensus, USA, Inc., No. 2:10-cv-448, 2012 WL 122562,
+at *5 (E.D. Tex. Jan. 9, 2012) (“[W]hatever weight might be afforded Plaintiff's presence in the
+Eastern District is outweighed by the presence of . . . defendants in [California], where the
+decisions and events giving rise to this case likely were made or occurred.”); Network Prot. Scis.,
+LLC v. Juniper Networks, Inc., No. 2:10-cv-224, 2012 WL 194382, at *7 (E.D. Tex. Jan. 23,
+2012) (transferring case despite plaintiff's “small and fairly recent operations in Texas,” because
+defendants developed products in California and “employed thousands of people [there]”).
+This is clearly a case – like Microsoft and EON – where the relevant factors weigh
+strongly in favor of transfer. All of the parties have strong ties to California, the patents
+themselves have strong ties to California, and the relevant public and private factors
+overwhelmingly favor venue in the Northern District or Central District of California.
+VMware’s world headquarters, and the large majority of its relevant documents and employees,
+are located in the Northern District of California. Most of EMC’s relevant operations are
+
+-2ACTIVEUS 92731592v4
+
+Case 6:11-cv-00660-LED Document 13
+
+Filed 02/27/12 Page 5 of 19 PageID #: 1114
+
+similarly located in the Northern District or Central District of California.3 Although
+PersonalWeb has yet to identify the products it intends to accuse of infringement with any
+particularity, given that almost all of VMware’s operations and most of EMC’s relevant
+operations are in California, VMware and EMC expect that the large majority of their relevant
+documents and witnesses will be located in California.
+PersonalWeb – and the asserted Patents themselves – also have strong ties to California.
+PersonalWeb was founded by a group of California companies and residents, and is owned and
+controlled by its California-based parent company – Brilliant. Defendants expect that California
+residents associated with these companies will have information relevant to the case. Moreover,
+Brilliant and its subsidiaries have asserted one or more of the patents in the Central District of
+California in three separate cases. Both of the inventors named on the patents also have
+significant ties to California – one of the inventors resides in California, the other appears to
+regularly transact business in California and, as such, is subject to process in California.
+Given these strong ties to California, the Northern District and Central District of
+California have a strong local interest in this controversy. Both districts are less congested than
+this District; and the Central District of California, having overseen three prior litigations, is
+familiar with the patents and the technologies underlying them.
+The Court, accordingly, should transfer this case to the Northern District of California or,
+in the alternative, to the Central District of California.
+
+3
+
+Plaintiffs have not identified the products they intend to accuse of infringement with any particularity. For
+VMware, the Complaint simply references “VMware products and services.” Compl. ¶¶ 16, 20, 24, 28, 32, 36, 40,
+44. For EMC, the Complaint focuses, for the most part, on companies that EMC has acquired – Data Domain,
+Avamar, VMware, Isilon, and Greenplum – rather than the products associated with these companies. Compl. ¶¶
+15, 19, 23, 27, 31, 35, 39, 43; see also Declaration of Kathleen M. Lyons in Support of Defendants’ Motion to
+Transfer Venue to the Northern District of California or, in the Alternative, to the Central District of California
+(“Lyons Decl.”), ¶¶ 6-11. The Complaint also names two additional broad product families, EMC Centera and
+EMC Atmos. Id.
+
+-3ACTIVEUS 92731592v4
+
+Case 6:11-cv-00660-LED Document 13
+
+II.
+
+Filed 02/27/12 Page 6 of 19 PageID #: 1115
+
+FACTUAL BACKGROUND
+A.
+
+PersonalWeb’s Ties to California
+
+PersonalWeb filed this patent infringement lawsuit on December 8, 2011, alleging that
+VMware and EMC have infringed eight related patents (the “Patents”). See Compl. ¶ 2.4
+PersonalWeb’s parent company, Brilliant, and its subsidiaries, Altnet and Kinetech, have
+controlled the intellectual property interests asserted in this case for more than nine years.
+Brilliant is a Delaware corporation with its principal place of business in Studio City, California.
+See Ex. 4, CA Sec. State Records. Altnet and Kinetech are also Delaware corporations with the
+same principal place of business in California. See Exs. 5 and 6, CA Sec. State Records.
+Brilliant and Altnet acquired their interests in the asserted Patents from Kinetech, the
+original assignee, in 2002 – initially through a license, and subsequently through an acquisition
+of Kinetech. See Ex. 7, 4/16/07 Business Wire Article; Ex. 2, 7/6/11 Brilliant Press Release. As
+Brilliant confirmed in announcing the acquisition, the primary motive was to obtain control over
+Kinetech’s patent portfolio. See Ex. 7, 4/16/07 Business Wire Article. Brilliant and Kinetech
+continued to prosecute the portfolio after the acquisition, ultimately leading to the issuance of the
+last five of the eight patents asserted in this case (the ‘310, ‘539, ‘544, ‘662, and ‘096 patents).
+On July 6, 2011, Brilliant and Kinetech issued a press release announcing the issuance of
+the ‘539, ‘544, and ‘662 patents and their intention to enforce the entire portfolio against the
+storage and cloud computing industries. See Ex. 2, 7/6/11 Brilliant Press Release. Kevin
+Bermeister, CEO of Brilliant and Kinetech, stated in this press release that the companies were
+continuing to “actively pursue licensing and participation in the operation of businesses that use
+
+4
+The patents are U.S. Patent Nos. 5,978,791 (“the ‘791 patent”), 6,415,280 (“the ‘280 patent”), 6,928,442 (“the ‘442
+patent”), 7,802,310 (“the ‘310 patent”), 7,945,539 (“the ‘539 patent”), 7,945,544 (“the ‘544 patent”), 7,949,662
+(“the ‘662 patent”), and 8,001,096 (“the ‘096 patent”). All of the patents claim priority to the same original patent
+application, U.S. Patent Application No. 08/425,160.
+
+-4ACTIVEUS 92731592v4
+
+Case 6:11-cv-00660-LED Document 13
+
+Filed 02/27/12 Page 7 of 19 PageID #: 1116
+
+our patents . . . .” Id. The same day, Brilliant’s business development manager, Michael Speck,
+stated in a news article that the companies “intend to pursue [alleged] infringers” of the patents.
+See Ex. 8, 7/6/11 IT News Article (linked to Brilliant’s Website).
+Two months later, on September, 28, 2011, Brilliant and PersonalWeb announced the
+completion of “an asset contribution” through which Brilliant received majority ownership of
+PersonalWeb, and PersonalWeb received Brilliant’s and its subsidiaries’ interests in the Patents.
+See Ex. 3, 9/28/11 PW Press Release. PersonalWeb had been formed the prior year by Michael
+Weiss, a California resident.5 Its most senior executives all have substantial California ties –
+Michael Weiss (CEO) and Wasef Kassis (CTO) own residences in California, and Kevin
+Bermeister (Non-Executive Chairman) regularly transacts business in California.6
+Three months after receiving Brilliant’s interests in the Patents, PersonalWeb filed this
+lawsuit. Although PersonalWeb claims to be a “proud member of the East Texas community”
+and to be collaborating with the University of Texas at Tyler, it announced this collaboration just
+two days prior to filing this suit. Ex. 9, 12/6/11 PW Press Release.
+B.
+
+The Patents’ and Inventors’ Ties to California
+
+In addition to Brilliant’s and PersonalWeb’s ties to California, the Patents themselves
+have strong ties to California. One of the two named inventors, David A. Farber, resides in Ojai,
+California. See, e.g., Ex. 10, ‘096 patent (issued 8/16/11, identifying Farber’s residence as
+5
+
+PersonalWeb, Inc. was formed by Michael Weiss, Murray Markiles, and Mark Dyne. See Ex. 16, 5/12/10,
+PersonalWeb Certificate of Formation. Although Weiss, Markiles, and Dyne each listed the same Tyler, Texas
+address in the Certificate of Formation, all three own residences in California and appear to be California residents.
+Id,; see also Ex. 12, Accurint Finder Report for Michael Weiss; Ex.14, Accurint Finder Report for Murray Markiles;
+Ex. 15, Accurint Finder Report for Mark Dyne. Weiss subsequently formed PersonalWeb Technologies, LLC, with
+Claria Innovations, LLC of Sherman Oaks, California as the sole member. See Ex. 11, 8/5/10, PersonalWeb LLC
+Certificate of Formation.
+6
+
+Weiss and Kassis both own residences in California and appear to reside in California. See Ex. 12, Accurint
+Finder Report for Weiss; Ex. 13, Mr. Weiss’s LinkedIn page (indicating he is in the Greater Los Angeles Area); Ex.
+17, Accurint Finder Report for Kassis. Bermeister, now PersonalWeb’s Non-Executive Chairman, also appears to
+have resided in California, or at least to have maintained a residence there. See Ex. 18, Accurint Finder Report for
+Bermeister. Mr. Bermeister regularly transacts business in California at least through Brilliant.
+
+-5ACTIVEUS 92731592v4
+
+Case 6:11-cv-00660-LED Document 13
+
+Filed 02/27/12 Page 8 of 19 PageID #: 1117
+
+Ojai).7 The other named inventor, Ronald Lachman, has founded, advised, or served as a
+director for multiple California-based companies.8 Moreover, Brilliant and its subsidiaries have
+asserted one or more of the Patents – at least three times – in the Central District of California,
+including in a 2004 action against the Recording Industry Association of America that remained
+pending for more than two years, a 2006 action against Streamcast Networks, Inc. that remained
+pending for more than a year, and a 2007 action against The Lime Group, Inc. that remained
+pending for two years.9 In the last of these cases, Brilliant and its California-based subsidiaries
+successfully opposed a motion to transfer the case from California to New York on the ground
+that litigating outside of California would impose “substantial hardship and burden” because
+“[a]ll of the Plaintiffs’ relevant files, software, and business operations are located in the Los
+Angeles area[,]” their employees were located in the Los Angeles area, and many “key
+witnesses” were located in California. See Ex. 1, 2007 Bermeister Decl., ¶¶ 5, 6.
+C.
+
+VMware’s and EMC’s Ties to California
+
+VMware and EMC have equally strong ties to California. VMware’s world headquarters
+and almost all of its potentially relevant operations are in Palo Alto, California.10 See
+Declaration of Betsy Sutter in Support of Defendants’ Motion to Transfer Venue to the Northern
+District of California or, in the Alternative, to the Central District of California (“Sutter Decl.”),
+
+7
+
+See also Ex. 19, Farber Facebook Page (confirming he lives in Ojai, California).
+
+8
+
+Lachman is the founder of Catbird Networks, Inc., a company located in Scotts Valley, California. See Ex. 20,
+Excerpt from Catbird Networks Website. A profile for Mr. Lachman indicates that he has also served as a founder,
+advisor, and/or director for multiple other California-based companies including Santa Cruz Operation (located in
+Santa Cruz, CA), Internet Dynamics (located in Fremont, CA), 2Bridge (located in San Francisco, CA), Sandpiper
+Networks (located in Thousand Oaks, CA), and Telemedia Devices (located in Palo Alto, CA). See Ex. 21,
+CenterGate Profile for Lachman (identifying ties to these companies).
+9
+The 2004 litigation was captioned Altnet, Inc., et al v. Recording Industry Association of America, et al (2:04-cv07456-JFW-CT); the 2006 litigation was captioned Altnet, Inc., et al v. Streamcast Networks, Inc., et al (2:06-cv050S6-EDW-E); and the 2007 litigation was captioned Kinetech, Inc., et al v. The Lime Group, Inc. et al (2:07-cv06161-VBF-PLA).
+10
+
+EMC owns a majority interest in VMware.
+
+-6ACTIVEUS 92731592v4
+
+Case 6:11-cv-00660-LED Document 13
+
+Filed 02/27/12 Page 9 of 19 PageID #: 1118
+
+¶ 4. While EMC’s world headquarters are in Massachusetts, three of the six EMC entities
+identified in the Complaint (not counting VMware) are located in California – Data Domain in
+Santa Clara, California; Avamar in Irvine, California; and Greenplum in San Mateo, California.
+See Lyons Decl., ¶¶ 6-8. A fourth EMC entity identified in the Complaint, Isilon, is located in
+Seattle, Washington (and thus much closer to California than Texas). See Lyons Decl., ¶ 9; see
+also Hoecherl Decl., ¶ 34.11 Collectively, VMware and EMC employ more than 6,500 people in
+California. See Sutter Decl., ¶ 4; Lyons Decl., ¶ 4. None of the Defendants’ relevant operations
+are located in Texas.12 See Sutter Decl., ¶¶ 6-9; see also Lyons Decl., ¶¶ 6-12.
+D.
+
+The Bulk of Relevant Documents Are in California
+
+PersonalWeb has yet to identify the products that it intends to accuse of infringement
+with any particularity – instead, it has simply identified VMware and six other EMC entities.
+Given that almost all of VMware’s relevant operations are located in California, and most of
+EMC’s relevant operations are in California, Defendants believe that the bulk of their relevant
+documents will be located in California. See Sutter Decl., ¶¶ 6, 9; Lyons Decl., ¶¶ 6-12.
+Brilliant’s, Altnet’s and Kinetech’s documents relating to the Patents and their
+ownership, prosecution, and prior assertions also appear to be located in California. See Ex. 1,
+2007 Bermeister Decl., ¶¶ 5, 6. Indeed, in opposing the motion to transfer the case against The
+Lime Group from California to New York, Brilliant’s CEO confirmed that “[a]ll of [Brilliant,
+Altnet and Kinetech’s] relevant files . . . are located in the Los Angeles area.” Id. ¶ 5.
+11
+
+The remaining two EMC product families – Centera and Atmos – were developed in Massachusetts. See Lyons
+Decl., ¶¶ 10-11.
+
+12
+
+EMC has a very large number of local sales, professional services and customer support offices spread across the
+United States and the globe, including offices in Texas. EMC does not anticipate that its offices in Texas will have
+any significant documents relevant to this case. At the very most, the local office records in Texas will be largely
+duplicative of the records maintained at EMC’s sales headquarters in Hopkinton, Massachusetts. See Lyons Decl., ¶
+12. Similarly, two of VMware’s approximately 115 field offices spread across the globe are located in Texas, one
+in Dallas and one in Austin. Like EMC, VMware does not anticipate that these field offices will have any
+significant documents relevant to this case. At the very most, they may have a few records that will be duplicative
+of the records maintained at VMware’s sales headquarters in Palo Alto, California. See Sutter Decl., ¶¶ 7-9.
+
+-7ACTIVEUS 92731592v4
+
+Case 6:11-cv-00660-LED Document 13
+
+E.
+
+Filed 02/27/12 Page 10 of 19 PageID #: 1119
+
+The Bulk of Relevant Witnesses Are in California
+
+Defendants anticipate that the large majority of their employees with information relevant
+to the case will be located in California. See Sutter Decl., ¶¶ 6-7; Lyons Decl., ¶¶ 6-11. None of
+these witnesses will be located in Texas. See Sutter Decl., ¶ 9; Lyons Decl., ¶¶ 6-11.
+Defendants also expect that a number of other individuals located or working in
+California will have information relevant to the case. Most significantly, as referenced above,
+one of the two inventors named on the Patents resides in California, and the second appears to
+regularly transact business in California. See, supra, § II.B. Significant prior art inventors and
+prior licensees of the Patents also appear to reside in California.13 A significant witness
+associated with Digital Island, Inc. (to which Kinetech transferred a 50% interest in the Patents)
+– Howard Lasky – also resides in California and has information relevant to Defendants’
+standing defense.14 Furthermore, a number of individuals associated with Brilliant, Altnet, and
+Kinetech also will have information relevant to the case, including Defendants’ laches, equitable
+estoppel, standing, and damages-related defenses. Id. Again, as Brilliant’s CEO confirmed in
+opposing transfer of The Lime Group case from California to New York, inventor David Farber
+has “unique knowledge that makes him an essential witness at trial,” and Brilliant, Altnet and
+Kinetech employees, also residing in California, “have knowledge regarding patent ownership . .
+. and damages-related issues . . . .” See Ex. 1, 2007 Bermeister Decl., ¶ 6; see also Ex.22,
+Brilliant’s Opp. to Motion to Transfer, at 6.
+13
+
+The inventor of at least one significant prior art patent is located in Northern California. Dr. Martin Hellman is a
+professor at Stanford University in Palo Alto, California and the inventor of U.S. Patent No. 4,658,093, entitled
+“Software Distribution System,” which was the principal prior art reference in the reexamination of the ’442 patent.
+Ex. 23, Hellman’s profile from Stanford; see also In re Reexamination of U.S. Patent No. 6,928,442. The Patents
+have been previously licensed to Audible Magic Corp. (located in Los Gatos, CA) and Skype (whose North
+American Headquarters is located in Palo Alto, CA). See Ex. 2, 7/6/11 Brilliant Press Release; Ex. 25, CA Sec. of
+State Records; and Ex. 26, 3/1/11 GlobeSt.com Article.
+14
+
+Kinetech transferred a 50% interest in the Patents to Digital Island, Inc. before transferring the remaining interest
+to PersonalWeb. Digital Island representatives, including at least Howard Lasky who signed the relevant agreement,
+have information relevant to Defendants’ standing defense See EMC’s and VMware’s Motion to Dismiss for Lack of
+Subject Matter Jurisdiction; see also Ex. 28, Accurint Finder Report for Howard Lasky.
+
+-8ACTIVEUS 92731592v4
+
+Case 6:11-cv-00660-LED Document 13
+
+Filed 02/27/12 Page 11 of 19 PageID #: 1120
+
+Finally, PersonalWeb’s three most senior executives – Michael Weiss, Wasef Kassis, and
+Kevin Bermeister – all have substantial California ties. See, supra, § II.A. Defendants expect
+that these individuals also will have information relevant to their laches, equitable estoppel,
+standing, and damages-related defenses.
+III.
+
+EITHER CALIFORNIA DISTRICT IS A MORE CONVENIENT FORUM
+A.
+
+Legal Standard
+
+Section 1404(a) provides that “[f]or the convenience of parties and witnesses, in the
+interest of justice, a district court may transfer any civil action to any other district or division
+where it might have been brought.” 28 U.S.C. § 1404(a). Transfer is appropriate upon a “good
+cause” demonstration by the moving party “that the transferee venue is clearly more convenient.”
+In re Volkswagen of Am. Inc., 545 F.3d 304, 315 (5th Cir. 2008) (“Volkswagen II”).15
+In deciding whether a transferee venue is “clearly more convenient”, the Court must
+assess and balance both private and public interest factors. Id. at 315. The plaintiff’s choice of
+venue is not a factor in this analysis. Id. at 314 n.10. The private interest factors are: “(1) the
+relative ease of access to sources of proof; (2) the availability of compulsory process to secure
+the attendance of witnesses; (3) the cost of attendance for willing witnesses; and (4) all other
+practical problems that make trial of a case easy, expeditious and inexpensive.” Id. at 315. The
+public interest factors are: “(1) the administrative difficulties flowing from court congestion; (2)
+the local interest in having localized interests decided at home; (3) the familiarity of the forum
+with the law that will govern the case; and (4) the avoidance of unnecessary problems of conflict
+of laws [or in] the application of foreign law.” Id. at 315.
+
+15
+
+There should be no dispute that this case could have been brought in the Northern District or Central District of
+California. A patent infringement action may be brought in any judicial district “where the defendant resides,” and a
+corporate defendant “shall be deemed to reside in any judicial district in which it is subject to personal jurisdiction at
+the time the action is commenced.” 28 U.S.C. §§ 1400(b) and 1391(c).
+
+-9ACTIVEUS 92731592v4
+
+Case 6:11-cv-00660-LED Document 13
+
+B.
+
+Filed 02/27/12 Page 12 of 19 PageID #: 1121
+
+Brilliant’s and PersonalWeb’s Strategic Efforts To Create Ties To This
+District Should Not Be Accorded Any Weight
+
+In assessing the relevant venue factors, a court should not “honor [plaintiff’s] connections
+to a preferred forum made in anticipation of litigation and for the likely purpose of making that
+forum appear convenient.” In re Microsoft Corp., 630 F.3d 1361, 1364 (Fed. Cir. 2011).
+PersonalWeb’s claimed ties to Texas are clearly strategic. As referenced above, Brilliant only
+recently transferred its interests in the Patents to PersonalWeb – after announcing its intentions
+to enforce the Patents against the storage and cloud computing industries – and Brilliant has
+retained majority ownership of PersonalWeb. In fact, Brilliant’s efforts to create venue in this
+District are so transparent that they have been the subject of multiple third party commentaries.
+See, e.g., Ex. 24, 12/12/11 IT News Article (commenting that PersonalWeb “was deliberately
+established in the state [Texas]” because it is a “favourable jurisdiction”).
+As the Federal Circuit has repeatedly confirmed, a party’s strategic efforts to create ties
+to a particular jurisdiction are entitled to no weight in evaluating the appropriate venue. See,
+e.g., In re Microsoft Corp., 630 F.3d at 1364 (“The Supreme Court has long urged courts to
+ensure that the purposes of jurisdictional and venue laws are not frustrated by a party’s attempt at
+manipulation.”); In re Zimmer Holdings, Inc., 609 F.3d 1378, 1381-82 (Fed. Cir. 2010)
+(patentee’s presence in Texas was entitled to no weight where it “appears to be recent,
+ephemeral, and an artifact of litigation”); In re Hoffmann-La Roche, Inc., 587 F.3d 1333, 1337
+(Fed. Cir. 2009) (“plaintiff’s attempts to manipulate venue in anticipation of litigation or a
+motion to transfer falls squarely within [the] prohibited activities” under Supreme Court cases).
+C.
+
+The Private Interest Factors Favor Transfer to California
+
+Most of the likely witnesses and documents in this case are located in California.
+Accordingly, the private interest factors weigh heavily in favor of transfer.
+
+- 10 ACTIVEUS 92731592v4
+
+Case 6:11-cv-00660-LED Document 13
+
+1.
+
+Filed 02/27/12 Page 13 of 19 PageID #: 1122
+
+The Relevant Evidence Is In California
+
+“[T]ypically in a patent case, the defendant has the majority of relevant documents.” On
+Semiconductor Corp. v. Hynix Semiconductor, Inc., No. 6:09-cv-390, 2010 U.S. Dist. LEXIS
+104616, at *15 (E.D. Tex. Sept. 30, 2010). “Consequently, the place where the defendant’s
+documents are kept weighs in favor of transfer to that location.” In re Genentech, 566 F.3d at
+1345.
+Although PersonalWeb has not specifically identified the products it intends to accuse of
+infringement, given that the bulk of VMware’s and EMC’s relevant operations are in California,
+Defendants expect that the bulk of their relevant documents also will be located in California.
+See Sutter Decl., ¶¶ 6, 9; Lyons Decl., ¶¶ 6-12. As Brilliant’s CEO confirmed in opposing
+transfer of The Lime Group case, most of the documents relevant to the asserted Patents, and to
+their ownership, prosecution, and prior assertion, are also located in California. See, supra, §
+II.C; see also Ex. 1, 2007 Bermeister Decl., ¶ 5. PersonalWeb, in contrast, is not likely to have
+any significant amount of relevant documents, given that it had no involvement with the Patents
+until July of 2011.
+Accordingly, this factor weighs heavily in favor of transfer to California.
+2.
+
+California Will Be More Convenient for Willing Witnesses
+
+The convenience and cost of attendance for witnesses – “the single most important factor
+in the transfer analysis” – also heavily favors transfer. In re Genentech, 566 F.3d at 1343.16
+As noted above, VMware expects that the bulk of its relevant witnesses will be located in
+California, and EMC anticipates that most of its witnesses also will be located in California. See,
+16
+
+The Fifth Circuit has adopted a “100-mile rule,” which requires that “[w]hen the distance between an existing
+venue for trial of a matter and a proposed venue under § 1404(a) is more than 100 miles, the factor of inconvenience
+to witnesses increases in direct relationship to the additional distance to be traveled.” In re Genentech, 566 F.3d at
+1343. Thus, the 100-mile rule favors transfer where the proposed venue is a shorter average distance away from
+witnesses than the plaintiff’s chosen venue. See Volkswagen II, 545 F.3d at 317; In re TS Tech USA Corp., 551
+F.3d. 1315, 1320 (Fed. Cir. 2008).
+
+- 11 ACTIVEUS 92731592v4
+
+Case 6:11-cv-00660-LED Document 13
+
+Filed 02/27/12 Page 14 of 19 PageID #: 1123
+
+supra, § II.C.; see also Sutter Decl., ¶¶ 6-8; Lyons Decl., ¶¶ 6-11. To testify at trial in this
+District, these witnesses would be burdened with a trip of no less than 1336 miles – which would
+last close to five hours and require at least two separate flights.17 See Hoecherl Decl., ¶ 32; see
+also In re TS Tech USA Corp., 551 F.3d 1315, 1320 (Fed. Cir. 2008) (failure to consider that
+witnesses would have to travel approximately 900 more miles to attend trial in Texas than in
+transferee district was “clear error”).
+California is also significantly more convenient for the two named inventors on the
+Patents, and for PersonalWeb’s own executive officers. See, supra, §§ II.A, II.B. These
+witnesses will have relevant information relating to the Patents, to the ownership, prosecution,
+and prior assertions of the Patents, and to Defendants’ standing and damages-related defenses.
+Accordingly, this factor also weighs strongly in favor of transfer. See, e.g., Network
+Prot. Scis., LLC v. Juniper Networks, Inc., No. 2:10-cv-224, 2012 WL 194382, at *6 (E.D. Tex
+Jan. 23, 2012) (granting transfer where “[t]he number of witnesses residing in Texas, and any
+relevant information which they may provide, pales in comparison to the number of party and
+non-party witnesses with relevant information residing in Northern California”).
+3.
+
+Unwilling Witnesses Will Be Subject To Compulsory Process in
+California
+
+To the extent the inventors are not willing to participate in this case voluntarily, both
+would be subject to compulsory process in California (but not in the Eastern District of Texas).
+As discussed above, inventor David Farber resides in Ojai, California, and inventor Ronald
+Lachman regularly transacts business in California. See, supra, § II.B; see also Fed. R. Civ. P.
+45(c)(3)(A)(ii). Significant witnesses associated with Digital Island (to whom Kinetech
+17
+
+The shortest commercial flight from Los Angeles, California to Tyler, Texas is 1336 miles (on two separate
+flights), and the shortest commercial flight from San Francisco, California to Tyler, Texas is 1566 miles (on two
+separate flights). See Hoecherl Decl., ¶ 32. The witnesses within the chosen California district will only have a
+short car ride to testify, while those California witnesses outside of the chosen district will only need to take a short
+commercial flight between San Francisco and Los Angeles of approximately 339 miles. Id., ¶ 33.
+
+- 12 ACTIVEUS 92731592v4
+
+Case 6:11-cv-00660-LED Document 13
+
+Filed 02/27/12 Page 15 of 19 PageID #: 1124
+
+transferred a 50% interest in the Patents), prior art, and prior licenses – relevant to Defendants’
+standing, validity and damages defenses – also reside in California. See, supra, § 2(e).
+In addition to these witnesses, Defendants expect that they also will likely call as
+witnesses various individuals associated with Brilliant, Altnet, and Kinetech, all of whom live or
+regularly transact business in the Central District of California, including at least Kevin
+Bermeister, Anthony Neumann, and the Kinetech employees involved in the decision to
+approach EMC about the ‘791 and ‘280 Patents in 2004. These witnesses have information
+relevant to the ownership, prosecution, and prior assertions of the Patents, and to Defendants’
+laches, equitable estoppel, standing, and damages-related defenses.18
+All of these witnesses are subject to the Central District’s absolute subpoena power for
+depositions and for trial, as well as the Northern District’s subpoena power for trial. See Fed. R.
+Civ. P. 45; see also Brackett v. Hilton Hotels Corp., 619 F. Supp. 2d 810, 821 (N.D. Cal. 2008)
+(“The California district courts have the power to subpoena witnesses throughout the state . . .
+.”). Accordingly, this factor also weighs heavily in favor of transfer.
+4.
+
+Judicial Economy Favors Transfer to California
+
+Judicial economy also weighs in favor of transferring this case to California. This case
+has only recently been filed, and this Court has not yet decided any substantive issues. See, e.g.,
+Internet Machs. LLC v. Alienware Corp., No. 6:10-cv-023, 2011 U.S. Dist. LEXIS 66207, at
+
+18
+
+Defendants have particularly strong laches and equitable estoppel defenses. Kinetech approached EMC twice in
+2004 to discuss the ‘791 and ‘280 patents, but after EMC explained the reasons that it was not infringing the patents,
+Kinetech never brought suit. See Lyons Decl., ¶¶ 13-14. Given the length of the delay, there is a presumption of
+laches. See, e.g., A.C. Aukerman Co. v. R.L. Chaides Constr. Co., 960 F.2d 1020, 1035-36 (Fed. Cir. 1992) (“[T]he
+underlying critical factors of laches are presumed upon proof that the patentee delayed filing suit for more than six
+years . . . .”); Wanlass v. Gen. Elec. Co., 148 F.3d 1334, 1337-40 (Fed. Cir. 1998) (applying Aukerman in affirming
+district court's grant of summary judgment).
+Defendants also have a particularly strong standing defense because PersonalWeb owns only a portion of the
+Patents. See EMC’s and VMware’s Motion to Dismiss for Lack of Subject Matter Jurisdiction. Brilliant, Altnet, and
+Kinetech representatives, including at least Kevin Bermeister and Anthony Neumann, and Digital Island
+representatives, including at least Howard Lasky, have been involved in the relevant transactions and have
+information relevant to this defense. See Ex. 18, Accurint Finder Report for Kevin Bermeister; See Ex. 27, Accurint
+Finder Report for Anthony Neumann; See Ex. 28, Accurint Finder Report for Howard Lasky.
+
+- 13 ACTIVEUS 92731592v4
+
+Case 6:11-cv-00660-LED Document 13
+
+Filed 02/27/12 Page 16 of 19 PageID #: 1125
+
+*26-28 (E.D. Tex. June 7, 2011) (stating that transfer is more convenient if the request is before
+a scheduling order is issued). In contrast, the Central District of California has presided over
+three lengthy cases involving one or more of the Patents. See, supra, § II.B; see also Interactive
+Music Tech., LLC v. Roland Corp. U.S., No. 6:07-cv-282, 2008 WL 245142, at *9-11 (E.D. Tex.
+Jan. 29, 2008) (judicial economy favors transfer where another court “already has some
+familiarity with the patents at issue”). Accordingly, this factor also weighs in favor of transfer.
+D.
+
+The Public Interest Factors Favor Transfer to California Or Are Neutral
+
+The public interest factors also weigh strongly in favor of transfer to California.
+1.
+
+California Has a Strong Local Interest in Deciding This Case
+
+California has a strong local interest in this case because almost all of VMware’s relevant
+operations, and most of EMC’s relevant operations, are in California. Moreover, as discussed
+above, Defendants collectively employ more than 6,500 people residing in California. See,
+supra, § II.C; Sutter Decl., ¶ 4; Lyons Decl., ¶ 4. These connections create a strong local interest
+because this case calls into question the “work and reputation” of these individuals. See, e.g., In
+re Hoffman-La Roche, 587 F.3d at 1336 (local interest strong where case “calls into question the
+work and reputation of several individuals residing in or near that district”); In re TS Tech, 551
+F.3d at 1321. The inventors’ presence in California further augments this strong local interest.
+See In re Acer Am. Corp., 626 F.3d 1252, 1256 (Fed. Cir. 2010) (local interest favored transfer
+where “the companies alleged to cause . . . harm are all residents of that district, as are the
+inventor and patent prosecuting attorneys whose work may be questioned at trial”).
+Although Brilliant has tried to create a connection to this District by transferring the
+asserted Patents to PersonalWeb, this attempt to manufacture venue is entitled to no weight in
+evaluating the relevant local interests. See In re Microsoft Corp., 630 F.3d at 1364-65
+(incorporation entitled to no weight where done “in anticipation of litigation”). Moreover, even
+- 14 ACTIVEUS 92731592v4
+
+Case 6:11-cv-00660-LED Document 13
+
+Filed 02/27/12 Page 17 of 19 PageID #: 1126
+
+where a plaintiff has legitimate ties to a judicial district, a recent presence and a small number of
+employees cannot outweigh the strong local interest of another venue. See, e.g., Network Prot.
+Scis., 2012 WL 194382, at * 7 (local interest favored transfer where “[d]efendants developed the
+allegedly infringing products in the Northern District of California and collectively employ
+thousands of people residing in California,” while plaintiff had only “small and fairly recent
+operations in Texas”); Wireless Recognition Techs. LLC v. A9.com, Inc., No. 2:10-cv-364 (E.D.
+Tex. Feb. 15, 2012) (same); EON Corp. IP Holdings, LLC v. Sensus, USA, Inc., No. 2:10-cv-448,
+2012 WL 122562, at *5 (granting transfer, despite plaintiff’s incorporation in Texas two years
+prior to suit, because plaintiff’s presence was “outweighed” by defendants’ presence in
+California).
+Accordingly, California’s strong local interest heavily favors transfer.
+2.
+
+California Courts Are Less Congested
+
+The median time from filing to trial is 25.4 months in the Northern District of California,
+and 19.9 months in the Central District of California. See Ex. 29, Table C-5 from the
+Administrative Office of the U.S. Courts. In contrast, the median time to trial is 27.1 months in
+the Eastern District of Texas. Id. Accordingly, this factor also favors transfer to either
+California district. See In re Genentech, 566 F.3d at 1347 (“To the extent that court congestion
+is relevant, the speed with which a case can come to trial and be resolved may be a factor.”).19
+IV.
+
+CONCLUSION
+For the reasons stated above, the relevant private and public interest factors weigh
+
+heavily in favor of transfer to California.
+
+19
+
+The remaining public interest factors are neutral.
+
+- 15 ACTIVEUS 92731592v4
+
+Case 6:11-cv-00660-LED Document 13
+
+Filed 02/27/12 Page 18 of 19 PageID #: 1127
+
+Dated: February 27, 2012
+OF COUNSEL:
+William F. Lee
+Cynthia D. Vreeland
+Anna E. Lumelsky
+WILMER CUTLER PICKERING HALE
+AND DORR LLP
+60 State Street
+Boston, MA 02109
+(617) 526-6000
+Robert Galvin
+Cortney C. Hoecherl
+WILMER CUTLER PICKERING HALE
+AND DORR LLP
+950 Page Mill Road
+Palo Alto, CA 94304
+(650) 858-6000
+
+/s/ Michael E. Jones
+Michael E. Jones
+Texas Bar No. 10929400
+Potter Minton, a Professional Corporation
+110 North College Avenue, Suite 500
+Tyler, TX 75702
+903-525-2239
+mikejones@potterminton
+
+Attorneys for Defendants EMC Corporation
+and VMWare, Inc.
+
+CERTIFICATE OF SERVICE
+The undersigned hereby certifies that all counsel of record who are deemed to have
+consented to electronic service are being served with a copy of this document via the Court’s
+CM/ECF system per Local Rule CV-5(a)(3)(A) on February 27, 2012.
+/s/ Michael E. Jones
+Michael E. Jones
+
+ACTIVEUS 92731592v4
+
+Case 6:11-cv-00660-LED Document 13
+
+Filed 02/27/12 Page 19 of 19 PageID #: 1128
+
+CERTIFICATE OF CONFERENCE
+
+The undersigned hereby certifies that counsel for Defendants has complied with the meet
+and confer requirement in Local Rule CV-7(h). This motion is opposed. The personal conference
+required by Local Rule CV-7(h) was conducted on February 22 and February 23, 2012 via
+telephone conference with the following participants: Lawrence Hadley for the Plaintiffs and
+Cynthia Vreeland and Anna Lumelsky for the Defendants. No agreement could be reached
+because the parties disagreed on the merits. Discussions have conclusively ended in an impasse,
+leaving an open issue for the court to resolve.
+
+/s/ Michael E. Jones
+Michael E. Jones
+
+ACTIVEUS 92731592v4
+
+

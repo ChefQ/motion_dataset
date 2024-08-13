@@ -1,0 +1,11 @@
+#!/bin/bash
+
+find . -name '*.csv' -exec rm {} \;
+find . -name wandb -exec rm -r {} \;
+find . -name '*.pkl' -exec rm {} \;
+find . -name '*.pyc' -exec rm {} \;
+find . -name '*.pth' -exec rm {} \;
+find . -name '*.json' -exec rm {} \;
+find . -name 'log.*' -exec rm {} \;
+
+

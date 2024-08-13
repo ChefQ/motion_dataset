@@ -1,0 +1,2229 @@
+Case4:07-cv-04486-SBA Document39
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+DONALD M. FALK (SBN 150256)
+dfalk@mayerbrown.com
+RENA CHNG (SBN 209665)
+rchng@mayerbrown.com
+MAYER BROWN LLP
+Two Palo Alto Square, Suite 300
+3000 El Camino Real
+Palo Alto, CA 94306-2112
+Telephone: (650) 331-2000
+Facsimile: (650) 331-2060
+-andVICTORIA R. COLLADO (pro hac vice)
+vcollado@mayerbrown.com
+SARAH E. REYNOLDS (pro hac vice)
+sreynolds@mayerbrown.com
+MAYER BROWN LLP
+71 South Wacker Drive
+Chicago, IL 60606
+Telephone: (312) 701-0700
+Facsimile: (312) 701-7711
+Attorneys for Defendant AT&T MOBILITY LLC
+
+13
+
+UNITED STATES DISTRICT COURT
+NORTHERN DISTRICT OF CALIFORNIA
+OAKLAND DIVISION
+
+14
+15
+16
+
+ZOLTAN STIENER and YNEZ STIENER,
+Plaintiffs,
+
+17
+18
+19
+
+v.
+APPLE COMPUTER, INC., AT&T MOBILITY,
+LLC, and DOES 1 through 50, inclusive,
+
+20
+21
+22
+23
+
+Filed11/21/07 Page1 of 23
+
+Defendants.
+
+Case No.: C 07-04486 SBA
+MEMORANDUM OF POINTS AND
+AUTHORITIES IN SUPPORT OF
+MOTION OF DEFENDANT AT&T
+MOBILITY LLC TO COMPEL
+ARBITRATION AND TO DISMISS
+CLAIMS PURSUANT TO THE
+FEDERAL ARBITRATION ACT
+Date:
+Time:
+Ctrm:
+Judge:
+
+February 26, 2008
+1:00 p.m.
+400
+Honorable Saundra B. Armstrong
+
+24
+25
+26
+27
+28
+MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT OF
+DEFENDANT’S MOTION TO COMPEL ARBITRATION AND DISMISS
+CASE NO. C 07-04486 SBA
+
+Case4:07-cv-04486-SBA Document39
+
+Filed11/21/07 Page2 of 23
+
+TABLE OF CONTENTS
+
+1
+2
+
+TABLE OF AUTHORITIES ......................................................................................................... ii
+
+3
+
+STATEMENT OF ISSUE TO BE DECIDED............................................................................... 1
+
+4
+
+INTRODUCTION ......................................................................................................................... 1
+
+5
+
+BACKGROUND ........................................................................................................................... 2
+
+6
+7
+
+ARGUMENT................................................................................................................................. 7
+I.
+
+THE FAA MANDATES ENFORCEMENT OF PLAINTIFFS’ CONTRACTUAL AGREEMENT TO ARBITRATE ......................................................................... 7
+
+II.
+
+ATTM’S ARBITRATION PROVISION IS NOT UNCONSCIONABLE UNDER
+CALIFORNIA LAW. ........................................................................................................ 8
+
+III.
+
+THE FAA WOULD PREEMPT ANY HOLDING THAT ATTM’S ARBITRATION PROVISION IS UNENFORCEABLE UNDER CALIFORNIA LAW................ 15
+
+8
+9
+10
+11
+12
+
+CONCLUSION............................................................................................................................ 17
+
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+-iMEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT OF
+DEFENDANT’S MOTION TO COMPEL ARBITRATION AND DISMISS
+CASE NO. C 07-04486 SBA
+
+Case4:07-cv-04486-SBA Document39
+
+Filed11/21/07 Page3 of 23
+
+TABLE OF AUTHORITIES
+
+1
+
+Page(s)
+
+2
+3
+
+Cases:
+
+4
+
+American Software, Inc. v. Ali, 54 Cal. Rptr. 2d 477 (Ct. App. 1996) ..........................................17
+
+5
+
+Aron v. U-Haul Co. of California, 49 Cal. Rptr. 3d 555 (Ct. App. 2006) ...................................8, 9
+
+6
+
+Armendariz v. Foundation Health Psychcare Services, Inc., 6 P.3d 669
+(Cal. 2000) ...........................................................................................................................8
+
+7
+8
+
+Belton v. Comcast Cable Holdings, LLC, 60 Cal. Rptr. 3d 631 (Ct. App. 2007) ................8, 10, 16
+
+9
+
+California Grocers Association v. Bank of America, 27 Cal. Rptr. 2d 396
+(Ct. App. 1994) ....................................................................................................................8
+
+10
+11
+12
+13
+14
+
+Carbajal v. H & R Block Tax Services Inc., 372 F.3d 903 (7th Cir. 2004) ...................................17
+Dean Witter Reynolds, Inc. v. Superior Court, 259 Cal. Rptr. 789
+(Ct. App. 1989) ....................................................................................................................9
+Discover Bank v. Superior Court, 113 P.3d 1100 (Cal. 2005) ..............................................1, 2, 12
+
+15
+
+Equal Employment Opportunity Commission v. Waffle House, Inc.,
+534 U.S. 279 (2002).............................................................................................................7
+
+16
+
+Gatton v. T-Mobile USA, Inc., 61 Cal. Rptr. 3d 344 (Ct. App. 2007) ...........................9, 10, 11, 14
+
+17
+
+Gentry v. Superior Court, 165 P.3d 556 (Cal. 2007).....................................................................15
+
+18
+19
+
+Gilmer v. Interstate/Johnson Lane Corp., 500 U.S. 20 (1991)........................................................7
+Herbert v. Lankershim, 71 P.2d 220 (Cal. 1937).......................................................................8, 16
+
+20
+21
+
+Iberia Credit Bureau, Inc. v. Cingular Wireless LLC, 379 F.3d 159
+(5th Cir. 2004)....................................................................................................................16
+
+22
+
+Koehl v. Verio, Inc., 48 Cal. Rptr. 3d 749 (Ct. App. 2006) ...........................................................17
+
+23
+24
+
+Marin Storage & Trucking, Inc. v. Benco Contracting & Engineering, Inc.,
+107 Cal. Rptr. 2d 645 (Ct. App. 2001) ..........................................................................9, 15
+
+25
+
+Morris v. Redwood Empire Bancorp, 27 Cal. Rptr. 3d 797 (Ct. App. 2005) ..................................9
+
+26
+
+Moses H. Cone Memorial Hospital v. Mercury Construction Corp.,
+460 U.S. 1 (1983).................................................................................................................7
+
+27
+28
+
+Odell v. Moss, 62 P. 555 (Cal. 1900) ...............................................................................................8
+- ii MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT OF
+DEFENDANT’S MOTION TO COMPEL ARBITRATION AND DISMISS
+CASE NO. C 07-04486 SBA
+
+Case4:07-cv-04486-SBA Document39
+
+Filed11/21/07 Page4 of 23
+
+TABLE OF AUTHORITIES
+(continued)
+
+1
+2
+
+Page(s)
+
+3
+
+People v. Municipal Court, 574 P.2d 425 (Cal. 1978) ..................................................................13
+
+4
+
+Provencher v. Dell Inc., 409 F. Supp. 2d 1196 (C.D. Cal. 2006)..................................................10
+
+5
+6
+
+Riensche v. Cingular Wireless LLC, 2007 WL 3407137
+(W.D. Wash. Nov. 9, 2007) ...............................................................................................10
+
+7
+
+Santisas v. Goodin, 951 P.2d 399 (Cal. 1998) ...............................................................................13
+
+8
+
+Shroyer v. New Cingular Wireless Services, Inc., 498 F.3d 976 (9th Cir. 2007) .................. passim
+
+9
+
+Sparling v. Hoffman Construction Co., 864 F.2d 635 (9th Cir. 1988) ..........................................17
+
+10
+
+Szetela v. Discover Bank, 118 Cal. Rptr. 2d 862 (Ct. App. 2002)...................................................9
+
+11
+12
+
+Thinket Ink Information Resources, Inc. v. Sun Microsystems, Inc.,
+368 F.3d 1053 (9th Cir. 2004) ...........................................................................................17
+
+13
+
+Ting v. AT&T, 319 F.3d 1126 (9th Cir. 2003) ...............................................................................16
+
+14
+
+Trend Homes, Inc. v. Superior Court, 32 Cal. Rptr. 3d 411 (Ct. App. 2005)................................10
+
+15
+
+United States v. Corum, 362 F.3d 489 (8th Cir. 2004) ....................................................................7
+
+16
+17
+
+United States v. Weathers, 169 F.3d 336 (6th Cir. 1999) ................................................................7
+
+18
+
+Villa Milano Homeowners Association v. Il Davorge, 102 Cal. Rptr. 2d 1
+(Ct. App. 2000) ....................................................................................................................9
+
+19
+
+Wayne v. Staples, Inc., 37 Cal. Rptr. 3d 544 (Ct. App. 2006) .........................................................9
+
+20
+
+Wheeler v. St. Joseph Hospital, 133 Cal. Rptr. 775 (Ct. App. 1976) ............................................10
+
+21
+
+Statutes
+
+22
+23
+
+9 U.S.C. §§ 1–16..............................................................................................................................1
+9 U.S.C. § 2................................................................................................................................7, 16
+
+24
+25
+26
+
+9 U.S.C. § 3....................................................................................................................................17
+9 U.S.C. § 4......................................................................................................................................8
+
+27
+
+15 U.S.C. § 1681n..........................................................................................................................13
+
+28
+
+Federal Rule of Civil Procedure 11(b).............................................................................................4
+- iii MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT OF
+DEFENDANT’S MOTION TO COMPEL ARBITRATION AND DISMISS
+CASE NO. C 07-04486 SBA
+
+Case4:07-cv-04486-SBA Document39
+
+Filed11/21/07 Page5 of 23
+
+TABLE OF AUTHORITIES
+(continued)
+
+1
+2
+
+Page(s)
+
+3
+
+California Business & Professions Code § 17200 ...........................................................................6
+
+4
+
+California Civil Code § 54.3(a) .....................................................................................................13
+
+5
+
+California Code Civil Procedure § 116.221.....................................................................................4
+
+6
+7
+
+California Commercial Code § 2314 ...............................................................................................6
+Miscellaneous
+
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+Stephen A. Broome, An Unconscionable Application of the Unconscionability Doctrine:
+How the California Courts Are Circumventing the Federal Arbitration Act, 3
+HASTINGS BUS. L.J. 39 (2006) .............................................................................................9
+Christopher R. Drahozal, Arbitration Costs and Contingent Fee Contracts, 59 VAND. L.
+REV. 729 (2006) .................................................................................................................15
+Theodore Eisenberg & Geoffrey P. Miller, Incentive Awards to Class Action Plaintiffs:
+An Empirical Study, 53 UCLA L. REV. 1303 (2006).........................................................13
+Lewis L. Maltby, Employment Arbitration and Workplace Justice,
+38 U.S.F. L. REV. 105 (2003).............................................................................................14
+1 J. Story, COMMENTARIES ON EQUITY JURISPRUDENCE § 244 (14th ed. 1918))..............................8
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+- iv MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT OF
+DEFENDANT’S MOTION TO COMPEL ARBITRATION AND DISMISS
+CASE NO. C 07-04486 SBA
+
+Case4:07-cv-04486-SBA Document39
+
+1
+
+Filed11/21/07 Page6 of 23
+
+STATEMENT OF ISSUE TO BE DECIDED
+
+2
+3
+
+Whether the Federal Arbitration Act, 9 U.S.C. §§ 1–16, requires plaintiffs Zoltan and
+
+4
+
+Ynez Stiener to pursue their claims against defendant AT&T Mobility LLC in accordance with
+
+5
+
+their arbitration agreement.
+
+6
+INTRODUCTION
+
+7
+8
+9
+
+Defendant AT&T Mobility LLC (“ATTM”) respectfully moves to compel arbitration and
+to dismiss this putative class action. When plaintiffs Zoltan and Ynez Stiener contracted for
+
+10
+
+wireless service, they expressly agreed to arbitrate any claims against ATTM on an individual
+
+11
+
+(rather than class-wide) basis or to bring them in small claims court. The Federal Arbitration Act
+
+12
+13
+
+(“FAA”), 9 U.S.C. §§ 1–16, as well as applicable state law, requires them to honor their
+promises.
+
+14
+15
+
+The Stieners will likely oppose this motion by arguing that, because their arbitration
+
+16
+
+agreement requires the resolution of disputes on an individual basis, they are unconscionable
+
+17
+
+under the California Supreme Court’s decision in Discover Bank v. Superior Court, 113 P.3d
+
+18
+
+1100 (Cal. 2005), and the Ninth Circuit’s decision in Shroyer v. New Cingular Wireless Services,
+
+19
+
+Inc., 498 F.3d 976 (9th Cir. 2007). Any such argument should be rejected. Discover did not
+
+20
+
+impose an across-the-board ban on class-arbitration waivers in consumer contracts, and Shroyer
+
+21
+
+invalidated an earlier—and materially different—version of the arbitration provision at issue in
+
+22
+
+this case. The unprecedentedly pro-consumer provision that is applicable here specifies that, if
+
+23
+
+an arbitrator awards a California customer more than the amount of ATTM’s last settlement
+
+24
+
+offer, ATTM will pay the customer $7,500 or the amount of the award, whichever is greater, and
+
+25
+
+in addition will pay the customer’s lawyers twice the amount of their reasonable attorneys’ fees.
+
+26
+
+This new provision directly addresses the concern of the California Supreme Court and the Ninth
+
+27
+
+Circuit that “when the potential for individual gain is small, very few plaintiffs, if any, will
+
+28
+
+pursue individual arbitration or litigation, which greatly reduces the aggregate liability a
+MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT OF
+DEFENDANT’S MOTION TO COMPEL ARBITRATION AND DISMISS
+CASE NO. C 07-04486 SBA
+
+Case4:07-cv-04486-SBA Document39
+
+Filed11/21/07 Page7 of 23
+
+1
+
+company faces when it has exacted small sums from millions of consumers.” Shroyer, 498 F.3d
+
+2
+
+at 986 (emphasis in original) (citing Discover, 113 P.3d at 1106–10).
+
+3
+4
+
+Moreover, any ruling that ATTM’s arbitration provision is unenforceable under
+
+5
+
+California law would be preempted by the FAA. It is true that the FAA permits courts to refuse
+
+6
+
+to enforce arbitration agreements based on generally applicable state-law principles. But it
+
+7
+
+would require a marked deviation from those principles to invalidate ATTM’s arbitration
+
+8
+
+provision, which ensures that customers have a realistic means of obtaining redress for small
+
+9
+
+claims on an individual basis. Section 2 of the FAA expressly preempts any such deviation from
+
+10
+
+generally applicable contract law. Although in Shroyer the Ninth Circuit rejected a similar
+
+11
+
+argument in the course of striking down the class-arbitration prohibition in a materially different
+
+12
+
+arbitration provision, it did so on the ground that “[t]he rule announced in Discover Bank is
+
+13
+
+simply a refinement of the unconscionability analysis applicable to contracts generally in
+
+14
+
+California.” Shroyer, 498 F.3d at 987. That manifestly cannot be said of any holding that
+
+15
+
+ATTM’s revised arbitration provision is unenforceable. To call this provision “unconscionable”
+
+16
+
+notwithstanding the incentives it provides to customers and their lawyers would be to drain the
+
+17
+
+concept of “unconscionability” of all meaning. Accordingly, the holding in Shroyer is not
+
+18
+
+dispositive of the preemption argument in this case.
+
+19
+BACKGROUND
+
+20
+21
+22
+
+A.
+
+Plaintiffs Agree To Resolve Any Dispute With ATTM Either Through Individual
+Arbitration Or In Small Claims Court.
+
+23
+24
+
+The Stieners are California residents. Compl. ¶ 3. In June 2007, they purchased two
+
+25
+
+iPhones at a store. Compl. ¶ 29; see also Declaration of Neal S. Berinhout ¶ 6. To use their
+
+26
+
+iPhones with ATTM’s wireless service, the Stieners were required to activate them online. Id. ¶
+
+27
+
+9. As part of the activation process, users are required to click on a box next to the statement “I
+
+28
+
+have read and agree to the AT&T Service Agreement.” Id. The text of the service agreement,
+-2MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT OF
+DEFENDANT’S MOTION TO COMPEL ARBITRATION AND DISMISS
+CASE NO. C 07-04486 SBA
+
+Case4:07-cv-04486-SBA Document39
+
+Filed11/21/07 Page8 of 23
+
+1
+
+including its terms of service, was displayed in a text box immediately above the statement that
+
+2
+
+the Stieners were required to check. Id. Ex. 4, at 7. The first sentence advised the Stieners that,
+
+3
+
+by checking the box next to the acknowledgment below, they would be “bound” to “the Terms of
+
+4
+
+Service, including the binding arbitration clause.” Id. (emphasis added).
+
+5
+The Terms of Service that are part of the service agreement between the Stieners and
+
+6
+7
+
+ATTM were also available on ATTM’s web site and in the store in which plaintiffs bought their
+
+8
+
+iPhones. Id. ¶ 8. In addition, ATTM mailed the Stieners the applicable Terms of Service
+
+9
+
+booklet when they activated their iPhones. Id. ¶ 10. The Terms of Service contain an arbitration
+
+10
+
+provision that states that “[ATTM] and you agree to arbitrate all disputes and claims between
+
+11
+
+us” or to pursue such disputes in small claims court. Id. Ex. 3, at 12 (emphasis in original). The
+
+12
+
+provision specifies that arbitration must be conducted on an individual rather than class-wide
+
+13
+
+basis. Id. Ex. 3, at 12, 15.
+
+14
+15
+
+B.
+
+ATTM’s Arbitration Provision Is Uniquely Favorable To Consumers.
+
+16
+17
+18
+19
+20
+21
+22
+23
+
+ATTM’s recently revised arbitration provision is, to ATTM’s knowledge, the most
+pro-consumer arbitration provision in the country. Richard Nagareda, a law professor at
+Vanderbilt University whose scholarship focuses on aggregate dispute resolution, observes that
+he has “never seen an arbitration provision that has gone as far as this one to provide incentives
+for consumers and their prospective attorneys to bring claims” on an individual basis.
+Declaration of Richard A. Nagareda ¶ 11. The provision includes the following features that
+were designed to make arbitration convenient and inexpensive for ATTM’s customers
+(Berinhout Dec. ¶ 8 & Ex. 3, at 12–15):
+
+24
+25
+26
+
+
+
+Cost-free arbitration: “[ATTM] will pay all [American Arbitration Association
+(‘AAA’)] filing, administration and arbitrator fees” unless the arbitrator determines that
+
+27
+28
+-3MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT OF
+DEFENDANT’S MOTION TO COMPEL ARBITRATION AND DISMISS
+CASE NO. C 07-04486 SBA
+
+Case4:07-cv-04486-SBA Document39
+
+Filed11/21/07 Page9 of 23
+
+1
+
+the claim “is frivolous or brought for an improper purpose (as measured by the standards
+
+2
+
+set forth in Federal Rule of Civil Procedure 11(b))”;1
+$7,500 minimum award: If the arbitrator issues an award in favor of the customer that
+is greater than “[ATTM]’s last written settlement offer before an arbitrator was selected”
+but less than $7,500, ATTM will pay the customer $7,500 rather than the smaller arbitral
+award;2
+
+
+
+3
+4
+5
+6
+
+
+
+Double attorneys’ fees: If the arbitrator awards the customer more than ATTM’s last
+written settlement offer, then “[ATTM] will * * * pay [the customer’s] attorney, if any,
+twice the amount of attorneys’ fees, and reimburse any expenses, that [the customer’s]
+attorney reasonably accrues for investigating, preparing, and pursuing [the customer’s]
+claim[s] in arbitration”;3
+
+
+
+Small claims court option: Either party may bring a claim in small claims court;
+
+
+
+Geographic proximity: Arbitration will take place “in the county * * * of [the
+customer’s] billing address”;
+
+
+
+No confidentiality requirement: There is no requirement that the arbitration be kept
+confidential;
+
+
+
+Punitive damages available: There is no limitation on the availability of punitive
+damages;
+
+
+
+AAA consumer procedures: Arbitration will be conducted under the AAA’s
+Commercial Dispute Resolution Procedures and the Supplementary Procedures for
+Consumer Related Disputes; and
+
+
+
+Choice of in-person, telephonic, or no hearing: For claims of $10,000 or less,
+customers like plaintiffs have the exclusive right to choose whether the arbitrator will
+conduct an in-person hearing, a telephonic hearing, or a “desk” arbitration in which “the
+
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+1
+
+In the event that an arbitrator concludes that a customer’s claim is frivolous, the AAA’s
+consumer arbitration rules would cap a consumer’s arbitration costs at $125. See Berinhout Dec.
+Exs. 9–10 (AAA, Commercial Dispute Resolution Procedures and the Supplementary Procedures
+for Consumer Related Disputes (“AAA Consumer Procedures”) § C-8).
+2
+The amount of the minimum payment varies from state to state because it is tied to the
+jurisdictional maximum of the customer’s local small claims court. Berinhout Dec. Ex. 3, at 14.
+In California, the jurisdictional limit for small claims court is $7,500. See Cal. Code Civ. Proc.
+§ 116.221.
+3
+This attorney premium “supplements any right to attorneys’ fees and expenses [that the
+customer] may have under applicable law.” Berinhout Dec. Ex. 3, at 15. In other words, even if
+an arbitrator were to award a customer less than ATTM’s last settlement offer, the customer
+would be entitled to an award of attorneys’ fees to the same extent as if his or her claim had been
+brought in court.
+-4MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT OF
+DEFENDANT’S MOTION TO COMPEL ARBITRATION AND DISMISS
+CASE NO. C 07-04486 SBA
+
+Case4:07-cv-04486-SBA Document39
+
+Filed11/21/07 Page10 of 23
+
+arbitration will be conducted solely on the basis of documents submitted to the
+arbitrator.”4
+
+1
+2
+3
+
+C.
+
+Dispute Resolution Under ATTM’s Arbitration Provision Is Convenient For
+ATTM’s Customers.
+
+4
+5
+
+ATTM has tailored other aspects of the dispute-resolution process to ensure its
+
+6
+
+effectiveness for consumers. Customers can obtain redress without the need for arbitration by
+
+7
+
+contacting ATTM’s customer care department by phone or e-mail. Id. ¶ 15. This process works:
+
+8
+
+In September 2007 (the most recent month for which data are available), ATTM’s customer
+
+9
+
+service representatives dispensed over $119 million in credits for customer concerns and
+
+10
+
+complaints. Id. ¶ 16. Over the preceding 12 months, ATTM representatives dispensed over $1
+
+11
+
+billion in credits. Id.
+
+12
+If a customer is unsatisfied with the resolution offered by the customer care department,
+
+13
+14
+15
+16
+17
+
+he or she can take the next step—as provided in ATTM’s arbitration provision—of notifying
+ATTM of the dispute in writing. That is as simple as mailing a letter to ATTM or submitting a
+one-page Notice of Dispute form that ATTM has posted on its web site (at
+http://www.att.com/arbitration-forms). Id. ¶ 13 & Ex. 7.
+
+18
+
+ATTM generally responds to a dispute notice with a written settlement offer. See id.
+
+19
+
+¶ 19. If ATTM and the customer cannot resolve the dispute within 30 days, the customer may
+
+20
+
+begin the formal arbitration process. To do so, the customer need only fill out a one-page
+
+21
+
+Demand for Arbitration form and send copies to the AAA and to ATTM. Customers may either
+
+22
+23
+24
+
+obtain a copy of the demand form from the AAA’s web site (at http://www.adr.org) or use the
+simplified form that ATTM has posted on its web site (at http://www.att.com/arbitration-forms).
+Id. ¶ 13 & Ex. 8. To further assist its customers, ATTM has posted on its web site a layperson’s
+
+25
+26
+27
+28
+
+4
+
+Under the AAA rules that would otherwise apply, either party may insist on a hearing in
+cases involving claims of $10,000 or less. Berinhout Dec. Exs. 6–7 (AAA Consumer Procedures
+§§ C-5, C-6). For claims exceeding $10,000, a hearing would be held unless both parties agreed
+to forgo it. Id.
+-5MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT OF
+DEFENDANT’S MOTION TO COMPEL ARBITRATION AND DISMISS
+CASE NO. C 07-04486 SBA
+
+Case4:07-cv-04486-SBA Document39
+
+1
+
+Filed11/21/07 Page11 of 23
+
+guide on how to arbitrate a claim. Id. ¶ 12 & Ex. 6 (http://www.att.com/arbitration-information).
+
+2
+Not surprisingly, many ATTM customers have found individual arbitration to be a viable
+
+3
+4
+
+dispute resolution mechanism: Between January 1 and October 31, 2007, ATTM received over
+
+5
+
+500 notices of dispute or demands for arbitration. Id. ¶ 20.5
+
+6
+
+D.
+
+7
+
+Despite having agreed to arbitrate all disputes against ATTM (or to bring them in small
+
+8
+9
+
+Plaintiffs File This Putative Class Action Lawsuit Notwithstanding Their Agreement
+To Arbitrate.
+
+claims court), the Stieners filed this putative class action, naming ATTM as a defendant. They
+
+10
+
+allege that, in marketing the iPhone, Apple Computer, Inc. (“Apple”) and ATTM failed to
+
+11
+
+disclose adequately the details of the iPhone battery-replacement program, thus violating
+
+12
+
+California’s Unfair Competition Law, Cal Bus. & Prof. Code § 17200 et seq. (Compl. ¶¶ 58–59)
+
+13
+14
+15
+
+and breaching an implied warranty of merchantability (Cal. Comm. Code § 2314) (Compl. ¶¶
+49–52). Plaintiffs also raise a variety of common-law claims, including breach of contract
+
+16
+
+(Compl. ¶¶ 45–48) and fraudulent concealment (Compl. ¶¶ 53–57), and request an accounting
+
+17
+
+(Compl. ¶¶ 60–62). They seek to represent a class consisting of “all individuals or entities who
+
+18
+
+at any time from June 29, 2007 to the date of judgment in this action bought and implemented
+
+19
+
+the iPhone and sustained damages as a result.” Compl. ¶ 32.
+
+20
+On October 16, 2007, counsel for ATTM called plaintiffs’ counsel and discussed the
+
+21
+22
+
+plaintiffs’ service agreement with ATTM, including the obligation to pursue claims in arbitration
+
+23
+
+or small claims court. Declaration of Victoria R. Collado ¶ 2. On October 18, 2007, counsel for
+
+24
+
+ATTM received a letter from plaintiffs’ counsel indicating that plaintiffs would not comply with
+
+25
+
+their agreement. Id. ¶ 3, Ex. 1.
+
+26
+5
+
+27
+28
+
+In addition, as noted above, ATTM’s arbitration provision gives customers the option of
+filing claims in small claims court. ATTM responded to almost 850 such claims in 2005 and
+2006. Berinhout Dec. ¶ 21.
+-6MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT OF
+DEFENDANT’S MOTION TO COMPEL ARBITRATION AND DISMISS
+CASE NO. C 07-04486 SBA
+
+Case4:07-cv-04486-SBA Document39
+
+ARGUMENT
+
+1
+2
+
+Filed11/21/07 Page12 of 23
+
+I.
+
+THE FAA MANDATES ENFORCEMENT OF PLAINTIFFS’ CONTRACTUAL
+AGREEMENT TO ARBITRATE.
+
+3
+The FAA mandates that written agreements to arbitrate disputes “shall be valid,
+
+4
+5
+
+irrevocable, and enforceable, save upon such grounds as exist at law or in equity for the
+
+6
+
+revocation of any contract.” 9 U.S.C. § 2. Congress enacted the FAA to “reverse the
+
+7
+
+longstanding judicial hostility to arbitration agreements[,] * * * to place [these] agreements on
+
+8
+
+the same footing as other contracts[,] * * * [and to] manifest a liberal federal policy favoring
+
+9
+
+arbitration agreements.” Equal Employment Opportunity Comm’n v. Waffle House, Inc., 534
+
+10
+11
+12
+
+U.S. 279, 289 (2002) (quoting Gilmer v. Interstate/Johnson Lane Corp., 500 U.S. 20, 24–25
+(1991) (internal quotation marks omitted)). As the Supreme Court has explained, “questions of
+
+13
+
+arbitrability must be addressed with a healthy regard for [this] federal policy favoring
+
+14
+
+arbitration.” Moses H. Cone Mem’l Hosp. v. Mercury Constr. Corp., 460 U.S. 1, 24 (1983).
+
+15
+16
+
+An arbitration agreement must meet two basic conditions for the FAA to apply: (1) the
+agreement must be “written”; and (2) it must be in a contract “evidencing a transaction involving
+
+17
+18
+
+commerce.” 9 U.S.C. § 2. Both criteria are met here: ATTM’s arbitration provision is in
+
+19
+
+writing (see Berinhout Dec. ¶ 8, Ex. 3) and plaintiffs’ agreement involves commerce, as “[i]t is
+
+20
+
+well-established that telephones, even when used intrastate, are instrumentalities of interstate
+
+21
+
+commerce.” United States v. Corum, 362 F.3d 489, 493 (8th Cir. 2004); accord United States v.
+
+22
+23
+
+Weathers, 169 F.3d 336, 341 (6th Cir. 1999).
+There also can be no question that plaintiffs’ claims fall within the scope of the
+
+24
+25
+
+arbitration provision, which applies to “all disputes and claims between [the parties].” Berinhout
+
+26
+
+Dec. Ex. 3, at 12. When, as here, an arbitration provision is governed by the FAA and the
+
+27
+
+plaintiff’s claims fall within the scope of that provision, the duty of the district court is clear: It
+
+28
+
+must compel arbitration. See 9 U.S.C. § 4.
+-7MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT OF
+DEFENDANT’S MOTION TO COMPEL ARBITRATION AND DISMISS
+CASE NO. C 07-04486 SBA
+
+Case4:07-cv-04486-SBA Document39
+
+1
+2
+
+II.
+
+Filed11/21/07 Page13 of 23
+
+ATTM’S ARBITRATION PROVISION IS NOT UNCONSCIONABLE UNDER
+CALIFORNIA LAW.
+We anticipate that plaintiffs will argue that their agreement to arbitrate is unconscionable
+
+3
+4
+
+under California law. Although some courts have refused to enforce previous ATTM arbitration
+
+5
+
+provisions, no California court has considered the enforceability of—much less invalidated—the
+
+6
+
+recently revised ATTM arbitration provision at issue in this case.
+
+7
+8
+9
+
+Under California law, a party opposing enforcement of a contractual provision on
+grounds of unconscionability must prove both procedural and substantive unconscionability.
+See, e.g., Armendariz v. Found. Health Psychcare Servs., Inc., 6 P.3d 669, 690 (Cal. 2000).
+
+10
+11
+
+Procedural unconscionability involves “oppression” or “surprise” in the making of the agreement
+
+12
+
+(id.), while substantive unconscionability focuses on whether the contractual term in question is
+
+13
+
+so “overly harsh” or “one-sided” (id.) as to “shock the conscience.” Belton v. Comcast Cable
+
+14
+
+Holdings, LLC, 60 Cal. Rptr. 3d 631, 649–50 (Ct. App. 2007); Aron v. U-Haul Co. of Cal., 49
+
+15
+
+Cal. Rptr. 3d 555, 564 (Ct. App. 2006). Put another way, the term must be one that “no man in
+
+16
+his senses, and not under delusion, would make on the one hand, and [that] no honest and fair
+
+17
+18
+
+man would accept on the other.” Herbert v. Lankershim, 71 P.2d 220, 257 (Cal. 1937) (emphasis
+
+19
+
+added) (quoting Odell v. Moss, 62 P. 555, 557 (Cal. 1900) (quoting in turn 1 J. Story,
+
+20
+
+COMMENTARIES ON EQUITY JURISPRUDENCE § 244 (14th ed. 1918))); see also Cal. Grocers Ass’n
+
+21
+
+v. Bank of Am., 27 Cal. Rptr. 2d 396, 402 (Ct. App. 1994).
+
+22
+
+In performing the unconscionability inquiry, California courts employ a “sliding scale”:
+
+23
+24
+25
+
+“the more substantively oppressive the contract term, the less evidence of procedural
+unconscionability is required to come to the conclusion that the term is unenforceable, and vice
+
+26
+
+versa.” Armendariz, 6 P.3d at 690 (quotation marks omitted). In other words, if “the procedural
+
+27
+
+unconscionability, although extant, [is] not great,” the party attacking the term must prove “a
+
+28
+
+greater degree of substantive unfairness.” Marin Storage & Trucking, Inc. v. Benco Contracting
+-8MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT OF
+DEFENDANT’S MOTION TO COMPEL ARBITRATION AND DISMISS
+CASE NO. C 07-04486 SBA
+
+Case4:07-cv-04486-SBA Document39
+
+Filed11/21/07 Page14 of 23
+
+1
+
+& Eng’g, Inc., 107 Cal. Rptr. 2d 645, 656–57 (Ct. App. 2001). Under California’s sliding-scale
+
+2
+
+approach, ATTM’s arbitration provision is fully enforceable.
+
+3
+
+A.
+
+4
+
+Plaintiffs Can Establish At Most Only A Modest Degree Of Procedural Unconscionability.
+
+We acknowledge that the Ninth Circuit held in Shroyer that “a contract may be
+
+5
+6
+
+procedurally unconscionable under California law when the party with substantially greater
+
+7
+
+bargaining power presents a ‘take-it-or-leave-it’ contract to a customer—even if the customer
+
+8
+
+has a meaningful choice as to service providers.” Shroyer, 498 F.3d at 985 (internal quotation
+
+9
+
+marks omitted).6 As the California Court of Appeal has made clear, however, the non-negotiable
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+nature of an agreement suffices only to establish “a minimal degree of procedural
+unconscionability.” Gatton, 61 Cal. Rptr. 3d at 356.
+6
+
+For purposes of preserving this issue for possible Supreme Court review, we submit that
+the Ninth Circuit erred in “follow[ing] the [California] courts that reject the notion that the
+existence of ‘marketplace alternatives’ bars a finding of procedural unconscionability,” and
+declining to follow the conflicting line of California cases that have held that there can be no
+procedural unconscionability when the customer has meaningful alternatives to contracting with
+the defendant. See Shroyer, 498 F.3d at 985. The two competing lines of cases reveal an
+unmistakable pattern. The state-court decisions that find non-negotiable form contracts to be per
+se procedurally unconscionable regardless of the availability of market alternatives all involve
+arbitration provisions. See Gatton v. T-Mobile USA, Inc., 61 Cal. Rptr. 3d 344, 352–57 (Ct.
+App. 2007); Szetela v. Discover Bank, 118 Cal. Rptr. 2d 862, 867 (Ct. App. 2002); Villa Milano
+Homeowners Ass’n v. Il Davorge, 102 Cal. Rptr. 2d 1, 5–6 (Ct. App. 2000). In contrast, the
+state-court cases that reject the argument that form contracts are procedurally unconscionable
+when meaningful substitutes are available all involve other types of contractual provisions. See
+Belton, 60 Cal. Rptr. 3d at 650 (requirement that cable music subscribers receive basic cable
+television); Wayne v. Staples, Inc., 37 Cal. Rptr. 3d 544, 556 (Ct. App. 2006) (declared-value
+insurance for package shipping); Aron, 49 Cal. Rptr. 3d at 564 (rental truck refueling policy);
+Morris v. Redwood Empire Bancorp, 27 Cal. Rptr. 3d 797, 807 (Ct. App. 2005) (termination
+fee); Dean Witter Reynolds, Inc. v. Super. Ct., 259 Cal. Rptr. 789, 795 (Ct. App. 1989)
+(termination and annual fee). The conflict thus hinges entirely on whether an arbitration
+provision is at issue. See generally Stephen A. Broome, An Unconscionable Application of the
+Unconscionability Doctrine: How the California Courts Are Circumventing the Federal
+Arbitration Act, 3 HASTINGS BUS. L.J. 39, 60–67 (2006) (explaining the de facto disparate
+treatment of arbitration provisions under California’s procedural-unconscionability doctrine).
+Because the FAA forbids California from applying a different standard of procedural
+unconscionability to arbitration provisions than it applies to other provisions, the Ninth Circuit
+erred in adopting California’s arbitration-specific rule.
+-9MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT OF
+DEFENDANT’S MOTION TO COMPEL ARBITRATION AND DISMISS
+CASE NO. C 07-04486 SBA
+
+Case4:07-cv-04486-SBA Document39
+
+Filed11/21/07 Page15 of 23
+
+Plaintiffs cannot establish any other measure of oppression. A cell phone—and
+
+1
+2
+
+especially an iPhone—plainly is a “nonessential recreational” good, and plaintiffs “always ha[d]
+
+3
+
+the option of simply forgoing” wireless service. Belton, 60 Cal. Rptr. 3d at 650 (holding that
+
+4
+
+cable music service is non-essential); see also Provencher v. Dell Inc., 409 F. Supp. 2d 1196,
+
+5
+6
+
+1202 (C.D. Cal. 2006) (personal computers are non-essential); cf. Riensche v. Cingular Wireless
+
+7
+
+LLC, 2007 WL 3407137, at * 8 (W.D. Wash. Nov. 9, 2007) (“telephone service, particularly
+
+8
+
+cellular service, is not a necessity”).7
+
+9
+10
+11
+
+Nor can the Stieners claim that they were “surprised” by their arbitration agreement, as a
+recent decision of the California Court of Appeal illustrates. In Gatton, a group of wireless
+customers challenged on unconscionability grounds the class waiver in T-Mobile’s service
+
+12
+13
+
+agreement. The court concluded that “plaintiffs ha[d] not shown surprise” because “[t]he
+
+14
+
+arbitration provision was not disguised or hidden, and T-Mobile made affirmative efforts to bring
+
+15
+
+the provision to the attention of its customers.” 61 Cal. Rptr. 3d at 352. Specifically, (i) the
+
+16
+
+contract both referred to the terms and conditions contained in a separate Welcome Guide and
+
+17
+18
+
+expressly mentioned the arbitration provision; (ii) the terms and conditions began by
+admonishing customers to read the terms and informed them that they had to agree with the
+
+19
+20
+21
+
+terms in order to use the service; and (iii) the box containing the phone was sealed with a sticker
+that adverted to the terms and conditions, including the arbitration provision. Id. at 347.
+
+22
+
+Similarly, to activate their iPhones plaintiffs were required to click on a box next to the
+
+23
+7
+
+24
+25
+26
+27
+28
+
+The California Court of Appeal has reached this same conclusion about the purchase of a
+home—a far weightier matter than initiating cell phone service. As that court explained, the
+purchase of a home “does not involve the same concerns [another] court had about hospital
+admissions * * *—while home buying may be stressful, it is not a traumatic experience like
+being admitted to the hospital, and no one is directing a home buyer to purchase a particular
+home like a doctor directs a patient to a particular hospital.” Trend Homes, Inc. v. Super. Ct., 32
+Cal. Rptr. 3d 411, 418 (Ct. App. 2005) (citing Wheeler v. St. Joseph Hosp., 133 Cal. Rptr. 775,
+786 (Ct. App. 1976)).
+-10MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT OF
+DEFENDANT’S MOTION TO COMPEL ARBITRATION AND DISMISS
+CASE NO. C 07-04486 SBA
+
+Case4:07-cv-04486-SBA Document39
+
+Filed11/21/07 Page16 of 23
+
+1
+
+statement “I have read and agree to the AT&T Service Agreement.” Berinhout Dec. ¶ 9. The
+
+2
+
+text of the service agreement, including its terms of service, was displayed in a text box
+
+3
+
+immediately above the statement the plaintiffs checked (id. Ex. 4, at 7), and the first sentence of
+
+4
+
+text plainly advised plaintiffs that, by checking the box next to the acknowledgment below, they
+
+5
+6
+
+would be “bound” to “the Terms of Service, including the binding arbitration clause.” Id.
+
+7
+
+(emphasis added). The terms of service were also available on ATTM’s web site and in the store
+
+8
+
+in which plaintiffs bought their iPhones. Id. ¶ 8. In addition, ATTM mailed plaintiffs the
+
+9
+
+applicable Terms of Service booklet upon activation. Id. ¶ 10. The top of the first page of the
+
+10
+11
+
+Terms of Service booklet prominently states: “This Agreement requires the use of arbitration
+to resolve disputes * * *.” Id. Ex. 3, at 1 (emphasis in original). The first paragraph of the
+
+12
+13
+
+arbitration provision itself states: “Any arbitration under this Agreement will take place on
+
+14
+
+an individual basis; class arbitrations and class actions are not permitted.” Id. Ex. 3, at 11
+
+15
+
+(emphasis in original). In light of these facts, plaintiffs simply cannot claim that they were
+
+16
+
+“surprised” by the arbitration agreement’s class waiver.
+
+17
+18
+
+In short, the fact that ATTM’s arbitration provision is contained in a form contract
+implicates at most only a minimal quantum of procedural unconscionability. Accordingly, under
+
+19
+20
+
+California’s sliding-scale approach plaintiffs must “make a strong showing of substantive
+
+21
+
+unconscionability to render [their] arbitration provision unenforceable.” Gatton, 61 Cal. Rptr. 3d
+
+22
+
+at 356 (emphasis added). As we next explain, plaintiffs cannot demonstrate that ATTM’s
+
+23
+
+arbitration provision is substantively unconscionable at all, much less make the requisite “strong
+
+24
+25
+
+showing” of substantive unfairness.
+
+26
+
+ATTM’s Arbitration Provision Is Not Substantively Unconscionable At All, Much
+Less “Great[ly]” So.
+
+27
+
+In Discover Bank, the California Supreme Court held that a class-arbitration prohibition
+
+28
+
+B.
+
+in a credit-card issuer’s arbitration provision was substantively unconscionable because it
+-11MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT OF
+DEFENDANT’S MOTION TO COMPEL ARBITRATION AND DISMISS
+CASE NO. C 07-04486 SBA
+
+Case4:07-cv-04486-SBA Document39
+
+Filed11/21/07 Page17 of 23
+
+1
+
+effectively “insulate[d]” the company from liability for the $29 claims at issue in that case. 113
+
+2
+
+P.3d at 1109. The court made clear, however, that it was not holding “that all class action
+
+3
+
+waivers are necessarily unconscionable.” Id. at 1110 (emphasis added). In particular, whether a
+
+4
+
+class-action prohibition is substantively unconscionable turns on whether the plaintiff may
+
+5
+6
+
+feasibly vindicate “small” claims without using the class-action mechanism and, conversely,
+
+7
+
+whether the prohibition threatens to insulate the company from liability for cheating its
+
+8
+
+customers. Id.
+
+9
+10
+11
+
+Applying Discover Bank, the Ninth Circuit recently held that the class-arbitration
+prohibition in an earlier version of ATTM’s arbitration provision was substantively
+unconscionable. Shroyer, 498 F.3d at 986–87. That arbitration provision specified that ATTM
+
+12
+13
+
+(then known as Cingular Wireless) would pay the full cost of arbitration and, in addition, would
+
+14
+
+pay the plaintiff’s attorneys’ fees if the arbitrator awarded the plaintiff the amount of his or her
+
+15
+
+demand or more. Id. at 986. The Ninth Circuit found ATTM’s “attempt to distinguish Discover
+
+16
+
+Bank based on the availability of attorneys’ fees and arbitration costs [to be] without merit.” Id.
+
+17
+18
+
+According to the Ninth Circuit, “the [California Supreme Court] was concerned that when the
+potential for individual gain is small, very few plaintiffs, if any, will pursue individual arbitration
+
+19
+20
+
+or litigation, which greatly reduces the aggregate liability a company faces when it has exacted
+
+21
+
+small sums from millions of consumers. It did not suggest that a [class action] waiver is
+
+22
+
+unconscionable only when or because a plaintiff in arbitration may experience a net loss
+
+23
+
+(including attorneys’ fees and costs).” Id. (emphasis in original; citation omitted).
+
+24
+
+Shroyer suggests that the class-arbitration prohibition in ATTM’s revised arbitration
+
+25
+26
+27
+28
+
+provision is not unconscionable under Discover Bank. As noted above, ATTM has built the
+necessary “individual gain” into its arbitration provision by providing that any California
+customer who obtains an arbitral award in excess of ATTM’s last settlement offer will receive a
+-12MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT OF
+DEFENDANT’S MOTION TO COMPEL ARBITRATION AND DISMISS
+CASE NO. C 07-04486 SBA
+
+Case4:07-cv-04486-SBA Document39
+
+Filed11/21/07 Page18 of 23
+
+1
+
+minimum of $7,500, while his or her counsel will receive double attorneys’ fees. See page 4 &
+
+2
+
+n.3, supra. These amounts far exceed the level of damages that Congress and the California
+
+3
+
+Legislature have deemed sufficient to encourage individuals and their counsel to pursue statutory
+
+4
+
+claims. See Nagareda Dec. ¶ 14 (citing $500 statutory damages provision in Telephone
+
+5
+6
+
+Consumer Protection Act and $1,000 statutory damages provision in Cable Act); 15 U.S.C. §
+
+7
+
+1681n (statutory damages of between $100 and $1,000 available under Fair Credit Reporting
+
+8
+
+Act); Cal. Civ. Code § 54.3(a) ($1,000 statutory damages under Disabled Persons Act).8 The
+
+9
+
+premiums available under ATTM’s arbitration procedures also substantially exceed the typical
+
+10
+
+incentive payments awarded to class representatives as part of court-approved class settlement
+
+11
+
+agreements. See Theodore Eisenberg & Geoffrey P. Miller, Incentive Awards to Class Action
+
+12
+13
+
+Plaintiffs: An Empirical Study, 53 UCLA L. REV. 1303, 1333 & tbl. 5 (2006) (finding median
+
+14
+
+incentive award for class representatives in consumer and consumer credit cases to be $2,089
+
+15
+
+and $1,045 respectively).
+
+16
+17
+18
+
+In light of the opportunities for “individual gain” that are built into ATTM’s arbitration
+provision, the concerns that caused the California Supreme Court and the Ninth Circuit to
+invalidate the class-arbitration prohibitions in Discover Bank and Shroyer are inapplicable here.
+
+19
+20
+21
+
+ATTM has not immunized itself from liability because ATTM’s arbitration provision, and the
+premiums that are available under it, serve as affirmative inducements for customers to pursue
+
+22
+23
+24
+25
+26
+27
+28
+
+8
+
+These legislative determinations of the amount needed to encourage vindication of
+statutory rights are entitled to great (if not dispositive) weight. See Santisas v. Goodin, 951 P.2d
+399, 413 (Cal. 1998) (noting court’s “reluctan[ce] to declare contractual provisions void or
+unenforceable on public policy grounds without firm legislative guidance”); People v. Mun. Ct.,
+574 P.2d 425, 427 (Cal. 1978) (the courts’ “common law powers * * * should never be exercised
+in such a manner as to * * * frustrate legitimate legislative policy”) (internal quotation marks
+omitted).
+-13MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT OF
+DEFENDANT’S MOTION TO COMPEL ARBITRATION AND DISMISS
+CASE NO. C 07-04486 SBA
+
+Case4:07-cv-04486-SBA Document39
+
+Filed11/21/07 Page19 of 23
+
+1
+
+their claims in arbitration and for lawyers to represent such customers.9 The premium provisions
+
+2
+
+also encourage ATTM to try to resolve disputes quickly—i.e., before arbitration—by making
+
+3
+
+settlement offers that satisfy its customers. If it fails to resolve a customer’s claims, ATTM runs
+
+4
+5
+6
+
+the risk of paying substantial premiums to the customer and his or her counsel, as well as the full
+costs of arbitration, which can run into the thousands of dollars.10
+In short, ATTM’s arbitration provision does not operate as an exculpatory clause. As
+
+7
+8
+
+Professor Nagareda explains, although arbitration provisions containing class-arbitration
+
+9
+
+prohibitions may be substantively unconscionable when their enforcement would result in “the
+
+10
+11
+
+effective elimination of consumers’ private rights of action” (Nagareda Dec. ¶ 7), ATTM’s
+arbitration provision is not of that ilk. It “reduces dramatically the cost barriers to the bringing of
+
+12
+13
+
+individual consumer claims, is likely to facilitate the development of a market for fair settlement
+
+14
+
+of such claims, and provides financial incentives for consumers (and their attorneys, if any) to
+
+15
+
+pursue arbitration in the event that they are dissatisfied with whatever offer ATTM has made to
+
+16
+
+settle their disputes.” Id. ¶ 11. It therefore is not substantively unconscionable at all. At
+
+17
+18
+
+minimum, taking into account the (at most) modest level of procedural unconscionability, this
+unprecedentedly pro-consumer arbitration provision does not rise sufficiently high on the
+
+19
+20
+
+spectrum of substantive unconscionability as to warrant refusing to enforce it. See Gatton, 61
+
+21
+
+Cal. Rptr. 3d at 356 (requiring “strong showing” of substantive unconscionability when only
+
+22
+
+basis for finding procedural unconscionability is fact that contract is non-negotiable); Marin
+
+23
+24
+25
+26
+27
+28
+
+9
+
+It bears noting in this regard a recent study’s conclusion that the de facto monetary
+threshold for obtaining the assistance of an attorney is lower in arbitration than in court. See
+Lewis L. Maltby, Employment Arbitration and Workplace Justice, 38 U.S.F. L. REV. 105,
+115–17 (2003).
+10
+
+The bare minimum in arbitration costs that ATTM must pay if a customer selects an
+in-person hearing is $1,700: $750 in administrative fees, a $200 case service fee, and $750 in
+arbitrator fees. Berinhout Dec. Ex. 9–10 (AAA Consumer Procedures § C-8).
+-14MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT OF
+DEFENDANT’S MOTION TO COMPEL ARBITRATION AND DISMISS
+CASE NO. C 07-04486 SBA
+
+Case4:07-cv-04486-SBA Document39
+
+Filed11/21/07 Page20 of 23
+
+1
+
+Storage, 107 Cal. Rptr. 2d at 656–57 (when procedural unconscionability, “although extant, [is]
+
+2
+
+not great,” party seeking to evade contractual obligation must prove “a greater degree of
+
+3
+
+substantive unfairness”).11
+
+4
+5
+
+III.
+
+6
+
+THE FAA WOULD PREEMPT ANY HOLDING THAT ATTM’S ARBITRATION
+PROVISION IS UNENFORCEABLE UNDER CALIFORNIA LAW.
+If, notwithstanding the opportunities for “individual gain” that ATTM has built into its
+
+7
+8
+9
+
+arbitration provision, this Court were to conclude that the class-arbitration prohibition is
+unconscionable under California law, so construed California law would be preempted by the
+
+10
+
+FAA. We acknowledge that in Shroyer the Ninth Circuit rejected ATTM’s express and conflict
+
+11
+
+preemption arguments. See Shroyer, 498 F.3d at 987–93. Although the Ninth Circuit’s holding
+
+12
+
+on conflict preemption is binding on this Court,12 for reasons we discuss below (at pages 16–17)
+
+13
+
+its holding on express preemption is not.
+
+14
+Section 2 of the FAA specifies that arbitration provisions “shall be valid, irrevocable, and
+
+15
+16
+
+enforceable, save upon such grounds as exist at law or in equity for the revocation of any
+
+17
+
+contract.” 9 U.S.C. § 2 (emphasis added). The Ninth Circuit has recognized that this means that
+
+18
+11
+
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Any attempt by plaintiffs to invoke the California Supreme Court’s recent decision in
+Gentry v. Superior Court, 165 P.3d 556 (Cal. 2007), would be misguided. Gentry involved the
+“statutory right to receive overtime pay,” a right which the court held is expressly “unwaivable.”
+See id. at 563. No unwaivable statutory rights are at issue here. Moreover, given ATTM’s
+exceptionally pro-consumer arbitration procedures discussed above, plaintiffs cannot show that
+class arbitration would “be a significantly more effective practical means of vindicating
+[plaintiffs’ rights] than individual litigation or arbitration” and that “disallowance of the class
+action [would] likely lead to a less comprehensive enforcement of [the applicable] laws.” Id. at
+568 (emphasis added).
+12
+
+We disagree with that holding and preserve for possible further review our contention
+that the use of unconscionability law to bar businesses from requiring that arbitration be
+conducted on an individual basis conflicts with the objectives of the FAA and is, for that reason,
+preempted. See generally Christopher R. Drahozal, Arbitration Costs and Contingent Fee
+Contracts, 59 VAND. L. REV. 729, 776 (2006) (“[S]tate law challenges to arbitration agreements
+cannot be based on unique characteristics of the arbitration process, such as the lack of class
+relief.”).
+-15MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT OF
+DEFENDANT’S MOTION TO COMPEL ARBITRATION AND DISMISS
+CASE NO. C 07-04486 SBA
+
+Case4:07-cv-04486-SBA Document39
+
+Filed11/21/07 Page21 of 23
+
+1
+
+a law that applies only to “a limited set of transactions * * * is not a law of ‘general
+
+2
+
+applicability’” and therefore is preempted by Section 2. Ting v. AT&T, 319 F.3d 1126, 1148 (9th
+
+3
+
+Cir. 2003). Moreover, “[e]ven when using doctrines of general applicability, state courts are not
+
+4
+
+permitted to employ those general doctrines in ways that subject arbitration clauses to special
+
+5
+6
+
+scrutiny.” Iberia Credit Bureau, Inc. v. Cingular Wireless LLC, 379 F.3d 159, 167 (5th Cir.
+
+7
+
+2004). That would be precisely the situation if this Court were to hold that the class-arbitration
+
+8
+
+prohibition in ATTM’s arbitration provision is unconscionable under Discover Bank and Shroyer
+
+9
+
+notwithstanding the ample opportunities for “individual gain” that ATTM built into the
+
+10
+11
+
+arbitration provision.
+Under California’s generally applicable unconscionability principles, a contractual term
+
+12
+13
+
+is substantively unconscionable only if it so “shock[s] the conscience” (Belton, 60 Cal. Rptr. 3d
+
+14
+
+at 651) that a person would have to be “under delusion” (Herbert, 71 P.2d at 257) to agree to it.
+
+15
+
+The Ninth Circuit held in Shroyer that “[t]he rule announced in Discover Bank is simply a
+
+16
+
+refinement of the unconscionability analysis applicable to contracts generally in California.” 498
+
+17
+18
+
+F.3d at 987. Accepting arguendo that the Ninth Circuit’s decision striking down ATTM’s
+superseded arbitration provision entailed a mere “refinement” of California’s generally
+
+19
+20
+
+applicable “shock the conscience” standard, the same surely could not be said of any holding that
+
+21
+
+ATTM’s revised arbitration provision, with its extraordinary opportunities for “individual gain,”
+
+22
+
+is unenforceably unconscionable. To declare this exceptionally pro-consumer arbitration
+
+23
+
+provision unconscionable would require a total distortion of what it means to “shock the
+
+24
+
+conscience”—one that would enable courts to justify striking down virtually any contractual
+
+25
+26
+27
+28
+
+provision that they think is unfair to one of the contracting parties. That is manifestly not
+California law—at least not with respect to any contractual provisions other than ones agreeing
+to resolve disputes on an individual basis. As the California Court of Appeal has put it, “with a
+-16MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT OF
+DEFENDANT’S MOTION TO COMPEL ARBITRATION AND DISMISS
+CASE NO. C 07-04486 SBA
+
+Case4:07-cv-04486-SBA Document39
+
+Filed11/21/07 Page22 of 23
+
+1
+
+concept as nebulous as ‘unconscionability,’ it is important that courts not be thrust in the
+
+2
+
+paternalistic role of intervening to change contractual terms that the parties have agreed to
+
+3
+
+merely because the court believes the terms are unreasonable.” Koehl v. Verio, Inc., 48 Cal.
+
+4
+
+Rptr. 3d 749, 769 (Ct. App. 2006) (quoting Am. Software, Inc. v. Ali, 54 Cal. Rptr. 2d 477, 480
+
+5
+6
+
+(Ct. App. 1996)).
+In short, as the Seventh Circuit has pointed out, “[t]he cry of ‘unconscionable!’ just
+
+7
+8
+
+repackages the tired assertion that arbitration should be disparaged as second-class adjudication.
+
+9
+
+It is precisely to still such cries that the Federal Arbitration Act equates arbitration with other
+
+10
+11
+
+contractual terms.” Carbajal v. H & R Block Tax Servs. Inc., 372 F.3d 903, 906 (7th Cir. 2004).
+Because it would take far more than a mere “refinement” of California’s “shock the conscience”
+
+12
+13
+
+standard to justify invalidating the class-arbitration prohibition in ATTM’s path-breaking
+
+14
+
+arbitration provision, the Court should hold that Section 2 of the FAA precludes interpreting
+
+15
+
+Discover Bank and Shroyer to invalidate the requirement of individual dispute resolution in
+
+16
+
+ATTM’s arbitration provision.
+
+17
+18
+19
+20
+21
+
+CONCLUSION
+ATTM’s motion to compel arbitration should be granted, and plaintiffs’ claims against
+ATTM should be dismissed.13
+DATED: November 21, 2007
+
+22
+
+MAYER BROWN LLP
+
+23
+
+By: /s/ Donald M. Falk_____
+Donald M. Falk
+
+24
+
+Attorneys for Defendant AT&T MOBILITY LLC
+
+25
+26
+27
+28
+
+13
+
+District courts may dismiss claims when they are subject to arbitration. See Thinket Ink
+Info. Res., Inc. v. Sun Microsys., Inc., 368 F.3d 1053, 1060 (9th Cir. 2004); Sparling v. Hoffman
+Constr. Co., 864 F.2d 635, 638 (9th Cir. 1988) (Section 3 of the FAA “did not limit the [district]
+court’s authority to grant a dismissal”).
+-17MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT OF
+DEFENDANT’S MOTION TO COMPEL ARBITRATION AND DISMISS
+CASE NO. C 07-04486 SBA
+
+Case4:07-cv-04486-SBA Document39
+
+PROOF OF SERVICE
+
+1
+2
+3
+4
+5
+
+Filed11/21/07 Page23 of 23
+
+I am employed in Santa Clara County, California. I am over the age of eighteen
+years and not a party to the within-entitled action. My business address is Two Palo Alto
+Square, Suite 300, Palo Alto, California 94306-2112.
+On November 21, 2007, I served the foregoing document(s) described as
+
+6
+7
+
+●
+
+8
+
+MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT OF
+MOTION OF DEFENDANT AT&T MOBILITY LLC TO COMPEL
+ARBITRATION AND TO DISMISS CLAIMS PURSUANT TO THE
+FEDERAL ARBITRATION ACT
+
+9
+10
+
+on each interested party, as follows:
+by transmitting via facsimile the document(s) listed above to the fax number(s) set
+forth below on this date before 5:00 p.m.
+
+11
+12
+13
+
+X
+
+14
+
+by placing the document(s) listed above in a sealed facsimile & U.S. Mail envelope
+and affixing a pre-paid air bill, and causing the envelope to be delivered to a facsimile & U.S. Mail agent for delivery.
+
+15
+16
+17
+18
+
+by placing the document(s) listed above in a sealed envelope with postage thereon
+fully prepaid, in the United States mail at Palo Alto, California addressed as set
+forth below.
+
+X
+
+by personally delivering the document(s) listed above to the person(s) at the address(es) set forth below.
+Max Flokenflik
+Folkenflik & McGerity
+1500 Broadway, 21st Floor
+New York, NY 10036
+
+21
+
+H. Tim Hoffman
+Hoffman & Lazear
+180 Grand Avenue, Suite 1550
+Oakland, CA 94612
+510-763-5700
+
+22
+
+VIA HAND DELIVERY
+
+VIA U.S. MAIL
+
+19
+20
+
+23
+24
+25
+
+I declare under penalty of perjury under the laws of the United States of America that the
+above is true and correct.
+Executed on November 21, 2007, at Palo Alto, California.
+
+26
+27
+28
+
+/s/ Meghan C. Samora
+Meghan C. Samora
+
+PROOF OF SERVICE
+CASE NO. C 07-04486 SBA
+
+

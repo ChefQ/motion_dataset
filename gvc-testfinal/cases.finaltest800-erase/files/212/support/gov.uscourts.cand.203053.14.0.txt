@@ -1,0 +1,4774 @@
+Case 4:08-cv-02150-CW
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+Document 14
+
+Filed 06/20/2008
+
+Page 1 of 36
+
+JORDAN ETH (BAR NO. 121617)
+JEth@mofo.com
+JUDSON E. LOBDELL (BAR NO. 146041)
+JLobdell@mofo.com
+MARK R.S. FOSTER (BAR NO. 223682)
+MFoster@mofo.com
+MORRISON & FOERSTER LLP
+425 Market Street
+San Francisco, California 94105
+Telephone: 415-268-7000
+Facsimile:
+415-268-7522
+ANNA ERICKSON WHITE (BAR NO. 161385)
+AWhite@mofo.com
+MORRISON & FOERSTER LLP
+755 Page Mill Road
+Palo Alto, California 94304
+Telephone: 650-813-5600
+Facsimile:
+650-494-0792
+Attorneys for Defendants YAHOO! INC., TERRY S. SEMEL,
+SUSAN L. DECKER, DANIEL L. ROSENSWEIG, and
+FARZAD NAZEM
+
+13
+
+UNITED STATES DISTRICT COURT
+
+14
+
+NORTHERN DISTRICT OF CALIFORNIA
+
+15
+
+OAKLAND DIVISION
+
+16
+
+IN RE: YAHOO! INC.
+
+CLASS ACTION
+
+17
+
+ELLEN ROSENTHAL BRODSKY, on Behalf
+of Herself and All Others Similarly Situated,
+
+Case No. CV-08-2150-CW
+
+18
+
+Plaintiffs,
+
+19
+20
+21
+
+v.
+YAHOO! INC., TERRY S. SEMEL, SUSAN L.
+DECKER, FARZAD NAZEM, and DANIEL
+ROSENSWEIG,
+
+22
+23
+
+Defendants.
+.
+
+24
+
+DEFENDANTS’ NOTICE OF
+MOTION AND MOTION TO
+DISMISS PLAINTIFFS’
+CONSOLIDATED AMENDED
+COMPLAINT; SUPPORTING
+MEMORANDUM OF POINTS AND
+AUTHORITIES
+Hearing: September 18, 2008
+Time:
+2:00 p.m.
+Courtroom: 2, 4th Floor
+Judge:
+Hon. Claudia Wilken
+
+25
+26
+
+This Document Relates To: All Actions
+
+27
+28
+DEFENDANTS’ NOTICE OF MOTION, MOTION & MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+Case 4:08-cv-02150-CW
+
+Document 14
+
+1
+
+Filed 06/20/2008
+
+Page 2 of 36
+
+TABLE OF CONTENTS
+
+2
+
+Page
+
+3
+
+INTRODUCTION .......................................................................................................................... 1
+
+4
+
+BACKGROUND ............................................................................................................................ 2
+
+5
+
+I.
+
+THE PARTIES.................................................................................................................... 2
+
+6
+
+II.
+
+PLAINTIFFS’ ALLEGATIONS ........................................................................................ 2
+
+7
+
+A.
+
+Yahoo!’s Search Marketing Business ..................................................................... 2
+
+8
+
+B.
+
+Securities Fraud Allegations ................................................................................... 3
+
+9
+
+1.
+
+Financial reporting ...................................................................................... 3
+
+10
+
+a.
+
+revenue recognition......................................................................... 3
+
+11
+
+b.
+
+reserves............................................................................................ 4
+
+12
+
+2.
+
+Defendants’ optimistic statements about Yahoo! ....................................... 4
+
+13
+
+3.
+
+Project Panama............................................................................................ 5
+
+14
+
+ARGUMENT .................................................................................................................................. 6
+
+15
+
+I.
+
+PLAINTIFFS MUST SATISFY “EXACTING PLEADING REQUIREMENTS.” .......... 6
+
+16
+
+II.
+
+PLAINTIFFS FAIL TO STATE A SECTION 10(b) CLAIM. .......................................... 7
+
+17
+
+A.
+
+18
+
+Plaintiffs Fail To Plead A Material Misrepresentation Or Omission...................... 7
+1.
+
+Plaintiffs fail to support their accusation that Yahoo! issued false
+financial statements..................................................................................... 8
+
+19
+a.
+
+Plaintiffs do not support their revenue recognition
+allegations with facts....................................................................... 8
+
+b.
+
+Plaintiffs do not support their reserve allegations with facts. ....... 10
+
+20
+21
+22
+
+2.
+
+Plaintiffs fail to plead that Defendants’ expressions of enthusiasm,
+dedication, and optimism were false......................................................... 10
+
+3.
+
+Plaintiffs fail to plead that Yahoo!’s estimates for the Panama
+rollout lacked a reasonable basis when made. .......................................... 13
+
+23
+24
+25
+
+B.
+
+Plaintiffs Also Fail To Plead A “Strong Inference” Of Scienter. ......................... 16
+
+26
+
+1.
+
+Plaintiffs’ CWs do not support an inference of scienter. .......................... 17
+
+27
+
+2.
+
+Plaintiffs’ stock-sale allegations do not support an inference of
+scienter. ..................................................................................................... 19
+
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+i
+
+Case 4:08-cv-02150-CW
+
+1
+
+Document 14
+
+Filed 06/20/2008
+
+Page 3 of 36
+
+C.
+
+The Forward-Looking Statements Are Not Actionable For Additional
+Reasons. ................................................................................................................ 21
+
+D.
+
+Plaintiffs Also Fail To Plead Loss Causation. ...................................................... 23
+
+2
+3
+III.
+
+PLAINTIFFS FAIL TO STATE A SECTION 20(a) CLAIM.......................................... 24
+
+IV.
+
+PLAINTIFFS FAIL TO STATE A SECTION 20A CLAIM. .......................................... 25
+
+4
+5
+CONCLUSION ............................................................................................................................. 25
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+ii
+
+Case 4:08-cv-02150-CW
+
+Document 14
+
+1
+
+Filed 06/20/2008
+
+Page 4 of 36
+
+TABLE OF AUTHORITIES
+
+2
+
+Page(s)
+CASES
+
+3
+4
+
+Alaska Elec. Pension Fund v. Adecco S.A., 434 F. Supp. 2d 815, 825 (S.D. Cal. 2006),
+aff’d, 256 F.App’x 74 (9th Cir. 2007) .................................................................................... 10
+
+5
+Bell Atl. Corp. v. Twombly, 127 S. Ct. 1955, 1974 (2007) ............................................................ 6
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+
+Berger v. Ludwick,
+No. C-97-0728-CAL, 2000 U.S. Dist. LEXIS 12756 (N.D. Cal. Aug. 17, 2000) .................. 25
+Berson v. Applied Signal Tech., Inc.,
+No. 06-15454, --- F.3d---,
+2008 U.S. App. LEXIS 11982 (9th Cir. June 5, 2008) ................................................... 23 n.16
+DSAM Global Value Fund v. Altris Software, Inc.,
+288 F.3d 385 (9th Cir. 2002)............................................................................................. 19 n.9
+Dura Pharm., Inc. v. Broudo,
+544 U.S. 336 (2005) ............................................................................................................ 6, 23
+Employers Teamsters Local Nos. 175 & 505 Pension Trust Fund v. Clorox Co.,
+353 F.3d 1125 (9th Cir. 2004)........................................................................................... 22, 23
+Glen Holly Entm’t, Inc. v. Tektronix, Inc.,
+352 F.3d 367 (9th Cir. 2003)................................................................................................... 11
+Howard v. Everex Sys.,
+228 F.3d 1057 (9th Cir. 2000)................................................................................................. 19
+In re Apple Computer, Inc. Sec. Litig.,
+243 F. Supp. 2d 1012 (N.D. Cal. 2002),
+aff’d 127 F.App’x 296 (9th Cir. 2005)............................................ 11, 17 & n.8, 19 & nn.9, 10
+In re Buca Inc. Sec. Litig.,
+No. 05-1762-DWF-AJB, 2006 U.S. Dist. LEXIS 75224 (D. Minn. Oct. 16, 2006)............... 21
+
+22
+23
+24
+25
+26
+
+In re Convergent Techs. Sec. Litig.
+948 F.2d 507 (9th Cir. 1991)............................................................................................. 13 n.5
+In re CornerStone Propane Partners, L.P., Sec. Litig.
+355 F. Supp. 2d 1069 (N.D. Cal. 2005) ............................................................................ 11 n.4
+In re CornerStone Propane Partners, L.P. Sec. Litig.,
+416 F. Supp. 2d 779 (N.D. Cal. 2005) .............................................................................. 17 n.8
+
+27
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+iii
+
+Case 4:08-cv-02150-CW
+
+1
+2
+3
+4
+5
+6
+
+Document 14
+
+Filed 06/20/2008
+
+Page 5 of 36
+
+In re Credit Acceptance Corp. Sec. Litig.,
+50 F. Supp. 2d 662 (E.D. Mich. 1999).................................................................................... 21
+In re Daou Sys., Inc.,
+411 F.3d 1006 (9th Cir. 2005)..................................................................... 7, 14, 15 n.6, 21, 23
+In re GlenFed, Inc. Sec. Litig.,
+42 F.3d 1541 (9th Cir. 1994) (en banc) .................................................................... 6, 7, 10, 13
+In re Hansen Natural Corp. Sec. Litig.,
+527 F. Supp 2d 1142 (C.D. Cal. 2007) ..................................................................... 18, 21 n.13
+
+7
+8
+9
+10
+11
+
+In re Juniper Networks, Inc. Sec. Litig.,
+No. C-02-0749-SI, 2004 U.S. Dist. LEXIS 4025 (N.D. Cal. Mar. 11, 2004)......................... 15
+In re McKesson HBOC, Inc. Sec. Litig.,
+126 F. Supp. 2d 1248 (N.D. Cal. 2000) .................................................................................. 12
+In re Metawave Commc’ns Corp. Sec. Litig.,
+298 F. Supp. 2d 1056 (W.D. Wash. 2003).............................................................................. 25
+
+12
+13
+14
+15
+16
+
+In re Northpoint Commc’ns Group, Inc. Sec. Litig.,
+221 F. Supp. 2d 1090 (N.D. Cal. 2002) .................................................................................... 8
+In re Pixar Sec. Litig.,
+450 F. Supp. 2d 1096 (N.D. Cal. 2006) .................................................................................. 11
+In re Read-Rite Corp. Sec. Litig.,
+No. C-03-03148-RMW, 2004 U.S. Dist. LEXIS 19319 (N.D. Cal. Sept. 14, 2004) .............. 15
+
+17
+18
+19
+20
+21
+
+In re Silicon Graphics, Inc. Sec. Litig.,
+183 F.3d 970 (9th Cir. 1999)................................................................... 7, 17, 19 n.10, 20 n.12
+In re Silicon Storage Tech., Inc. Sec. Litig.,
+No. C-05-0295-PJH, 2006 U.S. Dist. LEXIS 14790 (N.D. Cal. Mar. 10, 2006)................ 9, 14
+In re Splash Tech. Holdings, Inc. Sec. Litig.,
+No. C-99-00109-SBA, 2000 U.S. Dist. LEXIS 15369 (N.D. Cal. Sept. 29, 2000) .......... 10, 24
+
+22
+23
+24
+25
+26
+27
+28
+
+In re Splash Tech. Holdings, Inc. Sec. Litig.,
+160 F. Supp. 2d 1059 (N.D. Cal. 2001) .................................................................................. 24
+In re Stac Elecs. Sec. Litig.,
+89 F.3d 1399 (9th Cir. 1996)................................................................................................... 11
+In re Syntex Corp. Sec. Litig.,
+95 F.3d 922 (9th Cir. 1996)......................................................................................... 11, 15, 16
+In re The Vantive Corp.,
+283 F.3d 1079 (9th Cir. 2002)....................... 6–7, 10, 13, 15 n.7, 18, 19 & n.10, 20 & n.12, 21
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+iv
+
+Case 4:08-cv-02150-CW
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+Document 14
+
+Filed 06/20/2008
+
+Page 6 of 36
+
+In re Tibco Software, Inc. Sec. Litig.,
+No. C-05-2146-SBA, 2006 U.S. Dist. LEXIS 36666 (N.D. Cal. May 24, 2006) ................... 14
+In re U.S. Aggregates, Inc. Sec. Litig.,
+235 F. Supp. 2d 1063 (N.D. Cal. 2002) .............................................................................. 9, 18
+In re VeriFone Sec. Litig.,
+11 F.3d 865 (9th Cir. 1993)..................................................................................... 6, 12, 14, 25
+In re Versant Object Tech. Corp. (Versant I),
+No. C-98-00299-CW, 2000 U.S. Dist. LEXIS 22333 (N.D. Cal. May 18, 2000)
+aff’d, 56 F.App’x 322 (9th Cir. 2003)..................................................................................... 11
+In re Versant Object Tech. Corp. (Versant II),
+No. C-98-00299-CW, 2001 U.S. Dist. LEXIS 25010 (N.D. Cal. Mar. 30, 2001),
+aff’d, 56 F.App’x 322 (9th Cir. 2003)..................................................................................... 13
+
+10
+11
+12
+13
+14
+15
+
+In re Versant Object Tech. Corp. (Versant III),
+No. C-98-00299-CW, 2001 U.S. Dist. LEXIS 25009 (N.D. Cal. Dec. 4, 2001),
+aff’d, 56 F.App’x 322 (9th Cir. 2003)....................................................................... 12, 21 n.13
+Johnson v. Aljian,
+394 F. Supp. 2d 1184 (C.D. Cal. 2004), aff’d, 490 F.3d 778 (9th Cir.2007).......................... 25
+Kane v. Madge Networks N.V.,
+No. C-96-20652-RMW, 2000 U.S. Dist. LEXIS 19984 (N.D. Cal. May 25, 2000),
+aff’d, 32 F. App’x. 905 (9th Cir. 2002)................................................................. 10, 11 n.4, 12
+
+16
+17
+18
+19
+20
+
+Kuehbeck v. Genesis Microchip, Inc.,
+No. C-02-05344-JSW, 2005 U.S. Dist. LEXIS 20213 (N.D. Cal. July 27, 2005).................... 9
+Lattanzio v. Deloitte & Touche LLP,
+476 F.3d 147 (2d Cir. 2007).................................................................................................... 24
+Lentell v. Merrill Lynch & Co.
+396 F.3d 161 (2d Cir. 2005).............................................................................................. 23, 24
+
+21
+22
+23
+24
+25
+
+Limantour v. Cray, Inc.,
+432 F. Supp. 2d 1129 (W.D. Wash. 2006)................................................................................ 8
+Lipton v. Pathogenesis Corp.,
+284 F.3d 1027 (9th Cir. 2002)............................................................................... 7, 19 n.11, 24
+Paracor Fin., Inc. v. GE Capital Corp.,
+96 F.3d 1151 (9th Cir. 1996)................................................................................................... 25
+
+26
+27
+
+Ronconi v. Larkin,
+253 F.3d 423 (9th Cir. 2001)......................................................................... 12, 15, 20, 21 n.13
+
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+v
+
+Case 4:08-cv-02150-CW
+
+1
+2
+3
+
+Document 14
+
+6
+7
+8
+9
+
+Page 7 of 36
+
+Tellabs, Inc. v. Makor Issues & Rights, Ltd.,
+127 S. Ct. 2499 (2007) ........................................................................................................ 6, 21
+Wenger v. Lumisys, Inc.,
+2 F. Supp. 2d 1231 (N.D. Cal. 1998) .............................................................................. 11 n.4
+
+4
+5
+
+Filed 06/20/2008
+
+STATUTES & RULES
+15 U.S.C.
+§ 78j(b) ............................................................................................................................ passim
+§ 78t(a) ............................................................................................................................... 2, 24
+§ 78t-1 ................................................................................................................................ 2, 25
+§ 78u-4(b)..................................................................................................................... 7, 11, 17
+§ 78u-5(c) ......................................................................................................................... 18, 22
+17 C.F.R. § 240.10b-5 ........................................................................................................... passim
+
+10
+11
+12
+
+Fed. R. Civ. Pro.
+8.............................................................................................................................................. vii
+9(b) ..................................................................................................... vii, 6, 13, 15 n.7, 23 n.16
+12(b)(6) .................................................................................................................................. vii
+
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+vi
+
+Case 4:08-cv-02150-CW
+
+1
+
+Document 14
+
+Filed 06/20/2008
+
+Page 8 of 36
+
+NOTICE OF MOTION AND MOTION
+
+2
+
+TO ALL PARTIES AND THEIR COUNSEL OF RECORD:
+
+3
+
+PLEASE TAKE NOTICE THAT on Thursday, September 18, 2008, at 2:00 p.m., or as
+
+4
+
+soon thereafter as the matter may be heard, in the courtroom of the Honorable Claudia Wilken,
+
+5
+
+located at 1300 Clay Street, Oakland, California, Courtroom 2, Fourth Floor, Defendant Yahoo!
+
+6
+
+Inc. (“Yahoo!”) together with Terry S. Semel, Susan L. Decker, Daniel L. Rosensweig, and
+
+7
+
+Farzad Nazem (the “Individual Defendants”) shall, and hereby do, move pursuant to Federal
+
+8
+
+Rules of Civil Procedure 8, 9(b), and 12(b)(6), and the Private Securities Litigation Reform Act
+
+9
+
+of 1995, Pub. L. No. 104-67, 109 Stat. 737 (Dec. 22, 1995) (the “Reform Act”), codified in
+
+10
+
+relevant part at 15 U.S.C. § 78u-4 et seq., to dismiss Plaintiffs’ Consolidated Amended Complaint
+
+11
+
+for Violation of the Federal Securities Laws as filed on December 11, 2007 (the “Complaint” or
+
+12
+
+“CAC”).
+
+13
+
+This Motion is based on this Notice; the supporting Memorandum of Points and
+
+14
+
+Authorities; the Appendix attached to this Motion (cited as “App.__”); the accompanying
+
+15
+
+Declaration of Mark R.S. Foster (“Foster Decl.”) and exhibits attached thereto (“Ex. __”); the
+
+16
+
+Declaration of Matthew H. Rice (“Rice Decl.”); the accompanying Request for Judicial Notice of
+
+17
+
+documents attached to the Foster Declaration; the papers and pleadings on file with this Court;
+
+18
+
+and such other written or oral argument and other materials as may be presented before this Court
+
+19
+
+takes the Motion under submission.
+
+20
+21
+22
+23
+24
+25
+26
+27
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+vii
+
+Case 4:08-cv-02150-CW
+
+Document 14
+
+Filed 06/20/2008
+
+Page 9 of 36
+
+ISSUES TO BE DECIDED
+
+1
+2
+
+False Statement of Material Fact [Section 10(b)]
+
+3
+
+1.
+
+Whether Plaintiffs plead that Defendants made a material misrepresentation or
+
+4
+
+omission, as required to state a claim under Section 10(b), where the CAC does not plead
+
+5
+
+particularized facts to support Plaintiffs’ conclusory allegations that Defendants (a) caused Yahoo!
+
+6
+
+to issue false financial statements, or (b) made overly optimistic statements about Yahoo!’s business
+
+7
+
+prospects, or (c) predicted the upgrade date of Yahoo!’s advertising platform with no reasonable
+
+8
+
+basis for doing so.
+
+9
+10
+
+Scienter [Section 10(b)]
+2.
+
+Whether Plaintiffs satisfy the additional element of scienter by pleading
+
+11
+
+particularized facts giving rise to a “strong inference” that Defendants made a material
+
+12
+
+misrepresentation or omission with intent to deceive or with deliberate recklessness, where
+
+13
+
+Plaintiffs plead no facts showing that any Defendant knew or recklessly disregarded that any class
+
+14
+
+period statement was false and Plaintiffs identify nothing suspicious about Defendants’ stock sales.
+
+15
+
+Safe Harbor [Section 10(b)]
+
+16
+
+3.
+
+Whether the Reform Act’s Safe Harbor and the “bespeaks caution doctrine” protect
+
+17
+
+Defendants from liability with regard to their optimistic statements about Yahoo!’s future and the
+
+18
+
+timing of a product upgrade, where those statements were identified as forward-looking and
+
+19
+
+accompanied by meaningful cautionary language.
+
+20
+
+Loss Causation [Section 10(b)]
+
+21
+
+4.
+
+Whether Plaintiffs plead the element of loss causation for their claim that Yahoo!’s
+
+22
+
+class-period financial statements were false, where Plaintiffs do not allege that the accuracy of these
+
+23
+
+financial statements has ever been questioned outside this litigation, much less that a disclosure
+
+24
+
+regarding the accuracy of these financial statements caused a drop in Yahoo!’s stock price.
+
+25
+
+5.
+
+Whether Plaintiffs plead the element of loss causation for their claim based on a
+
+26
+
+delay in the upgrade of Yahoo!’s advertising platform, where Yahoo! had previously disclosed the
+
+27
+
+risk to its business of delays in system upgrades.
+
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+viii
+
+Case 4:08-cv-02150-CW
+
+Document 14
+
+Filed 06/20/2008
+
+1
+
+Control-Person Liability [Section 20(a)]
+
+2
+
+6.
+
+Page 10 of 36
+
+Whether Plaintiffs state a claim for control-person liability against any Defendant,
+
+3
+
+where the CAC does not plead a primary violation of the securities laws and where Plaintiffs fail to
+
+4
+
+plead particularized facts showing that the Individual Defendants exercised control over the subject
+
+5
+
+matter of the alleged fraud.
+
+6
+
+Contemporaneous Inside Trading [Section 20A]
+
+7
+
+7.
+
+Whether Plaintiffs state a claim against any Individual Defendant for unlawful
+
+8
+
+contemporaneous trading, where the CAC fails to plead a primary violation of the securities laws
+
+9
+
+and where Plaintiffs have failed to allege with particularity any material, nonpublic information in
+
+10
+
+the possession of any Individual Defendant at the time of any allegedly contemporaneous stock
+
+11
+
+sales.
+
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+ix
+
+Case 4:08-cv-02150-CW
+
+Document 14
+
+1
+
+Filed 06/20/2008
+
+Page 11 of 36
+
+INTRODUCTION
+
+2
+
+In late 2003, Yahoo! entered the internet search marketing business by acquiring Overture
+
+3
+
+Services, Inc. Plaintiffs contend that, by April 2004, four of Yahoo!’s most senior executives knew
+
+4
+
+that the new business was doomed to fail and that Yahoo!’s principal competitor, Google, was
+
+5
+
+destined to dominate the industry. Plaintiffs assert that Defendants responded by launching a 27-
+
+6
+
+month fraudulent scheme designed to conceal Yahoo!’s allegedly inevitable decline by (1) inflating
+
+7
+
+its revenue, (2) disingenuously expressing enthusiasm for its prospects, and (3) predicting that an
+
+8
+
+upgrade to its search marketing platform called “Panama” would launch earlier than it eventually
+
+9
+
+did. Alleging gossip and innuendo is not enough. A complaint must be supported by
+
+10
+
+“particularized facts” pled “in great detail.” The Consolidated Amended Complaint (“CAC”) is
+
+11
+
+devoid of the required factual support.
+
+12
+
+Plaintiffs assert that Defendants inflated revenue by turning a “dial” on Yahoo!’s click fraud
+
+13
+
+filters. But Plaintiffs provide no facts to support this allegation, relying instead on speculation and
+
+14
+
+rumors, such as a “running joke” recounted by a former sales representative.
+
+15
+
+Plaintiffs attack statements about the prospects of Yahoo!’s search marketing business
+
+16
+
+generally, and Panama in particular, as deceptive based on the accounts of confidential witnesses
+
+17
+
+(“CWs”) who Plaintiffs claim are former employees of Yahoo! and/or Overture. These CWs
+
+18
+
+recount “problems” Yahoo! faced after the Overture acquisition, such as a “culture clash” between
+
+19
+
+the two organizations and strains on systems from an increase in traffic. The obvious fact that
+
+20
+
+Yahoo!’s employees faced “problems” after the Overture acquisition and during the development of
+
+21
+
+Panama does not, however, show that Defendants knew all along that Yahoo!’s plans were doomed
+
+22
+
+to fail.
+
+23
+
+Plaintiffs rely on Defendants’ stock sales to support the required strong inference of scienter.
+
+24
+
+There was nothing suspicious about these sales, however: they are large because Plaintiffs select a
+
+25
+
+27-month class period to sweep in as many sales as possible; the amount of sales declines as the
+
+26
+
+class period progresses; and Plaintiffs nowhere link the sales to any alleged misstatements or to
+
+27
+
+Yahoo!’s stock price performance.
+
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+1
+
+Case 4:08-cv-02150-CW
+
+Document 14
+
+Filed 06/20/2008
+
+Page 12 of 36
+
+Plaintiffs also fail to plead loss causation because they do not show that Yahoo!’s share price
+
+1
+2
+
+fell significantly after the “truth” became known. No one except for these Plaintiffs has ever
+
+3
+
+questioned Yahoo!’s reported historical revenues, and the modest delay in launching Panama was a
+
+4
+
+materialization of a disclosed risk that cannot establish loss causation.
+A company that employs tens of thousands of people, generates billions of dollars in
+
+5
+6
+
+annual revenue, serves hundreds of millions of customers a day from around the globe, and
+
+7
+
+operates at the frontiers of technology will, inevitably, face challenges. Plaintiffs do not show
+
+8
+
+that Yahoo!’s challenges were insurmountable, much less that Defendants knew them to be so
+
+9
+
+during the class period. For these reasons and others discussed below, Plaintiffs fail to state a
+
+10
+
+Section 10(b) claim for securities fraud against any Defendant. Plaintiffs’ related claims under
+
+11
+
+Sections 20(a) and 20A fail for the same and additional reasons.
+BACKGROUND
+
+12
+13
+
+I.
+
+THE PARTIES
+Yahoo! is a global internet services company headquartered in Sunnyvale. Ex. 14 at 1.
+
+14
+15
+
+Plaintiffs purport to represent a class of investors who purchased Yahoo!’s common stock between
+
+16
+
+April 8, 2004 and July 18, 2006 (the “Class Period”). CAC ¶ 1. Plaintiffs name as defendants
+
+17
+
+Yahoo! and four Individual Defendants: Terry S. Semel, former Chairman and Chief Executive
+
+18
+
+Officer; Susan L. Decker, who is currently Yahoo!’s President, and who was Chief Financial
+
+19
+
+Officer and Executive Vice President of Finance and Administration during the Class Period;
+
+20
+
+Farzad Nazem, former Chief Technology Officer; and Daniel L. Rosensweig, former Chief
+
+21
+
+Operating Officer. Id. ¶¶ 15–18.
+
+22
+
+II.
+
+PLAINTIFFS’ ALLEGATIONS
+
+23
+
+A.
+
+24
+
+Before 2003, Yahoo! generated the vast majority of its revenue by displaying advertisements
+
+Yahoo!’s Search Marketing Business
+
+25
+
+on its network of web properties. In October 2003, Yahoo! acquired Overture Services, Inc.
+
+26
+
+(“Overture”), which was engaged in a second kind of internet advertising called “search marketing”
+
+27
+
+or “pay per click” advertising. CAC ¶ 3. Yahoo! integrated Overture’s operations into a separate
+
+28
+
+division.
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+2
+
+Case 4:08-cv-02150-CW
+
+1
+
+Document 14
+
+Filed 06/20/2008
+
+Page 13 of 36
+
+Yahoo!’s search marketing division places “text-based links” on Yahoo! properties and on
+
+2
+
+sites operated by other companies (called Affiliates) who belong to the Yahoo! Search Network.
+
+3
+
+“Text-based links” are short strings of advertising copy that hyperlink to the advertiser’s own site.
+
+4
+
+Placement of the links is determined by: (1) a Yahoo! search algorithm that reads the content of the
+
+5
+
+page being viewed (or, in the case of a user searching the web, the user’s search terms) and selects
+
+6
+
+the most relevant links; and (2) the amount the advertiser agrees (through a bidding process) to pay
+
+7
+
+Yahoo! per click. Advertisers pay only when a user clicks on the link. CAC ¶ 88. When a user
+
+8
+
+clicks on a link appearing on an Affiliate’s page, Yahoo! pays that Affiliate a percentage of the
+
+9
+
+advertiser’s payment to Yahoo!. Id.
+
+10
+
+The CAC contains extensive allegations about “click fraud.” This term applies to activity
+
+11
+
+undertaken for the sole purpose of causing Yahoo!, Google, or other search marketing businesses to
+
+12
+
+log a click. CAC ¶ 92. Click fraud may be committed by an Affiliate seeking to generate a
+
+13
+
+payment for itself, or by an advertiser’s competitor seeking to impose a cost on the advertiser. Id.
+
+14
+
+During the Class Period, Yahoo! filtered clicks to avoid charging advertisers for fraudulent clicks.
+
+15
+
+Id. ¶ 22(d); Ex. 43 at 1.
+
+16
+
+B.
+
+17
+
+Plaintiffs allege that Defendants are responsible for 114 Class Period investor
+
+Securities Fraud Allegations
+
+18
+
+communications allegedly containing material misrepresentations. These alleged
+
+19
+
+misrepresentations fall into three categories: (1) Yahoo!’s financial statements; (2) statements of
+
+20
+
+enthusiasm and optimism about Yahoo!; and (3) statements about the expected launch of Panama.
+
+21
+22
+23
+
+1.
+
+Financial reporting
+a.
+
+revenue recognition
+
+Plaintiffs allege that “defendants implemented a method to change the ‘dial’ on the
+
+24
+
+Company’s click-fraud detection system at the end of the quarter to allow non-billable click activity
+
+25
+
+to be passed on to customers, thereby increasing the Company’s revenues at the end of the quarter.”
+
+26
+
+CAC ¶¶ 56(f), 60(f), 73(f), 79(f), 90(f), 102(f), 113(g), 123(f), 131(i), 139(g). The allegations are
+
+27
+
+contained in one boilerplate text block identical for each of the ten quarters. See id.
+
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+3
+
+Case 4:08-cv-02150-CW
+
+Document 14
+
+Filed 06/20/2008
+
+Page 14 of 36
+
+1
+
+Plaintiffs allege that the reason “defendants” turned down the “dial” was to meet Wall
+
+2
+
+Street’s expectations. See id. The boilerplate does not identify which “defendants” turned down the
+
+3
+
+“dial,” describe the “dial,” describe the “method” that was “implemented,” identify any dates on
+
+4
+
+which the “dial” was turned up or down, or identify any of the people involved in the process.
+
+5
+
+Plaintiffs assert that by turning the “dial,” Yahoo! inflated its revenue at least 10% during each of
+
+6
+
+the ten quarters in the Class Period. CAC ¶¶ 56(g), 73(g), 79(g), 90(g), 102(g), 113(h), 123(g),
+
+7
+
+131(d), 139(b), 144(a), 203.
+b.
+
+8
+9
+
+reserves
+
+Plaintiffs also allege that Yahoo! failed to maintain adequate reserves on its balance sheet
+
+10
+
+for expected refunds to advertisers complaining of click fraud. Id. ¶¶ 56(h), 73(h), 79(h), 90(h),
+
+11
+
+101(h), 113(a), 123(h), 131(e), 139(c), 144(a), 213. Plaintiffs do not allege the amount of Yahoo!’s
+
+12
+
+refund reserves, how they were calculated, or what they should have been at any time during the
+
+13
+
+Class Period.
+
+14
+15
+
+2.
+
+Defendants’ optimistic statements about Yahoo!
+
+Plaintiffs assert that during the first 15 months of the Class Period — from April 2004
+
+16
+
+through July 2005 — Defendants Semel, Decker, and Rosensweig made various statements
+
+17
+
+expressing enthusiasm about Yahoo! and its future business prospects, describing the challenges
+
+18
+
+facing Yahoo!, and pledging the dedication of Yahoo!’s leadership to achieving success. See CAC
+
+19
+
+¶¶ 49–56, 57–60, 61–72, 75–79, 81–90, 91–102, 103–13. As support, Plaintiffs paste in large
+
+20
+
+blocks of text copied from Yahoo! press releases, SEC filings, quarterly conference calls, and
+
+21
+
+analyst reports from April 2004 through July 2005. Id. Plaintiffs assert that “Defendants’
+
+22
+
+statements” were false and misleading because “Defendants knew, or recklessly disregarded, but
+
+23
+
+failed to disclose” the following litany of “problems”: “Yahoo! was actually ‘bursting at the
+
+24
+
+seams’” because of high traffic volume, Yahoo! “refused to provide adequate resources” to search
+
+25
+
+marketing, the Overture integration was hampered by a “culture clash,” Yahoo! fired
+
+26
+
+knowledgeable engineers, Yahoo! did not provide adequate resources for “solving the blob,” and
+
+27
+
+Yahoo!’s Content Match product was performing poorly. Id. ¶¶ 56, 60, 70, 72, 79, 90, 102.
+
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+4
+
+Case 4:08-cv-02150-CW
+
+3.
+
+1
+
+Document 14
+
+Filed 06/20/2008
+
+Page 15 of 36
+
+Project Panama
+
+2
+
+The third and final category of alleged misrepresentations in the CAC consists of statements
+
+3
+
+concerning when Yahoo! expected to launch a series of technological upgrades that became known
+
+4
+
+as “Project Panama.” CAC ¶ 3.1 The Panama initiatives were designed to better “monetize”
+
+5
+
+Yahoo!’s search capability by delivering an improved search marketing product to advertisers. Id.
+On July 19, 2005, Yahoo! publicly announced that it had an internal plan for rolling out
+
+6
+7
+
+these “long-term initiatives.” Id. ¶ 104. Between August 2005 and January 2006, Yahoo! reported
+
+8
+
+that some new initiatives had rolled out, that testing of others would begin in the first half of 2006,
+
+9
+
+that there would be a “broader rollout thereafter,” and that financial benefit would begin to accrue
+
+10
+
+after a “full rollout of the initiatives,” predicted to be in late 2006 and early 2007. Id. ¶¶ 109, 117,
+
+11
+
+125.
+On April 18, 2006, Mr. Semel said that Yahoo! was planning on a three-phase rollout of its
+
+12
+13
+
+remaining monetization initiatives. The first phase, which was building a data platform, was
+
+14
+
+“almost complete”; the second phase was a new on-line application for advertisers to manage ad
+
+15
+
+campaigns; and the third phase was the introduction of a new system for ranking advertising links
+
+16
+
+by quality as well as bid price. Ex. 30 at 18; CAC ¶ 138. Mr. Semel did not predict when these
+
+17
+
+phases would be launched; he said only that Yahoo! expected “testing in the first half of 2006” and
+
+18
+
+“rolling out the service beginning in the second half of this year.” Ex. 30 at 18.
+
+19
+
+On May 17, 2006, Yahoo! held a conference with analysts. A Deutsche Bank report issued
+
+20
+
+the next day stated: “‘Yahoo! management indicated that search monetization is on track for a late
+
+21
+
+3Q/4Q launch.’” CAC ¶ 143; Ex. 36 at 1. A Jefferies report stated that phase two would “become
+
+22
+
+available to advertisers in 3Q06” and that “Phase 3 is expected in 4Q06.” CAC ¶ 143; Ex. 37 at 2.
+On July 18, 2006, Yahoo! announced its 2Q 2006 results. While the results were within the
+
+23
+24
+
+range Yahoo! had projected, they fell short of the more optimistic expectations of stock analysts.
+
+25
+
+Yahoo!’s stock price fell $7.04 following the announcement. CAC ¶ 232.
+
+26
+
+1
+
+27
+
+Project Panama was a name used internally at Yahoo! during the Class Period, but was not
+referenced in any of the documents cited in the CAC until after its public use at the May 17, 2006
+analyst day. See Ex. 31 at 11.
+
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+5
+
+Case 4:08-cv-02150-CW
+
+Document 14
+
+Filed 06/20/2008
+
+Page 16 of 36
+
+In an analyst conference call that day addressing a wide array of issues, Mr. Semel stated
+
+1
+2
+
+that the second and third phases of Panama would roll out in the fourth quarter of 2006 and the first
+
+3
+
+quarter of 2007 respectively (rather than in the third quarter and fourth quarter of 2006). See CAC ¶
+
+4
+
+150; see also Ex. 32 at 4. Mr. Semel explained that it was “prudent to add some extra time to our
+
+5
+
+original estimates for the commercial launch” and that the extra time would be used for testing and
+
+6
+
+“to collect feedback from our advertisers on the timing and cause them as little disruption as
+
+7
+
+possible” given “the complexity and importance of going to market with an application of this
+
+8
+
+scale.” Ex. 32 at 4.
+On October 17, 2006 — less than three weeks after the end of 3Q 2006 — Yahoo!
+
+9
+10
+
+announced that phase two of Panama, the advertising platform, was “live.” Ex. 33 at 2. In February
+
+11
+
+2007, Yahoo! announced the launch of phase three of Panama. Ex. 44.
+ARGUMENT
+
+12
+13
+14
+
+I.
+
+PLAINTIFFS MUST SATISFY “EXACTING PLEADING REQUIREMENTS.”
+To state a Section 10(b) claim, a plaintiff must allege facts showing, inter alia, that the
+
+15
+
+defendant made a material misrepresentation or omission, with scienter, that caused the plaintiff’s
+
+16
+
+loss. Dura Pharm., Inc. v. Broudo, 544 U.S. 336, 341–42 (2005).
+
+17
+
+To survive a motion to dismiss, a complaint must plead “enough facts to state a claim for
+
+18
+
+relief that is plausible on its face.” Bell Atl. Corp. v. Twombly, 127 S. Ct. 1955, 1974 (2007).
+
+19
+
+“Conclusory allegations of law and unwarranted inferences are insufficient to defeat a motion to
+
+20
+
+dismiss.” In re VeriFone Sec. Litig., 11 F.3d 865, 868 (9th Cir. 1993).
+
+21
+
+Heightened pleading standards apply to securities fraud class actions. Plaintiffs must satisfy
+
+22
+
+Fed. R. Civ. P. 9(b), which “requires particularity as to the circumstances of the fraud,” including
+
+23
+
+the “time, place, persons, statements made, [and] explanation of why or how such statements are
+
+24
+
+false or misleading.” In re GlenFed, Inc. Sec. Litig., 42 F.3d 1541, 1548 (9th Cir. 1994) (en banc).
+
+25
+
+Plaintiffs also must satisfy the “[e]xacting pleading requirements” imposed by the Reform
+
+26
+
+Act. Tellabs, Inc. v. Makor Issues & Rights, Ltd., 127 S. Ct. 2499, 2504 (2007). The Reform Act
+
+27
+
+“significantly altered pleading requirements in private securities fraud litigation by requiring that a
+
+28
+
+complaint plead with particularity both falsity and scienter.” In re The Vantive Corp.,
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+6
+
+Case 4:08-cv-02150-CW
+
+Document 14
+
+Filed 06/20/2008
+
+Page 17 of 36
+
+1
+
+283 F.3d 1079, 1084 (9th Cir. 2002). Plaintiffs “must therefore allege facts reflecting ‘the who,
+
+2
+
+what, when, where, and how’ with respect to the facts underlying [a] claim.” In re Silicon
+
+3
+
+Graphics, Inc. Sec. Litig., 183 F.3d 970, 998 (9th Cir. 1999) (citations omitted). These facts and
+
+4
+
+circumstances must be pleaded in “great detail.” Id. at 974.
+Plaintiffs attempting to meet these exacting pleading standards typically rely on internal
+
+5
+6
+
+documents prepared contemporaneously with the allegedly false statements and on witness
+
+7
+
+statements of former employees possessing personal knowledge of the alleged fraud. See In re
+
+8
+
+Daou Sys., Inc., 411 F.3d 1006, 1015 (9th Cir. 2005); Lipton v. Pathogenesis Corp., 284 F.3d 1027,
+
+9
+
+1035–36 (9th Cir. 2002). Here, Plaintiffs cite no internal Yahoo! documents. Instead, Plaintiffs
+
+10
+
+rely on statements that they attribute to fifteen anonymous former employees whom they refer to as
+
+11
+
+CWs. A complaint relying on CW statements must meet a two-part burden. Daou, 411 F.3d
+
+12
+
+at 1015. First, the complaint must plead facts with “sufficient particularity to support the
+
+13
+
+probability that a person in the position occupied by the source would possess the information
+
+14
+
+alleged.” Id. (citations omitted). Second, the complaint must plead facts sufficient to establish that
+
+15
+
+each CW is reliable, taking into account the totality of circumstances, including “the coherence and
+
+16
+
+plausibility of the allegations, the number of sources, the reliability of the sources, and similar
+
+17
+
+indicia.” Id. (citations omitted).
+
+18
+
+II.
+
+PLAINTIFFS FAIL TO STATE A SECTION 10(b) CLAIM.
+
+19
+
+A.
+
+20
+
+To plead falsity, Plaintiffs must “‘specify each statement alleged to have been misleading,
+
+Plaintiffs Fail To Plead A Material Misrepresentation Or Omission.
+
+21
+
+the reason or reasons why the statement is misleading, and, if an allegation regarding the statement
+
+22
+
+or omission is made on information and belief, . . . the complaint shall state with particularity all
+
+23
+
+facts on which that belief is formed.’” Vantive, 283 F.3d at 1085 (quoting 15 U.S.C. § 78u-4(b)(1)).
+
+24
+
+Facts that must be pleaded with particularity include the “who, what, when, where, and how” of the
+
+25
+
+alleged fraud. GlenFed, 42 F.3d at 1548. The CAC fails this test.
+
+26
+27
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+7
+
+Case 4:08-cv-02150-CW
+
+1.
+
+1
+
+Document 14
+
+Filed 06/20/2008
+
+Page 18 of 36
+
+Plaintiffs fail to support their accusation that Yahoo! issued false
+financial statements.
+
+2
+a.
+3
+4
+
+Plaintiffs do not support their revenue recognition allegations
+with facts.
+
+The CAC does not contain particularized facts to support Plaintiffs’ allegation that
+
+5
+
+Defendants inflated Yahoo!’s revenue by turning a “dial” on Yahoo!’s click-fraud filters to achieve
+
+6
+
+Wall Street expectations. Plaintiffs and their CWs do not identify the “defendants” involved, do not
+
+7
+
+describe the “dial” or where it was located, say nothing about the “method” defendants allegedly
+
+8
+
+“implemented,” do not identify any day or week when this occurred, and do not describe the
+
+9
+
+revenue recognition process or how it was affected on any occasion by the “dial” being turned. The
+
+10
+
+fact that Plaintiffs rely on the same boilerplate throughout the 27-month Class Period confirms that
+
+11
+
+these “dial” allegations are generic rather than particularized.
+
+12
+
+Plaintiffs cite no internal documents to support their conclusory “dial” allegations, relying
+
+13
+
+exclusively on two CWs. CW8 allegedly stated that “there was an effort inside Yahoo! to relax the
+
+14
+
+click-fraud detection standards.” CAC ¶ 27. CW8, however, did not say when the standards were
+
+15
+
+relaxed, who exerted the “effort,” whether it succeeded, or whether a Defendant was involved.
+
+16
+
+CW12, a former sales manager, allegedly said that there was a “running joke” at Yahoo! about a
+
+17
+
+revenue dial. CAC ¶ 31(l). Pleading a joke among the sales staff does not plead accounting fraud
+
+18
+
+under the Reform Act. See In re Northpoint Commc’ns Group, Inc. Sec. Litig., 221 F. Supp. 2d
+
+19
+
+1090, 1098 (N.D. Cal. 2002) (rejecting confidential witness’s allegation based on “second hand
+
+20
+
+rumor” because it was not based on personal knowledge); see also Limantour v. Cray, Inc.,
+
+21
+
+432 F. Supp. 2d 1129, 1141 (W.D. Wash. 2006) (rejecting confidential witness reports based on
+
+22
+
+“gossip and innuendo”). Furthermore, Plaintiffs’ “dial” theory is inconsistent with Plaintiffs’
+
+23
+
+allegation that Yahoo! missed investor expectations (while meeting its own guidance) on four
+
+24
+
+occasions during the Class Period: 2Q 2004, 2Q 2005, 4Q 2005, and 2Q 2006. CAC ¶¶ 67, 108,
+
+25
+
+130, 150.
+
+26
+27
+
+Also, Plaintiffs provide no support for their accusation that, by turning the “dial,”
+Defendants inflated Yahoo!’s revenue at least 10% each quarter. See CAC ¶¶ 56(g), 73(g), 79(g),
+
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+8
+
+Case 4:08-cv-02150-CW
+
+Document 14
+
+Filed 06/20/2008
+
+Page 19 of 36
+
+1
+
+90(g), 102(g); 112(g); 131(d); 139(b); The 10% figure comes not from internal company
+
+2
+
+documents, but rather from magazine articles estimating the prevalence of click-fraud industry-
+
+3
+
+wide. CAC ¶¶ 203–08. These sources say nothing about Yahoo!’s recognition of revenue. See
+
+4
+
+Exs. 45–49.2
+Plaintiffs try to corroborate their 10% inflation allegation through two confidential
+
+5
+6
+
+witnesses: CW3, who allegedly served as an Engineering Manager at Overture until October 2004;
+
+7
+
+and CW6, who allegedly was a sales representative. CAC ¶¶ 22, 25, 203. Neither of these
+
+8
+
+confidential witnesses is alleged to have had any role in or knowledge of Yahoo!’s revenue
+
+9
+
+recognition practices; neither, therefore, is a reliable source. See In re U.S. Aggregates, Inc. Sec.
+
+10
+
+Litig., 235 F. Supp. 2d 1063, 1074 (N.D. Cal. 2002) (accounting fraud claim not corroborated where
+
+11
+
+“none of the confidential witnesses have any first-hand knowledge of [defendant’s] accounting
+
+12
+
+decisions”); see also Kuehbeck v. Genesis Microchip, Inc., No. C-02-05344-JSW, 2005 U.S. Dist.
+
+13
+
+LEXIS 20213, at *18–19 (N.D. Cal. July 27, 2005) (same). CW3, moreover, was not even a
+
+14
+
+Yahoo! employee during most of the Class Period, and lacks reliability for this additional reason. In
+
+15
+
+re Silicon Storage Tech., Inc. Sec. Litig., No. C-05-0295-PJH, 2006 U.S. Dist. LEXIS 14790, at
+
+16
+
+*24–25, *32–33 (N.D. Cal. Mar. 10, 2006).3 In short, Plaintiffs’ revenue recognition allegations are
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+2
+
+Plaintiffs imply that Yahoo!’s announcement on June 29, 2006, that it had settled a consumer
+class action lawsuit by advertisers relating to click fraud supports Plaintiffs’ claims of accounting
+fraud. See CAC ¶¶ 10, 147, 154, 210, 254. Nothing in that settlement, however, provides any
+particularized facts about the alleged accounting fraud. Indeed, the settlement includes Yahoo!’s
+assertion that its “click protection system has filtered clicks in a total amount which exceeds a
+reasonable estimate with respect to the quantity of clicks which are Challenged Clicks . . . .” Ex.
+51 ¶ 32(v). The settlement is not “an admission, concession or indication by or against Yahoo! of
+any fault, wrongdoing or liability whatsoever.” Id. ¶ 27.
+Plaintiffs also state that, in March 2007, “Yahoo! agreed that it would no longer bill advertisers
+12%-15% of the clicks on its ads.” CAC ¶ 154. This description is terribly misleading. The
+March 2007 news report states that both Yahoo! and Google publicly disclosed the rates at which
+they had already been filtering invalid clicks. Ex. 50.
+Plaintiffs also allege that Yahoo! admitted that it benefited from click fraud (see CAC ¶¶ 10, 150,
+233), but provide no support for the conclusory allegation.
+3
+For the same reason, this Court can disregard the statements attributed to CW5, who allegedly
+left Yahoo! in June 2004. CAC ¶ 24. In any event, CW5 offers no relevant or corroborating
+facts.
+
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+9
+
+Case 4:08-cv-02150-CW
+
+Document 14
+
+Filed 06/20/2008
+
+Page 20 of 36
+
+1
+
+devoid of the factual support necessary to state a claim for accounting fraud. See Vantive, 283 F.3d
+
+2
+
+at 1091 (affirming dismissal where “allegations of improper recognition of revenues . . . contain no
+
+3
+
+specifics or corroborating details of time, persons, places, and subjects”); Alaska Elec. Pension
+
+4
+
+Fund v. Adecco S.A., 434 F. Supp. 2d 815, 825 (S.D. Cal. 2006) (dismissing complaint that did “not
+
+5
+
+plead sufficient facts to support its allegation [that defendant’s] financial statements overstated
+
+6
+
+revenues ”), aff’d, 256 F.App’x 74 (9th Cir. 2007).
+b.
+
+7
+8
+9
+
+Plaintiffs do not support their reserve allegations with facts.
+
+Plaintiffs also fail to plead particularized facts showing that Yahoo!’s refund reserves were
+inadequate. CAC ¶¶ 211–13. Plaintiffs do not allege the size of Yahoo!’s refund reserves or the
+
+10
+
+size that they should have been for any quarter during the Class Period, much less for all ten.
+
+11
+
+Plaintiffs do not show that Yahoo! was contractually bound to provide refunds or that it had a policy
+
+12
+
+or practice of doing so. Plaintiffs have not, therefore, pled a factual basis for their conclusory
+
+13
+
+allegations of inadequate reserves. See Kane v. Madge Networks N.V., No. C-96-20652-RMW,
+
+14
+
+2000 U.S. Dist. LEXIS 19984, at *18 n.8 (N.D. Cal. May 25, 2000) (allegation that company
+
+15
+
+misstated reserves for accounts receivable inadequate where complaint failed to identify the specific
+
+16
+
+customers who refused to pay their bills and did not plead facts that any customer “would renege on
+
+17
+
+their legal obligation to pay”), aff’d, 32 F.App’x. 905 (9th Cir. 2002).
+
+18
+
+2.
+
+Plaintiffs fail to plead that Defendants’ expressions of enthusiasm,
+dedication, and optimism were false.
+
+19
+20
+
+Most of the CAC consists of block quotations taken from statements by Defendants and
+
+21
+
+securities analysts, which Plaintiffs declare to have been false in light of various “problems”
+
+22
+
+discussed in one boilerplate paragraph. See CAC ¶ 49–56, 57–60, 61–72, 75–79, 81–90, 91–102,
+
+23
+
+103–13. Here again, Plaintiffs fail to plead falsity with the required particularity.
+
+24
+
+First, Plaintiffs fail to identify with particularity the statements they contend are false. The
+
+25
+
+Ninth Circuit has long criticized complaints, like the CAC, that “ramble[] through long stretches of
+
+26
+
+material quoted from defendants’ public statements (many of which seem innocuous enough even
+
+27
+
+by plaintiffs’ own recounting) unpunctuated by any specific ‘reasons for falsity’ — which, indeed,
+
+28
+
+prove difficult to locate in the surrounding area.” GlenFed, 42 F.3d at 1553–54. It is insufficient to
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+10
+
+Case 4:08-cv-02150-CW
+
+Document 14
+
+Filed 06/20/2008
+
+Page 21 of 36
+
+1
+
+leave “it up to defendants and the court to try to figure out exactly what the misleading statements
+
+2
+
+are, and to match the statements up with the reasons they are false or misleading.” In re Splash
+
+3
+
+Tech. Holdings, Inc. Sec. Litig., 160 F. Supp. 2d 1059, 1074 (N.D. Cal. 2001) (citation omitted).
+
+4
+
+For this reason, Plaintiffs fail to satisfy the Reform Act’s requirement of “identifying with
+
+5
+
+particularity what statements are false and misleading.” In re Pixar Sec. Litig., 450 F. Supp. 2d
+
+6
+
+1096, 1100–01 (N.D. Cal. 2006) (citing 15 U.S.C. § 78u–4(b)(1)).
+Second, much of the block text consists of statements by securities analysts. CAC ¶¶ 51, 53,
+
+7
+8
+
+64, 65, 67, 70, 77, 83, 97, 98, 99, 105, 106, 107, 108, 119, 120, 128, 129, 130, 134, 138. A
+
+9
+
+defendant can be held liable for statements by analysts only if the defendant expressly or impliedly
+
+10
+
+adopts or endorses the statements or provides information to the analysts with the intent that they
+
+11
+
+will communicate it to the market. In re Syntex Corp. Sec. Litig., 95 F.3d 922, 934 (9th Cir. 1996);
+
+12
+
+In re Versant Object Tech. Corp. (Versant I), No. C-98-00299-CW, 2000 U.S. Dist. LEXIS 22333,
+
+13
+
+at *22–23 (N.D. Cal. May 18, 2000), aff’d, 56 F.App’x 322 (9th Cir. 2003). Plaintiffs, however,
+
+14
+
+plead no such facts.
+Third, “generalized, vague and unspecific assertions” by executives that they are confident
+
+15
+16
+
+their business will succeed, such as the expressions of enthusiasm, dedication, and optimism that
+
+17
+
+Plaintiffs attribute to Defendants Semel, Decker, and Rosensweig, are not actionable as a matter of
+
+18
+
+law. Glen Holly Entm’t, Inc. v. Tektronix, Inc., 352 F.3d 367, 379 (9th Cir. 2003) (citations
+
+19
+
+omitted). As this Court has explained, “investors . . . know how to devalue the optimism of
+
+20
+
+corporate executives, who have a personal stake in the future success of the Company.” In re Apple
+
+21
+
+Computer, Inc. Sec. Litig., 243 F. Supp. 2d 1012, 1026 (N.D. Cal. 2002) (quotations omitted), aff’d,
+
+22
+
+32 F. App’x. 905 (9th Cir. 2003); Versant I, 2000 U.S. Dist. LEXIS 22333, at *21 (same).4
+
+23
+24
+25
+26
+27
+
+4
+
+The statements of optimism include statements regarding (a) growth, development, and strategy
+(see CAC ¶¶ 49–52, 61, 62, 64–66, 75, 76, 81, 82, 85–87, 93, 94, 103, 104, 109, 114–118, 137;
+(b) the expected successful integration of Overture personnel and technology (see id. ¶¶ 49, 50,
+57); (c) the strength of Yahoo!’s management team (see id. ¶ 85); and (d) anticipated successes.
+See id. ¶¶ 49, 50, 61, 62, 65, 66, 76, 82, 85, 94, 103, 104, 109, 114, 115–118. Numerous courts
+have held that similar optimistic statements are not actionable. See, e.g., In re CornerStone
+Propane Partners, L.P., 355 F. Supp. 2d 1069, 1087 (N.D. Cal. 2005); Kane, 2000 U.S. Dist.
+LEXIS 19984, at *8–9; Wenger v. Lumisys, Inc., 2 F. Supp. 2d 1231, 1245–46 (N.D. Cal. 1998).
+
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+11
+
+Case 4:08-cv-02150-CW
+
+1
+
+Document 14
+
+Filed 06/20/2008
+
+Page 22 of 36
+
+Fourth, the facts set out in the boilerplate paragraph are not inconsistent with the text blocks
+
+2
+
+Plaintiffs quote. The existence of a post-merger “culture clash,” for example, does not render
+
+3
+
+statements about Yahoo!’s operations or strategic plan false. Kane, 2000 U.S. Dist LEXIS 19984,
+
+4
+
+at *21–23 (complaint dismissed where plaintiffs did not plead particularized facts to support claim
+
+5
+
+that departments were “in conflict and upheaval” after corporate merger); see also Ronconi v.
+
+6
+
+Larkin, 253 F.3d 423, 434 (9th Cir. 2001).
+
+7
+
+Fifth, many of the statements in the text blocks consist of opinions and statements about the
+
+8
+
+future. To plead that an expression of opinion is “false,” a plaintiff must plead particular facts
+
+9
+
+showing “why the statement of opinion was objectively and subjectively false,” that is that the
+
+10
+
+defendant did not genuinely hold the opinion and that there was no reasonable basis for the opinion
+
+11
+
+at the time. In re McKesson HBOC, Inc. Sec. Litig., 126 F. Supp. 2d 1248, 1265 (N.D. Cal. 2000).
+
+12
+
+To plead that a forward-looking statement is false, a plaintiff must plead contemporaneous facts
+
+13
+
+showing that “one of three implied factual assertions is inaccurate: (1) that the statement is
+
+14
+
+genuinely believed, (2) that there is a reasonable basis for that belief, and (3) that the speaker is not
+
+15
+
+aware of any undisclosed facts tending to seriously undermine the accuracy of the statement.”
+
+16
+
+VeriFone, 11 F.3d at 870 (quotations omitted); In re Stac Elecs. Sec. Litig., 89 F.3d 1399, 1409 (9th
+
+17
+
+Cir. 1996) (same). The boilerplate cites several CWs, but none present facts sufficient to
+
+18
+
+demonstrate that any statement lacked a reasonable basis when made, or that any opinion was not
+
+19
+
+genuinely believed.
+
+20
+
+At best, Plaintiffs have alleged that Yahoo! faced challenges during the Class Period, which
+
+21
+
+is hardly surprising. “Problems and difficulties are the daily work of business people. That they
+
+22
+
+exist does not make a lie out of any of the alleged false statements.” Ronconi, 253 F.3d 423 at 434.
+
+23
+
+To plead lack of a reasonable basis because of problems requires pleading “specific facts that show
+
+24
+
+how these ‘problems’ and ‘difficulties’” could not have been solved. Id.; In re Versant Object Tech.
+
+25
+
+Corp. (Versant III), No. C-98-00299-CW, 2001 U.S. Dist. LEXIS 25009, at *20 (N.D. Cal. Dec. 4,
+
+26
+
+2001), aff’d, 56 F.App’x 322 (9th Cir. 2003). The grievances of fifteen former employees do not
+
+27
+
+show that Defendants did not genuinely hold their enthusiasm, that they were not genuinely
+
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+12
+
+Case 4:08-cv-02150-CW
+
+Document 14
+
+Filed 06/20/2008
+
+Page 23 of 36
+
+1
+
+dedicated to Yahoo!’s success, or that there was no reasonable basis to believe that Yahoo! would
+
+2
+
+succeed.
+
+3
+
+3.
+
+4
+
+Plaintiffs fail to plead that Yahoo!’s estimates for the Panama rollout
+lacked a reasonable basis when made.
+
+Plaintiffs’ assertion that Defendants falsely predicted dates on which Panama would launch
+
+5
+6
+
+at a May 17, 2006 analyst day is not supported by facts. CAC ¶¶ 143–44. Plaintiffs rely entirely on
+
+7
+
+the reports of two analysts that “‘Yahoo! management indicated that search monetization is on track
+
+8
+
+for a late 3Q/4Q launch.’” CAC ¶ 143; Exs. 36 at 1, 37 at 2.5 This reliance is misplaced because
+
+9
+
+the reports do not indicate that the speaker was a Defendant, what in particular he or she indicated
+
+10
+
+and how he or she indicated it, whether his or her prediction was accompanied by cautionary
+
+11
+
+language, whether the he or she was aware of facts inconsistent with his or her prediction, or
+
+12
+
+whether he or she acted with scienter. These are the most basic requirements of Rule 9(b) and the
+
+13
+
+Reform Act. Vantive, 283 F.3d at 1085; GlenFed, 42 F.3d at 1548.
+As this Court has previously recognized, where plaintiffs rely upon analyst reports to
+
+14
+15
+
+attribute a false statement to a defendant, the plaintiffs must “plead with particularity all facts
+
+16
+
+supporting their belief” that the particular defendant made the allegedly false statement to the
+
+17
+
+analyst. In re Versant Object Tech. Corp. (Versant II), No. C-98-00299-CW, 2001 U.S. Dist.
+
+18
+
+LEXIS 25010, at *6 (N.D. Cal. Mar. 30, 2001), aff’d, 56 F.App’x 322. It is not enough, as here
+
+19
+
+(CAC ¶ 143), for a complaint to quote analyst reports saying “Management believes” something, as
+
+20
+
+these statements “are not direct statements by Defendants.” Versant II, 2001 U.S. Dist. LEXIS
+
+21
+
+25010, at *23. Such allegations fail to plead falsity with particularity. Id.; see also Vantive,
+
+22
+
+283 F.3d at 1085; GlenFed, 42 F.3d at 1548.
+
+23
+24
+5
+
+25
+26
+27
+
+Plaintiffs quote numerous forward-looking statements made before May 2006 concerning
+Yahoo!’s plans to improve the monetization of its search technology. CAC ¶¶ 104, 109, 115,
+117, 118, 125. None of these statements include a prediction by a Defendant about the date on
+which any monetization initiative would launch. And Plaintiffs do not allege that any of these
+pre–May 2006 predictions did not come true. See In re Convergent Techs. Sec. Litig., 948 F.2d
+507, 514 (9th Cir. 1991) (predictions that come true cannot support liability under Section 10(b)).
+
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+13
+
+Case 4:08-cv-02150-CW
+
+Document 14
+
+Filed 06/20/2008
+
+Page 24 of 36
+
+This case provides a perfect example of why these pleading requirements are in effect. As is
+
+1
+2
+
+clear from the transcript of the analyst day presentation (see Ex. 31 at 40), which Plaintiffs ignore,
+
+3
+
+the Panama prediction was not made by one of the Individual Defendants, the speaker’s statements
+
+4
+
+were accompanied by cautionary language (id. at 1, 90), the speaker is not a person Plaintiffs allege
+
+5
+
+was aware of any facts inconsistent with his statements, and he is not a person Plaintiffs allege to
+
+6
+
+have acted with scienter.
+Additionally, pleading that Yahoo! predicted a launch that was later delayed does not plead
+
+7
+8
+
+that the forecast was “false” when made. Rather, Plaintiffs must plead facts showing that (1) the
+
+9
+
+forecast was not genuinely believed, (2) there was not a reasonable basis for that belief, or (3) the
+
+10
+
+speaker was aware of undisclosed facts tending to seriously undermine the accuracy of the forecast.
+
+11
+
+VeriFone, 11 F.3d at 870; Stac, 89 F.3d at 1409. Plaintiffs attempt to meet this standard through
+
+12
+
+reliance on CWs 1, 2, 4, 7, 10, 11, 12, and 15. Plaintiffs’ allegations, however, are inadequate for
+
+13
+
+several independent reasons.
+The first Daou criterion disposes of the statements attributed to CWs 7, 10, 11, 12, and 15.
+
+14
+15
+
+Plaintiffs do not plead particularized facts to support the probability that any of these individuals
+
+16
+
+would possess the information about Panama attributed to them. Daou, 411 F.3d at 1015. CWs 7
+
+17
+
+and 12 had sales and customer service roles. CAC ¶¶ 26, 31(a). Neither is alleged to have had any
+
+18
+
+information about the development of Panama, and their job descriptions do not support an
+
+19
+
+inference that they did. See In re Tibco Software, Inc. Sec. Litig., No. C-05-2146-SBA, 2006 U.S.
+
+20
+
+Dist. LEXIS 36666 (N.D. Cal. May 24, 2006), at *70 (finding that IT Operations Manager was not a
+
+21
+
+reliable source concerning the company’s allegedly fraudulent sales). CWs 10 and 11 left Yahoo!
+
+22
+
+in December 2004 and January 2005 — months before Yahoo! issued any prediction about Panama.
+
+23
+
+CAC ¶ 29. A confidential witness who was not employed at the time of an allegedly false statement
+
+24
+
+cannot provide contemporaneous facts showing the statement was false when made. Silicon
+
+25
+
+Storage, 2006 U.S. Dist. LEXIS 14790, at *24, 32–33.6
+
+26
+
+6
+
+27
+
+CW11 allegedly became a Yahoo! customer after his/her departure in December 2004, and
+opined that Panama’s algorithm was not “ready” in the second quarter of 2006 (CAC ¶¶ 30,
+139(a)), but offers no facts to support that opinion, as required by Daou. CW15 is described as an
+
+28
+
+(Footnote continues on next page.)
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+14
+
+Case 4:08-cv-02150-CW
+
+1
+
+Document 14
+
+Filed 06/20/2008
+
+Page 25 of 36
+
+Plaintiffs point to statements from five confidential witnesses who identified various
+
+2
+
+“problems” with Panama components and related “back end systems.”7 Allegations about the
+
+3
+
+existence of “problems,” however, are insufficient because Plaintiffs do not describe the “problems”
+
+4
+
+with factual particularity, or explain why they could not have been timely solved. Plaintiffs do not
+
+5
+
+even assert that these “problems” were not timely solved or that they had anything to do with
+
+6
+
+postponing Panama’s launch.
+
+7
+
+The Ninth Circuit has repeatedly held that pleading “problems” is insufficient absent a
+
+8
+
+showing that the problems were insurmountable at the time the projection was issued. Ronconi,
+
+9
+
+253 F.3d at 434; In re Syntex Corp. Sec. Litig., 95 F.3d 922, 930 (9th Cir. 1996) (“[T]he company
+
+10
+
+could have known of problems in the testing procedures, planned to remedy those deficiencies, and
+
+11
+
+still thought it would achieve FDA approval by the estimated date.”); In re Read-Rite Corp. Sec.
+
+12
+
+Litig., No. C-03-03148-RMW, 2004 U.S. Dist. LEXIS 19319, at *16 (N.D. Cal. Sept. 14, 2004)
+
+13
+
+(dismissing complaint because “plaintiffs do not allege why defendants could not have believed that
+
+14
+
+these defects were minor or solvable”); In re Juniper Networks, Inc. Sec. Litig., No. C-02-0749-SI,
+
+15
+
+2004 U.S. Dist. LEXIS 4025, at *8 (N.D. Cal. Mar. 11, 2004) (complaint failed to “plead specific
+
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+(Footnote continued from previous page.)
+
+“employee” who sat in on some meetings where Project Panama was discussed. CAC ¶ 34. The
+CAC, however, does not mention CW15’s job title, or job responsibilities, or anything about the
+meetings that CW15 may have attended. The lack of these facts is fatal. Daou, 411 F.3d at 1015.
+7
+The CWs vaguely report that there were “hardware readiness issues,” and “integration testing
+issues,” that the “code” for Panama was not written as of December 2005, that projects called
+“Cheetah” and “solving the blob” were not complete in February 2006, and that “Project
+Symphony” was delayed and ultimately “scratched.” CAC ¶¶ 20(a), 23, 26, 29, 31(i), 56(c),
+60(c), 79(c), 102(c), 113(c), 131(b), 139(a), 139(a), 158, 163, 164. Plaintiffs provide no details
+about these projects or the “issues,” and thus do not satisfy Rule 9(b) or the Reform Act.
+Plaintiffs also point to CW statements about “internal disagreements,” a “culture clash” among
+engineers at Yahoo! and Overture, and terminations of some engineers. Id. ¶¶ 20, 29, 113(a),
+123(a). The CAC, however, does not offer a single fact regarding those disagreements, a culture
+clash, or terminations, as required. Vantive, 283 F.3d at 1086–87 (allegations that company “‘was
+suffering serious problems’ with its management teams, who ‘were distracted’ . . . because of
+‘continual disagreements and in-fighting’” did not support falsity allegations). Further, Yahoo!
+evidently overcame these “problems.” Plaintiffs’ documents show that the Panama code was
+complete in May 2006, and that advertisers gave positive feedback on the system during testing.
+Ex. 31 at 40–41; Ex. 32 at 4, 10; Ex. 37 at 2, 3.
+
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+15
+
+Case 4:08-cv-02150-CW
+
+Document 14
+
+Filed 06/20/2008
+
+Page 26 of 36
+
+1
+
+facts demonstrating how the problems being experienced translated into the need for [the company]
+
+2
+
+to alter or reduce its publicly issued projections”). Plaintiffs make no such showing here.
+
+3
+
+Plaintiffs allege that CW1, who was in charge of Panama “after October 2005,” expressed
+
+4
+
+his opinion to Mr. Nazem in April 2006 that “the August 2006 launch was not going to happen.”
+
+5
+
+CAC ¶ 20(a). This allegation is inadequate for several reasons. First, Mr. Nazem is not alleged to
+
+6
+
+have made any public prediction about Panama’s launch date (or about anything else). Plaintiffs
+
+7
+
+assert that Mr. Nazem communicated CW1’s opinion to other Defendants in weekly meetings, but
+
+8
+
+Plaintiffs do not plead with particularity what, if anything, Mr. Nazem said on this point. Second,
+
+9
+
+CW1’s opinion is not inconsistent with the phase two launch date of “late 3Q,” which Plaintiffs
+
+10
+
+allege Yahoo! publicly predicted in May. Third, the CAC does not allege that CW1 held his
+
+11
+
+opinion in May, when the projection was allegedly made. Fourth, the CAC pleads no facts showing
+
+12
+
+that CW1’s opinion was definitive or that a contrary opinion would lack a reasonable basis. Fifth,
+
+13
+
+Plaintiffs do not plead how Mr. Nazem responded to CW1’s opinion — whether Mr. Nazem agreed,
+
+14
+
+disagreed, or devoted additional resources to meet the alleged August date.
+
+15
+
+Significantly, the “problems” with Panama did not prevent Yahoo! from releasing phase two
+
+16
+
+on October 17, 2006, less than three weeks after the end of the third quarter of 2006. Ex. 33 at 2.
+
+17
+
+The barely missed rollout shows that Defendants had a reasonable basis to believe the rollout was
+
+18
+
+on target and could overcome any problems or glitches. Syntex, 95 F.3d at 930–31 (prediction not
+
+19
+
+actionable where it was wrong by three weeks). Plaintiffs are required to show that a difference
+
+20
+
+between what was predicted and what occurred is “not merely the difference between two
+
+21
+
+permissible judgments, but rather the result of a falsehood.” Id. at 929 (quotations omitted). They
+
+22
+
+have not done so here.
+
+23
+
+In summary, Plaintiffs fail to plead the most basic element of a securities fraud case — a
+
+24
+
+false or misleading statement of material fact. On this ground alone, the entire CAC should be
+
+25
+
+dismissed.
+
+26
+
+B.
+
+27
+
+Under the Reform Act, Plaintiffs also have the burden to “‘state with particularity facts
+
+28
+
+Plaintiffs Also Fail To Plead A “Strong Inference” Of Scienter.
+
+giving rise to a strong inference that the defendant acted with the required state of mind’” when
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+16
+
+Case 4:08-cv-02150-CW
+
+Document 14
+
+Filed 06/20/2008
+
+Page 27 of 36
+
+1
+
+making allegedly false or misleading statements. Tellabs, 127 S. Ct. at 2508 (quoting 15 U.S.C.
+
+2
+
+§ 78u-4(b)(2)). A statement is made with scienter if it is made with an intent to deceive investors or
+
+3
+
+with “deliberate recklessness,” a “degree of recklessness that strongly suggests actual intent” to
+
+4
+
+deceive investors. Silicon Graphics, 183 F.3d at 977, 979. It is not enough for a complaint “to
+
+5
+
+allege facts from which an inference of scienter rationally could be drawn.” Tellabs, 127 S. Ct. at
+
+6
+
+2510. Rather, the particularized factual allegations must give rise to an inference that is “cogent and
+
+7
+
+at least as compelling as any opposing inference one could draw from the facts alleged.” Id.
+
+8
+
+“A defendant corporation is deemed to have the requisite scienter for fraud only if the
+
+9
+
+individual corporate officer making the statement has the requisite level of scienter.” Apple,
+
+10
+
+243 F. Supp. 2d at 1023 (citations omitted). Plaintiffs cannot, therefore, meet their burden by
+
+11
+
+pleading that one person made a false statement at the same time that another officer knew the
+
+12
+
+statement to be false. See id.
+Plaintiffs’ circumstantial allegations of scienter are based on (1) statements of CWs and (2)
+
+13
+14
+
+the Individual Defendants’ stock sales. Neither gives rise to any inference of scienter.
+
+15
+
+1.
+
+16
+
+Plaintiffs’ CWs do not support an inference of scienter.
+
+Plaintiffs’ CWs do not support a “strong inference” that any Defendant made any allegedly
+
+17
+
+false statement with scienter. None of the CWs on whom Plaintiffs rely to show scienter for the
+
+18
+
+accounting-fraud claim — CWs 3, 6, 8, 9, 10, 14 (CAC ¶¶ 169, 170, 171, 173, 175–78) — is alleged
+
+19
+
+to have had any responsibility for or knowledge about Yahoo!’s accounting decisions generally or
+
+20
+
+revenue recognition specifically. See Part II.A.1.a supra. Moreover, none of these CWs is alleged
+
+21
+
+to have ever met or communicated with Ms. Decker or Mr. Semel, the only two Individual
+
+22
+
+Defendants alleged to have endorsed Yahoo!’s financial results. See CAC ¶ 224.8 These allegations
+
+23
+
+8
+
+24
+25
+26
+27
+
+Mr. Nazem and Mr. Rosensweig are not alleged to have made or endorsed any of the allegedly
+false financial statements (CAC ¶ 224), so they could not have acted with scienter with regard to
+them and cannot be liable for them. In re CornerStone Propane Partners, L.P. Sec. Litig., 416 F.
+Supp. 2d 779, 783, 788 (N.D. Cal. 2005); Apple, 243 F. Supp. 2d at 1028.
+CW3 allegedly told Plaintiffs that “Yahoo!’s management” decided to “relax” the click-fraud
+detection system, but did not say who in “management” made that decision or that s/he ever told
+Ms. Decker or Mr. Semel (or any other executive) about it. CAC ¶¶ 170, 171, 175, 176. CW8
+allegedly told Plaintiffs that Ms. Decker “definitely was aware of the issue” of click fraud. This
+
+28
+
+(Footnote continues on next page.)
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+17
+
+Case 4:08-cv-02150-CW
+
+Document 14
+
+Filed 06/20/2008
+
+Page 28 of 36
+
+1
+
+are thus deficient “because they show neither knowledge nor participation by Defendants in the
+
+2
+
+alleged accounting improprieties.” U.S. Aggregates, 235 F. Supp. 2d at 1075.
+
+3
+
+Plaintiffs do not dispute that Yahoo!’s financial reports were audited throughout the Class
+
+4
+
+Period by PriceWaterhouseCoopers (“PWC”), which found them to have been prepared in
+
+5
+
+conformance with Generally Accepted Accounting Principles (“GAAP”). Plaintiffs do not allege
+
+6
+
+that Defendants lied to PWC or that PWC was complicit in the allegedly fraudulent scheme.
+
+7
+
+Plaintiffs thus present no explanation, much less a “cogent” and “compelling” explanation, for how
+
+8
+
+Defendants were able to obtain a clean audit opinion from PWC while overstating Yahoo!’s
+
+9
+
+revenues by “at least 10%” for ten quarters in a row. The absence of such an explanation is “highly
+
+10
+
+probative of an absence of scienter.” In re Hansen Natural Corp. Sec. Litig., 527 F. Supp. 2d 1142,
+
+11
+
+1158 (C.D. Cal. 2007) (internal quotations omitted).
+
+12
+
+Plaintiffs’ CWs also do not provide any support for Plaintiffs’ claims relating to the
+
+13
+
+optimistic statements made between April 2004 and July 2005, or any of the predictions about
+
+14
+
+Panama that were made between July 2005 and May 2006. Plaintiffs just recycle their allegations
+
+15
+
+about “problems” described by CWs 4, 7, 10, 11, and 12 (CAC ¶¶ 162–65, 174), which do not give
+
+16
+
+rise to even a reasonable inference of falsity as discussed above (Part II.A supra), much less a
+
+17
+
+“strong inference” that any forward-looking statement was made “with ‘actual knowledge . . . that
+
+18
+
+the statement was false or misleading’” or that any opinion was made with deliberate recklessness
+
+19
+
+towards investors. Vantive, 283 F.3d at 1085 (quoting 15 U.S.C. § 78u-5(c)(1)(B)(i)).
+
+20
+
+Plaintiffs’ remaining scienter allegations relate to Panama and CW1’s alleged statement to
+
+21
+
+Mr. Nazem that Panama would not launch in August. CAC ¶¶ 21, 31(i), 32, 34, 160, 161, 166, 167,
+
+22
+
+168. As discussed above (Part II.A.3), the allegation about CW1’s communication with Mr. Nazem
+
+23
+
+does not give rise to an inference of falsity, much less a strong inference that any Defendant
+
+24
+
+predicted a Panama launch date “knowing” it would not be met. Furthermore, Mr. Nazem is not
+
+25
+26
+27
+
+(Footnote continued from previous page.)
+
+allegation adds nothing because Yahoo! described click fraud in its public filings throughout the
+Class Period. See, e.g., Ex. 10 at 65. CW8 does not purport to say that Ms. Decker knew about
+the alleged “dial,” 10% revenue overstatement, or reserves. Id.¶¶ 18, 27, 177.
+
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+18
+
+Case 4:08-cv-02150-CW
+
+Document 14
+
+Filed 06/20/2008
+
+Page 29 of 36
+
+1
+
+alleged to have made or participated in making any of the alleged statements listed in the CAC.
+
+2
+
+This shortcoming is fatal to pleading a Section 10(b) claim against Mr. Nazem. Howard v. Everex
+
+3
+
+Sys., 228 F.3d 1057, 1061 n.5 (9th Cir. 2000). It is also fatal to pleading a Section 10(b) claim
+
+4
+
+against Yahoo!, because a corporation cannot have scienter unless one of its officers made a false
+
+5
+
+statement with scienter. Apple, 243 F. Supp. 2d at 1023.9
+
+6
+
+2.
+
+Plaintiffs’ stock-sale allegations do not support an inference of scienter.
+
+Plaintiffs’ allegations of stock sales by Individual Defendants do not support an inference
+
+7
+8
+
+(and certainly not a “strong inference”) that any Individual Defendant made a false statement with
+
+9
+
+scienter. CAC ¶¶ 180–97.10 “Insider stock sales are not inherently suspicious; they become so only
+
+10
+
+when the level of trading is ‘dramatically out of line with prior trading practices at times calculated
+
+11
+
+to maximize the personal benefit from undisclosed inside information.’” Vantive, 283 F.3d at 1092
+
+12
+
+(quoting Ronconi, 253 F.3d at 435). As demonstrated in Charts 1–4 included in Appendix A, no
+
+13
+
+such pattern of trading exists here.
+First, as is clear from Charts 1–4, there is no correlation between the timing of the allegedly
+
+14
+15
+
+false statements and the timing of any Individual Defendant’s sales. See App. A. In Vantive, the
+
+16
+
+Ninth Circuit found that stock sales were not suspicious and affirmed dismissal because the
+
+17
+
+complaint failed to “connect [a defendant’s] sales with any particular allegedly misleading
+
+18
+
+statements” or otherwise demonstrate that sales were timed to take advantage of misleading
+
+19
+
+statements. 283 F.3d at 1094. Plaintiffs have made no such showing here, either.11
+
+20
+21
+22
+23
+24
+25
+26
+27
+
+9
+
+Plaintiffs’ generic argument that the Individual Defendants had scienter given their “positions”
+and alleged “access” to unspecified adverse information (CAC ¶¶ 15–18, 155–56, 169–70, 172–
+73, 175) has been consistently rejected. DSAM Global Value Fund v. Altris Software, Inc.,
+288 F.3d 385, 390 (9th Cir. 2002); Apple, 243 F. Supp. 2d at 1012.
+10
+Mr. Nazem’s sales are irrelevant because he did not make any of the allegedly false statements.
+Silicon Graphics, 183 F.3d at 987–88 (where defendant does not make any of the allegedly
+misleading statements, his “stock sales do not give rise to a strong inference of deliberate
+recklessness”); Vantive, 283 F.3d at 1094 (same); Apple, 243 F. Supp. 2d at 1028.
+11
+At most, Plaintiffs allege that the Individual Defendants sold stock after Yahoo!’s quarterly
+earnings announcements (CAC ¶ 180), which is when corporate officers “commonly make stock
+transactions.” Lipton, 284 F.3d at 1037. The timing of such sales is normal, not suspicious.
+
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+19
+
+Case 4:08-cv-02150-CW
+
+Document 14
+
+Filed 06/20/2008
+
+Page 30 of 36
+
+Second, Plaintiffs’ observation that Class-Period sales were large in dollar terms ($879
+
+1
+2
+
+million) and exceeded pre-Class period sales (see CAC ¶¶ 181–88) does not render the Class Period
+
+3
+
+sales “suspicious” for the simple reason that Plaintiffs selected the Class Period to “sweep as many
+
+4
+
+stock sales into their totals as possible, thereby making the stock sales appear more suspicious than
+
+5
+
+they would be with a shorter class period.” Vantive, 283 F.3d at 1092. As in Vantive, “the class
+
+6
+
+period alleged is so long, and the virtually identical allegations recycled throughout the complaint so
+
+7
+
+many times, that it becomes difficult to see how particular stock sales would strengthen allegations
+
+8
+
+that particular statements were uttered with deliberate recklessness at the times they were made.”
+
+9
+
+Id. at 1093.12 The Class Period here is almost twice as long as the period criticized by the court in
+
+10
+
+Vantive.
+
+11
+
+Third, Plaintiffs have not alleged facts demonstrating that the stock sales were designed to
+
+12
+
+“maximize the personal benefit” of any Individual Defendant. Ronconi, 253 F.3d at 435. None of
+
+13
+
+the Individual Defendants sold stock immediately before any of the four earnings announcements
+
+14
+
+during the Class Period in which Yahoo! missed analyst expectations, and they continued to sell
+
+15
+
+shares after those announcements were made. Rice Decl. ¶¶ 9–12. If the Individual Defendants
+
+16
+
+were committing fraud to maximize personal benefit, one would expect sales before, not after,
+
+17
+
+negative earnings announcements and associated stock declines. In fact, all of the Individual
+
+18
+
+Defendants sold their stock at average prices far below the Class Period high of $43.66, and three of
+
+19
+
+the four sold at an average price that was below the average daily closing price of $33.77 during the
+
+20
+
+Class Period. CAC ¶¶ 11, 182, 184, 186, 188; Rice Decl. ¶ 7. There is no strong inference of
+
+21
+
+12
+
+22
+23
+24
+25
+26
+27
+
+Plaintiffs distort their presentation of the Individual Defendants’ stock sales in many other
+ways. For example, Plaintiffs exclude vested options in calculating the percentage of shares sold,
+even though the Ninth Circuit has repeatedly ruled that vested options must be included. Vantive,
+283 F.3d at 1092 n.12; Silicon Graphics, 183 F.3d at 986. When vested options are included, the
+accurate percentages are: 49.3% for Semel; 68.1% for Rosensweig; 58.1% for Nazem; and
+35.6% for Decker (Rice Decl. ¶¶ 3(e), 4(e), 5(e), 6(e)) rather than the significantly higher
+percentages listed by Plaintiffs. See CAC ¶¶ 15–18. Plaintiffs also use charts that illustrate the
+“dollar volume” of sales as opposed to the number of shares sold. Id. Their charts make it look
+as though the Individual Defendants sold more stock as Yahoo!’s price increased. Charts 1–4,
+which accurately illustrate the amount of shares sold, show that the Individual Defendants’
+trading patterns were consistent during the Class Period, and not tied to an increasing stock price.
+See Appendix A.
+
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+20
+
+Case 4:08-cv-02150-CW
+
+Document 14
+
+Filed 06/20/2008
+
+Page 31 of 36
+
+1
+
+scienter where, as here, executives “miss the boat” by selling stock at prices far below the class
+
+2
+
+period high. Vantive, 283 F.3d at 1094.13
+
+3
+
+Fourth, as illustrated in Charts 1–4, there was no coordinated selling of stock by Individual
+
+4
+
+Defendants — they generally sold at different times throughout the Class Period. The absence of a
+
+5
+
+pattern further undermines Plaintiffs’ theory (see CAC ¶¶ 2–3) that the Individual Defendants
+
+6
+
+conspired to inflate Yahoo!’s stock price to sell at the highest price possible. See, e.g., Vantive,
+
+7
+
+283 F.3d at 1093 (no strong inference of scienter where “other equally (or more) knowledgeable
+
+8
+
+defendants” did not sell at the same time); cf. Daou, 411 F.3d at 1024 (stock sales “highly suspect
+
+9
+
+and indicative of coordinated selling among defendants” where complaint alleged that “98% of all
+
+10
+
+insider sales . . . took place on only two trading days”).
+Finally, more than half of the Class Period stock sales occurred in 2004. Rice Decl. ¶ 8.
+
+11
+12
+
+Such early class period sales made long before an alleged fraud is revealed do not support an
+
+13
+
+inference of scienter. See Vantive, 283 F.3d at 1093; accord In re Buca Inc. Sec. Litig., No. 05-
+
+14
+
+1762-DWF-AJB, 2006 U.S. Dist. LEXIS 75224, at *41–42 (D. Minn. Oct. 16, 2006); In re Credit
+
+15
+
+Acceptance Corp. Sec. Litig., 50 F. Supp. 2d 662, 677 (E.D. Mich. 1999).
+In sum, the alleged stock sales exhibit no unusual or suspicious pattern that, when viewed in
+
+16
+17
+
+concert with all facts pled in the CAC, supports a “cogent” and “compelling” inference that any
+
+18
+
+Defendant intended to defraud investors. Tellabs, 127 S. Ct. at 2510. The CAC should, therefore,
+
+19
+
+also be dismissed for failure to plead a strong inference of scienter.
+
+20
+
+C.
+
+21
+
+The forward-looking statements in the CAC cannot support a Section 10(b) claim for the
+
+The Forward-Looking Statements Are Not Actionable For Additional Reasons.
+
+22
+
+additional reason that they are protected by the Reform Act’s Safe Harbor, which provides that
+
+23
+
+forward-looking statements are not actionable where they are identified as forward-looking and
+
+24
+13
+
+25
+26
+27
+
+All of the Individual Defendants maintained substantial Yahoo! holdings at the end of the
+Class Period. Rice Decl. ¶¶ 3(c), 4(c), 5(c), 6(c). The value of three Individual Defendants’
+holdings increased over the course of the Class Period. Id. ¶¶ 3(b), (d); 5(b), (d); 6(b), (d). They,
+like any other owner of Yahoo! stock, suffered “losses” as Yahoo!’s stock declined, a fact
+“negating” scienter. Ronconi, 253 F.3d at 435–36; see also Hansen, 527 F. Supp. 2d at 1160
+(quoting Vantive, 283 F.3d at 1092); Versant III, 2001 U.S. Dist. 25009, at *16–17.
+
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+21
+
+Case 4:08-cv-02150-CW
+
+Document 14
+
+Filed 06/20/2008
+
+Page 32 of 36
+
+1
+
+accompanied by meaningful cautionary language. Employers Teamsters Local Nos. 175 & 505
+
+2
+
+Pension Trust Fund v. Clorox Co., 353 F.3d 1125, 1132 & n.3 (9th Cir. 2004) (citing 15 U.S.C.
+
+3
+
+§ 78u-5(c)). These statements also are protected by the bespeaks-caution doctrine. See id.
+Defendants’ optimistic statements about the prospects of Yahoo!’s search marketing
+
+4
+5
+
+business were made in written press releases (see, e.g., CAC ¶¶ 49, 61, 103, 114), and orally in
+
+6
+
+conference calls with analysts. See, e.g., id. ¶¶ 50, 62, 76, 82, 95, 104, 115. The press releases
+
+7
+
+identified the statements as forward-looking, and warned that actual results might differ because of
+
+8
+
+risks and uncertainties, including “performance of the Company’s recently acquired businesses”;
+
+9
+
+“risks related to the integration of recent acquisitions”; and “the ability to adjust to changes in
+
+10
+
+personnel, including management changes.” See, e.g., Exs. 39–42 at 3. The conference call
+
+11
+
+moderators invoked the Safe Harbor and referred investors to Yahoo!’s SEC reports for risk
+
+12
+
+factors.14 Yahoo!’s SEC reports, in turn, advised investors that the acquisition of Overture’s search
+
+13
+
+marketing business could result in problems and harm Yahoo!’s business. These problems included
+
+14
+
+“the difficulty of assimilating the operations and personnel of [] acquired companies with and into
+
+15
+
+Yahoo!’s operations”; “the failure to further successfully develop acquired technology”; “the
+
+16
+
+impairment of relationships with employees of the acquired companies”; and the potential loss of
+
+17
+
+“key employees from Overture.”15
+The statement about the predicted launch of Project Panama made at the May 17, 2006
+
+18
+19
+
+analyst day (CAC ¶ 143) was identified as forward-looking and pointed investors to SEC reports
+
+20
+
+that contained meaningful cautionary language. Ex. 31 at 1, 90. Those SEC reports warned
+
+21
+
+investors that “significant changes to our architectures, including moving to completely new
+
+22
+
+architectures and systems,” could be “technologically challenging to develop and implement.”
+
+23
+
+Ex. 14 at 27; Ex. 16 at 44. Yahoo!’s SEC reports also cautioned investors that system “upgrades
+
+24
+
+and improvements will require a dedication of resources and in some cases are likely to be complex.
+
+25
+
+If we are unable to adapt our systems in a timely manner to accommodate our growth, our business
+
+26
+
+14
+
+27
+
+15
+
+Ex. 22 at 132; Ex. 23 at 119; Ex. 24 at 106; Ex. 25 at 91; Ex. 26 at 77; Ex. 27 at 61; Ex. 28 at 1.
+Ex. 7 at 31–32, 36; Ex. 8 at 34, 38; Ex. 9 at 36, 41; Ex. 10 at 17–18; Ex. 11 at 38–39; Ex. 12 at
+36–37; Ex. 13 at 35–36; Ex. 14 at 24.
+
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+22
+
+Case 4:08-cv-02150-CW
+
+1
+
+Document 14
+
+Filed 06/20/2008
+
+Page 33 of 36
+
+may be adversely affected.” Ex. 14 at 23–24; Ex. 16 at 44.
+Under the Safe Harbor and the bespeaks-caution doctrine, these warnings protect Defendants
+
+2
+3
+
+from liability relating to forward-looking statements about Project Panama. See Clorox, 353 F.3d
+
+4
+
+at 1133 (affirming dismissal where “sufficient warnings accompanied the timetable estimate”).
+
+5
+
+D.
+
+6
+
+Plaintiffs also fail to plead loss causation, i.e. the “causal connection between the material
+
+Plaintiffs Also Fail To Plead Loss Causation.
+
+7
+
+misrepresentation and the loss” alleged, for all their claims. Dura, 544 U.S. at 342. To plead loss
+
+8
+
+causation, a complaint must plead facts showing “that the misstatement or omission concealed
+
+9
+
+something from the market that, when disclosed, negatively affected the value of the security.”
+
+10
+
+Lentell v. Merrill Lynch & Co., 396 F.3d 161, 175 (2d Cir. 2005). This can be done by showing a
+
+11
+
+“corrective disclosure regarding the falsity” or the “materialization of a risk” that was previously
+
+12
+
+concealed. Id. at 173, 175.16
+Plaintiffs’ accounting-fraud claim contrasts sharply with the loss causation allegations
+
+13
+14
+
+approved by the Ninth Circuit in Daou, where the stock dropped after the company disclosed that it
+
+15
+
+had improperly recognized revenue. 411 F.3d at 1026. Here, there has been no such disclosure.
+
+16
+
+Aside from Plaintiffs, nobody (including PWC) has ever questioned Yahoo!’s Class-Period
+
+17
+
+financial results. Plaintiffs thus fail to plead a “causal connection between the material
+
+18
+
+misrepresentation and the loss” alleged. Dura, 544 U.S. at 342.
+
+19
+
+Plaintiffs try to indirectly plead loss causation by pointing to Yahoo!’s stock drop after
+
+20
+
+reports on January 18 and July 18, 2006, of increasing traffic acquisition costs associated with
+
+21
+
+Yahoo!’s replacement of “poor traffic affiliates.” CAC ¶¶ 10, 231(a), 233. Plaintiffs, however,
+
+22
+
+never link these rising costs to their “dial” allegations and overlook that Yahoo! had repeatedly
+
+23
+
+advised investors throughout the entire Class Period that these costs were rising and would continue
+
+24
+25
+26
+27
+
+16
+
+The Ninth Circuit has assumed, “without deciding — that Rule 9(b) governs” the pleading of
+loss causation allegations. Berson v. Applied Signal Tech., Inc., No. 06-15454, --- F.3d---, 2008
+U.S. App. LEXIS 11982, at *18–19 (9th Cir. June 5, 2008).
+
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+23
+
+Case 4:08-cv-02150-CW
+
+Document 14
+
+Filed 06/20/2008
+
+Page 34 of 36
+
+1
+
+to rise.17 A complaint cannot show loss causation where, as here, a stock drop allegedly follows the
+
+2
+
+materialization of a previously disclosed and known risk. Lattanzio v. Deloitte & Touche LLP,
+
+3
+
+476 F.3d 147, 158 (2d Cir. 2007); Lentell, 396 F.3d at 177.
+For the same reasons, Plaintiffs do not plead loss causation for their Panama fraud theory.
+
+4
+5
+
+Plaintiffs allege that their losses were caused by the stock drop following Yahoo!’s disclosure that it
+
+6
+
+“was delaying the implementation of Project Panama.” CAC ¶ 231(b). There was no such
+
+7
+
+announced delay before the January 18, 2006 stock drop. With regard to the delay of Panama
+
+8
+
+announced on July 18, 2006, Yahoo! explained that it was “prudent to add some extra time to our
+
+9
+
+original estimates for the commercial launch . . . to collect feedback from our advertisers on the
+
+10
+
+timing and cause them as little disruption as possible” “given the complexity and importance of
+
+11
+
+going to market with an application of this scale.” Ex. 32 at 4–5. In the annual report that it filed
+
+12
+
+on March 3, 2006, Yahoo! warned that its business could be adversely affected if its upgrades were
+
+13
+
+not “adequately tested,” and if Yahoo! failed to “adapt [its] systems in a timely manner.” Ex. 14
+
+14
+
+at 23; Part II.C supra. Yahoo!’s risk disclosures thus provided “substantial indicia” of the risks that
+
+15
+
+ultimately materialized. The CAC, therefore, fails to plead loss causation. Lattanzio, 476 F.3d
+
+16
+
+at 158; Lentell, 396 F.3d at 177.
+
+17
+
+III.
+
+PLAINTIFFS FAIL TO STATE A SECTION 20(a) CLAIM.
+Plaintiffs also fail to plead a claim for control-person liability under Section 20(a) of the
+
+18
+19
+
+Exchange Act for two independent reasons. First, Plaintiffs do not plead a valid Section 10(b) claim
+
+20
+
+against any Defendant, so there can be no secondary liability for any Defendant under Section 20(a).
+
+21
+
+Lipton, 284 F.3d at 1035 n.15. Second, Plaintiffs fail to “plead the circumstances of the control
+
+22
+
+relationship with particularity.” In re Splash Tech. Holdings, Inc. Sec. Litig., No. C-99-00109-SBA,
+
+23
+
+2000 U.S. Dist. LEXIS 15369, at *83–84 (N.D. Cal. Sept. 29, 2000). Plaintiffs allege no facts
+
+24
+
+showing that Mr. Nazem, the CTO, or Mr. Rosensweig, the COO, had any responsibility for
+
+25
+
+financial statements or accounting. Rather, Plaintiffs rely on titles and on conclusory allegations
+
+26
+27
+
+17
+
+See, e.g. Ex. 5 at 31; Ex. 10 at 34; Ex. 14 at 41 Stock analysts repeated that information. See,
+e.g., Ex. 29 at 37–38; Ex. 31 at 77; Ex. 34 at 2; Ex. 35 at 2.
+
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+24
+
+Case 4:08-cv-02150-CW
+
+Document 14
+
+Filed 06/20/2008
+
+Page 35 of 36
+
+1
+
+about “involvement in the day-to-day operations.” CAC ¶ 258. This is insufficient. Paracor Fin.,
+
+2
+
+Inc. v. GE Capital Corp., 96 F.3d 1151, 1162–63 (9th Cir. 1996); In re Metawave Commc’ns Corp.
+
+3
+
+Sec. Litig., 298 F. Supp. 2d 1056, 1091 (W.D. Wash. 2003) (control-person liability not pleaded
+
+4
+
+where defendant’s position was not alleged to involve revenue recognition, inventory accounting, or
+
+5
+
+issuance of financial statements).
+
+6
+
+IV.
+
+7
+
+PLAINTIFFS FAIL TO STATE A SECTION 20A CLAIM.
+Plaintiffs’ claim against the Individual Defendants for contemporaneous insider trading
+
+8
+
+under Section 20A (see CAC ¶¶ 260–70) fails for at least two independent reasons. First, Plaintiffs
+
+9
+
+do not plead a predicate violation of the Exchange Act. VeriFone, 11 F.3d at 872. Plaintiffs also
+
+10
+
+fail to plead a wrongful contemporaneous trade. Plaintiffs identify seven contemporaneous trades in
+
+11
+
+the CAC, but fail to identify any specific “material nonpublic information” in the possession of any
+
+12
+
+Individual Defendants at the time of those specific trades (VeriFone, 11 F.3d at 872) and plead no
+
+13
+
+facts showing that they “knowingly” used that information in making the decision to sell. Johnson
+
+14
+
+v. Aljian, 394 F. Supp. 2d 1184, 1198–99 (C.D. Cal. 2004), aff’d, 490 F.3d 778 (9th Cir. 2007).
+
+15
+
+Plaintiffs’ Section 20A claim, therefore, fails as a matter of law. Id.; VeriFone, 11 F.3d at 872;
+
+16
+
+Berger v. Ludwick, No. C-97-0728-CAL, 2000 U.S. Dist. LEXIS 12756 (N.D. Cal. Aug. 17, 2000).
+
+17
+
+CONCLUSION
+
+18
+19
+
+For all of the foregoing reasons, Defendants respectfully request that this Court dismiss the
+CAC without leave to amend.
+MORRISON & FOERSTER LLP
+
+20
+21
+
+Dated: June 20, 2008
+By: /s/ Judson Lobdell [e-filing signature]
+Attorneys for Defendants
+
+22
+23
+24
+25
+26
+27
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+25
+
+Case 4:08-cv-02150-CW
+
+Document 14
+
+1
+
+Filed 06/20/2008
+
+Page 36 of 36
+
+ECF ATTESTATION
+
+2
+3
+
+I, Mark R.S. Foster, am the ECF User whose ID and Password are being used to file:
+
+4
+5
+
+DEFENDANTS’ NOTICE OF MOTION AND MOTION TO DISMISS
+PLAINTIFFS’ CONSOLIDATED AMENDED COMPLAINT; SUPPORTING
+MEMORANDUM OF POINTS AND AUTHORITIES
+
+6
+
+In compliance with General Order 45, X.B., I hereby attest that Judson Lobdell has
+
+7
+8
+
+concurred in this filing.
+Dated: June 20, 2008
+
+9
+
+MORRISON & FOERSTER LLP
+By:/s/ Mark R.S. Foster [e-filing signature]
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+DEFENDANTS’ MPA I/S/O MTD CAC
+MASTER FILE NO. CV-08-2150-CW
+sf-2534796
+
+Case 4:08-cv-02150-CW
+
+Document 14-2
+
+Filed 06/20/2008
+
+Page 1 of 5
+
+1
+2
+3
+4
+
+APPENDIX A
+
+5
+6
+
+CHARTS OF INDIVIDUAL DEFENDANT STOCK SALES∗
+
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+∗
+
+See Foster Decl. ¶ 40.
+
+28
+APP. A: DEF. STOCK SALE CHARTS
+MASTER FILE NO. CV-08-2150-CW
+sf-2532656
+
+A-1
+
+11
+
+12
+
+13
+6
+
+7
+
+8
+
+9
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+Aug-04
+
+Jul-04
+
+Jun-04
+
+May-04
+
+Apr-04
+
+Mar-04
+
+27
+
+APP. A: DEF. STOCK SALE CHARTS
+MASTER FILE NO. CV-08-2150-CW
+sf-2532656
+
+28
+
+A-2
+
+$0
+Apr-05
+Mar-05
+
+Feb-05
+
+Jan-05
+
+Shares Sold
+
+Jul-05
+
+Jun-05
+
+Stock Price
+
+Class Period
+
+-
+
+100,000
+
+200,000
+
+300,000
+
+Filed 06/20/2008
+
+$5
+
+$10
+
+$15
+
+400,000
+
+500,000
+
+Document 14-2
+
+$20
+
+$25
+
+600,000
+
+Sep-04
+
+$30
+
+Oct-04
+
+700,000
+
+Nov-04
+
+$35
+
+Dec-04
+
+800,000
+
+Nov-05
+
+$40
+
+Dec-05
+
+900,000
+
+Mar-06
+
+$45
+
+Jul-06
+
+1,000,000
+
+Jan-06
+Aug-05
+
+May-05
+
+Stock Price
+
+26
+Feb-06
+
+19
+Apr-06
+
+18
+May-06
+
+17
+Jun-06
+
+16
+
+Class Period (April 8, 2004 - July 18,
+
+5
+Aug-06
+
+15
+Sep-05
+
+4
+
+Oct-05
+
+3
+
+$50
+
+2
+# Shares Sold
+
+14
+
+Chart 1
+
+10
+
+Decker: Shares Sold & Stock Price By Month
+
+Case 4:08-cv-02150-CW
+Page 2 of 5
+
+1
+
+12
+
+13
+6
+
+7
+
+8
+
+9
+
+10
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+Aug-04
+
+Jul-04
+
+Jun-04
+
+May-04
+
+Apr-04
+
+Mar-04
+
+APP. A: DEF. STOCK SALE CHARTS
+MASTER FILE NO. CV-08-2150-CW
+sf-2532656
+
+28
+
+A-3
+
+$0
+Apr-05
+Mar-05
+
+Feb-05
+
+Shares Sold
+
+Jul-05
+
+Jun-05
+
+Stock Price
+
+Class Period
+
+-
+
+50,000
+
+100,000
+
+150,000
+
+Filed 06/20/2008
+
+$5
+
+$10
+
+$15
+
+200,000
+
+250,000
+
+Document 14-2
+
+$20
+
+$25
+
+300,000
+
+Sep-04
+
+$30
+
+Oct-04
+
+350,000
+
+Nov-04
+
+$35
+
+Dec-04
+
+400,000
+
+Nov-05
+
+$40
+
+Dec-05
+
+450,000
+
+Mar-06
+
+$45
+
+Jun-06
+
+500,000
+
+Jan-06
+Aug-05
+
+May-05
+
+Jan-05
+
+Stock Price
+
+27
+Feb-06
+
+19
+Apr-06
+
+18
+May-06
+
+17
+Jul-06
+
+16
+
+Class Period (April 8, 2004 - July 18,
+
+5
+Aug-06
+
+15
+Sep-05
+
+4
+
+Oct-05
+
+3
+
+$50
+
+2
+# Shares Sold
+
+14
+
+Chart 2
+
+11
+
+Nazem: Shares Sold & Stock Price By Month
+
+Case 4:08-cv-02150-CW
+Page 3 of 5
+
+1
+
+11
+
+12
+
+13
+6
+
+7
+
+8
+
+9
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+Aug-04
+
+Jul-04
+
+Jun-04
+
+May-04
+
+Apr-04
+
+Mar-04
+
+27
+
+APP. A: DEF. STOCK SALE CHARTS
+MASTER FILE NO. CV-08-2150-CW
+sf-2532656
+
+28
+
+A-4
+
+$0
+Apr-05
+Mar-05
+
+Feb-05
+
+Shares Sold
+
+Jul-05
+
+Jun-05
+
+Stock Price
+
+Sep-05
+
+Class Period
+
+-
+
+50,000
+
+100,000
+
+150,000
+
+Filed 06/20/2008
+
+$5
+
+$10
+
+$15
+
+200,000
+
+250,000
+
+Document 14-2
+
+$20
+
+$25
+
+300,000
+
+Sep-04
+
+$30
+
+Oct-04
+
+350,000
+
+Nov-04
+
+$35
+
+Nov-05
+
+400,000
+
+Dec-05
+
+$40
+
+Apr-06
+
+450,000
+
+Aug-06
+
+$45
+
+4
+500,000
+
+Jan-06
+Aug-05
+
+May-05
+
+Jan-05
+Dec-04
+
+Stock Price
+
+26
+Feb-06
+
+19
+Mar-06
+
+18
+May-06
+
+17
+Jun-06
+
+16
+
+Class Period (April 8, 2004 - July 18,
+
+5
+Jul-06
+
+15
+Oct-05
+
+3
+
+$50
+
+2
+# Shares Sold
+
+14
+
+Chart 3
+
+10
+
+Rosenweig: Shares Sold & Stock Price By Month
+
+Case 4:08-cv-02150-CW
+Page 4 of 5
+
+1
+
+10
+
+11
+
+12
+
+13
+6
+
+7
+
+8
+
+9
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+Jul-04
+
+Jun-04
+
+May-04
+
+Apr-04
+
+Mar-04
+
+27
+
+APP. A: DEF. STOCK SALE CHARTS
+MASTER FILE NO. CV-08-2150-CW
+sf-2532656
+
+28
+
+A-5
+
+$0
+Apr-05
+Mar-05
+
+Feb-05
+
+Jan-05
+
+Shares Sold
+
+Jul-05
+
+Jun-05
+
+Stock Price
+
+Class Period
+
+0
+
+500,000
+
+1,000,000
+
+1,500,000
+
+Filed 06/20/2008
+
+$5
+
+$10
+
+$15
+
+2,000,000
+
+2,500,000
+
+Document 14-2
+
+$20
+
+$25
+
+3,000,000
+
+Aug-04
+
+$30
+
+Sep-04
+
+3,500,000
+
+Oct-04
+
+$35
+
+Nov-04
+
+4,000,000
+
+Dec-04
+
+$40
+
+Nov-05
+
+4,500,000
+
+Dec-05
+
+$45
+
+Apr-06
+
+5,000,000
+
+Sep-05
+
+Aug-05
+
+May-05
+
+4
+
+Oct-05
+
+3
+
+$50
+
+Jan-06
+
+Stock Price
+
+26
+Feb-06
+
+19
+Mar-06
+
+18
+May-06
+
+17
+Jun-06
+
+16
+Jul-06
+
+15
+
+Class Period (April 8, 2004 - July 18,
+
+5
+Aug-06
+
+14
+
+Chart 4
+
+2
+# Shares Sold
+
+1
+
+Semel: Shares Sold & Stock Price By Month
+
+Case 4:08-cv-02150-CW
+Page 5 of 5
+
+s
+
+

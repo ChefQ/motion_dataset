@@ -1,0 +1,517 @@
+Case 2:05-cv-02367-SRC-CLW Document 366 Filed 08/13/12 Page 1 of 15 PageID: 16667
+
+MARTIN L. PERSCHETZ
+martin.perschetz@srz.com
+SUNG-HEE SUH
+sung-hee.suh@srz.com
+WILLIAM H. GUSSMAN, JR.
+bill.gussman@srz.com
+SCHULTE ROTH & ZABEL LLP
+919 Third Avenue
+New York, New York 10022
+Tel: (212) 756-2000
+LAWRENCE M. ROLNICK
+lrolnick@lowenstein.com
+SHEILA A. SADIGHI
+ssadighi@lowenstein.com
+LOWENSTEIN SANDLER PC
+65 Livingston Avenue
+Roseland, New Jersey 07068
+Tel: (973) 597-2500
+Attorneys for Defendant Dr. Edward M. Scolnick
+UNITED STATES DISTRICT COURT
+DISTRICT OF NEW JERSEY
+IN RE: MERCK & CO., INC. SECURITIES,
+DERIVATIVE & “ERISA” LITIGATION
+
+MDL No. 1658 (SRC)
+
+THIS DOCUMENT RELATES TO:
+
+Case No. 2:05-CV-01151-SRC-CLW
+Case No. 2:05-CV-02367-SRC-CLW
+
+THE CONSOLIDATED SECURITIES ACTION
+
+(Document Electronically Filed)
+
+DR. EDWARD M. SCOLNICK’S MEMORANDUM OF LAW IN OPPOSITION TO
+PLAINTIFFS’ MOTION FOR CLASS CERTIFICATION, APPOINTMENT OF CLASS
+REPRESENTATIVES, AND APPOINTMENT OF CLASS COUNSEL
+
+Case 2:05-cv-02367-SRC-CLW Document 366 Filed 08/13/12 Page 2 of 15 PageID: 16668
+
+TABLE OF CONTENTS
+Page
+PRELIMINARY STATEMENT .................................................................................................... 1
+STATEMENT OF FACTS ............................................................................................................. 2
+ARGUMENT.................................................................................................................................. 4
+I.
+
+Class Certification Should Be Denied Because Plaintiffs Cannot Establish the
+Requirements of Rule 23 as to the § 20A Claim ............................................................. 4
+A.
+
+MPERS Lacks Standing to Bring a § 20A Claim Against Dr. Scolnick ................ 6
+
+B.
+
+MPERS Does Not Satisfy the “Typicality” Requirement of Rule 23(a) ................ 9
+
+C.
+
+MPERS Does Not Satisfy the “Adequacy” Requirement of Rule 23(a) .............. 10
+
+CONCLUSION............................................................................................................................. 11
+
+Case 2:05-cv-02367-SRC-CLW Document 366 Filed 08/13/12 Page 3 of 15 PageID: 16669
+
+TABLE OF AUTHORITIES
+CASES
+
+PAGE(S)
+
+In re Able Labs. Sec. Litig.,
+Civil Action No. 05-2681, 2008 WL 1967509 (D.N.J. March 24, 2008) ...................................7
+Amchem Prods., Inc. v. Windsor,
+521 U.S. 591 (1997) ..............................................................................................................4, 10
+In re AST Research Sec. Litig.,
+887 F. Supp. 231 (C.D. Cal. 1995).......................................................................................... 6-7
+Barnes v. Am. Tobacco Co.,
+161 F.3d 127 (3d Cir. 1998)..................................................................................................9, 10
+Behrend v. Comcast Corp.,
+655 F.3d 182 (3d Cir. 2011).................................................................................................... 4-5
+Buban v. O'Brien,
+No. 94-0331, 1994 WL 324093 (N.D. Cal. June 22, 1994) ............................................ 2, 6-7, 8
+In re Cell Therapeutics, Inc. Class Action Litig.,
+No. 2:10-cv-414, 2011 WL 444676 (W.D. Wash. Feb. 4, 2011)................................................7
+Chester Upland Sch. Dist. v. Pennsylvania,
+Civil Action No. 12-132, 2012 WL 1473969 (E.D. Pa. Apr. 25, 2012) ...................................10
+Coffin v. Bowater Inc.,
+228 F.R.D. 397 (D. Me. 2005) ....................................................................................................5
+In re Cypress Semiconductors Sec. Litig.,
+No. C-92-20048, 1994 WL 669856 (N.D. Cal. Nov. 29, 1994) ...............................................10
+Eisenberg v. Gagnon,
+766 F.2d 770 (3d Cir. 1985).................................................................................................. 9-10
+In re Fed. Nat'l Mortg. Ass'n Sec. Derivative & "ERISA" Litig.,
+503 F. Supp. 2d 25 (D.D.C. 2007) .......................................................................................... 7-8
+In re Ford Motor Co. E-350 Van Prods. Liab. Litig.,
+Civil Action No. 03-4558, MDL No. 1687, 2012 WL 379944 (D.N.J. Feb. 6, 2012)................5
+Hassine v. Jeffes,
+846 F.2d 169 (3d Cir. 1988)........................................................................................................9
+
+Case 2:05-cv-02367-SRC-CLW Document 366 Filed 08/13/12 Page 4 of 15 PageID: 16670
+
+In re Hydrogen Peroxide Antitrust Litig.,
+552 F.3d 305 (3d Cir. 2008).................................................................................................... 4-5
+McNair v. Synapse Grp. Inc.,
+672 F.3d 213 (3d Cir. 2012).................................................................................................. 9-10
+In re Microstrategy, Inc. Sec. Litig.,
+115 F. Supp. 2d 620 (E.D. Va. 2000)..........................................................................................6
+Neubronner v. Milken,
+6 F.3d 666 (9th Cir. 1993).......................................................................................................6, 7
+Newton v. Merrill Lynch, Pierce, Fenner & Smith, Inc.,
+259 F.3d 154 (3d Cir. 2001).................................................................................................. 9-10
+Piazza v. Ebsco Indus., Inc.,
+273 F.3d 1341 (11th Cir. 2001)............................................................................................. 9-10
+Prado-Steiman ex rel. Prado v. Bush,
+221 F.3d 1266 (11th Cir. 2000).................................................................................................10
+Westways World Travel, Inc. v. AMR Corp.,
+218 F.R.D. 223 (C.D. Cal. 2003) ..............................................................................................10
+FEDERAL RULES AND STATUTES
+Fed R. Civ. P. 23.......................................................................................................................... 4-5
+Fed R. Civ. P. 23(a) ................................................................................................................. 2, 4-6
+Fed R. Civ. P. 23(a)(3).....................................................................................................................9
+Fed R. Civ. P. 23(a)(4)...................................................................................................................10
+Fed R. Civ. P. 23(b) ..................................................................................................................... 4-5
+Fed R. Civ. P. 23(b)(2).....................................................................................................................9
+Fed. R. Civ. P. 23(b)(3)....................................................................................................................4
+Securities Exchange Act of 1934, Section 20A, 15 U.S.C. § 78t-1(a) .................................. passim
+OTHER AUTHORITIES
+H.R. Rep. No. 100-910 (1988) as reprinted in 1988 U.S.C.C.A.N. 6043, 6064.............................6
+
+Case 2:05-cv-02367-SRC-CLW Document 366 Filed 08/13/12 Page 5 of 15 PageID: 16671
+
+Defendant Dr. Edward M. Scolnick respectfully submits this Memorandum of
+Law in Support of His Opposition to Plaintiffs’ Motion for Class Certification, Appointment of
+Class Representatives, and Appointment of Class Counsel (“Plaintiffs’ Motion” or “Mot.”). In
+addition to the arguments set forth herein, Dr. Scolnick hereby joins in, adopts, and incorporates
+the arguments contained in Defendants’ Memorandum of Law in Opposition to Plaintiffs’
+Motion for Class Certification, Appointment of Class Representatives, and Appointment of Class
+Counsel, dated August 13, 2012, filed by Merck & Co., Inc. (“Merck”), et al. (the “Merck
+Opposition”).
+PRELIMINARY STATEMENT
+Plaintiffs seek certification of a single class consisting of “[a]ll persons and
+entities who, from May 21, 1999 to September 29, 2004 . . . purchased or otherwise acquired
+Merck & Co., Inc. (‘Merck’) common stock or call options, or sold Merck put options, and were
+damaged thereby (the ‘Class’).” Among the claims for which Plaintiffs seek class certification is
+an “insider trading” claim asserted solely by Plaintiff Public Employees’ Retirement System of
+Mississippi (“MPERS”) against Dr. Scolnick, pursuant to § 20A of the Securities Exchange Act
+of 1934.
+Class certification should be denied as to the § 20A claim because MPERS, the
+only proposed class representative that has alleged a § 20A insider trading claim against Dr.
+Scolnick, does not have standing to bring such a claim because MPERS did not trade
+“contemporaneously” with Dr. Scolnick. The record establishes that MPERS and Dr. Scolnick
+were not counterparties to any trades in Merck common stock during the proposed class period.
+On the only day on which they both traded:
+•
+
+Dr. Scolnick sold Merck stock for $85 per share; whereas MPERS
+purchased Merck stock for $86.9304 per share; and
+1
+
+Case 2:05-cv-02367-SRC-CLW Document 366 Filed 08/13/12 Page 6 of 15 PageID: 16672
+
+•
+
+Dr. Scolnick sold Merck stock in three separate transactions of 600, 600,
+and 200,000 shares, respectively; whereas MPERS purchased 15,600
+shares of Merck stock in a single transaction.
+
+For these reasons, MPERS cannot show that it traded “contemporaneously” with Dr. Scolnick—
+a requirement for bringing a claim under § 20A. The contemporaneity requirement is a proxy for
+traditional privity, intended to “limit[] recovery to those plaintiffs who might conceivably have
+traded at an informational disadvantage with defendant.” Buban v. O'Brien, No. 94–0331, 1994
+WL 324093, at *4 (N.D. Cal. June 22, 1994) (emphasis added). MPERS could not possibly have
+traded “with” Dr. Scolnick because MPERS’ only trade on October 25, 2000 was at a different
+price and for a different quantity of shares than any of Dr. Scolnick’s trades; therefore, MPERS
+does not have standing to assert a § 20A claim against him.
+Because MPERS does not have standing to bring a § 20A claim against Dr.
+Scolnick, Plaintiffs cannot meet either the typicality or adequacy of representation requirements
+of Rule 23(a) of the Federal Rules of Civil Procedure. Therefore, certification of the proposed
+class should be denied.
+STATEMENT OF FACTS1
+On February 6, 2009, court-appointed lead plaintiffs MPERS, Steven LeVan,
+Jerome Haber, and Richard Reynolds (collectively, “Lead Plaintiffs”), and named plaintiffs
+Rhoda Kanter and Park East, Inc. (together, with Lead Plaintiffs, the “Plaintiffs”) filed the
+Corrected Consolidated Fifth Amended Class Action Complaint (the “Complaint” or “Compl.”)
+alleging violations of federal securities laws by Merck and certain current and former officers
+
+1
+
+Dr. Scolnick also adopts the statement of facts in the Merck Opposition. The following is a
+summary of only those facts that bear specifically on this opposition brief.
+2
+
+Case 2:05-cv-02367-SRC-CLW Document 366 Filed 08/13/12 Page 7 of 15 PageID: 16673
+
+and directors of Merck. Dr. Scolnick2 was among those named in the Complaint, which included
+a § 20A insider trading claim asserted only by Plaintiff MPERS against Dr. Scolnick. (Compl.
+¶¶ 447-454.) On April 10, 2012, Plaintiffs3 filed the present motion for class certification as to
+all claims not previously dismissed by the Court, including the § 20A insider trading claim
+alleged as to Dr. Scolnick by MPERS. (Mot. at 8.)
+The October 25, 2000 Trades
+MPERS bases its § 20A claim on the purchase of Merck common stock it made
+on October 25, 2000. As MPERS has certified, it made only a single trade in Merck stock on
+that day,4 purchasing 15,600 shares at $86.9304 per share. (Id.; Ex. 2.) MPERS’ Chief
+Investment Officer confirmed that the price of each of the 15,600 shares of Merck stock
+purchased on that day was $86.9304. (Ex. 3 at 188:23-189:9; 189:18-190:3.) Further, Eileen
+Cohen, managing director of JP Morgan Investment Management, Inc. (“JP Morgan”), MPERS’
+investment manager, identified the MPERS October 25, 2000 transaction as a “block trade,” and
+explained that block trade purchases—such as MPERS’ October 25, 2000 purchase of 15,600
+shares—were “single purchase transaction[s].” (Ex. 4 at 76:23-78:10; 98:17-22; see also Ex. 5.)
+
+2
+
+During a portion of the alleged class period, Dr. Scolnick was the President of Merck Research
+Laboratories, Merck’s Executive Vice President for Science and Technology, and was a member
+of Merck’s management committee. (Compl. ¶ 32(a).)
+3
+
+Park East Inc. did not join Plaintiffs’ Motion.
+
+4
+
+The certification filed by MPERS identifies each and every transaction executed on a single
+day (see, e.g., two separate purchases of Merck stock reflected on July 3, 2000). If MPERS had
+executed multiple trades on October 25, 2000, each of those transactions would have been
+reflected separately on the MPERS certification. (Ex. 1.)
+Citations in the form “Ex. __” refer to Exhibits attached to the Certification of Sheila A. Sadighi
+in Support of Dr. Edward M. Scolnick’s Memorandum Of Law In Opposition To Plaintiffs’
+Motion For Class Certification, Appointment Of Class Representatives, And Appointment Of
+Class Counsel.
+3
+
+Case 2:05-cv-02367-SRC-CLW Document 366 Filed 08/13/12 Page 8 of 15 PageID: 16674
+
+As the Complaint alleges, and the SEC filings confirm, on October 25, 2000 Dr.
+Scolnick exercised options to purchase shares of Merck stock and then sold those shares on the
+same day. Dr. Scolnick’s sales were all executed at exactly $85 per share. (Compl. ¶ 397.) SEC
+filings indicate that Dr. Scolnick sold his Merck stock in three separate transactions of 600, 600,
+and 200,000 shares each and that his wife sold 180,000 shares in a fourth transaction. (Exs. 6,
+7.)5
+ARGUMENT
+I.
+
+Class Certification Should Be Denied Because Plaintiffs Cannot Establish the
+Requirements of Rule 23 as to the § 20A Claim
+For a case to be certified as a class action, Plaintiffs are required to establish all
+
+four threshold requirements of Rule 23(a): “(1) numerosity (a ‘class [so large] that joinder of all
+members is impracticable’); (2) commonality (‘questions of law or fact are common to the
+class’); (3) typicality (named parties’ claims or defenses ‘are typical ... of the class’); and (4)
+adequacy of representation (representatives ‘will fairly and adequately protect the interests of the
+class’.)” Amchem Prods., Inc. v. Windsor, 521 U.S. 591, 613 (1997).6
+In ruling on a motion for class certification, the district court must engage in a
+rigorous analysis of the evidence and arguments to determine whether all of the requirements of
+Rule 23(a) and (b) have been met. Behrend v. Comcast Corp., 655 F.3d 182, 190 (3d Cir. 2011);
+
+5
+
+We note that the Complaint incorrectly alleges that Dr. Scolnick sold 381,200 shares on
+October 25, 2000—inappropriately conflating his sales with those of his wife. This pleading
+mistake, however, is not relevant here, as all trades were at different prices and in different
+amounts than the MPERS trade.
+6
+
+Plaintiffs must also satisfy one of the three requirements of Rule 23(b). In this case, Plaintiffs
+seek certification under Rule 23(b)(3), which requires that “questions of law or fact common to
+members of the class predominate over any questions affecting only individual members, and
+that a class is superior to other available methods for the fair and efficient adjudication of the
+controversy.” Fed. R. Civ. P. 23(b)(3). Plaintiffs fail to meet the predominance requirement for
+the reasons set forth in the Merck Opposition.
+4
+
+Case 2:05-cv-02367-SRC-CLW Document 366 Filed 08/13/12 Page 9 of 15 PageID: 16675
+
+In re Hydrogen Peroxide Antitrust Litig., 552 F.3d 305, 318 (3d Cir. 2008) (“[T]o certify a class
+the district court must find that the evidence more likely than not establishes each fact necessary
+to meet the requirements of Rule 23.”). In this regard, the Third Circuit has provided guidance
+for district courts stating that “the requirements set out in Rule 23 are not mere pleading rules.”
+Id. at 316. Quite the contrary, a class certification decision “calls for findings by the court, not
+merely a ‘threshold showing’ by a party, that each requirement of Rule 23 is met,” and “the court
+must resolve all factual or legal disputes relevant to class certification, even if they overlap with
+the merits—including disputes touching on elements of the cause of action.” Id. at 307; In re
+Ford Motor Co. E-350 Van Prods. Liab. Litig., Civil Action No. 03-4558, MDL No. 1687, 2012
+WL 379944, at *6 (D.N.J. Feb. 6, 2012). Therefore, “[t]he court may delve beyond the pleadings
+to determine whether the requirements for class certification are satisfied.” Hydrogen Peroxide
+Antitrust Litig., 552 F.3d at 316 (internal quotation marks and citations omitted).
+Here, certification of the proposed class should be denied as Plaintiffs have not
+demonstrated that the § 20A claim is appropriate for class treatment. It is Plaintiffs’ burden to
+show how each of the requirements of Rule 23 have been met with respect to each of the
+particular claims alleged. Coffin v. Bowater Inc., 228 F.R.D. 397, 402 (D. Me. 2005) (“Plaintiffs
+must satisfy the requirements of Rule 23 for each claim they seek to have certified.”). Plaintiffs’
+Motion does not contain even one sentence explaining how the requirements of Rule 23 have
+been satisfied as to the § 20A claim. For that reason alone, the Court should decline to certify a
+class with respect to the § 20A claim.
+In fact, as set forth below, MPERS—the only proposed class representative to
+assert the § 20A claim—does not have standing to bring a § 20A claim against Dr. Scolnick, and
+
+5
+
+Case 2:05-cv-02367-SRC-CLW Document 366 Filed 08/13/12 Page 10 of 15 PageID: 16676
+
+therefore, plainly cannot satisfy the typicality or adequacy of representation requirements for
+class certification under Rule 23(a).
+A.
+
+MPERS Lacks Standing to Bring a § 20A Claim Against Dr. Scolnick
+To have standing under § 20A, a plaintiff must have traded “contemporaneously”
+
+with the defendant.7 15 U.S.C. § 78t-1(a); see also Neubronner v. Milken, 6 F.3d 666, 670 (9th
+Cir. 1993); Buban v. O'Brien, No. 94–0331, 1994 WL 324093, at *2-*4 (N.D. Cal. June 22,
+1994). Because § 20A does not define the contemporaneity requirement, courts have been left to
+resolve the issue on a case-by-case basis.8 As one court has observed, however, the “modern
+realities of the securities markets support an increasingly strict application of contemporaneity.”
+See In re Microstrategy, Inc. Sec. Litig., 115 F. Supp. 2d 620, 663 (E.D. Va. 2000) (citing the
+dynamic nature of the securities market, high daily trading volumes, and the danger of making
+the insider liable to all the world as justification for narrow interpretation of contemporaneity
+requirement). Indeed, the trend among district courts in a number of circuits has been to “adopt
+a restrictive reading of the term ‘contemporaneous’ at least with respect to shares heavily traded
+
+7
+
+Section 20A provides, in part, that:
+Any person who violates any provision of this chapter or the rules or regulations
+thereunder by purchasing or selling a security while in possession of material,
+nonpublic information shall be liable in an action in any court of competent
+jurisdiction to any person who, contemporaneously with the purchase or sale of
+securities that is the subject of such violation has purchased (where such violation
+is based on a sale of securities) or sold (where such violation is based on a
+purchase of securities) securities of the same class. 15 U.S.C. § 78t-1(a).
+
+8
+
+In fact, Congress specifically contemplated a case-by-case approach to defining the term
+“contemporaneous.” H.R.Rep. No. 100–910, at 27 (1988) as reprinted in 1988 U.S.C.C.A.N.
+6043, 6064 (“The bill does not define the term ‘contemporaneous,’ which has developed through
+case law.”).
+6
+
+Case 2:05-cv-02367-SRC-CLW Document 366 Filed 08/13/12 Page 11 of 15 PageID: 16677
+
+on a national exchange.” In re AST Research Sec. Litig., 887 F. Supp. 231, 234 (C.D. Cal.
+1995).9
+The rationale for the contemporaneity requirement is that it serves as a proxy for
+the traditional requirement of privity between plaintiffs and defendants. In re Able Labs. Sec.
+Litig., Civil Action No. 05-2681, 2008 WL 1967509, *27 (D.N.J. March 24, 2008) (citations
+omitted). As explained by the court in Buban v. O’Brien:
+The [contemporaneity] requirement was intended to preserve the
+notion that only plaintiffs who were harmed by the insider could
+bring suit, while nonetheless making it possible for such persons to
+bring suit. While an actual trade between plaintiff and defendant
+need not be expressly shown, harm to the plaintiff is a necessary
+factor. Such harm may be found where it appears the plaintiff
+might, in fact, have traded with the defendant.
+1994 WL 324093, at *3 (emphasis added); see also, Neubronner v. Milken, 6 F.3d at 670 (“[T]he
+contemporaneous trading rule ensures that only private parties who have traded with someone
+who had an unfair advantage will be able to maintain insider trading claims.”).
+Given this rationale, “courts have rejected [§ 20A] claims where it is apparent that
+the parties could not have actually traded with each other.” In re Fed. Nat’l Mortg. Ass’n Sec.
+Derivative & “ERISA” Litig., 503 F. Supp. 2d 25, 46 (D.D.C. 2007); see Buban v. O'Brien, No.
+
+9
+
+The Third Circuit has not yet considered what constitutes “contemporaneous” trading for
+purposes of § 20A. Courts elsewhere considering the issue have reached various conclusions
+with respect to the bounds of contemporaneity. See, e.g., In re Able Labs. Sec. Litigation, Civil
+Action No. 05-2681, 2008 WL 1967509, *27 (D.N.J. March 24, 2008) (allegations of trading on
+same day sufficient for pleading purposes); In re Cell Therapeutics, Inc. Class Action Litig.,
+2:10-CV-414, 2011 WL 444676 (W.D. Wash. Feb. 4, 2011) (under certain circumstances trading
+within two business days sufficient). For the reasons set forth herein, in order to adhere to the
+purpose of the contemporaneity requirement and consistent with the trend in case law, the Court
+should hold that contemporaneity cannot be established where the facts show that the plaintiff
+and § 20A defendant could not possibly have traded with each other, even if they traded on the
+same day. The Court need not reach the issue of whether it is sufficient for § 20A pleading
+purposes to allege trading on the same day. Here, the parties have the benefit of discovery
+showing that MPERS and Dr. Scolnick did not trade with each other.
+7
+
+Case 2:05-cv-02367-SRC-CLW Document 366 Filed 08/13/12 Page 12 of 15 PageID: 16678
+
+94–0331, 1994 WL 324093, at *2-*4 (N.D. Cal. June 22, 1994) (court dismissed § 20A claim as
+it was “manifest that plaintiff could not have traded with defendant”).
+In short, both the logic behind the contemporaneity requirement and the case law
+points to the common sense conclusion that where it is impossible for parties to have traded with
+one another, § 20A’s contemporaneity requirement is not met.
+1.
+
+MPERS and Dr. Scolnick Did Not Trade Contemporaneously
+
+The record is clear that MPERS and Dr. Scolnick could not have been
+counterparties to any Merck transactions during the alleged class period.
+First, Dr. Scolnick and MPERS traded in Merck stock at different prices. On
+October 25, 2000, Dr. Scolnick sold shares of Merck stock for $85 per share, whereas MPERS—
+as its Chief Investment Officer confirmed—paid $86.9304 for each of its shares. (Compare Ex.
+6 with Ex. 2 and Ex. 3 at 188:23-189:9; 189:18-190:3.) The court in Buban v. O’Brien dismissed
+a § 20A claim for lack of contemporaneous trading where “it [was] manifest that plaintiff could
+not have traded with defendant” citing as evidence the fact that the parties had traded at different
+prices: “the purchasers of defendant’s shares paid $1.50 more than did plaintiff. Under these
+circumstances, where it is clear that plaintiff could not have traded with defendant, there is no
+reason for the Court to apply a more liberal standard to determine contemporaneousness.” 1994
+WL 324093, at *3. The purchasers of Dr. Scolnick’s shares paid approximately $1.93 less than
+MPERS and thus, MPERS could not have traded with Dr. Scolnick.
+Second, the size of MPERS’ single purchase of Merck stock does not correspond
+with any size of Merck stock sold by Dr. Scolnick, such that they could have been counterparties
+to a trade. MPERS’ purchase of 15,600 shares on October 25, 2000 was a “block trade,” which
+Eileen Cohen for JP Morgan defined as “single purchase transaction[s].” (Ex. 4 at 76:23-78:10;
+98:17-22; see also Ex. 5.) Because Dr. Scolnick’s sales on October 25 were executed in three
+8
+
+Case 2:05-cv-02367-SRC-CLW Document 366 Filed 08/13/12 Page 13 of 15 PageID: 16679
+
+separate transactions of 600, 600 and 200,000 shares, it is quite evident that Dr. Scolnick and
+MPERS could not have traded with one another. (Ex. 6.)10
+For these reasons, MPERS plainly did not trade contemporaneously with Dr.
+Scolnick, and thus, MPERS lacks standing to bring a § 20A claim against Dr. Scolnick.11
+B.
+
+MPERS Does Not Satisfy the “Typicality” Requirement of Rule 23(a)
+Rule 23(a)(3) provides that class certification is appropriate only where “the
+
+claims or defenses of the representative parties are typical of the claims or defenses of the class.”
+Fed. R. Civ. P. 23(a)(3) (emphasis added). Barnes v. Am. Tobacco Co., 161 F.3d 127, 141 (3d
+Cir. 1998) (“The typicality requirement is designed to align the interests of the class and the class
+representatives so that the latter will work to benefit the entire class through the pursuit of their
+own goals.”) (citing references omitted). In considering this requirement, courts consider
+whether “the named plaintiff[s’] individual circumstances are markedly different or . . . the legal
+theory upon which the claims are based differs from that upon which the claims of other class
+members will perforce be based.” Newton v. Merrill Lynch, Pierce, Fenner & Smith, Inc., 259
+F.3d 154, 183-184 (3d Cir. 2001) (quoting Eisenberg v. Gagnon, 766 F.2d 770, 786 (3d Cir.
+
+10
+
+Further, it is also clear that Dr. Scolnick’s wife, who sold 180,000 shares at $85 on October
+25, 2000 did not trade with MPERS, because neither the price nor the amount matches the
+MPERS trade.
+11
+
+Some courts in the Third Circuit have found that cases in which the putative class plaintiff
+lacks standing should simply be dismissed. See e.g., Hassine v. Jeffes, 846 F.2d 169, 176 (3d
+Cir. 1988) (“Review of standing is a threshold inquiry, and [thus] the proper disposition of a case
+in which the putative class plaintiff lacks standing is to dismiss the complaint—not to deny class
+certification—and to avoid reaching a decision on the merits of the claims presented.”); McNair
+v. Synapse Grp. Inc., 672 F.3d 213, 227 (3d Cir. 2012) (“Because Appellants lack Article III
+standing to seek injunctive relief, the District Court was obliged to deny class certification under
+Rule 23(b)(2).”). While Dr. Scolnick believes that the § 20A claim should be dismissed on
+summary judgment, for present purposes Dr. Scolnick merely opposes class certification of that
+claim.
+9
+
+Case 2:05-cv-02367-SRC-CLW Document 366 Filed 08/13/12 Page 14 of 15 PageID: 16680
+
+1985)). Thus, “[t]ypicality also encompasses the question of the named plaintiff's standing.”
+Piazza v. Ebsco Indus., Inc., 273 F.3d 1341, 1346 (11th Cir. 2001).
+Because MPERS lacks standing to assert a § 20A claim against Dr. Scolnick, it
+necessarily follows that the typicality requirement cannot be met. See McNair v. Synapse Group
+Inc., 672 F.3d at 222-23 (“It should be obvious that there cannot be adequate typicality between
+a class and a named representative unless the named representative has individual standing to
+raise the legal claims of the class.”) (citing Prado-Steiman ex rel. Prado v. Bush, 221 F.3d 1266,
+1279 (11th Cir. 2000)); see also, Chester Upland Sch. Dist. v. Pennsylvania, Civil Action No.
+12-132, 2012 WL 1473969, at *2 (E.D. Pa. Apr. 25, 2012); Westways World Travel, Inc. v. AMR
+Corp., 218 F.R.D. 223, 235 (C.D. Cal. 2003) (“typicality may not be established unless the
+named representative has individual standing to raise the legal claims of the class.”).
+C.
+
+MPERS Does Not Satisfy the “Adequacy” Requirement of Rule 23(a)
+Class representatives also must “fairly and adequately protect the interests of the
+
+class.” Fed. R. Civ. P. 23(a)(4). The adequacy requirement “serves to uncover conflicts of
+interest between named parties and the class they seek to represent.” Barnes v. Am. Tobacco
+Co., 161 F.3d 127, 141 (3d Cir. 1998) (internal quotations and citations omitted); see Amchem
+Prods., Inc. v. Windsor, 521 U.S. 591, 625 (1997). Because MPERS lacks standing to assert the
+§ 20A claim, it cannot serve as an adequate representative of the proposed class. In re Cypress
+Semiconductors Sec. Litig., No. C-92-20048, 1994 WL 669856, at *2 (N.D. Cal. Nov. 29, 1994)
+(defendants argued that § 20A class should be decertified because class representative was found
+to lack standing to assert the claim and therefore there was no adequate representative for the
+claim; the court agreed and dismissed the § 20A claim).
+*
+
+*
+
+10
+
+*
+
+Case 2:05-cv-02367-SRC-CLW Document 366 Filed 08/13/12 Page 15 of 15 PageID: 16681
+
+In sum, MPERS lacks standing to assert a § 20A claim against Dr. Scolnick and
+thus, has not—and cannot—demonstrate that the requirements for class certification have been
+met with respect to that claim.
+CONCLUSION
+For the foregoing reasons, as well as those set forth in the Merck Opposition, the
+motion for class certification should be denied.
+Dated:
+
+Roseland, New Jersey
+August 13, 2012
+
+LOWENSTEIN SANDLER PC
+By: s/ Sheila A. Sadighi____
+Lawrence M. Rolnick
+Sheila A. Sadighi
+65 Livingston Avenue
+Roseland, New Jersey 07068
+973.597.2500
+SCHULTE ROTH & ZABEL LLP
+Martin L. Perschetz (admitted pro hac vice)
+Sung-Hee Suh (admitted pro hac vice)
+William H. Gussman, Jr. (admitted pro hac vice)
+919 Third Avenue
+New York, New York 10022
+212.756.2000
+Attorneys for Defendant Dr. Edward M. Scolnick
+
+11
+
+

@@ -1,0 +1,804 @@
+Case 1:18-cv-09936 Document 4 Filed 10/29/18 Page 1 of 24
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+JANE DOE, LUKE LOE, RICHARD ROE, and
+MARY MOE, individually and on behalf of all
+others similarly situated,
+Plaintiffs,
+v.
+
+No. 18 Civ. 9936
+
+THE TRUMP CORPORATION, DONALD J.
+TRUMP, in his personal capacity,
+DONALD TRUMP JR., ERIC TRUMP, and
+IVANKA TRUMP,
+Defendants.
+
+MEMORANDUM OF LAW IN SUPPORT OF PLAINTIFFS’ MOTION
+FOR LEAVE TO PROCEED UNDER PSEUDONYM
+Roberta A. Kaplan, Esq.
+John C. Quinn, Esq.
+Joshua Matz, Esq.
+Alexander J. Rodney, Esq.
+Matthew J. Craig, Esq.
+K APLAN H ECKER & F INK LLP
+350 Fifth Avenue, Suite 7110
+New York, New York 10118
+Telephone: (212) 763-0883
+Facsimile: (212) 564-0883
+Katherine Rosenfeld, Esq.
+Andrew G. Celli, Jr., Esq.
+Matthew D. Brinckerhoff, Esq.
+O. Andrew F. Wilson, Esq.
+E MERY C ELLI B RINCKERHOFF & A BADY LLP
+600 Fifth Avenue at Rockefeller Center
+New York, NY 10020
+Telephone: (212) 763-5000
+Attorneys for Plaintiffs
+
+Case 1:18-cv-09936 Document 4 Filed 10/29/18 Page 2 of 24
+
+TABLE OF CONTENTS
+
+PRELIMINARY STATEMENT .................................................................................................... 1
+STATEMENT OF FACTS ............................................................................................................. 3
+A.
+
+President Trump’s Campaign Against Class Representative Plaintiff Tarla
+Makaeff ................................................................................................................... 3
+
+B.
+
+President Trump’s Onslaught Against Plaintiff Marvin Roffman .......................... 4
+
+C.
+
+President Trump’s Supporters Target Trump Critics with Threats and
+Bombs ..................................................................................................................... 5
+
+ARGUMENT .................................................................................................................................. 7
+A.
+
+The Risks to Plaintiffs and Their Families Strongly Favor Allowing
+Plaintiffs to File This Case Using Pseudonyms ...................................................... 9
+1.
+
+Identification Poses a Risk of Retaliatory Mental and Physical
+Harm to Plaintiffs ........................................................................................ 9
+
+2.
+
+Identification of the Plaintiffs Poses Other Identifiable Harms ................ 12
+
+B.
+
+The Concerns of Stigma and “Minority” Status that Arise in Suits Against
+the Government Apply Here ................................................................................. 14
+
+C.
+
+There Is No Prejudice to Defendants If Plaintiffs Use Pseudonyms .................... 15
+
+D.
+
+Plaintiffs Have Taken Steps to Keep Their Identities Confidential ...................... 16
+
+E.
+
+Disclosure of Plaintiffs’ Names Does Not Advance the Public Interest .............. 17
+
+CONCLUSION ............................................................................................................................. 18
+
+i
+
+Case 1:18-cv-09936 Document 4 Filed 10/29/18 Page 3 of 24
+
+TABLE OF AUTHORITIES
+Page(s)
+Cases
+Balance Studio, Inc. v. Cybernet Ent., LLC,
+204 F. Supp. 3d 1098 (N.D. Cal. 2016) ............................................................................ 18
+Corley v. Vance,
+No. 15 Civ. 1800, 2015 WL 4164377 (S.D.N.Y. June 22, 2015) ..................................... 16
+Doe No. 2 v. Kolko,
+242 F.R.D. 193 (E.D.N.Y. 2006) .................................................................................. 9, 14
+Doe v. Bridgeport Police Dep’t,
+198 F.R.D. 325 (D. Conn. 2001)....................................................................................... 11
+Doe v. City of Indianapolis, Ind.,
+No. 12. Civ. 62, 2012 WL 639537 (S.D. Ind. Feb. 27, 2012)........................................... 11
+Doe v. City of New York,
+No. 15 Civ. 117 (S.D.N.Y.) .............................................................................................. 16
+Doe v. Delta Airlines, Inc.,
+310 F.R.D. 222 (S.D.N.Y. 2015) ...................................................................................... 16
+Doe v. Fedcap. Rehab. Services, Inc.,
+No. 17 Civ. 8220, 2018 WL 2021588 (S.D.N.Y. Apr. 27, 2018) ..................................... 16
+Doe v. Pittsylvania County, Va.,
+844 F. Supp. 2d 724 (W.D. Va. 2012) .............................................................................. 18
+Doe v. Stegall,
+653 F.2d 180 (5th Cir. 1981) ............................................................................................ 11
+Does I thru XXIII v. Advanced Textile Corp.,
+214 F.3d 1058 (9th Cir. 2000) .......................................................................................... 11
+EW v. New York Blood Ctr.,
+213 F.R.D. 108 (E.D.N.Y. 2003) ...................................................................................... 14
+Grottano v. City of New York,
+No. 15 Civ. 9242, 2016 WL 2604803 (S.D.N.Y. Mar. 30, 2016) .................................... 15
+L.H. v. Schwarzenegger,
+No. 06 Civ. 2042, 2007 WL 662463 (E.D. Cal. Feb. 8, 2007) ......................................... 12
+ii
+
+Case 1:18-cv-09936 Document 4 Filed 10/29/18 Page 4 of 24
+
+Page(s)
+Makaeff v. Trump University, LLC,
+No. 10 Civ. 940 (S.D. Cal.)................................................................................. 3, 4, 10, 11
+Plaintiffs # 1-21 v. Cty. of Suffolk,
+138 F. Supp. 3d 264 (E.D.N.Y. 2015) .......................................................................... 9, 11
+Roffman v. Trump,
+754 F. Supp. 411 (E.D. Pa. 1990) ................................................................................. 5, 17
+Sealed Plaintiff v. Sealed Defendant,
+537 F.3d 185 (2d Cir. 2008)...................................................................................... 8, 9, 10
+Other Authorities
+Allie Malloy et al., Trump mocks Christine Blasey Ford’s testimony, tells people to ‘think
+of your son,’ CNN (Oct. 3, 2018), https://www.cnn.com/2018/10/02/politics/
+trump-mocks-christine-blasey-ford-kavanaugh-supreme-court/index.html ........................6
+Benjamin P. Edwards, When Fear Rules in Law’s Place: Pseudonymous Litigation As A
+Response to Systematic Intimidation, 20 Va. J. Soc. Pol’y & L. 437 (2013) ................... 13
+Dan Mangan, Kevin Breuninger, Judge in Paul Manafort trial says he has been
+threatened and is now under US Marshal protection, CNBC (Aug. 17, 2018),
+https://www.cnbc.com/2018/ 08/17/judge-in-paul-manafort-trial-said-hes-beenthreatened.html.................................................................................................................... 5
+Daniel J. Solove, The Future of Reputation: Gossip, Rumor and Privacy on the Internet
+(2007), available at http://scholarship.law.gwu.edu/cgi/viewcontent.cgi?
+article=2081&context= faculty_publications ................................................................... 13
+Eliza Relman, The 22 Women Who Have Accused Trump of Sexual Misconduct, Business
+Insider (Sept. 26, 2018), https://www.businessinsider.com/women-accusedtrump-sexual-misconduct-list-2017-12 ............................................................................. 14
+Emily Birnbaum, Christine Blasey Ford still unable to live at home due to death threats,
+lawyers say, The Hill (Oct. 7, 2018), https://thehill.com/homenews/senate/
+410340-christine-blasey-ford-still-unable-to-live-at-home-due-to-death-threats. .............. 7
+Frances Stead Sellers, How ‘thin-skinned’ Donald Trump uses insults, threats and
+lawsuits to quiet critics, Washington Post (July 14, 2016),
+https://www.washingtonpost.com/politics/how-thin-skinned-donald-trump-usesinsults-threats-and-lawsuits-to-quiet-critics/2016/07/14/252ae148-1b83-11e68c7b-6931e66333e7_story.html...................................................................................... 4, 5
+iii
+
+Case 1:18-cv-09936 Document 4 Filed 10/29/18 Page 5 of 24
+
+Page(s)
+Jayne S. Ressler, #worstplaintiffever: Popular Public Shaming and Pseudonymous
+Plaintiffs, 84 Tenn. L. Rev. 779, 801 (2017) .............................................................. 12, 13
+Jeff Mordock, Manafort Trial Judge Says He Has Received Threats, Washington Times
+(Aug. 17, 2018), https://www.washingtontimes.com/news/2018/aug/17/manaforttrial-judge-says-hes-received-threats/ ................................................................................. 6
+Michael Isikoff, Trump is accused of financially threatening woman during secret
+deposition, Yahoo News (Feb. 19, 2016), https://www.yahoo.com/news/trump-isaccused-of-financially-threatening-woman-170253552.html. ............................................ 3
+Michael Kruse, The Man Who Beat Donald Trump, Politico Magazine (Apr. 25, 2016),
+https://www.politico.com/magazine/story/2016/04/donald-trump-marvin-roffmancasino-lawsuit-213855?o=0 ................................................................................................ 5
+Stavros Agorakis, A list of everyone who’s been sent a pipe bomb so far — that we know
+of, Vox (Oct. 26 2018), https://www.vox.com/2018/10/25/18022376/pipe-bombtargets-packages-democrats-clinton-obama-soros-de-niro ................................................. 7
+William K. Rashbaum et al., Outspoken Trump Supporter in Florida Charged in
+Attempted Bombing Spree, N.Y. Times (Oct. 26, 2018), https://www.nytimes.com/
+2018/10/26/nyregion/cnn-cory-booker-pipe-bombs-sent.html ........................................... 7
+Written Testimony of Dr. Christine Blasey Ford, U.S. Sen. Jud. Comm. (Sept. 26, 2018),
+available at https://sc.cnbcfm.com/applications/cnbc.com/resources/editorialfiles/
+2018/09/26/Ford-Testimony-2018-09-26.pdf ..................................................................... 6
+
+iv
+
+Case 1:18-cv-09936 Document 4 Filed 10/29/18 Page 6 of 24
+
+Plaintiffs Jane Doe, Luke Loe, Richard Roe, and Mary Moe (“Plaintiffs”), by their
+undersigned attorneys, respectfully submit this memorandum of law in support of their motion
+for leave to proceed under pseudonyms, until such time as the Court may order their names to be
+disclosed. 1
+PRELIMINARY STATEMENT
+Even for the most sophisticated and well-resourced adversaries, filing suit to hold the
+President of the United States accountable for breaking the law is a perilous decision. The
+current President, Donald J. Trump, has a documented history of wielding his wealth, stature,
+and Twitter account to attack people whom he perceives to be his enemies, including people who
+file lawsuits against him. That has been true for decades, and it has remained true since he was
+elected to a position that affords him the largest bully pulpit on the planet. But the threat to
+Plaintiffs here now extends far beyond President Trump’s own tweets or rallies. In the current
+environment, President Trump’s political followers instantly unleash harassment, verbal assaults,
+cyberattacks, and even death threats against anyone who dares to challenge him—whether
+politically or in a court of law. Only last week, as is well known, several prominent critics of
+President Trump were targeted with pipe bombs. In this volatile climate, those who sue President
+Trump over sensitive subjects face a clear and present danger of retaliation. So, too, do their
+friends and families. This risk is especially grave for plaintiffs who are economically
+marginalized, who allege that they were personally betrayed by President Trump, and who claim
+
+1
+
+The only relief being sought pursuant to this motion is permission for Plaintiffs to proceed
+under pseudonyms until such time as the Court may order Plaintiffs’ names to be disclosed.
+Obviously, if this motion is granted, issues will subsequently arise regarding who has knowledge
+of Plaintiffs’ identities and at what stage in the case. Counsel for Plaintiffs intend to meet and
+confer about these issues with counsel for Defendants and to bring disputes (if any) to the Court
+for resolution as appropriate.
+1
+
+Case 1:18-cv-09936 Document 4 Filed 10/29/18 Page 7 of 24
+
+that President Trump is responsible for executing a massive consumer fraud to shore up his
+depleted fortune.
+Plaintiffs here are a hospice worker, a self-employed formerly homeless man, a food
+delivery driver, and a mother of three who works at a national retail store. They bring this
+putative class action on behalf of themselves and thousands of others who were systematically
+defrauded by President Trump, his family, and the corporations that bear their name. In short,
+Plaintiffs allege that Defendants—including President Trump—knowingly engaged in a decadelong, illegal scheme. Pursuant to this scheme, Defendants defrauded vulnerable Americans into
+giving up hundreds or thousands of dollars to participate in certain purported “business
+opportunities” and “training programs,” all based on a series of lies that Defendants peddled
+while secretly being paid millions of dollars for their endorsements.
+If Plaintiffs’ identities are made public, they and their families will undoubtedly be
+exposed to crushing mental, economic, and professional harm—whether by President Trump, his
+supporters, or both. Indeed, in light of recent events, it is also likely that Plaintiffs and their
+families will face credible threats of violence (or actual violence) if they are revealed to the
+world as litigants against President Trump.
+The law does not require victims of wrongdoing to endanger themselves, or to set their
+lives ablaze, as a condition of holding the powerful to account. To the contrary, in cases like this,
+courts balance all relevant interests—those of the plaintiffs, the defendants, and the public—and
+hold that plaintiffs may proceed under pseudonyms. Simply stated, publicly revealing Plaintiffs’
+identities would needlessly put them at grave risk of harm. Defendants, on the other hand, will
+suffer no prejudice at this stage of the litigation from not knowing Plaintiffs’ names. And the
+public interest is best achieved by preserving anonymity, which will allow these important
+
+2
+
+Case 1:18-cv-09936 Document 4 Filed 10/29/18 Page 8 of 24
+
+claims to be evaluated on the merits, rather than distorted by a campaign to intimidate and harm
+Plaintiffs.
+STATEMENT OF FACTS
+President Donald J. Trump has a long history of retaliating against anyone who has the
+temerity to sue him. Indeed, public humiliation and attacks are hallmarks of his approach to
+litigation. “Trump has made little secret of his inclination to strike back hard—on the campaign
+trail and in the courts—against anybody who opposes him.” 2 President Trump’s agents and
+supporters have joined these extra-legal efforts, unleashing a tsunami of negative consequences
+against anyone who litigates against, or criticizes, President Trump. The tendency of President
+Trump and his agents and supporters to lash out against litigants and critics has only intensified
+since Trump assumed the Presidency. Just in the past week, several public critics of President
+Trump have received pipe bombs in the mail from a man reported to be one of his supporters.
+The following are examples of what has happened to plaintiffs who have sued President
+Trump in other cases or challenged him in the public sphere.
+A.
+
+President Trump’s Campaign Against Class Representative Plaintiff Tarla
+Makaeff
+
+In 2010, years before Trump ran for President, a woman named Tarla Makaeff filed a
+federal class action fraud lawsuit against the now-defunct Trump University (“TU”). Makaeff
+alleged that she and thousands of other student-victims like herself were scammed into paying up
+exorbitant fees for TU seminars in hotel ballrooms and for “mentoring” by Trump’s
+“handpicked” real estate experts. See Makaeff v. Trump University, LLC, No. 10 Civ. 940 (S.D.
+Cal.) (“Makaeff Dkt.”), ECF No. 1. After Makaeff filed suit, Trump bombarded Makaeff with
+2
+
+Michael Isikoff, Trump is accused of financially threatening woman during secret deposition,
+Yahoo News (Feb. 19, 2016), https://www.yahoo.com/news/trump-is-accused-of-financiallythreatening-woman-170253552.html.
+3
+
+Case 1:18-cv-09936 Document 4 Filed 10/29/18 Page 9 of 24
+
+vituperative personal attacks on the national stage, calling her a “horrible, horrible witness,” id.,
+ECF No. 462-2 at 2, and tweeting that she was “Disgraceful!” 3 Less than a month after she filed
+her lawsuit, Trump “slapped” Makaeff with a million-dollar counterclaim. Id., ECF No. 4. That
+suit was later rejected by a federal judge, who ordered Trump to pay Makaeff $800,000 in legal
+bills. See id., ECF No. 404.
+In 2016, as a result of these attacks, Makaeff formally sought to withdraw from the suit as
+a named plaintiff, citing the intense media attention on the case drawn by Trump’s celebrity, the
+public barbs from Trump and his agents and followers, her credible and well-justified fear of
+continuing retaliation, and the resulting enormous personal strain and toll on her by virtue of her
+status as a publicly named plaintiff. Id., ECF No. 443. In her motion, Makaeff’s lawyers noted:
+“Makaeff cannot match, or even scratch, Trump’s pulpit. For years, Trump has tried his case in
+the press through a website and taunting media quotes.” Id., ECF No. 443-1. The district court
+subsequently granted Makaeff’s motion to withdraw as a class representative. Id., ECF No. 472.
+B.
+
+President Trump’s Onslaught Against Plaintiff Marvin Roffman
+
+Former TU customer Makaeff is not the only plaintiff to suffer retaliation after filing a
+lawsuit against Trump. Marvin Roffman, an investment analyst who also sued Trump before he
+became President, faced similar attacks. In that lawsuit, Roffman publicly questioned Trump’s
+investment in the Taj Mahal casino in Atlantic City and (correctly) predicted its failure. In
+response, Trump unleashed a fury of personal attacks on Roffman, including disparaging
+comments about Roffman’s professional abilities and personal integrity. The situation became so
+
+See Frances Stead Sellers, How ‘thin-skinned’ Donald Trump uses insults, threats and lawsuits
+to quiet critics, Washington Post (July 14, 2016), https://www.washingtonpost.com/politics/howthin-skinned-donald-trump-uses-insults-threats-and-lawsuits-to-quiet-critics/2016/07/14/
+252ae148-1b83-11e6-8c7b-6931e66333e7_story.html.
+3
+
+4
+
+Case 1:18-cv-09936 Document 4 Filed 10/29/18 Page 10 of 24
+
+bad that Roffman took the step of suing Trump for defamation and for damaging his business
+relationships. See Roffman v. Trump, 754 F. Supp. 411 (E.D. Pa. 1990). Although Trump
+eventually settled on favorable terms to Roffman, Roffman described the impact of suing Trump
+as life-changing: “Roffman, who estimates that his legal costs were ‘in the seven figures,’
+described the emotional impact as ‘horrendous. . . . It really affects your mental health,’ he
+said.” 4 Decades later, he was quoted as saying:
+“If you have a brand that strong, associated with success, power
+and class, that brand name must never be tarnished, ever,”
+Roffman told me, attempting to explain Trump’s motive for trying
+to ruin the life and reputation of a person he knew was right. “You
+must defend it. You must protect it. I was the monkey wrench in
+the gears. I was the monkey wrench threatening the integrity of the
+brand.” 5
+C.
+
+President Trump’s Supporters Target Trump Critics with Threats and
+Bombs
+
+In addition to the threats and harassment from President Trump himself, many outspoken
+Trump critics have become victims of attacks by President Trump’s supporters. There is an
+extensive public record of threats, acts of online retaliation, and other forms of severe harassment
+from supporters who act to intimidate those who are cast as the President’s enemies.
+For example, Judge T.S. Ellis—who presided over the fraud trial of President Trump’s
+past campaign chairman, Paul Manafort—said earlier this year “that he has received threats
+about the case—and now travels with protection from the U.S. Marshal Service.” 6 Judge Ellis
+
+4
+
+Frances Stead Sellers, How ‘thin-skinned’ Donald Trump uses insults, threats and lawsuits to
+quiet critics, Washington Post (July 14, 2016).
+5
+Michael Kruse, The Man Who Beat Donald Trump, Politico Magazine (Apr. 25, 2016),
+https://www.politico.com/magazine/story/2016/04/donald-trump-marvin-roffman-casinolawsuit-213855?o=0.
+6
+Dan Mangan, Kevin Breuninger, Judge in Paul Manafort trial says he has been threatened and
+is now under US Marshal protection, CNBC (Aug. 17, 2018), https://www.cnbc.com/2018/
+08/17/judge-in-paul-manafort-trial-said-hes-been-threatened.html.
+5
+
+Case 1:18-cv-09936 Document 4 Filed 10/29/18 Page 11 of 24
+
+denied a request brought by a coalition of news outlets to unseal the names and addresses of
+jurors, citing these threats against him, and stating that he feared for the “peace and safety” of the
+jurors. When denying the request to unseal the names of the jurors, Judge Ellis stated, “I have no
+reason to believe that if those names are unsealed there won’t be threats against them.” 7
+One high-profile challenger to President Trump’s agenda, Dr. Christine Blasey Ford, has
+publicly detailed the trauma she endured as a result of testifying against the appointment of
+President Trump’s Supreme Court nominee. In her prepared remarks before the Senate Judiciary
+Committee, Dr. Ford described both public support and a violent backlash against her. “[M]y
+greatest fears have been realized,” she testified,
+and the reality has been far worse than what I expected. My family
+and I have been the target of constant harassment and death threats.
+I have been called the most vile and hateful names imaginable.
+These messages, while far fewer than the expressions of support,
+have been terrifying to receive and have rocked me to my core.
+People have posted my personal information on the internet. This
+has resulted in additional emails, calls, and threats. My family and
+I were forced to move out of our home. Since September 16, my
+family and I have been living in various secure locales, with
+guards. This past Tuesday evening, my work email account was
+hacked and messages were sent out supposedly recanting my
+description of the sexual assault. 8
+Dr. Ford was subsequently the victim of public taunts by President Trump himself, as he
+sought to undermine her credibility in advance of the vote on Justice Kavanaugh. 9 And on
+
+7
+
+Jeff Mordock, Manafort Trial Judge Says He Has Received Threats, Washington Times (Aug.
+17, 2018), https://www.washingtontimes.com/news/2018/aug/17/manafort-trial-judge-says-hesreceived-threats/.
+8
+Written Testimony of Dr. Christine Blasey Ford, U.S. Sen. Jud. Comm., at 7 (Sept. 26, 2018),
+available at https://sc.cnbcfm.com/applications/cnbc.com/resources/editorialfiles/2018/09/
+26/Ford-Testimony-2018-09-26.pdf.
+9
+Allie Malloy et al., Trump mocks Christine Blasey Ford’s testimony, tells people to ‘think of
+your son,’ CNN (Oct. 3, 2018), https://www.cnn.com/2018/10/02/politics/trump-mockschristine-blasey-ford-kavanaugh-supreme-court/index.html.
+6
+
+Case 1:18-cv-09936 Document 4 Filed 10/29/18 Page 12 of 24
+
+October 7, 2018, three weeks after her testimony, Dr. Ford’s attorney told NBC news that
+Dr. Ford had still not been able to return to her home. “Her family has been through a lot,” Debra
+Katz reported. “They are not living at home. It’s going to be quite some time before they’re able
+to live at home. The threats have been unending. It’s deplorable.” 10
+The latest—and most disturbing—example of the dangers to those who are involved in
+high-profile challenges to President Trump has been the mailing of pipe bombs. On October 26,
+2018, a man reported to an outspoken supporter of President Trump, Cesar Altieri Sayoc Jr., was
+arrested and charged “with sending explosive packages to at least a dozen of the president’s
+critics.” 11 More than a dozen pipe bombs were mailed to outspoken critics of President Trump,
+including: New Jersey Senator Cory Booker; former director of National Intelligence James
+Clapper; George Soros; former CIA director John Brennan; former Attorney General Eric
+Holder; U.S. Representative Maxine Waters; actor and prominent Democrat, Robert De Niro;
+former Vice President Joe Biden; and former Presidents and First Ladies Barack and Michelle
+Obama and Bill and Hillary Clinton. 12 These explosive devices are an extreme example of the
+very real dangers inherent in publicly challenging President Trump and his agenda.
+ARGUMENT
+Although Federal Rule of Civil Procedure 10(a) provides that the “title of the complaint
+must name all the parties,” courts have “approved of litigating under a pseudonym in certain
+
+10
+
+Emily Birnbaum, Christine Blasey Ford still unable to live at home due to death threats,
+lawyers say, The Hill (Oct. 7, 2018), https://thehill.com/homenews/senate/410340-christineblasey-ford-still-unable-to-live-at-home-due-to-death-threats.
+11
+William K. Rashbaum et al., Outspoken Trump Supporter in Florida Charged in Attempted
+Bombing Spree, N.Y. Times (Oct. 26, 2018), https://www.nytimes.com/2018/10/26/nyregion/
+cnn-cory-booker-pipe-bombs-sent.html.
+12
+Stavros Agorakis, A list of everyone who’s been sent a pipe bomb so far — that we know of,
+Vox (Oct. 26 2018), https://www.vox.com/2018/10/25/18022376/pipe-bomb-targets-packagesdemocrats-clinton-obama-soros-de-niro.
+7
+
+Case 1:18-cv-09936 Document 4 Filed 10/29/18 Page 13 of 24
+
+circumstances” in order to protect plaintiffs appearing in federal court. Sealed Plaintiff v. Sealed
+Defendant, 537 F.3d 185, 190 (2d Cir. 2008). In deciding whether a plaintiff may be allowed to
+maintain an action under a pseudonym, “the plaintiff’s interest in anonymity must be balanced
+against both the public interest in disclosure and any prejudice to the defendant.” Id. This is a
+“factor-driven balancing inquiry [that] requires a district court to exercise its discretion in the
+course of weighing competing interests.” Id. at 190.
+The Second Circuit has set forth a list of ten non-exhaustive factors that courts may
+consider in determining whether to permit a plaintiff to proceed pseudonymously:
+(1) whether the litigation involves matters that are highly sensitive
+and of a personal nature;
+(2) whether identification poses a risk of retaliatory physical or
+mental harm to the party seeking to proceed anonymously or even
+more critically, to innocent non-parties;
+(3) whether identification presents other harms and the likely
+severity of those harms;
+(4) whether the plaintiff is particularly vulnerable to the possible
+harms of disclosure, particularly in light of the plaintiff’s age;
+(5) whether the suit is challenging the actions of the government or
+that of private parties;
+(6) whether the defendant is prejudiced by allowing the plaintiff to
+press his claims anonymously, whether the nature of that prejudice
+(if any) differs at any particular stage of the litigation, and whether
+any prejudice can be mitigated;
+(7) whether the plaintiff’s identity has thus far been kept
+confidential;
+(8) whether the public’s interest in the litigation is furthered by
+requiring the plaintiff to disclose his identity;
+(9) whether, due to the purely legal nature of the issues presented
+or otherwise, there is an atypically weak public interest in knowing
+the litigants’ identities; and
+8
+
+Case 1:18-cv-09936 Document 4 Filed 10/29/18 Page 14 of 24
+
+(10) whether there are any alternative mechanisms for protecting
+the confidentiality of the plaintiff.
+Id. (internal quotation marks, citations, brackets, and ellipses omitted).
+Courts are “not required to list each of the factors or use any particular formulation as
+long as it is clear that the court balanced the interests at stake in reaching its conclusion.” Id. at
+191 n.4. The same non-exhaustive list of factors governs analysis of anonymity in class action
+litigation. See Plaintiffs # 1-21 v. Cty. of Suffolk, 138 F. Supp. 3d 264, 270-71 (E.D.N.Y. 2015).
+Here, all of the relevant factors strongly weigh in favor of granting Plaintiffs’ motion to
+file this case using pseudonyms.
+A.
+
+The Risks to Plaintiffs and Their Families Strongly Favor Allowing Plaintiffs
+to File This Case Using Pseudonyms
+
+The Second Circuit’s multi-factor list begins with three factors that concern potential
+harms to plaintiffs (and others) if their identities are disclosed. See Sealed Plaintiff, 537 F.3d at
+189. In particular, the second and third factors militate strongly in favor of Plaintiffs here. 13
+1. Identification Poses a Risk of Retaliatory Mental and Physical Harm to
+Plaintiffs
+Plaintiffs easily satisfy the second, and arguably the most important factor in this group:
+whether identification poses a risk of retaliatory physical or mental harm to the party seeking to
+proceed anonymously—or poses such a risk to innocent non-parties. See id. As discussed above,
+this lawsuit is being filed in an unprecedented climate of vitriol and violence against critics of
+
+13
+
+The first factor is neutral. This case does not require Plaintiffs to reveal details that courts have
+deemed particularly sensitive. See Doe No. 2 v. Kolko, 242 F.R.D. 193, 196 (E.D.N.Y. 2006)
+(collecting cases granting anonymity in cases involving abortion, sexual assault, sexual
+orientation, or AIDS status). But the case does reveal details about the financial status of
+economically marginalized people. Indeed, Plaintiffs’ limited resources are exactly what made
+them targets of Defendants in the first place.
+9
+
+Case 1:18-cv-09936 Document 4 Filed 10/29/18 Page 15 of 24
+
+President Trump. Plaintiffs themselves face a serious risk of retaliatory mental and even physical
+harm if their identities are made public. Public disclosure also could result in harm to “innocent
+non-parties,” Sealed Plaintiff, 537 F.3d at 190, such as family members of Plaintiffs who live
+with them and would be exposed to the media glare.
+Named plaintiffs in other suits against President Trump have for many years faced
+threats, public backlash, intimidation, and reprisals. See supra at 3-7. Plaintiffs here are rightfully
+concerned that they will experience the same. Litigants against and critics of President Trump
+have been, among other things, attacked online and in the press, verbally and physically
+assaulted, threatened with physical harm, and forced to flee their homes and take refuge with
+friends or family to avoid public harassment.
+In a different federal consumer class action filed by individuals who alleged that they
+were defrauded by President Trump, Judge Curiel granted a class representative permission to
+withdraw as a named plaintiff in 2016 because she could no longer bear the retaliation and other
+consequences of being publicly named in the suit. See Makaeff Dkt., ECF No. 472. In so ruling,
+Judge Curiel stated:
+Makaeff has undoubtedly suffered stress as a result of this
+litigation well before now, not least because of the $1 million
+counterclaim filed against her that was pending from 2010 until
+2014. But Defendants’ assertion that Makaeff anticipated in 2011
+the degree to which this case would attract public attention due to
+the 2016 presidential campaign is risible. Neither pundits, counsel,
+or the parties anticipated the media obsession that this case would
+create due to Defendant Trump becoming a candidate for President
+of the United States. It is also plain that with every additional
+candidates’ debate and state primary, the attention given to the
+case has grown.
+***
+While Makaeff’s request to withdraw at the pre-trial stage is
+unusual, so is the unforeseen degree of attention this case has
+10
+
+Case 1:18-cv-09936 Document 4 Filed 10/29/18 Page 16 of 24
+
+engendered at the present stage of the litigation. Nor, given the
+degree of public scrutiny to which Makaeff has been recently
+subjected, is her apprehension that experiencing further publicity
+as a named plaintiff would have a negative impact on her
+professional prospects unreasonable.
+Id. at 12-13.
+Obviously, the same concerns and analyses apply with equal force here. Plaintiffs are at
+risk of an onslaught of harassment, mental harm, cyberattacks, and real-world violence because
+they have sued President Trump for his business frauds. As did Makaeff in the class action
+against TU, Plaintiffs face a legitimate risk to their well-being, privacy, and safety in this case
+because of the broader social and political context in which it is filed.
+Courts have not hesitated to allow class representatives to proceed anonymously where
+they have a credible fear of retaliation based on broader social and political context. See
+Plaintiffs # 1-21, 138 F. Supp. 3d at 274 (noting that credible fear of retaliation by police officers
+in a class action alleging racial discrimination in policing justified anonymity); Doe v.
+Bridgeport Police Dep’t, 198 F.R.D. 325, 328 n.1, 332-34 (D. Conn. 2001) (granting motion for
+class certification with anonymous lead plaintiffs).
+Notably, the feared retaliation need not be by the defendant itself; fear of retaliation from
+third parties who support the defendant can justify anonymity as well. See, e.g., Does I thru
+XXIII v. Advanced Textile Corp., 214 F.3d 1058, 1070 (9th Cir. 2000) (noting that, even in class
+actions, plaintiffs may proceed anonymously “to protect themselves from retaliation by third
+parties”); Doe v. Stegall, 653 F.2d 180, 186 (5th Cir. 1981) (reversing denial of leave to proceed
+anonymously where “[e]vidence on the record indicates that the Does may expect extensive
+harassment and perhaps even violent reprisals if their identities are disclosed to a . . . community
+hostile to the viewpoint reflected in plaintiffs’ complaint”); Doe v. City of Indianapolis, Ind., No.
+
+11
+
+Case 1:18-cv-09936 Document 4 Filed 10/29/18 Page 17 of 24
+
+12 Civ. 62, 2012 WL 639537, at *2 (S.D. Ind. Feb. 27, 2012) (fear of retaliation by members of
+public who supported policy being challenged supported anonymity). And in demonstrating the
+reasonableness of their fears of retaliation, plaintiffs can rely on a history of similar retaliation
+against others. See L.H. v. Schwarzenegger, No. 06 Civ. 2042, 2007 WL 662463, at *16 (E.D.
+Cal. Feb. 8, 2007) (granting leave to proceed anonymously based on fears of retaliation, where
+fear was supported by other incidents of retaliation against those who criticized same entity).
+Individuals who might harbor animosity towards critics of President Trump do not
+currently know Plaintiffs’ identities. The only way that Plaintiffs’ identities would become
+public is by the filing of this lawsuit without the protection that pseudonyms offer. Disclosure of
+Plaintiffs’ identities would therefore massively increase the risks faced by Plaintiffs, including
+the risk that Defendants or third parties will injuriously retaliate against Plaintiffs for
+participating in this class action lawsuit.
+2. Identification of the Plaintiffs Poses Other Identifiable Harms
+The third factor—whether identification presents other serious harms—also supports
+anonymity. If Plaintiffs are publicly identified, they are likely to face a barrage of online threats
+and harassment by President Trump and his supporters, as well as the possible hacking of their
+personal accounts. This suit risks harassment on a scale unimaginable to the typical litigant.
+As a general matter, rapid technological advances are making the need for plaintiff
+pseudonymity even more compelling. See Jayne S. Ressler, #worstplaintiffever: Popular Public
+Shaming and Pseudonymous Plaintiffs, 84 Tenn. L. Rev. 779, 801 (2017). Social media spreads
+information faster than ever. The emergence of social media as a news source means that
+“consumers no longer have to seek out their news—it comes directly to them. Therefore, when a
+plaintiff files a suit using her real name, that plaintiff’s identity and her claim can swiftly be
+
+12
+
+Case 1:18-cv-09936 Document 4 Filed 10/29/18 Page 18 of 24
+
+revealed to millions of people.” Id. at 802-03. And attacks on the Internet are permanent. The
+Internet can be “a cruel historian.” 14 “One of the chief drawbacks of Internet shaming is the
+permanence of its effects. . . . It’s similar to being forced to wear a digital scarlet letter or being
+branded or tattooed. People acquire permanent digital baggage. They are unable to escape their
+past, which is forever etched into Google’s memory.” Id. at 808 (citation omitted).
+“Compounding the issue, modern technology has made it easier for non-parties to disseminate
+litigants’ contact information and to encourage others to harass plaintiffs.” Benjamin P. Edwards,
+When Fear Rules in Law’s Place: Pseudonymous Litigation As A Response to Systematic
+Intimidation, 20 Va. J. Soc. Pol’y & L. 437, 439 (2013).
+Technological advances do not change the dynamics in the vast majority of federal cases,
+where the threat of online harassment remains a theoretical possibility. That cannot be said here.
+It is a matter of public record that President Trump uses social media as a weapon against anyone
+he perceives as a threat. His supporters, operating under the anonymity that the Internet offers,
+often follow suit. It requires no speculation or imagination to say that if Plaintiffs’ identities were
+disclosed, any online accounts they maintain would be overwhelmed with threatening and
+harassing messages, their addresses and other personal information would be widely distributed,
+and they would be forced to take burdensome measures to protect sensitive information from
+hackers.
+
+Daniel J. Solove, The Future of Reputation: Gossip, Rumor and Privacy on the Internet (2007),
+available at http://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=2081&context=
+faculty_publications.
+
+14
+
+13
+
+Case 1:18-cv-09936 Document 4 Filed 10/29/18 Page 19 of 24
+
+B.
+
+The Concerns of Stigma and “Minority” Status that Arise in Suits Against
+the Government Apply Here
+
+The fourth and fifth factors of the Second Circuit’s test—whether the plaintiffs are
+uniquely vulnerable and whether the suit challenges the actions of the government or of private
+parties—also favor anonymity. Typically, plaintiffs who challenge “governmental activity” have
+a “particularly strong” interest in proceeding anonymously because such plaintiffs “presumably
+represent[] a minority interest (and may be subject to stigmatization), and there is arguably a
+public interest in a vindication of [their] rights.” EW v. New York Blood Ctr., 213 F.R.D. 108,
+111 (E.D.N.Y. 2003). In addition, “the government is viewed as having a less significant interest
+in protecting its reputation from damaging allegations than the ordinary individual defendant.”
+Id.; accord Doe No. 2, 242 F.R.D. at 195.
+Although this lawsuit challenges private conduct, the power differential between
+Plaintiffs and Defendants is no less than in a suit where minority interests challenge government
+actors. President Trump occupies the highest government office in the land and has not hesitated
+to speak from his bully pulpit against those who make claims of private misconduct. See, e.g.,
+Eliza Relman, The 22 Women Who Have Accused Trump of Sexual Misconduct, Business Insider
+(Sept. 26, 2018), https://www.businessinsider.com/women-accused-trump-sexual-misconductlist-2017-12 (detailing public remarks Trump has made against women who have accused him of
+sexual misconduct). Moreover, President Trump’s political position serves as an organizing force
+for his supporters, meaning Plaintiffs will face backlash from politically motivated third parties
+in a way that plaintiffs in suits against purely private actors do not.
+In fact, Plaintiffs are even more at risk than the typical litigant who has filed suit against
+the government. Even where a private litigant challenging a government statute represents a
+minority interest, that litigant often has the backing of a broader constituency that shares the
+14
+
+Case 1:18-cv-09936 Document 4 Filed 10/29/18 Page 20 of 24
+
+litigant’s political views and may seek to serve as a counterforce to the powerful interests that the
+litigant is challenging. Here, Plaintiffs’ claims do not reflect any policy or ideological
+preferences around which other citizens have organized, but rather challenge an unlawful,
+fraudulent scheme that caused economic harm to a specific group of working-class individuals.
+Plaintiffs are the first to come forward to vindicate their rights.
+In light of this posture, the fourth and fifth factors weigh in favor of allowing the use of
+pseudonyms.
+C.
+
+There Is No Prejudice to Defendants If Plaintiffs Use Pseudonyms
+
+Protecting Plaintiffs by allowing their use of pseudonyms in no way prejudices
+Defendants, and thus the sixth factor weighs in Plaintiffs’ favor. The Complaint sets forth the
+factual basis for Plaintiffs’ claims in great detail, and this case turns on Defendants’ systematic
+distribution of a fraudulent message to thousands of people linked together only by their
+financial vulnerability and experience. Defendants did not know or care about the identities of
+the people they defrauded then, and have no real interest in exposing their identities now. Given
+Plaintiffs’ comprehensive pleading, Defendants can (i) understand the allegations against them,
+(ii) make their own determination regarding the extent of their liability, (iii) undertake their own
+investigation about their decade-long fraudulent scheme, and (iv) take appropriate discovery
+from Plaintiffs (and other appropriate parties) about the matters at issue.
+Indeed, we are at the very earliest stages of this case. Defendants’ next step is to answer
+the complaint or move to dismiss, neither of which requires disclosure of Plaintiffs’ identities.
+Any arguments regarding Defendants’ need for additional information about Plaintiffs later in
+the case are, therefore, premature—and as noted above, can be dealt with in the ordinary course
+as this case proceeds. See Grottano v. City of New York, No. 15 Civ. 9242, 2016 WL 2604803, at
+*3 (S.D.N.Y. Mar. 30, 2016) (granting motion filed early in class action to permit lead plaintiffs
+15
+
+Case 1:18-cv-09936 Document 4 Filed 10/29/18 Page 21 of 24
+
+to proceed anonymously and rejecting defendants’ argument about how use of pseudonyms
+might impact later stages of litigation).
+This Court has routinely granted initial leave to file a complaint anonymously or
+pseudonymously while reserving the right to order disclosure of a plaintiff’s identity at a later
+stage of litigation, suggesting that the standard for making the requisite showing is lower at the
+pleading stage. See, e.g., Doe v. Delta Airlines, Inc., 310 F.R.D. 222, 223 (S.D.N.Y. 2015)
+(denying motion to proceed pseudonymously at trial after having previously “granted Doe’s ex
+parte motion for leave to file her Complaint under a pseudonym”); Doe v. City of New York, No.
+15 Civ. 117 (S.D.N.Y.), ECF No. 24 at 8. (“Plaintiff’s motion to proceed anonymously is
+GRANTED at this time and the Court authorizes Plaintiff to file the proposed Amended
+Complaint. However, Defendants may move to revisit the issue of Plaintiff’s anonymity before
+the case proceeds to trial.”).
+D.
+
+Plaintiffs Have Taken Steps to Keep Their Identities Confidential
+
+Yet another reason why Plaintiffs will almost certainly face substantial prejudice from
+disclosure is that their identities are not already known to the larger public. Indeed, Plaintiffs
+have not initiated the lawsuit in their own names, and they have not made any statements in the
+media. The seventh factor thus weighs in favor of granting Plaintiffs’ motion. This is not a
+situation where Plaintiffs have already appeared in the press to discuss their claims, yet now seek
+anonymity in the court proceedings. See Corley v. Vance, No. 15 Civ. 1800, 2015 WL 4164377,
+at *9 (S.D.N.Y. June 22, 2015) (denying motion to proceed pseudonymously because the
+underlying facts were already a matter of public record); Doe v. Fedcap. Rehab. Services, Inc.,
+No. 17 Civ. 8220, 2018 WL 2021588, at *2 (S.D.N.Y. Apr. 27, 2018) (vacating order permitting
+plaintiff to proceed under pseudonym where plaintiff had already voluntarily disclosed the
+
+16
+
+Case 1:18-cv-09936 Document 4 Filed 10/29/18 Page 22 of 24
+
+sensitive issues plaintiff sought to keep secret in the case by participating in a news story to
+major news outlet). Instead, Plaintiffs are four individuals who lead private lives and have not
+held themselves out for public scrutiny.
+E.
+
+Disclosure of Plaintiffs’ Names Does Not Advance the Public Interest
+
+The eighth and ninth factors of the multi-prong test ask the Court to examine how
+granting anonymity to Plaintiffs impacts the public interest, and the tenth asks whether there are
+any alternative mechanisms for protecting Plaintiffs’ confidentiality.
+By filing a putative class action lawsuit that brings to light a pervasive fraud perpetrated
+by Defendants, Plaintiffs’ suit furthers a significant public interest in enforcing consumer
+protections and seeking compensation for thousands of individuals. See Compl. ¶¶ 349-74.
+Defendants targeted the scheme’s victims because they were inexperienced in financial and
+commercial matters See Compl ¶ 13. Those consumers then suffered considerable financial
+losses because of President Trump’s actions and those of his family. By bringing this class
+action, Plaintiffs seek to vindicate important social and legal norms—and seek to do so on behalf
+of a group of individuals who may not otherwise be made whole.
+The public’s interest in this lawsuit is not furthered by requiring Plaintiffs to disclose
+their identities. “The public does not know the identity of most plaintiffs in class action lawsuits,
+yet these cases have provided invaluable information regarding various legal issues. Indeed, in
+the overwhelming number of cases it is not the plaintiff’s name that is relevant to the public, but
+rather the specifics about the cause of action.” Ressler, supra, at 823. There is no material
+difference to the public if Plaintiffs are identified by their actual names or by pseudonyms. The
+important public aspect of this cases concerns the issues involved—namely, a practice of fraud
+and self-enrichment by Defendants that harmed thousands of people—not the specific injured
+
+17
+
+Case 1:18-cv-09936 Document 4 Filed 10/29/18 Page 23 of 24
+
+victims raising these issues in court. See Balance Studio, Inc. v. Cybernet Ent., LLC, 204 F.
+Supp. 3d 1098, 1102 (N.D. Cal. 2016) (business owner’s anonymity would not obstruct public
+scrutiny of important issues in the case since there was nothing about owner’s identity that made
+it critical to workings of justice to reveal her legal name).
+The public has little legitimate interest in knowing the identity of a party suing if that
+party’s identity has little or no bearing on the case itself. As one court has noted, “[i]f a plaintiff
+is granted leave to proceed using a fictitious name, the public is not denied its right to attend the
+proceedings or inspect the orders or opinions of the court on the underlying constitutional issue.”
+Doe v. Pittsylvania County, Va., 844 F. Supp. 2d 724, 728 (W.D. Va. 2012). The identities of the
+particular parties bringing this lawsuit are largely irrelevant to any legitimate public concern.
+Using a pseudonym here does not impact societal access to the workings of the judiciary.
+Moreover, there are no alternative mechanisms for protecting Plaintiffs’ identities. If
+Plaintiffs are required to use their actual names in this lawsuit, there is no doubt that they will be
+immediately publicly identified in the press and on the Internet, at their jobs and on social media,
+and subjected to retaliation. This is not a case where it would be sufficient to use a protective
+order to shield disclosure of certain confidential information, such as medical records. Here,
+harm to Plaintiffs will occur by the public disclosure of their names alone.
+CONCLUSION
+Balancing all relevant factors, the unique circumstances outlined herein outweigh any
+interest that Defendants or the public may have in disclosure of Plaintiffs’ identities. Plaintiffs
+have a legitimate and reasonable concern that they will face substantial retaliation, harassment,
+and even violence if their identities are publicly disclosed. The Court should grant Plaintiffs’
+motion and allow them to file this complaint using pseudonyms.
+
+18
+
+Case 1:18-cv-09936 Document 4 Filed 10/29/18 Page 24 of 24
+
+Dated: October 29, 2018
+
+Respectfully submitted,
+
+Roberta A. Kaplan, Esq.
+John C. Quinn, Esq.
+Joshua Matz, Esq.
+Alexander J. Rodney, Esq.
+Matthew J. Craig, Esq.
+KAPLAN HECKER & FINK LLP
+350 Fifth Avenue, Suite 7110
+New York, New York 10118
+Telephone: (212) 763-0883
+Facsimile: (212) 564-0883
+rkaplan@kaplanhecker.com
+jquinn@kaplanhecker.com
+jmatz@kaplanhecker.com
+arodney@kaplanhecker.com
+mcraig@kaplanhecker.com
+Katherine Rosenfeld, Esq.
+Andrew G. Celli, Jr., Esq.
+Matthew D. Brinckerhoff, Esq.
+O. Andrew F. Wilson, Esq.
+EMERY CELLI BRINCKERHOFF & ABADY LLP
+600 Fifth Avenue at Rockefeller Center
+New York, NY 10020
+Telephone: (212) 763-5000
+krosenfeld@ecbalaw.com
+acelli@ecbalaw.com
+mbrinckerhoff@ecbalaw.com
+awilson@ecbalaw.com
+
+Attorneys for Plaintiffs
+
+19
+
+

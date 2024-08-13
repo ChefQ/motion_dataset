@@ -1,0 +1,859 @@
+Case 2:11-cv-00353 Document 14
+
+Filed in TXSD on 02/07/12 Page 1 of 22
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF TEXAS
+CORPUS CHRISTI DIVISION
+JOSE ANGEL LOPEZ AND
+MICHAEL JAMES LYONS,
+Individually and on behalf of all others
+similarly situated,
+Plaintiffs,
+v.
+ALLIS-CHALMERS ENERGY INC.,
+ALLIS-CHALMERS TUBULAR
+SERVICES LLC F/K/A ALLISCHALMERS TUBULAR SERVICES,
+INC., AND ARCHER TUBULAR
+SERVICES LLC
+Defendants.
+
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+
+CIVIL ACTION NO. 2:11-CV-00353
+
+DEFENDANTS’ RESPONSE AND OPPOSITION TO PLAINTIFFS’
+MOTION FOR CERTIFICATION OF COLLECTIVE ACTION
+AND REQUEST FOR NOTICE TO POTENTIAL PLAINTIFFS
+
+MICHAEL J. MUSKAT
+Attorney-in-Charge
+State Bar No. 24002668
+S.D. Tex. Bar No. 22816
+MUSKAT, MARTINEZ & MAHONY, LLP
+440 Louisiana Street, Suite 590
+Houston, Texas 77002
+Telephone: 713-987-7850
+Telecopier: 713-987-7854
+Attorneys for Defendants
+
+Case 2:11-cv-00353 Document 14
+
+Filed in TXSD on 02/07/12 Page 2 of 22
+
+TABLE OF CONTENTS
+Table of Contents ............................................................................................................................. i
+Table of Authorities ........................................................................................................................ ii
+Introduction and Summary of the Argument .................................................................................. 1
+Background ..................................................................................................................................... 1
+A. Plaintiff Lopez and His Ongoing Personal Injury Litigation Against Defendants..........2
+B. Relevant Details Regarding the Defendants in this Matter. ............................................3
+Argument ........................................................................................................................................ 4
+I.
+
+No Class May Be Certified Because the Named Plaintiffs Have Failed to Demonstrate
+That Anyone Other Than Themselves Has Any Interest in Joining this Case........................4
+
+II.
+
+No Class May Be Certified Because Lopez’s Unique Reasons and Incentives for
+Pursuing These Claims Mean That He is Not Similarly Situated to Putative Class
+Members. ................................................................................................................................6
+
+III.
+
+The Plaintiffs’ Proposed Class of All “Laborers” Employed by All Defendants is
+Improperly Vague, Overbroad, and Does Not Consist of “Similarly Situated” Persons. .......8
+
+IV. To the Extent Any Class Could Be Certified, It Would Be a More Limited Class Than
+That Proposed By Plaintiffs. .................................................................................................10
+V.
+
+To the Extent Any Class is Certified and the Court Authorizes Notice to Putative Class
+Members, Plaintiff’s Proposed Notice is One-Sided, Misleading, and Objectionable on
+Multiple Other Grounds. .......................................................................................................10
+A. Plaintiffs’ Proposed Notice is Improperly One-Sided in Numerous Respects and is
+Not an Accurate or Neutral Recitation of the Allegations in the Case..........................11
+B. The Proposed Notice Improperly Fails to Apprise Class Members of Their
+Potential Obligations and the Potential Risks They Incur in Pursuing this Case. .........12
+C. The Proposed Notice is Inaccurate or Insufficiently Precise in its Description of
+the Putative Class. .........................................................................................................14
+D. The Proposed Notice is Unnecessarily Repetitive, Which Has the Effect of
+Improperly Emphasizing Plaintiff’s Allegations at the Expense of Defendants’
+Denials. ..........................................................................................................................14
+E.
+
+The Proposed Opt-in Period of 90 Days is Too Long. ..................................................15
+
+F.
+
+The Proposed Notice Improperly Directs Class Members to Plaintiffs’ Counsel’s
+Website for More Information. .....................................................................................15
+
+G. Plaintiffs are Not Entitled to Putative Class Members’ Telephone Numbers or Email Addresses, and Plaintiffs Provide No Reason to Post the Notice or Distribute
+It by “Company Newsletter.” ........................................................................................15
+Conclusion .................................................................................................................................... 16
+Certificate of Service .................................................................................................................... 17
+
+i
+
+Case 2:11-cv-00353 Document 14
+
+Filed in TXSD on 02/07/12 Page 3 of 22
+
+TABLE OF AUTHORITIES
+Cases
+Aguirre v. SBC Communications, Inc.,
+2006 U.S. Dist. LEXIS 22211, at **19-20(S.D. Tex. Apr. 11, 2006) (Rosenthal, J.)................ 4
+Babych v. Psychiatric Solutions, Inc.,
+No. 09 C 8000, 2011 U.S. Dist. LEXIS 130167, at**15-16 (N.D. Ill. Nov. 9, 2011) .............. 10
+Bernard v. Household Int’l, Inc.,
+231 F. Supp. 2d 433 (E.D. Va. 2002) ......................................................................................... 9
+Botello, et. al. v. COI Telecom, LLC, et al.,
+2010 U.S. Dist. LEXIS 138572, at **24-25 (W.D. Tex. Dec. 30, 2010) ................................... 9
+Camper v. Home Quality Mgmt. Inc.,
+200 F.R.D. 516 (D. Md. 2000).................................................................................................... 9
+Castillo v. Hernandez,
+2010 U.S. Dist. LEXIS 118457, at **16-17 (W.D. Tex. Nov. 4, 2010) ................. 11, 12, 14, 15
+Fasanelli v. Heartland Brewery, Inc.,
+516 F. Supp.2d 317 (S.D.N.Y. 2007) ....................................................................................... 12
+Feder v. Elec. Data Sys. Corp.,
+429 F.3d 125 (5th Cir. 2005) ...................................................................................................... 8
+Gary Plastic Packaging Corp. v. Merrill Lynch, Piece, Fenner & Smith, Inc.,
+903 F.2d 176 (2d Cir. 1990) ....................................................................................................... 8
+Gonzales v. Hair Club for Men, Ltd., Inc.,
+2007 U.S. Dist. LEXIS 26160, at *10 (M.D. Fla. Ap. 9, 2007) ................................................. 9
+Harper v. Lovett’s Buffet, Inc.,
+No. 98-A-941-S, 185 F.R.D. 358 (M.D. Ala. 1999) ................................................................... 9
+Hernandez v. Bob Mills Furniture Co. of Tex., LP,
+2011 U.S. Dist. LEXIS 26395, at *6 (N.D. Tex. Mar. 15, 2011) (Robinson, J.)........................ 5
+Hoffman-La Roche, Inc. v. Sperling,
+493 U.S. 165 (1989) .................................................................................................................. 11
+In re Fedex Ground Package Sys., Inc., Employment Practices Litigation,
+662 F. Supp.2d 1069 (N.D. Ind. 2009) ....................................................................................... 7
+Joiner v. Groupware Int’l, Inc.,
+2010 U.S. Dist. LEXIS 59107, at *6 (M.D Fla. May 27, 2010) ......................................... 12, 13
+Laroque v. Domino’s Pizza, LLC,
+557 F. Supp. 2d 346 (E.D.N.Y. 2008) ........................................................................................ 9
+Lawson v. Bell South Telecommunications, Inc.,
+2011 U.S. Dist. LEXIS 91322, at **34-35 (N.D. Ga. Aug. 16, 2011) ............................... 13, 15
+
+ii
+
+Case 2:11-cv-00353 Document 14
+
+Filed in TXSD on 02/07/12 Page 4 of 22
+
+Lopez v. Insurance Company of the State of Pennsylvania,
+Docket No. CC-11-213653-01-CC-CC43 .................................................................................. 2
+McKinzie v. Westlake Hardware, Inc.,
+2010 U.S. Dist. LEXIS 58078, at *13 (W.D. Mo. June 11, 2010) ........................................... 13
+Mims v. Carrier Corp.,
+2007 U.S. Dist. LEXIS 102270,at *12 (E.D. Tex. Sept. 11, 2007) .......................................... 15
+Morales v. Thang Hung Corp.,
+2009 U.S. Dist. LEXIS 71765, at **10-11(S.D. Tex. Aug. 14, 2009) (Miller, J.) ..................... 5
+Moultry v. Cemex, Inc.,
+2007 U.S. Dist. LEXIS 68654 (M.D. Fla. Sept. 7, 2007) ................................................... 10, 13
+Nehmelman v. Penn Nat’l Gaming, Inc.,
+2011 U.S. Dist. LEXIS 111485, at *54 (N.D. Ill. Sept. 29, 2011) ........................................... 15
+Nehmelman v. Penn Nat’l Gaming, Inc.,
+2011 U.S. Dist. LEXIS 111485, at *55 (N.D. Ill. Sept. 29, 2011) ........................................... 13
+O’Donnell v. Robert Half Int’l, Inc.,
+429 F. Supp. 2d 246 (D. Mass. 2006) ......................................................................................... 9
+Pomareda v. Homebridge Mortgage Bankers Corp.,
+2007 U.S. Dist. LEXIS 12572, at **6-7 (S.D. Fla. Feb. 22, 2007) ............................................ 9
+Rueda v. Tecon Servs., Inc.,
+2011 U.S. Dist. LEXIS 69356, at **11-12(S.D. Tex. June 28, 2011) (Rosenthal, J.)................ 8
+Simmons v. T-Mobile USA, Inc.,
+2007 U.S. Dist. LEXIS 5002, at **33-34(S.D. Tex. Jan. 24, 2007) (Atlas, J.) .......................... 5
+Simpkins v. Pulte Home Corp.,
+2008 U.S. Dist. LEXIS 64270, at *28 (M.D. Fla. Aug. 21, 2008) ..................................... 12, 13
+Snide v. Discount Drug Mart, Inc.,
+2011 U.S. Dist. LEXIS 133736, at **17-18 (N.D. Ohio Oct. 7, 2011) ........................ 11, 13, 15
+Songer v. Dillon Resources, Inc.,
+569 F. Supp.2d 703 (N.D. Tex. 2008) (McBryde, J.) ................................................................. 5
+Stiles v. Fee Transp. Servs., Inc.,
+2010 U.S. Dist. LEXIS 24250, at *8 (N.D. Tex. Mar. 15, 2010) (Boyle, J.) ............................. 5
+Theriault v. WM&B, LLC,
+2006 U.S. Dist. LEXIS 98556, at *8 (S.D. Tex. Aug. 18, 2006) (Ellison, J.) ............................ 5
+Tolentino v. C & J Spec-Rent Servs. Inc.,
+716 F. Supp.2d 642 (S.D. Tex. 2010) (Jack, J.).......................................................................... 8
+Trinh v. JP Morgan Chase & Co.,
+No. 07-CV-1666 W (WMC), 2008 U.S. Dist. LEXIS 33016,
+at **6-7 (S.D. Cal. Apr. 22, 2008) .............................................................................................. 9
+Tucker v. Labor Leasing Inc.,
+872 F. Supp. 941 (M.D. Fla. 1994) ............................................................................................. 9
+iii
+
+Case 2:11-cv-00353 Document 14
+
+Filed in TXSD on 02/07/12 Page 5 of 22
+
+Villarreal v. St. Luke’s Episcopal Hosp.,
+751 F. Supp.2d 902 (S.D. Tex. 2010) ....................................................................................... 16
+Vogt v. Tex. Instruments, Inc.,
+2006 U.S. Dist. LEXIS 67226 (N.D. Tex. Sept. 19, 2006) (Ramirez, J.) ........................... 10, 16
+Whalen v. United States,
+85 Fed. Cl. 380 (Fed. Ct. Cl. 2009) .................................................................................... 12, 13
+
+iv
+
+Case 2:11-cv-00353 Document 14
+
+Filed in TXSD on 02/07/12 Page 6 of 22
+
+Introduction and Summary of the Argument
+This is a putative FLSA collective action brought by two relatives who allege that they
+were misclassified as independent contractors and did not receive overtime pay over periods of a
+few months and weeks, respectively. For several reasons, the case cannot be conditionally
+certified as a collective action. First, these two relatives have failed to demonstrate, as they
+must, that anyone other than themselves has any interest in joining this case. Second, Jose
+Lopez, who is the lead plaintiff, is not similarly situated to the rest of the putative class. Lopez is
+suing the company in a separate personal injury lawsuit, and thus he has unique reasons and
+incentives for pursuing this FLSA case – including but not limited to his desire to obtain
+admissions in this case regarding his employment status that he believes would be useful in the
+personal injury litigation – that make him not similarly situated. Third, the proposed class of all
+“laborers” employed by all Defendants is improperly vague, overbroad, and does not consist of
+“similarly situated” persons.
+In the alternative, and to the extent that any class could be conditionally certified, it
+would be a more limited class than what is proposed by Plaintiffs. Also, the proposed Notice
+form submitted by Plaintiffs would have to be substantially revised, as it is improperly one-sided,
+misleading, and objectionable on multiple other grounds.
+Background
+Named Plaintiffs Jose Lopez and Michael Lyons are relatives – either father and son-inlaw, or perhaps uncle and nephew – who performed services for Allis-Chalmers Tubular
+Services LLC (“Tubular Services”) under independent contractor agreements. Lopez performed
+services under his contractor agreement for certain weeks during the time period of midNovember 2010 to March 29, 2011. (Declaration of Cynthia Matlock ¶ 4, attached as Exhibit A)
+Lyons performed services under his contractor agreement with Tubular Services for just four
+1
+
+Case 2:11-cv-00353 Document 14
+
+Filed in TXSD on 02/07/12 Page 7 of 22
+
+weeks, from April 17, 2011 to May 14, 2011. (Id.) At least as of the time they contracted with
+Tubular Services, Lopez and Lyons appear to have lived together, or perhaps Lopez was Lyons’
+landlord, based on the fact that Tubular Services’ records – including the contractor agreements
+that each of them signed – list the same home address for them. (Id.)
+A.
+
+Plaintiff Lopez and His Ongoing Personal Injury Litigation Against
+Defendants.
+
+Lopez stopped performing services for Tubular Services after an on-the-job injury he
+suffered on March 29, 2011. Following that injury, a claim for workers’ compensation benefits
+was filed. The hearing officer in the workers’ comp proceeding concluded that Lopez was an
+“employee” of Tubular Services for purposes of the Workers’ Compensation Act. (See page 4 of
+the Decision and Order in Lopez v. Insurance Company of the State of Pennsylvania, Docket No.
+CC-11-213653-01-CC-CC43, in the Texas Department of Insurance Division of Workers’
+Compensation, Attachment 1 to Exhibit B, Declaration of Anderson Lee.)
+Lopez has also filed a personal injury lawsuit against Tubular Services and other entities
+in state court in Maverick County, Texas. (See Petition in Jose Angel Lopez and Jennifer Lopez
+v. Allis-Chalmers Energy Inc. et al., Cause No. 11-08-26783, in the 365th Judicial District Court
+of Maverick County, Texas, Attachment 2 to Lee Declaration.)
+
+Lopez alleges in that lawsuit
+
+that he “was an independent contractor performing well casing services” at the time of his injury.
+(Petition ¶ 5.1) Lopez further alleges in that suit that his claims are not barred by the exclusivity
+provisions of the Texas Workers’ Compensation Act, because he “had signed an “Independent
+Contractor” contract with the Allis-Chalmers Defendants specifying that he was not an employee
+of the company.” (Id.¶ 5.5)
+
+Lopez is represented in the personal injury case by Roger S.
+
+Braugh and the law firm of Sico, White, Hoelscher & Braugh L.L.P., the same lawyers who
+represent him in this FLSA case.
+
+2
+
+Case 2:11-cv-00353 Document 14
+
+Filed in TXSD on 02/07/12 Page 8 of 22
+
+In this FLSA case – which Lopez filed after the personal injury lawsuit – Lopez alleges
+that based on the legal positions allegedly taken by “Allis-Chalmers” in the workers’ comp and
+personal injury matters, Defendants are “estopped” from denying his status as an employee under
+the FLSA. (First Amended Complaint ¶ 6.3)1 Defendants have filed an answer denying, among
+other things, Lopez’s estoppel claim, and asserting the affirmative defense that Lopez himself
+may be estopped from contesting his status under the FLSA, based on the representations and
+findings in the workers’ comp proceeding, as well as the pleadings he has filed in the personal
+injury lawsuit claiming that he was an independent contractor. (Defendants’ Original Answer ¶
+13, Docket Entry No. 4)
+B.
+
+Relevant Details Regarding the Defendants in this Matter.
+
+While Plaintiffs have named Allis-Chalmers Energy Inc. as a defendant in this matter, in
+fact that entity is a parent holding company that does not employ anyone or contract with any
+individuals for services. (Lee Decl. ¶ 2) Instead, Allis-Chalmers Tubular Services LLC is the
+entity that contracted with the named Plaintiffs in this matter. That entity has since been renamed Archer Tubular Services LLC (“Tubular Services”).2 Tubular Services is a specialized
+company that provides pipe handling services, including installing casing and tubing, and
+changing out drill pipe and retrieving production tubing for both onshore and offshore drilling
+and work over operations. (Id. ¶ 3)
+
+1
+
+Lopez is wrong that “Allis-Chalmers” took any position in the workers’ comp proceeding
+as to his employment status, because “Allis-Chalmers” was not a party to that proceeding. The
+responding party in the workers’ comp proceeding was the workers’ compensation carrier, the
+Insurance Company of the State of Pennsylvania. (See Attachment 1 to Lee Declaration).
+2
+
+Lopez acknowledged and agreed during his workers’ comp proceeding that to the extent
+he was an “employee” of any entity, that entity was Tubular Services. (See Attachment 1 to Lee
+Declaration, p. 2)
+3
+
+Case 2:11-cv-00353 Document 14
+
+Filed in TXSD on 02/07/12 Page 9 of 22
+
+Tubular Services is structured to operate through several different geographic districts.
+(Matlock Decl. ¶ 2) The company’s South Texas District is run by a District Manager. The
+South Texas District Manager hires workers to perform services within the South Texas District,
+and determines whether such workers should be classified as independent contractors or
+employees. (Id.) Lopez and Lyons were retained in 2010 and 2011, respectively, by the South
+Texas District Manager via independent contractor agreements, and they performed services for
+and within the South Texas District. (Id.)
+The South Texas District does not classify workers as “laborers.” (Id.¶ 3) It uses
+different job titles for workers, including casing floor hand, tong operator, and stabber. (Id.)
+Lopez and Lyons were retained as casing floor hands. (Id.) The South Texas District also hires
+people to be field supervisors (also known as “pushers”), but neither Lopez nor Lyons worked as
+a field supervisor. (Id.)
+Argument
+I.
+
+No Class May Be Certified Because the Named Plaintiffs Have Failed to
+Demonstrate That Anyone Other Than Themselves Has Any Interest in Joining this
+Case.
+As most courts have held, including many judges in the Southern District of Texas, a
+
+class should not be conditionally certified in an FLSA case unless the named plaintiff(s) provide
+proof not merely that there are similarly situated persons that exist, but that there are putative
+class members who actually want to opt into the lawsuit. See Aguirre v. SBC Communications,
+Inc., 2006 U.S. Dist. LEXIS 22211, at **19-20 (S.D. Tex. Apr. 11, 2006) (Rosenthal, J.)
+(plaintiff must establish that the alleged similarly situated individuals “want to opt-in to the
+lawsuit,” and denying conditional certification in part because the eight named plaintiffs had
+done nothing more than make brief and conclusory statements to this effect and did not submit
+opt-in forms or affidavits from putative class members); Simmons v. T-Mobile USA, Inc., 2007
+4
+
+Case 2:11-cv-00353 Document 14
+
+Filed in TXSD on 02/07/12 Page 10 of 22
+
+U.S. Dist. LEXIS 5002, at **33-34 (S.D. Tex. Jan. 24, 2007) (Atlas, J.) (conditional certification
+denied in part because the named plaintiff was required to show that “at least a few” putative
+class members desired to join the case, but did not do so); Songer v. Dillon Resources, Inc., 569
+F. Supp.2d 703, 707-08 (N.D. Tex. 2008) (McBryde, J.) (conditional certification denied in part
+because the twenty-four (24) named plaintiffs submitted only speculative and conclusory
+allegations that anyone else “would actually opt in given the opportunity”); Morales v. Thang
+Hung Corp., 2009 U.S. Dist. LEXIS 71765, at **10-11 (S.D. Tex. Aug. 14, 2009) (Miller, J.)
+(named plaintiff’s statement that he “believed” that three putative class members would join the
+case was insufficient without affidavits from the class members stating an actual desire to opt
+in); Hernandez v. Bob Mills Furniture Co. of Tex., LP, 2011 U.S. Dist. LEXIS 26395, at *6
+(N.D. Tex. Mar. 15, 2011) (Robinson, J.) (conditional certification denied in part because the
+named plaintiff “offers no evidence that any potential plaintiff would actually opt-in to this
+litigation if given the chance”); Stiles v. Fee Transp. Servs., Inc., 2010 U.S. Dist. LEXIS 24250,
+at *8 (N.D. Tex. Mar. 15, 2010) (Boyle, J.) (conditional certification denied in part because the
+two named plaintiffs identified only four other putative class members and supplied no proof that
+any of those four members would actually want to opt in); Theriault v. WM&B, LLC, 2006 U.S.
+Dist. LEXIS 98556, at *8 (S.D. Tex. Aug. 18, 2006) (Ellison, J.) (conditional certification denied
+in part because the named plaintiff did not specifically identify any other putative class members
+and did not provide any proof that any such members would want to opt in).
+There is particularly good reason in this case to enforce this requirement, because Lopez,
+the lead plaintiff, has unique motivations to pursue these FLSA claims: Namely, to exert further
+leverage on the Defendants that may assist him in his personal injury lawsuit, and to attempt to
+obtain admissions about his employment status that he thinks would be potentially useful in the
+
+5
+
+Case 2:11-cv-00353 Document 14
+
+Filed in TXSD on 02/07/12 Page 11 of 22
+
+personal injury lawsuit, where he is expressly attempting to avoid the application of the
+exclusive remedy provisions of the Workers’ Compensation Act on the ground that he is an
+“independent contractor.” (See Plaintiffs’ Original Petition ¶ 5.5, attached as Attachment 2 to
+Lee Declaration) In other words, Lopez is uniquely interested in litigating this case, and there is
+no reason to simply assume that any of the other persons who may make up a putative class
+would have any interest in joining him to pursue these claims.
+Very notably, no one other than Lopez and his relative Lyons has opted into this case,
+and neither Lopez nor Lyons provide any other acceptable form of proof that anyone other than
+themselves would join this case.3 Given Lopez’s unique motivations and interests in this case,
+and the absence of any proof of any other opt in plaintiffs, no class should be conditionally
+certified in this matter under the numerous well-reasoned cases cited above.
+II.
+
+No Class May Be Certified Because Lopez’s Unique Reasons and Incentives for
+Pursuing These Claims Mean That He is Not Similarly Situated to Putative Class
+Members.
+Even had the named Plaintiffs presented proof that others want to opt in (which they did
+
+not), no class should be certified because Lopez’s unique incentives for pursuing the claims in
+this case make him an improper representative to pursue claims on behalf of a class. Most
+obviously, Lopez’s desire and/or ability to use this case to obtain leverage in his personal injury
+litigation, or his desire to attempt to obtain useful admissions about employment status for that
+litigation, may make him either more or less amenable to potential settlement, or may cause him
+3
+
+Disturbingly, Plaintiffs’ Motion falsely asserts otherwise, representing that the named
+Plaintiffs’ affidavits “state that the Plaintiffs currently in this case are aware of hundreds and
+potentially thousands of other current and former employees who may be interested in joining
+this lawsuit.” (Motion at 11) In fact, neither Lopez’s nor Lyons’ affidavit says anything about
+anyone who is or even may be interested in opting in. Moreover, to be clear, it would not be
+enough to merely speculate that there are others who “may be” interested in joining, or to
+“believe” that others will join. The cases cited above have required proof – typically through the
+filing of opt in forms – that other putative class members actually want to opt in.
+6
+
+Case 2:11-cv-00353 Document 14
+
+Filed in TXSD on 02/07/12 Page 12 of 22
+
+to be more or less aggressive in settlement discussions, than would be in the best interests of
+absent class members. Or, his unique incentives could cause him to engage in litigation activity
+– and thereby drive up attorneys’ fees to be expended by both sides – that may be of benefit to
+him and his personal injury case, but are not in the best interest of absent class members given
+plaintiffs’ counsel’s fee arrangement, or the possibility of cost-shifting in the event that
+defendants prevail. Lopez’s distinct and individual interests in this case mean that his claims are
+not similarly situated to those of the putative class, and he should not be permitted to represent a
+class. See, e.g., In re Fedex Ground Package Sys., Inc., Employment Practices Litigation, 662 F.
+Supp.2d 1069, 1082 (N.D. Ind. 2009) (observing that although the FLSA does not incorporate
+Federal Rule 23’s adequacy-of-representation requirement, “inadequacy of representation is
+nevertheless an equitable consideration at issue in determining whether to certify a putative
+[FLSA] class,” and ultimately denying certification as to one of the proposed classes because the
+named plaintiffs’ narrowing of the putative class created a conflict between themselves and the
+original class members).4
+Another reason that Lopez is not similarly situated to the putative class is that Defendants
+may possess dispositive defenses to Lopez’s claims based on his previous representations in his
+workers’ comp case and the personal injury case that he was an independent contractor and not
+an employee. While Defendants do not contend at this time that employee status under the
+Workers’ Compensation Act is co-extensive with employee status under the FLSA, to the extent
+that Lopez is successful in convincing the Court that they are co-extensive (as it appears he
+wishes to do), Defendants would then certainly assert that Lopez’s arguments in his personal
+
+4
+
+The fact that Lopez’s relative Lyons is a named plaintiff as well does not solve the
+problem, because the named plaintiffs each would and must represent the class, and so Lopez’s
+interests must be alignment with everyone else’s interests regardless of Lyons.
+7
+
+Case 2:11-cv-00353 Document 14
+
+Filed in TXSD on 02/07/12 Page 13 of 22
+
+injury action regarding his contactor status – and his reliance in that action on the contractor
+agreement he signed with Tubular Services – estop him in this lawsuit from challenging his
+contractor status. As courts have held in the Rule 23 context, when there are unique and
+significant defenses applicable to a named plaintiff’s claims only, the class representative is
+inadequate. See, e.g., Feder v. Elec. Data Sys.Corp., 429 F.3d 125, 136 (5th Cir. 2005); Gary
+Plastic Packaging Corp. v. Merrill Lynch, Piece, Fenner & Smith, Inc., 903 F.2d 176, 180 (2d
+Cir. 1990).
+Because the lead plaintiff in this matter is not similarly situated to the putative class
+members given his unique interests and incentives, no class may be conditionally certified.
+III.
+
+The Plaintiffs’ Proposed Class of All “Laborers” Employed by All Defendants is
+Improperly Vague, Overbroad, and Does Not Consist of “Similarly Situated”
+Persons.
+As discussed in the Background section above, Lopez and Lyons contracted exclusively
+
+with Tubular Services and were retained exclusively by, and paid exclusively by, Tubular
+Services’ South Texas District. Plaintiffs provide no evidence of any alleged improper pay
+practices outside of the South Texas District, or any basis they would have to question the pay
+practices of other districts. As the courts have repeatedly held, alleged violations occurring as to
+a group of workers at one independent facility or location do not, without more, support
+conditional certification of a class of workers at other facilities. See, e.g., Tolentino v. C & J
+Spec-Rent Servs. Inc., 716 F. Supp.2d 642, 652-53 (S.D. Tex. 2010) (Jack, J.) (class limited to
+the employer’s coil tubing division because named plaintiffs failed to demonstrate that
+employees in divisions other than the coil tubing division were similarly situated); Rueda v.
+Tecon Servs., Inc., 2011 U.S. Dist. LEXIS 69356, at **11-12 (S.D. Tex. June 28, 2011)
+(Rosenthal, J.) (“FLSA violations at one of a company’s multiple locations generally are not,
+without more, sufficient to support company-wide notice.”); O’Donnell v. Robert Half Int’l, Inc.,
+8
+
+Case 2:11-cv-00353 Document 14
+
+Filed in TXSD on 02/07/12 Page 14 of 22
+
+429 F. Supp. 2d 246(D. Mass. 2006) (motion for conditional certification denied where plaintiffs,
+two former staffing managers in a single division of a single office, attempted to include all
+staffing professionals employed in any division in any state); Laroque v. Domino’s Pizza, LLC,
+557 F. Supp. 2d 346, 355 (E.D.N.Y. 2008) (limiting class to the pizza store where named
+plaintiffs worked because the employees’ evidence failed to show that they were similarly
+situated to employees at other locations who worked under different managers); Camper v. Home
+Quality Mgmt. Inc., 200 F.R.D. 516, 520-21 (D. Md. 2000) (class limited to one facility because
+their factual showing of uncompensated work known to the supervisors was limited to one
+facility); Bernard v. Household Int’l, Inc., 231 F. Supp. 2d 433, 435-36 (E.D. Va. 2002) (class
+limited to two offices in Virginia because information was insufficient to support allegations that
+defendant has a company-wide policy); Pomareda v. Homebridge Mortgage Bankers Corp.,
+2007 U.S. Dist. LEXIS 12572, at **6-7 (S.D. Fla. Feb. 22, 2007) (class limited to one office
+where named plaintiff employed); Gonzales v. Hair Club for Men, Ltd., Inc., 2007 U.S. Dist.
+LEXIS 26160, at *10 (M.D. Fla. Ap. 9, 2007) (class limited to salon where named plaintiffs
+worked); Tucker v. Labor Leasing Inc., 872 F. Supp. 941, 948 (M.D. Fla. 1994) (class limited to
+the one terminal that the named plaintiffs worked out of because there was no evidence of other
+employees being similarly situated); Harper v. Lovett’s Buffet, Inc., No. 98-A-941-S, 185 F.R.D.
+358, 363 (M.D. Ala. 1999) (class limited to the one restaurant in which the named plaintiffs
+worked); Trinh v. JP Morgan Chase & Co., No. 07-CV-1666 W (WMC), 2008 U.S. Dist. LEXIS
+33016, at **6-7 (S.D. Cal. Apr. 22, 2008) (class limited to location where named plaintiffs
+worked); Botello, et. al. v. COI Telecom, LLC, et al., 2010 U.S. Dist. LEXIS 138572, at **24-25
+(W.D. Tex. Dec. 30, 2010) (court rejected proposed statewide class in contactor misclassification
+case); Babych v. Psychiatric Solutions, Inc., No. 09 C 8000, 2011 U.S. Dist. LEXIS 130167,
+
+9
+
+Case 2:11-cv-00353 Document 14
+
+Filed in TXSD on 02/07/12 Page 15 of 22
+
+at**15-16 (N.D. Ill. Nov. 9, 2011) (class limited to the facility where the named plaintiff
+worked); Vogt v. Tex. Instruments, Inc., 2006 U.S. Dist. LEXIS 67226 (N.D. Tex. Sept. 19,
+2006) (Ramirez, J.) (class limited class to one group of employees in one location); Moultry v.
+Cemex, Inc., 2007 U.S. Dist. LEXIS 68654 (M.D. Fla. Sept. 7, 2007) (class limited to one
+location).
+A separate problem with the proposed class is that the named Plaintiffs were not
+“laborers” (the term used in Plaintiffs’ Motion), but were instead hired to do the job of a casing
+floor hand, a specific job title. Plaintiffs do not present any evidence to support their proposed
+class of what they call “laborers.”
+IV.
+
+To the Extent Any Class Could Be Certified, It Would Be a More Limited Class
+Than That Proposed By Plaintiffs.
+Although Defendants believe that there are fundamental and irresolvable problems in this
+
+matter that make conditional certification inappropriate, such as the absence of interest from any
+putative class members and Lopez’s unique interests and incentives in this case, to the extent any
+class could be conditionally certified in this matter, it would be a class limited to similarly
+situated persons, which would consist of: (a) workers in the positions of casing floor hand, tong
+operator, and stabber (i.e., non-field supervisor positions), who (b) worked in Tubular Services’
+South Texas District in the three years prior to the filing of this matter, i.e., since November 1,
+2008. Defendants offer this proposed alternative class without waiving their right to seek decertification of any such class later in the litigation.
+V.
+
+To the Extent Any Class is Certified and the Court Authorizes Notice to Putative
+Class Members, Plaintiff’s Proposed Notice is One-Sided, Misleading, and
+Objectionable on Multiple Other Grounds.
+The Court plays a critical role in assuring that any notice to class members is accurate,
+
+not misleading, and judicially neutral. Hoffman-La Roche, Inc. v. Sperling, 493 U.S. 165, 170-
+
+10
+
+Case 2:11-cv-00353 Document 14
+
+Filed in TXSD on 02/07/12 Page 16 of 22
+
+74 (1989). In the event that the Court is inclined to conditionally certify a class and authorize
+notice, Defendants have attached clean and redlined copies of an alternative proposed notice and
+alternative consent form that are fair and appropriate and address the multiple concerns raised
+below regarding Plaintiffs’ proposed documents. See Exhibits C and D.
+A.
+
+Plaintiffs’ Proposed Notice is Improperly One-Sided in Numerous Respects
+and is Not an Accurate or Neutral Recitation of the Allegations in the Case.
+
+The specific problems include:
+•
+
+In the “To:” line on page 1, the proposed Notice improperly assumes that the
+Plaintiffs’ allegations of misclassification are correct, in that it is addressed to persons
+who were “Misclassified” as independent contractors. (Emphasis added).
+
+It is
+
+necessary, instead, to refer to the class members neutrally as persons who were
+“classified” as independent contractors, or who signed independent contractor
+agreements.
+•
+
+The Notice fails to properly state that the Defendants deny the allegations and deny
+that the class members are entitled to relief. The proposed Notice should be modified
+to include these statements. See, e.g., Castillo v. Hernandez, 2010 U.S. Dist. LEXIS
+118457, at **16-17 (W.D. Tex. Nov. 4, 2010) (approvingly concluding that the
+proposed notice forms “adequately inform potential class members that Defendants
+dispute the claims at issue and that the Court expresses no opinion as to the ultimate
+merits of the case or the ultimate validity of the conditionally-certified class”); Snide
+v. Discount Drug Mart, Inc., 2011 U.S. Dist. LEXIS 133736, at **17-18 (N.D. Ohio
+Oct. 7, 2011) (notice must include defendant’s denials of plaintiffs’ allegations).
+
+•
+
+The Notice fails to explain – even in general terms – the fee arrangement that will
+exist between the class members and plaintiff’s counsel. This information should be
+
+11
+
+Case 2:11-cv-00353 Document 14
+
+Filed in TXSD on 02/07/12 Page 17 of 22
+
+disclosed so that the class members have adequate information to assess the pros and
+cons of opting-in. See, e.g., Whalen v. United States, 85 Fed. Cl. 380, 389 (Fed. Ct.
+Cl. 2009) (information about the fee arrangement must be disclosed because it ‘may
+have an impact on [an] ‘opt-in’ plaintiff’s recovery.’” (quoting Fasanelli v. Heartland
+Brewery, Inc., 516 F. Supp.2d 317, 324 (S.D.N.Y. 2007))).
+•
+
+The Notice contains the case heading, which could inadvertently suggest that the
+Court has lent its imprimatur to the Plaintiffs’ claims. Whalen, 85 Fed. Cl. at 389.
+
+•
+
+The Notice fails to state that the Court does not endorse or take any position on the
+merits of Plaintiffs’ claims. See, e.g., Castillo, 2010 U.S. Dist. LEXIS 118457, at
+**16-17.
+
+B.
+
+The Proposed Notice Improperly Fails to Apprise Class Members of Their
+Potential Obligations and the Potential Risks They Incur in Pursuing this
+Case.
+
+Just as the Notice sets forth the potential benefits should the class members join the case
+and then prevail, the Notice should also inform the class members of their obligations in
+participating. Specifically:
+•
+
+The Notice fails to notify class members that if they join the case, they may be
+obligated to answer discovery and sit for depositions, which could include travel.
+The courts have repeatedly required such disclosures. See, e.g., Simpkins v. Pulte
+Home Corp., 2008 U.S. Dist. LEXIS 64270, at *28 (M.D. Fla. Aug. 21, 2008) (the
+notice “should explain that opt-in plaintiffs may be required to sit for depositions,
+answer interrogatories, and could be responsible for a portion of Defendant’s costs”);
+Joiner v. Groupware Int’l, Inc., 2010 U.S. Dist. LEXIS 59107, at *6 (M.D Fla. May
+27, 2010) (the notice must explain “that the plaintiffs may be deposed, which may
+
+12
+
+Case 2:11-cv-00353 Document 14
+
+Filed in TXSD on 02/07/12 Page 18 of 22
+
+entail travel, and may be propounded discovery for which they must invest time to
+answer”); McKinzie v. Westlake Hardware, Inc., 2010 U.S. Dist. LEXIS 58078, at
+*13 (W.D. Mo. June 11, 2010) (the notice must state that the class members may be
+required to participate in discovery, which could include travel to Kansas City, where
+the case was filed); Whalen v. United States, 85 Fed. Cl. 380, 389 (Fed. Ct. Claims
+2009) (notice must state that class members may be deposed and required to testify);
+Snide, 2011 U.S. Dist. LEXIS 133736, at **17-18 (notice must include language
+regarding
+
+participation,
+
+including
+
+depositions);
+
+Lawson
+
+v.
+
+Bell
+
+South
+
+Telecommunications, Inc., 2011 U.S. Dist. LEXIS 91322, at **34-35 (N.D. Ga. Aug.
+16, 2011) (notice must state that class members could be required to participate by
+responding to written questions, sitting for depositions, or testifying in court).
+•
+
+The Notice fails to notify class members that if Plaintiffs do not prevail, the class
+members could be responsible for payment of Defendants’ costs.
+
+Courts have
+
+routinely required that such disclosures be included in class notices so that class
+members are fully apprised of both the potential benefits and risks of joining the case.
+See, e.g., Moultry v. Cemex, Inc., 2007 U.S. Dist. LEXIS 68654, at *4 (M.D. Fla.
+Sept. 7, 2007) (requiring plaintiffs to amend the notice to state that if the action is
+unsuccessful, plaintiffs may be responsible for Defendants’ costs); Simpkins, 2008
+U.S. Dist. LEXIS 64270, at *28 (same); Joiner, 2010 U.S. Dist. LEXIS 59107, at *6
+(same); McKinzie v. Westlake Hardware, Inc., 2010 U.S. Dist. LEXIS 58078, at *13
+(W.D. Mo. June 11, 2010) (same); Nehmelman v. Penn Nat’l Gaming, Inc., 2011 U.S.
+Dist. LEXIS 111485, at *55 (N.D. Ill. Sept. 29, 2011) (same); Snide, 2011 U.S. Dist.
+LEXIS 133736, at *17 (same).
+
+13
+
+Case 2:11-cv-00353 Document 14
+
+C.
+
+Filed in TXSD on 02/07/12 Page 19 of 22
+
+The Proposed Notice is Inaccurate or Insufficiently Precise in its Description
+of the Putative Class.
+Specifically:
+
+•
+
+In the “To:” line on page 1, the proposed Notice is improperly addressed to
+“Laborers” who were retained by the “Allis-Chalmers Defendants.” The Notice
+should be directed to the specific job titles at issue (Tubular Services does not use a
+“Laborer” job title) and properly reflect the contracting entity as “Archer Tubular
+Services LLC, formerly known as Allis-Chalmers Tubular Services LLC.” See, e.g.,
+Castillo, 2010 U.S. Dist. LEXIS 118457, at *17 (notice form must accurately identify
+the class).
+
+•
+
+In several other places, the proposed Notice improperly refers to the “Allis Chalmers
+Defendants.” The Notice should properly reflect the contracting entity as “Archer
+Tubular Services LLC, formerly known as Allis-Chalmers Tubular Services LLC.”
+
+•
+
+In the “To:” line of page 1, the proposed Notice improperly omits the time period at
+issue in the case. The Notice should reflect that it is being addressed to persons who
+performed services from November 1, 2008 to the present.
+
+•
+
+The Notice fails to properly make clear that only persons who worked more than 40
+hours per week would be potentially entitled to recover anything in this case.
+
+D.
+
+The Proposed Notice is Unnecessarily Repetitive, Which Has the Effect of
+Improperly Emphasizing Plaintiff’s Allegations at the Expense of
+Defendants’ Denials.
+
+The proposed Notice twice states that failure to opt in means that class members will not
+receive any relief from the suit if Plaintiffs prevail. This unnecessary repetition is a not-so-subtle
+effort to encourage class members to opt in, and this point should only be made once.
+
+14
+
+Case 2:11-cv-00353 Document 14
+
+E.
+
+Filed in TXSD on 02/07/12 Page 20 of 22
+
+The Proposed Opt-in Period of 90 Days is Too Long.
+
+Most courts have held that more limited periods, such as 45 or 60 days, are appropriate
+notice periods. See, e.g., Castillo, 2010 U.S. Dist. LEXIS 118457, at **17-18 (finding 90 days
+to be “excessive” and approving 60 days instead); Mims v. Carrier Corp., 2007 U.S. Dist.
+LEXIS 102270, at *12 (E.D. Tex. Sept. 11, 2007) (approving 60-day notice period); Nehmelman
+v. Penn Nat’l Gaming, Inc., 2011 U.S. Dist. LEXIS 111485, at *54 (N.D. Ill. Sept. 29, 2011)
+(approving 60-day notice period); Lawson v. Bell South Telecommunications, Inc., 2011 U.S.
+Dist. LEXIS 91322, at **34-35 (N.D. Ga. Aug. 16, 2011) (approving 60-day period); Snide,
+2011 U.S. Dist. LEXIS 133736, at **17-18 (45-day notice period is appropriate).
+F.
+
+The Proposed Notice Improperly Directs Class Members to Plaintiffs’
+Counsel’s Website for More Information.
+
+Neither Defendants nor the Court have had an opportunity to review or approve the
+information on the site to assure that it is accurate. Moreover, that information could presumably
+change in content at any time and potentially even conflict with the class Notice or render the
+Notice confusing. Thus, the reference to Plaintiffs’ counsel’s website should be removed, or at
+a minimum, Plaintiffs should submit the proposed content for review by Defendants and the
+Court, and ultimate approval by the Court.
+G.
+
+Plaintiffs are Not Entitled to Putative Class Members’ Telephone Numbers
+or E-mail Addresses, and Plaintiffs Provide No Reason to Post the Notice or
+Distribute It by “Company Newsletter.”
+
+Plaintiffs request that Defendants be ordered to produce a “computer-readable file
+containing the names, addresses, e-mail addresses (if available) and home and cell phone
+numbers” of each putative class member.
+
+(Complaint ¶ 5.3)
+
+But because mailing is the
+
+preferred and accepted means of providing notice, there is no reason to require Defendants to
+further invade the class members’ privacy interests by producing telephone numbers or e-mail
+
+15
+
+Case 2:11-cv-00353 Document 14
+
+Filed in TXSD on 02/07/12 Page 21 of 22
+
+addresses (if any), especially in the absence of a showing by plaintiffs that mailing is or would be
+inadequate. See, e.g., Villarreal v. St. Luke’s Episcopal Hosp., 751 F. Supp.2d 902, 920 (S.D.
+Tex. 2010) (class members’ names, last known mailing addresses, any alternate addresses,
+birthdates, and dates of employment are sufficient for class notice purposes); Vogt v. Texas
+Instruments, Inc., 2006 U.S. Dist. LEXIS 67226, at **11-12 (N.D. Tex. Sept. 19, 2006)
+(rejecting request for class members’ telephone numbers on the ground that it unnecessarily
+invaded the class members’ privacy interests, and plaintiffs had not shown that mailing was an
+inadequate method of notice).
+Although Plaintiffs’ proposed Order requests only that notice be provided by mail, their
+Motion requests that the Notice be posted “on its company bulletin boards and sen[t] via regular
+company newsletter.” (Motion ¶ 1.11; see also id. ¶ 5.6, requesting that the Notice be posted “in
+each of the Allis-Chalmers Defendants’ offices where ‘similarly situated’ individuals are
+employed”). Again, courts have typically held that the mailing process is an accepted and
+adequate means of conveying notice, and thus there is no need for workplace posting or inclusion
+in any alleged “company newsletter.” See, e.g., Villarreal, 751 F. Supp.2d at 920 n.104 (posting
+unnecessary). There is no reason to require posting in this case in the absence of evidence that
+mailing is insufficient, especially since posting is unlikely to reach many of the class members,
+given that their workplace(s) are wellsites that change on a day-to-day basis. Moreover, none of
+the putative class members receive any “company newsletter,” and so it makes no sense to order
+notice by newsletter.
+Conclusion
+For the reasons expressed above, the Court should deny Plaintiffs’ motion for conditional
+certification. Alternatively, it should certify the alternative class set out by Defendants above,
+
+16
+
+Case 2:11-cv-00353 Document 14
+
+Filed in TXSD on 02/07/12 Page 22 of 22
+
+and in that case approve and authorize the proposed Notice and opt-in forms attached to this brief
+as Exhibit C.
+Respectfully submitted,
+/s/ Michael J. Muskat
+MICHAEL J. MUSKAT
+Attorney-in-Charge
+State Bar No. 24002668
+S.D. Tex. Bar No. 22816
+MUSKAT, MARTINEZ & MAHONY, LLP
+440 Louisiana Street, Suite 590
+Houston, Texas 77002
+Telephone: 713-987-7850
+Telecopier: 713-987-7854
+Attorneys for Defendants
+OF COUNSEL:
+GABRIELLE S. MOSES
+State Bar No. 24063878
+ALLISON R. MAY
+State Bar No. 24059281
+MUSKAT, MARTINEZ & MAHONY, LLP
+440 Louisiana Street, Suite 590
+Houston, Texas 77002
+Telephone: 713-987-7850
+Telecopier: 713-987-7854
+
+CERTIFICATE OF SERVICE
+This is to certify that on February 7, 2012, a true and correct copy of this pleading has
+been served on Plaintiffs’ counsel of record via the Electronic Case Filing system.
+
+/s/ Michael J. Muskat________________
+MICHAEL J. MUSKAT
+
+17
+
+

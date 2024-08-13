@@ -1,0 +1,1291 @@
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 1 of 39
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+------------------------------------------------------------- X
+ROD WHEELER,
+:
+:
+Plaintiff,
+:
+:
+v.
+:
+TWENTY-FIRST CENTURY FOX, INC., FOX :
+NEWS NETWORK LLC, MALIA
+:
+ZIMMERMAN, in her individual and professional :
+capacities and ED BUTOWSKY, in his individual :
+and professional capacities,
+:
+:
+Defendants.
+:
+--------------------------------------------------------------X
+
+Civil Action No.: 17-05807 (GBD)
+
+MEMORANDUM OF LAW IN SUPPORT OF DEFENDANT ED BUTOWSKY’S MOTION
+TO DISMISS THE AMENDED COMPLAINT PURSUANT TO FED. R. CIV. P. 12(b)(2)
+AND FED. R. CIV. P. 12(b)(6)
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 2 of 39
+
+TABLE OF CONTENTS
+TABLE OF AUTHORITIES………………………………………………………………….…iii
+PRELIMINARY STATEMENT……………………………………………………………….…1
+FACTUAL BACKGROUND……………………………………………………………….…….2
+A.
+
+The Complaint Alleges That Wheeler Was Hired to Investigate the Murder and
+Shortly Thereafter Began Working With Zimmerman……………………………2
+
+B.
+
+Wheeler Continued His Investigation and Began Reporting to Zimmerman in Real
+Time……………………………………………………………………………….2
+
+C.
+
+Zimmerman Sent Wheeler Versions of the Story for His Approval Prior to
+Publication, Including Several Versions With the Misattributed Quotes…………3
+
+D.
+
+Wheeler Disclosed the Substance of the Quotes to Fox 5 DC Before Fox News
+and Zimmerman Published the Story………………………………………….…..5
+
+E.
+
+Wheeler Reported His Disapproval of the Attribution After Publication…………8
+
+F.
+
+The Amended Complaint Alleges That Butowsky Further Defamed Wheeler Via
+Twitter……………………………………………………………………………..9
+
+G.
+
+The Amended Complaint is Merely Window Dressing And A Transparent
+Attempt To Further Smear Mr. Butowsky Where Plaintiff’s Claims Are Wholly
+Devoid Of Factual And Legal Merit…………………………………………........9
+
+STANDARD OF REVIEW……………………………………………………………………...11
+ARGUMENT—
+I.
+
+II.
+
+This Court Lacks Personal Jurisdiction Over Defendant………………………..12
+A.
+
+Asserting Defamation On The Internet Does Not Give Rise To
+Jurisdiction………………………………………………………………13
+
+B.
+
+Plaintiff’s Commercial Activities—Assuming, Arguendo, They Exist—Do
+Not Give Rise To Jurisdiction In New York…………………………….15
+
+Plaintiff Fails To Plead Defamation As To Mr. Butowsky……………………..18
+
+i
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 3 of 39
+
+A.
+
+Maryland Law Governs All The Claims In This Action………………...18
+
+B.
+
+Defamation Under Maryland Law…………………………………….…19
+
+C.
+
+Plaintiff Fails to Allege That Butowsky Made The Allegedly Misattributed
+Quotes……………………………………………………………………20
+
+D.
+
+Plaintiff Consented To The Publication of the Alleged Defamatory
+Quotations and Consent Is An Absolute Defense to Defamation Under
+Maryland Law……………………………………………………………21
+
+E.
+
+Plaintiff Does Not Plausibly Allege Defamation As The Quotations at
+Issue Are Not False……………………………………………................24
+
+F.
+
+G.
+
+1.
+
+Wheeler Doesn’t Allege That Zimmerman’s Quotes Are Materially
+False………………………………………………………...........24
+
+2.
+
+Wheeler’s Two Twitter Messages Aren’t False Because They Are
+Expressions Of Critical Opinion…………………………………26
+
+Plaintiff Is A Public Figure and Has Not Plausibly Alleged Actual
+Malice………………………………………………………………........27
+1.
+
+Wheeler is a Limited Purpose Public Figure….…………………27
+
+2.
+
+Plaintiff Has Failed To Plausibly Plead Actual
+Malice………………………………………..…………………..28
+
+Plaintiff Does Not Plausibly Allege Defamation Per Se ……………..…29
+
+CONCLUSION…………………………………………………………………………………..30
+
+ii
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 4 of 39
+
+TABLE OF AUTHORITIES
+Cases
+AIDS Counseling & Testing Ctrs. v. Grp. W Television, Inc.,
+903 F.2d 1000 (4th Cir. 1990)…………………………………………………………...24
+Ashcroft v. Iqbal,
+129 S. Ct. 1937 (2009)…………………………………………………………….……..11
+Bensusan Restaurant Corp. v. King,
+937 F. Supp. 295 (S.D.N.Y. 1996)………………………………………………………14
+Best Van Lines, Inc. v. Walker,
+490 F.3d 239 (2d Cir. 2007)………………………………………………………….…..13
+Biro v. Conde Nast,
+963 F. Supp. 2d 255 (S.D.N.Y. 2013)……………………………………….………27, 28
+Biro v. Conde Nast,
+807 F.3d 541 (2d Cir. 2015)………………………………………………………...……27
+Bozell Group, Inc. v. Carpet Co-op of America Assoc., Inc.,
+No. 00 Civ 1248, 2000 U.S. Dist. LEXIS 15088 (S.D.N.Y. Oct. 11, 2000)……….……17
+Broadspring, Inc. v. Congoo, LLC,
+No. 13-1866, 2014 U.S. Dist. LEXIS 116070 (S.D.N.Y. Aug. 20, 2014)………….……18
+Brodeur v. City of New York,
+No. 04-1859, 2005 U.S. Dist. LEXIS 10865 (E.D.N.Y. May 13, 2005)………….……..12
+Epstein v. Thompson,
+No. 09 Civ. 8696 (HB), 2010 U.S. Dist. LEXIS 82000 (S.D.N.Y. Aug. 11, 2010)……..18
+Faulkner v. Beer,
+463 F.3d 130, 134 (2d Cir. 2006)……………………………………………………..….11
+Fischer v. Stiglitz,
+No. 15-CV-6266 (AJN), 2016 U.S. Dist. LEXIS 74842 (S.D.N.Y. June 8, 2016)….13, 15
+Franklin Prescriptions, Inc. v. New York Times Co.,
+267 F. Supp. 2d 425 (E.D. Pa. 2003)……………………………………………….……19
+
+iii
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 5 of 39
+
+Freeplay Music, Inc. v. Cox Radio, Inc.,
+No. 04-5238, 2005 U.S. Dist. LEXIS 12397 (S.D.N.Y. June 22, 1995)………………..17
+Friedman v. Bloomberg L.P.,
+871 F.3d 185 (2d Cir. 2017)……………………………………………………….…….14
+Fort Knox Music, Inc. v. Baptiste,
+203 F.3d 193, 196 (2d Cir. 2000)……………………………………………………..…11
+Graphic Scanning Corp. v. Time Inc.,
+No. 82-4760, 1982 U.S. Dist. LEXIS 16076 (S.D.N.Y. Nov. 10, 1982)………….……..25
+Hanks v. Wavy Broad, LLC,
+No. 11-439, 2012 U.S. Dist. LEXIS 15729 (E.D. Va. Feb. 7, 2012)………………….…30
+Hearst Corp. v. Goldberger,
+No. 96-3620, 1997 U.S. Dist. LEXIS 2065 (S.D.N.Y. Feb. 26, 1997)…………………..14
+Hoffritz for Cutlery, Inc. v. Amajac, Ltd.,
+763 F.2d 55, 57-58 (2d Cir. 1985)…………………………………………………….…17
+In re Magnetic Audiotape Antitrust Litig.,
+334 F.3d 204 (2d Cir. 2003)………………………………………………………….….11
+Indep. Newspapers, Inc. v. Brodie,
+407 Md. 415 (2007)………………………………………………………..….…19, 29, 30
+Jacobs v. Felix Bloch Erben Verlag fur Buhne Film und Funk KG,
+160 F. Supp. 2d 722, 733 (S.D.N.Y. 2001)……………………………………….……..17
+Jacobus v. Trump,
+51 N.Y.S.3d 330 (N.Y. Sup. Ct. 2017)……………………………………………….….27
+James v. Gannett Co.,
+353 N.E.2d 834 (N.Y. 1976)………………………………………………………..……28
+Lee v. Bankers Trust Co.,
+166 F.3d 540 (2d Cir. 1999)…………………………………………………………...…18
+Licci v. Lebanese Canadian Bank
+20 N.Y.3d 327 (2012)……………………………………………………….....……..16, 17
+
+iv
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 6 of 39
+
+MCI Communs. Servs. v. Am. Infrastructure-MD, Inc.,
+No. 11-3767, 2013 U.S. Dist. LEXIS 113061 (D. Md. 2013)………………………….22
+Mandelblatt v. Perelman,
+683 F. Supp. 379 (S.D.N.Y. 1988)……………………………………………………....22
+Mantello v. Hall,
+947 F. Supp. 92 (S.D.N.Y. 1996)…………………………………………………..……17
+Masson v. New Yorker Magazine,
+501 U.S. 496 (1991)…………………………………………………………………24, 28
+Masson v. New York Magazine,
+895 F.2d 1535 (9th Cir. 1989)…………………………………………………………...24
+Mayes v. Leipziger,
+674 F.2d 178 (2d Cir. 1982)……………………………………………………………..18
+Metro. Life Ins. Co. v. Roberston-Ceco Corp.,
+84 F.3d 560 (2d Cir. 1996)……………………………………………………………….11
+Merrill Lynch, Pierce, Fenner & Smith Inc. v. Savino,
+No. 06-868, 2007 U.S. Dist. LEXIS 23126 (S.D.N.Y. Mar. 23, 2007)………………….18
+Mortimer Off Shore Servs. v. Fed. Republic of Germany,
+615 F.3d 97 (2d Cir. 2010)……………………………………………………………….11
+Rothman v. Gregor,
+220 F.3d 81 (2d Cir. 2000)……………………………………………………………….11
+Rosario v. Anson, No. 12-CV-1506 (GLS/CFH),
+2013 U.S. Dist. LEXIS 133797, at *10-11 (N.D.N.Y. Aug. 26, 2013)………………….12
+Russell v. Railey,
+2012 U.S. Dist. LEXIS 49370 (D. Md. April 9, 2012)…………………………………..19
+S. Volkswagen, Inc. v. Centrix Fin., LLC,
+357 F. Supp. 2d 837 (D. Md. 2005)……………………………………………………...19
+SPCA of Upstate New York, Inc. v. Am. Working Collie Ass'n (“SPCA”),
+18 N.Y.3d 400 (N.Y. 2012)………………………………………………………….14, 15
+
+v
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 7 of 39
+
+Smith v. Hobby Lobby Stores, Inc.,
+968 F. Supp. 1356 (W.D. Ark. 1997)…………………………………………………….14
+Southwell v. Southern Poverty Law Ctr.,
+949 F. Supp. 1303 (W.D. Mich. 1996)…………………………………………………..25
+Stratte-Mcclure v. Stanley,
+776 F.3d 94 (2d Cir. 2015)……………………………………………………………….11
+Trachtenberg v. FailedMessiah.com,
+43 F. Supp. 3d 198 (E.D.N.Y. 2014)…………………………………………………….16
+Treppel v. Biovail Corp.,
+No. 03-3002, 2005 U.S. Dist. LEXIS 18511 (S.D.N.Y. Aug. 30, 2005)………………...20
+Universal Trading & Inv. Co. v. Credit Suisse (Guernsey) Ltd.,
+560 F. App’x 52 (2d Cir. 2014)……………………………………………….……..11
+Walden v. Fiore,
+134 S. Ct. 1115 (2014)……………………………………………………………..…….13
+Weber v. Jolly Hotels,
+977 F. Supp. 327 (D.N.J. 1997)………………………………………………………….14
+Weiss v. Inc. Vill. of Sag Harbor,
+762 F. Supp. 2d 560 (E.D.N.Y. 2011)…………………………………………...………12
+Wineholt v. Westinghouse Electric Corp.,
+59 Md. App. 443 (1984)…………………………………………………………………29
+Williams v. Hicks,
+2015 Md. App. LEXIS 1143 (App. July 20, 2015)………………………………………21
+Ziemkiewicz v. R+L Carriers, Inc.,
+996 F. Supp. 2d 378 (D. Md. 2014)……………………………………………………...22
+Other
+N.Y.C.P.L.R. 302(a)…………………………………………………………………………12, 13
+Restatement (Second) Conflict of Laws § 150(2) (1971)………………………………………..19
+50 Am. Jr. 2d, Libel and Slander § 145……………………………………………………….…30
+vi
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 8 of 39
+
+PRELIMINARY STATEMENT
+Plaintiff Rod Wheeler (“Plaintiff” or “Wheeler”) has filed an Amended Complaint
+asserting essentially the same frivolous allegations against Mr. Butowsky as he did in his
+original, sanctionable Complaint. As with the original Complaint, Plaintiff’s complaint is
+overloaded with sensationalistic allegations that have nothing whatsoever to do with the causes
+of action asserted. The scant core defamation facts alleged by Plaintiff, however, plainly fail to
+state a claim or a jurisdictional basis for asserting a claim against Mr. Butowsky, a Texas
+resident, in this Court. As such, the Amended Complaint should be dismissed.
+For the purpose of this renewed motion to dismiss, the irrelevant allegations about an
+attempted cover-up relating to Russian involvement in the Democratic National Committee
+(“DNC”) email hacking scandal, the firing of FBI director James Comey, and Rupert Murdoch’s
+bid for European media conglomerate Sky plc, must be ignored. Without these allegations, the
+Amended Complaint contains only a handful of paragraphs material to Wheeler’s defamation
+claim against Butowsky. And—despite all of its attention-grabbing details—the Amended
+Complaint fails to plausibly allege even the most basic elements of defamation. For while the
+Amended Complaint itself is still alarmingly vague as to what precisely is allegedly false or
+defamatory about the statements at issue, what is abundantly clear is that Plaintiff fails to allege:
+(1) any jurisdictional facts1 that would support suing Mr. Butowsky in this Court; (2) that
+Butowsky played any role in the drafting or making of the defamatory statements; (3) that
+Plaintiff objected to the defamatory statements, known by him, prior to their publication; (4) that
+
+1
+
+Plaintiff has asserted 24 new paragraphs that purport to connect Butowsky to New York. (AC
+¶¶ 44-66.) However, as demonstrated infra, the addition of these new jurisdictional allegations
+fails to plausibly surmount the high personal jurisdiction threshold in defamation cases in New
+York.
+1
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 9 of 39
+
+Butowsky published the statements with the requisite actual malice; or (5) that the statements
+rise to defamation per se (or per quod for that matter).
+
+FACTUAL BACKGROUND
+A.
+
+The Complaint Alleges That Wheeler Was Hired to Investigate the Murder
+and Shortly Thereafter Began Working With Zimmerman
+
+According to the Amended Complaint, Plaintiff Rod Wheeler is a long-time Fox News
+contributor, who also works as a private investigator. (AC at ¶ 81.) On or about February 23,
+2017, Defendant Ed Butowsky, a financial advisor, contacted Mr. Wheeler about assisting the
+Rich family in the investigation of the murder of their son, DNC staffer Seth Rich. (Id. at ¶¶ 8283.) Wheeler eagerly accepted the assignment (id. at ¶ 83.), and Butowsky introduced Wheeler to
+the Rich family on February 28, 2017. (Id. at ¶ 93.) Over the course of the following weeks, Mr.
+Wheeler had multiple conversations with the Rich family. (Id. at ¶ 94.) On March 14, 2017, the
+Rich family formally retained Mr. Wheeler to investigate Seth Rich’s murder. (Id. at ¶ 95.) On
+February 28, 2017, Wheeler had lunch with Mr. Butowsky and Fox News investigative
+journalist, Malia Zimmerman, at which time Mr. Butowsky allegedly informed Wheeler that Ms.
+Zimmerman writing a story on the death of Seth Rich for Fox News. (Id. at ¶ 92.)
+B.
+
+Wheeler Continued His Investigation and Began Reporting to Zimmerman
+
+Mr. Wheeler attempts to downplay his association with Fox News in the Amended
+Complaint, by alleging that Mr. Wheeler’s work for Fox was on an “as needed” basis that
+required on average 10 hours per week. (Id. at ¶ 98.) The Amended Complaint, much like the
+original Complaint, glaringly fails to mention that before his retention by the Rich family Mr.
+Wheeler began working with Ms. Zimmerman on an article about the Seth Rich murder, eagerly
+reporting to her details of his investigation.
+On April 24, 2016, Plaintiff allegedly secured an interview with Detective Della Camera
+
+2
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 10 of 39
+
+of Washington D.C. Metro Police Department. (Id. at ¶ 106.) On April 25, 2017, Wheeler
+interviewed Washington D.C. Metro Police Department Detective Della-Camera. (Id. at ¶ 108.)
+According to the Amended Complaint, Della-Camera told Wheeler that he “still believes Seth
+[Rich’s] death was the result of a robbery gone bad,” that he had “did not have anything pointing
+the finger at the DNC other than conspiracy theories.” (Id.)
+The Complaint, however, omits Wheeler’s conclusions from his April 25, 2017 meeting
+with Detective Della Camera. In a report provided to Zimmerman on the meeting, Wheeler
+concluded that the meeting with Detective Della-Camera was fruitful because the Detective
+could not rule out that someone from the DNC was not responsible for Rich’s death, could not
+definitively say that Seth Rich had not received payments from Wikileaks prior to his murder,
+and would not disclose details about email correspondence found on Rich’s computer. (Ex. 1)2
+After the Della Camera interview, the Complaint does not allege any facts concerning Rod
+Wheeler’s investigation or his interactions with Zimmerman.
+C.
+
+Zimmerman Sent Wheeler Versions of the Story For His Approval Prior to
+Publication, Including Several Versions With the Misattributed Quotes
+
+On May 11, 2017, Zimmerman sent Wheeler a draft of the story regarding the Seth Rich
+murder. (AC at ¶ 113.) At the time, the story, still taking shape, did not include the allegedly
+defamatory quotes. (Id.) Between May 11 and May 15, the Amended Complaint alleges that
+Butowsky on two occasions pressured Wheeler to complete his investigation. (Id. at ¶ 116, 118.)
+The Complaint does not allege that he played any role in drafting the story, or that he had anything
+whatsoever to do with the preparation of its quotes.
+The Complaint then describes an interaction on May 15, 2017 between Wheeler and
+
+2
+
+All Exhibit references those attached to the Declaration of David B. Harrison.
+3
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 11 of 39
+
+Zimmerman, during which she informed Wheeler that she would be publishing her story. (Id. at ¶
+120.) The Complaint omits the details of this interaction, and other related interactions that day,
+which demonstrate Zimmerman’s insistence that Wheeler read the latest draft of the story and give
+his approval prior to its publication. Thus, on May 15, 2017, Zimmerman sent Wheeler the article
+on at least three separate occasions which all included the alleged defamatory quotes. (Exs. 2, 3,
+5.) The second email to Wheeler, at 3:59 PM PST, was followed up by a text message from
+Zimmerman to Wheeler which read:
+Zimmerman: “Can you read the story now?”
+Wheeler: “Reading it now. Malia you can add that I do strongly believe that the
+answers to who murdered Seth sits on his computer on a shelf at the D.C. Police or FBI
+headquarters!” (Ex. 4.)
+Following that exchange, Zimmerman emailed Wheeler a copy of the article which was turned in
+for publication. (Ex. 5.) The emailed article contained the two allegedly false quotes and
+Wheeler’s addition to one of the quotes from the text message verbatim. (Id.) The Amended
+Complaint does not allege that Wheeler objected to the quotes, despite having them in his
+possession and acknowledging such possession, prior to publication.
+The Amended Complaint further alleges that on May 15, 2017, Zimmerman asked Wheeler
+to provide a quote on information Wheeler had given her about the intervention of DNC officials
+Debbie Wasserman-Schultz and Donna Brazile, and states that he provided the quote. (AC at ¶
+120.) The Amended Complaint, however, omits the full details of this referenced interaction.
+During this text exchange on March 15, 2017, after Wheeler had received the emails with the draft
+article containing the defamatory quotes, Wheeler wrote: “just read the email.” (Ex. 6). Wheeler
+then explained that he could not provide a quote, but a blurb on the topic, authorizing Zimmerman
+to craft a quote, writing: “when I called the police department right after that Donna Brazil [former
+DNC Chairperson] called him and was asking him why was I snooping around [the Rich
+
+4
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 12 of 39
+
+investigation]…As a police investigator that automatically makes me think that Donna Brazil is in
+a category of persons of interest as [sic] it relates to the death of Seth rich.” (Ex. 6.) When asked
+by Zimmerman “Can I use as quotes too?”, Wheeler responded:
+“Yes. Here is another quote you may want to consider . . . It's time that the FBI
+immediately conduct a full and thorough investigation to not only the death and
+who caused the death of Seth rich but those that he was involved with and others
+regarding the Democratic national committee.” (Ex. 6.).
+The Amended Complaint amazingly states that “[a]t no point in time did Mr. Wheeler say
+that his investigation revealed that Seth Rich any emails to WikiLeaks.” (AC at ¶ 121.)
+D.
+
+Wheeler Disclosed the Substance of the Quotes to Fox 5 DC Before Fox News
+and Zimmerman Published the Story
+
+On May 15, 2017, Wheeler spoke with local Fox 5 DC on camera regarding the Rich
+investigation. (Original Compl. ¶ 773; Ex. 13.) Plaintiff alleges that Wheeler “made sure not to
+confirm as fact the proposition that Seth Rich sent emails to Wikileaks.” (Original Compl. ¶ 77.)
+Plaintiff again fails to provide the full context of his interaction. When he spoke with the Fox 5
+DC reporter, Marina Marraco, Wheeler made several statements that previewed and confirmed his
+approval of the substance of the Fox News quotes at the center of this dispute.4 (Ex. 7.) Indeed,
+Wheeler described political impediments to the Seth Rich murder investigation:
+The police department nor the FBI have been forthcoming. They haven’t been
+cooperating at all. I believe that the answer to solving his death lies on that
+computer, which I believe is either at the police department or either at the FBI. I
+have been told both.
+He also confirmed that he had an independent source linking Seth Rich to Wikileaks:
+3
+
+As will be discussed in greater detail infra, Plaintiff has engaged in a substantial amount of
+window dressing in the Amended Complaint, omitting some allegations (such as the Fox DC
+interview which undermines his entire case) and adding some others. Through sloppy
+draftsmanship in the original sanctionable Complaint and omissions in the Amended Complaint,
+Plaintiff cannot wish away facts.
+4
+Available at http://www.fox5dc.com/news/local-news/254852337-story (last visited November
+28, 2017).
+5
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 13 of 39
+
+Marraco: “You have sources at the FBI saying that there is information…”
+Wheeler: “For sure.”
+Marraco: “…that could link Seth Rich to Wikileaks?”
+Wheeler: “Absolutely. That’s confirmed.”
+Wheeler then implicated the DNC as interfering with the Seth Rich murder investigation, and said
+that information would come out in the Fox News story:
+Actually, I have a source inside the police department that has looked at me straight
+in the eye and said, ‘Rod, we were told to stand down on this case and I can’t share
+any information with you.’ Now, that is highly unusual for a murder investigation,
+especially from a police department . . . . I do believe there is a correlation between
+the mayor’s office and the DNC and that is the information that will come out
+tomorrow. (Ex. 7.)
+Following his disclosure to Fox 5 DC, Wheeler backtracked on his comments and said it
+was a “miscommunication”. (Ex. 7.) Fox 5 DC then posted both the verbatim exchange and a
+video on its website revealing Wheeler’s comments. (Ex. 7.)
+As alleged in the Amended Complaint, Zimmerman and Fox News published the article,
+sent to Wheeler the day before, on May 16. (AC at ¶ 126.) The Amended Complaint alleges that
+the article misattributed the following quotes to Wheeler:
+“My investigation up to this point shows there was some degree of email exchange
+between Seth Rich and Wikileaks.”
+“My investigation shows someone within the DC government, Democratic National
+Committee or Clinton team is blocking the murder investigation from going forward.
+That is unfortunate. Seth Rich’s murder is unsolved as a result of that.”
+(Id. at ¶¶ 129-130.)
+After the article was published, on May 16, Wheeler appeared on Fox News with Sean
+Hannity. (AC at ¶ 142.) Despite referencing this appearance, the Amended Complaint fails to
+provide any facts related to Wheeler’s comments on the show. On Hannity, Wheeler confirmed
+his belief in a connection between Rich and Wikileaks and the DNC’s involvement in the criminal
+
+6
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 14 of 39
+
+investigation:
+Now, where did this information come from in terms of knowing or believing I
+should say that Seth Rich could have been in communications with Wikileaks?
+There was a federal investigator that was involved on the inside of the case, a person
+that’s very credible...this person, we checked him out, very credible, he said he laid
+eyes on the computer and he laid eyes on the case file …When you look at that with
+the totality of everything else I have found in this case, it’s very consistent for a
+person with my experience to begin to think well perhaps there were some email
+communications between Seth and Wikileaks....Guess what I learned yesterday
+from the family of Seth Rich, the police department did not call me back because
+someone, a high-ranking official at the DNC . . . got that information and called the
+Rich family, wanting to know why was I snooping around.5
+On May 17, 2017, The New York Times published an article titled, “How the Murder of a
+D.N.C. Staff Member Fueled Conspiracy Theories.” (Original Compl. at ¶ 104.) The Complaint
+cites the article as evidence of the fact that “[f]ollowing the publication of Zimmerman’s article
+and precisely because of the defamatory statements therein” (emphasis added) Wheeler’s
+reputation was harmed. (AC at ¶ 164.) The Times piece, however, does not reference Ms.
+Zimmerman’s article or the allegedly defamatory quotes at issue; rather, the Times cites the
+materially similar exchange Wheeler had with the Fox 5 DC reporter published on the local
+affiliate’s website the day before. (Ex. 8.) Similarly, the Complaint cites to an MSNBC story and
+a GQ article, both of which refer to Wheeler’s initial interaction with the local affiliate, not
+Zimmerman’s article for Fox News. The Washington Post article, cited by the Complaint refers to
+both the local affiliate and Fox News stories as sources of Wheeler’s claims. (AC at ¶ 106.)
+On May 22, 2017, Wheeler issued a statement, saying that he still believes in a connection
+between Seth Rich’s murder and his employment with the DNC, and that the Fox News story, at
+the center of this case, “was essentially correct.” (Ex. 9.) (emphasis added). On May 23, 2017,
+Wheeler appeared on Fetch Your News, a conservative radio show, on which he confirmed, “I
+5
+
+Available at http://video.foxnews.com/v/5437207289001/?#sp=show-clips (last visited
+November 28, 2017)
+7
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 15 of 39
+
+thought it was so important for the people that are watching this know exactly what’s going on.”
+He then continued: “I can’t go into details because the cease and desist letter (from the Rich family)
+but let me just say this, I do believe that his death, his murder, is related in some kind of way to
+his job (with the DNC), or to the relationships at his job (with the DNC) . . . And I also feel that I
+was getting very close to identifying a motive in this case, and as soon as I got very close, that’s
+when I got stopped.”6 A few days later, on or about May 29, 2017, on radio show Crowdsource
+the Truth Interview, Wheeler insisted, “I haven’t walked back anything. As a matter of fact . . . I
+said then in my statement in writing that I do believe that there was some communication between
+Seth and Wikileaks. And I believe that based on common sense first of all…and from information
+we’re getting from various sources.”7
+E.
+
+Wheeler Reported His Disapproval of the Attribution After Publication
+
+Following publication of the story, and certain television appearances about his
+investigation, including a CNN appearance not included in the Amended Complaint during which
+Wheeler is questioned about the credibility of his claims, Wheeler notified Zimmerman and
+Butowsky about his disapproval of the quotes. (AC at ¶ 183). The Amended Complaint alleges
+that Zimmerman told Wheeler that she would remove the quotes from the article. (Id. at ¶ 140.)
+The Amended Complaint also claims, in an incomplete and misleading description of an
+interaction with Zimmerman, that Zimmerman acknowledged that the information about “the
+connection to Wikileaks” did not come from Wheeler. (Id. at ¶ 146.) The Amended Complaint
+does not assert that Zimmerman acknowledged that Wheeler never made the statement, however.
+
+6
+
+Available at https://www.youtube.com/watch?v=qcwTF-ObV_g (last visited November 28,
+2017).
+7
+Available at https://www.youtube.com/watch?v=yDI0AFOHuNI (last visited November 28,
+2017).
+8
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 16 of 39
+
+(Id.) The Amended Complaint also alleges that Butowsky responded to Wheeler’s claims that he
+never made the statements, by stating, “[O]ne day you’re going to win an award for having said
+those things you didn’t say.” (Id.)
+F.
+
+The Amended Complaint Alleges That Butowsky Further Defamed Wheeler
+Via Twitter
+
+Plaintiff further alleges that he was defamed by Defendant in two posts on Twitter by
+Butowsky on June 26, 2017. (AC ¶ 175-76.) The Amended Complaint alleges that Butowsky
+tweeted “Fox News story was pulled b/c Rod Wheeler said [he] didn’t say a quote . . . How much
+did DNC pay him?” (Id. at ¶ 175.) Then, on the same day, Butowsky allegedly posted: “This
+shows Rod Wheeler has a major battle with the truth. Everyone needs to hear this. He says the
+precise words he swears he didn’t say ???” (Id. at ¶ 179.)
+G.
+
+The Amended Complaint Is Merely Window Dressing And A Transparent
+Attempt To Further Smear Mr. Butowsky Where Plaintiff’s Claims Are
+Wholly Devoid Of Factual And Legal Merit
+
+The Amended Complaint pretends to, as a qualitative matter, be a different pleading
+(such that it can survive this motion—it cannot) than the original sanctionable pleading filed by
+Defendant. As to Mr. Butowsky, however, the AC is merely window dressing, adding
+superfluous, irrelevant allegations that do not have any bearing on the merit of Plaintiff’s claims.
+Plaintiff attempts to save allegations that have been, at inception, in search of a viable legal
+theory, all fail. And they’re mostly histrionics, in any event.
+For instance, in paragraph 5 of the Amended Complaint, Plaintiff offers a diatribe with a
+litany of names and entities that are completely irrelevant to the defamation allegations in the AC.
+We read: “Donald Trump,” “Hillary Clinton,” “Sean Spicer,” “Steve Bannon,” “Breitbart.com,”
+“Bill Clinton”, another mention of Hillary Clinton, another mention of Bannon and Breitbart, even
+
+9
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 17 of 39
+
+more Breitbart, and an allegation that Mr. Butowsky called Bannon “a friend and a very nice man.”
+(AC at ¶ 5.) One wonders in vain how the mention of any of these names or topics is in any way
+whatsoever relevant to the legal allegations of defamation. One also wonders how calling Steve
+Bannon a “nice man” lends any substance to the legal allegations of defamation.
+
+Plaintiff has
+
+amended his pleading to try to smear the Defendant—to what end is unclear.
+Paragraphs 44-56 all contain new jurisdictional allegations apparently asserting that this
+Court has personal jurisdiction over Mr. Butowsky. But these paragraphs are littered with legally
+untenable facts that do not give come close to giving rise to jurisdiction of this Court. According
+to the jurisdictional allegations, Mr. Butowsky “transacts business”8 in New York because he has
+“clients” there. (AC at ¶ 44.) For some unknown reason, in paragraph 48 of the AC, Plaintiff lists
+all the times Defendant has appeared on Fox News, as if this somehow gives rise to jurisdiction
+(as explained in greater detail below, it does not). It’s relevant, according to Plaintiff, that Mr.
+Butowsky appears on other networks that are based in New York. (AC at ¶ 50.) “Butowsky also
+regularly speaks on radio shows broadcast around the country, including in New York . . . .” (AC
+at ¶ 51.) So impliedly (if not almost explicitly), Plaintiff asserts that Mr. Butowsky is subject to
+personal jurisdiction in every single state in the nation. That is obviously not the law and also is
+absurd.
+In sum and substance, Plaintiff’s Amended Complaint is nothing at its core but
+essentially a mirror image of his original sanctionable Complaint, with minor, cosmetic additions
+and alterations to the facts. The Amended Complaint is equally as frivolous as the original one,
+and Mr. Butowsky should be awarded his attorneys’ fees and costs in connection with litigating
+this motion. The motion should be granted in its entirety.
+8
+
+This is actually a legal term which is employed by Plaintiff in conclusory fashion—a legal
+conclusion.
+10
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 18 of 39
+
+STANDARD OF REVIEW
+To survive a motion to dismiss under Federal Rule of Civil Procedure 12(b)(6), the
+complaint “must meet a plausibility standard.” Mortimer Off Shore Servs. v. Fed. Republic of
+Germany, 615 F.3d 97, 114 (2d Cir. 2010). Although courts accept as true the complaint’s
+allegations, “[t]hreadbare recitals of the elements of a cause action, supported by mere conclusory
+statements, do not suffice.” Ashcroft v. Iqbal, 129 S. Ct. 1937, 1949 (2009).
+Plaintiff bears the burden of establishing that this Court has jurisdiction. Universal Trading
+& Inv. Co. v. Credit Suisse (Guernsey) Ltd., 560 F. App’x 52, 54 (2d Cir. 2014). “In order to
+survive a motion to dismiss for lack of personal jurisdiction, a plaintiff must make a prima facie
+showing that jurisdiction exists.” Thomas v. Ashcroft, 470 F.3d 491, 495 (2d Cir. 2006). Such a
+showing entails making “legally sufficient allegations of jurisdiction,” including “an averment of
+facts that, if credited[,] would suffice to establish jurisdiction over the defendant.” In re Magnetic
+Audiotape Antitrust Litig., 334 F.3d 204, 206 (2d Cir. 2003). (internal quotation marks omitted).
+Federal courts apply the personal jurisdiction rules of the forum state, see Fort Knox Music, Inc.
+v. Baptiste, 203 F.3d 193, 196 (2d. Cir. 2000), provided that those rules are consistent with the
+requirements of Due Process. See Metro. Life Ins. Co. v. Roberston-Ceco Corp., 84 F.3d 560, 567
+(2d Cir. 1996).
+On a motion to dismiss, the Court is entitled to look outside the pleadings in appropriate
+circumstances. Faulkner v. Beer, 463 F.3d 130, 134 (2d Cir. 2006). The Court may consider any
+documents “plaintiffs either possessed or knew about and upon which they relied in bringing the
+suit.” Stratte-Mcclure v. Stanley, 776 F.3d 94, 100 (2d Cir. 2015) (quoting Rothman v. Gregor,
+220 F.3d 81, 88 (2d Cir. 2000)). “[T]he court may [also] consider documents outside those
+previously referenced, including when the documents are only ‘partially quoted in [the] complaint
+
+11
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 19 of 39
+
+. . .; integral to [the] complaint . . .; [or] relied upon . . . in drafting the complaint . . . .’” Rosario
+v. Anson, No. 12-CV-1506 (GLS/CFH), 2013 U.S. Dist. LEXIS 133797, at *10-11 (N.D.N.Y. Aug.
+26, 2013) (quoting Faulkner, 463 F.3d at 134). Indeed, the court is entitled to consider “documents
+or information contained in defendant's motion papers if plaintiff has knowledge or possession of
+the material and relied on it in framing the complaint . . . and facts of which judicial notice may be
+properly taken under [Federal Rule of Evidence 201].” Weiss v. Inc. Vill. of Sag Harbor, 762 F.
+Supp. 2d 560, 567 (E.D.N.Y. 2011). The court also may consider documents within the public
+domain on a Rule 12(b)(6) motion. Brodeur v. City of New York, No. 04-1859, 2005 U.S. Dist.
+LEXIS 10865, at *9-10 (E.D.N.Y. May 13, 2005).
+
+ARGUMENT
+I.
+
+THIS COURT LACKS PERSONAL JURISDICTION OVER DEFENDANT
+
+Mr. Butowsky is a Texas resident. (AC at ¶ 34.) (“Defendant Ed Butowsky resides in the
+state of Texas”); see also Declaration of Ed Butowsky. (ECF No. 37.) Nevertheless, Plaintiff
+has added 24 paragraphs about Mr. Butowsky’s connections to New York in an attempt to revive
+a sanctionable complaint, and convince this Court to assert jurisdiction over him. Plaintiff’s
+attempt fails at every turn.
+Plaintiff’s putative jurisdictional hook is that Mr. Butowsky “transacts substantial
+business in New York” (AC at ¶ 44), hoping to sweep him under the New York long-arm
+statute, N.Y.C.P.L.R. § 302(a). Plaintiff alleges a hodgepodge of theories, each of which do not
+withstand the most basic scrutiny. Plaintiff alleges, among other things, that Mr. Butowsky has
+New York clients and that he met with Fox News executives after the publication of the article
+in New York, not beforehand, in which he was not traveling in New York. The distinction does
+not even, matter, though, because Mr. Butowsky’s contacts with New York are so limited that
+
+12
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 20 of 39
+
+an assertion that this Court has general jurisdiction over him is frivolous.
+In order for New York to exercise jurisdiction, Plaintiff must establish that Butowsky’s
+suit-related conduct “create[s] a substantial connection with the forum state.” Walden v. Fiore,
+134 S. Ct. 1115, 1121 (2014). This “necessary relationship” must arise out of contacts that the
+“defendant himself” creates with New York. Id. The mere occurrence of plaintiff’s alleged injury
+in New York is not enough. Id.
+New York’s long-arm statute provides that a court may exercise personal jurisdiction over
+a non-domiciliary whose suit-related conduct falls within the pertinent section here: whether
+Defendant “transact[ed] business within the state . . .” or committed a tortious act within the state
+or without the state causing injuries within the state. N.Y.C.P.L.R. § 302(a).
+None of these sections plausibly apply to Wheeler’s defamation claims. New York allows
+for long-arm jurisdiction over defendants who “commit[] a tortious act within the state, except as
+to a cause of action for defamation.” N.Y.C.P.L.R. 302(a)(2) (emphasis added). New York courts
+have explained that the reasons for the exception are “to avoid unnecessary inhibitions on freedom
+of speech or the press” as “[t]hese important civil liberties are entitled to special protections.” Best
+Van Lines, Inc. v. Walker, 490 F.3d 239, 245 (2d Cir. 2007). Jurisdiction simply does not lie.
+A.
+
+Asserting Defamation On The Internet Does Not Give Rise To Jurisdiction
+
+Assertions that the article in question was published over the Internet gives rise to
+jurisdiction in New York over Mr. Butowsky, a Texas resident, do not hold any weight. New York
+law and Second Circuit precedent are crystal clear on this point.
+“New York courts construe ‘transacts any business within the state’ more narrowly in
+
+defamation cases than they do in the context of other sorts of litigation.” Fischer v. Stiglitz, No.
+15-CV-6266 (AJN), 2016 U.S. Dist. LEXIS 74842, at *15-16 (S.D.N.Y. June 8, 2016) (quoting
+
+13
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 21 of 39
+
+SPCA of Upstate New York, Inc. v. Am. Working Collie Ass'n (“SPCA”), 18 N.Y.3d 400, 963
+N.E.2d 1226, 1230, 940 N.Y.S.2d 525 (N.Y. 2012)) (in turn, quoting Best Van Lines, 490 F.3d at
+248). The Second Circuit quite recently noted that in the context of the New York statute, that
+one rational basis for excluding defamation actions against out-of-state defendants is “to avoid
+unnecessary inhibitions on freedom of speech" and that “[t]hese important civil liberties are
+entitled to special protections lest procedural burdens shackle them.” Friedman v. Bloomberg
+L.P., 871 F.3d 185, 193-94 (2d Cir. 2017) (quoting Best Van Lines, 490 F.3d at 245).
+Given this framework, it’s unsurprising courts universally have found Internet publication
+in New York to be a non-starter. For instance, in Hearst Corp. v. Goldberger, No. 96-3620, 1997
+U.S. Dist. LEXIS 2065, at *2 (S.D.N.Y. Feb. 26, 1997), the court explicitly found that
+[A] finding of personal jurisdiction in New York based on an
+Internet web site would mean that there would be nationwide
+(indeed, worldwide) personal jurisdiction over anyone and everyone
+who establishes an Internet web site. Such nationwide jurisdiction is
+not consistent with traditional personal jurisdiction case law nor
+acceptable to the Court as a matter of policy.
+Other courts are in solid agreement that—publication on the Internet does not mean that
+under traditional due process principles—this gives rise to purposeful availment with the forum
+state. As argued infra, Mr. Butowsky did not legally have a hand in publishing the article at issue,
+but even if he did, this would not be enough to confer jurisdiction over him in New York, a foreign
+state to him. Bensusan Restaurant Corp. v. King, 937 F. Supp. 295, 301 (S.D.N.Y. 1996)
+(defendant created website accessible nationwide and this court held that he had “ha[d] done
+nothing to purposefully avail himself of the benefits of New York.”); see also Weber v. Jolly
+Hotels, 977 F. Supp. 327, 333 (D.N.J. 1997) (agreeing with this Court’s decision in Hearst and
+finding that nationwide publication is not enough to confer personal jurisdiction on a foreign
+defendant); Smith v. Hobby Lobby Stores, Inc., 968 F. Supp. 1356 (W.D. Ark. 1997) (same).
+
+14
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 22 of 39
+
+New York law is clear on this point. As this Court put it, quoting the New York Court of
+Appeals, “[d]efamation on the internet is not a “transact[ion of] . . . business” in New York for the
+additional reason that such statements are “accessible in this state, . . . [but] equally accessible in
+any other jurisdiction.” Fischer, 2016 U.S. Dist. LEXIS 74842, at *15 (quoting SPCA, 963 N.E.2d
+at 1229).
+Accordingly, the fact that the article was published on the Internet does not lead to the
+conclusion that Mr. Butowsky purposefully availed himself of New York privileges such that he
+is subject to jurisdiction in this Court.
+B.
+
+Plaintiff’s Commercial Activities—Assuming, Arguendo, They Exist—Do Not
+Give Rise To Jurisdiction In New York
+
+Plaintiff broadly alleges that Mr. Butowsky’s business activities and visits to New York in
+connection with—both his personal employment and his being a former contributor to Fox News—
+render him subject to jurisdiction in New York. The argument is meritless under soundly
+established New York law.
+This Court explicitly rejected the same argument Plaintiff puts forward last year. As noted
+by the Court, “jurisdiction will only be found when a defendant does business in New York not
+occasionally or casually, but with a fair measure of permanence and continuity.”
+
+Id. at *9
+
+(emphasis added). Plaintiff does not allege this kind of continuity nor could he. In any event,
+Fischer rejected Plaintiff’s precise legal theory, as has the New York Court of Appeals and the
+Second Circuit.
+In Fischer, this Court squarely held that
+Defendants’ commercial activities, a limited portion of which
+occurred in New York, provided a financial motive for them to
+engage in defamation. Although Plaintiff attempts to use
+Defendants’ New York activities as a jurisdictional hook, there is
+nothing unique about the relationship between Defendants’ limited
+
+15
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 23 of 39
+
+business in New York and the alleged defamation under Plaintiff's
+financial motive theory. In other words, Defendants’ commercial
+activities in New York have no more “substantial [a] relationship”
+with the alleged defamation than their business interests in any other
+state . . . .”
+Id. at *20-21. Wheeler alleges precisely the same in the Amended Complaint. For instance, he
+alleges that frequently works with Fox News “through its headquarters” in New York (AC at ¶
+49), and that “Butowsky regularly and frequently works with producers and senior Fox executives
+who work out of Fox’s headquarters, 1211 Avenue of the Americas.” (Id.) Such allegations do
+not confer jurisdiction over Mr. Butowsky. As in Fischer, there is nothing “unique” about
+Butowsky’s relationship with New York that would suffice to confer jurisdiction.
+Other courts have rejected Wheeler’s “transacts business” argument as well. The Amended
+Complaint alleges that because Fox News is based in New York and Butowsky visited New York
+in connection with the publication of the article in question, there is personal jurisdiction. This
+argument should be rejected as it was by Judge Cogan recently in an analogous circumstance.
+Indeed, the court rejected the argument—similarly framed by Wheeler here—that because there
+was a contractual relationship between plaintiff and defendant, and defendant’s offices happened
+to be in New York jurisdiction lied.
+
+It did not. The case also rejects the argument that because
+
+the defendant’s offices happened to be in New York (i.e. Fox News), there was personal
+jurisdiction. See Trachtenberg v. FailedMessiah.com, 43 F. Supp. 3d 198, 204-05 (E.D.N.Y.
+2014). There, the court found that plaintiff’s “best candidate” for jurisdiction was the defendant’s
+contractual relationship with a New York-based company. Id. The court did not find jurisdiction.
+There, like here, “the fact that [defendant’s] offices happen to be located in New York” was a
+“merely coincidental nexus” that was not enough to confer jurisdiction, quoting the New York
+Court of Appeals for that holding. Id. (quoting Licci v. Lebanese Canadian Bank, 20 N.Y.3d 327,
+
+16
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 24 of 39
+
+340, 984 N.E.2d 893, 901, 960 N.Y.S.2d 695, 703 (2012)). Plaintiff’s argument that “Butowsky
+regularly comes to New York” (Am. Compl. ¶ 50) as a basis for jurisdiction is meritless under the
+law. In Mantello v. Hall, 947 F. Supp. 92 (S.D.N.Y. 1996), the court rejected general jurisdiction
+based on: “defendant’s connection [with another entity, here Fox] which was headquartered in
+New York”; “defendant’s regular and continual visits to New York . . . .”; “defendant’s dealings
+with New York business concerns . . . in furtherance of the business purpose in New York.”
+“Those activities do not constitute doing business.” Id. at 98 (emphasis added). Accord Freeplay
+Music, Inc. v. Cox Radio, Inc., No. 04-5238, 2005 U.S. Dist. LEXIS 12397, at *8-9 (S.D.N.Y. June
+22, 1995) (Lynch, J.) (Defendant did not have a “permanent or continuous presence in New York
+sufficient to justify a finding of general jurisdiction.”). Butowsky simply does not “transact
+business” in New York.
+Courts in this Circuit are in solid agreement that merely visiting New York does not suffice
+to confer jurisdiction. “The Defendants’ occasional trips to New York – Brenner estimates an
+average of four to five visits per year – are an insufficient basis for jurisdiction.” Jacobs v. Felix
+Bloch Erben Verlag fur Buhne Film und Funk KG, 160 F. Supp. 2d 722, 733 (S.D.N.Y. 2001)
+(citing Bozell Group, Inc. v. Carpet Co-op of America Assoc., Inc., No. 00 Civ 1248, 2000 U.S.
+Dist. LEXIS 15088, 2000 WL 1523282, at *5 (S.D.N.Y. Oct. 11, 2000)) (two visits in three months
+insufficient); Hoffritz for Cutlery, Inc. v. Amajac, Ltd., 763 F.2d 55, 57-58 (2d Cir. 1985) (fiftyfour visits to New York insufficient).
+Finally, in yet another baseless attempt to have this Court assert jurisdiction over Mr.
+Butowsky, Plaintiff argues that he “has clients that reside in New York, and for purposes of his
+private consulting, [he] consults with and retains the services of financial experts who reside and
+work out of New York, New York. (AC at ¶ 44.) As with Wheeler’s other jurisdictional premises,
+
+17
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 25 of 39
+
+this one fails, too. “The fact that . . . a[] . . . client resides in New York does not mean that the
+[defendant] transacts business in New York.” Epstein v. Thompson, No. 09 Civ. 8696 (HB), 2010
+U.S. Dist. LEXIS 82000, at *8 (S.D.N.Y. Aug. 11, 2010) (citing Mayes v. Leipziger, 674 F.2d 178
+(2d Cir. 1982)).
+Simply stated, the fact that Plaintiff alleges that Mr. Butowsky has clients in New York is
+a non-starter for purposes of personal jurisdiction.
+*
+
+*
+
+*
+
+As made plain in Defendant’s first motion to dismiss, his Rule 11 motion, and now yet
+again, Mr. Butowsky, a Texas resident with limited ties to this forum, does not transact
+business—much less substantially—in this state. Jurisdiction does not lie over Mr. Butowsky in
+the State of New York. For that reason alone, the motion to dismiss should be granted.
+
+II.
+A.
+
+PLAINTIFF FAILS TO PLEAD DEFAMATION AS TO MR. BUTOWSKY
+Maryland Law Governs All The Claims In This Action
+
+In diversity cases, this Court must look to the conflict-of-law rules in the forum state,
+which is New York, “and under New York law, the law of the jurisdiction having the greatest
+interest in the litigation applies.” Merrill Lynch, Pierce, Fenner & Smith Inc. v. Savino, No. 06868, 2007 U.S. Dist. LEXIS 23126, at *20 (S.D.N.Y. Mar. 23, 2007). In defamation actions,
+“New York assumes that the state of the plaintiff’s domicile will usually have the most
+significant interest in the case and that its law therefore should govern.” Id. at *20-21 (quoting
+Lee v. Bankers Trust Co., 166 F.3d 540, 545 (2d Cir. 1999)). The presumptive rule in cases
+where statements are published over the Internet, is that “the law of plaintiff’s domicile applies.”
+Broadspring, Inc. v. Congoo, LLC, No. 13-1866, 2014 U.S. Dist. LEXIS 116070, at *17
+(S.D.N.Y. Aug. 20, 2014) (“In such cases, there is a presumptive rule that the law of the
+plaintiff’s domicile applies.”). Accordingly, the law of Maryland, the state where Plaintiff is
+18
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 26 of 39
+
+domiciled (AC at ¶ 34), governs this case.9
+B.
+
+Defamation Under Maryland Law
+
+A defamatory statement is one which “tends to expose a person to public scorn, hatred,
+contempt or ridicule, thereby discouraging others in the community from having a good opinion
+of, or associating with, that person.” Indep. Newspapers, Inc. v. Brodie, 407 Md. 415, 441 (2007)
+(citing Offen v. Brenner, 402 Md. 191, 198-99 (2007)). To state a claim for defamation under
+Maryland law, a plaintiff must plead: “(1) that the defendant made a defamatory statement to a
+third person, (2) that the statement was false, (3) that the defendant was legally at fault in making
+the statement, and (4) that the plaintiff thereby suffered harm.” Russell v. Railey, No. 08-2468,
+2012 U.S. Dist. LEXIS 49370, at *9 (D. Md. April 9, 2012).
+A plaintiff may allege that a statement that is defamatory per se or per quod, meaning by
+insinuation. M & S Furniture Sales. Co. v. Edward J. DeBartola Corp., 241 A.2d 126,127-28
+(Md. 1968). In order to establish defamation per se, the alleged defamatory words must “impute
+the defamatory character per se, no innuendo—no allegation or proof of extrinsic facts—is
+necessary.” Indep Newspapers, 407 Md. at 441. Further, “[a] defamation actionable by itself
+(i.e., per se) needs no explanation. Its injurious character is a fact of common knowledge.”
+Wineholt v. Westinghouse Electric Corp., 59 Md. App. 443, 446 (1984) (internal quotations
+omitted). In other words, the character of the defamatory statements must be intrinsically
+harmful—claims inherently injurious to reputation. See, e.g., S. Volkswagen, Inc. v. Centrix Fin.,
+LLC, 357 F. Supp. 2d 837, 842 (D. Md. 2005) (finding defamation per se where defendant told a
+
+9
+
+This is not only the law of this Circuit; it is the law universally and has been black letter law for
+decades. RESTATEMENT (SECOND) CONFLICT OF LAWS § 150(2) (1971) (“[T]he state of most
+significant relationship will usually be the state where the person was domiciled at the time . . .
+.”).
+19
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 27 of 39
+
+third party that plaintiff was a fraud).
+Plaintiff alleges that two quotes attributed to him in an article written by defendant
+Zimmerman and published by Fox were not “said by him” and therefore, constitute defamation
+per se as to Butowsky based on his knowledge and support of Zimmerman. (AC at ¶ 3.) Plaintiff
+also alleges defamation per se with regard to two Twitter messages posted by Butowsky. The
+first message, a question, asks how much the DNC paid “him” to claim he did not make the
+statements attributed to him in the Fox News story. The second message asserted that Wheeler
+has a “major battle with the truth” in the context of Wheeler backtracking from statements he
+claimed were not made by him in the Fox News story.
+Plaintiff plainly fails to satisfy the elements for pleading defamation per se against Mr.
+Butowsky as to the two allegedly misattributed quotes and the two twitter statements.
+C.
+
+Plaintiff Fails To Allege That Butowsky Made The Allegedly Misattributed
+Quotes
+
+The first element for a defamation claim requires proof that Butowsky made the alleged
+defamatory statement. Plaintiff’s defamation claim is based, primarily, on the misattribution of
+two quotes “fabricated” by Zimmerman and published by Fox News. Wheeler does not allege,
+anywhere in his Complaint, that Butowsky had any specific role in sourcing, drafting, fact
+checking or publishing the quotes in question. Plaintiff’s failure to state that Butowsky was
+specifically involved in fabricating the allegedly misattributed quotes is fatal to his claim. See
+Treppel v. Biovail Corp., No. 03-3002, 2005 U.S. Dist. LEXIS 18511, at *11 (S.D.N.Y. Aug. 30,
+2005). (“[A] defamation claim cannot survive without an allegation that defendants participated
+in the creation or the publication of the statements at issue.”).
+The Amended Complaint alleges generally that Butowsky was involved in Wheeler’s
+investigation and encouraged Zimmerman’s publication of the Fox News story, but those
+
+20
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 28 of 39
+
+allegations are not sufficient to support a claim for defamation concerning the misattribution of
+Wheeler’s quotes. Indeed, the sole basis for Wheeler’s defamation claim against Butowsky is
+the allegation in Paragraph 3 of his Amended Complaint that “Zimmerman, working with
+Butowsky and under the supervision of her editors at Fox, fabricated two quotations and
+attributed them to Mr. Wheeler.” (AC at ¶ 3.) That single, bare allegation of Butowsky’s
+knowledge and support of Zimmerman’s alleged defamation is clearly an insufficient basis for
+asserting that Butowsky “made a defamatory statement.” See Williams v. Hicks, No. 0694, 2015
+Md. App. LEXIS 1143 at *5-8 (App. July 20, 2015) (holding that an individual cannot be held
+liable for defamation where that individual inspired or encouraged others to publish a defamatory
+account). Accordingly, Wheeler’s Amended Complaint does not plausibly allege defamation
+claims against Butowsky for the allegedly misattributed quotes that were published by Fox
+News.
+D.
+
+Plaintiff Consented To The Publication Of The Alleged Defamatory
+Quotations And Consent Is An Absolute Defense to Defamation under
+Maryland Law
+
+Plaintiff’s defamation claims must be dismissed because Plaintiff, on multiple occasions,
+consented to the publication of the substance of the two alleged defamatory quotations. Indeed,
+Wheeler’s Complaint and supporting references expressly -- albeit partially -- cite (1) email
+communications with Zimmerman, which in their full context, show that Wheeler approved the
+draft article and quotes, and (2) on camera statements to a local Fox 5 DC affiliate, in which
+Wheeler, ahead of Zimmerman’s publication, made and published the same statements he alleges
+were misattributed to him by Zimmerman. Those communications establish Wheeler’s consent
+to publication as a matter of law and, thus, post an absolute bar to his claims against Mr.
+Butowsky.
+
+21
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 29 of 39
+
+Under Maryland law, consent is an absolute defense to a defamation claim.10 See MCI
+Communs. Servs. v. Am. Infrastructure-MD, Inc., No. 11-3767, 2013 U.S. Dist. LEXIS 113061
+at *45 (D. Md. 2013) (“Consent is the willingness in fact for conduct to occur, which can be
+manifested by action or inaction and need not be communicated to the actor.”) (internal
+quotations and citations omitted). One who invites publication of allegedly defamatory
+statement cannot complain of the resulting injury. See Ziemkiewicz, 996 F. Supp. 2d at 398.
+The Amended Complaint alleges that “on May 15, 2017, Zimmerman informed Mr.
+Wheeler that she would be publishing her story imminently,” and the “story was published the
+following morning with the false quotations from Mr. Wheeler that were clearly fabricated.”
+(AC at ¶ 23.) Wheeler’s Complaint also details how, on the evening of May 15, 2017, he
+provided Zimmerman with quotes in writing. (AC at ¶¶ 120.)
+Wheeler’s Amended Complaint does not provide the actual text of his communications
+with Zimmerman, but, as noted supra, the text of those communications reveals that, on at least
+three separate occasions, Zimmerman sent Wheeler emails containing drafts of the article, with
+the precise quotations she published the following day. Wheeler confirms in text messages to
+Zimmerman, during these interactions, that he was “reading [the story] now” and “just read your
+email,” after being emailed the story. In one of those text messages, he actually added language
+to one of the quotes in the story that Zimmerman included verbatim. Thus, Plaintiff not only
+knew about and consented to the two alleged defamatory quotes, but the communications he
+partially described in his Complaint show that he was an active participant in their publication.
+Wheeler’s Amended Complaint also refers to, describes, and characterizes the contents of
+an on camera interview with a Fox 5 DC affiliate, on the evening of May 15, 2017, prior to
+10
+
+New York law also recognizes consent as a complete defense for a defamation claim. See
+Mandelblatt v. Perelman, 683 F. Supp. 379, 383 (S.D.N.Y. 1988)
+22
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 30 of 39
+
+Zimmerman’s publication, to support his claim that the substance of that interview was
+materially different than the substance of the allegedly misattributed quotes. (AC at ¶ 122.) It’s
+not different. In his interview with the local affiliate, Wheeler said he had sources at the FBI
+saying that there is information that could link Seth Rich to WikiLeaks. His allegedly
+misattributed quote similarly says, “My investigation up to this point shows there was some
+degree of email exchange between Seth Rich and Wikileaks.” Thus, his prior publication (on
+camera) of a substantially identical quote to Zimmerman’s published quote confirmed his
+consent to Zimmerman’s publication the following day.
+Indeed, in Wheeler’s Amended Complaint, Section XIII, entitled “MR. WHEELER’S
+REPUTATION IS DESTROYED BY DEFENDANTS’ DECISION TO DEFAME HIM, Mr.
+Wheeler cites articles and comments that, he asserts, demonstrate that Zimmerman’s article
+destroyed his reputation. However, contrary to Wheeler’s representations, each of the cited
+articles references his earlier published comments to the Fox 5 DC affiliate. (AC at ¶ 166.) The
+Times article described Mr. Wheeler’s “shifting and contradictory accounts” in reference only to
+his interview with the Fox 5 DC affiliate, not the Zimmerman article. Similarly, the GQ article,
+the Washington Post article, and the MSNBC article each refer to the Fox 5 DC piece in
+describing Wheeler’s conclusions about his investigation into the murder of Seth Rich.
+Wheeler’s Amended Complaint also alleges that Defendants damaged his reputation
+because people accused him of backtracking (AC at ¶ 167); however, people accused Wheeler of
+backtracking, first and foremost, from the statements he made to the Fox 5 DC affiliate: “What
+he told FOX 5 DC on camera Monday regarding Seth Rich’s murder investigation is in clear
+contrast to what he has said over the last 48 hours. Rod Wheeler has since backtracked.”11
+Available at: http://www.fox5dc.com/news/local-news/private-investigator-there-is-evidenceseth-rich-contacted-wikileaks-prior-to-death (last visited November 29, 2017).
+11
+
+23
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 31 of 39
+
+Thus, Wheeler’s own on-camera statements to the Fox 5 DC affiliate, published prior to
+Zimmerman’s article, showed that he adopted and approved the substance of Zimmerman’s
+quotes and, indeed, the reputational damage he cites in his complaint stems from his own
+statements. Accordingly, Wheeler’s Complaint is absolutely barred under Maryland law.
+E.
+
+Plaintiff Does Not Plausibly Allege Defamation As The Quotations At Issue
+Are Not False
+1.
+
+Wheeler Doesn’t Allege That Zimmerman’s Quotes Are Materially False
+
+It is black-letter law that non-substantive inaccuracies in quotations do not constitute
+defamation. See AIDS Counseling & Testing Ctrs. v. Grp. W Television, Inc., 903 F.2d 1000,
+1004 (4th Cir. 1990) (holding that [i]f the gist or ‘sting’ of a statement is substantially true,
+“minor inaccuracies will not give rise to a defamation claim.”) (internal citations omitted)).
+“[Wheeler] cannot recover for inadvertent, careless or even negligent alterations of his quotes.”
+Masson v. New York Magazine, 895 F.2d 1535, 1548 (9th Cir. 1989) (Kozinski, J., dissenting),
+rev’d, 501 U.S. 496 (even a “deliberate alteration of a plaintiff’s words does not equate with
+knowledge of falsity for purposes of New York Times v. Sullivan . . . .”).
+Critically, Wheeler’s Complaint does not allege what, specifically, is false about the two
+allegedly misattributed quotations. The Complaint merely states that Wheeler did not “provide”
+or “make” the statements. A close review of what is articulated by Mr. Wheeler, however,
+shows that the quotes are essentially correct. He now takes exception to the quote, “My
+investigation up to this point shows there was some degree of email exchange between Seth Rich
+and Wikileaks,” based on the phrase “[m]y investigation up to this point shows.” Apparently,
+Wheeler’s claim is that the statements he made and conclusions he reached regarding Seth Rich,
+Wikileaks, the D.C. government, the DNC and the Clinton team, were not based on evidence he
+had reviewed personally, but on information he had learned from other sources; thus, the
+24
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 32 of 39
+
+inclusion of the phrase “[m]y investigation shows” constitutes defamation.
+Notably, Wheeler made essentially the same statement for a Fox 5 DC affiliate television
+camera, prior to the publication of Zimmerman’s story. The Complaint cites that exchange
+without revealing his actual statements, in which he claimed that he had sources at the FBI
+linking Seth Rich to WikiLeaks. That is materially the same statement he gave Fox News. Any
+claimed inconsequential difference between Wheeler’s Fox 5 DC statement and Zimmerman’s
+quotes cannot serve as the basis for a defamation claim. See Southwell v. Southern Poverty Law
+Ctr., 949 F. Supp. 1303 (W.D. Mich. 1996) (no defamation claim without “significant legal
+difference between the statement plaintiff is recorded as having said and the inaccurate quotation
+in defendant’s article.”); Graphic Scanning Corp. v. Time Inc., No. 82-4760, 1982 U.S. Dist.
+LEXIS 16076, at *8 (S.D.N.Y. Nov. 10, 1982) (“Misquotation alone does not give rise to a cause
+of action for defamation.”).
+Paragraph 104 of Wheeler’s Amended Complaint also demonstrates the inconsequential
+difference between Zimmerman’s quotes and Wheeler’s own television statements for the Fox 5
+DC affiliate. Every article cited in Wheeler’s Amended Complaint as demonstrating harm to his
+reputation from the misattribution of quotes in the Zimmerman article, actually references
+Wheeler backtracking from his on-camera Fox 5 DC affiliate appearance. (AC at ¶ 166.)
+Wheeler also repeatedly confirmed the substance of the quotes he claims were falsely attributed
+to him in media appearances following Zimmerman’s publication. On May 16, 2017, he
+appeared on Fox News with Sean Hannity and confirmed his belief in a connection between Seth
+Rich and Wikileaks and the DNC’s involvement in the criminal investigation.12 On May 22,
+2017, Wheeler issued a statement, saying that he still believed in a connection between Seth
+12
+
+Also available at http://video.foxnews.com/v/5437207289001/?#sp=show-clips (last visited
+November 29, 2017)
+25
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 33 of 39
+
+Rich’s murder and his employment with the DNC, and that the Fox News story at issue in this
+Complaint, “was essentially correct.” Ex. 9. (emphasis added)
+Given the public statements by Wheeler, well after the Zimmerman article, standing by
+the substance of his conclusions that there was a link between Seth Rich and WikiLeaks and the
+D.N.C. or the D.C. Government or the Clinton campaign and a cover up of Rich’s murder,
+Plaintiff’s claims are not actionable as defamation - the Complaint, on its face, does not come
+close to alleging any sort of falsity.
+2.
+
+Wheeler’s Two Twitter Messages Aren’t False Because They Are
+Expressions Of Critical Opinion
+
+Plaintiff also alleges defamation per se regarding two Twitter messages from Butowsky,
+which are, at most, expressions of critical analysis and opinion. Plaintiff fails to provide the
+context surrounding those two tweets. That context shows, however, that Butowsky retweeted
+another Twitter user, a SiriusXM Patriot channel host, who posted audio of Rod Wheeler
+discussing his investigation (in June 2016, well after publication of the Fox News article):
+it kind of makes sense in a way because with everybody pushing back on
+this email thing, in the family, and they’re so protective of the email . . . it
+leads me to think that perhaps there were some communications between
+Seth Rich and WikiLeaks.
+Butowsky posted two Twitter messages in response. His first message says, “This shows
+Rod Wheeler has a major battle with the truth. Everyone needs to hear this. He says the precise
+words he swears he didn’t say ???” Butowsky’s message provided his opinion and criticism of
+Rod Wheeler, not a factual statement, and, moreover, pointed listeners to the source of his
+conclusions, so that “Everyone” could listen for themselves. His second message, “Fox News
+story was pulled b/c Rod Wheeler said [he] didn’t say a quote . . . How much did DNC pay
+him?” The first part of the quote is true and admitted by Wheeler. The second part is a sarcastic
+
+26
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 34 of 39
+
+question, aimed at critiquing Wheeler for retracting his quote and then making essentially the
+same statement about the existence of emails between Seth Rich and Wikileaks one month later.
+These types of Twitter opinions are not false statements that are actionable in defamation. See
+Jacobus v. Trump, 51 N.Y.S.3d 330, 336 (N.Y. Sup. Ct. 2017) (holding that “[l]oose, figurative
+or hyperbolic statements . . . are not actionable” with respect to allegedly defamatory statements
+made on Twitter).
+F.
+
+Plaintiff Is A Public Figure And Has Not Plausibly Alleged Actual Malice
+
+Plaintiff fails to sufficiently plead actual malice, as is required for a limited purpose
+public figure such as Wheeler to survive a motion to dismiss a defamation claim.
+1.
+
+Wheeler Is A Limited Purpose Public Figure
+
+A four-prong test establishes whether Wheeler is a limited purpose public figure.
+Wheeler is a public figure for defamation purposes if he: “successfully invited public attention to
+his views in an effort to influence others prior to the incident that is the subject of litigation;
+voluntarily injected himself into a public controversy related to the subject of the litigation;
+assumed a position of prominence in the public controversy; and maintained regular and
+continuing access to the media. Biro v. Conde Nast, 963 F. Supp. 2d 255, 270 (S.D.N.Y. 2013)
+(“Biro I”), aff’d, 807 F.3d 541 (2d Cir. 2015) (“Biro II”), cert. denied, 136 S. Ct. 2015 (2016).
+All four prongs are met here, requiring Plaintiff to plead actual malice. Plaintiff “invited
+public attention to his views” on the subject of the litigation by “voluntarily inject[ing]” himself
+into the public controversy over the murder of Seth Rich and his possible connection to
+WikiLeaks. Indeed, Plaintiff took “affirmative steps” to attract public attention. See James v.
+Gannett Co., 353 N.E.2d 834, 840 (N.Y. 1976). He “assumed a position of prominence” in the
+controversy by making various media appearances, and in his Amended Complaint admits that
+
+27
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 35 of 39
+
+he “made regular appearances on Fox programs to discuss local and national stories.” (AC at ¶
+6.) (emphasis added). As such, he also “maintained regular and continuing access to the media.”
+Biro I, 963 F. Supp. 2d at 270.
+2.
+
+Plaintiff Has Failed to Plausibly Plead Actual Malice
+
+Plaintiff has not come close to plausibly alleging actual malice with specificity. As the
+Supreme Court recognized in Masson v. New Yorker Magazine, 501 U.S. 496 (1991), a strict
+scienter standard is required for defamation cases in connection with misquotations, which
+requires “deliberate or reckless” falsification. Id. at 499 (emphasis added). The Masson court
+expressly held that “deliberate alteration of the words uttered by plaintiff does not equate with
+knowledge of falsity . . . .” Id. at 517 (emphasis added). In Biro I, this Court held that
+allegations of actual malice must be plead plausibly in accord with Twombly and Iqbal. Biro I,
+963 F. Supp. 2d at 278. Indeed, the plausibility paradigm has a “particular value” in the
+defamation context as prevents defamation defendants from incurring unnecessary costs that can
+“chill the exercise of constitutionally protected freedoms.” Id. at 279 (internal quotation marks
+and citation omitted).
+Wheeler’s Amended Complaint does not plausibly allege scienter on the part of
+Defendant. Plaintiff’s allegations that Defendant and Zimmerman were “interested in advancing
+a political agenda” (AC at ¶ 9) is simply not grounded in the factual record given that
+Zimmerman repeatedly sought Wheeler’s approval of drafts that contained the allegedly
+misattributed quotes prior to publication. Indeed, Zimmerman pleaded with Wheeler to “please
+read [the story] carefully” and “can you read the story now.” In both instances, as well as others,
+she had sent him the story with the quotes. Wheeler himself added to one of the quotes, and
+provided additional information for the story related to the involvement of certain DNC officials.
+
+28
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 36 of 39
+
+It is implausible that Butowsky’s “knowledge and support” of Zimmerman’s extensive and
+diligent efforts to obtain Wheeler’s approval could be indicative of reckless disregard for the
+truth.
+Moreover, Mr. Butowsky’s Twitter messages, which provide critical commentary about
+audio of Wheeler, and simultaneously direct people to judge for themselves, cannot plausibly be
+alleged to be made with reckless disregard for the truth. If anything, it shows Mr. Butowsky’s
+intent to bring the truth about Wheeler to light. Put simply, Wheeler has not and, indeed, cannot
+allege actual malice as to Mr. Butowsky.
+G.
+
+Plaintiff Does Not Plausibly Allege Defamation Per Se
+
+Plaintiff’s defamation per se claims should be dismissed because the two allegedly
+misattributed quotes and Twitter message are not so obviously injurious as to relieve Wheeler of
+his burden of pleading or proving actual damages. To establish defamation per se, the alleged
+defamatory words must “impute the defamatory character per se, no innuendo—no allegation or
+proof of extrinsic facts—is necessary.” Indep Newspapers, 407 Md. at 441. Further, “[a]
+defamation actionable by itself (i.e., per se) needs no explanation. Its injurious character is a fact
+of common knowledge.” Wineholt v. Westinghouse Elec. Corp., 59 Md. App. 443, 446 (1984)
+Here, the alleged misattribution of two quotes is not inherently injurious to the Plaintiff
+The quotes do not inherently impute anything about Plaintiff’s business reputation or state
+anything about Plaintiff’s criminality or moral turpitude. In fact, the two statements are entirely
+neutral—they express that Plaintiff merely had an opinion on a matter of public concern.
+Because the two alleged misattributed quotes are not injurious on their face, Plaintiff’s claim for
+defamation per se must be dismissed. See Indep. Newspapers, Inc., 407 Md. at 441 (“Where
+extrinsic facts must be shown in order to establish the defamatory character of the words sued
+
+29
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 37 of 39
+
+upon, the omission to plead them makes the complaint demurrable for failure to state a cause of
+action.”) (internal quotations and citations omitted).
+Plaintiff also alleges defamation per se with regard to two Twitter messages from
+Butowsky, which, do not, on their face, impute criminality or moral turpitude to Wheeler.
+Moreover, Wheeler’s Complaint does not provide the context of the surrounding twitter chain,
+which shows that Butowsky was merely retweeting and commenting on another twitter user’s
+message about audio of Rod Wheeler from June 2016. Mr. Butowsky’s responses were
+expressions of critical opinion that simultaneously encouraged “Everyone” to review the audio
+tape for themselves. Anyone who accepted Mr. Butowsky’s invitation could have reached their
+own opinion about the audiotape. They could have compared his audiotape to the retracted
+statements to make their own assessment about whether Wheeler’s reputation as a private
+investigator is credible. That type of message from Mr. Butowsky is not so inherently injurious
+to Wheeler that it removes his burden of proving actual damages—this is not defamation per
+se.13
+CONCLUSION
+For the foregoing reasons, Defendant’s motion to dismiss pursuant to Fed. R. Civ. P.
+12(b)(2) and 12(b)(6) should be granted in its entirety.
+13
+
+Defendant has demonstrated at length why the two alleged misattributions are not defamatory.
+Plaintiff’s claim for “libel per quod” (Count III) fails for the same reasons as his defamation per
+se claim in the main fails. This is because the distinction between defamation per se and per
+quod is really an “evidentiary requirement.” Indep. Newspapers, 407 Md. at 441. Per quod
+claims are brought where a plaintiff relies on extrinsic facts rather than the injurious nature of the
+words themselves (per se). Critically, per quod claims “require[] proof of special damages . . .
+they must be specially pleaded, and they must be proved by competent evidence.” Hanks v.
+Wavy Broad, LLC, No. 11-439, 2012 U.S. Dist. LEXIS 15729, at *36-37 (E.D. Va. Feb. 7, 2012)
+(quoting 50 Am. Jr. 2d, Libel and Slander § 145). Plaintiff has failed to plead special damages;
+indeed, he alleges that he was harmed in the same fashion as he was by the alleged defamation
+per se. Compare AC ¶ 196 with AC ¶ 244 (claiming the same damages using nearly identical
+language).
+30
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 38 of 39
+
+SPIRO HARRISON
+s/ David B. Harrison
+David B. Harrison
+Jason C. Spiro
+Jeffrey A. Shooman
+830 Morris Turnpike – 2nd Floor
+Short Hills, NJ 07078
+Tel.: 973-232-0881
+dharrison@spiroharrison.com
+jspiro@spiroharrison.com
+jshooman@spiroharrison.com
+
+31
+
+Case 1:17-cv-05807-GBD Document 79 Filed 12/01/17 Page 39 of 39
+
+CERTIFICATE OF SERVICE
+On December 1, 2017, I caused a copy of Defendant Ed Butowsky’s Motion to Dismiss
+the Amended Complaint pursuant to Federal Rule of Civil Procedure 12(b)(6) and 12(b)(2) to be
+served on all counsel of record via CM/ECF.
+
+Dated: December 1, 2017
+
+s/ David B. Harrison
+David B. Harrison
+
+

@@ -1,0 +1,2469 @@
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 1 of 74 PageID #: 1883
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF DELAWARE
+DAVID JACOBS and GARY HINDES, on
+behalf of themselves and all others similarly
+situated, and derivatively on behalf of the
+Federal National Mortgage Association and
+Federal Home Loan Mortgage Corporation,
+
+Civil Action No.: 15-708-GMS
+
+Plaintiffs,
+v.
+THE FEDERAL HOUSING FINANCE
+AGENCY, in its capacity as Conservator of
+the Federal National Mortgage Association
+and the Federal Home Loan Mortgage
+Corporation, and THE UNITED STATES
+DEPARTMENT OF THE TREASURY,
+
+CLASS ACTION
+
+Defendants,
+JURY TRIAL DEMANDED
+and
+THE FEDERAL NATIONAL MORTGAGE
+ASSOCIATION and THE FEDERAL HOME
+LOAN MORTGAGE CORPORATION,
+Nominal Defendants.
+PLAINTIFFS’ BRIEF IN OPPOSITION TO
+DEFENDANTS’ MOTIONS TO DISMISS THE FIRST AMENDED COMPLAINT
+POTTER ANDERSON & CORROON LLP
+Myron T. Steele (DE Bar No. 000002)
+Michael A. Pittenger (DE Bar No. 3212)
+Christopher N. Kelly (DE Bar No. 5717)
+Alan R. Silverstein (DE Bar No. 5066)
+1313 North Market Street, 6th Floor
+Wilmington, DE 19801
+(302) 984-6000
+msteele@potteranderson.com
+mpittenger@potteranderson.com
+ckelly@potteranderson.com
+asilverstein@potteranderson.com
+Dated: June 16, 2017
+
+Attorneys for Plaintiffs
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 2 of 74 PageID #: 1884
+
+TABLE OF CONTENTS
+NATURE AND STAGE OF PROCEEDINGS ...............................................................................1
+SUMMARY OF THE ARGUMENT ..............................................................................................2
+STATEMENT OF FACTS ..............................................................................................................4
+A.
+
+The Companies ........................................................................................................4
+
+B.
+
+Despite Being “Adequately Capitalized” And “Safe And Sound,” FHFA
+Places The Companies Into Conservatorship ..........................................................6
+
+C.
+
+The Companies Return To Profitability, But FHFA And Treasury Seize
+All Of Their Net Worth In Perpetuity Through The Net Worth Sweep ..................9
+
+ARGUMENT .................................................................................................................................13
+A.
+
+Legal Standards ......................................................................................................13
+
+B.
+
+Plaintiffs Have Stated Claims Under Delaware And Virginia Law ......................14
+1.
+
+Neither Federal Law Nor The Certificates Of Designation
+Preempt Or Conflict With Delaware Or Virginia Corporate
+Law ............................................................................................................14
+
+2.
+
+The Net Worth Sweep Is Void And Unenforceable ..................................22
+
+C.
+
+Plaintiffs’ Claims Against Treasury Are Not Barred By Sovereign
+Immunity ................................................................................................................27
+
+D.
+
+Plaintiffs’ Claims Are Not Barred By HERA ........................................................32
+1.
+
+Plaintiffs’ Claims Are Not Barred By Section 4617(f) of HERA .............33
+a.
+
+Section 4617(f) Does Not Bar Plaintiffs’ Claims for Equitable
+Relief Against FHFA .....................................................................33
+i.
+
+Section 4617(f) Does Not Insulate Conduct That
+Exceeds or Contravenes FHFA’s Authority Under
+HERA.................................................................................33
+
+ii.
+
+The Net Worth Sweep Exceeds and Contravenes
+FHFA’s Authority Under HERA. ......................................36
+
+i
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 3 of 74 PageID #: 1885
+
+iii.
+
+b.
+
+2.
+
+E.
+
+FHFA’s Asserted Statutory Authorizations for the Net
+Worth Sweep All Lack Merit. ...........................................40
+
+Section 4617(f) Does Not Bar Plaintiffs’ Claims for Relief
+Against Treasury. ...........................................................................44
+
+HERA’s Succession Clause Does Not Bar Stockholders From
+Prosecuting Claims During The Conservatorships. ...................................45
+a.
+
+Plaintiffs Have Stated Direct Claims For Relief ............................45
+
+b.
+
+HERA’s Succession Clause Does Not Strip Plaintiffs Of
+Their Rights In The Companies’ Stock .........................................50
+i.
+
+Plaintiffs Have Standing To Prosecute Direct Claims
+Based On Their Ownership Of Company Stock ................51
+
+ii.
+
+Plaintiffs Would Have Standing To Prosecute
+Derivative Claims Because FHFA Has A Manifest
+Conflict of Interest .............................................................52
+
+Plaintiffs’ Claims Are Not Barred By The Doctrine Of Issue Preclusion .............55
+
+CONCLUSION ..............................................................................................................................60
+
+ii
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 4 of 74 PageID #: 1886
+
+TABLE OF AUTHORITIES
+CASES
+Page(s)
+Allen v. El Paso Pipeline GP Co., LLC,
+90 A.3d 1097 (Del. Ch. 2014)..................................................................................................38
+America’s Cmty. Bankers v. FDIC,
+200 F.3d 822 (D.C. Cir. 2000) ...........................................................................................29, 30
+Anspach v. City of Phila.,
+503 F.3d 256 (3d Cir. 2007).....................................................................................................22
+Arizona v. Inter Tribal Council of Ariz., Inc.,
+133 S. Ct. 2247 (2013) .............................................................................................................15
+Ark. Game & Fish Comm’n v. United States,
+133 S. Ct. 511 (2012) ...............................................................................................................51
+Ashcroft v. Iqbal,
+556 U.S. 662 (2009) ........................................................................................................... 13-14
+B&B Hardware, Inc. v. Hargis Indus., Inc.,
+135 S. Ct. 1293 (2015) .............................................................................................................56
+Bank of Manhattan, NA v. FDIC,
+778 F.3d 1133 (9th Cir. 2015) ...............................................................................34, 37, 38, 39
+Barnes v. Harris,
+783 F.3d 1185 (10th Cir. 2015) ...............................................................................................51
+Bartlett v. Bowen,
+816 F.2d 695 (D.C. Cir. 1987) .................................................................................................52
+Battaglia v. General Motors Corp.,
+169 F.2d 254 (2d Cir. 1948).....................................................................................................52
+Beamon v. Brown,
+125 F.3d 965 (6th Cir. 1997) .............................................................................................27, 29
+Bell Atlantic Corp. v. Twombly,
+550 U.S. 544 (2007) .................................................................................................................13
+Blair v. Wal-Mart Stores Inc.,
+2004 WL 2283560 (D. Del. Sept. 30, 2004) ............................................................................13
+
+iii
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 5 of 74 PageID #: 1887
+
+Blue Chip Capital Fund II Ltd. P’ship v. Tubergen,
+906 A.2d 827 (Del. Ch. 2006)..................................................................................................47
+Boilermakers Local 154 Ret. Fund v. Chevron Corp.,
+73 A.3d 934 (Del. Ch. 2013)..............................................................................................16, 38
+Bowen v. Massachusetts,
+487 U.S. 879 (1988) .....................................................................................................27, 29, 30
+Bowen v. Michigan Acad. of Family Physicians,
+476 U.S. 667 (1986) ...........................................................................................................33, 52
+Bragdon v. Abbott,
+525 U.S. 624 (1998) .................................................................................................................55
+Brown v. Scott County Tobacco Warehouses,
+1983 WL 489237 (Va. Cir. Ct. Feb. 22, 1983) ........................................................................21
+Burnside-Ott Aviation Training Ctr., Inc. v. United States,
+985 F.2d 1574 (Fed. Cir. 1993)................................................................................................32
+Cal. State Teachers’ Ret. Sys. v. Alvarez,
+2017 WL 239364 (Del. Jan. 18, 2017).....................................................................................58
+Centaur Partners, IV v. Nat’l Intergroup, Inc.,
+582 A.2d 923 (Del. 1990) ........................................................................................................16
+City of Arlington v. FCC,
+133 S. Ct. 1863 (2013) .............................................................................................................35
+City of Houston v. HUD,
+24 F.3d 1421 (D.C. Cir. 1994) .................................................................................................32
+CMS Inv. Holdings, LLC v. Castle,
+2015 WL 3894021 (Del. Ch. June 23, 2015) ...........................................................................49
+Cnty. of Sonoma v. FHFA,
+710 F.3d 987 (9th Cir. 2013) ...................................................................................................33
+Cobell v. Kempthorne,
+569 F. Supp. 2d 223 (D.D.C. 2008) .........................................................................................28
+Coit Independence Joint Venture v. Fed. Sav. & Loan Ins. Corp.,
+489 U.S. 561 (1989) .................................................................................................................42
+Cottrell v. Duke,
+737 F.3d 1238 (8th Cir. 2013) .................................................................................................58
+
+iv
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 6 of 74 PageID #: 1888
+
+Credit Lyonnais Bank Nederland, N.V. v. Pathe Commc’ns Corp.,
+1991 WL 277613 (Del. Ch. Dec. 30, 1991) .............................................................................21
+Cunningham v. R.R. Ret. Bd.,
+392 F.3d 567 (3d Cir. 2004)............................................................................................... 53-54
+Dawyot v. Catawba Capital Mgmt., Inc.,
+82 Va. Cir. 521 (2011) .............................................................................................................25
+DeLeon-Ochoa v. Att’y Gen.,
+622 F.3d 341 (3d Cir. 2010).....................................................................................................53
+Delta Sav. Bank v. United States,
+265 F.3d 1017 (9th Cir. 2001) ...........................................................................................53, 55
+Dep’t of Army v. Blue Fox, Inc.,
+525 U.S. 255 (1999) ...........................................................................................................29, 31
+Drewry, Hughes Co. v. Throckmorton,
+92 S.E. 818 (Va. 1917).............................................................................................................25
+Eastport S.S. Corp. v. United States,
+372 F.2d 1002 (Fed. Ct. Cl. 1967) ...........................................................................................31
+El Paso Pipeline GP Co., L.L.C. v. Brinckerhoff,
+152 A.3d 1248 (Del. 2016) ......................................................................................................50
+English v. Gen. Elec. Co.,
+496 U.S. 72 (1990) ...................................................................................................................15
+Esther Sadowsky Test. Trust v. Syron,
+639 F. Supp. 2d 347 (S.D.N.Y. 2009)......................................................................................53
+Fink v. Phelps,
+2010 WL 2104233 (D. Del. May 25, 2010) .............................................................................54
+Firestone v. Wiley,
+485 F. Supp. 2d 694 (E.D. Va. 2007) ......................................................................................38
+First Hartford Corp. Pension Plan & Trust v. United States,
+194 F.3d 1279 (Fed. Cir. 1999)..........................................................................................53, 55
+Fleischer v. FDIC,
+70 F. Supp. 2d 1238 (D. Kan. 1999) ........................................................................................37
+Freeman v. FDIC,
+56 F.3d 1394 (D.C. Cir. 1995) .................................................................................................34
+
+v
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 7 of 74 PageID #: 1889
+
+Gade v. Nat’l Solid Wastes Mgmt. Ass’n,
+505 U.S. 88 (1992) ...................................................................................................................15
+Gale v. Bershad,
+1998 WL 118022 (Del. Ch. Mar. 4, 1998)...............................................................................47
+Gatz v. Ponsoldt,
+925 A.2d 1265 (Del. 2007) ......................................................................................................46
+Gentile v. Rossette,
+906 A.2d 91 (Del. 2006) ..........................................................................................................48
+Gosnell v. FDIC,
+1991 WL 533637 (W.D.N.Y. Feb. 4, 1991) ............................................................................44
+Gradient OC Master, Ltd. v. NBC Universal, Inc.,
+930 A.2d 104 (Del. Ch. 2007)..................................................................................................48
+Gross v. Bell Sav. Bank PaSA,
+974 F.2d 403 (3d Cir. 1992)......................................................................................... 34-35, 40
+Guenther v. Pacific Telecom, Inc.,
+123 F.R.D. 341 (D. Or. 1987) ..................................................................................................60
+Hansberry v. Lee,
+311 U.S. 32 (1940) ...................................................................................................................57
+Harris v. Pernsley,
+755 F.2d 338 (3d Cir. 1985).....................................................................................................57
+Howard Hess Dental Labs. Inc. v. Dentsply Int’l, Inc.,
+602 F.3d 237 (3d Cir. 2010).....................................................................................................56
+In re Activision Blizzard, Inc. S’holder Litig.,
+124 A.3d 1025 (Del. Ch. 2015)................................................................................................46
+In re Beach First Nat’l Bancshares, Inc.,
+702 F.3d 772 (4th Cir. 2012) ...................................................................................................51
+In re Ezcorp Inc. Consulting Agreement Deriv. Litig.,
+130 A.3d 934 (Del. Ch. 2016)..................................................................................................59
+In re Fed. Home Loan Mortg. Corp. Deriv. Litig.,
+643 F. Supp. 2d 790 (E.D. Va. 2009) ......................................................................................53
+In re Fisker Auto. Holdings, Inc. S’holder Litig.,
+2015 WL 6039690 (D. Del. Oct. 15, 2015) .............................................................................14
+
+vi
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 8 of 74 PageID #: 1890
+
+In re Hechinger Inv. Co. of Delaware,
+274 B.R. 71 (D. Del. 2002) ......................................................................................................14
+In re Maxxam, Inc.,
+659 A.2d 760 (Del. Ch. 1995)..................................................................................................21
+In re Tri-Star Pictures, Inc. Litig.,
+634 A.2d 319 (Del. 1993) ............................................................................................47, 48, 50
+Johnson v. Johnson & Briggs, Inc.,
+122 S.E. 100 (Va. 1924)...........................................................................................................25
+Kain v. Angle,
+69 S.E. 355, 357 (Va. 1910).....................................................................................................25
+Kaplan v. Block,
+31 S.E.2d 893 (Va. 1944).........................................................................................................20
+Kaplan v. Peat, Marwick, Mitchell & Co.,
+540 A.2d 726 (Del. 1988) ........................................................................................................58
+King v. Burwell,
+135 S. Ct. 2480 (2015) .............................................................................................................42
+Klang v. Smith’s Food & Drug Ctrs., Inc.,
+702 A.2d 150 (Del. 1997) .................................................................................................. 25-26
+Koster v. (American) Lumbermens Mut. Cas. Co.,
+330 U.S. 518 (1947) .................................................................................................................58
+Lee v. Va. Educ. Ass’n, Inc.,
+2 Va. Cir. 319 (1969) ...............................................................................................................38
+Leon Cnty. v. FHFA,
+700 F.3d 1273 (11th Cir. 2012) ...............................................................................................33
+Levin v. Miller,
+763 F.3d 667 (7th Cir. 2014) ...................................................................................................51
+Lockerty v. Phillips,
+319 U.S. 182 (1943) .................................................................................................................52
+Louisiana v. Weinberger,
+369 F. Supp. 856 (E.D. La. 1973) ............................................................................................31
+Lovett v. United States,
+66 F. Supp. 142 (Fed. Ct. Cl. 1945) .........................................................................................31
+
+vii
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 9 of 74 PageID #: 1891
+
+Lubin v. Skow,
+382 F. App’x 866 (11th Cir. 2010) ..........................................................................................51
+Maio v. Aetna, Inc.,
+221 F.3d 472 (3d Cir. 2000).....................................................................................................14
+Marshall v. Fredericksburg Lumber Co.,
+173 S.E. 553 (Va. 1934)...........................................................................................................21
+Medtronic, Inc. v. Lohr,
+518 U.S. 470 (1996) .................................................................................................................15
+Merrill Lynch, Pierce, Fenner & Smith Inc. v. Dabit,
+547 U.S. 71 (2006) ............................................................................................................. 54-55
+NAF Holdings, LLC v. Li & Fung (Trading) Ltd.,
+118 A.3d 175 (Del. 2015) .................................................................................................. 46-47
+Nat’l Fed’n of Indep. Bus. v. Sebelius,
+132 S. Ct. 2566 (2012) .............................................................................................................52
+Nationwide Mut. Fire Ins. Co. v. George V. Hamilton, Inc.,
+571 F.3d 299 (3d Cir. 2009).....................................................................................................60
+O’Melveny & Myers v. FDIC,
+512 U.S. 79 (1994) .......................................................................................................36, 37, 38
+OPM v. Richmond,
+496 U.S. 414 (1990) .................................................................................................................32
+Parsch v. Massey,
+2009 WL 7416040 (Va. Cir. Ct. Nov. 5, 2009) .......................................................................21
+Perry Capital v. Mnuchin,
+848 F.3d 1072 (D.C. Cir. 2017) ....................................................................................... passim
+Pirelli Armstrong Tire Corp. Retiree Med. Benefits Trust v. Raines,
+534 F.3d 779 (D.C. Cir. 2008) .................................................................................................37
+Porter v. Warner Holding Co.,
+328 U.S. 395 (1946) .................................................................................................................30
+Prod. Res. Grp., LLC v. NCT Grp., Inc.,
+863 A.2d 772 (Del. Ch. 2004)..................................................................................................21
+Quadrant Structured Prods. Co. v. Vertin,
+102 A.3d 155 (Del. Ch. 2014)..................................................................................................26
+
+viii
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 10 of 74 PageID #: 1892
+
+Reich v. Collins,
+513 U.S. 106 (1994) .................................................................................................................52
+Remora Invs., LLC v. Orr,
+673 S.E.2d 845 (Va. 2009).......................................................................................................45
+Reno v. Catholic Soc. Servs. Inc.,
+509 U.S. 43 (1993) ...................................................................................................................33
+Rice v. Santa Fe Elevator Corp.,
+331 U.S. 218 (1947) .................................................................................................................15
+Richards v. Jefferson Cnty.,
+517 U.S. 793 (1996) .................................................................................................................57
+Ridder v. City Fed Fin. Corp.,
+47 F.3d 85 (3d Cir. 1995).........................................................................................................37
+Rosa v. Resolution Trust Corporation,
+938 F.2d 383 (3d Cir. 1991).....................................................................................................40
+Sharpe v. FDIC,
+126 F.3d 1147 (9th Cir. 1997) .....................................................................................34, 37, 39
+Shintom Co., Ltd. v. Audiovox Corp.,
+888 A.2d 225 (Del. 2005) ........................................................................................................20
+Si Min Cen v. Attorney Gen.,
+825 F.3d 177 (3d Cir. 2016).....................................................................................................53
+Smith v. Bayer Corp.,
+564 U.S. 299 (2011) .....................................................................................................57, 58, 59
+Taylor v. Sturgell,
+553 U.S. 880 (2008) ...............................................................................................56, 57, 58, 59
+Thorpe v. CERBCO, INC.,
+1993 WL 443406 (Del. Ch. Oct. 29, 1993) .............................................................................21
+Tooley v. Donaldson, Lufkin & Jenrette, Inc.,
+845 A.2d 1031 (Del. 2004) .................................................................................... 45, 46, 49-50
+Town of Babylon v. FHFA,
+699 F.3d 221 (2d Cir. 2012).....................................................................................................33
+Treasurer of New Jersey v. U.S. Dep’t of Treasury,
+684 F.3d 382 (3rd Cir. 2012) .............................................................................................27, 28
+
+ix
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 11 of 74 PageID #: 1893
+
+Trudeau v. FTC,
+456 F.3d 178 (D.C. Cir. 2006) .................................................................................................28
+Trustees of Amalgamated Ins. Fund v. Sheldon Hall Clothing, Inc.,
+862 F.2d 1020 (3d Cir. 1988)...................................................................................................54
+U.S. Info. Agency v. Krc,
+989 F.2d 1211 (D.C. Cir. 1993) ...............................................................................................28
+U.S. Inspect Inc. v. McGreevy,
+2000 WL 33232337 (Va. Cir. Ct. Nov. 27, 2000) ...................................................................46
+United States v. ICC,
+337 U.S. 426 (1949) .................................................................................................................54
+United States v. Security Indus. Bank,
+459 U.S. 70 (1982) ...................................................................................................................42
+United States v. Testan,
+424 U.S. 392 (1976) ........................................................................................................... 31-32
+Ward v. Resolution Trust Corporation,
+996 F.2d 99 (5th Cir. 1993) .....................................................................................................40
+Webster v. Doe,
+486 U.S. 592 (1988) .................................................................................................................52
+Wetsel-Oviatt Lumber Co. v. United States,
+38 Fed. Cl. 563 (Fed. Ct. Cl. 1997)..........................................................................................31
+Wileman Bros. & Elliott, Inc. v. Espy,
+58 F.3d 1367 (9th Cir. 1995) ...................................................................................................30
+
+STATUTES
+Page(s)
+8 DEL. C. § 102 ..............................................................................................................................19
+8 DEL. C. § 104 ..............................................................................................................................19
+8 DEL. C. § 151 .................................................................................................................. 19, 22-24
+8 DEL. C. § 154 ..............................................................................................................................25
+8 DEL. C. § 158 ..............................................................................................................................19
+
+x
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 12 of 74 PageID #: 1894
+
+8 DEL. C. § 170 ..............................................................................................................................25
+5 U.S.C. § 702 ........................................................................................................................ passim
+12 U.S.C. § 1455 ....................................................................................................................6, 7, 22
+12 U.S.C. § 1718 ............................................................................................................................15
+12 U.S.C. § 1719 ....................................................................................................................6, 7, 22
+12 U.S.C. § 1723 ............................................................................................................................17
+12 U.S.C. § 1821 ............................................................................................... 34-35, 37, 40, 51-52
+12 U.S.C. § 4617 .................................................................................................................... passim
+VA. CODE § 13.1-638 ...................................................................................................15, 22, 24, 47
+
+RULES
+Page(s)
+
+FED. R. CIV. P. 12 ............................................................................................................... 13-14, 22
+FED. R. CIV. P. 23 ...............................................................................................................57, 58, 59
+FED. R. CIV. P. 23.1............................................................................................................57, 58, 59
+
+REGULATIONS
+Page(s)
+12 C.F.R. § 1237.5 .........................................................................................................................38
+12 C.F.R. § 1239.3 ...........................................................................................................................5
+12 C.F.R.§ 1710.10 ........................................................................................................ 5, 14, 16-18
+67 Fed. Reg. 38,361 .......................................................................................................................17
+67 Fed. Reg. 38,363 .......................................................................................................................18
+67 Fed. Reg. 38,364 .......................................................................................................................17
+
+xi
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 13 of 74 PageID #: 1895
+
+75 Fed. Reg. 39,462 .......................................................................................................................43
+75 Fed. Reg. 39,469 .......................................................................................................................43
+76 Fed. Reg. 35,730 .......................................................................................................................43
+
+OTHER AUTHORITIES
+Page(s)
+Black’s Law Dictionary (8th ed. 1999) ..........................................................................................23
+7 Charles Alan Wright & Arthur R. Miller, Federal Practice & Procedure
+§ 1840 (3d ed. 2016) ..........................................................................................................59, 60
+11 Fletcher Cyclopedia of the Law of Corporations § 5283 .........................................................23
+11 Fletcher Cyclopedia of the Law of Corporations § 5332 .........................................................24
+D. Dobbs, Law Of Remedies: Damages-Equity-Restitution
+§ 4.1(1) (2d. ed. 1993) .............................................................................................................29
+H.R. Rep. No. 94-1656 (1976).......................................................................................................28
+Mark E. Van Der Weide, Against Fiduciary Duties to Corporate Stakeholders, 21
+Del. J. Corp. L. 27 (1996) ........................................................................................................23
+
+xii
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 14 of 74 PageID #: 1896
+
+NATURE AND STAGE OF PROCEEDINGS
+On August 17, 2015, Plaintiffs David Jacobs and Gary Hindes, on behalf of themselves
+and all others similarly situated, and derivatively on behalf of Federal National Mortgage
+Association (“Fannie”) and Federal Home Loan Mortgage Corporation (“Freddie,” and, together
+with Fannie, the “Companies”), filed a Class Action and Derivative Complaint in this Court
+against Defendants Federal Housing Finance Agency (“FHFA”), in its capacity as conservator of
+the Companies, and United States Department of the Treasury (“Treasury”). On November 13,
+2015, FHFA and Treasury moved to dismiss the complaint and submitted opening briefs in
+support thereof (D.I. 17-20). The parties completed briefing on the motions to dismiss (D.I. 23,
+28, and 29) and submitted notices of subsequent authority (D.I. 36, 38, 55-60).
+Following a stay to allow the Judicial Panel on Multidistrict Litigation (“JPML”) to
+decide FHFA’s motion to transfer this case for coordination or consolidation with other cases
+relating to the Companies, Plaintiffs moved for leave to amend the complaint (D.I. 48). The
+Court granted Plaintiffs’ motion (D.I. 61) and, on March 16, 2017, Plaintiffs docketed their First
+Amended Class Action and Derivative Complaint (D.I. 62). On April 17, 2017, FHFA and
+Treasury each moved to dismiss the amended complaint and filed opening briefs in support
+thereof (D.I. 65-68) pursuant to a stipulated briefing schedule approved by the Court (D.I. 64).
+This is Plaintiffs’ opposition to Defendants’ motions to dismiss the amended complaint.
+SUMMARY OF THE ARGUMENT1
+This case concerns amendments to the constitutive documents of two publicly traded,
+stockholder-owned corporations to grant to their controlling stockholder all of their profits
+forever in return for no consideration. These amendments were called the “Net Worth Sweep.”
+1
+
+Capitalized terms not defined above are defined in the Statement of Facts or Argument.
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 15 of 74 PageID #: 1897
+
+In 2012, Fannie and Freddie were on the verge of earning hundreds of billions of dollars
+when FHFA, their conservator, and Treasury, the owner of their senior preferred stock and
+warrants for 80% of their common stock, implemented the Net Worth Sweep, pursuant to which
+Treasury took the Companies’ retained net worth and any and all profits the Companies earn
+each quarter from that point forward in perpetuity. Neither the Companies nor their private
+stockholders received any consideration in exchange for the Net Worth Sweep, which
+expropriates to the government all of the economic interests held by the Companies’ private
+stockholders and makes it impossible for the Companies to rebuild their capital reserves, exit
+conservatorship, and return to normal operations.
+As Defendants anticipated when they imposed the Net Worth Sweep, their scheme has
+been tremendously profitable for Treasury. Since the Net Worth Sweep was implemented, the
+Companies have paid Treasury more than $210 billion, or $130 billion more than Treasury
+would have received under the prior dividend terms. And, with the Companies’ respective next
+dividend payments, Treasury will have recouped over $80 billion more than it disbursed to the
+Companies. But these payments have not reduced the Companies’ obligation to Treasury under
+the senior preferred stock by even one dollar, and the Companies must continue to pay all of
+their net worth each quarter to Treasury in perpetuity. This action challenges the validity and
+enforceability of the Net Worth Sweep.
+There is no federal corporate law relevant to this case. The Companies’ chartering acts
+authorize their boards of directors to adopt bylaws relating to their business and affairs and the
+rights, powers, and duties of their directors, officers, employees, and stockholders. Related
+federal regulation mandates that each Company elect the law of the state in which its principal
+office is located, the Delaware General Corporation Law, or the Revised Model Business
+
+2
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 16 of 74 PageID #: 1898
+
+Corporation Act to apply for purposes of its corporate governance. Pursuant to those statutory
+charters and the applicable federal regulation, the Companies’ bylaws elect the corporate laws of
+Delaware (Fannie) and Virginia (Freddie) to govern their constitutive documents and internal
+affairs. HERA, the federal law pursuant to which FHFA and Treasury purported to act when
+placing the Companies in conservatorship and implementing the Net Worth Sweep, did not
+change that.
+Under Delaware and Virginia law, the Net Worth Sweep is an absurdity. Neither of those
+states’ corporate laws permits a corporation to contract away all of its net worth and profits for
+all time to a single preferred stockholder by way of an infinite, perpetual dividend. Because the
+Net Worth Sweep purports to do this, it violates these states’ corporate laws and is void and
+unenforceable, and Plaintiffs are entitled to the relief they have requested.
+The Court should reject FHFA’s and Treasury’s arguments and deny their motions to
+dismiss. First, contrary to Defendants’ contentions, Plaintiffs have stated claims under Delaware
+and Virginia law that the Net Worth Sweep is void and unenforceable and that Treasury has been
+unjustly enriched by the unlawful distributions it received as a result. Neither federal law nor the
+certificates of designation governing Treasury’s senior preferred stock preempt Delaware and
+Virginia law because the Companies’ chartering acts and HERA do not conflict with those
+states’ laws—in fact, the application of those states’ corporate laws is fully consistent with the
+Companies’ enabling legislation and HERA—and the certificates of designation cannot preempt
+state law because they are creatures of, and must comply with, state law.
+Second, Plaintiffs’ claims against Treasury are not barred by sovereign immunity because
+they fall squarely within the waiver of immunity under the APA for actions seeking relief other
+than money damages and alleging unlawful conduct by a federal agency, officer, or employee.
+
+3
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 17 of 74 PageID #: 1899
+
+This broad waiver of immunity applies to the state law claims here, and the restitutionary relief
+sought by Plaintiffs is not barred by the Appropriations Clause of the U.S. Constitution.
+Third, Defendants’ arguments that Plaintiffs’ claims are barred by HERA are wrong.
+While FHFA and Treasury repeatedly emphasize that HERA bars equitable relief that would
+“restrain or affect the exercise of powers or functions of [FHFA] as a conservator,” this
+restriction does not apply here because FHFA blatantly exceeded its conservatorship authority in
+implementing the Net Worth Sweep through the creation of a preferred stock dividend right that
+is void under applicable state law. Because HERA did not give FHFA authority to transgress
+the state law governing Fannie’s and Freddie’s operations, this suit challenging the Net Worth
+Sweep is not barred by HERA. FHFA’s and Treasury’s reliance on another provision of HERA,
+which provides that when FHFA took over as conservator it temporarily “succeed[ed] to . . . all
+rights, titles, powers, and privileges of . . . any stockholder . . . of [Fannie and Freddie] with
+respect to the [Companies] and the assets of the [Companies] . . . ,” similarly is misplaced. This
+provision does not affect direct claims, and all of Plaintiffs’ claims are direct. It also does not
+grant to FHFA the right to control derivative claims against itself and a sister federal agency.
+Finally, Plaintiffs’ claims are not barred by the doctrine of issue preclusion. That
+doctrine does not and cannot apply based on rulings against different stockholders in different
+cases involving different claims, and certainly not without violating Plaintiffs’ due process rights.
+STATEMENT OF FACTS
+A.
+
+The Companies
+Fannie and Freddie are for-profit, stockholder-owned corporations organized and existing
+
+under the Federal National Mortgage Association Charter Act and the Federal Home Loan
+Mortgage Corporation Act, respectively. Am. Compl. ¶ 30. Congress established Fannie in
+
+4
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 18 of 74 PageID #: 1900
+
+1938 as a federal agency to provide the mortgage market with supplemental liquidity, and
+converted it to a private corporation in 1968. Id. Congress created Freddie as an alternative to
+Fannie to make the secondary mortgage market more competitive and efficient. Id.
+The Companies’ enabling legislation and federal charters contemplate ownership by
+private stockholders. Id. ¶ 31. Until the imposition of the conservatorships (discussed below),
+the Companies’ businesses were self-sustaining, consistently profitable, and funded exclusively
+with private capital raised through the issuance of common stock and several series of preferred
+stock, including the stock that Plaintiffs and the other members of the Classes purchased. Id. ¶ 3.
+The Companies’ securities were considered safe investments, and the Companies regularly
+declared and paid dividends on their common and preferred stock. Id. ¶ 31. Despite the
+imposition of the conservatorships in 2008, the Companies continue to have private stockholders.
+Id. The conservatorships did not alter those stockholders’ ownership interests. Id.
+Federal regulation authorizes each of the Companies to designate “the law of the
+jurisdiction in which [its] principal office . . . is located, [or] . . . [the] Delaware General
+Corporation Law” for purposes of its corporate governance practices and procedures. 12 C.F.R.
+§ 1710.10.2 Fannie has elected Delaware law to apply pursuant to Section 1.05 of its bylaws
+(Ex. A), which provides, in pertinent part, that “the corporation has elected to follow the
+applicable corporate governance practices and procedures of the Delaware General Corporation
+Law.” Am. Compl. ¶ 32. Freddie has elected the Virginia Stock Corporation Act to apply
+pursuant to Section 11.3 of its bylaws (Ex. B), which provides, in pertinent part, that “the
+2
+
+On November 19, 2015, FHFA promulgated new regulations applicable to the Companies that
+concern the state laws that govern their internal affairs. See 12 C.F.R. § 1239.3 (effective Dec.
+21, 2015). These new regulations do not have retroactive effect, and Defendants do not rely on
+them here. At any rate, they likewise authorize the Companies to select the DGCL or the law of
+their principal place of business for their corporate governance.
+
+5
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 19 of 74 PageID #: 1901
+
+Corporation shall follow the corporate governance practices and procedures of the law of the
+Commonwealth of Virginia, including without limitation the Virginia Stock Corporation Act as
+the same may be amended from time to time.” Id.
+B.
+
+Despite Being “Adequately Capitalized” And “Safe And Sound,” FHFA Places The
+Companies Into Conservatorship.
+Beginning in 2006, the global economy experienced a severe recession and the national
+
+economy suffered housing market and mortgage crises. Id. ¶ 33. Despite this turmoil, the
+Companies remained “adequately capitalized” and “safe and sound” according to high-ranking
+government officials. Id. ¶¶ 4, 33. Indeed, Fannie’s and Freddie’s assets exceeded their
+liabilities by $50 billion as of July 2008. Id. ¶ 35. Thus, when Congress enacted the Housing
+and Economic Recovery Act of 2008 (“HERA”) in July 2008, it did so to provide the mortgage
+and financial markets with added confidence, not because the Companies were insolvent or
+operating unsafely. Id. ¶¶ 4, 34.
+HERA created FHFA to replace the Office of Federal Housing Oversight (“OFHEO”) as
+the Companies’ regulator and authorized FHFA to appoint itself as conservator or receiver of the
+Companies in certain specified circumstances. Id. ¶ 4. In addition, HERA granted Treasury
+limited, temporary authority to purchase securities from the Companies. Id. ¶ 34. HERA left in
+place the federal charters of the Companies and did not repeal or modify the provisions of their
+bylaws specifying that Delaware and Virginia law govern their internal affairs. Id. ¶ 4.
+Congress did not authorize Treasury to nationalize the Companies, for in exercising its authority
+HERA expressly required Treasury to consider “the need to maintain [Fannie’s and Freddie’s]
+status as . . . private shareholder-owned compan[ies]” and their “plan for the orderly resumption
+of private market funding or capital market access,” 12 U.S.C. §§ 1455(l)(1)(C), 1719(g)(1)(C);
+see also Am. Compl. ¶¶ 34-35.
+
+6
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 20 of 74 PageID #: 1902
+
+On September 6, 2008, five weeks after HERA was signed into law, FHFA placed the
+Companies under conservatorship and appointed itself as conservator. Am. Compl. ¶ 35. FHFA
+stated at the time that the conservatorships would be terminated once the Companies had been
+restored to a safe and solvent condition. Id. ¶ 35. FHFA publicly emphasized that the purpose of
+the conservatorships was, as clearly prescribed by HERA, to rehabilitate Fannie and Freddie,
+return them to a safe and sound financial condition, and then release them from conservatorship.
+See id.; Statement of James B. Lockhart, Director, FHFA, at 5–6 (Sept. 7, 2008) (Ex. C). Thus,
+FHFA only would “act as the conservator to operate [the Companies] until they are stabilized.”
+Ex. C at 6. FHFA described its powers as conservator to be those specified in HERA, explaining
+that “[t]he purpose of appointing the Conservator is to preserve and conserve the Compan[ies’]
+assets and property and to put the Compan[ies] in a sound and solvent condition.” FHFA FACT
+SHEET, QUESTIONS AND ANSWERS ON CONSERVATORSHIP at 2 (Sept. 7, 2008) (Ex. D). FHFA
+repeatedly emphasized that, as required by HERA, Fannie and Freddie would remain “private
+shareholder-owned compan[ies]” during conservatorship, see 12 U.S.C. §§ 1455(l)(1)(C)(v),
+1719(g)(1)(C)(v), and that their common and preferred stockholders would retain an economic
+interest in the Companies. See Am. Compl. ¶ 35 (“the common and all preferred stocks [of the
+Companies] will continue to remain outstanding”); Ex. D at 3 (during the conservatorship, the
+Companies’ stockholders “will continue to retain all rights in the stock’s financial worth”).
+Finally, FHFA publicly vowed, in keeping with the requirements of HERA, that the
+conservatorships would be temporary. See Am. Compl. ¶ 35; Ex. D at 2 (“Upon the Director’s
+determination that the Conservator’s plan to restore the [Companies] to a safe and solvent
+
+7
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 21 of 74 PageID #: 1903
+
+condition has been completed successfully, the Director will issue an order terminating the
+conservatorship.”).3
+The day after the conservatorships were imposed, FHFA, acting as conservator for the
+Companies, and Treasury entered into two virtually identical senior preferred stock purchase
+agreements (the “PSPAs”),4 pursuant to which each of Fannie and Freddie created and issued a
+new series of preferred stock, the “Senior Preferred Stock.” Am. Compl. ¶ 36. The Senior
+Preferred Stock was created pursuant to two virtually identical Senior Preferred Stock
+Certificates of Designation (one each for Fannie and Freddie) (the “Certificates of Designation”)
+(Exs. M and N) that set forth the rights, powers and preferences of the Senior Preferred Stock.
+Id. Treasury purchased one million shares of each Company’s Senior Preferred Stock in
+exchange for a funding commitment that allowed each Company to draw up to $100 billion from
+Treasury (this cap was later increased in size by two subsequent amendments to the PSPAs, first
+to $200 billion each and then to an amount established by a formula that may be greater (but not
+less) than $200 billion each). Id. The one million shares of each Company’s Senior Preferred
+Stock have an aggregate liquidation preference equal to $1 billion ($1,000 per share) plus the
+sum of all additional amounts drawn by each Company on Treasury’s funding commitment. Id.
+The Senior Preferred Stock of each of the Companies ranks senior to all other classes and series
+of stock and initially entitled Treasury to receive a cumulative cash dividend of 10% of the
+outstanding liquidation preference (12% if the dividend were paid in kind). Id. ¶ 8. Absent the
+express consent of Treasury and FHFA, the Companies generally cannot redeem the Senior
+3
+
+A press release issued by FHFA the day after placing the Companies into conservatorship
+stated that, “as the conservator, FHFA will assume the power of the Board and management.”
+Am. Compl. ¶ 35. As conservator, FHFA has ultimate responsibility for, and control of, the
+affairs of Fannie and Freddie so long as the conservatorships continue. Id.
+4
+
+The PSPAs and their amendments are attached hereto as Exhibits E through L.
+
+8
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 22 of 74 PageID #: 1904
+
+Preferred Stock. Id. ¶ 36. Through the PSPAs, Fannie and Freddie each provided Treasury with
+warrants to purchase 79.9% of its common stock,5 and entered into covenants barring each
+Company from, among other things, making any changes to its capital structure, paying any
+dividends (other than to Treasury), or seeking to terminate FHFA’s conservatorship without
+Treasury’s approval (so long as the Senior Preferred Stock remained outstanding). Id.
+Soon after the commencement of the conservatorships, FHFA, as conservator, took two
+steps that required each Company to draw billions of dollars on Treasury’s funding commitment.
+Id. ¶ 12. First, FHFA declared that the Companies had suffered substantial non-cash accounting
+losses, including write-downs of the value of their tax assets and loss reserves. Id.; see also id.
+¶ 38. By 2012, it became clear that these projected losses had been overestimated by more than
+$100 billion and the associated accounting reserves would eventually have to be reversed. Id.
+¶ 38. Second, FHFA elected to have the Companies pay Treasury discretionary dividends on the
+Senior Preferred Stock in cash (rather than in kind), resulting in the Companies needing
+additional incremental capital to fund the cash dividend payments, which they obtained from
+Treasury pursuant to the funding commitment. Id. ¶ 12.
+C.
+
+The Companies Return To Profitability, But FHFA And Treasury Seize All Of
+Their Net Worth In Perpetuity Through The Net Worth Sweep.
+In early August 2012, due largely to rising housing prices and reductions in credit losses,
+
+the Companies reported significant income for the second quarter 2012, and neither required a
+draw from Treasury under the PSPAs. Am. Compl. ¶ 39; see also FHFA, Office of Inspector
+General, Analysis of the 2012 Amendments to the Senior Preferred Stock Purchase Agreements
+at 11 (Mar. 20, 2013) (Ex. O). In the first two quarters of 2012, the Companies posted profits
+5
+
+Thus, the very structure of the government’s investment in the Companies underscores that the
+publicly owned common and preferred stock remained outstanding and had value, because these
+warrants gave Treasury an economic upside when the Companies returned to profitability.
+
+9
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 23 of 74 PageID #: 1905
+
+totaling more than $11 billion, more than enough to pay a 10% dividend. Am. Compl. ¶ 39.6
+The return of Fannie and Freddie to profitability in 2012 led to a substantial increase in the
+trading prices of the Companies’ preferred stock. Id. ¶ 40.
+With the Companies’ return to profitability, their stockholders reasonably believed that
+the Fannie and Freddie would soon be healthy enough to exit conservatorship, as was consistent
+with the purpose of the conservatorships and as FHFA had vowed when the conservatorships
+were established. Id. ¶ 41. Treasury and FHFA, however, soon dashed those reasonable
+expectations. Id. ¶ 42. Indeed, unbeknownst to the public, the government had long been
+committed “to ensur[ing] existing common equity holders [would] not have access to any
+positive earnings from the [Companies] in the future.” Action Memorandum for Secretary
+Geithner (Dec. 20, 2010) (Ex. P). FHFA, at the direction of Treasury, executed a plan that
+would give Treasury, and no other stockholders of the Companies, the benefit of this renewed
+profitability in the form of cash payments, all without ever reducing the amount of Treasury’s
+liquidation preference. Am. Compl. ¶ 15; see also id. ¶¶ 42-49. The government called the plan
+the “Net Worth Sweep.” Id. ¶ 15.
+In August 2012, just days after Fannie and Freddie announced their earnings for the
+second quarter, FHFA entered into a third amendment of each of the Amended and Restated
+Senior Preferred Stock Purchase Agreements (the “Third Amendment”) and agreed to amend the
+Certificates of Designation setting forth the terms of the Fannie and Freddie Senior Preferred
+Stock. Id. These amendments changed the preferred dividend on Treasury’s Senior Preferred
+6
+
+See also Press Release, Fannie Mae, Second Quarter 2012 Results (Aug. 8, 2012); Press
+Release, Freddie Mac, Second Quarter 2012 Results (Aug. 7, 2012). For the full year 2012,
+Fannie earned $17.2 billion in profits and Freddie earned $11 billion in profits. Am. Compl.
+¶ 39. The Companies became even more profitable in 2013 ($84 billion and $51.6 billion,
+respectively) and remained profitable in 2014 ($14.2 billion and $9.4 billion, respectively). Id.
+
+10
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 24 of 74 PageID #: 1906
+
+Stock from one payable at a 10% cash (and 12% in-kind) rate to a perpetual quarterly “dividend”
+equal to the entire positive net worth of each of Fannie and Freddie. Id.; see also id. ¶¶ 42-43.
+The Companies and their other stockholders received no consideration in exchange for FHFA’s
+acquiescence to the Net Worth Sweep. Id. ¶¶ 15, 42.
+The Net Worth Sweep circumvented the rules of priority under the charters of each
+Company and implemented the government’s self-dealing expropriation of the remaining value
+of the private investors’ stock. Id. ¶ 16. Treasury and FHFA have both acknowledged that,
+under this unprecedented structure, Treasury will receive—in perpetuity—any and all profits that
+Fannie and Freddie earn. Id. Thus, it will be impossible for either Company to ever have a
+positive net worth, to ever pay a dividend on other classes or series of stock, or to ever emerge
+from conservatorship. Id.
+Specifically, the Third Amendment to the PSPAs and the corresponding Amended and
+Restated Certificates of Designation (Exs. M and N) provide, in pertinent part, that, as holder of
+the Senior Preferred Stock, Treasury shall be entitled to receive “cumulative cash dividends in an
+amount equal to the then-current Dividend Amount.” Id. ¶ 43.
+The “Dividend Amount” is defined as follows:
+For each Dividend Period from January 1, 2013, through and
+including December 31, 2017, the “Dividend Amount” for a
+Dividend Period means the amount, if any, by which the Net
+Worth Amount at the end of the immediately preceding fiscal
+quarter, less the Applicable Capital Reserve Amount, exceeds zero.
+For each Dividend Period from January 1, 2018, the “Dividend
+Amount” for a Dividend Period means the amount, if any, by
+which the Net Worth Amount at the end of the immediately
+preceding fiscal quarter exceeds zero. In each case, “Net Worth
+Amount” means (i) the total assets of the Company (such assets
+excluding the Commitment and any unfunded amounts thereof) as
+reflected on the balance sheet of the Company as of the applicable
+date set forth in this Certificate, prepared in accordance with
+GAAP, less (ii) the total liabilities of the Company (such liabilities
+
+11
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 25 of 74 PageID #: 1907
+
+excluding any obligation in respect of any capital stock of the
+Company, including this Certificate), as reflected on the balance
+sheet of the Company as of the applicable date set forth in this
+Certificate, prepared in accordance with GAAP. “Applicable
+Capital Reserve Amount” means, as of any date of determination,
+for each Dividend Period from January 1, 2013, through and
+including December 31, 2013, $3,000,000,000; and for each
+Dividend Period occurring within each 12-month period thereafter,
+$3,000,000,000 reduced by an equal amount for each such 12month period through and including December 31, 2017, so that
+for each Dividend Period from January 1, 2018, the Applicable
+Capital Reserve Amount shall be zero. For the avoidance of doubt,
+if the calculation of the Dividend Amount for a Dividend Period
+does not exceed zero, then no Dividend Amount shall accrue or be
+payable for such Dividend Period.
+Id. (emphasis added). Thus, pursuant to the Net Worth Sweep, from January 1, 2013 through
+December 31, 2017, each Company pays to Treasury, in the form of a purported “dividend,” that
+particular Company’s “Net Worth Amount” (i.e., total assets less total liabilities) less the
+“Applicable Capital Reserve Amount” (which starts at $3 billion and decreases to $0 by January
+1, 2018). Id. ¶ 44. Beginning January 1, 2018 and continuing in perpetuity, the Net Worth
+Amount will be paid out each quarter to Treasury without any capital reserve whatsoever. Id.
+The Net Worth Sweep “dividends” are cumulative. Id. ¶ 45. If the Net Worth Amount is
+positive and the board of directors does not declare a “dividend” on the Senior Preferred Stock,
+then the “dividend” accumulates. Under the Certificates of Designation, no dividends may be
+paid on any other classes or series of stock unless and until full cumulative “dividends” (i.e., the
+full Net Worth Sweep amount) are paid on the Senior Preferred Stock. Id.; see also Exs. M and
+N. Because the entire net worth of each Company is payable in perpetuity to the Senior
+Preferred Stock, no dividends can ever be paid on other classes or series of stock. Am. Comp. ¶
+45.
+
+12
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 26 of 74 PageID #: 1908
+
+The Net Worth Sweep has already resulted in historic payments to Treasury. Once the
+“dividends” payable on their first quarter 2017 earnings are distributed pursuant to the Net Worth
+Sweep, Fannie and Freddie will have paid a total of $162.6 billion and $108.2 billion to
+Treasury, respectively. FHFA, Table 2: Dividends on Enterprise Draws from Treasury,
+https://www.fhfa.gov/DataTools/Downloads/Documents/Market-Data/Table_2.pdf (Ex. Q).7
+Under the PSPAs, even these substantial payments do not reduce the Companies’ obligation to
+Treasury, because these payments cannot be used to offset prior Treasury draws. Am. Compl.
+¶ 48. Accordingly, Treasury still maintains a liquidation preference of $117.1 billion with
+respect to Fannie and $72.3 billion with respect to Freddie. Id.
+ARGUMENT
+A. Legal Standards
+“A motion to dismiss under Rule 12(b)(1) for lack of subject matter jurisdiction can take
+two forms: it can attack the complaint on its face (facial attack), or it can attack the existence of
+subject matter jurisdiction in fact (factual attack).” Blair v. Wal-Mart Stores Inc., 2004 WL
+2283560, at *1 (D. Del. Sept. 30, 2004). Here, Defendants wage a facial attack upon this Court’s
+jurisdiction. As such, “the court must consider the allegations of the complaint as true, making
+all reasonable inferences in the plaintiff’s favor.” Id.
+A complaint “attacked by a Rule 12(b)(6) motion to dismiss does not need detailed
+factual allegations” to survive a motion to dismiss. Bell Atlantic Corp. v. Twombly, 550 U.S.
+544, 545 (2007). Rather, a complaint must simply “contain sufficient factual matter, accepted as
+true, to state a claim to relief that is plausible on its face.” Ashcroft v. Iqbal, 556 U.S. 662, 678
+7
+
+These figures have been updated from those alleged in the amended complaint (see Am.
+Compl. ¶ 17) to reflect additional distributions made to Treasury pursuant to the Net Worth
+Sweep during the intervening period. The FHFA table referenced above is publicly available
+and may be considered by the Court on these motions. See infra p. 14 n.8.
+
+13
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 27 of 74 PageID #: 1909
+
+(2009) (internal quotation marks omitted). A claim is facially plausible “when the plaintiff
+pleads factual content that allows the court to draw the reasonable inference that the defendant is
+liable for the misconduct alleged.” Id. A court must assume the truth of all well-pleaded
+allegations, view them in the light most favorable to the plaintiff, and draw all reasonable
+inferences in the plaintiff’s favor. See Maio v. Aetna, Inc., 221 F.3d 472, 482-85 (3d Cir. 2000).8
+B. Plaintiffs Have Stated Claims Under Delaware And Virginia Law.
+This case is about Delaware and Virginia corporate law, the law that Fannie and Freddie
+chose to apply to their corporate governance, as mandated by their enabling federal legislation.
+When purchasing their stock, the Companies’ stockholders relied on the rights and protections
+afforded them by these states’ corporate laws. As explained below, Plaintiffs have stated claims
+upon which relief can be granted under Delaware and Virginia law.
+1. Neither Federal Law Nor The Certificates Of Designation
+Preempt Or Conflict With Delaware Or Virginia Corporate Law.
+Defendants’ primary argument in support of their Rule 12(b)(6) motions is that “[f]ederal
+law, and the stock certificates themselves, take precedence over any conflicting provision of state
+law.” Treas. Br. 24; see also FHFA Br. 25-28. That argument is meritless.
+There are two types of preemption,9 and neither applies here. Field preemption cannot
+apply because federal law authorizes, and indeed directs, the Companies to select state law to
+govern their internal corporate affairs. 12 C.F.R. § 1710.10(b)(1) (“each Enterprise shall follow
+the corporate governance practices and procedures of the law of the jurisdiction in which the
+8
+
+“In this regard, a court may consider the pleadings, public record, orders, exhibits attached to
+the complaint, and documents incorporated into the complaint by reference.” In re Fisker Auto.
+Holdings, Inc. S’holder Litig., 2015 WL 6039690, at *8 (D. Del. Oct. 15, 2015) (citing Oshiver
+v. Levin, Fishbein, Sedran & Berman, 38 F.3d 1380, 1384-85 n.2 (3d Cir. 1994)).
+9
+
+See In re Hechinger Inv. Co. of Delaware, 274 B.R. 71, 96 (D. Del. 2002) (citing Orson, Inc. v.
+Miramax Film Corp., 189 F.3d 377, 381-82 (3d Cir. 1999)).
+
+14
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 28 of 74 PageID #: 1910
+
+principal office of the Enterprise is located” or the “Delaware General Corporation Law”). The
+Certificates of Designation governing Treasury’s Senior Preferred Stock likewise designate that
+Delaware and Virginia law “shall serve as the federal rule of decision” with respect thereto.
+Exs. M, N § 10(e). It thus is not reasonable to infer that there is “no room for the States to
+supplement” the federal law that governs the Companies.10 Nor does conflict preemption apply,
+because it would not be impossible for Defendants to comply with both federal and state law,
+and because state law does not stand as an obstacle to the accomplishment and execution of the
+full purposes and objectives of Congress in enacting the Companies’ chartering acts or HERA.11
+Nevertheless, Defendants argue that any state corporate law provision governing the
+Companies’ preferred stock would “frustrate the federal scheme” or constitute impermissible
+state regulation of the federal government. In particular, Defendants argue that the Companies’
+bylaws and the Delaware and Virginia corporate law they adopt (including DGCL § 151 and
+VSCA § 13.1-638) are in conflict with federal law because the “Enterprises’ boards of directors
+(and thus the Conservator) have broad, unqualified authority under federal law to issue preferred
+stock and dividends in the manner the Enterprises’ boards (and the Conservator) see fit.” FHFA
+Br. 24-25; see also Treas. Br. 25, 27. In support of this proposition, Defendants argue that the
+Companies’ federal charters authorize them to “(1) issue preferred stock ‘on such terms and
+conditions as the board of directors shall prescribe,’ 12 U.S.C. § 1718(a); id. § 1455(f); and (2)
+10
+
+Rice v. Santa Fe Elevator Corp., 331 U.S. 218, 230 (1947); see also Arizona v. Inter Tribal
+Council of Ariz., Inc., 133 S. Ct. 2247, 2271 (2013); Gade v. Nat’l Solid Wastes Mgmt. Ass’n,
+505 U.S. 88, 98 (1992).
+11
+
+English v. Gen. Elec. Co., 496 U.S. 72, 79 (1990) (Conflict preemption occurs when state law
+“actually conflicts with federal law,” such that it is “impossible” to comply with both state and
+federal requirements, or “where state law stands as an obstacle to the accomplishment and
+execution of the full purposes and objectives of Congress.”) (internal quotation marks and
+citations omitted); see also Medtronic, Inc. v. Lohr, 518 U.S. 470, 485 (1996) (conflict
+preemption is applied cautiously, only where it is the “clear and manifest purpose of Congress”).
+
+15
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 29 of 74 PageID #: 1911
+
+make dividend payments to Enterprise stockholders in the manner ‘as may be declared by the
+board of directors.’ Id. § 1718(c)(1); id. § 1452(b)(1).” FHFA Br. 24-25. FHFA relatedly
+contends that the applicable federal regulation, 12 C.F.R. § 1710.10, “simply directs the
+Enterprises to follow Delaware [or Virginia] law . . . only with respect to issues not already
+addressed in the Enterprises’ federal charters.” FHFA Br. 26. These contentions are meritless
+both as a matter of logic and as a matter of law.
+Obviously, if the Companies’ boards had “broad, unqualified authority under federal
+law” to do however they “see fit” with respect to preferred stock, then the Companies’ bylaws
+explicitly governing preferred stock would be nullities. See Ex. A § 2.02; Ex. B § 2.3. Tellingly,
+Defendants do not make that frivolous argument. But Defendants’ contentions that the general
+grants of authority in the Companies’ statutory charter provisions supersede the more detailed
+bylaw provisions, and that the bylaws and the state law they adopt only apply with respect to
+issues not already addressed in their federal charters, are just as illogical. Further, these
+arguments ignore a basic principle of corporate law: company charters and bylaws together—
+along with the broader DGCL or VSCA—form a contract among the corporation and its
+directors, officers, and stockholders, Boilermakers Local 154 Ret. Fund v. Chevron Corp.,
+73 A.3d 934, 940 (Del. Ch. 2013), and, as such, must be read “in tandem” and are “intended to
+be complementary.” Centaur Partners, IV v. Nat’l Intergroup, Inc., 582 A.2d 923, 928 (Del.
+1990).
+The Companies’ federal charters and bylaws are in complete harmony here. The
+chartering acts authorize the Companies’ boards of directors to “determine the general policies
+which shall govern the operations of the corporation, and shall have power to adopt, amend, and
+repeal bylaws governing the performance of the powers and duties granted to or imposed upon it
+
+16
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 30 of 74 PageID #: 1912
+
+by law.” 12 U.S.C. § 1723(b); see also id. § 1452(c)(3) (“The Corporation shall have power . . .
+to make and enforce such bylaws, rules, and regulations as may be necessary or appropriate to
+carry out the purposes or provisions of this chapter[.]”). Pursuant to those statutory charters and
+the applicable federal regulation, 12 C.F.R. § 1710.10, the Companies’ boards of directors
+elected in the Companies’ bylaws for the DGCL and VSCA to apply for purposes of their
+respective corporate governance. See Ex. A § 1.05; Ex. B § 11.3(b). By adopting these bylaw
+provisions, as well as the provisions specifically relating to preferred stock, the Companies’
+boards did prescribe the terms and conditions for the Companies’ preferred stock (which is
+privately owned and publicly traded), as they were authorized to do in the federal charter acts
+and required to do by federal regulation. As such, there is no conflict such that conflict
+preemption would apply, and thus the cases Defendants cite involving state laws regulating
+government-issued bonds and federal agency employment decisions, see Treas. Br. 24; FHFA
+Br. 27, plainly are inapposite because the application of Delaware and Virginia Corporate law
+here does not frustrate the purposes and objectives of Congress in enacting the chartering acts.
+So fundamental did the Companies’ boards consider their respective elections of
+Delaware and Virginia corporate law that they designated that those bylaw provisions be
+included in the Companies’ respective certificates of incorporation for “all purposes” of the
+DGCL and VSCA. See Ex. A § 1.05; Ex. B § 11.3(b). Given that 12 C.F.R. § 1710.10 was
+enacted “to dispel any legal uncertainty as to whether and to what extent standards and
+procedures of State law apply to corporate governance of the Enterprises,” 67 Fed. Reg. 38,361,
+38,364 (June 4, 2002), and to provide “certainty to shareholders and other stakeholders as to the
+body of corporate law applicable to each Enterprise,” id., there can be no question that Delaware
+and Virginia corporate law govern the Companies’ creation and issuance of preferred stock.
+
+17
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 31 of 74 PageID #: 1913
+
+Moreover, when FHFA’s predecessor, OFHEO, promulgated the corporate governance
+regulation applicable to the Companies, 12 C.F.R. § 1710.10, it emphasized that the regulation
+“explicitly clarifies the applicability of [traditional state law corporate governance] standards to
+the Enterprises.” 67 Fed. Reg. at 38,363.12 And, contrary to Defendants’ assertions that federal
+law supersedes state law because the regulation and the Companies’ bylaws provide that
+Delaware and Virginia corporate law apply “to the extent not inconsistent with” federal law,
+Treas. Br. 26; FHFA Br. 26, the OFHEO further clarified that the regulation contemplated not
+that federal law would negate existing state corporate law but rather that it might impose
+additional requirements on the Companies. See id. at 38,364 & n.7 (describing “mixture” of
+“congressionally mandated oversight by OFHEO” and “corporate governance program
+conforming to corporate practices and procedures of State law”); id. at 38,367 (“election of a
+State law . . . is directed, in line with the need to protect shareholders and promote corporate
+purposes; adherence to Federal standards for safe and sound operations pursuant to a separate
+and distinct regulatory regime are set forth as well”). In short, the applicable corporate
+governance regulation was intended to ensure that the “companies and their boards” would
+“operate with an eye toward both Federal and State law and regulation.” Id. at 38,367. Nothing
+
+12
+
+See also id. at 38,364 (regulation intended to provide “certainty to shareholders and other
+stakeholders as to the body of corporate law applicable to each Enterprise”); id. at 38,368 (“The
+body of law and legal precedents thereunder elected by the Enterprises pursuant to § 1710.10, to
+the extent not inconsistent with applicable Federal rules, set forth standards of conduct of board
+members with respect to shareholders.”); cf. id. at 38,367 (related regulatory provision “not
+intended to affect the potential exposure of board members to shareholder actions under
+applicable standards of State law”); id. at 38,366 (“the concept of conflict of interest is a
+fundamental concept widely understood under traditional precepts of corporate law”).
+
+18
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 32 of 74 PageID #: 1914
+
+in the federal chartering acts suggests there is any conflict with that federal regulation or the state
+corporate law applicable to the Companies.13
+Defendants’ related argument that the Certificates of Designation governing Treasury’s
+Senior Preferred Stock take precedence over Delaware and Virginia corporate law has it exactly
+backwards. A provision in a certificate of designations setting forth the rights, powers, and
+preferences of a corporation’s preferred stock cannot override Delaware or Virginia corporation
+law, no matter what the provision purports to do.14 A certificate of designations is part of the
+corporation’s certificate of incorporation, 8 Del. C. §§ 104, 151(g); VSCA §§ 13.1-603, 13.1639, and is the instrument that sets forth the rights, powers, and preferences of a series of
+preferred stock created by a board of directors. A certificate of designations, as part of the
+corporate charter, cannot conflict with the applicable corporate law of the governing jurisdiction.
+8 Del. C. § 102(b)(1) (certificate of incorporation may contain other provisions “not contrary to
+the laws of this State”); id. § 102(a)(4) (the powers, preferences, and rights of preferred stock
+must be “permitted by § 151 of [the DGCL]”); VSCA §§ 13.1-619(B)(3), 13.1-638. The
+government cites no authority in HERA or elsewhere for the proposition that provisions in a
+certificate of designations—which itself is a creature of state law—may override applicable state
+law. Indeed, there is nothing more central to the internal governance of a corporation than the
+rights, powers, and preferences of its capital stock, which would not exist but for applicable state
+13
+
+Further confirming this conclusion is the fact that, in a December 19, 2008 Form 8-K,
+Fannie—at this point subject to FHFA’s control as conservator—acknowledged that it would be
+managed during conservatorship “in accordance with the applicable designated duties and with
+the authorities as set forth in . . . Delaware law (for corporate governance purposes) . . . .”
+Fannie Form 8-K (Dec. 19, 2008).
+14
+
+Defendants’ repeated characterization of the Companies’ Certificates of Designation as “stock
+certificates” is inaccurate and misleading. See Treas. Br. 23-24; FHFA Br. 26-27. Stock
+certificates are certificates evidencing an individual stockholder’s ownership of shares of stock.
+8 Del. C. § 158; VSCA § 13.1-647.
+
+19
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 33 of 74 PageID #: 1915
+
+law authorizing its creation and issuance. Moreover, the Senior Preferred Stock certificates of
+designation themselves acknowledge the applicability of state corporate law by designating that
+Delaware and Virginia law “shall serve as the federal rule of decision” with respect thereto.
+Exs. M, N § 10(e).15 Because, as explained below, the Net Worth Sweep conflicts with state
+corporate law, it is void and unenforceable.16
+Defendants also conclusorily assert that HERA provided FHFA “broad powers,”
+including the power to enact the Net Worth Sweep, FHFA Br. 25, and granted Treasury authority
+to purchase the Companies’ securities and “to establish the terms of those investments,” Treas.
+Br. 25; see id. at 27. But HERA nowhere authorizes or requires Treasury or FHFA to take action
+that would violate the Delaware and Virginia corporate law principles applicable to the
+Companies. Rather, HERA left in place the Companies’ charters and bylaws, including the
+provisions specifying that Delaware and Virginia law apply to their respective corporate
+governance, stating that a conservator succeeds to the “rights, titles, powers, and privileges of the
+regulated entity” as they existed prior to the conservatorship, limited and defined by the
+applicable state corporate laws. 12 U.S.C. § 4617(b)(2)(A)(i). Thus, the authority granted by
+Congress to Treasury and FHFA pursuant to HERA must be exercised in compliance with those
+15
+
+The government relies on another clause in Section 10(e), which states “… except where such
+law is inconsistent with the Company’s enabling legislation, its public purposes or any provision
+of this Certificate,” but this self-serving attempt to avoid the operation of state law is ineffectual.
+As explained herein, a certificate of designation is a creature of state law and, therefore, cannot
+“opt out” of applicable state law. Nothing in HERA purports to permit FHFA to opt out of
+applicable state law, whether by merely saying it is so or otherwise, and, in any event, Delaware
+and Virginia corporate law as applied to the Net Worth Sweep are entirely consistent with HERA
+and its public purpose of preserving and conserving entities in conservatorship.
+16
+
+See, e.g., Shintom Co., Ltd. v. Audiovox Corp., 888 A.2d 225, 228 (Del. 2005) (“Preferred
+shares that do not comport with the statutory requirements of the Delaware General Corporation
+law are void.”); Kaplan v. Block, 31 S.E.2d 893, 896-97 (Va. 1944) (holding that provisions in
+corporation’s charter and bylaws that divested the board of directors of its authority to manage
+the company were invalid under Virginia law).
+
+20
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 34 of 74 PageID #: 1916
+
+states’ corporate laws. Surely, it is implausible that, when enacting HERA, Congress intended to
+authorize FHFA and Treasury to engage in the statutory violations and wanton self-dealing at
+issue here, effectively looting the Companies and leaving them insolvent (or just about). On the
+contrary, HERA purported to charge FHFA with rehabilitating the Companies and restoring
+them to sound and solvent condition while preserving and conserving their assets, see 12 U.S.C.
+§ 4617(b)(2)(D)—authority which is fully consistent with a corporate board of directors’
+statutory and fiduciary obligations under Delaware and Virginia law.17 And, consistent with the
+duties imposed on controlling stockholders under state corporate law,18 HERA’s grant of
+temporary authority to Treasury to invest in the Companies’ stock expressly required Treasury to
+take into consideration the economic rights of the Companies’ private stockholders, including the
+Companies’ plans “for the orderly resumption of private market funding or capital market
+access” and the “need to maintain the [Companies’] status as [ ] private shareholder-owned
+
+17
+
+See Prod. Res. Grp., LLC v. NCT Grp., Inc., 863 A.2d 772, 791 (Del. Ch. 2004) (“The
+directors [of an insolvent firm] continue to have the task of attempting to maximize the economic
+value of the firm. That much of their job does not change.”); Credit Lyonnais Bank Nederland,
+N.V. v. Pathe Commc’ns Corp., 1991 WL 277613, at *34 (Del. Ch. Dec. 30, 1991) (explaining
+that the directors of a corporation operating in the vicinity of insolvency owe a duty to the
+corporate enterprise to “exercise judgment in an informed, good faith effort to maximize the
+corporation’s long-term wealth creating capacity”); see also Marshall v. Fredericksburg Lumber
+Co., 173 S.E. 553, 558 (Va. 1934) (holding that directors of an insolvent corporation were
+“obligated as directors to conserve the assets of the corporation . . . .”).
+18
+
+See In re Maxxam, Inc., 659 A.2d 760, 771 (Del. Ch. 1995) (“A shareholder that owns a
+majority interest in a corporation, or exercises actual control over its business affairs, occupies
+the status of a fiduciary to the corporation and its minority shareholders.”); Thorpe v. CERBCO,
+INC., 1993 WL 443406, at *7 (Del. Ch. Oct. 29, 1993) (explaining that controlling shareholders
+are not allowed to use their control to exploit the minority); Brown v. Scott County Tobacco
+Warehouses, 1983 WL 489237, at *3 (Va. Cir. Ct. Feb. 22, 1983) (“A director is a fiduciary. So
+is a dominant or controlling stockholder . . . . Their dealings with the corporation are subjected to
+rigorous scrutiny.”); Parsch v. Massey, 2009 WL 7416040, at *11 (Va. Cir. Ct. Nov. 5, 2009)
+(“Any disposition of the corporation or its assets [by a controlling stockholder] to deprive the
+minority holders of their just share of it or to gain for themselves at the expense of the holder of
+the minority stock is a breach of their duties and of trust.”).
+
+21
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 35 of 74 PageID #: 1917
+
+compan[ies].” 12 U.S.C. §§ 1455(l)(1)(C), 1719(g)(1)(C). Thus, the application of Delaware
+and Virginia corporate law to FHFA and Treasury is fully consistent with HERA.
+2. The Net Worth Sweep Is Void And Unenforceable.
+The Net Worth Sweep is void and unenforceable because preferred stock of a Delaware
+or Virginia corporation cannot be given a cumulative dividend right equal to its entire net worth
+in perpetuity, to the absolute, permanent exclusion of dividends to other stockholders.
+Defendants devote barely two pages and only two makeweight arguments in defense of
+the central claim in this litigation—that the Net Worth Sweep violates Delaware and Virginia
+law.19 Defendants first argue that “[t]he DGCL and VSCA are broad, enabling statutes that
+permit corporations to issue preferred stock with contractually-defined dividend rights.” FHFA
+Br. 28. Defendants also contend that variable dividends are permissible under those corporation
+statutes. Id. at 29-30. While the DGCL and VSCA are enabling statutes that allow significant
+contractual flexibility, Defendants ignore the fact that DGCL §§ 102(a)(4) and 151(c), and
+Va. Code § 13.1-638, which relate to dividend rights of preferred stock, necessarily circumscribe
+the flexibility afforded by the respective statutes.
+Under Delaware law, preferred stock cannot be given a cumulative dividend right equal
+to all of the corporation’s net worth in perpetuity. Section 151 of the DGCL allows preferred
+stockholders to receive dividends “at such rates, on such conditions and at such times as shall be
+stated in the certificate of incorporation or in the [board] resolution . . . .” 8 Del. C. § 151(c)
+
+19
+
+Defendants have not moved to dismiss Counts III and IV of the amended complaint pursuant
+to Rule 12(b)(6), and have presented no arguments for dismissal of those claims for failure to
+state a claim. They therefore have waived any such arguments for purposes of these motions.
+See, e.g., Anspach v. City of Phila., 503 F.3d 256, 259 n.1 (3d Cir. 2007) (“[F]ailure to raise an
+argument in one’s opening brief waives it.”).
+22
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 36 of 74 PageID #: 1918
+
+(emphasis added). Such dividends must be “payable in preference to, or in . . . relation to, the
+dividends payable on” other classes or series of stock. Id. (emphasis added).
+Because the Net Worth Sweep diverts, forever, all of the net worth of Fannie to Treasury,
+to the exclusion of any dividends ever being paid on junior stock, it neither is paid at a “rate” nor
+is it payable “in preference to” or “in relation to” the dividends payable to other classes or series.
+The Net Worth Sweep is not paid at a “rate” because Treasury’s participation in corporate
+earnings growth is unlimited, absolute, and perpetual.20
+The Net Worth Sweep is not payable “in preference to” or “in relation to” the dividends
+payable to other classes or series of stock because it is payable to the absolute, permanent
+exclusion of dividends to other stockholders. A preferred stock dividend payable “in preference
+to” a junior stock dividend would entitle preferred stockholders to priority with respect to the
+receipt of dividends—i.e., “to receive a dividend before the company pays dividends to holders
+of common shares.” Black’s Law Dictionary, p. 514 (8th ed. 1999) (emphasis added). That is,
+“in preference to” means that dividends cannot be paid on junior securities until full cumulative
+dividends are paid on the senior security. See id., p. 1456 (“cumulative preferred stock”). A
+preferred stock dividend payable “in relation to” a junior stock dividend contemplates
+“participating” preferred stock—for example, where the dividend on the preferred stock is tied to
+any dividend on the common stock and where no dividends can be paid on the common stock
+unless dividends are also paid on the preferred stock in an amount related to those paid on the
+20
+
+See 11 Fletcher Cyclopedia of the Law of Corporations § 5283 (perm. ed.) (“In contrast to
+common shares, preferred shares do not provide an unlimited claim on the corporation’s residual
+earnings[.]”); id. (“[Preferred] shares generally give the holder a claim to a fixed dividend that
+must be satisfied before any dividend is paid on the common shares.”) (emphasis added); Mark
+E. Van Der Weide, Against Fiduciary Duties to Corporate Stakeholders, 21 Del. J. Corp. L. 27,
+38 (1996) (“[P]referred shareholders have a strikingly different relation to a corporation than do
+common shareholders.”).
+
+23
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 37 of 74 PageID #: 1919
+
+common stock (e.g., in the same per share amount or some multiple of the per share dividend on
+the common stock). The Net Worth Sweep is neither “in preference to” nor “in relation to”
+dividends payable on other classes or series of the Company’s stock. Rather, the Net Worth
+Sweep effectively eliminates the economic stake of all stockholders other than Treasury. Section
+151(c) permits corporations to establish a dividend “preference” that operates as a priority,
+and/or to afford a dividend participation right to preferred stock “in relation to” the dividend paid
+on common stock, but it does not permit corporations to establish dividend provisions that
+operate as a singularity—without regard for or relation to the interests of other classes or series
+of stock and forever precluding all other stockholders from the potential to receive dividends.21
+Accordingly, the Net Worth Sweep is invalid under Section 151(c) of the DGCL and is void
+ab initio and unenforceable.
+Likewise, the Net Worth Sweep violates Virginia corporate law. The VSCA provides
+that a corporation may authorize “one or more classes or series of shares that . . . have preference
+over any other class or series of shares with respect to distributions [such as dividends].” Va.
+Code § 13.1-638 (emphasis added). Virginia law does not permit corporations to enter into
+unconditional agreements to pay dividends without regard to the corporation’s financial
+condition. See 11 Fletcher Cyclopedia of the Law of Corporations § 5332 (perm. ed.) (citing
+Drewry, Hughes Co. v. Throckmorton, 92 S.E. 818 (Va. 1917)). Nor does it permit corporations
+to establish dividend provisions that operate to preclude all other classes of stockholders from the
+potential to receive dividends in perpetuity. The Virginia Supreme Court has recognized that the
+21
+
+Once the Net Worth Sweep is paid each quarter, there necessarily will be no assets remaining
+in the Company that would ever be available for the payment of dividends on any other classes
+or series of stock regardless of how valuable the Company may become in the future. Section
+151(c), however, expressly contemplates that, after payment of preferential dividends on senior
+preferred stock, “a dividend on the remaining class or classes or series of stock may then be paid
+out of the remaining assets of the corporation available for dividends . . . .” 8 Del. C. § 151(c).
+
+24
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 38 of 74 PageID #: 1920
+
+“common understanding” of preferred stock is that the holders thereof are entitled to “limited
+dividends” without the opportunity for “unlimited gain,” which belongs to the common
+stockholders. Johnson v. Johnson & Briggs, Inc., 122 S.E. 100, 103 (Va. 1924).
+Virginia courts have further recognized that a preferred dividend right is, by definition,
+in preference to the dividend right of other classes or series of shares. In Kain v. Angle, the
+Virginia Supreme Court characterized preferred stock as entitling the holders “to receive
+dividends from the earnings of the company before the common stock can receive a dividend
+from such earnings.” 69 S.E. 355, 357 (Va. 1910) (emphasis added). The Court explained that
+the preference to dividends is “nothing more than that which is paid to one class of shareholders
+in priority to that to be paid to another class.” Id. (emphasis added) (internal quotation marks
+omitted) (quoting Cook on Stock & Stockholders (3d ed.) § 267); see also Drewry, Hughes Co.,
+92 S.E. at 819 (emphasis added) (construing the character and privileges of a preferred dividend
+to be “definitely fixed” and constituting “a preferred charge over” and “in preference to” the
+common stock). Thus, the Net Worth Sweep is also invalid and void under Virginia law.22
+22
+
+The Net Worth Sweep goes so far as to impermissibly direct the payment of dividends out of
+Freddie’s capital reserves. The Net Worth Sweep “Dividend Amount” comprises the entire
+net worth of the Company—i.e., total assets less total liabilities. Freddie thus will not maintain
+any capital account at all in violation of Virginia law. See VSCA § 13.1-653(C) (barring
+distributions if the effect of the distribution is corporate inability to pay “debts as they become
+due in the usual course of business,” or if “total assets would be less than the sum of its total
+liabilities plus . . . the amount that would be needed, if the corporation were to be dissolved at the
+time of the distribution, to satisfy the preferential rights upon dissolution of shareholders whose
+preferential rights are superior to those receiving the distribution”); Dawyot v. Catawba Capital
+Mgmt., Inc., 82 Va. Cir. 521 (2011) (Under Section 13.1-653, “a corporation cannot make
+distributions to shareholders if such distributions would prevent a corporation from being able
+pay its debts as they become due of if its total assets would be less than its total liabilities.”).
+Based on the information publicly available, Fannie’s capital in respect of its issued
+shares of preferred stock likewise appears to have been impaired by the payments made pursuant
+to the Net Worth Sweep, because Fannie’s net assets fell short of the apparent capital in respect
+of its preferred stock, which by default is the amount of cash consideration paid for the stock, an
+amount exceeding $129 billion. See 8 Del. C. §§ 154, 170; Klang v. Smith’s Food & Drug Ctrs.,
+25
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 39 of 74 PageID #: 1921
+
+Indeed, the government’s own statements admit that the Net Worth Sweep is not paid at a
+“rate” nor “in preference to” or “in relation to” the dividends payable to other classes or series of
+Company stock. In the FHFA Office of Inspector General’s white paper entitled “Analysis of
+the 2012 Amendments to the Senior Preferred Stock Purchase Agreements,” published in
+March of 2013 (and attached hereto as Ex. O), the government described a preferred stock
+dividend as follows: “[a] dividend, should one be paid under the terms of preferred stock,
+is typically a quarterly payment based on a specified rate applied to the amount of the preferred
+stock held.” Ex. O at 7 (emphasis added). The government then contrasted the “PSPAs’ original
+dividend rate [of] 10% of [Treasury’s] liquidation preference” with the Net Worth Sweep: “The
+2012 Amendments significantly altered the structure of the dividend payment[.] . . . As of
+January 1, 2013, the dividend payment is no longer based on a fixed percentage of the
+liquidation preference. Instead, the dividend is based on the amount of positive net worth
+reported by each Enterprise. . . . In its press release announcing the 2012 Amendments, Treasury
+called this a full income sweep of ‘every dollar of profit that each firm earns going forward.’”
+Id. at 11-12 (emphases added).23
+
+Inc., 702 A.2d 150, 153 (Del. 1997) (Under Section 170 of the DGCL, dividends may only be
+paid out of “surplus,” defined by Section 154 to mean “the excess of net assets over the par value
+of the corporation’s issued stock,” or out of net profits); Quadrant Structured Prods. Co. v.
+Vertin, 102 A.3d 155, 200-01 (Del. Ch. 2014) (“Section 170(a) requires that dividends be paid (i)
+out of surplus or (ii) ‘[i]n case there shall be no such surplus, out of its net profits for the fiscal
+year in which the dividend is declared and/or the preceding fiscal year.’”).
+23
+
+FHFA’s argument that Plaintiffs’ claim is analogous to the Perry Capital plaintiffs’ claim that
+the Net Worth Sweep converted the Senior Preferred Stock into common stock (FHFA Br. at 30
+n.18) is meritless—that the Net Worth Sweep is an illegal preferred stock dividend term does not
+make the Senior Preferred Stock common stock; rather, it makes the Net Worth Sweep a nullity.
+Indeed, FHFA’s argument ignores the government’s own statements which put this issue
+squarely within the Delaware and Virginia statutes’ prohibition of a cumulative dividend right
+equal to all of the corporation’s net worth in perpetuity.
+
+26
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 40 of 74 PageID #: 1922
+
+Accordingly, Counts I and II of Plaintiffs’ amended complaint state claims upon which
+relief can be granted under Delaware and Virginia law.
+C. Plaintiffs’ Claims Against Treasury Are Not Barred By Sovereign Immunity.
+Plaintiffs’ unjust enrichment claims against Treasury seeking restitution in the form of
+disgorgement of the distributions it received under the Net Worth Sweep fall squarely within the
+waiver of sovereign immunity set forth in 5 U.S.C. § 702 of the Administrative Procedure Act
+(“APA”),24 and such relief is not barred by the Appropriations Clause of the U.S. Constitution.
+Section 702 “eliminate[s] the defense of sovereign immunity in any action in a federal
+court seeking relief other than money damages and stating a claim based on the assertion of
+unlawful official action by an agency or by an officer or employee of that agency.” Treasurer of
+New Jersey v. U.S. Dep’t of Treasury, 684 F.3d 382, 400 (3rd Cir. 2012). Courts have described
+Section 702 as providing a “broad waiver of sovereign immunity.” Beamon v. Brown, 125 F.3d
+965, 967 (6th Cir. 1997).25
+Notwithstanding this “broad waiver,” Treasury contends that Section 702 does not permit
+Plaintiffs’ unjust enrichment claims seeking restitution in the form of disgorgement of the
+distributions made to it pursuant to the Net Worth Sweep because those claims are not founded
+on federal statute and because restitution constitutes money damages. See Treas. Br. 20-23.
+
+24
+
+Under that provision of the APA, “[a]n action in a court of the United States seeking relief
+other than money damages and stating a claim that an agency or an officer or employee thereof
+acted or failed to act in an official capacity or under color of legal authority shall not be denied
+on the ground that it is against the United States . . . .” Id.
+25
+
+The U.S. Supreme Court has emphasized that Section 702 was “designed to remove ‘technical’
+obstacles to access to the federal courts,” and that it “must be given a hospitable interpretation.”
+Bowen v. Massachusetts, 487 U.S. 879, 896, 904 (1988) (citations omitted).
+
+27
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 41 of 74 PageID #: 1923
+
+Treasury also argues that any award of restitution would violate the Appropriations Clause of the
+U.S. Constitution. Treasury is wrong on all counts.26
+First, Treasury’s argument that the waiver of sovereign immunity provided by Section
+702 is limited to claims based on federal statute is foreclosed by controlling precedent, including
+the Third Circuit’s decision in Treasurer of New Jersey. 684 F.3d at 400 n. 19 (“The
+Government contends that the [APA] waiver of sovereign immunity should be limited to actions
+brought under federal law rather than state law . . . . [W]e see no support for the distinction that
+the Government makes between federal and state law in either the text or the history of section
+702.”); see also Trudeau v. FTC, 456 F.3d 178, 186 (D.C. Cir. 2006) (Section 702 waiver applies
+to “‘any’ . . . actions for equitable relief,” including “nonstatutory actions”); U.S. Info. Agency v.
+Krc, 989 F.2d 1211, 1216 (D.C. Cir. 1993) (finding that Section 702 waived sovereign immunity
+for state law tort claim). Not only may state law provide the basis for a claim within the scope of
+Section 702’s waiver, but claims in equity or pursuant to federal common law may be brought
+under Section 702 as well. Cobell v. Kempthorne, 569 F. Supp. 2d 223, 243 (D.D.C. 2008)
+(rejecting government’s argument that it was immune from suit because no statute authorized
+monetary award, and holding that “this Court may exercise jurisdiction over claims for breach of
+trust under the auspices of the APA, and that the trust duties that plaintiffs may seek to enforce in
+this Court are imposed, not only by statute, but by established principles of equity and federal
+common law”), vacated and remanded sub nom. on other grounds, Cobell v. Salazar, 573 F.3d
+808 (D.C. Cir. 2009); see also H.R. Rep. No. 94-1656 (1976), p. 6129 (“[T]he time [has] now
+come to eliminate the sovereign immunity defense in all equitable actions for specific relief[.]”).
+
+26
+
+Treasury does not contend that sovereign immunity bars Counts I and II, nor that it bars
+Counts III or IV to the extent Plaintiffs request relief other than restitution and/or disgorgement.
+See Treas. Br. 20-23.
+28
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 42 of 74 PageID #: 1924
+
+Accordingly, that Plaintiffs’ claims may not be founded on a federal “statutory mandate” is
+irrelevant to Section 702’s “broad waiver of sovereign immunity.” Beamon, 125 F.3d at 967.
+Second, contrary to Treasury’s contention, restitution in the form of disgorgement as a
+remedy for unjust enrichment is not “money damages” prohibited by Section 702. As used in
+Section 702, “[t]he term ‘money damages’ . . . refers to a sum of money used as compensatory
+relief.” Dep’t of Army v. Blue Fox, Inc., 525 U.S. 255, 262 (1999). “Damages are given to the
+plaintiff to substitute for a suffered loss, whereas specific remedies are not substitute remedies at
+all, but attempt to give the plaintiff the very thing to which he was entitled.” Id. (internal
+quotation marks and citations omitted). Simply put, restitution operates to restore one party the
+benefit unjustly conferred upon another in a transaction; restitution requires a defendant to
+disgorge unjust gain, whereas a damages award is a substitutionary remedy measured in terms of
+a plaintiff’s loss. D. DOBBS, LAW OF REMEDIES: DAMAGES-EQUITY-RESTITUTION § 4.1(1), at
+551, 555 (2d. ed. 1993) (Ex. R); see also Bowen, 487 U.S. at 893 (“The fact that a judicial
+remedy may require one party to pay money to another is not a sufficient reason to characterize
+the relief as ‘money damages.’”); America’s Cmty. Bankers v. FDIC, 200 F.3d 822, 829 (D.C.
+Cir. 2000) (“Not all forms of monetary relief are money damages”).
+Accordingly, while Section 702 may not permit this Court to require Treasury to pay
+compensatory damages to Plaintiffs, it certainly allows the Court to order Treasury to return to
+the Companies the monies it unlawfully extracted from them pursuant to the Net Worth Sweep to
+effect the unwinding of that unlawful transaction. The U.S. Supreme Court’s decision in Bowen
+clearly supports the availability of such relief under Section 702. In that case, the Court held that
+a claim for money improperly withheld from the plaintiff did not constitute a claim for “money
+damages” excluded from Section 702’s waiver of sovereign immunity, but rather was a claim for
+
+29
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 43 of 74 PageID #: 1925
+
+specific relief for the thing to which the plaintiff was entitled in the first place. 487 U.S. at 893.
+As the Court explained, unlike money damages that serve to compensate a plaintiff for the injury
+done to him, restitution returns that which should not have been taken from him at all:
+Our cases have long recognized the distinction between an action
+at law for damages—which are intended to provide a victim with
+monetary compensation for an injury to his person, property, or
+reputation—and an equitable action for specific relief—which may
+include an order providing for . . . “the recovery of specific
+property or monies” . . . .
+Id. (quoting Larson v. Domestic & Foreign Commerce Corp., 337 U.S. 682, 688 (1949))
+(emphasis in Bowen).
+Here, Plaintiffs’ request for restitution in the form of disgorgement of the monies that
+never should have been distributed to Treasury pursuant to the unlawful Net Worth Sweep is
+exactly the sort of claim for specific monetary relief “other than money damages” that is
+permitted under Section 702. Bowen, 487 U.S. at 895-96 (describing an action to compel an
+official to repay money improperly recouped as specific relief); America’s Cmty. Bankers, 200
+F.3d at 830 (holding that plaintiff’s suit fell within scope of Section 702 waiver because
+“Bankers is not seeking compensation for economic losses suffered by the government’s alleged
+wrongdoing; Bankers wants the FDIC to return that which rightfully belonged to Bankers’
+member institutions in the first place”); see also Porter v. Warner Holding Co., 328 U.S. 395,
+402 (1946) (describing restitution as “restoring the status quo and ordering the return of that
+which rightfully belongs” to the plaintiff and as “differ[ing] greatly from” damages); Wileman
+Bros. & Elliott, Inc. v. Espy, 58 F.3d 1367, 1385 (9th Cir. 1995), rev’d on other grounds, 521
+
+30
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 44 of 74 PageID #: 1926
+
+U.S. 457 (1997), (citing Bowen and holding that “[t]he fact that the property taken from the
+handlers was money does not alter its character as a specific remedy in this case”).27
+Finally, the Appropriations Clause has nothing to do with this case because “we are
+dealing with questions of legal liabilities and not with questions of appropriations.” Louisiana v.
+Weinberger, 369 F. Supp. 856, 860 (E.D. La. 1973).28 Further, the Appropriations Clause is no
+bar where “the Government has the citizen’s money in its pocket” and the claim is “to recover an
+illegal exaction made by officials of the Government, which exaction is based upon a power
+supposedly conferred by a statute.” Eastport S.S. Corp. v. United States, 372 F.2d 1002, 1008
+(Fed. Ct. Cl. 1967). In such a case, suit can be brought “to recover (such) exactions said to have
+been illegally imposed by federal officials.” Id.; see also United States v. Testan, 424 U.S. 392,
+398, 400, 402 (1976) (citing Eastport approvingly). That is the case here: when Congress
+passed HERA, it expected and intended for FHFA and Treasury to exercise their authority in
+compliance with the Companies’ charters and bylaws—including the provisions specifying that
+Delaware and Virginia law apply to their respective corporate governance; FHFA and Treasury,
+however, exceeded and violated their authority under HERA, looting the Companies and leaving
+
+27
+
+Treasury’s reliance on Blue Fox is misplaced. The Court there found that the lien sought by
+the plaintiff-subcontractor was based on damages suffered when the prime contractor became
+insolvent and could not pay the plaintiff for its work. 525 U.S. at 263 (the lien “is to seize or
+attach money in the hands of the Government as compensation for the loss resulting from the
+default of the prime contractor”). Unlike here, none of the money held by the government
+rightfully belonged to the plaintiff—the government already paid the prime contractor the money
+due the plaintiff—nor had the government committed any wrong or been unjustly enriched.
+28
+
+Even if the Appropriations Clause were relevant (which it is not), there is “a long line of
+cases” holding that “lapse of appropriation, failure of appropriation, exhaustion of appropriation,
+do not of themselves preclude recovery for compensation otherwise due.” Lovett v. United
+States, 66 F. Supp. 142, 146 (Fed. Ct. Cl. 1945), aff’d, 328 U.S. 303 (1946); see also WetselOviatt Lumber Co. v. United States, 38 Fed. Cl. 563, 570 (Fed. Ct. Cl. 1997) (explaining that
+absence of appropriation is no bar to recovery where government’s liability established).
+
+31
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 45 of 74 PageID #: 1927
+
+them insolvent or dangerously close thereto.29 In this context, the Appropriations Clause does
+not prevent this Court from awarding the restitutionary relief sought by Plaintiffs.
+Additionally, even if Treasury were correct that the Court cannot order it to pay
+restitution to the Companies, both Section 702 and the Appropriations Clause permit the
+injunctive and declaratory relief Plaintiffs seek, including an order that the distributions
+wrongfully paid to Treasury under the Net Worth Sweep be deducted from its liquidation
+preference. If such an approach were taken, Treasury’s liquidation preference would be reduced
+to $4.9 billion with respect to Fannie and $1.1 billion with respect to Freddie following the
+dividend payments made as a result of the Companies’ first quarter 2017 financial results.
+D. Plaintiffs’ Claims Are Not Barred By HERA.
+In their briefing, Defendants assert that two provisions of HERA bar Plaintiffs’ claims.
+Defendants are mistaken. For the reasons stated below, neither HERA’s limitation on judicial
+review nor its succession clause bar Plaintiffs’ claims.
+
+29
+
+The cases cited by Treasury are distinguishable and of no help to it. OPM v. Richmond
+involved a suit by a retired Navy employee seeking an award of disability benefits. 496 U.S.
+414, 416 (1990). Because the employee sought benefits “in direct contravention of the federal
+statute upon which his ultimate claim to the funds must rest,” the U.S. Supreme Court held that
+the Appropriations Clause barred recovery. Id. at 424-34; see also Burnside-Ott Aviation
+Training Ctr., Inc. v. United States, 985 F.2d 1574, 1581 (Fed. Cir. 1993) (holding OPM is
+limited to “claim[s] for the payment of money from the Public Treasury contrary to a statutory
+appropriation.” (emphasis in original)). That is not the case here. Further, the Court reaffirmed
+the principle that a citizen may sue the government and recover money improperly exacted or
+retained. See OPM, 496 U.S. at 432. In City of Houston v. HUD, a city challenged HUD’s
+reduction of a community development grant, seeking funds that were awarded to others from an
+appropriation that had expired. 24 F.3d 1421, 1425 (D.C. Cir. 1994). The court held that the
+Appropriations Clause barred additional funds being paid from sources other than the expired
+appropriation. Id. at 1428. However, the court indicated that, had funds remained and the
+appropriation not expired, “an award [of] specific relief” “out of [the] specific res” of the
+appropriation could have been made. Id.
+
+32
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 46 of 74 PageID #: 1928
+
+1. Plaintiffs’ Claims Are Not Barred By Section 4617(f) of HERA.
+Defendants contend that HERA’s limitation on judicial review, 12 U.S.C. § 4617(f),
+prohibits all claims for equitable relief that in any way touch on the Net Worth Sweep. It does
+not. Courts embrace a “strong presumption that Congress intends judicial review of
+administrative action,” Bowen v. Michigan Acad. of Family Physicians, 476 U.S. 667, 670
+(1986), and the Court should only conclude that judicial review of administrative action is
+unavailable “if presented with clear and convincing evidence” that this was Congress’ intent.
+Reno v. Catholic Soc. Servs. Inc., 509 U.S. 43, 63–64 (1993) (quotation marks omitted).
+Plaintiffs’ claims establish that FHFA contravened and exceeded its authority under HERA in
+implementing the Net Worth Sweep by attempting to exercise powers that Fannie and Freddie
+did not have—namely, purporting to confer preferred stock dividend rights that are not permitted
+under the state corporate law governing Fannie and Freddie. FHFA as conservator simply does
+not have, and cannot exercise, powers that Fannie and Freddie themselves do not have, and
+Section 4617(f) poses no barrier to equitable relief that seeks to enforce HERA’s limits on
+FHFA’s authority.
+a.
+
+Section 4617(f) Does Not Bar Plaintiffs’ Claims for Equitable
+Relief Against FHFA.
+i.
+
+Section 4617(f) Does Not Insulate Conduct That Exceeds or
+Contravenes FHFA’s Authority Under HERA.
+
+Section 4617(f) applies only to actions that would “restrain or affect the exercise of
+powers or functions of [FHFA] as conservator or receiver.” 12 U.S.C. § 4617(f) (emphasis
+added). This statute “is inapplicable when FHFA acts beyond the scope of its conservator
+power.” Cnty. of Sonoma v. FHFA, 710 F.3d 987, 992 (9th Cir. 2013); see also Leon Cnty. v.
+FHFA, 700 F.3d 1273, 1278 (11th Cir. 2012); Town of Babylon v. FHFA, 699 F.3d 221, 228 (2d
+
+33
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 47 of 74 PageID #: 1929
+
+Cir. 2012). Indeed, as FHFA and Treasury both concede, even the Perry Capital opinion on
+which they so heavily rely made clear that Section 4617(f) bars equitable relief only where such
+relief would interfere with FHFA’s exercise of “statutorily permitted actions as conservator.”
+See FHFA Br. at 10 (quoting Perry Capital v. Mnuchin, 848 F.3d 1072, 1087 (D.C. Cir. 2017));
+Treasury Br. at 11 (quoting same passage from Perry Capital) (emphasis added).30
+These interpretations mirror judicial treatment of 12 U.S.C. § 1821(j)—the virtually
+identical provision of the Financial Institutions Reform, Recovery, and Enforcement Act
+(“FIRREA”) on which Section 4617(f) was modeled. The case of Sharpe v. FDIC, 126 F.3d
+1147 (9th Cir. 1997), is illustrative. In that case, the Ninth Circuit concluded that “the FDIC did
+not act within its statutorily granted powers” when it breached a contract and therefore held that
+Section 1821(j) did not bar equitable relief relating to that breach. Id. at 1155; see also Bank of
+Manhattan, NA v. FDIC, 778 F.3d 1133, 1136–37 (9th Cir. 2015) (same).31
+Defendants invoke language from Gross v. Bell Sav. Bank PaSA, 974 F.2d 403 (3d Cir.
+1992), to support their assertion that Section 1821(j) (and by extension, Section 4617(f)) bars
+relief so long as the conservator is not acting “clearly outside its statutory powers.” See FHFA
+Br. at 19; Treasury Br. at 10. Defendants appear to suggest that Section 1821(j) bars equitable
+30
+
+The D.C. Circuit in Perry Capital did not address the issue presented in this case—that Section
+4617(f) presents no bar to equitable relief where the claim at issue is that FHFA did not have the
+statutory power to implement the Net Worth Sweep because it cannot exercise powers that
+Fannie and Freddie themselves do not possess, including the non-existent power to confer a
+preferred stock dividend right that is not permitted by applicable state corporate law.
+31
+
+Defendants invoke the D.C. Circuit’s statement in Freeman v. FDIC, 56 F.3d 1394 (D.C. Cir.
+1995), that Section 1821(j) “effect[s] a sweeping ouster of courts’ power to grant equitable
+remedies.” FHFA Br. at 11 (quoting id. at 1399); see Treasury Br. at 12 (quoting related passage
+from Freeman). The Freeman court stated this, however, in the course of holding that Section
+1821(j) may apply to multiple types of equitable remedies. Freeman, 56 F.3d at 1399. The fact
+that the set of remedies to which Section 1821(j) applies may be “sweeping” in connection with a
+conservator’s exercise of statutorily permitted powers does not mean that a conservator may
+violate or exceed its statutory authority with impunity.
+
+34
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 48 of 74 PageID #: 1930
+
+relief, even when a conservator exceeds its statutory powers, as long as the violation is not too
+egregious. Gross said nothing of the sort. Rather, the Third Circuit stated that “federal courts
+have the ability to restrain the [Resolution Trust Corporation acting as conservator under
+FIRREA] where the Corporation is acting clearly outside its statutory powers.” Id. at 407.
+There is nothing remarkable in that statement, which is consistent with the well-settled cases
+discussed above, all of which hold that Section 1821(j) of FIRREA and Section 4617(f) of
+HERA do not bar equitable relief where a conservator exceeds statutory powers. In any event, as
+explained below, the implementation of the Net Worth Sweep clearly exceeded FHFA’s powers
+under HERA.
+The Supreme Court has squarely rejected the notion that any meaningful distinction can
+be drawn between an agency acting unlawfully and an agency acting beyond the scope of its
+powers, explaining that agencies’ “power to act and how they are to act is authoritatively
+prescribed by Congress, so that when they act improperly, no less than when they act beyond
+their jurisdiction, what they do is ultra vires.” City of Arlington v. FCC, 133 S. Ct. 1863, 1869
+(2013). Any suggestion that a federal court may not enjoin FHFA from violating the very statute
+from which it derives its authority cannot be reconciled with City of Arlington.
+Thus, before the Court can determine whether Section 4617(f) has any applicability to the
+claims in this lawsuit, it must first determine whether the Net Worth Sweep was within FHFA’s
+authority as conservator. FHFA acknowledges as much in its brief, conceding that “[t]he Court
+‘must first determine whether the challenged action is within the [Conservator]’s power or
+function’ under HERA.” FHFA Br. at 12 (quoting Dittmer Props., L.P. v. F.D.I.C., 708 F.3d
+1011, 1017 (8th Cir. 2013). As explained next, it was not.
+
+35
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 49 of 74 PageID #: 1931
+
+ii.
+
+The Net Worth Sweep Exceeds and Contravenes FHFA’s
+Authority Under HERA.
+
+In addition to enumerating specific powers that FHFA may exercise as conservator or
+receiver, HERA provides that when FHFA assumes control of Fannie or Freddie in either
+capacity, it “immediately succeed[s] to . . . all rights, titles, powers, and privileges of the
+regulated entity, and of any stockholder, officer, or director of such regulated entity with respect
+to the regulated entity . . . ,” may “take over the assets of and operate the regulated entity with all
+the powers of the shareholders, the directors, and the officers of the regulated entity and conduct
+all business of the regulated entity,” and may “perform all functions of the regulated entity in the
+name of the regulated entity which are consistent with the appointment as conservator or
+receiver.” 12 U.S.C. § 4617(b)(2)(A), (B) (emphases added). As conservator, then, FHFA “steps
+into the shoes” of Fannie and Freddie, “obtaining the rights [of those entities] that existed prior
+to [conservatorship].” O’Melveny & Myers v. FDIC, 512 U.S. 79, 86 (1994).
+Given the terms of the general authority that HERA transfers from Fannie and Freddie to
+FHFA, then, it follows that FHFA may not take actions as conservator that Fannie and Freddie
+could not themselves have taken—actions that include purporting to grant preferred stock
+dividend rights that are not permitted by the state law governing Fannie and Freddie and making
+illegal preferred dividend payments—unless those actions are specifically authorized by other
+provisions of the statute. As the Ninth Circuit explained in rejecting an assertion of authority in
+the closely analogous context of FIRREA, while “[i]t is true that some provision in the extensive
+framework of FIRREA might, in theory, afford the FDIC as receiver greater powers than those
+possessed by a failed financial institution,” to “permit the FDIC to succeed to powers greater
+than those held by the insolvent bank” in the absence of such a provision would be “an
+implausible result when FIRREA provides that the FDIC, as receiver, ‘shall . . . succeed to . . .
+
+36
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 50 of 74 PageID #: 1932
+
+all rights, titles, powers, and privileges of the insured depository institution.’” Bank of
+Manhattan, 778 F.3d at 1136 (quoting 12 U.S.C. § 1821(d)(2)(A)) (quotation marks omitted);
+see also O’Melveny & Myers, 512 U.S. at 86-87 (“It is hard to avoid the conclusion that §
+1821(d)(2)(A)(i) places the FDIC in the shoes of the insolvent S&L, to work out its claims under
+state law, except where some provision in the extensive framework of FIRREA provides
+otherwise.”); Sharpe, 126 F.3d at 1156 (similar). It follows that when FHFA is exercising the
+“rights, titles, powers, and privileges” of Fannie and Freddie and its officers and directors, it
+must comply with the same state corporate laws that governed these entities’ prior to the
+conservatorship. Indeed, in the analogous context of FIRREA, the Third Circuit has held that the
+FDIC as receiver must comply with corporate bylaws, including provisions relating to the
+indemnification of employees’ legal expenses. Ridder v. City Fed Fin. Corp., 47 F.3d 85, 86–87
+(3d Cir. 1995); see also Fleischer v. FDIC, 70 F. Supp. 2d 1238, 1241–43 (D. Kan. 1999)
+(same).32
+Fannie’s and Freddie’s bylaws incorporate, and require these entities to comply with,
+Delaware and Virginia corporation law, respectively. See supra Part B.1.33 The Net Worth
+32
+
+Article 8 of Fannie’s bylaws provides that “[n]othing in these Bylaws shall be deemed to affect
+the regulatory or conservatorship powers of the Federal Housing Finance Agency under the
+Federal Housing Enterprises Financial Safety and Soundness Act of 1992, Title XIII, P.L. 102550, as amended by the Federal Housing Finance Regulatory Reform Act of 2008, P.L. 110289.” Ex. A, Corporate Governance Practices & Procedures, Art. 8, available at
+www.fanniemae.com/resources/file/aboutus/pdf/bylaws.pdf. While this bylaw presumably
+applies when FHFA exercises specific statutory powers as a conservator other than those general
+powers derived from Fannie, it cannot reasonably be read to suggest that FHFA may exercise the
+powers of Fannie itself (such as conferring dividend rights upon a preferred stockholder) without
+regard to the limitations and rules that define those powers. In all events, Freddie does not have
+a similar provision in its bylaws.
+33
+
+See Ridder, 47 F.3d at 86–87; Fleischer, 70 F. Supp. 2d at 1242–43; cf. Pirelli Armstrong Tire
+Corp. Retiree Med. Benefits Trust v. Raines, 534 F.3d 779, 783 n.1 (D.C. Cir. 2008) (“[T]he
+relevant Fannie Mae statute and regulation have been applied so as to incorporate Delaware
+General Corporation Law.”)
+37
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 51 of 74 PageID #: 1933
+
+Sweep is flatly inconsistent with controlling principles of Delaware and Virginia corporation
+law. See supra Part B.2. In implementing the Net Worth Sweep, FHFA thus did not exercise
+rights of Fannie and Freddie “that existed prior to [conservatorship].” O’Melveny & Myers, 512
+U.S. at 86. Rather, it purported to exercise “powers greater than those held by” Fannie and
+Freddie. Bank of Manhattan, 778 F.3d at 1136. It thus exceeded and violated its statutory
+authority under Section 4617(b)(2) of HERA.
+FHFA exceeded and violated its statutory authority under HERA for another reason as
+well. HERA provides a specific mechanism though which FHFA, as conservator, may repudiate
+Fannie’s and Freddie’s contractual obligations. See 12 U.S.C. § 4617(d). It is a well-settled
+principle of Delaware law “that the DGCL, the certificate of incorporation, and the bylaws
+together constitute a multi-party contract among the directors, officers, and stockholders of the
+corporation.”34 Under Virginia law, as well, “the VSCA is deemed a part of the contract
+between a corporation and its shareholders,”35 and “[c]orporate bylaws when not in
+contravention of any statute have all of the force of contracts as between the corporation and its
+members and as between the members themselves.”36
+FHFA may repudiate Fannie’s and Freddie’s contractual obligations only “within a
+reasonable period following [its] appointment” as conservator, 12 U.S.C. § 4617(d)(2), and it is
+liable for “actual direct compensatory damages” arising from the repudiation, id. §
+4617(d)(3)(A)(i); see also 12 C.F.R. § 1237.5 (defining “a reasonable period . . . as a period of
+18 months following the appointment of a conservator or receiver”). FHFA lacks authority
+34
+
+Allen v. El Paso Pipeline GP Co., LLC, 90 A.3d 1097, 1107 (Del. Ch. 2014); see also, e.g.,
+Boilermakers Local 154, 73 A.3d at 940.
+35
+
+Firestone v. Wiley, 485 F. Supp. 2d 694, 705 (E.D. Va. 2007).
+
+36
+
+Lee v. Va. Educ. Ass’n, Inc., 2 Va. Cir. 319, 1969 WL 101681, at *1 (1969).
+
+38
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 52 of 74 PageID #: 1934
+
+under HERA to breach Fannie’s and Freddie’s contractual obligations without following this
+statutory mechanism. As the Ninth Circuit explained in the analogous context of FIRREA, “the
+FDIC can escape the obligations of contracts . . . only through the prescribed mechanism.
+Section 1821(e) allows the FDIC to disaffirm or repudiate any contract it deems burdensome and
+pay only compensatory damages. FIRREA does not permit the FDIC to breach contracts at
+will.” Sharpe, 126 F.3d at 1155; see also Bank of Manhattan, 778 F.3d at 1135 (same). FHFA
+did not comply with the requirements of Section 4617(d) for repudiating Fannie’s and Freddie’s
+contractual obligations to their stockholders to comply with their bylaws and with governing
+principles of state corporation law. In implementing the Net Worth Sweep in violation of these
+contractual obligations, FHFA thus “did not act within its statutorily granted powers,” and its
+actions “cannot be considered a statutorily authorized function” under HERA. Sharpe, 126 F.3d
+at 1155. Accordingly, Section 4617(f) does not bar “equitable claims related to [FHFA’s]
+contractual breaches.” Bank of Manhattan, 778 F.3d at 1135.
+As the foregoing discussion makes clear, Plaintiffs do not seek to “avoid” Section 4617(f)
+“by alleg[ing] that the Conservator did a bad job or acted based on an improper motive.” FHFA
+Br. 19. Nor do Plaintiffs seek to “avoid” this statute by arguing that FHFA “violated some other
+law.” Id. at 16. Rather, Plaintiffs contend that FHFA contravened and exceeded its statutory
+authority under HERA itself both by purporting to exercise powers that exceeded those it
+inherited from Fannie and Freddie pursuant to HERA and also by breaching these entities’
+contractual obligations to their shareholders without following the statutory requirements
+prescribed by HERA for repudiating such obligations. Accordingly, the various cases invoked
+by FHFA holding that Section 4617(f) (or its FIRREA analog) bars equitable relief where
+
+39
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 53 of 74 PageID #: 1935
+
+Plaintiffs argue only that a conservator did not properly exercise otherwise-legitimate powers,
+violated provisions of other law, or acted with a bad motive are inapposite here.37
+iii.
+
+FHFA’s Asserted Statutory Authorizations for the Net
+Worth Sweep All Lack Merit.
+
+FHFA seems to argue that even assuming (as Plaintiffs contend) that FHFA had no power
+to implement the Net Worth Sweep by virtue of powers that could be permissibly exercised by
+Fannie and Freddie under applicable state corporate law, FHFA nonetheless had authority to
+implement the Net Worth Sweep as an exercise of its statutory power to operate Fannie and
+Freddie and conduct their business and as an exercise of its power to transfer or sell any asset of
+the enterprises. FHFA Br. 14-15. FHFA also relies on what it describes as its power to act in the
+manner it determines is in the best interests of the enterprises or FHFA. Id. at 14.38 None of
+these statutory authorities confers upon FHFA the power to effectuate the Net Worth Sweep,
+effectively nationalizing the Companies by transferring all of their net worth and future earnings
+to Treasury through an impermissible preferred stock dividend right.
+
+37
+
+For example, Defendants invoke Gross, as well as Rosa v. Resolution Trust Corporation, 938
+F.2d 383 (3d Cir. 1991), Ward v. Resolution Trust Corporation, 996 F.2d 99 (5th Cir. 1993), and
+a handful of similar cases, to suggest that Section 1821(j) applies even when the conservator or
+receiver violates state or federal laws or other statutory schemes. See Treasury Br. 11; FHFA Br.
+12, 16-17 & n.13. These cases are best understood to mean only that Section 1821(j) applies
+even when a conservator or receiver violates some law other than FIRREA. Here, as explained
+in the text, FHFA acted in violation of its powers under HERA because, under HERA, it stepped
+into the shoes of Fannie and Freddie and its powers, therefore, are necessarily no broader than
+the powers Fannie and Freddie themselves have under state corporate law.
+38
+
+FHFA also invokes what it describes as its authority to “‘contract’ on [Fannie’s and Freddie’s]
+behalf.” FHFA Br. 14. But FHFA does not cite the sub part of 12 U.S.C. 4617(b)(2) to which it
+is alluding. Section 4617(b)(2)(B)(v) provides that FHFA may “provide by contract for
+assistance in fulfilling any function, activity, action, or duty of the Agency as conservator or
+receiver.” 12 U.S.C. § 4617(b)(2)(B)(v) (emphasis added). This provision does not confer upon
+FHFA an unqualified power to enter into whatever contracts it chooses, but only the incidental
+power to enter into contracts that further FHFA’s other powers and duties as conservator or
+receiver.
+
+40
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 54 of 74 PageID #: 1936
+
+As to FHFA’s argument that the Net Worth Sweep was an exercise of power granted by
+HERA to “operate” and “carry on [the] business” of Fannie and Freddie, those powers too are
+necessarily no broader than the powers Fannie and Freddie would themselves have to operate
+and carry on their businesses. Nothing in FHFA—and nothing in the D.C. Circuit’s decision in
+Perry Capital—provides otherwise.39 Moreover, HERA imposes an additional limitation on
+FHFA’s power “to carry on the business” of Fannie and Freddie, directly linking this power with
+FHFA’s duty to “preserve and conserve [their] assets and property.”40 Far from preserving and
+conserving Fannie’s and Freddie’s assets, the Net Worth Sweep does the precise opposite,
+transferring all of these entities’ net worth to the government.
+Nor can the Net Worth Sweep be sustained as an exercise of FHFA’s authority under
+HERA to “transfer or sell any asset” of Fannie or Freddie “without any approval, assignment, or
+consent.” 12 U.S.C. § 4617(b)(2)(G)). First, this provision governing FHFA’s power to dispose
+of Fannie’s and Freddie’s assets must be read in conjunction with Section 4617(b)(2)(B)(i),
+which provides that as conservator, FHFA may “take over the assets of . . . the regulated entity
+with all the powers of the shareholders, the directors, and the officers of the regulated entity[.]”
+(emphasis added). It follows that FHFA may exercise no greater control over Fannie’s and
+Freddie’s assets than could have Fannie and Freddie themselves before the conservatorship.
+These Companies could not have disposed of their entire net worth through creation of a
+39
+
+As noted, in Perry Capital, the claims at issue did not include the central claim in this action—
+that Fannie and Freddie themselves had no power under applicable state law to confer the type of
+dividend right purportedly conferred by the Net Worth Sweep—and therefore did not address a
+situation, such as that here, where it was shown that FHFA exceeded its powers under HERA by
+purporting to exercise a power that Fannie and Freddie themselves do not possess.
+40
+
+12 U.S.C. § 4617(b)(2)(D) (“The Agency may, as conservator, take such actions as may be . . .
+appropriate to carry on the business of the regulated entity and preserve and conserve the assets
+and property of the regulated entity.”) (emphasis added).
+
+41
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 55 of 74 PageID #: 1937
+
+purported dividend right that is not permitted under Delaware and Virginia corporate law, and
+Section 4617(b)(2)(G) cannot reasonably be understood to authorize FHFA to do what Fannie
+and Freddie could not.
+Second, FHFA’s contention that the law “does not provide any limitation” on its
+authority to transfer the Companies’ assets, FHFA Br. 15, would allow it to completely ignore
+HERA’s detailed procedures and order of priorities for the distribution of assets during
+liquidation, see 12 U.S.C. § 4617(b)(3)–(9), (c). Under FHFA’s reading of HERA’s transfer
+provision, for example, during a liquidation the agency would be free to transfer the Companies’
+assets to subordinated debtholders before paying general creditors, in direct contravention of 12
+U.S.C. § 4617(c)(1)(B). The Supreme Court rejected a construction of language in FIRREA’s
+predecessor that would have made nonsense out of other provisions of the same Act, and
+FHFA’s reading of HERA’s transfer provision should similarly be rejected.41 Interpreting the
+transfer provision in a way that would allow FHFA to eviscerate HERA’s order of priorities
+during receivership is particularly untenable since this reading of the statute would raise grave
+constitutional concerns by permitting the agency to take private property without paying just
+compensation. See United States v. Security Indus. Bank, 459 U.S. 70, 78–82 (1982) (construing
+statute narrowly to avoid takings clause difficulty).
+Third, Section 4617(b)(2)(G) specifies that FHFA may only transfer assets “as
+conservator or receiver” (12 U.S.C. § 4617(b)(2)(G) (emphasis added)), and FHFA was not
+acting in either capacity when it transferred the entirety of Fannie’s and Freddie’s residual
+economic value from private investors to another government agency in exchange for virtually
+nothing. To the contrary, when FHFA transfers Fannie’s or Freddie’s assets, HERA specifically
+41
+
+See Coit Independence Joint Venture v. Fed. Sav. & Loan Ins. Corp., 489 U.S. 561, 573–74
+(1989); King v. Burwell, 135 S. Ct. 2480, 2495 (2015).
+
+42
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 56 of 74 PageID #: 1938
+
+requires it to “maximize[ ] the net present value return” the Company receives, id.
+§ 4617(b)(11)(E)(i), something that the Net Worth Sweep plainly did not do. Moreover, in the
+conservatorship context, HERA instructs FHFA to take actions necessary and appropriate to “put
+[Fannie and Freddie] in a sound and solvent condition” and to “preserve and conserve [their]
+assets and property.” Id. § 4617(b)(2)(D). As FHFA has acknowledged, these statutes require it
+to use its powers to “rehabilitate” the Companies for eventual return to normal business
+operations. 76 Fed. Reg. at 35,730.42 The Net Worth Sweep has the purpose and effect of
+preventing the Companies from ever rebuilding capital so that they could return to private
+control, and FHFA as conservator lacks the authority to “transfer assets” to prevent, rather than
+to promote, rehabilitation of the Companies.
+
+42
+
+While the Perry Capital majority held that these statutory directives were not binding, the
+dissent convincingly explained why this holding was wrong, examining the statutory text and
+structure and the background common-law and statutory understanding of the role of a
+conservator. See Perry Capital, 848 F.3d at 1117-24 (Brown, J., dissenting). Indeed, outside the
+context of this litigation, FHFA itself has repeatedly stated that these statutory provisions are
+mandatory, including in congressional testimony and a speech given by FHFA’s director after
+the issuance of the Perry Capital decision. See Statement of Melvin L. Watt, Director, FHFA,
+Before the U.S. Senate Committee on Banking, Housing, and Urban Affairs at 1 (May 11, 2017),
+https://www.fhfa.gov/Media/PublicAffairs/Pages/Statement-of-Melvin-L-Watt-Director-FHFABefore-the-US-Senate-Committee-on-Banking-Housing-and-Urban-Affairs-05112017.aspx
+(testifying that FHFA’s “statutory mandates obligate” it to “[c]onserve and preserve the assets of
+the Enterprises while they are in conservatorship”); Prepared Remarks of Melvin L. Watt,
+Director of FHFA at American Mortgage Conference, North Carolina Bankers Association (May
+18, 2017), https://www.fhfa.gov/Media/PublicAffairs/Pages/Prepared-Remarks-of-Melvin-LWatt-Director-of-FHFA-at-American-Mortgage-Conference-North-Carolina-BankersAssociation.aspx (“We take our statutory obligations to operate the Enterprises in a safe and
+sound manner seriously.”). See also, e.g., 75 Fed. Reg. 39,462, 39,469 (July 9, 2010)
+(acknowledging “the Conservator’s mandate to put the regulated entity in a sound and solvent
+condition and to preserve and conserve the assets and property of the regulated entity”); FHFA
+Strategic Plan: Fiscal Years 2015-2019 at 14 (Nov. 21, 2014),
+https://www.fhfa.gov/AboutUs/Reports/ReportDocuments/FHFA-Strategic-Plan-FY-20152019.pdf (“FHFA’s authority as both conservator and regulator of the Enterprises is based upon
+statutory mandates enacted by Congress to ensure . . . safe and sound Enterprise operations, as
+well as to preserve and conserve their assets.”).
+43
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 57 of 74 PageID #: 1939
+
+FHFA attempts to prop up its reading of the transfer provision by citing various cases in
+which courts ruled that FIRREA barred plaintiffs from suing receivers to enjoin specific transfers
+of assets. FHFA Br. 14–15 & n.11 (citing, inter alia, Gosnell v. FDIC, 1991 WL 533637, at *6
+(W.D.N.Y. Feb. 4, 1991)). But these cases all involved routine transfers of discrete assets. None
+of these cases involved situations in which the “transfer” was effectuated by means of an
+impermissible dividend right that the entities in receivership had no power themselves to confer
+(and that the federal conservator or receiver therefore had no power to confer), let alone
+situations in which a federal conservator or receiver had transferred its ward’s entire net worth to
+another entity, effectively nullifying HERA’s (or FIRREA’s) specific distribution requirements
+as well as the statutory requirements that a conservator take actions to place its ward “in a sound
+and solvent condition” and “preserve and conserve [its] assets and property.” 12 U.S.C. §
+4617(b)(2)(D). Nor do FHFA’s cases suggest that conduct such as that at issue here would
+escape review. See, e.g., Gosnell, 1991 WL 533637, at *6 (observing that receiver is not
+“wholly above the law” and that “truly ultra vires or arbitrary and capricious acts on its part may
+be enjoined”).
+Finally, the Net Worth Sweep cannot be sustained as an exercise of the FHFA’s
+“[i]ncidental power[ ]” to “take any action authorized by this section, which the Agency
+determines is in the best interests of the regulated entity or the Agency.” 12 U.S.C. §
+4617(b)(2)(J) (emphasis added). As the italicized language makes clear, the incidental power to
+take actions that FHFA determines are in the best interests of FHFA or Fannie and Freddie is
+limited to actions otherwise authorized by HERA.
+b. Section 4617(f) Does Not Bar Plaintiffs’ Claims for Relief
+Against Treasury.
+Though HERA includes no provision limiting judicial review of claims against it,
+
+44
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 58 of 74 PageID #: 1940
+
+Treasury nevertheless argues that Section 4617(f) bars judicial relief against it because the relief
+Plaintiffs request against Treasury would “affect” FHFA’s power to enter into the Net Worth
+Sweep. Treas. Br. 17. This argument is of no moment because, as explained above, Section
+4617(f) does not “affect” FHFA’s exercise of statutorily permissible powers because effectuation
+of the Net Worth Sweep did not involve the exercise of a statutorily permissible power; it
+exceeded FHFA’s powers under HERA.
+2. HERA’s Succession Clause Does Not Bar Stockholders From
+Prosecuting Claims During The Conservatorships.
+Defendants’ argument that Plaintiffs’ claims are “purely derivative” and that, as such,
+they are barred under HERA’s succession clause, 12 U.S.C. § 4617(b)(2)(A) (FHFA Br. 21; see
+also Treas. Br. 14-19)—largely taken wholesale from their prior briefs in support of dismissal of
+Plaintiffs’ original complaint—is meritless because it ignores the fact that Plaintiffs’ amended
+complaint only contains statutory and quasi-contract claims for relief, which plainly are direct
+claims under Delaware law and thus are not barred by HERA’s succession clause. And, even if
+Plaintiffs’ current claims were derivative (which they are not), HERA’s succession clause does
+not bar derivative claims where, as here, FHFA has a manifest conflict of interest.
+a. Plaintiffs Have Stated Direct Claims For Relief.
+Under Delaware law, “whether a stockholder’s claim is derivative or direct” turns on two
+questions: “(1) who suffered the alleged harm (the corporation or the suing stockholders,
+individually); and (2) who would receive the benefit of any recovery or other remedy (the
+corporation or the stockholders, individually).” Tooley v. Donaldson, Lufkin & Jenrette, Inc.,
+845 A.2d 1031, 1033 (Del. 2004).43
+
+43
+
+While Delaware law is well developed on this issue, Virginia law is not. See, e.g., Remora
+Invs., LLC v. Orr, 673 S.E.2d 845, 848 (Va. 2009) (discussing, but ultimately not deciding
+45
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 59 of 74 PageID #: 1941
+
+In analyzing the first question, a court considers “whether the stockholder has
+demonstrated that he or she has suffered an injury that is not dependent on an injury to the
+corporation”—that is, whether the plaintiff has “demonstrated that he or she can prevail without
+showing an injury to the corporation.” Id. at 1036.44 Plaintiffs’ claims satisfy the first prong of
+Tooley because they and the Companies’ other private stockholders have suffered an injury
+independent of and distinct from the injury suffered by the Companies.
+As an initial matter, there can be no dispute that Counts I and II state direct claims for
+relief, because those counts seek redress for Defendants’ violations of corporate statutory law. It
+is well established that direct claims “include causes of action to enforce contract rights that
+stockholders possess under the corporation’s certificate of incorporation and bylaws, recognizing
+that the DGCL forms a part of every Delaware corporation’s charter.” In re Activision Blizzard,
+Inc. S’holder Litig., 124 A.3d 1025, 1049 (Del. Ch. 2015). Stockholders “similarly can sue
+directly to enforce contractual constraints on a board’s authority under the charter, bylaws, and
+provisions of the DGCL.” Id. at 1050; see also NAF Holdings, LLC v. Li & Fung (Trading) Ltd.,
+118 A.3d 175, 179, 182 (Del. 2015) (“[A] party to a commercial contract may sue to enforce its
+contractual rights directly, without proceeding by way of a derivative action,” and “Tooley and
+its progeny do not, and were never intended to, subject commercial contract actions to a
+“whether to adopt the analysis employed by the Delaware Supreme Court in Tooley”). In the
+absence of settled law of their own, Plaintiffs respectfully submit (and Defendants appear to
+agree) that Virginia courts would follow Delaware law on the issue. See, e.g., U.S. Inspect Inc. v.
+McGreevy, 2000 WL 33232337, at *4 (Va. Cir. Ct. Nov. 27, 2000) (looking to Delaware law for
+guidance in the absence of Virginia Supreme Court precedent).
+44
+
+This analysis does not imply that a stockholder must show that the action that harmed his or
+her own interests did not also harm the corporation—to the contrary, some wrongs harm both the
+corporation and its stockholders directly and can be challenged through either derivative or
+direct actions. See Gatz v. Ponsoldt, 925 A.2d 1265, 1278 (Del. 2007). Rather, it means only
+that the stockholder must be able to prove his own injury without regard to whether the
+corporation was also harmed.
+
+46
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 60 of 74 PageID #: 1942
+
+derivative suit requirement.”); Gale v. Bershad, 1998 WL 118022, at *2-3 (Del. Ch. Mar. 4,
+1998) (holding that stockholder stated direct claim against corporation and its directors for
+alleged breaches of corporate charter). Significantly, Delaware law holds that a stockholder’s
+suit “for compensation for the diminution in value of its stock” caused by an alleged breach of
+contract can be brought as a direct action. NAF Holdings, 118 A.3d at 180. Here, as explained
+above, the Net Worth Sweep violates DGCL § 151 and VSCA § 13.1-638, statutory provisions
+which are incorporated into Fannie’s and Freddie’s respective charters and thus are binding
+contractual terms, the violation of which gives rise to direct claims for relief by Company
+stockholders. See Blue Chip Capital Fund II Ltd. P’ship v. Tubergen, 906 A.2d 827, 828 (Del.
+Ch. 2006) (“A minority preferred stockholder claims that the board breached the company’s
+certificate of incorporation when, after the sale of substantially all of the company’s assets, it
+distributed an inflated amount of the proceeds to the holders of a class of preferred stock which
+included the company’s controller. . . . The court concludes that the allegations are sufficient to
+sustain a direct claim against the company for breach of contract and breach of the implied
+covenant of good faith and fair dealing.”).
+Counts III and IV similarly state direct claims for relief. Plaintiffs and other stockholders
+of the Companies have suffered a distinct injury caused by the Net Worth Sweep’s extraction
+and redistribution of all of the earnings and net worth of the Companies to Treasury, the
+Companies’ controlling stockholder. The Delaware Supreme Court has recognized this
+principle, labeling it “cash-value dilution.” In re Tri-Star Pictures, Inc. Litig., 634 A.2d 319, 330
+(Del. 1993). In Tri-Star, the Court held that an unfair asset transfer by the corporation to its
+controlling stockholder caused direct injury to the minority stockholders, explaining that the
+transfer affected the controller and the minority stockholders differently because, while shares of
+
+47
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 61 of 74 PageID #: 1943
+
+all holders suffered value diminution, “[a]ny diminution in the . . . value of [the controller’s
+shares] . . . was totally offset by the windfall profits . . . [the controller] accumulated.” Id. The
+minority stockholders only suffered the injury, without any offsetting benefit. Thus, “the
+practical effect” of the transaction was “to increase the value of the controlling stockholder’s
+interest at the sole expense of the minority.” Id. The Court found this type of injury to be “quite
+different” from a case involving waste or mismanagement, where there is no offsetting transfer
+and the injury truly “diminishes the value of all stockholders’ interests equally.” Id.; see also id.
+at 332 (stating that the controller “suffered no similar loss, but reaped a substantial profit”).
+Consequently, the Court held that, in light of “the singular economic injury to minority interests
+alone, the minority have stated a cause of action” that was direct. Id. at 332; see also Gradient
+OC Master, Ltd. v. NBC Universal, Inc., 930 A.2d 104, 130 (Del. Ch. 2007) (“[W]hen a
+controlling shareholder extracts financial benefit from the shareholders and procures a financial
+benefit exclusive to himself, the non-controlling shareholders have a direct claim . . .”).
+The crux of Plaintiffs’ claims here is not that there has been “an equal dilution of the
+economic value . . . of each of [Fannie’s and Freddie’s] outstanding shares”; rather, it is that the
+Net Worth Sweep constituted an unlawful “extraction from [Plaintiffs and the Companies’ other
+stockholders], and a redistribution to [Treasury,] the controlling shareholder, of . . . the economic
+value” of their stock. Gentile v. Rossette, 906 A.2d 91, 100 (Del. 2006). That is, while the
+Companies may have suffered harm as a result of the Net Worth Sweep, the Net Worth Sweep
+has not affected the values of all Company stock equally. Rather, the Companies still are
+incredibly valuable and Treasury’s Senior Preferred Stock—which, following the imposition of
+the Net Worth Sweep, entitles the government to an unlimited, perpetual dividend of the entire
+net worth of the Companies every quarter—could very well be the most valuable corporate stock
+
+48
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 62 of 74 PageID #: 1944
+
+in the world, and much more valuable than it was prior to the Net Worth Sweep when it had only
+a 10% dividend. At the same time as the Net Worth Sweep made Treasury’s Senior Preferred
+Stock significantly more valuable, the Net Worth Sweep wiped out all the value of all other
+classes and series of the Companies’ stock, unjustly transferring Plaintiffs’ and other Company
+stockholders’ individual rights as common and preferred stockholders of the Companies to
+participate in the earnings and net worth of the Companies to Treasury. See Ex. O at 23
+(“Making sure that every dollar of earnings that Fannie Mae and Freddie Mac generate will be
+used to benefit taxpayers for their investment in those firms.”); Ex. P at 2 (“Makes clear the
+Administration’s commitment to ensure existing common equity holders will not have access to
+any positive earnings from the GSEs in the future.”). As such, Plaintiffs and the Companies’
+other private stockholders have suffered distinct, individual harm. See CMS Inv. Holdings, LLC
+v. Castle, 2015 WL 3894021, at *8-9 (Del. Ch. June 23, 2015) (holding that Class A unitholder
+stated direct claims against Class B and C unitholders for alleged “extraction from one group of
+stockholders, and a redistribution to another [group]” of corporate cash and assets).
+Because Plaintiffs’ claims are direct under Tooley’s first prong, “[t]he second prong of
+the analysis should logically follow.” Tooley, 845 A.2d at 1036. The Net Worth Sweep injured
+the Companies and their private stockholders in independent and distinct ways, and the remedy
+should take place at the stockholder level. For example, in In re Gaylord Container Corp.
+Shareholders Litigation, Delaware Supreme Court Chief Justice Leo E. Strine, Jr., writing as a
+Vice Chancellor, expressed skepticism as to the propriety of awarding damages to the
+corporation (and the resulting derivative characterization of the claim) where the alleged
+wrongdoers owned a significant stake in the corporation. 747 A.2d 71, 80 (Del. Ch. 1999).
+Chief Justice Strine asked, if the defendants were proven to be wrongdoers, “should [they] be
+
+49
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 63 of 74 PageID #: 1945
+
+entitled to recover damages for the economic injury they inflicted on themselves as
+stockholders?” Id. “If the answer is no because of the fact that they created the harm, this factor
+would support awarding relief to the class of innocent stockholders, not to the corporation.” Id.
+As the Chief Justice recognized, if Treasury is proven to have engaged in wrongdoing, it would
+be appropriate to award relief to the Companies’ private stockholders—even more so here
+because, as explained above, Treasury suffered no injury in the first place but rather was unjustly
+enriched by its wrongdoing. Id.; see also id. at 84 (relying on Tri-Star and holding that plaintiffstockholders had stated direct claims for relief because not all stockholders had been injured
+equally, “since whatever injury has been suffered has been borne disproportionately, if not
+exclusively, by the non-management stockholders”). Thus, a stockholder-level remedy that
+redresses the expropriation of value from Plaintiffs and the other private stockholders of the
+Companies is available in this case. See Tri-Star, 634 A.2d at 330-33 (finding special injury
+where transaction increased value of controlling stockholder’s interest at expense of minority).
+Accordingly, Plaintiffs state direct claims for relief in their amended complaint.45
+b. HERA’s Succession Clause Does Not Strip Plaintiffs Of
+Their Rights In The Companies’ Stock.
+FHFA contends that HERA vested it, as the Companies’ conservator, with all “rights,
+titles, powers, and privileges” that inhered in Plaintiffs’ stock and that Plaintiffs have no rights in
+that stock left to vindicate as a result. See FHFA Br. 20-22 (citing 12 U.S.C. § 4617(b)(2)(A)).
+This argument is meritless for two reasons. First, HERA does not bar Plaintiffs from asserting
+direct claims that relate to their ownership of Company stock, and, as explained above, all of
+Plaintiffs’ claims here are direct. Second, courts repeatedly have recognized an exception to the
+45
+
+As explained in Plaintiffs’ January 20, 2017 letter, which is incorporated herein by reference,
+the Delaware Supreme Court’s December 2016 decision in El Paso Pipeline GP Co., L.L.C. v.
+Brinckerhoff, 152 A.3d 1248 (Del. 2016), is not to the contrary. See D.I. 56.
+50
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 64 of 74 PageID #: 1946
+
+general rule that stockholders may not bring derivative claims during conservatorship where, as
+here, the conservator has a manifest conflict of interest and there is no compelling reason to
+deviate from that recognized exception now.
+i.
+
+Plaintiffs Have Standing To Prosecute Direct Claims
+Based On Their Ownership Of Company Stock.
+
+HERA provides that FHFA as conservator succeeds to “all rights, titles, powers, and
+privileges of . . . any stockholder . . . of [Fannie and Freddie] with respect to [Fannie and
+Freddie] and the assets of [Fannie and Freddie].” 12 U.S.C. § 4617(b)(2)(A)(i) (emphasis
+added). While this language may have implications for the ability of stockholders to bring
+derivative claims on behalf of Fannie and Freddie, it does nothing to divest stockholders of their
+own, personal economic rights in Fannie and Freddie and, therefore, does not prevent Company
+stockholders from bringing direct claims on behalf of themselves to protect their own rights.
+Perry Capital, 848 F.3d 1104-06 (holding that HERA’s succession clause does not bar direct
+suits by stockholders).46 Although FHFA “respectfully disagrees” with the D.C. Circuit’s
+holding in Perry Capital (FHFA Br. at 22, n.15) and Treasury seems to ignore that aspect of the
+D.C. Circuit’s decision, Perry Capital is clear that HERA does not bar direct stockholder
+claims.47
+
+46
+
+See also Levin v. Miller, 763 F.3d 667, 672 (7th Cir. 2014) (holding that materially identical
+provision of FIRREA, 12 U.S.C. § 1821(d)(2)(A)(i), grants the FDIC rights only to derivative
+stockholder claims, not direct stockholder claims); Barnes v. Harris, 783 F.3d 1185, 1193 (10th
+Cir. 2015) (same); In re Beach First Nat’l Bancshares, Inc., 702 F.3d 772, 778, 780 (4th Cir.
+2012) (same); Lubin v. Skow, 382 F. App’x 866, 878 (11th Cir. 2010) (same).
+47
+
+Straining to read HERA as transferring all stockholder rights to the conservator would raise
+grave constitutional concerns, because even a temporary governmental taking of private property
+requires just compensation to the displaced owner. See Ark. Game & Fish Comm’n v. United
+States, 133 S. Ct. 511, 515 (2012) (“[I]f government action would qualify as a taking when
+permanently continued, temporary actions of the same character may also qualify as a taking.”).
+Thus, it would be improper to interpret HERA’s language as transferring all stockholder rights,
+51
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 65 of 74 PageID #: 1947
+
+ii.
+
+Plaintiffs Would Have Standing To Prosecute Derivative
+Claims Because FHFA Has A Manifest Conflict of Interest.
+
+Even if Plaintiffs’ claims were deemed to be derivative, HERA permits Plaintiffs to bring
+such claims because it is a manifest, indeed obvious, conflict of interest for FHFA to decide
+whether to sue itself and Treasury. While Section 4617(b)(2)(A) generally has been interpreted
+to bar derivative (but not direct) suits by stockholders during conservatorship or receivership, it
+does not follow that all stockholder derivative suits are barred without exception, including
+derivative suits involving a challenge to the actions of the conservator or receiver itself or a
+closely related federal agency. Indeed, any such interpretation would be highly suspect, for it is
+well settled that Congress may not exercise its authority to regulate federal jurisdiction “to
+deprive a party of a right created by the Constitution.” Bartlett v. Bowen, 816 F.2d 695, 705
+(D.C. Cir. 1987); see also Reich v. Collins, 513 U.S. 106, 109–10 (1994); Battaglia v. General
+Motors Corp., 169 F.2d 254, 257 (2d Cir. 1948). In light of this constitutional principle, HERA
+cannot reasonably be read to bar stockholders from obtaining meaningful judicial review of
+claims, including constitutional claims, where FHFA has a manifest conflict of interest that
+prevents it from adequately protecting stockholders’ rights. See, e.g., Webster v. Doe, 486 U.S.
+592, 603 (1988) (interpreting statute to avoid constitutional concern); Bowen, 476 U.S. at 680
+n.12 (same); Lockerty v. Phillips, 319 U.S. 182, 188 (1943) (same); cf. Bowen, 476 U.S. at 670
+(noting “strong presumption that Congress intends judicial review of administrative action”).
+Two federal courts of appeals have squarely addressed this question in the context of
+12 U.S.C. § 1821(d)(2)(A)(i), FIRREA’s analogue to Section 4617(b)(2)(A). And both of those
+courts held that stockholders may maintain a derivative suit when the conservator or receiver has
+
+including the ability to bring direct claims to protect those rights, to the conservator. See Nat’l
+Fed’n of Indep. Bus. v. Sebelius, 132 S. Ct. 2566, 2593–94 (2012) (opinion of Roberts, C.J.).
+
+52
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 66 of 74 PageID #: 1948
+
+a manifest conflict of interest. See First Hartford Corp. Pension Plan & Trust v. United States,
+194 F.3d 1279, 1283 (Fed. Cir. 1999) (finding standing to sue “because of the FDIC’s conflict of
+interest by which it is both alleged to have caused the breach and controls the depository
+institution”); Delta Sav. Bank v. United States, 265 F.3d 1017, 1024 (9th Cir. 2001) (adopting “a
+common-sense, conflict of interest exception to the commands of FIRREA” and permitting a
+shareholder to bring a derivative suit against one of the FDIC’s “closely-related, sister
+agencies”). Further, in the context of HERA, several courts have recognized a conflict-ofinterest exception to the general rule urged by Defendants here.48
+While the Perry Capital majority rejected interpreting HERA to allow stockholder
+derivative suits when a conservator is conflicted, its reasoning is faulty. In declining to follow
+First Hartford and Delta Savings and finding the class plaintiffs’ derivative claims to be barred,
+the Perry Capital majority concluded that “two circuit court decisions” are not enough to “settle
+the meaning of the existing statutory provision” such that Congress should be understood to have
+adopted the prior rulings when it reenacted the same language. Perry Capital, 848 F.3d at 1106.
+But Third Circuit precedents are to the contrary. See Si Min Cen v. Attorney Gen., 825 F.3d 177,
+195 (3d Cir. 2016) (“‘Congress is presumed to be aware of an administrative or judicial
+interpretation of a statute and to adopt that interpretation when it […] adopts a new law
+incorporating sections of a prior law[…]’”) (quoting Lorillard v. Pons, 434 U.S. 575, 580–81
+(1978)); DeLeon-Ochoa v. Att’y Gen., 622 F.3d 341, 355 (3d Cir. 2010) (adopting Fourth
+Circuit’s statutory interpretation); Cunningham v. R.R. Ret. Bd., 392 F.3d 567, 578 (3d Cir.
+48
+
+See In re Fed. Home Loan Mortg. Corp. Deriv. Litig., 643 F. Supp. 2d 790, 798 (E.D. Va.
+2009) (“Absent a showing of a clear conflict of interest similar to the conflicts at issue in First
+Hartford and Delta Savings, the plaintiffs lack standing to pursue these claims.”); Esther
+Sadowsky Test. Trust v. Syron, 639 F. Supp. 2d 347, 350 (S.D.N.Y. 2009) (“The Trust has
+pointed to no such conflict of interest here . . . .”).
+
+53
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 67 of 74 PageID #: 1949
+
+2004) (following Seventh Circuit’s interpretation of statute). Moreover, in light of the
+importance of financial markets’ “settled expectations” in this sensitive area and Congress’ clear
+intent to reassure investors by including in HERA conservatorship provisions modeled on the
+familiar provisions of FIRREA, see Perry Capital, 848 F.3d at 1127 (Brown, J., dissenting),
+prior judicial constructions of FIRREA deserve deference when interpreting HERA.
+Additionally, and significantly, the Perry Capital majority’s interpretation of HERA’s
+succession clause violates the canon of statutory construction that a statute should be read as a
+whole and interpreted to give effect to all of its component parts as well as its purpose. Trustees
+of Amalgamated Ins. Fund v. Sheldon Hall Clothing, Inc., 862 F.2d 1020, 1022 (3d Cir. 1988);
+Fink v. Phelps, 2010 WL 2104233, at *4 (D. Del. May 25, 2010), aff'd, 448 F. App’x 258 (3d
+Cir. 2011). That clause does not address derivative suits by stockholders when the conservator is
+conflicted, nor even address derivative suits by stockholders at all. In contrast, another provision
+of HERA explicitly contemplates that during conservatorship a “regulated entity” may sue “for
+an order requiring the Agency to remove itself as conservator.” 12 U.S.C. § 4617(a)(5). Since
+FHFA controls the Companies during conservatorship, and the U.S. Constitution would not
+permit FHFA to sue itself, this provision would be meaningless if stockholders could not sue the
+conservator derivatively on behalf of the Companies. See United States v. ICC, 337 U.S. 426,
+430 (1949) (recognizing “general principle that no person may sue himself”). Simply put, there
+would be no one to bring suit. Given that every appellate court to address this question in the
+context of FIRREA before HERA was enacted interpreted the relevant language to include a
+conflict-of-interest exception, when Congress reenacted nearly identical language in HERA, it
+can be presumed to have accepted the judicial construction of that language as including a
+conflict-of-interest exception. See Merrill Lynch, Pierce, Fenner & Smith Inc. v. Dabit, 547 U.S.
+
+54
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 68 of 74 PageID #: 1950
+
+71, 85–86 (2006); Bragdon v. Abbott, 525 U.S. 624, 645 (1998). Moreover, HERA’s succession
+clause does not purport to eliminate any stockholder rights but only provides that FHFA
+temporarily “succeed[s]” to them. As such, HERA should not be read as making FHFA the
+“successor” to rights it cannot exercise. See Delta Savings, 265 F.3d at 1023-1024 (observing
+that “strict adherence” to bar on derivative suits when defendant is conservator or closely related
+federal agency “would be at least impracticable, and arguably absurd”). Accordingly, this Court
+should follow the interpretation adopted by the Federal and Ninth Circuits in First Hartford and
+Delta Savings in the context of FIRREA and recognize a conflict-of-interest exception to any
+prohibition on derivative suits in the analogous HERA context.
+Indeed, there is a manifest conflict in this case. Plaintiffs challenge the Net Worth
+Sweep—an “agreement” between FHFA, the conservator, and Treasury, a sister federal agency
+which has acquired a direct and controlling interest in Fannie and Freddie and with which FHFA
+has obediently coordinated its actions as conservator. FHFA plainly has a “manifest conflict of
+interest” within the meaning of First Hartford, 194 F.3d at 1295, and the many other authorities
+recognizing this common-sense exception, and Plaintiffs, rather than FHFA, are thus the proper
+parties to seek redress for the harm inflicted by the Net Worth Sweep to the extent, if any, that
+the Court finds Plaintiffs’ claims to be derivative.49
+E. Plaintiffs’ Claims Are Not Barred By The Doctrine Of Issue Preclusion.
+Plaintiffs’ claims are not barred by the doctrine of issue preclusion because Defendants
+have failed to establish the necessary elements of identity of issues and parties and, regardless,
+49
+
+FHFA also suggests that a conflict-of-interest exception is less suited to conservatorship than
+to receivership. See FHFA Br. 24 n.16. But the opposite is true: Unlike the appointment of a
+receiver, the appointment of a conservator does not “terminate” stockholder claims and relegate
+them to a statutory claims process. See 12 U.S.C. § 4617(b)(2)(K)(i). Without the protections of
+this statutory claims process, there is an even greater need for a conflict-of-interest exception to
+protect the interests of stockholders during conservatorship than during receivership.
+
+55
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 69 of 74 PageID #: 1951
+
+giving preclusive effect to the Perry Capital or Saxton decisions would violate Plaintiffs’ due
+process rights as neither case was a “properly conducted” representative action. Further, even if
+issue preclusion could apply, Plaintiffs’ claims would not be precluded because the Perry
+Capital and Saxton plaintiffs did not adequately represent the Companies or absent stockholders
+and because those decisions were not on their merits but on the plaintiffs’ incapacity to sue.
+It is settled that issue preclusion only applies where “the identical issue was previously
+adjudicated.” Howard Hess Dental Labs. Inc. v. Dentsply Int’l, Inc., 602 F.3d 237, 247–48 (3d
+Cir. 2010). The issues presented here, however, were not decided in Perry Capital or Saxton.
+Most notably, Counts I and II of the amended complaint allege that the Net Worth Sweep is void
+and unenforceable for violating the state laws Fannie and Freddie must follow under provisions
+of their bylaws. None of the plaintiffs in Perry Capital or Saxton asserted those claims, and the
+courts in those cases had no occasion to rule on their merits or Defendants’ arguments that they
+are barred by HERA.50 Because issue preclusion only bars relitigation of “the same issue”
+decided by a previous court, B&B Hardware, Inc. v. Hargis Indus., Inc., 135 S. Ct. 1293, 1303
+(2015), that doctrine simply is no help to Defendants here.
+Similarly, issue preclusion only applies when the party against whom the doctrine is
+asserted had a “full and fair opportunity to litigate” in the earlier action. Taylor v. Sturgell, 553
+U.S. 880, 892 (2008). Plaintiffs did not have such an opportunity and therefore cannot be bound
+by Perry Capital or Saxton because they were not parties to either of those actions and because
+neither of those decisions adjudicated their claims asserting violations of state law and unjust
+
+50
+
+In fact, far from a ruling on the merits, the D.C. Circuit held that the Perry Capital plaintiffs’
+contract-based claims—the only claims even somewhat analogous to the claims here—were not
+barred by HERA and remanded those claims to the district court. 848 F.3d at 1080, 1106-14.
+56
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 70 of 74 PageID #: 1952
+
+enrichment. See id. (“A person who was not a party to a suit generally has not had a ‘full and
+fair opportunity to litigate’ the claims and issues settled in that suit.”).
+Even more importantly, there is a “deep-rooted historic tradition” in the United States
+“that everyone should have his own day in court.” Richards v. Jefferson Cnty., 517 U.S. 793,
+798 (1996). A court thus may accord preclusive effect to the judgment of a different court in a
+prior litigation only if doing so will not infringe a party’s due process rights. See, e.g., Harris v.
+Pernsley, 755 F.2d 338, 342 (3d Cir. 1985) (recognizing due process limitations on preclusive
+effect of judgments on non-parties). Due process limitations include the “principle … that one is
+not bound by a judgment in personam in a litigation in which he is not designated as a party or to
+which he has not been made a party by service of process.” Hansberry v. Lee, 311 U.S. 32, 40
+(1940). “A judgment rendered in such circumstances is not entitled to” preclusive effect with
+respect to absent parties because “judicial action enforcing it against the person or property of
+the absent party is not that due process which the Fifth and Fourteenth Amendments requires.”
+Id. at 40-41. This rule against non-party preclusion is of a “fundamental nature,” Taylor, 553
+U.S. at 898, and is subject only to “a handful of discrete and limited exceptions.” Smith v. Bayer
+Corp., 564 U.S. 299, 312 (2011); see also Taylor, 553 U.S. at 893-95.
+No exception applies here. The only relevant exception—that “‘in certain limited
+circumstances,’ a nonparty may be bound by a judgment [if] she was ‘adequately represented by
+someone with the same interests who [was] a party’ to the suit,” Taylor, 553 U.S. at 894 (quoting
+Richards, 517 U.S. at 798)—does not apply because in neither Perry Capital nor Saxton was a
+class of stockholders certified under Fed. R. Civ. P. 23 or the prerequisites and pleading
+requirements applicable to derivative actions under Fed. R. Civ. P. 23.1 satisfied. See id. (noting
+that representative suits with preclusive effect may include “properly conducted class actions”);
+
+57
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 71 of 74 PageID #: 1953
+
+Bayer, 564 U.S. at 315 (holding that if prior suit was not certified as class action under Rule 23,
+judgment does not bind unnamed class member in later suit). Absent satisfaction of the
+“procedural safeguards contained in [the] Federal Rule[s] of Civil Procedure,” a party’s
+representation of a non-party in a prior suit is not “adequate” for preclusion purposes. Taylor,
+553 U.S. at 900-901.
+Treasury resists the conclusion dictated by the U.S. Supreme Court’s decisions in Taylor
+and Bayer by citing a handful of lower court decisions holding that, because the corporation is
+the true party in interest in derivative suits brought on its behalf, a judgment against one
+derivative plaintiff bars a second derivative plaintiff from relitigating the same issues. See Treas.
+Br. 29. But all of those decisions ignored a fundamental principle of the derivative suit: a single
+stockholder does not sue in the corporation’s right until “he shows that the corporation on proper
+demand has refused to pursue a remedy, or shows facts that demonstrate the futility of such a
+request.” Koster v. (American) Lumbermens Mut. Cas. Co., 330 U.S. 518, 522 (1947); see also
+Kaplan v. Peat, Marwick, Mitchell & Co., 540 A.2d 726, 730 (Del. 1988) (“The right to bring a
+derivative action does not come into existence until the plaintiff shareholder has made a demand
+on the corporation to institute such an action or until the shareholder has demonstrated that
+demand would be futile.”). Those decisions also either pre-date Bayer or failed to address
+adequately the due process concerns of giving preclusive effect to prior derivative judgments.
+See Taylor, 553 U.S. at 904 (“In some cases, however, lower courts have relied on virtual
+representation to extend nonparty preclusion beyond the latter doctrine’s proper bounds.”).51
+
+51
+
+Treasury’s reliance on Cottrell v. Duke, 737 F.3d 1238 (8th Cir. 2013), is misleading for
+another reason: the Delaware courts in a parallel proceeding to that very case are now evaluating
+whether giving preclusive effect to a judgment in a prior derivative suit that did not satisfy
+Rule 23.1 would violate the due process rights of subsequent derivative plaintiffs. See Cal. State
+Teachers’ Ret. Sys. v. Alvarez, 2017 WL 239364, at *1 n.5 & 6, *8 (Del. Jan. 18, 2017).
+58
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 72 of 74 PageID #: 1954
+
+Simply put, just as a class action that was not certified in accordance with Rule 23 cannot
+bind absent class members, Bayer, 564 U.S. at 315, a derivative action is not a representative
+action and cannot bind absent stockholders until Rule 23.1 has been satisfied. In re Ezcorp Inc.
+Consulting Agreement Deriv. Litig., 130 A.3d 934, 948 (Del. Ch. 2016) (“In my view, just as the
+Due Process Clause prevents a judgment from binding absent class members before a class has
+been certified, the Due Process Clause likewise prevents a judgment from binding the
+corporation or other stockholders in a derivative action until the action has survived a Rule 23.1
+motion to dismiss, or the board of directors has given the plaintiff authority to proceed by
+declining to oppose the suit.”). A contrary holding would circumvent Rule 23.1’s procedural
+protections and violate the due process rights of every absent stockholder. See Bayer, 564 U.S.
+at 315 (“We could hardly have been more clear [in Taylor] that a ‘properly conducted class
+action,’ with binding effect on nonparties, can come about in federal courts in just one way—
+through the procedure set out in Rule 23.”), id. at 313 (describing argument that an unnamed
+class member is a party to class-action litigation before class certification as “surely erroneous”
+(internal quotation marks and citation omitted)); Taylor, 553 U.S. at 901-04 (holding that there is
+no “de facto class action” or “virtual representation” exception to general rule against non-party
+preclusion); accord 7 Charles Alan Wright & Arthur R. Miller, Federal Practice & Procedure
+§ 1840 (3d ed. 2016) (“[F]or binding nonparty stockholders to a judgment in a Rule 23.1 action,
+. . . there must be a sufficient showing of procedural fairness . . . to satisfy due process.”).
+Even assuming arguendo that the “virtual representation” theory on which Treasury
+relies is not “surely erroneous,” Bayer, 564 U.S. at 313, that doctrine plainly would not apply
+here because, for the reasons stated above, see supra Part D.2.a, Plaintiffs’ claims are direct, not
+derivative, and “[t]he judgment in a derivative suit will not preclude any right of action that an
+
+59
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 73 of 74 PageID #: 1955
+
+absent shareholder might have in his or her individual capacity.” Guenther v. Pacific Telecom,
+Inc., 123 F.R.D. 341, 347 n.10 (D. Or. 1987). And, even if Plaintiffs’ claims were derivative,
+issue preclusion still would not apply because the Companies and their absent stockholders were
+not adequately represented in the Perry Capital and Saxton litigations and because those cases
+were not decided on their merits. None of the plaintiffs in Perry Capital or Saxton sought to
+assert the statutory or unjust enrichment claims Plaintiffs assert here in any capacity, much less a
+derivative one, nor did those plaintiffs make any attempt to satisfy the substantive and procedural
+requirements for bringing such claims derivatively. Instead, those plaintiffs were held to lack
+standing to sue derivatively because HERA transfers Company stockholders’ ability to bring
+derivative suits to FHFA. Perry Capital, 848 F.3d at 1105-06; Saxton, 2017 WL 1148279, at
+*10-12. As such, those plaintiffs cannot be said to have adequately represented the interests of
+the Companies or their absent stockholders and the decisions premised on the plaintiffs’
+incapacity to bring suit do not bar Plaintiffs from bringing this action. See Nationwide Mut. Fire
+Ins. Co. v. George V. Hamilton, Inc., 571 F.3d 299, 313 (3d Cir. 2009) (“Under the ‘adequate
+representation’ exception, the interests of the party and nonparty must be squarely aligned and
+there must be either an understanding that the party is acting in a representative capacity or
+special procedural protections must have been in place in the original action to ensure the due
+process rights of nonparties who might face issue or claim preclusion.”); 7 Charles Alan Wright
+& Arthur R. Miller, Federal Practice & Procedure § 1840 (3d ed. 2016) (explaining that a
+judgment in a derivative suit “that is not on the merits but that relates to the representative’s
+capacity to bring the suit . . . will not bar other stockholders from bringing a derivative action”).
+CONCLUSION
+The Court should deny FHFA’s and Treasury’s motions to dismiss.
+
+60
+
+Case 1:15-cv-00708-GMS Document 69 Filed 06/16/17 Page 74 of 74 PageID #: 1956
+
+POTTER ANDERSON & CORROON LLP
+
+By:
+
+/s/ Myron T. Steele
+Myron T. Steele (DE Bar No. 000002)
+Michael A. Pittenger (DE Bar No. 3212)
+Christopher N. Kelly (DE Bar No. 5717)
+Alan R. Silverstein (DE Bar No. 5066)
+1313 North Market Street, 6th Floor
+Wilmington, DE 19801
+(302) 984-6000
+msteele@potteranderson.com
+mpittenger@potteranderson.com
+ckelly@potteranderson.com
+asilverstein@potteranderson.com
+Attorneys for Plaintiffs
+
+Dated: June 16, 2017
+5248000v1/42717
+
+61
+
+

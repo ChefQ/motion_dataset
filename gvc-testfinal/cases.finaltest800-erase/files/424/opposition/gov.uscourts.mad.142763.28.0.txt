@@ -1,0 +1,1251 @@
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 1 of 36
+
+UNITED STATES DISTRICT COURT
+DISTRICT OF MASSACHUSETTS
+
+ERWIN GRAMPP, derivatively on behalf of
+JBI, INC.,
+Civil Action No.: 1:12-cv-10495-MLW
+Plaintiff,
+vs.
+JOHN BORDYNUIK, DR. JACOB SMITH,
+RONALD C. BALDWIN, JR., AMY BRADSHAW,
+JOHN M. WESSON, ROBIN BAGAI, JAMES
+FAIRBAIRN, GREGORY GOLDBERG, and
+THEODORE J. HENRY,
+Defendants,
+and
+JBI, INC.
+Nominal Defendant.
+
+PLAINTIFF’S MEMORANDUM IN OPPOSITION TO INDIVIDUAL
+DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S VERIFIED
+SHAREHOLDER DERIVATIVE COMPLAINT
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 2 of 36
+
+TABLE OF CONTENTS
+INTRODUCTION......................................................................................................................... 1
+STATEMENT OF FACTS ........................................................................................................... 3
+ARGUMENT ................................................................................................................................. 8
+I.
+
+II.
+
+III.
+
+THE COMPLAINT’S PARTICULARIZED FACTS DEMONSTRATE DEMAND
+FUTILITY ......................................................................................................................... 8
+A.
+
+THE RELEVANT LEGAL STANDARD FOR ASSESSING DEMAND FUTILITY .............8
+
+B.
+
+DEMAND IS EXCUSED BECAUSE THE PARTICULARIZED ALLEGATIONS OF THE
+COMPLAINT PRESENT A SUBSTANTIAL LIKELIHOOD THAT A MAJORITY OF
+THE BOARD IS LIABLE FOR BREACHING THEIR FIDUCIARY DUTIES .................10
+1.
+
+Defendant Bordynuik has breached his fiduciary duties by
+knowingly disseminating false and misleading statements in
+violation of the law ...................................................................................11
+
+2.
+
+Plaintiff has alleged with particularity that Wesson breached his
+fiduciary duties by knowingly failing to exercise proper oversight
+as to JBI’s financial and accounting controls ........................................13
+
+PLAINTIFF HAS ADEQUATELY PLEAD A CLAIM FOR WHICH RELIEF
+CAN BE GRANTED....................................................................................................... 15
+A.
+
+LEGAL STANDARD FOR MOTION TO DISMISS......................................................15
+
+B.
+
+SECTION 78.138(7) DOES NOT AUTOMATICALLY INVOKE RULE 9(B)
+PLEADING STANDARDS AND THEREFORE, PLAINTIFF HAS STATED A
+CLAIM FOR RELIEF UNDER RULE 12(B)(6) ..........................................................16
+
+C.
+
+PLAINTIFF HAS ALLEGED DAMAGE TO JBI ........................................................19
+
+THIS COURT MAY PROPERLY EXERCISE JURISDICTION OVER ALL OF
+THE INDIVIDUAL DEFENDANTS AS THEY HAVE SUFFICIENT MINIMUM
+CONTACTS WITH MASSACHUSETTS.................................................................... 20
+A.
+
+THE INDIVIDUAL DEFENDANTS’ CONTINUOUS CONTACTS WITH
+MASSACHUSETTS ARE SUFFICIENT TO SUPPORT SPECIFIC JURISDICTION .........21
+1.
+
+Individual Defendants Participated in JBI’s Board Meetings,
+Committee Duties, and Communications Directed at Massachusetts.23
+
+2.
+
+Individual Defendants Approved of JBI’s False and Misleading SEC
+Filings and Press Releases .......................................................................24
+i
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 3 of 36
+
+3.
+IV.
+
+Individual Defendants Received Compensation From JBI..................25
+
+THE COURT SHOULD DENY DEFENDANTS’ REQUEST TO STAY THIS
+ACTION........................................................................................................................... 26
+
+CONCLUSION ........................................................................................................................... 27
+
+ii
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 4 of 36
+
+TABLE OF AUTHORITIES
+Page(s)
+CASES
+Aronson v. Lewis
+473 A.2d, 805 (Del. 1984)……………………………………………………….. ...................9
+Ashcroft v. Iqbal,
+129 S. Ct. 1937 (2009) .............................................................................................................15
+Astro-Med, Inc. V. Nihon Kohden Am., Inc.,
+592 F. 3d 1, 8-9 (1st Cir 2009).................................................................................................20
+Brehm v. Eisner,
+746 A.2d 244 (Del. 2000) ....................................................................................................9, 10
+Burger King Corp. v. Rudzewicz,
+471 U.S. 462 (1985) ...........................................................................................................21, 22
+Cascade Investments, Inc. v. Bank of America, N.A.,
+No. CC-N-99-599, 2000 U.S. Dist. LEXIS 21474 (D. Nev. Sept. 29, 2000) ..........................10
+Caviness v. Evans,
+229 F.R.D. 354 (D. Mass 2005) ...............................................................................................13
+Council for Employment & Economic Energy Use v. WHDH Corp.,
+580 F.2d 9 (1st Cir. 1978) ........................................................................................................27
+Dieterich v. Harrer,
+857 A.2d 1017 (Del. Ch. 2004)................................................................................................12
+Elecs. For Imaging, Inc. v. Coyle,
+340 F.3d 1344 (Fed Cir. 2003).................................................................................................20
+Filtrol Corp. v. Kelleher,
+467 F.2d 242 (9th Cir. 1972) ...................................................................................................26
+Forsythe v. ESC Fund Management,
+No. 1091, 2007 Del. Ch. LEXIS 140 .........................................................................................9
+Fosbre v. Matthews,
+No. 09-CV-0467, 2010 U.S. Dist. LEXIS 67281 (D. Nev. July 2, 2010) ...............................10
+Foster- Miller, Inc. v. Babcock & Wilcox Can.,
+46 F. 3d 138 (1st Cir. 1995) .....................................................................................................20
+
+iii
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 5 of 36
+
+Hannon v. Beard,
+524 F.3d 275 (1st Cir. 2008) ....................................................................................................23
+Heineman v. Datapoint,
+611 A.2d 950 (Del. 1992) ..........................................................................................................9
+Hayduk v. Lanna,
+775 F. 2d 441 (1st Cir 1985) ....................................................................................................27
+In re Amerco Derivative Litig.,
+252 P.3d 681 (Nev. 2011) ..................................................................................................11, 17
+In re American Intern. Group, Inc.,
+965 A.2d 763 (Del. Ch. 2009)..................................................................................................10
+In re DaimlerChrysler AG Sec. Litig.,
+197 F. Supp. 2d 86 (D. Del. 2002) ...........................................................................................25
+In re Evergreen Ultra Short Opportunities Fund Sec. Litig.,
+705 F. Supp. 2d 86(D. Mass 2010) ....................................................................................16, 19
+Int’l Shoe Co. v. Washington,
+326 U.S. 310 (1945) .................................................................................................................21
+IOTEX Communs., Inc. v. Defries,
+No. 15817, 1998 Del. Ch. LEXIS 236 (Del. Ch. Dec. 21, 1998) ............................................17
+Itoba Ltd. v. LEP Group PLC,
+930 F. Supp. 36 (D. Conn. 1996) .............................................................................................25
+Johnson v. Witowski,
+30 Mass. App. Ct. 697 (1991) ..................................................................................................25
+Kohls v. Duthie,
+791 A.2d 772 (Del. Ch. 2000)....................................................................................................9
+Landis v. North American Co.,
+299 U.S. 248, 57 S. Ct. 163, 81 L. Ed. 153 (1936) ..................................................................26
+LaVallee v. Parrot-Ice Drink Prods. of Am., Inc.,
+193 F. Supp. 2d 296 (D. Mass. 2002) ................................................................................23, 24
+Lawson v. Affirmative Equities Co., L.P.,
+341 F. Supp. 2d 51 (D. Mass. 2004) ........................................................................................23
+LSI Indus. Inc. v. Hubbell Lighting, Inc.,
+232 F.3d 1369 (Fed. Cir. 2000)................................................................................................21
+
+iv
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 6 of 36
+
+Malone v. Brincat,
+722 A.2d 5 (Del. 1998) ................................................................................................11, 13, 18
+Malpiede v. Townson,
+780 A.2d 1075 (Del. 2001) ......................................................................................................17
+Massachusetts Sch. Of Law v. ABA,
+142 F.3d 26 (1st Cir. 1998) ......................................................................................................24
+Metro Communication Corp BVI v. Advanced Mobilecomm Technologies, Inc.,
+854 A.2d 121 (Del. Ch. 2004)..................................................................................................12
+Nahigian v. Leonard,
+233 F. Supp. 2d 151 (D. Mass. 2002) ......................................................................................21
+Nemec v. Shrader,
+991 A.2d 1120 (Del. 2010) ......................................................................................................11
+Pogostin v. Rice,
+480 A.2d 619 (Del. 1984) ..........................................................................................................9
+Rales v. Blasband,
+634 A.2d 927 (Del. 1993) ..........................................................................................................9
+Rapaport v. Soffer,
+No. 10-CV-935, 2012 U.S. Dist. LEXIS 90324 (D. Nev. June 29, 2012) .........................16, 17
+Ross v. Ross,
+371 Mass. 439 (1976) ..............................................................................................................21
+Ryan v. Gifford,
+918 A.2d 341 ........................................................................................................................9, 17
+Saito v. McCall,
+No. 17132, 2004 Del. Ch. LEXIS 205 (Del. Ch. Dec. 20, 2004) ..............................................9
+Sawtelle v. Farrell,
+70 F.3d 1381 (1st Cir. 1995) ....................................................................................................23
+Scuderi Group, LLC v. LGD Tech., LLC,
+575 F. Supp. 2d 312 (D. Mass. 2008) ......................................................................................23
+Shipley Co. v. Clark,
+728 F. Supp. 818 (D. Mass. 1990) ...........................................................................................25
+Shoen v. SAC Holdings Corp.,
+137 P.3d 1171 (Nev. 2006) ..................................................................................................8, 10
+
+v
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 7 of 36
+
+Soeun Kim v. Veglas,
+607 F. Supp. 2d 286 (D. Mass. 2009) ......................................................................................21
+Stiegele v. Bailey,
+No. 05-10677, 2007 U.S. Dist. LEXIS 86469 (D. Mass, August 23, 2007)............................15
+Stone v. Ritter,
+911 A.2d 362 (Del. 2006) ........................................................................................................13
+Trans-Spec Truck Svc., Inc. v. Caterpillar Inc.,
+524 F.3d 315 (1st Cir. 2008) ..............................................................................................16, 19
+United Elec., Radio & Mach. Workers v. 163 Pleasant St. Corp.,
+960 F.2d 1080 (1st Cir. 1992) ..................................................................................................22
+Vons Cos., Inc. v. Seabest Foods, Inc.,
+14 Cal. 4th 434 (1996) ..............................................................................................................21
+Washington Rest. Mgmt. v. Vons Cos.,
+522 U.S. 808 (1977) .................................................................................................................21
+Weiss v. Swanson,
+948 A.2d 433 (Del. Ch. 2008)..................................................................................................10
+Wood v. Baum,
+953 A.2d 136 (Del. 2008) ........................................................................................................11
+Workgroup Tech. Corp. v. MGM Grand Hotel,
+246 F. Supp. 2d 102 (D. Mass. 2003) ......................................................................................24
+Yankee Group, Inc. v. Yamashita,
+678 F. Supp. 20 (D. Mass. 1988) .............................................................................................24
+STATUTES
+NEV. REV. STAT. §78.138(7) .................................................................................................. passim
+OTHER AUTHORITIES
+Fed. R. Civ. P. 4(k)(1)(A) ..............................................................................................................21
+FED. R. CIV. P. 8(a)(2) ...............................................................................................................17,19
+Fed. R. Civ. P. 9(b) and (2) ......................................................................................................15, 16
+Fed. R. Civ. P. 12(b)(2)..................................................................................................................20
+Fed. R. Civ. P. 12(b)(6).......................................................................................................... passim
+vi
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 8 of 36
+
+Plaintiff Erwin Gramp (“Plaintiff”), by and through his attorneys, respectfully submits
+this opposition to the Individual Defendants’ Motion to Dismiss Plaintiff’s Verified Shareholder
+Derivative Complaint (hereinafter the “Motion to Dismiss”) filed by Defendants John Bordynuik
+(“Bordynuik”), Dr. Jacob Smith (“Smith”), Ronald C. Baldwin Jr. (“Baldwin”), Amy Bradshaw
+(“Bradshaw”), John M. Wesson (“Wesson”), Robin Bagai (“Bagai”), Gregory Goldberg
+(“Goldberg”), and Theodore J. Henry (“Henry”) (collectively, the “Individual Defendants”).
+INTRODUCTION
+JBI, Inc. (“JBI” or the “Company”) is a Company built on a single idea, an idea that to
+date has shown no evidence of commercial viability. The story of “Plastic2Oil,” one that JBI’s
+founder and CEO, John Bordynuik has spent years developing, has played its part over and over
+in the Company’s machinations. According to the Company’s public statements Plastic2Oil has
+the ability to pay for itself in only eight days while eliminating garbage from the environment.
+All the while the 2,500 sites that the Company claims to be in the process of launching “over the
+next few years” would gross nearly nine billion dollars per year – a truly green miracle.
+Individual Defendants’ assert that Plaintiff has failed to adequately allege demand
+futility.
+
+Individual Defendants’ Memorandum in Support of their Motion to Dismiss the
+
+Complaint at 10 (hereinafter, Defs. Br. at __). Much like Plastic2Oil itself has proven to date,
+this is just wishful thinking. While the Individual Defendants strive to minimize the well-pled
+allegations of the Verified Shareholder Derivative Complaint (the “Complaint”), Plaintiff has
+pled with particularity a chain of events which evidence that current and former officers of the
+Company and current and former members of JBI’s Board of Directors (the “Board”) knowingly
+ignored their responsibilities and duties to the Company, thereby allowing the Company to
+engage in a scheme to falsely inflate the value of JBI by reporting materially false and inaccurate
+
+1
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 9 of 36
+
+financial information on JBI’s financial statements.
+
+In short, based upon the well-pled
+
+allegations of the Complaint, any pre-suit demand upon the Board would have been futile.
+The Complaint details at length that at Bordynuik’s request, the Company’s officers and
+Board have engaged in a widespread cover-up and conspiracy that spans several years. It begins
+with Bordynuik’s first purported acquisitions to provide the false appearance of growth,
+including Bordynuik’s representations with regard to his so called Plastic2Oil process, and
+culminates in the Company’s fraudulent representations regarding the valuation of Media Credits
+received in connection with one of the above-mentioned acquisitions, a valuation that ultimately
+resulted in an $8.4 million payday for Bordynuik and his adulating Board.
+Knowingly breaching their fiduciary duties, the Individual Defendants willingly partook
+in Bordynuik’s sham schemes and representations, acquiescing to his demands at every turn, in
+violation of U.S. Securities and Exchange Commission (“SEC”) regulations and Generally
+Accepted Accounting Principles (“GAAP”) reporting requirements. As a result, the Company
+has suffered and will continue to suffer harm caused by the resulting SEC litigation and
+securities class action litigation including, but not limited to, costs and attorney’s fees, as well as
+loss of goodwill and harm to the Company’s reputation.
+Recognizing the weakness of their arguments, the Individual Defendants attempt to evade
+liability by manufacturing an argument that this Court lacks personal jurisdiction over them.
+Defs. Br. at 6. This is absurd. The core issue of the Complaint is that current and former officers
+and directors of JBI, a Massachusetts-based company during the relevant time period,
+disseminated false and misleading statements regarding the Company’s assets and business
+prospects for fiscal year 2009. As directors of JBI, and in some instances, members of the Audit
+Committee of the Board (the “Audit Committee”), the Individual Defendants were key
+
+2
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 10 of 36
+
+participants in the dissemination of false and misleading statements emanating from the state of
+Massachusetts, including the 2009 Form 10-K, signed by certain of the Individual Defendants,
+and other SEC filings and press releases that the Individual Defendants, particularly the Audit
+Committee members, were required to review. Moreover, the Individual Defendants are paid
+compensation from the Company and engage in necessary director duties, which require emails,
+telephone calls and other means of communication with the Company that squarely bring the
+Individual Defendants under the jurisdiction of this Court, regardless of the fact that the
+Individual Defendants do not physically reside in Massachusetts.
+The Individual Defendants’ willingness to join together and falsely represent the financial
+well being of JBI, if not its very business model, leaves the Court with no choice but to deny the
+Individual Defendants’ Motion.
+STATEMENT OF FACTS
+This is a shareholder’s derivative action, brought on behalf of nominal defendant JBI
+against current and former members of its Board and officers, seeking to remedy the Individual
+Defendants’ breaches of fiduciary duties. ¶¶ 81, 86-91.1 JBI is a North American fuel company
+that allegedly transforms unsorted, unwashed waste plastic into ultra-clean, ultra-low sulphur
+fuel without the need for refinement. ¶ 12. At the time Plaintiff initiated this action, the Board
+consisted of three directors: defendants Bordynuik, Wesson, and Bagai (the “Current Board”).
+¶83.2
+
+1
+
+All paragraph references, “¶ ___,” are to the Complaint.
+
+2
+
+The Individual Defendants imply that Plaintiff has been remiss in his allegations against Defendant Smith because
+he served on the Board from February 12, 2010 through March 12, 2012, See Defs. Br. at 3-4. However, defendant
+Smith’s resignation from the Board, though effective on March 12, 2012, did not become public knowledge until the
+Company’s Form 8-K (Def. Br. Ex. C) was filed with the SEC on March 16, 2012 – the very same day Plaintiff filed
+(continued)
+
+3
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 11 of 36
+
+Plainiff alleges that as a controlling and domineering personality, Bordynuik keeps a tight
+rein on his hand-picked officers and Board members and as such, the Individual Defendants have
+conspired with Bordynuik to keep his plastic pipe dream alive in the eyes of the market and
+investing public. ¶¶ 31-35, 52, 67, 72-80.
+
+In doing so, the Individual Defendants have
+
+knowingly engaged in violations of SEC and GAAP regulations. ¶¶ 2, 43, 46, 47, 48, 52, 53, 57,
+60, 61, 66, 67, 69.
+In 2005, Bordynuik was the founder and head of John Bordynuik, Inc. ¶ 31. Over the
+years and through a series of related transactions, John Bordynuik, Inc. became JBI, with
+Defendant Bordynuik remaining in control of the Company at all times. ¶ 32. It appears the
+purpose of these transactions was merely to give the false impression that John Bordynuik, Inc.
+and JBI were growing, thriving businesses. In or around late 2009, Bordynuik began claiming
+that he had discovered an inexpensive catalyst which, when used in the process of heating waste
+plastic to high temperatures in the absence of oxygen, produced a crude oil equivalent costing
+under $10 per barrel. ¶¶ 33, 37.
+This process has been named Plastic2Oil and according to the Individual Defendants’
+claims is worth potentially billions of dollars a year. In particular, they claim that certain
+refineries (conveniently not named) have offered to purchase the oil product for just a few
+dollars under the price of West Texas Intermediate crude oil, which is slightly above $105 per
+barrel; that each so-called processor will cost around $80,000, will be able to produce 109 barrels
+of this crude oil equivalent per day; and that these “processors” can be constructed so quickly
+
+his Complaint. To suggest that Plaintiff has deliberately misled the Court is improper. Furthermore, Plaintiff
+acknowledges that for purposes of demand futility, defendant Smith is not relevant to the analysis. However, the
+corrected dates of Defendant Smith’s tenure as a Board Member do not absolve him of his liability for the actions
+alleged in the Complaint.
+
+4
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 12 of 36
+
+that, according to Bordynuik, the plan would be to “launch 2,500 sites over the next few years.”
+¶¶ 33, 37, 79. Despite these lofty claims, however, the Company to this day has failed to provide
+any real evidence of the commercial viability of Plastic2Oil. ¶¶ 34, 75, 76, 77, 79.
+On or around April 24, 2009, Bordynuik began acquiring a series of companies based on
+the premise that these acquisitions were necessary to the growth and expansion of the Plastic2Oil
+process. ¶¶ 36, 37, 38, 40. None of these acquisitions made much sense, however, given that the
+commercialization of Plastic2Oil, together with JBI’s operations, generates net losses – they only
+succeeded in making the Company look bigger. ¶¶ 32-41.
+On August 24, 2009, the Company also acquired media credits (the “Media Credits”)
+from an acquired company in exchange for a million shares of JBI’s stock valued at $1,000,000
+($1.00 per share). ¶ 38. The Media Credits purportedly provided the holder $9,997,134 worth of
+prepaid advertising and marketing promotions. ¶ 39.
+However, in direct breach of their fiduciary duties, the Individual Defendants3 improperly
+valued and reported the Media Credits under GAAP. ¶¶ 43, 56, 65, 66. Indeed, in the Form 10Q filed on November 16, 2009, for the period ended September 30, 2009 and in the Form 10-K
+filed on March 31, 2010, for the period ended December 31, 2009, JBI reported the value of the
+Media Credits to be $9,997,134 – their purported face value. ¶ 42. The 10-Q was signed and
+certified by Bordynuik. ¶ 43. The 10-K was signed by Baldwin in his capacity as CFO of the
+Company, Bordynuik and Smith in their capacities as officers and directors of the Company, and
+by Bradshaw, Wesson and Goldberg in their capacity as directors of the Company. ¶ 43.
+
+3
+
+On February 12, 2010, defendants Bradshaw, Wesson, Henry and Smith were appointed to the Company’s Board
+of Directors. ¶¶ 14, 16, 17, 20. On March 24, 2010, defendant Henry resigned from the Board, defendant Goldberg
+was appointed to the Board and defendants Bradshaw, Wesson and Goldberg were appointed to the Company’s
+Audit Committee, Compensation Committee and Nominating Committee. ¶¶ 21, 43.
+
+5
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 13 of 36
+
+Even under the least conservative method, US GAAP accounting would require the
+media credit assets be booked at cost, or in JBI’s case, $1,000,000. ¶¶ 53, 55. The Individual
+Defendants understood, and it is only a matter of common sense, that if the Company paid
+$1,000,000 for an asset in an arm’s length transaction, the market value of that asset was not $10
+million, but $1,000,000. ¶ 55. Nevertheless, by inflating the value of the Media Credits, the
+Individual Defendants made it appear that JBI owned an asset worth $10 million, once again
+making the Company appear more valuable, with the Media Credits making up the vast majority
+of the Company’s book value. ¶¶ 52, 55.
+Indeed, prior to the Media Credits being acquired, the Company had no assets to speak
+of. ¶¶ 37, 40, 55. Moreover, the Individual Defendants were well aware that the Media Credits
+were improperly booked. ¶¶ 2, 43, 44, 45, 46, 53-57, 66, 67. When the Company’s business
+consultant, a CPA, told Bordynuik the media credits should be booked at cost and voiced
+concern about booking them at the inflated $10 million face value, Bordynuik responded by
+saying it was “audit proof.” ¶ 56. To another consultant preparing JBI’s financials, Bordynuik
+said, “please get the pro formas as juicy as you can so I can acquire a chemical company for
+less,” thereby showing, once again, that the true aim was to inflate the perception of the
+company’s size. ¶ 77.
+The Individual Defendants then took steps to ensure that the true valuation of the media
+credits stayed hidden. ¶¶ 41, 43. In a continuing attempt to move forward with the scheme, the
+Board and its Audit Committee allowed Bordynuik to engage a sham auditing firm, Gately &
+Associates, LLC (“Gatley”) to serve as JBI’s independent auditor. ¶¶ 58-64. In so doing, the
+members of the Audit Committee utterly failed to carry out their responsibilities in good faith. ¶¶
+
+6
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 14 of 36
+
+66, 67.
+
+Indeed, as members of the Audit Committee defendants Bradshaw, Wesson and
+
+Goldberg were responsible for the following:
+The function of the Audit Committee, as detailed in the Audit Committee Charter,
+is to provide assistance to the Board in fulfilling its responsibility to the
+shareholders, potential shareholders, and investment community relating to
+corporate accounting, management practices, reporting practices, and the quality
+and integrity of the financial reports of the Company. In so doing, it is the
+responsibility of the Audit Committee to maintain free and open means of
+communication between the directors, the independent auditors and Company
+management.
+¶ 25.
+
+Despite these responsibilities, the Audit Committee made no attempt to engage an
+
+independent auditing firm, deferring instead to Bordynuik whose selection of auditor was an
+obvious attempt at “opinion shopping.” ¶ 58. Still, the Board and Audit Committee passively
+stood by while Bordynuik assisted the auditor in personal matters, offered him a job as an
+internal auditor, and offered him financial assistance. ¶¶ 60 – 62.
+At no time did the Audit Committee, or any of the Individual Defendants, have any
+significant contacts with the auditor prior to the filing of the Form 10-Q and Form 10-K. ¶ 63.
+Indeed, the Board knew that Bordynuik attached a forged audit opinion to the Form 10-K
+representing that an audit had been conducted – despite the fact that no independent audit had
+ever been conducted. ¶ 64. Furthermore, the Audit Committee took no steps to ensure the
+financial statements were accurate or in conformance with GAAP. ¶ 66. Instead the Audit
+Committee did what Bordynuik had appointed them to do, applaud his every move while
+questioning none of them. ¶ 66. Armed with the fraudulent financial statements, the Individual
+Defendants were able to obtain more than $8.4 million from private capital investors. ¶¶ 6, 46,
+67.
+The Individual Defendants’ illicit behavior has led to an investigation and subsequent
+complaint against JBI by the SEC in which the SEC accuses Bordynuik and Baldwin of engaging
+7
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 15 of 36
+
+in a scheme to commit securities and accounting fraud by reporting materially false and
+inaccurate financial information on JBI’s financial statements. ¶ 4. Likewise, the SEC maintains
+that the third quarter 2009 and year-end 2009 Media Credits bookings are materially overstated
+and were made in an effort to bolster JBI’s balance sheet and ensure the success of two private
+capital raising efforts. ¶ 5.
+As a direct result of the Individual Defendants’ approval of the false and misleading
+statements, JBI has incurred substantial damages, including, but not limited to, subjecting the
+Company to investigation costs and other damages associated with the Company’s improper
+business practices. ¶ 90.
+ARGUMENT
+I.
+
+THE COMPLAINT’S PARTICULARIZED FACTS DEMONSTRATE DEMAND
+FUTILITY
+The Individual Defendants assert that Plaintiff’s Complaint should be dismissed for
+
+failure to plead demand futility in accordance with Nevada’s Rule 23.1. Defs. Br. at 10-20.
+Individual Defendants’ assertion is wrong and therefore the Motion to Dismiss should be denied.
+A.
+
+THE RELEVANT LEGAL STANDARD FOR ASSESSING DEMAND FUTILITY
+
+JBI is incorporated in Nevada and as such, Nevada law applies to this Court’s demand
+futility analysis. As Nevada’s Rule 23.1 demand requirement mirrors Delaware’s, Nevada courts
+have adopted the applicable standard for evaluating demand futility from Delaware. See Shoen
+v. SAC Holdings Corp., 137 P.3d 1171, 1180-81 (Nev. 2006) (evaluating demand futility under
+Delaware law). A plaintiff demonstrates demand futility and demand is excused where plaintiff
+pleads particularized facts creating a “reasonable doubt that, as of the time the complaint is filed,
+
+8
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 16 of 36
+
+the board of directors could have properly exercised its independent and disinterested business
+judgment in responding to a demand.” See Rales v. Blasband, 634 A.2d 927, 934 (Del. 1993).4
+Reasonable doubt is created: (1) when the particularized allegations in the complaint present a
+substantial likelihood of liability on the part of a director. Kohls v. Duthie, 791 A.2d 772, 783
+(Del. Ch. 2000); Saito v. McCall, No. 17132, 2004 Del. Ch. LEXIS 205, at *36 n.71(Del. Ch.
+Dec. 20, 2004); Forsythe v. ESC Fund Management, No. 1091, 2007 Del. Ch. LEXIS 140, at
+**16-19 (Del Ch. Oct. 9, 2007); Ryan v. Gifford, 918 A.2d 341, 355 (Del. Ch. 2007; or (2) the
+complaint alleges that a director is not disinterested and independent, through divided loyalties or
+a personal financial benefit the Director has received from the alleged misconduct, which is not
+equally shared by the stockholders. Pogostin v. Rice, 480 A.2d 619, 624 (Del. 1984), citing
+Aronson v. Lewis, 473 A.2d 805, 814(Del. 1984).
+The reasonable doubt inquiry under Rales is fact-intensive and turns on the totality of the
+circumstances in each particular case.
+
+Brehm v. Eisner, 746 A.2d 244, 268 (Del. 2000)
+
+(Hartnett, J., concurring) (“Because of the absence of a precise formula in [Delaware Court of
+Chancery] the Rule [23.1] for pleading compliance with the demand requirement, the sufficiency
+of a complaint under Rule 23.1 is determined on the basis of the facts of each case”).5 Plaintiff
+need not demonstrate a reasonable probability of success on the merits to establish demand
+futility. See Rales, 634 A.3d at 934. Rather, the Court must accept as true all particularized
+
+4
+
+In the absence of board action or, as in the instant case, when the majority of board members that decided the
+challenged act have since departed, Delaware courts apply the “Rales” test. See Rales, 634 A.2d at 934-937.
+
+5
+
+The reasonable doubt standard is not a restrictive evidentiary test; the plaintiff is not required to plead evidence,
+and the Court should not weigh evidence at this stage of the proceedings. See Pogostin, 480 A.2d at 625; Heineman
+v. Datapoint, 611 A.2d 950, 953 (Del. 1992) (“[A]t this juncture, the Court is not engaged in a weighing of
+evidence”); Brehm, 746 A.2d at 254 (“[T]he pleader is not required to plead evidence”).
+
+9
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 17 of 36
+
+allegations and all reasonable inferences that logically flow from them. Brehm, 746 A.2d at 255;
+See also In re American Intern. Group, Inc., 965 A.2d 763, 779 (Del. Ch. 2009); Weiss v.
+Swanson, 948 A.2d 433, 437 (Del. Ch. 2008).
+Because JBI had a three-member Board at the time Plaintiff commenced this derivative
+action, Plaintiffs need only allege a reasonable doubt that two of the three Current Board
+members are not disinterested and independent. Shoen, 137 P.3d at 1183-84 (demand is excused
+if a majority of the directors have a disqualifying interest or are otherwise unable to act
+independently at the time the complaint was filed). As described further below, the allegations
+within the Complaint establish demand futility as to defendants Bordynuik and Wesson due to
+the fact that each of these individuals face a substantial likelihood of liability for their breaches
+of fiduciary duties, rendering any demand on the Board futile.
+B.
+
+DEMAND IS EXCUSED BECAUSE THE PARTICULARIZED ALLEGATIONS OF THE
+COMPLAINT PRESENT A SUBSTANTIAL LIKELIHOOD THAT A MAJORITY OF
+THE BOARD IS LIABLE FOR BREACHING THEIR FIDUCIARY DUTIES
+
+Directors and officers of a Nevada corporation owe fiduciary duties to the corporation.
+NEV. REV. STAT. §78.138(7). Under Nevada law, the elements of a claim for breach of fiduciary
+duty are “(1) the existence of a fiduciary relationship; (2) a breach of that duty; and (3) damages
+proximately caused by such a breach.” Cascade Investments, Inc. v. Bank of America, N.A., No.
+CC-N-99-599, 2000 U.S. Dist. LEXIS 21474, at *7 (D. Nev. Sept. 29, 2000) (citations omitted).
+In order for liability to attach, Nevada law requires that the act or failure to act
+constituting the breach “involved intentional misconduct, fraud or a knowing violation of the
+law.” Nev Rev. Stat. § 78.138(7). In other words, Plaintiff is required to plead particularized
+facts to support the conclusion that “the directors were conscious of the fact that they were not
+doing their jobs.” Fosbre v. Matthews, No. 09-CV-0467, 2010 U.S. Dist. LEXIS 67281, at *21
+
+10
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 18 of 36
+
+(D. Nev. July 2, 2010) (quoting In re Coca-Cola Enters., Inc. Deriv. Litig., 478 F. Supp. 2d 1369,
+1377 (N.D. Ga. 2007)(applying Delaware law)). Here, Plaintiff has clearly met this standard.
+1.
+
+Defendant Bordynuik has breached his fiduciary duties by knowingly
+disseminating false and misleading statements in violation of the law
+
+Fiduciaries of a corporation breach their fiduciary duties owed to the Company by
+disseminating false and misleading statements. The Complaint alleges that Bordynuik caused
+JBI to: (1) issue false and misleading statements regarding the value of the Company, in
+particular with regard to the Media Credits; and (2) disseminate such false and misleading
+statements knowingly and deliberately, such that the Company has been injured. See Malone v.
+Brincat, 722 A.2d 5, at *8 (Del. 1998).6
+
+7
+
+The Malone Court found that officers and directors
+
+violate their fiduciary duties of loyalty and good faith by the knowing dissemination of false
+information. Id. at 14.
+Indeed, it is long-standing Delaware law that directors have a fiduciary obligation to
+“disclose all facts. . .to avoid misleading partial disclosures.” Id. at 12 n.31 (emphasis added). In
+
+6
+
+As with demand futility in particular, Nevada courts follow Delaware law when addressing shareholder-derivative
+lawsuits generally. In re Amerco Derivative Litig., 252 P.3d 681, 697 (Nev. 2011).
+7
+
+The Individual Defendants’ application of Wood v. Baum, 953 A.2d 136 (Del. 2008), is wholly inapposite to the
+facts of this case. Defs. Br. at 14-15, 16-17. First, the company at issue in Wood was a Delaware LLC and therefore
+not subject to the Delaware General Corporation Law (DGCL). Rather, an LLC is a creature of contract, subject to
+the operating agreement and as such, an LLC is free to limit or eliminate any and all liability for breaches of
+fiduciary duties by a director of the LLC. DLLCA Section 18-1101(e). However, the Delaware Limited Liability
+Company Act (DLLCA) does not allow a limitation or elimination of liability for “any act or omission that
+constitutes a bad faith violation of the implied contractual covenant of good faith and fair dealing.” Id. Directors of
+a company governed by the DGCL, however, as with directors of a Nevada Corporation, are held to a higher
+standard and subject to their fiduciary duties owed to the Company and its shareholders, such as: duty of loyalty,
+duty of care, duty of good faith and fair dealing, and duty of disclosure. See Malone, 722 A.2d 5 (Del. 1998).
+Furthermore, the implied covenant of good faith and fair dealing is a limited and extraordinary legal remedy. See
+Nemec v. Shrader, 991 A.2d 1120 (Del. 2010). It is a doctrine that operates only in the most narrow of cases and is
+rarely invoked successfully. Id. To imply, as the Individual Defendants do here (Defs. Br. n. 10), that the Nevada
+statutory exculpatory provision is “similar” to the Delaware implied covenant of good faith and fair dealing is
+improper and without foundation. Rather, the Malone duty of disclosure standard is appropriate where, as here, the
+corporate fiduciary has knowingly disseminated false and misleading statements. Malone, 722 A.2d at 14.
+
+11
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 19 of 36
+
+fact, Delaware law is straight-forward in its condemnation of not only outright false statements,
+but also misleading statements that are calculated to manipulate the market and/or a company’s
+shareholders. See Metro Communication Corp BVI v. Advanced Mobilecomm Technologies,
+Inc., 854 A.2d 121, 130-131 (Del. Ch. 2004) (breach of fiduciary duty can be predicated upon
+misleading statements); Dieterich v. Harrer, 857 A.2d 1017, 1030 (Del. Ch. 2004) (duty to
+disclose can be predicated upon misleading statements).
+In addition to the allegations that Bordynuik knew the Media Credits’ valuations were in
+violation of GAAP and that the $10 million dollar value of the Media Credits in the September
+30, 2009 Form 10-Q and the 2009 Form 10-K constituted false and misleading statements in
+violation of federal regulations and GAAP (¶¶ 2, 43, 47, 48, 52, 53, 57,66, 67, 69, 70), the
+Complaint contains a multitude of allegations to show Bordynuik’s seemingly never ending
+practice of disseminating misleading information to the shareholders and the market.8 ¶¶ 33, 34,
+53-59, 65-72, 73-75. Moreover, the very fact that Bordynuik signed and certified the above
+mentioned Form 10-Q and Form 10-K subjects him to liability under the Federal Securities
+Laws. ¶¶ 41, 43, 50, 64. Plaintiff’s particularized allegations as to the substantial likelihood that
+Bordynuik will be liable for his breaches of fiduciary duty and knowing violations of the law,
+create reasonable doubt as to Bordynuik’s independence and disinterestedness.
+
+8
+
+The fact that Individual Defendants do not address Bordynuik, nor the allegations levied against him in the
+Complaint, in the demand futility section of their argument (Defs. Br. at 10-20), speaks volumes. Bordynuik is the
+founder, CEO, original and at one time sole board member and controlling shareholder of the Company. (¶¶ 31, 36,
+79, 85(a)) There can be no doubt as to his lack of independence and disinterestedness.
+
+12
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 20 of 36
+
+2.
+
+Plaintiff has alleged with particularity that Wesson breached his
+fiduciary duties by knowingly failing to exercise proper oversight as to
+JBI’s financial and accounting controls
+
+Corporate fiduciaries may breach their fiduciary duties by failing to adequately discharge
+their directorial duties. The Delaware courts in Stone v. Ritter, 911 A.2d 362 (Del. 2006), note
+that oversight liability is imposed on directors upon a “showing that the directors knew that they
+were not discharging their fiduciary obligations” by “having implemented [reporting or
+information] systems or controls, consciously failing to monitor or oversee its operations thus
+disabling themselves from being informed of risks or problems requiring their attention.” Id. at
+370.
+
+The Complaint alleges that Wesson consciously failed to monitor and oversee the
+
+Company’s financial and accounting controls in violation of his fiduciary duties.9
+Wesson became a member of the Board on February 12, 2010. ¶ 17. His membership
+was not coincidence, as he was hand-picked and appointed by the sole member of JBI’s board at
+the time – Bordynuik. ¶ 85(c). Immediately, Bordynuik also placed Wesson onto JBI’s “newly
+formed” Audit Committee, a Committee formed for the specific purpose of ensuring the “quality
+and integrity of the financial reports of the Company.” ¶ 25. This was just another concerted
+effort by Bordynuik, Wesson and the remaining Individual Defendants to ensure the Media
+Credits’ valuation was “audit proof.” ¶ 56.
+
+9
+
+Plaintiff also maintains that the Malone standard applies to Wesson. As with Bordynuik, Wesson was a signatory
+to the 2009 Form 10-K and as such knowingly disseminated false information resulting in corporate injury and
+therefore violated his fiduciary duties. Supra at I.B.2, See ¶ 41. Furthermore, Caviness v. Evans, 229 F.R.D. 354 (D.
+Mass, 2005), as applied by the Individual Defendants is distinguishable. In Caviness, the Audit Committee was
+extremely involved in the Company, having met thirty-nine times from fiscal years 2000 through 2004, Plaintiff
+made no allegations that the Audit Committee had any notice of the accounting improprieties such that the Caremark
+standard could be applied. Here however, the Complaint alleges an absolute and utter failure by Wesson to
+discharge any of his directorial duties, a contemplation not considered in Caviness.
+
+13
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 21 of 36
+
+It was Wesson’s responsibility to engage with the Company’s management and its
+independent auditors, a task that he consciously chose to disregard. ¶ 25. Wesson knew that the
+Company had no professional accounting firm to assist with its financial reporting and instead
+was relying on consultants to ensure compliance with GAAP. ¶ 50. Wesson also knew that the
+so called independent auditor was a sham auditor, whose reputation and problems with the
+Public Company Accounting Oversight Board (“PCAOB”) was known as far back as 2006. ¶¶
+58, 59. Regardless, Wesson sat silently by, just as Bordynuik knew he would. ¶¶ 66, 85(c).
+Wesson is required to act on an informed basis when discharging his directorial duties.
+Had he done so, he would have known that the valuation of the Media Credits was being
+manipulated to the Company’s advantage in violation of GAAP because the Board was informed
+of the concerns raised by the Company’s consultants as early as November 2009. ¶¶ 53, 54, 56,
+57. Additionally, had Wesson bothered to inform himself as required under the law, he would
+have known that this was not the first time JBI had engaged a subpar auditor (¶ 58), and that the
+JBI Board had already had multiple run-ins with Gately and his personal issues prior to the 2009
+Form 10-K filing. ¶¶ 60, 61, 62.
+Despite being a signatory to the Company’s 2009 Form 10-K, filed March 21, 2010,
+Wesson failed to take any action whatsoever to correct the false and inaccurate valuation of the
+Media Credits. ¶¶ 43, 66, 85(c), 85(d). Instead, Wesson, as the Complaint details, chose not to
+inform himself, instead choosing to go along with Bordynuik’s cover-up and conspiracy. ¶¶ 66,
+85(c).
+Because Plaintiff has pled particularized allegations as to Wesson’s conscious and utter
+failure to take any action with regard to the accounting and financial controls of the Company, in
+
+14
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 22 of 36
+
+particular with regard to the Media Credits violations and the 2009 Form 10-K filing, there is a
+substantial likelihood that Wesson will be found liable.10
+Both Bordynuik and Wesson face a substantial likelihood of liability, and because
+together they make up a majority of the Board at the time of the filing of the Complaint,
+reasonable doubt is created as to the disinterestedness and independence of the Board such that
+demand futility has been adequately plead and the Individual Defendants’ Motion to Dismiss
+should be denied.
+II.
+
+PLAINTIFF HAS ADEQUATELY PLEAD A CLAIM FOR WHICH RELIEF CAN
+BE GRANTED
+The Individual Defendants argue that Plaintiff has failed to state a claim for which relief
+
+can be granted because (1) Nev. Rev. Stat. § 78.138(7) automatically triggers the heightened
+pleading requirements of Federal Rule of Civil Procedure 9(b) and (2) Plaintiff has failed to
+make a claim for breach of fiduciary duty because he has failed to plead the necessary element of
+damages. Defs. Br. at 20. The Individual Defendants are wrong on both counts.
+A.
+
+LEGAL STANDARD FOR MOTION TO DISMISS
+
+A Rule 12(b)(6) motion to dismiss must be denied if the complaint “contain[s] sufficient
+factual matter, accepted as true, to ‘state a claim to relief that is plausible on its face.’” See
+Ashcroft v. Iqbal, 129 S. Ct. 1937, 1949 (2009), quoting Bell Atlantic Corp. v. Twombly, 550
+U.S. 544, 570 (2007). “In considering the merits of a motion to dismiss, the Court may look
+
+10
+
+The Individual Defendants miss the mark with their point II.B.2 at Defs. Br. 18. At no time does Plaintiff suggest
+that the fact of Wesson’s membership on the Audit Committee, standing alone, is sufficient to show liability.
+Plaintiff does not present allegations of “poor supervision” such as those contemplated in Stiegele v. Bailey, No. 0510677, 2007 U.S. Dist. LEXIS 86469 (D. Mass, August 23, 2007), but rather that as a Director, with the heightened
+responsibility of Audit Committee Member, Wesson consciously and absolutely failed to discharge any of his
+directorial duties of oversight and monitoring the internal financial and accounting controls of JBI.
+
+15
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 23 of 36
+
+only to the facts alleged in the pleadings, documents attached as exhibits or incorporated by
+reference in the complaint and matters of which judicial notice can be taken.” In re Evergreen
+Ultra Short Opportunities Fund Sec. Litig., 705 F. Supp. 2d 86, 90-91(D. Mass 2010), citing
+Nollet v. Justices of the Trial Court of Mass., 83 F. Supp. 2d 204, 208 (D. Mass 2000), aff’d, 248
+F.3d 1127 (1st Cir. 2000). “[T]he Court must accept all factual allegations in the complaint as
+true and draw all reasonable inferences in the plaintiff’s favor.” Id. at 91, citing Langadinos v.
+Amer. Airlines, Inc., 199 F.3d 68, 69 (1st Cir. 2001) (same); Trans-Spec Truck Svc., Inc. v.
+Caterpillar Inc., 524 F.3d 315, 320 (1st Cir. 2008) (same). Applying this standard, the Complaint
+is more than sufficient to state claims for relief and the Individual Defendants’ Motion to
+Dismiss must be denied.
+B.
+
+SECTION 78.138(7) DOES NOT AUTOMATICALLY INVOKE RULE 9(B) PLEADING
+STANDARDS AND THEREFORE, PLAINTIFF HAS STATED A CLAIM FOR RELIEF
+UNDER RULE 12(B)(6)
+
+As discussed more fully above, supra at I.B., Section 78.138(7) requires a showing of
+“intentional misconduct, fraud or a knowing violation of law” for liability to attach. Id.
+(emphasis added).
+
+In asserting that the Complaint should be dismissed, the Individual
+
+Defendants seek to arbitrarily assign the heightened pleading standard of Federal Rule of Civil
+Procedure 9(b) to Plaintiff’s derivative claims. Defs. Br. at 23-28. The Individual Defendants
+seek to do this despite the fact that Plaintiff has not alleged fraud in the Complaint, a prerequisite
+for evaluating Plaintiff’s pleadings under the Rule 9(b) standard.11
+
+11
+
+Defendants cite Rapaport v. Soffer, No. 10-CV-935, 2012 U.S. Dist. LEXIS 90324, at *14 (D. Nev. June 29,
+2012) to support the proposition that because “Section 78.138(7) requires ‘intentional misconduct, fraud, or a
+knowing violation of the law,’ it triggers application of Fed. R. Civ. P. 9(b).” This is an inaccurate reading of
+Rapaport. Rather, the full text of Rapaport, clearly distinguishes between the intentional misconduct and/or
+knowing violation of the law requirement under § 78.138(7) and the fraud requirement. The Rapaport Court stated:
+“In order for a director to be held liable for a breach of their fiduciary duty, the breach must involve intentional
+(continued)
+
+16
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 24 of 36
+
+To the contrary, in order to survive a Rule 12(b)(6) motion, Plaintiff need only satisfy the
+requirements of Federal Rule of Civil Procedure 8(a).12 Rule 8(a) requires only “a short and
+plain statement of the claim showing that the pleader is entitled to relief” and “a demand for
+judgment for the relief the pleader seeks,” FED. R. CIV. P. 8(a)(2), a standard decidedly met by
+Plaintiff.
+The elements of a claim for breach of fiduciary duty are set forth above. Supra, at I.B.
+While Defendants assert that Plaintiff has engaged in “group pleading” and made conclusory
+allegations that Defendants breached their fiduciary duties, Defs. Br. 25, the Complaint plainly
+states a claim against the Defendants Baldwin, Smith, Bradshaw and Goldberg for breaching
+their fiduciary duties owed to JBI by disseminating false and misleading statements.13 As set
+
+misconduct, fraud, or a knowing violation of the law. NRS § 78.138(7)(b); see also Fed. R. Civ. P. 9(b) (requiring
+heightened pleading standard for claims of fraud).” Id. at *14; see also Kahn v. Dodds (In re AMERCO Derivative
+Litig.) 252 P.3d 681 at *700 (Nev. 2011) (“Pursuant to NRS 78.138(7), to show that a director breached his or her
+fiduciary duty, a shareholder must prove that the director's ‘act or failure to act constituted a breach of his or her
+fiduciary duties’ and that the ‘breach of those duties involved intentional misconduct, fraud or a knowing violation
+of the law.’ NRCP 9(b) provides, in pertinent part, that ‘[i]n all averments of fraud[,] . . . the circumstances
+constituting fraud . . . shall be stated with particularity.’ Because appellants’ claims of breach of the fiduciary duty
+are, in this instance, allegations of fraud committed by respondent officers and directors, for those causes of action,
+appellants must satisfy the heightened pleading requirement of NRCP 9(b). For all other causes of action, appellants
+need only satisfy the more liberal pleading requirements of NRCP 8(a) (“a claim for relief. . . shall contain . . . a
+short and plain statement of the claim showing that the pleader is entitled to relief”).”)(emphasis added).
+12
+
+Moreover, even if Rule 9(b) were the proper standard to use, which it is not, Plaintiff would still have stated a
+claim under Rule 9(b), under which Plaintiff is simply required to plead sufficient facts “from which it can
+reasonably be inferred that ... ‘something’ was knowable and that the defendant was in a position to know it.”
+IOTEX Communs., Inc. v. Defries, No. 15817, 1998 Del. Ch. LEXIS 236, at *12-13 (Del. Ch. Dec. 21, 1998).
+Plaintiff has clearly met this standard.
+
+13
+
+As to defendants Bordynuik and Wesson, Plaintiff’s particularized claims have been set forth supra at I.B. See
+also, Malpiede v. Townson, 780 A.2d 1075, 1082 (Del. 2001)(Once the Court determines that demand is excused, as
+a matter of law, Plaintiffs have met their pleading burden by adequately stating a claim for breaches of fiduciary.
+The “notice pleading” standard is a less stringent standard than the standard applied when evaluating a pre-suit
+demand.); Ryan v. Gifford, 918 A.2d 341, 357 (Del. Ch. 2007) (“In the context of a motion to dismiss for failure to
+state a claim, however, the pleading standard does not reach so high a bar as Rule 23.1. Thus, where plaintiff alleges
+particularized facts sufficient to prove demand futility [], that plaintiff a fortiori rebuts the business judgment rule
+for the purpose of surviving a motion to dismiss pursuant to Rule 12(b)(6).”).
+
+17
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 25 of 36
+
+forth above, Malone applies. Supra at I.B.1. The Complaint alleges that Defendants Baldwin,
+Smith, Bradshaw and Goldberg knowingly participated in the dissemination of materially false
+and misleading statements. ¶ 41. The Complaint sets forth facts that these same defendants knew
+that the September 30, 2009 Form 10-Q (as to Baldwin) and the 2009 Form 10-K (as to Baldwin,
+Smith, Bradshaw and Goldberg) misrepresented the value of the Media Credits. ¶¶ 41, 42, 43.
+Indeed, the Complaint sets forth particular allegations as to the Board’s knowledge and exposure
+to Bordynuik’s multiple misrepresentations regarding the Media Credits, the Company’s
+business prospects and growth, and the widespread cover-up and conspiracy that all the
+Individual Defendants engaged in to further Bordynuik’s aspirations for Plastic2Oil. ¶¶ 41, 43,
+44, 45, 61-66, 67, 72-75.
+Additionally, under the Ritter analysis, supra at I.B.2, the Complaint alleges that all the
+Individual Defendants consciously failed to monitor and oversee the Company’s financial and
+accounting controls in violation of their fiduciary duties. ¶¶ 26, 27, 50, 58-67. The Individual
+Defendants were aware of Bordynuik’s machinations with regard to the Media Credits, and yet,
+even the Audit Committee members failed to take any corrective actions. ¶¶ Id. At no time did
+any of the Individual Defendants attempt to engage the accounting consultants that the Company
+had supporting it (¶ 66), at no time was there any effort made by the Individual Defendants to
+engage, supervise or oversee the sham independent auditor (¶¶ 62, 63), at no time did any of the
+Individual Defendants attempt to take corrective action as to the false and misleading statements,
+in particular those with regard to the Media Credits, and seemingly at no time did the Individual
+Defendants apply even common sense to the valuation of the Media Credits. ¶¶ 1, 43, 44, 47.
+Instead, the Individual Defendants chose to sit idly by while Bordynuik told the investors,
+the market, the shareholders and the SEC what Bordynuik wanted them to hear, regardless of the
+
+18
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 26 of 36
+
+fact that it was incorrect. ¶ 66. The Complaint clearly sets forth allegations as to the utter failure
+of the Individual Defendants to oversee and monitor the financial and accounting controls of the
+Company. ¶¶ 50-56, 58-67. Furthermore, the Complaint presents adequate allegations that this
+utter failure was a conscious decision on the part of the Individual Defendants and therefore
+notice pleading under Rule 8(a) and the Nevada statutory provision under Section 78.138(7) have
+been met. As such, Plaintiff has stated a claim for which relief can be granted and the Individual
+Defendants Motion should be denied.
+C.
+
+PLAINTIFF HAS ALLEGED DAMAGE TO JBI
+
+Defendant next asserts that Plaintiff fails to allege facts concerning damages in the
+Complaint and that therefore, Plaintiff has failed to state a claim for breach of fiduciary duty
+under Nevada law. Defendants are simply incorrect.
+The Complaint has alleged that JBI has sustained significant damages, including, but not
+limited to costs and expenses associated with the SEC suit and prior investigation which lead to
+the aforementioned SEC suit.14 ¶ 90.
+
+14
+
+As mentioned above, under Rule 12(b)(6) “the Court must accept all factual allegations in the complaint as true
+and draw all reasonable inferences in the plaintiff’s favor.” In re Evergreen Ultra Short Opportunities Fund Sec.
+Litig., 705 F. Supp. 2d at 91, citing Langadinos v. Amer. Airlines, Inc., 199 F.3d at 69 (same); Trans-Spec Truck
+Svc., Inc. v. Caterpillar Inc., 524 F.3d at 320(same). Here the SEC has completed an investigation on JBI in
+connection with the Media Credits and as a result of the investigation, the SEC has filed suit. There are very real
+costs, fees and expenses associated with both the completed investigation and the current pending SEC suit that JBI
+has already suffered – all of which are damages directly associated with the Individual Defendants’ breaches of
+fiduciary duty. The damages that Plaintiff alleges herein are not, as the Individual Defendants imply, “potential” or
+“pending,” Defs. Br. at 22, and therefore, the cases cited by Defendant in connection with their assertion do not
+apply to the instant case. Id.
+
+19
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 27 of 36
+
+III.
+
+THIS COURT MAY PROPERLY EXERCISE JURISDICTION OVER ALL OF
+THE INDIVIDUAL DEFENDANTS AS THEY HAVE SUFFICIENT MINIMUM
+CONTACTS WITH MASSACHUSETTS
+Defendants argue that the Court lacks personal jurisdiction over the Individual
+
+Defendants other than Defendant Bordynuik. Individual Defendants are incorrect, and Plaintiff
+has adequately alleged a valid basis for the Court’s assertion of personal jurisdiction over all of
+the Individual Defendants.
+In ruling on a motion to dismiss for lack of personal jurisdiction, the plaintiff bears the
+burden of persuading the court that jurisdiction exists. Astro-Med, Inc. v. Nihon Kohden Am.,
+Inc., 592 F.3d 1, 8-9 (1st Cir. 2009). However, where, as here, the court’s disposition as to the
+personal jurisdiction question is based on affidavits and written materials in absence of an
+evidentiary hearing, the plaintiff need only make a prima facie showing that the defendant is
+subject to personal jurisdiction. Elecs. For Imaging, Inc. v. Coyle, 340 F.3d 1344, 1349 (Fed
+Cir. 2003). In evaluating whether the plaintiff has met this burden, the court “must accept the
+uncontroverted allegations in the plaintiff’s complaint as true and resolve any factual conflicts in
+the affidavits in the plaintiff’s favor.” Id. 15
+The starting point for analyzing personal jurisdiction in federal cases is the “long arm”
+statute in the state in which the court is located. See Foster-Miller, Inc. v. Babcock & Wilcox
+
+15
+
+On August 22, 2012, the Parties filed a Joint Motion to Postpone Consideration of Fed. R. Civ. P. 12(b)(2) Motion
+to Dismiss Pending Resolution of Fed. R. Civ. P. 12(b)(6) and Fed. R. Civ. P. 23.1 Grounds for Dismissal, and this
+motion remains pending. In an abundance of caution, Plaintiff has included his response to Individual Defendants’
+Fed. R. Civ. P. 12(b)(2) arguments herein. Plaintiff submits that in the event the Court is inclined to grant the
+Motion to Dismiss based on lack of personal jurisdiction, Plaintiff should be granted jurisdictional discovery as, at a
+minimum, these following facts regarding the Individual Defendants’ continuous contacts with Massachusetts raise
+a disputed factual issue such that jurisdictional discovery is warranted. Plaintiff furthermore submits that Individual
+Defendants’ attempt to introduce declarations at this stage of the proceedings is improper and inadmissible as to a
+Motion to Dismiss under Fed. R. Civ. P. 12(b)(6).
+
+20
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 28 of 36
+
+Can., 46 F. 3d 138, 144 (1st Cir. 1995); Fed. R. Civ. P. 4(k)(1)(A).16
+
+The effect of the
+
+Massachusetts long-arm statute is to allow state and local federal courts to exercise personal
+jurisdiction on any basis consistent with state law and allowable under the U.S. Constitution.
+Thus, the Court need only determine whether the assertion of personal jurisdiction violates due
+process. Soeun Kim v. Veglas, 607 F. Supp. 2d 286 (D. Mass. 2009).
+The U.S. Supreme Court described the constitutional limitations of personal jurisdiction
+in Int’l Shoe Co. v. Washington, 326 U.S. 310 (1945), where it stated that the defendant should
+have sufficient “minimum contacts” with the state so that traditional notions of “fair play and
+substantial justice” are not offended by the assertion of jurisdiction. Id. at 316 (citation omitted).
+Accord Vons Cos., Inc. v. Seabest Foods, Inc., 14 Cal. 4th 434, 444 (1996), cert. denied, sub
+nom. Washington Rest. Mgmt. v. Vons Cos., 522 U.S. 808 (1977). Once the plaintiff shows that
+such minimum contacts with the forum state exist, it is defendants’ burden to demonstrate that
+the exercise of jurisdiction is unreasonable. See Burger King Corp. v. Rudzewicz, 471 U.S. 462,
+476-77 (1985); Vons, 14 Cal. 4th at 449. Here, as set forth below, Plaintiff has met the minimum
+contacts standard such that due process is not violated and personal jurisdiction may be exercised
+over the Individual Defendants.
+A.
+
+THE INDIVIDUAL DEFENDANTS’ CONTINUOUS CONTACTS WITH
+MASSACHUSETTS ARE SUFFICIENT TO SUPPORT SPECIFIC JURISDICTION
+
+Under the minimum contacts test, a defendant may be subject to either specific
+jurisdiction or general jurisdiction. LSI Indus. Inc. v. Hubbell Lighting, Inc., 232 F.3d 1369,
+
+16
+
+“The Massachusetts long-arm statue is intended to extend personal jurisdiction to the constitutional limit.”
+Nahigian v. Leonard, 233 F. Supp. 2d 151, 158 (D. Mass. 2002); Ross v. Ross, 371 Mass. 439, 441 (1976); See
+Mass. Gen. L. ch. 223A § 3. Thus, the scope of this Court’s jurisdiction is very broad.
+
+21
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 29 of 36
+
+1375 (Fed. Cir. 2000) (internal citations omitted). A court may assert specific jurisdiction over a
+nonresident defendant where an alleged injury arises out of or relates to a defendants’ contact
+with the forum.
+
+Burger King Corp. v. Rudzewicz, 471 U.S. 462 (1985). The Individual
+
+Defendants’17 are undoubtedly subject to specific jurisdiction because they have purposefully
+availed themselves of the opportunity to conduct activities in the forum state, and the claims at
+issue are related to or “arise[] out of” a defendants’ contacts with the forum (i.e., Individual
+Defendants’ activities as directors of JBI). In order to establish specific jurisdiction:
+First, the claim underlying the litigation must directly arise out of, or relate to, the
+defendant’s forum-state activities. Second, the defendant’s in-state contacts must
+represent a purposeful availment of the privilege of conducting activities in the
+forum state, thereby invoking the benefits and protections of that state’s laws and
+making the defendant’s involuntary presence before the state’s courts foreseeable.
+Third, the exercise of jurisdiction must, in light of the Gestalt factors, be
+reasonable.18
+United Elec., Radio & Mach. Workers v. 163 Pleasant St. Corp., 960 F.2d 1080, 1089 (1st Cir.
+1992). With regard to the relatedness element of specific jurisdiction, “[t]he relatedness standard
+
+17
+
+The Individual Defendants have served as long-term directors and/or officers and committee members of JBI as
+follows: Defendant Bordynuik is the founding CEO, President, and has been a director of JBI since April 2009. ¶ 13.
+From February 2009 through January 2010 and again from March 2011 through December 2011 Bordynuik was the
+CFO of JBI; ¶13. Defendant Smith was appointed COO on January 11, 2010 and became a director of the Company
+in February 2010. On March 12, 2012 Defendant Smith resigned his positions as COO and director of the
+Company. ¶ 14, JBI Form 8-K, March 12, 2012, Def. Br. Ex. C. Defendant Baldwin was CFO of JBI from January
+1, 2010 through April 6, 2011. ¶ 15. Defendant Bradshaw was a member of the Board from February 2010 through
+June 2010 when she became the Company’s Vice President of Marketing and Communications. ¶ 16. Bradshaw
+served as a member of the Audit Committee, the Compensation Committee, and the Nominating Committee of JBI
+from February 2010 through June 2010. ¶ 16. Defendant Wesson has been a director of JBI since February 2010
+and has served on the Audit Committee, the Compensation Committee and the Nominating Committee of the Board
+since February 2010. ¶ 17, 66, 85(c). Defendant Goldberg was a member of the Board from March 24, 2010
+through August 12, 2010 and served as a member of the Audit Committee, the Compensation Committee and the
+Nominating Committee during that time. ¶ 20, 66. Defendant Henry was a member of the Board from February 12,
+2010 through March 24, 2010. ¶ 21. Defendant Bagai has been a member of the Board since April 30, 2010 and has
+served as a member of the Audit Committee, the Compensation Committee and the Nominating Committee since
+then. ¶ 18.
+18
+
+Reasonableness need not be proven if the other two parts of the condition are met. United Elec., Radio & Mach.
+Workers, 960 F.2d at 1091 n.11 (citing Donatelli v. National Hockey League, 893 F.2d 459, 465 (1st Cir. 1990)).
+
+22
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 30 of 36
+
+is flexible and ‘focuses on the nexus between the defendant’s contacts and the plaintiff’s cause of
+action.’” Hannon v. Beard, 524 F.3d 275, 282 (1st Cir. 2008); see also Lawson v. Affirmative
+Equities Co., L.P., 341 F. Supp. 2d 51, 59 (D. Mass. 2004) (“The relatedness test is, relatively
+speaking, a flexible relaxed standard”).
+
+However, in light of the flexible nature of the
+
+relatedness inquiry, the First Circuit has declined to require strict adherence to a proximate cause
+standard, instead applying a “small overlay of ‘but for’ on ‘proximate cause’”. LaVallee v.
+Parrot-Ice Drink Prods. of Am., Inc., 193 F. Supp. 2d 296, 303 (D. Mass. 2002). As set forth
+herein, the Individual Defendants’ in-state activities are directly related to the Individual
+Defendants’ breaches of fiduciary duty by disseminating false and misleading statements such
+that jurisdiction over them is proper.
+With regard to purposeful availment, “[t]he function of the purposeful availment
+requirement is to assure that personal jurisdiction is not premised solely upon a defendant’s
+“random, isolated, or fortuitous” contacts with the forum state.” Sawtelle v. Farrell, 70 F.3d
+1381, 1391 (1st Cir. 1995). To determine purposeful availment, a court must look at whether the
+defendant’s forum activity is voluntary and made it foreseeable that it could be brought to court
+in Massachusetts. Scuderi Group, LLC v. LGD Tech., LLC, 575 F. Supp. 2d 312, 322 (D. Mass.
+2008).
+
+Pursuant to their duties as directors of JBI, the Individual Defendants have had
+
+continuous contacts with Massachusetts such that it was foreseeable that they could end up in
+court in Massachusetts.
+1.
+
+Individual Defendants Participated in JBI’s Board Meetings,
+Committee Duties, and Communications Directed at Massachusetts
+
+As directors, the Individual Defendants, were responsible for attending board meetings in
+Massachusetts. In addition to attending JBI Board meetings, being a director of a Company
+necessarily requires the Individual Defendants to have continuing contacts with the Company
+23
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 31 of 36
+
+through means such as emails or phone calls which would subject them to this Court’s
+jurisdiction. Yankee Group, Inc. v. Yamashita, 678 F. Supp. 20, 23 (D. Mass. 1988); see also
+Massachusetts Sch. Of Law v. ABA, 142 F.3d 26, 36 (1st Cir. 1998) (“The transmission of facts
+or information into Massachusetts via telephone or mail would of course constitute evidence of a
+jurisdictional contact directed into the forum state”); LaVallee, 193 F. Supp. 2d at 303 (“The
+transmission of information into Massachusetts by way of the mails, the internet or the telephone
+is decidedly a contact for purposes the relatedness analysis.”). In fact, a defendant’s lack of
+physical presence in Massachusetts is not fatal to the case for jurisdiction. Workgroup Tech.
+Corp. v. MGM Grand Hotel, 246 F. Supp. 2d 102, 113 (D. Mass. 2003) (“When physical
+presence is lacking, the Court looks for some other indication that the defendant reached into the
+forum, such as mail or telephone contacts”); LaVallee, 193 F. Supp. 2d at 300 (“[A defendant’s]
+physical presence in the forum is not necessary to establish jurisdiction under the Massachusetts
+long-arm statute”). Accordingly, the Individual Defendants’ participation in JBI’s Board, their
+committee duties, and their communications directed at Massachusetts are systematic and
+continuous, such that this Court can properly exercise jurisdiction over them.
+2.
+
+Individual Defendants Approved of JBI’s False and Misleading SEC
+Filings and Press Releases
+
+The Individual Defendants are all directors of JBI whose principal place of business was
+located in this district during a majority of the relevant period of time. ¶ 10. Moreover, the
+Complaint states that a “substantial portion of the acts constituting the alleged breaches of
+fiduciary duty and other claims occurred in [this district].” ¶ 10. Specifically, the Individual
+Defendants breached their fiduciary duties in connection with the issuance of false and
+misleading statements concerning JBI’s earnings and business prospects for fiscal year 2009. ¶¶
+41, 57, 64, 67.
+
+To that end, the false and misleading statements made by the Individual
+24
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 32 of 36
+
+Defendants all emanated from the Company, i.e. from Massachusetts, regardless of where the
+Individual Defendants are physically located. In fact, significant false and misleading statements
+were made in the Company’s 2009 Form 10-K, which originated in the District of Massachusetts
+and was signed by certain of the Individual Defendants. ¶ 41. For Individual Defendants
+Baldwin, Bradshaw, Wesson, Goldberg, and Smith, the approval of this SEC filing for
+dissemination alone is a sufficient basis for this Court to assert personal jurisdiction over them.
+See Johnson v. Witowski, 30 Mass. App. Ct. 697 (1991) (under the Massachusetts long-arm
+statute, court held that it had jurisdiction over an out-of-state director defendant whose alleged
+breach of fiduciary duty occurred in Massachusetts); see also In re DaimlerChrysler AG Sec.
+Litig., 197 F. Supp. 2d 86, 94-97 (D. Del. 2002) (court held that defendants’ involvement in
+preparing and filing false and misleading SEC filings raised a colorable showing of personal
+jurisdiction); Itoba Ltd. v. LEP Group PLC, 930 F. Supp. 36, 40 (D. Conn. 1996) (court held that
+it was appropriate to exercise personal jurisdiction over a defendant who approved the SEC filing
+giving rise to plaintiffs’ claims, even though that defendant was not actually present at the
+meeting in which those documents were approved).
+3.
+
+Individual Defendants Received Compensation From JBI
+
+Courts have also held that out-of-state directors and executive officers purposely avail
+themselves of the privilege of conducting business in the forum state by receiving salaries and
+fees from a corporation in the forum state. Shipley Co. v. Clark, 728 F. Supp. 818, 822 (D.
+Mass. 1990). In Shipley, the court held that personal jurisdiction did not offend due process
+because the defendants had reasonable notice that they might be sued in Massachusetts,
+specifically pointing to the fact that the defendants’ salaries were paid from a Massachusetts
+employer, as evidence that the defendants had notice of being subject to suit in Massachusetts.
+Id. at 822-823.
+25
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 33 of 36
+
+Similarly, the Individual Defendants have been paid by JBI, a Massachusetts based
+company.
+
+The Complaint states that the Individual Defendants “have received substantial
+
+compensation in this District by doing business here and engaging in numerous activities that
+had an effect in this District.” ¶10. By receiving compensation from a Massachusetts based
+company, the Individual Defendants had reasonable notice that they might be sued in
+Massachusetts and are properly subject to this Court’s jurisdiction. As such, the Individual
+Defendants’ Motion, as it pertains to personal jurisdiction, should be denied.
+IV.
+
+THE COURT SHOULD DENY DEFENDANTS’ REQUEST TO STAY THIS
+ACTION
+“[T]he power to stay proceedings is incidental to the power inherent in every court to
+
+control the disposition of the causes on its docket with economy of time and effort for itself, for
+counsel, and for litigants.” Landis v. North American Co., 299 U.S. 248, 254, 57 S. Ct. 163, 81
+L. Ed. 153 (1936). The court has discretion to grant or deny a stay when it will serve the
+interests of judicial economy and efficiency. Id. The court should consider “the possible
+damage which may result from the granting of a stay, the hardship or inequity which a party may
+suffer in being required to go forward, and the orderly course of justice measured in terms of the
+simplifying or complicating of issues, proof, and questions of law which could be expected to
+result from a stay.” Filtrol Corp. v. Kelleher, 467 F.2d 242, 244 (9th Cir. 1972). “[I]f there is
+even a fair possibility that the stay … will work damage to some one else,” the party seeking the
+stay “must make out a clear case of hardship or inequity in being required to go forward.”
+Landis, 299 U.S. at 255.
+The Court should not grant a stay of this action because the claims in the Pancoe
+securities class action are not as all-encompassing as the claims set forth by Plaintiff in this
+Complaint.
+
+Plaintiff here has a wider, over-reaching theme with regard to the Individual
+26
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 34 of 36
+
+Defendants’ breaches of fiduciary duties, one that culminates in the false and misleading
+statements regarding the Media Credits found in the September 30, 2009 Form 10-Q and 2009
+Form 10-K, and not, as the Individual Defendants’ suggest, one that is based on the valuation of
+the Media Credits.
+
+Plaintiff’s claims regarding the Individual Defendants’ utter failure to
+
+discharge their directorial duties as to the false and misleading statements concerning the assets
+and business prospects of the Company, and the absolute lack of financial and accounting
+controls are claims that are not dependent on the outcome of the class claims. Indeed, Plaintiff’s
+action presents issues related to JBI’s loss of market capital, goodwill and reputation that are also
+not dependent on the outcome of the class claims. For this reason, the derivative claims in the
+instant case will in no way be simplified by the conclusion of the securities case, and judicial
+economy would be better served if the Individual Defendants’ request for a stay was denied.
+CONCLUSION
+For all the reasons set forth herein and based on all prior pleadings, Plaintiff respectfully
+requests that the Court deny Individual Defendants Motion to Dismiss the Verified Shareholder
+Complaint in all respects.19
+
+19
+
+Plaintiff also requests that the Court grant Plaintiff leave to replead in the event the Court grants any part of JBI’s
+Motion to Dismiss. See Hayduk v. Lanna, 775 F.2d 441, 445 (1st Cir. 1985) (“federal courts must be liberal in
+allowing parties to amend their complaints….”); Council for Employment & Economic Energy Use v. WHDH
+Corp., 580 F.2d 9, 13 (1st Cir. 1978) (“Normally leave to amend should be liberally granted following dismissal on
+the pleadings”).
+
+27
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 35 of 36
+
+Dated: October 19, 2012
+
+Respectfully submitted,
+PASTOR LAW OFFICE LLP
+/s/ David Pastor
+David Pastor (BBO) #391000
+63 Atlantic Avenue, 3rd Floor
+Boston, MA 02110
+Tel: (617) 742-9700
+Fax: (617) 742-9701
+Email: dpastor@pastorlawoffice.com
+FARUQI & FARUQI, LLP
+Beth A. Keller
+369 Lexington Avenue, 10th Floor
+New York, NY 10017
+Tel: (212) 983-9330
+Fax: (212) 983-9331
+Email: bkeller@faruqilaw.com
+FARUQI & FARUQI, LLP
+Michael J. Hynes
+Lindsay A. Roseler
+101 Greenwood Avenue, Suite 600
+Jenkintown, PA 19046
+Tel: (215) 277-5770
+Fax: (215) 277-5771
+Email: mhynes@faruqilaw.com
+lroseler@faruqilaw.com
+Counsel for Plaintiff
+
+28
+
+Case 1:12-cv-10495-MLW Document 28 Filed 10/19/12 Page 36 of 36
+
+CERTIFICATE OF SERVICE
+I hereby certify that this document filed through the ECF system will be sent
+electronically to the registered participants as identified on the Notice of Electronic Filing (NEF)
+and paper copies will be sent to those indicated as non-registered participants on October 19,
+2012.
+
+/s/ David Pastor
+David Pastor
+
+29
+
+

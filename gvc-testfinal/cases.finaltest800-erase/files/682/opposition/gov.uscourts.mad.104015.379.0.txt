@@ -1,0 +1,277 @@
+Case 1:06-cv-11109-RWZ
+
+Document 379
+
+Filed 08/08/2008
+
+Page 1 of 7
+
+UNITED STATES DISTRICT COURT
+DISTRICT OF MASSACHUSETTS
+__________________________________________
+)
+AKAMAI TECHNOLOGIES, INC., and
+)
+MASSACHUSETTS INSTITUTE OF
+)
+TECHNOLOGY,
+)
+)
+Plaintiffs,
+)
+Civil Action No. 06-cv-11109-RWZ
+)
+06-cv-11585-RWZ
+v.
+)
+)
+LIMELIGHT NETWORKS, INC.,
+)
+)
+Defendant.
+)
+__________________________________________)
+AKAMAI’S MEMORANDUM IN OPPOSITION TO
+LIMELIGHT’S MOTION TO RECONSIDER THE COURT’S DENIAL OF
+LIMELIGHT’S MOTION FOR JUDGMENT AS A MATTER OF LAW
+
+AKAMAI TECHNOLOGIES, INC., and
+MASSACHUSETTS INSTITUTE OF
+TECHNOLOGY
+By their attorneys,
+
+Robert S. Frank, Jr. (BBO #177240)
+Robert M. Buchanan, Jr. (BBO #545910)
+Carlos Perez-Albuerne (BBO #640446)
+CHOATE, HALL & STEWART LLP
+Two International Place
+Boston, Massachusetts 02110
+(617) 248-5000
+- and Sarah Chapin Columbia (BBO #550155)
+MCDERMOTT, WILL & EMERY LLP
+28 State Street
+Boston, Massachusetts 02109
+(617) 535-4074
+Dated: August 8, 2008
+
+4360090v1
+
+Case 1:06-cv-11109-RWZ
+
+Document 379
+
+Filed 08/08/2008
+
+Page 2 of 7
+
+This memorandum is filed in response to Limelight’s Motion For Reconsideration Of The
+Court’s Denial Of Limelight’s Motion For Judgment As A Matter Of Law.
+Limelight’s Motion for Reconsideration is predicated on its argument that the Federal
+Circuit decision in Muniauction, Inc. v. Thomson Corp., 2008 WL 2717689 (Fed. Cir. July 14,
+2008) articulated a change in the legal standard for a finding of infringement of a method claim
+where more than one person or entity performs the claimed method steps. Limelight’s motion to
+reconsider should be denied because:
+1.
+
+The Muniauction decision did not change the legal standard; it simply
+
+reiterated and applied the standard announced in BMC Resources, Inc. v. Paymentech
+L.P., 498 F.3d 1373 (Fed. Cir. 2007);
+2.
+
+The trial in the present case took place after the Federal Circuit’s decision
+
+in BMC and the Court’s jury instructions in this case carefully incorporated the BMC
+standard.
+3.
+
+The jury, having been instructed based on the BMC standard, found
+
+infringement; it had sufficient evidence from which to make its finding.
+1.
+
+The Muniauction Decision Did Not Articulate New Law
+
+In BMC Resources, Inc. v. Paymentech, L.P., 498 F.3d 1373 (Fed. Cir. 2007), the Federal
+Circuit held that in order to infringe a method claim, one entity must either perform all of the
+steps of the claimed method or must direct or control the actions of others who perform some of
+those steps. In the case at bar, the Court correctly charged the jury using the direction or control
+standard. The jury found in favor of Akamai.
+The Federal Circuit’s decision in Muniauction expressly confirms the BMC standard.
+2008 WL 2717689 at *8. In that case, the trial took place before BMC was decided and, as a
+
+4360090v1
+
+Case 1:06-cv-11109-RWZ
+
+Document 379
+
+Filed 08/08/2008
+
+Page 3 of 7
+
+result, the trial court did not charge the jury in accordance with the BMC standard. The Federal
+Circuit assessed the case under the BMC standard and found insufficient evidence to support the
+jury’s findings of infringement.
+Limelight tells the Court that Muniauction created a new requirement for proving joint
+infringement, viz., “a showing that the accused direct infringement is vicariously liable for the
+acts committed by any other required to complete performance of the claimed method.”
+Limelight Motion at p. 2; Memorandum at p. 2. This is simply not so. While the Federal
+Circuit noted that “[u]nder BMC Resources, the control or direction standard is satisfied in
+situations where the law would traditionally hold the accused direct infringer vicariously liable
+for the acts committed by another party,” id., 2008 WL 2717689 at *9 (emphasis supplied), it
+did not impose a new legal standard. Rather, it provided an example of one way of proving the
+direction or control standard articulated in BMC.
+2.
+
+The Change Here Incorporated the BMC Standard
+
+In this case, which was tried after the BMC decision, both parties requested, and the
+Court included, a jury instruction expressly incorporating the BMC standard.1 Jury Charge,
+13:53.2
+3.
+
+There Was Sufficient Evidence From Which The Jury Found
+Infringement Applying the BMC Standard
+
+In Muniauction, the patent claimed an auction process in which bond underwriters input
+bids, the interest cost of the bid is calculated, the bid is transmitted over a network (e.g., the
+
+1
+
+In fact, the Court’s initial instruction to the jury said that Akamai had to prove that Limelight directed and
+controlled the steps carried out by its customers. Jury Charge, 13:20-21 At the request of both parties at sidebar, the
+Court corrected its instruction to say that Akamai had to prove that Limelight directed or controlled the steps carried
+out by its customers. Jury Charge, 13:51-53
+2
+Unless stated otherwise, all exhibits cited herein are filed contemporaneously herewith in the Appendix of
+Documents Cited In Support of Akamai’s Memorandum In Opposition to Limelight’s Motion to Reconsider the
+Court’s Denial of Limelight’s Motion for Judgment as a Matter of Law. Citations to the trial transcript can be found
+in Exhibit A, and are cited as “Witness, Day:Page.”
+
+2
+4360090v1
+
+Case 1:06-cv-11109-RWZ
+
+Document 379
+
+Filed 08/08/2008
+
+Page 4 of 7
+
+Internet), and the bid is displayed on the bond issuer’s terminal. The plaintiff alleged that the
+Thomson, the entity that ran the auction system, infringed the claim. At the end of a decision
+that is largely devoted to other issues, the Federal Circuit held, citing BMC, that a method claim
+is infringed “if one party exercises direction or control over the entire process such that every
+step is attributable to … the mastermind.” Muniauction, 2008 WL 2717689 at *8. The question,
+the Court said, was whether there was sufficient direction or control by the auctioneer over the
+independent bidder. On the record in the Muniauction case, the Federal Circuit held that it was
+“not sufficient” to show merely that the patent holder “controls access to its system and instructs
+bidders on its use” -- i.e., teaches them how to use the system. Id. at *9.
+The facts of this case are grossly different from those of Muniauction and more than
+sufficient to support the jury verdict of infringement under the BMC standard. Limelight’s
+customers execute contracts with Limelight that require the customer to use Limelight’s “then
+current Company processes … to enable … Customer Content to be delivered by” Limelight and
+compel the customer to provide “all cooperation … reasonably necessary for Company
+[Limelight] to implement its CDS [Content Distribution Service].” PX0429 at LLN0157950
+(Ex. B); Gordon, 8:120. Limelight then gives to the customer a “short name” or hostname.
+Gordon, 8:105-110; PX0382 (Ex. C). The short name is a virtual hostname that identifies the
+customer’s content and points to the Limelight network. The customer must use the Limelightsupplied hostname, either in the URLs embedded in pages that are served by the customer, or
+must serve a page that contains aliases for the Limelight-supplied hostname and then substitute
+the Limelight-supplied hostname during the DNS process. Kelly, 9:114; PX0419 (Ex. D)
+(Limelight Installation Guidelines: “…the customer will need to use” the “LLNW URL”)
+(emphasis supplied). Either way, Limelight requires the customer to tag embedded objects of a
+
+3
+4360090v1
+
+Case 1:06-cv-11109-RWZ
+
+Document 379
+
+Filed 08/08/2008
+
+Page 5 of 7
+
+page so that requests for those objects resolve to the Limelight domain. The customer must
+serve the page containing the Limelight-supplied hostname or an alias for that hostname. There
+is no other purpose for providing a hostname to the customer, and no other way that Limelight
+can provide the service that Limelight provides. Gordon, 8:118-119 (“… if they want us to
+deliver content they have to publish [serve pages containing] URLs using that [Limelightassigned] short name … or implement a CNAME process to do that”).3
+Thus, the only steps of claims 19-21 and 34 of the '703 patent that are performed by
+persons other than Limelight are performed by Limelight’s content provider customers. Those
+customers, once they sign Limelight’s contract, are under a contractual obligation to -implement Limelight’s content delivery method by serving pages that include a hostname
+supplied by Limelight to the customer. The jury was entitled to find that Limelight was the
+“mastermind,” that it directed or controlled the actions of its customers when they performed the
+“tagging” and “serving the page” steps of the relevant claims. The jury was charged correctly.
+The jury did so find. There is no basis in law or in fact for overturning its verdict.
+
+3
+
+Akamai incorporates by reference its detailed description of the evidence in support of the jury’s finding from
+Akamai’s Memorandum in Opposition to Limelight’s Motion for Judgment as a Matter of Law (Docket Entry 343)
+at pp. 31-34.
+
+4
+4360090v1
+
+Case 1:06-cv-11109-RWZ
+
+Document 379
+
+Filed 08/08/2008
+
+Page 6 of 7
+
+CONCLUSION
+For the reasons set forth herein and in Akamai’s Memorandum in Opposition to
+Limelight’s Motion for Judgment as a Matter of Law, Limelight’s Motion To Reconsider should
+be denied.
+Respectfully submitted,
+AKAMAI TECHNOLOGIES, INC., and
+MASSACHUSETTS INSTITUTE OF
+TECHNOLOGY
+By their attorneys,
+
+_/s/ Robert S. Frank, Jr.
+Robert S. Frank, Jr. (BBO #177240)
+Robert M. Buchanan, Jr. (BBO #545910)
+Carlos Perez-Albuerne (BBO #640446)
+G. Mark Edgarton (BBO #657593)
+CHOATE, HALL & STEWART LLP
+Two International Place
+Boston, Massachusetts 02110
+rfrank@choate.com
+(617) 248-5000
+- and Sarah Chapin Columbia (BBO #550155)
+MCDERMOTT, WILL & EMERY LLP
+28 State Street
+Boston, Massachusetts 02109
+(617) 535-4074
+Dated: August 8, 2008
+
+5
+4360090v1
+
+Case 1:06-cv-11109-RWZ
+
+Document 379
+
+Filed 08/08/2008
+
+Page 7 of 7
+
+CERTIFICATE OF SERVICE
+I hereby certify that this document filed through the ECF system will be sent
+electronically to the registered participants as identified on the Notice of Electronic Filing (NEF)
+and paper copies will be sent to those indicated as non-registered participants on August 8, 2008,
+via electronic mail.
+
+/s/ Robert S. Frank, Jr.
+Robert S. Frank, Jr.
+
+6
+4360090v1
+
+

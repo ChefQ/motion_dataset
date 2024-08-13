@@ -1,0 +1,1316 @@
+Case 1:02-cv-01078-VJW
+
+Document 88
+
+Filed 06/25/2008
+
+Page 1 of 33
+
+IN THE UNITED STATES COURT OF FEDERAL CLAIMS
+
+GARY BAILEY,
+Plaintiff,
+v.
+UNITED STATES OF AMERICA,
+Defendant.
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+Civil No. 02-1078L
+Honorable Victor J. Wolski
+
+DEFENDANT’S MOTION FOR SUMMARY JUDGMENT
+BASED UPON BACKGROUND PRINCIPLES OF STATE LAW
+
+Defendant, the United States of America, moves for summary judgment in its favor on
+the grounds that the Plaintiff cannot show that he possessed the property interest which he
+alleges was taken in this case. For this reason as more fully set forth in the following
+memorandum, the Defendant requests that the Court enter summary judgment in its favor
+pursuant to Rule 56 of the Rules of the Court of Federal Claims.
+
+Case 1:02-cv-01078-VJW
+
+Document 88
+
+Filed 06/25/2008
+
+Page 2 of 33
+
+TABLE OF CONTENTS
+
+I.
+
+INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+
+II.
+
+BACKGROUND . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+III.
+
+A.
+
+Sunny Beach Subdivision . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+B.
+
+Plaintiff’s Application for a Section 401 Certification . . . . . . . . . . . . . . . . . . . . . 3
+
+C.
+
+Revocation of Plaintiff’s Section 401 Certification . . . . . . . . . . . . . . . . . . . . . . . . 6
+
+D.
+
+Plaintiff’s Takings Claims . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+E.
+
+Plaintiff’s Appeal of the Revocation of the Section 401 Certification . . . . . . . . . 7
+
+ARGUMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+A.
+
+Standard of Review . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+B.
+
+Background Principles of State Law Define the Contours of Plaintiff’s Property
+Interest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+
+C.
+
+1.
+
+As a Threshold Matter, Plaintiff Must Demonstrate the Existence of a
+Protected Property Right Before a Taking Can Be Considered . . . . . . . 11
+
+2.
+
+Plaintiff Bears the Burden of Demonstrating That a Property Interest
+Exists. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+
+3.
+
+State Law Routinely Defines the Scope of a Plaintiff’s Property
+Interest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+
+Plaintiff Has No Property Interest in Development that Is Prohibited Under
+Background Principles of Minnesota Law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+1.
+
+Minnesota Common and Statutory Laws of Nuisance Prohibit
+Development that Includes Inadequate Septic Systems . . . . . . . . . . . . . 18
+
+2.
+
+Residential Development of Plaintiff’s Property Is Prohibited Under
+Background Principles of Minnesota Law of Nuisance . . . . . . . . . . . . . 21
+
+i
+
+Case 1:02-cv-01078-VJW
+
+3.
+
+III.
+
+Document 88
+
+Filed 06/25/2008
+
+Page 3 of 33
+
+a.
+
+The State of Minnesota Has Conclusively Determined that
+Installation of Septic Systems in the Saturated Sunny Beach
+Soils Would Create a Nuisance . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+
+b.
+
+The State of Minnesota Has Determined that Many of the
+Sunny Beach Lots Are Too Small to Support Septic Systems . . 23
+
+Because the Taking Alleged by Plaintiff Goes No Further Than
+Limitations Under Minnesota’s Background Principles of Nuisance,
+There Can Be No Taking . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+
+CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+
+ii
+
+Case 1:02-cv-01078-VJW
+
+Document 88
+
+Filed 06/25/2008
+
+Page 4 of 33
+
+TABLE OF AUTHORITIES
+
+CASES
+Air Pegasus of D.C., Inc. v. United States,
+424 F.3d 1206 (Fed. Cir. 2005) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12, 13
+Allied-General Nuclear Servs. v. United States,
+839 F.2d 1572 (Fed. Cir.) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Am. Pelagic Fishing Co. v. United States,
+379 F.3d 1363 (Fed. Cir. 2004), cert. denied 545 U.S. 1139 (2005) . . . . . . . 11-13, 14, 24
+Anderson v. Liberty Lobby, Inc.,
+477 U.S. 242 (1986) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Bailey v. United States,
+78 Fed. Cl. 239 (2007) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2, 3, 6
+
+Bd. of Regents of State Colleges v. Roth,
+408 U.S. 564 (1972) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Celotex Corp. v. Catrett,
+477 U.S. 317 (1986) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Colvin Cattle Co. v. United States,
+468 F.3d 803 (Fed. Cir. 2006) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Conti v. United States,
+291 F.3d 1334 (Fed. Cir. 2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11, 12, 14
+County of Pine v. State Dep’t. of Natural Res.,
+280 N.W.2d 625 (Minn. 1979) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Erb v. Maryland Dept. of Environment,
+676 A.2d 1017 (Md. App. 1996) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Goldblatt v. Town of Hempstead,
+369 U.S. 590 (1962) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Hall v. Stokely-Van Camp Inc.,
+106 N.W.2d 8 (Minn. 1960) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+
+iii
+
+Case 1:02-cv-01078-VJW
+
+Document 88
+
+Filed 06/25/2008
+
+Page 5 of 33
+
+Highview North Apartments v. County of Ramsey,
+323 N.W.2d 65 (Minn. 1982) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Huber v. City of Blue Earth,
+6 N.W.2d 471 (Minn. 1942) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Hughes v. Village of Nashwauk,
+225 N.W. 898 (Minn. 1929) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+
+John R. Sand & Gravel Co. v. United States,
+62 Fed. Cl. 556 (2004), aff’d on other grounds, 457 F.3d 1345 (2006),
+aff’d 128 S.Ct. 750 (2008) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1, 18, 25
+Keystone Bituminous Coal Ass’n v. DeBenedictis,
+480 U.S. 470 (1987) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16, 24
+Knieper v. United States,
+38 Fed. Cl. 128 (1997) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Lucas v. South Carolina Coastal Council,
+505 U.S. 1003 (1992) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1, 13,15-17
+M&J Coal Co. v. United States,
+47 F.3d 1148 (Fed. Cir. 1995) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11-14, 15
+Maritrans v. United States,
+342 F.3d 1344 (Fed. Cir. 2003) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12, 13
+McKay v. United States,
+199 F.3d 1376 (Fed. Cir. 1999) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Members of Peanut Quota Holders Ass’n, Inc., v. United States,
+421 F.3d 1323 (Fed. Cir. 2005), cert. denied, 548 U.S. 904 (2006) . . . . . . . . . . . . . . . . 11
+Miller v. Schoene,
+276 U.S. 272 (1928) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Minnesota Energy & Econ. Dev. Auth. v. Printy,
+351 N.W.2d 319 (Minn. 1984) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Mugler v. Kansas,
+123 U.S. 623 (1887) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
+iv
+
+Case 1:02-cv-01078-VJW
+
+Document 88
+
+Filed 06/25/2008
+
+Page 6 of 33
+
+Nelson v. Swedish Evangelical Lutheran Cemetery Assoc.,
+126 N.W. 723 (Minn. 1910) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Nienow v. Village of Mapleton,
+174 N.W. 517 (Minn. 1919) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Penn Central Transp. Co. v. City of New York,
+438 U.S. 104 (1978) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+
+Rith Energy, Inc. v. United States,
+44 Fed. Cl. 108 (1999) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17, 25
+Satren v. Hader Co-op. Cheese Factory,
+279 N.W. 361 (Minn. 1938) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Sweats Fashions, Inc. v. Pannill Knitting Co.,
+833 F.2d 1560 (Fed. Cir. 1987) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Tabb Lakes, Ltd. v. United States,
+10 F.3d 796 (Fed. Cir. 1993) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+United States v. Gen. Motors,
+323 U.S. 373 (1945) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+
+STATUTES
+
+33 U.S.C. § 1341 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, 4
+33 U.S.C. § 1344 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, 6
+Mason’s Minn. St. 1927 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Minn. Stat. Ann. § 115.01 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Minn. Stat. Ann. § 115.07 (2008) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Minn. Stat. Ann. § 115.071 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Minn. Stat. Ann. § 115.44 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Minn. Stat. Ann. § 561.01 (2008) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+
+v
+
+Case 1:02-cv-01078-VJW
+
+Document 88
+
+Filed 06/25/2008
+
+Page 7 of 33
+
+Minn. Stat. § 14.69 (2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+The Minnesota Water Pollution Control Act (Minn. Stat. Ch. 115) . . . . . . . . . . . . . . . . . . . . . . 20
+
+RULES
+
+RCFC 56 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+RCFC 56(c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+REGULATIONS
+
+Minn. R. 6120.3500 (2007) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Minn. R. 7001.1400-1470 (2007) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Minn. R. 7050.0210 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 20-22
+Minn. R. 7060.0100 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Minn. R. 7060.0600 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 21, 22
+Minn. R. 7080.0010 (2007) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Minn. R. 7080.0065 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 21, 22
+Minn. R. 7080.0170 (2007) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4, 5
+Minn. R. 7080.0305 (2007) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Minn. R. Chap. 7080 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5, 20
+
+vi
+
+Case 1:02-cv-01078-VJW
+
+Document 88
+
+Filed 06/25/2008
+
+Page 8 of 33
+
+MEMORANDUM IN SUPPORT OF DEFENDANT’S
+MOTION FOR SUMMARY JUDGMENT
+BASED UPON BACKGROUND PRINCIPLES OF STATE LAW
+
+I.
+
+INTRODUCTION
+“[T]he Fifth Amendment protects rather than creates property interests.” McKay v.
+
+United States, 199 F.3d 1376, 1381 (Fed. Cir. 1999). Instead, in most instances, the right and
+power to define property interests is reserved to the states. As Justice Scalia intoned in Lucas v.
+South Carolina Coastal Council, “‘takings’ jurisprudence . . . has traditionally been guided by
+the understandings of our citizens regarding the content of, and the State’s power over, the
+‘bundle of rights’ that they acquire when they obtain title to property.” 505 U.S. 1003, 1027
+(1992). As such, “Federal courts look to state law to ‘define the range of interests that qualify
+for protection as “property,” under the Fifth and Fourteenth Amendments.’” John R. Sand &
+Gravel Co. v. United States, 62 Fed. Cl. 556, 562 (2004), aff’d on other grounds, 457 F.3d 1345
+(2006), aff’d 128 S.Ct. 750 (2008), citing Lucas, 505 U.S. at 1030.
+In the instant case, the state of Minnesota has considered the application of its statutory
+property law as well is its common law of nuisance to residential development of the very lake
+shore lots at issue in this case.1/ Applying its own intrinsic law, the state determined that neither
+plaintiff, nor any other owner, could possess a stick in their bundle of property rights that would
+allow them to locate residential development on the lake front lots at issue in this case. As the
+
+1/
+
+Background principles of property law can also derive, in certain circumstances, from federal
+law. See, e.g., Lucas, 505 U.S. 1003 (referring to the federal navigational servitude).
+1
+
+Case 1:02-cv-01078-VJW
+
+Document 88
+
+Filed 06/25/2008
+
+Page 9 of 33
+
+State of Minnesota found, to do so would have negative health and safety consequences because
+of the inherent inability to safely install septic systems on the property.
+Given that the lake shore lots at issue here cannot be developed as residential properties
+under state law, Plaintiff has no property interest in their development of sale as residential lake
+front lots. Plaintiff enjoys no property right to develop the lots or sell them for residential
+development, ergo that non-existent right cannot be taken. As such, Plaintiff’s claim – that his
+right to develop the lots for residential purposes or to alienate the lots for residential
+development by others was destroyed by the United States Army Corps of Engineers’ denial of a
+permit to fill wetlands – cannot constitute a taking.
+II.
+
+BACKGROUND
+A.
+
+Sunny Beach Subdivision
+
+Plaintiff claims that 13.2 acres of property immediately adjacent to Lake of the Woods in
+Minnesota have been taken from him by Defendant.2/ Complaint (Dkt. 1), ¶¶ IV, VII. The
+property, which is commonly known as “Sunny Beach,” was platted by plaintiff as a residential
+subdivision containing 14 residential parcels.3/ Id. ¶ IV. To provide access to the individual lots,
+from the fall of 1998 through August, 1999, Plaintiff had a road constructed through Sunny
+
+2/
+
+Defendant asserts that the relevant parcel for purposes of this case is a much larger tract of land totaling
+approximately 206.15 acres, which was purchased in a single transaction by Plaintiff and his former wife,
+Kathryn Bailey, in June, 1989. See Bailey v. United States, 78 Fed. Cl. 239, 241 (2007) (“Bailey I”). The
+size of the parcel, however, is not relevant to the present motion for summary judgment and, as such, any
+dispute over the relevant parcel need not be addressed by the Court at this time.
+
+3/
+
+“As approved by the County Board in late 1998, the plat had 14 lots, averaging 33,700 square feet each,
+with roughly 100’ of shorefront each being roughly 300 feet deep.” See Findings of Fact, Conclusion and
+Recommendation of the State of Minnesota Office of Administrative Hearings for the Minnesota
+Pollution Control Agency (“ALJ’s Report”), at ¶ 4 (attached hereto as Ex. A).
+
+2
+
+Case 1:02-cv-01078-VJW
+
+Document 88
+
+Filed 06/25/2008
+
+Page 10 of 33
+
+Beach. See Bailey I, 78 Fed. Cl. at 242-43. At the time the road was installed, Plaintiff had not
+obtained the necessary authorizations to construct the road from the United States Army Corps
+of Engineers (“Corps of Engineers”) or from the State of Minnesota. Id. at 243; Deposition of
+Gary Bailey (“Bailey Dep.”) (Dec. 1, 2004), Ex. 16 (attached hereto as Ex. B). In December
+1998, the subdivision plat was approved by Lake of the Woods County. Complaint (Dkt. 1), ¶
+IV; see also Bailey I, 78 Fed. Cl. at 242.
+From December, 1998 through the first half of 1999, Plaintiff sold lots 2 through 14,
+retaining lot 1 for himself. Id. at 244-45. Some time thereafter, Plaintiff reacquired seven of the
+lots (4, 5, 6, 9, 10, 12 and 13). Bailey Dep. (Feb. 22, 2008), Ex. 51 (attached hereto as Ex. C);
+Bailey I, 78 Fed. Cl. at 245. In its August 10, 2007 decision granting, in part, Defendant’s prior
+Motion for Summary Judgment, the Court ruled that Plaintiff held no property interest in three of
+the lots (7, 8, and 11), which have, therefore, not been taken from Plaintiff for purposes of his
+Fifth Amendment takings claim. See Bailey I, 78 Fed. Cl. at 275. The remaining three lots (2, 3,
+and 14) remain subject to contracts for deed for which the purchasers are essentially current with
+their payments. Bailey Dep. (Feb. 22, 2008), 47:4-11, 50:3-6 (attached hereto as Ex. D).
+B.
+
+Plaintiff’s Application for a Section 401 Certification
+
+Plaintiff was required to obtain both a Section 404 permit from the Corps of Engineers as
+well as a Section 401 Certification from the Minnesota Pollution Control Agency (“MPCA”)
+before developing Sunny Beach as a residential development. 33 U.S.C. §§ 1344, 1341. Section
+401 provides for state-issued certifications for activities that may result in a pollutant discharge
+to surface waters (Id. at § 1341(a)) and addresses the proposed development’s compliance with
+the state’s water quality standards and other requirements of state law. Id. at § 1341(d). The
+
+3
+
+Case 1:02-cv-01078-VJW
+
+Document 88
+
+Filed 06/25/2008
+
+Page 11 of 33
+
+Minnesota Pollution Control Agency (“MPCA”) has adopted rules to implement the Section 401
+certification program. Minn. R. 7001.1400-1470 (2007). Under its own rules, MPCA can issue
+a certification only if “there is [a] reasonable assurance that the activity will be conducted in a
+manner that will not violate applicable water quality standards.” Id. at 1470, subp. 1.C. The
+MPCA has also adopted standards for the revocation of a certification. Id. at 1450, subp. 1.B.
+In August, 1998, the Corps of Engineers received an application for an after-the-fact
+permit for the Road. Bailey Dep. (Dec. 1, 2004), Ex. 9 (attached hereto as Ex. E).4/ On June 24,
+1999, the Corps of Engineers issued a public notice regarding Plaintiff’s after-the-fact Section
+404 permit application. Bailey Dep. (Dec. 1, 2004), Ex. 11 (attached hereto as Ex. G). As a
+result of the public notice, the MPCA became aware of Plaintiff’s Sunny Beach project.
+Testimony of Larry Zdon (“Zdon Test.”), CCH Tr. 31-32 (attached hereto as Ex. H). As is its
+customary procedure, MPCA treated the public notice as an application for a Section 401
+Certification. Id. Under the Clean Water Act, Section 401 Certifications address surface water
+quality issues. 33 U.S.C. § 1341. Minnesota has included protection of groundwater as part of
+its certification requirements, which requirement goes above and beyond any requirements
+imposed by the federal Clean Water Act. Minn. R. 7060.0100 et seq. Minnesota’s review also
+goes above and beyond the federal requirements by including in its certification review
+consideration of the specific type of septic system that may be installed to treat sewage under
+state law (Minn. Stat. Ann. § 115.07 (2008); Minn. R. ch. 7080.0170 (2007)), and the
+
+4/
+
+On June 12, 2001, the Corps of Engineers denied Plaintiff’s Section 404 permit application. MPCA
+Contested Case Hearing (“CCH”), Ex. 17 (attached hereto as Ex. F). The Section 404 permit addresses
+the impact and appropriateness of placing fill material in wetlands. The 404 permit denial is only relevant
+to the instant motion for summary judgment to the extent that its impact is coterminous with background
+principles of Minnesota law of nuisance.
+
+4
+
+Case 1:02-cv-01078-VJW
+
+Document 88
+
+Filed 06/25/2008
+
+Page 12 of 33
+
+requirement that the property owner be able to install two separate standard septic systems
+(Minn. R. 7080.0305, subp. 4.F (2007); Minn. R. 6120.3500 subp. 3 (2007).
+Initially, the MPCA had concerns regarding residential development at Sunny Beach
+because it was unclear whether individual sewage treatment systems (“ISTS” or “septic
+systems”) could be installed on the property in compliance with MPCA’s ISTS rules (Minn. R.
+Chap. 7080). Zdon Test., CCH Tr. 36-37 (Ex. H).5/ Thus, the MPCA issued a request for
+information (“RFI”) to Plaintiff on July 23, 1999, requesting additional information regarding
+septic system compliance and wetland impacts. CCH Tr. Ex. 6 (attached hereto as Ex. I); see
+also ALJ’s Report at ¶ 9 (Ex. A). The RFI requested that Plaintiff describe how compliance with
+the MPCA’s ISTS rules would be achieved, a layout showing wetlands on the property, and an
+evaluation to determine total wetland impacts. CCH Tr. Ex. 6 (Ex. I); see also ALJ’s Report at ¶
+11 (Ex. A). Bailey did not respond to the RFI. Zdon Test., CCH Tr. 50, 94-95, 147 (Ex. H); see
+also ALJ’s Report at ¶ 12 (Ex. A).
+On December 19, 1999, the MPCA issued a Section 401 Certification to Plaintiff for the
+Sunny Beach project. Zdon Test., CCH Tr. 77 (Ex. H); see also ALJ’s Report at ¶ 20 (Ex. A).
+The initial granting of the Section 401 Certification was based upon representations made by
+local government officials indicating that the 100 feet of land closest to Lake of the Woods on
+
+5/
+
+To meet the health and safety requirements of Minnesota state law, septic systems require three feet of
+unsaturated soils in order to fulfill the two basic functions of an ISTS: sewage treatment and hydraulic
+performance. Testimony of Mark Wespetal (“Wespetal Test.”), CCH Tr. 396-400 (Ex. H). A mound can
+be created to provide a portion of the three feet of unsaturated soil for a mound system, but even a mound
+system is required to have at least 12 inches of unsaturated original or natural soil in the absorption area.
+Zdon Test., CCH Tr. 63-64 (Ex. H); Wespetal Test., CCH Tr. 401-06 (Ex. H); Minn. R. 7080.0170, subp.
+5.A.(2) (2007).
+
+5
+
+Case 1:02-cv-01078-VJW
+
+Document 88
+
+Filed 06/25/2008
+
+Page 13 of 33
+
+each lot was not saturated and would, therefore, support the installation of septic systems. See
+ALJ’s Report at ¶¶ 14-21 (Ex. A).
+C.
+
+Revocation of Plaintiff’s Section 401 Certification
+
+The information provided by the local government officials later proved to be inaccurate.
+Id. at ¶ 24. In August, 2000, experts from the Corps of Engineers and the U.S. Department of
+Agriculture’s Natural Resources Conservation Service (“NRCS”) conducted a formal on-site
+wetland delineation at Sunny Beach. Bailey I, 78 Fed. Cl. at 243; see also, ALJ’s Report at ¶ 23
+(Ex. A). The on-site investigation demonstrated the inaccuracy of the conclusion that the first
+100-feet of land closest to Lake of the Woods was not saturated and could adequately support
+septic systems. Id. ¶ 24. The MPCA was now aware of the true soil conditions on the property,
+including the saturated nature of the soil, which had not previously been disclosed by Plaintiff.
+As the Minnesota State Administrative Law Judge (“ALJ”) stated in his findings:
+By the early fall of 2000, MPCA’s deliberations and evaluations
+centered on four main areas[, including] . . . (4) because virtually
+the entire plat was wetland, the lack of assurance that ISTSs could
+be installed that would comply with the MPCA rules. Given the
+lack of information and uncertainty on these issues, MPCA
+determined it could not modify the existing Section 401
+certification to address these unknowns and uncertainties, and
+decided that the certificate should be revoked.
+ALJ’s Report at ¶ 28 (Ex. A). As a result of the new information and new analysis, the MPCA
+revoked Plaintiff’s 401 Certification for the Sunny Beach Subdivision. CCH Tr. Ex. 16
+(attached hereto as Ex. J); see also Bailey I, 78 Fed. Cl. at 243. On June 12, 2001, the Corps of
+Engineers denied Plaintiff’s application for an after-the-fact section 404 permit. Id. The Corps
+of Engineers was required to deny the application given that Plaintiff’s Section 401 Certification
+had been revoked by the State of Minnesota. 33 U.S.C. § 1344.
+6
+
+Case 1:02-cv-01078-VJW
+
+D.
+
+Document 88
+
+Filed 06/25/2008
+
+Page 14 of 33
+
+Plaintiff’s Takings Claims
+
+As a result of the Corps of Engineers’ denial of the permit, Plaintiff claims that he was
+unable to maintain the road at Sunny Beach, which, in turn, interfered with his sale of the lots as
+residential lake shore lots. In his Complaint, Plaintiff variously describes his claims related to
+the Corps of Engineers’ alleged interference with the development of residential lake shore lots.
+Plaintiff claims, for example, that the actions of the Corps of Engineers “diminished the value of
+[the] property from highly valuable residential lakeshore property to property in which the soils
+cannot be disturbed and has no access required for residential development.” Complaint (Dkt.
+1), ¶ IX (emphasis added); see also ¶ III (claiming the Sunny Beach property “is highly valuable,
+sought after largely by summer residents . . . seeking lake cabins as second homes. . . . Sunny
+Beach is appropriate for construction of homes.”); ¶ VII (“Defendant’s final agency decision also
+places such restrictions on the property that there remains no economical [sic] viable use of the
+property or in the alternative substantially diminished the value of the property from residential
+lakeshore property to property that has no access nor value as residential lakeshore property.”)
+(emphasis added). In short, Plaintiff claims that his ability to alienate the lake shore lots for
+residential development has been taken. Id.
+E.
+
+Plaintiff’s Appeal of the Revocation of the Section 401 Certification
+
+Plaintiff appealed the MPCA’s revocation of the Section 401 Certification through a
+contested case hearing, which was conducted by an ALJ from the Minnesota Office of
+Administrative Hearings. ALJ’s Report (Ex. A). For three days, from July 23-25, 2003, the ALJ
+heard testimony regarding Plaintiff’s challenge to the Section 401 Certification. Id.
+
+7
+
+Case 1:02-cv-01078-VJW
+
+Document 88
+
+Filed 06/25/2008
+
+Page 15 of 33
+
+At the hearing, Mark Wespetal, who is MPCA’s chief ISTS expert and a licensed
+professional soil scientist, testified extensively regarding the Property’s wetland soil and how
+those soils were not adequate for the septic systems that Bailey proposed. Wespetal Test., CCH
+Tr. 382-466 (Ex. H). Wespetal analyzed the soils at all of the transect locations identified in the
+Corps of Engineers’ August 2000 wetlands delineation. None of the soils analyses showed soil
+adequate for standard mound septic systems. Id., CCH Tr. 419, 426 (Ex. H). Wespetal testified
+that, given these inadequate soils, mound systems would weep and seep untreated or partially
+treated sewage to the ground surface and nearby ground and surface waters. Id., CCH Tr. 40607, 446-49 (Ex. H). Wespetal further testified that these conditions posed an imminent public
+health threat and could result in untreated pathogens entering the groundwater and nearby lake
+creating public health problems. Id., CCH Tr. 447-48 (Ex. H). The witness concluded that
+several MPCA rules would be violated, including rules prohibiting sewage discharges to ground
+surface; and nuisance conditions would be created if residential development were permitted in
+the Sunny Beach subdivision. Id., CCH Tr. 406-07, 449 (Ex. H).
+Wespetal further analyzed the property to determine whether there was sufficient area on
+each lot for two standard ISTS systems. Id., CCH Tr. 426-42 (Ex. H); MPCA Lot Size
+Assessment, CCH Tr. Ex. 50 (attached hereto as Ex. K). Information relevant to the siting of
+septic systems in the Sunny Beach subdivision had come to the attention of the MPCA following
+its initial granting of a Section 401 Certification and even after the revocation. Through the
+review of other agencies’ records, MPCA learned that substantial portions of Sunny Beach was
+in a floodplain. Zdon Test., CCH Tr. 103-04 (Ex. H). Siting of septic systems in the floodplain
+
+8
+
+Case 1:02-cv-01078-VJW
+
+Document 88
+
+Filed 06/25/2008
+
+Page 16 of 33
+
+increases the likelihood of ISTS failure, thereby endangering public health. As such, installation
+of septic systems in the floodplain is prohibited. Id.
+Both MPCA ISTS rules and the Minnesota Department of Natural Resources’ shoreland
+rules require non-wetland area sufficient for two standard systems. Westpetal Test., CCH Tr.
+428 (Ex. H). This two-system requirement is needed because even well-designed, properly
+maintained septic systems have a finite life (e.g. 25-50 years before plugging occurs), so
+replacement land area is needed. Id., CCH Tr. 428-29 (Ex. H). Westpetal’s evaluation showed
+that six lots did not have sufficient area and that another four lots were very small and required
+additional site-specific investigation work to determine whether those four lots complied with
+the area requirement. Id., CCH Tr. 433-34 (Ex. H); see also MPCA Lot Size Assessment (Ex.
+K).
+On October 3, 2003 the ALJ issued his findings of fact, conclusions and
+recommendation, in which he “recommended that the [MPCA’s] revocation of the Section 401
+Certification be affirmed.” ALJ’s Report at p. 15 (Ex. A). On January 16, 2004, Sheryl
+Corrigan, Commissioner of the MPCA, issued a Statement of Issue, Findings of Fact and Order,
+in which she “agree[d] with the ALJ’s Recommendation that MPCA’s revocation of the Section
+401 Certification issued to Gary Bailey be affirmed.” See Statement of Issue, Findings of Fact
+and Order (“Commissioner’s Order”), p. 6 (attached hereto as Ex. L). As the Commissioner
+found:
+The [MPCA] has proven, by a preponderance of the evidence, that
+the proposed Sunny Beach project endangers human health and the
+environment that the danger cannot be eliminated by modifying the
+Section 401 certification. In particular, sewage is likely to be
+discharged without adequate treatment. This situation exists
+because there is no evidence of the existence of soil conditions at
+9
+
+Case 1:02-cv-01078-VJW
+
+Document 88
+
+Filed 06/25/2008
+
+Page 17 of 33
+
+the Sunny Beach project site that comply with MPCA’s individual
+sewage treatment system (ISTS) rules. The discharge of sewage
+without adequate treatment will create nuisance conditions and an
+imminent public health threat and violate other MPCA rules (e.g.,
+Minn. R. 7050.0210, subps. 1-2, Minn. R. 7060.0600, sup. 2,
+Minn. R. 7080.0065, Subp. 4). Even if compliant ISTS soil existed
+(they do not), several lots in the Sunny Beach plat do not have
+adequate area to comply with the two-standard ISTS system
+requirements of MPCA ISTS rules and the MDNR shoreland
+regulations and these conditions endanger human health and the
+environment.
+Commissioner’s Order at ¶ 15 (Ex. L).6/
+III.
+
+ARGUMENT
+A.
+
+Standard of Review
+
+Summary judgment is a “salutary method of disposition designed to secure the just,
+speedy and inexpensive determination of every action.” Sweats Fashions, Inc. v. Pannill
+Knitting Co., 833 F.2d 1560, 1562 (Fed. Cir. 1987) (internal quotation marks omitted). In this
+regard, the summary judgment procedure “is properly regarded not as a disfavored procedural
+shortcut, but rather as an integral part of the Federal Rules as a whole, which are designed ‘to
+secure the just, speedy and inexpensive determination of every action.’” Celotex Corp. v. Catrett,
+477 U.S. 317, 327 (1986) (quoting Fed. R. Civ. P. 1).
+Summary judgment is appropriate under RCFC 56 when there are no genuine issues of
+material fact in dispute, and the moving party is entitled to a judgment as a matter of law. RCFC
+56(c); Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 247 (1986). “Only disputes over facts that
+might affect the outcome of the suit under governing law will properly preclude entry of
+
+6/
+
+Plaintiff was informed, in the Commissioner’s Order, that the “Order may be appealed to the Minnesota
+Court of Appeals in the manner provided in Minn. Stat. § 14.69 (2002). . . .” Commissioner’s Order at p.
+6 (Ex. L). Plaintiff did not appeal or otherwise challenge the Commissioner’s Order.
+
+10
+
+Case 1:02-cv-01078-VJW
+
+Document 88
+
+Filed 06/25/2008
+
+Page 18 of 33
+
+summary judgment.” Id. at 248; see also Knieper v. United States, 38 Fed. Cl. 128, 134 (1997)
+(“Disputes over facts which are not outcome determinative under the governing law will not
+preclude the entry of summary judgment.”). Moreover, summary judgment may be awarded in a
+takings case. See Allied-General Nuclear Servs. v. United States, 839 F.2d 1572 (Fed. Cir.)
+(affirming summary judgment of takings claim), cert. denied, 488 U.S. 819 (1988); Tabb Lakes,
+Ltd. v. United States, 10 F.3d 796 (Fed. Cir. 1993) (same).
+B.
+
+Background Principles of State Law Define the Contours of Plaintiff’s
+Property Interest
+1.
+
+As a Threshold Matter, Plaintiff Must Demonstrate the
+Existence of a Protected Property Right Before a
+Taking Can Be Considered
+
+The Federal Circuit has established a two part test to evaluate whether governmental
+action amounts to a taking of private property for Fifth Amendment purposes. Conti v. United
+States, 291 F.3d 1334, 1339 (Fed. Cir. 2002); M&J Coal Co. v. United States, 47 F.3d 1148,
+1154 (Fed. Cir. 1995). The need for this two part test stems from the realization that the Court
+must first determine whether the property owner has the right to put the property to the owner’s
+proposed use. There are limitations to use inherent in all property, which preclude an owner
+from deriving specific benefits from their property. See Members of Peanut Quota Holders
+Ass’n, Inc., v. United States, 421 F.3d 1323, 1334-35 (Fed. Cir. 2005), cert. denied, 548 U.S. 904
+(2006) (holding that the government’s unilateral right to revoke peanut quotas established by
+federal statute is inherent in the property owner’s rights); Am. Pelagic Fishing Co. v. United
+States, 379 F.3d 1363, 1374-77 (Fed. Cir. 2004), cert. denied 545 U.S. 1139 (2005) (fishing boat
+owner and operator has no protected property interest in fishery permits granted by the
+government); Colvin Cattle Co. v. United States, 468 F.3d 803, 808 (Fed. Cir. 2006) (reduction
+11
+
+Case 1:02-cv-01078-VJW
+
+Document 88
+
+Filed 06/25/2008
+
+Page 19 of 33
+
+in value of property resulting from cancellation of grazing lease on adjacent federal lands does
+not represent a cognizable property interest). Thus, before turning to the question of whether the
+government’s actions have effectuated a taking, “[f]irst, a court must evaluate whether the
+claimant has established a ‘property interest’ for purposes of the Fifth Amendment. [Then],
+[s]econd, once a court has determined that a property interest exists, it must determine whether a
+taking occurred.” Conti, 291 F.3d at 1339; see also M&J Coal, 47 F.3d at 1154. As noted by
+the Federal Circuit in Air Pegasus of D.C., Inc. v. United States, 424 F.3d 1206, 1213 (Fed. Cir.
+2005), “we do not reach this second step without first identifying a cognizable property interest.”
+Therefore, in every Fifth Amendment takings case, the issue of whether the Plaintiff
+possesses a protected property interest is a threshold element of the Plaintiff's claim. See Air
+Pegasus, 424 F.3d at 1212 (“First, as a threshold matter, the court must determine whether the
+claimant has established a property interest for the purposes of the Fifth Amendment.”) (quoting
+Am. Pelagic, 379 F.3d at 1372; Maritrans v. United States, 342 F.3d 1344, 1351 (Fed. Cir. 2003)
+("First, a court must evaluate whether the claimant has established a 'property interest' for
+purposes of the Fifth Amendment.") (citation omitted). If a plaintiff cannot establish a
+cognizable property interest, plaintiff’s takings claim fails. See Am. Pelagic, 379 F.3d at 1372
+(“If the claimant fails to demonstrate the existence of a legally cognizable property interest, the
+court[’]s task is at an end”); Conti, 291 F.3d at 1339 (“However, if a claimant fails to
+demonstrate that the interest allegedly taken constituted a property interest under the Fifth
+Amendment, a court need not even consider whether the government regulation was a taking
+under the analysis set forth in Penn Central”).
+
+12
+
+Case 1:02-cv-01078-VJW
+
+Document 88
+
+Filed 06/25/2008
+
+Page 20 of 33
+
+According to this legal framework, the Court’s inquiry into whether Plaintiff possessed a
+protected property interest at the time of the alleged taking must begin with identifying the
+property right alleged to have been taken and examining any limitations that are placed on the
+use of the property by state background principles. See Air Pegasus, 424 F.3d at 1217 (limiting
+review to the right alleged by plaintiff). In this manner, the court determines whether plaintiff’s
+claimed property right is “a stick in the bundle of property rights” possessed by the plaintiff.
+Am. Pelagic, 379 F.3d at 1376; M&J Coal Co., 47 F.3d at 1154, citing Lucas, 505 U.S. at 1027
+(noting that the threshold inquiry before the court must be to “inquire into the nature of the land
+owner’s estate to determine whether the use interest proscribed by the governmental action was
+part of the owner’s title to begin with, i.e., whether the land use interest was a ‘stick in the
+bundle of property rights’ acquired by the owner”).
+Plaintiff alleges, in this action, that his right to develop and sell the property for
+residential development has been taken. As will be demonstrated below, Plaintiff has not
+demonstrated that he possessed the right to develop or sell the property for residential
+development. Indeed, state nuisance law specifically prohibited residential development of
+Plaintiff’s property because septic systems could not safely be installed on the property.
+2.
+
+Plaintiff Bears the Burden of Demonstrating That a
+Property Interest Exists
+
+The Federal Circuit has repeatedly said that the burden of proving the existence of a
+compensable property interest rests with the claimant. See Am. Pelagic, 379 F.3d at 1372 (“If
+the claimant fails to demonstrate the existence of a legally cognizable property interest, the
+court’s task is at an end”)(emphasis added); Maritrans, 342 F.3d at 1351 ("First, a court must
+evaluate whether the claimant has established a 'property interest' for purposes of the Fifth
+13
+
+Case 1:02-cv-01078-VJW
+
+Document 88
+
+Filed 06/25/2008
+
+Page 21 of 33
+
+Amendment.") (citation omitted)(emphasis added); Conti, 291 F.3d at 1339 (“However, if a
+claimant fails to demonstrate that the interest allegedly taken constituted a property interest
+under the Fifth Amendment, a court need not even consider whether the government regulation
+was a taking under the analysis set forth in Penn Central.”)(emphasis added).
+In the instant case, not only has Plaintiff failed to demonstrate a compensable property
+interest in the development of his property for residential use, but the unrefuted evidence is to
+the contrary. A manifest determination by the State of Minnesota that installation of septic
+systems on the property would represent a public nuisance precludes Plaintiff, or any purchaser,
+from developing the property for residential use.
+3.
+
+State Law Routinely Defines the Scope of a Plaintiff’s
+Property Interest
+
+In determining whether a plaintiff possesses a property right that is protected by the Fifth
+Amendment, courts begin with the maxim that
+[t]he Constitution neither creates nor defines the scope of property
+interests compensable under the Fifth Amendment. Bd. of Regents of
+State Colleges v. Roth, 408 U.S. 564, 577, 92 S. Ct. 2701, 33 L.Ed.2d 548
+(1972). Instead, “existing rules and understandings” and “background
+principles” derived from an independent source, such as state, federal, or
+common law, define the dimensions of the requisite property rights for
+purposes of establishing a cognizable taking. Lucas[, 505 U.S. at] 1030
+[(1992)]. These existing rules often involve and define “the citizen’s
+relation to the physical thing, as the right to possess, use and dispose of
+it.” United States v. Gen. Motors, 323 U.S. 373, 378, 65 S. Ct. 357, 89
+L.Ed. 311 (1945).
+Conti, 291 F.3d at 1340. Stated another way, the threshold inquiry into whether a plaintiff
+possesses a protected or cognizable property interest requires the court to determine whether the
+particular property interest that a plaintiff contends has been taken is “a stick in the bundle of
+property rights” possessed by the plaintiff. Am. Pelagic, 379 F.3d at 1376; M&J Coal, 47 F.3d
+14
+
+Case 1:02-cv-01078-VJW
+
+Document 88
+
+Filed 06/25/2008
+
+Page 22 of 33
+
+at 1154 (noting that the court must first determine whether the use proscribed by the
+governmental action was part of the owner’s title to begin with) (citing Lucas, 505 U.S. at 1027).
+Background principles of state law have served to defeat takings claims for over a
+century, dating back to the Supreme Court’s determination that a law prohibiting the use and sale
+of alcohol did not result in the taking of the plaintiff’s brewery. Mugler v. Kansas, 123 U.S. 623
+(1887). As the Court recognized:
+A prohibition simply upon the use of property for purposes that are
+declared, by valid legislation, to be injurious to the health, morals,
+or safety of the community, cannot, in any just sense, be deemed a
+taking or an appropriation of property for the public benefit. Such
+legislation does not disturb the owner in the control or use of his
+property for lawful purposes, nor restrict his right to dispose of it,
+but is only a declaration by the state that its use by any one, for
+certain forbidden purposes, is prejudicial to the public interests. . . .
+The power which the states have of prohibiting such use by
+individuals of their property, as will be prejudicial to the health,
+the morals, or the safety of the public, is not, and, consistently with
+the existence and safety of organized society, cannot be, burdened
+with the condition that the state must compensate such individual
+owners for pecuniary losses they may sustain, by reason of their
+not being permitted, by noxious use of their property, to inflict
+injury upon the community.
+Id. at 668-69.
+The Supreme Court has oft relied upon the avoidance of deleterious property uses,
+through the application of background principles of state nuisance and property law, as a basis
+for finding that the government is not obligated to compensate a property owner when
+governmental action restricts or prevents activities that constitute, or are similar to, a public
+nuisance. The Court has affirmed that
+[l]ong ago it was recognized that ‘all property in this country is
+held under the implied obligation that the owner’s use of it shall
+not be injurious to the community,’ . . . and the Takings Clause
+15
+
+Case 1:02-cv-01078-VJW
+
+Document 88
+
+Filed 06/25/2008
+
+Page 23 of 33
+
+did not transform that principle to one that requires compensation
+whenever the State asserts its power to enforce it.
+Keystone Bituminous Coal Ass’n v. DeBenedictis, 480 U.S. 470, 491-92 (1987) (internal
+citations omitted). As such, the Court found that
+since no individual has a right to use his property so as to create a
+nuisance or otherwise harm others, the State has not ‘taken’
+anything when it asserts its power to enjoin the nuisance-like
+activity.
+Id. at 491 n. 20; see also Miller v. Schoene, 276 U.S. 272 (1928) (holding that Virginia was not
+required to compensate owners of trees that were ordered destroyed to prevent a dendrologic
+disease from spreading); and Goldblatt v. Town of Hempstead, 369 U.S. 590 (1962) (holding that
+a duly enacted ordinance limiting mining within town limits did not result in the taking of the
+plaintiff’s property, even if it deprived the property of its most beneficial, where those
+restrictions were designed to prevent nuisance-like consequences).7/
+Justice Scalia reiterated the importance of state law in defining and limiting the property
+interest held by a plaintiff in a takings action when he found it to be well established that
+“independent source[s] such as state law” define “the range of interests that qualify for
+protection as ‘property’ under the Fifth . . . Amendment[].” Lucas, 505 U.S. at 1030 (citations
+omitted). As such, before imposing liability on the government for a taking, Justice Scalia
+recognized the need to determine what pre-existing limitations inhere in a plaintiff’s property
+interest.
+
+7/
+
+Justice Rehnquist also recognized this “nuisance exception” in the context of the just compensation
+clause when the proposed property “use is dangerous to the safety, health, or welfare of others.” Penn
+Central Transp. Co. v. City of New York, 438 U.S. 104, 145 (1978). He further wrote that “[a]s early as
+1887, the Court recognized that the government can prevent a property owner from using his property to
+injure others without having to compensate the owner for the value of the forbidden use.” Id. at 144.
+
+16
+
+Case 1:02-cv-01078-VJW
+
+Document 88
+
+Filed 06/25/2008
+
+Page 24 of 33
+
+It seems to us that the property owner necessarily expects the uses
+of his property to be restricted, from time to time, by various
+measures newly enacted by the State in legitimate exercises of its
+police powers; “[a]s long recognized, some values are enjoyed
+under an implied limitation that must yield to the police power.”
+Id. at 1027.8/ As the Court observed:
+A law or decree with such an effect must, in other words, do no
+more than duplicate the result that could have been achieved in the
+courts – by adjacent landowners (or other uniquely affected
+persons) under the State’s law of private nuisance, or by the State
+under its complementary power to abate nuisances that affect the
+public generally, or otherwise.
+Id. at 1029 (footnote omitted).
+The “nuisance exception” shield to the just compensation clause is not limited in its
+application to state governments. In instances in which a federal action does nothing more than
+duplicate the limitations inherent in property ownership, as defined by background principles of
+state law, the federal government is also shielded from liability. For example, in Rith Energy,
+the court found that a state-law statutory restriction on the creation of water pollution was a bar
+to a takings claim against the United States. Rith Energy, Inc. v. United States, 44 Fed. Cl. 108,
+115 (1999) (affirming that a state public health and safety statute is considered to be part of the
+background principles of state nuisance and property law to which all property ownership is
+subject), aff’d on other grounds, 247 F.3d 1355 (Fed. Cir. 2001). A similar result was reached in
+John R. Sand & Gravel Co., where the Court found that when the federal government’s
+8/
+
+In Lucas, the plaintiff challenged application of South Carolina’s Beachfront Management Act, which
+prevented the erection of a house on coastal property. The Court held that a regulation which deprives an
+owner of all “economically beneficial use” of his or her property is, “categorically,” a taking that requires
+compensation. Justice Scalia noted, however, that no compensation would be due if the limitation on
+property use was one which “inhere[s] in the title itself, in the restrictions that background principles of
+the State’s law of property and nuisance already place upon land ownership.” Lucas, 505 U.S. at 1029
+(citations omitted).
+
+17
+
+Case 1:02-cv-01078-VJW
+
+Document 88
+
+Filed 06/25/2008
+
+Page 25 of 33
+
+prohibition has done no more than duplicate the result that could have been achieved under state
+law nuisance principles, there has been no taking. John R. Sand & Gravel Co. v. United States,
+62 Fed. Cl. 556, 589 (2004), aff’d on other grounds, 457 F.3d 1345 (2006), aff’d 128 S.Ct. 750
+(2008).
+In short, Plaintiff’s property ownership does not give him the right to develop his
+property in a way so as to endanger the public health or safety. Given the inability to install
+septic systems in a safe manner on Plaintiff’s property, as determined by the relevant state
+agency charged with making such determinations, the proposed development constitutes a
+“public nuisance.” Thus, the right to sell the property at issue for residential development was
+never a stick in the bundle of rights possessed by Plaintiff.
+C.
+
+Plaintiff Has No Property Interest in Development that Is Prohibited
+Under Background Principles of Minnesota Law
+1.
+
+Minnesota Common and Statutory Laws of Nuisance
+Prohibit Development that Includes Inadequate Septic
+Systems
+
+The right to be free from nuisance created by water pollution, including sewage
+discharge, has long been recognized as actionable under Minnesota common and statutory law.
+Nelson v. Swedish Evangelical Lutheran Cemetery Assoc., 126 N.W. 723 (Minn. 1910)
+(actionable nuisance may result if cemetery is situated such that burials will contaminate water
+of wells or springs); Satren v. Hader Co-op. Cheese Factory, 279 N.W. 361, 364 (Minn. 1938)
+(discharge of manufacturing waste into river created an actionable nuisance); Huber v. City of
+Blue Earth, 6 N.W.2d 471 (Minn. 1942) (city’s sewage discharge into stream created actionable
+
+18
+
+Case 1:02-cv-01078-VJW
+
+Document 88
+
+Filed 06/25/2008
+
+Page 26 of 33
+
+nuisance).9/ Indeed, as far back as 1927, the state legislature explicitly granted to the state courts
+the jurisdiction to abate private nuisances arising from water pollution.
+Anything which is injurious to health, or indecent or offensive to
+the senses, or an obstruction to the free use of property, so as to
+interfere with the comfortable enjoyment of life or property, is a
+nuisance. An action may be brought by any person whose
+property is injuriously affected or whose personal enjoyment is
+lessened by the nuisance . . . .
+Mason’s Minn. St. 1927, § 9580 (Minn. Stat. Ann. § 561.01 (2008)). And, the Minnesota
+Supreme Court has held that the statutory law of nuisance is simply declaratory of the common
+law definition of nuisance. Hall v. Stokely-Van Camp Inc., 106 N.W.2d 8, 10 (Minn. 1960)
+(holding that canneries discharge of “waste liquids” into river that passed the plaintiff’s farm
+constituted an actionable nuisance). In addition, the Minnesota Supreme Court has held that the
+state’s police power appropriately extends to the disposal of sewage and control of pollution.
+Minnesota Energy & Econ. Dev. Auth. v. Printy, 351 N.W.2d 319, 341-42 (Minn. 1984); County
+of Pine v. State Dep’t. of Natural Res., 280 N.W.2d 625, 629 (Minn. 1979) (holding that the
+limitation of pollution is a valid exercise of the State’s police power).
+The Minnesota Water Pollution Control Act (Minn. Stat. Ch. 115), as well as the
+Minnesota Pollution Control Agency’s (“MPCA”) water quality standards and sewage treatment
+rules have now codified the prevention of nuisance situations long recognized in Minnesota’s
+
+9/
+
+A classic nuisance is created where sewage discharges onto neighboring properties. Highview North
+Apartments v. County of Ramsey, 323 N.W.2d 65, 71 (Minn. 1982) (sewage deposits on neighboring
+property is a classic example of a nuisance); Hughes v. Village of Nashwauk, 225 N.W. 898 (Minn. 1929)
+(sewage discharges to premises is actionable nuisance); Nienow v. Village of Mapleton, 174 N.W. 517
+(Minn. 1919) (sewage discharge onto the plaintiff’s land constitutes an actionable nuisance).
+Groundwater contamination resulting from human waste has also been found to constitute an actionable
+nuisance. Nelson, 126 N.W. 723.
+
+19
+
+Case 1:02-cv-01078-VJW
+
+Document 88
+
+Filed 06/25/2008
+
+Page 27 of 33
+
+common law.10/ Indeed, the water quality regulations define water pollution with reference to
+nuisance:
+‘Pollution of water,’ ‘water pollution,’ or ‘pollute the water’
+means: (a) the discharge of any pollutant into any waters of the
+state or the contamination of any waters of the state so as to create
+a nuisance or render such waters, unclean, or noxious, or impure so
+as to be actually or potentially harmful or detrimental or injurious
+to public health, safety or welfare . . . .
+See Minn. Stat. Ann. § 115.01, subd. 13 (2008) (emphasis added).11/ The MPCA regulatory
+program is specifically designed to establish water quality and purity standards that will avoid
+actual or potential deleterious effects. See Minn. Stat. Ann. § 115.44, subds. 3-4 (2008); Minn.
+R. 7050.0210, subp. 2 (2007) (nuisance conditions prohibited). Specifically, Minnesota has
+determined that improper location of Individual Sewage Treatment Systems (or septic systems)
+will adversely affect the public health, general welfare and safety by creating the potential for
+discharge of inadequately treated sewage to the ground surface, surface water, and ground water
+and have codified rules to prevent such nuisances. See Minn. R. 7080.0010 (2007). Most
+importantly, because of the public health issues involved, the Minnesota Legislature has
+determined that violation of the MPCA rules or standards constitutes a public nuisance that may
+be enjoined. Minn. Stat. Ann. § 115.071, subd. 4.
+
+10/
+
+See discussion of Individual Sewage Treatment System (ISTS) rules, supra at pp. 4-10; Minn. R. ch.
+7080.
+
+11/
+
+Waters of the state include both surface and ground waters. See Minn. Stat. Ann. § 115.01, subd. 22
+(2008).
+
+20
+
+Case 1:02-cv-01078-VJW
+
+2.
+
+Document 88
+
+Filed 06/25/2008
+
+Page 28 of 33
+
+Residential Development of Plaintiff’s Property Is
+Prohibited Under Background Principles of Minnesota
+Law of Nuisance
+
+Based primarily upon the testimony of two experts in waste treatment and soil hydrology,
+the ALJ and MPCA Commissioner determined that development of the Sunny Beach
+Subdivision, including both installation of the road and development of residential lots, created a
+nuisance under Minnesota law. As the Commissioner of the MPCA found in 2004,
+The [MPCA] has proven, by a preponderance of the evidence, that
+the proposed Sunny Beach project endangers human health and the
+environment that the danger cannot be eliminated by modifying the
+Section 401 certification. In particular, sewage is likely to be
+discharged without adequate treatment. This situation exists
+because there is no evidence of the existence of soil conditions at
+the Sunny Beach project site that comply with MPCA’s individual
+sewage treatment system (ISTS) rules. The discharge of sewage
+without adequate treatment will create nuisance conditions and an
+imminent public health threat and violate other MPCA rules (e.g.,
+Minn. R. 7050.0210, subps. 1-2, Minn. R. 7060.0600, sup. 2,
+Minn. R. 7080.0065, Subp. 4). Even if compliant ISTS soil existed
+(they do not), several lots in the Sunny Beach plat do not have
+adequate area to comply with the two-standard ISTS system
+requirements of MPCA ISTS rules and the MDNR shoreland
+regulations and these conditions endanger human health and the
+environment.
+Commissioner’s Order at ¶ 15 (Ex. L). The decision was based upon two separate, but related,
+determinations made by the ALJ and confirmed by the Commissioner. First, and most
+importantly, the MPCA determined that the saturated wetland soils in the Sunny Beach
+subdivision could not safely sustain septic systems. Second, even if the soils in the Sunny Beach
+subdivision could sustain septic systems, the MPCA determined that the majority of the lots in
+the Sunny Beach subdivision had inadequate land outside of the floodplain to locate two separate
+septic systems.
+
+21
+
+Case 1:02-cv-01078-VJW
+
+a.
+
+Document 88
+
+Filed 06/25/2008
+
+Page 29 of 33
+
+The State of Minnesota Has Conclusively
+Determined that Installation of Septic
+Systems in the Saturated Sunny Beach
+Soils Would Create a Nuisance
+
+MPCA’s licensed soil scientist analyzed the wetland soils in the Sunny Beach
+subdivision to determine whether ISTS could be installed in compliance with the State’s health
+and safety standards. Westpetal Test., CCH Tr. 382-466 (Ex. H). The state expert determined
+that the soils were not adequate for a mound system, the type of system commonly used in areas
+with wet soils. Id., 419, 426. Given these inadequate soils, mound systems would be expected
+to weep or seep untreated sewage to the ground surface, the surface water and the ground water,
+resulting in nuisance conditions and violations of MPCA rules. Id. 406-07, 446-49.
+Based upon the testimony provided by the experts, the ALJ found conclusively that the
+Sunny Beach project endangered human health and the environment because “sewage is likely to
+be discharged without adequate treatment.” ALJ’s Report at ¶ 6 Ex. A). As the ALJ concluded,
+the potential for danger to public health resulting from inadequate soil conditions on site
+prevented the safe installation of septic systems. Commissioner’s Order at ¶ 15 (Ex. L). MPCA
+found that the anticipated sewage discharges violated the following MPCA rules:
+•
+
+Minn. R. 7050.0210, subps. 1-2, which prohibits untreated sewage
+discharges and nuisance conditions;
+
+•
+
+Minn. R. 7060.0600, subp. 2, which prohibits sewage discharges that
+pollute ground water; and
+
+•
+
+Minn. R. 7080.0065, subp. 4, which prohibits ISTS seepage to ground
+surface and sewage or sewage tank effluent discharges to ground surface
+or surface waters.
+
+Id.
+
+22
+
+Case 1:02-cv-01078-VJW
+
+b.
+
+Document 88
+
+Filed 06/25/2008
+
+Page 30 of 33
+
+The State of Minnesota Has Determined
+that Many of the Sunny Beach Lots Are
+Too Small to Support Septic Systems
+
+The MPCA scientists evaluated the complications of siting septic systems in the Sunny
+Beach lots, where significant portions of the property are in the floodplain, to determine whether
+sufficient land area existed for mound systems. Westpetal Test., CCH Tr. 426-446 (Ex. H). The
+analysis was done based upon the hypothetical assumption that soil conditions were adequate for
+the installation of septic systems. As set forth above, soil conditions were not acceptable in the
+Sunny Beach subdivision. A significant portion of the Sunny Beach subdivision lies within the
+100-year floodplain.12/ ALJ’s Report at ¶¶ 35-36 (Ex. A). As a result, the MPCA determined
+that six of the Sunny Beach lots definitively do not have sufficient land area to meet the MPCA
+and MDNR rule that residential lots must be able to accommodate two standard septic systems.
+Id. ¶ 37. Another four lots were very small and may not contain adequate land area to meet the
+requirement. Id. Additional site-specific investigation would be required to determine whether
+these four lots could meet the two-system requirement. Id. As with the inadequate soil
+conditions, the MPCA determined that, given the inadequate lot sizes, the installation of septic
+systems would endanger human health and the environment. Commissioner’s Order at ¶ 15 (Ex.
+L).
+
+12/
+
+The MPCA did not learn that much of the Sunny Beach subdivision was within the floodplain until after
+the Section 401 Certification was revoked, because Plaintiff had failed to apprise the agency of this fact
+when submitting his permit application or in response to the Request for Information sent to Plaintiff by
+the MPCA in July 1999. ALJ’s Report at ¶ 5 (Ex. A).
+
+23
+
+Case 1:02-cv-01078-VJW
+
+3.
+
+Document 88
+
+Filed 06/25/2008
+
+Page 31 of 33
+
+Because the Taking Alleged by Plaintiff Goes No
+Further Than Limitations Under Minnesota’s
+Background Principles of Nuisance, There Can Be No
+Taking
+
+In the instant case, Plaintiff fundamentally alleges that the Corps of Engineers took his
+right to develop the Sunny Beach subdivision for residential purposes or alternatively his right to
+alienate the lots within the Sunny Beach subdivision for the same purpose. Because background
+principles of Minnesota’s law of nuisance – both the judicially created common law as well as
+the law as codified by the legislature – prohibit the development of the Sunny Beach lots for
+residential purposes, Plaintiff lacks any right to develop the lots or to alienate them for such
+development. Plaintiff simply does not have such a stick in his bundle of property rights.
+As the Supreme Court held in Keystone, the states exercise of its police power to prevent
+a nuisance does not represent a taking, because property owners simply do not possess a right to
+use their property so as to create a nuisance. Keystone Bituminous Coal Ass’n v. DeBenedictis,
+480 U.S. 470, 491-92 (1987). Put simply, the government cannot take something that was never
+a stick in the property owner’s bundles of rights. Am. Pelagic Fishing Co. v. United States, 379
+F.3d 1363, 1374-77 (Fed. Cir. 2004), cert. denied 545 U.S. 1139 (2005)
+Indeed, a Maryland appellate court has addressed thes issue now before this Court in a
+case with strikingly similar facts. Erb v. Maryland Dept. of Environment, 676 A.2d 1017, 102628 (Md. App. 1996). The court found that a regulatory agency’s denial of an ISTS permit was in
+accordance with a regulatory program designed to prevent nuisances and, accordingly, the permit
+denial did not constitute a taking. Id. Private nuisance law can abate discharges from sewage
+disposal systems that are or may be detrimental to the public health; consequently, public
+regulations designed to prevent these same nuisances do not constitute a taking. Id. Like Erb,
+24
+
+Case 1:02-cv-01078-VJW
+
+Document 88
+
+Filed 06/25/2008
+
+Page 32 of 33
+
+the MPCA’s actions to prevent acts that contravene public health and safety do not constitute a
+taking. Nor do federal limitations that go no farther than the restrictions imposed under state
+background principles. Rith Energy, Inc. v. United States, 44 Fed. Cl. 108, 115 (1999), aff’d on
+other grounds, 247 F.3d 1355 (Fed. Cir. 2001); John R. Sand & Gravel Co. v. United States, 62
+Fed. Cl. 556, 562 (2004), aff’d on other grounds, 457 F.3d 1345 (2006), aff’d 128 S.Ct. 750
+(2008).
+The actions of the Corps of Engineers, at most, did nothing more than limit the use of the
+Sunny Beach property to the same uses allowed under background principles of Minnesota law.
+As such, the actions taken by the Corps of Engineers cannot be seen as a taking. In short, the
+Corps of Engineers could not have taken something that Plaintiff never had.
+III.
+
+CONCLUSION
+Because Plaintiff did not and does not have a property right to develop the Sunny Beach
+
+subdivision for residential purposes as proscribed by background principles of state law, no such
+interest could have been taken by the United States Army Corps of Engineers. Thus, Defendant
+respectfully requests, pursuant to Rule 56 of the Rules of the Court of Federal Claims, that its
+
+25
+
+Case 1:02-cv-01078-VJW
+
+Document 88
+
+Filed 06/25/2008
+
+Page 33 of 33
+
+motion for summary judgment be granted and that Plaintiff’s Complaint be dismissed in its
+entirety with prejudice.
+
+RONALD J. TENPAS
+Assistant Attorney General
+Environment & Natural Resources Division
+/s/ James D. Gette
+JAMES D. GETTE
+Natural Resources Section
+Environment & Natural Resources Division
+Department of Justice
+P.O. Box 663
+Washington, DC 20044-0663
+Tel: 202-305-1461
+Fax: 202-305-0267
+Email: james.gette@usdoj.gov
+
+Of Counsel:
+Steven P. Adamski
+Deputy District Counsel
+U.S. Army Corps of Engineers
+St. Paul District
+190 East 5th Street, Suite 401
+St. Paul, Minnesota 55101
+
+26
+
+

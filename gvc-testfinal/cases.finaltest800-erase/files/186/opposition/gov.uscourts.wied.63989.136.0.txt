@@ -1,0 +1,1176 @@
+UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF WISCONSIN
+
+BRENDA KOEHLER,
+KELLY PARKER,
+LAYLA BOLTEN &
+GREGORY HANDLOSER
+Plaintiffs,
+
+Case No. 2:13-cv-885-PP
+
+v.
+INFOSYS TECHNOLOGIES LIMITED,
+INC., and INFOSYS PUBLIC SERVICES,
+INC.
+Defendants.
+
+DEFENDANTS’ BRIEF IN OPPOSITION TO
+PLAINTIFFS’ MOTION FOR SANCTIONS AND TO COMPEL
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 1 of 33 Document 136
+
+I.
+
+INTRODUCTION
+In the midst of a conferral about their suddenly renewed interest in the electronically
+
+stored information (“ESI”) of three current or former Infosys employees and gathering yet more
+documents relating to PeopleFluent affirmative action plans, Plaintiffs have asked this Court to
+sanction Infosys. Nowhere in their substantial filing—a 25-page brief with 40 exhibits—do
+Plaintiffs explain why they waited months after the close of discovery and briefing on class
+certification and summary judgment to seek sanctions based on long-running disputes (yet could
+not wait a single day past their preferred date for a particular conferral response). Nor do
+Plaintiffs explain what they intend to do with new discovery sought as “sanctions”—their broad
+requests for information ranging from Infosys communications about its affirmative action plans,
+to privileged documents reflecting Infosys preservation efforts, to unspecified depositions.
+But several things remain clear. First, Rule 37(e) does not permit the spoliation sanctions
+that Plaintiffs demand. Indeed, Plaintiffs’ position that Infosys should be sanctioned for loss (or
+partial loss) of ESI from the computer hard drives of (now) just two former employees out of the
+hundreds of custodians they have identified—and notwithstanding the approximately 2.7 million
+custodian emails Infosys has already retrieved—largely rests on their own mis-statements about
+Infosys preservation efforts. And to the degree it does not, Plaintiffs would burden Infosys with
+an impossibility: an unsupported duty not just to preserve, but to physically collect ESI from the
+hard drives of more than one hundred employees “at the first sign of” their unprecedented,
+companywide allegations of reverse discrimination—a vast project that would have required
+Infosys to spend extraordinary time and perhaps millions of dollars within weeks of answering
+Plaintiffs’ amended complaint.
+Second, neither Rule 26(g) nor Rule 37(d) suggests any basis for imposing discovery
+sanctions relating to PeopleFluent affirmative action plans. Put aside that Infosys timely
+1
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 2 of 33 Document 136
+
+produced these affirmative action plans, performance goals, and all related data. And put aside
+that Plaintiffs have failed to extract any relevant, non-duplicative information from those plans or
+some thousands of additional PeopleFluent documents. Rule 26(g) governs an attorney’s
+certification of discovery responses through her signature, not every discussion that comes
+afterwards. And Rule 37(d) applies when parties fail to provide any response to discovery
+requests, not when they provide written responses and well-founded objections (let alone more
+than 800,000 pages of responsive documents and comprehensive data related to well over one
+hundred thousand applicants and employees). Claims that Infosys should be sanctioned for
+failing to edit a discovery mediation chart or providing “only” hundreds of Affirmative Action
+plans prepared by PeopleFluent in its original production ignore the plain terms of these rules.
+And finally, Plaintiffs’ motion comes too late. If they believed Infosys had lost or failed
+to disclose information relevant to class certification or their substantive claims, Plaintiffs should
+have asked for more time and discovery before the parties completed Rule 23, Daubert, and
+summary judgment briefing. Their inexplicable attempt to upend more than six months of classrelated litigation instead amounts to unreasonable and therefore fatal delay.
+In sum, Plaintiffs’ Monday-morning rush to the courthouse—a filing that occurred hours
+before Infosys would have advised them of newly-recovered ESI and other efforts to resolve
+disagreements—was, in equal parts, premature and pointless. Plaintiffs’ motion for sanctions
+and to compel should be denied.
+II.
+
+BACKGROUND
+A.
+
+Infosys acted reasonably in all aspects of its efforts to preserve ESI.
+1.
+
+Infosys immediately preserves ESI through litigation holds and reminders.
+
+Six days after Plaintiffs filed their complaint on August 1, 2013, Infosys issued its first
+legal hold to numerous potential document custodians. (May 22, 2017, Declaration of Sarah
+2
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 3 of 33 Document 136
+
+Wasson ¶ 3, attached hereto as Exhibit A (hereafter “Wasson Decl.”)). By August 20, 2014,
+almost a year before any ESI was lost, Infosys had expanded its hold to include additional
+custodians, including then-employees Sanjay Jalona, Rohit Kedia, and Chris Weber—all of
+whom promptly acknowledged receiving the hold and promised to abide by it. (Id. ¶ 4). In
+addition, the electronic assets of hold recipients were tagged in an asset tracking system to
+automatically alert the people who redeployed laptops to preserve information should those
+custodians leave Infosys. (Id. ¶ 8). Even without the legal holds, Infosys did not automatically
+delete emails from employee in-boxes. (Id. ¶ 9). Beyond efforts that included issuing hold
+notices to more than 90 employees, Infosys retained relevant system data not subject to
+automatic deletion. (Id. ¶ 4; May 22, 2017, Declaration of Ellen Boshkoff ¶ 14, attached hereto
+as Exhibit B (hereafter “Boshkoff Decl.”).).
+2.
+
+Months before Plaintiffs identify 103 custodians, data from two is lost.
+
+Two of the hundreds of individuals Plaintiffs later identified as potential records
+custodians—Sanjay Jalona and Rohit Kedia—left Infosys in 2015. Though erroneously
+identified by one of Plaintiffs’ witnesses as the Global Head of Talent Acquisition (Declaration
+of Samuel Marrero, ECF No. 94-4), Jalona was actually only the head of one of what once was
+15 different business units that recruiters could interact with for hiring approval. 1 (Danforth
+Dep. 58:22-24, 60:21-61:14, Ex. C; Linquist Dep. 39:44-40, Ex. D). Rohit Kedia, a Group
+Engagement Manager, supervised Plaintiff Handloser from 2009 until mid-2011, when
+Handloser began reporting to Sudip Singh. (Singh Dep. 107:20-108:4, ECF No. 78-17;
+Handloser Dep. 42:24-44:18, ECF No. 78-16).
+
+1
+
+Even within that business unit, recruiters would not necessarily interact with Jalona, but instead would get hiring
+approval from a sub-unit. (Danforth Dep. 61:15-62:3, Ex. C).
+
+3
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 4 of 33 Document 136
+
+On August 6, 2015, just two days before Jalona left Infosys, a laptop he might have been
+using was reformatted in violation of Infosys’s express instructions regarding document
+preservation. (Wasson Decl. ¶ 11; Boshkoff Decl. ¶ 24). In October 2015, around his departure,
+a laptop likely used by Kedia was also reformatted in violation of preservation instructions.
+(Boshkoff Decl. ¶ 20; Wasson Decl. ¶ 11).
+B.
+
+Infosys Produces and Collects Vast ESI; Plaintiffs Raise Discovery Disputes.
+1.
+
+Plaintiffs serve overbroad discovery requests and Infosys responds.
+
+In July 2015, Plaintiffs’ served 20 broad requests for production of (among other things):
+“Documents and ESI relating to studies concerning the availability of Americans and/or nonIndians to fill positions in the United States” and “Documents and ESI relating to demographics
+or statistics of Infosys’s United States workforce, including but not limited to, EEO reports,
+studies, or other documents reflecting the statistics of the workforce.” (Boshkoff Decl. ¶ 2 and
+Ex. 1 (Plaintiffs’ First Requests for Production of Documents Nos. 4, 5)).
+Though objecting to (inter alia) vagueness and overbreadth, Infosys nonetheless
+produced (on November 24, 2015) its human resources and applicant tracking data relating to
+over 145,000 applicants and all U.S.-based employees for the relevant time period, including
+employment dates, compensation, race/ethnicity, position titles, project assignments, and
+applicant interviewing data. (Boshkoff Decl. ¶ 4 and Ex. 2 (Infosys’s Amended Objections and
+Responses to Plaintiffs’ First Requests for Production of Documents)).
+To make the data easier to use and understand, Infosys included employee identification
+numbers in each spreadsheet for ready linking and analysis, (March 6, 2017, Boshkoff Decl. ¶ 3
+(ECF No. 128-1); Siskin Supp. Rpt., 6 (ECF No. 125-2)), and Infosys also provided Plaintiffs
+with extraordinary help, including by way of specially created charts identifying each
+spreadsheet by name and category, a data dictionary defining all data fields provided, and “look
+4
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 5 of 33 Document 136
+
+up tables” defining certain activity codes—going so far as to meet with Plaintiffs’ counsel, in
+person, for several hours to explain the exemplars. (March 6, 2017, Boshkoff Decl. ¶¶ 4-13
+(ECF No. 128-1); see also Neumark Rpt. App’x 6 (ECF No. 87-1) (identifying data dictionaries
+as information relied upon)). Infosys also provided (1) all relevant Affirmative Action Plans;
+and (2) all documents Infosys maintained as “required and supporting reports” related to those
+Affirmative Action Plans—more than 50,000 pages of documents prepared by its outside vendor,
+PeopleFluent. (Boshkoff Decl. ¶ 5). 2 These documents contained certain “placement goals”
+mandated by government contractor regulations. (Id.).
+2.
+
+The parties participate in a failed discovery mediation, ended by Plaintiffs.
+
+By early January 2016, Plaintiffs had raised concerns about virtually every one of
+Defendants’ responses to the Requests for Production. To address the impasse, Judge Pepper
+referred the parties to Judge Joseph, who scheduled a March discovery mediation and required
+the parties to submit an outline of their positions on each issue. (ECF No. 49). 3 Apparently in
+response to the mediation order, counsel for Plaintiffs sent Infosys a chart, which they created,
+purporting to capture the status of various conversations regarding Infosys’s discovery responses.
+(Boshkoff Decl. ¶ 8, Ex. 3 (Feb. 24, 2016, Letter from D. Kotchen to G. Stohner)). A conference
+with Judge Joseph followed, but did not resolve the various discovery issues. (Id. ¶ 9).
+
+Twice
+
+continued to allow more party discussions, a follow-up conference was ultimately scheduled for
+April 13, 2016. (Id ¶ 10; ECF No. 51).
+In preparation for the conference, Infosys’s counsel tried to capture the status of issues
+being discussed by revising the “Outstanding Issues” section in Plaintiffs’ discovery chart to add
+2
+
+These steps were only a few of the many Infosys took to address discovery issues raised by Plaintiffs. (See ECF
+No. 134-1 (Apr. 25, 2016, Ltr. from E. Boshkoff to Plaintiffs’ counsel)).
+3
+Infosys had asked to brief discovery issues because of “differing interpretations of what has occurred in various
+communications, . . . mak[ing] it all the more important that both parties explain their positions in writing.” (ECF
+No. 44, p. 5).
+
+5
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 6 of 33 Document 136
+
+a column entitled “Updates.” (Boshkoff Decl. ¶ 10). Infosys made no changes to the two other
+sections of Plaintiffs’ chart. (Id. ¶ 11). Sending the chart, Infosys noted its hope the chart could
+“narrow some of the issues that need to be presented to the court.” (Id. ¶ 10, Ex. 4). As
+Plaintiffs did not respond, the draft chart was never finalized or submitted. (Id. ¶ 10). At
+Plaintiffs’ insistence (and over Infosys’s objection), the April teleconference was ended and the
+discovery disputes returned to Judge Pepper for resolution. (Id. ¶ 11; ECF No. 55).
+3.
+
+Magistrate Judge Jones mediates custodian dispute and Infosys complies.
+
+On May 27, 2016, Magistrate Judge Jones assumed responsibility for handling pretrial
+proceedings and began regular conference calls to address discovery issues. (ECF No. 58).
+During the first call, Plaintiff raised their interest in conducting discovery into Infosys’s
+document preservation, but were told no such discovery would be allowed absent evidence that
+any document had “not been produced” or was destroyed. (Id.). For its part, Infosys expressed
+concern about Plaintiffs’ failure to identify preferred records custodians. (Id.). Thereafter,
+Infosys reported regularly on its efforts to collect ESI while expressing frustration with
+Plaintiffs’ failure to agree upon a custodian list. 4
+As part of these efforts, Infosys began a systematic ESI collection project in mid2016. In May 2016, Plaintiffs had proposed that Infosys collect ESI from 103 specifically
+identified custodians (including Chris Weber, Sanjay Jalona, and Rohit Kedia), as well as some
+groups of several hundred other employees, and proposed that Infosys use 140 different search
+
+4
+
+See, e.g., Minute Entries at ECF No. 60 (counsel for Infosys reporting Infosys had “tried to identify [custodians]
+based on the list provided” but “[f]eel [they] are dealing with moving target”); ECF No. 61 (counsel for Defendants
+“still not sure what Plaintiffs intend to do [with custodians]”; reporting that “proposals seen in the past have been for
+massive collection of ESI”); ECF No. 65 (“there are 104 different proposed custodians [and Defendants] [s]till
+haven’t gotten more targeted list”; explaining further that collecting ESI is a labor intensive process and Infosys has
+“massive amounts of information”); ECF No. 68 (counsel for Defendant notes that Plaintiff’s custodian list still
+contains “104 proposed custodians with multiple categories, which is not realistic or doable,” but regardless, has
+started “working on the list right away because ESI takes time to collect”); ECF No. 69 (noting that the custodian
+“list is not feasible” and that defendant “never got list of viable search terms from plaintiff”).
+
+6
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 7 of 33 Document 136
+
+terms to cull potentially discoverable documents—an immense undertaking that Infosys reported
+was “not feasible.” (Boshkoff Decl. ¶ 12 and Exs. 5, 6). Infosys estimated that proceeding one
+hard drive at a time, this collection would cost between $600,000-$4,000,000. 5 (Id. ¶ 13).
+Despite Plaintiffs’ failure to narrow or prioritize their custodian list for several months, 6
+Infosys searched for and collected (where possible) the ESI of 34 custodians in May through July
+2016. (Boshkoff Decl. ¶14). As of July 2016, more than two months before the close of
+discovery, Infosys reported to Plaintiffs that it had been unable to locate any useable ESI for
+Jalona, Kedia, or Weber. 7 (Wasson Decl. ¶ 10; Boshkoff Decl. ¶ 16, Ex. 9; ECF No. 68).
+In July 2016, Plaintiffs narrowed their proposed a list of custodians to 33 people.
+(Boshkoff Decl. ¶ 17; ECF No. 68). Infosys explained that while it had already collected ESI for
+7 of the 33 (and had no objections to searching those emails and producing responsive
+documents), collecting and producing ESI for the remaining 26 people would be impracticable.
+(Boshkoff Decl. ¶ 17). Judge Jones ordered Plaintiffs to narrow their list to eight to ten
+additional records custodians, resulting in a total of 15 to 17 custodians (Id. ¶ 18; ECF No. 69)
+and the collection of over a Terabyte of data, comprising about 2.7 million documents, after
+removing duplicates. (Boshkoff Decl. ¶ 19). Infosys also applied search terms and produced
+documents for at least 15 of those custodians. (Id.).
+4.
+
+Infosys produces all ESI for Chris Weber.
+
+While trying to respond to the moving target of preferred records custodians, Infosys
+continued to search for difficult-to-obtain ESI, leading to discovery of ESI from Chris Weber
+and, in mid-to-late September 2016, to the discovery (in India) of reformatted laptop computers
+5
+
+Plaintiffs also proposed overbroad search terms requiring review of nearly all documents in any custodian’s ESI.
+Apply those terms to one custodian resulted in a 97% “hit” rate. (Boshkoff Decl. ¶ 13).
+6
+Infosys requested that Plaintiffs narrow and/or prioritize their initial proposed custodian list in writing at least five
+times between May and August 2016 before Plaintiffs did so in response to Magistrate Judge Jones’s direction.
+7
+Infosys was unable to find laptops assigned to Kedia or Jalona or issued to Weber. (Wasson Decl. ¶ 10; Boshkoff
+Decl. ¶ 16).
+
+7
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 8 of 33 Document 136
+
+that could have been assigned to Jalona and Kedia. (Boshkoff Decl. ¶¶ 21, 23; Wasson Decl. ¶
+11). Infosys determined there was no data on the device potentially assigned to Jalona and no
+recoverable data on the laptop potentially assigned to Kedia—findings consistent with Infosys’s
+July 2016 representations to Plaintiffs that it had not been able to locate useable ESI for these
+custodians. (Boshkoff Decl. ¶ 24, Ex. 7 (Aug. 9, 2016, email from Plaintiffs’ counsel noting
+their understanding that “no documents [had been] retained” for Jalona or Kedia)).
+C.
+
+After Discovery Closes, Plaintiffs Raise Untimely Concerns.
+1.
+
+Even after discovery, Infosys retains a computer forensics expert.
+
+Fact discovery closed on September 16, 2016. (ECF No. 61). In October or November
+2016, Plaintiffs raised—for the first time since May 2016, and four months after Infosys notified
+Plaintiffs it had been unable to locate ESI for Kedia, Jalona, or Weber—concerns regarding
+Infosys’s document preservations efforts. (Boshkoff Decl. ¶ 22). Despite their untimely request,
+Infosys took the extraordinary step of retaining a computer forensics expert to search for
+recoverable data on laptops possibly assigned to Jalona and Kedia. (Id. ¶ 23). After the expert
+found no useable data on the Jalona laptop, and some potentially recoverable data on Kedia’s,
+Infosys directed the vendor to extract the recoverable data for processing and review. 8 (Id. ¶ 24).
+Infosys has already agreed—and would have agreed notwithstanding Plaintiffs’ pending
+motion—to produce any useable documents that it recovers. (Id.).
+Although the parties continued to have discovery conferences with Judge Jones during
+the fall of 2016, at no point then or afterwards did Plaintiffs raise their ESI concerns with the
+Court.
+2.
+
+8
+
+Plaintiffs raise untimely concerns about PeopleFluent documents.
+
+This data was transferred to Infosys on May 3, 2017. (Boshkoff Decl. ¶ 26).
+
+8
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 9 of 33 Document 136
+
+In June 2016, having already received about 50,000 documents including all affirmative
+action plans from Infosys, Plaintiffs had issued a third-party subpoena to PeopleFluent, seeking
+documents in PeopleFluent’s possession related to Infosys’ Affirmative Action planning (to
+which Infosys did not object). (Id. ¶ 7). Though PeopleFluent prepared (and produced to
+Plaintiffs) various documents and data sets not previously produced by Infosys, all reflect a
+subset of data that is less comprehensive than the data produced to Plaintiffs in November 2015;
+as Infosys’s expert has explained, that data allowed for no meaningful statistical analysis of
+alleged discrimination. (Siskin Supp. Rpt., p. 6, ECF No. 125-2).
+In January 2017—six months after serving its subpoena, several months after fact
+discovery closed, and a month after it first received documents from PeopleFluent—Plaintiffs
+claimed Infosys should have produced additional PeopleFluent documents in response to their
+request for documents and ESI relating Infosys demographics. (ECF No. 112) Beginning in
+February, Infosys responded to the Court’s January 30, 2017 instruction by producing ancillary
+and intermediate reports prepared by PeopleFluent of over 170,000 pages, all of which could be
+created from data that Infosys produced in November. (Boshkoff Decl. ¶ 27; Siskin Supp. Rpt.
+6, ECF No. 125-2). Consistent with their limited data and narrow and regulation-dictated
+analysis (which does not even distinguish employees by “South Asian” race or “Indian” national
+origin), these documents have no bearing on analyses performed by Infosys’s experts. (Siskin
+Supp. Rpt. 6, ECF No. 125-2; Guryan Supp. Rpt. 7-8 (Dkt. 125-1); compare Pls.’ Mem. of Law
+in Opp. to Defs.’ Mot. to Exclude Expert Rpt. of David Neumark 1 (ECF No. 123) (claiming that
+the PeopleFluent reports “contradict” Infosys’s experts)). Nor do they supply any means of
+shaping or shortening discovery. Recent claims that Plaintiffs would have “taken discovery
+regarding the sources of” PeopleFluent data having already been provided with more data (and
+
+9
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 10 of 33 Document 136
+
+tutoring on how to use it)—like claims that Plaintiffs’ expert would have relied on PeopleFluent
+“methods” for basic computations (or even statistical analyses)—remain unexplained and
+unsupported by any expert opinion.
+III.
+
+ARGUMENT
+A.
+
+Plaintiffs did not satisfy their duty to confer under Local Rule 37.
+
+Plaintiffs’ motion for sanctions and to compel should be denied because it is premature:
+They cannot certify that “the parties are unable to reach an accord” following good faith efforts
+to resolve this dispute, as required by Local Rule 37. Indeed, Plaintiffs’ Monday-morning rush
+to the courthouse occurred in the midst of Infosys’s good faith efforts to reach an agreement.
+Demonstrating that good faith, Infosys’s attorneys spoke with Plaintiffs’ counsel about ESI
+discovery the very day of their conferral request, April 18, 2017, despite having heard nothing
+from Plaintiffs about this discovery issue since November 2016. (Boshkoff Decl. ¶ 28). Upon
+receiving a discovery proposal two days later—and one that differed materially from earlier
+discussions—Infosys attorneys promptly advised Plaintiffs’ counsel that their need to
+communicate with Infosys would prevent any response before the following week. (Id. ¶¶ 2931). Infosys’s counsel was still reviewing Plaintiffs’ proposal the following Wednesday, when
+Plaintiffs’ counsel sent an email requesting a “response this week.” (Id. ¶ 32). But rather than
+make any further attempt to communicate—and despite knowing about the underlying discovery
+issues for between three and ten months—Plaintiffs filed a 25-page motion for sanctions
+(attaching 40 exhibits) the following Monday at 7:47 a.m., just hours before Infosys and its
+counsel met to prepare a response. (Id. ¶¶ 32-33; ECF No. 134).
+This premature filing (just seven business days after Plaintiffs’ written proposal)
+prevented Infosys from sharing its own proposal. More specifically, Infosys was preparing to
+
+10
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 11 of 33 Document 136
+
+provide additional information relating to each of the three document custodians addressed in
+Plaintiffs’ motion, including:
+•
+
+The ESI of Chris Weber;
+
+•
+
+The laptop of Sanjay Jalona (compare Pls.’ Memo. of Law in Supp. of Pls.’ Mot. for
+Sanctions and to Compel, Dkt. 135 (“Pls.’ Br.”), 6 (“Infosys apparently has not made
+any effort to require Mr. Jalona to return his Infosys laptop”)); and
+
+•
+
+The laptop of Rohit Kedia. (Id.).
+
+And in the brief time that has elapsed since, Infosys has advised Plaintiffs that ESI
+relating to Weber (i.e., all relevant documents) was produced months earlier, that Infosys
+retained an expert to conduct forensic analyses of laptops reportedly assigned to Jalona and
+Kedia, and that the expert has been able to recover some data from what appears to be Kedia’s
+email box. Infosys has also offered, well beyond its obligations under Rule 26, to provide
+additional discovery of documents relating to PeopleFluent Affirmative Action documents.
+Chronologies like this are the very reason that Rule 37 and Local Rule 37 require good
+faith attempts to resolve disputes before parties file discovery motions with the Court. Even had
+Plaintiffs mistaken a one-day delay for the categorical rejection of their proposal—and despite
+having allowed Infosys just eight days to resolve issues that had lingered for months—they could
+and should have confirmed that interpretation. Substituting a 25-page motion for a follow-up
+email suggests a material disregard for judicial and party resources. Under the plain terms of
+Rule 37, Plaintiffs’ motion should therefore be denied. See, e.g., Remy Inc. v. Tecnomatic,
+S.P.A., No. 1:11-cv-00991, 2013 WL 1311095, at *3-4 (S.D. Ind. Mar. 26, 2013) (denying
+sanctions because defendant failed to comply with Local Rule 37’s duty to meet and confer).
+
+11
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 12 of 33 Document 136
+
+B.
+
+Plaintiffs identify no basis for spoliation sanctions under Rule 37(e).
+
+Plaintiffs’ request for spoliation sanctions also fails on the merits. Having filed a
+nationwide, across-the-board challenge to virtually all employment practices at Infosys (i.e., its
+decisions to hire, fire, and promote employees), Plaintiffs want the Court to sanction ESI loss
+relating to just two out of the hundreds of “custodians” they deem to possess relevant
+information. And they base this request on nothing more than: 1) their own inaccurate
+statements about Infosys’s preservation efforts; and 2) the bald assertion that Infosys should
+have completed a massive ESI collection effort—in effect, should have spent millions of dollars
+on data retrieval—just weeks after Infosys answered the second amended complaint (and months
+before Plaintiffs made any attempt to identify the custodians from which Plaintiffs wanted
+Infosys to collect data). These claims do not come close to permitting Rule 37 sanctions. Under
+Rule 37(e), sanctions could be imposed only if Infosys acted unreasonably, Plaintiffs were
+prejudiced, and those sanctions were no more than necessary to cure prejudice—none of which
+can be demonstrated here.
+1.
+
+Infosys took reasonable steps to preserve and produce relevant ESI.
+
+Plaintiffs’ sanctions motion fails because Infosys took reasonable steps to preserve and
+produce relevant ESI. As a threshold matter, Plaintiffs’ repeated references to the Court’s
+inherent authority to impose sanctions for lost ESI ignore the 2015 Amendments to Rule 37.
+See, e.g., Pls.’ Br. 15 n.32. Rule 37(e) now provides:
+(e) Failure to Preserve Electronically Stored Information. If electronically
+stored information that should have been preserved in the anticipation or conduct
+of litigation is lost because a party failed to take reasonable steps to preserve it,
+and it cannot be restored or replaced through additional discovery, the court:
+(1) upon finding prejudice to another party from loss of the information,
+may order measures no greater than necessary to cure the prejudice; or
+
+12
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 13 of 33 Document 136
+
+(2) only upon finding that the party acted with the intent to deprive
+another party of the information’s use in the litigation may:
+(A) presume that the lost information was unfavorable to the party;
+(B) instruct the jury that it may or must presume the information was
+unfavorable to the party; or
+(C) dismiss the action or enter a default judgment.
+Fed. R. Civ. P. 37(e) (emphasis added). The 2015 Committee Notes affirm what the text itself
+makes clear: New Rule 37(e) “authorizes and specifies measures a court may employ if
+information that should have been preserved is lost, and specifies the findings necessary to
+justify these measures.” The Rule “therefore forecloses reliance on inherent authority or state
+law to determine when certain measures should be used.” Fed. R. Civ. P. 37 advisory
+committee’s notes (2015 amendment). In short, the loss of ESI is not sanctionable absent a
+showing that a party failed to “take reasonable steps to preserve it.”
+Here, Plaintiffs have made no serious effort to show a lack of reasonable steps by
+Infosys. Though vaguely asserting “numerous relevant documents were undoubtedly lost or
+destroyed,” Plaintiffs specifically complain about ESI for only three out of the hundreds of
+custodians that they have variously identified (and notwithstanding the over one Terabyte of ESI
+Infosys has collected to date). And shrinking even that narrow complaint, Infosys has already
+produced the ESI from one custodian and has now recovered all or partial ESI from another. Nor
+do Plaintiffs explain why this relatively small loss of ESI—laptop data from former employee
+Jalona and some from Kedia—warrants sanctions. Seventeen pages into their brief, Plaintiffs
+finally identify what they deem unreasonable: a purported failure “to cease the deletion of email
+and the recycling of backup tapes, and … to make a copy of relevant custodians’ files after
+[Infosys’s] duty to preserve was triggered.” Pls.’ Br. 17. But this insupportable claim rests on a
+mish-mash of erroneous “facts” and irrelevant law.
+
+13
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 14 of 33 Document 136
+
+Begin with the facts. Contrary to the accusations in Plaintiffs’ brief, Infosys:
+•
+
+Did issue litigation holds requiring preservation of all relevant ESI to numerous
+custodians on August 7, 2013, and to additional custodians including Jalona and
+Kedia (neither identified in the original complaint) on August 20, 2014; (Wasson
+Decl. ¶¶ 3-4; cf. Pls.’ Br. 5 n.8 (“The only step apparently taken by Infosys in 2013,
+2014, or 2015 was to send a notice of the litigation to an undisclosed list of
+potentially relevant custodians in 2013 (and in later years to some additional
+custodians), and may have given undisclosed directions about preservation”));
+
+•
+
+Did not use an email system that automatically deletes any emails from these or other
+employees’ in-boxes; (Wasson Decl. ¶ 9; cf. Pls.’ Br. at 4 (“[A]t the start of the case,
+Infosys did not stop the automatic deletion of emails”);
+
+•
+
+Did not automatically delete files of employees subject to a litigation hold two weeks
+after departure from Infosys; (Wasson Decl. ¶ 9; cf. id. at 1 (“When an employee
+leaves Infosys, the company automatically deletes all of that employees’ files after
+two weeks”); and
+
+•
+
+Did not maintain accessible back-up tapes, but instead used tapes only for purposes of
+disaster recovery and recycled them every seven days; cf. id. at 4-5 (“[Infosys] did not
+pull backup tapes from its email and file servers (resulting in the tapes being
+overwritten)”) (Boshkoff Decl. ¶ 29).
+
+And beyond litigation holds and systematic efforts to preserve, Infosys expended substantial
+resources to collect information stored on the hard drives of individual custodians’ computers.
+Plaintiffs are correct that Infosys declined to launch a monumental data retrieval effort on or
+before receiving their Amended Complaint in 2013; but faced with a demand that it retrieve ESI
+
+14
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 15 of 33 Document 136
+
+from 103 specific custodians (including Jalona and Kedia) and groups with hundreds more in
+May 2016—a project with estimated processing costs alone of between $600,000-$4,000,000—
+Infosys began systematic ESI collection in April 2016, ultimately amassing over a Terabyte of
+electronic data from custodial hard drives or about 2.7 million emails. To accuse Infosys of
+acting “unreasonably” is to deny basic facts.
+Plaintiffs’ claims of “unreasonableness” also fail as a matter of law. Rather than address
+what Infosys did—i.e., its litigation holds, vast document collection efforts, and production of all
+relevant demographic data—Plaintiffs cite decisions that sanction employers for doing
+something else. Quoting Jones v. Bremen High School, for example, Plaintiffs seem to impugn
+litigation holds, calling it “unreasonable to allow a party’s interested employees to make the
+decision about the relevance of . . . documents, especially when those same employees have the
+ability to permanently delete unfavorable email from a party’s system.” No. 08 C 3548, 2010
+WL 2106640, at *7 (N.D. Ill. May 25, 2010). What Jones found unreasonable, however, was not
+a “litigation hold” but its absence. Id. The employer in Jones had asked particular employees to
+collect emails they alone deemed relevant—a process conducted without even the remote
+guidance of counsel. Id. Plaintiffs cite Cahill v. Dart (a case that does not involve ESI) to assert
+that failing to suspend an automatic deletion policy breaches a duty to preserve; but Infosys does
+not automatically delete email even without a litigation hold. No. 13 C 361, 2016 WL 7093434
+(N.D. Ill. Mar. 4, 2016); see also Plunk v. Vill. of Elwood, Ill., No. 07 C 88, 2009 WL 1444436,
+at *14 (N.D. Ill. May 20, 2009) (finding absence of any ESI policy and failure to place any sort
+of litigation ‘hold’ on the ESI after being informed that it should be produced was reckless).
+Equally beside the point, Pension Committee of the University of Montreal Pension Plan v. Banc
+of America Securities, LLC is cited for the proposition that a party acts unreasonably if it fails “to
+
+15
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 16 of 33 Document 136
+
+preserve the records of former employees that are in a party’s possession, custody, or control[.]”
+685 F. Supp. 2d 456, 471 (S.D.N.Y. 2010) (finding the “plaintiffs failed to timely institute
+written litigation holds and engaged in careless and indifferent collection efforts after the duty to
+preserve arose”), abrog. by Chin v. Port Auth. of New York & New Jersey, 685 F.3d 135, 162 (2d
+Cir. 2012) (“We reject the notion that a failure to institute a ‘litigation hold’ constitutes gross
+negligence per se.”). Yet any loss of ESI relating to Jalona or Kedia did not occur because
+Infosys failed to prevent destruction of files in its custody after their departure; it occurred
+because someone violated specific Infosys directives to preserve ESI.
+Plaintiffs’ reliance on inapt authority—almost all of which pre-dates the 2015
+Amendments to Rule 37—continues with their claim that Infosys should have preserved back-up
+tapes maintained solely to allow “disaster recovery.” Cases cited by Plaintiffs address
+“accessible” backup tapes; the law is clear, however, that litigation holds and other reasonable
+preservation efforts generally do “not apply to inaccessible backup tapes (e.g., those typically
+maintained solely for the purpose of disaster recovery), which may continue to be recycled on
+the schedule set forth in the company’s policy.” Zubulake v. UBS Warburg LLC, 220 F.R.D.
+212, 218 (S.D.N.Y. 2003). Nor does Plaintiffs’ insistence that Infosys should have copied its
+discovery-recovery tapes otherwise make sense: the limited size of Infosys “in-boxes” requires
+employees to regularly transfer emails to hard drives; in comparison, any backup tape retrieved
+at any time during the seven-day recycling period would contain only a relative few.
+In the end, Plaintiffs are left to declare Infosys’s preservation efforts unreasonable
+because they are imperfect. Pls.’ Br. 17 (preservation duties are “breached when evidence in a
+party’s control is lost.”). But not just unsupported by their authority (Cahill, Jones, or Plunk), 9
+
+9
+
+None of these cases involved a litigation hold on ESI. Cf. Northington v. H&M Int’l, No. 08-CV-6297, 2011 WL
+663055, at *16-17 (N.D. Ill. Jan. 12, 2011) (preservation request excluding ESI, and without litigation hold held
+
+16
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 17 of 33 Document 136
+
+this strict liability contradicts the plain terms of Rule 37. Fed. R. Civ. P. 37(e) (allowing
+sanctions if ESI “is lost because a party failed to take reasonable steps to preserve it”). As the
+advisory notes point out, “reasonable steps” do not require “perfection”; in fact, the “everincreasing volume” of ESI makes “preserving all relevant electronically stored information []
+often impossible.” Fed. R. Civ. P. 37 advisory committee’s notes (2015 amendment). Here,
+moreover, Plaintiffs’ version of perfection would not merely have involved efforts to copy
+documents stored by Kedia and Jalona; companywide class allegations would have required the
+impossible: collection of (among other things) all ESI on all hard drives used by more than one
+hundred custodians at a time when pleadings had been closed for little more than a month. 10
+Indeed, Plaintiffs would improperly saddle Infosys with a preservation duty far more onerous
+than any burden imposed through discovery itself. See generally Fed. R. Civ. P. 26(b)(1)
+(limiting discovery to what is relevant and proportional to case needs considering, inter alia,
+whether burden or expense “outweighs its likely benefit”); Fed. R. Civ. P. 37 advisory
+committee’s notes (2015 amendment) (“Another factor in evaluating the reasonableness of
+preservation efforts is proportionality.”). And proving as much, Infosys has never been required
+to undertake this mammoth collection project despite the multiple conferences on custodians and
+data retrieval already held by the Court. 11
+In sum, Plaintiffs identify no support—in fact or law—for their claim that Infosys failed
+to take reasonable efforts to preserve the vast quantities of ESI they deem relevant to
+
+unreasonable) (cited by Plaintiffs); Liberty Mut. Ins. Co. v. Ecowater Sys., Inc., No. 02 C 50415, 2004 WL 1073687,
+at *2 (N.D. Ill. May 12, 2004) (finding fault in failure to preserve a water heater in its control) (cited by Plaintiffs).
+10
+Someone (presumably Jalona) “wiped” the laptop assigned to Jalona on August 6, 2015; Infosys filed its Answer
+to the Second Amended Complaint barely a month earlier on June 6, 2015.
+11
+To the contrary, Plaintiffs spent months equivocating about the custodians that they wanted to use for ESI
+collection, proposing a series of different custodians in the summer of 2016; after Plaintiffs selected the individuals
+they wanted to use (following Infosys’s disclosure of which custodians had usable ESI and which did not), Infosys
+began its ESI production–which ultimately comprised several hundred thousand pages of documents. (Boshkoff
+Decl. ¶ 19).
+
+17
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 18 of 33 Document 136
+
+companywide allegations of intentional discrimination. Under the plain terms of Rule 37(e),
+their spoliation motion must be denied.
+2.
+
+Plaintiffs cannot show the prejudice required by Rule 37(e).
+
+Plaintiffs’ sanctions request also fails because they cannot show prejudice. Though
+Plaintiffs declare “prejudice” inessential to any award of sanctions, Rule 37(e) says otherwise.
+Absent the specific intent to deprive another party of evidence, Rule 37 allows sanctions only
+“upon [a] finding [of] prejudice to another party from loss of the information” and only to the
+extent “necessary to cure the prejudice.” Fed. R. Civ. P. 37(e)(1). In other words, sanctions are
+unwarranted unless lost ESI deprived Plaintiffs of material support for their claims.
+Here, Plaintiffs cannot satisfy this standard. They tout a former recruiter’s allegations
+that Sanjay Jalona, an executive in Manufacturing & Engineering Services, instructed him to
+stick to “Indian candidates.” But credibility problems aside (including the mis-identification of
+Jalona as a head of recruiting), these allegations bear on an unpleaded discriminatory recruitment
+claim, rather than Plaintiffs’ discriminatory hiring claims. See Defs.’ Opp. to Pls.’ Mot. for
+Class Certification, Dkt. 103, 11, 27. The other rationale for Jalona’s relevance—his alleged role
+in Handloser’s termination—is equally insufficient. As Infosys’s motion for summary judgment
+showed, Handloser was terminated through a companywide RIF, not executive fiat. See Mem. in
+Support of Defs.’ Mot. for Summ. J., Dkt. 80, 31-34. Nor do the emails recovered from other
+custodians remotely suggest otherwise. See Pls.’ Br. 19 n.35. And the larger problem with
+Plaintiffs’ conjecture about prejudice remains: Any claim that emails from a single 12
+manufacturing and engineering manager are needed to support allegations of (or arising from)
+purported systemic intentional discrimination across Infosys—and notwithstanding collection of
+
+12
+
+As for ESI relating to Rohit Kedia, Plaintiffs’ claims are premature in light of data recovered by Infosys. In
+addition, Infosys has recovered ESI relating to Chris Weber and produced it.
+
+18
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 19 of 33 Document 136
+
+some 2.7 million custodian emails and production of hundreds of thousands of documents—is
+facially incredible. Indeed, having known about the loss of ESI for almost a year, Plaintiffs
+themselves inexplicably failed to raise the issue during any subsequent discovery conference and
+sought no relief until certification and summary judgment briefing had closed.
+Plaintiffs’ speculation, in sum, is insufficient to establish that a relatively small loss of
+ESI has prejudiced their ability to prove discrimination. For that reason alone, Plaintiffs are not
+entitled to sanctions under Rule 37(e).
+3.
+
+Rule 37(e) does not authorize the sanctions that Plaintiffs seek.
+
+Plaintiffs’ motion should also be denied because none of the sanctions it requests is
+permitted under Rule 37(e). They request, for example, that “evidence of Infosys’ failure to
+comply with its discovery obligations” be put before the jury—a sanction that would allow jurors
+to “presume the [undiscovered] information was unfavorable” to Infosys. But even permissive
+adverse inference sanctions are permitted by Rule 37(e) “only upon finding that the party acted
+with the intent to deprive another party of the information’s use in the litigation.” Rule 37(e)(B);
+Moores’s Federal Practice - Civil § 37.121A (“The court may impose the most serious sanctions
+only on a finding that the party acted with the intent to deprive another party of the information’s
+use in the litigation”). Here, Plaintiffs’ failure to identify evidence that Infosys destroyed ESI
+intentionally, let alone for the specific purpose of withholding it, precludes sanctions under Rule
+37. See Faas v. Sears, Roebuck & Co., 532 F.3d 633, 644 (7th Cir. 2008) (finding “speculation
+that [documents] were destroyed to hide discriminatory information” insufficient).
+Plaintiffs also ask that Infosys “be compelled to produce all documents responsive to
+Requests 1-3 of Plaintiffs Third Set of Document Requests (Ex. 26), including documents
+sufficient to show the steps it took to preserve documents, the dates, recipients, and contents of
+litigation hold notices, and identification of document and email servers used by relevant
+19
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 20 of 33 Document 136
+
+custodians and any steps taken to pull backup tapes from these servers (or otherwise preserve
+their contents).” But this request for privileged communications has no apparent bearing on the
+limited ESI at issue here—i.e., information previously stored on the laptops of Kedia and Jalona;
+it therefore violates the Rule 37(e) limitation that courts “order measures no greater than
+necessary to cure the prejudice.” Infosys, moreover, has already disclosed its preservation
+efforts to the extent not covered by attorney client privilege 13 in correspondence and briefing,
+and has proceeded through a lengthy Court-assisted negotiation of relevant custodians/ESI,
+rendering this “sanction” unreasonably cumulative, duplicative, and moot. See Fed. R. Civ. P.
+26(b)(2)(C)(i) (providing the Court “must limit the frequency or extent of discovery otherwise
+allowed . . . [when it is] unreasonably cumulative or duplicative, or can be obtained from some
+other source that is more convenient, less burdensome, or less expensive”). 14
+Plaintiffs’ request that Infosys “be ordered to conduct a supplemental search for
+documents from Sanjay Jalona, Rohit Kedia, Chris Weber, and any other custodian whose
+13
+
+Legal hold letters and other document preservation methods are not discoverable to the extent they contain
+material protected by attorney-client privilege or the work product doctrine. See Major Tours, Inc., et al. v. Colorel,
+No. 05-3091, 2009 WL 2413631, at *3-5 (D.N.J. Aug 4, 2009) (emphasis added); see also Muro v. Target Corp.,
+250 F.R.D. 350, 360 (N.D. Ill. 2007). Though suggesting privileged documents can be discovered as a sanction for
+spoliation, Plaintiffs cite cases (confined to a footnote) that address sanctions under old Rule 37(e) and in the context
+of large-scale and/or particularly egregious losses or destruction of evidence not at issue here. See, e.g., United
+States ex rel. Barko v. Halliburton Co., 74 F. Supp. 3d 183, 191-92 (D.D.C. 2014) (“[A]fter inspecting these
+particular litigation hold notices, the Court finds that they are distinguishable from the generic case, and are
+therefore discoverable.”); Tate & Lyle Ams., LLC v. Glatt Air Techniques, Inc., No. 13–2037, 2014 WL 10209161,
+at *2-3 (C.D. Ill. Aug. 4, 2014) (ordering disclosure of litigation hold letters delayed more than three years after it
+considered litigation, causing widespread destruction of documents); Home Instead, Inc. v. Florance, No.
+8:12CV264, 2013 WL 5979629, at *2-3 (D. Neb. Nov. 8, 2013) (acknowledging while “typically the court would
+not require such a response to discovery,” admissions of not looking for information, and shredding, selling, and
+discarding relevant documents warranted order requiring “a concerted effort to further respond to discovery”);
+Magnetar Techs. Corp. v. Six Flags Theme Park, Inc., 886 F. Supp. 2d 466, 489-90 (D. Del. 2012) (allowing
+discovery into attorney-client privileged litigation hold letters due to the “extensive number of documents
+destroyed”); Cannata v. Wyndham Worldwide Corp., No. 2:10–cv–00068, 2011 WL 3495987, at *2-3 (D. Nev. Aug.
+10, 2011) (allowing inquiry into non-privileged preservation topics); United Med. Supply Co. v. United States, 77
+Fed. Cl. 257, 261-63 (Fed. Cl. 2007) (ordering government to file its litigation notices after finding that entire
+agencies with a stake in the litigation were unaware of its existence).
+14
+To the extent Plaintiffs alternatively seek this information through an untimely motion to compel, they make no
+such argument and almost wholly fail to address Infosys’s objections. See, e.g., Clinchfield Ry. Co. v. Lynch, 700
+F.2d 126, 132 n.10 (4th Cir. 1983) (noting that objection shifts burden to requesting party to file motion to compel).
+Infosys’s responses served on Sept. 19, 2016 objected, for example, that these requests were variously overbroad,
+unduly burdensome, not relevant or proportional, and protected by attorney-client and work product privileges.
+
+20
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 21 of 33 Document 136
+
+documents have not been fully preserved, and seek the return of any Infosys ESI and documents
+still in Mr. Jalona’s possession” is also moot and duplicative; this has already been done, as
+Plaintiffs would have discovered from conferral with Infosys.
+And Plaintiffs’ request for permission to “take necessary depositions following
+production of the foregoing materials” is, at best, premature. Rule 37(e) does not permit this
+relief unless and until Plaintiffs show a particular deposition is “necessary to cure . . . prejudice.”
+See generally CSC Holdings, Inc. v. Redisi, 309 F.3d 988, 993 (7th Cir. 2002) (noting a court
+may refuse to compel depositions that would not help explore a “material issue.”).
+In short, the requested sanctions fall outside the scope of Rule 37(e) and must be denied.
+C.
+
+Neither Rule 26(g) nor Rule 37(d) authorizes sanctions against Infosys for its
+discovery responses and communications relating to PeopleFluent.
+
+Plaintiffs’ request for sanctions relating to “PeopleFluent documents” also fails on the
+merits. Though Plaintiffs claim Infosys violated the certification requirement of Rule 26(g), that
+requirement applies to responses to discovery requests, not every discussion that comes
+afterwards. And though Plaintiffs claim Infosys violated Rule 37(d) by excluding various
+PeopleFluent documents from a discovery response that included overbreadth objections and all
+relevant data, Rule 37(d) applies when a party has failed to provide any response at all. This is a
+sanctions demand in search of a rule authorizing sanctions. It must be denied.
+1.
+
+Plaintiffs identify no basis for sanctions under Rule 26(g).
+
+Plaintiffs’ attempt to apply Rule 26(g) to a discovery mediation chart—drafted by
+Plaintiffs—fails as a matter of law. Rule 26(g) applies to an attorney’s certification of discovery
+responses through a signature. Fed. R. Civ. P. 26(g) (“Every disclosure under Rule 26(a)(1) or
+(a)(3) and every discovery request, response, or objection must be signed by at least one attorney
+of record in the attorney’s own name—or by the party personally, if unrepresented—and must
+
+21
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 22 of 33 Document 136
+
+state the signer’s address, e-mail address, and telephone number.”). As committee notes clarify,
+this “certification speaks as of the time it is made.” Fed. R. Civ. P. 26 advisory committee’s
+notes (1983 amendment). An attorney signature on a party’s responses to a request for
+production thus certifies, as of the signature date, that responses and objections are consistent
+with the federal rules and warranted by law. Fed. R. Civ. P. 26(g)(1)(B)(i).
+Here, the certification in question appeared on Infosys’s August 26, 2015 discovery
+responses and objections. Addressing a request for all “[d]ocuments and ESI relating to the
+demographics or statistics of Infosys’ United States work force, including, but not limited to,
+EEO reports, studies, or other documents reflecting the statistics of the workforce”:
+•
+
+Infosys specifically objected (among other things) to its overbreadth in reaching
+positions other than “base hires,” and that “the term ‘statistics of the workforce’
+renders the request vague and ambiguous”;
+
+•
+
+with respect to its call for ESI, Infosys invited “Plaintiffs to meet and confer
+regarding appropriate search terms and custodians, pursuant to Seventh Circuit
+protocol”; and
+
+•
+
+Infosys agreed to produce responsive EEO-1 reports as well as other specific
+documents.
+
+(See Boshkoff Decl. Ex. 3 (Infosys Limited’s Am. Response to Pls.’ First Request for Prod. of
+Documents, Response No. 5 (emphasis added))).
+Foreclosing Rule 26(g) sanctions, none of this has been challenged by Plaintiffs. And
+what Plaintiffs want sanctioned instead—a failure to edit one line on a multi-page discovery
+chart they themselves created—is not a certification of any kind. Indeed, the very context of this
+chart (and two-line transmission email) makes non-sense of Plaintiffs’ argument that it triggers
+
+22
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 23 of 33 Document 136
+
+Rule 26(g): The chart was used in a discovery mediation intended to address (inter alia) Infosys’
+objections about vagueness and overbreadth. It was a multi-page summary of “the status of its
+response to each document request” created by Plaintiffs, and edited by Infosys only by revising
+the “Outstanding Issues” portion and adding a column for “Updates.” 15 And it was not even
+final, but reflected (as Plaintiffs’ initial email notes) on-going negotiations between the parties.
+Exh 30. Putting aside the missing signature, a single sentence under “Infosys’s Description of
+Responsive Documents” to Request No. 5 could represent—at most—Infosys’s understanding of
+what documents would be produced at a particular stage in the negotiation; it could not possibly
+certify that no other documents might fit terms Infosys had already called “vague” and
+“overbroad.” Exh. 31. See generally Sheets v. Yamaha Motors Corp., U.S.A., 849 F.2d 179, 186
+(5th Cir. 1988) (stating that Rule 26(g) “applies exclusively to discovery requests, responses, and
+objections”). Cf. Phinney v. Paulshock, 181 F.R.D. 185, 203–04 (D.N.H. 1998), aff’d sub nom.
+Phinney v. Wentworth Douglas Hosp., 199 F.3d 1 (1st Cir. 1999) (finding original response to
+discovery in the form of a letter “constitutes a ‘certification’ pursuant to Rule 26(g)(2)”). 16
+Plaintiffs, in short, are not complaining about a discovery certification, let alone one that
+violates Infosys’s legal obligations. They identify no basis for sanctions under Rule 26(g).
+2.
+
+Plaintiffs identify no basis for sanctions under Rule 37(d).
+
+15
+
+The email recites, in full: “This is an updated discovery chart. I am hopeful that we can use this to narrow some
+of the issues that need to be presented to the court.” (Boshkoff Decl. ¶ 10).
+16
+Plaintiffs’ sole authority on correspondence in the context of a Rule 26(g) violation involves actionable
+certifications in original discovery responses and affirmance of those certifications in later correspondence. See In
+re Delta/AirTran, 846 F. Supp. 2d 1335, 1350 (rejecting claim that “counsel made reasonable inquiries prior to
+signing the certifications” of response to document request and finding the problem compounded by unequivocal
+statements to the court that production was complete); Metro. Opera Ass’n, Inc. v. Local 100, Hotel Employees &
+Rest. Employees Int’l Union, 212 F.R.D. 178, 221 (S.D.N.Y. 2003) (finding “counsel’s responses to the Met’s
+discovery requests, in formal responses, in letters and to the Court—particularly counsel’s repeated representations
+that all responsive documents had been produced—were made without any real reflection or concern for their
+obligations under the rules governing discovery…”). Cf. Nationwide Agribusiness, 2016 U.S. Dist. LEXIS 8289, at
+*12 (awarding fees as sanction under Fed. R. Civ. P. 26(g)(3) and 37(c)(1) for misleading supplemental disclosure).
+
+23
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 24 of 33 Document 136
+
+Plaintiffs’ request that the Court sanction Infosys under Rule 37(d)—a claim relating not
+to the discovery mediation chart, but to Infosys’s production of fewer than all PeopleFluent
+documents in its original Request No. 5 response—is equally unsupported. Titled, “Party’s
+Failure to Attend Its Own Deposition, Serve Answers to Interrogatories, or Respond to a Request
+for Inspection,” Rule 37(d) addresses just that: a party’s complete failure to respond to a
+discovery request. There is some split of authority on “whether Rule 37(d) sanctions may be
+imposed when a party has responded to interrogatories or a request for inspection, but the
+response is so inadequate that it is tantamount to a complete failure to respond.” 7-37 Moore's
+Federal Practice - Civil § 37.91 (2016). Cf. David Mizer Enters., Inc. v. Nexstar Broad., Inc.,
+No. 14-cv-2192, 2016 WL 4541825, at *4 (C.D. Ill. Aug. 31, 2016) (addressing response that
+“Defendant does not have any documents which respond to this request”). But there is no
+argument that a response is sanctionable under Rule 37(d) merely because it falls short of
+“complete.” Though Plaintiffs claim that an “[a]n “incomplete disclosure . . . must be treated as
+a failure to disclose” under Rule 37(a)(4), that provision “limits its own reach to subdivision (a)”
+and its maximum sanction of expense-shifting. 7 James Wm. Moore et al., Moore’s Federal
+Practice § 37.91. Subsection (d), in contrast, exists outside Rule 37’s “system of progressive
+discipline” and applies only to blatant discovery abuses nowhere alleged here. Id. at § 37.90
+(distinguishing Rule 37(d) as applying to “the most blatant forms of discovery noncompliance”
+and allowing courts to sanction in the first instance).
+Nor could Plaintiffs make any colorable claim that a production of all relevant data and
+over 50,000 pages of documents—including affirmative action plans with statutory performance
+goals—is tantamount to no production at all. In response to a request for all “documents and ESI
+relating to the demographics or statistics of Infosys’ [U.S.] work force,” Infosys timely:
+
+24
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 25 of 33 Document 136
+
+•
+
+Produced (on November 24, 2015) its human resources and applicant tracking data
+relating to all applicants and employees for the relevant time period in 65
+spreadsheets with employment dates, compensation, race/ethnicity, position titles,
+project assignments, and applicant interviewing data (Boshkoff Decl. ¶ 4);
+
+•
+
+Produced the data in its “raw” form as kept in the ordinary course of business but
+included, with each spreadsheet, employee identification numbers allowing
+information to be readily linked and analyzed by Plaintiffs’ expert (March 6, 2017,
+Boshkoff Decl. ¶ 3 (ECF No. 128-1); Siskin Supp. Rpt. 6 (Dkt. 125-2));
+
+•
+
+Provided tutoring (at its own expense) through charts identifying each spreadsheet by
+name and category, a data dictionary defining all 407 data fields with “look up tables”
+defining certain activity codes, and through exemplars illustrating how the data could
+be used (March 6, 2017, Boshkoff Decl. ¶¶ 4-13 (ECF No. 128-1); see also Neumark
+Rpt. App’x 6 (Dkt. 87-1) (identifying data dictionaries as information relied upon); 17
+and
+
+•
+
+Provided PeopleFluent affirmative action plans (“AAPs”) containing analyses of
+“placement goals” and “utilization rates.” (Boshkoff Decl. ¶ 5).
+
+Also contrary to Plaintiffs’ claims here, this data production included more data than was given
+to PeopleFluent for its affirmative action analyses. (Id. ¶ 4).
+Plaintiffs’ claim, in short, that this mammoth production (what Plaintiffs call “incredibly
+voluminous” data) violates Rule 37(d) is baseless. Plaintiffs’ motion must be denied. 18
+
+17
+
+Counsel also responded to multiple inquiries clarification of certain points as requested by Plaintiffs’ counsel and
+met for hours to provide clarification. (March 6, 2017, Boshkoff Decl. ¶¶ 4-13 (ECF No. 128-1)). Plaintiffs’ claim
+that “this raw data was …disaggregated, and difficult to understand” is unsupported and contradicted by the ability
+of Infosys’s expert to produce his report without any of the tutoring provided to Plaintiffs.
+18
+Contrary to claims that Infosys’s counsel “admitted considering producing the PeopleFluent analyses, but chose
+not to do so…” (see Pls.’ Br. 14 (emphasis added), counsel explained that when producing the data ultimately
+
+25
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 26 of 33 Document 136
+
+3.
+
+More discovery would violate the proportionality requirement of Rule 26.
+
+Plaintiffs also fail to justify the specific sanctions they seek under Rule 26(g) and 37(d)—
+namely, “documents and ESI related to [Infosys’s] affirmative action program, including data
+provided to and received from PeopleFluent, communications with PeopleFluent, documents
+regarding placement goals, and communications among Infosys’ affirmative action anchors and
+steering committee members regarding its affirmative action program and efforts.” Pls.’ Br. 25.
+Indeed, these requests abandon any semblance of Rule 26 proportionality. 19 The record is clear
+that Infosys provided all data given to PeopleFluent—the outside vendor who prepares its
+regulation-mandated affirmative action plans—as well as affirmative action plans and
+performance goals with its original production, and that it subsequently produced an additional
+170,000-plus pages of intermediate and ancillary reports such as “counts” and “roll-ups” of
+employees by race and location. (Boshkoff Decl. ¶ 6). Yet having devoted (now) three briefs to
+this subject, Plaintiffs remain unable to extract from this trove of data and documents a single
+relevant, non-duplicative fact. As Infosys more fully explained in its class certification and
+Daubert briefs:
+•
+
+The PeopleFluent “analyses” that purportedly “help demonstrate that Infosys
+discriminated” are not analyses at all, but “counts” by race of people hired, promoted,
+and terminated by Infosys—computations that provide no point of demographic
+comparison (e.g., a racial breakdown of eligible or similarly situated employees) or
+control for variables other than race—nor have Plaintiffs offered any expert opinion
+to the contrary; (Siskin Supp. Rpt. 6 (ECF No. 125-2); cf. Pls.’ Br. 8-9 (“PeopleFluent
+
+provided to Plaintiffs, she decided not to replicate data given to PeopleFluent because it was incomplete and
+therefore insufficient. Declaration of Rozlyn Fulgoni-Britton (“Fulgoni-Britton Decl.”), Exhibit E, ¶¶ 5-7.
+19
+Fed. R. Civ. P. 26(b)(2)(C)(i) (providing that the Court “must limit the frequency or extent of discovery otherwise
+allowed . . . [when] unreasonably cumulative or duplicative, or can be obtained from some other source.”).
+
+26
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 27 of 33 Document 136
+
+analyzes relevant labor markets . . . and the disparity exists at the corporate level,
+across business units, across job categories, and across geographies”));
+•
+
+PeopleFluent could not perform reliable analyses because Infosys provided no data on
+variables that would allow meaningful statistical analysis of alleged discrimination,
+(Siskin Supp. Rpt. 3-4 (ECF No. 125-2)); and
+
+•
+
+Regulations expressly provide that a reported placement goal “constitutes neither a
+finding nor an admission of discrimination” (41 C.F.R. §60–2.16(b)) and do not even
+contemplate placement goals for Caucasians. Cf. Pls.’ Br. 9 (“the disparity far
+exceeds placement goals set to try to curb preference for a single race”).
+
+Plaintiffs, in fact, remained sufficiently dissatisfied with their own explanations of
+relevance in class certification briefing as to submit a sur-sur-reply with an entirely new theory:
+that Infosys’s failure to meet affirmance action performance goals reflected in PeopleFluent
+documents establishes discrimination under Mozee v. Am. Comm. Marine Serv. Co., 940 F.2d
+1036 (7th Cir. 1991). See also Pls.’ Br. 9 n.20. But it works no better. Whereas Mozee involved
+a past discriminator’s failure to implement its affirmative action plans, Plaintiffs accuse Infosys
+of not achieving performance goals—something incapable of suggesting discrimination under
+the plain terms of the regulations. Mozee, 940 F.2d at 1051 (recognizing the district court’s
+conclusion that “[e]vidence of an employer’s failure to follow the requirements of an affirmative
+action plan is also relevant, though not conclusive, in determining intentional racial
+discrimination”) (emphasis added). And regardless, Infosys included placement goals—the
+smokeless “smoking gun”—in its original production.
+Having failed, in short, to identify admissible evidence in the staggering volume of
+PeopleFluent documents and ESI already produced by Infosys, Plaintiffs are demanding more
+
+27
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 28 of 33 Document 136
+
+discovery of less relevant information—in effect, documents about irrelevant documents. This
+discovery is unwarranted. Whether as a “sanction” under Rule 26(g) or 37(d), or as relief for an
+unarticulated 20 motion to compel, Plaintiff’s requests violate the proportionality requirement of
+Rule 26. See generally 26(b)(1) (limiting discovery to what is proportional to case needs). See
+generally Melendez v. Illinois Bell Tel. Co., 79 F.3d 661, 672 (7th Cir. 1996) (courts should only
+impose sanctions “proportionate to the circumstances” of the discovery violation).
+D.
+
+Plaintiffs’ motion should be denied as untimely.
+
+Not merely its failure on the merits, but Plaintiffs’ inexplicable delay in filing this motion
+should preclude any sanction against Infosys. Though Rule 37 does not provide deadlines, the
+Seventh Circuit recognizes that “unreasonable delay may render” a sanctions motion untimely.
+Brandt v. Vulcan, Inc., 30 F.3d 752, 756 (7th Cir. 1994). 21 Its decision in Brandt, for example,
+affirmed the district court’s denial of a Rule 37 motion as untimely where the plaintiff
+suspected—but did nothing to address—the defendant’s alleged failure to provide true and
+complete discovery responses until trial. Other courts have found spoliation motions filed in
+close proximity to summary judgment untimely. See., e.g., Ferrone v. Onorato, 2007 WL
+2973684, at *10 (W.D. Pa. Oct. 9, 2007) (finding that spoliation allegations made in opposition
+to summary judgment “come too late”). 22 Similarly, inattention to discovery directives and
+deadlines has supported findings of unreasonable delay. See MGA Entertainment, Inc. v.
+National Products Ltd., No. CV 10-07083, 2012 WL 4052023, at *5 (C.D. Cal. Sept. 14, 2012).
+
+20
+
+The Court should also deny any motion to compel because Plaintiffs make no Rule 37(a) argument.
+See generally Kaplan v. Zenner, 956 F.2d 149, 152 (7th Cir. 1992) (“Prompt filings of motions for sanctions after
+discovery of an abuse best serve both the systemic and case-specific deterrent functions of Rule 11.”).
+22
+See also Glenn v. Scott Paper Co., No. 92-1873, 1993 WL 431161, at *10 n.3 (D.N.J. Oct. 20, 1993) (rejecting
+spoliation claim “first brought defending a summary judgment motion after completion of discovery” and without
+earlier motions as untimely); Morse Diesel Int’l, Inc. v. United States, 81 Fed. Cl. 220, 222 (Fed. Cl. 2008) (finding
+spoliation sanctions motion filed after ruling on partial summary judgment untimely); see generally Goodman v.
+Praxair Servs., Inc., 632 F.Supp.2d 494, 507 (D. Md. 2009) (noting that “a court should examine the temporal
+proximity between a spoliation motion and motions for summary judgment” to determine timeliness of motion).
+21
+
+28
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 29 of 33 Document 136
+
+The reasoning of these decisions is straightforward. The least disruptive time to impose
+discovery sanctions is during discovery:
+Reopening discovery, even if for a limited purpose, months after it has closed or
+after dispositive motions have been filed… can completely disrupt the pretrial
+schedule, involve significant cost, and burden the court and parties. Courts are
+justifiably unsympathetic to litigants who, because of inattention, neglect, or
+purposeful delay aimed at achieving an unwarranted tactical advantage, attempt to
+reargue a substantive issue already ruled on by the court through the guise of a
+spoliation motion, or use such a motion to try to reopen or prolong discovery
+beyond the time allotted in the pretrial order.
+Goodman, 632 F.Supp.2d at 508 (emphasis added).
+Here, Plaintiffs offer no justification for a delay that could upend more than six months of
+class-related litigation. Though focused exclusively on the sanction of additional discovery,
+Plaintiffs filed this motion eight months after discovery closed on September 16, 2016. (ECF
+No. 61). Plaintiffs delayed for almost a year after being told in July of 2016 that Infosys could
+not locate “usable ESI” for Jalona and Kedia; and they waited months after being instructed to
+resolve discovery issues relating to PeopleFluent in January of 2017. (Boshkoff Decl. Ex. 7;
+ECF No. 112 (directing parties to work out a plan to handle PeopleFluent documents)). But
+more inexplicably still, Plaintiffs waited to seek what they now describe as critical evidence until
+months after briefing had closed on motions for summary judgment against the named Plaintiffs,
+on their own class-wide motion for partial summary judgment, on their class certification
+motion, and on Infosys’s motion to exclude the opinions of their expert. In other words,
+Plaintiffs stood by while the parties submitted hundreds of pages of potentially dispositive
+evidence and briefing to the Court.
+None of this could be described as reasonable. Nor do Plaintiffs even explain what they
+intend to do with the discovery they now seek. Would they try to re-open all or part of briefing
+that has already occupied the parties for eight months? Would they wait for rulings that could
+29
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 30 of 33 Document 136
+
+render these requests—and all the effort and expense they impose on Infosys—moot? Either
+way, the immense costs of their delay dwarf any minimal benefit of expanding discovery.
+Compare MGA Entertainment, Inc., 2012 WL 4052023, at *5 (denying sanctions motion as
+unreasonably delayed where defendants allowed discovery and motion hearing deadlines to pass
+“after being specifically ordered by the District Judge on May 10, 2012 to meet and confer
+regarding sanctions issues”); with Goodman, 632 F. Supp. 2d at 509 (though “difficult” not to
+deny motion filed “two months after dispositive motions had been fully briefed” as untimely,
+court allowed sanctions motion that (among other things) did not affect summary judgment or
+require additional discovery). 23 Having failed to ask for more time and discovery before the
+parties completed six months of briefing on potentially case-ending motions, plaintiffs should
+not be permitted to re-open discovery now.
+E.
+
+Infosys is entitled to its fees in defending this unwarranted motion.
+
+Finally, Plaintiffs’ request for fees under Rule 37(d) and (e) is unsupported by any
+grantable request, and would reward their failure to work in good faith to resolve this dispute.
+Rather, Rule 37(a)(5)(B) entitles Infosys to its “reasonable expenses” in opposing this motion.
+CONCLUSION
+Plaintiffs’ motion should be denied and Infosys granted its reasonable expenses.
+Date: May 22, 2017
+
+Respectfully submitted,
+FAEGRE BAKER DANIELS LLP
+
+/s/Ellen E. Boshkoff
+Ellen E. Boshkoff
+23
+
+Delay of almost eight months after the discovery deadline is clearly fatal to the extent Plaintiffs rely on a motion
+to compel. See, e.g., Packman v. Chicago Tribune Co., 267 F.3d 628, 647 (7th Cir. 2001) (no abuse of discretion in
+finding motion to compel filed “after discovery had closed, the summary judgment briefing schedule had been set,
+and defendants had filed their summary judgment motion” untimely). See also Mortle v. United Parcel Service, No.
+05-cv-117, 2006 WL 776745, at *1 (E.D. Wis. Mar. 27, 2006) (“A district court may properly deny a motion to
+compel discovery where the motion to compel was filed after the close of discovery.”).
+
+30
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 31 of 33 Document 136
+
+Rozlyn M. Fulgoni-Britton
+FAEGRE BAKER DANIELS LLP
+300 North Meridian Street, Suite 2700
+Indianapolis, IN 46204
+(317) 237-0300
+(317) 237-1000 (fax)
+ellen.boshkoff@FaegreBD.com
+rozlyn.fulgoni-britton@FaegreBD.com
+George A. Stohner
+Gregory P. Abrams
+Lindsey M. Hogan
+FAEGRE BAKER DANIELS LLP
+311 S. Wacker Drive, Suite 4400
+Chicago, IL 60606
+(312) 212-6500
+(312) 212-6501 (fax)
+george.stohner@FaegreBD.com
+gregory.abrams@FaegreBD.com
+lindsey.hogan@FaegreBD.com
+Dulany Lucetta Pope
+FAEGRE BAKER DANIELS LLP
+202 S Michigan Street, Suite 1400
+South Bend, IN 46601
+574-234-4149
+574-239-1900 (fax)
+lucetta.pope@FaegreBD.com
+Attorneys for Defendants, Infosys Technologies
+Limited, Inc. and Infosys Public Services, Inc.
+
+31
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 32 of 33 Document 136
+
+CERTIFICATE OF SERVICE
+The undersigned attorney certifies that a true and correct copy of the foregoing
+Defendant’s Brief in Opposition to Plaintiffs’ Motion to Compel and for Santions was served on
+all counsel of record by electronic service through the Clerk of the Court’s CM/ECF filing
+system on May 22, 2017.
+Daniel A Kotchen
+dkotchen@kotchen.com
+Michael F Brown
+mbrown@dvglawpartner.com
+Michael J von Klemperer
+mvonklemperer@kotchen.com
+Notice has been delivered by other means to:
+Vonda K. Vandaveer
+VK Vandaveer PLLC
+PO Box 27317
+Washington, DC 20038-7317
+atty@vkvlaw.com
+/s/Ellen E. Boshkoff
+
+32
+US.112032679.04
+
+Case 2:13-cv-00885-PP-DEJ Filed 05/22/17 Page 33 of 33 Document 136
+
+

@@ -1,0 +1,3254 @@
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 1 of 33
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+
+JOSHUA J. POLLACK (SBN 215922)
+LARY ALAN RAPPAPORT (SBN 087614)
+PROSKAUER ROSE LLP
+2049 Century Park East, 32nd Floor
+Los Angeles, CA 90067-3206
+Telephone: (310) 557-2900
+Facsimile: (310) 557-2193
+jpollack@proskauer.com
+lrappaport@proskauer.com
+STEVEN M. BAUER (Admitted Pro Hac Vice)
+COLIN G. CABRAL (Admitted Pro Hac Vice)
+JOEL CAVANAUGH (Admitted Pro Hac Vice)
+BRENDAN S. COX (Admitted Pro Hac Vice)
+PROSKAUER ROSE LLP
+One International Place
+Boston, MA 02110
+Telephone: (617) 526-9600
+Facsimile: (617) 526-9899
+sbauer@proskauer.com
+ccabral@proskauer.com
+jcavanaugh@proskauer.com
+bcox@proskauer.com
+Attorneys for Defendants
+OFFICE DEPOT, INC., CDW CORP.,
+NEWEGG INC., and PC CONNECTION, INC.
+
+15
+
+UNITED STATES DISTRICT COURT
+
+16
+
+NORTHERN DISTRICT OF CALIFORNIA
+
+17
+
+OAKLAND DIVISION
+
+18
+Case No. CV 07-3602 PJH
+
+19
+20
+
+SPEEDTRACK, INC.,
+Plaintiff,
+
+21
+22
+23
+24
+
+vs.
+OFFICE DEPOT INC., et al.,
+Defendants.
+
+25
+
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY
+JUDGMENT THAT PLAINTIFF’S
+INFRINGEMENT CLAIMS ARE
+BARRED BY RES JUDICATA, THE
+KESSLER DOCTRINE, AND
+COLLATERAL ESTOPPEL
+Date: TBD*
+Time: TBD*
+Court: Courtroom 3, 3rd Floor
+Judge: Hon. Phyllis J. Hamilton
+
+26
+*Subject to determination by the Court. See
+Dkt. 94.
+
+27
+28
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 2 of 33
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+TABLE OF CONTENTS
+NOTICE OF MOTION AND MOTION .............................................................................1
+MEMORANDUM OF POINTS AND AUTHORITIES .....................................................2
+I. INTRODUCTION AND SUMMARY OF ARGUMENT ..............................................2
+II. BACKGROUND AND PROCEDURAL HISTORY ....................................................5
+A. The Walmart Case..............................................................................................5
+1. The Court’s Construction of “Category Description” ............................5
+2. SpeedTrack’s Final Infringement Contentions .......................................6
+3. The Absence of “Category Descriptions” in the Endeca System ...........7
+
+11
+
+4. Endeca and Walmart’s Summary Judgment of NonInfringement .....................................................................................8
+
+12
+
+5. SpeedTrack’s Appeal to the Federal Circuit ...........................................9
+
+13
+
+B. The Present Case against Additional Endeca Customers .................................10
+
+14
+
+III. THERE ARE NO GENUINE ISSUES OF MATERIAL FACT ................................11
+
+15
+
+A. Standard for Summary Judgment Under Federal Rule of Civil
+Procedure 56 ..............................................................................................11
+
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+B. SpeedTrack Cannot Dispute that the Endeca Software Used by Each
+Endeca Customer Here Functions Identically to the Endeca
+Software Found Not To Infringe in the Walmart Case ..............................11
+C. SpeedTrack Cannot Dispute the Facts Showing The Relationship
+Between Endeca and the Customers Here .................................................13
+IV. SPEEDTRACK IS BARRED BY RES JUDICATA FROM RE-LITIGATING
+ITS INFRINGEMENT CLAIMS AGAINST ENDECA'S CUSTOMERS ...........15
+A. SpeedTrack is Barred by the Kessler Doctrine from Litigating
+Infringement Actions Against the Endeca Customers for Their Use
+of Endeca’s Non-Infringing Product ..........................................................15
+B. There Is Identity of Parties (or their Privies)....................................................17
+C. SpeedTrack Does Not Dispute that this Court Entered an Earlier
+Judgment on the Merits ..............................................................................18
+D. SpeedTrack’s Allegations Are Based on the Same Set of Transactional
+Facts as the Walmart Case .........................................................................18
+E. SpeedTrack Cannot Avoid Res Judicata by Now Focusing on
+Infringement Under the Doctrine of Equivalents.......................................20
+i
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 3 of 33
+
+1
+2
+3
+
+V. COLLATERAL ESTOPPEL BARS SPEEDTRACK FROM RELITIGATING THE ISSUE OF WHETHER THE ENDECA
+CUSTOMERS' USE OF THE NON-INFRINGING PRODUCT
+INFRINGES THE ’360 Patent...............................................................................22
+
+4
+
+A. The Issue of Infringement Was Fully and Fairly Litigated in the
+Walmart Case and SpeedTrack Cannot Re-Litigate that Issue Now
+by Advancing a New Infringement Argument...........................................23
+
+5
+
+VI. CONCLUSION...........................................................................................................25
+
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ii
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 4 of 33
+
+TABLE OF AUTHORITIES
+
+1
+2
+
+Page(s)
+CASES
+
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+Acumed LLC v. Stryker Corp.,
+525 F.3d 1319 (Fed. Cir. 2008)..............................................................................15, 18, 20, 21
+Allen v. McCurry,
+449 U.S. 90 (1980) ...................................................................................................................22
+Anderson v. Liberty Lobby, Inc.,
+477 U.S. 242 (1986) .................................................................................................................11
+Applied Med. Res. Corp. v. U.S. Surgical Corp.,
+352 F. Supp. 2d 1119 (C.D. Cal. 2005) ...............................................................................5, 24
+Aspex Eyewear, Inc. v. Zenni Optical, Inc.,
+713 F.3d 1377 (Fed. Cir. 2013)..........................................................................................23, 25
+Comm’r of Internal Revenue. v. Sunnen,
+333 U.S. 591 (1948) .................................................................................................................15
+Dana v. E.S. Originals, Inc.,
+342 F.3d 1320 (Fed. Cir. 2003)................................................................................................24
+Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co.,
+535 U.S. 722 (U.S. 2002).........................................................................................................24
+Foster v. Hallco Mfg. Co., Inc.,
+947 F.2d 469 (Fed. Cir. 1991)..................................................................................................15
+Global Maintech Corp. v. AIG Techs., Inc.,
+2006 WL 354224 (D. Minn. Feb. 15, 2006) ............................................................................14
+Home Diagnostics, Inc. v. Lifescan, Inc.,
+120 F. Supp. 2d 864 (N.D. Cal. 2000) .....................................................................................23
+
+21
+22
+23
+24
+25
+
+Hydranautics v. FilmTec Corp.,
+204 F.3d 880 (9th Cir. 2000) ...................................................................................................22
+Jet, Inc. v. Sewage Aeration Sys.,
+223 F.3d 1360 (Fed. Cir. 2000)............................................................................................4, 15
+Kessler v. Eldred,
+206 U.S. 285 (1907) .......................................................................................................3, 15, 16
+
+26
+27
+
+Kruse Tech. P’ship v. Volkswagen AG,
+No. 2012-1352, 2013 WL 5526526 (Fed. Cir. Oct. 8, 2013)...................................................24
+
+28
+iii
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 5 of 33
+
+1
+2
+3
+4
+
+Lucent Technologies, Inc. v. Gateway, Inc.
+525 F.3d 1200 (Fed. Cir. 2008)................................................................................................24
+Mars Inc. v. Nippon Conlux Kabushiki-Kaisha,
+58 F.3d 616 (Fed. Cir. 1995)....................................................................................................20
+MGA, Inc. v. Gen. Motors Corp.,
+827 F.2d 729 (Fed. Cir. 1987)..................................................................................3, 14, 15, 16
+
+5
+6
+7
+8
+9
+
+Nystrom v. Trex Co., Inc.,
+580 F.3d 1281 (Fed. Cir. 2009)..........................................................................................18, 22
+Pharmacia & Upjohn Co. v. Mylan Pharma., Inc.,
+170 F.3d 1373 (Fed Cir. 1999).................................................................................................22
+Reese v. Verizon California, Inc.,
+No. 2012-1048, 2012 WL 6634227 (Fed. Cir. 2012) ..............................................................23
+
+10
+11
+12
+13
+14
+
+Roche Palo Alto LLC v. Apotex, Inc.,
+526 F. Supp. 2d 985 (N.D. Cal. 2007) .....................................................................................24
+Roche Palo Alto LLC v. Apotex, Inc.,
+531 F.3d 1372 (Fed. Cir. 2008)......................................................................................4, 20, 23
+Rubber Tire Wheel Co. v. Goodyear Tire and Rubber Co.,
+232 U.S. 413 (1914) .................................................................................................................15
+
+15
+16
+17
+18
+19
+
+Shoom, Inc. v. Elec. Imaging Sys. of Am., Inc.,
+No. C 07-05612 JSW, 2011 WL 4595212 (N.D. Cal. Oct. 4, 2011) .......................................16
+SpeedTrack, Inc. v. Endeca Techs., Inc.,
+524 Fed. App’x. 651 (Fed. Cir. 2013)..............................................................................1, 9, 10
+Taylor v. Sturgell,
+553 U.S. 880, 893-895 (2008) .................................................................................................17
+
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Tech. Licensing Corp. v. Thomson, Inc.,
+738 F. Supp. 2d 1096 (E.D. Cal. 2010)....................................................................................15
+Transocean Offshore Deepwater Drilling, Inc. v. Maersk Contractors USA, Inc.,
+617 F.3d 1296 (Fed. Cir. 2010)................................................................................................23
+Vigil v. Walt Disney Co.,
+No. C-02-4002 MHP, 2003 WL 22016805 (N.D. Cal. Jul. 31, 2003), at *4 .....................21, 23
+Warner-Jenkinson Co., Inc. v. Hilton Davis Chem. Co.,
+520 U.S. 17 (1997) ...................................................................................................................20
+Young Eng’rs, Inc. v. U.S. Int’l Trade Comm’n,
+721 F.2d 1305 (Fed. Cir. 1983)................................................................................................18
+iv
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 6 of 33
+
+1
+2
+3
+
+Zip Dee, Inc. v. Dometic Corp.,
+905 F.Supp. 535 .......................................................................................................................24
+STATUTES
+35 U.S.C. § 271 .............................................................................................................................20
+
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+v
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 7 of 33
+
+1
+
+NOTICE OF MOTION AND MOTION
+
+2
+
+PLEASE TAKE NOTICE that this Motion for Summary Judgment that Plaintiff’s
+
+3
+
+Infringement Claims are Barred by Res Judicata, the Kessler Doctrine, and Collateral Estoppel is
+
+4
+
+being presented to the Honorable Phyllis J. Hamilton pursuant to the Court’s November 7, 2013
+
+5
+
+Order and the briefing schedule set forth therein. (Dkt. 94.) As stated in that Order, the Court
+
+6
+
+will determine whether a hearing will be conducted once briefing is complete.
+
+7
+
+Defendants CDW Corporation, Newegg Inc., Office Depot, Inc., and PC Connection,
+
+8
+
+Inc., (“Defendants” or the “Endeca customers”) move this Court under Fed. R. Civ. P. 56 for
+
+9
+
+summary judgment that all claims in Plaintiff SpeedTrack, Inc.’s (“SpeedTrack”) First Amended
+
+10
+
+and Supplemental Complaint (the “Amended Complaint”), filed on June 28, 2013, are barred
+
+11
+
+under (a) res judicata, or claim preclusion; (b) the Supreme Court’s “Kessler doctrine,” which
+
+12
+
+bars suits against customers for use of a product previously found not to infringe in a suit against
+
+13
+
+the supplier of that product; and (c) collateral estoppel, or issue preclusion.
+
+14
+
+From 2006 through 2013, SpeedTrack litigated an infringement case against Endeca
+
+15
+
+Technologies, Inc. (“Endeca”) and Walmart.com USA, LLC (“Walmart”). Endeca, the supplier
+
+16
+
+of the accused technology, and Walmart, its customer, were both granted summary judgment of
+
+17
+
+non-infringement by this Court. See No. 06-C-7336 PJH (N.D. Cal.) (final judgment of non-
+
+18
+
+infringement entered Mar. 30, 2012) (the “Walmart case”). The Federal Circuit affirmed. See
+
+19
+
+SpeedTrack, Inc. v. Endeca Techs., Inc., 524 Fed. App’x. 651 (Fed. Cir. 2013).
+
+20
+
+SpeedTrack has now filed suit against four other Endeca customers, alleging infringement
+
+21
+
+of the same patent, U.S. Patent No. 5,544,360 (“the ’360 patent”), based on their use of the same
+
+22
+
+Endeca Information Access Platform.
+
+23
+
+Res judicata, the Kessler doctrine, and collateral estoppel each bar SpeedTrack’s claims.
+
+24
+
+First, res judicata bars SpeedTrack from proceeding with a second suit asserting the same cause
+
+25
+
+of action that was adjudicated on the merits in the Walmart case, and on which SpeedTrack lost –
+
+26
+
+namely, an Endeca customer’s alleged infringement through its use of the Endeca Information
+
+27
+
+Access Platform. The Supreme Court has extended res judicata in patent cases (in its Kessler
+
+28
+
+decision), saying that because in a patent case, technology is the issue in the case, claim
+1
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 8 of 33
+
+1
+
+preclusion applies to the allegations against the technology and prevents a patent owner from
+
+2
+
+bringing infringement claims against customers based on their use of technology that has
+
+3
+
+already been found not to infringe the asserted patent. Finally, collateral estoppel bars
+
+4
+
+SpeedTrack from re-litigating the specific issue on which it lost in the Walmart case, namely
+
+5
+
+whether the accused Endeca technology infringes the ’360 patent. Once this Court held that
+
+6
+
+Endeca’s technology does not infringe and that it is free to sell that technology, the law gives
+
+7
+
+Endeca the right to sell it, and its customers the right to use it.
+
+8
+9
+
+This Motion is based on this Notice of Motion and Motion, the following Memorandum
+of Points and Authorities, the Declaration of Brendan S. Cox (“Cox Decl.”) and the exhibits
+
+10
+
+attached thereto filed herewith, and on such other matters as may have been filed with the Court
+
+11
+
+or which the Court deems proper.
+
+12
+13
+14
+
+MEMORANDUM OF POINTS AND AUTHORITIES
+I.
+
+INTRODUCTION AND SUMMARY OF ARGUMENT
+When this case was stayed in 2007 pending resolution of the Walmart case, this Court
+
+15
+
+recognized that “a manufacturer and a customer in the same case [was the perfect test case],
+
+16
+
+because then all the issues get raised and resolved within the context of one case.” See Cox
+
+17
+
+Decl. Ex. A, October 3, 2007 Transcript of Proceedings regarding Defendants’ Motion to Stay at
+
+18
+
+8:16-19. And, in fact, resolution of the Walmart case should have been the end of this case
+
+19
+
+because the same issues presented here – whether the same product used in the same way
+
+20
+
+infringes the same patent – were raised and resolved.
+
+21
+
+Indeed, SpeedTrack concedes that it cannot pursue its claim of infringement by making a
+
+22
+
+“literal infringement” argument. See, e.g., Cox Decl., Ex. B, Nov. 6, 2013 Transcript of
+
+23
+
+Proceedings regarding Defendants’ Motion to Dismiss at 12:10-13 (“We lost on literal
+
+24
+
+infringement. That’s not going to come up again. Okay? We agree there’s – there’s collateral
+
+25
+
+estoppel on that issue so we’re just talking about doctrine of equivalents.”).
+
+26
+
+But, to try to keep the lawsuit against Endeca alive, SpeedTrack says it now seeks to
+
+27
+
+prove the same claim of infringement against the same Endeca product, by making a different
+
+28
+
+argument for infringement against a different Endeca customer. But, having already asserted,
+2
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 9 of 33
+
+1
+
+and lost, infringement claims against both the product supplier (Endeca) and a “test” customer
+
+2
+
+(Walmart), SpeedTrack is barred from re-litigating the question of infringement of the same
+
+3
+
+patent by the same product used in the same way, regardless of the argument.
+
+4
+
+The material facts are not in dispute:
+
+5
+
+(1)
+
+In the Walmart case, the “category description” limitation of the asserted claims
+
+6
+
+was construed to mean “information that includes a name that is descriptive of something about
+
+7
+
+a stored file.” This Court found, and the Federal Circuit affirmed, that the accused numeric
+
+8
+
+identifiers ( “dimension value identifiers” or “DVAL_IDs”) did not meet the “category
+
+9
+
+description” limitation of the asserted claims – and that the Endeca product did not infringe the
+
+10
+
+’360 patent;
+
+11
+
+(2)
+
+The Endeca software used by each of the Endeca customers here uses non-
+
+12
+
+descriptive, numeric “DVAL_IDs,” and therefore functions identically to the Endeca software
+
+13
+
+accused in the Walmart case with regard to the relevant claim limitations of the ’360 patent.
+
+14
+
+Once this Court held that Endeca’s technology does not infringe and that it was free to
+
+15
+
+sell that technology, the law gave Endeca the right to sell it, and its customers the right to use it.
+
+16
+
+Because there is no genuine dispute that the Endeca software, as implemented by each customer
+
+17
+
+here, is the same in all material respects to the Endeca software found not to infringe in the
+
+18
+
+Walmart case, SpeedTrack’s claims are barred:
+
+19
+
+First, the doctrine of res judicata, or claim preclusion, bars SpeedTrack from bringing
+
+20
+
+this second suit asserting the same cause of action that was adjudicated on the merits in a prior
+
+21
+
+case (i.e., that Endeca’s customers’ use of Endeca’s software allegedly infringes the patent).
+
+22
+
+Because there is (a) an identity of the parties (or their privies)1; (b) an earlier final judgment on
+
+23
+
+the merits; and (c) SpeedTrack’s infringement claims here are based on the same nucleus of
+
+24
+25
+26
+27
+28
+
+1
+
+SpeedTrack’s claims are also barred by the “Kessler doctrine,” established by the Supreme Court
+in Kessler v. Eldred, 206 U.S. 285 (1907). Kessler essentially expands the definition of “privity”
+in a patent case – “[t]he Kessler doctrine bars a patent infringement action against a customer of a
+seller who has previously prevailed against the patentee because of … noninfringement of the
+patent; otherwise, the effect of the prior judgment would be virtually destroyed.” MGA, Inc. v.
+Gen. Motors Corp., 827 F.2d 729, 734 (Fed. Cir. 1987).
+3
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 10 of 33
+
+1
+
+transactional facts as the Walmart case, SpeedTrack’s claims are barred – regardless of the
+
+2
+
+infringement argument SpeedTrack seeks to advance. See, e.g., Jet, Inc. v. Sewage Aeration
+
+3
+
+Sys., 223 F.3d 1360, 1362-63 (Fed. Cir. 2000). SpeedTrack’s cause of action in the Walmart
+
+4
+
+case was patent infringement, and Endeca (who intervened in that case) sought and obtained a
+
+5
+
+declaration that its products (and its customers’ use thereof) did not infringe. That finding of
+
+6
+
+non-infringement precludes any new infringement theories SpeedTrack might have brought – the
+
+7
+
+Federal Circuit has long-recognized that the “determination of infringement is a two-step
+
+8
+
+process, wherein the court [1] first construes the claims and [2] then determines whether every
+
+9
+
+claim limitation, or its equivalent, is found in the accused device.” Roche Palo Alto LLC v.
+
+10
+
+Apotex, Inc., 531 F.3d 1372, 1377 (Fed. Cir. 2008). Because SpeedTrack lost on its infringement
+
+11
+
+cause of action, and Endeca won on its non-infringement cause of action, finality demands that
+
+12
+
+SpeedTrack not get a second chance to assert the same cause of action – namely, infringement of
+
+13
+
+the same patent through use of the same, or materially the same, product. It simply does not
+
+14
+
+matter whether SpeedTrack has a different infringement argument.
+
+15
+
+Second, the doctrine of collateral estoppel, or issue preclusion, bars SpeedTrack from re-
+
+16
+
+litigating – against any party – the adjudicated issue of whether the accused Endeca technology
+
+17
+
+infringes the ’360 patent, because (a) the issue of infringement here is identical to that presented
+
+18
+
+in the Walmart case; (b) the Walmart case ended with a final judgment on the merits, and (c)
+
+19
+
+SpeedTrack was a party to the Walmart case. In the Walmart case, this Court determined that
+
+20
+
+numbers do not meet the “category description” limitation of the claim, because they are not
+
+21
+
+“information that includes a name that is descriptive of something about a stored file.”
+
+22
+
+SpeedTrack apparently wants this Court now to say the element has no meaning, and that non-
+
+23
+
+descriptive numbers are “equivalent” to something that is descriptive. That is nonsense, on the
+
+24
+
+substance. But, SpeedTrack’s contention here is simply a different argument as to whether the
+
+25
+
+claim element is present, whether literally or under the doctrine of equivalents. That is,
+
+26
+
+SpeedTrack is simply arguing here: “now that we know we lose on whether that the element is
+
+27
+
+literally present, we are going to try again, but now with an argument that non-descriptive
+
+28
+
+numbers are ‘equivalent’ to something that is descriptive.”
+4
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 11 of 33
+
+1
+
+When this Court found that the Endeca software had no element that fell within the
+
+2
+
+“category description” limitation, that was a final finding on the issue of infringement. A change
+
+3
+
+from one legal argument to another regarding the same issue – infringement – does not allow a
+
+4
+
+party to relitigate that issue in a subsequent case. See, e.g., Applied Med. Res. Corp. v. U.S.
+
+5
+
+Surgical Corp., 352 F. Supp. 2d 1119, 1125 (C.D. Cal. 2005), quoting Kamilche Co. v. U.S., 53
+
+6
+
+F.3d 1059, 1063 (9th Cir. 1995) (“[O]nce an issue is raised and determined, it is the entire issue
+
+7
+
+that is precluded, not just the particular arguments raised in support of it in the first case.”).
+
+8
+
+Accordingly, the Court should enter summary judgment that SpeedTrack is barred from asserting
+
+9
+
+infringement against Endeca customers who have licensed and used a product that this Court has
+
+10
+
+found does not infringe.
+
+11
+
+II.
+
+BACKGROUND AND PROCEDURAL HISTORY
+The Walmart Case
+
+12
+
+A.
+
+13
+
+On November 29, 2006, SpeedTrack filed suit against Walmart, alleging that the website
+
+14
+
+of Walmart Stores (www.walmart.com) infringed the ’360 patent. Because the infringement
+
+15
+
+allegations against Walmart were based on Walmart’s use of software provided by Endeca,
+
+16
+
+Endeca moved to intervene.2 See Walmart Dkt. 45.3 The Court granted Endeca’s motion to
+
+17
+
+intervene on April 12, 2007. See Walmart Dkt. 63.
+
+18
+
+1.
+
+19
+
+The Court’s Construction of “Category Description”
+
+During Markman proceedings in the Walmart case, SpeedTrack and Endeca proposed
+
+20
+
+constructions of the claim term “category description” – a term that was present in every asserted
+
+21
+
+claim of the ’360 patent. In June 2008, after a Markman hearing, this Court adopted SpeedTrack’s
+
+22
+
+proposed construction, construing “category description” to mean “information that includes a
+
+23
+
+name that is descriptive of something about a stored file.” See Walmart Dkt. 132, at 5-9.
+
+24
+2
+
+25
+26
+27
+
+Endeca, a Boston-area based technology company, was acquired by Oracle Corporation in 2011.
+Because the software at issue in the Walmart case and the present case was developed by Endeca,
+and because the Walmart case and Federal Circuit decision refer to Endeca, for ease of reference,
+Defendants refer to Endeca throughout this Memorandum, even though Endeca is now part of
+Oracle.
+3
+
+28
+
+Documents filed with the Court in the Walmart case are cited herein using “Walmart Dkt. ---.”
+5
+
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 12 of 33
+
+2.
+
+1
+
+SpeedTrack’s Final Infringement Contentions
+
+In the Walmart case, Endeca and Walmart had asked that the Court enter judgment that
+2
+they did not infringe “either literally or under the doctrine of equivalents.” See Walmart Dkt. 23,
+3
+at 12 (Walmart’s Counterclaim for Declaratory Judgment of Non-Infringement); Walmart Dkt.
+4
+68, at 4 (Endeca’s Complaint in Intervention). To respond to these counterclaims, and as
+5
+
+required by the Patent Local Rule 3-6,4 SpeedTrack was required to specifically identify every
+
+6
+theory of infringement it intended to argue – including the doctrine of equivalents.
+7
+On July 21, 2008, following the issuance of the Court’s Claim Construction Order,
+8
+SpeedTrack served its Final Infringement Contentions. In them, SpeedTrack asserted that the
+9
+“category descriptions” required by step “b” of claim 1 and step “c” of claim 20, as that term had
+10
+been construed by the Court, were present in the accused software, pointing to purely numeric,
+11
+non-descriptive “dimension value identifiers” or “DVAL_IDs” included in the “walmart12
+sgmt0.records.binary” file:
+13
+14
+15
+16
+17
+18
+19
+
+See Cox Decl., Ex. C, SpeedTrack’s Response to Endeca’s Interrogatory No. 1, Ex. A at 4-5, 32.
+
+20
+21
+22
+23
+24
+
+The Patent Local Rules are clear – a party cannot hold back alternative theories of
+infringement for use another day or time (or as SpeedTrack tries here, in another case). Indeed,
+clearly understanding this requirement, SpeedTrack in fact identified the claim limitations for
+which it alleged alternative infringement arguments under the doctrine of equivalents: i.e., the
+“displaying” step of claim 11, and step “b” of claim 20. See, e.g., id. at 27 (“Claim 11 is literally
+
+25
+26
+4
+
+27
+28
+
+The Walmart case was filed before the December 1, 2009 revisions to the N.D. Cal. Patent
+Local Rules took effect. All citations herein are to the Rules that were in effect prior to
+December 1, 2009.
+6
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 13 of 33
+
+1
+
+performed in Wal-Mart’s accused method. In the alternative, the ‘displaying’ step of claim 11 is
+
+2
+
+performed under the doctrine of equivalents.”).
+
+3
+
+As to the “category descriptions” element (step “b” of claim 1 and step “c” of claim 20),
+
+4
+
+SpeedTrack did not assert any alternative theory under the doctrine of equivalents, and instead
+
+5
+
+alleged only that these limitations were “literally” met in the accused Endeca technology. See id.
+
+6
+
+at 5 (“Claim 1(b) is literally performed in Wal-Mart’s accused method.”).
+
+7
+8
+
+3.
+
+The Absence of “Category Descriptions” in the Endeca System
+
+After SpeedTrack served its Final Infringement Contentions, on July 6, 2011, Endeca and
+
+9
+
+Walmart moved for summary judgment of non-infringement (Walmart Dkt. 322), contending
+
+10
+
+that the accused “category descriptions” in the Endeca system were purely numeric identifiers,
+
+11
+
+and therefore were not “information that includes a name that is descriptive of something about
+
+12
+
+a stored file.” Walmart Dkt. 355-4, at 12. Following a November 2011 hearing on Endeca and
+
+13
+
+Walmart’s motion, the Court requested that the parties submit further briefing “with respect to
+
+14
+
+the court’s prior construction of the term ‘category description,’” and in particular, addressing
+
+15
+
+“the distinction between descriptive names and numerical identifiers.” Walmart Dkt. 346. The
+
+16
+
+parties submitted supplemental briefs on December 2, 2011. Walmart Dkt. 348, 351.
+
+17
+
+SpeedTrack, finally conceding after that hearing that Walmart and Endeca had asserted a
+
+18
+
+compelling non-infringement defense, on December 2, 2011, filed a motion for leave to amend
+
+19
+
+the Final Infringement Contentions which it had served three years earlier, asking to add new
+
+20
+
+infringement contentions regarding a new alternative infringement argument – that the accused
+
+21
+
+software infringed under the doctrine of equivalents. Walmart Dkt. 349.
+
+22
+
+On February 3, 2012, the Court denied SpeedTrack’s motion for leave to amend. In view
+
+23
+
+of SpeedTrack’s obligation to allege infringement under the doctrine of equivalents three years
+
+24
+
+earlier in its Final Infringement Contentions, the Court expressly found that SpeedTrack
+
+25
+
+demonstrated a “lack of diligence in seeking to amend,” because it delayed nearly six months
+
+26
+
+after learning that Endeca and Walmart intended to advance their non-infringement defense on
+
+27
+
+this element. Walmart Dkt. 357. The Court limited SpeedTrack to arguing the infringement
+
+28
+7
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 14 of 33
+
+1
+
+issue as it had presented it to that date. It would make no sense to have barred SpeedTrack from
+
+2
+
+raising the argument in the Walmart case, while somehow reserving to it the ability to re-raise
+
+3
+
+the same alternative argument in a separate case involving otherwise identical issues.
+
+4
+
+4.
+
+Endeca and Walmart’s Summary Judgment of Non-Infringement
+
+5
+
+On February 22, 2012, the Court granted Endeca and Walmart’s motion for summary
+
+6
+
+judgment of non-infringement. Walmart Dkt. 358. The Court rejected SpeedTrack’s request,
+
+7
+
+made in its supplemental briefing on the “category description” issue, that the Court change its
+
+8
+
+construction of “category description” (a construction that SpeedTrack had proposed). The
+
+9
+
+Court confirmed that the term means “information that includes a name that is descriptive of
+
+10
+
+something about a stored file.” Id. at 13. Then, applying that construction of “category
+
+11
+
+description” to the Endeca system, the Court found that non-descriptive numbers were not
+
+12
+
+“alphabetic descriptive names,” and that the accused system did not infringe.5 Id. at 15.
+
+13
+
+On March 30, 2012, the Court entered Final Judgment in Walmart and Endeca’s favor on
+
+14
+
+all of SpeedTrack’s infringement claims, as well as on Walmart’s counterclaim for non-
+
+15
+
+infringement and Endeca’s declaratory judgment count of non-infringement. In particular, the
+
+16
+
+Court’s Final Judgment provided that:
+
+17
+
+(1) Endeca does not directly infringe claims 1-4, 7, 11-14, 20, or 21 of the
+’360 Patent by making, using, offering to sell or selling the Endeca
+Information Access Platform for the same reasons Walmart was found not
+to infringe the ’360 Patent; (2) Endeca does not induce or contribute to
+infringement of claims 1-4, 7, 11-14, 20 or 21 of the ’360 Patent by
+making, using, offering to sell or selling the Endeca Information Access
+Platform; and (3) Walmart’s use of the Endeca Information Access
+Platform does not infringe, directly or indirectly, claims 1-4, 7, 11-14, 20
+or 21 of the ’360 Patent.
+
+18
+19
+20
+21
+22
+
+Walmart Dkt. 369 at 3 (emphasis added) (internal citations omitted).
+
+23
+
+Notably, the Court’s Final Judgment says that Endeca does not directly infringe (and does
+
+24
+
+not induce or contribute to the infringement of the patent), and that Endeca’s customer using that
+
+25
+26
+27
+28
+
+5
+
+The Court also denied SpeedTrack’s request that the Court find that Endeca and Walmart were
+judicially estopped from advancing the non-infringement defense that the entries in the “walmartsgmt0.records.binary” file did not contain “category descriptions” as that term was construed by
+the Court. Walmart Dkt. 358 at 14-16.
+8
+
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 15 of 33
+
+1
+
+software does not directly (or indirectly) infringe the patent. The Order is not limited to a
+
+2
+
+judgment that Endeca did not “literally” infringe the asserted claims. Non-infringement is non-
+
+3
+
+infringement. When the Court ruled that Endeca and its customer did not infringe, that finding
+
+4
+
+necessarily encompassed any and all possible infringement arguments that SpeedTrack might have
+
+5
+
+had against Endeca and its customers, regardless of whether raised or not raised.
+
+6
+
+5.
+
+7
+
+SpeedTrack’s Appeal to the Federal Circuit
+
+SpeedTrack appealed this Court’s judgment of non-infringement to the Federal Circuit on
+
+8
+
+March 30, 2012. Walmart Dkt. 370; see also SpeedTrack, 524 Fed. App’x at 651. SpeedTrack
+
+9
+
+argued that the Court’s non-infringement finding was based on an erroneous construction of
+
+10
+
+“category description.” See SpeedTrack, 524 Fed. App’x at 653-658. SpeedTrack also appealed
+
+11
+
+two other decisions by the Court: (a) the Court’s Order denying SpeedTrack leave to amend its
+
+12
+
+infringement contentions to assert the doctrine of equivalents, and (b) the Court’s denial of
+
+13
+
+SpeedTrack’s request that Endeca and Walmart be judicially estopped from advancing the non-
+
+14
+
+infringement defense based on the absence of “category descriptions.”6
+
+15
+
+On April 16, 2013, the Federal Circuit issued a decision affirming each of this Court’s
+
+16
+
+rulings. Id. at 660. First, the Federal Circuit affirmed this Court’s construction of “category
+
+17
+
+description,” and provided further clarity on that construction:
+
+18
+
+“[C]ategory description” means: “information that includes a name that is
+descriptive of something about a stored file.” “Name,” as used in the
+claim language, requires “information” that must include, but is not
+limited to, a description in alphabetic form.
+
+19
+20
+
+Id. at 657 (emphasis added). Second, the Federal Circuit affirmed the Court’s granting of
+21
+summary judgment of non-infringement, holding that:
+22
+[I]t was Speedtrack’s burden to demonstrate that the “walmart-sgmt0.
+records.binary” file in Endeca’s accused system contains entries that are
+comprised of alphabetic descriptive names, if it was to prove that Endeca’s
+accused system infringes. Because it is undisputed that these entries
+consist only of a series of numerical identifiers, Endeca is entitled to
+summary judgment of noninfringement as a matter of law.
+
+23
+24
+25
+26
+27
+28
+
+6
+
+Endeca and Walmart cross-appealed the Court’s decision granting SpeedTrack’s motion for
+summary judgment of no invalidity. The cross-appeal is not relevant to this motion.
+9
+
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 16 of 33
+
+1
+
+Id. (emphasis added).
+
+2
+
+Third, the Federal Circuit held that the Court did not abuse its discretion when it rejected
+
+3
+
+SpeedTrack’s request that it apply the doctrine of judicial estoppel to preclude Walmart and
+
+4
+
+Endeca from asserting the non-infringement defense that “category descriptions” cannot consist
+
+5
+
+solely of numeric identifiers. Id. at 657-659.
+
+6
+
+Finally, the Federal Circuit affirmed the Court’s decision denying SpeedTrack’s motion
+
+7
+
+to amend its infringement contentions to include a doctrine of equivalents argument. Id. at 659.
+
+8
+
+B.
+
+9
+
+SpeedTrack filed the present case, originally charging six additional Endeca customers
+
+The Present Case against Additional Endeca Customers
+
+10
+
+with infringement of the same ’360 patent, back in 2007, approximately seven months after filing
+
+11
+
+the Walmart case. See Dkt. 1. In view of the Walmart case, on August 27, 2007, the Endeca
+
+12
+
+customers moved to stay this case pending the outcome of the Walmart case. See Dkt. 8.
+
+13
+
+On October 10, 2007, following a hearing on the motion to stay, the Court entered an
+
+14
+
+Order staying this case until the “final resolution” of the Walmart case. See Dkt. 37. Following
+
+15
+
+the Federal Circuit’s decision in the Walmart case, the Court lifted the stay on May 13, 2013.
+
+16
+
+See Dkt. 55. The Endeca customers then expected SpeedTrack to dismiss this case because they
+
+17
+
+were using the same Endeca technology that was found to be non-infringing.
+
+18
+
+Instead, on June 28, 2013, SpeedTrack filed a First Amended and Supplemental
+
+19
+
+Complaint. See Dkt. 61. Remarkably, the Amended Complaint alleges that the Endeca
+
+20
+
+customers7 willfully infringe the ’360 patent based on their use of the now non-infringing
+
+21
+
+“Endeca Information Access Platform.” See id.
+
+22
+
+On August 2, 2013, the Endeca customers moved to dismiss the Amended Complaint on
+
+23
+
+preclusion grounds. See Dkt. 70. After taking discovery related to the motion to dismiss,
+
+24
+
+including document productions and depositions of each customer, SpeedTrack filed its
+
+25
+
+opposition to the motion on September 26, 2013. See Dkt. 84. On November 7, 2013, following
+
+26
+27
+28
+
+7
+
+Defendants Circuit City Stores, Inc. and CompUSA, Inc. were dismissed from the case
+by stipulation on June 5, 2013 because they are no longer in business. See Dkt. 56.
+10
+
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 17 of 33
+
+1
+
+the hearing on the customers’ motion to dismiss, the Court (a) provided SpeedTrack the
+
+2
+
+opportunity to take additional customer depositions relating to the extent to which Endeca has
+
+3
+
+indemnified the customers who are parties here;8 and (b) allowed the Defendants to move for
+
+4
+
+summary judgment under Fed. R. Civ. P. 56 when that discovery was complete. See Dkt. 94.
+
+5
+
+III.
+
+THERE ARE NO GENUINE ISSUES OF MATERIAL FACT
+
+6
+
+A.
+
+7
+
+Summary judgment is generally appropriate when the evidence shows there is no genuine
+
+Standard for Summary Judgment Under Federal Rule of Civil Procedure 56
+
+8
+
+issue of material fact and the moving party is entitled to judgment as a matter of law. Fed. R.
+
+9
+
+Civ. P. 56(c); Anderson v. Liberty Lobby, Inc., 477 U.S. 242 (1986). “Only disputes over facts
+
+10
+
+that might affect the outcome of the suit under the governing law will properly preclude the entry
+
+11
+
+of summary judgment.” Id. at 248. “[W]hile the materiality determination rests on the
+
+12
+
+substantive law, it is the substantive law’s identification of which facts are critical and which
+
+13
+
+facts are irrelevant that governs.” Id.
+
+14
+
+B.
+
+15
+
+SpeedTrack Cannot Dispute that the Endeca Software Used by Each
+Endeca Customer Here Functions Identically to the Endeca Software
+Found Not To Infringe in the Walmart Case
+
+16
+
+The fundamental, undisputed (and dispositive) facts here are:
+
+17
+
+(1) the Endeca Information Access Platform was previously determined not to infringe
+
+18
+
+the ’360 patent because the Endeca software uses numeric, non-descriptive identifiers, rather
+
+19
+
+than alphabetic descriptive names, and therefore does not meet the “category description”
+
+20
+
+limitation of the asserted independent claims; and
+
+21
+
+(2) here, just as in the Walmart case, each Endeca customer’s implementation of the
+
+22
+
+Endeca product uses numeric, non-descriptive identifiers, rather than alphabetic descriptive
+
+23
+
+names.
+
+24
+
+SpeedTrack does not dispute the first point. Rather, it admits in paragraphs 12-14 of the
+
+25
+
+operative Amended Complaint that the “Endeca Information Access Platform” was adjudicated
+
+26
+
+not to infringe the ’360 patent in the Walmart case. Dkt. 61 at ¶¶ 12-14.
+
+27
+8
+
+28
+
+SpeedTrack represented that these depositions were the only additional discovery it
+needed to oppose this motion for summary judgment. See, Cox Decl., Ex. B at 24:3-22.
+11
+
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 18 of 33
+
+1
+
+As to the second point, SpeedTrack does not challenge that each Endeca customer’s
+
+2
+
+implementation of the Endeca product uses numeric, non-descriptive identifiers, rather than
+
+3
+
+alphabetic descriptive names, for the same “category description” elements alleged in the
+
+4
+
+Walmart case. Specifically, in the Walmart case, SpeedTrack argued that the “category
+
+5
+
+descriptions” in the accused system were in the “walmart-sgmt0.records.binary” file, and pointed
+
+6
+
+in particular to the “dimension value identifier” or “DVAL_ID” entries in that file:
+
+7
+8
+9
+10
+
+(See Memorandum in Support of Defendants’ Motion for Summary Judgment of Non-
+
+11
+
+Infringement of U.S. Patent No. 5,544,360, Walmart Dkt. 322 at 16; see also, Cox Decl.,
+
+12
+
+Ex. C, SpeedTrack’s Response to Endeca’s Interrogatory No. 1, Ex. A at 4-5, 32.)
+
+13
+
+As shown by affidavits from each of the Endeca customers submitted herewith, the
+
+14
+
+Endeca product they each use has an equivalent “records.binary” file for their web-site (for
+
+15
+
+example, CDW’s system has “cdw-sgmt0.records.binary”), none of the customers change the
+
+16
+
+format of the numeric fields in the files, and each “records.binary” file includes entries that are
+
+17
+
+materially identical to the entries that were at issue in the Walmart case – they each use non-
+
+18
+
+descriptive, numeric identifiers:
+
+19
+
+
+
+CDW’s “cdw-sgmt0.records.binary” file (in human readable form) includes the
+following entries:9
+
+
+
+Newegg’s “newegg-sgmt0.records.binary” file (in human readable form) includes
+the following entries:10
+
+20
+21
+22
+23
+24
+25
+26
+9
+
+27
+
+See Cox Decl., Ex. D, Decl. of Aric Lazar (CDW); see also Cox Decl., at ¶ 6 and Ex. E.
+
+10
+
+28
+
+See Cox Decl., Ex. F, Decl. of Robert Wang (Newegg); see also Cox Decl., at ¶ 8 and Ex. G.
+12
+
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 19 of 33
+
+1
+
+
+
+Office Depot’s “od_us-sgmt0.records.binary” file (in human readable form)
+includes the following entries:11
+
+
+
+PC Connection’s “pcweb-sgmt0.records.binary” file (in human readable form)
+includes the following entries:12
+
+2
+3
+4
+5
+6
+7
+SpeedTrack’s only argument here seems to be that each customer’s use of the software is
+
+8
+9
+
+“unique,” because each Endeca customer gives its own unique set of numbers to its own
+
+10
+
+inventory, on its own website. But, SpeedTrack makes no allegation, and can point to no
+
+11
+
+evidence, that any of these customer’s use of the “Endeca Information Access Platform” is
+
+12
+
+different in any material way from the “Endeca Information Access Platform” that was found not
+
+13
+
+to infringe. SpeedTrack also makes some argument that each customer uses a different “version
+
+14
+
+number” of the Endeca software than Walmart did, but the Walmart case was not limited to any
+
+15
+
+particular version number, and indeed, the judgment entered for Endeca in the Walmart case
+
+16
+
+encompassed all versions of the Endeca software, up to the time of judgment. And again, other
+
+17
+
+than the version “number” itself, SpeedTrack points to no material difference in the versions, as
+
+18
+
+they relate to the patent allegations. There simply is no genuine issue of material fact, that the
+
+19
+
+Endeca system, as implemented by each customer, uses purely numeric identifiers, which is what
+
+20
+
+the software is designed for and is precisely how Walmart implemented it.
+
+21
+
+C.
+
+22
+
+Finally, each defendant in this case is a licensee of Endeca, just as Walmart was, and
+
+23
+24
+
+SpeedTrack Cannot Dispute the Facts Showing The Relationship
+Between Endeca and the Customers Here
+
+SpeedTrack’s infringement allegations focus solely on each customer’s use of the Endeca
+
+25
+26
+
+11
+
+27
+
+12
+
+28
+
+See Cox Decl., Ex. H, Decl. of Ancin Peter (Office Depot); see also Cox Decl., at ¶ 10 and Ex. I.
+
+See Cox Decl., Ex. J, Decl. of Stephen C. Young (PC Connection); see also Cox Decl., at ¶ 12
+and Ex. K.
+13
+
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 20 of 33
+
+1
+
+product. Indeed, SpeedTrack’s Amended Complaint here accuses – by name – the “Endeca
+
+2
+
+Information Access Platform”13 as the infringing technology. Dkt. 61 (emphasis added).
+
+3
+
+Each Endeca customer has a license agreement with Endeca for use of the Endeca
+
+4
+
+software, and each has an agreement with Endeca providing that Endeca will “indemnify,
+
+5
+
+defend, and hold harmless” the customer for any loss arising out of any third party claim that the
+
+6
+
+Endeca software “infringe[s] on the Intellectual Property Rights of any third party… .” (See Cox
+
+7
+
+Decl., Ex. L at §§ 9.1-9.7 (CDW); Ex. M at §§ 9.1-9.6 (Newegg); Ex. N at §§ 9.1-9.6 (Office
+
+8
+
+Depot); Ex. O at §§ 9.1-9.7 (PC Connection).) Pursuant to those agreements, Endeca is and has
+
+9
+
+been responsible for the defense of each of its customers in this proceeding.
+
+10
+
+While Endeca has not formally intervened in this case, Defendants are “privies” to
+
+11
+
+Endeca, having acquired Endeca’s non-infringing technology from Endeca and having been sued
+
+12
+
+for infringement based on their use of that technology. Endeca and its customers agreed to stay
+
+13
+
+this case back in 2007, in view of the Walmart case, recognizing that whatever outcome was
+
+14
+
+reached in that case, would have an impact here. See, e.g., Dkt. 8 at 4 (“The Wal-Mart case will
+
+15
+
+resolve the same legal and factual questions at issue here relating to the validity of the ’360
+
+16
+
+Patent and whether Endeca’s technology infringes the patent.”).
+
+17
+
+Accordingly, there is no material dispute that there is an “identity of parties or their
+
+18
+
+privies” between the Walmart case and this case. See, e.g., Global Maintech Corp. v. AIG
+
+19
+
+Techs., Inc., 2006 WL 354224, at *3-6 (D. Minn. Feb. 15, 2006) (finding privity where software
+
+20
+
+technology provider was contractually obligated to defend customer/user, and precluding suit
+
+21
+
+alleging infringement due to use of technology previously found not to infringe on res judicata
+
+22
+
+grounds).
+
+23
+24
+25
+26
+13
+
+27
+28
+
+As described below in section IV.A, under the Kessler doctrine, the Walmart decision
+established for Endeca a right to have its Information Access Platform, which this Court found,
+and the Federal Circuit affirmed, to be non-infringing, freely bought and sold without restraint or
+interference. See, e.g., MGA, Inc., 827 F.2d 729, 734.
+14
+
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 21 of 33
+
+2
+
+SPEEDTRACK IS BARRED BY RES JUDICATA FROM RELITIGATING ITS INFRINGEMENT CLAIMS AGAINST ENDECA’S
+CUSTOMERS
+
+3
+
+Res judicata, or claim preclusion, provides that “when a court of competent jurisdiction
+
+1
+
+IV.
+
+4
+
+has entered a final judgment on the merits of a cause of action, the parties to the suit and their
+
+5
+
+privies are thereafter bound ‘not only as to every matter which was offered and received to
+
+6
+
+sustain or defeat the claim or demand, but as to any other admissible matter which might have
+
+7
+
+been offered for that purpose.’” Acumed LLC v. Stryker Corp., 525 F.3d 1319, 1323 (Fed. Cir.
+
+8
+
+2008) (emphasis added) (quoting Comm’r of Internal Revenue. v. Sunnen, 333 U.S. 591, 597
+
+9
+
+(1948)).
+
+10
+
+The doctrine of res judicata “embod[ies] the public policy of putting an end to litigation.”
+
+11
+
+Foster v. Hallco Mfg. Co., Inc., 947 F.2d 469, 475-76 (Fed. Cir. 1991). Accordingly, claim
+
+12
+
+preclusion applies where the following elements are met: (a) there is an identity of parties or
+
+13
+
+their privies, (b) there was an earlier final judgment on the merits, and (c) the new claim is based
+
+14
+
+on the same set of transactional facts as the first. See Jet, Inc. v. Sewage Aeration Sys., 223 F.3d
+
+15
+
+1360, 1362-63 (Fed. Cir. 2000). Here, each of these elements is met.
+
+16
+17
+18
+
+A.
+
+SpeedTrack is Barred by the Kessler Doctrine from Litigating
+Infringement Actions Against the Endeca Customers for Their Use of
+Endeca’s Non-Infringing Product
+
+The Supreme Court has held that in patent cases, the privity element is satisfied simply
+
+19
+
+by a customer’s use of the product at issue. Kessler v. Eldred, 206 U.S. 285 (1907), (the
+
+20
+
+“Kessler doctrine”); see also, Tech. Licensing Corp. v. Thomson, Inc., 738 F. Supp. 2d 1096,
+
+21
+
+1101 (E.D. Cal. 2010) (“The Kessler doctrine appears to be nothing more than a patent-specific
+
+22
+
+application of res judicata between manufacturers of allegedly infringing products and their
+
+23
+
+customers in patent infringement suits against the customer.”). Under the Kessler doctrine, the
+
+24
+
+manufacturer of a product that has been found to be non-infringing secures a limited trade right,
+
+25
+
+attached to the product, “to have that which [a court has determined] it lawfully produces freely
+
+26
+
+bought and sold without restraint or interference.” MGA, Inc. v. Gen. Motors Corp., 827 F.2d
+
+27
+28
+15
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 22 of 33
+
+1
+
+729, 734 (Fed. Cir. 1987), quoting Rubber Tire Wheel Co. v. Goodyear Tire and Rubber Co., 232
+
+2
+
+U.S. 413 (1914).
+
+3
+
+The Kessler doctrine is no old and antiquated rule. The Federal Circuit follows it, noting
+
+4
+
+that it “bars a patent infringement action against a customer of a seller who has previously
+
+5
+
+prevailed against the patentee because of … noninfringement of the patent; otherwise, the effect
+
+6
+
+of the prior judgment would be virtually destroyed.” Id. at 734. Indeed, the doctrine was
+
+7
+
+recently recognized in this district. Shoom, Inc. v. Elec. Imaging Sys. of Am., Inc., No. C 07-
+
+8
+
+05612 JSW, 2011 WL 4595212, at *3 (N.D. Cal. Oct. 4, 2011) (recognizing applicability of
+
+9
+
+Kessler doctrine to infringement claim against customer of seller who prevailed in prior
+
+10
+
+infringement action, stating that “[t]he Kessler doctrine also affords a party’s customers a
+
+11
+
+measure of certainty that their decision to purchase or use a product will not be met with
+
+12
+
+litigation”).
+
+13
+
+In Kessler, the patent owner, Eldred, sued Kessler for infringement of a patent related to a
+
+14
+
+cigarette lighter. 206 U.S. at 285, 287–88. After Kessler prevailed in that suit, Eldred then sued
+
+15
+
+one of Kessler’s customers for infringing the same patent, and Kessler assumed the defense of
+
+16
+
+that lawsuit. Id. at 286, 288. To protect its customers, Kessler filed suit against Eldred and
+
+17
+
+obtained an injunction barring Eldred from filing any additional lawsuits for infringement based
+
+18
+
+on the “purchase, use, or sale” of any lighter manufactured by Kessler. Id. at 286. The Supreme
+
+19
+
+Court upheld the injunction on the basis that if Eldred were able to continue to file suits accusing
+
+20
+
+products that did not infringe, “the result will be practically to destroy Kessler’s judgment right.”
+
+21
+
+Id. at 290.
+
+22
+
+Under Kessler, when this Court determined that the Endeca Information Access Platform
+
+23
+
+– the same technology accused here – did not infringe the ’360 patent, that product gained the
+
+24
+
+status of a “noninfringement” and SpeedTrack became barred from bringing an infringement
+
+25
+
+action against Endeca’s customers based on their use of the same, or materially the same, non-
+
+26
+
+infringing Endeca product. When Endeca prevailed in the Walmart action, it earned the right to
+
+27
+
+freely manufacture and sell its non-infringing technology without interference from SpeedTrack.
+
+28
+16
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 23 of 33
+
+1
+
+B.
+
+2
+
+Even though Kessler is a compelling rule that says it is the identity of the product that
+
+There Is Identity of Parties (or their Privies)
+
+3
+
+matters in patent cases, and that res judicata does not require any written contract between the
+
+4
+
+manufacturer and its customer for identity of the parties, in this case, the customers are clearly in
+
+5
+
+privity with Endeca. In Taylor v. Sturgell, the Supreme Court identified six categories of
+
+6
+
+circumstances where nonparty claim preclusion applies. 553 U.S. 880, 893-895 (2008). At least
+
+7
+
+two of the Taylor categories are applicable here: (1) “a nonparty may be bound by a judgment
+
+8
+
+because she was adequately represented by someone with the same interests who was a party to
+
+9
+
+the suit;” and (2) “nonparty preclusion may be justified based on a variety of pre-existing
+
+10
+
+substantive legal relationships between the person to be bound and a party to the judgment.” Id.
+
+11
+
+at 894 (internal citations and quotations removed).
+
+12
+
+Kessler aside, there can be no dispute that the privity element of res judicata is met.
+
+13
+
+Clearly Endeca’s interests in the Walmart case in defending its product against claims of
+
+14
+
+infringement were adequately aligned with the interests of the Endeca customers here as
+
+15
+
+licensees defending against claims of infringement of the same patent for their use of the same
+
+16
+
+Endeca product previously found not to infringe. More importantly, SpeedTrack was a party to
+
+17
+
+the Walmart case and had the opportunity to fully litigate its claims that the Endeca product
+
+18
+
+infringes the ’360 patent, literally or under the doctrine of equivalents.
+
+19
+
+Tellingly, while SpeedTrack now takes issue with whether there is privity here, until the
+
+20
+
+motion to dismiss was filed in response to its Amended Complaint, SpeedTrack contended that
+
+21
+
+the Endeca customers here were in privity with Endeca, based at least in part on the fact that
+
+22
+
+Endeca has agreed to indemnify each of them. (See Dkt. 59 at 7 (“[T]he indemnification facts,
+
+23
+
+once disclosed, will demonstrate that Endeca adequately and fully represented Defendants’
+
+24
+
+interests in the earlier claim construction proceedings and that this Court’s prior rulings,
+
+25
+
+modified by the Federal Circuit’s pronouncements on appeal, will apply.”); id. at 3 (“It is also
+
+26
+
+SpeedTrack’s current understanding (not yet confirmed by discovery) that all four of these
+
+27
+
+defendants were and have been fully indemnified by Endeca.”); id. at 16 (“As currently
+
+28
+
+understood by SpeedTrack (prior to discovery), each Defendant has been and is currently being
+17
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 24 of 33
+
+1
+
+indemnified by Endeca.”); id. at 8 (“SpeedTrack may file a motion seeking a ruling that
+
+2
+
+Defendants are in privity with Endeca and therefore collateral estoppel applies to the Court’s
+
+3
+
+claim constructions and its grant of partial summary judgment on Defendants’ Section 102(a)
+
+4
+
+and 102(b) defenses in the Walmart.com Action.”).)
+
+5
+
+SpeedTrack’s prior “understanding” has now been confirmed by discovery.
+
+6
+
+C.
+
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+SpeedTrack Does Not Dispute that this Court Entered an Earlier
+Judgment on the Merits
+
+There is no dispute that there was an “earlier final judgment on the merits” in the
+Walmart case. See, e.g., Dkt. 61 (Amended Complaint) at ¶ 14. That Final Judgment was not
+only based on SpeedTrack’s claim against Endeca’s customer, but Endeca’s complaint in
+intervention against SpeedTrack, seeking a declaration that its products did not infringe under
+any theory SpeedTrack might have raised.
+D.
+
+SpeedTrack’s Allegations Are Based on the Same Set of Transactional
+Facts as the Walmart Case
+
+In patent infringement cases, the “same set of transactional facts” element focuses on the
+“structure of the device or devices in issue.” Acumed, 525 F.3d at 1324. For claim preclusion to
+apply, the accused product in the second suit must be “essentially the same” as the accused
+product in the first suit. Nystrom v. Trex Co., Inc., 580 F.3d 1281, 1285 (Fed. Cir. 2009); see
+also Young Eng’rs, Inc. v. U.S. Int’l Trade Comm’n, 721 F.2d 1305, 1316 (Fed. Cir. 1983)
+(“[W]here the alleged infringer prevails, the accused devices have the status of noninfringements
+…”). The analysis of whether the two products are “essentially the same” does not focus on
+every conceivable difference between the products. Rather, it focuses on whether the product in
+the second case “remains unchanged with respect to the corresponding claim limitations at issue
+in the first suit.” Nystrom, 580 F.3d at 1285-86 (holding that plaintiff’s infringement claims in
+second suit were barred by res judicata because products in second suit had undergone merely
+“colorable” changes that were unrelated to the non-infringement ruling in the first case).
+Here, the material transactional facts regarding alleged infringement of the ’360 patent
+through each customer’s use of the Endeca product are the same as in the Walmart case. The
+
+28
+18
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 25 of 33
+
+1
+
+First Amended Complaint specifically alleges that the “Endeca Information Access Platform”
+
+2
+
+was accused of infringement in the Walmart case, and was finally adjudicated not to infringe.
+
+3
+
+Dkt. 61 ¶¶ 12-14. The First Amended Complaint also alleges that each Defendant here infringes
+
+4
+
+the ’360 patent based solely on its use of the “Endeca Information Access Platform.” Id. ¶¶ 17-
+
+5
+
+19, 32-34, 47-49, and 62-64. No modified or different product is identified in the Amended
+
+6
+
+Complaint, nor is there any allegation that the accused Endeca technology here is different in any
+
+7
+
+material way from the Endeca technology accused in the Walmart case. Although the Endeca
+
+8
+
+customers may use different version numbers of the Endeca product with different websites and
+
+9
+
+different product inventories, there are no material differences, with regard to the relevant
+
+10
+
+“category description” claim limitations. Here, there is no question that the Endeca customers
+
+11
+
+use the same Endeca software that was accused in the prior case, in materially the same manner
+
+12
+
+that was found not to infringe, resulting in non-descriptive, numeric “dimension value
+
+13
+
+identifiers” or “DVAL_IDs.” Product records generated by the Endeca software, as used by each
+
+14
+
+customer here, and cited by SpeedTrack in support of its opposition to the customers’ earlier
+
+15
+
+motion to dismiss, clearly illustrate the point:
+
+16
+17
+18
+19
+20
+
+Dkt. 84-10 at 8. (PC Connection)
+
+Dkt. 84-11 at 11. (Newegg)
+
+Dkt. 84-12 at 4. (Office Depot)
+
+Dkt. 84-13 at 3. (CDW)
+
+21
+22
+23
+24
+25
+26
+27
+
+There can be no genuine dispute that the material transactional facts with respect to the
+relevant “category description” claim limitations of the asserted patent are identical to those in
+the Walmart action.
+
+28
+19
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 26 of 33
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+E.
+
+SpeedTrack Cannot Avoid Res Judicata by Now Focusing on
+Infringement Under the Doctrine of Equivalents
+
+Res judicata applies not only to “every matter which was offered and received to sustain
+or defeat the claim or demand,” but also to “any other admissible matter which might have been
+offered for that purpose.” Acumed, 525 F.3d at 1323 (emphasis added). Of course, a party
+cannot avoid the effects of res judicata by “splitting” a claim or cause of action into separate
+grounds of recovery, and then raising the separate grounds in successive lawsuits, as SpeedTrack
+attempts here.
+Infringement under the doctrine of equivalents is not a distinct cause of action. The cause
+of action is “infringement.” The doctrine of equivalents is an infringement argument that is
+typically raised when a patentee recognizes there is serious doubt as to literal infringement – but
+the “doctrine of equivalents” infringement claim arises out of the same “nucleus of facts” as the
+literal infringement claim (i.e., the same claim limitations are asserted against the same features
+of the accused products). See, e.g.,Warner-Jenkinson Co., Inc. v. Hilton Davis Chem. Co., 520
+U.S. 17, 21 (1997) (“Under [the doctrine of equivalents], a product or process that does not
+literally infringe upon the express terms of a patent claim may nonetheless be found to infringe if
+there is ‘equivalence’ between the elements of the accused product or process and the claimed
+elements of the patented invention.”) (emphasis added).
+Indeed, the Federal Circuit’s long-recognized “two-step” infringement analysis
+underscores this point. “The determination of infringement is a two-step process, wherein the
+court first construes the claims and then determines whether every claim limitation, or its
+equivalent, is found in the accused device.” Roche Palo Alto LLC v. Apotex, Inc., 531 F.3d 1372,
+1377 (Fed. Cir. 2008) (emphasis added). Infringement, regardless of the arguments advanced by
+the patent owner, is determined under chapter 35 U.S.C. § 271 – and once a court rules that there
+is no infringement, there is no separate statue, and no separate cause of action, for alleging
+infringement under the doctrine of equivalents.
+A party must raise in one lawsuit “all the grounds of recovery arising from a single
+transaction or series of transactions that can be brought together.” Mars Inc. v. Nippon Conlux
+
+28
+20
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 27 of 33
+
+1
+
+Kabushiki-Kaisha, 58 F.3d 616, 619 (Fed. Cir. 1995) (emphasis added). While res judicata may
+
+2
+
+not bar “distinct causes of action” that were not asserted in the prior case, it bars the assertion of
+
+3
+
+“legal theories arising out of the same transactional nucleus of facts” as the prior case. Acumed,
+
+4
+
+525 F.3d at 1326 (emphasis added). Indeed, as the Federal Circuit made clear in Acumed LLC v.
+
+5
+
+Stryker Corp, “‘claims that were raised or could have been raised,’ refers to legal theories arising
+
+6
+
+out of the same transactional nucleus of facts, rather than to distinct causes of action.” Id.
+
+7
+
+Because the accused product here is materially identical to that in the Walmart case, and
+
+8
+
+the patent law issues are identical, SpeedTrack can no more raise a new argument of
+
+9
+
+infringement now (such as alleging infringement under the doctrine of equivalents), than a party
+
+10
+
+that lost on a patent invalidity claim in view of prior art reference A, could file a new lawsuit
+
+11
+
+seeking a declaration of invalidity using a new prior art reference B. When a party loses on a
+
+12
+
+claim, it loses – a regardless of whether there were other arguments it could have made in
+
+13
+
+support of that claim.
+
+14
+
+SpeedTrack was required by the Patent Local Rules to have asserted in its Final
+
+15
+
+Infringement Contentions in the Walmart case the doctrine of equivalents arguments it raises
+
+16
+
+here. Because the doctrine of equivalents is merely an alternative argument for infringement
+
+17
+
+arising out of the same nucleus of facts as “literal” infringement, and is not a distinct cause of
+
+18
+
+action, even if SpeedTrack had never filed its motion in the Walmart case seeking to add a late
+
+19
+
+doctrine of equivalents argument, SpeedTrack would be barred by res judicata from raising that
+
+20
+
+argument now. See Vigil v. Walt Disney Co., No. C-02-4002 MHP, 2003 WL 22016805 (N.D.
+
+21
+
+Cal. Jul. 31, 2003), at *4 (rejecting plaintiff’s attempt to bring new infringement suit against
+
+22
+
+same defendant under doctrine of equivalents alone because “res judicata precludes relitigation
+
+23
+
+of all grounds of recovery that were asserted or could have been asserted in a previous action
+
+24
+
+between the same parties”) (citations omitted) (emphasis added). SpeedTrack cannot use the fact
+
+25
+
+that it tried to assert infringement under the doctrine of equivalents to justify basing an entire
+
+26
+
+new case on that argument. The Court found SpeedTrack to have done so too late in the
+
+27
+
+Walmart case – and that binds it to the final decision entered in the Walmart case.
+
+28
+21
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 28 of 33
+
+1
+
+The fact that SpeedTrack chose not to raise its doctrine of equivalents argument in its Final
+
+2
+
+Infringement Contentions, and then proceeded to wait three years before seeking leave to amend
+
+3
+
+its contentions to add that infringement theory (and inexplicably waited six months after becoming
+
+4
+
+aware of Endeca and Walmart’s additional non-infringement defense based on the “category
+
+5
+
+description” limitation) changes nothing. SpeedTrack made a decision, after it became aware of
+
+6
+
+Endeca and Walmart’s “category description” non-infringement defense, to request that the Court
+
+7
+
+“estop Endeca and Walmart.com from even asserting this [non-infringement] contention under the
+
+8
+
+doctrine of judicial estoppel,” rather than move to amend its contentions. Walmart Dkt. 349, at 8.
+
+9
+
+As the Federal Circuit noted in Nystrom v. Trex Co., Inc., the fact that a party’s “tactical
+
+10
+
+decisions” did not pay off does not create an end-around to res judicata. 580 F.3d at 1286.
+
+11
+
+Simply put, SpeedTrack asserts here the same cause of action against the same Endeca
+
+12
+
+product, used materially in the same way by the Endeca customers here, as was found not to
+
+13
+
+infringe in the Walmart case. Res judicata clearly applies and summary judgment that
+
+14
+
+SpeedTrack is barred from asserting infringement against these customers is appropriate.
+
+15
+
+V.
+
+17
+
+COLLATERAL ESTOPPEL BARS SPEEDTRACK FROM RELITIGATING THE ISSUE OF WHETHER THE ENDECA CUSTOMERS’
+USE OF THE NON-INFRINGING ENDECA PRODUCT INFRINGES THE
+’360 PATENT
+
+18
+
+Collateral estoppel, or issue preclusion, protects defendants from having to litigate issues
+
+16
+
+19
+
+that already have been fully and fairly litigated in a previous action. Pharmacia & Upjohn Co. v.
+
+20
+
+Mylan Pharma., Inc., 170 F.3d 1373, 1379 (Fed Cir. 1999). Collateral estoppel serves to
+
+21
+
+“relieve parties of the cost and vexation of multiple lawsuits, conserve judicial resources, and, by
+
+22
+
+preventing inconsistent decisions, encourage reliance on adjudication.” Allen v. McCurry, 449
+
+23
+
+U.S. 90, 94 (1980).
+
+24
+
+Under Ninth Circuit law, collateral estoppel applies where: (1) the issue necessarily
+
+25
+
+decided at the previous proceeding is identical to the one which is sought to be re-litigated; (2)
+
+26
+
+the first proceeding ended with a final judgment on the merits; and (3) the party against whom
+
+27
+
+collateral estoppel is asserted was a party or in privity with a party in the first proceeding.
+
+28
+
+Hydranautics v. FilmTec Corp., 204 F.3d 880, 885 (9th Cir. 2000). Here, the second and third
+22
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 29 of 33
+
+1
+
+elements warrant little discussion, as there is no dispute (as to the second element) that the
+
+2
+
+Walmart case ended with a final judgment on the merits following the Court’s granting of
+
+3
+
+summary judgment of non-infringement, or (as to the third element) that SpeedTrack was a party
+
+4
+
+in the Walmart case.
+
+5
+
+A.
+
+6
+
+The Issue of Infringement Was Fully and Fairly Litigated in the
+Walmart Case and SpeedTrack Cannot Re-Litigate that Issue Now by
+Advancing a New Infringement Argument
+
+7
+The first collateral estoppel element – whether the issue necessarily decided at the
+8
+previous proceeding is identical to the one sought to be re-litigated – is also met. Where the
+9
+issue sought to be re-litigated is particular to patent law, Federal Circuit law applies. See Aspex
+10
+Eyewear, Inc. v. Zenni Optical, Inc., 713 F.3d 1377, 1380 (Fed. Cir. 2013) (citations omitted).
+11
+The determination of infringement “is a two-step process, wherein the court first construes the
+12
+claims and then determines whether every claim limitation, or its equivalent, is found in the
+13
+accused device.” Roche Palo Alto LLC v. Apotex, Inc., 531 F.3d 1372, 1377 (Fed. Cir. 2008).
+14
+It is well established that collateral estoppel bars a plaintiff from re-litigating the issue of
+15
+infringement in a second action against a product that was previously adjudicated to be non16
+infringing – which is precisely what SpeedTrack is attempting to do here. “[C]ollateral estoppel
+17
+in a patent case prevents a plaintiff who previously litigated a claim that certain technology
+18
+infringed its patent (and lost) from taking ‘another bite at the apple’ by again asserting that the
+19
+same technology infringes the same patent.” Reese v. Verizon California, Inc., No. 2012-1048,
+20
+2012 WL 6634227, *2 (Fed. Cir. 2012) (citing Transocean Offshore Deepwater Drilling, Inc. v.
+21
+Maersk Contractors USA, Inc., 617 F.3d 1296, 1312 (Fed. Cir. 2010)); see also Vigil, 2003 WL
+22
+22016805, at *5 (“Issue preclusion plainly bars a plaintiff from relitigating . . . a claim of
+23
+
+infringement over the very items which were found non-infringing in [a prior action].”).14
+
+24
+25
+26
+27
+28
+
+14
+
+While the accused products in the second case need not be exactly identical to those in the
+previous case for collateral estoppel to apply, that inquiry is unnecessary here, because
+SpeedTrack’s Amended Complaint accuses the same “Endeca Information Access Platform” that
+SpeedTrack accused in the Walmart case and because the Endeca product used by each defendant
+here is materially identical to that at issue in the Walmart case. See, e.g., Home Diagnostics, Inc.
+v. Lifescan, Inc., 120 F. Supp. 2d 864, 868 (N.D. Cal. 2000) (“If a structure in a product is found
+to be identical to a structure in an otherwise different, previously litigated product, the judgment
+23
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 30 of 33
+
+1
+
+Moreover, SpeedTrack is wrong to assert that infringement under the doctrine of
+
+2
+
+equivalents should not be barred by collateral estoppel. Federal courts have determined that, for
+
+3
+
+issue preclusion in patent cases, the “issue” to be given preclusive effect is the determination of
+
+4
+
+an entire, ultimate issue such as infringement or invalidity. An attempt to raise new, individual
+
+5
+
+arguments that may not have been presented for or against the determination of such an ultimate
+
+6
+
+“issue” cannot avoid the preclusive effect of that earlier determination. “[O]nce an issue is
+
+7
+
+raised and determined, it is the entire issue that is precluded, not just the particular arguments
+
+8
+
+raised in support of it in the first case.” Applied Med. Res. Corp. 352 F. Supp. 2d at 1125; see
+
+9
+
+also, Dana v. E.S. Originals, Inc., 342 F.3d 1320, 1325 (Fed. Cir. 2003) (characterizing both
+
+10
+
+validity and infringement as ultimate issues to be given preclusive effect under collateral
+
+11
+
+estoppel); Roche Palo Alto LLC v. Apotex, Inc., 526 F. Supp. 2d 985, 994-995 (N.D. Cal. 2007)
+
+12
+
+(distinguishing, for the purpose of issue preclusion, between an ultimate “issue” and the “specific
+
+13
+
+grounds” asserted to support determination of that issue); Zip Dee, Inc. v. Dometic Corp., 905 F.
+
+14
+
+Supp. 535, 537 (emphasizing the difference “between an issue, in the sense employed by the
+
+15
+
+Restatement [(Second) of Judgments] and by preclusion doctrine generally, and the arguments
+
+16
+
+that a party may advance in its effort to prevail on such an issue”).
+
+17
+
+In the Walmart action, SpeedTrack had the full opportunity to litigate the issue of
+
+18
+
+infringement and present evidence to support its allegation that the Endeca system included
+
+19
+
+infringing “category description” elements under the doctrine of equivalents. SpeedTrack chose,
+
+20
+
+instead, to contend only that they were literally present, and the Court’s final judgment was clear
+
+21
+
+that Endeca’s customer’s use of Endeca software does not infringe because it does not meet the
+
+22
+
+“category description” limitation of the asserted claims. (See Final Judgment; Walmart Dkt. 369
+
+23
+
+at 3.) SpeedTrack cannot now relitigate the issue of infringement, by saying that the missing
+
+24
+25
+26
+27
+28
+
+as to whether that structure meets the relevant claim element must apply to the later litigation to
+avoid repetitive litigation of the same issues.”).
+24
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 31 of 33
+
+1
+
+element was in fact present under the doctrine of equivalents.15 Nor can SpeedTrack avoid
+
+2
+
+preclusion by asserting claim 22 of the ’360 patent.16
+
+3
+
+Every independent claim of the ’360 patent requires the “category description” limitation
+
+4
+
+that proved to be dispositive in the Walmart case. SpeedTrack does not dispute that the
+
+5
+
+construction of “category description” was litigated and stands settled. Nor can SpeedTrack
+
+6
+
+genuinely dispute that the “DVAL_IDs” used by the Endeca software are always numeric
+
+7
+
+identifiers. Accordingly, SpeedTrack’s is barred from relitigating the issue of infringement
+
+8
+
+through the customers’ use of the Endeca software, and summary judgment is appropriate.
+
+9
+
+VI.
+
+CONCLUSION
+
+10
+
+For the reasons stated above, CDW Corporation, Newegg Inc., Office Depot, Inc., and
+
+11
+
+PC Connection respectfully request that the Court enter summary judgment that SpeedTrack’s
+
+12
+
+infringement claims are barred.
+
+13
+14
+
+Dated: December 18, 2013
+
+/s/ Brendan S. Cox
+Lary Alan Rappaport (SBN 087614)
+Joshua J. Pollack (SBN 215922)
+PROSKAUER ROSE LLP
+2049 Century Park East, Suite 3200
+Los Angeles, CA 90067-3206
+
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Respectfully Submitted,
+
+15
+
+Even assuming SpeedTrack could relitigate infringement under the doctrine of equivalents,
+SpeedTrack’s argument is futile. First, it cannot be said that a non-descriptive number is
+“equivalent” to an alphabetic descriptive name. To say otherwise would be logical nonsense and
+would improperly vitiate the required “category description” element of the asserted claims. See,
+e.g., Kruse Tech. P’ship v. Volkswagen AG, No. 2012-1352, 2013 WL 5526526 at *11 (Fed. Cir.
+Oct. 8, 2013). In addition, SpeedTrack is barred from making the argument here, because the
+patentees added a narrowing limitation during prosecution to expressly require that each category
+description comprise a descriptive name and SpeedTrack cannot use the doctrine of equivalents
+to recover surrendered subject matter. See, e.g., Lucent Technologies, Inc. v. Gateway, Inc. 525
+F.3d 1200, 1218 (Fed. Cir. 2008) (citing Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co.,
+535 U.S. 722, 740 (U.S. 2002) (“Narrowing the claims in response to a rejection during
+prosecution creates a presumption that the applicant surrendered the territory between the
+original claims and the amended claims.”)
+16
+
+Where a particular claim construction was “determinative” of non-infringement in a
+first case, and where the accused products in the two cases are “materially identical,”
+collateral estoppel applies to every claim containing that “determinative” claim limitation
+– even claims that were not asserted in the previous case. Aspex Eyewear, Inv. V. Zenni
+Optical, Inc., 713 F.3d at 1381-82 (Fed. Cir. 2013).
+25
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 32 of 33
+
+Telephone: (310) 557-2900
+Facsimile: (310) 557-2193
+lrappaport@proskauer.com
+jpollack@proskauer.com
+
+1
+2
+3
+
+Steven M. Bauer (Admitted Pro Hac Vice)
+Colin G. Cabral (Admitted Pro Hac Vice)
+Joel Cavanaugh (Admitted Pro Hac Vice)
+Brendan S. Cox (Admitted Pro Hac Vice)
+PROSKAUER ROSE LLP
+One International Place
+Boston, MA 02110
+Telephone: (617) 526-9600
+Facsimile: (617) 526-9899
+sbauer@proskauer.com
+ccabral@proskauer.com
+jcavanaugh@proskauer.com
+bcox@proskauer.com
+
+4
+5
+6
+7
+8
+9
+10
+11
+
+Attorneys for Defendants
+Office Depot, Inc., CDW Corp.,
+Newegg Inc., and PC Connection, Inc.
+
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+26
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+Case 4:07-cv-03602-PJH Document 97 Filed 12/18/13 Page 33 of 33
+
+CERTIFICATE OF SERVICE
+
+1
+2
+
+The undersigned hereby certifies that a true and correct copy of the above and
+
+3
+
+foregoing document has been served on December 18, 2013 to all counsel of record who
+
+4
+
+are deemed to have consented to electronic service via the Court’s CM/ECF system. Any
+
+5
+6
+
+other counsel of record will be served by electronic mail, facsimile, U.S. Mail and/or
+overnight delivery.
+
+7
+/s/ Brendan S. Cox
+Brendan S. Cox
+
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+27
+DEFENDANTS’ NOTICE OF MOTION
+AND MOTION FOR SUMMARY JUDGMENT
+
+CASE NO. CV 07-3602 PJH
+
+

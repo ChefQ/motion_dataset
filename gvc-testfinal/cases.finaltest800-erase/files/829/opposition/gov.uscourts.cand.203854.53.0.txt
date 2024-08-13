@@ -1,0 +1,1825 @@
+Case5:08-cv-02738-JF Document53
+
+Filed03/13/09 Page1 of 35
+
+Alan Himmelfarb
+1 KAMBEREDELSON LLC
+2757 Leonis Blvd.
+2 Los Angeles, CA 90058
+(323) 585-8696
+3 ahimmelfarb@kamberedelson.com
+4 COUNSEL FOR PLAINTIFFS
+5
+IN THE UNITED STATES DISTRICT COURT
+
+6
+
+FOR THE NORTHERN DISTRICT OF CALIFORNIA
+
+7
+
+SAN JOSE DIVISION
+
+8
+
+GODDARD, on her own behalf and
+9 JENNA
+on behalf of all others similarly situated,
+10
+Plaintiff,
+11
+
+Case No. C 08-2738 JF (PVT)
+PLAINTIFF’S OPPOSITION TO
+GOOGLE’S MOTION TO DISMISS
+THE FIRST AMENDED COMPLAINT
+
+v.
+
+12 GOOGLE, INC., a Delaware corporation,
+13
+Defendant.
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+Date: April 3, 2009
+Time: 9:00 a.m.
+Judge: The Hon. Jeremy Fogel
+
+Case5:08-cv-02738-JF Document53
+
+Filed03/13/09 Page2 of 35
+
+Table of Contents
+
+1
+2 I.
+3
+4
+
+Google Cannot Assert Section 230 Immunity Because it Aided in
+Development and Itself Participated in the Wrongful Conduct
+Defrauding Consumers ..................................................................................................2
+A.
+
+The Development of an AdWords Campaign is a Collaborative Effort
+Between Google and its Advertiser Partners......................................................3
+
+B.
+
+Google is Not Entitled to Section 230 Immunity for Its Own Actions Of
+Knowingly Steering Consumers to Wrongful Content.......................................8
+
+5
+6
+7
+8 II.
+
+Goddard Has Properly Pleaded Each Cause of Action in her Amended Complaint ....10
+
+9
+
+A.
+
+10
+
+Goddard States a UCL Claim ...........................................................................10
+1.
+
+Goddard Alleges CFAA Violations Under 18 U.S.C. § 1030(a)(4)
+and 18 U.S.C. § 1030(a)(5) ...................................................................12
+
+2.
+
+Goddard Alleges That Google Has Engaged in Monetary Transactions
+in Property Derived from Unlawful Activity in Violation of
+18 U.S.C. § 1957(a) ..............................................................................14
+
+3.
+
+Goddard Has Standing Under the UCL .................................................16
+
+11
+12
+13
+14
+15
+B.
+
+As an Intended Third-Party Beneficiary of Google’s Agreement, Goddard
+Stated a Claim for Breach of Contract..............................................................17
+
+C.
+
+Goddard Stated a Claim for Negligence ...........................................................19
+
+19
+
+D.
+
+Goddard Stated a Claim for Aiding and Abetting.............................................22
+
+20 IV.
+
+Conclusion ...................................................................................................................23
+
+16
+17
+18
+
+21
+22
+23
+24
+25
+26
+27
+28
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+ii
+
+Case5:08-cv-02738-JF Document53
+
+1
+
+Filed03/13/09 Page3 of 35
+
+Table of Authorities
+
+2
+3
+
+United States Circuit Court of Appeals Cases
+
+4 Batzel v. Smith, 333 F.3d 1018 (9th Cir. 2003) .........................................................................5
+5 Ben Ezra, Weinstein, and Co. v. Am. Online, Inc., 206 F.3d 980 (10th Cir. 2000) .............4 n.3
+6 Carafano v. Metrosplash.com, Inc., 339 F.3d 1119 (9th Cir. 2003)..........................................5
+7
+
+Continental Airlines, Inc. v. Mundo Travel Corp., 412 F. Supp. 2d 1059 (E.D. Cal. 2006)....15
+
+8
+9
+
+Creative Computing v. Getloaded.com, LLC, 386 F.3d 930 (9th Cir. 2004) ..................14 n. 10
+
+10 Chicago Lawyers’ Comm. for Civil Rights Under Law v. Craigslist, Inc.,
+519 F.3d 666 (7th Cir. 2008) ..................................................................5
+11
+Green v. Am. Online, Inc., 318 F.3d 465 (3d Cir. 2003) ....................................................4 n. 3
+12
+13 Fair Housing Council of San Fernando Valley v. Roommates.com, LLC,
+521 F.3d 1157 (9th Cir. 2008) ........................................................ 2-6, 8
+14
+In re First Alliance Mortgage, 471 F.3d 977, 995 (9th Cir. 2006) ..........................................22
+15
+16 United States v. Czubinski, 106 F.3d 1069 (1st Cir. 1997)...............................................13 n. 9
+17 United States v. Lo, 231 F.3d 471 (9th Cir. 2000)...................................................................13
+18
+
+United States v. Flores, 454 F.3d 149 (3d Cir. 2006)........................................................ 14-15
+
+19
+United States v. Gabriele, 63 F.3d 61 (1st Cir. 1995) .............................................................15
+20
+21
+
+United States v. Hanley, 190 F.3d 1017 (9th Cir. 1999) .........................................................16
+
+22 United States v. Heredia, 483 F.3d 913 (9th Cir. 2007) ..........................................................15
+23 United States v. Jewel, 532 F. 2d 697 (9th Cir. 1976).............................................................15
+24
+
+United States v. Johnson, 971 F.2d 562 (10th Cir. 1992)..................................................11, 13
+
+25
+26
+
+United States v. Mitra, 405 F.3d 492 (7th Cir. 2005).......................................................10 n. 8
+
+27 United States v. Nguyen, 493 F.3d 613 (5th Cir. 2007)...........................................................15
+28 United States v. Rutgard, 116 F.3d 1270 (9th Cir. 1997) ..................................................11, 16
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+ii
+
+Case5:08-cv-02738-JF Document53
+
+1
+
+Filed03/13/09 Page4 of 35
+
+United States v. Taylor, 239 F.3d 994 (9th Cir. 2001) ............................................................16
+
+2
+3
+
+Univ. Comm’n Sys. v. Lycos, Inc., 478 F.3d 413 (1st Cir. 2007)........................................4 n. 3
+
+4 Zeran v. Am. Online, Inc., 129 F.3d 327 (4th Cir. 1997)....................................................4 n. 3
+5 United States District Court Cases:
+6 Anthony v. Yahoo!, Inc., 421 F. Supp. 2d 1257 (N.D. Cal. 2006) .........................................2, 8
+7
+
+Antoninetti v. Chipotle Mexican Grill, Inc., No. 05-1660,
+2007 WL 2456223 (S.D. Cal. Aug. 23, 2007) .............................14 n. 11
+8
+9 Ass’n of Irritated Residents v. C & R Vanderham Dairy,
+435 F. Supp. 2d 1078, 1089 (E.D. Cal. 2006)..............................14 n. 10
+10
+11 G & C Auto Body, Inc. v. Geico General Ins. Co., No. 06-04898,
+2007 WL 4350907 (N.D. Cal. Dec. 12, 2007) .............................17 n. 13
+12
+13 GW Equity, LLC v. Xcentric Ventures, LLC, No. 07-cv-976-0,
+2009 WL 62173 (N.D. Tex. Jan. 9, 2009) ..............................................5
+14
+Hempstead v. General Fire Extinguisher Corp., 269 F. Supp. 109 (D. Del. 1967)........19 n. 16
+15
+16 HyCite Corp. v. Badbusinessbureau.com, LLC, 418 F. Supp. 2d 1142 (D. Ariz. 2005)....3, 4, 6
+17 In re Ditropan XL Antitrust Litig, 529 F. Supp. 2d 1098 (N.D. Cal. 2007).............................16
+18
+
+Mazur v. Ebay, Inc., No. C 0703967, 2008 WL 618988 (N.D. Cal. March 4, 2008) ........19, 21
+
+19
+20
+
+Sanbrook v. Office Depot, Inc., No. 07-05938,
+2008 WL 1994884 (N.D. Cal. May 5, 2008) ...............................17 n. 13
+
+21
+
+S. Cal. Housing Rights Ctr. v. Los Feliz Towers Homeowners Ass’n,
+426 F. Supp. 2d 1061 (C.D. Cal. 2005) ................................................17
+22
+23 Shurgard Storage Ctrs., Inc. v. Safeguard Self Storage, Inc.,
+119 F. Supp. 2d 1121 (W.D. Wash. 2000)...................................14 n. 10
+24
+25 White v. Trans Union, LLC, 462 F. Supp.2d 1079 (C.D. Cal. 2006) .......................................17
+26 Witriol v. LexisNexis Group, No. 05-02392,
+2006 WL 4725713 (N.D. Cal. Feb. 10, 2006)..............................17 n. 13
+27
+28 800-JR Cigar, Inc. v. Goto.com, Inc., 437 F. Supp. 2d 273 (D. N.J. 2008)...............................9
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+ii
+
+Case5:08-cv-02738-JF Document53
+
+1
+
+Filed03/13/09 Page5 of 35
+
+California State Court Cases:
+
+2
+3
+
+Aas v. Superior Court, 24 Cal. 4th 627, 12 P.3d 1125 (2000).................................................21
+
+4 Adams v. City of Fremont, 68 Cal. App. 4th 243,
+80 Cal. Rptr. 2d 196 (Cal. Ct. App. 1998) ............................................20
+5
+Artiglio v. Corning, Inc., 18 Cal. 4th 604, 957 P.2d 1313 (1998) ...........................................19
+6
+7 Aron v. U-Haul Co. of Cal., 143 Cal. App. 4th 796,
+49 Cal. Rptr. 3d 555 (Cal. Ct. App. 2006) ...................................17 n. 14
+8
+Casey v. U.S. Bank Nat’l Ass’n, 127 Cal. App. 4th 1138, 1145,
+9
+26 Cal. Rptr. 3d 401, 406 (Cal. Ct. App. 2005) ....................................22
+10
+11
+
+Cel-Tech Comm., Inc. v. Los Angeles Cellular Tel. Co.,
+20 Cal. 4th 163, 973 P.2d 527 (1999)...................................................12
+
+12 FNS Mortgage Serv. Corp. v. Pacific Gen. Group, Inc., 24 Cal. App. 4th 1564,
+29 Cal. Rptr. 2d 916 (Cal. Ct. App. 1994) ....................... 19 n. 16, 20-21
+13
+14 Genrty v. eBay, Inc., 99 Cal. App. 4th 816 (Cal. Ct. App. 2002) ..............................................2
+15 Hooker v. Dep’t of Transp., 27 Cal. 4th 198, 38 P.3d 1081 (2002).................................20 n.17
+16
+Hanberry v. Hearst Corp., 276 Cal. App. 2d 680,
+17
+81 Cal. Rptr. 519 (Cal. Ct. App. 1969).................................................21
+18
+
+Johnson v. Superior Court, 80 Cal. App. 4th 1050,
+95 Cal. Rptr. 2d 864 (Cal. Ct. App. 2000) ..................................7 n.5, 18
+19
+20 Korea Supply Co. v. Lockheed Martin Corp., 29 Cal.4th 1134, 63 P.3d 937 (2003).........12, 16
+21
+
+Mukthar v. Latin Am. Sec. Serv., 139 Cal. App. 4th 284,
+42 Cal. Rptr. 3d 563 (Cal. Ct. App. 2006) ............................................20
+22
+23 Orser v. Vierra, 252 Cal. App. 2d 660, 60 Cal. Rptr. 708 (Cal. Ct. App. 1967) .....................22
+24
+
+Paz v. State of California, 22 Cal. 4th 550, 994 P.2d 975 (2000) ...................................21 n.18
+
+25
+26
+27
+28
+
+Schauer v. Mandarin Gems of Cal., Inc., 125 Cal. App. 4th 949,
+23 Cal. Rptr. 3d 233 (Cal. Ct. App. 2005) ............................................18
+Shersher v. Superior Court, 154 Cal. App. 4th 1491,
+65 Cal. Rptr. 3d 634 (Cal. Ct. App. 2007) ............................................12
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+iii
+
+Case5:08-cv-02738-JF Document53
+
+1
+2
+
+Filed03/13/09 Page6 of 35
+
+Wang v. Massey Chevrolet, 97 Cal. App. 4th 856,
+118 Cal. Rptr. 2d 770 (Cal. Ct. App. 2002) ..........................................12
+
+3 United States Statutes:
+4
+
+18 U.S.C. § 1030 (2008) ................................................................................................... 10-14
+
+5
+6
+
+18 U.S.C. § 1956 (2008) .........................................................................................................11
+
+7 18 U.S.C. § 1957 (2008) ...................................................................................................11, 14
+8 47 U.S.C. § 230 (1998) .........................................................................................................3, 4
+9 Fed. R. Civ. P. 9(b) (2007)......................................................................................................15
+10
+
+California Statutes:
+
+11
+12
+
+Cal. Bus. & Prof. Code § 17204 (2008) ..................................................................................17
+
+13 United States Congressional Reports:
+14 H.R. Rep. No. 99-855 (1985) ..................................................................................................11
+15
+
+S. Rep. 99-433 (1985) .............................................................................................................15
+
+16
+Miscellaneous:
+17
+18
+
+Department of Justice, Prosecuting Computer Crimes 25 (2007), at
+http://www.cybercrime.gov/ccmanual/ccmanual.pdf ....................13 n. 9
+
+19
+20
+21
+22
+23
+24
+25
+26
+
+In the infancy of the Internet, Congress sought to preserve the flow of commerce and
+
+27 ideas on this new technology, and passed Section 230 of the Communications Decency Act of
+28
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+iv
+
+Case5:08-cv-02738-JF Document53
+
+Filed03/13/09 Page7 of 35
+
+1 1996 (the “CDA” or “Section 230”). The CDA provides computer services robust protection
+2 against liability premised on the crimes and torts of its users, but that immunity does not
+3 extend to computer services that help to create and develop the offensive content.
+4
+
+Google is a premier Internet site because of its comprehensive search engine that
+
+5 enables consumers to quickly find almost any content on the Internet, and it derives
+6 considerable value from the advertising opportunities that accompany the enormous amount
+7 of web traffic on its site. But Google’s derivation of profit from its web traffic has driven it
+8 to become too involved in the creation and development of its AdWords Program, and in the
+9 steering of traffic to particular AdWords, to credibly claim the immunity of Section 230.
+10
+
+In an attempt to assert the CDA immunity that its own actions have removed, Google
+
+11 moves to dismiss Goddard’s claims, labeling them “conclusory,” “without foundation,”
+12 “outlandish,” and “ludicrous.” 1 Google’s attempt to divert the Court’s focus ignores the facts
+13 demonstrating that Google both participated in the development of the offending AdWords
+14 campaigns and itself created the functions that allow its advertising partners to defraud
+15 consumers. Google cannot regain its Section 230 immunity through mislabeling,
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+1
+
+Several developments since the filing of Google’s Motion to Dismiss bear directly on this case and the
+overarching question of Google’s complicity in the fraudulent advertising it promotes. Shortly after the filing
+of Plaintiff’s initial Complaint, and arguably in response to that filing, the Florida Attorney General began an
+expanded investigation into Google’s involvement in the fraudulent mobile content advertising endemic to its
+search site. After filing its Motion to Dismiss, Google reached an agreement with the Florida Attorney General
+to require Google’s advertisers to disclose pricing information in any AdWords advertisements for mobile
+content. Google sent a letter to its mobile content advertisers requiring all “text and image ads for these
+services to display the price and billing interval (such as per week or per month) in the ad text” and stating that
+Google “will no longer accept text or image ads that don’t contain the price and billing interval when
+promoting mobile content services.” Google admitted to its advertisers that its new content requirements
+“incorporate[e] concerns raised by users and discussions with the Florida Attorney General’s office.” A true
+and accurate copy of that letter is attached hereto as Exhibit A. Google also posted the changed policy on its
+site, a copy of which is attached hereto as Exhibit B, and explicitly states in that policy that Google will "stop
+your ad from running" unless the advertiser makes the changes required by Google. On information and belief,
+most or all of Google’s AdWord advertisements for mobile content immediately made the changes demanded
+by Google and now prominently display the pricing information demanded by Google.
+These new facts will not control the Court’s consideration of this Motion, inasmuch as they are not (and could
+not have been) pled in the Amended Complaint. But they do show Google’s power and willingness to dictate
+actual ad content to its advertisers, which is relevant to this Motion. And as these facts obviously show that
+Google continues to control and dictate the content of advertisements to its advertisers, and show Google’s
+acknowledgement of the fraudulent nature of the mobile content advertising on its site, Plaintiff will seek leave
+to add such allegations to a Second Amended Complaint, regardless of the outcome of this motion.
+
+28
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+1
+
+Case5:08-cv-02738-JF Document53
+
+Filed03/13/09 Page8 of 35
+
+1 misconstruing, and ignoring the allegations of the Amended Complaint, and it is unable to
+2 show that Goddard’s claims are otherwise defective or improperly plead.
+3
+4
+
+Google Cannot Assert Section 230 Immunity Because it Aided in Development
+and Itself Participated in the Wrongful Conduct Defrauding Consumers.
+
+5
+
+Google’s Motion to Dismiss asserts that it is protected by the Section 230(c)
+
+6
+
+I.
+
+immunity given to interactive computer services from wrongful content created by third
+
+7
+parties. See 47 U.S.C. § 230(c). However, Google loses any Section 230 immunity both by:
+8
+9
+
+(a) its actions in participating in, and encouraging the creation of, AdWords campaigns that
+
+10 have defrauded consumers, and (b) manipulating its search engine to steer consumers to
+11 AdWords campaigns it knows are fraudulent and in violation of its own Content Policy. See
+12
+
+Amended Complaint ¶¶ 18-26.
+
+13
+14
+
+Section 230’s “grant of immunity applies only if the interactive computer service
+
+15 provider is also not an ‘information content provider,’ which is defined as someone who is
+16 ‘responsible, in whole or in part, for the creation or development of’ the offending content.”
+17 Fair Housing Council of San Fernando Valley v. Roommates.com, LLC, 521 F.3d 1157, 1162
+18
+
+(9th Cir. 2008) (en banc) (“Roommates II”) (quoting 47 U.S.C. § 230(f)(3)). Google “may
+
+19
+20
+
+simultaneously be both an information content provider and an interactive computer service
+
+21 provider as these categories are not mutually exclusive. Anthony v. Yahoo!, Inc., 421 F.
+22 Supp. 2d 1257, 1263 fn. 6 (N.D. Cal. 2006) (citing Genrty v. eBay, Inc., 99 Cal. App. 4th 816,
+23
+
+833 (2002)). For example, if Google “passively displays content that is created entirely by
+
+24
+third parties, then it is only a service provider with respect to that content. But as to content
+25
+26
+
+that it creates itself, or is responsible, in whole or in part for creating or developing, [Google]
+
+27 is also a content provider.” Roommates II, 521 F.3d at 1162. As alleged in the First
+28 Amended Complaint, Google collaborates with its advertisers to create AdWords
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+2
+
+Case5:08-cv-02738-JF Document53
+
+1
+
+Filed03/13/09 Page9 of 35
+
+advertisements which it knows are misleading, and manipulates the results of its search
+
+2 engine to steer consumer traffic towards those misleading advertisements.
+3
+
+A.
+
+4
+
+Google argues that it is entitled to Section 230 immunity because the Amended
+
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+Complaint asserts no facts showing it contributed directly in developing the wrongful content
+at issue, because it merely provides “neutral tools” to others that use them to commit the
+wrongs complained of in this case. Google’s argument fails, both because it presumes a
+factual finding that its Keyword Tool is “neutral,” and also because it ignores the allegations
+in the Amended Complaint that show that Google directly participated in the development of
+offending AdWords campaigns. Certainly, “providing neutral tools to carry out what may be
+unlawful or illicit does not amount to ‘development’ for the purposes of the immunity
+exception.” Roommates II, 521 F.3d at 1169. However, “[p]roviding immunity every time a
+website uses data initially obtained from third parties would eviscerate the exception to
+section 230 for ‘develop[ing]’ unlawful content ‘in whole or in part.’” Id. (citing 47 U.S.C. §
+230(f)(3)). Accordingly, “the pertinent question is whether users posting on [Google]’s
+website are the sole providers of the allegedly wrongful content, or whether [Google] can be
+considered to have created or developed any of the allegedly wrongful content . . .” at issue in
+this case. HyCite Corp. v. Badbusinessbureau.com, LLC, 418 F. Supp. 2d 1142, 1148 (D.
+Ariz. 2005).
+To ascertain whether someone is a developer of wrongful content, or merely the
+
+21
+22
+23
+24
+
+The Development of an AdWords Campaign is a Collaborative Effort
+Between Google and its Advertiser Partners.
+
+provider of a neutral tool, it is necessary to determine what is—and particularly relevant for
+that matter, what is not—a neutral tool. This is not a determination that can be made in a
+Rule 12(b)(6) motion, 2 but even if it were, the allegations of the Amended Complaint show
+2
+
+Google relies heavily on two Ninth Circuit decisions – Roommates and Carafano – for its conclusion that it
+“cannot be liable for the neutral tools it allegedly provides to its advertiser customers.” Br. at 8. Google
+26 conveniently ignores a basic procedural footing of those cases, however – they were both decided on summary
+judgment, not a Rule 12(b)(6) motion to dismiss. Google here attempts to sidestep fact development and asks
+27 the court to assume the truth of its oft-repeated representation that it does no more than provide “neutral tools.”
+Whether Google’s “tools” are in fact “neutral” cannot be determined in Google’s favor without further factual
+28 development.
+
+25
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+3
+
+Case5:08-cv-02738-JF Document53
+
+Filed03/13/09 Page10 of 35
+
+1 that Google has gone well beyond the provision of “neutral tools” and become a developer, in
+2 part, of the misleading mobile content advertisements at issue in this case.
+3
+
+While websites that passively transmit information provided by others retain Section
+
+4 230 immunity, those that do more become developers, at least in part, of that information.
+5 Several actions and characteristics alleged in the Amended Complaint have resulted in
+6 website operators being found “developers” of content, and unable to assert immunity under
+7 Section 230: The editing of a third party submission in a manner that contributes to alleged
+8 illegality, such as altering the meaning so as to become libelous, is not neutral and not
+9 entitled to immunity. Roommates II, 521 F.3d at 1169. Requiring the input of wrongful
+10 content as a condition of access or condition of doing business is equally not neutral or
+11 protected by Section 230. Id. at 1166. A program or tool that “does more than provides
+12 options,” but offers a “limited set of pre-populated answers” that have the effect of soliciting
+13 unlawful content results in a loss of neutrality and Section 230 immunity. Id. Further,
+14 eliciting wrongful content for a specific use in conducting one’s business goes beyond
+15 providing a neutral framework that can be used for both proper and improper purposes and is
+16 properly considering involvement in the development of that content. Id. at 1172. Finally, a
+17 website’s prompting, encouragement, or solicitation of wrongful content from third parties
+18 can be sufficient to remove Section 230 immunity. Id. fn. 33; 3 see also HyCite, 418 F. Supp.
+19 2d at 1148-49 (considering allegations that a defendant solicited wrongful content with
+20 promises of monetary compensation sufficient to support a finding that the defendant was
+21 responsible, in part, for the development of the information submitted in response to the
+22 solicitation).
+23
+24
+25
+26
+27
+28
+
+3
+
+The Roommates II Court’s analysis of decisions of other circuits supports its statements that encouragement,
+prompting, and solicitation may be sufficient for revoking Section 230 liability. See Univ. Comm’n Sys. v.
+Lycos, Inc., 478 F.3d 413, 420 (1st Cir. 2007) (finding the owner of a message board immune for defamatory
+postings made without any prompting or encouragement); Green v. Am. Online, Inc., 318 F.3d 465 (3d Cir.
+2003) (finding AOL immune comments and malicious software transmitted by third parties through its chat
+room because there were no allegations that AOL solicited or encouraged the posting of the harmful content);
+Ben Ezra, Weinstein, and Co. v. Am. Online, Inc., 206 F.3d 980, 985 (10th Cir. 2000) (finding AOL immune
+for posting inaccurate stock prices where it did not encourage or solicit others to provide inaccurate data);
+Zeran v. Am. Online, Inc., 129 F.3d 327 (4th Cir. 1997) (finding AOL immune from defamatory message board
+posting were it did not solicit or encourage others to post the offending content).
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+4
+
+Case5:08-cv-02738-JF Document53
+
+1
+
+Filed03/13/09 Page11 of 35
+
+In contrast, the actions and website characteristics that have been found “neutral” and
+
+2 subject to immunity, are materially different than what is alleged in the Amended Complaint.
+3 In each instance, a third party initiated an exchange with an interactive computer service and
+4 transmitted or created wrongful conduct without any aid, encouragement, or solicitation from
+5 the website. Examples include: the editing of user submitted content for spelling, obscenity,
+6 and trimming for length (Roommates II, 521 F.3d at 1169 (citing Batzel v. Smith, 333 F.3d
+7 1018 (9th Cir. 2003)); providing an open text prompt on a topic without any imposed
+8 structure, (Id. at 1172 f. 33, 1173-74 (granting immunity for statements displayed in the
+9 “Additional Comments” section because the defendant did not “provide guidance” or what
+10 answers should contain or urge submitting of wrongful content); see also Chicago Lawyers’
+11 Comm. for Civil Rights Under Law v. Craigslist, Inc., 519 F.3d 666, 671-72 (7th Cir. 2008)
+12 (finding that nothing Craigslist offers posters induces third parties to submit actionable
+13 content)); a program that allows a third party to create content through multiple questions
+14 with menu answers, “without prompting or help,” (Roommates II, at 1171 (discussing
+15 Carafano v. Metrosplash.com, Inc., 339 F.3d 1119 (9th Cir. 2003))); and finally, a website
+16 that requires users submitting content to choose a category for their submission from a wide
+17 range of categories, some negative, provides a neutral tool and retains Section 230 immunity
+18 (GW Equity, LLC v. Xcentric Ventures, LLC, No. 07-cv-976-0, 2009 WL 62173, *5 (N.D.
+19 Tex. Jan. 9, 2009)). What has been found in these cases to be a “neutral tool,” stands in stark
+20 contrast to situations where a website has been found a partial developer of offending
+21 content, as Google is alleged to be.
+22
+
+Google’s reliance on Carafano for its “neutral tools” analysis conveniently ignores
+
+23 the Ninth Circuit’s discussion in Roommates II that demonstrates Google’s participation in
+24 the AdWords program goes far beyond what is permitted to retain immunity under Section
+25 230. In Carafano, the Ninth Circuit found that a website’s solicitation of data through a
+26 sixty-two-question questionnaire with drop-down menu responses did not constitute “a
+27 significant role in creating developing, or transforming the relevant information.” Carafano,
+28 339 F.3d at 1125. However, the dating website there only retained its Section 230 immunity
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+5
+
+Case5:08-cv-02738-JF Document53
+
+Filed03/13/09 Page12 of 35
+
+1 because the wrongful content “was created and developed entirely by the malevolent user,
+2 without prompting or help from the website operator.” Roommates II, 521 F.3d at 1171; see
+3 also HyCite, 418 F. Supp. 2d at 1148 (stating that the website in Carafano was immune from
+4 liability for the false content in a dating profile posted on its website because “the critical
+5 information was provided by a third party and the defendant transmitted the information
+6 without alteration.”) Further, the website in Carafano did nothing to “enhance” or
+7 “encourage” the wrongful content or make providing such content any easier for the user.
+8 Roommates II, 521 F.3d at 1172.
+9
+
+The facts alleged in the Amended Complaint demonstrate that Google has never been
+
+10 a passive transmitter of its AdWords advertisers’ information, but has always maintained
+11 considerable involvement in selecting, promoting, and encouraging its partners to develop
+12 misleading ads. (See generally Am. Comp. ¶¶ 14-42, Dkt. No. 49.) At the inception of the
+13 AdWords program, Google charged a monthly fee to develop and manage all aspects of an
+14 advertiser’s account. (Am. Compl. ¶ 17.) Later, in 2005, Google’s “Jumpstart” program
+15 offered AdWords participants a service where Google would draft the ads, choose the
+16 keywords, and set cost-per-click budgets for a flat fee. (Am. Compl. ¶ 18.) Further, Google
+17 personally meets with major advertisers—such as AzoogleAds US, Inc. a/k/a Epic
+18 Advertising, Inc., which has settled governmental investigations about the same deceptive
+19 practices at issue here—to offer advice on ad budgeting, keyword selection, and development
+20 of ad copy. (Am Compl. ¶¶ 20, 26, 30.) 4
+21
+
+At the time Google was meeting with offending mobile content advertisers to provide
+
+22 tailored advice on what keywords would return bigger profits, the clear majority of all search
+23 volume on Google associated with the word “ringtone” became associated with the word
+24 “free.” (Am. Compl. ¶¶ 20, 24.) And, Google was simultaneously steering search traffic to
+25 these very keywords, increasing their cost to advertisers and their profitability for Google.
+26 (Am. Compl., ¶¶ 16, 24). These facts alone are sufficient to demonstrate (or at least infer)
+27
+28
+
+4
+
+And, as discussed in fn.1, supra, Google has now begun to dictate advertising content directly to its
+advertisers, in response to a settlement of its own governmental investigation.
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+6
+
+Case5:08-cv-02738-JF Document53
+
+Filed03/13/09 Page13 of 35
+
+1 that Google directly participated in the alleged wrongs, and show that Google’s fraudulently
+2 suggestive Keyword Tool and manipulation of search results render its ability to claim
+3 Section 230 immunity unsustainable. 5
+4
+
+Although Google attempts to cloak its Keyword Tool with the appearance of
+
+5 neutrality, its use and function demonstrate the bias in its application. Instead of offering a
+6 blank slate for advertisers to develop their own ads, Google offers its assistance with the
+7 inclusion of suggestion tools. (Am. Compl. ¶¶ 21-22.) Google’s tool requires advertisers to
+8 enter words or phrases describing the good or service to be promoted via AdWords, or to
+9 provide Google with a link to the website to which consumers will be directed. (Am. Compl.
+10 ¶ 22.) Next, Google takes the information or web address solicited from its advertising
+11 partners and unilaterally “suggests” alternate keywords that will trigger the appearance of the
+12 ad when searched by consumers. (Am. Compl. ¶ 23.) Google also “suggests” these same
+13 keywords to consumers using its search engine. (Am. Compl. ¶¶ 16, 24) Despite Google’s
+14 knowledge of the magnitude of problems stemming from the lack of disclosure of billing
+15 terms and failure to obtain consumer authorization that is rampant in the mobile content
+16 industry, most of the Keyword Tool’s “suggestions” to advertisers who want to include the
+17 term “ringtone” also include the word “free” – including the overwhelmingly dominant first
+18 suggestion. (Am. Compl. ¶ 23, 30.) Given Google’s knowledge of the mobile content
+19 industry’s unauthorized charge problems, its suggestion of terms known to result in consumer
+20 fraud is neither innocuous nor neutral.
+21
+
+The Keyword Tool’s lack of neutrality is further evidenced by the fact that the clear
+
+22 majority of all search volume on Google associated with the word “ringtone” also is
+23 associated with the word “free.” (Am. Compl. ¶ 24, Ex D.) Although the advertiser must
+24
+
+5
+
+Google claims that Goddard’s claims must fail because the Amended Complaint lacks specific allegations
+stating
+that Google met with advertisers to develop misleading AdWords campaigns or that such a meeting
+25
+resulted in the ad that caused Goddard’s injury. However, given Google’s meeting with such advertisers to
+26 draft ad copy and suggest keywords corresponding directly with the increase in the use of the keyword “free” in
+conjunction with “ringtone,” Goddard is certainly entitled to such an inference at the pleading stage. See
+27 Johnson v. Riverside Healthcare System, LP, 534 F.3d 1116, 1121-22 (9th Cir. 2008) (all well-pleaded factual
+allegations are accepted as true, “as well as any reasonable inferences drawn from them.”).
+
+28
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+7
+
+Case5:08-cv-02738-JF Document53
+
+Filed03/13/09 Page14 of 35
+
+1 ultimately approve Google’s suggestions, mobile content advertisers, almost none of whom
+2 provide genuinely “free” ringtones, have little incentive to disregard Google’s suggestions
+3 and forego advertising on as much as two-thirds of all “ringtone” searches on Google. (Am.
+4 Compl. ¶ 25.) Facing the Hobson’s choice of accepting either Google’s “suggestions” or
+5 drastically reduced revenue, mobile content advertisers have accepted Google’s
+6 “suggestions” to include the keyword “free” along with the keyword “ringtone” in order to
+7 advertise to the majority of “ringtone” searches, whether their products are free or not. (Am.
+8 Compl. ¶ 26.) Accordingly, “[b]y any reasonable use of the English language, [Google] is
+9 ‘responsible’ at least ‘in part’ for each [AdWords campaign], because every such [AdWords
+10 campaign] is a collaborative effort between [Google] and the [advertiser]. Roommates II, 521
+11 F.3d at 1167.
+12
+
+B.
+
+13
+
+Google is Not Entitled to Section 230 Immunity for Its Own Actions Of
+Knowingly Steering Consumers to Wrongful Content.
+
+14
+
+Although Google loses Section 230 immunity for aiding in the development of the
+
+15 offending AdWords campaigns, its latest motion to dismiss ignores the allegations in the
+16 Amended Complaint that Google’s lone act of manipulating its search engine to drive
+17 consumers to the very offending content it “suggests” to its advertisers creates a separate
+18 basis sufficient to strip Google of Section 230 immunity. In Anthony v. Yahoo!, the court
+19 found that although Yahoo! was immune for the content of the profiles created entirely by
+20 third parties, it was not absolved from liability for falsely misrepresenting the dating profiles
+21 of former subscribers to current customers as potential love interests. 421 F. Supp. 2d at
+22 1263. There, Yahoo! was held liable for its use of information given to it by third parties that
+23 it knew as false. Id. The Court in Roommates II applied this same logic to Internet search
+24 engines and found that there is no Section 230 immunity for a search function that is designed
+25 to achieve illegal ends. Roommates II, 521 F.3d at 1167. There, the defendant was “not
+26 entitled to CDA immunity for the operation of its search system” because it was “designed to
+27 steer users based on” the wrongful content at issue, it used wrongful content to “limit the
+28 scope of searches,” and it limited the results of the search based on the wrongful content. Id.
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+8
+
+Case5:08-cv-02738-JF Document53
+
+Filed03/13/09 Page15 of 35
+
+1 And, in 800-JR Cigar, Inc. v. Goto.com, Inc., 437 F. Supp. 2d 273 (D. N.J. 2008), the court
+2 denied Section 230 immunity against consumer fraud claims for a pay-for-priority advertising
+3 service nearly identical to Google’s AdWords program. The court found that immunity did
+4 “not seem to fit” because the alleged fraud in that case was in the bidding process designed
+5 by the defendant, “and not solely the information from third parties that appears on the search
+6 results page.” 437 F. Supp. 2d at 295. The allegations in the Amended Complaint here go
+7 even farther than the facts of Goto.com: here, Plaintiff alleges not only that Google designed
+8 and operates the bidding process that leads to the misleading mobile content ads, but also that
+9 Google works directly with the advertisers themselves to develop those ads. As the Goto.com
+10 Court stated, “it is not the purpose of the [CDA] to shield entities from claims of fraud and
+11 abuse arising from their own pay-for-priority advertising business, rather than from the
+12 actions of third parties.” Id. Based on these cases, Section 230 does not afford Google
+13 immunity if it knowingly used wrongful content in its search function and/or steered
+14 consumers to that wrongful content. 6
+15
+
+In this matter, Google not only “suggests” keywords to advertisers it knows are
+
+16 associated with rampant fraud, it also suggests those same keywords to unsuspecting
+17 consumers, leading them directly to these AdWords campaigns where they, like Goddard, are
+18 deceived. (Am. Compl. ¶ 24, 45-46.) As alleged in the Amended Complaint, when the
+19 search term “ringtone” is entered on Google.com, Google automatically suggests in its drop
+20 down menu numerous variations of the term “ringtone,” several of which contain the word
+21 “free,” such as “ringtones free” and “ringtones free download.” (Am. Compl. ¶ 24.) In
+22 addition, when consumers enter the search term “free,” or even the letters “fr,” one of
+23 Google’s top automatic “suggestions” is “free ringtones.” (Am. Compl. ¶ 24.) These
+24 keyword suggestions to consumers, by driving search traffic to the deceptive AdWord
+25 campaigns, undoubtedly increase the value (in terms of Cost-Per-Click or “CPC” - see
+26
+
+6
+
+To clarify, Goddard is not seeking to hold Google liable for the provision of the main search results returned
+when a consumer performs a search on Google. The allegation of the Amended Complaint, and Google’s
+27 liability are directed specifically at the AdWords displayed based on certain search terms and Google’s
+“suggesting” of terms to consumers to lead them to the wrongful content.
+
+28
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+9
+
+Case5:08-cv-02738-JF Document53
+
+Filed03/13/09 Page16 of 35
+
+1 Amended Complaint, Ex. A, at 1, 6) of those keywords to advertisers; as a result, it is
+2 reasonable to infer that the reason Google suggests these keywords to consumers is to
+3 increase its own advertising revenue from those keywords. Google silence regarding these
+4 allegations of the Amended Complaint in its Motion to Dismiss is a telling concession that
+5 the Amended Complaint makes very clear that Google directly participated in the alleged
+6 illegality.
+7
+
+Google’s suggestion of certain keywords to advertisers and corresponding search
+
+8 suggestions to consumers are especially insidious given the restrictions in its Content Policy
+9 and Advertising Program Terms governing advertising for mobile subscription services. (See
+10 Am. Compl. ¶¶ 27-28.) Google makes public representations that it will not allow
+11 advertising for mobile subscription services which do not, inter alia, “clearly and accurately”
+12 disclose relevant pricing and related information. (Am. Compl. ¶¶ 28-36.) Then, in clear
+13 breach of the terms of its contract, Google substantially aids in developing ads promoting the
+14 very pages it prohibits and steers consumers to those pages ensuring both it and its
+15 advertisers are handsomely compensated. Google cannot hide behind Section 230 to escape
+16 liability for this conduct and its motion seeking immunity should be denied.
+17 II. Goddard Has Properly Pleaded Each Cause of Action in her Amended Complaint.
+18
+
+Recognizing that its Section 230 argument now strains credibility in light of the
+
+19 Amended Complaint, Google nearly 7 repeats its scattershot set of arguments from its initial
+20 Motion to Dismiss that Goddard’s claims are substantively defective. Despite Google’s
+21 misstatements of the law and its failure to acknowledge Goddard’s allegations, it is apparent
+22 that Goddard properly pleaded each cause of action set forth in her Amended Complaint.
+23
+
+A.
+
+24
+
+Goddard alleges that her cellular phone (and those of the rest of the putative class) is a
+
+Goddard States a UCL Claim
+
+25 computer, protected by the CFAA. Cf. 18 U.S.C. § 1030(e)(1) (2008). 8 Goddard alleges that
+26
+
+7
+
+Although Google’s instant Motion to Dismiss states that it has repeated verbatim the text from its initial
+motion; it has made numerous modifications.
+27 8 See United States v. Mitra, 405 F.3d 492, 495 (7th Cir. 2005) (18 U.S.C. § 1030(e)(1) expressly excludes
+“automatic typewriters, typesetters, and handheld calculators”; this demonstrates that CFAA applies to “other
+
+28
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+10
+
+Case5:08-cv-02738-JF Document53
+
+Filed03/13/09 Page17 of 35
+
+1 mobile content providers accessed her and other class members’ cellular phones by sending
+2 her unauthorized mobile content as part of a scheme to fraudulently charge for that content
+3 and to collect such charges as revenue. (Am. Compl. ¶¶ 60-61.) Additionally, these fraudulent
+4 charges forced Goddard and other class members’ to “pay additional fees to maintain their
+5 cellular service, these charges impair the availability of Class members’ access to and
+6 communication with their cellular service.” (Am. Compl. ¶ 62.) Thus, the revenue mobile
+7 content providers derive from these fraudulent mobile content charges are derived from a
+8 “specified unlawful activity.” See 18 U.S.C. § 1957(f)(3) (2008) (same definition from 18
+9 U.S.C. § 1956); 18 U.S.C. § 1957(c)(7)(D) (2008) (definition of “specified unlawful activity”
+10 includes violations of 18 U.S.C. § 1030).
+11
+
+Goddard alleges that Google knows (or consciously avoids knowing) that certain
+
+12 mobile content providers derived all or substantially all of their revenue from fraudulent
+13 mobile content charges, and that payments to Google from these mobile content providers for
+14 advertising services “necessarily represent[s] criminally derived property.” (Am. Compl. ¶¶
+15 64, 66.) Consequently, Google violates 18 U.S.C. § 1957(a) by accepting payments for
+16 advertising services over $10,000 from mobile content providers that are derived from
+17 fraudulent mobile content charges. 18 U.S.C. § 1957(a) prohibits “knowingly engag[ing] in a
+18 monetary transaction in criminally derived property of a value greater than $10,000 [which]
+19 is derived from specified unlawful activity . . .” 18 U.S.C. § 1957(a) (2008). (Cf. Am. Compl.
+20 ¶¶ 65-66) (alleging many if not all of the payments by fraudulent mobile content providers
+21 for advertising services exceed $10,000).)
+22
+
+The legislative history indicates that 18 U.S.C. § 1957(a) was intended to deter crime
+
+23 by prohibiting legitimate businesses from taking criminal proceeds, thereby making criminal
+24 profits “worthless.” H.R. Rep. No. 99-855, at 13 (1985). See also United States v. Rutgard,
+25 116 F.3d 1270, 1291 (9th Cir. 1997) (18 U.S.C. § 1957 “freezes the proceeds of specific
+26 crimes out of the banking system”); United States v. Johnson, 971 F.2d 562, 568 (10th Cir.
+27 devices with embedded processors and software are covered;” “[a]s more devices come to have built-in
+28 intelligence, the effective scope of the statute grows”).
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+11
+
+Case5:08-cv-02738-JF Document53
+
+Filed03/13/09 Page18 of 35
+
+1 1992) (18 U.S.C. § 1957 “criminalize[s] the conduct of those third persons . . . who have
+2 aided [criminals] by allowing them to dispose of the profits of [criminal] activity”). Goddard
+3 seeks to enforce 18 U.S.C. § 1957 here under the UCL’s “unlawful” prong, which “borrows
+4 violations of other laws and treats them as unlawful practices that the unfair competition law
+5 makes independently actionable.” Cel-Tech Comm., Inc. v. Los Angeles Cellular Tel. Co., 20
+6 Cal. 4th 163, 180, 973 P.2d 527, 539-540 (1999) (citation, punctuation omitted). The UCL’s
+7 “unlawful” prong applies to any practice “forbidden by law, be it civil or criminal, federal,
+8 state, or municipal, statutory, regulatory, or court-made,” Wang v. Massey Chevrolet, 97 Cal.
+9 App. 4th 856, 871, 118 Cal. Rptr. 2d 770, 780 (Cal. Ct. App. 2002) (citation, punctuation
+10 omitted). The UCL’s broad scope has been counterbalanced with limited remedies:
+11 injunctive relief and restitution. Korea Supply Co. v. Lockheed Martin Corp., 29 Cal.4th
+12 1134, 1152, 63 P.3d 937, 949 (2003) (UCL reflects a “balance struck . . . between broad
+13 liability and limited relief.”). While the 18 U.S.C. § 1957 may reach into commercial
+14 practices, the UCL self-checks this reach with its limited remedies. Despite Goddard having
+15 clearly set forth the basis for her UCL claim, Google nonetheless argues three separate bases
+16 for dismissal. Each of Google’s arguments for dismissal fails for the reasons detailed below.
+17
+1.
+
+18
+19
+
+Goddard Alleges CFAA Violations Under 18 U.S.C. § 1030(a)(4)
+and 18 U.S.C. § 1030(a)(5)
+
+Google argues that Goddard does not allege violations of 18 U.S.C. § 1030(a)(4) or 18
+
+20 U.S.C. § 1030(a)(5). Google contends that Goddard does not allege “that she was damaged,
+21 harmed, or defrauded by [fraudulent mobile content providers’] alleged access to her cell
+22 phone,” but only that “she was injured because the [mobile content providers] charged for
+23 that access.” (Def.’s Mem. 14) Thus, Google argues, “there is no nexus between the alleged
+24 fraud and damage, on the one hand, and the alleged access to Plaintiff’s cell phone, on the
+25 other.” (Id.)
+26
+
+The infrastructure for mobile content allows mobile content providers to
+
+27 simultaneously transmit mobile content and assess charges against consumers without any
+28 information except a telephone number. (Am. Compl. ¶ 10-11.)
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+12
+
+Case5:08-cv-02738-JF Document53
+
+1
+
+Filed03/13/09 Page19 of 35
+
+Given the manner in which mobile content is billed to customers, [fraudulent
+charges for mobile content are] easy to achieve and difficult to detect. . . . [A
+mobile content provider can transmit mobile content to a telephone number
+without any other authorization information and] cause that consumer to be
+billed for services and products irrespective of whether the consumer actually
+agreed to purchase them and, in the process, cause text messages containing
+“premium” content to be sent to the “subscriber’s” cell phone . . .
+
+2
+3
+4
+
+5 (A. Compl. ¶ 10) (emphasis added). It is reasonable to infer from the Amended Complaint
+6 (and it is the case) that the design of the infrastructure for mobile content also requires
+7 mobile content providers’ transmissions to aggregators (the middlemen between mobile
+8 content providers and cellular carriers) to include both the mobile content which accesses
+9 consumers’ cellular phones and the instructions necessary to charge consumers for the mobile
+10 content. See Johnson, 534 F.3d at 1121-22 (requiring that all well-pleaded factual allegations
+11 be accepted as true, “as well as any reasonable inferences drawn from them.”). Given the
+12 design of the mobile content’s billing infrastructure, the transmission of mobile content to
+13 consumers’ cell phones is a necessary precondition to charging consumers for that mobile
+14 content—making it part and parcel of the fraud.
+15
+
+The mobile content providers’ transmission of mobile content to Goddard’s phones
+
+16 thus plainly violated 18 U.S.C. § 1030(a)(4), which prohibits accessing a computer “and by
+17 means of such conduct furthers the intended fraud and obtains anything of value . . .” 18
+18 U.S.C. § 1030(a)(4) (2008) (emphasis added). Analogizing to mail fraud, computer access
+19 “must occur in the execution of the scheme—that is, as a step in the plot . . . [but] the [access]
+20 need not be an essential element of the scheme. Rather, it is sufficient if the [access] is
+21 incident to an essential part of the scheme.” United States v. Lo, 231 F.3d 471, 478 (9th Cir.
+22 2000). Given mobile content’s billing and transmission infrastructure, the access alleged is
+23 surely incident to an essential part of the scheme (i.e., passing unauthorized charges to
+24 consumers) if not an essential part of the scheme itself. 9 Even in the absence of the billing
+25
+
+9
+
+United States v. Czubinski, 106 F.3d 1069, 1078 (1st Cir. 1997) (violation of 18 U.S.C. § 1030(a)(4) requires
+that access to computer “was valuable [to] a fraudulent scheme”); Department of Justice, Prosecuting Computer
+26 Crimes 25 (2007), at http://www.cybercrime.gov/ccmanual/ccmanual.pdf (“furthers the intended fraud” element
+27 of 1030(a)(4) is met “if a defendant alters . . . records on a computer, and then receives something of value
+from an individual who relied on the accuracy of those . . . records”).
+
+28
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+13
+
+Case5:08-cv-02738-JF Document53
+
+Filed03/13/09 Page20 of 35
+
+1 infrastructure for mobile content, the access alleged in the Complaint furthers the fraud
+2 alleged by providing (to aggregators, carriers, regulators, or any other interested third party)
+3 corroboration that Goddard and other class members got the mobile content they purportedly
+4 paid for. Secondly, Goddard’s allegation that she had to pay fraudulent mobile content
+5 charges to maintain cellular service is sufficient to allege “damage” in violation of 18 U.S.C.
+6 § 1030(a)(5). Again, Goddard’s allegations establish that fraudulent charges for mobile
+7 content were “a result of” the transmission of mobile content. 18 U.S.C. § 1030(a)(5) (2008).
+8 (Am. Compl. ¶ 10.) Moreover, Google’s argument depends on a blinkered construction of the
+9 term “damages” and discards consequential damages—it is not consistent with prior
+10 interpretations of the CFAA in this Circuit. 10
+11
+
+2.
+
+12
+13
+
+Goddard Alleges That Google Has Engaged in Monetary
+Transactions in Property Derived from Unlawful Activity in
+Violation of 18 U.S.C. § 1957(a)
+
+Google’s second argument against Goddard’s UCL claim is that Goddard has not
+
+14 alleged “any facts by which Google could reasonably have possessed the requisite knowledge
+15 that the payments from the [fraudulent mobile content providers] constituted property derived
+16 from a statutorily proscribed act as alleged by Plaintiff.” (Def.’s Mem. 15.) Under the
+17 statute’s plain language, Goddard does not to prove that Google “knew that the offense from
+18 which the criminally derived property was derived was specified unlawful activity.” 18
+19 U.S.C. § 1957(c) (2008). Goddard does not have to show that Google knew that the
+20 fraudulent mobile content providers’ payments were specifically derived from violations of
+21 18 U.S.C. § 1030, only that they were “criminally derived.” 18 U.S.C. § 1957(a) (2008). See,
+22 e.g., United States v. Flores, 454 F.3d 149, 155 (3d Cir. 2006) (defendant’s liability under 18
+23 U.S.C. § 1957(a) only required knowledge that funds originated in some form of unlawful
+24 activity, not that funds specifically originated from narcotics trafficking).
+25
+
+10
+
+Cf. Creative Computing v. Getloaded.com, LLC, 386 F.3d 930, 935 (9th Cir. 2004) (“money [which] must be
+spent to restore or maintain some aspect of a business affected by a [CFAA] violation” constitutes “damages”);
+26 Shurgard Storage Ctrs., Inc. v. Safeguard Self Storage, Inc., 119 F. Supp. 2d 1121, 1127 (W.D. Wash. 2000)
+27 (CFAA’s definition of “damages” covers “subsequent corrective measures the rightful computer owner must
+take to prevent” harms from the CFAA violation).
+
+28
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+14
+
+Case5:08-cv-02738-JF Document53
+
+1
+
+Filed03/13/09 Page21 of 35
+
+Google makes two other assertions that suggest, but do not actually advance,
+
+2 arguments for dismissal. 11 Google asserts that unlawful funds commingled with lawful funds
+3 cannot support liability under section 1957, and that Goddard’s supposedly “unfounded and
+4 overblown [allegation] that ‘all or substantially all’ of [fraudulent mobile content providers’]
+5 revenue . . . was criminally derived” did not adequately state a claim that “Google could have
+6 known that the particular funds it received in payment for advertising space were criminally
+7 derived.” (Def.’s Mem. 15.) First, Goddard is not required to make detailed allegations about
+8 Google’s state of mind. “[K]nowledge . . . and other conditions of a person’s mind may be
+9 alleged generally.” Fed. R. Civ. P. 9(b); see Continental Airlines, Inc. v. Mundo Travel Corp.,
+10 412 F. Supp. 2d 1059, 1068 (E.D. Cal. 2006) (under Rule 9(b), plaintiff did not need to
+11 “plead a basis for its averment regarding [third parties’] states of mind or [defendant’s]
+12 knowledge thereof”). Second, Goddard does allege facts indicating that Google knew that
+13 fraud was endemic in the mobile content industry—such as Google’s perceived need for the
+14 Content Policy and state actions against its largest advertisers. 12 (Am. Compl. ¶¶ 22-27-32.)
+15 Third, Goddard need not prove Google had positive knowledge. Legislative history indicates
+16 that the knowledge element of money-laundering statutes was “intended to be construed . . .
+17 to include instances of ‘willful blindness.’” S. Rep. 99-433, at 9-10 (1985) (citing United
+18 States v. Jewel, 532 F. 2d 697 (9th Cir. 1976)). The Ninth Circuit continues to recognize
+19 Jewel’s willful blindness doctrine, and many other courts have applied that doctrine to 18
+20 U.S.C. § 1957(a) violations. See, e.g., United States v. Heredia, 483 F.3d 913, 918-21 (9th
+21 Cir. 2007); United States v. Nguyen, 493 F.3d 613, 618-19 (5th Cir. 2007); Flores, 454 F.3d
+22 at 154-55; United States v. Gabriele, 63 F.3d 61, 64-67 (1st Cir. 1995).
+23
+
+11
+
+It would be unfair for Google to develop these assertions into substantive arguments in its reply, after
+Goddard had lost the opportunity to respond. Ass’n of Irritated Residents v. C & R Vanderham Dairy, 435 F.
+24 Supp. 2d 1078, 1089 (E.D. Cal. 2006) (where arguments in moving brief are “inadequately developed,” it is
+25 inappropriate for the Court to consider expansions on those arguments in the movant’s reply brief). See also
+Antoninetti v. Chipotle Mexican Grill, Inc., No. 05-1660, 2007 WL 2456223, at *3 (S.D. Cal. Aug. 23, 2007)
+(applying maxim that “arguments not raised by a party in its opening brief are deemed waived”).
+
+26
+
+12
+
+Google’s recent settlement with the Florida Attorney General’s Office, and its related changes to its Mobile
+Ad Policies, will obviously impact these allegations as they provide additional evidence that Google is aware of
+28 the extent of the endemic fraud by its mobile content advertisers. See Ex. A, B.
+
+27
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+15
+
+Case5:08-cv-02738-JF Document53
+
+1
+
+Filed03/13/09 Page22 of 35
+
+Google’s second assertion also fails, as commingling of lawful and unlawful funds
+
+2 only presents an evidentiary matter, not a definitive defense to liability under 18 U.S.C. §
+3 1957(a). Google’s authority only rejected an evidentiary presumption (employed by other
+4 courts) that unlawful proceeds are the first to be withdrawn from a particular account holding
+5 commingled funds. See Rutgard, 116 F.3d at 1192. However, 18 U.S.C. § 1957(a) “cannot
+6 be made wholly ineffective by commingling.” Id. Violations can be proved by “tracing
+7 funds,” proving that an “entire business was a fraud” so that all its funds were unlawful, or
+8 showing that a transaction exhausted all the implicated funds (both lawful and unlawful).
+9 United States v. Hanley, 190 F.3d 1017, 1025 (9th Cir. 1999). The law provides that
+10 Goddard can prove a violation of 18 U.S.C. § 1957(a) by showing that the fraudulent mobile
+11 content providers’ revenue was entirely illicit. See United States v. Taylor, 239 F.3d 994,
+12 998-99 (9th Cir. 2001) (defendant had no lawful revenue to purchase money order or
+13 cashier’s check).
+14
+15
+
+3.
+
+Goddard Has Standing Under the UCL
+
+Finally, Google argues in a stray footnote that Goddard cannot assert a claim for
+
+16 restitution because she alleged that she paid the mobile content providers and not Google, so
+17 that “her failure to allege that Google caused any injury deprives her of standing to assert a
+18 Section 17200 claim against Google.” (Def.’s Mem. 15 n. 10.)
+19
+
+Goddard can recover money from Google as restitution under the UCL if she can trace
+
+20 funds fraudulently taken from her by mobile content providers and paid to Google in
+21 exchange for AdWords. Cf. Korea Supply, 29 Cal. 4th at 1150, 63 P.3d at 947 (finding that
+22 restitution under UCL permits plaintiff to recovered funds if they can be traced to specific
+23 funds in defendant’s possession). “The object of restitution is to restore the status quo by
+24 returning to the plaintiff funds in which he or she has an ownership interest.” Id., 29 Cal. 4th
+25 at 1149, 63 P.3d at 947. However, restitution under the UCL “is not limited only to the
+26 return of money or property that was once in the possession of that person” but is “broad
+27 enough to allow a plaintiff to recover money or property in which he or she has a vested
+28 interest.” Id. (restitution under UCL applies to property obtained through unfair competition
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+16
+
+Case5:08-cv-02738-JF Document53
+
+Filed03/13/09 Page23 of 35
+
+1 from plaintiff who “had an ownership interest in the property or those claiming through that
+2 person”). Restitution’s flexibility – namely, its ability to trace funds through multiple parties
+3 – is borne out in Shersher v. Superior Court, 154 Cal. App. 4th 1491, 65 Cal. Rptr. 3d 634
+4 (Cal. Ct. App. 2007) and In re Ditropan XL Antitrust Litig., 529 F. Supp. 2d 1098 (N.D. Cal.
+5 2007).
+6
+
+Secondly, Google’s argument is not consistent with the plain language of the
+
+7 provisions of the UCL on which it depends. “Actions for any relief pursuant to this chapter
+8 shall be prosecuted exclusively in a court of competent jurisdiction by . . . any person who
+9 has suffered injury in fact and has lost money or property as a result of the unfair
+10 competition.” Cal. Bus. & Prof. Code § 17204 (2008) (emphasis added). Goddard does not
+11 need to state a claim for restitution to have standing under the UCL. 13 Standing under the
+12 UCL “does not require that the [claimed] losses . . . were the product of the defendant’s
+13 wrongful acquisition of the plaintiff's property.” White v. Trans Union, LLC, 462 F. Supp.2d
+14 1079, 1084 (C.D. Cal. 2006). Rather, standing under the UCL extends to plaintiffs who have
+15 “lost money or property” due to a defendant’s UCL violation, even if the money is lost to
+16 someone other than the defendant. 14 Goddard alleges that she lost money because Google
+17 permitted fraudulent mobile content providers to place AdWords on its website and that
+18 Google would not have permitted fraudulent mobile content providers to place AdWords
+19 unless it accepted their tainted funds as payment for advertising, in violation of 18 U.S.C. §
+20 1957(a). (Am. Compl. ¶ 69.) Even if Goddard could not make a claim for restitution under the
+21 UCL, she would still standing for injunctive relief. S. Cal. Housing Rights Ctr. v. Los Feliz
+22 Towers Homeowners Ass’n, 426 F. Supp. 2d 1061, 1069 (C.D. Cal. 2005) (standing where
+23
+24
+25
+26
+27
+28
+
+13
+
+See, e.g., Sanbrook v. Office Depot, Inc., No. 07-05938, 2008 WL 1994884, at *5 (N.D. Cal. May 5, 2008)
+(plaintiff without claim for restitution under UCL still had standing for injunctive remedy under UCL); G & C
+Auto Body, Inc. v. Geico General Ins. Co., No. 06-04898, 2007 WL 4350907, at *3-4 (N.D. Cal. Dec. 12,
+2007) (same; explicitly rejecting argument that claim for restitution is prerequisite for standing under UCL).
+14
+See Aron v. U-Haul Co. of Cal., 143 Cal. App. 4th 796, 802-03, 49 Cal. Rptr. 3d 555, 559 (Cal. Ct. App.
+2006) (plaintiff who alleged “actual economic injury as a result of an unfair and illegal business practice” had
+standing for UCL claim, even though injury was required purchase from non-defendant third party); Witriol v.
+LexisNexis Group, No. 05-02392, 2006 WL 4725713, at *6 (N.D. Cal. Feb. 10, 2006) (plaintiff had standing
+under UCL because defendant’s unauthorized release of his information caused him to incur costs associated
+with monitoring and repairing credit paid to third parties).
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+17
+
+Case5:08-cv-02738-JF Document53
+
+Filed03/13/09 Page24 of 35
+
+1 UCL violations require plaintiff to divert its resources to investigating claim).
+2
+3
+
+B.
+
+As an Intended Third-Party Beneficiary of Google’s Agreement, Goddard
+Stated a Claim for Breach of Contract
+
+Google makes two arguments against Goddard’s breach of contract claim. First,
+4
+Google argues that Goddard cannot be an intended third party beneficiary of Google’s
+5
+Content Policy unless “the Advertising Terms would have to reflect, on their face, an intent
+6
+to benefit Plaintiff.” (Def.’s Mem. 17.) This misstates the law: “[n]o specific manifestation by
+7
+the promisor of an intent to benefit the third person is required.” Schauer v. Mandarin Gems
+8
+of Cal., Inc., 125 Cal. App. 4th 949, 958, 23 Cal. Rptr. 3d 233, 239 (Cal. Ct. App. 2005)
+9
+(punctuation, citation omitted).
+10
+11
+12
+
+[Third-party beneficiaries] need not be identified by name. It is sufficient if
+[they] belong[] to a class of persons for whose benefit the contract was made. .
+. . It is not necessary . . . that the contract be exclusively for the benefit of the
+third party; he need not be the sole or primary beneficiary.
+
+13 Johnson v. Superior Court, 80 Cal. App. 4th 1050, 1064, 95 Cal. Rptr. 2d 864, 873 (Cal. Ct.
+14 App. 2000). The provisions of the Content Policy at issue are clearly intended to protect users
+15 of the mobile content providers’ websites against fraud; the Content Policy requires landing
+16 pages to “clearly and accurately display[] price, subscription, and cancellation information,”
+17 “[p]rominent[] display” of subscription and cancellation information, and explicit measures
+18 to ensure affirmative asset to the Content Policy. (Am. Compl. ¶ 32.) Goddard plainly
+19 “belongs to the class of people for whose benefit” the Content Policy was drafted.
+20
+
+Second, Google argues that Goddard cannot bring a claim as a third-party beneficiary
+
+21 because Google is the promisee (that the mobile content providers will abide by the Content
+22 Policy) while the mobile content providers are the promisors. (Def.’s Mem. 17.) The
+23 Advertising Program Terms (which incorporate the Content Policy) do not allow for such a
+24 characterization:
+25
+26
+27
+28
+
+Google’s Editorial Guidelines are incorporated by reference into its
+Advertising Program Terms:
+Google and Customer hereby agree and acknowledge:
+1. Policies. Program use is subject to all applicable Google and Partner
+policies, including without limitation the Editorial Guidelines
+(adwords.google.com/select/guidelines.html).
+Google, Inc. Advertising Program Terms (Aug. 22, 2006).
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+18
+
+Case5:08-cv-02738-JF Document53
+
+Filed03/13/09 Page25 of 35
+
+1 (Am. Compl. ¶ 31) (emphasis added). In turn, the Editorial Guidelines include Google’s
+2 Content Policy, which contains the language imposing consumer protections against mobile
+3 content fraud. (Am. Compl. ¶ 32.) By their own terms, Advertising Program Terms places
+4 obligations on both Google and its advertisers. 15 Google is a promisor as to the Content
+5 Policy just as much as the mobile content providers are—and its failure to enforce the
+6 Content Policy is a breach of the Advertising Program Terms to the detriment of the Policy’s
+7 intended beneficiary, Goddard.
+8
+
+C.
+
+9
+
+Google argues that “Google can not be found to have assumed a duty to Plaintiff
+
+Goddard Stated a Claim for Negligence
+
+10 unless (1) the Advertising Terms themselves increased the risk of harm or (2) Plaintiff
+11 actually relied upon the Advertising Terms.” (Def.’s Mem. 17-18.) This argument does not
+12 square with California law. Indeed, this Court has found a claim for negligence on virtually
+13 the same set of facts alleged by Goddard: “Plaintiff claims that since eBay guaranteed safety
+14 [in online auctions], they owed a duty of care and were consequently in breach of that duty
+15 when they allowed shill bidding practices to occur. This is sufficient to state a valid claim
+16 [for negligence].” Mazur v. Ebay, Inc., No. C 07 03967, 2008 WL 618988, at *14 (N.D. Cal.
+17 March 4, 2008).
+18
+
+Google does not argue that preventing the fraud which harmed Goddard fell outside
+
+19 the scope of duty created by the Content Policy. Rather, Google contends no duty arises at all
+20 unless “the Advertising Terms themselves increased the risk of harm” to Goddard. (Def.’s
+21 Mem. 18.) This contention reflects an apparent misunderstanding of the law. No one (least of
+22 all California courts) expects the terms of a contract to jump off the page and to start
+23 enforcing themselves (negligently or otherwise). Google blurs the distinction between the
+24 voluntary undertaking manifested by the Content Policy (which triggered Google’s duty of
+25 care) and the subsequent negligent performance of that undertaking (which gave rise to
+26
+
+15
+
+Even if Google argues a different interpretation of the bolded language, it “has far superior bargaining
+power and made both of these representations, [so] any ambiguities ought to be construed against it.” Mazur,
+27 2008 WL 618988, at *13.
+
+28
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+19
+
+Case5:08-cv-02738-JF Document53
+
+Filed03/13/09 Page26 of 35
+
+1 Google’s liability). Cf. Artiglio v. Corning, Inc., 18 Cal. 4th 604, 613-18, 957 P.2d 1313,
+2 1318-21 (1998) (defendant's undertaking to conduct and report silicone toxicology research
+3 in 1940s and 1950s was distinct from sales of silicon medical products beginning in 1962).
+4 Goddard plainly alleges that it is Google’s failure to perform—its failure to enforce the terms
+5 of the Content Policy—caused her injuries. 16
+6
+
+While it is not readily apparent from Google’s brief, it may be that Google meant to
+
+7 argue that its failure to enforce the Content Policy must have increased Goddard’s risk for
+8 Goddard to have state a negligent undertaking claim. But when a defendant altogether fails to
+9 perform its undertaking, the risk to the plaintiff will always be “the same [as] it would have
+10 been” if the defendant had not assumed the undertaking in the first place. (Def.’s Mem. 19.)
+11 Google’s implicit argument is tantamount claiming that California law does not support
+12 negligent undertaking claims against defendants for nonfeasance.
+13
+
+If this was the argument Google intended, it is contrary to California law. Negligent
+
+14 undertaking can take the form of either misfeasance or “an omission or failure to act.”
+15 Adams v. City of Fremont, 68 Cal. App. 4th 243, 293, 80 Cal. Rptr. 2d 196, 228 (Cal. Ct.
+16 App. 1998). 17 In Mukthar v. Latin Am. Sec. Serv., 139 Cal. App. 4th 284, 42 Cal. Rptr. 3d
+17 563 (Cal. Ct. App. 2006), the court found that the plaintiff had a viable negligent undertaking
+18 claim against defendant security guard service which assumed the duty of providing a
+19 security guard but simply failed to do so, which allegedly led to an assault on the plaintiff.
+20 Id., 139 Cal. App. 4th at 290-91, 42 Cal. Rptr. 3d at 567-68. The defendant in Mukthar was
+21 liable even though the plaintiff’s risk was the same as though the defendant had never
+22 assumed a duty to protect the plaintiff. Cf. id., 139 Cal. App. 4th at 292, 42 Cal. Rptr. 3d at
+23
+24
+25
+26
+27
+
+16
+
+Likewise, in Hempstead v. General Fire Extinguisher Corp., 269 F. Supp. 109 (D. Del. 1967), the
+defendant’s “failure . . . to exercise reasonable care in approving the design of the extinguisher has obviously
+increased the risk of harm to plaintiff over that which would have existed if reasonable care had been
+exercised.” Id. at 118 (cited and relied on California cases, including FNS Mortgage Serv. Corp. v. Pacific Gen.
+Group, Inc., 24 Cal. App. 4th 1564, 1572-73, 29 Cal. Rptr. 2d 916, 921-22 (Cal. Ct. App. 1994)).
+17
+“There will be times when a [defendant] will be liable for its omissions. For example, if the [defendant]
+promises to undertake a particular safety measure, then the [defendant’s] negligent failure to do so should result
+in liability if such negligence leads to an . . . injury.” Hooker v. Dep’t of Transp., 27 Cal. 4th 198, 212 n.3, 38
+P.3d 1081, 1090 n.3 (2002).
+
+28
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+20
+
+Case5:08-cv-02738-JF Document53
+
+Filed03/13/09 Page27 of 35
+
+1 568-69 (“it [was] a reasonable inference that the presence of an armed guard in close
+2 proximity to [the plaintiff] would have prevented the assault.”).
+3
+
+Likewise, when a defendant undertakes “to render the service of inspecting pipe
+
+4 manufacturers and delisting those who are unwilling or unable to adhere to [certain]
+5 standards[,] . . . [its] failure to exercise reasonable care [by delisting non-compliant
+6 manufacturers]. . . increases the risk of harm to such consumers from defective pipe that
+7 otherwise would have been removed from the stream of commerce.” FNS Mortgage Serv.
+8 Corp. v. Pacific Gen. Group, Inc., 24 Cal. App. 4th 1564, 1571, 29 Cal. Rptr. 2d 916, 921
+9 (Cal. Ct. App. 1994). 18 Again, the FNS Mortgage defendant was liable even though the
+10 plaintiffs’ risk was the same as though the defendant had never assumed a duty to evaluate
+11 pipe manufacturers. Likewise, Google may be liable on a negligent undertaking claim even if
+12 the risk to Goddard from its failure to enforce the Content Policy is the same as if Google had
+13 never put the Content Policy in place. See also Mazur, 2008 WL 618988, at *14 (also holding
+14 economic loss rule did not apply under Aas v. Superior Court, 24 Cal. 4th 627, 12 P.3d 1125
+15 (2000)). Goddard properly states a negligent undertaking claim by alleging that her injury
+16 arose because Google failed to enforce the Content Policy.
+17
+
+California law gives no support to Google’s argument that Goddard cannot state a
+
+18 negligent undertaking claim without alleging she “relied on—or even read—Google’s
+19 Advertising Terms and Content Policy.” (Def.’s Mem. 18.) Rather, California law supports a
+20 much broader understanding of reliance in this context. Reliance, at least as to a negligent
+21 undertaking claim, can arise from a business relationship between a defendant and a third
+22 party, where the defendant “voluntarily involve[s] itself into the marketing process [and]
+23
+24
+25
+26
+27
+
+18
+
+In Google’s primary supporting authority, Paz v. State of California, 22 Cal. 4th 550, 994 P.2d 975 (2000),
+only concerns the timing of when a duty of care arises from an undertaking. In Paz, the alleged negligence fell
+outside the scope of the duty imposed by the defendant’s undertaking because the “defendants simply did not
+succeed in completing – before plaintiff's collision – a project that might have reduced [a] preexisting hazard . .
+.” Id., 22 Cal. 4th at 560, 994 P.2d at 981. The result in Paz only means that the duty imposed by a defendant’s
+undertaking does not include instantaneously eliminating any preexisting risks of harm the moment the
+undertaking begins. See id., 22 Cal. 4th at 561, 994 P.2d at 982 (relying on case which declined to “charge
+[defendants] with responsibility for preexisting defects [that] would expose them to potential liability for . . .
+the entire project area from the moment they undertook the work”).
+
+28
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+21
+
+Case5:08-cv-02738-JF Document53
+
+Filed03/13/09 Page28 of 35
+
+1 loan[s] its reputation to promote and induce the sale of [the third party’s services.” Hanberry
+2 v. Hearst Corp., 276 Cal. App. 2d 680, 684, 81 Cal. Rptr. 519, 522 (Cal. Ct. App. 1969). “In
+3 voluntarily assuming this business relationship, [a defendant] place[s] itself in the position
+4 where public policy imposes upon it the duty to use ordinary care . . . so that members of the
+5 consuming public who rely on its endorsement are not unreasonably exposed to the risk of
+6 harm.” Id. A plaintiff does not personally rely on an undertaking when the overall market for
+7 the third party’s goods hinges on the third party’s affiliation with the defendant. FNS
+8 Mortgage, 24 Cal. App. 4th at 1571, 29 Cal. Rptr. 2d at 921 (“consumers . . . suffered harm
+9 because of the reliance of local building officials upon [defendant’s] undertakings”). Goddard
+10 states a claim under the negligent undertaking’s reliance prong because she alleges that the
+11 relevant terms of Google’s Content Policy “create[d] the appearance that its search engine is
+12 protecting users’ interests” and “lull[ed] governmental agencies into falsely believing that
+13 Google [was] acting responsibly to prevent rampant fraud and abuse.” (Am. Compl. ¶¶ 41-42.)
+14
+
+D.
+
+15
+
+Google asserts that Goddard’s aiding and abetting claim is defective because Goddard
+
+Goddard Stated a Claim for Aiding and Abetting
+
+16 “failed . . . to allege that Google provided ‘substantial assistance’ . . .” (Def.’s Mem. 19.) The
+17 Complaint flatly contradicts this assertion. Goddard alleges that the AdWords service
+18 Google supplies to fraudulent mobile content providers is “an essential part of [fraudulent
+19 mobile content providers’] scheme [to defraud cellular users], because [the mobile content
+20 providers] could not collect unwitting users’ cellular numbers without Google driving
+21 Internet traffic towards their landing pages.” (Am. Compl. ¶ 91) (emphasis added).
+22
+
+If Google meant to argue that the AdWord services do not, as a matter of law,
+
+23 constitute “substantial assistance,” it is mistaken. “[C]ommon sense tells us that even
+24 ‘ordinary business transactions’ a [defendant] performs for a customer can satisfy the
+25 substantial assistance element of an aiding and abetting claim if the [defendant] actually
+26 knew those transactions were assisting the customer in committing a specific tort.” Casey v.
+27 U.S. Bank Nat’l Ass’n, 127 Cal. App. 4th 1138, 1145, 26 Cal. Rptr. 3d 401, 406 (Cal. Ct.
+28 App. 2005); see also In re First Alliance Mortgage, 471 F.3d 977, 995 (9th Cir. 2006)
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+22
+
+Case5:08-cv-02738-JF Document53
+
+Filed03/13/09 Page29 of 35
+
+1 (financing by investment bank constituted “substantial assistance”). Google’s own case is
+2 distinguishable, because the relevant defendants there escaped liability only because there
+3 was no evidence to support the knowledge element of aiding and abetting. Orser v. Vierra,
+4 252 Cal. App. 2d 660, 669, 60 Cal. Rptr. 708, 715 (Cal. Ct. App. 1967) (“no evidence [that]
+5 even suggests [the aiding and abetting defendants] knew that [the primary defendants] were
+6 shooting firearms in the direction where their shots could hit anyone . . .”). Goddard
+7 adequately alleges both the knowledge and substantial assistance elements of aiding and
+8 abetting.
+9 IV.
+10
+
+Conclusion
+For the reasons stated above, Plaintiff Jenna Goddard respectfully requests that this
+
+11 court deny Google’s Motion to Dismiss in its entirety.
+12
+13
+14
+15
+16
+17 Dated: March 13, 2009
+18
+
+By: /s/ Alan Himmelfarb
+
+19
+
+Alan Himmelfarb
+KAMBEREDELSON LLC
+2757 Leonis Boulevard
+Los Angeles, California 90058
+(323) 585-8696
+ahimmelfarb@kamberedelson.com
+
+20
+21
+22
+
+Jay Edelson
+Myles McGuire
+KAMBEREDELSON LLC
+350 North LaSalle, Ste 1300
+Chicago, Illinois 60654
+(312) 589-6370
+jedelson@kamberedelson.com
+mmcguire@kamberedelson.com
+
+23
+24
+25
+26
+27
+28
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+23
+
+Case5:08-cv-02738-JF Document53
+
+Filed03/13/09 Page30 of 35
+
+Case5:08-cv-02738-JF Document53
+
+Filed03/13/09 Page31 of 35
+
+Case5:08-cv-02738-JF Document53
+
+Filed03/13/09 Page32 of 35
+
+Case5:08-cv-02738-JF Document53
+
+Filed03/13/09 Page33 of 35
+
+Case5:08-cv-02738-JF Document53
+
+Filed03/13/09 Page34 of 35
+
+Case5:08-cv-02738-JF Document53
+
+1
+
+Filed03/13/09 Page35 of 35
+
+PROOF OF SERVICE
+
+I, Alan Himmelfarb, an attorney, certify that on March 13, 2009, I served the attached
+by causing true and accurate copies of such paper to be filed and transmitted to the persons
+3 shown below via the Court’s CM/ECF electronic filing system on this day.
+2
+
+4
+5
+6
+7
+8
+9
+
+Karen Johnson-McKewan
+Kikka N Rapkin
+Nancy E. Harris
+Orrick Herrington & Sutcliffe LLP
+405 Howard Street
+San Francisco, CA 94105
+kjohnson-mckewan@orrick.com
+nrapkin@orrick.com
+nharris@orrick.com
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Case No. C 08-2738 JF (PVT)
+OPPOSITION TO MOTION TO DISMISS
+FIRST AMENDED COMPLAINT
+
+24
+
+

@@ -1,0 +1,1487 @@
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 1 of 38
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+----------------------------------------------------------------------- X
+:
+NML CAPITAL, LTD.,
+:
+: 08 Civ. 6978 (TPG)
+Plaintiff,
+: 09 Civ. 1707 (TPG)
+: 09 Civ. 1708 (TPG)
+- against :
+THE REPUBLIC OF ARGENTINA,
+:
+:
+Defendant.
+:
+------------------------------------------------------------------------ X
+AURELIUS CAPITAL MASTER, LTD. and
+:
+:
+ACP MASTER, LTD.,
+:
+:
+Plaintiffs,
+:
+:
+- against :
+THE REPUBLIC OF ARGENTINA,
+:
+:
+:
+Defendant.
+----------------------------------------------------------------------- X
+:
+AURELIUS OPPORTUNITIES FUND II, LLC
+:
+and AURELIUS CAPITAL MASTER, LTD.,
+:
+:
+Plaintiffs,
+:
+:
+- against :
+:
+THE REPUBLIC OF ARGENTINA,
+:
+:
+Defendant.
+------------------------------------------------------------------------ X
+
+09 Civ. 8757 (TPG)
+09 Civ. 10620 (TPG)
+
+10 Civ. 1602 (TPG)
+10 Civ. 3507 (TPG)
+10 Civ. 3970 (TPG)
+10 Civ. 8339 (TPG)
+
+(captions continue on following pages)
+
+MEMORANDUM OF LAW IN OPPOSITION TO NML’S MOTIONS FOR
+INJUNCTIVE RELIEF PREVENTING THE REPUBLIC FROM SERVICING ITS
+RESTRUCTURED DEBT
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 2 of 38
+
+-------------------------------------------------------------------- X
+BLUE ANGEL CAPITAL I LLC,
+:
+:
+Plaintiff,
+:
+:
+- against :
+:
+THE REPUBLIC OF ARGENTINA,
+:
+:
+Defendant.
+:
+:
+--------------------------------------------------------------------- X
+:
+OLIFANT FUND, LTD.,
+:
+:
+Plaintiff,
+:
+:
+- against :
+:
+THE REPUBLIC OF ARGENTINA,
+:
+:
+Defendant.
+:
+--------------------------------------------------------------------- X
+:
+PABLO ALBERTO VARELA, et al.,
+:
+:
+Plaintiffs,
+:
+:
+- against :
+:
+THE REPUBLIC OF ARGENTINA,
+:
+:
+Defendant.
+--------------------------------------------------------------------- X
+
+10 Civ. 4101 (TPG)
+10 Civ. 4782 (TPG)
+
+10 Civ. 9587 (TPG)
+
+10 Civ. 5338 (TPG)
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 3 of 38
+
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORITIES ..............................................................................................
+
+iii
+
+PRELIMINARY STATEMENT ........................................................................................
+
+1
+
+BACKGROUND ................................................................................................................
+
+4
+
+A.
+
+The Court’s Previous Rejection Of NML’s
+Request For Injunctive Relief..........................................................................
+
+4
+
+B.
+
+The Present Motions........................................................................................
+
+7
+
+C.
+
+The “Me Too” Motions ................................................................................
+
+8
+
+ARGUMENT ......................................................................................................................
+
+10
+
+I.
+
+II.
+III.
+
+THE COURT SHOULD AGAIN REJECT NML’S
+MOTION FOR PERMANENT INJUNCTIVE
+RELIEF PREVENTING THE REPUBLIC FROM
+SERVICING ITS RESTRUCTURED DEBT . ......................................................
+
+10
+
+THE REQUESTED INJUNCTION VIOLATES THE
+FSIA AND APPLICABLE STATE LAW .............................................................
+
+13
+
+NML CANNOT OTHERWISE SATISFY THE
+REQUIREMENTS FOR INJUNCTIVE RELIEF ..................................................
+
+16
+
+A.
+
+NML Has Not Suffered Irreparable Harm And
+Otherwise Has An Adequate Remedy At Law ................................................
+
+17
+
+B. The Balance Of Hardships And Public Interest
+Militate Decidedly In Favor Of Denying NML
+Its Requested Injunctive Relief .....................................................................
+
+21
+
+C.
+IV.
+
+As Previously Demonstrated, NML Misreads The
+Pari Passu Clause And Is Barred By The Doctrine Of Laches .......................
+
+22
+
+NML IS NOT ENTITLED TO A PRELIMINARY
+INJUNCTION PREVENTING THE REPUBLIC
+FROM ALTERING THE WAY IN WHICH IT SERVICES
+ITS RESTRUCTURED DEBT ..............................................................................
+
+23
+
+A.
+
+23
+
+NML Cannot Establish Irreparable Harm .......................................................
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 4 of 38
+
+Page
+B.
+
+NML Is Unable To Demonstrate A Likelihood Of
+Success On The Merits Or The Existence Of Sufficiently
+Serious Questions Going To The Merits .........................................................
+
+25
+
+CONCLUSION ...................................................................................................................
+
+26
+
+ii
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 5 of 38
+
+TABLE OF AUTHORITIES
+Page(s)
+Cases
+Arctic Ocean Int’l Ltd. v. High Seas Ltd.,
+No. 06 Civ. 1056 (LAP), 2009 WL 5103283 (S.D.N.Y. Dec. 28, 2009) ...........................
+
+17
+
+Argentine Republic v. Amerada Hess Shipping Corp.,
+488 U.S. 428 (1989) ............................................................................................................
+
+13
+
+Aurelius Capital Partners LP v. Republic of Argentina,
+584 F.3d 120 (2d Cir. 2009)................................................................................................
+
+13, 15
+
+Aurelius Capital Partners, LP v. Republic of Argentina,
+No. 07 Civ. 2715 (TPG), 2010 WL 2925072 (S.D.N.Y. July 23, 2010) ............................
+
+14
+
+Aurelius Capital Partners, LP v. Republic of Argentina,
+No. 07 Civ. 2715 (TPG), 2010 WL 768874 (S.D.N.Y. Mar. 5, 2010) ...............................
+
+13-14
+
+Bass v. Bass,
+528 N.Y.S.2d 558 (1st Dep’t 1988) ....................................................................................
+
+14
+
+Black United Fund of N.J., Inc. v. Kean,
+763 F.2d 156 (3d Cir. 1985)................................................................................................
+
+19
+
+Buffalo Forge Co. v. Ampco-Pittsburgh Corp.,
+638 F.2d 568 (2d Cir. 1981)................................................................................................
+
+21
+
+Capital Ventures Int’l v. Republic of Argentina,
+282 F. App’x 41 (2d Cir. 2008) ..........................................................................................
+
+13, 24
+
+Caribbean S.S. Co., S.A. v. Sonmez Denizcilik Ve Ticaret A.S.,
+598 F.2d 1264 (2d Cir. 1979)..............................................................................................
+
+22-23
+
+Centauri Shipping Ltd. v. W. Bulk Carriers KS,
+528 F. Supp. 2d 186 (S.D.N.Y. 2007).................................................................................
+
+19
+
+Chan v. Reno,
+991 F. Supp. 266 (S.D.N.Y. 1998)......................................................................................
+
+11
+
+Christianson v. Colt Indus. Operating Corp.,
+486 U.S. 800 (1988) ............................................................................................................
+
+10-11
+
+Citibank, N.A. v. Citytrust,
+756 F.2d 273 (2d Cir. 1985)................................................................................................
+
+20
+
+iii
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 6 of 38
+
+Page(s)
+Citigroup Global Mkts., Inc. v. VCG Special Opportunities Master Fund Ltd.,
+598 F.3d 30 (2d Cir. 2010)..................................................................................................
+
+16
+
+eBay Inc. v. MercExchange, L.L C.,
+547 U.S. 388 (2006) ............................................................................................................
+
+16
+
+EM Ltd. v. Republic of Argentina,
+131 F. App’x 745 (2d Cir. 2005) .......................................................................................
+
+12, 22
+
+EM Ltd. v. Republic of Argentina,
+473 F.3d 463 (2d Cir. 2007)................................................................................................
+
+14
+
+Exelon Generation Co., LLC v. Gen. Atomics Techs. Corp.,
+559 F. Supp. 2d 892 (N.D. Ill. 2008) .................................................................................
+
+20
+
+Grain Traders, Inc. v. Citibank, N.A.,
+160 F.3d 97 (2d Cir. 1998)..................................................................................................
+
+15
+
+Grand River Enter. Six Nations, Ltd. v. Pryor,
+481 F.3d 60 (2d Cir. 2007)..................................................................................................
+
+23
+
+Guinness Harp Corp. v. Jos. Schlitz Brewing Co.,
+613 F.2d 468 (2d Cir. 1980)................................................................................................
+
+16
+
+Haulage Enters. Corp. v. Hempstead Res. Recovery Corp.,
+426 N.Y.S.2d 52 (2d Dep’t 1980) .......................................................................................
+
+17
+
+In re Estate of Zuckerman
+670 N.Y.S.2d 572 (Sur. Ct. 1998).......................................................................................
+
+14
+
+Marine Midland Trust Co. of N. Y. v. Alleghany Corp.,
+28 F. Supp. 680 (S.D.N.Y. 1939)........................................................................................
+
+19
+
+Merit Capital Grp., LLC v. Trio Indus. Mgmt., LLC,
+No. 04 Civ. 7690 (RCC), 2005 WL 53283 (S.D.N.Y. Jan. 10, 2005) ................................
+
+18
+
+N.A.A.C.P. v. Town of E. Haven,
+70 F.3d 219 (2d Cir. 1995)..................................................................................................
+
+17
+
+Nacional Financiera, S.N.C. v. Chase Manhattan Bank, N.A.,
+No. 00 Civ. 1571 (JSM), 2003 WL 1878415 (S.D.N.Y. Apr. 14, 2003) ............................
+
+17
+
+O’Connor v. Donaldson,
+422 U.S. 563 (1975) ............................................................................................................
+
+17
+
+O’Neil v. Poitras,
+551 N.Y.S.2d 92 (4th Dep’t 1990) ......................................................................................
+
+17
+
+iv
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 7 of 38
+
+Page(s)
+Plenum Fin. & Invs. Ltd. v. Bank of Zambia,
+No. 95 Civ. 8350 (KMW), 1995 WL 600818 (S.D.N.Y. Oct. 11, 1995) ...........................
+
+18-19
+
+Pravin Banker Assocs., Ltd. v. Banco Popular del Peru,
+109 F.3d 850 (2d Cir. 1997)................................................................................................ 2-3, 22
+Rossini v. Republic of Argentina,
+No. 11-100-cv, 2011 WL 2600404 (2d Cir. July 1, 2011) .................................................
+
+14
+
+Seijas v. Republic of Argentina,
+352 F. App’x 519 (2d Cir. 2009) ........................................................................................
+
+23
+
+Septembertide Publ’g, B.V. v. Stein & Day, Inc.,
+884 F.2d 675 (2d Cir. 1989)................................................................................................
+
+23
+
+Shipping Corp. of India Ltd. v. Jaldhi Overseas Pte Ltd.,
+585 F.3d 58 (2d Cir. 2009)..................................................................................................
+
+15
+
+Weston Compagnie Finance et D’Investissement, S.A. v. La Republica del Ecuador,
+No. 93 Civ. 2698 (LMM), 1993 WL 267282 (S.D.N.Y. July 14, 1993) ............................
+
+19
+
+Wisdom Import Sales Co., L.L.C. v. Labatt Brewing Co. Ltd.,
+339 F.3d 101 (2d Cir. 2003)................................................................................................
+
+18
+
+Rules and Statutes
+28 U.S.C. § 1610(a) ............................................................................................................
+
+13
+
+N.Y. C.P.L.R. § 5222(b) .....................................................................................................
+
+14-15
+
+U.C.C. § 4-A-503 ................................................................................................................
+
+15
+
+Other Authorities
+96 N.Y. Jur. 2d Specific Performance § 53 ........................................................................
+
+19-20
+
+Philip R. Wood,
+Sovereign State Restructurings and Credit Default Swaps,
+Butterworths J. of Int’l Banking & Fin. L. 559 (2011) .......................................................
+
+10
+
+v
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 8 of 38
+
+Defendant the Republic of Argentina (the “Republic”) submits this memorandum
+of law in opposition to the motion by NML (joined by eighteen “me too” plaintiffs) for
+permanent injunctive relief pursuant to the “pari passu” clause, and to the motion by NML for a
+preliminary injunction.1
+PRELIMINARY STATEMENT
+The present motion by NML (joined by eighteen “me too” plaintiffs) follows this
+Court’s denial of NML’s previous request for injunctive relief in connection with the pari passu
+clause. NML’s latest motion confirms that the “relief” that follows from NML’s reading of the
+pari passu clause is no less than the disruption of all payments to holders of restructured
+Republic-issued debt, who tendered their interests in over $74.5 billion of defaulted debt in the
+Republic’s Exchange Offers, and with it, the destruction of the Republic’s arduously achieved
+restructuring of over 91% of its unsustainable pre-2001 debt burden. Once again, NML seeks to
+exploit the pari passu clause to obtain a remedy that would prevent the Republic’s creditors who
+restructured their debt from receiving property that is rightfully theirs. And while NML insists
+that the pari passu clause requires “equal treatment,” it of course wants to be treated not equally
+with those creditors, but on better terms. Neither law, nor equity, allows such a result. NML’s
+motion must be rejected for the following reasons:
+First, the Court has only five months ago denied NML this precise relief. In the
+prior iteration of its motion, filed in October 2010, NML requested that the Court enjoin the
+Republic from servicing its restructured debt unless it simultaneously paid 100% of the full face
+1
+
+Unless otherwise noted, exhibits are attached to the Declaration of Carmine D. Boccuzzi, dated
+February 1, 2012. The Memorandum of Law in Support of the Renewed Motion of NML Capital,
+Ltd. for Specific Performance of the Equal Treatment Provision, dated January 6, 2012, is cited as
+“NML Br.”; the Memorandum of Law in Support of NML Capital, Ltd.’s Ex Parte Motion for an
+Order to Show Cause Why a Preliminary Injunction Should Not Issue, With a Temporary Restraining
+Order, dated January 3, 2012, is cited as “NML PI Br.”
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 9 of 38
+
+value, plus interest, of NML’s defaulted debt. Although the Court at the September 2011 hearing
+on the motion refused to grant NML such relief, because it would interfere with the Republic’s
+payments to participants in the Exchange Offers, NML now demands that the Court enter an
+identical injunction. The Court was indisputably correct in denying NML its requested
+injunction the first time the matter was before the Court, and there is no reason for it to decide
+differently now.
+Second, NML’s novel injunction is precluded by the FSIA and state law. The
+mandatory injunction that NML seeks – requiring the Republic to pay NML as a condition to its
+paying any owners of interests in performing restructured debt – is directed to Republic actions
+and assets outside of the United States. The Court therefore lacks jurisdiction to enter any such
+injunction. Moreover, to the extent that the proposed order is directed to funds in or passing
+through the United States, both the FSIA and applicable New York law prevent the restraint of
+those funds, because they are not property of the Republic, but belong instead to the holders of
+its restructured debt.
+Third, NML cannot show that it faces irreparable harm in the absence of an
+injunction or that it otherwise lacks an adequate remedy at law. Even though NML has been
+unable to collect payment on its judgments, that does not justify granting it a remedy that is
+wholly unsupported by law, and that would in fact cause substantial harm to other creditors.
+NML cites no case, and we are aware of none, that suggests that payment to one creditor –
+pursuant to consensual and voluntary debt restructurings specifically supported by United States
+policy – constitutes irreparable injury to creditors who chose to reject the restructuring. See
+Pravin Banker Assocs., Ltd. v. Banco Popular del Peru, 109 F.3d 850, 853, 855 (2d Cir. 1997)
+(noting that IMF debt resolution procedures, which are commonly followed and consistent with
+
+2
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 10 of 38
+
+U.S. policy, include voluntary debt restructurings). NML is not injured by the fact that the
+Republic has restructured its debt with creditors who have chosen to do so and is now servicing
+that debt. The lack of irreparable injury, and NML’s intent to cause disruption, is further borne
+out by the facts here: the Republic has been making payments on the restructured performing
+debt for nearly seven years, and it was not until its October 2010 motion – after the two debt
+restructurings in 2005 and 2010 – that NML suddenly began claiming that those payments
+somehow inflicted irreparable injury upon it. NML in fact bought all of the debt upon which it
+bases the present motion with full knowledge that the Republic was servicing its restructured
+debt, and is actively pursuing various enforcement remedies against the Republic.
+Fourth, the balance of hardships and the public interest do not support NML. It
+would not be fair to the defaulted debt holders who tendered over $74.5 billion of their bond
+interests in the Republic’s debt restructuring to stop payments to them. This is all the more so
+given (i) the consistent rulings by this Court that have specifically protected from disruption the
+Republic’s voluntary Exchange Offers that were accepted by owners of over 91% of the
+Republic’s defaulted debt, (ii) the Second Circuit decisions affirming those rulings, and (iii) the
+Second Circuit precedent expressly instructing the Court to take care to craft orders that do not
+interfere with payments to these bondholders. Just as the Republic and other bondholders do not
+have the right to force NML and other holdouts to accept the Republic’s Exchange Offers, so too
+does NML lack the right to interfere with the acceptance by those bondholders of the Exchange
+Offers or their right to receive payments as a result of those Offers.
+Fifth, NML is not entitled to the injunction it seeks for the reasons previously
+raised by the Republic, which for the sake of efficiency it will not repeat here, but which are in
+the record of these cases and which the Republic incorporates here by reference, namely: (i)
+
+3
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 11 of 38
+
+NML’s request for an injunction is barred by the doctrine of laches given its unconscionable
+delay in raising the pari passu issue; and (ii) NML is not entitled to an injunction because its
+reading of the pari passu clause is wrong.2
+Finally, because NML is not entitled to its requested permanent injunction, it is
+also not entitled to the continuation of the preliminary injunction restricting the Republic from
+altering the means by which it services its performing debt. Even if NML were correct
+concerning the meaning of the pari passu clause, and even if it were entitled to the novel,
+destructive permanent injunction it demands, NML would have no right to an order requiring the
+Republic to service its debt in a particular manner. When, in the Rossini action, plaintiffs sought
+an injunction requiring the Republic to engage in capital markets transactions in the United
+States, this Court denied plaintiffs the requested relief, and that ruling was affirmed by the
+Second Circuit. The Court should do the same here.
+BACKGROUND
+A. The Court’s Previous Rejection Of NML’s Request For Injunctive Relief
+The present motion follows NML’s 2010 motions concerning the pari passu
+clause that came (i) almost seven years after the Republic sought an adjudication of NML’s
+erroneous interpretation of the pari passu clause, and NML opposed the Court’s providing such
+an adjudication, (ii) after at least three instances in which NML successfully urged the Court not
+to address the meaning of the pari passu clause because NML said it had no intention of bringing
+a pari passu clause claim, and (iii) after the Republic had successfully restructured over 91% of
+its defaulted debt – more than $74.5 billion – through two Exchange Offers. The participants in
+2
+
+Attached to this brief as Addendum A is a list of the Republic’s prior submissions in connection with
+the construction of the pari passu clause. The Republic is prepared to provide additional copies of
+any materials needed by the Court, but will otherwise refrain from burdening the Court with
+duplicative submissions.
+
+4
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 12 of 38
+
+these Exchange Offers accepted interests in bonds issued at a substantial discount to the face
+amount of their subsequently cancelled original debt (the “Discounted Exchange Bonds”) in
+reliance on the Republic’s promise to pay them on the new debt that they received in exchange.
+Notwithstanding this history, NML belatedly alleged in its 2010 motions that the Republic has
+been in violation of the pari passu clause since 2005, and asked the Court for an injunction
+ordering the Republic to purportedly “restore” NML’s rank by paying NML “ratably” under the
+pari passu clause, and to enforce this injunction by precluding any payments to the holders of the
+Republic’s new debt unless NML was paid in full on its unrestructured debt.
+The Republic opposed NML’s motions, arguing (i) that they were barred by
+laches (ii) that there had been no violation of the pari passu clause under its correct
+interpretation, and (iii) that NML was not otherwise entitled to equitable relief. With respect to
+laches, the Republic pointed out that NML’s motions did not contain any information necessary
+for NML to assert its claim that was unavailable to it in 2005, when the first Exchange Offer was
+made. The payment by the Republic of other creditors, and not NML, has of course been
+occurring since 2005. And Argentine Law 26,017, the so-called “Lock Law” that NML
+repeatedly invoked as the legislative act creating the legal “ranking” forbidden by the pari passu
+clause, had been on the books since February 9, 2005.
+As to the merits of NML’s claims, the Republic noted that the Argentine
+legislation at issue had not subordinated NML’s debt, because the Lock Law, which was enacted
+by the Republic at the express urging of bondholder groups and other bondholder
+representatives, merely prevented the Republic’s executive branch from unilaterally re-opening
+the 2005 Exchange Offer, or otherwise settling with creditors holding defaulted debt, without
+Congressional approval. In conformity with the procedure set forth in the Lock Law, Law
+
+5
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 13 of 38
+
+26,547 – which the Congress enacted on December 9, 2009 – suspended the effects of the Lock
+Law until December 31, 2010 or until the Ministry of Economy declared the second exchange
+offer complete, whichever came first.
+At the September 28, 2011 hearing on NML’s motions, the Court granted NML’s
+motion for summary judgment, but denied NML’s motion for injunctive relief because it would
+have interfered with the Republic’s payments to beneficial owners of Discounted Exchange
+Bonds. The Court quite rightly ruled that it “cannot do something that would prejudice the rights
+and opportunities of the people who want[ed] to make exchanges.” See Sept. 28, 2011 Hr’g Tr.
+at 40:12-14 (Ex. A). The Court also appeared to recognize the fallacious characterization of
+NML’s “pro rata” request to be paid 100% of what it is owed on its defaulted debt because
+beneficial owners of Discounted Exchange Bonds receive “100%” of what they are owed. As
+the Court noted, “[i]t would seem to me that it might be that what would need to be done to
+apply the pari passu clause is to do something, which of course the plaintiffs would not want at
+all, but it would be to give the plaintiffs the same percentage of the face amount of the bonds that
+the exchanges received, because they’re not receiving 100 percent.” Id. at 12:7-13 (Ex. A)
+(emphasis added).
+The Court confirmed its September ruling in an Order entered on December 7,
+2011, in which it held that the Republic violated the pari passu clause when it enacted the
+legislation preventing Argentina’s executive from re-opening the Republic’s 2005 and 2010
+Exchange Offers, or otherwise settling with creditors, without Congressional approval. See
+Order ¶ 6, NML Capital, Ltd. v. Republic of Argentina, No. 08 Civ. 6978 (TPG) (S.D.N.Y. Dec.
+7, 2011). The Court’s December 7 Order, however, broadened its September ruling by finding
+that the Republic also violates the clause whenever it services its restructured debt without
+
+6
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 14 of 38
+
+paying its obligations to NML. Id. ¶ 5. Consistent with the Court’s statements at the September
+hearing concerning its refusal to interfere with payments to beneficial owners of Discounted
+Exchange Bonds, the Court denied NML’s motion for injunctive relief “to permit further
+consideration by the court regarding the means of enforcement” of its Order. Id. ¶ 8.
+B. The Present Motions
+On January 6, 2012, NML submitted a “renewed” motion for injunctive relief in
+which it seeks an Order from the Court compelling the Republic “to specifically perform its
+obligations to NML under [the pari passu clause]” by enjoining the Republic from making
+payments to beneficial owners of its Discounted Exchange Bonds, unless it concurrently pays
+100% of the full face value, plus interest, due to NML on its defaulted debt. See Proposed Order
+¶ 2 (“permanently” requiring the Republic to pay NML a “Ratable Payment” (i.e. 100% of what
+NML is owed) upon “any” payment to owners of interests in 2005 or 2010 issued bonds). This
+renewed motion is no different than NML’s rejected October 2010 request that the Court
+“specifically enforce the [pari passu clause] by issuing an injunction requiring Argentina to pay
+NML ratably if and when it pays bondholders who participated in the 2005 and 2010
+exchanges.” Oct. 20, 2010 NML Pari Passu Mem. at 27. And just as before, NML argues that as
+a result of the Republic’s servicing of its restructured debt, NML is irreparably harmed by the
+loss of its “pari passu status,” that there is no adequate remedy at law because its judgments
+remain unpaid in these actions, and that the balance of the equities and public interest supposedly
+support its requested injunction. See Proposed Order ¶ 1; Oct. 20, 2010 NML Pari Passu Mem.
+at 19-27.
+NML insists that the requested injunctive relief prohibiting the Republic from
+servicing its restructured debt will be effective because the Republic purportedly makes
+
+7
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 15 of 38
+
+payments to holders of Discounted Exchange Bonds in the United States via third party
+intermediary banks that NML assumes will comply with the Proposed Order’s terms, in
+accordance with Rule 65(d)(2). NML Br. at 17. However, the payments targeted by NML have,
+since 2005, taken place outside the United States, and beyond the jurisdiction of the Court.
+Starting in June 2005, the Republic has made regular interest payments on the Discounted
+Exchange Bonds in accordance with the Trust Indenture, dated June 2, 2005 (the “Indenture”),
+between the Republic and The Bank of New York, as trustee for beneficial owners of Discounted
+Exchange Bonds (the “Trustee”): the Republic makes its interest payments to the beneficial
+owners of the Discounted Exchange Bonds when it transfers, outside the United States, the
+required funds to the Trustee. See Indenture § 3.1 (Ex. E); Declaration of Matias Isasa, dated
+February 1, 2012, ¶ 4 (“Isasa Decl.”). Once the Trustee possesses the funds, it holds those
+amounts in trust for the exclusive benefit of the Trustee and the beneficial holders of the
+Discounted Exchange Bonds. Indenture § 3.5(a); Isasa Decl. ¶ 4. Thus any funds in the United
+States are not property of the Republic, but property held in trust for the beneficial owners.
+In connection with its renewed relief motion, NML also requests a preliminary
+injunction preventing the Republic from “altering or amending the processes or specific transfer
+mechanisms” by which it makes payments on the Discounted Exchange Bonds. See Order to
+Show Cause, dated Jan. 3, 2012. Despite the fact that it puts forth no evidence to support such a
+claim, NML speculates that this relief is necessary because “Argentina may attempt to
+restructure its longstanding payment practices in order to undermine the effectiveness” of the
+permanent injunctive relief it seeks. NML PI Br. at 3.
+C. The “Me Too” Motions
+Since NML’s 2010 motions, the unsurprising appearance of “me too” plaintiffs
+has further demonstrated the impropriety of the relief sought. To date, eighteen plaintiffs in
+8
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 16 of 38
+
+thirteen cases, adopting NML’s arguments, have also demanded the exact relief sought by NML.
+See Addendum B.
+On December 13, 2011, the Court entered Orders granting the Varela and
+Aurelius plaintiffs the same declaratory relief that it had granted NML in its December 7 Order.
+See Order, Aurelius Capital Master, Ltd. v. Republic of Argentina, No. 09 Civ. 8757 (TPG)
+(S.D.N.Y. Dec. 13, 2011); Order, Varela v. Republic of Argentina, No. 10 Civ. 5338 (TPG)
+(S.D.N.Y. Dec. 13, 2011). The Varela and Aurelius plaintiffs have now also filed “me too”
+requests for permanent injunctive relief identical in substance to the relief requested by NML.
+See Pls.’ Notice of Mot. for Specific Performance of the Equal Treatment Provision, Aurelius
+Capital Master, Ltd. v. Republic of Argentina, No. 09 Civ. 8757 (TPG) (S.D.N.Y. Jan. 13, 2012);
+Pls.’ Notice of Renewed Mot. for Specific Performance of the Equal Treatment Provision,
+Varela v. Republic of Argentina, No. 10 Civ. 5338 (TPG) (S.D.N.Y. Jan. 11, 2012).
+While the motions for injunctive relief by NML, and the Varela and Aurelius
+plaintiffs were pending, on January 26, 2012 another plaintiff, Olifant Fund, Ltd. (“Olifant”),
+filed additional “me too” motions for declaratory and injunctive relief also adopting in substance
+the arguments set forth in NML’s papers. See Notice of Mot. for Partial Summ. J. and for
+Injunctive Relief Pursuant to the Equal Treatment Provision, Olifant Fund, Ltd. v. Republic of
+Argentina, No. 10 Civ. 9587 (TPG) (S.D.N.Y. Jan 26, 2012). As agreed by the Republic and
+Olifant, these papers will serve as the opposition to Olifant’s motions. Accordingly, these
+opposition papers are being filed in the Olifant action (as well as the actions of other “me too”
+plaintiffs). Unlike the other “me too” plaintiffs, Olifant has not obtained an Order granting the
+declaratory relief concerning the meaning of the pari passu clause set forth in NML’s December
+7 Order and the Aurelius and Varela plaintiffs’ December 13 Orders, and the Republic opposes
+
+9
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 17 of 38
+
+Olifant’s pending motion for summary judgment pursuant to the pari passu clause for the reasons
+set forth in the papers referenced in Addendum B, which are incorporated here by reference. See
+Addendum B.
+In total, creditors holding total claims for defaulted principal and interest in the
+amount of over $3.66 billion now ask the Court, under NML’s unprecedented reading of the pari
+passu clause, to prevent the Republic from making any payments on its restructured debt unless
+it simultaneously pays all they are owed. Were this relief granted, of course all other “hold-out”
+creditors would seek it as well. The Republic’s debt restructuring and, to the extent the Court’s
+ruling were treated as precedent as an interpretation of New York law by a leading New York
+court, any future voluntary debt restructurings of Greece, Spain, Italy or any other country,
+would be essentially rendered impossible.3
+ARGUMENT
+I. THE COURT SHOULD AGAIN REJECT NML’S MOTION FOR PERMANENT
+INJUNCTIVE RELIEF PREVENTING THE REPUBLIC FROM SERVICING ITS
+RESTRUCTURED DEBT
+The Court has already considered and rejected the exact relief now requested by
+NML and thus should do so again here, because NML does not allege any change in
+circumstances, let alone extraordinary circumstances that work any injustice or render incorrect
+the Court’s September 2011 decision. See Christianson v. Colt Indus. Operating Corp., 486 U.S.
+3
+
+See Philip R. Wood, Sovereign State Restructurings and Credit Default Swaps, Butterworths J. of
+Int’l Banking & Fin. L. 559, 661-62 (2011) (“Sovereign issuers who make voluntary offers usually –
+in the absence of a collective action clause – also make a statement that they will not pay those
+bondholders who were eligible to accept the offer but did not accept the offer (Greece did not say this
+originally). If they did not say this, then there would be less incentive on bondholders to accept
+because, if most people did accept, leaving a small rump that did not (almost invariably a tiny
+minority of holders do not accept), then the rump might get paid ahead of the rescheduled
+bondholders who did accept. So the issuer makes a commitment not to give any bondholders a better
+deal than the deal on offer in the voluntary exchange.”); see also US Statement of Interest at 3 (Ex. F)
+(“[T]he United States explicitly recognize[s] the role restructurings must play in resolving sovereign
+debt crises.”).
+
+10
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 18 of 38
+
+800, 817 (1988) (“[A]s a rule courts should be loathe to [revisit prior decisions of its own] in the
+absence of extraordinary circumstances such as where the initial decision was ‘clearly erroneous
+and would work a manifest injustice.’”) (citation omitted); Chan v. Reno, 991 F. Supp. 266, 272
+(S.D.N.Y. 1998) (noting that the “law of the case” doctrine “posits that when a court decides
+upon a rule of law, that decision should continue to govern the same issues in subsequent stages
+in the same case”) (citation and internal quotation marks omitted).
+Although NML labels its motion as one for “specific performance” and not
+injunctive relief, as described in NML’s October 2010 motion, the substance is exactly the same;
+NML once again seeks to disrupt the Republic’s two successful debt restructurings by enjoining
+the Republic (and other third parties) from making payments to beneficial owners of Discounted
+Exchange Bonds, unless NML simultaneously receives 100% of the principal and interest due to
+it. See Proposed Order ¶ 2(d) (enjoining the Republic from “making any payment under the
+terms of the [Discounted] Exchange Bonds without complying with its obligations pursuant to
+the [pari passu clause] by concurrently or in advance making a Ratable Payment to NML”); id.
+¶¶ 2(b)-2(c) (defining “Ratable Payment”). NML thus seeks to jeopardize – indeed, to destroy –
+the rights of the holders of more than 91% of the Republic’s defaulted debt who, in NML’s
+words, “exchange[d] their defaulted bonds for new bonds of substantially less value,” so that
+NML can, in the name of “equal treatment,” compel payment on considerably better terms.
+NML Br. at 5.
+The Court denied NML this precise relief – “an injunction requiring Argentina to
+pay NML ratably if and when it pays bondholders who participated in the 2005 and 2010
+exchanges,” Oct. 20, 2010 NML Pari Passu Mem. of Law at 27 – at the September 28 hearing,
+because “it might [have] interfere[d] with an exchange offer” and “would [have] prejudice[d] the
+
+11
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 19 of 38
+
+rights and opportunities of people who want to make exchanges.” Sept. 28, 2011 Hr’g Tr. at
+40:9-14 (Ex. A); see also id. at 19:17-20 (THE COURT: characterizing the Order requested by
+NML in October 2010 as “telling Argentina, you cannot pay the exchange offer people unless
+you pay . . . the plaintiffs in the lawsuits”). This ruling and its underlying rationale were
+consistent with the Court’s long-held position that “the Republic of Argentina had a right to
+make an exchange offer, and that any bondholders who wished to take that exchange offer had a
+right to take it.” Id. at 39:17-19; see also EM Ltd. v. Republic of Argentina, 131 F. App’x 745,
+747 (2d Cir. 2005) (affirming this Court’s rejection of NML’s attempt to block the Republic’s
+2005 Exchange Offer because it was “obviously of critical importance to the economic health of
+a nation”); Opinion at 5-6, Barboni v. Republic of Argentina, No. 06 Civ. 5157 (TPG) (S.D.N.Y.
+Apr. 26, 2010) (Ex. B) (rejecting creditor’s attempt to enjoin the 2010 Exchange Offer and
+stating that “[a]ll recipients of the exchange offer are treated the same, and that is the way it
+should be”).
+NML’s claim that “the Proposed Order [will not] adversely impact the rights of
+the Exchange Bondholders” because it “is not directed at [them] . . . and does not ask them to
+take any action before or after receiving payment from Argentina” is disingenuous. NML Br. at
+13. The beneficial owners of the Discounted Exchange Bonds have a right to be paid under the
+terms of the bonds, and the Proposed Order plainly prevents them from enjoying that right. As
+NML’s brief makes clear, not only does NML seek to enjoin the Republic from making
+payments on its restructured debt, but it also aims to the block the Republic’s “agents and
+intermediaries,” including banks, from processing those payments to other bondholders under the
+threat of contempt sanctions. See NML Br. at 17. Accordingly, just as it did the first time, the
+Court should reject NML’s invitation to the Court to disrupt payments to those individuals and
+
+12
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 20 of 38
+
+institutions who extinguished their rights under the defaulted debt in exchange for interests in
+Discounted Exchange Bonds of lesser value that the Republic promised to service. See Capital
+Ventures Int’l v. Republic of Argentina, 282 F. App’x 41, 42 (2d Cir. 2008) (instructing the Court
+to “take care to craft [] orders so as to avoid interrupting Argentina’s regular payments to
+bondholders”).
+II. THE REQUESTED INJUNCTION VIOLATES THE FSIA AND APPLICABLE
+STATE LAW
+NML’s requested relief must in any event be rejected because it seeks to enjoin
+the Republic’s use of its assets outside the United States, where they are indisputably immune
+from restraint by United States courts under the FSIA. See Argentine Republic v. Amerada Hess
+Shipping Corp., 488 U.S. 428, 434 (1989) (FSIA is exclusive source of authority for judgment
+creditor’s action to enforce its judgment against sovereign debtor); 28 U.S.C. § 1610(a); Aurelius
+Capital Partners LP v. Republic of Argentina, 584 F.3d 120, 130 (2d Cir. 2009) (sovereign
+property is immune from attachment and execution under the FSIA unless it is located within the
+territorial limits of the United States and is used for a commercial activity in the United States).
+Here, the Republic makes its payments on the Discounted Exchange Bonds
+outside the United States, when it transfers the necessary funds to the Trustee, which then holds
+the funds in trust solely for itself and the beneficial owners of the Discounted Exchange Bonds.
+See Isasa Decl. ¶ 4; Indenture §§ 3.1, 3.5(a) (Ex. E). Once that transfer takes place, the Republic
+has no right to the funds and they are no longer the property of the Republic. See Isasa Decl. ¶ 4;
+Indenture § 3.5(a) (Ex. E). Because the payments and property targeted by NML are located
+outside the United States, they are indisputably beyond the jurisdiction of the Court and outside
+the scope of NML’s requested injunction. See Aurelius Capital Partners, LP v. Republic of
+Argentina, No. 07 Civ. 2715 (TPG), 2010 WL 768874, at *4 (S.D.N.Y. Mar. 5, 2010) (rejecting
+
+13
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 21 of 38
+
+attachment attempt over funds at Citibank Argentina because transaction between the Republic
+and Citibank Argentina took place in Argentina and the funds were therefore immune from
+restraint under the FSIA); Aurelius Capital Partners, LP v. Republic of Argentina, No. 07 Civ.
+2715 (TPG), 2010 WL 2925072, at *4 (S.D.N.Y. July 23, 2010) (finding that the Trust Bonds
+sought to be seized by turnover order were sitused in Argentina and therefore outside scope of
+execution under the FSIA). As the Court has recognized in a ruling confirmed by the Second
+Circuit, the Republic is legally entitled to conduct its affairs in Argentina, and a United States
+court under the FSIA cannot compel the Republic to bring its assets into the United States. See
+Dec. 17, 2010 Hr’g Tr. at 48:16-21 (Ex. C) (THE COURT: [I]f the Republic wishes to structure
+[bond transactions] . . . in Argentina . . . I do not see why they are not legally entitled to do that.);
+Rossini v. Republic of Argentina, No. 11-100-cv, 2011 WL 2600404, at *3 (2d Cir. July 1, 2011).
+Nor are the funds subject to restraint when they enter the United States, because
+they are then, and are at all points thereafter, held in trust for the beneficial owners of the
+Discounted Exchange Bonds. See Isasa Decl. ¶ 4; In re Estate of Zuckerman, 670 N.Y.S.2d 752,
+753 (Sur. Ct. 1998) (“[A]n essential characteristic of a trust is that the trustee holds title to the
+corpus.”). Under black letter law, a creditor may not execute upon or otherwise interfere with
+property that does not belong to the debtor. See EM Ltd. v. Republic of Argentina, 473 F.3d 463,
+476 n.13 (2d Cir. 2007) (A “party seeking to enforce a judgment . . . . cannot reach . . . assets in
+which the judgment debtor has no interest.”) (citation and internal quotation marks omitted); see
+also Bass v. Bass, 528 N.Y.S.2d 558, 560-61 (1st Dep’t 1988) (“CPLR 5201(b) provides that a
+judgment may be enforced [only] against any property which could be assigned or transferred,
+that is, property that the judgment debtor has the power to assign or transfer.”) (citation and
+internal quotation marks omitted); N.Y. C.P.L.R. § 5222(b) (“A restraining notice served upon a
+
+14
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 22 of 38
+
+person other than the judgment debtor or obligor is effective only if, at the time of service, he or
+she owes a debt to the judgment debtor or obligor or he or she is in the possession or custody of
+property in which he or she knows or has reason to believe the judgment debtor or obligor has an
+interest”); see also Aurelius Capital Partners, 584 F.3d at 131 (“[B]efore the [assets] at issue
+could be subject to attachment, the funds in the hands of the Republic must have been ‘used for a
+commercial activity’” (in the United States)) (emphasis added). Funds that formerly belonged to
+the Republic, but no longer do at the time they enter the United States, thus cannot be executed
+on or otherwise restrained by a creditor of the Republic.
+The same result follows under Article 4-A of the U.C.C., which determines the
+rights, duties and liabilities of parties involved in the funds transfer process. See Grain Traders,
+Inc. v. Citibank, N.A., 160 F.3d 97, 102-03 (2d Cir. 1998). Under Article 4-A, a court may only
+restrain (i) an originator from issuing a payment order; (ii) an originator’s bank from executing
+the payment order; or (iii) a beneficiary’s bank from releasing the funds to the beneficiary or the
+beneficiary from withdrawing the funds. Outside of these three scenarios, “[a] court may not . . .
+restrain a person from issuing a payment order, paying or receiving payment of a payment order,
+or otherwise acting with respect to a funds transfer.” U.C.C. § 4-A-503. Here, the “originator”
+is the Republic, whose actions and property outside the United States cannot be restrained under
+the FSIA. The beneficiary of the transfer is not the Republic, but the holders of its restructured
+debt, and once the funds are in the United States they do not belong to the Republic, and may not
+be interfered with in the hands of any intermediary bank. See Shipping Corp. of India Ltd. v.
+Jaldhi Overseas Pte Ltd., 585 F.3d 58, 71 (2d Cir. 2009) (“Because [electronic fund transfers] in
+the temporary possession of an intermediary bank are not property of either the originator or the
+beneficiary under New York law, they cannot be subject to attachment”). Accordingly, once the
+
+15
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 23 of 38
+
+funds are transferred into the United States, statutory law prevents the Republic’s creditors from
+disrupting their path.
+III.
+
+NML CANNOT OTHERWISE SATISFY THE REQUIREMENTS FOR
+INJUNCTIVE RELIEF
+NML’s motion also fails because, even if its requested injunction were otherwise
+
+proper, which it is not, NML cannot establish (i) that NML has suffered irreparable harm, (ii)
+that remedies available at law, such as monetary damages, are inadequate compensation, or (iii)
+that the balance of hardships or public interest tilts decidedly in its favor. See eBay Inc. v.
+MercExchange, L.L.C., 547 U.S. 388, 391 (2006).4 This is a particularly high bar for NML to
+meet here, where it seeks a “mandatory” injunction to “alter the status quo by commanding some
+positive act, as opposed to a ‘prohibitory’ injunction seeking only to maintain the status quo.”
+Citigroup Global Mkts., Inc. v. VCG Special Opportunities Master Fund Ltd., 598 F.3d 30, 35
+n.4 (2d Cir. 2010) (internal quotation marks and citation omitted). Here, of course, the
+mandatory nature of the requested injunction is demonstrated by the fact that it requires the
+Republic to take the affirmative step of paying NML when it services its restructured debt.
+Accordingly, NML must meet the more stringent requirements for a mandatory injunction, i.e.,
+make a “‘clear showing that [it] is entitled to the relief requested, or [that] extreme or very
+serious damage will result from a denial of preliminary relief.’” Id. Given these principles, it is
+
+4
+
+Because the requirements for specific performance overlap with those for injunctive relief, to the
+extent the Court determines that the test for the former applies here, the Republic satisfies that
+standard as well for all the reasons set forth below. See e.g., Guinness Harp Corp. v. Jos. Schlitz
+Brewing Co., 613 F.2d 468, 473 (2d Cir. 1980) (specific performance requires (i) that “there is no
+adequate monetary remedy,” (ii) that the balance of equities favors specific performance, and (iii) that
+the public interest favors the remedy).
+
+16
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 24 of 38
+
+unsurprising that no court has ever issued the relief sought by NML, and that NML manifestly
+fails to satisfy the strict requirements entitling it to its requested injunction here.5
+A. NML Has Not Suffered Irreparable Harm And Otherwise Has An Adequate Remedy
+At Law
+NML’s motion must be denied because it is pursuing “actions involving breach
+of contract where [it] ha[s] an adequate remedy at law.” O’Neil v. Poitras, 551 N.Y.S.2d 92, 93
+(4th Dep’t 1990). See also N.A.A.C.P. v. Town of E. Haven, 70 F.3d 219, 224 (2d Cir. 1995);
+Arctic Ocean Int’l Ltd. v. High Seas Ltd., No. 06 Civ. 1056 (LAP), 2009 WL 5103283, at *1
+(S.D.N.Y. Dec. 28, 2009). Where a plaintiff’s injury could be “fully redressed by monetary
+damages as exemplified by the cause of action . . . for breach of contract,” it is black letter law
+that the irreparable harm and inadequacy of a legal remedy required for an injunction do not
+exist. See Haulage Enters. Corp. v. Hempstead Res. Recovery Corp., 426 N.Y.S.2d 52 (2d Dep’t
+1980). Here, NML has alleged, and indeed has prevailed on, claims for breach of contract
+arising from the Republic’s nonpayment of principal and interest for which it desires
+recompense. Because that injury is remediable by a damages remedy, NML is not entitled to an
+injunction under the most basic principles of contract law.
+
+5
+
+The unprecedented nature of NML’s requested injunction is demonstrated by the lengths to which
+NML must go to find any caselaw that remotely supports its application. See NML Br. at 12-13.
+Judge Martin’s passing reference to hypothetical injunctive relief in Nacional Financiera, S.N.C. v.
+Chase Manhattan Bank, N.A., No. 00 Civ. 1571 (JSM), 2003 WL 1878415 (S.D.N.Y. Apr. 14, 2003),
+is dicta. In any event, that decision does not help NML, because Judge Martin noted that the pari
+passu clause is only relevant in “insolvency proceedings,” which of course do not exist in the
+sovereign context, where instead all parties must rely on voluntary debt restructurings, which the
+Republic offered to all its creditors on equal terms. NML is also not helped by its invocation of a
+California district court’s unpublished order that appears to have in fact implicitly denied the
+plaintiff’s motion for specific performance, and which neither refers to a pari passu clause, nor
+contains any legal reasoning whatsoever. See Order, Red Mountain Finance, Inc. v. Democratic
+Republic of Congo, No. CV 00-0164 R (BQRx) (C.D.Cal. May 29, 2001). What little precedential
+value that order ever had terminated when the court later vacated its ruling in a subsequent order. See
+O’Connor v. Donaldson, 422 U.S. 563, 577 n.12 (1975) (“Of necessity our decision vacating the
+judgment of the Court of Appeals deprives that court’s opinion of precedential effect”).
+
+17
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 25 of 38
+
+NML’s central argument to the contrary, that the pari passu clause must “entitle[]
+NML to more than payments of principal and interest,” because “NML would be entitled to those
+payments regardless of the [pari passu clause],” NML Br. at 9, proves too much. Under that
+logic, NML would be entitled to an injunction or grant of specific performance enforcing every
+“non-monetary” provision in the Republic’s bond documentation. But as the Second Circuit
+reasoned in rejecting this very notion, “such a broad [proposition] would eviscerate the essential
+distinction between compensable and non-compensable harm,” Wisdom Import Sales Co., L.L.C.
+v. Labatt Brewing Co. Ltd., 339 F.3d 101, 114 (2d Cir. 2003), and as such, “not all bargained-for
+contractual provisions provide a basis for injunctive relief,” Merit Capital Grp., LLC v. Trio
+Indus. Mgmt., LLC, No. 04 Civ. 7690 (RCC), 2005 WL 53283, at *2 (S.D.N.Y. Jan. 10, 2005).
+Where a plaintiff’s suit for damages against a defaulting creditor happens to include a secondary
+claim for the breach of a provision allegedly meant to protect the creditor in the event of default,
+this Court has held that equitable relief is inappropriate because the plaintiff “primarily seeks
+monetary relief in the form of repayment of Defendant’s purported debt, [and] any potential
+harm in [such an] action is readily quantifiable and compensable with monetary damages at the
+conclusion of [the] action. See id. at *2. Thus, the fact that NML couches its demand for
+payment of its judgments as a claim for breach of the pari passu clause does not alter its true
+nature – NML is ultimately seeking money damages for missed principal and interest payments.
+NML’s citation to the Restatement of Contracts for the proposition that the
+inability to collect a judgment renders money damages inadequate is also unavailing. See NML
+Br. at 10. NML is actively pursuing enforcement of its judgments in the United States and
+elsewhere, which defeats any claim that it would necessarily be injured without an injunction
+here. See Plenum Fin. & Invs. Ltd. v. Bank of Zambia, No. 95 Civ. 8350 (KMW), 1995 WL
+
+18
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 26 of 38
+
+600818, at *3 (S.D.N.Y. Oct. 11, 1995). In any event, mere difficulty in enforcing a judgment –
+which in the present case, is entirely the result of the limits imposed by Congress on execution
+under the FSIA and the comparable sovereign immunity laws of other nations – does not, as a
+matter of law, rise to the level of “irreparable harm.” Centauri Shipping Ltd. v. W. Bulk Carriers
+KS, 528 F. Supp. 2d 186, 194 (S.D.N.Y. 2007); Weston Compagnie Finance et D’Investissement,
+S.A. v. La Republica del Ecuador, No. 93 Civ. 2698 (LMM), 1993 WL 267282, at *2 (S.D.N.Y.
+July 14, 1993); cf. Black United Fund of N.J., Inc. v. Kean, 763 F.2d 156, 161 (3d Cir. 1985)
+(obstacles to enforcing judgment raised by Eleventh Amendment immunity does not transform
+money damages into irreparable injury for injunction purposes).
+Nor is NML’s attempt to analogize its position to that of a secured creditor
+availing. See NML Br. at 10-11. As an initial matter, NML is forced to make this analogy
+because there is no precedent for granting equitable relief based on the breach of a pari passu
+clause. And the analogy is particularly inapt here because by the express terms of the Republic’s
+bonds, NML is an unsecured creditor – it has no security interest in any of the Republic’s
+property, including any funds used to pay beneficial owners of Discounted Exchange Bonds. See
+e.g., FAA ¶ 1(c) (Ex. G). As the authority that NML cites makes clear, in a suit against a debtor,
+unsecured creditors are “relegated to an action for damages and [] share [a] debtor’s property
+with other unsecured debtors.” Marine Midland Trust Co. of N. Y. v. Alleghany Corp., 28 F.
+Supp. 680, 683 (S.D.N.Y. 1939) (emphasis added). NML, an unsecured creditor itself, cannot
+use the pari passu clause as a means to obtain payment on better terms than other similarly
+situated unsecured creditors (although that is precisely what NML demands). In any event, it is
+clear that while the well-defined and the exceedingly small class of contract provisions that
+courts deem “non-compensable” does include security interest clauses, see 96 N.Y. Jur. 2d
+
+19
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 27 of 38
+
+Specific Performance § 53, it may not include pari passu provisions, despite the fact that such
+clauses are standard, boilerplate contained in many thousands of both corporate and sovereign
+debt agreements. See Exelon Generation Co., LLC v. Gen. Atomics Techs. Corp., 559 F. Supp.
+2d 892, 900 (N.D. Ill. 2008) (rejecting plaintiff’s attempt to analogize the purported breach of a
+contractual performance guarantee to cases involving “guarantees relating to security interests in
+specific collateral” and noting that performance guarantees describe the defendant’s obligations
+and not the remedy for breach of those obligations).
+Furthermore, NML’s own behavior rebuts its claim of irreparable harm.
+First, NML asserts that the Republic’s alleged violation of the pari passu clause,
+and hence its alleged irreparable harm, began from the passage of the Lock Law in 2005 and the
+Republic’s 2005 Exchange Offer. Yet NML sought and obtained summary judgment in
+numerous cases since 2005 (when the Republic’s regular interest payments on the Discounted
+Exchange Bonds began) solely for monetary damages, and filed additional complaints from 2008
+through 2010, with no mention of a pari passu claim or non-monetary damages. Instead, NML
+waited more than five years to bring a claim under the pari passu clause. In the face of this
+extensive delay, NML is now barred from claiming irreparable harm as a basis for injunctive
+relief. See Citibank, N.A. v. Citytrust, 756 F.2d 273, 276 (2d Cir. 1985) (reversing grant of an
+injunction for lack of irreparable harm where movant waited approximately two months:
+“Preliminary injunctions are generally granted under the theory that there is an urgent need for
+speedy action to protect the plaintiffs’ rights.”).
+Second, NML’s claim of irreparable harm is belied by its continued, additional
+purchases of hundreds of millions of dollars of deeply discounted nonperforming Republic debt
+after the Republic’s 2005 Exchange Offer, during the very time period that it now claims it was
+
+20
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 28 of 38
+
+suffering “irreparable” harm due to the Republic’s purported violation of the pari passu clause
+with respect to those bonds. A highly sophisticated hedge fund like NML in the business of
+buying defaulted sovereign debt would not have behaved in this fashion – doubling, tripling, and
+quadrupling its bets on potential damages recoveries – had it truly been subject to irreparable
+harm from these alleged violations of the pari passu clause. Because irreparable harm is the sine
+qua non requirement for any injunctive relief, and NML has failed to establish any such harm
+here, its request for injunctive relief must be denied.
+B.
+
+The Balance Of Hardships And Public Interest Militate Decidedly In Favor Of
+Denying NML Its Requested Injunctive Relief
+NML’s motion for injunctive relief also fails because the balance of hardships
+
+stemming from the failure to grant its requested injunction outweighs the prejudice that
+Exchange Offer participants will incur if the Court does order such relief. As described above in
+Section III.A, the hardship alleged by NML here consists of monetary damages, which NML
+sustained with full knowledge as part of its strategy of speculating in defaulted sovereign debt.
+Particularly here, where NML purchased the debt knowing not only that it was nonperforming,
+but also that the specific alleged violations of the pari passu clause at issue were ongoing, and
+then still waited years to sue, it cannot seriously be heard to plead that the balance of hardships
+now “tips decidedly in [its] favor.” Buffalo Forge Co. v. Ampco-Pittsburgh Corp., 638 F.2d 568,
+569 (2d Cir. 1981).
+To the contrary, as noted in Section I, NML’s requested injunction would
+interfere with payments to creditors who participated in the 2005 and 2010 Exchange Offers,
+resulting in substantial hardship to those creditors, as well as to the Republic and its citizens,
+who all reasonably expected the continuation of the status quo during NML’s long delay in
+bringing these claims. In addition, the same policy concerns that weigh in favor of encouraging
+
+21
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 29 of 38
+
+sovereign restructurings to take place also weigh in favor of rejecting NML’s motion in order to
+provide certainty that completed restructurings cannot be upset by holdout creditors – especially
+when those holdouts have waited until years afterward to bring their claims. See, e.g., EM Ltd.,
+131 F. App’x at 747; U.S. Statement of Interest at 2-6 (Ex. F); cf. Pravin Banker Assocs., Ltd. v.
+Banco Popular del Peru, 109 F.3d 850, 853, 855 (2d Cir. 1997).
+C.
+
+As Previously Demonstrated, NML Misreads The Pari Passu Clause And Is Barred
+By The Doctrine Of Laches
+As stated above, the Republic will not repeat arguments already in the record, but
+
+restates them here for the sake of completeness. NML is not entitled to the requested relief for
+the additional reasons that (i) its reading of the pari passu clause is wrong and (ii) it is barred by
+the doctrine of laches. See Addendum B and submissions referenced there.
+As for laches, this defense applies with equal force to each and every “me too”
+plaintiff.6 The Varela plaintiffs have owned their bond interests for nearly a decade and yet did
+not assert a pari passu claim until August 2011 – over six years after the Republic started
+servicing its restructured debt. The Aurelius plaintiffs and Olifant similarly purchased their
+beneficial interests in defaulted Republic debt years ago and watched silently as the Republic
+made numerous restructured bond payments and conducted the 2010 Exchange Offer. In any
+event, they of course acquired their claims subject to all available equitable defenses against their
+predecessors in interest, who necessarily themselves sat idly by while the Republic restructured
+its debt in 2005 and thereafter serviced it. See Caribbean S.S. Co., S.A. v. Sonmez Denizcilik Ve
+Ticaret A.S., 598 F.2d 1264, 1266 (2d Cir. 1979) (assignee of claim inherits claim with any limits
+6
+
+See Mem. of Law in Opp’n to Pls.’ Mots. for Partial Summ. J. and for Injunctive Relief Pursuant to
+the Pari Passu Clause at 12-17, Varela v. Republic of Argentina, No. 10 Civ. 5338 (TPG) (S.D.N.Y.
+Sept. 23, 2011); Mem. of Law in Opp’n to Pls.’ Mot. for Partial Summ. J. Pursuant to the Pari Passu
+Clause at 12-17, Aurelius Capital Mater, Ltd. v. Republic of Argentina, No. 09 Civ. 8757 (TPG)
+(S.D.N.Y. Nov. 9, 2011).
+
+22
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 30 of 38
+
+it had in the hands of the assignor); Septembertide Publ’g, B.V. v. Stein & Day, Inc., 884 F.2d
+675, 682 (2d Cir. 1989). Thus, the “me too” plaintiffs are similarly barred from interfering with
+the rights of the beneficial owners of over 91% of the Republic’s defaulted debt who tendered
+into the Exchange Offers.
+IV.
+
+NML IS NOT ENTITLED TO A PRELIMINARY INJUNCTION PREVENTING
+THE REPUBLIC FROM ALTERING THE WAY IN WHICH IT SERVICES ITS
+RESTRUCTURED DEBT
+NML’s simultaneous request that the Court preliminarily enjoin the Republic
+
+from altering the manner in which it services its Discounted Exchange Bonds should also be
+denied. NML cannot, as it must, demonstrate either “(1) a likelihood of irreparable harm in the
+absence of the injunction; [or] (2) either a likelihood of success on the merits or sufficiently
+serious questions going to the merits to make them a fair ground for litigation, with a balance of
+hardships tipping decidedly in the movant’s favor.” Seijas v. Republic of Argentina, 352 F.
+App’x 519, 521 (2d Cir. 2009) (citation and internal quotation marks omitted).
+A. NML Cannot Establish Irreparable Harm
+NML’s application for a preliminary injunction fails because it cannot
+demonstrate irreparable harm.
+First, NML does not and cannot show that the alteration of the payment
+mechanisms at which its motion is directed will cause it to “suffer an injury that is neither remote
+nor speculative, but actual and imminent.” See Grand River Enter. Six Nations, Ltd. v. Pryor,
+481 F.3d 60, 66 (2d Cir. 2007) (internal quotation marks omitted). NML seeks to “protect [the
+Court’s] jurisdiction” by preventing the Republic from “employ[ing] agents beyond the Court’s
+jurisdiction” to make payments on its Discounted Exchange Bonds, NML PI Br. at 6, but as
+made clear above, the Republic’s payments already take place outside the United States and
+beyond this Court’s jurisdiction. In any event, although NML suggests that the Republic might
+23
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 31 of 38
+
+divert its payments out of the Court’s jurisdiction while its permanent injunction motion is
+pending, it puts forth no evidence supporting this allegation other than self-serving speculation.
+As the Court has held in these cases when it denied an injunction similarly based on purely
+speculative harm, “[t]o get an injunction, there has to be evidence that the party that you want to
+enjoin is planning to, is acting in such a way as to violate the rights of the plaintiff. There has to
+be some evidence of a plan, a threat of activity, of danger. There has to be evidence.” Hr’g Tr.
+at 43:21-25, Capital Ventures Int’l v. Republic of Argentina, No. 05 Civ. 4085 (S.D.N.Y. May 4,
+2007) (Ex. D) (emphasis added), aff’d, Captial Ventures Int’l v. Republic of Argentina, 282 F.
+App’x 41, 42 (2d Cir. 2008) (holding that this Court “properly denied CVI’s motion for an
+injunction” where CVI’s claim of imminent harm was based on a mere “assertion”). NML’s
+wholly unsupported assertion that the Republic can simply “be expected to attempt to reorder its
+affairs,” NML PI Br. at 6, does not, as a matter of law, constitute “evidence” of a plan by the
+Republic to alter its Discounted Exchange Bond payment mechanisms, and NML accordingly
+does not demonstrate that it will suffer irreparable harm absent a preliminary injunction.7
+Second, even if NML’s claimed harm were not remote and speculative, as it is,
+the Court should still reject NML’s motion because, as established above in Section III.A, NML
+is not “irreparably harmed” when the Republic pays beneficial owners of its Discounted
+Exchange Bonds, and thus a fortiori it is not harmed when the Republic alters the way in which
+it executes those payments. Nothing prevents the Republic from paying its creditors in any
+7
+
+NML’s counsel claims that he “believe[s] that Argentina may react to” NML’s renewed motion for
+injunctive relief “by taking steps to undermine the Court’s ability to award effective relief.” Decl. of
+Robert A. Cohen, dated Jan. 3, 2012, ¶ 12. In support of this assertion he refers the Court to ARSAT’s transfer out of the United States of property it obtained from Honeywell Inc. In fact, the Court
+found that property to be immune from restraint under the FSIA, so AR-SAT was obviously entitled
+to do with it as it wished, and NML quite deliberately did not seek a stay of the Court’s ruling. In any
+event, the Court has also held that AR-SAT is not the Republic but a legally separate entity, and so its
+past use of its own property is in no way any indication of what the Republic might do in the future.
+
+24
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 32 of 38
+
+manner that it is contractually permitted to do so. Nor does NML have a right to demand that
+payments to others occur in a certain manner.
+B. NML Is Unable To Demonstrate A Likelihood Of Success On The Merits Or The
+Existence Of Sufficiently Serious Questions Going To The Merits
+Even if NML could establish irreparable harm, which it clearly cannot, NML is
+not entitled to its requested preliminary injunction, and it has no likelihood of success in
+obtaining the ultimate permanent injunction it demands, because (i) the Court has already denied
+NML the exact relief it now seeks on the grounds that it improperly interferes with the rights of
+participants in the Republic’s Exchange Offers, (ii) NML’s relief is barred under the FSIA and
+state law because the payments with which NML seeks to interfere take place outside the United
+States, (iii) NML has an adequate remedy at law, has not suffered irreparable harm, and a
+balance of the relative hardships and the public interest militate decidedly against granting the
+requested relief, and (iv) NML’s reading of the pari passu clause is wrong and its claim is barred
+by laches. See Points I-III, supra.
+
+25
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 33 of 38
+
+CONCLUSION
+For the foregoing reasons, NML’s motion for permanent injunctive relief (joined
+by eighteen “me too” plaintiffs) should be denied. In addition, NML’s motion for preliminary
+injunctive relief should be denied as well.
+Dated: New York, New York
+February 1, 2012
+Respectfully submitted,
+CLEARY GOTTLIEB STEEN & HAMILTON LLP
+By: __/s/ Carmine Boccuzzi_________________
+Jonathan I. Blackman (jblackman@cgsh.com)
+Carmine D. Boccuzzi (cboccuzzi@cgsh.com)
+One Liberty Plaza
+New York, New York 10006
+(212) 225-2000
+Attorneys for the Republic of Argentina
+
+26
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 34 of 38
+
+Addendum A
+Submissions By The Republic In Opposition To NML’s 2010 Motion Concerning the
+Construction Of The Pari Passu Clause
+1. December 10, 2010 Mem. of Law in Opp. to Pl.’s Mots. for Partial Summ. J. and for
+Injunctive Relief Pursuant to the Pari Passu Clause
+2. December 10, 2010 Declaration of Stephen Choi
+3. December 10, 2010 Declaration of Carmine D. Boccuzzi in Opp. to Pl.’s Mots. for Partial
+Summ. J. and for Injunctive Relief Pursuant to the Pari Passu Clause, which attached:
+Statements of Interest, Amicus Briefs and Other Reports
+Ex. A January 12, 2004 Statement of Interest of the United States, Macrotecnic Int’l
+v. Republic of Argentina, 02 Civ. 5932 (TPG); EM Ltd. v. Republic of
+Argentina, 03 Civ. 2507 (TPG)
+Ex. B January 12, 2004 Br. of the Fed. Reserve Bank of N.Y. as Amicus Curiae in
+Macrotecnic Int’l Corp. v. Republic of Argentina, 02 Civ. 5932; EM Ltd. v.
+Republic of Argentina, 03 Civ. 2507 (TPG)
+Ex. C January 12, 2004 Br. of The New York Clearing House Association L.L.C. as
+Amicus Curiae in Macrotecnic Int’l Corp. v. Republic of Argentina, 02 Civ.
+5932; EM Ltd. v. Republic of Argentina, 03 Civ. 2507 (TPG)
+Ex. D March 2005 Report by the Bank of England Financial Markets Law
+Committee, Issue 79 – Pari Passu Clauses
+Ex. E August 31, 2003 Troland Link Declaration, LNC Invs. LLC v. Republic of
+Nicaragua, Folio 2000 1061, R.K. 240/03 (Commercial Ct. of Brussels)
+Articles
+Ex. F Lee C. Buchheit & Ralph Reisner, The Effect of the Sovereign Debt
+Restructuring Process on Inter-Creditor Relationships, Univ. Ill. Law Rev.
+493 (1988)
+Ex. G United Nations Centre on Transnational Corporations Advisory Studies, No.
+4, Series B, International Debt Restructuring: Substantive Issues and
+Techniques (1989) (excerpts)
+Ex. H July 19, 1990 Memorandum to the Executive Directors of the World Bank,
+Review of IBRD’s Negative Pledge Policy with Respect to Debt and Debt
+Service Reduction Operations (excerpts)
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 35 of 38
+
+Ex. I
+
+Lee C. Buchheit, The Pari Passu Clause Sub Specie Aeternitatis, 10 Int’l Fin.
+L. Rev. 11 (1991)
+
+Ex. J
+
+Michael Gruson & Stephen Hutter, International Bar Association Project on
+Legal Opinions in International Business Transactions, 676 PLI/Comm 405,
+421 (October 1993)
+
+Ex. K G. Mitu Gulati & Kenneth K. Klee, Sovereign Piracy, 56 Bus. Law. 635
+(2001)
+Ex. L Philip R. Wood, Pari Passu Clauses – What Do They Mean?, Butterworths J.
+of Int’l Banking and Fin. L. 371, 371 (November 2003)
+Ex. M Stephen J. Choi & G. Mitu Gulati, Contract as Statute, 104 Mich. L. Rev.
+1129, 1134 (2006)
+Ex. N Umakanth Varottil, Sovereign Debt Documentation: Unraveling the Pari
+Passu Mystery, 7 DePaul Bus. & Com. L.J. 119 (2008)
+Ex. O Michael Bradley, James D. Cox, Mitu Gulati, The Market Reaction to Legal
+Shocks and Their Antidotes: Lessons From the Sovereign Debt Market, 39 J.
+Legal Stud. 289 (2010)
+Other Documents
+Ex. P 1994 Fiscal Agency Agreement (excerpts)
+Ex. Q Certificate of Bond ISIN US040114AN02, issued October 9, 1996 (excerpts)
+Ex. R Kensington Int’l Ltd. v. Republic of Argentina, 2002 No. 1088 (Commercial
+Ct. 16 Apr. 2003) (excerpts)
+Ex. S January 14, 2004 Letter from K. Reed to Judge Griesa, NML Capital, Ltd. v.
+The Republic of Argentina, 03 Civ. 8845 (TPG); Macrotecnic Corp. v. The
+Republic of Argentina, 02 Civ. 5932 (TPG); and EM Ltd. v. The Republic of
+Argentina, 03 Civ. 2507 (TPG)
+Ex. T January 15, 2004 Letter from J. Blackman to Judge Griesa, NML Capital, Ltd.
+v. The Republic of Argentina, 03 Civ. 8845 (TPG); Macrotecnic Corp. v. The
+Republic of Argentina, 02 Civ. 5932 (TPG); and EM Ltd. v. The Republic of
+Argentina, 03 Civ. 2507 (TPG)
+Ex. U January 15, 2004 Hr’g Tr., Allan Applestein, TTEE FBO D.C.A. Grantor
+Trust, 02 Civ. 1773 (TPG) (excerpts)
+Ex. V February 3, 2004 Answer and Counterclaim, NML Capital, Ltd. v. Republic of
+Argentina, 03 Civ. 8845 (TPG)
+
+2
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 36 of 38
+
+Ex. W April 2, 2004 Hr’g Tr., NML Capital, Ltd. v. Republic of Argentina, 03 Civ.
+8845 (TPG) (excerpts)
+Ex. X April 29, 2005 Answer and Counterclaim, NML Capital, Ltd. v. Republic of
+Argentina, 05 Civ. 2434 (TPG)
+Ex. Y May 23, 2005 Mem. Of Law in Supp. Of Pl.’s Mot. to Dismiss Counterclaim,
+NML Capital, Ltd. v. Republic of Argentina, 05 Civ. 2434 (TPG)
+Ex. Z November 9, 2006 Hr’g Tr., EM Ltd. v. Republic of Argentina, 06 Civ. 7792
+(TPG) (excerpt)
+Ex. AA
+
+March 28, 2008 Order, NML Capital, Ltd. v. Republic of Argentina, 05
+Civ. 2434 (TPG)
+
+Ex. BB
+
+November 4, 2009 Hr’g Tr., Capital Ventures Int’l v. Republic of
+Argentina, 04 Civ. 4085 (TPG); NML Capital, Ltd. v. Republic of
+Argentina, 03 Civ. 8845 (TPG); EM Ltd. v. Republic of Argentina, 03 Civ.
+2507 (TPG) (excerpt)
+
+Ex. CC
+
+January 28, 2010 Registration Statement, Amend. No. 1 (excerpts)
+
+Ex. DD
+
+February 2, 2010 Notice of Mot. for Preliminary Injunction, H.W. Urban
+GmbH, et al. v. Republic of Argentina, 02 Civ. 5699 (TPG)
+
+Ex. EE
+
+Drew Benson & Ben Bain, Defaulted Debt Trading Sinks as Elliott Bets
+on Courts: Argentina Credit, Bloomberg (Sept. 20, 2010)
+
+Ex. FF
+
+October 1, 2010 Annual Report (Form 18-K) (excerpts)
+
+Ex. GG
+
+October 29, 2010 Order Modifying Attachment and Restraining Orders,
+Capital Ventures Int’l v. Republic of Argentina, 05 Civ. 4085, 06 Civ. 207
+(TPG)
+
+Ex. HH
+
+December 3, 2010 U.S. Prospectus Supplement (excerpts)
+
+3
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 37 of 38
+
+Addendum B
+Pending Pari Passu Claims1
+Case
+
+1
+
+Principal
+Claimed
+
+Total Claim
+(including interest estimated as of
+Feb. 1, 2012)*
+
+Aurelius Capital Master
+Ltd. (09 CV 8757)
+
+$29,950,000
+
+$98,785,408.53
+
+Aurelius Capital Master
+Ltd. (09 CV 10620)
+
+$54,090,614
+
+$178,096,301.71
+
+Aurelius Capital Master
+Ltd. and Aurelius
+Opportunities Fund II, LLC
+(10 CV 3507)
+
+$20,565,153
+
+$67,624,356.61
+
+Aurelius Capital Master
+Ltd. and Aurelius
+Opportunities Fund II, LLC
+(10 CV 3970)
+
+$21,280,781
+
+$70,016,362.33
+
+Aurelius Capital Master
+Ltd. and Aurelius
+Opportunities Fund II, LLC
+(10 CV 8339)
+
+$10,640,000
+
+$35,330,972.76
+
+Aurelius Opportunities
+Fund II, LLC and Aurelius
+Capital Master Ltd.
+(10 CV 1602)
+
+$6,856,773
+
+$22,814,914.91
+
+Blue Angel Capital I LLC
+(10 CV 0401)
+
+$11,522,724
+
+$38,566,099.74
+
+Blue Angel Capital I LLC
+(10 CV 4782)
+
+$46,043,755
+
+$154,106,619.89
+
+These plaintiffs also hold judgments in other cases against the Republic totaling $2.09 billion, and
+have been granted summary judgment in actions in which they purportedly hold additional claims for
+an estimated $272.5 million (including principal and interest estimated as of Feb. 1, 2012). If they are
+successful here, they will presumably bring pari passu claims in those cases as well.
+
+Case 1:08-cv-06978-TPG Document 368 Filed 02/01/12 Page 38 of 38
+
+NML Capital Ltd.
+(08 CV 6978)
+
+$81,080,000
+
+$197,278,516.08
+
+NML Capital Ltd.
+(09 CV 1707)
+
+$30,000
+
+$355,893.18
+
+NML Capital Ltd.
+(09 CV 1708)
+
+$156,570,549
+
+$434,614,268.39
+
+$367,000
+
+$810,200.65
+
+$5,000,000
+
+$45,253,302.85
+
+Varela et al.
+(10 CV 5338)
+Olifant Fund, Ltd.
+(10 CV 9587)
+
+$1,343,653,217.63
+* Interest amounts in all pending cases have been calculated based on principal amounts in
+defaulted Republic debt that plaintiffs allege to hold. The Republic makes no representation or
+admission as to the validity or size of plaintiffs’ claims.
+
+2
+
+

@@ -1,0 +1,2909 @@
+Case 3:12-cv-00505-RCJ-VPC Document 37
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+
+Filed 02/01/13 Page 1 of 26
+
+Jonathan W. Fountain
+Nevada Bar No. 10351
+JFountain@LRLaw.com
+LEWIS AND ROCA LLP
+3993 Howard Hughes Pkwy., Ste. 600
+Las Vegas, NV 89169-5996
+Tel.: 702.949.8340
+Fax: 702.949.8374
+E. Leif Reid
+Nevada Bar No. 5750
+LReid@LRLaw.com
+LEWIS AND ROCA LLP
+50 West Liberty St., Ste. 410
+Reno, NV 89501-1922
+Tel.: 775.321.3415
+Fax: 775.823.2929
+Josh Krevitt (admitted pro hac vice)
+GIBSON, DUNN & CRUTCHER LLP
+200 Park Avenue
+New York, NY 10166-0193
+Tel.: 212.351.4000
+Fax: 212.351.4035
+H. Mark Lyon (admitted pro hac vice)
+Y. Ernest Hsin (admitted pro hac vice)
+GIBSON, DUNN & CRUTCHER LLP
+1881 Page Mill Road
+Palo Alto, CA 94304-1211
+Tel.: 650.849.5300
+Fax: 650.849.5333
+Attorneys for Defendant Apple Inc.
+
+19
+
+UNITED STATES DISTRICT COURT
+
+20
+
+DISTRICT OF NEVADA
+
+21
+22
+23
+24
+25
+26
+27
+28
+Gibson, Dunn &
+Crutcher LLP
+
+UNWIRED PLANET LLC, a Nevada
+limited liability company,
+Plaintiff,
+vs.
+APPLE INC., a California corporation,
+Defendant.
+
+Case No. 3:12-CV-00505-RCJ-VPC
+DEFENDANT APPLE INC.’S
+MOTION TO TRANSFER VENUE
+PURSUANT TO 28 U.S.C. § 1404(a)
+
+Case 3:12-cv-00505-RCJ-VPC Document 37
+
+Filed 02/01/13 Page 2 of 26
+
+TABLE OF CONTENTS
+
+1
+2
+
+I.
+
+INTRODUCTION ..........................................................................................1
+
+3
+
+II.
+
+FACTUAL BACKGROUND ........................................................................2
+A.
+Apple and Its Potential Witnesses Are Based and Located in
+the Northern District of California.......................................................3
+B.
+Unwired Planet Has a History of Contacts with the Northern
+District of California and Lacks Significant Contacts with the
+District of Nevada ................................................................................4
+C.
+The Majority of Non-Party Witnesses Are Located in
+Northern California – None Are in Nevada .........................................5
+1.
+Most of the Inventors Reside in Northern California –
+None Reside in Nevada..............................................................5
+2.
+Most of the Individuals Accused of Inequitable Conduct
+Reside in Northern California – None Are in Nevada...............6
+3.
+Most of the Counsel Who Prosecuted the Patents Are
+Located in Northern California – None Are in Nevada.............6
+4.
+Numerous Relevant Former Unwired Planet Employees
+Reside in Northern California – None Reside in Nevada..........7
+
+III.
+
+ARGUMENT..................................................................................................8
+A.
+This Action Could Have Been Brought in the Northern
+District of California ............................................................................8
+B.
+The Private Factors Overwhelmingly Favor Transfer .........................9
+1.
+The Parties Have Far Greater Contacts with the Northern
+District of California..................................................................9
+2.
+The Contacts Relating to the Causes of Action Are
+Located in the Northern District of California ........................13
+3.
+Ease of Access to Sources of Proof Strongly Favors the
+Northern District of California ................................................15
+4.
+Many Non-Party Witnesses Would be Subject to
+Compulsory Process in the Northern District of California
+– None Would Be in the District of Nevada............................17
+5.
+The Cost of Litigation Will Be Far Less in the Northern
+District of California................................................................18
+6.
+Unwired Planet’s Choice of Forum Is Entitled to Little, If
+Any, Weight.............................................................................18
+C.
+The Applicable Public Factors Favor Transfer..................................20
+D.
+The Remaining Private and Public Factors Are Neutral or Not
+Applicable ..........................................................................................20
+
+IV.
+
+CONCLUSION ............................................................................................21
+
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+Gibson, Dunn &
+Crutcher LLP
+
+i
+
+Case 3:12-cv-00505-RCJ-VPC Document 37
+
+1
+
+Filed 02/01/13 Page 3 of 26
+
+TABLE OF AUTHORITIES
+
+2
+
+Page
+
+3
+
+Cases
+Convergence Technologies (USA) v. Microloops Corporation,
+711 F. Supp. 2d 626 (E.D. Va. 2010) ........................................................................12
+Dainippon Screen Manufacturing Co. v. CFMT, Inc.,
+142 F.3d 1266 (Fed. Cir. 1998)..................................................................................12
+GPNE Corp. v. Amazon.com, Inc.,
+No. 11-00426 SOM-RLP, 2012 WL 1656923 (D. Haw. May 9, 2012) ........15, 16, 19
+Healy v. Philips,
+69 F.3d 544 (9th Cir. 1995)..........................................................................................8
+Hertz Corp. v. Friend, 559 U.S. 77,
+130 S.Ct. 1181 (2010) ................................................................................................12
+In re Acer America Corp.,
+626 F.3d 1252 (Fed. Cir. 2010)..................................................................................17
+In re Genentech, Inc.,
+566 F.3d 1338 (Fed. Cir. 2009)............................................................................15, 16
+In re Hoffmann-La Roche, Inc.,
+587 F.3d 1333 (Fed. Cir. 2009)..................................................................................12
+In re Link_A_Media Devices Corp.,
+662 F.3d 1221 (Fed. Cir. 2011)..................................................................................13
+In re Microsoft Corp.,
+630 F.3d 1361 (Fed. Cir. 2011)......................................................................10, 12, 20
+In re Nintendo Co., Ltd.,
+589 F.3d 1194 (Fed. Cir. 2009)..................................................................................16
+In re TS Tech USA Corp.,
+551 F.3d 1315 (Fed. Cir. 2008)..................................................................................15
+In re Verizon Business Network Services,
+635 F.3d 559 (Fed. Cir. 2011)....................................................................................18
+In re Volkswagen of America, Inc.,
+545 F.3d 304 (5th Cir. 2008)................................................................................15, 16
+In re Zimmer,
+587 F.3d 1336 (Fed. Cir. 2009)............................................................................10, 12
+Jones v. GNC Franchising, Inc.,
+211 F.3d 495 (9th Cir. 2000)....................................................................................8, 9
+Koster v. Lumbermens Mutual Casualty Co.,
+330 U.S. 518, 67 S.Ct. 828, 91 L.Ed. 1067 (1947)....................................................13
+Lockman Foundation v. Evangelical Alliance Mission,
+930 F.2d 764 (9th Cir. 1991)......................................................................................19
+Neil Bros. Ltd. v. World Wide Lines, Inc.,
+425 F. Supp. 2d 325 (E.D.N.Y. 206) .........................................................................15
+Osteotech, Inc. v. GenSci Regeneration Sciences, Inc.,
+6 F. Supp. 2d 349 (D.N.J. 1998) ................................................................................19
+
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+Gibson, Dunn &
+Crutcher LLP
+
+ii
+
+Case 3:12-cv-00505-RCJ-VPC Document 37
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+Filed 02/01/13 Page 4 of 26
+
+Pacific Car & Foundry Co. v. Pence,
+403 F.2d 949 (9th Cir. 1968)......................................................................................19
+Pragmatus AV, LLC v. Facebook, Inc.,
+769 F. Supp. 2d 991 (E.D. Va. 2011) ........................................................................20
+Ricoh Co., Ltd. v. Honeywell, Inc.,
+817 F. Supp. 473 (D.N.J. 1993) .................................................................................15
+Ruiz v. Affinity Logistics,
+No. C 05-02015JSW, 2005 WL 5490240 (N.D. Cal. Nov. 7, 2005).........................16
+Saleh v. Titan Corp.,
+361 F. Supp. 2d 1152 (S.D. Cal. 2005)......................................................................16
+Shared Memory Graphics LLC v. Apple Inc.,
+No. 5:09CV5128 BSM, 2010 WL 5151612 (W.D. Ark. May 27, 2010) ..................11
+Unwired Planet LLC v. Google, Inc.,
+No. 3:12-cv-00504-LRH-VPC (Sept. 19, 2012)......................................................4, 9
+Ventress v. Japan Airlines,
+486 F.3d 1111 (9th Cir. 2007)....................................................................................13
+Statutes
+28 U.S.C. § 1391(c)(2).....................................................................................................9
+28 U.S.C. § 1391(d) .........................................................................................................9
+28 U.S.C. § 1400(b) .........................................................................................................9
+28 U.S.C. § 1404(a) ...............................................................................................1, 8, 21
+Rules
+Fed. R. Civ. P. 45(b)(2) .................................................................................................18
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+Gibson, Dunn &
+Crutcher LLP
+
+iii
+
+Case 3:12-cv-00505-RCJ-VPC Document 37
+
+1
+
+Filed 02/01/13 Page 5 of 26
+
+Defendant Apple Inc. (“Apple”) respectfully moves this Court, pursuant to 28
+
+2
+
+U.S.C. § 1404(a), for an Order transferring this action to the United States District
+
+3
+
+Court for the Northern District of California. This Motion is based on the following
+
+4
+
+Memorandum of Points and Authorities and the declarations and exhibits filed
+
+5
+
+herewith.
+
+6
+
+MEMORANDUM OF POINTS AND AUTHORITIES
+
+7
+8
+9
+
+I.
+
+INTRODUCTION
+
+Every factor considered by the Ninth Circuit in determining proper venue favors
+transfer of this case to the Northern District of California. Defendant Apple was
+
+10
+
+founded and is headquartered in the Northern District of California and has no relevant
+
+11
+
+particularized ties to Nevada. Plaintiff Unwired Planet LLC was formed in Nevada
+
+12
+
+literally days before this lawsuit was filed and exists only to serve as a patent holding
+
+13
+
+company and lawsuit plaintiff. And Unwired Planet LLC’s parent company, Unwired
+
+14
+
+Planet, Inc., to whom the Complaint attributes the Asserted Patents, was founded in the
+
+15
+
+Northern District of California and has conducted business in that District since its
+
+16
+
+inception in 1994.
+
+17
+
+Not surprisingly, therefore, the relevant, operative facts – including the
+
+18
+
+conception and commercialization by Unwired Planet of the alleged inventions, the
+
+19
+
+prosecution of the patents in suit, and the development by Apple of the accused
+
+20
+
+products – occurred or are occurring in the Northern District of California. As a result,
+
+21
+
+the vast majority of relevant documents and witnesses – including named inventors of
+
+22
+
+the patents, prosecuting attorneys, and Apple’s engineers who developed the accused
+
+23
+
+products – are also located in the Northern District of California.
+
+24
+
+That the Northern District of California is the focal point for the facts and
+
+25
+
+witnesses is also plainly evidenced by the parties’ discovery efforts in another case that
+
+26
+
+Unwired Planet, Inc. recently pursued against Apple covering similar accused products
+
+27
+
+and technologies. Specifically, in 2011, Unwired Planet, Inc. filed suit against Apple
+
+28
+
+in the U.S. International Trade Commission in Washington, DC. In that case, because
+
+Gibson, Dunn &
+Crutcher LLP
+
+1
+
+Case 3:12-cv-00505-RCJ-VPC Document 37
+
+Filed 02/01/13 Page 6 of 26
+
+1
+
+of the convenience of the witnesses and parties, and despite the parties’ being free to
+
+2
+
+choose to appear for depositions any place in the country, every single party witness
+
+3
+
+was deposed – including every single Unwired Planet witness – in the Northern
+
+4
+
+District of California.
+
+5
+
+In contrast, this District “enjoys” no unique relationship with Apple and only the
+
+6
+
+following recent, litigation-inspired contacts with Unwired Planet: (1) six days before
+
+7
+
+it filed this lawsuit, Unwired Planet LLC was organized as a limited liability company
+
+8
+
+in this district and (2) on the same day that the lawsuit was filed, Unwired Planet, Inc.
+
+9
+
+announced plans to move from Northern California to Nevada sometime in the future.
+
+10
+
+But both the Ninth Circuit and the Federal Circuit have rejected such transparent
+
+11
+
+efforts to manufacture ties to a district for the purposes of establishing venue. In fact,
+
+12
+
+the courts have routinely and repeatedly ordered transfer even in cases in which the
+
+13
+
+parties had much stronger and lengthier ties to the original jurisdiction than either
+
+14
+
+Unwired Planet LLC or its predecessors, including Unwired Planet, Inc. (collectively
+
+15
+
+“Unwired Planet”), have to the District of Nevada.
+
+16
+
+Because the relevant factors overwhelmingly favor transfer, Apple respectfully
+
+17
+
+requests that the Court grant this Motion and transfer the case to the Northern District
+
+18
+
+of California.
+
+19
+
+II.
+
+FACTUAL BACKGROUND
+
+20
+
+Unwired Planet filed this lawsuit against Apple on September 19, 2012, alleging
+
+21
+
+that Apple infringes the following ten patents assigned to Unwired Planet: U.S. Patent
+
+22
+
+Nos. 6,317,594; 6,317,831; 6,321,092; 6,532,446; 6,647,260; 6,813,491; 7,020,685;
+
+23
+
+7,233,790; 7,299,033; and 7,522,927 (collectively, the “Asserted Patents”). Dkt. No.
+
+24
+
+1, Complaint (“Compl.”) ¶¶ 15-24, 27. The patents relate to a variety of technologies,
+
+25
+
+and Unwired Planet has accused numerous Apple products of infringement, including:
+
+26
+
+Apple’s iPhone, iPad, and iPod touch, Apple’s iOS operating system, Apple App Store
+
+27
+
+and iTunes for iOS, apps available for Apple’s iOS products, notification and location
+
+28
+
+services provided by Apple to its customers (including through Apple’s Safari
+
+Gibson, Dunn &
+Crutcher LLP
+
+2
+
+Case 3:12-cv-00505-RCJ-VPC Document 37
+
+Filed 02/01/13 Page 7 of 26
+
+1
+
+browser), Siri, and the infrastructure used by Apple to support the aforementioned
+
+2
+
+systems or services. Id. ¶ 27. Development of these products and systems occurred or
+
+3
+
+occurs in the Northern District of California. Declaration of Mark Buckley (“Buckley
+
+4
+
+Decl.”) ¶¶ 3-8.
+As noted above, Unwired Planet has filed other cases against Apple in the past.
+
+5
+6
+
+In August 2011, Unwired Planet’s parent sued Apple in the U.S. International Trade
+
+7
+
+Commission (ITC) in Washington, DC, for the alleged infringement of five patents.
+
+8
+
+Declaration of Brooke Wallace (“Wallace Decl.”) ¶ 3, Ex. 1. At approximately the
+
+9
+
+same time, Unwired Planet also filed a companion suit to the ITC Investigation in the
+
+10
+
+District of Delaware. Id. ¶ 26, Ex. 16. In those cases, Unwired Planet accused many
+
+11
+
+of the same products accused in this case – including Apple’s iPhone, iPad, iPod touch,
+
+12
+
+and Apple’s App Store, iTunes and Safari for iOS. See id. ¶ 5. On the eve of trial,
+
+13
+
+after the administrative law judge issued a claim construction order adopting most of
+
+14
+
+Apple’s proposed constructions, Unwired Planet dismissed the case in its entirety. Id.
+
+15
+
+¶ 4, Ex. 2. While the Delaware case was stayed during the ITC Investigation, the stay
+
+16
+
+was lifted in December 2012.
+
+17
+
+Extensive discovery was taken in the ITC Investigation. Unwired Planet
+
+18
+
+deposed thirteen Apple fact witnesses; all of those depositions took place in the
+
+19
+
+Northern District of California. Id. ¶ 5. Apple also deposed six Unwired Planet
+
+20
+
+witnesses; Unwired Planet produced all of its witnesses in the Northern District of
+
+21
+
+California. Id. ¶ 6. In the course of the ITC Investigation, which, again, accused many
+
+22
+
+of the same products at issue in this case, no party produced any witnesses, documents,
+
+23
+
+or other discovery located in the District of Nevada. Id. ¶ 3.
+
+24
+
+A.
+
+Apple and Its Potential Witnesses Are Based and Located in the Northern
+
+25
+
+District of California
+
+26
+
+Apple was founded and is still based in Cupertino, California, in the Northern
+
+27
+
+District of California. See Buckley Decl. ¶ 2. Apple currently has more than 13,800
+
+28
+
+employees working at its headquarters in Cupertino. Id. ¶ 5. Based on Apple’s
+
+Gibson, Dunn &
+Crutcher LLP
+
+3
+
+Case 3:12-cv-00505-RCJ-VPC Document 37
+
+Filed 02/01/13 Page 8 of 26
+
+1
+
+understanding of what is accused in this lawsuit, development of the relevant aspects
+
+2
+
+of the accused products occurred or is occurring in the Northern District of California,
+
+3
+
+not in Nevada. See id. ¶¶ 3-4, 6-8. To the best of Apple’s knowledge (given the early
+
+4
+
+stage of the case and the lack of infringement contentions), the relevant engineers
+
+5
+
+involved in the development, implementation, or operation of the accused products are
+
+6
+
+located in the Northern District of California, not in Nevada. See id. To the best of
+
+7
+
+Apple’s knowledge, the documentation relating to the development, implementation,
+
+8
+
+or operation of the accused products are also located in the Northern District of
+
+9
+
+California, not in Nevada. See id.
+
+10
+
+B.
+
+Unwired Planet Has a History of Contacts with the Northern District of
+
+11
+
+California and Lacks Significant Contacts with the District of Nevada
+
+12
+
+On September 13, 2012, six days before this lawsuit was filed, Unwired Planet,
+
+13
+
+Inc. formed Unwired Planet LLC, the plaintiff in this action, in Nevada. Wallace Decl.
+
+14
+
+¶ 12, Ex. 8. Unwired Planet LLC is nothing more than a patent holding company for
+
+15
+
+the Asserted Patents. See generally id. ¶¶ 15, 27; Exs. 11, 17, at 20. It does no
+
+16
+
+business in Nevada other than prosecuting this lawsuit and another one filed against
+
+17
+
+Google, Inc. Id. ¶ 27, Ex. 17, at 20; Unwired Planet LLC v. Google, Inc., No. 3:12-
+
+18
+
+CV-00504-LRH-VPC (Sept. 19, 2012). Notably, it is Unwired Planet, Inc. who has
+
+19
+
+issued every press release and announcement regarding this litigation. See generally
+
+20
+
+id. ¶ 15, Ex. 11. In addition, in its Complaint, and again last week, on January 24,
+
+21
+
+2013, Unwired Planet LLC submitted a Case Management Report in this case claiming
+
+22
+
+that its “principal place of business” is at 226 California Avenue, Reno, Nevada.
+
+23
+
+Compl. ¶ 4; Dkt. No. 35. But as of the very next day, January 25, 2013, that location –
+
+24
+
+i.e., the alleged location in Nevada of the titular plaintiff in this lawsuit – was nothing
+
+25
+
+but a vacant room, sitting above an unrelated retail gift shop, with no actual office.
+
+26
+
+Declaration of Danielle Durkee (“Durkee Decl.”) ¶ 2. Furthermore, neither Unwired
+
+27
+
+Planet LLC nor Unwired Planet, Inc. is even licensed to do business in Nevada, as
+
+28
+
+neither appears currently to have a Reno business license. Id.¶ 3.
+
+Gibson, Dunn &
+Crutcher LLP
+
+4
+
+Case 3:12-cv-00505-RCJ-VPC Document 37
+
+Filed 02/01/13 Page 9 of 26
+
+Although it registered Plaintiff Unwired Planet LLC as a Nevada limited
+
+1
+2
+
+liability company, Unwired Planet, Inc. is a Delaware corporation, founded in 1994
+
+3
+
+and based for virtually its entire existence in Redwood City, California, in the Northern
+
+4
+
+District of California. See Compl. ¶ 8; Wallace Decl. ¶¶ 7-12,Exs. 3-8. On September
+
+5
+
+19, 2012, the same day that Plaintiff Unwired Planet LLC filed its complaint against
+
+6
+
+Apple in Nevada, Unwired Planet, Inc. announced that it intended to move its
+
+7
+
+headquarters from Redwood City to Reno, Nevada. Id. ¶ 13, Ex. 9. Even after that
+
+8
+
+announcement, however, Unwired Planet, Inc. has still identified its headquarters as
+
+9
+
+being located in Redwood City or Silicon Valley in certain filings with the Securities
+
+10
+
+and Exchange Commission and in various press releases. See id. ¶ 14, Ex. 10, ¶ 25,
+
+11
+
+Ex. 15. In addition, Unwired Planet’s CEO has admitted in public comments that its
+
+12
+
+“move” to Nevada was motivated by this (and other) litigations. See id.¶ 15, Ex. 11.
+
+13
+
+C.
+
+The Majority of Non-Party Witnesses Are Located in Northern California
+
+14
+
+— None Are in Nevada
+
+15
+
+1.
+
+16
+17
+
+Most of the Inventors Reside in Northern California — None Reside
+in Nevada
+
+As noted above, Unwired Planet has asserted ten patents against Apple in this
+
+18
+
+lawsuit. According to the cover page of each patent, which identifies the original
+
+19
+
+assignee and the location of the named inventors at the time of filing, none of the
+
+20
+
+assignees or named inventors were located in Nevada at the time of filing; most were
+
+21
+
+located in the Northern District of California. Id. ¶ 17. Indeed, the ten patents list
+
+22
+
+eighteen inventors, none of whom were ever employed by Plaintiff Unwired Planet
+
+23
+
+LLC, and none of whom appear to be currently employed at Unwired Planet, Inc. Id. ¶
+
+24
+
+16. Based on publicly available information, it appears that eleven of the eighteen
+
+25
+
+inventors reside or work in the Northern District of California, six inventors reside in
+
+26
+
+Washington, Colorado, and Ireland, and one inventor’s location is unknown. Id. ¶ 17.
+
+27
+
+Based on available information, moreover, it appears that none of the inventors reside
+
+28
+
+in or are even within the subpoena power of the District of Nevada. See id.
+
+Gibson, Dunn &
+Crutcher LLP
+
+5
+
+Case 3:12-cv-00505-RCJ-VPC Document 37
+
+2.
+
+1
+
+Filed 02/01/13 Page 10 of 26
+
+Most of the Individuals Accused of Inequitable Conduct Reside in
+Northern California — None Are in Nevada
+
+2
+
+Apple has asserted inequitable conduct claims against six individuals. Dkt. No.
+
+3
+4
+
+29 (“Answer”), ¶¶ 9-100. Five of the accused individuals work or reside in the
+
+5
+
+Northern District of California (Messrs. Kjellberg, Becker, Chen, Schwartz, and
+
+6
+
+Martin, Jr.), with the sixth individual residing in Bend, Oregon (Mr. King). See
+
+7
+
+Wallace Decl. ¶¶ 17-18. None of the individuals reside in or are within the subpoena
+
+8
+
+power of Nevada. See id.
+3.
+
+9
+
+Most of the Counsel Who Prosecuted the Patents Are Located in
+Northern California — None Are in Nevada
+
+10
+
+With respect to counsel who prosecuted the Asserted Patents before the U.S.
+
+11
+12
+
+Patent and Trademark Office, it appears that all of the Asserted Patents, other than the
+
+13
+
+three acquired by Unwired Planet from third parties, were prosecuted, at least in part,
+
+14
+
+by counsel located in the Northern District of California. Lawyers from the San
+
+15
+
+Francisco office of Townsend, Townsend & Crew LLP (now Kilpatrick Townsend &
+
+16
+
+Stockton LLP) prosecuted the ’927, ’092, and ’033 patents. Id. ¶ 19 (Melvin Chan and
+
+17
+
+Alan Minsk). A lawyer from the Sunnyvale office of Blakely, Sokoloff, Taylor and
+
+18
+
+Zaffman LLP prosecuted the ’033 patent. Id. (Jordan Becker). Lawyers from the Los
+
+19
+
+Angeles office of the same firm prosecuted the ’446 and ’260 patents. Id. (Jordan
+
+20
+
+Becker and Dag Johansen). Both of those Los Angeles lawyers now work and live in
+
+21
+
+the Northern District of California. Id. A lawyer from the Palo Alto office of Beyer,
+
+22
+
+Weaver & Thomas LLP (now Beyer Law Group LLP) prosecuted the ’831 patent.
+
+23
+
+Id.(C. Douglass Thomas). Lawyers from the Palo Alto office of Stattler, Johansen &
+
+24
+
+Adeli prosecuted the ’260 patent. Id. (Adeli Mani, John Stattler and Dag Johansen).1
+
+25
+26
+27
+28
+
+1
+
+San Francisco, Palo Alto, and Sunnyvale, California, are all located in the Northern
+District of California.
+
+Gibson, Dunn &
+Crutcher LLP
+
+6
+
+Case 3:12-cv-00505-RCJ-VPC Document 37
+
+Filed 02/01/13 Page 11 of 26
+
+1
+
+On information and belief, today six of Unwired Planet’s former counsel
+
+2
+
+involved in the prosecutions of the Asserted Patents work, and presumably live, in the
+
+3
+
+Northern District of California. See id. (C. Douglass Thomas, Melvin Chan, Jordan
+
+4
+
+Becker, Thomas C. Webster, John Stattler, and Dag Johansen). One works outside of
+
+5
+
+the Northern District of California, but within the state of California, in Los Angeles.
+
+6
+
+Id. (Adeli Mani). The remaining attorneys work in Colorado, Texas, and Washington
+
+7
+
+State. Id. (Michael J. Fogarty, III, Michael A. Papalas, David H. Tannenbaum, Kent
+
+8
+
+A. Fischmann, Kenneth L. Johnson, Alan Minsk). On information and belief, none
+
+9
+
+reside within the District of Nevada, nor are they within the subpoena power of the
+
+10
+11
+12
+13
+
+District of Nevada. See id.
+4.
+
+Numerous Relevant Former Unwired Planet Employees Reside in
+Northern California — None Reside in Nevada
+
+In 2012, Unwired Planet, Inc. sold its operating businesses (retaining only its
+
+14
+
+patent portfolio) to two companies in Redwood City, California, and another company
+
+15
+
+based in India but whose U.S. office is in Santa Clara, California – in the Northern
+
+16
+
+District of California. Compl. ¶ 14; Wallace Decl. ¶¶ 20, 24, Exs. 12-14. On
+
+17
+
+information and belief, at least one former Unwired Planet, Inc. employee who has
+
+18
+
+knowledge of the work that led to or is related to the Asserted Patents is still employed
+
+19
+
+at one of the companies that acquired Unwired Planet’s operating businesses and is
+
+20
+
+therefore located in the Northern District of California. Id., ¶ 28, Ex. 18.
+
+21
+
+In addition, several other former Unwired Planet employees known to have
+
+22
+
+relevant knowledge are believed to be located in Northern California. For example,
+
+23
+
+David Cordeiro, Unwired Planet’s former associate general counsel and intellectual
+
+24
+
+property counsel, lives and works in Northern California. Id. ¶ 21. Based on
+
+25
+
+information learned in the ITC Investigation, it is likely that Mr. Cordeiro possesses
+
+26
+
+knowledge of patent licenses Unwired Planet entered into during his tenure, which will
+
+27
+
+be relevant to any damages calculation in this case. Similarly, Bruce Posey, Unwired
+
+28
+
+Planet’s former general counsel, works in San Mateo, California, and is also likely to
+
+Gibson, Dunn &
+Crutcher LLP
+
+7
+
+Case 3:12-cv-00505-RCJ-VPC Document 37
+
+Filed 02/01/13 Page 12 of 26
+
+1
+
+have knowledge of Unwired Planet’s patent licenses. Id. ¶ 22. Apple is unaware of
+
+2
+
+any relevant former Unwired Planet employee who resides in Nevada.
+
+3
+
+III.
+
+ARGUMENT
+
+Pursuant to 28 U.S.C. § 1404(a), a court may transfer a case to a forum where
+
+4
+5
+
+the action could have been brought “[f]or the convenience of parties and witnesses,
+
+6
+
+[and] in the interests of justice.” 28 U.S.C. § 1404(a); Healy v. Philips, No. 94-56624,
+
+7
+
+1995 WL 643268, at *1 (9th Cir. Nov. 1, 1995). The Ninth Circuit has identified
+
+8
+
+several private and public interest factors to determine whether the requirements of
+
+9
+
+section 1404(a) are satisfied. The private interest factors include “(1) the location
+
+10
+
+where the relevant agreements were negotiated and executed, (2) the state that is most
+
+11
+
+familiar with the governing law, (3) the plaintiff’s choice of forum, (4) the respective
+
+12
+
+parties’ contacts with the forum, (5) the contacts relating to the plaintiff’s cause of
+
+13
+
+action in the chosen forum, (6) the differences in the costs of litigation in the two
+
+14
+
+forums, (7) the availability of compulsory process to compel the attendance of
+
+15
+
+unwilling non-party witnesses, and (8) the ease of access to sources of proof.” Jones v.
+
+16
+
+GNC Franchising, Inc., 211 F.3d 495, 498-99 (9th Cir. 2000). The public interest
+
+17
+
+factors identified by the courts include “the administrative difficulties flowing from
+
+18
+
+court congestion; the local interest in having localized controversies decided at home;
+
+19
+
+the interest in having the trial of a diversity case in a forum that is at home with the law
+
+20
+
+that must govern the action; the avoidance of unnecessary problems in conflict of laws,
+
+21
+
+or in the application of foreign law; and the unfairness of burdening citizens in an
+
+22
+
+unrelated forum with jury duty.” Id.
+
+23
+
+A.
+
+This Action Could Have Been Brought in the Northern District of
+
+24
+
+California
+
+25
+
+As a threshold matter in deciding section 1404(a) motions, courts consider
+
+26
+
+whether the action could have been brought in the target transferee district. Apple is
+
+27
+
+(and was at the time this lawsuit was filed) resident, headquartered, and subject to
+
+28
+
+personal jurisdiction in the Northern District of California. Unwired Planet cannot
+
+Gibson, Dunn &
+Crutcher LLP
+
+8
+
+Case 3:12-cv-00505-RCJ-VPC Document 37
+
+Filed 02/01/13 Page 13 of 26
+
+1
+
+dispute, therefore, that it could have filed this action in the Northern District of
+
+2
+
+California. See 28 U.S.C. §§ 1391(c)(2), (d); 1400(b).
+
+3
+
+B.
+
+4
+
+The Private Factors Overwhelmingly Favor Transfer
+1.
+
+California
+
+5
+6
+
+The Parties Have Far Greater Contacts with the Northern District of
+
+As explained above, both Apple and Unwired Planet have strong and long-
+
+7
+
+standing ties with the Northern District of California, and no significant ties with the
+
+8
+
+District of Nevada. Apple was founded and has been headquartered in Cupertino,
+
+9
+
+California, in the Northern District of California, since 1976. Buckley Decl. ¶ 2.
+
+10
+
+The titular plaintiff in this action, Unwired Planet LLC, has no history or
+
+11
+
+business in this district other than its creation in September 2012for this (and another)
+
+12
+
+patent infringement lawsuit. See Unwired Planet LLC v. Google, Inc., No. 3:12-CV-
+
+13
+
+00504-LRH-VPC (Sept. 19, 2012). Indeed, Unwired Planet, Inc.’s recent filing with
+
+14
+
+the Securities and Exchange Commission unambiguously admits that Unwired Planet
+
+15
+
+LLC conducts no business at all other than as a patent holding corporation:
+
+16
+
+22
+
+Except for owning the Patents contributed to it by UP [Unwired Planet,
+Inc.], commencing and conducting the Legal Actions set forth on
+Schedule 4.2(e)-1 and the incurrence of expenses in connection therewith
+or as otherwise described on Schedule 4.2(e)-2 since its formation,
+UPLLC [Unwired Planet LLC] has (i) conducted no other business,
+operations or activities, (ii) owns no other assets or properties, (iii) has
+no material liabilities or obligations of any kind other than pursuant to
+this Agreement and the Ancillary Agreements to which it is a party and
+(iv) is not a party to or bound by any Contract, other than this Agreement
+and those Contracts described on Schedule 4.2(e)-2 and, upon execution
+and delivery by UPLLC, the Ancillary Agreements to which UPLLC is a
+party.
+
+23
+
+Wallace Decl., ¶ 27, Ex. 17, at 20 (emphasis supplied). Moreover, even though
+
+24
+
+Unwired Planet LLC has represented to this Court in its Complaint (Compl., ¶ 4), and
+
+25
+
+again just days ago, on January 24, 2013, that its “principal place of business” is at a
+
+26
+
+California Avenue address in Reno (Dkt. No. 35), the next day Apple confirmed that
+
+27
+
+this location is entirely vacant – Unwired Planet LLC has no office there. Durkee
+
+28
+
+Decl. ¶ 2.
+
+17
+18
+19
+20
+21
+
+Gibson, Dunn &
+Crutcher LLP
+
+9
+
+Case 3:12-cv-00505-RCJ-VPC Document 37
+
+Filed 02/01/13 Page 14 of 26
+
+1
+
+Courts have repeatedly made clear that creation of an entity in a particular
+
+2
+
+district for purposes of prosecuting litigation in that district is not a basis to resist
+
+3
+
+transfer. For example, in In re Microsoft Corporation, the Federal Circuit ordered
+
+4
+
+transfer where the plaintiff was incorporated in the original district sixteen days before
+
+5
+
+filing suit and for the purpose of litigating the case. 630 F.3d 1361, 1364-65 (Fed. Cir.
+
+6
+
+2011). Similarly, in In re Zimmer, the Federal Circuit ordered transfer where the
+
+7
+
+plaintiff’s location of its principal place of business in the original venue was plainly
+
+8
+
+designed to manipulate venue. 587 F.3d 1378, 1382 (Fed. Cir. 2009) (finding the
+
+9
+
+plaintiff’s connection to the original district to be a “legal fiction”). Here, Unwired
+
+10
+
+Planet LLC’s organization in Nevada just six days before the filing of the lawsuit for
+
+11
+
+the stated purpose of litigation in this District falls squarely under the types of facts
+
+12
+
+that have been rejected as bases for resisting transfer. See In re Microsoft,630 F.3d at
+
+13
+
+1364-65 (rejecting the plaintiff’s argument that it was entitled to the original venue
+
+14
+
+simply because it was incorporated and had its principal place of business in the
+
+15
+
+original district).
+
+16
+
+While Unwired Planet LLC’s parent, Unwired Planet, Inc. (not a party),
+
+17
+
+admittedly is not a brand-new entity created just for litigation, its history and ties all lie
+
+18
+
+with the Northern District of California, not with the District of Nevada. As noted
+
+19
+
+above, Unwired Planet, Inc. was founded in Northern California in 1994 and has been
+
+20
+
+located in that district for almost twenty years. Wallace Decl. ¶¶ 7-11, Exs. 3-7. Thus,
+
+21
+
+the technologies relating or leading to the Asserted Patents(other than those acquired
+
+22
+
+by Unwired Planet) were developed while Unwired Planet, Inc. was headquartered and
+
+23
+
+had its engineering development located in Northern California. Compare Compl. ¶¶
+
+24
+
+15-24 and Wallace Decl. ¶¶ 7-11, Exs. 3-7. Meanwhile, Unwired Planet LLC had no
+
+25
+
+role in the development of the Asserted Patents. In similar situations, courts have
+
+26
+
+concluded that the parent’s connection with the transferee district outweighed its
+
+27
+
+subsidiary’s connection with the transferor district, even where that subsidiary was
+
+28
+
+incorporated in the transferor district. Shared Memory Graphics LLC v. Apple Inc.,
+
+Gibson, Dunn &
+Crutcher LLP
+
+10
+
+Case 3:12-cv-00505-RCJ-VPC Document 37
+
+Filed 02/01/13 Page 15 of 26
+
+1
+
+No. 5:09CV5128 BSM, 2010 WL 5151612, *3-4 (W.D. Ark. May 27, 2010) (granting
+
+2
+
+defendant’s motion to transfer to the Northern District of California, where although
+
+3
+
+plaintiff was incorporated in the transferor district, the plaintiff entity had no role in the
+
+4
+
+development of the Asserted Patents, and the plaintiff’s parent company, which
+
+5
+
+negotiated and purchased the patents in question before transferring them to the
+
+6
+
+plaintiff, was headquartered in Southern California, which the court observed was
+
+7
+
+“considerably closer” to the Northern District of California than to the Western District
+
+8
+
+of Arkansas).
+
+9
+
+Moreover, no weight should be given to Unwired Planet, Inc.’s recent “move” to
+
+10
+
+Nevada. First, Unwired Planet, Inc. is not a party to this lawsuit, so its “move” is not
+
+11
+
+persuasive to the analysis. Second, Unwired Planet, Inc. only announced its “move”
+
+12
+
+the day this litigation was filed. And third, it is not clear at this point whether Unwired
+
+13
+
+Planet, Inc.’s recent “move” to Nevada has real substance. For example, Unwired
+
+14
+
+Planet, Inc. continues to issue press releases out of Redwood City that identify Silicon
+
+15
+
+Valley as its headquarters. Id. ¶ 25, Ex. 15. In addition, it is not clear whether or how
+
+16
+
+many of Unwired Planet, Inc.’s current employees, including its executive leadership
+
+17
+
+team, are actually residents of Nevada. See id. ¶ 23; see also Durkee Decl. ¶ 2. Three
+
+18
+
+of the four individuals on Unwired Planet, Inc.’s “Executive Leadership” webpage
+
+19
+
+appear, based on publicly available information, to be located in the San Francisco Bay
+
+20
+
+Area. Wallace Decl. ¶ 23. All three of those executives were deposed in the just-
+
+21
+
+concluded lawsuit at the International Trade Commission involving Unwired Planet
+
+22
+
+and Apple and had their depositions taken in Northern California. Id. Furthermore,
+
+23
+
+neither Unwired Planet LLC nor Unwired Planet, Inc. is even licensed to do business
+
+24
+
+in Nevada, as neither appears to currently have a Reno business license. Durkee Decl.
+
+25
+
+¶ 3. What is clear, however, is that both the organization of Unwired Planet LLC in
+
+26
+
+Nevada and the public announcement of its parent’s “move” to Nevada are motivated
+
+27
+
+by litigation – facts to which Unwired Planet, Inc.’s CEO has admitted in public
+
+28
+
+comments. See Wallace Decl. ¶ 15, Ex. 1.
+
+Gibson, Dunn &
+Crutcher LLP
+
+11
+
+Case 3:12-cv-00505-RCJ-VPC Document 37
+
+1
+
+Filed 02/01/13 Page 16 of 26
+
+In sum, Unwired Planet LLC’s organization in Nevada just six days before it
+
+2
+
+filed this lawsuit and Unwired Planet, Inc.’s “move” to Reno, Nevada, are precisely the
+
+3
+
+types of litigation-driven maneuvers that courts have rejected as reasons to oppose
+
+4
+
+transfer to a more convenient forum. See, e.g., In re Microsoft Corp., 630 F.3d at
+
+5
+
+1364-5; In re Zimmer Holdings, Inc., 609 F.3d at 1381(citing Hertz Corp. v. Friend,
+
+6
+
+559 U.S. 77, 130 S.Ct. 1181, 1195 (2010)(ordering transfer where the plaintiff’s
+
+7
+
+presence in the original forum was “recent, ephemeral, and an artifact of litigation”
+
+8
+
+(emphasis supplied)); In re Hoffmann-La Roche, Inc., 587 F.3d 1333, 1337 (Fed. Cir.
+
+9
+
+2009) (“A plaintiff’s attempts to manipulate venue in anticipation of litigation or a
+
+10
+
+motion to transfer falls squarely within these prohibited activities.”); Convergence
+
+11
+
+Techs. (USA) v. Microloops Corp., 711 F. Supp. 2d 626, 641-42 (E.D. Va. 2010)
+
+12
+
+(granting defendant’s motion to transfer to the Northern District of California, where
+
+13
+
+although the plaintiff was incorporated in the transferor district, the court concluded
+
+14
+
+that the transferor district was only “nominally” plaintiff’s home forum as the plaintiff
+
+15
+
+was owned and controlled by a foreign corporation for the purposes of managing the
+
+16
+
+foreign parent’s U.S. sales); see also Dainippon Screen Mfg. Co. v. CFMT, Inc., 142
+
+17
+
+F.3d 1266, 1271 (Fed. Cir. 1998) (finding that the subsidiary patent holding company,
+
+18
+
+over which the parent maintained complete control, could not be used as a vehicle to
+
+19
+
+divert personal jurisdiction from the parent’s home district).
+
+20
+
+In fact, even in situations where the party seeking transfer was incorporated in
+
+21
+
+the original forum long before the motion to transfer was filed, the Federal Circuit has
+
+22
+
+ordered transfer and given minimal weight to the parties’ location of incorporation.
+
+23
+
+For example, in In re Link_A_Media Devices Corporation, 662 F.3d 1221 (Fed. Cir.
+
+24
+
+2011), the Federal Circuit reversed the district court’s denial of transfer despite the fact
+
+25
+
+that the defendant seeking transfer was incorporated in the plaintiff’s chosen forum
+
+26
+
+years before the lawsuit was filed. Id. at 1223-24 (reversing the district court’s denial
+
+27
+
+of transfer and finding “inappropriate” the district court’s “heavy reliance” on the
+
+28
+
+defendant’s long-standing location of incorporation in the lawsuit’s original forum)
+
+Gibson, Dunn &
+Crutcher LLP
+
+12
+
+Case 3:12-cv-00505-RCJ-VPC Document 37
+
+Filed 02/01/13 Page 17 of 26
+
+1
+
+(citing Koster v. Lumbermens Mut. Cas. Co., 330 U.S. 518, 527-528, 67 S.Ct. 828
+
+2
+
+(1947) (the “[p]lace of corporate domicile in such circumstances might be entitled to
+
+3
+
+little consideration under the doctrine of forum non-conveniens, which resists
+
+4
+
+formalization and looks to the realities for doing justice.” (emphasis supplied)). Here,
+
+5
+
+the reality is that plaintiff Unwired Planet LLC’s organization in Nevada – which
+
+6
+
+occurred virtually simultaneously with Unwired Planet LLC’s filing of this lawsuit –
+
+7
+
+and non-party Unwired Planet, Inc.’s recent “move” to Nevada – the extent of which
+
+8
+
+remains unclear – are “recent, ephemeral, and an artifact of litigation,” and should be
+
+9
+
+given no weight in the transfer analysis whatsoever. See also Hertz Corp., 559 U.S.
+
+10
+
+77, 130 S.Ct. at 1194 (holding that “nothing more than a mail drop box, a bare office
+
+11
+
+with a computer, or the location of an annual executive retreat” cannot constitute a
+
+12
+
+corporation’s “nerve center”).
+
+13
+14
+
+2.
+
+The Contacts Relating to the Causes of Action Are Located in the
+Northern District of California
+
+15
+
+The Ninth Circuit finds transfer appropriate where there is “[n]o significant
+
+16
+
+connection between [the forum] and the facts alleged in the complaint.” See, e.g.,
+
+17
+
+Ventress v. Japan Airlines, 486 F.3d 1111, 1118 (9th Cir. 2007). Here, there is no
+
+18
+
+connection – significant or otherwise – between Nevada and any of the facts alleged in
+
+19
+
+the Complaint.
+
+20
+
+As explained above, Plaintiff Unwired Planet LLC has accused Apple of
+
+21
+
+infringing ten patents. Compl. ¶ 27. All of the events, and hence contacts, relating to
+
+22
+
+the development of the alleged inventions claimed in the Asserted Patents occurred
+
+23
+
+outside of this District, and predominately in the Northern District of California. First,
+
+24
+
+as noted above, Unwired Planet, Inc. was located in Northern California (id. ¶¶ 7-11,
+
+25
+
+Exs. 3-7) when all of the applications underlying the Asserted Patents were filed
+
+26
+
+(between 1996 and 2008). Compl. ¶¶ 15-24. (Plaintiff Unwired Planet LLC did not
+
+27
+
+exist.) Second, according to the cover page of each of the Asserted Patents, at the time
+
+28
+
+the patents were filed nearly all of the named inventors resided in the Northern District
+
+Gibson, Dunn &
+Crutcher LLP
+
+13
+
+Case 3:12-cv-00505-RCJ-VPC Document 37
+
+Filed 02/01/13 Page 18 of 26
+
+1
+
+of California. See Wallace Decl. ¶ 17. The patents identify the remaining inventors as
+
+2
+
+being from Washington, Colorado, and Ireland. Id. Taken together, the location of the
+
+3
+
+companies and inventors demonstrate that all of the engineering work or product
+
+4
+
+development that led or relates to the patents occurred outside of this District, and
+
+5
+
+predominately in the Northern District of California. Similarly, and also as explained
+
+6
+
+above, most of the attorneys who prosecuted the patent applications are also located in
+
+7
+
+Northern California. See id. ¶¶ 17, 19. No activity related to the prosecution of the
+
+8
+
+Asserted Patents occurred in Nevada.
+Additionally, the relevant events, and hence contacts, related to the accused
+
+9
+10
+
+products occurred outside of this District and in the Northern District of California.
+
+11
+
+Specifically, the research, design, and development work related to the relevant aspects
+
+12
+
+of Apple’s accused products occurred or is occurring in Northern California –not in
+
+13
+
+Nevada. Buckley Decl. ¶¶ 4, 6. The engineers and documents related to that work,
+
+14
+
+therefore, are located within the Northern District of California. Id. And although
+
+15
+
+Apple sells the accused products nationwide, there is no indication that Apple
+
+16
+
+specifically targets customers in Nevada over customers in other states, so that
+
+17
+
+“connection” cannot outweigh the lack of connection in every other respect.2See In re
+
+18
+
+TS Tech USA Corp., 551 F.3d 1315, 1321 (Fed. Cir. 2008) (holding sale of product in
+
+19
+
+district does not create local interest because product sold nationwide); Lycos, Inc., 499
+
+20
+
+F. Supp. 2d at 692 (E.D. Va. 2007) (“Lycos notes that Virginia’s residents purchase
+
+21
+
+and use allegedly infringing products, method, and systems from the defendants.
+
+22
+
+However, the defendants likely have this same contact with every other state in this
+
+23
+
+nation.”); In re Volkswagen of Am., Inc., 545 F.3d 304, 318 (5th Cir. 2008)
+
+24
+25
+26
+27
+28
+
+2
+
+While Apple’s subsidiary, Braeburn Capital – an asset management firm – is based in Nevada, it
+has no involvement with the patent infringement issues relevant to this lawsuit. Buckley Decl.
+¶ 8. Similarly, based on Apple’s understanding of the accused products and functions in this
+case, Apple’s current retail stores and/or plans to build a data center in Nevada in the future have
+no bearing on the patent infringement issues. Id.¶¶ 9-10.
+
+Gibson, Dunn &
+Crutcher LLP
+
+14
+
+Case 3:12-cv-00505-RCJ-VPC Document 37
+
+Filed 02/01/13 Page 19 of 26
+
+1
+
+(disregarding local interest of citizens who used the widely sold product within the
+
+2
+
+transferor venue).
+Clearly, the Northern District of California possesses a far greater relationship to
+
+3
+4
+
+the causes of action than this District.
+3.
+
+5
+
+Ease of Access to Sources of Proof Strongly Favors the Northern
+District of California
+
+6
+7
+
+Given that the contacts relating to the causes of action in this case are located in
+
+8
+
+Northern California, it is no surprise that the ease-of-access-to-sources-of-proof factor
+
+9
+
+overwhelmingly favors transfer to the Northern District of California.
+First, as the Federal Circuit has recognized, in patent infringement cases, “the
+
+10
+11
+
+bulk of the relevant evidence usually comes from the accused infringer. Consequently,
+
+12
+
+the place where the defendant’s documents are kept weighs in favor of transfer to that
+
+13
+
+location.” In re Genentech, Inc., 566 F.3d 1338, 1345 (Fed. Cir. 2009) (quoting Neil
+
+14
+
+Bros. Ltd. v. World Wide Lines, Inc., 425 F. Supp. 2d 325, 330 (E.D.N.Y. 2006)).
+
+15
+
+Courts in the Ninth Circuit have held that “[i]n patent infringement actions, the
+
+16
+
+preferred forum is ‘that which is the center of gravity of the accused activity.’” GPNE
+
+17
+
+Corp. v. Amazon.com, Inc., No. 11-00426 SOM-RLP, 2012 WL 1656923, at *5 (D.
+
+18
+
+Haw. May 9, 2012) (quoting Ricoh Co., Ltd. v. Honeywell, Inc., 817 F. Supp. 473, 482
+
+19
+
+n.17 (D.N.J. 1993)). Here, as explained, Apple is headquartered in Northern
+
+20
+
+California, the development of the accused products occurred or is occurring in
+
+21
+
+Northern California, and the relevant documents therefore also are located in Northern
+
+22
+
+California.3 Buckley Decl. ¶¶ 4, 6. Likewise, Apple’s marketing, finance, and sales
+
+23
+
+employees who might be witnesses in this case are located in Northern California. See
+
+24
+25
+26
+27
+28
+
+3
+
+The Court should consider the physical location of evidence, even where some of
+the evidence is stored electronically. In re Volkswagen of Am., Inc., 545 F.3d at
+316 (“That access to some sources of proof presents a lesser inconvenience now
+than it might have absent recent developments does not render this factor
+superfluous.”); In re Genentech, Inc., 566 F.3d 1338, 1345 (Fed. Cir. 2009) (same).
+
+Gibson, Dunn &
+Crutcher LLP
+
+15
+
+Case 3:12-cv-00505-RCJ-VPC Document 37
+
+Filed 02/01/13 Page 20 of 26
+
+1
+
+id. Indeed, in the ITC Investigation, as noted, all of Apple’s witnesses and documents
+
+2
+
+were produced out of the Northern District of California.
+
+3
+
+Consequently, litigation in the District of Nevada would impose additional costs
+
+4
+
+on Apple and require its witnesses to spend additional time away from their regular
+
+5
+
+employment than would otherwise be required if the case were prosecuted in the
+
+6
+
+Northern District of California. See In re Nintendo Co., Ltd., 589 F.3d 1194, 1199
+
+7
+
+(Fed. Cir. 2009) (quoting In re Volkswagen of Am., Inc., 545 F.3d at 317 (“Additional
+
+8
+
+distance [from home] means additional travel time; additional travel time increases the
+
+9
+
+probability for meal and lodging expenses; and additional travel time with overnight
+
+10
+
+stays increases the time these fact witnesses must be away from their regular
+
+11
+
+employment.”)). Indeed, courts in the Ninth Circuit have held that the “inconvenience
+
+12
+
+to witnesses is sometimes considered the most important factor in determining whether
+
+13
+
+a transfer of venue is appropriate.” GPNE Corp., 2012 WL 1656923, at *3 (citing
+
+14
+
+Saleh v. Titan Corp., 361 F. Supp. 2d 1152, 1160 (S.D. Cal. 2005)) (emphasis
+
+15
+
+supplied); Ruiz v. Affinity Logistics, No. C 05-02015JSW, 2005 WL 5490240, at *8
+
+16
+
+(N.D. Cal. Nov. 7, 2005).
+
+17
+
+Further, as discussed above, the development by Unwired Planet of the
+
+18
+
+technology relating to the Asserted Patents occurred while Unwired Planet was located
+
+19
+
+in Northern California. Id. ¶¶ 7-11, Exs. 3-7. And the companies that bought Unwired
+
+20
+
+Planet’s operating business – Openwave Mobility, Inc. and Openwave Messaging, Inc.
+
+21
+
+– are still located in Northern California. Id. ¶ 24, Exs. 13-14. Thus, it is likely that
+
+22
+
+any technical witnesses involved in the development of the technology underlying the
+
+23
+
+patents at issue reside within the Northern District of California. See id. ¶ 28, Ex. 18.
+
+24
+
+Indeed, in the just-concluded case between Unwired Planet and Apple at the U.S.
+
+25
+
+International Trade Commission, every single one of Unwired Planet’s witnesses who
+
+26
+
+gave depositions were offered up by Unwired Planet for depositions in Northern
+
+27
+
+California. Id. ¶ 6.
+
+28
+Gibson, Dunn &
+Crutcher LLP
+
+16
+
+Case 3:12-cv-00505-RCJ-VPC Document 37
+
+1
+
+Filed 02/01/13 Page 21 of 26
+
+And with respect to the attorneys who prosecuted the patents in suit, today, five
+
+2
+
+of the prosecuting attorneys still reside in Northern California. Id. ¶ 19. One lives
+
+3
+
+outside of the district, but within the state of California, in Los Angeles. Id. The
+
+4
+
+remaining prosecuting attorneys are in Colorado, Texas, and Washington State. Id.
+
+5
+
+None work or reside in Nevada. See id. Thus, the sources of proof associated with the
+
+6
+
+prosecution of the Asserted Patents are far more accessible in Northern California than
+
+7
+
+in Nevada.
+
+8
+9
+
+In cases such as this, where the vast amount of evidence is in the proposed
+transferee district, transfer is appropriate. See, e.g., In re Acer Am. Corp., 626 F.3d
+
+10
+
+1252, 1256 (Fed. Cir. 2010) (holding that sources-of-proof factor favored transfer
+
+11
+
+where significant portion of evidence was located in the proposed transferee district).
+
+12
+
+4.
+
+Many Non-Party Witnesses Would Be Subject to Compulsory Process
+
+13
+
+in the Northern District of California – None Would Be in the District
+
+14
+
+of Nevada
+
+15
+
+Because none of the foreseeable third-party witnesses are subject to compulsory
+
+16
+
+process in this District, but most would be if this action is transferred to the Northern
+
+17
+
+District of California, this factor weighs heavily in favor of transfer. In fact, as
+
+18
+
+detailed above in Section II.C., if this litigation were to remain in Nevada, Apple
+
+19
+
+would not be able to compel the attendance at trial of even one inventor or former
+
+20
+
+prosecution counsel. On the other hand, most of the non-party inventors are located in
+
+21
+
+Northern California (id. ¶ 17), as are most of the prosecuting attorneys, none are in
+
+22
+
+Nevada. Id. ¶ 19. Moreover, all but one of the individuals accused by Apple of
+
+23
+
+inequitable conduct are located in Northern California; none are located in Nevada. Id.
+
+24
+
+¶ 18. In addition, the former Unwired Planet employees of whom Apple is aware and
+
+25
+
+from whom Apple may seek testimony are also located in Northern California, not
+
+26
+
+Nevada. Id. ¶¶ 21-23. Accordingly, the majority of individuals with relevant
+
+27
+
+knowledge are located in Northern California, and therefore, they are subject to
+
+28
+
+compulsory process in the Northern District of California. See Fed. R. Civ. P.
+
+Gibson, Dunn &
+Crutcher LLP
+
+17
+
+Case 3:12-cv-00505-RCJ-VPC Document 37
+
+Filed 02/01/13 Page 22 of 26
+
+1
+
+45(b)(2). And none of them are located within 100 miles of the courthouse of the
+
+2
+
+United States District Court for the District of Nevada in Reno, so none of them would
+
+3
+
+be subject to compulsory process in this jurisdiction. Id. As such, the location of non-
+
+4
+
+party witnesses overwhelmingly favors transfer.
+
+5
+
+5.
+
+California
+
+6
+7
+
+The Cost of Litigation Will Be Far Less in the Northern District of
+
+It would be far less costly, for reasons set forth in detail above, to litigate this
+
+8
+
+case in the Northern District of California. First, the vast majority of sources of proof
+
+9
+
+– including party and non-party documents and witnesses – are located within the
+
+10
+
+Northern District of California. The travel costs associated with party and non-party
+
+11
+
+witnesses’ participation in trial, for example, would be much lower in the Northern
+
+12
+
+District of California, where virtually all of these witnesses are domiciled, than they
+
+13
+
+would be if this case were tried in the District of Nevada (assuming that the non-party
+
+14
+
+witnesses even agreed to show up for trial in the District of Nevada in the first place).
+
+15
+
+In re Verizon Bus. Network Servs., 635 F.3d 559, 561 (Fed. Cir. 2011) (where it was
+
+16
+
+undisputed that no witnesses resided within 100 miles of the transferor district,
+
+17
+
+transferring the case would “significantly” reduce the cost, time and expense of travel).
+
+18
+19
+20
+
+6.
+
+Unwired Planet’s Choice of Forum Is Entitled to Little, If Any,
+Weight
+
+A plaintiff’s choice of forum is “far from absolute,” even in situations in which
+
+21
+
+the plaintiff has strong and long-standing ties to that forum. See Lockman Found. v.
+
+22
+
+Evangelical Alliance Mission, 930 F.2d 764, 767 (9th Cir. 1991). What matters in the
+
+23
+
+transfer analysis is where the operative facts occurred, and therefore “[i]f the operative
+
+24
+
+facts have not occurred within the forum of original selection and that forum has no
+
+25
+
+particular interest in the parties or the subject matter, the plaintiff’s choice is entitled
+
+26
+
+only to minimal consideration.” Pac. Car & Foundry Co. v. Pence, 403 F.2d 949, 954
+
+27
+
+(9th Cir. 1968); see also GPNE Corp. v. Amazon.com, Inc., 2012 WL 1656923, at *5
+
+28
+
+(“Where the action has little connection with the chosen forum, less deference is
+
+Gibson, Dunn &
+Crutcher LLP
+
+18
+
+Case 3:12-cv-00505-RCJ-VPC Document 37
+
+Filed 02/01/13 Page 23 of 26
+
+1
+
+afforded to plaintiff’s choice, even if plaintiff is a resident of the forum.”). “In patent
+
+2
+
+infringement, the preferred forum is ‘that which is the center of gravity of the accused
+
+3
+
+activity.’ The district court ‘ought to be as close as possible to the milieu of the
+
+4
+
+infringing device and the hub of activity centered around its production.’” GPNE
+
+5
+
+Corp., 2012 WL 1656923, at *5 (citations omitted).
+
+6
+
+Here, as also described in detail above, virtually all of the operative facts –
+
+7
+
+including the development of the alleged inventions, the prosecution of the Asserted
+
+8
+
+Patents, and the development of the accused products – occurred in the Northern
+
+9
+
+District of California, rather than in the District of Nevada. See Section III.B.2, supra.
+
+10
+
+The fact that the accused products may be sold in the District of Nevada – just as they
+
+11
+
+are in every other judicial district in the country, including in the Northern District of
+
+12
+
+California – is not persuasive in the transfer analysis. See Lycos, 499 F. Supp. 2d at
+
+13
+
+692 (“It is well-settled that the mere existence of limited sales activity within Virginia
+
+14
+
+does not require this court to give the plaintiff’s choice of forum substantial weight
+
+15
+
+when balancing the convenience and justice factors. . . . Moreover, the fact that
+
+16
+
+Virginia’s residents use the purportedly infringing products, methods, and systems
+
+17
+
+avails Lycos nothing, as Lycos is not suing those residents in this action.”); Osteotech,
+
+18
+
+Inc. v. GenSci Regeneration Scis., Inc., 6 F. Supp. 2d 349, 358 (D.N.J. 1998) (weight is
+
+19
+
+not given to “where limited sales activity has occurred”).
+
+20
+
+Plaintiff Unwired Planet LLC’s formation in Nevada and organization under
+
+21
+
+Nevada law just days before the Complaint was filed and Unwired Planet, Inc.’s recent
+
+22
+
+“move” to the District of Nevada should similarly be rejected as bases for resisting
+
+23
+
+transfer. See In re Microsoft, 630 F.3d at 1365 (finding transfer appropriate where the
+
+24
+
+plaintiff incorporated in the chosen forum sixteen days before the lawsuit was filed);
+
+25
+
+Pragmatus AV, LLC v. Facebook, Inc., 769 F. Supp. 2d 991, 995 (E.D. Va. 2011)
+
+26
+
+(finding that plaintiff’s choice of forum should be afforded “minimal weight” where
+
+27
+
+plaintiff was formed in the chosen forum five months before it filed the lawsuit). See
+
+28
+
+also Lycos, Inc. 499 F. Supp. 2d at 692 (minimizing significance of plaintiff’s alleged
+
+Gibson, Dunn &
+Crutcher LLP
+
+19
+
+Case 3:12-cv-00505-RCJ-VPC Document 37
+
+Filed 02/01/13 Page 24 of 26
+
+1
+
+connection with Virginia, where although plaintiff was incorporated in Virginia,
+
+2
+
+Virginia’s laws of incorporation were irrelevant to the lawsuit). Indeed, Unwired
+
+3
+
+Planet, Inc.’s CEO publicly admitted that these efforts were litigation driven. See
+
+4
+
+Wallace Decl. ¶ 15, Ex. 11.
+
+5
+
+C.
+
+The Applicable Public Factors Favor Transfer
+
+6
+
+The local interest of the Northern District of California in having localized
+
+7
+
+controversies decided at home is strong here, where virtually all of the causes of action
+
+8
+
+and most of the applicable witnesses are located in that forum. See Sections II.B.2-3,
+
+9
+
+supra. Unwired Planet’s formation in Nevada just before filing this lawsuit does not
+
+10
+
+change the fact that this case involves two companies with deep roots in Northern
+
+11
+
+California, patents that were developed and prosecuted in Northern California, and
+
+12
+
+accused products that were developed in Northern California.
+Given the close relationship of the controversies involved in this lawsuit with
+
+13
+14
+
+the Northern District of California and their utter lack of relationship to Nevada, it
+
+15
+
+would be unfair to burden the citizens of Nevada with jury duty for this case. This is
+
+16
+
+particularly acute in this lawsuit, as it will likely require a lengthy trial, given that
+
+17
+
+Unwired Planet has chosen to assert ten different patents and accuse at least fifteen
+
+18
+
+different products of infringement. Compl. ¶¶ 15-24, 27.
+
+19
+
+D.
+
+20
+
+The Remaining Private and Public Factors Are Neutral or Not Applicable
+All of the remaining private and public factors – the location where the relevant
+
+21
+
+agreements were negotiated and executed, the state that is most familiar with the
+
+22
+
+governing law, the administrative difficulties flowing from court congestion, the
+
+23
+
+interest in having the trial of a diversity case in a forum that is at home with the law
+
+24
+
+that must govern the action, and the avoidance of unnecessary problems in conflict of
+
+25
+
+laws or in the application of foreign law – are either neutral or not applicable to this
+
+26
+
+lawsuit, and therefore do not affect the transfer calculus.
+
+27
+28
+Gibson, Dunn &
+Crutcher LLP
+
+20
+
+Case 3:12-cv-00505-RCJ-VPC Document 37
+
+IV.
+
+1
+2
+
+Filed 02/01/13 Page 25 of 26
+
+CONCLUSION
+
+For the foregoing reasons, Apple respectfully requests that the Court grant this
+
+3
+
+Motion and transfer this case, pursuant to 28 U.S.C. § 1404(a), to the United States
+
+4
+
+District for the Northern District of California.
+
+5
+
+DATED: February 1, 2013
+By: /s/ Jonathan W. Fountain
+Jonathan W. Fountain
+Nevada Bar No. 10351
+JFountain@LRLaw.com
+LEWIS AND ROCA LLP
+3993 Howard Hughes Pkwy., Ste. 600
+Las Vegas, NV 89169-5996
+Tel.: 702.949.8340
+Fax: 702.949.8374
+
+6
+7
+8
+9
+10
+11
+
+E. Leif Reid
+Nevada Bar No. 5750
+LReid@LRLaw.com
+LEWIS AND ROCA LLP
+50 West Liberty St., Ste. 410
+Reno, NV 89501-1922
+Tel.: 775.321.3415
+Fax: 775.823.2929
+
+12
+13
+14
+15
+
+Josh Krevitt (admitted pro hac vice)
+GIBSON, DUNN & CRUTCHER LLP
+200 Park Avenue
+New York, NY 10166-0193
+Tel.: 212.351.4000
+Fax: 212.351.4035
+
+16
+17
+18
+19
+
+22
+
+H. Mark Lyon (admitted pro hac vice)
+Y. Ernest Hsin (admitted pro hac vice)
+GIBSON, DUNN & CRUTCHER LLP
+1881 Page Mill Road
+Palo Alto, CA 94304-1211
+Tel.: 650.849.5300
+Fax: 650.849.5333
+
+23
+
+Attorneys for Defendant Apple Inc.
+
+20
+21
+
+24
+
+101447325.5
+
+25
+26
+27
+28
+Gibson, Dunn &
+Crutcher LLP
+
+21
+
+Case 3:12-cv-00505-RCJ-VPC Document 37
+
+CERTIFICATE OF SERVICE
+
+1
+2
+
+Filed 02/01/13 Page 26 of 26
+
+I, hereby certify that on February 1, 2013, I filed a true and accurate copy of the
+
+3
+
+foregoing document entitled, DEFENDANT APPLE INC.’S MOTION TO
+
+4
+
+TRANSFER VENUE PURSUANT TO 28 U.S.C. § 1414(a), with the Clerk of the
+
+5
+
+Court via the Court’s CM/ECF system, which will send electronic notice of the same
+
+6
+
+to the following CM/ECF participants:
+
+7
+
+
+
+Theodore Stevenson III (tstevenson@mckoolsmith.com);
+
+8
+
+
+
+Kevin L. Burgess (kburgess@mckoolsmith.com);
+
+9
+
+
+
+Pierre J. Hubert (phubert@mckoolsmith.com);
+
+10
+
+
+
+Michael D. Rounds (mrounds@watsonrounds.com); and
+
+11
+
+
+
+Adam K. Yowell (ayowell@watsonrounds.com)
+
+12
+
+Dated: this 1st day of February, 2013.
+
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+Gibson, Dunn &
+Crutcher LLP
+
+/s/ Jonathan W. Fountain
+An employee of Lewis and Roca LLP
+
+

@@ -1,0 +1,500 @@
+  101  python3 ../folder2scv.py --folder_path ./ --csv_type "both" --summarize
+  102  python3 ../folder2scv.py --folder_path ./ --csv_type "both" 
+  103  pwd
+  104  cd ../testset_TBD/
+  105  python3 ../folder2scv.py --folder_path ./ --csv_type "both" 
+  106  pwd
+  107  cd ..
+  108  ls | grep testset
+  109  cd testfiles/
+  110  pwd
+  111  cd ..
+  112  cd dataset/
+  113  python3 ../folder2scv.py --folder_path ../unerasedTestset/ --csv_type "both" 
+  114  ls
+  115  cd ..
+  116  ./smi
+  117  cd
+  118  ./smi
+  119  ./smi
+  120  ./smi
+  121  /usr/bin/python3 /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  122  /usr/bin/python3 /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  123  ./smi
+  124  kill 5524
+  125  kill 927
+  126  cd predict_motion/dataset/
+  127  ls
+  128  python3 ../folder2scv.py --folder_path ../unerasedTestset/ --csv_type "both" 
+  129  ls
+  130  python3 ../folder2scv.py --folder_path ../unerasedTestset/ --csv_type "both"
+  131  clear
+  132  ls
+  133  python3 ../folder2scv.py --folder_path ../unerasedTestset/ --csv_type "both" 
+  134  ls
+  135  cd ../test_data/
+  136  python3 getTest.py  -input ../dataset/testset.csv -output ../test_data/testset
+  137  python3 ../getTest.py  -input ../dataset/testset.csv -output ../test_data/testset
+  138  ls
+  139  python3 ../getTest.py  -input ../dataset/paired_testset.csv -output ../test_data/paired_testset
+  140  ls
+  141  ./smi
+  142  /usr/bin/python3 /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  143  cd
+  144  ls
+  145  cd */gvc
+  146  echo */gvc
+  147  cd mo*n/gvc
+  148  ls
+  149  ls -tl experiments
+  150  history | grep ipy
+  151  exit
+  152  cp -a ../oqcardoso . &
+  153  du -s .
+  154  du -s .
+  155  du -s .
+  156  du -s .
+  157  du -s .
+  158  du -s .
+  159  du -s .
+  160  du -s .
+  161  df
+  162  history
+  163  history | grep testset_test
+  164  ls
+  165  find . -name predictions
+  166  find . -name predictions -ls
+  167  cd */predict_motion
+  168  ls
+  169  ls -tl | head
+  170  cd predictions
+  171  ls -tl | more
+  172  more *
+  173  ls -tl
+  174  ls
+  175  cd ..
+  176  cd ..
+  177  cd mo*ion
+  178  ls
+  179  find . -name predictions
+  180  cd gvc
+  181  cd predictions
+  182  ls
+  183  more *csv
+  184  cd ../..
+  185  cd ..
+  186  cd ..
+  187  ls
+  188  find . -name '*prediction*'
+  189  more ./oqcardoso/predict_motion/normal-predictions/SGD-tfidf-oppopredictions.csv
+  190  ls
+  191  grep -r TBD .
+  192  grep -rl TBD .
+  193  ls
+  194  cd o*
+  195  ls
+  196  grep -rl TBD *
+  197  more predict_motion/copy-normal-predictions/KNN-sentence_embeddings-oppopredictions.csv
+  198  cd predict_motion
+  199  ls
+  200  ls -tl |head
+  201  ls -tl | more
+  202  find predictions
+  203  head predictions/*
+  204  ls
+  205  ls
+  206  ls -tl | more
+  207  cd copy-normal-predictions
+  208  ls
+  209  more *
+  210  cd ..
+  211  ls
+  212  ls -tl | more
+  213  /usr/bin/python3 /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.4.0/python_files/printEnvVariablesToFile.py /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.4.0/python_files/deactivate/bash/envVars.txt
+  214  /usr/bin/python3 /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /scratchB/oqcardoso/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  215  cd
+  216  ls
+  217  cd gvc-test
+  218  ls
+  219  cp ../mod*n/exper*nb .
+  220  cp ../mo*n/exper*nb .
+  221  ls
+  222  man nbconvert
+  223  jupyter-nbconvert --to=python experiments.ipynb
+  224  ls -tl
+  225  more experiments.py
+  226  more experiments.py
+  227  history > hist
+  228  ls
+  229  ls -tl
+  230  cd unsummarized
+  231  ls
+  232  mkdir models pipes predictions dataset
+  233  mv *csv dataset
+  234  python3 ./experiments.py
+  235  python3 ../experiments.py
+  236  grep PAIRED_PATH ex*py
+  237  ls
+  238  grep PAIRED_PATH ../ex*py
+  239  ls
+  240  vi *ip*
+  241  vi ../*ip*
+  242  ls -tl ..
+  243  vi ../exp*ipynb
+  244  vi ../*copy*
+  245  vi ../experiments.py
+  246  cd ..
+  247  ls
+  248  vi *ipynb
+  249  ls
+  250  diff *ipynb
+  251  ls -tl | head
+  252  grep PATH *ipynb
+  253  vi experiments.ipynb
+  254  jupyter-nbconvert --to=python experiments.ipynb
+  255  ls -tl | head
+  256  cd uns*
+  257  ls
+  258  mv dataset/*csv .
+  259  python3 ../experiments.py
+  260  ls -tl | head
+  261  grep TBD *csv
+  262  grep TBD *pair*csv
+  263  head *pair*csv
+  264  /tmp/decomma
+  265  /tmp/decomma < *pair*csv
+  266  /tmp/decomma < *pair*csv | head -1
+  267  /tmp/decomma < *pair*csv | cut -d, -f6
+  268  /tmp/decomma < *pair*csv | cut -d, -f6 | sort | uniq -c
+  269  wc *csv
+  270  ls -tl
+  271  ls -tl *csv
+  272  /tmp/decomma < *pair*csv | cut -d, -f6 | sort | uniq -c
+  273  /tmp/decomma < testset.csv | head
+  274  /tmp/decomma < testset.csv | head -1
+  275  /tmp/decomma < testset.csv | head -1
+  276  /tmp/decomma < testset.csv | cut -d, -f6
+  277  /tmp/decomma < testset.csv | cut -d, -f6
+  278  /tmp/decomma < testset.csv | cut -d, -f6 | sort -u | wc
+  279  ls -tl *csv
+  280  wc pai*csv
+  281  /tmp/decomma < testset.csv | sort -k6,6 -u
+  282  /tmp/decomma < testset.csv | sort -k6,6 -u | cut -d, -f4
+  283  /tmp/decomma < testset.csv | sort -k6,6 -u | cut -d, -f3
+  284  /tmp/decomma < testset.csv | sort -k6,6 -u | cut -d, -f3 | sort |uniq
+  285  /tmp/decomma < testset.csv | sort -k6,6 -u | cut -d, -f3 | sort |uniq -c
+  286  /tmp/decomma < testset.csv | sort -k6,6 -u | wc
+  287  /tmp/decomma < testset.csv | cut -d, -f6 | sort -u | wc
+  288  /tmp/decomma < testset.csv | sort -k6,6 -u -t, | cut -d, -f3 | sort |uniq -c
+  289  history | grep pair
+  290  /tmp/decomma < *pair*csv | cut -d, -f6 | sort | uniq -c
+  291  /tmp/decomma < testset.csv | sort -k6,6 -u -t, | cut -d, -f3 | sort |uniq -c
+  292  /tmp/decomma < *pair*csv | head -1
+  293  more *pair*csv
+  294  wc -l *pair*csv
+  295  ls -tl | head
+  296  ls models
+  297  cp ../m*n/predict-motion.ipynb .
+  298  cp ../m*n/per*/predict-motion.ipynb .
+  299  find ../m*n/
+  300  cp ../../m*n/per*/predict-motion.ipynb ..
+  301  cd ..
+  302  ls
+  303  vi pre*b
+  304  ls
+  305  cd un*
+  306  ls
+  307  mkdir permotion
+  308  ls
+  309  mv pai*csv dataset
+  310  cd per*
+  311  ls -tl ..
+  312  ls -tl ../..
+  313  cp ../../pred*ion.ipynb .
+  314  history > ../../hist
+  315  history > ../../hist
+  316  history | grep nbc
+  317  jupyter-nbconvert --to=python *ipynb
+  318  vi *py
+  319  ls -tl *py
+  320  grep both pre*py
+  321  grep tfidf pre*py
+  322  ls
+  323  ls ../*csv
+  324  ls ../database/*csv
+  325  ls ..
+  326  find .. -name '*pair*'
+  327  wc ../*/pair*
+  328  grep grant ../*/pair*
+  329  grep grant ../*/pair* | wc -l
+  330  grep '"grant"' ../*/pair* | wc -l
+  331  grep '" grant"' ../*/pair* | wc -l
+  332  grep '" *grant *"' ../*/pair* | wc -l
+  333  grep deny ../*/pai*
+  334  grep deny ../*/pai* | more
+  335  grep both permotion
+  336  grep both permotion*
+  337  ls
+  338  grep both *py
+  339  ls
+  340  vi permotion.bash
+  341  grep tfidf *py
+  342  vi permotion.bash
+  343  chmod +x perm*bash
+  344  ./perm*
+  345  vi permotion.bash
+  346  ./perm*
+  347  ./perm* | grep '^key'
+  348  ./perm* | egrep '^key|^fea'
+  349  vi permotion.bash
+  350  ./perm* | egrep '^key|^fea'
+  351  ls
+  352  vi permotion.bash
+  353  ./perm* | egrep '^key|^fea'
+  354  grep key *py
+  355  ls *py
+  356  vi permotion.bash
+  357  ./perm* | egrep '^key|^fea'
+  358  vi permotion.bash
+  359  ./perm* | egrep '^key|^fea'
+  360  vi permotion.bash
+  361  ls pr*
+  362  ls -tl | head
+  363  more pre*py
+  364  grep key per*py
+  365  grep key *py
+  366  grep tfidf *py
+  367  python3 *py
+  368  find ~ -name '*deepsetmodel*' 
+  369  grep deepsetmodel *py
+  370  cp /scratchB/oqcardoso/predict_motion/per_motion_prediction/deepsetmodel.py .
+  371  python3 *py
+  372  ls -tl
+  373  python3 pred*py
+  374  find ~ -name both_pipe
+  375  find ~ -name '*both_pipe*'
+  376  find ../pipes
+  377  grep both-tfidf *py
+  378  ls ../pipes
+  379  grep pipes *py
+  380  ls
+  381  cd ..
+  382  mkdir llm
+  383  find ~ -name '*tutorial.py'
+  384  find ~ -name '*tutorial.ipynb'
+  385  cp /scratchB/oqcardoso/predict_motion/per_motion_prediction/llmclassificationtutorial.ipynb llm
+  386  cd llm
+  387  ls
+  388  python-nbconvert *nb
+  389  history | grep convert
+  390  jupyter-nbconvert --to-python *nb
+  391  history | grep nbc
+  392  ls *nb
+  393  jupyter-nbconvert --to-python *nb
+  394  jupyter nbconvert --to-python *nb
+  395  history | grep nbconv
+  396  jupyter nbconvert --to=python *nb
+  397  grep support *py
+  398  grep opposi *py
+  399  ls
+  400  ls ../per*/*bash
+  401  cp ../per*/*bach llm.bash
+  402  vi llm.bash
+  403  cp ../per*/*bash llm.bash
+  404  vi llm.bash
+  405  vi llm.bash
+  406  vi *py
+  407  vi llm.bash
+  408  ./llm.bash
+  409  ls *py
+  410  ./llm*py
+  411  python3 *py
+  412  ls ../dataset
+  413  ls ..
+  414  cp ../*.csv ../dataset
+  415  python3 *py
+  416  ls *bash
+  417  ls *py
+  418  vi *bash
+  419  vi *bash
+  420  ./*bash &
+  421  history | grep experiment
+  422  cd ../..
+  423  more exp*
+  424  grep key exp*
+  425  grep both experiments.py
+  426  grep both *ipynb
+  427  ls exp*
+  428  vi experiments.ipynb
+  429  find ~ -name experiments.ipynb
+  430  diff /scratchB/oqcardoso/motion_prediction/experiments.ipynb ex*nb
+  431  diff /scratchB/oqcardoso/motion_prediction/experiments.ipynb experiments.ipynb
+  432  cp /scratchB/oqcardoso/predict_motion/experiments.ipynb .
+  433  grep both ipynb
+  434  grep both *ipynb
+  435  history | grep nb
+  436  history | grep nbc
+  437  ls *nb
+  438  ls -tl *nb
+  439  jupyter nbconvert --to=python exp*nb
+  440  python3 exp*py
+  441  ls -l exp*py
+  442  python4 experiments.py
+  443  python3 experiments.py
+  444  ls *csv
+  445  ls dataset/*csv
+  446  ls
+  447  cd unsu*
+  448  ls
+  449  python3 ../experiments.py
+  450  history | grep llm
+  451  cd llm
+  452  ls
+  453  ls -tl
+  454  cd ..
+  455  ls
+  456  cd per*
+  457  ls
+  458  python3 deep*py
+  459  ls
+  460  ls -tl | head
+  461  history | grep python3
+  462  history | grep python3 | grep deep
+  463  ls -tl | head
+  464  more permotion.bash
+  465  python3 predict-motion.py
+  466  bg
+  467  jobs
+  468  ls
+  469  find .
+  470  history
+  471  cd
+  472  mkdir gvc-test
+  473  cd 
+  474  ls -tl
+  475  cd pr*ion
+  476  pwd
+  477  ls
+  478  find testset
+  479  ls
+  480  cp -a testset_TBD ~/*gvc*
+  481  cd
+  482  cd *gvc*
+  483  ls
+  484  cp ../p*n/folder2*py .
+  485  ls
+  486  ./folder2scv.py
+  487  python3 ./folder2scv.py
+  488  python3 folder2csv.py --folder_path *TBD --csv_type both
+  489  ls
+  490  python3 folder2scv.py --folder_path *TBD --csv_type both
+  491  ls -tl | head
+  492  mkdir unsummarized
+  493  mv *set.csv unsum*
+  494  python3 folder2scv.py --folder_path *TBD --csv_type both --summarize
+  495  ls
+  496  ls hist*
+  497  history > hist1
+  498  history | grep nbconv
+  499  history | grep llm
+  500  cd
+  501  ls
+  502  cd gvc-test
+  503  ls
+  504  ls -tl
+  505  rm ex*copy.py
+  506  rm expe*copy.ipynb
+  507  ls -tl
+  508  find . -name '*py'
+  509  find unsum*
+  510  find unsum* -name '*py'
+  511  cd ..
+  512  find . -name '*py'
+  513  find . -name '*py'
+  514  cd gvc-test
+  515  find . -name '*py'
+  516  ls
+  517  cd permotion
+  518  ls-tl
+  519  ls -tl
+  520  cd unsum*
+  521  ls
+  522  cd ..
+  523  cd unsum*
+  524  ls
+  525  cd permotion
+  526  ls
+  527  more *bash
+  528  ls
+  529  ls ..
+  530  ls ../predictions
+  531  wc ../predictions/*
+  532  top
+  533  ls -tl | head
+  534  cd ../predictions
+  535  ls
+  536  head Deep*
+  537  wc Deep*
+  538  cd ..
+  539  ls
+  540  cd permotion
+  541  ls
+  542  more *wandb
+  543  find .
+  544  cd wandb
+  545  ls
+  546  ls
+  547  more lat*
+  548  find lat*
+  549  cd lat*
+  550  ls
+  551  cd files
+  552  ls
+  553  more output.log
+  554               
+  555  ls
+  556  more output.log
+  557  more output.log
+  558  ls
+  559  cd ../..
+  560  cd ..
+  561  ls
+  562  cd ..
+  563  cd predictions
+  564  ls -tl
+  565  ls
+  566  cd ..
+  567  ls
+  568  ls *py
+  569  cd per*
+  570  ls
+  571  more permotion.bash
+  572  vi experiments.ipynb
+  573  vi permotion.bash
+  574  ./permotion.bash &
+  575  ls -l permotion.bash
+  576  ls -tl
+  577  vi permotion.bash
+  578  vi permotion.bash
+  579  ./permotion.bash &
+  580  ls-tl
+  581  ls -tl
+  582  more log.both*
+  583  top
+  584  ls ../pred*
+  585  cd ../pred*
+  586  ls
+  587  wc *csv
+  588  cd ..
+  589  ls
+  590  mkdir test_data
+  591  ls
+  592  find . -name '*csv'
+  593  ls -l *csv
+  594  wc *csv
+  595  diff testset.csv */testset.csv
+  596  history
+  597  history | grep ipynb
+  598  cd ..
+  599  ls hist*
+  600  history > hist2

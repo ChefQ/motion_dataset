@@ -1,0 +1,612 @@
+Case 2:15-cv-02926-DRH-SIL Document 18 Filed 10/28/15 Page 1 of 20 PageID #: 77
+
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF NEW YORK
+CAPRICORN MANAGEMENT SYSTEMS,
+INC.
+Plaintiff,
+
+Case No. 2:15-cv-02926-DRH-SIL
+
+v.
+GOVERNMENT EMPLOYEES
+INSURANCE CO.,
+Defendant.
+
+CAPRICORN MANAGEMENT SYSTEMS, INC.’S OPPOSITION TO GOVERNMENT
+EMPLOYEES INSURANCE CO.’S MOTION TO DISMISS COUNTS II AND III
+
+Case 2:15-cv-02926-DRH-SIL Document 18 Filed 10/28/15 Page 2 of 20 PageID #: 78
+
+TABLE OF CONTENTS
+Page
+I.
+
+FACTUAL BACKGROUND / INTRODUCTION ...............................................1
+
+II.
+
+CAPRICORN HAS PLED ADEQUATE FACTS TO STATE A
+PLAUSIBLE CLAIM FOR RELIEF .....................................................................8
+a. Plaintiff’s Complaint Adequately Identifies and Discloses it’s
+Claimed Trade Secrets .......................................................................9
+b. The Heightened Pleading Standard Proposed by GEICO is Not
+Supported by Case Law .....................................................................11
+c. Capricorn Has Adequately Pled Facts Establishing the
+Reasonable Efforts Undertaken to Maintain the Confidentiality
+of its Trade Secrets.............................................................................12
+d. Capricorn Has Adequately Pled Independent Economic Value
+of its Trade Secrets.............................................................................14
+
+III.
+
+CONCLUSION ........................................................................................................15
+
+i
+
+Case 2:15-cv-02926-DRH-SIL Document 18 Filed 10/28/15 Page 3 of 20 PageID #: 79
+
+TABLE OF AUTHORITIES
+Cases
+
+Page(s)
+
+Autodesk, Inc. v. Zwcad Software Co.,
+2015 U.S. Dist. LEXIS 63610 (N.D. Cal. May 13, 2015) ..................................................9
+Bell Atl. Corp. v. Twombly,
+550 U.S. 544, 570, 127 S. Ct. 1955, 1974, 167 L. Ed. 2d 929 (2007) ................................8
+Dealertrack, Inc. v. Huder,
+460 F. Supp.2d 1177, 1184 (C.D. Cal. 2006) ....................................................................13
+Dorset Ind. v. Unified Grocers, Inc.,
+893 F Supp 2d 395, 411 (E.D.N.Y. 2012) ..................................................................10, 14
+Gaetano Asocs. Ltd. v. Artee Collections, Inc.,
+2006 U.S. Dist. Lexis 77144 (S.D.N.Y. Oct. 25, 2006) ................................................9, 13
+GSI Tech. v. United Memories, Inc.,
+2014 U.S. Dist. LEXIS 54371 (N.D. Cal. Apr. 18, 2014) .................................................14
+Harris v. Mills,
+572 F.3d 66 (2d Cir. 2009) .............................................................................................8, 9
+Hertz Corp. v. City of New York,
+1 F.3d 121, 125 (2d Cir. 1993) ............................................................................................9
+IDX Sys. Corp. v. Epic Sys. Corp.,
+165 F. Supp 2d 812, 816 (W.D. Wis. 2001), aff’d 285 F.3d 581 (7th Cir. 2002) ) .........11
+IDX Sys. Corp. v. Epic Sys. Corp.,
+285 F.3d 581, 583 (7th Cir. 2002) ...................................................................................11
+In re NYSE Specialists Sec. Litig.,
+503 F.3d 89, 91 (2d Cir. 2007) ............................................................................................8
+LBF Travel v. Fareportal, Inc.,
+2014 U.S. Dist. LEXIS 156583 (S.D.N.Y. Nov. 5, 2014) ..........................................................5
+
+Leucadia, Inc. v. Applied Extrusion Techs., Inc.,
+755 F. Supp. 635, 636 (D. Del. 1991) ..............................................................................10
+
+Medtech Products, Inc. v. Ranir, LLC et al.,
+596 F. Supp. 2d 778, 789 (S.D.N.Y. 2008) .............................................................9, 12, 13
+ii
+
+Case 2:15-cv-02926-DRH-SIL Document 18 Filed 10/28/15 Page 4 of 20 PageID #: 80
+
+nexTUNE, Inc. v. McKinney,
+No. C12-1974 TSZ, 2013 U.S. Dist. LEXIS 13303 (W.D. Wash. Sept. 17, 2013) ..........12
+SBM Site Services., LLC v. Garrett,
+No. 10-cv-00385-WJM-BNB, 2012 U.S. Dist. LEXIS 24130 (D. Colo. Feb. 27, 2012) .12
+Superior Edge, Inc. v. Monsanto Co.,
+964 F. Supp. 2d 1017, 1042 (D. Minn 2012) .....................................................................14
+Wal-Mart Stores, Inc. v. Cuker Interactive, LLC,
+No. 5:14-CV-5262, 2014 WL 7070907 (W.D. Ark. Dec. 12, 2014) ................................12
+Zinermon v. Burch,
+494 U.S. 113, 118, 110 S. Ct. 975, 979, 108 L. Ed. 2d 100 (1990) .....................................8
+
+iii
+
+Case 2:15-cv-02926-DRH-SIL Document 18 Filed 10/28/15 Page 5 of 20 PageID #: 81
+
+The Plaintiff, Capricorn Management Systems (“Plaintiff”, “Capricorn”, or “CMS”)
+hereby submits its Brief in Opposition to Defendant Government Employees Insurance Co.’s
+(“Defendant” or “GEICO”) Motion to Dismiss Counts II and III.
+I.
+
+FACTUAL BACKGROUND / INTRODUCTION
+Plaintiff Capricorn Management Systems was founded on Long Island, New York by Dr.
+
+Charles Silberstein and his wife, Judith Silberstein. The husband and wife team have personally
+run and managed the day to day operations of the company since its inception. Capricorn was
+founded as part of National Dental Consultants, Ltd. (“NADENT”), an insurance claims
+adjusting company, also owned and operated by Dr. and Mrs. Silberstein.
+Approximately thirty-five years ago, GEICO and Capricorn began doing business
+together. At that time, NADENT was hired by GEICO to review and adjust motor vehicle no
+fault health service charges for GEICO, as the insurance company previously had no formalized
+review process in place. Back then, GEICO was nowhere near the size it is today. These were
+two relatively small companies cooperating toward a common goal in striving toward building a
+claims management system that would streamline and process health service charges (which is
+considerably larger today than thirty-five years ago).
+NADENT obtained an adjuster’s license in the State of New York and Capricorn (the
+software company) eventually developed and shared with GEICO a management system for
+reviewing and processing these bills according to the rules and regulations of New York State.
+This system created by CMS eventually developed into much more than a simple repricing tool
+to become a multi-faceted claims management and processing program which provides more
+than one hundred (100) specialized, unique functions over and above those mandated by New
+
+1
+
+Case 2:15-cv-02926-DRH-SIL Document 18 Filed 10/28/15 Page 6 of 20 PageID #: 82
+
+York State insurance laws and regulations. Indeed, for several decades GEICO and CMS
+worked together in good faith relying on each other’s good will.
+CMS’s Supercede (and its associated add-on modules) is a comprehensive claims
+management program used by GEICO which offers significant functions, including fraud
+detection, employee performance monitoring, and detection of abusive and/or fraudulent
+prescription of certain narcotic drugs. See DE 1 at ¶¶ 55-58. Some components of Supercede
+are used for adjusting claims in accordance with New York State guidelines, but its functionality
+extends far beyond this narrow scope. Supercede does significantly more than merely implement
+the state’s insurance fee adjustment guidelines as GEICO suggests. Additional functions were
+developed independently by Capricorn and are held in confidence as trade secrets. There are no
+state mandated guidelines for the organization of information and detection of abusive
+prescription of narcotic drugs, for instance; Supercede incorporates this function.
+For over thirty years, Plaintiff Capricorn has invested its time and resources in
+developing proprietary software through a series of systems and procedures to process, adjust
+and manage New York no fault health service charges. Capricorn licenses its software to
+insurance companies.
+
+Defendant GEICO is Capricorn’s oldest client, with a business
+
+relationship that has spanned more than three decades.
+During that time span, GEICO’s business grew exponentially. Its enormous clout and
+resources are evidenced by its ubiquitous advertising campaigns from the Gecko to the Caveman
+and numerous others. As the number of claims grew, so too did the continued improvements on
+Supercede to handle the growing workload and to process claims more efficiently, even in the
+increasingly complex area of the insurance and health service charges industry.
+
+2
+
+Case 2:15-cv-02926-DRH-SIL Document 18 Filed 10/28/15 Page 7 of 20 PageID #: 83
+
+For many years the two parties enjoyed a mutually beneficial arrangement, as recognized
+by GEICO when it awarded a “Certificate of Partnership Excellence” to Capricorn. See DE 1 at
+¶15. GEICO also honored one of Capricorn’s employees, Gerry DePace, with an Award of
+Excellence for his development and implementation of fraud detection software which GEICO
+credited with saving the company millions of dollars. Id. at ¶41.
+As GEICO continued to prosper, Capricorn and its Supercede program met the
+challenges. More recently, one of the challenges Capricorn has faced is a revolving door of
+management at GEICO, as Capricorn has dealt with a litany of different managers at GEICO
+regarding the Supercede program.
+At a certain point in 2005, GEICO sought to have the location of the Supercede source
+code transferred from Capricorn’s office and uploaded to GEICO’s servers at its headquarters in
+the Washington, D.C. area.
+
+Based on the longstanding amicable business relationship,
+
+Capricorn’s owners (Dr. and Mrs. Silberstein) trusted GEICO at its word and consented to
+installing Supercede code on GEICO’s servers, but only after they had been assured that
+Capricorn would continue to be GEICO’s sole software provider for processing and management
+of health service charges for the Woodbury, New York office, as well as other states throughout
+the country. CMS installed Supercede on GEICO’s servers under the assumption that Capricorn
+and GEICO’s long-standing business relationship would continue to grow and the two
+companies would move forward together.
+
+The parties signed a Non-Disclosure Agreement at
+
+the time the code was installed in the servers at GEICO’s headquarters. This agreement was
+reached to protect information relating to CMS’s operations, technology and systems which
+would now be readily available to GEICO on its own servers. To this day, Capricorn provides
+
+3
+
+Case 2:15-cv-02926-DRH-SIL Document 18 Filed 10/28/15 Page 8 of 20 PageID #: 84
+
+updates and new features in its Supercede system by providing upgrades which are submitted for
+approval to GEICO, and after approval reside on GEICO’s servers.
+Currently, CMS’s Supercede is a claims management software program used by GEICO
+in New York. See id. at ¶¶14, 16 and 22. GEICO’s use of the Supercede software is permitted
+through a Lease and Royalty Agreement, which was renewed most recently in 2013. Id. at ¶23.
+Pursuant to the 2013 renewal, the parties entered into a three year license agreement which is set
+to expire on August 31, 2016. Id. at ¶25. The Lease and Royalty Agreement limits GEICO’s
+use of the Supercede system to the State of New York. Id. at ¶29. The royalty fee paid by
+GEICO for use of the Supercede program in New York State amounts to hundreds of thousands
+of dollars per year. Id. at ¶26.
+Around the time the Lease and Royalty Agreement for the Supercede system was
+renewed in 2013, Capricorn learned that GEICO intended to implement a nationwide claims
+processing system without Capricorn. See id. at ¶61. This is despite the fact that GEICO knew
+Capricorn had the resources required to implement a national program. NADENT, a related
+company to Capricorn, had a network for claims adjustment for motor vehicle no fault and
+worker’s compensation health service charges for twenty four (24) different GEICO offices
+throughout the country, from as far away as California and Arizona and as far south as Florida
+and Louisiana on an as-needed basis. Therefore, GEICO’s representations that it chose to
+proceed with a different vendor because Capricorn “does not have the resources necessary to
+support a nationwide application” are not supported by the facts. See id.
+Capricorn learned that its Supercede system was preferred in New York by GEICO
+employees over other management systems which did not have the intricacies developed with
+thirty five years of experience processing and managing claims for motor vehicle no fault health
+
+4
+
+Case 2:15-cv-02926-DRH-SIL Document 18 Filed 10/28/15 Page 9 of 20 PageID #: 85
+
+service charges in New York. Supercede can be integrated on a nationwide scale. (Part of the
+reason that Supercede was moved onto servers in GEICO’s headquarters was the potential for
+implementation nationwide.)
+
+GEICO was fully aware of Supercede’s ability to be used
+
+nationwide. One of the successful modules is Capricorn’s Encovel Detection1 module which
+detects fraud through analysis of Nerve Conduction Velocity (“NCV”) tests. Id. at ¶¶ 34, 47.
+The integration, implementation, organization and management of this program resulted in a
+much touted complaint filed by GEICO in the State of New York for insurance fraud. See D.E.
+1 at ¶ 39. Later, Capricorn learned that another similar fraud complaint was filed in New Jersey.
+See D.E. 1 at ¶ 45. The research and development required for the Encovel Detection program
+made it quite clear that portions of Capricorn’s Supercede program were being used outside the
+scope of the License. It also became increasingly evident that Encovel was not the only portion
+of the Supercede program that was taken.
+Ever since the source code for the program was installed on its servers, GEICO has had
+direct access to Supercede, and it was easy for important proprietary portions of Supercede to be
+copied and incorporated into the ATLAS software.
+GEICO chose to proceed with ATLAS as its nationwide program. However, ATLAS did
+not have some of the features the Supercede program has. Now that integration into New York
+
+1
+
+GEICO’s discussion of the science behind the Nerve Conduction Velocity (“NCV”) fraud detection
+methodologies being publicly disclosed and known is of no consequence to Capricorn’s claims. As the
+Complaint makes clear, Capricorn does not claim any proprietary rights in the abstract idea of analyzing
+and comparing the NCV measurements to detect fraud. However, this information is provided in the
+Complaint to exhibit GEICO’s use of Capricorn’s proprietary Encovel Detection software, which
+executes the NCV analysis and comparisons for purposes of fraud detection, outside of the State of New
+York, thus violating the terms of its Lease and Royalty Agreement with Capricorn. This also supports
+Capricorn’s belief that GEICO has copied its proprietary information and incorporated it in GEICO’s new
+ATLAS claims management software. More importantly, a motion to dismiss must be decided based on
+the allegations of the complaint, and any discussion by the Defendant of extraneous facts or non-record
+evidence should not be considered by the Court. LBF Travel v. Fareportal, Inc., 2014 U.S. Dist. LEXIS
+156583, at *14-15 (S.D.N.Y. Nov. 5, 2014)
+
+5
+
+Case 2:15-cv-02926-DRH-SIL Document 18 Filed 10/28/15 Page 10 of 20 PageID #: 86
+
+has commenced, ATLAS incorporates many of Supercede’s features and functionalities,
+including Capricorn’s proprietary information and programs which have been found outside of
+Supercede and its modules. See e.g., id. at ¶62. These programs were clearly patterned after
+modules and portions of Capricorn’s Supercede program. GEICO stands to save untold millions
+of dollars by copying Capricorn’s software and adapting it for use in the other 49 states,
+Washington, D.C. and Puerto Rico. GEICO breached both the Non-Disclosure Agreement and
+the Lease and Royalty Agreement by incorporating parts of Capricorn’s Supercede program into
+ATLAS.
+Capricorn is now before the court seeking to be fairly compensated for GEICO’s
+contractual breaches and for GEICO’s misappropriation of Capricorn’s trade secrets. Capricorn
+has adequately pled its claims through detailed factual allegations which give rise to a claim for
+relief.
+GEICO’s Motion to Dismiss claims that Capricorn’s Complaint (D.E. 1) lacks specificity
+and does not provide fair notice to GEICO regarding the claims to determine their plausibility.
+Further GEICO alleges that the proprietary information lacks independent value and is not
+maintained confidentially as trade secrets.
+CMS’s Complaint alleges sufficient information including highly customized modules
+and methods for maximizing efficiency in the management and adjustment of claims (D.E. 1 at
+¶53), programs that enable the customization and automation of the claims management process
+(Id. at ¶55), programs that enable enhanced fraud detection as part of the claims management
+process (Id. at ¶56), programs that enable monitoring of the efficiency of GEICO employees (Id.
+at ¶57.), and enable the detection of abusive and/or fraudulent prescription of narcotic drugs (Id.
+at ¶58.), to provide more than adequate notice of its claim. GECIO’s claim of a lack of adequate
+
+6
+
+Case 2:15-cv-02926-DRH-SIL Document 18 Filed 10/28/15 Page 11 of 20 PageID #: 87
+
+notice of the trade secrets is disingenuous. The context and circumstances under which the NonDisclosure Agreement was signed provide ample evidence that proprietary information was
+provided (and continue to be updated and upgraded) when the software code was placed on
+GEICO’s servers. The specific provisions in the Complaint listed above provide additional
+adequate notice as to the trade secrets alleged. GEICO’s request for more specificity would
+result in full disclosure on the public record – thereby no longer maintaining their trade secret
+status.
+GEICO is also well aware these programs that comprise part of the Supercede system
+have value. They are paying for them. Further, they are blatantly willing to incorporate them
+into other systems in order to get the capabilities to fulfill their desire for a nationwide system.
+Sharing Capricorn’s proprietary information with developers who are creating a competing
+product is a glaring indication of the independent value of Capricorn’s Trade Secrets. Further,
+the Non-Disclosure Agreement signed by the parties evidences the efforts Capricorn has made to
+maintain secrecy.
+The background and context reveal what is really happening in this case. GEICO claims
+this is a last effort by Capricorn to extract a final windfall. See GEICO’s Motion To Dismiss
+(hereafter, “Motion”) at 1. The facts do not bear this out. The parties maintain a contract for the
+license of the Supercede program. Capricorn continues to derive other compensation through
+other services provided to GEICO. GEICO is a behemoth trying to steamroll over a small “mom
+and pop” operation by taking Capricorn’s proprietary trade secrets and assimilating what it needs
+to improve its nationwide claims management system and improve its application to the New
+York office.
+
+7
+
+Case 2:15-cv-02926-DRH-SIL Document 18 Filed 10/28/15 Page 12 of 20 PageID #: 88
+
+GEICO is aware that at the pleading stage there is a very low threshold to overcome a
+Motion To Dismiss on trade secret claims. The cases GEICO relies on are predominantly cases
+being decided on summary judgment on a full record. GEICO could have easily filed an Answer
+in this case to move it forward expeditiously and with less expense. It did not. Instead, it is
+trying to use its immense resources to force Capricorn, a much smaller company with far less
+resources, to relent and submit, accepting that GEICO will make it prohibitively expensive for
+Capricorn to be able to stop GEICO from misappropriating its trade secrets and software and
+implementing for GEICO’s benefit.
+GEICO’s motion to dismiss Claims II and III should therefore be denied.
+
+II.
+
+CAPRICORN HAS PLED ADEQUATE FACTS TO STATE A PLAUSIBLE
+CLAIM FOR RELIEF
+A complaint should be dismissed only if it does not contain enough allegations of fact to
+
+state a claim for relief that is "plausible on its face." Bell Atl. Corp. v. Twombly, 550 U.S. 544,
+570, 127 S. Ct. 1955, 1974, 167 L. Ed. 2d 929 (2007). In considering a motion to dismiss, the
+court must accept as true the factual allegations set forth in the complaint, and draw all
+reasonable inferences in the plaintiffs' favor. Zinermon v. Burch, 494 U.S. 113, 118, 110 S. Ct.
+975, 979, 108 L. Ed. 2d 100 (1990); In re NYSE Specialists Sec. Litig., 503 F.3d 89, 91 (2d Cir.
+2007).
+After Twombly, the Court's inquiry under Rule 12(b)(6) is guided by two principles.
+Harris v. Mills, 572 F.3d 66 (2d Cir. 2009) (citing Ashcroft v. Iqbal, 556 U.S. 662, 129 S. Ct.
+1937, 1949, 173 L. Ed. 2d 868 (2009)). "First, although 'a court must accept as true all of the
+allegations contained in a complaint,' that 'tenet' 'is inapplicable to legal conclusions,' and
+'[t]hreadbare recitals of the elements of a cause of action, supported by mere conclusory
+
+8
+
+Case 2:15-cv-02926-DRH-SIL Document 18 Filed 10/28/15 Page 13 of 20 PageID #: 89
+
+statements, do not suffice.'" Id. (quoting Iqbal, 129 S. Ct. at 1949). "'Second, only a complaint
+that states a plausible claim for relief survives a motion to dismiss' and '[d]etermining whether a
+complaint states a plausible claim for relief will ... be a context—specific task that requires the
+reviewing court to draw on its judicial experience and common sense.'" Id. (quoting Iqbal, 129 S.
+Ct. at 1950). Thus, "[w]hen there are well-pleaded factual allegations, a court should assume
+their veracity and ... determine whether they plausibly give rise to an entitlement of relief."
+Iqbal, 129 S. Ct. at 1950.
+Only if the complaint cannot state any set of facts that would entitle the plaintiff to relief
+should it be dismissed pursuant to Fed. R. Civ. P. 12(b)(6). Hertz Corp. v. City of New York, 1
+F.3d 121, 125 (2d Cir. 1993).
+
+a. Plaintiff’s Complaint Adequately Identifies and Discloses it’s Claimed Trade Secrets
+In order to survive a motion to dismiss, a plaintiff need not spell out the details of the
+trade secret but must identify the trade secret with sufficient particularity to give defendants
+reasonable notice of the issues which must be met at the time of trial and to provide reasonable
+guidance in ascertaining the scope of appropriate discovery. See Medtech Products, Inc. v.
+Ranir, LLC, 596 F. Supp. 2d 778, 789 (S.D.N.Y. 2008) (citing SD Protection, Inc. v. Del Rio,
+498 F. Supp. 2d 576, 586 (E.D.N.Y. 2007) (denying motion to dismiss where plaintiff alleged the
+existence of legitimate trade secrets, and making it clear that plaintiff “has no obligation to reveal
+those secrets in the Complaint simply to prove that they exist”); Gaetano Asocs. Ltd. v. Artee
+Collections, Inc., 2006 U.S. Dist. Lexis 77144, at *7 (S.D.N.Y. Oct. 25, 2006) (addressing
+argument that defendants’ trade secret misappropriation counterclaim failed to specify certain
+details, by stating that “[u]nder the notice pleading standard . . . defendants are not required to do
+so”)); Autodesk, Inc. v. Zwcad Software Co., 2015 U.S. Dist. LEXIS 63610, *14 (N.D. Cal. May
+
+9
+
+Case 2:15-cv-02926-DRH-SIL Document 18 Filed 10/28/15 Page 14 of 20 PageID #: 90
+
+13, 2015); Leucadia, Inc. v. Applied Extrusion Techs., Inc., 755 F. Supp. 635, 636 (D. Del.
+1991).
+In an analogous case, this Court denied a motion to dismiss a trade secret claim, finding
+that the Plaintiff’s identification of its confidential information as “checkout counter programs
+and its business model, plan-o-grams and designs, methods and procedures . . . including
+creating and designing the specific Program for [the defendant]” sufficient. Dorset Ind. v.
+Unified Grocers, Inc., 893 F Supp 2d 395, 411 (E.D.N.Y. 2012).
+Following the points clearly and plainly articulated in Dorset, the Complaint clearly sets
+forth a detailed definition of “Capricorn’s Trade Secret.”
+
+Paragraph 53 of the Complaint
+
+describes Capricorn’s Trade Secret as “highly customized modules and methods for maximizing
+efficiency in the management and adjustment of claims. . . “ See D.E. 1 at ¶ 53. The Complaint
+further defines “modules” as “programs that are add-ons to [CMS’s] Supercede system.” Id. at ¶
+19. The Complaint also discloses specific details of Capricorn’s Trade Secrets, as outlined
+below:
+
+
+
+
+
+Paragraph 55: “enable the customization and automation of the claims management
+process”;
+Paragraph 56: “enable enhanced fraud detection as part of the claims management
+process”;
+Paragraph 57: “enable monitoring of the efficiency of GEICO employees”;
+Paragraph 58: “enable the detection of abusive and/or fraudulent prescription of
+narcotic drugs.”
+
+These allegations disclose Capricorn’s Trade Secrets to a degree that surpasses the
+pleading standards set forth in Iqbal and Twombly. If the allegations in the Complaint are taken
+as true, GEICO’s unauthorized taking of CMS’ proprietary modules and methods gives rise to a
+reasonable inference that GEICO is liable for misappropriation of CMS’s trade secrets and a
+breach of the Non-Disclosure Agreement.
+
+10
+
+Case 2:15-cv-02926-DRH-SIL Document 18 Filed 10/28/15 Page 15 of 20 PageID #: 91
+
+b.
+
+The Heightened Pleading Standard Proposed by GEICO is Not Supported by Case
+Law
+
+GEICO urges this court to adopt a heightened pleading standard. But the cases on which
+it relies are not cases decided on a motion to dismiss, but are readily distinguishable on the
+grounds that they are dispositions of summary judgment motions. See Motion at 6-7 (citing Big
+Vision Private Ltd. v. E.I. DuPont de Nemours & Co, 1 F Supp 3d 224 (S.D.N.Y. 2014) (the
+court dismissed plaintiff’s claims at summary judgment due, in part, to plaintiff’s inability to
+provide a consistent, specific identification of its trade secret after extensive discovery); IDX Sys.
+Corp. v. Epic Sys. Corp., 285 F.3d 581, 583 (7th Cir. 2002) (affirming the lower court’s
+dismissal of trade secret claims at summary judgment due to plaintiff’s failure to specifically
+identify its trade secret after discovery).
+In IDX Sys. Corp. v. Epic Sys. Corp. the district court explicitly recognizes the different
+levels of specificity required for identifying trade secrets at the pleading stage, compared to
+summary judgment and trial. 165 F. Supp 2d 812, 816 (W.D. Wis. 2001), aff’d 285 F.3d 581
+(7th Cir. 2002). As the court explained, “[a]t the complaint stage, with its notice pleading
+requirements . . . plaintiff is not and cannot be expected to plead its trade secrets in detail.” Id.
+This is because “[s]uch a public disclosure would amount to an effective surrender of trade secret
+status.” Id. In contrast, by the summary judgment and trial stages, when protective orders are in
+place, the “plaintiff must describe its trade secrets in sufficient detail such that a reasonable jury
+could find that plaintiff established each element of a trade secret.” Id. at 817 (citing Trandes
+Corp. v. Guy F. Atkinson, 996 F.2d 655, 661 (4th Cir 1993)).
+This approach is consistent with decisions of courts across the country which have
+generally recognized the level of specificity in which plaintiff’s trade secret is described, is not
+
+11
+
+Case 2:15-cv-02926-DRH-SIL Document 18 Filed 10/28/15 Page 16 of 20 PageID #: 92
+
+high. See SBM Site Services., LLC v. Garrett, No. 2012 U.S. Dist. LEXIS 24130, *29 (D. Colo.
+Feb. 27, 2012) (denying defendant’s motion to dismiss, noting that “[c]ourts have only dismissed
+a claim for lack of specificity on the pleadings in the most extreme cases,” and citing as an
+example a complaint that merely recites the statutory language); nexTUNE, Inc. v. McKinney,
+2013 U.S. Dist. LEXIS 13303, at *13 (W.D. Wash. Sept. 17, 2013) (“the issue of whether
+Plaintiff’s documents contain trade secrets is not appropriate for review on a motion to dismiss. .
+.”). Dismissal has been denied even where the trade secret allegations are thin and provide little
+more than conclusory allegations or categorical descriptions of the claimed trade secret. See
+Wal-Mart Stores, Inc. v. Cuker Interactive, LLC, 2014 WL 7070907, at *5 (W.D. Ark. Dec. 12,
+2014); Medtech Prods., Inc., 596 F. Supp. 2d at 790.
+GEICO has no support for seeking to impose heightened specificity standards of a type
+which may prevail at trial and summary judgment, to the pleading stage.
+
+Its efforts are
+
+unsupported by any of the cases it cites. Under the appropriate notice pleading standard to be
+applied, as set forth in Fed. R. Civ. P. 8, and further construed by the U.S. Supreme Court in
+Iqbal and Twombly.
+
+Capricorn’s factual allegations set forth a plausible claim for relief.
+
+GEICO’s motion to dismiss should be denied.
+
+c. Capricorn Has Adequately Pled Facts Establishing the Reasonable Efforts
+Undertaken to Maintain the Confidentiality of its Trade Secrets
+Capricorn has also pled sufficient facts regarding its efforts to maintain the
+confidentiality of its trade secrets. GEICO has no support for its position to the contrary.
+Paragraph 53 of the Complaint explicitly alleges that Capricorn only disclosed its trade secrets to
+GEICO after GEICO executed a Non-Disclosure Agreement, which by itself is prima facie
+evidence that CMS has taken reasonable efforts to maintain secrecy. DE 1 at ¶ 53. Paragraphs
+
+12
+
+Case 2:15-cv-02926-DRH-SIL Document 18 Filed 10/28/15 Page 17 of 20 PageID #: 93
+
+59 and 60 go on to further clarify that these trade secrets are held in confidence by Capricorn,
+disclosed only to GEICO once such disclosure was under the protection of the aforementioned
+Non-Disclosure Agreement. Id. at ¶¶ 59-60. Capricorn has established its reasonable efforts to
+maintain the Trade Secrets and need not plead any more detailed facts at this stage. See Gaetano
+Assocs., 2006 U.S. Dist. LEXIS 77144, *7 (steps taken to preserve secrecy of the information
+need not be disclosed at the pleading stage).
+GEICO recites six factors which are relied on by the courts to determine whether
+particular information constitutes a trade secret. See Motion at 12. These factors include the
+extent to which the information is known outside of the business and the extent of measures
+taken to guard the secrecy of the information. But courts have held that these factors are
+“difficult to apply in the absence of discovery, making their consideration sometimes futile in the
+context of a motion to dismiss.” Medtech Prod., Inc., 596 F. Supp. 2d at 787 (citing SD
+Protection, Inc. v Del Rio, 498 F. Supp. 2d 576, 585-86 (E.D.N.Y. 2007) (“To consider these
+factors now [on a motion to dismiss] would be premature . . . Without discovery, I cannot
+possibly weigh the six factors. . .”)). Therefore, these factors should not form the basis for a
+motion to dismiss. See id.
+Capricorn has pled that it maintains its trade secrets in confidence. It has not shared its
+trade secrets with any third party except for GEICO and GEICO’s access to Capricorn’s trade
+secrets was limited by a Non-Disclosure Agreement. These factual allegations are sufficient at
+the pleading stage.
+
+See Gaetano Assocs., 2006 U.S. Dist. LEXIS 77144, *7; See also
+
+Dealertrack, Inc. v. Huder, 460 F. Supp.2d 1177, 1184 (C.D. Cal. 2006) (finding requirement
+that other corporation sign confidentiality agreements to be a reasonable step to ensure secrecy).
+
+13
+
+Case 2:15-cv-02926-DRH-SIL Document 18 Filed 10/28/15 Page 18 of 20 PageID #: 94
+
+d. Capricorn Has Adequately Pled the Independent Economic Value of its Trade Secrets
+Plaintiff CMS is “a software company that designs and provides applications for software
+for insurance companies,” such as GEICO. DE 1 at ¶ 12. The Supercede program and modules
+which comprise Capricorn’ Trade Secrets would certainly be valuable to any other insurance
+provider.
+
+Undoubtedly, the ability to monitor the efficiency of employees and detect the
+
+fraudulent prescription of narcotics would be a marketable product to any of GEICO’s
+competitors. Id. at ¶¶ 57, 58. By signing the Non-Disclosure Agreement, GEICO recognized
+that the software and information CMS provided to it were confidential and proprietary. GEICO
+also fails to mention the fact that it pays CMS hundreds of thousands of dollars annually to use
+Capricorn’s Supercede claims management system which defeats GEICO’s argument that these
+Trade Secrets have no value.
+At the pleading stage, Capricorn need not provide an explanation of the economic value
+of its Trade Secrets in great specificity. In fact, courts have declined to dismiss claims for trade
+secret misappropriation where the complaint alleges generally that the trade secret derived
+independent economic value from not being generally known. See Superior Edge, Inc. v.
+Monsanto Co., 964 F. Supp. 2d 1017, 1042 (D. Minn 2012) (value inferred from allegations that
+the information is not known or readily ascertainable); GSI Tech. v. United Memories, Inc., 2014
+U.S. Dist. LEXIS 54371 (N.D. Cal. Apr. 18, 2014) (motion to dismiss denied based on broad
+allegations that trade secret had independent economic value arising from its secrecy). Capricorn
+has alleged that its Trade Secrets derive independent economic value from not being generally
+known or readily ascertainable. See D.E. 1 at ¶74.
+The mere fact that Capricorn made certain customizations in the Supercede program for
+GEICO does not preclude the existence of a trade secret. In Dorset, the plaintiff had also
+
+14
+
+Case 2:15-cv-02926-DRH-SIL Document 18 Filed 10/28/15 Page 19 of 20 PageID #: 95
+
+disclosed in the complaint that the program in which it claimed trade secret protection was
+created specifically for the defendant. Dorset, 893 F. Supp. 2d at 411. Nonetheless, the court
+denied defendant’s motion to dismiss. Id. The mere fact that a program was designed for a
+particular customer does not eliminate the possibility of that program being protectable as a trade
+secret.
+Capricorn is financially harmed by third party access to its Trade Secrets in at least two
+ways. First, CMS has competitors who also offer insurance claims management systems. If
+those third party competitors obtained Capricorn’s proprietary information and know-how for
+free, these competitors can keep their bids lower as they avoid the costs associated with
+allocating resources and capital in research and development. In that way, competitors gain a
+valuable competitive advantage, resulting in loss to Capricorn.
+CMS’s Complaint also alleges that its Trade Secrets were disclosed and used by GEICO
+and third-parties to make competitive products to those of Capricorn (id. at ¶¶ 66-78), thereby
+allowing third party competitors to significantly lower bids for associated services, and
+consequently forcing Capricorn to lower its pricing.
+
+Id. at ¶¶ 79-85.
+
+These allegations,
+
+compounded by the facts that GEICO currently pays a licensing fee for these programs, and
+other insurance companies would value software that performs the same functions as Supercede,
+defeat GEICO’s position that Capricorn failed to allege an independent economic value of
+Capricorn’s Trade Secrets.
+
+III.
+
+CONCLUSION
+Capricorn’s well-pled Complaint sets forth detailed factual information regarding the
+
+existence of Capricorn’s Trade Secrets, as incorporated in the Supercede program, and the
+misappropriation of those trade secrets in violation of the Maryland Uniform Trade Secrets Act
+
+15
+
+Case 2:15-cv-02926-DRH-SIL Document 18 Filed 10/28/15 Page 20 of 20 PageID #: 96
+
+and the Non-Disclosure Agreement signed by both parties. Capricorn’s allegations provide
+GEICO with reasonable notice of its claims and the trade secrets.
+
+As such, Capricorn’s
+
+complaint satisfies the notice pleading standard of Fed. R. Civ. P. 8 and Iqbal and Twombly.
+GEICO’s motion to dismiss should be denied in its entirety.
+
+Respectfully submitted for Plaintiff,
+
+By:
+
+/Thomas P. Gulick/
+Jess M. Collen (JC 2875)
+Thomas P. Gulick (TG 5602)
+Kristen A. Mogavero (KM 9842)
+COLLEN IP
+The Holyoke-Manhattan Building
+80 South Highland Avenue
+Town of Ossining
+Westchester County, New York 10562
+(914) 941 5668
+(914) 941-6091 (facsimile)
+Attorneys for Capricorn Management Systems, Inc.
+
+Dated: October 14, 2015
+
+16
+
+

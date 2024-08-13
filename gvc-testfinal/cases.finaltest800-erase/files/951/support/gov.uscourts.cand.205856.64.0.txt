@@ -1,0 +1,1382 @@
+Google Inc. et al v. Egger et al
+
+1
+
+Doc. 64
+
+[SEE SIGNATURE PAGE FOR COUNSEL]
+
+2
+3
+4
+5
+6
+7
+8
+
+UNITED STATES DISTRICT COURT
+
+9
+
+NORTHERN DISTRICT OF CALIFORNIA
+
+10
+
+SAN JOSE DIVISION
+
+11
+12
+13
+
+GOOGLE INC., AOL LLC, YAHOO! INC., IAC
+SEARCH & MEDIA, INC., and LYCOS, INC.,
+Plaintiffs,
+
+14
+15
+16
+17
+18
+
+v.
+L. DANIEL EGGER, SOFTWARE RIGHTS
+ARCHIVE, LLC, and SITE TECHNOLOGIES,
+INC.,
+Defendants.
+
+Case No.
+
+C-08-03172-RMW
+
+PLAINTIFFS’ MOTION TO
+STRIKE SITE TECHNOLOGIES,
+INC.’S MOTION TO DISMISS,
+TRANSFER, OR STAY
+HEARING REQUESTED
+Date: February 27, 2009
+Time: 9:00 AM
+Judge: Hon. Ronald M. Whyte
+
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+PLAINTIFFS’ MOTION TO STRIKE SITE TECHNOLOGIES, INC.’S MOTION OT DISMISS, TRANSFER, OR STAY
+Case No. C-08-03172-RMW
+sf-2625079
+Dockets.Justia.com
+
+1
+
+TABLE OF CONTENTS
+
+2
+
+TABLE OF AUTHORITIES...........................................................................................................ii
+
+3
+
+NOTICE OF MOTION ................................................................................................................... 1
+
+4
+
+STATEMENT OF RELIEF REQUESTED .................................................................................... 1
+
+5
+
+STATEMENT OF ISSUES TO BE DECIDED.............................................................................. 2
+
+6
+
+I.
+
+INTRODUCTION............................................................................................................... 2
+
+7
+
+II.
+
+STATEMENT OF RELEVANT FACTS............................................................................ 3
+
+8
+
+A.
+
+Site Technologies’ Bankruptcy Estate, not SRA, Owns the Patents....................... 3
+
+9
+
+B.
+
+Site Technologies Files for Bankruptcy, and the Final Decree Issues
+Dissolving the Corporation. .................................................................................... 4
+
+C.
+
+Although No Longer the Responsible Person, Mr. Ait Continues to Take
+Actions Purportedly on the Bankruptcy Estate’s Behalf in Violation of the
+Plan, Such as Retaining SRA’s Counsel. ................................................................ 5
+
+D.
+
+Although the Bankruptcy Case Was Recently Reopened, SRA’s Counsel
+Have Not Requested Permission to Represent the Bankruptcy Estate, and
+Mr. Ait Has Not Sought Bankruptcy Court Approval to Resume His
+Former Role as Responsible Person. ....................................................................... 6
+
+10
+11
+12
+13
+14
+15
+
+III.
+
+16
+
+ARGUMENT ...................................................................................................................... 7
+A.
+
+No One with Authority Has Appointed SRA’s Counsel to Represent Site
+Technologies — Much Less File a Motion to Dismiss on Its Behalf. .................... 7
+
+B.
+
+Conflicts Rules Also Bar SRA’s Counsel’s Purported Joint Representation.......... 8
+
+17
+18
+IV.
+
+CONCLUSION ................................................................................................................. 10
+
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+PLAINTIFFS’ MOTION TO STRIKE SITE TECHNOLOGIES, INC.’S MOTION OT DISMISS, TRANSFER, OR STAY
+Case No. C-08-03172-RMW
+sf-2625079
+
+i
+
+1
+
+TABLE OF AUTHORITIES
+
+2
+
+Cases
+
+3
+
+Boskoff v. Yano,
+57 F. Supp. 2d 994 (D. Haw. 1998) .......................................................................................... 7
+
+4
+5
+6
+7
+8
+9
+
+CFTC v. Weintraub,
+471 U.S. 343 (1985) .................................................................................................................. 7
+Gaming v. Dorsey & Whitney, LLP,
+Case No. 06CV2804 BTM (WMC), 2008 U.S. Dist. LEXIS 80270
+(S.D. Cal. Sept. 30, 2008).......................................................................................................... 8
+Other Authorities
+
+10
+11
+
+California Rules of Professional Conduct
+Rule 3-310(c)............................................................................................................................. 8
+
+12
+13
+14
+15
+
+ABA Model Rules of Professional Conduct
+Rule 1.7 ..................................................................................................................................... 8
+Restatement (Third) of Law Governing Lawyers
+§ 14 (2000) ................................................................................................................................ 8
+
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+PLAINTIFFS’ MOTION TO STRIKE SITE TECHNOLOGIES, INC.’S MOTION OT DISMISS, TRANSFER, OR STAY
+Case No. C-08-03172-RMW
+sf-2625079
+
+ii
+
+1
+2
+3
+
+NOTICE OF MOTION
+TO ALL PARTIES AND TO THEIR ATTORNEYS OF RECORD:
+PLEASE TAKE NOTICE that on February 27, 2009 at 9:00 AM, or as soon thereafter as
+
+4
+
+the matter may be heard in the United States District Court for the Northern District of California,
+
+5
+
+Plaintiffs respectfully request the Court to hear Plaintiffs’ motion to strike Site Technologies,
+
+6
+
+Inc.’s motion to dismiss, transfer, or stay [Docket No. 42]. Plaintiffs’ motion is based on this
+
+7
+
+Notice of Motion and Motion with attached Opening Memorandum of Points and Authorities; the
+
+8
+
+Reply papers to be filed; the accompanying Declaration of Francis C. Ho in Support of Motion to
+
+9
+
+Strike; all papers and pleadings on file in this action; and such evidence and argument as may
+
+10
+
+properly be presented at or before the hearing on this matter.
+
+11
+
+STATEMENT OF RELIEF REQUESTED
+
+12
+
+Plaintiffs ask the Court to strike Defendants’ motion to dismiss, transfer, or stay this
+
+13
+
+proceeding, to the extent that it purports to be brought on behalf of Site Technologies, Inc.
+
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+PLAINTIFFS’ MOTION TO STRIKE SITE TECHNOLOGIES, INC.’S MOTION OT DISMISS, TRANSFER, OR STAY
+Case No. C-08-03172-RMW
+sf-2625079
+
+1
+
+1
+
+MEMORANDUM OF POINTS & AUTHORITIES
+
+2
+
+STATEMENT OF ISSUES TO BE DECIDED
+
+3
+
+Whether the Court should strike Defendants’ motion to dismiss, transfer, or stay this
+
+4
+
+proceeding, to the extent that the motion purports to be brought on behalf of Site Technologies,
+
+5
+
+Inc.
+
+6
+
+I.
+
+7
+
+INTRODUCTION
+On November 10, 2008, all three defendants in this action — Daniel Egger, Software
+
+8
+
+Rights Archive, LLC (“SRA”), and Site Technologies, Inc. (“Site Technologies”) (collectively,
+
+9
+
+“Defendants”) — moved to dismiss, transfer, or stay this proceeding. The motion was filed by
+
+10
+
+the same law firms representing SRA in this proceeding and in the co-pending proceeding in the
+
+11
+
+Eastern District of Texas.1
+
+12
+
+To the extent that SRA’s counsel purported to file the motion on Site Technologies’
+
+13
+
+behalf, the filing was improper. SRA’s counsel does not — and cannot — jointly represent Site
+
+14
+
+Technologies in this proceeding. There are at least two critical reasons for this:
+
+15
+
+First, no one with authority to authorize Site Technologies’ retention of SRA’s counsel
+
+16
+
+has done so. Site Technologies filed for bankruptcy in February 1999. The bankruptcy court
+
+17
+
+entered an order confirming a liquidating Chapter 11 plan on June 15, 2000. Under the plan,
+
+18
+
+Jeffrey Ait was appointed Responsible Person and charged with winding up Site’s bankruptcy
+
+19
+
+estate. The plan expressly stated that upon entry of a final decree closing the bankruptcy case,
+
+20
+
+Mr. Ait would be discharged from his duties and responsibilities as Responsible Person. The
+
+21
+
+bankruptcy court issued the Final Decree in January 2004, thereby (i) dissolving and terminating
+
+22
+
+Site Technologies’ existence as a corporation pursuant to the First Amended Plan of
+
+23
+
+Reorganization (“Plan”) and (ii) discharging Mr. Ait from his role as Responsible Person. While
+
+24
+
+the bankruptcy case was recently reopened, the bankruptcy court has not ordered that Site
+
+25
+26
+27
+
+1
+
+The law firms are: Smyser Kaplan & Veselka, P.C.; DiNovo Price Ellwanger & Hardy
+LLP; and Law Offices of Thomas Smegal (collectively, “SRA’s counsel”). Mr. Smegal has
+entered an appearance for Defendants only in this proceeding. The Smyser and DiNovo firms
+have entered appearances for Defendants and/or SRA both in this proceeding and in the copending Texas proceeding.
+
+28
+PLAINTIFFS’ MOTION TO STRIKE SITE TECHNOLOGIES, INC.’S MOTION OT DISMISS, TRANSFER, OR STAY
+Case No. C-08-03172-RMW
+sf-2625079
+
+2
+
+1
+
+Technologies be revived as a corporation, authorized SRA’s counsel’s joint representation of Site
+
+2
+
+Technologies’ bankruptcy estate, or appointed a new Responsible Person or other person as a
+
+3
+
+fiduciary for the estate’s beneficiaries with authority to retain SRA’s counsel.
+
+4
+
+Second, even assuming that SRA’s counsel had been appointed to represent the
+
+5
+
+bankruptcy estate, joint representation of both SRA and Site Technologies still would be
+
+6
+
+improper. SRA has alleged that it owns the three asserted patents in this case. Site Technologies’
+
+7
+
+bankruptcy estate also has a claim to ownership of the three patents for the benefit of the Plan’s
+
+8
+
+beneficiaries. In light of these competing claims, SRA’s and Site Technologies’ interests are
+
+9
+
+plainly adverse — if Site Technologies’ bankruptcy estate owns the patents, SRA cannot. The
+
+10
+
+ABA Model Rules of Professional Conduct and the California Rules of Professional
+
+11
+
+Responsibility bar joint representation in situations like this. Moreover, no one has sought the
+
+12
+
+consent of the estate’s Plan beneficiaries to abandon the estate’s rights to these patents.
+
+13
+
+Because SRA’s counsel does not and cannot represent Site Technologies’ bankruptcy
+
+14
+
+estate in this proceeding, the filing of Defendants’ motion to dismiss, stay, or transfer this
+
+15
+
+proceeding on behalf of all three Defendants was improper. Plaintiffs therefore ask that the Court
+
+16
+
+strike Defendants’ motion, to the extent that it purports to be brought on behalf of the Site
+
+17
+
+Technologies estate.
+
+18
+
+II.
+
+STATEMENT OF RELEVANT FACTS
+
+19
+
+A.
+
+20
+
+In its filings in this Court, SRA has alleged that it owns the three patents at issue in this
+
+Site Technologies’ Bankruptcy Estate, not SRA, Owns the Patents.
+
+21
+
+action.2 A gap in the chain of title from the inventors to SRA, however, prevents SRA from
+
+22
+
+owning the patents. Specifically:
+The named inventors assigned their rights in the asserted patents to Libertech Inc.3
+in 1993 and 1996;
+
+23
+24
+2
+
+25
+26
+
+See Defendants’ Motion to Dismiss, Transfer, or Stay under the First-to-File Rule, under
+Rule 12(b)(2) for Lack of Personal Jurisdiction, and under Rule 12(b)(1) for Lack of Subject
+Matter Jurisdiction (“Motion to Dismiss”) at 3 (Docket No. 42).
+3
+
+27
+28
+
+Libertech Inc. was later renamed “site/technologies/inc.” in 1996, and Deltapoint was
+renamed “Site Technologies, Inc.” in early 1998. To avoid confusion, this brief refers to either
+Libertech Inc. or site/technologies/inc. as “Libertech.” Similarly, this brief refers to Deltapoint,
+(Footnote continues on next page.)
+PLAINTIFFS’ MOTION TO STRIKE SITE TECHNOLOGIES, INC.’S MOTION OT DISMISS, TRANSFER, OR STAY
+Case No. C-08-03172-RMW
+sf-2625079
+
+3
+
+1
+
+Libertech and Site Technologies (then known as Deltapoint Inc.) executed a Stock
+Exchange Agreement in July 11, 1997,4 but whereas Libertech became and
+continued to exist as a subsidiary of Site Technologies after the transaction, Site
+Technologies never acquired title to the asserted patents in connection therewith;
+
+2
+3
+
+Despite not having obtained title to the patents from its subsidiary Libertech, Site
+Technologies purported to assign the patents back to Mr. Egger on September 16,
+1998;5 and
+
+4
+5
+
+Mr. Egger attempted to assign the patents to Software Rights Archive, Inc. (the
+predecessor to SRA) on February 22, 20056
+
+6
+7
+
+The true current owner of the three asserted patents is Site Technologies’ bankruptcy
+
+8
+9
+
+estate. The bankruptcy estate acquired the patents during the bankruptcy proceeding, when it
+
+10
+
+filed a certificate merging Libertech (Site Technologies’ subsidiary and then the owner of the
+
+11
+
+patents) with Site Technologies.7 This operated to vest the estate’s Plan beneficiaries with a
+
+12
+
+direct beneficial interest in the patents (as opposed to an interest in Libertech stock).
+
+13
+B.
+14
+
+Site Technologies Files for Bankruptcy, and the Final Decree Issues
+Dissolving the Corporation.
+
+15
+
+Site Technologies filed for bankruptcy in this District on February 2, 1999. The
+
+16
+
+bankruptcy court appointed Jeffrey Ait, the Chief Executive Officer of Site Technologies pre-
+
+17
+
+bankruptcy, as the Responsible Person for the Debtor.8 The bankruptcy court also approved the
+
+18
+19
+20
+
+(Footnote continued from previous page.)
+
+Inc., Site Technologies, Inc., or Site Technologies Inc.’s bankruptcy estate as “Site
+Technologies.”
+4
+
+21
+
+Stock Exchange Agreement, dated July 11, 1997 (attached as Ex. A to the Declaration of
+Francis C. Ho in Support of Motion to Strike (“Ho Decl.”)).
+
+22
+23
+
+5
+
+Bill of Sale, Assignment & License Agreement, dated September 16, 1998 (Ho Decl.
+
+6
+
+Assignment of Patent, dated February 22, 2005 (Ho Decl. Ex. C).
+
+Ex. B).
+
+24
+7
+
+25
+26
+27
+
+Certificate of Ownership and Merger Merging site/technologies/inc. into Site
+Technologies, Inc., dated December 21, 2000 (Ho Decl. Ex. D).
+8
+
+Order Appointing Natural Person as Responsible Person Pursuant to B.L.R. 4002-1,
+dated February 3, 1999 (Ho Decl. Ex. E). It is undisputed that Mr. Ait ceased to be the Chief
+Executive Officer of Site Technologies when it filed for bankruptcy.
+
+28
+PLAINTIFFS’ MOTION TO STRIKE SITE TECHNOLOGIES, INC.’S MOTION OT DISMISS, TRANSFER, OR STAY
+Case No. C-08-03172-RMW
+sf-2625079
+
+4
+
+1
+
+retention of Murray & Murray P.C. as bankruptcy counsel and Wilson, Sonsini, Goodrich &
+
+2
+
+Rosati as special corporate counsel.9 At no time during the bankruptcy proceeding, however, did
+
+3
+
+the bankruptcy court approve the retention of Smyser Kaplan & Veselka, P.C., DiNovo Price
+
+4
+
+Ellwanger & Hardy LLP, or Thomas Smegal for any purpose.
+
+5
+
+On June 15, 2000, the bankruptcy court confirmed the Plan.10 According to the Plan’s
+
+6
+
+plain terms, “the Debtor shall be dissolved and its corporate existence terminated without further
+
+7
+
+corporate action upon the entry of a Final Decree.”11 The Plan also provided that “[t]he
+
+8
+
+Responsible Person shall be discharged from all duties and responsibilities of the Plan upon the
+
+9
+
+issuance of the final decree.”12 On January 6, 2004, the bankruptcy court issued the Final Decree
+
+10
+
+dissolving Site Technologies and terminating its existence and Mr. Ait’s role as the Responsible
+
+11
+
+Person.13
+
+12
+
+C.
+
+13
+14
+
+Although No Longer the Responsible Person, Mr. Ait Continues to Take
+Actions Purportedly on the Bankruptcy Estate’s Behalf in Violation of the
+Plan, Such as Retaining SRA’s Counsel.
+
+Although Mr. Ait’s status as the Responsible Person ended on January 4, 2004 (and his
+
+15
+
+status as the CEO for Site Technologies years before that), Mr. Ait has continued to take multiple
+
+16
+
+actions purportedly on the bankruptcy estate’s behalf — all contrary to the confirmed bankruptcy
+
+17
+
+Plan and the Plan beneficiary’s interest, and all without seeking the bankruptcy court’s consent.
+
+18
+
+Each of these actions also has been adverse to the bankruptcy estate’s interests and to SRA’s
+
+19
+
+apparent benefit. For example, with the encouragement of SRA and despite his lack of authority
+
+20
+
+and contrary to the Plan, Mr. Ait:
+
+21
+9
+
+22
+23
+
+Order Authorizing and Approving Employment of Counsel, dated February 4, 1999 (Ho
+Decl. Ex. F); Order Authorizing and Approving Employment of Special Corporate Counsel
+(Wilson, Sonsini, Goodrich & Rosati), dated March 18, 1999 (Ho Decl. Ex. G).
+10
+
+24
+
+Order Confirming Debtor’s First Amended Plan of Reorganization, dated June 15, 2000
+(Ho Decl. Ex. H).
+
+25
+
+11
+
+Plan (Ho Decl. Ex. I) at § 7.9.
+
+26
+
+12
+
+Id. at § 7.3(F).
+
+27
+
+13
+
+Final Decree, dated January 6, 2004 (Ho Decl. Ex. J).
+
+28
+PLAINTIFFS’ MOTION TO STRIKE SITE TECHNOLOGIES, INC.’S MOTION OT DISMISS, TRANSFER, OR STAY
+Case No. C-08-03172-RMW
+sf-2625079
+
+5
+
+1
+
+attempted to revive Site Technologies on August 1, 2008;14
+
+2
+
+executed an assignment on August 13, 2008,15 in which he purported to “act[] as
+and remain[] the Chief Executive Officer of Site Technologies, Inc,” to “sell[],
+assign[] and transfer[] to Egger the entire right, title, and interest into and under
+the Patents to the extent they are now held by [Libertech and Site Technologies],”
+and to “ratify the 2005 Assignment executed by Daniel Egger conveying the
+Patents”—for $1,000! and
+
+3
+4
+5
+
+executed a declaration on August 18, 200816 purporting to “approve of and ratify
+the previous 1998 assignments and the 2005 Assignment to Daniel Egger filed on
+behalf of [Libertech] by Daniel Egger” on behalf of Site Technologies.
+
+6
+7
+8
+9
+
+For purposes of this motion, the most pertinent action taken without authority is Mr. Ait’s
+purported retention of SRA’s counsel to jointly represent Site Technologies’ bankruptcy estate.
+
+10
+
+Apparently with Mr. Ait’s consent — but without seeking the bankruptcy court’s approval or
+
+11
+
+consent of all parties-in-interest and beneficiaries of the bankruptcy estate, SRA’s counsel has
+
+12
+
+purported to represent Site Technologies in multiple filings before this Court. Most recently,
+
+13
+
+SRA’s counsel moved to dismiss, transfer, or stay this proceeding, purportedly on behalf of Mr.
+
+14
+
+Egger, SRA, and Site Technologies, on November 10, 2008.
+
+15
+
+D.
+
+16
+17
+18
+
+Although the Bankruptcy Case Was Recently Reopened, SRA’s Counsel Have
+Not Requested Permission to Represent the Bankruptcy Estate, and Mr. Ait
+Has Not Sought Bankruptcy Court Approval to Resume His Former Role as
+Responsible Person.
+
+On November 26, 2008, Sherwood Finance (Delaware), LLC (“Sherwood”), a beneficial
+
+19
+
+owner of 9% of Site Technologies’ bankruptcy estate, sought to reopen the closed bankruptcy
+
+20
+
+case in this District in light of the bankruptcy estate’s ownership of the patents.17 Judge Efremsky
+
+21
+
+granted Sherwood’s application to reopen the bankruptcy case on December 1, 2008 and held a
+
+22
+
+case management conference on December 17, 2008. At the conference, SRA’s counsel did not
+
+23
+14
+
+Statement of Information, dated August 1, 2008 (Ho Decl. Ex. K).
+
+15
+
+Assignment of Patents, dated August 13, 2008 (Ho Decl. Ex. L).
+
+16
+
+Declaration of Jeffrey Franklin Ait, dated August 18, 2008 (Ho Decl. Ex. M).
+
+24
+25
+26
+17
+
+27
+
+See Plaintiffs’ Notice of Reopening of Bankruptcy Case, filed December 10, 2008.
+Sherwood is allied with Yahoo! Inc. in the bankruptcy proceeding.
+
+28
+PLAINTIFFS’ MOTION TO STRIKE SITE TECHNOLOGIES, INC.’S MOTION OT DISMISS, TRANSFER, OR STAY
+Case No. C-08-03172-RMW
+sf-2625079
+
+6
+
+1
+
+seek permission to represent the bankruptcy estate, revive Site Technologies as a corporation, or
+
+2
+
+reinstate Mr. Ait as the Responsible Person. Instead, SRA’s counsel asked that the bankruptcy
+
+3
+
+court defer consideration of any issues relating to the bankruptcy estate’s administration until the
+
+4
+
+district judge in the related Texas proceeding decided a pending motion to dismiss.
+
+5
+
+III.
+
+6
+
+ARGUMENT
+A.
+
+7
+8
+9
+
+No One with Authority Has Appointed SRA’s Counsel to Represent Site
+Technologies — Much Less File a Motion to Dismiss on Its Behalf.
+
+Under the plain terms of the Plan, Mr. Ait’s role as the Responsible Person ended when
+the Final Decree was entered on January 4, 2004. Section 7.3(F) of the Plan clearly states, “The
+
+10
+
+Responsible Person shall be discharged from all duties and responsibilities of the Plan upon the
+
+11
+
+issuance of the final decree.” No one – including Mr. Ait – appears to dispute that he is no longer
+
+12
+
+the Responsible Person for Site Technologies’ bankruptcy estate or an officer of Site
+
+13
+
+Technologies.18
+
+14
+
+Because Mr. Ait is no longer an agent for Site Technologies, all of his actions on its behalf
+
+15
+
+after entry of the Final Decree are invalid.19 These include his purported appointment of SRA’s
+
+16
+
+counsel to represent Site Technologies and, most recently, his approval of SRA’s counsel’s filing
+
+17
+
+of the motion to dismiss, stay, or transfer on Site Technologies’ behalf. Because no one with
+
+18
+
+authority has authorized SRA’s counsel’s representation of Site Technologies, SRA’s counsel’s
+
+19
+
+attempts to jointly represent Site Technologies (and all acts taken pursuant to that purported joint
+
+20
+
+representation) also are invalid.20
+
+21
+22
+23
+24
+
+18
+
+Despite previously purporting to “act and remain” as the CEO of Site Technologies in
+his August 13, 2008 declaration (Ho Decl. Ex. M), Mr. Ait apparently has acknowledged the
+falsity of this representation and has not repeated it in a more recent declaration. See Third
+Declaration of Jeffrey Franklin Ait, dated December 8, 2008 (“I was the Chief Executive Officer
+of the debtor Site Technologies, Inc . . . . I was also the official ‘Responsible Person’ under the
+bankruptcy plan . . . .”) (emphasis added).
+19
+
+25
+26
+27
+28
+
+See CFTC v. Weintraub, 471 U.S. 343, 356 (1985) (“[A] corporation, as an inanimate
+entity, must act through agents.”).
+20
+
+See Boskoff v. Yano, 57 F. Supp. 2d 994, 998 (D. Haw. 1998) (“An attorney-client
+relationship is contractual and consensual, and such a relationship can be formed only with the
+consent of the attorney and individual seeking representation. The consent of the parties must be
+personal and must flow between the particular individuals, and a finding of an attorney-client
+(Footnote continues on next page.)
+PLAINTIFFS’ MOTION TO STRIKE SITE TECHNOLOGIES, INC.’S MOTION OT DISMISS, TRANSFER, OR STAY
+Case No. C-08-03172-RMW
+sf-2625079
+
+7
+
+1
+
+B.
+
+2
+
+Moreover, even assuming that SRA’s counsel had been appointed to represent the
+
+Conflicts Rules Also Bar SRA’s Counsel’s Purported Joint Representation.
+
+3
+
+bankruptcy estate, joint representation of both SRA and Site Technologies still would be
+
+4
+
+improper. SRA claims that it owns the three asserted patents in this case. Parties with an interest
+
+5
+
+in Site Technologies’ bankruptcy estate have alleged that the Site Technologies’ bankruptcy
+
+6
+
+estate owns the patents. These competing claims to the patents are clearly adverse.
+
+7
+
+Under the ABA Model Rules of Professional Conduct and the California Rules of
+
+8
+
+Professional Conduct, SRA’s counsel could not possibly represent both SRA and Site
+
+9
+
+Technologies here.21 Under Rule 1.7 of the ABA Model Rules of Professional Conduct:
+
+10
+
+[A] lawyer shall not represent a client if the representation involves
+a concurrent conflict of interest. A concurrent conflict of interest
+exists if:
+
+11
+12
+
+(1) the representation of one client will be directly adverse to
+another client; or
+
+13
+
+15
+
+(2) there is a significant risk that the representation of one or
+more clients will be materially limited by the lawyer’s
+responsibilities to another client, a former client or a third
+person or by a personal interest of the lawyer.
+
+16
+
+Likewise, under the Rule 3-310(C) of the California Rules of Professional Conduct:
+
+14
+
+17
+
+A member shall not, without the informed written consent of each
+client:
+
+18
+19
+20
+21
+22
+23
+24
+
+(Footnote continued from previous page.)
+
+relationship should not be based on the acts of an intermediary, because such a finding would be
+contrary to the fundamental principles of attorney-client representation.”); see also Gaming v.
+Dorsey & Whitney, LLP, Case No. 06CV2804 BTM (WMC), 2008 U.S. Dist. LEXIS 80270, at
+*15-16 (S.D. Cal. Sept. 30, 2008) (“An attorney-client relationship can only be formed through an
+express or implied contract for representation.”); Restatement (Third) of the Law Governing
+Lawyers § 14 (2000) (an attorney-client relationship requires either that a person manifest intent
+to hire the lawyer, combined with the lawyers express or implied consent, or that the lawyer be
+appointed by a tribunal to represent the person).
+21
+
+25
+26
+27
+
+Plaintiffs do not allege or mean to imply in any way that SRA’s counsel has acted
+unethically by claiming to jointly represent Site Technologies. Plaintiffs believe that SRA’s
+counsel is operating under a good faith, but incorrect, belief that Mr. Ait’s retention of them to
+represent Site Technologies is valid. Plaintiffs have conferred with SRA’s counsel about these
+issues. See, e.g., Letter from Richard S.J. Hung to Lee L. Kaplan, dated September 17, 2008 (Ho
+Decl. Ex. N).
+
+28
+PLAINTIFFS’ MOTION TO STRIKE SITE TECHNOLOGIES, INC.’S MOTION OT DISMISS, TRANSFER, OR STAY
+Case No. C-08-03172-RMW
+sf-2625079
+
+8
+
+1
+
+(1) Accept representation of more than one client in a matter in
+which the interests of the clients potentially conflict; or
+
+2
+(2) Accept or continue representation of more than one client in
+a matter in which the interests of the clients actually
+conflict; or
+
+3
+4
+
+(3) Represent a client in a matter and at the same time in a
+separate matter accept as a client a person or entity whose
+interest in the first matter is adverse to the client in the first
+matter.
+
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+None of the exceptions to these rules (e.g., for the ABA rules, a reasonable belief that “the
+lawyer will be able to provide competent and diligent representation to each affected client,” or
+for both the ABA and California rules, informed written consent) applies here. SRA’s counsel,
+without authorization to act on behalf of all parties with an interest in SRA’s bankruptcy estate,
+instead rejects out of hand that Site Technologies’ bankruptcy estate has an interest in the patents.
+SRA lacks Site Technologies’ consent to represent it (as Site Technologies the corporation no
+longer exists) and further lacks consent from the court and all interested parties to represent Site
+Technologies’ bankruptcy estate. For these reasons, as well, SRA’s counsel’s purported filing of
+the motion to dismiss, transfer, or stay on Site Technologies’ behalf also is invalid and must be
+stricken.
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+
+28
+PLAINTIFFS’ MOTION TO STRIKE SITE TECHNOLOGIES, INC.’S MOTION OT DISMISS, TRANSFER, OR STAY
+Case No. C-08-03172-RMW
+sf-2625079
+
+9
+
+1
+2
+
+IV.
+
+CONCLUSION
+It is undisputed that Mr. Ait is no longer the Responsible Person for Site Technologies and
+
+3
+
+cannot act on its behalf. Because no one with authority has retained (or could retain) SRA’s
+
+4
+
+counsel to jointly represent Site Technologies’ bankruptcy estate, Plaintiffs respectfully ask that
+
+5
+
+the Court strike Defendants’ motion to dismiss, transfer or stay, to the extent that the motion
+
+6
+
+purports to be brought on behalf of Site Technologies.
+
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+
+Dated: January 20, 2009
+
+Respectfully submitted,
+By: /s/ Juanita R. Brooks
+Juanita R. Brooks (SBN 75934,
+brooks@fr.com)
+Jason W. Wolff (SBN 215819,
+wolff@fr.com)
+FISH & RICHARDSON P.C.
+12390 El Camino Real
+San Diego, CA 92130
+Telephone: (858) 678-5070
+Facsimile: (858) 678-5099
+Thomas B. Walsh, IV (admitted pro hac
+vice)
+FISH & RICHARDSON P.C.
+5000 Bank One Center
+1717 Main Street
+Dallas, TX 75201
+Telephone: (214)747-5070
+Facsimile: (214) 747-2091
+Email: walsh@fr.com
+Jerry T. Yen (SBN 247988, yen@fr.com)
+FISH & RICHARDSON P.C.
+500 Arguello Street, Suite 500
+Redwood City, CA 94063
+Telephone: (650) 839-5070
+Facsimile: (650) 839-5071
+Attorneys for Plaintiffs GOOGLE INC. and
+AOL LLC
+
+25
+26
+27
+28
+PLAINTIFFS’ MOTION TO STRIKE SITE TECHNOLOGIES, INC.’S MOTION OT DISMISS, TRANSFER, OR STAY
+Case No. C-08-03172-RMW
+sf-2625079
+
+10
+
+1
+
+5
+
+By: /s/ Richard. S.J. Hung
+Michael A. Jacobs (CA Bar No. 111664)
+Richard S.J. Hung (CA Bar No. 197425)
+MORRISON & FOERSTER
+425 Market Street
+San Francisco, CA 94105
+Telephone: 415-268-7000
+Facsimile: 415-268-7522
+Email: mjacobs@mofo.com
+
+6
+
+Attorneys for Plaintiff YAHOO! INC.
+
+7
+
+By: /s/ Jennifer A. Kash
+Claude M. Stern (CA Bar No. 96737)
+Jennifer A. Kash (CA Bar No. 203679)
+QUINN EMANUEL URQUHART
+OLIVER & HEDGES, LLP
+555 Twin Dolphin Drive, Suite 560
+Redwood Shores, CA 94065
+Telephone: (650) 801-5000
+Facsimile: (650) 801-5100
+Email: claudestern@quinnemanuel.com
+Email:jenniferkash@quinnemanuel.com
+
+2
+3
+4
+
+8
+9
+10
+11
+12
+13
+
+Attorneys for Plaintiffs IAC SEARCH &
+MEDIA, INC. and LYCOS, INC.
+
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+PLAINTIFFS’ MOTION TO STRIKE SITE TECHNOLOGIES, INC.’S MOTION OT DISMISS, TRANSFER, OR STAY
+Case No. C-08-03172-RMW
+sf-2625079
+
+11
+
+1
+
+DECLARATION OF CONSENT
+
+2
+
+Pursuant to General Order No. 45, Section X(B) regarding signatures, I attest under
+
+3
+
+penalty of perjury that concurrence in the filing of this document has been obtained from counsel
+
+4
+
+for Plaintiffs Google Inc., AOL LLC, IAC Search & Media, Inc. and Lycos, Inc.
+
+5
+6
+
+Dated: January 20, 2009
+
+7
+8
+
+By:
+
+_/s/ Richard S.J. Hung___
+
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+PLAINTIFFS’ MOTION TO STRIKE SITE TECHNOLOGIES, INC.’S MOTION OT DISMISS, TRANSFER, OR STAY
+Case No. C-08-03172-RMW
+sf-2625079
+
+12
+
+

@@ -1,0 +1,33 @@
+wandb: Currently logged in as: oqcardoso. Use `wandb login --relogin` to force relogin
+wandb: wandb version 0.16.6 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.16.3
+wandb: Run data is saved locally in /scratchB/oqcardoso/gvc-testfinal/unsummarized/permotion/wandb/run-20240429_070938-oah3l6df
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run boths-tfidf-epochs:300-patience:100 epochs
+wandb: ⭐️ View project at https://wandb.ai/oqcardoso/DeepSets
+wandb: 🚀 View run at https://wandb.ai/oqcardoso/DeepSets/runs/oah3l6df
+  0%|          | 0/300 [00:00<?, ?it/s]
+  0%|          | 0/259.0 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "/scratchB/oqcardoso/gvc-testfinal/unsummarized/permotion/predict-motion-both.py", line 497, in <module>
+    avg_loss = train(
+               ^^^^^^
+  File "/scratchB/oqcardoso/gvc-testfinal/unsummarized/permotion/predict-motion-both.py", line 436, in train
+    optimizer.step()
+  File "/scratchB/oqcardoso/.pyenv/versions/3.11.4/lib/python3.11/site-packages/torch/optim/optimizer.py", line 385, in wrapper
+    out = func(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "/scratchB/oqcardoso/.pyenv/versions/3.11.4/lib/python3.11/site-packages/torch/optim/optimizer.py", line 76, in _use_grad
+    ret = func(self, *args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/scratchB/oqcardoso/.pyenv/versions/3.11.4/lib/python3.11/site-packages/torch/optim/adam.py", line 157, in step
+    has_complex = self._init_group(
+                  ^^^^^^^^^^^^^^^^^
+  File "/scratchB/oqcardoso/.pyenv/versions/3.11.4/lib/python3.11/site-packages/torch/optim/adam.py", line 113, in _init_group
+    state['exp_avg_sq'] = torch.zeros_like(p, memory_format=torch.preserve_format)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 5.78 GiB. GPU 1 has a total capacity of 23.64 GiB of which 4.33 GiB is free. Including non-PyTorch memory, this process has 19.31 GiB memory in use. Of the allocated memory 18.07 GiB is allocated by PyTorch, and 129.97 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+wandb: - 0.005 MB of 0.005 MB uploadedwandb: \ 0.005 MB of 0.010 MB uploadedwandb: | 0.010 MB of 0.010 MB uploadedwandb: 🚀 View run boths-tfidf-epochs:300-patience:100 epochs at: https://wandb.ai/oqcardoso/DeepSets/runs/oah3l6df
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20240429_070938-oah3l6df/logs
